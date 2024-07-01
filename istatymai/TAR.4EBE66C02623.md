@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2024-06-14 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-07-01
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -1194,9 +1194,10 @@ ADMINISTRACINIŲ NUOBAUDŲ IR ADMINISTRACINIO POVEIKIO PRIEMONIŲ SKYRIMAS
 1. Šio kodekso 610 straipsnyje nustatytais pagrindais surašant administracinį nurodymą:
 
 
-1) asmeniui siūloma sumokėti pusę minimalios baudos, nustatytos šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, o jei asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 414 straipsnio 1 dalyje, 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417 straipsnyje, 418 straipsnio 1 dalyje, 419 straipsnio 1 dalyje, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – minimalią baudą, nustatytą šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą; 
+1) asmeniui siūloma sumokėti pusę minimalios baudos, nustatytos šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, o jei asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 223 straipsnio 2 dalyje, 414 straipsnio 1 dalyje, 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417 straipsnyje, 418 straipsnio 1 dalyje, 419 straipsnio 1 dalyje, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – minimalią baudą, nustatytą šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-266, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08868
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -1232,9 +1233,10 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 
 
 
-2. Šio kodekso 612 straipsnyje numatytais atvejais administraciniu nurodymu siūlomos baudos dydis lygus pusei didžiausios minimalios baudos, o kai asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 414 straipsnio 1 dalyje, 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417 straipsnyje, 418 straipsnio 1 dalyje, 419 straipsnio 1 dalyje, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – didžiausia minimali bauda, nustatyta šio kodekso straipsniuose, pagal kuriuos kvalifikuojama asmens veika. Jeigu šio kodekso straipsniuose, pagal kuriuos kvalifikuojama asmens veika, numatyta administracinio poveikio priemonė – privalomas asmeniui suteiktos specialiosios teisės atėmimas, specialiosios teisės atėmimo trukmė lygi ilgiausiam šiuose straipsniuose nustatytam minimaliam skiriamo specialiosios teisės atėmimo terminui. 
+2. Šio kodekso 612 straipsnyje numatytais atvejais administraciniu nurodymu siūlomos baudos dydis lygus pusei didžiausios minimalios baudos, o kai asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 223 straipsnio 2 dalyje, 414 straipsnio 1 dalyje, 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417 straipsnyje, 418 straipsnio 1 dalyje, 419 straipsnio 1 dalyje, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – didžiausia minimali bauda, nustatyta šio kodekso straipsniuose, pagal kuriuos kvalifikuojama asmens veika. Jeigu šio kodekso straipsniuose, pagal kuriuos kvalifikuojama asmens veika, numatyta administracinio poveikio priemonė – privalomas asmeniui suteiktos specialiosios teisės atėmimas, specialiosios teisės atėmimo trukmė lygi ilgiausiam šiuose straipsniuose nustatytam minimaliam skiriamo specialiosios teisės atėmimo terminui. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-266, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08868
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -3495,20 +3497,51 @@ ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU ASMENS DARBO IR SOCIALINĖMIS TEISĖM
  
 
 
-95 straipsnis. Nelegalus darbas
+95 straipsnis. Nelegalus darbas 
 
 
-1. Nelegalus darbas 
-užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo vieno tūkstančio iki penkių tūkstančių eurų.
+1. Nelegalus darbas
+užtraukia baudą darbdaviui – fiziniam asmeniui nuo dviejų tūkstančių iki penkių tūkstančių eurų ir darbdavio – juridinio asmens vadovui ar kitam atsakingam asmeniui – nuo vieno tūkstančio penkių šimtų iki penkių tūkstančių eurų. 
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo penkių tūkstančių iki šešių tūkstančių eurų.
+užtraukia baudą nuo penkių tūkstančių iki šešių tūkstančių eurų.
+
+
+
+
+3. Nelegalus darbas atliekant statybos darbus 
+užtraukia baudą statytojui (užsakovui) – fiziniam asmeniui nuo penkių šimtų iki vieno tūkstančio vieno šimto eurų, statytojui (užsakovui) ar jo vienam įgaliotam rangovui – fiziniam asmeniui, kuris verčiasi ūkine komercine veikla, statytojo (užsakovo) ar jo vieno įgalioto rangovo – juridinio asmens vadovui – nuo vieno tūkstančio penkių šimtų iki penkių tūkstančių eurų. 
+
+
+
+
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą statytojui (užsakovui) – fiziniam asmeniui nuo vieno tūkstančio vieno šimto iki dviejų tūkstančių penkių šimtų penkiasdešimt eurų, statytojui (užsakovui) ar jo vienam įgaliotam rangovui – fiziniam asmeniui, kuris verčiasi ūkine komercine veikla, statytojo (užsakovo) ar jo vieno įgalioto rangovo – juridinio asmens vadovui – nuo penkių tūkstančių iki šešių tūkstančių eurų. 
+
+
+
+
+5. Nelegalus darbas atliekant statybos darbus, kai šiuos darbus atlieka trečiosios šalies pilietis,
+užtraukia baudą darbdaviui – fiziniam asmeniui nuo dviejų tūkstančių iki penkių tūkstančių eurų ir darbdavio – juridinio asmens vadovui ar kitam atsakingam asmeniui – nuo vieno tūkstančio penkių šimtų iki penkių tūkstančių eurų.
+
+
+
+
+6. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo penkių tūkstančių iki šešių tūkstančių eurų.
+
+
+
+
+7. Šiame straipsnyje trečiosios šalies pilietis suprantamas taip, kaip apibrėžiamas Lietuvos Respublikos užimtumo įstatyme. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2653, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09691
  
-
-
 
 
 
@@ -3560,21 +3593,9 @@ Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
 
 
 
-961 straipsnis. Lietuvos Respublikos užimtumo įstatyme nustatytų skaidriai dirbančių asmenų identifikavimo reikalavimų pažeidimas 
-
-
-1. Lietuvos Respublikos užimtumo įstatyme nustatytų skaidriai dirbančių asmenų identifikavimo reikalavimų pažeidimas 
-užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims, taip pat įmonės Lietuvos Respublikoje, priimančios užsieniečius laikinai dirbti, vadovui ar jo įgaliotam asmeniui nuo penkių šimtų iki vieno tūkstančio vieno šimto eurų. 
-
-
-
-
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims, taip pat įmonės Lietuvos Respublikoje, priimančios užsieniečius laikinai dirbti, vadovui ar jo įgaliotam asmeniui nuo vieno tūkstančio vieno šimto iki dviejų tūkstančių penkių šimtų penkiasdešimt eurų.
-
-
-Papildyta straipsniu:
-Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755
+961 straipsnis. Neteko galios nuo 2024-07-01
+Straipsnio naikinimas:
+Nr. XIV-2653, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09691
  
 
 
@@ -4145,33 +4166,33 @@ užtraukia baudą nuo dviejų tūkstančių septynių šimtų iki šešių tūks
 
 
 
-1191 straipsnis. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos projekto ir (ar) atlygio ataskaitos projekto neparengimas ir (ar) nepaskelbimas
+1191 straipsnis. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos projekto ir (ar) vadovybės ataskaitoje teikiamos informacijos apie atlygį projekto neparengimas ir (ar) nepaskelbimas
 
 
-1. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos ir (ar) atlygio ataskaitos nepaskelbimas viešai akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje 
+1. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos ir (ar) vadovybės ataskaitoje teikiamos informacijos apie atlygį (toliau – informacija apie atlygį) nepaskelbimas viešai akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje
 užtraukia baudą akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, vadovui nuo dviejų šimtų iki vieno tūkstančio eurų.
 
 
 
 
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo penkių šimtų iki vieno tūkstančio penkių šimtų eurų.
 
 
 
 
-3. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos projekto ir (ar) atlygio ataskaitos projekto neparengimas 
+3. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos projekto ir (ar) informacijos apie atlygį projekto neparengimas
 užtraukia baudą akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, vadovui nuo keturių šimtų aštuoniasdešimt iki trijų tūkstančių eurų.
 
 
 
 
-4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų. 
 
 
-Papildyta straipsniu:
-Nr. XIII-2251, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11170
+Straipsnio pakeitimai:
+Nr. XIV-2816, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12139
  
 
 
@@ -7208,38 +7229,38 @@ Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481
 223 straipsnis. Juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų ir registro duomenų pateikimo Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui ir skelbimo juridinio asmens ar užsienio juridinio asmens filialo interneto svetainėje tvarkos pažeidimas
 
 
-1. Neteisingų juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus finansines ataskaitas (konsoliduotąsias finansines ataskaitas), metinę ataskaitą, metinį pranešimą (konsoliduotąjį metinį pranešimą), veiklos ataskaitas, mokėjimų valdžios institucijoms ataskaitą (konsoliduotąją mokėjimų valdžios institucijoms ataskaitą), pelno mokesčio informacijos ataskaitą, duomenų ir kitos teiktinos informacijos pateikimas Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui arba juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus finansines ataskaitas (konsoliduotąsias finansines ataskaitas), metinę ataskaitą, metinį pranešimą (konsoliduotąjį metinį pranešimą), veiklos ataskaitas, auditoriaus išvadą, mokėjimų valdžios institucijoms ataskaitą (konsoliduotąją mokėjimų valdžios institucijoms ataskaitą), pelno mokesčio informacijos ataskaitą, duomenų ir kitos teiktinos informacijos nepateikimas Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui laiku teisės aktų nustatyta tvarka
-užtraukia baudą juridinių asmenų, jų filialų ar atstovybių, užsienio juridinių asmenų ar kitų organizacijų filialų ar atstovybių vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo trisdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+1. Neteisingų juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus šio straipsnio 3 ir 4 dalyse nurodytus dokumentus, duomenų ir kitos teiktinos informacijos pateikimas Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui, juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus šio straipsnio 2, 3 ir 4 dalyse nurodytus dokumentus, duomenų ir kitos teiktinos informacijos nepateikimas Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui laiku teisės aktų nustatyta tvarka
+užtraukia baudą juridinių asmenų, jų filialų ar atstovybių, užsienio juridinių asmenų ar kitų organizacijų filialų ar atstovybių vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
 
 
 
-2. Neteisingų juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo metinio pranešimo (konsoliduotojo metinio pranešimo), veiklos ataskaitų, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) pateikimas Juridinių asmenų registro tvarkytojui arba juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinės ataskaitos, metinio pranešimo (konsoliduotojo metinio pranešimo), veiklos ataskaitų, auditoriaus išvados, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka
+2. Juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), vadovybės ataskaitos (konsoliduotosios vadovybės ataskaitos), veiklos ataskaitos, metinės ataskaitos, auditoriaus išvados, tvarumo atskaitomybės užtikrinimo išvados nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka
 užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų organizacijų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
 
 
 
-3. Neteisingų juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinės ataskaitos pateikimas Juridinių asmenų registro tvarkytojui
+3. Neteisingų juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), vadovybės ataskaitos (konsoliduotosios vadovybės ataskaitos), veiklos ataskaitos, metinės ataskaitos, tvarumo ataskaitos (konsoliduotosios tvarumo ataskaitos) pateikimas Juridinių asmenų registro tvarkytojui, juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo tvarumo ataskaitos (konsoliduotosios tvarumo ataskaitos) ir, kai taikytina, pareiškimo arba kartu su vadovybės ataskaita teiktinos deklaracijos, nurodytų Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka, juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), vadovybės ataskaitos (konsoliduotosios vadovybės ataskaitos), veiklos ataskaitos, metinės ataskaitos, tvarumo ataskaitos (konsoliduotosios tvarumo ataskaitos) ir, kai taikytina, pareiškimo arba kartu su vadovybės ataskaita teiktinos deklaracijos, nurodytų Įmonių ir įmonių grupių atskaitomybės įstatyme, nepaskelbimas juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo interneto svetainėje laiku teisės aktų nustatytais atvejais ir tvarka
 užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų organizacijų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
 
 
 
-4. Neteisingos juridinio asmens pelno mokesčio informacijos ataskaitos pateikimas Juridinių asmenų registro tvarkytojui, pelno mokesčio informacijos ataskaitos nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka arba šios ataskaitos nepaskelbimas juridinio asmens ar užsienio juridinio asmens filialo interneto svetainėje laiku teisės aktų nustatytais atvejais ir tvarka
-užtraukia baudą juridinių asmenų, užsienio juridinių asmenų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+4. Neteisingos juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo pelno mokesčio informacijos ataskaitos, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) pateikimas Juridinių asmenų registro tvarkytojui, pelno mokesčio informacijos ataskaitos ir, kai taikytina, pareiškimo, nurodyto Įmonių ir įmonių grupių atskaitomybės įstatyme, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka, šių ataskaitų nepaskelbimas juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo interneto svetainėje laiku teisės aktų nustatytais atvejais ir tvarka
+užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų organizacijų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
 
 
 
 5. Šio straipsnio 3, 4 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
-užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų organizacijų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo dviejų tūkstančių iki šešių tūkstančių eurų.
- 
+užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų organizacijų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo dviejų tūkstančių iki šešių tūkstančių eurų. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1184, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09075
 Nr. XIV-2021, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11835
+Nr. XIV-2816, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12139
  
 
 
@@ -11331,10 +11352,11 @@ užtraukia baudą asmenims nuo vieno šimto iki trijų šimtų eurų ir juridini
 
 
 
-7. Gamtinių rezervatų, draustinių, gamtos paveldo objektų teritorijų arba valstybinių parkų ar biosferos rezervatų ir jų ribų planuose išskirtų gamtinių rezervatų ar draustinių, valstybiniuose parkuose ar biosferos rezervatuose esančių gamtos paveldo objektų teritorijų apsaugos ir naudojimo režimo pažeidimas
+7. Gamtinių rezervatų, draustinių, gamtos paveldo objektų teritorijų arba valstybinių parkų ar biosferos rezervatų ir jų ribų planuose išskirtų gamtinių rezervatų ar draustinių, valstybiniuose parkuose ar biosferos rezervatuose esančių gamtos paveldo objektų teritorijų, privačių saugomų vietovių apsaugos ir naudojimo režimo pažeidimas
 užtraukia baudą asmenims nuo trisdešimt iki vieno šimto penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki dviejų šimtų trisdešimt eurų.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
+Nr. XIV-2356, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25327
  
 
 
@@ -14281,21 +14303,21 @@ užtraukia baudą nuo trijų šimtų iki vieno tūkstančio keturių šimtų pen
 
 
 
-3621 straipsnis. Lietuvos Respublikos statybos įstatyme nustatytų statybvietėje esančių asmenų identifikavimo reikalavimų pažeidimas
+3621 straipsnis. Lietuvos Respublikos statybos įstatyme nustatytų statybvietėje esančių asmenų, išskyrus asmenis, atliekančius statybos darbus, identifikavimo reikalavimų pažeidimas
 
 
-1. Lietuvos Respublikos statybos įstatyme nustatytų statybvietėje esančių asmenų identifikavimo reikalavimų pažeidimas 
-užtraukia baudą statybvietėje esantiems darbuotojams, kitiems statybvietėje esantiems asmenims nuo penkiasdešimt iki vieno šimto penkiasdešimt eurų, rangovams ar statytojams (užsakovams) fiziniams asmenims, savarankiškai dirbantiems asmenims – nuo penkių šimtų iki vieno tūkstančio vieno šimto eurų ir rangovų ar statytojų (užsakovų) juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio vieno šimto iki dviejų tūkstančių penkių šimtų penkiasdešimt eurų. 
+1. Lietuvos Respublikos statybos įstatyme nustatytų statybvietėje esančių asmenų, išskyrus asmenis, atliekančius statybos darbus, identifikavimo reikalavimų pažeidimas
+užtraukia baudą statybvietėje esančiam asmeniui, išskyrus asmenį, atliekantį statybos darbus, nuo penkiasdešimt iki vieno šimto penkiasdešimt eurų, statytojui (užsakovui) ar jo vienam įgaliotam rangovui – fiziniam asmeniui – nuo penkių šimtų iki vieno tūkstančio vieno šimto eurų ar statytojo (užsakovo) ar jo vieno įgalioto rangovo – juridinio asmens vadovui ar kitam atsakingam asmeniui – nuo vieno tūkstančio vieno šimto iki dviejų tūkstančių penkių šimtų penkiasdešimt eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą statybvietėje esantiems darbuotojams, kitiems statybvietėje esantiems asmenims nuo vieno šimto penkiasdešimt iki dviejų šimtų penkiasdešimt eurų, rangovams ar statytojams (užsakovams) fiziniams asmenims, savarankiškai dirbantiems asmenims – nuo vieno tūkstančio vieno šimto iki dviejų tūkstančių penkių šimtų penkiasdešimt eurų ir rangovų ar statytojų (užsakovų) juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo keturių tūkstančių iki šešių tūkstančių eurų.
+užtraukia baudą statybvietėje esančiam asmeniui, išskyrus asmenį, atliekantį statybos darbus, nuo vieno šimto penkiasdešimt iki dviejų šimtų penkiasdešimt eurų, statytojui (užsakovui) ar jo vienam įgaliotam rangovui – fiziniam asmeniui – nuo vieno tūkstančio vieno šimto iki dviejų tūkstančių penkių šimtų penkiasdešimt eurų ar statytojo (užsakovo) ar jo vieno įgalioto rangovo – juridinio asmens vadovui ar kitam atsakingam asmeniui – nuo keturių tūkstančių iki šešių tūkstančių eurų. 
 
 
-Papildyta straipsniu:
-Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755
+Straipsnio pakeitimai:
+Nr. XIV-2653, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09691
  
 
 
@@ -20990,9 +21012,11 @@ Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
 
 
 
-3. Įrodymai gali būti renkami nedalyvaujant pareigūnui, kai administraciniai nusižengimai fiksuojami stacionariomis ar mobiliosiomis teisės pažeidimų fiksavimo sistemomis. 
+3. Įrodymai gali būti renkami nedalyvaujant pareigūnui, kai administraciniai nusižengimai fiksuojami stacionariomis, mobiliosiomis teisės pažeidimų fiksavimo sistemomis ar valstybės registruose naudojamomis programinėmis priemonėmis. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
+Straipsnio dalies pakeitimai:
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -22262,7 +22286,7 @@ Nr. XIV-1143, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13882
 
 
 
-58) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 471 straipsnyje, 72 straipsnio 3 dalyje, 95, 96, 961, 97, 98, 981, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 2, 11, 16, 19, 20, 21, 22 dalyse, 3081 straipsnio 4, 6, 7 dalyse, 3621 straipsnyje, 453 straipsnio 10, 11 dalyse, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3 dalyse numatytų administracinių nusižengimų; 
+58) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 471 straipsnyje, 72 straipsnio 3 dalyje, 95, 96, 97, 98, 981, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 2, 11, 16, 19, 20, 21, 22 dalyse, 3081 straipsnio 4, 6, 7 dalyse, 3621 straipsnyje, 453 straipsnio 10, 11 dalyse, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3 dalyse numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
@@ -22274,6 +22298,7 @@ Nr. XIII-2476, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16487
 Nr. XIII-2870, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09208
 Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755
 Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
+Nr. XIV-2653, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09691
  
 
 
@@ -22344,7 +22369,7 @@ Nr. XIV-1490, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22952
 
 
 
-66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 961, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 180, 187, 1871, 188, 1881, 1883, 1884, 189, 190, 191, 192, 194, 1981, 205, 207, 2071 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214 straipsnyje, 223 straipsnio 4, 5 dalyse, 224, 3621, 431, 449, 4491 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 180, 187, 1871, 188, 1881, 1883, 1884, 189, 190, 191, 192, 194, 1981, 205, 207, 2071 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 3621, 431, 449, 4491 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
@@ -22360,6 +22385,7 @@ Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
 Nr. XIV-2021, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11835
 Nr. XIV-1949, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09690
 Nr. XIV-2239, 2023-11-16, paskelbta TAR 2023-11-27, i. k. 2023-22830
+Nr. XIV-2653, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09691
  
 
 
@@ -23639,7 +23665,7 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 610 straipsnis. Administracinio nurodymo surašymo pagrindai ir jo įvykdymo padariniai
 
 
-1. Administracinis nurodymas – į administracinio nusižengimo protokolą įrašomas pasiūlymas asmeniui per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai administracinio nusižengimo protokolas su administraciniu nurodymu surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant, – per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos savo noru sumokėti baudą, lygią pusei minimalios baudos, o jei asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 414 straipsnio 1 dalyje, 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417 straipsnyje, 418 straipsnio 1 dalyje, 419 straipsnio 1 dalyje, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – minimalią baudą, nustatytą šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą. Kai šio kodekso specialiosios dalies straipsnyje, kuriame nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, nustatytas privalomas asmeniui suteiktos teisės vairuoti transporto priemones atėmimas, į administracinio nusižengimo protokolą įrašomas pasiūlymas sutikti su teisės vairuoti transporto priemones atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui. Kai šio kodekso specialiosios dalies straipsnyje, kuriame nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, nustatytas privalomas asmeniui suteiktos specialiosios teisės, išskyrus teisę vairuoti transporto priemones, atėmimas, į administracinio nusižengimo protokolą įrašomas pasiūlymas per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai administracinio nusižengimo protokolas su administraciniu nurodymu surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant, – per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos grąžinti specialiąją teisę patvirtinančius dokumentus atitinkamai institucijai (sutikti su specialiosios teisės atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui). 
+1. Administracinis nurodymas – į administracinio nusižengimo protokolą įrašomas pasiūlymas asmeniui per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai administracinio nusižengimo protokolas su administraciniu nurodymu surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant, – per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos savo noru sumokėti baudą, lygią pusei minimalios baudos, o jei asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 223 straipsnio 2 dalyje, 414 straipsnio 1 dalyje, 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417 straipsnyje, 418 straipsnio 1 dalyje, 419 straipsnio 1 dalyje, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – minimalią baudą, nustatytą šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą. Kai šio kodekso specialiosios dalies straipsnyje, kuriame nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, nustatytas privalomas asmeniui suteiktos teisės vairuoti transporto priemones atėmimas, į administracinio nusižengimo protokolą įrašomas pasiūlymas sutikti su teisės vairuoti transporto priemones atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui. Kai šio kodekso specialiosios dalies straipsnyje, kuriame nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, nustatytas privalomas asmeniui suteiktos specialiosios teisės, išskyrus teisę vairuoti transporto priemones, atėmimas, į administracinio nusižengimo protokolą įrašomas pasiūlymas per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai administracinio nusižengimo protokolas su administraciniu nurodymu surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant, – per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos grąžinti specialiąją teisę patvirtinančius dokumentus atitinkamai institucijai (sutikti su specialiosios teisės atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui). 
 Straipsnio dalies pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
@@ -23647,6 +23673,7 @@ Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 Nr. XIII-1969, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03167
 Nr. XIV-266, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08868
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -23660,10 +23687,11 @@ Nr. XIV-266, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08868
 
 
 
-2) asmuo per metus padarė pakartotinį administracinį nusižengimą, išskyrus šio kodekso 414 straipsnio 1 dalyje, 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417 straipsnyje, 418 straipsnio 1 dalyje, 419 straipsnio 1 dalyje, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje numatytus administracinius nusižengimus; 
+2) asmuo per metus padarė pakartotinį administracinį nusižengimą, išskyrus šio kodekso 223 straipsnio 2 dalyje, 414 straipsnio 1 dalyje, 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417 straipsnyje, 418 straipsnio 1 dalyje, 419 straipsnio 1 dalyje, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje numatytus administracinius nusižengimus; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 Nr. XIV-266, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08868
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -23746,9 +23774,11 @@ Nr. XIV-2076, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12586
 
 
 
-4. Už šio straipsnio 1 dalyje ir šio kodekso 187 straipsnio 1 ir 2 dalyse nurodytus administracinius nusižengimus administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas) gali būti automatiškai suformuojamas Administracinių nusižengimų registre. Automatiškai suformuotame administracinio nusižengimo protokole (nutarime) nurodoma: jo suformavimo data ir vieta, įstaigos, kurioje administracinio nusižengimo protokolas (nutarimas) buvo suformuotas, pavadinimas; duomenys apie administracinėn atsakomybėn traukiamą asmenį (asmens vardas, pavardė, asmens kodas, adresas, užsienio valstybių piliečių gimimo metai); administracinio nusižengimo padarymo vieta (gali būti nurodomos tik vietos koordinatės), laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už šį nusižengimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo; bylos nagrinėjimo data, laikas ir vieta, jei tai žinoma administracinio nusižengimo protokolo suformavimo metu (nutarime šie duomenys nenurodomi); kiti bylai išnagrinėti būtini duomenys. Šio kodekso 608 straipsnio 5 dalyje nustatyta tvarka priimtame nutarime taip pat nurodoma asmeniui skiriama nuobauda ir šio nutarimo apskundimo tvarka. Kai nėra šio kodekso 610 straipsnio 2 dalyje nurodytų pagrindų, administracinio nusižengimo protokole automatiškai suformuojamas šio kodekso 609 straipsnio 2 dalyje, 610 straipsnio 1 dalyje nurodyto turinio administracinis nurodymas. Automatiškai Administracinių nusižengimų registre suformuotas administracinio nusižengimo protokolas (nutarimas) nepasirašomas.
+4. Už šio straipsnio 1 dalyje ir šio kodekso 187 straipsnio 1 ir 2 dalyse, 223 straipsnio 2 dalyje nurodytus administracinius nusižengimus administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas) gali būti automatiškai suformuojamas Administracinių nusižengimų registre. Automatiškai suformuotame administracinio nusižengimo protokole (nutarime) nurodoma: jo suformavimo data ir vieta, įstaigos, kurioje administracinio nusižengimo protokolas (nutarimas) buvo suformuotas, pavadinimas; duomenys apie administracinėn atsakomybėn traukiamą asmenį (asmens vardas, pavardė, asmens kodas, adresas, užsienio valstybių piliečių gimimo metai); administracinio nusižengimo padarymo vieta (gali būti nurodomos tik vietos koordinatės), laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už šį nusižengimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo; bylos nagrinėjimo data, laikas ir vieta, jei tai žinoma administracinio nusižengimo protokolo suformavimo metu (nutarime šie duomenys nenurodomi); kiti bylai išnagrinėti būtini duomenys. Šio kodekso 608 straipsnio 5 dalyje nustatyta tvarka priimtame nutarime taip pat nurodoma asmeniui skiriama nuobauda ir šio nutarimo apskundimo tvarka. Kai nėra šio kodekso 610 straipsnio 2 dalyje nurodytų pagrindų, administracinio nusižengimo protokole automatiškai suformuojamas šio kodekso 609 straipsnio 2 dalyje, 610 straipsnio 1 dalyje nurodyto turinio administracinis nurodymas. Automatiškai Administracinių nusižengimų registre suformuotas administracinio nusižengimo protokolas (nutarimas) nepasirašomas.. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
+Nr. XIV-2748, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11253
  
 
 
@@ -26493,6 +26523,14 @@ Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
 
 
 
+441. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai. 
+Papildyta punktu:
+Nr. XIV-2653, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09691
+ 
+
+
+
+
 45. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1005/2009 dėl ozono sluoksnį ardančių medžiagų su paskutiniais pakeitimais, padarytais 2017 m. kovo 29 d. Komisijos reglamentu (ES) Nr. 2017/605.
 
 
@@ -28080,3 +28118,23 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 242, 268, 286 ir 589
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2684, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10822
 Lietuvos Respublikos administracinių nusižengimų kodekso 307 straipsnio pakeitimo įstatymas
+ 
+231.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2653, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09691
+Lietuvos Respublikos administracinių nusižengimų kodekso 95, 362-1, 589 straipsnių, priedo pakeitimo ir 96-1 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+232.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2748, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11253
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 33, 223, 321, 325, 327, 401, 413-1, 558, 560, 569, 578, 579, 589, 608, 609, 610, 611, 617, 618, 620, 621, 644, 664, 665 straipsnių, XXXIX skyriaus pavadinimo ir priedo pakeitimo ir 323 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIV-785 19 straipsnio pakeitimo įstatymas
+ 
+233.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2814, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12137
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 33, 223, 321, 325, 327, 401, 413-1, 558, 560, 569, 578, 579, 589, 608, 609, 610, 611, 617, 618, 620, 621, 644, 664, 665 straipsnių, XXXIX skyriaus pavadinimo ir priedo pakeitimo ir 323 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIV-785 3 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+234.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2816, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12139
+Lietuvos Respublikos administracinių nusižengimų kodekso 119-1 ir 223 straipsnių pakeitimo įstatymas
