@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2024-05-31 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-26, i. k. 1031010ISTA0IX-1904
  
@@ -445,27 +445,24 @@ Nedarbo draudimo išmoka, neišmokėta iki turėjusio į ją teisę asmens mirti
 15 straipsnis. Nedarbo draudimo išmokos grąžinimas
 
 
-1. Jeigu nedarbo draudimo išmoka buvo išmokėta bedarbiui, kuris dirbo nelegalų darbą, jis privalo grąžinti nedarbo draudimo išmoką už nelegalaus darbo laikotarpį. 
-TAR pastaba. 1 dalies nuostatos taikomos skiriant nedarbo socialinio draudimo išmokas asmenims, kurie įsiregistravo Užimtumo tarnyboje prie Socialinės apsaugos ir darbo ministerijos ir kuriems suteiktas bedarbio statusas po 2020 m. sausio 1 d., bei skiriant dalinio darbo išmokas asmenims, kuriems Lietuvos Respublikos darbo kodekso nustatyta tvarka darbdavio sprendimas nustatyti dalinį darbą įsigalioja po 2020 m. sausio 1 d.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
- 
+1. Jeigu nedarbo draudimo išmoka buvo išmokėta bedarbiui, kuris dirbo nelegalų darbą ar vykdė nedeklaruotą savarankišką veiklą, jis privalo grąžinti nedarbo draudimo išmoką už nelegalaus darbo ar nedeklaruotos savarankiškos veiklos laikotarpį.
+TAR pastaba: straipsnio 1 dalies nuostata dėl nedarbo socialinio draudimo išmokos grąžinimo, jeigu vykdyta nedeklaruota savarankiška veikla, taikoma bedarbiui, kuris vykdė nedeklaruotą savarankišką veiklą 2024 m. liepos 1 d. ar vėliau.
 
 
 
 
 2. Jeigu neteisėtai gauta nedarbo draudimo išmoka negrąžinama per 3 mėnesius nuo Valstybinio socialinio draudimo fondo valdybos teritorinio skyriaus kreipimosi į asmenį dėl susidariusios nedarbo draudimo išmokos permokos grąžinimo, permoka Valstybinio socialinio draudimo fondo valdybos teritorinio skyriaus direktoriaus sprendimu gali būti išieškota (išskaityta) iš bet kurios kitos Valstybinio socialinio draudimo fondo valdybos teritoriniame skyriuje jam paskirtos (mokamos) išmokos arba išieškoma Valstybinio socialinio draudimo įstatymo nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1340, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11436
+
+
+
+
+3. Išmokėtos nedarbo draudimo išmokos grąžinti nereikia, jeigu bedarbis, kuris dirba nelegalų darbą, apie tai praneša bent vienai iš Užimtumo įstatymo 55 straipsnyje nurodytų institucijų ir bendradarbiauja su šiomis institucijomis, kol jos priima nutarimą.
+TAR pastaba:  straipsnio 3 dalies nuostata dėl bedarbio bendradarbiavimo su Lietuvos Respublikos užimtumo įstatymo 55 straipsnyje nurodytomis institucijomis, kol jos priima nutarimą, taikoma bedarbiui, kuris atliko šiuos veiksmus 2024 m. liepos 1 d. ar vėliau.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2659, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09700
  
-
-
-
-
-3. Išmokėtos nedarbo draudimo išmokos grąžinti nereikia tuo atveju, jeigu bedarbis, kuris dirba nelegalų darbą, apie tai praneša bent vienai iš nelegalaus darbo kontrolę vykdančių institucijų. 
- 
-
-
 
 
 
