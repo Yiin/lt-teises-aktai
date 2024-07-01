@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-06-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-07-08
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -2455,11 +2455,12 @@ Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
 
 
 
-7. Gimnazijos tipui priskiriamos mokyklos, vykdančios švietimo, mokslo ir sporto ministro nustatyta tvarka akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programos antrąją dalį. Atskiru atveju (mokykla gyvenamosiose vietovėse, kuriose nėra kitų vidurinio ugdymo programą lietuvių ar (ir) tautinės mažumos kalba vykdančių bendrojo ugdymo mokyklų, arba bendrojo ugdymo mokykla, Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytais atvejais priskirta prie miesto pakraščio mokyklų; pasienio ruože esanti bendrojo ugdymo mokykla; nevalstybinė mokykla; mokykla, skirta šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių; mokykla, vykdanti specializuoto ugdymo krypties (pradinio, pagrindinio, vidurinio ugdymo kartu su dailės, muzikiniu, meniniu, sportiniu ar kitu ugdymu) programas, kurioms reikalingas ugdymo nuoseklumas (toliau – specializuoto ugdymo krypties programos), ir atitinkanti šio įstatymo 43 straipsnio 8 ir 9 dalyse nustatytus kriterijus; mokykla, kurioje ne mažiau kaip 15 procentų visų mokinių yra didelių ir labai didelių specialiųjų ugdymosi poreikių ir (ar) vidutinį ar sunkų neįgalumą turintys mokiniai; savivaldybės kadetų ugdymo mokykla, skirta šalies (regiono) mokiniams) gimnazija gali vykdyti akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programą ar akredituotą vidurinio ugdymo programą, pagrindinio ugdymo programą ir pradinio ugdymo programą, vadovaudamasi šio įstatymo 28 straipsnio nuostatomis ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis.
+7. Gimnazijos tipui priskiriamos mokyklos, vykdančios švietimo, mokslo ir sporto ministro nustatyta tvarka akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programos antrąją dalį. Atskiru atveju (mokykla gyvenamosiose vietovėse, kuriose nėra kitų vidurinio ugdymo programą lietuvių ar (ir) tautinės mažumos kalba vykdančių bendrojo ugdymo mokyklų, arba bendrojo ugdymo mokykla, Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytais atvejais priskirta prie miesto pakraščio mokyklų; pasienio ruože esanti bendrojo ugdymo mokykla; nevalstybinė mokykla; mokykla, skirta šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių; mokykla, vykdanti specializuoto ugdymo krypties (pradinio, pagrindinio, vidurinio ugdymo kartu su dailės, muzikiniu, meniniu, sportiniu ar kitu ugdymu) programas, kurioms reikalingas ugdymo nuoseklumas (toliau – specializuoto ugdymo krypties programos), ir atitinkanti šio įstatymo 43 straipsnio 8 ir 9 dalyse nustatytus kriterijus; mokykla, kurioje ne mažiau kaip 15 procentų visų mokinių yra didelių ir labai didelių specialiųjų ugdymosi poreikių ir (ar) vidutinį ar sunkų neįgalumą turintys mokiniai; savivaldybės ar valstybinė kadetų ugdymo mokykla, skirta šalies (regiono) mokiniams) gimnazija gali vykdyti akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programą ar akredituotą vidurinio ugdymo programą, pagrindinio ugdymo programą ir pradinio ugdymo programą, vadovaudamasi šio įstatymo 28 straipsnio nuostatomis ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2090, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07327
 Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 Nr. XIV-2310, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24178
+Nr. XIV-2678, 2024-06-06, paskelbta TAR 2024-06-07, i. k. 2024-10552
  
 
 
@@ -2539,7 +2540,10 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-2) Vyriausybė – Švietimo, mokslo ir sporto ministerijos teikimu – valstybinę kolegiją, profesinio mokymo įstaigą, neformaliojo švietimo mokyklą, pagalbos įstaigą, prireikus, vadovaudamasi šio įstatymo 43 straipsnio 8–14 dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, – bendrojo ugdymo mokyklą, Vyriausybės įstaigų, įstaigų prie ministerijų teikimu – neformaliojo suaugusiųjų švietimo mokyklą;
+2) Vyriausybė – Švietimo, mokslo ir sporto ministerijos teikimu – valstybinę kolegiją, profesinio mokymo įstaigą, neformaliojo švietimo mokyklą, pagalbos įstaigą, prireikus, vadovaudamasi šio įstatymo 43 straipsnio 8–14 dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, – bendrojo ugdymo mokyklą, Krašto apsaugos ministerijos teikimu, vadovaudamasi šio įstatymo 43 straipsnio 8, 10 ir 13 dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, – valstybinę kadetų ugdymo mokyklą, Vyriausybės įstaigų, įstaigų prie ministerijų teikimu – neformaliojo suaugusiųjų švietimo mokyklą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2678, 2024-06-06, paskelbta TAR 2024-06-07, i. k. 2024-10552
+ 
 
 
 
@@ -2716,7 +2720,9 @@ Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 
 
 
-10. Kadetų ugdymo programą savivaldybės kadetų ugdymo gimnazija gali vykdyti, jeigu atitinka šio straipsnio 8 dalyje nustatytus bendruosius kriterijus ir šiuos specialiuosius kriterijus:
+10. Kadetų ugdymo programą savivaldybės ar valstybinė kadetų ugdymo gimnazija gali vykdyti, jeigu atitinka šio straipsnio 8 dalyje nustatytus bendruosius kriterijus ir šiuos specialiuosius kriterijus: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2678, 2024-06-06, paskelbta TAR 2024-06-07, i. k. 2024-10552
 
 
 1) visų klasių mokiniai mokomi pagal bendrojo ugdymo programas ir kadetų ugdymo programą, suderintą su krašto apsaugos ministru ir patvirtintą švietimo, mokslo ir sporto ministro;
@@ -2793,7 +2799,10 @@ Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 
 
 
-3) jos steigimo, reorganizavimo, likvidavimo, pertvarkymo ir struktūros pertvarkos plano projektas suderintas su švietimo, mokslo ir sporto ministru
+3) šio straipsnio 9 ir 12 dalyse nurodytų mokyklų steigimo, reorganizavimo, likvidavimo, pertvarkymo ir struktūros pertvarkos plano projektas suderintas su švietimo, mokslo ir sporto ministru, o šio straipsnio 10 dalyje nurodytų savivaldybės kadetų ugdymo mokyklų – su švietimo, mokslo ir sporto ministru ir su krašto apsaugos ministru.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2678, 2024-06-06, paskelbta TAR 2024-06-07, i. k. 2024-10552
+ 
 
 
 Papildyta straipsnio dalimi:
@@ -5631,3 +5640,18 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 4, 40 ir 70 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2555, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07453
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5-1 ir 59 straipsnių pakeitimo įstatymas
+ 
+57.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2619, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08911
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2 ir 60 straipsnių pakeitimo įstatymas
+ 
+58.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2666, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09707
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 39 straipsnio pakeitimo įstatymas
+ 
+59.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2678, 2024-06-06, paskelbta TAR 2024-06-07, i. k. 2024-10552
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 41, 42 ir 43 straipsnių pakeitimo įstatymas
