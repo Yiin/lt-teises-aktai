@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2025-01-14
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -231,7 +231,10 @@ Nr. XIII-1861, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21886
 
 
 
-8) parenka atestuotą auditorių (toliau – auditorius) ar audito įmonę įmonės metinių finansinių ataskaitų rinkinio auditui atlikti;
+8) parenka atestuotą auditorių (toliau – auditorius), audito įmonę ir (arba) nepriklausomą tvarumo atskaitomybės užtikrinimo paslaugos teikėją (toliau – nepriklausomas užtikrinimo paslaugos teikėjas) įmonės metinių finansinių ataskaitų auditui ir (arba) vadovybės ataskaitoje teikiamos informacijos tvarumo klausimais patikrinimui, jeigu pateikti informaciją tvarumo klausimais vadovybės ataskaitoje privaloma pagal įstatymus, atlikti;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2826, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12148
+ 
 
 
 
@@ -647,7 +650,10 @@ Nr. XIV-1632, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26098
 
 
 
-2) teikia įmonės savininko teises ir pareigas įgyvendinančiai institucijai išvadas dėl įmonės veiklos strategijos projekto, dėl įmonės paskirstytinojo pelno (nuostolių) paskirstymo projekto, dėl įmonės metinių pajamų ir išlaidų sąmatų, metinių turto įsigijimo ir skolinimosi planų, taip pat dėl ataskaitinių finansinių metų įmonės veiklos ataskaitos;
+2) teikia įmonės savininko teises ir pareigas įgyvendinančiai institucijai išvadas dėl įmonės veiklos strategijos projekto, dėl įmonės paskirstytinojo pelno (nuostolių) paskirstymo projekto, dėl įmonės metinių pajamų ir išlaidų sąmatų, metinių turto įsigijimo ir skolinimosi planų, taip pat dėl ataskaitinių finansinių metų įmonės vadovybės ataskaitos;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2826, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12148
+ 
 
 
 
@@ -774,9 +780,11 @@ Nr. XIII-347, 2017-05-09, paskelbta TAR 2017-05-22, i. k. 2017-08565
 
 
 
-5. Įmonės vadovas negali būti tos įmonės vyriausiuoju buhalteriu (buhalteriu). Asmuo negali būti įmonės vadovu, jeigu:
+5. Asmuo negali būti įmonės vadovu, jeigu: 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-347, 2017-05-09, paskelbta TAR 2017-05-22, i. k. 2017-08565
+Straipsnio dalies pakeitimai:
+Nr. XIV-2826, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12148
  
 
 
@@ -859,7 +867,10 @@ Nr. XIII-347, 2017-05-09, paskelbta TAR 2017-05-22, i. k. 2017-08565
 
 
 
-6) įmonės veiklos ataskaitos parengimą;
+6) įmonės vadovybės ataskaitos parengimą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2826, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12148
+ 
 
 
 
@@ -1101,7 +1112,10 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 14 straipsnis. Įmonės finansinių ataskaitų rinkinys
 
 
-1. Įmonės finansinių ataskaitų rinkinys sudaromas buhalterinę apskaitą ir finansinę atskaitomybę reglamentuojančių teisės aktų nustatyta tvarka. 
+1. Įmonės finansinių ataskaitų rinkinys rengiamas finansinę apskaitą ir atskaitomybę reglamentuojančių teisės aktų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2826, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12148
+ 
 
 
 
@@ -1347,15 +1361,15 @@ Penktasis skirsnis
  
 
 
-16 straipsnis. Įmonės veiklos ataskaita 
+16 straipsnis. Įmonės vadovybės ataskaita
 
 
-1. Įmonės vadovas kartu su įmonės metinių finansinių ataskaitų rinkiniu valdybai, jeigu ji sudaroma, ir įmonės savininko teises ir pareigas įgyvendinančiai institucijai turi pateikti ataskaitinių finansinių metų įmonės veiklos ataskaitą. 
+1. Įmonės vadovas kartu su įmonės metinių finansinių ataskaitų rinkiniu valdybai, jeigu ji sudaroma, ir įmonės savininko teises ir pareigas įgyvendinančiai institucijai turi pateikti ataskaitinių finansinių metų įmonės vadovybės ataskaitą.
 
 
 
 
-2. Įmonės veiklos ataskaitoje turi būti nurodyta:
+2. Įmonės vadovybės ataskaitoje turi būti nurodyta:
 
 
 1) įmonės veiklos strategijos, įmonės veiklos tikslų įgyvendinimo rezultatai;
@@ -1415,72 +1429,46 @@ Penktasis skirsnis
 
 
 
-3. Įmonės, kurios laikomos viešojo intereso įmonėmis pagal Lietuvos Respublikos finansinių ataskaitų audito įstatymą ir kurių vidutinis metinis darbuotojų skaičius pagal sąrašą per ataskaitinius finansinius metus paskutinę tų metų dieną viršija 500, į veiklos ataskaitą įtraukia socialinės atsakomybės ataskaitą. Socialinės atsakomybės ataskaitos reikalavimus nustato Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymas. 
-TAR pastaba. 16 straipsnio 3 dalies nuostatos taikomas rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių socialinės atsakomybės ataskaitas.
-Papildyta straipsnio dalimi:
-Nr. XIII-1181, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09072
- 
+3. Didelės įmonės į vadovybės ataskaitą įtraukia informaciją tvarumo klausimais, kurios reikalavimus nustato Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymas.
 
 
 
 
-4. Įmonės veiklos ataskaitoje taip pat gali būti nurodyta informacija, kurią nustato įmonės savininko teises ir pareigas įgyvendinanti institucija. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1181, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09072
- 
+4. Įmonės vadovybės ataskaitoje taip pat gali būti nurodyta informacija, kurią nustato įmonės savininko teises ir pareigas įgyvendinanti institucija.
 
 
 
 
-5. Jeigu kuri nors iš šio straipsnio 2 dalyje nurodytos informacijos įmonėje laikoma komercine (gamybine) paslaptimi ar priskirta konfidencialiai informacijai, įmonės veiklos ataskaitoje tokia informacija nenurodoma ir paaiškinama, kodėl tokia informacija nenurodoma. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1181, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09072
- 
+5. Jeigu kuri nors iš šio straipsnio 2 dalyje nurodytos informacijos įmonėje laikoma komercine (gamybine) paslaptimi ar priskirta konfidencialiai informacijai, įmonės vadovybės ataskaitoje tokia informacija nenurodoma ir paaiškinama, kodėl tokia informacija nenurodoma.
 
 
 
 
-6. Įmonės veiklos ataskaita yra viešas dokumentas. Kartu su įmonės metinių finansinių ataskaitų rinkiniu ji turi būti pateikiama juridinių asmenų registrui ir per 4 mėnesius nuo finansinių metų pabaigos turi būti paskelbta įmonės interneto svetainėje.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1181, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09072
- 
+6. Įmonės vadovybės ataskaita yra viešas dokumentas. Kartu su įmonės metinių finansinių ataskaitų rinkiniu ji turi būti pateikiama juridinių asmenų registro tvarkytojui ir per 5 mėnesius nuo finansinių metų pabaigos turi būti paskelbta įmonės interneto svetainėje.
 
 
 Straipsnio pakeitimai:
 Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+Nr. XIV-2826, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12148
  
 
 
 
 
-17 straipsnis. Įmonės auditas 
+17 straipsnis. Įmonės finansinių ataskaitų auditas ir tvarumo atskaitomybės užtikrinimas
 
 
-1. Valstybės įmonės metinių finansinių ataskaitų rinkinį turi patikrinti auditorius ar audito įmonė pagal Finansinių ataskaitų audito įstatymo reikalavimus. Auditorius ar audito įmonė parenkami Lietuvos Respublikos viešųjų pirkimų įstatymo arba Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nustatyta tvarka. Sutartis sudaroma tarp auditoriaus ar audito įmonės, įmonės ir įmonės savininko teises ir pareigas įgyvendinančios institucijos. Audito paslaugas apmoka įmonė.
-TAR pastaba. 17 straipsnio 1 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių įmonių finansinių ataskaitų rinkinių auditams.
-Straipsnio dalies pakeitimai:
-Nr. XIII-333, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07556
-Nr. XIII-1181, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09072
- 
+1. Valstybės įmonės metinių finansinių ataskaitų rinkinį turi patikrinti auditorius ar audito įmonė pagal Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymo reikalavimus. Kai pagal šio įstatymo 16 straipsnio 3 dalį į valstybės įmonės vadovybės ataskaitą turi būti įtraukta informacija tvarumo klausimais, tvarumo atskaitomybės užtikrinimo paslaugos teikiamos pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą. Auditorius, audito įmonė, nepriklausomas užtikrinimo paslaugų teikėjas parenkami Lietuvos Respublikos viešųjų pirkimų įstatymo arba Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nustatyta tvarka. Sutartis sudaroma tarp auditoriaus, audito įmonės ar nepriklausomo užtikrinimo paslaugų teikėjo, valstybės įmonės ir valstybės įmonės savininko teises ir pareigas įgyvendinančios institucijos. Audito ir tvarumo atskaitomybės užtikrinimo paslaugas apmoka valstybės įmonė.
 
 
 
 
-2. Savivaldybės įmonės metinių finansinių ataskaitų rinkinį turi patikrinti auditorius ar audito įmonė pagal Finansinių ataskaitų audito įstatymo reikalavimus. Auditorius ar audito įmonė metinių finansinių ataskaitų rinkinio auditui atlikti parenkami Viešųjų pirkimų įstatymo arba Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nustatyta tvarka. Sutartis sudaroma tarp auditoriaus ar audito įmonės, įmonės ir savivaldybės vykdomosios institucijos. Audito paslaugas apmoka įmonė.
-TAR pastaba. 17 straipsnio 2 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių įmonių finansinių ataskaitų rinkinių auditams.
-Straipsnio dalies pakeitimai:
-Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
-Nr. XIII-333, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07556
-Nr. XIII-1181, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09072
- 
+2. Savivaldybės įmonės metinių finansinių ataskaitų rinkinį turi patikrinti auditorius ar audito įmonė pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymo reikalavimus. Kai pagal šio įstatymo 16 straipsnio 3 dalį į savivaldybės įmonės vadovybės ataskaitą turi būti įtraukta informacija tvarumo klausimais, tvarumo atskaitomybės užtikrinimo paslaugos teikiamos pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą. Auditorius, audito įmonė, nepriklausomas užtikrinimo paslaugų teikėjas metinių finansinių ataskaitų auditui atlikti parenkami Viešųjų pirkimų įstatymo arba Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nustatyta tvarka. Sutartis sudaroma tarp auditoriaus, audito įmonės ar nepriklausomo užtikrinimo paslaugų teikėjo, savivaldybės įmonės ir savivaldybės vykdomosios institucijos. Audito ir tvarumo atskaitomybės užtikrinimo paslaugas apmoka savivaldybės įmonė.
 
 
 
 
-3. Atlikus įmonės metinių finansinių ataskaitų rinkinio auditą, įmonei pateikiama auditoriaus išvada ir audito ataskaita.
-Straipsnio dalies pakeitimai:
-Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
- 
+3. Atlikus įmonės metinių finansinių ataskaitų auditą, įmonei pateikiama auditoriaus išvada ir audito ataskaita, o suteikus tvarumo atskaitomybės užtikrinimo paslaugas – tvarumo atskaitomybės užtikrinimo išvada.
 
 
 
@@ -1495,6 +1483,7 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 Straipsnio pakeitimai:
 Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr. 20-0 (2012-02-14), i. k. 1111010ISTA0XI-1752
+Nr. XIV-2826, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12148
  
 
 
@@ -2327,3 +2316,13 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 10
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2439, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26028
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 13 ir 15 straipsnių pakeitimo įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2635, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09671
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 6, 8, 18, 19 ir 22-1 straipsnių pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2826, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12148
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 4, 10, 11, 14, 16, 17 ir 25 straipsnių pakeitimo įstatymas
