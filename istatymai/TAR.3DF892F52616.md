@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3DF892F52616"
 
 # Lietuvos Respublikos vertybinių popierių įstatymas
 
-Suvestinė redakcija nuo 2022-12-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-12-20
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-626, i. k. 1071010ISTA00X-1023
  
@@ -105,12 +105,18 @@ Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
 
 
 
-11. Įmonės pusmečio pranešimas (toliau – pusmečio pranešimas) – įmonės pusmečio finansinių ataskaitų rinkinį (toliau – pusmečio finansinės ataskaitos) papildanti ataskaita, kurioje pateikiama informacija apie svarbiausius per pirmuosius 6 finansinių metų mėnesius įvykusius įvykius ir jų poveikį pusmečio finansinėms ataskaitoms kartu su pagrindinių rizikų ir neapibrėžtumų per ateinančius 6 finansinių metų mėnesius aprašymu. 
+11. Įmonės finansinių metų pirmojo pusmečio vadovybės ataskaita (toliau – pusmečio vadovybės ataskaita) – įmonės pusmečio ataskaita, kurioje pateikiama informacija apie svarbiausius per pirmuosius 6 finansinių metų mėnesius įvykusius įvykius ir jų poveikį įmonės finansinių metų pirmojo pusmečio finansinių ataskaitų rinkinio finansinėms ataskaitoms kartu su pagrindinių rizikų ir neapibrėžtumų per ateinančius 6 finansinių metų mėnesius aprašymu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
+ 
 
 
 
 
-12. Įmonių grupės konsoliduotasis pusmečio pranešimas (toliau – konsoliduotasis pusmečio pranešimas) – įmonių grupės pusmečio konsoliduotųjų finansinių ataskaitų rinkinį (toliau – pusmečio konsoliduotosios finansinės ataskaitos) papildanti ataskaita, kurioje pateikiama informacija apie svarbiausius per pirmuosius 6 finansinių metų mėnesius įvykusius įvykius ir jų poveikį pusmečio konsoliduotosioms finansinėms ataskaitoms kartu su pagrindinių rizikų ir neapibrėžtumų per ateinančius 6 finansinių metų mėnesius aprašymu.
+12. Įmonių grupės konsoliduotoji finansinių metų pirmojo pusmečio vadovybės ataskaita (toliau – konsoliduotoji pusmečio vadovybės ataskaita) – įmonių grupės pusmečio ataskaita, kurioje pateikiama informacija apie svarbiausius per pirmuosius 6 finansinių metų mėnesius įvykusius įvykius ir jų poveikį įmonių grupės finansinių metų pirmojo pusmečio konsoliduotųjų finansinių ataskaitų rinkinio finansinėms ataskaitoms kartu su pagrindinių rizikų ir neapibrėžtumų per ateinančius 6 finansinių metų mėnesius aprašymu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
+ 
 
 
 
@@ -325,7 +331,9 @@ Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
 
 
 
-45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (ES) 2017/1129, Finansinių priemonių rinkų įstatyme, Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme, Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Finansų įstaigų įstatyme.
+45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Reglamente (ES) 2017/1129, Finansinių priemonių rinkų įstatyme, Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos finansų įstaigų įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
  
 
 
@@ -601,39 +609,37 @@ PERIODINĖS IR EINAMOSIOS INFORMACIJOS ATSKLEIDIMAS
 12 straipsnis. Metinė informacija
 
 
-1. Metinę informaciją sudaro audituotos metinės finansinės ataskaitos, auditorių patikrintas įmonės metinis pranešimas (toliau – metinis pranešimas) ir atsakingų asmenų patvirtinimo, kad, jų žiniomis, metinės finansinės ataskaitos, sudarytos pagal taikomus apskaitos standartus, atitinka tikrovę ir teisingai rodo emitento turtą, įsipareigojimus, finansinę būklę, pelną arba nuostolius ir pinigų srautus, kad metiniame pranešime yra teisingai nurodyta verslo plėtros ir veiklos apžvalga, emitento būklė kartu su pagrindinių rizikų ir neapibrėžtumų, su kuriais susiduriama, aprašymu, dokumentas.
+1. Metinę informaciją sudaro audituotos metinės finansinės ataskaitos, auditorių ir (arba), kai taikytina, nepriklausomų tvarumo atskaitomybės užtikrinimo paslaugų teikėjų patikrinta įmonės metinė vadovybės ataskaita ir atsakingų asmenų pagal šio įstatymo 151 straipsnyje išdėstytus reikalavimus surašytas pareiškimas (toliau – atsakingų asmenų pareiškimas).
 
 
 
 
-2. Jeigu emitentas privalo sudaryti metines konsoliduotąsias finansines ataskaitas, metinę informaciją sudaro audituotos metinės konsoliduotosios finansinės ataskaitos, auditorių patikrintas įmonių grupės konsoliduotasis metinis pranešimas (toliau – konsoliduotasis metinis pranešimas) ir atsakingų asmenų patvirtinimo, kad, jų žiniomis, metinės konsoliduotosios finansinės ataskaitos, sudarytos pagal taikomus apskaitos standartus, atitinka tikrovę ir teisingai rodo įmonių grupės turtą, įsipareigojimus, finansinę būklę, pelną arba nuostolius ir pinigų srautus, kad konsoliduotajame metiniame pranešime yra teisingai nurodyta verslo plėtros ir veiklos apžvalga, emitento ir įmonių grupės būklė kartu su pagrindinių rizikų ir neapibrėžtumų, su kuriais susiduriama, aprašymu, dokumentas, taip pat patronuojančiosios įmonės audituotos metinės finansinės ataskaitos su pridėtu atsakingų asmenų patvirtinimo dokumentu ir patronuojančiosios įmonės metinis pranešimas. Rengiant konsoliduotąjį metinį pranešimą, patronuojančiosios įmonės metinis pranešimas gali būti sujungtas su konsoliduotuoju metiniu pranešimu.
+2. Jeigu emitentas privalo parengti metines konsoliduotąsias finansines ataskaitas, metinę informaciją sudaro audituotos metinės konsoliduotosios finansinės ataskaitos, auditorių ir (arba), kai taikytina, nepriklausomų tvarumo atskaitomybės užtikrinimo paslaugų teikėjų patikrinta įmonių grupės konsoliduotoji metinė vadovybės ataskaita (toliau – konsoliduotoji metinė vadovybės ataskaita) ir atsakingų asmenų pareiškimas, taip pat patronuojančiosios įmonės audituotos metinės finansinės ataskaitos, patronuojančiosios įmonės metinė vadovybės ataskaita ir atsakingų asmenų pareiškimas. Konsoliduotoji metinė vadovybės ataskaita gali būti sujungta su patronuojančiosios įmonės metine vadovybės ataskaita.
 
 
 
 
-3. Emitento, kurio išleisti vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje, metiniame pranešime turi būti nurodyta, kaip jis laikosi šios reguliuojamos rinkos operatoriaus patvirtinto bendrovių, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, valdymo kodekso. Jeigu tokių bendrovių valdymo kodekso ar kai kurių jo nuostatų nesilaikoma, metiniame pranešime turi būti konkrečiai nurodyta, kokių bendrovių valdymo kodekso nuostatų ir dėl kokių priežasčių nesilaikoma.
+3. Emitento, kurio išleisti vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje, metinėje vadovybės ataskaitoje turi būti nurodyta, kaip jis laikosi šios reguliuojamos rinkos operatoriaus patvirtinto bendrovių, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, valdymo kodekso. Jeigu tokių bendrovių valdymo kodekso ar kai kurių jo nuostatų nesilaikoma, metinėje vadovybės ataskaitoje turi būti konkrečiai nurodyta, kokių bendrovių valdymo kodekso nuostatų ir dėl kokių priežasčių nesilaikoma.
 
 
 
 
-4. Metinė informacija kartu su auditoriaus išvada, pasirašyta už auditą atsakingo auditoriaus (auditorių), turi būti paskelbta ir pateikta priežiūros institucijai ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos. Metinė informacija rengiama elektroniniu formatu, kaip tai nurodyta 2018 m. gruodžio 17 d. Komisijos deleguotajame reglamente (ES) 2019/815, kuriuo Europos Parlamento ir Tarybos direktyva 2004/109/EB papildoma techniniais reguliavimo standartais, kuriais nustatomas vienas elektroninio ataskaitų teikimo formatas, su visais pakeitimais.
-TAR pastaba. 12 straipsnio 4 dalies nuostatos taikomos rengiant 2021-01-01 ir vėliau prasidėsiančių finansinių metų metinę informaciją.
-Straipsnio dalies pakeitimai:
-Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
+4. Metinė informacija kartu su auditoriaus išvada, pasirašyta už auditą atsakingo auditoriaus (auditorių), kartu su tvarumo atskaitomybės užtikrinimo išvada, pasirašyta už tvarumo atskaitomybės užtikrinimą atsakingo auditoriaus (auditorių) arba tvarumo atskaitomybės užtikrinimo specialisto (specialistų), kai vadovybės ataskaitoje turi būti pateikta informacija tvarumo klausimais pagal Įmonių ir įmonių grupių atskaitomybės įstatymą, turi būti paskelbtos Įmonių ir įmonių grupių atskaitomybės įstatymo ir šio įstatymo nustatyta tvarka ir pateiktos priežiūros institucijai ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos. Metinė informacija rengiama elektroniniu formatu, kaip tai nurodyta 2018 m. gruodžio 17 d. Komisijos deleguotajame reglamente (ES) 2019/815, kuriuo Europos Parlamento ir Tarybos direktyva 2004/109/EB papildoma techniniais reguliavimo standartais, kuriais nustatomas vienas elektroninio ataskaitų teikimo formatas, su visais pakeitimais.
+
+
+
+
+5. Lietuvos Respublikoje įsteigtų emitentų finansinė apskaita turi būti tvarkoma ir metinės finansinės ataskaitos ir metinės konsoliduotosios finansinės ataskaitos turi būti parengtos taip, kad atitiktų finansinės apskaitos ir finansinių ataskaitų rengimo reikalavimus. Valstybėse narėse įsteigtų emitentų metinės finansinės ataskaitos ir metinės konsoliduotosios finansinės ataskaitos turi būti parengtos taip, kad atitiktų valstybės narės, kurioje įsteigtas emitentas, nacionaliniuose teisės aktuose tokioms ataskaitoms nustatytus reikalavimus. Ne valstybėse narėse įsteigtų emitentų metinės finansinės ataskaitos ir metinės konsoliduotosios finansinės ataskaitos turi būti parengtos vadovaujantis tarptautiniais finansinės atskaitomybės standartais arba jiems lygiaverčiu būdu.
+
+
+
+
+6. Priežiūros institucija detalizuoja Įmonių ir įmonių grupių atskaitomybės įstatyme nustatytų reikalavimų, taikomų emitentų metinei vadovybės ataskaitai ir konsoliduotajai metinei vadovybės ataskaitai, turinį ir šiame straipsnyje nurodytos informacijos paskelbimo ir pateikimo priežiūros institucijai tvarką.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
  
-
-
-
-
-5. Lietuvos Respublikoje įsteigtų emitentų buhalterinė apskaita turi būti tvarkoma ir metinės finansinės ataskaitos ir metinės konsoliduotosios finansinės ataskaitos turi būti sudaromos vadovaujantis Lietuvos Respublikos teisės aktų nustatytais buhalterinės apskaitos ir finansinių ataskaitų sudarymo reikalavimais. Valstybėse narėse įsteigtų emitentų metinės finansinės ataskaitos ir metinės konsoliduotosios finansinės ataskaitos turi būti sudaromos vadovaujantis valstybės narės, kurioje įsteigtas emitentas, nacionalinių teisės aktų reikalavimais. Ne valstybėse narėse įsteigtų emitentų metinės finansinės ataskaitos ir metinės konsoliduotosios finansinės ataskaitos turi būti sudaromos vadovaujantis tarptautiniais apskaitos standartais arba bendrai priimtais buhalterinės apskaitos principais. 
-
-
-
-
-6. Priežiūros institucija nustato reikalavimų, taikomų emitentų metiniam pranešimui ir konsoliduotajam metiniam pranešimui, turinį ir šiame straipsnyje nurodytos informacijos paskelbimo ir pateikimo priežiūros institucijai tvarką.
- 
-
-
 
 
 
@@ -641,30 +647,32 @@ Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
 13 straipsnis. Pusmečio informacija
 
 
-1. Pusmečio informaciją sudaro finansinių metų pirmojo pusmečio finansinių ataskaitų rinkinys (toliau – pusmečio finansinės ataskaitos), pusmečio pranešimas ir emitento atsakingų asmenų patvirtinimo, kad, jų žiniomis, pusmečio finansinės ataskaitos, sudarytos pagal taikomus apskaitos standartus, atitinka tikrovę ir teisingai parodo emitento turtą, įsipareigojimus, finansinę būklę, pelną arba nuostolius ir pinigų srautus, kad pusmečio pranešime yra teisingai nurodyta verslo plėtros ir veiklos apžvalga, emitento būklė kartu su pagrindinių rizikų ir neapibrėžtumų, su kuriais susiduriama, aprašymu, dokumentas.
+1. Pusmečio informaciją sudaro įmonės finansinių metų pirmojo pusmečio finansinių ataskaitų rinkinys (toliau – pusmečio finansinės ataskaitos), pusmečio vadovybės ataskaita ir emitento atsakingų asmenų pareiškimas.
 
 
 
 
-2. Jeigu emitentas privalo sudaryti konsoliduotųjų finansinių ataskaitų rinkinį, pusmečio informaciją sudaro finansinių metų pirmojo pusmečio konsoliduotųjų finansinių ataskaitų rinkinys (toliau – pusmečio konsoliduotosios finansinės ataskaitos), konsoliduotasis pusmečio pranešimas ir atsakingų asmenų patvirtinimo, kad, jų žiniomis, pusmečio konsoliduotosios finansinės ataskaitos, sudarytos pagal taikomus apskaitos standartus, atitinka tikrovę ir teisingai rodo įmonių grupės turtą, įsipareigojimus, finansinę būklę, pelną arba nuostolius ir pinigų srautus, kad konsoliduotajame pusmečio pranešime yra teisingai nurodyta verslo plėtros ir veiklos apžvalga, emitento ir įmonių grupės būklė kartu su pagrindinių rizikų ir neapibrėžtumų, su kuriais susiduriama, aprašymu, dokumentas. 
+2. Jeigu emitentas privalo parengti konsoliduotųjų finansinių ataskaitų rinkinį, pusmečio informaciją sudaro įmonių grupės finansinių metų pirmojo pusmečio konsoliduotųjų finansinių ataskaitų rinkinio finansinės ataskaitos (toliau – pusmečio konsoliduotosios finansinės ataskaitos), konsoliduotoji pusmečio vadovybės ataskaita ir atsakingų asmenų pareiškimas.
 
 
 
 
-3. Pusmečio informacija turi būti paskelbta nedelsiant pasibaigus finansinių metų pirmajam pusmečiui, bet ne vėliau kaip per 3 mėnesius nuo to laikotarpio pabaigos. Jeigu buvo atliekamas pusmečio finansinių ataskaitų ir (arba) pusmečio konsoliduotųjų finansinių ataskaitų auditas arba finansinių ataskaitų peržiūra, pusmečio informacija turi būti paskelbta atitinkamai kartu su auditoriaus išvada arba peržiūros išvada. Jeigu pusmečio informacijos auditas ar finansinių ataskaitų peržiūra nebuvo atliekami, emitentas turi tai nurodyti savo pusmečio finansinėje ataskaitoje. 
+3. Pusmečio informacija turi būti paskelbta nedelsiant pasibaigus finansinių metų pirmajam pusmečiui, bet ne vėliau kaip per 3 mėnesius nuo to laikotarpio pabaigos. Jeigu buvo atliekamas pusmečio finansinių ataskaitų ir (arba) pusmečio konsoliduotųjų finansinių ataskaitų auditas arba finansinių ataskaitų peržiūra, pusmečio informacija turi būti paskelbta atitinkamai kartu su auditoriaus išvada arba peržiūros išvada. Jeigu pusmečio informacijos auditas ar finansinių ataskaitų peržiūra nebuvo atliekami, emitentas turi tai nurodyti savo pusmečio finansinėse ataskaitose. 
 
 
 
 
-4. Lietuvos Respublikoje įsteigtų emitentų buhalterinė apskaita turi būti tvarkoma ir pusmečio finansinės ataskaitos ir pusmečio konsoliduotosios finansinės ataskaitos turi būti sudaromos vadovaujantis Lietuvos Respublikos teisės aktuose nustatytais buhalterinės apskaitos ir finansinių ataskaitų sudarymo reikalavimais. Valstybėse narėse įsteigtų emitentų pusmečio finansinės ataskaitos ir pusmečio konsoliduotosios finansinės ataskaitos turi būti sudaromos vadovaujantis valstybės narės, kurioje įsteigtas emitentas, nacionalinių teisės aktų reikalavimais. Ne valstybėse narėse įsteigtų emitentų pusmečio finansinės ataskaitos ir pusmečio konsoliduotosios finansinės ataskaitos turi būti sudaromos vadovaujantis tarptautiniais apskaitos standartais arba bendrai priimtais buhalterinės apskaitos principais. Tuo atveju, kai pusmečio finansinės ataskaitos ir pusmečio konsoliduotosios finansinės ataskaitos sudaromos vadovaujantis ne tarptautiniais apskaitos standartais, pusmečio finansines ataskaitas ir pusmečio konsoliduotąsias finansines ataskaitas turi sudaryti bent jau sutrumpintas balansas, sutrumpinta pelno (nuostolių) ataskaita ir aiškinamasis raštas.
+4. Rengiant pusmečio finansines ataskaitas ir pusmečio konsoliduotąsias finansines ataskaitas, mutatis mutandis taikomos šio įstatymo 12 straipsnio 5 dalies nuostatos. Tuo atveju, kai pusmečio finansinės ataskaitos ir pusmečio konsoliduotosios finansinės ataskaitos rengiamos vadovaujantis ne tarptautiniais finansinės atskaitomybės standartais, pusmečio finansines ataskaitas ir pusmečio konsoliduotąsias finansines ataskaitas turi sudaryti bent jau sutrumpintas balansas, sutrumpinta pelno (nuostolių) ataskaita ir aiškinamasis raštas. 
 
 
 
 
-5. Priežiūros institucija nustato reikalavimų, taikomų emitentų pusmečio pranešimui ir konsoliduotajam pusmečio pranešimui, turinį ir šiame straipsnyje nurodytos informacijos paskelbimo ir pateikimo priežiūros institucijai tvarką.
+5. Priežiūros institucija nustato reikalavimų, taikomų emitentų pusmečio vadovybės ataskaitai ir pusmečio konsoliduotajai vadovybės ataskaitai, turinį ir šiame straipsnyje nurodytos informacijos paskelbimo ir pateikimo priežiūros institucijai tvarką.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
  
-
-
 
 
 
@@ -672,30 +680,32 @@ Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
 14 straipsnis. Tarpinė informacija
 
 
-1. Tarpinė informacija sudaroma emitento pasirinkimu. Jeigu emitentas pasirenka sudaryti tarpinę informaciją ir (arba) konsoliduotąją tarpinę informaciją, apie tai jis turi paskelbti. Tarpinė informacija ir (arba) konsoliduotoji tarpinė informacija turi būti paskelbta nedelsiant, kai ji parengiama, bet ne vėliau kaip per 2 mėnesius nuo ataskaitinio laikotarpio pabaigos. Jeigu atliekamas tarpinių finansinių ataskaitų rinkinio (toliau – tarpinės finansinės ataskaitos) ir (arba) tarpinių konsoliduotųjų finansinių ataskaitų rinkinio (toliau – tarpinės konsoliduotosios finansinės ataskaitos) auditas arba finansinių ataskaitų peržiūra, tarpinė informacija paskelbiama kartu su auditoriaus išvada arba peržiūros išvada. Sprendimas sudaryti tarpinę informaciją ir (arba) konsoliduotąją tarpinę informaciją ir tarpinė informacija ir (arba) konsoliduotoji tarpinė informacija skelbiami šio įstatymo 23 straipsnyje nustatyta tvarka.
+1. Tarpinė informacija rengiama emitento pasirinkimu. Jeigu emitentas pasirenka rengti tarpinę informaciją ir (arba) konsoliduotąją tarpinę informaciją, apie tai jis turi paskelbti. Tarpinė informacija ir (arba) konsoliduotoji tarpinė informacija turi būti paskelbta nedelsiant, kai ji parengiama, bet ne vėliau kaip per 2 mėnesius nuo ataskaitinio laikotarpio pabaigos. Jeigu atliekamas tarpinių finansinių ataskaitų rinkinio (toliau – tarpinės finansinės ataskaitos) ir (arba) tarpinių konsoliduotųjų finansinių ataskaitų rinkinio (toliau – tarpinės konsoliduotosios finansinės ataskaitos) auditas arba finansinių ataskaitų peržiūra, tarpinė informacija paskelbiama kartu su auditoriaus išvada arba peržiūros išvada. Sprendimas rengti tarpinę informaciją ir (arba) konsoliduotąją tarpinę informaciją ir tarpinė informacija ir (arba) konsoliduotoji tarpinė informacija skelbiami šio įstatymo 23 straipsnyje nustatyta tvarka.
 
 
 
 
-2. Tarpinę informaciją sudaro 3, 9 ir 12 mėnesių tarpinės finansinės ataskaitos ir atsakingų asmenų patvirtinimo, kad, jų žiniomis, tarpinės finansinės ataskaitos, sudarytos pagal taikomus apskaitos standartus, atitinka tikrovę ir teisingai rodo emitento turtą, įsipareigojimus, finansinę būklę, pelną arba nuostolius ir pinigų srautus, dokumentas.
+2. Tarpinę informaciją sudaro 3, 9 ir 12 mėnesių tarpinės finansinės ataskaitos ir atsakingų asmenų pareiškimas.
 
 
 
 
-3. Jeigu emitentas sudaro tarpines konsoliduotąsias finansines ataskaitas, tarpinę informaciją sudaro 3, 9 ir 12 mėnesių tarpinės konsoliduotosios finansinės ataskaitos ir atsakingų asmenų patvirtinimo, kad, jų žiniomis, tarpinės konsoliduotosios finansinės ataskaitos, sudarytos pagal taikomus apskaitos standartus, atitinka tikrovę ir teisingai rodo įmonių grupės turtą, įsipareigojimus, finansinę būklę, pelną arba nuostolius ir pinigų srautus, dokumentas. 
+3. Jeigu emitentas rengia tarpines konsoliduotąsias finansines ataskaitas, tarpinę informaciją sudaro 3, 9 ir 12 mėnesių tarpinės konsoliduotosios finansinės ataskaitos ir atsakingų asmenų pareiškimas.
 
 
 
 
-4. Lietuvos Respublikoje įsteigtų emitentų buhalterinė apskaita turi būti tvarkoma ir tarpinės finansinės ataskaitos ir tarpinės konsoliduotosios finansinės ataskaitos turi būti sudaromos vadovaujantis Lietuvos Respublikos teisės aktuose nustatytais buhalterinės apskaitos ir finansinių ataskaitų sudarymo reikalavimais. Valstybėse narėse įsteigtų emitentų tarpinės finansinės ataskaitos ir tarpinės konsoliduotosios finansinės ataskaitos turi būti sudaromos vadovaujantis valstybės narės, kurioje įsteigtas emitentas, nacionalinių teisės aktų reikalavimais. Ne valstybėse narėse įsteigtų emitentų tarpinės finansinės ataskaitos ir tarpinės konsoliduotosios finansinės ataskaitos turi būti sudaromos vadovaujantis tarptautiniais apskaitos standartais arba bendrai priimtais buhalterinės apskaitos principais. Tuo atveju, kai tarpinės finansinės ataskaitos ir tarpinės konsoliduotosios finansinės ataskaitos sudaromos vadovaujantis ne tarptautiniais apskaitos standartais, tarpines finansines ataskaitas ir tarpines konsoliduotąsias finansines ataskaitas turi sudaryti bent jau sutrumpintas balansas, sutrumpinta pelno (nuostolių) ataskaita ir aiškinamasis raštas.
+4. Rengiant tarpines finansines ataskaitas ir tarpines konsoliduotąsias finansines ataskaitas, mutatis mutandis taikomos šio įstatymo 12 straipsnio 5 dalies nuostatos. Tuo atveju, kai tarpinės finansinės ataskaitos ir tarpinės konsoliduotosios finansinės ataskaitos rengiamos vadovaujantis ne tarptautiniais finansinės atskaitomybės standartais, tarpines finansines ataskaitas ir tarpines konsoliduotąsias finansines ataskaitas turi sudaryti bent jau sutrumpintas balansas, sutrumpinta pelno (nuostolių) ataskaita ir aiškinamasis raštas.
 
 
 
 
 5. Priežiūros institucija nustato šiame straipsnyje nurodytos informacijos paskelbimo tvarką.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
  
-
-
 
 
 
@@ -703,7 +713,7 @@ Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
 15 straipsnis. Pareiga pateikti pranešimą apie akcijų paketo įsigijimą ar jo netekimą
 
 
-1. Asmuo, pasiekęs arba viršijęs  5, 10, 15, 20, 25, 30, 50, 75 ir 95 procentų balsų ribą, privalo nedelsdamas, ne vėliau kaip per 4 prekybos dienas, pateikti pranešimą priežiūros institucijai ir emitentui apie turimų balsų kiekį. Šią pareigą asmuo turi ir tuo atveju, kai šioje dalyje nurodytos balsų ribos peržengiamos mažėjimo tvarka, perleidžiant balsus.
+1. Asmuo, pasiekęs arba viršijęs  5, 10, 15, 20, 25, 30, 50, 75 ir 95 procentų balsų ribą, privalo nedelsdamas, ne vėliau kaip per 4 prekybos dienas, pateikti pranešimą priežiūros institucijai ir emitentui apie turimų balsų kiekį. Šią pareigą asmuo turi ir tuo atveju, kai šioje dalyje nurodytos balsų ribos peržengiamos mažėjimo tvarka, perleidžiant balsus.
 
 
 
@@ -760,6 +770,29 @@ Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
  
 
 
+
+
+
+
+151 straipsnis. Atsakingų asmenų pareiškimas
+
+
+Atsakingų asmenų (nurodant jų vardus, pavardes ir funkcijas) pareiškime už ataskaitinio laikotarpio (metų, pusmečio arba kito laikotarpio) finansinių ataskaitų bei vadovybės ataskaitos ir (arba) konsoliduotųjų finansinių ataskaitų bei konsoliduotosios vadovybės ataskaitos parengimą ir pateikimą atsakingi asmenys patvirtina, kad, jų žiniomis: 
+
+
+1) emitento ataskaitinio laikotarpio finansinės ataskaitos arba įmonių grupės konsoliduotosios finansinės ataskaitos, parengtos pagal taikomus apskaitos standartus, atitinka tikrovę ir teisingai rodo emitento arba įmonių grupės turtą, įsipareigojimus, finansinę būklę, pelną arba nuostolius, pinigų srautus; 
+
+
+
+
+2) emitento ataskaitinio laikotarpio vadovybės ataskaitoje arba konsoliduotojoje vadovybės ataskaitoje yra teisingai apžvelgti verslo plėtra ir veiklos rezultatai, pateiktas emitento arba įmonių grupės būklės kartu su pagrindinėmis rizikomis ir neapibrėžtumais, su kuriais susiduriama, aprašymas ir tais atvejais, kai pagal Įmonių ir įmonių grupių atskaitomybės įstatymą metinėje vadovybės ataskaitoje turi būti pateikta informacija tvarumo klausimais (konsoliduotoji informacija tvarumo klausimais), nurodoma, kad informacija tvarumo klausimais parengta pagal Europos tvarumo atskaitomybės standartus ir pagal nuostatas, kuriomis įgyvendinamos 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamento (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088, 8 straipsnio 4 dalies nuostatos.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
+ 
 
 
 
@@ -1095,14 +1128,15 @@ Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
 
 
 
-22 straipsnis. Mokėjimų valdžios institucijoms ataskaita
+22 straipsnis. Mokėjimų valdžios institucijoms ataskaita ir konsoliduotoji mokėjimų valdžios institucijoms ataskaita
 
 
-Emitentai, kurie yra įmonės, vykdančios veiklą, nurodytą 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1893/2006, nustatančio statistinį ekonominės veiklos rūšių klasifikatorių NACE 2 red. ir iš dalies keičiančio Tarybos reglamentą (EEB) Nr. 3037/90 bei tam tikrus EB reglamentus dėl konkrečių statistikos sričių, su visais pakeitimais I priedo B sekcijos 05–08 skyriuose ir I priedo A sekcijos 02 skyriaus 02.2 grupėje, Įmonių finansinės atskaitomybės įstatymo ir Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo nustatyta tvarka privalo kiekvienais metais parengti mokėjimų valdžios institucijoms ataskaitą ar konsoliduotąją mokėjimų valdžios institucijoms ataskaitą ir šią ataskaitą paskelbti ir įdėti į Centrinę reglamentuojamos informacijos bazę. Ataskaita paskelbiama ne vėliau kaip per 6 mėnesius nuo finansinių metų pabaigos. Valdžios institucijoms atlikti mokėjimai ataskaitoje nurodomi konsoliduotu lygmeniu.
+Emitentai, kurie yra įmonės, vykdančios veiklą, nurodytą 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1893/2006, nustatančio statistinį ekonominės veiklos rūšių klasifikatorių NACE 2 red. ir iš dalies keičiančio Tarybos reglamentą (EEB) Nr. 3037/90 bei tam tikrus EB reglamentus dėl konkrečių statistikos sričių, su visais pakeitimais I priedo B sekcijos 05–08 skyriuose ir I priedo A sekcijos 02 skyriaus 02.2 grupėje, Įmonių ir įmonių grupių atskaitomybės įstatymo nustatyta tvarka privalo kiekvienais metais parengti mokėjimų valdžios institucijoms ataskaitą arba konsoliduotąją mokėjimų valdžios institucijoms ataskaitą, šią ataskaitą paskelbti ir įdėti į Centrinę reglamentuojamos informacijos bazę. Ataskaita paskelbiama ne vėliau kaip per 6 mėnesius nuo finansinių metų pabaigos. Valdžios institucijoms atlikti mokėjimai šioje ataskaitoje nurodomi konsoliduotu lygmeniu.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
+Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
  
 
 
@@ -1310,7 +1344,10 @@ Taikant šiame skyriuje nustatytus reikalavimus, turi būti vadovaujamasi šiais
 
 
 
-4) balsų riba peržengiama pagal Lietuvos Respublikos įmonių restruktūrizavimo įstatymą vykdant emitento restruktūrizavimo planą;
+4) balsų riba peržengiama pagal Lietuvos Respublikos juridinių asmenų nemokumo įstatymą vykdant emitento restruktūrizavimo planą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
+ 
 
 
 
@@ -1925,7 +1962,10 @@ V SKYRIUS
 
 
 
-3) tikrina, ar vykdant šio įstatymo reikalavimus emitentų buhalterinė apskaita tvarkoma ir finansinės ataskaitos ir (arba) konsoliduotosios finansinės ataskaitos sudaromos pagal taikomus buhalterinės apskaitos ir finansinių ataskaitų sudarymo reikalavimus;
+3) tikrina, ar vykdant šio įstatymo reikalavimus emitentų finansinė apskaita tvarkoma ir finansinės ataskaitos ir (arba) konsoliduotosios finansinės ataskaitos rengiamos pagal finansinės apskaitos ir finansinių ataskaitų rengimo reikalavimus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
+ 
 
 
 
@@ -2255,6 +2295,14 @@ Nr. XIV-1456, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22567
 8. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB su paskutiniais pakeitimais, padarytais 2021 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentu (ES) 2017/1129.
 
 
+
+
+9. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2464, kuria iš dalies keičiamas Reglamentas (ES) Nr. 537/2014, Direktyva 2004/109/EB, Direktyva 2006/43/EB ir Direktyva 2013/34/ES dėl įmonių informacijos apie tvarumą teikimo.
+Papildyta straipsnio dalimi:
+Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
+ 
+
+
 Priedo pakeitimai:
 Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
  
@@ -2371,3 +2419,8 @@ Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 4, 12, 15, 22
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1456, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22567
 Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 27 straipsnio ir priedo pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 12, 13, 14, 22, 27, 37 straipsnių, priedo pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
