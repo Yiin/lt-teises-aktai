@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2024-03-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2025-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -52,7 +52,7 @@ Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
 
 
 
-2. Šis Įstatymas netaikomas asmenims, kuriems, nors jie ir atitinka šio Įstatymo 6 straipsnio 1 dalies 1–4 ir 6, 7 punktų nuostatas, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, taikoma kitos Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos teisė.
+2. Šis Įstatymas netaikomas asmenims, kuriems, nors jie ir atitinka šio Įstatymo 6 straipsnio 1 dalies 1–4 ir 6–8 punktų nuostatas, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, taikoma kitos Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos teisė.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2335, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25089
  
@@ -311,10 +311,11 @@ Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 
 
 
-2) leidimą laikinai gyventi Lietuvos Respublikoje turintys užsieniečiai (išskyrus šios dalies 5 punkte nurodytus asmenis), kurie dirba Lietuvos Respublikoje arba kurie dirbo Lietuvos Respublikoje ne trumpiau kaip 6 mėnesius ir yra įsiregistravę Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) kaip bedarbiai, bei nepilnamečiai jų šeimos nariai; 
+2) leidimą laikinai gyventi Lietuvos Respublikoje turintys užsieniečiai (išskyrus šios dalies 5 punkte nurodytus asmenis), kurie dirba Lietuvos Respublikoje arba kurie dirbo Lietuvos Respublikoje ne trumpiau kaip 6 mėnesius ir yra įsiregistravę Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) kaip bedarbiai. 
 Straipsnio punkto pakeitimai:
 Nr. XII-1602, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05896
 Nr. XIII-953, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21664
+Nr. XIV-2335, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25089
  
 
 
@@ -361,11 +362,19 @@ Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
 
 
 
-7) užsieniečiai, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje ir kurie yra asmenys iki 18 metų arba asmenys, gaunantys Lietuvos Respublikos įstatymų nustatytą senatvės pensiją, netekto darbingumo pensiją ar šalpos neįgalumo pensiją, arba asmenys, gaunantys šalpos kompensaciją, jiems sukakus Lietuvos Respublikos socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių ar juos pripažinus netekusiais 60 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. netekusiais 60 procentų ar daugiau darbingumo), arba senatvės ar negalios pensiją pagal šalies, iš kurios pasitraukusiems asmenims suteikta laikinoji apsauga, teisės aktus, arba Lietuvos Respublikos arba šalies, iš kurios pasitraukusiems asmenims suteikta laikinoji apsauga, teisės aktų nustatyta tvarka yra pripažinti asmenimis su negalia. 
+7) užsieniečiai, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje ir kurie yra asmenys iki 18 metų arba asmenys, gaunantys Lietuvos Respublikos įstatymų nustatytą senatvės pensiją, netekto darbingumo pensiją ar šalpos neįgalumo pensiją, arba asmenys, gaunantys šalpos kompensaciją, jiems sukakus Lietuvos Respublikos socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių ar juos pripažinus netekusiais 60 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. netekusiais 60 procentų ar daugiau darbingumo), arba senatvės ar negalios pensiją pagal šalies, iš kurios pasitraukusiems asmenims suteikta laikinoji apsauga, teisės aktus, arba Lietuvos Respublikos arba šalies, iš kurios pasitraukusiems asmenims suteikta laikinoji apsauga, teisės aktų nustatyta tvarka yra pripažinti asmenimis su negalia; 
 Papildyta straipsnio punktu:
 Nr. XIV-1636, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25403
 Straipsnio punkto pakeitimai:
 Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+ 
+
+
+
+
+8) asmenų, nurodytų šios dalies 1 ir 2 punktuose, sutuoktiniai arba asmenys, su kuriais yra sudaryta registruotos partnerystės sutartis, ir (arba) nepilnamečiai jų šeimos nariai, turintys leidimą laikinai gyventi Lietuvos Respublikoje arba Sąjungos piliečio šeimos nario leidimo gyventi šalyje kortelę, patvirtinančią jo teisę laikinai gyventi Lietuvos Respublikoje.
+Papildyta straipsnio punktu:
+Nr. XIV-2335, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25089
  
 
 
@@ -3001,7 +3010,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS 
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS 
 
  
  
