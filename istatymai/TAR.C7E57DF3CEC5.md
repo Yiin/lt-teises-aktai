@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-11-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -252,16 +252,16 @@ Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
 25. Stambus projektas – duomenų apdorojimo, interneto serverių (prieglobos) paslaugų ir susijusios veiklos arba apdirbamosios gamybos investicijų projektas, dėl kurio įgyvendinimo yra sudaryta ir galioja stambaus projekto investicijų sutartis, pagal kurią investuotojas įsipareigoja, kad per penkerius metus nuo jos įsigaliojimo dienos įgyvendindamas šį investicijų projektą:
 
 
-1) sukurs Lietuvos Respublikoje ne mažiau kaip 150, o kai investuojama Vilniuje – ne mažiau kaip 200 naujų darbo vietų, dėl kurių įstatymų nustatyta tvarka bus sudarytos viso darbo laiko darbo sutartys, ir kiekvieną sukurtą darbo vietą išlaikys ne trumpiau kaip penkerius metus nuo pirmosios darbuotojo priėmimo į sukurtą darbo vietą dienos;
+1) sukurs Lietuvos Respublikoje ne mažiau kaip 150, o kai investuojama Vilniuje, – ne mažiau kaip 200 naujų darbo vietų, dėl kurių darbo santykius reguliuojančių įstatymų nustatyta tvarka bus sudarytos viso darbo laiko darbo sutartys, ir kiekvieną sukurtą darbo vietą išlaikys ne trumpiau kaip penkerius metus nuo pirmosios darbuotojo priėmimo į sukurtą darbo vietą dienos ir investuos Lietuvos Respublikoje ne mažiau kaip 20 milijonų eurų, o kai investuojama Vilniuje, – ne mažiau kaip 30 milijonų eurų vertės privačių kapitalo investicijų arba
 
 
 
 
-2) investuos Lietuvos Respublikoje ne mažiau kaip 20 milijonų eurų, o kai investuojama Vilniuje – ne mažiau kaip 30 milijonų eurų vertės privačių kapitalo investicijų. 
+2) sukurs Lietuvos Respublikoje nuo 20 iki 149, o kai investuojama Vilniuje, – nuo 20 iki 199 naujų darbo vietų, dėl kurių darbo santykius reguliuojančių įstatymų nustatyta tvarka bus sudarytos viso darbo laiko darbo sutartys, ir kiekvieną sukurtą darbo vietą išlaikys ne trumpiau kaip penkerius metus nuo pirmosios darbuotojo priėmimo į sukurtą darbo vietą dienos, užtikrindamas, kad 20 investicijų projektu sukurtų naujų darbo vietų įdarbintų asmenų atitinkamo mokestinio laikotarpio vidutinis bruto darbo užmokestis (taikoma kiekvienam darbuotojui atskirai) būtų ne mažesnis kaip 1,25 Valstybės duomenų agentūros paskutinio skelbiamo savivaldybės, kurioje investuojama, vidutinio mėnesinio bruto darbo užmokesčio, įskaitant individualias įmones, dydžio, o šį skaičių viršijančiose investiciniu projektu sukurtose naujose darbo vietose įdarbintų asmenų atitinkamo mokestinio laikotarpio vidutinis bruto darbo užmokestis (taikoma kiekvienam darbuotojui atskirai) bus ne mažesnis kaip Valstybės duomenų agentūros paskutinis skelbiamas savivaldybės, kurioje investuojama, vidutinis mėnesinis bruto darbo užmokestis, įskaitant individualias įmones, ir investuos Lietuvos Respublikoje ne mažiau kaip 20 milijonų eurų, o kai investuojama Vilniuje, – ne mažiau kaip 30 milijonų eurų vertės privačių kapitalo investicijų (visi šiame punkte nurodyti kriterijai taikomi tik apdirbamosios gamybos investicijų projektams).
 
 
-Papildyta straipsnio dalimi:
-Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
+Straipsnio dalies pakeitimai:
+Nr. XIV-2442, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25935
  
 
 
@@ -814,7 +814,10 @@ Nr. XIV-2446, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25939
 
 
 
-7) investuojama į įsteigimą naujų ne trumpiau kaip trejus metus išlaikomų darbo vietų, kuriose įdarbintų ne mažiau kaip 20 asmenų atitinkamų metų vidutinis bruto darbo užmokestis (taikoma kiekvienam asmeniui atskirai) būtų ne mažesnis kaip Lietuvos statistikos departamento skelbiamas savivaldybės, kurioje investuojama, vidutinis mėnesinis bruto darbo užmokestis, įskaitant individualias įmones;
+7) investuojama į įsteigimą naujų ne trumpiau kaip trejus metus išlaikomų darbo vietų, kuriose įdarbintų ne mažiau kaip 20 asmenų atitinkamų metų vidutinis bruto darbo užmokestis (taikoma kiekvienam asmeniui atskirai) būtų ne mažesnis kaip Valstybės duomenų agentūros skelbiamas savivaldybės, kurioje investuojama, vidutinis mėnesinis bruto darbo užmokestis, įskaitant individualias įmones;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2442, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25935
+ 
 
 
 
@@ -947,7 +950,10 @@ Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
 1. Šiame straipsnyje nustatytos specialios investavimo ir verslo Lietuvos Respublikoje sąlygos taikomos investuotojui, atitinkančiam visus šiuos kriterijus:
 
 
-1) investuotojas šio įstatymo 13 straipsnio 1 dalies 6 punkto pagrindu su Lietuvos Respublikos Vyriausybe ar jos įgaliota institucija yra sudaręs investicijų sutartį, pagal kurią investuotojas įsipareigoja investuoti į sukūrimą naujų darbo vietų Lietuvos Respublikoje (toliau šiame straipsnyje – pagal investicijų sutartį Lietuvos Respublikoje numatytos sukurti darbo vietos), kuriose pagal darbo sutartis įdarbintų asmenų mėnesinio darbo užmokesčio vidurkis būtų ne mažesnis negu 1,5 iki investicijų sutarties sudarymo Lietuvos statistikos departamento paskutinio paskelbto savivaldybės, kurioje investuojama, vidutinio mėnesinio darbo užmokesčio dydžio;
+1) investuotojas šio įstatymo 13 straipsnio 1 dalies 6 punkto pagrindu su Lietuvos Respublikos Vyriausybe ar jos įgaliota institucija yra sudaręs investicijų sutartį, pagal kurią investuotojas įsipareigoja investuoti į sukūrimą naujų darbo vietų Lietuvos Respublikoje (toliau šiame straipsnyje – pagal investicijų sutartį Lietuvos Respublikoje numatytos sukurti darbo vietos), kuriose pagal darbo sutartis įdarbintų asmenų mėnesinio darbo užmokesčio vidurkis būtų ne mažesnis negu 1,5 iki investicijų sutarties sudarymo Valstybės duomenų agentūros paskutinio paskelbto savivaldybės, kurioje investuojama, vidutinio mėnesinio darbo užmokesčio dydžio;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2442, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25935
+ 
 
 
 
@@ -1398,7 +1404,10 @@ INVESTAVIMO Į STAMBIUS PROJEKTUS SKATINIMAS
 
 
 
-4) investicijų projektas yra įvertintas ne mažesniu kaip Lietuvos Respublikos Vyriausybės nustatytu minimaliu investicijų projekto kvalifikaciniu balu, apskaičiuotu vertinant sukurtų naujų darbo vietų skaičių, aukštos profesinės kvalifikacijos darbuotojų procentą nuo visų naujų darbo vietų skaičiaus, naujų darbo vietų darbo užmokesčio vidurkį, lyginamą su Lietuvos statistikos departamento skelbiamu savivaldybės, kurioje įgyvendinamas stambus projektas, darbo užmokesčio vidurkiu, bendrą eksporto dalį procentais, stambaus projekto įgyvendinimo vietą, stambaus projekto įtaką ilgalaikei Lietuvos Respublikos ūkio plėtrai, konkurencingumui ir visuomenės gerovės didinimui.
+4) investicijų projektas yra įvertintas ne mažesniu kaip Lietuvos Respublikos Vyriausybės nustatytu minimaliu investicijų projekto kvalifikaciniu balu, apskaičiuotu vertinant sukurtų naujų darbo vietų skaičių, aukštos profesinės kvalifikacijos darbuotojų procentą nuo visų naujų darbo vietų skaičiaus, naujų darbo vietų darbo užmokesčio vidurkį, lyginamą su Valstybės duomenų agentūros skelbiamu savivaldybės, kurioje įgyvendinamas stambus projektas, darbo užmokesčio vidurkiu, bendrą eksporto dalį procentais, stambaus projekto įgyvendinimo vietą, stambaus projekto įtaką ilgalaikei Lietuvos Respublikos ūkio plėtrai, konkurencingumui ir visuomenės gerovės didinimui. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2442, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25935
+ 
 
 
 
@@ -1418,7 +1427,10 @@ INVESTAVIMO Į STAMBIUS PROJEKTUS SKATINIMAS
 
 
 
-3) investuotojo įsipareigojimai dėl numatomų sukurti naujų darbo vietų, kaip tai nurodyta šio įstatymo 2 straipsnio 25 dalyje; 
+3) investuotojo įsipareigojimai dėl numatomų sukurti naujų darbo vietų ir (ar) darbo užmokesčio dydžio, kaip tai nurodyta šio įstatymo 2 straipsnio 25 dalyje; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2442, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25935
+ 
 
 
 
@@ -1475,7 +1487,9 @@ INVESTAVIMO Į STAMBIUS PROJEKTUS SKATINIMAS
 
 
 
-9. Savivaldybės skatinamos rengti, keisti ar koreguoti savivaldybės ir (ar) vietovės lygmens teritorijų planavimo dokumentus, iš anksto numatyti teritorijas ir įtvirtinti sprendinius, reikalingus stambiems projektams pritraukti ir įgyvendinti. Įsigaliojus stambaus projekto investicijų sutarčiai, kuria numatoma įgyvendinti stambų projektą iš anksto savivaldybės suplanuotoje teritorijoje, ir įtraukus stambų projektą į stambių projektų sąrašą, ne anksčiau kaip kitais biudžetiniais metais po stambaus projekto investicijų sutarties įsigaliojimo gali būti skiriama speciali tikslinė iki 5 procentų stambaus projekto vertės valstybės biudžeto dotacija savivaldybės biudžetui savivaldybės viešajai infrastruktūrai plėtoti. Valstybės biudžeto specialios tikslinės dotacijos savivaldybės biudžetui skyrimo, grąžinimo ir apskaičiavimo tvarką nustato Lietuvos Respublikos ekonomikos ir inovacijų ministras. Ši dotacija neskiriama tais atvejais, kai stambus projektas įgyvendinamas laisvosios ekonominės zonos teritorijoje.
+9. Savivaldybės skatinamos rengti, keisti ar koreguoti savivaldybės ir (ar) vietovės lygmens teritorijų planavimo dokumentus, iš anksto numatyti teritorijas ir įtvirtinti sprendinius, reikalingus stambiems projektams pritraukti ir įgyvendinti. Įsigaliojus stambaus projekto investicijų sutarčiai, kuria numatoma įgyvendinti stambų projektą iš anksto savivaldybės suplanuotoje teritorijoje, ir įtraukus stambų projektą į stambių projektų sąrašą, ne anksčiau kaip kitais biudžetiniais metais po stambaus projekto investicijų sutarties įsigaliojimo gali būti skiriama speciali tikslinė iki 5 procentų stambaus projekto vertės valstybės biudžeto dotacija savivaldybės biudžetui savivaldybės viešajai infrastruktūrai, kuri suprantama taip, kaip savivaldybės infrastruktūra, apibrėžta Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatyme, plėtoti. Valstybės biudžeto specialios tikslinės dotacijos savivaldybės biudžetui savivaldybės viešajai infrastruktūrai plėtoti skyrimo, grąžinimo ir apskaičiavimo tvarką nustato Lietuvos Respublikos ekonomikos ir inovacijų ministras. Ši dotacija neskiriama tais atvejais, kai stambus projektas įgyvendinamas laisvosios ekonominės zonos teritorijoje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2442, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25935
  
 
 
