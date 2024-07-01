@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-06-21 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -126,6 +126,14 @@ Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
 
 
 8. Medicinos priemonių rinkos subjektų veikla – veikla, kuriai taikomi medicinos priemonių saugą, kokybę, veikimą, naudojimą, pateikimą rinkai, tiekimą, atitikties įvertinimą, klinikinių tyrimų ir veiksmingumo tyrimų atlikimą reglamentuojantys teisės aktai.
+
+
+
+
+81. Paciento pavėžėjimas – paciento nuvežimo į Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigą ir (ar) parvežimo iš jos, taip pat paciento pervežimo tarp skirtingų Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigų, kai pacientui nereikalinga skubioji medicinos pagalba, paslauga. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1279, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15197
+ 
 
 
 
@@ -1427,7 +1435,10 @@ Nr. IX-414, 2001-06-28, Žin., 2001, Nr. 62-2225 (2001-07-18)
 26 straipsnis. Laikinojo nedarbingumo ekspertizė
 
 
-1. Laikinojo asmens nedarbingumo ekspertizę atlieka sveikatos priežiūros įstaigos gydytojai arba gydytojų konsultacinė komisija. Šios ekspertizės organizavimo ir atlikimo tvarką nustato Sveikatos apsaugos ministerija bei Socialinės apsaugos ir darbo ministerija.
+1. Laikinojo asmens nedarbingumo ekspertizę atlieka sveikatos priežiūros įstaigos gydytojai, gydytojų konsultacinė komisija, bendrosios praktikos slaugytojai, išplėstinės praktikos slaugytojai arba akušeriai. Šios ekspertizės organizavimo ir atlikimo tvarką nustato sveikatos apsaugos ministras ir socialinės apsaugos ir darbo ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
+ 
 
 
 
@@ -2528,6 +2539,74 @@ ir jo finansavimas
  
 
 
+
+
+
+
+511 straipsnis. Pacientų pavėžėjimas 
+
+
+1. Pacientų pavėžėjimo paslaugos organizavimas ir teikimas Lietuvos Respublikoje yra mišrus:
+
+
+1) savivaldybių lygmens – kai pacientų pavėžėjimo paslauga teikiama, siekiant pasinaudoti ir (ar) pasinaudojus įstatymais ir jų pagrindu priimtais teisės aktais savivaldybių funkcijai priskirtomis asmens sveikatos priežiūros paslaugomis;
+
+
+
+
+2) valstybės lygmens – kai pacientų pavėžėjimo paslauga teikiama kitais, negu šios dalies 1 punkte nurodytais, su asmens sveikatos priežiūros paslaugų teikimu susijusiais atvejais.
+
+
+
+
+
+
+2. Pacientų pavėžėjimą valstybės ir savivaldybių lygmenimis koordinuoja Vyriausybės įgaliota institucija ar įstaiga.
+
+
+
+
+3. Pacientų pavėžėjimo paslaugos organizavimas ir teikimas apima specializuotą ir nespecializuotą pacientų pavėžėjimo paslaugas:
+
+
+1) specializuota pacientų pavėžėjimo paslauga – paciento transportavimo paslauga, kai transportuojamam pacientui reikalinga asmens sveikatos priežiūra;
+
+
+
+
+2) nespecializuota pacientų pavėžėjimo paslauga – paciento transportavimo paslauga, kai transportuojamam pacientui nereikalinga asmens sveikatos priežiūra.
+
+
+
+
+
+
+4. Pacientų pavėžėjimo paslaugos gavėjais gali būti pacientai, kurie dėl socialinių ir ekonominių priežasčių (dėl negalios, senatvės ar dėl nepakankamų pajamų) ar dėl savo sveikatos būklės negali naudotis individualiu ir (ar) viešuoju transportu.
+
+
+
+
+5. Pacientų priskyrimas prie šio straipsnio 4 dalyje nurodytų pacientų pavėžėjimo paslaugos gavėjų, pavėžėjimo atvejai, pavėžėjimo organizavimo, koordinavimo, teikimo ir apmokėjimo už pavėžėjimo paslaugas tvarka nustatomi Vyriausybės tvirtinamame pacientų pavėžėjimo paslaugų teikimo tvarkos apraše. 
+
+
+
+
+6. Pacientų pavėžėjimo koordinavimas, valstybės lygmens specializuotų pavėžėjimo paslaugų organizavimas (išskyrus pavėžėjimo paslaugų teikimą), valstybės lygmens nespecializuotų pavėžėjimo paslaugų organizavimas ir teikimas apmokami iš Sveikatos apsaugos ministerijai skiriamų valstybės biudžeto asignavimų. 
+
+
+
+
+7. Valstybės ir savivaldybių lygmens specializuotų pacientų pavėžėjimo paslaugų teikimas apmokamas iš Privalomojo sveikatos draudimo fondo biudžeto lėšų.
+
+
+
+
+8. Savivaldybių lygmens specializuotos ir nespecializuotos pavėžėjimo paslaugos organizuojamos tokia pat tvarka, kaip ir Lietuvos Respublikos socialinių paslaugų įstatyme ir jo pagrindu priimtuose teisės aktuose nurodytos transporto organizavimo paslaugos. Savivaldybių lygmens nespecializuotų pavėžėjimo paslaugų organizavimas ir teikimas ir savivaldybių lygmens specializuotų pavėžėjimo paslaugų organizavimas apmokamas vadovaujantis Socialinių paslaugų įstatymu ir jo pagrindu priimtais teisės aktais. Savivaldybės, organizuodamos ir teikdamos pavėžėjimo paslaugas, vadovaujasi šio straipsnio 5 dalyje nurodytu Vyriausybės patvirtintu tvarkos aprašu tiek, kiek šių paslaugų nereglamentuoja Socialinių paslaugų įstatymas ir jo pagrindu priimti teisės aktai. 
+
+
+Papildyta straipsniu:
+Nr. XIV-1279, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15197
+ 
 
 
 
@@ -4336,23 +4415,75 @@ Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
 
 
 
-65 straipsnis. Savivaldybės gydytojas ir jo kompetencijos sveikatinimo veiklos reikalų 
-klausimais nustatymas
+65 straipsnis. Sveikatos reikalų koordinatorius ir jo kompetencijos sveikatinimo veiklos klausimais nustatymas
 
 
-1. Savivaldybės gydytojais konkurso tvarka skiriami sveikatos priežiūros specialistai, atitinkantys Sveikatos apsaugos ministerijos nustatytus kvalifikacinius reikalavimus.
-
-
-
-
-2. Savivaldybės gydytojas vadovauja savivaldybės sveikatinimo veiklos padaliniui, kurio tarnautojų etatų skaičių nustato savivaldybės taryba.
+1. Sveikatos reikalų koordinatorius – aukštąjį universitetinį išsilavinimą, įgytą baigus medicinos arba reabilitacijos, arba farmacijos, arba odontologijos, arba burnos priežiūros, arba visuomenės sveikatos, arba slaugos ir akušerijos studijų krypties studijas, arba lygiavertę aukštojo mokslo kvalifikaciją turintis savivaldybės administracijos valstybės tarnautojas, savivaldybės teritorijoje atliekantis šio straipsnio 4 dalyje nurodytas funkcijas. 
 
 
 
 
-3. Pavyzdinius savivaldybės gydytojo nuostatus tvirtina Vyriausybė ar jos įgaliota institucija.
+2. Kai savivaldybės administracijoje yra įsteigtas sveikatinimo veiklos struktūrinis padalinys, sveikatos reikalų koordinatorius vadovauja tokiam padaliniui.
 
 
+
+
+3. Pavyzdinį sveikatos reikalų koordinatoriaus pareigybės aprašymą tvirtina Vyriausybė ar jos įgaliota institucija.
+
+
+
+
+4. Sveikatos reikalų koordinatorius:
+
+
+1) savivaldybės teritorijoje koordinuoja ir (arba) organizuoja nacionalinės sveikatinimo veiklos pažangos uždavinius įgyvendinančių nacionalinių plėtros programų pažangos priemonių veiklų, priskirtinų savivaldybės kompetencijai, ir regionų plėtros planų pažangos priemonių sveikatinimo srityje įgyvendinimą ir dalyvauja juos įgyvendinant;
+
+
+
+
+2) organizuoja savivaldybės tarybos patvirtintų sveikatinimo programų ir kitų savivaldybės strateginio planavimo dokumentų sveikatinimo srities priemonių įgyvendinimą ir dalyvauja jas įgyvendinant;
+
+
+
+
+3) nuolat analizuoja savivaldybės gyventojų sveikatos būklę ir jos rizikos veiksnius, teikia išvadas ir pasiūlymus savivaldybės merui, savivaldybės administracijos direktoriui ir teisės aktų nustatytais atvejais arba jų prašymu – valstybės institucijoms ir įstaigoms;
+
+
+
+
+4) kiekvienais metais savivaldybės tarybai teikia metinį pranešimą apie savivaldybės gyventojų sveikatos būklę ir priemones jai gerinti;
+
+
+
+
+5) koordinuoja savivaldybės teritorijoje esančių juridinių asmenų, turinčių teisę verstis sveikatinimo veikla, veiklą ligų prevencijos ir kitais sveikatinimo veiklos klausimais šią sritį reguliuojančių teisės aktų nustatytais atvejais ir tvarka;
+
+
+
+
+6) vykdo sveikatinimo veiklą reglamentuojančių teisės aktų laikymosi priežiūrą savivaldybėje;
+
+
+
+
+7) rengia savivaldybės sveikatinimo veiklos teisės aktų projektus;
+
+
+
+
+8) nagrinėja asmenų prašymus ir skundus sveikatinimo veiklos klausimais;
+
+
+
+
+9) atlieka kitas sveikatos reikalų koordinatoriaus pareigybės aprašyme ir kituose teisės aktuose nustatytas funkcijas.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
+ 
 
 
 
