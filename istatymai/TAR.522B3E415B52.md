@@ -18,10 +18,9 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -2218,7 +2217,10 @@ TEISĖJŲ SKYRIMAS IR PRIESAIKA. TEISĖJŲ PERKĖLIMAS Į KITUS TEISMUS AR TEISM
 57 straipsnis. Apylinkės teismo teisėjų skyrimas
 
 
-1. Apylinkės teismo teisėją iš asmenų, įrašytų pretendentų į apylinkės teismo teisėjus sąraše, skiria Respublikos Prezidentas. Kai apylinkės teismas yra sudarytas iš teismo rūmų, Respublikos Prezidentas, skirdamas apylinkės teismo teisėją, jį paskiria ir į konkrečius teismo rūmus.
+1. Apylinkės teismo teisėją iš asmenų, įrašytų pretendentų į apylinkės teismo teisėjus sąraše, skiria Respublikos Prezidentas. Kai apylinkės teismas yra sudarytas iš teismo rūmų, Respublikos Prezidentas, skirdamas apylinkės teismo teisėją, jį paskiria ir į konkrečius teismo rūmus. Jei teismo ar teismo rūmų patalpos yra kelios, Respublikos Prezidentas, skirdamas apylinkės teismo teisėją, nurodo gyvenamąsias vietoves, kuriose esančiose teismo ar teismo rūmų patalpose teisėjas dirbs.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2137, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14331
+ 
 
 
 
@@ -3978,7 +3980,9 @@ Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
 
 
-10. Vyriausybės nustatyta tvarka kompensuojamos teisėjo komandiruotės išlaidos, taip pat važiavimo išlaidos, kai vykstama nagrinėti bylą kitose negu teismo, kurio teisėjas ar teisėjai nagrinėja bylą, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, į kuriuos yra paskirtas bylą nagrinėjantis teisėjas ar teisėjai, patalpose.
+10. Vyriausybės nustatyta tvarka kompensuojamos teisėjo komandiruotės išlaidos, taip pat važiavimo išlaidos, kai vykstama nagrinėti bylos kitose negu teismo, kurio teisėjas ar teisėjai nagrinėja bylą, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, į kuriuos yra paskirtas bylą nagrinėjantis teisėjas ar teisėjai, patalpose. Jei teismo ar teismo rūmų, į kuriuos yra paskirtas bylą nagrinėjantis teisėjas ar teisėjai, patalpos yra kelios, Vyriausybės nustatyta tvarka teisėjo važiavimo išlaidos kompensuojamos, kai vykstama nagrinėti bylos kitoje gyvenamojoje vietovėje esančiose to paties teismo ar tų pačių teismo rūmų patalpose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2137, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14331
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
  
