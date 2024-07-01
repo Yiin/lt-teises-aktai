@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA7CC8021E9D"
 
 # Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 66-1609, i. k. 0971010ISTAVIII-342
  
@@ -307,16 +307,21 @@ Nr. XII-1423, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20560
 5) asmenys, gimę (įvaikinti):
 
 
-a) politinių kalinių ar tremtinių šeimose tremtyje (arba už Lietuvos ribų), jeigu bent vienas iš tėvų (įtėvių) tuo metu buvo politinis kalinys ar tremtinys, kuriam pasibaigė įkalinimo ar tremties (ištrėmimo, nutrėmimo) laikas, kai nėra archyvinių įrodymų, kad abiem tėvams (įtėviams) arba turėtam vieninteliam iš tėvų (įtėvių) buvo leista grįžti ir gyventi Lietuvoje;
+a) politinių kalinių ar tremtinių šeimose tremtyje arba už Lietuvos ribų, jeigu bent vienas iš tėvų (įtėvių) tuo metu buvo politinis kalinys ar tremtinys, kuriam pasibaigė įkalinimo ar tremties (ištrėmimo, nutrėmimo) laikas, kai nėra archyvinių įrodymų, kad abiem tėvams (įtėviams) arba turėtam vieninteliam iš tėvų (įtėvių) buvo leista grįžti ir gyventi Lietuvoje;
 
 
 
 
-b) buvusių politinių kalinių ar tremtinių šeimose už Lietuvos ribų, jeigu bent vienam iš tėvų (įtėvių) buvo suvaržytos galimybės sugrįžti į Lietuvą, ribojamas gyvenamosios vietos įregistravimas ir įsidarbinimas Lietuvoje ir dėl šių aplinkybių jis per 6 metus nuo leidimo grįžti į Lietuvą datos nebuvo sugrįžęs į Lietuvą, kai šias aplinkybes asmenys pagrindžia dokumentais (jei tokių dokumentų nėra, aplinkybės turi būti nustatomos bendrosios kompetencijos teismo sprendimu kaip juridinę reikšmę turintis faktas).
+b) 1965 m. sausio 1 d. ir vėliau buvusių politinių kalinių ar tremtinių šeimose už Lietuvos ribų, jeigu bent vienam iš tėvų (įtėvių) buvo suvaržytos galimybės grįžti į Lietuvą, buvo ribojamas gyvenamosios vietos įregistravimas ir įsidarbinimas Lietuvoje ir dėl šių aplinkybių jis per 6 metus nuo leidimo grįžti į Lietuvą datos nebuvo grįžęs į Lietuvą, kai šias aplinkybes asmenys pagrindžia dokumentais (jeigu tokių dokumentų nėra, aplinkybės turi būti nustatomos bendrosios kompetencijos teismo sprendimu kaip juridinę reikšmę turintis faktas);
 
 
-Papildyta straipsnio punktu:
-Nr. XIII-2325, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12118
+
+
+c) iki 1964 m. gruodžio 31 d. buvusių politinių kalinių ar tremtinių šeimose už Lietuvos ribų, jeigu bent vienam iš tėvų (įtėvių) tuo metu buvo pasibaigęs įkalinimo ar tremties (ištrėmimo, nutrėmimo, uždraudimo grįžti į Lietuvą) laikas ir kuris iki vaiko gimimo nebuvo grįžęs nuolat gyventi į Lietuvą.
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIV-2553, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07556
  
 
 
@@ -743,4 +748,9 @@ Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, t
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2032, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11849
+Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 5 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2553, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07556
 Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 5 straipsnio pakeitimo įstatymas
