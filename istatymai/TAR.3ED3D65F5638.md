@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3ED3D65F5638"
 
 # Lietuvos Respublikos valstybės rezervo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 78-2359, i. k. 1001010ISTAIII-1908
  
@@ -282,7 +282,10 @@ Valstybės rezervo lėšos ir materialinių išteklių atsargos, įsigytos valst
 
 
 
-2. Šio straipsnio 1 dalyje išvardytų finansavimo šaltinių lėšų apskaita tvarkoma vadovaujantis Lietuvos Respublikos buhalterinės apskaitos įstatymu (toliau – Buhalterinės apskaitos įstatymas), Lietuvos Respublikos biudžeto sandaros įstatymu, Lietuvos Respublikos valstybės iždo įstatymu ir kitais teisės aktais pagal valstybės rezervo programas. Šių programų lėšas naudoja valstybės rezervo tvarkytojai.
+2. Šio straipsnio 1 dalyje išvardytų finansavimo šaltinių lėšų apskaita tvarkoma vadovaujantis Lietuvos Respublikos finansinės apskaitos įstatymu, Lietuvos Respublikos biudžeto sandaros įstatymu, Lietuvos Respublikos valstybės iždo įstatymu ir kitais teisės aktais pagal valstybės rezervo programas. Šių programų lėšas naudoja valstybės rezervo tvarkytojai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
+ 
 
 
 
@@ -336,7 +339,10 @@ Nr. XIV-933, 2022-03-10, paskelbta TAR 2022-03-16, i. k. 2022-04821
 9 straipsnis. Valstybės rezervo materialinių išteklių atsargų pirkimas valstybės lėšomis ir jų keitimas
 
 
-1. Valstybės rezervo tvarkytojai valstybės rezervui skirtus materialinius išteklius valstybės lėšomis perka Viešųjų pirkimų įstatymo, Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nustatyta tvarka.
+1. Valstybės rezervo tvarkytojai valstybės rezervui skirtus materialinius išteklius valstybės lėšomis perka Viešųjų pirkimų įstatymo ir Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nustatyta tvarka. Valstybės rezervo tvarkytojai atlikti materialinių išteklių atsargų pirkimo procedūras Viešųjų pirkimų įstatymo ir Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nustatyta tvarka gali įgalioti kitas institucijas ar įstaigas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
+ 
 
 
 
@@ -374,7 +380,10 @@ Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
 
 
 
-3. Materialinių išteklių atsargos, kurių pirkimas numatytas pagal rezervavimo sutartis, rezervuojamos ir laikomos atskiruose statiniuose (atskirose patalpose) arba atskirtose jų patalpose ir susidarius ekstremaliajai situacijai, krizės atveju, paskelbus mobilizaciją ir (arba) įvedus nepaprastąją ar karo padėtį, negali būti be Vyriausybės ar jos įgaliotos institucijos leidimo naudojamos jokiems kitiems tikslams. 
+3. Materialinių išteklių atsargos, kurių pirkimas numatytas pagal rezervavimo sutartis, tiekėjų rezervuojamos ir laikomos ir, susidarius ekstremaliajai situacijai, krizės atveju, paskelbus mobilizaciją ir (arba) įvedus nepaprastąją ar karo padėtį, negali būti be Vyriausybės ar jos įgaliotos institucijos leidimo naudojamos jokiems kitiems tikslams.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
+ 
 
 
 Straipsnio pakeitimai:
@@ -391,7 +400,10 @@ Nr. XIV-933, 2022-03-10, paskelbta TAR 2022-03-16, i. k. 2022-04821
 1. Šio įstatymo 2 straipsnio 1 dalies 2 punkte nurodytos valstybės rezervo materialinių išteklių atsargos atnaujinamos, kai:
 
 
-1) iki jų tinkamumo naudoti termino pabaigos liko ne daugiau kaip pusė viso tinkamumo naudoti laiko;
+1) iki jų tinkamumo naudoti termino arba, kai jis nenustatytas, iki saugojimo termino pabaigos liko ne daugiau kaip pusė viso termino laiko. Saugojimo terminą nustato valstybės rezervo tvarkytojas atsižvelgdamas į laiką, per kurį materialinis išteklius gali būti saugiai ir kokybiškai naudojamas pagal paskirtį; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
+ 
 
 
 
@@ -411,7 +423,10 @@ Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
 
 
 
-2. Valstybės rezervo materialinių išteklių atsargas atnaujina valstybės rezervo tvarkytojai.
+2. Valstybės rezervo materialinių išteklių atsargas atnaujina valstybės rezervo tvarkytojai. Atnaujinant valstybės rezervo atsargas šio straipsnio 3 dalies 1 punkte nurodytu būdu, valstybės rezervo tvarkytojai atsargas perka šio įstatymo 9 straipsnio 1 dalyje nustatyta tvarka. Atlikti materialinių išteklių pardavimo procedūras (išskyrus pardavimo sutarties sudarymą) valstybės rezervo tvarkytojai gali įgalioti kitas institucijas ar įstaigas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
+ 
 
 
 
@@ -437,12 +452,43 @@ Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
 
 
 
-4) medicinos atsargos, kurios nebuvo parduotos atliekant atnaujinimą, bet iki jų tinkamumo vartoti termino pabaigos liko ne daugiau kaip 6 mėnesiai, Lietuvos nacionalinei sveikatos sistemai priklausančių sveikatos priežiūros biudžetinių įstaigų prašymu gali būti patikėjimo teise perduotos jų steigimo dokumentuose nurodytai veiklai vykdyti;
+4) medicinos atsargos, kurios nebuvo parduotos atliekant atnaujinimą, bet iki jų tinkamumo vartoti arba saugojimo termino pabaigos liko ne daugiau kaip 6 mėnesiai, gali būti patikėjimo teise perduotos šiems asmenims (perduodama pirmam iš eilės, o jeigu šiam nereikia, kitam iš eilės): 
+
+
+a) Lietuvos nacionalinei sveikatos sistemai priklausančių sveikatos priežiūros biudžetinių įstaigų prašymu jų steigimo dokumentuose nurodytai veiklai vykdyti;
 
 
 
 
-5) medicinos atsargos, kurios nebuvo parduotos atliekant atnaujinimą, bet iki jų tinkamumo vartoti termino pabaigos liko ne daugiau kaip 6 mėnesiai, Lietuvos nacionalinei sveikatos sistemai priklausančių sveikatos priežiūros viešųjų ar kitų įstaigų ir įmonių prašymu gali būti neatlygintinai perduotos jų nuosavybėn jų steigimo dokumentuose nurodytai veiklai vykdyti. Perduodamos medicinos atsargos gali būti naudojamos tik iš Privalomojo sveikatos draudimo fondo finansuojamoms sveikatos priežiūros paslaugoms teikti.
+b) socialinės globos biudžetinių įstaigų prašymu jų steigimo dokumentuose nurodytai veiklai vykdyti;
+
+
+
+
+c) švietimo biudžetinių įstaigų prašymu jų steigimo dokumentuose nurodytai veiklai vykdyti;
+
+
+
+
+d) valstybės institucijoms ir įstaigoms jų steigimo dokumentuose nurodytai veiklai vykdyti;
+
+
+
+
+e) savivaldybėms savarankiškosioms ir valstybinėms (valstybės perduotoms savivaldybėms) funkcijoms atlikti; 
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
+ 
+
+
+
+
+5) medicinos atsargos, kurios nebuvo parduotos atliekant atnaujinimą, bet iki jų tinkamumo vartoti arba saugojimo termino pabaigos liko ne daugiau kaip 6 mėnesiai, Lietuvos nacionalinei sveikatos sistemai priklausančių sveikatos priežiūros viešųjų ar kitų įstaigų ir įmonių ir Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 14 straipsnio 1 dalies 5 punkte nurodytų bei kitų viešosios naudos nevyriausybinių organizacijų, vykdančių nemokamą privalomąjį pirmosios pagalbos, higienos įgūdžių mokymą ir (arba) nemokamą privalomąjį mokymą apie alkoholio, narkotinių ir psichotropinių ar kitų psichiką veikiančių medžiagų vartojimo poveikį žmogaus sveikatai, (toliau kartu – NVO) prašymu gali būti neatlygintinai perduotos jų nuosavybėn jų steigimo dokumentuose nurodytai veiklai vykdyti. Perduodamos medicinos atsargos gali būti naudojamos tik iš Privalomojo sveikatos draudimo fondo finansuojamoms sveikatos priežiūros paslaugoms teikti arba šiame punkte nurodytiems mokymams vykdyti.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
+ 
 
 
 
@@ -472,7 +518,10 @@ Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
 12 straipsnis. Valstybės rezervo materialinių išteklių atsargų nurašymas
 
 
-1. Šio įstatymo 2 straipsnio 1 dalies 2 punkte nurodytos valstybės rezervo materialinių išteklių atsargos, kurios nebuvo parduotos ar perduotos valstybės institucijoms, savivaldybėms, labdaros teikėjams, Lietuvos nacionalinei sveikatos sistemai priklausančioms biudžetinėms, viešosioms ar kitoms sveikatos priežiūros įstaigoms ar įmonėms ir kurių neįmanoma parduoti, kadangi saugojimo metu pasibaigė jų tinkamumo naudoti (vartoti) terminas arba šie ištekliai  nebeatitinka Lietuvos Respublikoje nustatytų saugos ir nekenksmingumo sveikatai ir aplinkai reikalavimų ar analogiškų rinkoje esančių materialinių išteklių kokybės standartų ar techninio lygio, nurašomos Vyriausybės nustatyta tvarka valstybės rezervo tvarkytojo sprendimu.
+1. Šio įstatymo 2 straipsnio 1 dalies 2 punkte nurodytos valstybės rezervo materialinių išteklių atsargos, kurios nebuvo parduotos ar perduotos valstybės institucijoms ir įstaigoms, savivaldybėms, labdaros teikėjams, Lietuvos nacionalinei sveikatos sistemai priklausančioms biudžetinėms, viešosioms ar kitoms sveikatos priežiūros įstaigoms ar įmonėms, socialinės globos ar švietimo biudžetinėms įstaigoms arba NVO ir kurių neįmanoma parduoti, kadangi saugojimo metu pasibaigė jų tinkamumo naudoti (vartoti) terminas arba šie ištekliai nebeatitinka Lietuvos Respublikoje nustatytų saugos ir nekenksmingumo sveikatai ir aplinkai reikalavimų ar analogiškų rinkoje esančių materialinių išteklių kokybės standartų ar techninio lygio, arba kurių valstybės rezervo tvarkytojo nustatytas saugojimo terminas yra pasibaigęs, nurašomos Vyriausybės nustatyta tvarka valstybės rezervo tvarkytojo sprendimu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
+ 
 
 
 
@@ -636,7 +685,10 @@ Valstybės rezervo koordinatorius:
 
 
 
-4) Buhalterinės apskaitos įstatymo nustatyta tvarka organizuoja valstybės rezervo materialinių išteklių atsargų apskaitą;
+4) Finansinės apskaitos įstatymo nustatyta tvarka organizuoja valstybės rezervo materialinių išteklių atsargų apskaitą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
+ 
 
 
 
@@ -698,9 +750,17 @@ Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
 
 
 
-12) naudoja su valstybės rezervo tvarkymu ir administravimu susijusias šio įstatymo 2 straipsnio 1 dalies 2 punkte nurodytas valstybės rezervo materialinių išteklių atsargas ir kontroliuoja jų naudojimą. 
+12) naudoja su valstybės rezervo tvarkymu ir administravimu susijusias šio įstatymo 2 straipsnio 1 dalies 2 punkte nurodytas valstybės rezervo materialinių išteklių atsargas ir kontroliuoja jų naudojimą; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
+ 
+
+
+
+
+13) nustato materialinių išteklių saugojimo terminą. 
+Papildyta straipsnio punktu:
+Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
  
 
 
@@ -713,7 +773,9 @@ Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
 
 
 
-3. Valstybės rezervo tvarkytojas turi teisę perduoti šio straipsnio 1 dalies 4, 6, 9, 10, 11 punktuose nustatytas valstybės rezervo tvarkytojo funkcijas valstybės rezervo atsakingiesiems saugotojams.
+3. Valstybės rezervo tvarkytojas turi teisę perduoti šio straipsnio 1 dalies 4, 6, 9, 10, 11 ir 13 punktuose nustatytas valstybės rezervo tvarkytojo funkcijas valstybės rezervo atsakingiesiems saugotojams.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
  
 
 
@@ -727,7 +789,10 @@ Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
 1. Valstybės rezervo atsakingasis saugotojas:
 
 
-1) Buhalterinės apskaitos įstatymo nustatyta tvarka traukia į apskaitą saugomas šio įstatymo 2 straipsnio 1 dalies 2 punkte nurodytas valstybės rezervo materialinių išteklių atsargas;
+1) Finansinės apskaitos įstatymo nustatyta tvarka traukia į apskaitą saugomas šio įstatymo 2 straipsnio 1 dalies 2 punkte nurodytas valstybės rezervo materialinių išteklių atsargas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
+ 
 
 
 
@@ -777,7 +842,10 @@ Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
 181 straipsnis. Tiekėjo pareigos ir pareigų laikymosi priežiūra
 
 
-1. Tiekėjas, sudaręs preliminariąją arba rezervavimo sutartį su valstybės rezervo tvarkytoju, užtikrina, kad valstybės rezervo materialinių išteklių atsargos sudarius pirkimo sutartį preliminariosios sutarties pagrindu arba pagal rezervavimo sutartį būtų laiku perduotos Vyriausybės ar jos pavedimu valstybės rezervo tvarkytojo nustatytiems subjektams, sudaro galimybę valstybės rezervo tvarkytojui ne rečiau kaip du kartus per metus patikrinti tiekėjo galimybes užtikrinti preliminariojoje arba rezervavimo sutartyje nustatyto kiekio ir rūšies valstybės rezervo materialinių išteklių atsargų tiekimą ir jų pristatymą per preliminariojoje arba rezervavimo sutartyje nustatytą terminą (toliau – tiekimas ir pristatymas). 
+1. Tiekėjas, sudaręs preliminariąją arba rezervavimo sutartį su valstybės rezervo tvarkytoju, užtikrina, kad valstybės rezervo materialinių išteklių atsargos sudarius pirkimo sutartį preliminariosios sutarties pagrindu arba pagal rezervavimo sutartį būtų laiku perduotos Vyriausybės ar jos pavedimu valstybės rezervo tvarkytojo nustatytiems subjektams, sudaro galimybę valstybės rezervo tvarkytojui ne rečiau kaip kartą per metus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka patikrinti tiekėjo galimybes užtikrinti preliminariojoje arba rezervavimo sutartyje nustatyto kiekio ir rūšies valstybės rezervo materialinių išteklių atsargų tiekimą ir jų pristatymą per preliminariojoje arba rezervavimo sutartyje nustatytą terminą (toliau – tiekimas ir pristatymas).
+Straipsnio dalies pakeitimai:
+Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
+ 
 
 
 
@@ -878,3 +946,8 @@ Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 8, 10, 13, 17
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1651, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26608
 Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 3, 4 ir 13 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
+Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 6, 9, 10, 11, 12, 17, 18 ir 18-1 straipsnių pakeitimo įstatymas
