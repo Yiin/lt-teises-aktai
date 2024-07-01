@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/0d40441067e511eca9ac839120d251c4"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso 12, 33, 223, 321, 325, 327, 401, 413-1, 558, 560, 569, 578, 579, 589, 608, 609, 610, 611, 617, 618, 620, 621, 644, 664, 665 straipsnių, XXXIX skyriaus pavadinimo ir priedo pakeitimo ir 323 straipsnio pripažinimo netekusiu galios įstatymas
 
+Suvestinė redakcija nuo 2024-07-01
+ 
+Įstatymas paskelbtas: TAR 2021-12-28, i. k. 2021-27362
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ADMINISTRACINIŲ NUSIŽENGIMŲ KODEKSO 12, 33, 223, 321, 325, 327, 401, 4131, 558, 560, 569, 578, 579, 589, 608, 609, 610, 611, 617, 618, 620, 621, 644, 664, 665 STRAIPSNIŲ, XXXIX SKYRIAUS PAVADINIMO IR PRIEDO PAKEITIMO IR 323 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
 ĮSTATYMAS
@@ -21,9 +28,6 @@ ADMINISTRACINIŲ NUSIŽENGIMŲ KODEKSO 12, 33, 223, 321, 325, 327, 401, 4131, 55
 Vilnius
  
  
-
- 
-
  
  
 
@@ -80,22 +84,12 @@ Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-3 straipsnis. 223 straipsnio pakeitimas
-
-
-Pakeisti 223 straipsnio 2 dalį ir ją išdėstyti taip:
-
-
-
-
-„2. Neteisingų juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinės ataskaitos, metinio pranešimo (konsoliduotojo metinio pranešimo), veiklos ataskaitų, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) pateikimas Juridinių asmenų registro tvarkytojui arba juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinės ataskaitos, metinio pranešimo (konsoliduotojo metinio pranešimo), veiklos ataskaitų, auditoriaus išvados, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka
-užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų organizacijų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo dviejų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.“
-
-
-
-
-
-
+3 straipsnis. Neteko galios nuo 2024-07-01
+Straipsnio naikinimas:
+Nr. XIV-2814, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12137
+Straipsnio pakeitimai:
+Nr. XIV-2022, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11837
+ 
 
 
 
@@ -530,7 +524,10 @@ Pakeisti 611 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-„4. Už šio straipsnio 1 dalyje ir šio kodekso 223 straipsnio 2 dalyje nurodytus administracinius nusižengimus administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas) gali būti automatiškai suformuojamas Administracinių nusižengimų registre. Automatiškai suformuotame administracinio nusižengimo protokole nurodoma: jo suformavimo data ir vieta, įstaigos, kurioje administracinio nusižengimo protokolas buvo suformuotas, pavadinimas; duomenys apie administracinėn atsakomybėn traukiamą asmenį (asmens vardas, pavardė, asmens kodas, adresas, užsienio valstybių piliečių gimimo metai); administracinio nusižengimo padarymo vieta (gali būti nurodomos tik vietos koordinatės), laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už šį nusižengimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo; bylos nagrinėjimo data, laikas ir vieta, jei tai žinoma administracinio nusižengimo protokolo suformavimo metu; kiti bylai išnagrinėti būtini duomenys. Kai nėra šio kodekso 610 straipsnio 2 dalyje nurodytų pagrindų, administracinio nusižengimo protokole automatiškai suformuojamas šio kodekso 609 straipsnio 2 dalyje, 610 straipsnio 1 dalyje nurodyto turinio administracinis nurodymas. Automatiškai Administracinių nusižengimų registre suformuotas administracinio nusižengimo protokolas nepasirašomas.“
+4. Už šio straipsnio 1 dalyje ir šio kodekso 187 straipsnio 1 ir 2 dalyse, 223 straipsnio 2 dalyje nurodytus administracinius nusižengimus administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas) gali būti automatiškai suformuojamas Administracinių nusižengimų registre. Automatiškai suformuotame administracinio nusižengimo protokole (nutarime) nurodoma: jo suformavimo data ir vieta, įstaigos, kurioje administracinio nusižengimo protokolas (nutarimas) buvo suformuotas, pavadinimas; duomenys apie administracinėn atsakomybėn traukiamą asmenį (asmens vardas, pavardė, asmens kodas, adresas, užsienio valstybių piliečių gimimo metai); administracinio nusižengimo padarymo vieta (gali būti nurodomos tik vietos koordinatės), laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už šį nusižengimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo; bylos nagrinėjimo data, laikas ir vieta, jei tai žinoma administracinio nusižengimo protokolo suformavimo metu (nutarime šie duomenys nenurodomi); kiti bylai išnagrinėti būtini duomenys. Šio kodekso 608 straipsnio 5 dalyje nustatyta tvarka priimtame nutarime taip pat nurodoma asmeniui skiriama nuobauda ir šio nutarimo apskundimo tvarka. Kai nėra šio kodekso 610 straipsnio 2 dalyje nurodytų pagrindų, administracinio nusižengimo protokole automatiškai suformuojamas šio kodekso 609 straipsnio 2 dalyje, 610 straipsnio 1 dalyje nurodyto turinio administracinis nurodymas. Automatiškai Administracinių nusižengimų registre suformuotas administracinio nusižengimo protokolas (nutarimas) nepasirašomas.“. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2748, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11253
+ 
 
 
 
@@ -1365,4 +1362,21 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
-part_5258aa09d4104a90b2502c056085c4d4_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2022, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11837
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 33, 223, 321, 325, 327, 401, 413-1, 558, 560, 569, 578, 579, 589, 608, 609, 610, 611, 617, 618, 620, 621, 644, 664, 665 straipsnių, XXXIX skyriaus pavadinimo ir priedo pakeitimo ir 323 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIV-785 3 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2748, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11253
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 33, 223, 321, 325, 327, 401, 413-1, 558, 560, 569, 578, 579, 589, 608, 609, 610, 611, 617, 618, 620, 621, 644, 664, 665 straipsnių, XXXIX skyriaus pavadinimo ir priedo pakeitimo ir 323 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIV-785 19 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2814, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12137
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 33, 223, 321, 325, 327, 401, 413-1, 558, 560, 569, 578, 579, 589, 608, 609, 610, 611, 617, 618, 620, 621, 644, 664, 665 straipsnių, XXXIX skyriaus pavadinimo ir priedo pakeitimo ir 323 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIV-785 3 straipsnio pripažinimo netekusiu galios įstatymas
