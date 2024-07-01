@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9116a35030a011e78397ae072f58c508"
 
 # Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-10-17
  
 Įstatymas paskelbtas: TAR 2017-05-04, i. k. 2017-07551
  
@@ -2181,15 +2181,19 @@ Nr. XIV-1394, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16121
 37 straipsnis. Tarptautinio pirkimo, supaprastinto pirkimo ir mažos vertės pirkimo atlikimas
 
 
-1. Tarptautinį ar supaprastintą pirkimą perkantysis subjektas atlieka šiame įstatyme nustatyta tvarka, išskyrus šio straipsnio 2 ir 4 dalyse nurodytus atvejus.
+1. Tarptautinį ar supaprastintą pirkimą perkantysis subjektas atlieka šiame įstatyme nustatyta tvarka, išskyrus šio straipsnio 2 ir 4 dalyse nurodytus atvejus. Atliekant supaprastintus pirkimus, pažymų, patvirtinančių Viešųjų pirkimų įstatymo 46 straipsnyje nurodytų tiekėjo pašalinimo pagrindų nebuvimą, nereikalaujama, kai tiekėjas pateikia Europos bendrąjį viešųjų pirkimų dokumentą. Pažymų, patvirtinančių tiekėjo pašalinimo pagrindų nebuvimą, perkantysis subjektas gali reikalauti iš tiekėjų tik turėdamas pagrįstų abejonių dėl šių tiekėjų patikimumo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2752, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11296
+ 
 
 
 
 
-2. Atliekant mažos vertės pirkimus, taikomos šio įstatymo I skyriaus, 44, 47 straipsnių, 50 straipsnio 9 dalies, 68 straipsnio 1 dalies, 90 straipsnio, 94 straipsnio 5, 6, 7 ir 9 dalių, 99 straipsnio, VI ir VII skyrių ir Viešųjų pirkimų įstatymo 47 straipsnio 9 dalies nuostatos ir perkančiojo subjekto tvirtinamame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu mažos vertės neskelbiamas pirkimas atliekamas šio įstatymo 79 straipsnio 1 dalies 3 punkte, 3 dalies 1, 2 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis ar į mažos vertės neskelbiamą pirkimą kviečiamas tik vienas tiekėjas, šio įstatymo 34 straipsnio reikalavimų, išskyrus 34 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Be to, gali būti nesilaikoma šio įstatymo 90 straipsnio reikalavimų, jeigu atliekamas mažos vertės neskelbiamas pirkimas, kurio numatoma pirkimo sutarties vertė yra mažesnė kaip 10 000 Eur (dešimt tūkstančių eurų) (be pridėtinės vertės mokesčio). Šio įstatymo 50 straipsnio 9 dalies ir Viešųjų pirkimų įstatymo 47 straipsnio 9 dalies reikalavimai gali būti netaikomi, kai sutarties vertė neviršija 5 000 Eur (penkių tūkstančių eurų) (be pridėtinės vertės mokesčio) ir tiekėjui, subtiekėjui ar ūkio subjektui, kurio pajėgumais yra remiamasi, nėra suteikiama teisė aptarnauti, gauti prieigą ar kitaip susipažinti su perkančiojo subjekto vidaus dokumentuose nustatytomis ryšių ir informacinėmis sistemomis (ar jų dalimis), kurios yra reikšmingos perkančiojo subjekto veiklai, šių ryšių ir informacinių sistemų (ar jų dalių) technologijomis, duomenų bazėmis ar jose esamais duomenimis. Tokiu atveju perkantysis subjektas iš prieinamų šaltinių įsitikina, kad prekių gamintojas ar paslaugų teikėjas nėra registruoti (jeigu fizinis asmuo – nuolat gyvenantis ar turintis pilietybę) Viešųjų pirkimų įstatymo 92 straipsnio 14 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose.
+2. Atliekant mažos vertės pirkimus, taikomos šio įstatymo I skyriaus, 44, 47 straipsnių, 50 straipsnio 9 dalies, 68 straipsnio 1 dalies, 90 straipsnio, 94 straipsnio 5, 6, 7 ir 9 dalių, 99 straipsnio, VI ir VII skyrių ir Viešųjų pirkimų įstatymo 47 straipsnio 9 dalies nuostatos ir perkančiojo subjekto tvirtinamame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu mažos vertės neskelbiamas pirkimas atliekamas šio įstatymo 79 straipsnio 1 dalies 3 punkte, 3 dalies 1, 2 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis ar į mažos vertės neskelbiamą pirkimą kviečiamas tik vienas tiekėjas, šio įstatymo 34 straipsnio reikalavimų, išskyrus 34 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Be to, gali būti nesilaikoma šio įstatymo 90 straipsnio reikalavimų, jeigu atliekamas mažos vertės neskelbiamas pirkimas, kurio numatoma pirkimo sutarties vertė yra mažesnė kaip 15 000 Eur (penkiolika tūkstančių eurų) (be pridėtinės vertės mokesčio). Šio įstatymo 50 straipsnio 9 dalies ir Viešųjų pirkimų įstatymo 47 straipsnio 9 dalies reikalavimai gali būti netaikomi, kai sutarties vertė neviršija 5 000 Eur (penkių tūkstančių eurų) (be pridėtinės vertės mokesčio) ir tiekėjui, subtiekėjui ar ūkio subjektui, kurio pajėgumais yra remiamasi, nėra suteikiama teisė aptarnauti, gauti prieigą ar kitaip susipažinti su perkančiojo subjekto vidaus dokumentuose nustatytomis ryšių ir informacinėmis sistemomis (ar jų dalimis), kurios yra reikšmingos perkančiojo subjekto veiklai, šių ryšių ir informacinių sistemų (ar jų dalių) technologijomis, duomenų bazėmis ar jose esamais duomenimis. Tokiu atveju perkantysis subjektas iš prieinamų šaltinių įsitikina, kad prekių gamintojas ar paslaugų teikėjas nėra registruoti (jeigu fizinis asmuo – nuolat gyvenantis ar turintis pilietybę) Viešųjų pirkimų įstatymo 92 straipsnio 14 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose.
 Straipsnio dalies pakeitimai:
 Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
 Nr. XIV-1672, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27262
+Nr. XIV-2752, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11296
  
 
 
@@ -4112,7 +4116,10 @@ Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
 1. Perkantysis subjektas kandidatams ir dalyviams ne vėliau kaip per 3 darbo dienas raštu praneša apie priimtą sprendimą nustatyti laimėjusį pasiūlymą, dėl kurio bus sudaroma pirkimo sutartis ar preliminarioji sutartis, arba apie sprendimą leisti dalyvauti dinaminėje pirkimo sistemoje, pateikia šio straipsnio 2 dalyje nurodytos atitinkamos informacijos, kuri dar nebuvo pateikta atliekant pirkimo procedūrą, santrauką, nurodo nustatytą pasiūlymų eilę, laimėjusį pasiūlymą ir tikslų atidėjimo terminą. Perkantysis subjektas taip pat turi nurodyti priežastis, dėl kurių buvo priimtas sprendimas nesudaryti pirkimo sutarties ar preliminariosios sutarties, pradėti pirkimą ar dinaminę pirkimų sistemą iš naujo. Šioje dalyje nurodyto reikalavimo gali būti nesilaikoma, kai:
 
 
-1) supaprastinto pirkimo atveju pirkimo sutartis, kurios numatoma vertė neviršija 10 000 Eur (dešimt tūkstančių eurų) (be pridėtinės vertės mokesčio), sudaroma preliminariosios sutarties pagrindu;
+1) supaprastinto pirkimo atveju pirkimo sutartis, kurios numatoma vertė neviršija 15 000 Eur (penkiolika tūkstančių eurų) (be pridėtinės vertės mokesčio), sudaroma preliminariosios sutarties pagrindu;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2752, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11296
+ 
 
 
 
@@ -8160,3 +8167,8 @@ Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2533, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07266
 Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 12, 13 ir 94 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2752, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11296
+Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 37 ir 68 straipsnių pakeitimo įstatymas
