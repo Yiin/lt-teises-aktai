@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -1137,10 +1137,11 @@ Eismo saugumo užtikrinimą reglamentuoja šis įstatymas, kiti Lietuvos Respubl
 Eismo saugumas užtikrinamas: 
 
 
-1) nustatant Vyriausybės įgaliojimus, valstybės ir savivaldybių institucijų, įstaigų,  valstybės įmonių ir akcinės bendrovės Lietuvos automobilių kelių direkcijos kompetenciją eismo saugumo užtikrinimo srityje;
+1) nustatant Vyriausybės įgaliojimus, valstybės ir savivaldybių institucijų, įstaigų, akcinės bendrovės Lietuvos automobilių kelių direkcijos ir akcinės bendrovės „Regitra“ kompetenciją eismo saugumo užtikrinimo srityje;
 Straipsnio punkto pakeitimai:
 Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 Nr. XIV-662, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25028
+Nr. XIV-2458, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25950
  
 
 
@@ -1636,7 +1637,18 @@ Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
 
 
 
-4) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.
+4) nustato vairavimo esant neblaiviam prevencijos programą; 
+Papildyta straipsnio punktu:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
+
+
+
+
+5) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 
@@ -1677,62 +1689,42 @@ Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 
 
-2) kaupia duomenis apie išduotus motorinių transporto priemonių vairuotojų pažymėjimus; 
+2) nustato motorinių transporto priemonių ir jų priekabų registravimo ir apskaitos tvarką;
 
 
 
 
-3) nustato motorinių transporto priemonių ir jų priekabų registravimo ir apskaitos tvarką; 
+3) suderinusi su Susisiekimo ministerija, nustato motorinės transporto priemonės vairuotojo pažymėjimo išdavimo, teisės vairuoti transporto priemones atėmimo ir grąžinimo tvarką;
 
 
 
 
-4) organizuoja motorinių transporto priemonių ir jų priekabų registravimą ir apskaitą;
+4) nustato laikinųjų valstybinio  numerio ženklų, skirtų motorinėms transporto priemonėms, priekaboms, savivaldžių automobilių bandymams ženklinti, išdavimo ir naudojimo tvarką;
 
 
 
 
-5) suderinusi su Susisiekimo ministerija, nustato motorinės transporto priemonės vairuotojo pažymėjimo išdavimo, teisės vairuoti transporto priemones atėmimo ir grąžinimo tvarką;
+5) suderinusi su Susisiekimo ministerija, nustato specialiųjų transporto priemonių vairuotojų papildomo mokymo tvarką;
 
 
 
 
-6) nustato laikinųjų valstybinio numerio ženklų, skirtų motorinėms transporto priemonėms, priekaboms, savivaldžių automobilių bandymams ženklinti, išdavimo ir jų naudojimo tvarką; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-856, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20338
+6) nustato vairuotojų kvalifikacijos kortelių išdavimo tvarką;
+
+
+
+
+7) nustato leidimų naudoti kelių transporto priemones su stiklais, kurių šviesos laidumas mažesnis, negu leistina, išdavimo sąlygas ir tvarką;
+
+
+
+
+8) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2458, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25950
  
-
-
-
-
-7) suderinusi su Susisiekimo ministerija, nustato specialiųjų transporto priemonių vairuotojų papildomo mokymo tvarką;
-
-
-
-
-8) nustato vairuotojo kvalifikacijos kortelių išdavimo tvarką; 
-Papildyta straipsnio punktu:
-Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
- 
-
-
-
-
-9) nustato leidimų naudoti kelių transporto priemones su stiklais, kurių šviesos laidumas mažesnis, negu leistina, išdavimo sąlygas ir tvarką; 
-Papildyta straipsnio punktu:
-Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
- 
-
-
-
-
-10) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
-Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
- 
-
-
 
 
 
@@ -1911,7 +1903,10 @@ Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
 
 
 
-7) kaupia ir analizuoja duomenis apie KET pažeidimus ir eismo įvykius;
+7) Neteko galios nuo 2024-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 
@@ -2143,10 +2138,44 @@ Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
 
 
 
-13. Tikrinantys pareigūnai, atlikdami savo funkcijas, neturi kelti grėsmės eismo saugumui.
+13. Užtikrindama eismo saugumą, akcinė bendrovė „Regitra“:
+
+
+1) atlieka motorinių transporto priemonių ir (ar) jų priekabų savininkų apskaitą (priima ir tvarko nuosavybės teisės į motorines transporto priemones ir (ar) jų priekabas įgijimo arba perleidimo deklaravimo dokumentus, tvarko Transporto priemonių savininkų apskaitos informacinę sistemą);
+
+
+
+
+2) atlieka motorinių transporto priemonių ir (ar) jų priekabų registraciją (išduoda dokumentus, liudijančius transporto priemonės ir (ar) priekabos įregistravimą, ir valstybinio registracijos numerio ženklus, sustabdo ar panaikina motorinės transporto priemonės ir (ar) priekabos leidimą dalyvauti viešajame eisme, tvarko Lietuvos Respublikos kelių transporto priemonių registrą);
+
+
+
+
+3) atlieka motorinių transporto priemonių vairuotojų registraciją (vykdo vairavimo egzaminavimą ir išduoda bei keičia motorinių transporto priemonių vairuotojų pažymėjimus, grąžina teisę vairuoti motorines transporto priemones, tvarko Lietuvos Respublikos kelių transporto priemonių vairuotojų registrą);
+
+
+
+
+4) išduoda ir traukia į apskaitą vairuotojų kvalifikacijos korteles;
+
+
+
+
+5) išduoda ir traukia į apskaitą laikinuosius valstybinio  numerio ženklus, skirtus motorinėms transporto priemonėms, priekaboms, savivaldžių automobilių bandymams ir dalyvavimui viešajame eisme ženklinti. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2458, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25950
+ 
+
+
+
+
+14. Tikrinantys pareigūnai, atlikdami savo funkcijas, neturi kelti grėsmės eismo saugumui.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
+Nr. XIV-2458, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25950
  
 
 
@@ -3282,9 +3311,10 @@ Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
 
 
 
-3. Asmens teisę vairuoti tam tikrų kategorijų motorines transporto priemones, kai teisė vairuoti transporto priemones nėra atimta, patvirtina įrašas apie išduotą vairuotojo pažymėjimą Lietuvos Respublikos kelių transporto priemonių vairuotojų registre ar valstybės įmonės „Regitra“ išduotas vairuotojo pažymėjimas, kurio duomenys tvarkomi Lietuvos Respublikos kelių transporto priemonių vairuotojų registre, ir šio įstatymo 13 straipsnio 9 dalyje nurodyti užsienio valstybėse išduoti vairuotojo pažymėjimai. 
+3. Asmens teisę vairuoti tam tikrų kategorijų motorines transporto priemones, kai teisė vairuoti transporto priemones nėra atimta, patvirtina įrašas apie išduotą vairuotojo pažymėjimą Lietuvos Respublikos kelių transporto priemonių vairuotojų registre ar akcinės bendrovės „Regitra“ išduotas vairuotojo pažymėjimas, kurio duomenys tvarkomi Lietuvos Respublikos kelių transporto priemonių vairuotojų registre, ir šio įstatymo 13 straipsnio 9 dalyje nurodyti užsienio valstybėse išduoti vairuotojo pažymėjimai.
 Straipsnio dalies pakeitimai:
 Nr. XIII-974, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21733
+Nr. XIV-2458, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25950
  
 
 
@@ -3463,7 +3493,10 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 
-7. Jeigu Europos Sąjungos kodo (95) negalima nurodyti vairuotojo pažymėjime, vairuotojui išduodama vairuotojo kvalifikacijos kortelė. Lietuvos Respublikoje pripažįstamos kitų Europos Sąjungos valstybių narių išduotos vairuotojo kvalifikacijos kortelės. Valstybės įmonė „Regitra“, išduodama vairuotojo kvalifikacijos kortelę, patikrina teisės vairuoti tam tikros kategorijos transporto priemones galiojimą, nurodytą vairuotojo pažymėjime.
+7. Jeigu Europos Sąjungos kodo (95) negalima nurodyti vairuotojo pažymėjime, vairuotojui išduodama vairuotojo kvalifikacijos kortelė. Lietuvos Respublikoje pripažįstamos kitų Europos Sąjungos valstybių narių išduotos vairuotojų kvalifikacijos kortelės. Akcinė bendrovė „Regitra“, išduodama vairuotojo kvalifikacijos kortelę, patikrina teisės vairuoti tam tikros kategorijos transporto priemones galiojimą, nurodytą vairuotojo pažymėjime.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2458, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25950
+ 
 
 
 
@@ -3509,7 +3542,10 @@ Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 
 
-6) B kategorija – automobiliai, kurių didžiausioji leidžiamoji masė ne didesnė kaip 3 500 kg ir kurie skirti ir suprojektuoti vežti ne daugiau kaip aštuonis keleivius, neįskaitant vairuotojo; šie automobiliai gali būti sujungti su priekaba, kurios didžiausioji leidžiamoji masė ne didesnė kaip 750 kg; šie automobiliai taip pat gali būti sujungti su priekaba, kurios didžiausioji leidžiamoji masė didesnė kaip 750 kg, tačiau šio junginio didžiausioji leidžiamoji masė turi būti ne didesnė kaip 4 250 kg; automobilio ir priekabos, kurios didžiausioji leidžiamoji masė didesnė kaip 750 kg, junginį, kurio didžiausioji leidžiamoji masė didesnė kaip 3 500 kg, leidžiama vairuoti tik išlaikius įgūdžių ir elgsenos patikrinimo egzaminą valstybės įmonėje „Regitra“;
+6) B kategorija – automobiliai, kurių didžiausioji leidžiamoji masė ne didesnė kaip 3 500 kg ir kurie skirti ir suprojektuoti vežti ne daugiau kaip aštuonis keleivius, neįskaitant vairuotojo; šie automobiliai gali būti sujungti su priekaba, kurios didžiausioji leidžiamoji masė ne didesnė kaip 750 kg; šie automobiliai taip pat gali būti sujungti su priekaba, kurios didžiausioji leidžiamoji masė didesnė kaip 750 kg, tačiau šio junginio didžiausioji leidžiamoji masė turi būti ne didesnė kaip 4 250 kg; automobilio ir priekabos, kurios didžiausioji leidžiamoji masė didesnė kaip 750 kg, junginį, kurio didžiausioji leidžiamoji masė didesnė kaip 3 500 kg, leidžiama vairuoti tik išlaikius įgūdžių ir elgsenos patikrinimo egzaminą akcinėje bendrovėje „Regitra“;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2458, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25950
+ 
 
 
 
@@ -3779,7 +3815,10 @@ Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
 
 
 
-5. Asmeniui, iš kurio pagal įstatymus teisė vairuoti transporto priemones buvo atimta už tai, kad jis padarė teisės pažeidimą būdamas neblaivus arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, teisė vairuoti transporto priemones grąžinama tik pasibaigus šios teisės atėmimo laikui, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka po medicininės ir švietėjiškos atestacijos, baigus papildomą vairuotojų mokymą ir perlaikius vairavimo egzaminą. Reikalavimas perlaikyti vairavimo egzaminą netaikomas, jeigu dėl šioje dalyje nurodyto teisės pažeidimo padarymo teisė vairuoti transporto priemones buvo atimta trumpesniam negu vieni metai laikui.
+5. Asmeniui, iš kurio pagal įstatymus teisė vairuoti transporto priemones buvo atimta už tai, kad jis padarė teisės pažeidimą būdamas neblaivus arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, teisė vairuoti transporto priemones grąžinama tik pasibaigus šios teisės atėmimo laikui, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka po medicininės ir švietėjiškos atestacijos, baigus vairavimo esant neblaiviam prevencijos programą, papildomą vairuotojų mokymą ir perlaikius vairavimo egzaminą. Reikalavimas baigti vairavimo esant neblaiviam prevencijos programą netaikomas, jeigu asmeniui nepaskirta administracinio poveikio priemonė – draudimas vairuoti transporto priemones, kuriose neįrengti antialkoholiniai variklio užraktai. Reikalavimas perlaikyti vairavimo egzaminą netaikomas, jeigu dėl šioje dalyje nurodyto teisės pažeidimo padarymo teisė vairuoti transporto priemones buvo atimta trumpesniam negu vieni metai laikui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 
@@ -3945,7 +3984,10 @@ Nr. XIII-107, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29786
 
 
 
-2. Valstybinio numerio ženklus draudžiama uždengti apsauginėmis medžiagomis, lankstyti ar kitaip keisti jų formą, jie neturi būti apgadinti, užteršti ar surūdiję. Tuo atveju, kai vežamas prie motorinės transporto priemonės ir (ar) priekabos galinės dalies pritvirtintas dviratis (dviračiai) uždengia valstybinio numerio ženklą, motorinės transporto priemonės ir (ar) priekabos gale gerai matomoje vietoje turi būti pritvirtinta valstybės įmonės „Regitra“ išduota lentelė su valstybiniu numeriu.
+2. Valstybinio  numerio ženklus draudžiama uždengti apsauginėmis medžiagomis, lankstyti ar kitaip keisti jų formą, jie neturi būti apgadinti, užteršti ar surūdiję. Tuo atveju, kai vežamas prie motorinės transporto priemonės ir (ar) priekabos galinės dalies pritvirtintas dviratis (dviračiai) uždengia valstybinio  numerio ženklą, motorinės transporto priemonės ir (ar) priekabos gale gerai matomoje vietoje turi būti pritvirtinta akcinės bendrovės „Regitra“ išduota lentelė su valstybiniu registracijos numeriu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2458, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25950
+ 
 
 
 
@@ -4009,11 +4051,12 @@ Nr. XIII-3218, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15754
 
 
 
-4. Vidaus reikalų ministro nustatyta tvarka nustačius, kad neatlikta ar negalioja motorinės transporto priemonės ir (ar) priekabos privalomoji techninė apžiūra arba kad motorinė transporto priemonė ir (ar) priekaba neapdrausta transporto priemonių valdytojų civilinės atsakomybės privalomuoju draudimu ir (ar) nesumokėti valstybės nustatyti su transporto priemone ar jos dalyvavimu viešajame eisme susiję mokesčiai, arba kad neatliktos išleidimo į laisvą apyvartą muitinės procedūros, vidaus reikalų ministro nustatyta tvarka leidimas tokiai motorinei transporto priemonei ir (ar) priekabai dalyvauti viešajame eisme sustabdomas (išskyrus motorines transporto priemones ir (ar) priekabas, turinčias leidimą nuvykti į transporto priemonių techninės apžiūros įmonę privalomosios techninės apžiūros atlikti). Vidaus reikalų ministro nustatyta tvarka nustačius, kad motorinės transporto priemonės ir (ar) priekabos savininkas ir valdytojas išregistruoti iš Juridinių asmenų registro (kai motorinės transporto priemonės ir (ar) priekabos savininkas ar valdytojas yra juridinis asmuo) arba mirę, po 14 dienų nuo šių aplinkybių paaiškėjimo dienos, jeigu per šį laikotarpį neįregistruojamas naujas transporto priemonės savininkas ar valdytojas, vidaus reikalų ministro nustatyta tvarka sustabdomas leidimas tokiai motorinei transporto priemonei ir (ar) priekabai dalyvauti viešajame eisme. Šiuo atveju informacija apie ketinimą sustabdyti leidimą transporto priemonei ir (ar) priekabai dalyvauti viešajame eisme viešai skelbiama vidaus reikalų ministro nustatyta tvarka. Pašalinus priežastis, lėmusias motorinės transporto priemonės ir (ar) priekabos leidimo dalyvauti viešajame eisme sustabdymą (motorinės transporto priemonės ir (ar) priekabos savininko ir valdytojo išregistravimo iš Juridinių asmenų registro ar mirties atveju, įregistravus naują motorinės transporto priemonės ir (ar) priekabos savininką ar valdytoją Lietuvos Respublikos kelių transporto priemonių registre), Lietuvos Respublikos kelių transporto priemonių registro tvarkytojas panaikina šio leidimo sustabdymą ir motorinė transporto priemonė ir (ar) priekaba vėl gali dalyvauti viešajame eisme. Motorinės transporto priemonės ir (ar) priekabos savininko ir valdytojo išregistravimo iš Juridinių asmenų registro ar mirties atveju, iki bus įregistruotas naujas motorinės transporto priemonės ir (ar) priekabos savininkas, bet ne ilgesniam kaip vienų metų laikotarpiui nuo motorinės transporto priemonės ir (ar) priekabos savininko ir valdytojo išregistravimo iš Juridinių asmenų registro ar mirties aplinkybių nustatymo, gali būti registruojamas tik motorinės transporto priemonės ir (ar) priekabos valdytojas. Sustabdžius leidimą motorinei transporto priemonei ir (ar) priekabai dalyvauti viešajame eisme, leidimo sustabdymo metu šių transporto priemonių ir (ar) priekabų valstybinio registracijos numerio ženklai laikomi negaliojančiais. 
+4. Vidaus reikalų ministro nustatyta tvarka nustačius, kad neatlikta ar negalioja motorinės transporto priemonės ir (ar) priekabos privalomoji techninė apžiūra arba kad motorinė transporto priemonė ir (ar) priekaba neapdrausta transporto priemonių valdytojų civilinės atsakomybės privalomuoju draudimu ir (ar) nesumokėti valstybės nustatyti su transporto priemone ar jos dalyvavimu viešajame eisme susiję mokesčiai, arba kad neatliktos išleidimo į laisvą apyvartą muitinės procedūros, vidaus reikalų ministro nustatyta tvarka Lietuvos Respublikos kelių transporto priemonių registro tvarkytojas sustabdo leidimą tokiai motorinei transporto priemonei ir (ar) priekabai dalyvauti viešajame eisme (išskyrus motorines transporto priemones ir (ar) priekabas, turinčias leidimą nuvykti į transporto priemonių techninės apžiūros įmonę privalomosios techninės apžiūros atlikti). Vidaus reikalų ministro nustatyta tvarka nustačius, kad motorinės transporto priemonės ir (ar) priekabos savininkas ir valdytojas išregistruoti iš Juridinių asmenų registro (kai motorinės transporto priemonės ir (ar) priekabos savininkas ar valdytojas yra juridinis asmuo) arba mirę, po 14 dienų nuo šių aplinkybių paaiškėjimo dienos, jeigu per šį laikotarpį neįregistruojamas naujas transporto priemonės savininkas ar valdytojas, vidaus reikalų ministro nustatyta tvarka Lietuvos Respublikos kelių transporto priemonių registro tvarkytojas sustabdo leidimą tokiai motorinei transporto priemonei ir (ar) priekabai dalyvauti viešajame eisme. Šiuo atveju informacija apie ketinimą sustabdyti leidimą transporto priemonei ir (ar) priekabai dalyvauti viešajame eisme viešai skelbiama vidaus reikalų ministro nustatyta tvarka. Pašalinus priežastis, lėmusias motorinės transporto priemonės ir (ar) priekabos leidimo dalyvauti viešajame eisme sustabdymą (motorinės transporto priemonės ir (ar) priekabos savininko ir valdytojo išregistravimo iš Juridinių asmenų registro ar mirties atveju, įregistravus naują motorinės transporto priemonės ir (ar) priekabos savininką ar valdytoją Lietuvos Respublikos kelių transporto priemonių registre), Lietuvos Respublikos kelių transporto priemonių registro tvarkytojas panaikina šio leidimo sustabdymą ir motorinė transporto priemonė ir (ar) priekaba vėl gali dalyvauti viešajame eisme. Motorinės transporto priemonės ir (ar) priekabos savininko ir valdytojo išregistravimo iš Juridinių asmenų registro ar mirties atveju, iki bus įregistruotas naujas motorinės transporto priemonės ir (ar) priekabos savininkas, bet ne ilgesniam kaip vienų metų laikotarpiui nuo motorinės transporto priemonės ir (ar) priekabos savininko ir valdytojo išregistravimo iš Juridinių asmenų registro ar mirties aplinkybių nustatymo, gali būti registruojamas tik motorinės transporto priemonės ir (ar) priekabos valdytojas. Sustabdžius leidimą motorinei transporto priemonei ir (ar) priekabai dalyvauti viešajame eisme, leidimo sustabdymo metu šių transporto priemonių ir (ar) priekabų valstybinio registracijos numerio ženklai laikomi negaliojančiais.
 Straipsnio dalies pakeitimai:
 Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 Nr. XIII-1539, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16597
 Nr. XIII-3218, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15754
+Nr. XIV-2458, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25950
  
 
 
@@ -4130,9 +4173,12 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 
-9. Eismo įvykių informacinės sistemos valdytojas – Policijos departamentas prie Vidaus reikalų ministerijos. 
+9. Eismo įvykių informacinės sistemos valdytoja – Susisiekimo ministerija. 
 Papildyta straipsniu:
 Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 Straipsnio pakeitimai:
@@ -5079,6 +5125,11 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2451, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26031
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 3, 10, 13, 15, 17, 19, 20, 22, 24, 25, 27-1, 29, 30 ir 33 straipsnių pakeitimo įstatymo Nr. XIV-1445 17 straipsnio pakeitimo įstatymas
+ 
+42.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2458, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25950
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 6, 10, 22, 22-1, 23, 26 ir 27 straipsnių pakeitimo įstatymas
  
  
 
