@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2024-05-31 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-07-01
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -131,45 +131,36 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 
 
 1. Darbo asistentas – įmonės, įstaigos, organizacijos ar kitos organizacinės struktūros darbuotojas, padedantis darbuotojui su negalia atlikti darbo funkcijas.
-Papildyta straipsnio dalimi:
-Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
-Straipsnio dalies pakeitimai:
+
+
+
+
+2. Skaidriai dirbantis asmuo – Lietuvos Respublikos valstybinio socialinio draudimo įstatyme nustatytus reikalavimus atitinkantis pagal darbo sutartį dirbantis arba savarankišką veiklą vykdantis fizinis asmuo, turintis to įstatymo nustatyta tvarka suformuotą galiojantį skaidriai dirbančio asmens identifikavimo kodą (jei jį turėti privaloma), o jei tokiam asmeniui šis kodas negali būti suformuojamas, – skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis pagrindžiančius dokumentus (jei juos turėti privaloma).
+
+
+
+
+3. Užimtumas – atlygintina arba neatlyginta teisėta fizinio asmens savarankiška, iš dalies savarankiška arba priklausoma veikla, kuria asmuo užsidirba pragyvenimo lėšų, taip pat veikla, kuria asmuo užsiima siekdamas įgyti darbinių ar profesinių įgūdžių, arba kita tęstinė veikla, kurią asmuo vykdo įstatymų nustatytais atvejais ir tvarka.
+
+
+
+
+4. Užimtumo forma – asmens veiklos, kurią vykdydamas asmuo yra laikomas užimtu, būdas. 
+
+
+
+
+5. Užimtumo rėmimo politika – darbo rinkos paslaugų, užimtumo rėmimo priemonių, kitų ekonominių ir socialinių priemonių, taikomų siekiant didinti darbo ieškančių asmenų užimtumą, mažinti nedarbą, švelninti neigiamas jo pasekmes, visuma. 
+
+
+
+
+6. Užimtumo rėmimo sistema – darbo ieškančių asmenų užimtumui remti taikomų teisinių, ekonominių, socialinių ir organizacinių priemonių visuma.
+
+
+Straipsnio pakeitimai:
 Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
-
-
-
-
-2. Užimtumas – atlygintina arba neatlyginta teisėta fizinio asmens savarankiška, iš dalies savarankiška arba priklausoma veikla, kuria asmuo užsidirba pragyvenimo lėšų, taip pat veikla, kuria asmuo užsiima siekdamas įgyti darbinių ar profesinių įgūdžių, arba kita tęstinė veikla, kurią asmuo vykdo įstatymų nustatytais atvejais ir tvarka.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
- 
-
-
-
-
-3. Užimtumo forma – asmens veiklos, kurią vykdydamas asmuo yra laikomas užimtu, būdas. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
- 
-
-
-
-
-4. Užimtumo rėmimo politika – darbo rinkos paslaugų, užimtumo rėmimo priemonių, kitų ekonominių ir socialinių priemonių, taikomų siekiant didinti darbo ieškančių asmenų užimtumą, mažinti nedarbą, švelninti neigiamas jo pasekmes, visuma.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
- 
-
-
-
-
-5. Užimtumo rėmimo sistema – darbo ieškančių asmenų užimtumui remti taikomų teisinių, ekonominių, socialinių ir organizacinių priemonių visuma.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
- 
-
-
 
 
 
@@ -320,7 +311,9 @@ Savarankiškai dirbantis asmuo yra fizinis asmuo, kuris užsiima šia pagal savo
 51 straipsnis. Išmokų savarankiškai dirbantiems asmenims skyrimo ir mokėjimo ypatumai Lietuvos Respublikos Vyriausybei paskelbus ekstremaliąją situaciją ir karantiną
 
 
-1. Kai Lietuvos Respublikos Vyriausybė paskelbia ekstremaliąją situaciją ir karantiną, kurio metu nustato ūkinės veiklos apribojimus, savarankiškai dirbantis asmuo, kaip ši sąvoka apibrėžta Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2 straipsnio 9 dalyje, turi teisę gauti išmoką savarankiškai dirbančiam asmeniui, jeigu jis atitinka šias sąlygas:
+1. Kai Lietuvos Respublikos Vyriausybė paskelbia ekstremaliąją situaciją ir karantiną, kurio metu nustato ūkinės veiklos apribojimus, savarankiškai dirbantis asmuo, kaip ši sąvoka apibrėžiama Valstybinio socialinio draudimo įstatymo 2 straipsnio 9 dalyje, turi teisę gauti išmoką savarankiškai dirbančiam asmeniui, jeigu jis atitinka šias sąlygas: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
 
 
 1) yra įtrauktas į Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos (toliau – Valstybinė mokesčių inspekcija) sudaromą Savarankiškai dirbančių asmenų, pripažintų nukentėjusiais nuo ekstremaliosios situacijos ir karantino, kurio metu Lietuvos Respublikos Vyriausybė nustato ūkinės veiklos apribojimus, sąrašą. Į šį sąrašą įtraukiamas savarankiškai dirbantis asmuo, kurio:
@@ -416,7 +409,10 @@ Nr. XIV-351, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13151
 
 
 
-9. Išmokų mokėtojo patiriamos išmokų savarankiškai dirbantiems asmenims mokėjimo ir išieškojimo sąnaudos kompensuojamos pagal Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatyme nustatytą procentinį dydį šioms sąnaudoms kompensuoti iš Lietuvos Respublikos socialinės apsaugos ir darbo ministerijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų.
+9. Išmokų mokėtojo patiriamos išmokų savarankiškai dirbantiems asmenims mokėjimo ir išieškojimo sąnaudos kompensuojamos pagal atitinkamų metų Lietuvos Respublikos valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatyme nustatytą procentinį dydį šioms sąnaudoms kompensuoti iš Lietuvos Respublikos socialinės apsaugos ir darbo ministerijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 Straipsnio pakeitimai:
@@ -1255,9 +1251,10 @@ IR UŽIMTUMO RĖMIMO PRIEMONĖS
 
 
 
-3. Užimtiems asmenims taikomos šio įstatymo 36 straipsnio 1 dalies 1 punkte, 41 straipsnio 1 dalyje ir 45 straipsnyje nurodytos aktyvios darbo rinkos politikos priemonės.
+3. Užimtiems asmenims taikomos šio įstatymo 36 straipsnio 1 dalies 1, 2, 4, 5 ir 6 punktuose, 41 straipsnio 1 dalyje ir 45 straipsnyje nurodytos aktyvios darbo rinkos politikos priemonės. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
@@ -1268,7 +1265,10 @@ Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
 
 
 
-5. Darbo rinkai besirengiantiems asmenims, nurodytiems šio įstatymo 22 straipsnio 7 dalyje, taikomos užimtumo didinimo programos.
+5. Darbo rinkai besirengiantiems asmenims, nurodytiems šio įstatymo 22 straipsnio 7 dalyje, taikoma paramos judumui priemonė ir užimtumo didinimo programos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 Straipsnio pakeitimai:
@@ -1518,9 +1518,10 @@ Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
 
 
 
-3) bedarbis atlieka privalomąją pradinę karo tarnybą, savanorišką nenuolatinę karo tarnybą ar alternatyviąją krašto apsaugos tarnybą arba bedarbis, kuris yra karys savanoris, kitas aktyviojo rezervo karys ar parengtojo rezervo karys, pašaukiamas į pratybas, mokymus ar vykdyti tarnybos užduočių, kai už tarnybos dienas jam mokamas atlyginimas; 
+3) bedarbis atlieka privalomąją pradinę karo tarnybą ar alternatyviąją krašto apsaugos tarnybą arba bedarbis, kuris yra karys savanoris, savanoriškos nenuolatinės karo tarnybos karys ar aktyviojo kariuomenės personalo rezervo karys, ar rezervo karys, pašaukiamas į pratybas, mokymus ar vykdyti tarnybos užduočių, kai už tarnybos dienas jam mokamas atlyginimas;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
+Nr. XIV-2741, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11579
  
 
 
@@ -1615,11 +1616,11 @@ Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
 
 
 
-9) Užimtumo tarnyba iš nelegalaus darbo, nedeklaruoto darbo ir nedeklaruotos savarankiškos veiklos kontrolę ir prevenciją vykdančių ar kitų institucijų gauna informacijos apie bedarbio nelegaliai gautas ar gaunamas pajamas ir (ar) nelegalų darbą, neteisėtą veiklą, susijusią su pajamų gavimu;
-TAR pastaba. 24 straipsnio 4 dalies 9 punkto nuostatos dėl bedarbio statuso panaikinimo taikomos bedarbiams, kuriems bent viena iš 24 straipsnio 4 dalies 5, 7 ir 9 punktuose nurodytų aplinkybių (siūlomo tinkamo darbo atsisakymas, atsiskaitymo už savarankišką darbo paiešką tvarkos pažeidimas ar bedarbio nelegaliai gautos ar gaunamos pajamos ir (ar) nelegalus darbas, neteisėta veikla, susijusi su pajamų gavimu) nustatoma po 2022-07-01.
+9) Užimtumo tarnyba iš šio įstatymo 55 straipsnyje nurodytų institucijų gauna informacijos apie bedarbio nelegalaus darbo ar nedeklaruotos savarankiškos veiklos laikotarpį, išskyrus atvejus, kai pats bedarbis praneša bent vienai iš šio įstatymo 55 straipsnio nurodytų institucijų apie savo nelegalaus darbo faktą ir bendradarbiauja su šiomis institucijomis, iki jos priima nutarimą, arba apie tai, kad bedarbis teikė žemės ūkio ir miškininkystės paslaugas pagal paslaugų kvitus, pažeisdamas Žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatyme nustatytus reikalavimus;
 Straipsnio punkto pakeitimai:
 Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
@@ -1770,20 +1771,20 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 25 straipsnis. Darbo rinkoje papildomai remiami asmenys
 
 
-Darbo rinkoje papildomai remiamais laikomi šie asmenys:
+Darbo rinkoje papildomai remiamais asmenimis laikomi:
 
 
-1) bedarbiai, kurie yra darbingo amžiaus neįgalieji, kuriems nustatytas iki 25 procentų darbingumo lygis arba sunkus neįgalumo lygis;
-
-
-
-
-2) bedarbiai, kurie yra darbingo amžiaus neįgalieji, kuriems nustatytas 30–40 procentų darbingumo lygis arba vidutinis neįgalumo lygis;
+1) bedarbiai, kurie yra darbingo amžiaus asmenys su negalia, kuriems nustatytas iki 25 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 0–25 procentų darbingumo lygis) arba sunkaus neįgalumo lygis (iki 2023 m. gruodžio 31 d. – sunkus neįgalumo lygis);
 
 
 
 
-3) bedarbiai, kurie yra darbingo amžiaus neįgalieji, kuriems nustatytas 45–55 procentų darbingumo lygis arba lengvas neįgalumo lygis;
+2) bedarbiai, kurie yra darbingo amžiaus asmenys su negalia, kuriems nustatytas 30–40 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 30–40 procentų darbingumo lygis) arba vidutinio neįgalumo lygis (iki 2023 m. gruodžio 31 d. – vidutinis neįgalumo lygis);
+
+
+
+
+3) bedarbiai, kurie yra darbingo amžiaus asmenys su negalia, kuriems nustatytas 45–55 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 45–55 procentų darbingumo lygis) arba lengvo neįgalumo lygis (iki 2023 m. gruodžio 31 d. – lengvas neįgalumo lygis);
 
 
 
@@ -1793,115 +1794,54 @@ Darbo rinkoje papildomai remiamais laikomi šie asmenys:
 
 
 
-5) ilgalaikiai bedarbiai iki 25 metų, kurių nedarbo trukmė ilgesnė kaip 6 mėnesiai, ir ilgalaikiai bedarbiai nuo 25 metų, kurių nedarbo trukmė ilgesnė kaip 12 mėnesių, skaičiuojant nuo įsiregistravimo Užimtumo tarnyboje dienos;
+5) bedarbiai, kurie paskutinius 6 mėnesius nedirbo pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu arba nebuvo savarankiškai dirbantys asmenys;
 
 
 
 
-6) vyresni kaip 45 metų bedarbiai; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
- 
+6) vyresni kaip 50 metų bedarbiai; 
 
 
 
 
-7) asmenys, turintys teisę į papildomas užimtumo garantijas pagal Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymą;
+7) 16–24 metų bedarbiai; 
 
 
 
 
-8) bedarbiai iki 29 metų;
+8) pirmą kartą darbo veiklą pradedantys bedarbiai, kvalifikaciją įgiję ne daugiau kaip prieš 2 metus;
 
 
 
 
-9) pirmą kartą pagal įgytą kvalifikaciją ar kompetenciją darbo veiklą pradedantys bedarbiai;
+9) vaiko motina (įmotė) arba tėvas (įtėvis), vaiko globėjas, rūpintojas ir asmenys, faktiškai vieni auginantys vaiką (įvaikį) iki 8 metų arba vaiką (įvaikį) su negalia iki 18 metų, taip pat asmenys, prižiūrintys šeimos narius su negalia, kuriems Asmens su negalia teisių apsaugos agentūros prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Asmens su negalia teisių apsaugos agentūra) sprendimu nustatytas individualios pagalbos teikimo išlaidų kompensacijos poreikis;
 
 
 
 
-10) asmenys, kuriems suteiktas pabėgėlio statusas ar perkeliamojo asmens statusas, arba asmenys, kuriems suteikta papildoma ar laikinoji apsauga, ir asmenys, turintys teisę gauti laikinąją apsaugą, iki sprendimo dėl laikinosios apsaugos suteikimo (nesuteikimo) priėmimo, tačiau ne ilgiau kaip laikinosios apsaugos laikotarpiu;
-Straipsnio punkto pakeitimai:
-Nr. XIV-351, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13151
-Nr. XIV-1287, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15436
- 
+10) užimti asmenys, kuriems Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju paskelbta prastova;
 
 
 
 
-11) nėščios moterys, vaiko motina (įmotė) arba tėvas (įtėvis), vaiko globėjas, rūpintojas ir asmenys, faktiškai auginantys vaiką (įvaikį) iki 8 metų arba neįgalų vaiką (įvaikį) iki 18 metų (iki 2005 m. liepos 1 d. pripažintą vaiku invalidu), ir asmenys, prižiūrintys neįgalius šeimos narius, kuriems Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Neįgalumo ir darbingumo nustatymo tarnyba) sprendimu nustatyta nuolatinė slauga ar priežiūra;
+11) darbingo amžiaus asmenys su negalia, kuriems nustatytas iki 25 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 0–25 procentų darbingumo lygis) arba sunkaus neįgalumo lygis (iki 2023 m. gruodžio 31 d. – sunkus neįgalumo lygis) ir kurie 2022 m. gruodžio 31 d. buvo socialinės įmonės darbuotojai, kurių darbo sutartis su darbdaviu, turėjusiu socialinės įmonės statusą, nenutraukta; 
 
 
 
 
-12) grįžę iš laisvės atėmimo vietų įstaigos, kai laisvės atėmimo laikotarpis buvo ne trumpesnis kaip 6 mėnesiai, jeigu jie kreipiasi į Užimtumo tarnybą ne vėliau kaip per 6 mėnesius nuo grįžimo iš laisvės atėmimo vietų įstaigos;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1233, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15599
- 
+12) darbingo amžiaus asmenys su negalia, kuriems nustatytas 30–40 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 30–40 procentų darbingumo lygis) arba vidutinio neįgalumo lygis (iki 2023 m. gruodžio 31 d. – vidutinis neįgalumo lygis) ir kurie 2022 m. gruodžio 31 d. buvo socialinės įmonės darbuotojai, kurių darbo sutartis su darbdaviu, turėjusiu socialinės įmonės statusą, nenutraukta;
 
 
 
 
-13) priklausomi nuo narkotinių, psichotropinių ir kitų psichiką veikiančių medžiagų, baigę psichologinės socialinės ir (ar) profesinės reabilitacijos programas, jeigu jie kreipiasi į Užimtumo tarnybą ne vėliau kaip per 6 mėnesius nuo psichologinės socialinės ir (ar) profesinės reabilitacijos programos baigimo;
-
-
-
-
-14) užimti asmenys, kuriems Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju paskelbta prastova;
-Papildyta straipsnio punktu:
-Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
- 
-
-
-
-
-15) Neteko galios nuo 2021-07-01
-Straipsnio punkto naikinimas:
-Nr. XIV-351, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13151
-Papildyta straipsnio punktu:
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
-Straipsnio punkto pakeitimai:
-Nr. XIII-3005, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12829
- 
-
-
-
-
-16) darbingo amžiaus neįgalieji, kuriems nustatytas iki 25 procentų darbingumo lygis arba sunkus neįgalumo lygis ir kurie 2022 m. gruodžio 31 d. buvo socialinės įmonės darbuotojai, ir kurių darbo sutartis su darbdaviu, turėjusiu socialinės įmonės statusą, nenutraukta; 
-Papildyta straipsnio punktu:
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
-Straipsnio punkto pakeitimai:
-Nr. XIII-3005, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12829
-Nr. XIV-35, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27343
-Nr. XIV-351, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13151
-TAR pastaba. 25 straipsnio 16, 17 ir 18 punktuose nurodytų asmenų darbo vietas, subsidijos darbo užmokesčiui mokėjimo laikotarpis skaičiuojamas nuo 2023 m. sausio 1 d.; jeigu 25 straipsnio 16 ir 17 punktuose nurodytiems asmenims buvo nustatytas asistento pagalbos atliekant darbo funkcijas poreikis ir darbdaviui pagal Lietuvos Respublikos socialinių įmonių įstatymo 22 straipsnį iki 2022 m. gruodžio 31 d. buvo paskirta subsidija asistento išlaidoms, jos mokėjimas šio įstatymo 11 straipsnyje išdėstyto Užimtumo įstatymo 43 straipsnio 4 dalyje nustatyta tvarka tęsiamas iki 2023 m. birželio 30 d. Šio įstatymo 5 straipsnyje išdėstytuose Užimtumo įstatymo 25 straipsnio 16 ir 17 punktuose nurodytiems asmenims darbo asistento pagalbos poreikis nuo 2023 m. liepos 1 d. nustatomas ir subsidija darbo asistento išlaidoms darbdaviui skiriama šio įstatymo 11 straipsnyje išdėstytame Užimtumo įstatymo 43 straipsnyje nustatyta tvarka.
-Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
- 
-
-
-
-
-17) darbingo amžiaus neįgalieji, kuriems nustatytas 30–40 procentų darbingumo lygis arba vidutinis neįgalumo lygis ir kurie 2022 m. gruodžio 31 d. buvo socialinės įmonės darbuotojai, ir kurių darbo sutartis su darbdaviu, turėjusiu socialinės įmonės statusą, nenutraukta;
-Papildyta straipsnio punktu:
-TAR pastaba. 25 straipsnio 16, 17 ir 18 punktuose nurodytų asmenų darbo vietas, subsidijos darbo užmokesčiui mokėjimo laikotarpis skaičiuojamas nuo 2023 m. sausio 1 d.; jeigu 25 straipsnio 16 ir 17 punktuose nurodytiems asmenims buvo nustatytas asistento pagalbos atliekant darbo funkcijas poreikis ir darbdaviui pagal Lietuvos Respublikos socialinių įmonių įstatymo 22 straipsnį iki 2022 m. gruodžio 31 d. buvo paskirta subsidija asistento išlaidoms, jos mokėjimas šio įstatymo 11 straipsnyje išdėstyto Užimtumo įstatymo 43 straipsnio 4 dalyje nustatyta tvarka tęsiamas iki 2023 m. birželio 30 d. Šio įstatymo 5 straipsnyje išdėstytuose Užimtumo įstatymo 25 straipsnio 16 ir 17 punktuose nurodytiems asmenims darbo asistento pagalbos poreikis nuo 2023 m. liepos 1 d. nustatomas ir subsidija darbo asistento išlaidoms darbdaviui skiriama šio įstatymo 11 straipsnyje išdėstytame Užimtumo įstatymo 43 straipsnyje nustatyta tvarka.
-Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
- 
-
-
-
-
-18) darbingo amžiaus neįgalieji, kuriems nustatytas 45–55 procentų darbingumo lygis arba lengvas neįgalumo lygis ir kurie 2022 m. gruodžio 31 d. buvo socialinės įmonės darbuotojai, ir kurių darbo sutartis su darbdaviu, turėjusiu socialinės įmonės statusą, nenutraukta.
-Papildyta straipsnio punktu:
-TAR pastaba. 25 straipsnio 16, 17 ir 18 punktuose nurodytų asmenų darbo vietas, subsidijos darbo užmokesčiui mokėjimo laikotarpis skaičiuojamas nuo 2023 m. sausio 1 d.
-Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
- 
+13) darbingo amžiaus asmenys su negalia, kuriems nustatytas 45–55 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 45–55 procentų darbingumo lygis) arba lengvo neįgalumo lygis (iki 2023 m. gruodžio 31 d. – lengvas neįgalumo lygis) ir kurie 2022 m. gruodžio 31 d. buvo socialinės įmonės darbuotojai, kurių darbo sutartis su darbdaviu, turėjusiu socialinės įmonės statusą, nenutraukta.
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
@@ -2268,7 +2208,6 @@ Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
 
 
 4. Lydimoji pagalba įsidarbinus teikiama darbdavio ar asmens su negalia prašymu, siekiant užtikrinti įdarbinimo tvarumą. Teikiant šią paslaugą, asmeniui padedama rasti būdų, kaip išspręsti darbe kylančias problemas, dėl kurių asmuo gali netekti darbo. Lydimoji pagalba teikiama pagal poreikį, tačiau ne ilgiau negu 12 kalendorinių mėnesių nuo įsidarbinimo dienos. Lydimosios pagalbos vienos valandos įkainis negali viršyti 0,2 bazinės socialinės išmokos dydžio už kiekvieną asmenį su negalia, kuris Užimtumo tarnybos buvo priskirtas vidutinių ar ribotų įsidarbinimo galimybių grupei.
- 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
 Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
@@ -2298,14 +2237,20 @@ Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
 
 
 
-2) darbo rinkai besirengiančio asmens (nurodomas vardas, pavardė, gimimo data) ir Užimtumo tarnybos įsipareigojimai dėl darbo rinkos paslaugų darbo rinkai besirengiančiam asmeniui teikimo, užimtumo didinimo programų įgyvendinimo.
+2) darbo rinkai besirengiančio asmens (nurodomas vardas, pavardė, gimimo data) ir Užimtumo tarnybos įsipareigojimai dėl darbo rinkos paslaugų darbo rinkai besirengiančiam asmeniui teikimo, užimtumo didinimo programų, paramos judumui priemonės įgyvendinimo. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
 
 
 
-2. Užimtumo tarnyba, prieš siūlydama bedarbiams dalyvauti aktyvios darbo rinkos politikos priemonėse, bedarbiams ir darbo rinkai besirengiantiems asmenims – užimtumo didinimo programose, jiems gali siūlyti kreiptis dėl socialinių paslaugų poreikio nustatymo. 
+2. Užimtumo tarnyba, prieš siūlydama bedarbiams ir darbo rinkai besirengiantiems asmenims dalyvauti aktyvios darbo rinkos politikos priemonėse, užimtumo didinimo programose, jiems gali siūlyti kreiptis dėl socialinių paslaugų poreikio nustatymo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -2497,12 +2442,18 @@ Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
 
 
 
-4) kurie per paskutinius vienus metus iki šioje dalyje nurodytų paraiškų pateikimo dienos neturėjo baudos, paskirtos už šio įstatymo 56, 57, 58 ar 592 straipsnyje nurodytą pažeidimą; 
+4) kurie per paskutinius vienus metus iki šioje dalyje nurodytų paraiškų pateikimo dienos neturėjo baudos, paskirtos už šio įstatymo 56, 561, 57, 58 ar 591 straipsnyje nurodytą pažeidimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
 
-5) kurių vadovas ar kitas atsakingas asmuo per paskutinius vienus metus iki šioje dalyje nurodytų paraiškų pateikimo dienos neturėjo administracinės nuobaudos, skirtos pagal Lietuvos Respublikos administracinių nusižengimų kodeksą už nelegalų darbą, arba turi ne daugiau negu vieną per paskutinius vienus metus iki šioje dalyje nurodytų paraiškų pateikimo dienos pagal šį kodeksą paskirtą administracinę nuobaudą už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų, skaidriai dirbančių asmenų identifikavimo reikalavimų pažeidimus, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus;
+5) kurių vadovas ar kitas atsakingas asmuo per paskutinius vienus metus iki šioje dalyje nurodytų paraiškų pateikimo dienos neturėjo administracinės nuobaudos, skirtos pagal Lietuvos Respublikos administracinių nusižengimų kodeksą už nelegalų darbą, finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinės ataskaitos, metinio pranešimo (konsoliduotojo metinio pranešimo), veiklos ataskaitų, auditoriaus išvados, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos), pelno mokesčio informacijos ataskaitos nepateikimą laiku teisės aktų nustatytais atvejais ir tvarka Juridinių asmenų registro tvarkytojui arba turi ne daugiau negu vieną per paskutinius vienus metus iki šioje dalyje nurodytų paraiškų pateikimo dienos pagal šį kodeksą paskirtą administracinę nuobaudą už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimus, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -2520,6 +2471,34 @@ Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
 
 
 6. Darbdaviai, įgyvendinantys šio straipsnio 1 dalies 3 punkte nurodytas priemones, šio įstatymo 25 straipsnyje nurodytiems asmenims apskaičiuotą darbo užmokestį moka atlikdami mokėjimo pavedimą. 
+
+
+
+
+7. Europos Sąjungos valstybės pagalbos taisyklės taikomos įgyvendinant šias aktyvios darbo rinkos politikos priemones:
+
+
+1) profesinio mokymo, neformaliojo suaugusiųjų švietimo, aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų įgijimo, jeigu įgyvendinant šias priemones sudaroma trišalė sutartis dėl užimtų asmenų;
+
+
+
+
+2) įdarbinimo pagal pameistrystės darbo sutartį;
+
+
+
+
+3) remiamojo įdarbinimo;
+
+
+
+
+4) paramos darbo vietoms steigti ar pritaikyti.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 Straipsnio pakeitimai:
@@ -2793,9 +2772,10 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 38 straipsnis. Įdarbinimas pagal pameistrystės darbo sutartį
 
 
-1. Įdarbinimas pagal pameistrystės darbo sutartį gali būti organizuojamas asmenims, kurie taikant pameistrystės formą dalyvauja profesiniame mokyme šio įstatymo 37 straipsnyje nustatyta tvarka arba neformaliajame suaugusiųjų švietime šio įstatymo 392 straipsnyje nustatyta tvarka. Šio įstatymo 37 straipsnyje nurodyta mokymo stipendija nemokama, kai asmeniui, atsižvelgiant į jo dirbtas valandas, mokamas darbo užmokestis pagal pameistrystės darbo sutartį.
+1. Įdarbinimas pagal pameistrystės darbo sutartį gali būti organizuojamas asmenims, kurie taikant pameistrystės formą dalyvauja profesinio mokymo priemonėse šio įstatymo 37 straipsnyje nustatyta tvarka, neformaliojo suaugusiųjų švietimo priemonėse šio įstatymo 392 straipsnyje nustatyta tvarka arba aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų įgijimo priemonėse šio įstatymo 393 straipsnyje nustatyta tvarka. Mokymo stipendija nemokama, kai asmeniui, atsižvelgiant į jo dirbtas valandas, mokamas darbo užmokestis pagal pameistrystės darbo sutartį. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
@@ -2804,16 +2784,32 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 2. Darbdaviams, kurie vykdo profesinį mokymą pagal pameistrystės formą, kurie pagal pameistrystės darbo sutartį įdarbino Užimtumo tarnybos siųstus asmenis ir kurie pateikė paraišką, kompensuojama:
 
 
-1) 70 procentų pagal pameistrystės darbo sutartį įdarbintam asmeniui darbdavio apskaičiuotų draudžiamųjų pajamų, nuo kurių Valstybinio socialinio draudimo įstatymo nustatyta tvarka apskaičiuotos ir privalo būti sumokėtos valstybinio socialinio draudimo įmokos ir kurios įrašytos Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registre, dalies, neviršijančios 1,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, ir nuo šios darbo užmokesčio dalies apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų dalis;
+1) 50 procentų pagal pameistrystės darbo sutartį įdarbintam asmeniui darbdavio apskaičiuotų draudžiamųjų pajamų, nuo kurių Valstybinio socialinio draudimo įstatymo nustatyta tvarka apskaičiuotos ir privalo būti sumokėtos valstybinio socialinio draudimo įmokos ir kurios įrašytos Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registre, dalies, neviršijančios 1,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio. Kompensacija padidinama:
+
+
+a) labai mažoms ir mažoms įmonėms, kaip jos apibrėžtos Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, – 20 procentinių punktų;
 
 
 
 
-2) paskirto profesijos meistro (meistrų), atsakingo (atsakingų) už pameistrio darbinės veiklos ir praktinio mokymo organizavimą ir koordinavimą, pameistrio darbinės veiklos ir praktinio mokymo organizavimo ir koordinavimo išlaidos, kurių dydis apskaičiuojamas pagal profesijos meistro (meistrų) faktiškai dirbtą laiką organizuojant ir koordinuojant pameistrio darbinę veiklą ir praktinį mokymą, už vieną valandą mokant Lietuvos Respublikos Vyriausybės patvirtintą minimalųjį valandinį atlygį, ir nuo šio atlygio apskaičiuota draudėjo privalomojo valstybinio socialinio draudimo įmokų dalis, ne didesnė kaip 20 procentų profesijos meistrui (meistrams) apskaičiuoto darbo užmokesčio. 
+b) vidutinėms įmonėms, kaip jos apibrėžtos Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, – 10 procentinių punktų ir papildomai 10 procentinių punktų, jeigu pagal pameistrystės darbo sutartį įdarbinami šio įstatymo 25 straipsnyje nurodyti asmenys;
+
+
+
+
+c) juridiniams asmenims, neatitinkantiems labai mažos, mažos arba vidutinės įmonės apibrėžties, nustatytos Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, – 10 procentinių punktų, jeigu pagal pameistrystės darbo sutartį įdarbinami šio įstatymo 25 straipsnyje nurodyti asmenys;
+
+
+
+
+
+
+2) paskirto profesijos meistro (meistrų), atsakingo (atsakingų) už pameistrio darbinės veiklos ir praktinio mokymo organizavimą ir koordinavimą, darbo užmokesčio už valandas, kurias jis (jie) dalyvavo mokant šio straipsnio 1 dalyje nurodytą (nurodytus) asmenį (asmenis) ir (ar) jį (juos) mokė, išlaidos, kurių dydis apskaičiuojamas pagal profesijos meistro (meistrų) faktiškai dirbtą laiką, kurį jis (jie) dalyvavo mokant šį (šiuos) asmenį (asmenis) ir (ar) jį (juos) mokė, už vieną valandą mokant Lietuvos Respublikos Vyriausybės patvirtintą minimalųjį valandinį atlygį, ir nuo šio atlygio apskaičiuota draudėjo privalomojo valstybinio socialinio draudimo įmokų dalis, ne didesnė kaip 20 procentų profesijos meistrui (meistrams) apskaičiuoto darbo užmokesčio.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
@@ -3004,7 +3000,10 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 393 straipsnis. Aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų įgijimas
 
 
-1. Aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų įgijimas organizuojamas bedarbiams ir užimtiems asmenims, kurie numato mokytis ir įgyti kvalifikaciją ir (ar) kompetencijas, įtrauktas į Užimtumo tarnybos direktoriaus tvirtinamą Aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų sąrašą, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintos formos trišalėje arba dvišalėje sutartyje numatytomis sąlygomis. Trišalė sutartis sudaroma tarp Užimtumo tarnybos, darbdavio, kuris įdarbins bedarbį ar užimtą asmenį arba pas kurį dirba užimtas asmuo, ir bedarbio, kuris įsidarbins laisvoje darbo vietoje, ar užimto asmens, kuris įsidarbins laisvoje darbo vietoje ar pasiliks dirbti pas tą patį darbdavį. Dvišalė sutartis sudaroma tarp Užimtumo tarnybos ir bedarbio ar užimto asmens. Bedarbiai ir užimti asmenys, siekiantys įgyti aukštą pridėtinę vertę kuriančias kvalifikacijas ir kompetencijas, profesiniame mokyme dalyvauja šio įstatymo 37 straipsnyje nustatyta tvarka ir neformaliajame suaugusiųjų švietime – šio įstatymo 392 straipsnyje nustatyta tvarka. 
+1. Aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų įgijimas organizuojamas bedarbiams ir užimtiems asmenims, kurie numato mokytis ir įgyti kvalifikaciją ir (ar) kompetencijas, įtrauktas į Užimtumo tarnybos direktoriaus tvirtinamą Aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų sąrašą, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintos formos trišalėje arba dvišalėje sutartyje numatytomis sąlygomis. Trišalė sutartis sudaroma tarp Užimtumo tarnybos, darbdavio, kuris įdarbins bedarbį ar užimtą asmenį arba pas kurį dirba užimtas asmuo, ir bedarbio, kuris įsidarbins laisvoje darbo vietoje, ar užimto asmens, kuris įsidarbins laisvoje darbo vietoje ar pasiliks dirbti pas tą patį darbdavį. Dvišalė sutartis sudaroma tarp Užimtumo tarnybos ir bedarbio ar užimto asmens. Bedarbiai ir užimti asmenys, siekiantys įgyti aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų, dalyvauja profesinio mokymo priemonėse šio įstatymo 37 straipsnyje nustatyta tvarka, įdarbinimo pagal pameistrystės darbo sutartį priemonėse šio įstatymo 38 straipsnyje nustatyta tvarka ir neformaliojo suaugusiųjų švietimo priemonėse šio įstatymo 392 straipsnyje nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -3024,9 +3023,10 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 
 
 
-5. Bedarbiams mokymo stipendija mutatis mutandis mokama šio įstatymo 37 straipsnio 6 dalyje nustatytomis sąlygomis. Užimtiems asmenims per visą mokymosi laikotarpį pagal lankytas valandas kartą per mėnesį mokama 0,3 Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio mokymo stipendija už kiekvieną lankytą valandą.
+5. Bedarbiams mokymo stipendija mutatis mutandis mokama šio įstatymo 37 straipsnio 6 dalyje nustatytomis sąlygomis.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2084, 2023-06-22, paskelbta TAR 2023-06-27, i. k. 2023-12872
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
@@ -3093,7 +3093,10 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 
 
 
-3) bedarbiui dalyvaujant konsultaciniuose užsiėmimuose;
+3) bedarbiui ir darbo rinkai besirengiančiam asmeniui dalyvaujant konsultaciniuose užsiėmimuose; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -3120,7 +3123,10 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 
 
 
-4. Kelionių išlaidų kompensacijų, mokamų bedarbiui, dalyvaujančiam jo individualiame užimtumo veiklos plane numatytuose konsultaciniuose užsiėmimuose, stažuotėje, vykstančiam į darbo vietą ar pokalbio su darbdaviu vietą ir atgal, darbdaviui, patiriančiam bedarbio vežimo į darbo vietą ir atgal išlaidų, dydžiai nustatomi Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, atsižvelgiant į atstumą tarp gyvenamosios vietos, darbo, darbo pokalbio, konsultacinių užsiėmimų ar stažuotės atlikimo vietos.
+4. Kelionių išlaidų kompensacijų, mokamų bedarbiui ir darbo rinkai besirengiančiam asmeniui, dalyvaujančiam jo individualiame užimtumo veiklos plane numatytuose konsultaciniuose užsiėmimuose, bedarbiui, dalyvaujančiam stažuotėje, vykstančiam į darbo vietą ar pokalbio su darbdaviu vietą ir atgal, darbdaviui, patiriančiam bedarbio vežimo į darbo vietą ir atgal išlaidų, dydžiai nustatomi Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, atsižvelgiant į atstumą tarp gyvenamosios vietos, darbo, darbo pokalbio, konsultacinių užsiėmimų ar stažuotės atlikimo vietos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 Straipsnio pakeitimai:
@@ -3150,27 +3156,33 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 
 
 
-2. Įgyvendinant šio straipsnio 1 dalies 1 punkte nurodytą remiamojo įdarbinimo priemonę, darbdaviams, įdarbinusiems Užimtumo tarnybos siųstus asmenis, nurodytus šio įstatymo 25 straipsnio 1–13 punktuose, arba išlaikantiems šio įstatymo 25 straipsnio 16, 17 ir 18 punktuose nurodytų asmenų darbo vietas, mokama subsidija darbo užmokesčiui. Subsidijos darbo užmokesčiui dydis negali viršyti 1,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų sumos. Subsidijos darbo užmokesčiui dydis, kai įdarbinami šio įstatymo 25 straipsnio 1–13 punktuose nurodyti asmenys arba išlaikomos darbo vietos šio įstatymo 25 straipsnio 16, 17 ir 18 punktuose nurodytiems asmenims, apskaičiuojamas procentais nuo įdarbintam asmeniui darbdavio priskaičiuotų draudžiamųjų pajamų, nuo kurių Valstybinio socialinio draudimo įstatymo nustatyta tvarka priskaičiuotos ir privalo būti įmokėtos valstybinio socialinio draudimo įmokos, įrašytų Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registre:
+2. Įgyvendinant šio straipsnio 1 dalies 1 punkte nurodytą remiamojo įdarbinimo priemonę, darbdaviams, įdarbinusiems Užimtumo tarnybos siųstus asmenis, nurodytus šio įstatymo 25 straipsnio 1–9 punktuose, arba išlaikantiems šio įstatymo 25 straipsnio 11, 12 ir 13 punktuose nurodytų asmenų darbo vietas, mokama subsidija darbo užmokesčiui. Subsidijos darbo užmokesčiui dydis negali viršyti 1,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio. Subsidijos darbo užmokesčiui dydis, kai įdarbinami šio įstatymo 25 straipsnio 1–9 punktuose nurodyti asmenys arba išlaikomos šio įstatymo 25 straipsnio 11, 12 ir 13 punktuose nurodytų asmenų darbo vietos, apskaičiuojamas procentais nuo įdarbintam asmeniui darbdavio priskaičiuotų draudžiamųjų pajamų, nuo kurių Valstybinio socialinio draudimo įstatymo nustatyta tvarka apskaičiuotos ir privalo būti įmokėtos valstybinio socialinio draudimo įmokos ir kurios įrašytos Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registre:
 
 
-1) 75 procentai apskaičiuotų lėšų, kai įdarbinami šio įstatymo 25 straipsnio 1 ir 10 punktuose nurodyti asmenys arba dirba šio įstatymo 25 straipsnio 16 punkte nurodyti asmenys; 
-
-
-
-
-2) 60 procentų apskaičiuotų lėšų, kai įdarbinami šio įstatymo 25 straipsnio 2 punkte nurodyti asmenys arba dirba šio įstatymo 25 straipsnio 17 punkte nurodyti asmenys;
+1) 75 procentai draudžiamųjų pajamų, kai įdarbinami šio įstatymo 25 straipsnio 1 punkte nurodyti asmenys arba dirba šio įstatymo 25 straipsnio 11 punkte nurodyti asmenys; 
 
 
 
 
-3) 50 procentų apskaičiuotų lėšų, kai įdarbinami šio įstatymo 25 straipsnio 3–9, 11, 12 ir 13 punktuose nurodyti asmenys arba dirba šio įstatymo 25 straipsnio 18 punkte nurodyti asmenys. 
+2) 60 procentų draudžiamųjų pajamų, kai įdarbinami šio įstatymo 25 straipsnio 2 punkte nurodyti asmenys arba dirba šio įstatymo 25 straipsnio 12 punkte nurodyti asmenys;
 
 
 
 
+3) 50 procentų draudžiamųjų pajamų, kai įdarbinami šio įstatymo 25 straipsnio 3–9 punktuose nurodyti asmenys arba dirba šio įstatymo 25 straipsnio 13 punkte nurodyti asmenys. 
 
 
-3. Darbdaviams, dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino paskelbtos prastovos metu išlaikantiems darbo vietas šio įstatymo 25 straipsnio 14 punkte nurodytiems užimtiems asmenims ir apie prastovos paskelbimą informavusiems Lietuvos Respublikos darbo kodekso 47 straipsnio 3 dalies 1 punkte nustatyta tvarka, subsidija darbo užmokesčiui nuo kiekvienam prastovoje esančiam užimtam asmeniui priskaičiuoto darbo užmokesčio mokama kas mėnesį už praėjusį kalendorinį mėnesį, kurį galiojo Lietuvos Respublikos Vyriausybės paskelbta ekstremalioji situacija ir karantinas. Subsidijos darbo užmokesčiui dydis apskaičiuojamas procentais nuo užimtam asmeniui priskaičiuoto darbo užmokesčio, kuris negali būti didesnis negu užimto asmens darbo sutartyje iki karantino paskelbimo dienos nustatytas darbo užmokestis. Subsidijos darbo užmokesčiui dydis sudaro 100 procentų apskaičiuotų lėšų, bet ne daugiau kaip 1,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio. Jeigu užimtam asmeniui prastova Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju paskelbta ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis apskaičiuojamas proporcingai darbdavio paskelbtos užimto asmens prastovos laikui. Darbdaviai, kuriems buvo mokama subsidija darbo užmokesčiui šio įstatymo 25 straipsnio 14 punkte nurodytiems užimtiems asmenims, turi išlaikyti ne mažiau kaip 50 procentų darbo vietų ne trumpiau kaip 3 mėnesius nuo subsidijos darbo užmokesčiui mokėjimo pabaigos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
+
+
+
+
+3. Darbdaviams, dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino paskelbtos prastovos metu išlaikantiems darbo vietas šio įstatymo 25 straipsnio 10 punkte nurodytiems užimtiems asmenims ir apie prastovos paskelbimą informavusiems Lietuvos Respublikos darbo kodekso 47 straipsnio 3 dalies 1 punkte nustatyta tvarka, subsidija darbo užmokesčiui nuo kiekvienam prastovoje esančiam užimtam asmeniui priskaičiuoto darbo užmokesčio mokama kas mėnesį už praėjusį kalendorinį mėnesį, kurį galiojo Lietuvos Respublikos Vyriausybės paskelbta ekstremalioji situacija ir karantinas. Subsidijos darbo užmokesčiui dydis apskaičiuojamas procentais nuo užimtam asmeniui priskaičiuoto darbo užmokesčio, kuris negali būti didesnis negu užimto asmens darbo sutartyje iki karantino paskelbimo dienos nustatytas darbo užmokestis. Subsidijos darbo užmokesčiui dydis sudaro 100 procentų apskaičiuotų lėšų, bet ne daugiau kaip 1,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio. Jeigu užimtam asmeniui prastova Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju paskelbta ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis apskaičiuojamas proporcingai darbdavio paskelbtos užimto asmens prastovos laikui. Darbdaviai, kuriems buvo mokama subsidija darbo užmokesčiui šio įstatymo 25 straipsnio 10 punkte nurodytiems užimtiems asmenims, turi išlaikyti ne mažiau kaip 50 procentų darbo vietų ne trumpiau kaip 3 mėnesius nuo subsidijos darbo užmokesčiui mokėjimo pabaigos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -3180,12 +3192,28 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 
 
 
-5. Asmeniui vienu metu gali būti taikomos abi šio straipsnio 1 dalyje nurodytos remiamojo įdarbinimo priemonės. Šio straipsnio 1 dalyje nurodytos remiamojo įdarbinimo priemonės gali būti derinamos su bedarbių profesiniu mokymu ar darbo vietų pritaikymu.
+5. Asmuo, dalyvavęs šio straipsnio 1 dalies 1 punkte nurodytoje priemonėje, negali būti pakartotinai siunčiamas dalyvauti šioje priemonėje pas tą patį darbdavį, išskyrus:
+
+
+1) šio įstatymo 25 straipsnio 1 ir 11 punktuose nurodytus asmenis;
 
 
 
 
-6. Darbdaviai, kuriems, įgyvendinus šio straipsnio 1 dalies 1 punkte nurodytą remiamojo įdarbinimo priemonę, šio straipsnio 2 dalyje nurodytos subsidijos darbo užmokesčiui mokėjimas buvo baigtas arba šio straipsnio 10 dalies 2 ir 4 punktuose nurodytais atvejais nutrauktas, per 6 mėnesius atleidę iš darbo bent vieną iš šio įstatymo 25 straipsnio 1–13 punktuose nurodytų Užimtumo tarnybos siųstų asmenų arba šio įstatymo 25 straipsnio 16, 17 ir 18 punktuose nurodytų asmenų, išskyrus asmenis, atleistus pagal Lietuvos Respublikos darbo kodeksą darbo sutarties šalims susitarus dėl išbandymo, darbuotojo iniciatyva be svarbių priežasčių ar dėl svarbių priežasčių, darbdavio iniciatyva dėl darbuotojo kaltės, nesant darbo sutarties šalių valios, taip pat darbo sutarties pasibaigimo atvejus, kai šio straipsnio 2 dalyje nurodytos subsidijos darbo užmokesčiui mokėjimas buvo nutrauktas šio straipsnio 10 dalies 5 punkte nurodytu pagrindu ar dėl darbuotojo mirties, pakartotinai dalyvauti šio straipsnio 1 dalies 1 punkte nurodytoje remiamojo įdarbinimo priemonėje gali ne anksčiau kaip po 12 mėnesių, baigus mokėti šio straipsnio 2 dalyje nurodytą subsidiją darbo užmokesčiui įgyvendinant ankstesnę priemonę.
+2) šio įstatymo 25 straipsnio 2 ir 12 punktuose nurodytus asmenis, jeigu bendra subsidijos darbo užmokesčiui mokėjimo tam pačiam darbdaviui už šį asmenį trukmė neviršija 36 mėnesių. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
+
+
+
+
+6. Darbdaviai, kuriems, įgyvendinus šio straipsnio 1 dalies 1 punkte nurodytą remiamojo įdarbinimo priemonę, šio straipsnio 2 dalyje nurodytos subsidijos darbo užmokesčiui mokėjimas buvo baigtas arba šio straipsnio 10 dalies 2 ir 4 punktuose nurodytais atvejais nutrauktas, per 6 mėnesius atleidę iš darbo bent vieną iš šio įstatymo 25 straipsnio 1–9 punktuose nurodytų Užimtumo tarnybos siųstų asmenų arba šio įstatymo 25 straipsnio 11, 12 ir 13 punktuose nurodytų asmenų, išskyrus asmenis, atleistus pagal Lietuvos Respublikos darbo kodeksą darbo sutarties šalims susitarus dėl išbandymo, darbuotojo iniciatyva be svarbių priežasčių ar dėl svarbių priežasčių, darbdavio iniciatyva dėl darbuotojo kaltės, nesant darbo sutarties šalių valios, taip pat darbo sutarties pasibaigimo atvejus, kai šio straipsnio 2 dalyje nurodytos subsidijos darbo užmokesčiui mokėjimas buvo nutrauktas šio straipsnio 10 dalies 5 punkte nurodytu pagrindu ar dėl darbuotojo mirties, pakartotinai dalyvauti šio straipsnio 1 dalies 1 punkte nurodytoje remiamojo įdarbinimo priemonėje gali ne anksčiau kaip po 12 mėnesių, baigus mokėti šio straipsnio 2 dalyje nurodytą subsidiją darbo užmokesčiui įgyvendinant ankstesnę priemonę. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -3205,7 +3233,9 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 
 
 
-10. Šio straipsnio 2 dalyje nurodytos subsidijos darbo užmokesčiui mokėjimas, kai įdarbinami šio įstatymo 25 straipsnio 1–13 punktuose nurodyti asmenys arba dirba šio įstatymo 25 straipsnio 16, 17 ir 18 punktuose nurodyti asmenys, nutraukiamas šiais atvejais:
+10. Šio straipsnio 2 dalyje nurodytos subsidijos darbo užmokesčiui mokėjimas, kai įdarbinami šio įstatymo 25 straipsnio 1–9 punktuose nurodyti asmenys arba dirba šio įstatymo 25 straipsnio 11, 12 ir 13 punktuose nurodyti asmenys, nutraukiamas šiais atvejais: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
 
 
 1) pasibaigus subsidijos darbo užmokesčiui mokėjimo terminui, nustatytam įdarbinimo subsidijuojant įgyvendinimo sutartyje;
@@ -3253,29 +3283,51 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 
 
 
-10) jeigu darbdaviui paskirta bauda už šio įstatymo 56, 57, 58 ar 592 straipsnyje nurodytą pažeidimą; 
+10) jeigu darbdaviui paskirta bauda už šio įstatymo 56, 561, 57, 58 ar 591 straipsnyje nurodytą pažeidimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
 
-11) jeigu darbdavio vadovui ar kitam atsakingam asmeniui paskirta administracinė nuobauda pagal Lietuvos Respublikos administracinių nusižengimų kodeksą už nelegalų darbą arba antra per kalendorinius metus administracinė nuobauda pagal šį kodeksą už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų, skaidriai dirbančių asmenų identifikavimo reikalavimų pažeidimus, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus;
+11) jeigu darbdavio vadovui ar kitam atsakingam asmeniui paskirta administracinė nuobauda pagal Lietuvos Respublikos administracinių nusižengimų kodeksą už nelegalų darbą arba antra per kalendorinius metus administracinė nuobauda pagal šį kodeksą už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimus, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
 
-12) jeigu subsidija darbo užmokesčiui buvo mokama ilgiau kaip 36 mėnesius ir pasikeitė asmens darbingumo arba neįgalumo lygis – jam nustatytas didesnis kaip 30 procentų darbingumo lygis arba vidutinis ar lengvas neįgalumo lygis;
+12) jeigu subsidija darbo užmokesčiui buvo mokama ilgiau kaip 36 mėnesius ir pasikeitė asmens dalyvumo lygis (iki 2023 m. gruodžio 31 d. – darbingumo lygis) arba neįgalumo lygis – jam nustatytas didesnis kaip 30 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 30 procentų darbingumo lygis) arba vidutinio ar lengvo neįgalumo lygis (iki 2023 m. gruodžio 31 d. – vidutinis ar lengvas neįgalumo lygis); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
 
-13) jeigu subsidija darbo užmokesčiui buvo mokama ilgiau kaip 6 mėnesius ir pasikeitė asmens darbingumo arba neįgalumo lygis – jam nustatytas didesnis kaip 45 procentų darbingumo lygis arba lengvas neįgalumo lygis. 
+13) jeigu subsidija darbo užmokesčiui buvo mokama ilgiau kaip 6 mėnesius ir pasikeitė asmens dalyvumo lygis (iki 2023 m. gruodžio 31 d. – darbingumo lygis) arba neįgalumo lygis – jam nustatytas didesnis kaip 45 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 45 procentų darbingumo lygis) arba lengvo neįgalumo lygis (iki 2023 m. gruodžio 31 d. – lengvas neįgalumo lygis); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
+
+
+
+
+14) jeigu darbdavys nebeatitinka Europos Sąjungos valstybės pagalbos taisyklėse nustatytų reikalavimų ar juos pažeidžia. 
+Papildyta straipsnio punktu:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
 
 
 
-11. Šio straipsnio 3 dalyje nurodytos subsidijos darbo užmokesčiui mokėjimas, kai darbo vietos yra išlaikomos šio įstatymo 25 straipsnio 14 punkte nurodytiems užimtiems asmenims, nutraukiamas šiais atvejais:
+11. Šio straipsnio 3 dalyje nurodytos subsidijos darbo užmokesčiui mokėjimas, kai darbo vietos išlaikomos šio įstatymo 25 straipsnio 10 punkte nurodytiems užimtiems asmenims, nutraukiamas šiais atvejais: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
 
 
 1) jeigu pasibaigia subsidijos darbo užmokesčiui mokėjimo terminas, nurodytas šio įstatymo 42 straipsnio 3 dalies 4 punkte, arba jeigu darbdavys atšaukia Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju užimtam asmeniui paskelbtą prastovą ar sueina jos paskelbimo terminas;
@@ -3318,12 +3370,18 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 
 
 
-9) jeigu darbdaviui paskirta bauda už šio įstatymo 56, 57, 58 ar 592 straipsnyje nurodytą pažeidimą;
+9) jeigu darbdaviui paskirta bauda už šio įstatymo 56, 561, 57, 58 ar 591 straipsnyje nurodytą pažeidimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
 
-10) jeigu darbdavio vadovui ar kitam atsakingam asmeniui paskirta administracinė nuobauda pagal Lietuvos Respublikos administracinių nusižengimų kodeksą už nelegalų darbą arba antra per kalendorinius metus administracinė nuobauda pagal šį kodeksą už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų, skaidriai dirbančių asmenų identifikavimo reikalavimų pažeidimus, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus.
+10) jeigu darbdavio vadovui ar kitam atsakingam asmeniui paskirta administracinė nuobauda pagal Lietuvos Respublikos administracinių nusižengimų kodeksą už nelegalų darbą arba antra per kalendorinius metus administracinė nuobauda pagal šį kodeksą už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimus, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -3363,12 +3421,26 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 
 
 
-7) jeigu darbdaviui paskirta bauda už šio įstatymo 56, 57, 58 ar 592 straipsnyje nurodytą pažeidimą; 
+7) jeigu darbdaviui paskirta bauda už šio įstatymo 56, 561, 57, 58 ar 591 straipsnyje nurodytą pažeidimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
 
-8) jeigu darbdavio vadovui ar kitam atsakingam asmeniui paskirta administracinė nuobauda pagal Lietuvos Respublikos administracinių nusižengimų kodeksą už nelegalų darbą arba antra per kalendorinius metus administracinė nuobauda pagal šį kodeksą už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų, skaidriai dirbančių asmenų identifikavimo reikalavimų pažeidimus, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus.
+8) jeigu darbdavio vadovui ar kitam atsakingam asmeniui paskirta administracinė nuobauda pagal Lietuvos Respublikos administracinių nusižengimų kodeksą už nelegalų darbą arba antra per kalendorinius metus administracinė nuobauda pagal šį kodeksą už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimus, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
+
+
+
+
+9) jeigu darbdavys nebeatitinka Europos Sąjungos valstybės pagalbos taisyklėse nustatytų reikalavimų ar juos pažeidžia.
+Papildyta straipsnio punktu:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -3394,22 +3466,22 @@ Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
 42 straipsnis. Įdarbinimas subsidijuojant 
 
 
-1. Įdarbinimas subsidijuojant, kurio tikslas – įdarbinti Užimtumo tarnybos siųstą asmenį arba išlaikyti šio įstatymo 25 straipsnio 16, 17 ir 18 punktuose nurodytų asmenų darbo vietas, negrąžintinai kompensuojant darbdaviui dalį šio asmens darbo užmokesčio išlaidų, taip pat išlaikyti užimtų asmenų, kuriems Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju paskelbta prastova arba ji nutraukta šio įstatymo 41 straipsnio 11 dalies 1 punkte nustatytu atveju, darbo vietas, organizuojamas siekiant:
+1. Įdarbinimas subsidijuojant, kurio tikslas – įdarbinti Užimtumo tarnybos siųstą asmenį arba išlaikyti šio įstatymo 25 straipsnio 11, 12 ir 13 punktuose nurodytų asmenų darbo vietas, negrąžintinai kompensuojant darbdaviui dalį šio asmens darbo užmokesčio išlaidų, taip pat išlaikyti užimtų asmenų, kuriems Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju paskelbta prastova arba ji nutraukta šio įstatymo 41 straipsnio 11 dalies 1 punkte nustatytu atveju, darbo vietas, organizuojamas siekiant:
 
 
-1) šio įstatymo 25 straipsnio 2–13 punktuose nurodytiems bedarbiams padėti įsitvirtinti darbo rinkoje;
-
-
-
-
-2) šio įstatymo 25 straipsnio 1 punkte nurodytiems bedarbiams ir šio įstatymo 25 straipsnio 14, 16, 17 ir 18 punktuose nurodytiems asmenims sudaryti specialias sąlygas išlikti darbo rinkoje.
+1) šio įstatymo 25 straipsnio 2–9 punktuose nurodytiems bedarbiams padėti įsitvirtinti darbo rinkoje;
 
 
 
 
+2) šio įstatymo 25 straipsnio 1 punkte nurodytiems bedarbiams ir šio įstatymo 25 straipsnio 10, 11, 12 ir 13 punktuose nurodytiems asmenims sudaryti specialias sąlygas išlikti darbo rinkoje.
 
 
-2. Subsidijos darbo užmokesčiui, mokamos darbdaviams įdarbinant šio straipsnio 1 dalies 1 punkte nurodytus asmenis, taip pat išlaikant šio straipsnio 1 dalies 2 punkte nurodytų užimtų asmenų darbo vietas, dydis apskaičiuojamas vadovaujantis šio įstatymo 41 straipsnio 2, 3 ir 4 dalių nuostatomis.
+
+
+
+
+2. Subsidijos darbo užmokesčiui, mokamos darbdaviams įdarbinant šio straipsnio 1 dalies 1 punkte nurodytus asmenis, taip pat išlaikant šio straipsnio 1 dalies 2 punkte nurodytų užimtų asmenų darbo vietas, dydis apskaičiuojamas vadovaujantis šio įstatymo 41 straipsnio 2, 3 ir 4 dalių nuostatomis.
 
 
 
@@ -3417,17 +3489,17 @@ Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
 3. Subsidija darbo užmokesčiui mokama: 
 
 
-1) iki 6 mėnesių šio įstatymo 41 straipsnio 2 dalyje nustatytu atveju, jeigu darbo sutartis sudaryta su asmenimis, nurodytais šio įstatymo 25 straipsnio 3–9, 11, 12 ir 13 punktuose, arba jeigu darbo sutartis sudaryta su asmenimis, nurodytais šio įstatymo 25 straipsnio 18 punkte, arba jeigu, nepasibaigus šiam subsidijos darbo užmokesčiui mokėjimo terminui, pasikeitė asmens darbingumo arba neįgalumo lygis – jam nustatytas 45–55 procentų darbingumo lygis arba lengvas neįgalumo lygis. Į nurodytą subsidijos mokėjimo terminą neįskaičiuojamas laikotarpis, kai subsidija darbo užmokesčiui buvo mokama šio įstatymo 41 straipsnio 3 dalyje nustatytu atveju;
+1) iki 6 mėnesių per nepertraukiamą 18 mėnesių laikotarpį nuo pirmos įdarbinimo subsidijuojant dienos šio įstatymo 41 straipsnio 2 dalyje nustatytu atveju, jeigu darbo sutartis sudaryta su asmenimis, nurodytais šio įstatymo 25 straipsnio 3–9 punktuose, arba jeigu darbo sutartis sudaryta su asmenimis, nurodytais šio įstatymo 25 straipsnio 13 punkte, arba jeigu, nepasibaigus šiam subsidijos darbo užmokesčiui mokėjimo terminui, pasikeitė asmens dalyvumo lygis (iki 2023 m. gruodžio 31 d. – darbingumo lygis) arba neįgalumo lygis – jam nustatytas  45–55 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 45–55 procentų darbingumo lygis) arba lengvo neįgalumo lygis (iki 2023 m. gruodžio 31 d. – lengvas neįgalumo lygis). Į nurodytą subsidijos mokėjimo terminą neįskaičiuojamas laikotarpis, kai subsidija darbo užmokesčiui buvo mokama šio įstatymo 41 straipsnio 3 dalyje nustatytu atveju;
 
 
 
 
-2) iki 36 mėnesių šio įstatymo 41 straipsnio 2 dalyje nustatytu atveju, jeigu darbo sutartis sudaryta su asmenimis, nurodytais šio įstatymo 25 straipsnio 2 ir 10 punktuose, arba jeigu darbo sutartis sudaryta su asmenimis, nurodytais šio įstatymo 25 straipsnio 17 punkte, arba jeigu, nepasibaigus šiam subsidijos darbo užmokesčiui mokėjimo terminui, pasikeitė asmens darbingumo arba neįgalumo lygis – jam nustatytas 30–40 procentų darbingumo lygis arba vidutinis neįgalumo lygis. Į nurodytą subsidijos mokėjimo terminą neįskaičiuojamas laikotarpis, kai subsidija darbo užmokesčiui buvo mokama šio įstatymo 41 straipsnio 3 dalyje nustatytu atveju;
+2) iki 36 mėnesių per nepertraukiamą 48 mėnesių laikotarpį nuo pirmos įdarbinimo subsidijuojant dienos šio įstatymo 41 straipsnio 2 dalyje nustatytu atveju, jeigu darbo sutartis sudaryta su asmenimis, nurodytais šio įstatymo 25 straipsnio 2 punkte, arba jeigu darbo sutartis sudaryta su asmenimis, nurodytais šio įstatymo 25 straipsnio 12 punkte, arba jeigu, nepasibaigus šiam subsidijos darbo užmokesčiui mokėjimo terminui, pasikeitė asmens dalyvumo lygis (iki 2023 m. gruodžio 31 d. – darbingumo lygis) arba neįgalumo lygis – jam nustatytas 30–40 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 30–40 procentų darbingumo lygis) arba vidutinio neįgalumo lygis (iki 2023 m. gruodžio 31 d. – vidutinis neįgalumo lygis). Į nurodytą subsidijos mokėjimo terminą neįskaičiuojamas laikotarpis, kai subsidija darbo užmokesčiui buvo mokama šio įstatymo 41 straipsnio 3 dalyje nustatytu atveju;
 
 
 
 
-3) neterminuotai per visą darbo laikotarpį, jeigu šio įstatymo 41 straipsnio 2 dalyje nustatytu atveju įdarbinami asmenys, nurodyti šio įstatymo 25 straipsnio 1 punkte, arba jeigu darbo sutartis sudaryta su asmenimis, nurodytais šio įstatymo 25 straipsnio 16 punkte, arba jeigu subsidijos darbo užmokesčiui mokėjimo laikotarpiu pasikeitė asmens darbingumo arba neįgalumo lygis – jam nustatytas iki 25 procentų darbingumo lygis arba sunkus neįgalumo lygis;
+3) neterminuotai per visą darbo laikotarpį, jeigu šio įstatymo 41 straipsnio 2 dalyje nustatytu atveju įdarbinami asmenys, nurodyti šio įstatymo 25 straipsnio 1 punkte, arba jeigu darbo sutartis sudaryta su asmenimis, nurodytais šio įstatymo 25 straipsnio 11 punkte, arba jeigu subsidijos darbo užmokesčiui mokėjimo laikotarpiu pasikeitė asmens dalyvumo lygis (iki 2023 m. gruodžio 31 d. – darbingumo lygis) arba neįgalumo lygis – jam nustatytas iki 25 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 0–25 procentų darbingumo lygis) arba sunkaus neįgalumo lygis (iki 2023 m. gruodžio 31 d. – sunkus neįgalumo lygis);
 
 
 
@@ -3443,6 +3515,7 @@ Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
 Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 Nr. XIV-351, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13151
 Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
@@ -3454,24 +3527,24 @@ Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
 1. Darbdaviui skiriama subsidija darbo asistento išlaidoms, jeigu darbo funkcijoms atlikti nustatytas darbo asistento pagalbos poreikis:
 
 
-1) asmenims, nurodytiems šio įstatymo 25 straipsnio 1, 2, 3, 16, 17 ir 18 punktuose;
+1) asmenims, nurodytiems šio įstatymo 25 straipsnio 1, 2, 3, 11, 12 ir 13 punktuose;
 
 
 
 
-2) darbingo amžiaus užimtiems asmenims, kuriems pirmą kartą nustatytas iki 55 procentų darbingumo lygis arba sunkus, vidutinis ar lengvas neįgalumo lygis;
+2) darbingo amžiaus užimtiems asmenims, kuriems pirmą kartą nustatytas iki 55 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – iki 55 procentų darbingumo lygis) arba sunkaus, vidutinio ar lengvo neįgalumo lygis (iki 2023 m. gruodžio 31 d. – sunkus, vidutinis ar lengvas neįgalumo lygis);
 
 
 
 
-3) darbingo amžiaus užimtiems asmenims, kuriems, pasikeitus darbingumo ar neįgalumo lygiui, nustatytas mažesnis, negu buvo, darbingumo arba neįgalumo lygis.
+3) darbingo amžiaus užimtiems asmenims, kuriems, pasikeitus dalyvumo lygiui (iki 2023 m. gruodžio 31 d. – darbingumo lygiui) ar neįgalumo lygiui, nustatytas mažesnis, negu buvo, dalyvumo lygis (iki 2023 m. gruodžio 31 d. – darbingumo lygis) arba neįgalumo lygis.
 
 
 
 
 
 
-2. Darbo asistento pagalbos poreikis ir jo terminas nustatomi Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka. Informaciją apie priimtą sprendimą nustatyti darbo asistento pagalbos poreikį Neįgalumo ir darbingumo nustatymo tarnyba pateikia Užimtumo tarnybai teisės aktų nustatyta tvarka. 
+2. Darbo asistento pagalbos poreikį ir jo terminą nustato ir informaciją apie priimtą sprendimą nustatyti darbo asistento pagalbos poreikį Užimtumo tarnybai pateikia Asmens su negalia teisių apsaugos agentūra Asmens su negalia teisių apsaugos agentūros direktoriaus nustatyta tvarka, suderinta su Užimtumo tarnyba.
 
 
 
@@ -3481,11 +3554,12 @@ Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
 
 
 
-4. Subsidija darbo asistento išlaidoms sudaro 62 procentus subsidijos skyrimo mėnesį galiojančio Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio už kiekvieną šio įstatymo 25 straipsnio 1, 2, 3, 16, 17 ir 18 punktuose nurodytą asmenį, atsižvelgiant į šių asmenų faktiškai dirbtą laiką, kai darbui atlikti buvo suteikta darbo asistento pagalba. Jeigu darbo asistento pagalba tuo pačiu metu teikiama keliems asmenims, jų faktiškai dirbtos valandos, į kurias atsižvelgiant apskaičiuojamas subsidijos darbo asistento išlaidoms dydis, nėra sumuojamos.
+4. Subsidija darbo asistento išlaidoms sudaro 62 procentus subsidijos skyrimo mėnesį galiojančio Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio už kiekvieną šio straipsnio 1 dalyje nurodytą asmenį, atsižvelgiant į šių asmenų faktiškai dirbtą laiką, kai darbui atlikti buvo suteikta darbo asistento pagalba. Jeigu darbo asistento pagalba tuo pačiu metu teikiama keliems asmenims, jų faktiškai dirbtos valandos, į kurias atsižvelgiant apskaičiuojamas subsidijos darbo asistento išlaidoms dydis, nėra sumuojamos.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
@@ -3655,7 +3729,10 @@ Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
 
 
 
-8) turi paskirtą baudą už šio įstatymo 56, 57, 58 ar 592 straipsnyje nurodytą pažeidimą, taip pat jeigu subsidijos gavėjo vadovui ar kitam atsakingam asmeniui pagal Lietuvos Respublikos administracinių nusižengimų kodeksą paskirta administracinė nuobauda už nelegalų darbą arba pagal šį kodeksą paskirta antra per kalendorinius metus administracinė nuobauda už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų, skaidriai dirbančių asmenų identifikavimo reikalavimų pažeidimus, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus.
+8) turi paskirtą baudą už šio įstatymo 56, 561, 57, 58 ar 591 straipsnyje nurodytą pažeidimą, taip pat jeigu subsidijos gavėjo vadovui ar kitam atsakingam asmeniui pagal Lietuvos Respublikos administracinių nusižengimų kodeksą paskirta administracinė nuobauda už nelegalų darbą arba pagal šį kodeksą paskirta antra per kalendorinius metus administracinė nuobauda už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimus, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -3718,7 +3795,10 @@ Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
 
 
 
-11. Darbo vietai steigti ar pritaikyti ir asmeniui įdarbinti vienu metu gali būti taikomas tik vienas iš šio straipsnio 1 dalyje nurodytų paramos būdų. Darbdavys negali į darbo vietą, įsteigtą šio straipsnio 1 dalies 2 ir 3 punktuose nustatytos paramos lėšomis, įdarbinti asmens pagal remiamojo įdarbinimo priemones, išskyrus šio įstatymo 41 straipsnio 3 dalyje nurodytą atvejį, kai darbo vietos išlaikomos šio įstatymo 25 straipsnio 14 punkte nurodytiems užimtiems asmenims.
+11. Darbo vietai steigti ar pritaikyti ir asmeniui įdarbinti vienu metu gali būti taikomas tik vienas iš šio straipsnio 1 dalyje nurodytų paramos būdų. Darbdavys negali į darbo vietą, įsteigtą šio straipsnio 1 dalies 2 ir 3 punktuose nustatytos paramos lėšomis, įdarbinti asmens pagal remiamojo įdarbinimo priemones, išskyrus šio įstatymo 41 straipsnio 3 dalyje nurodytą atvejį, kai darbo vietos išlaikomos šio įstatymo 25 straipsnio 10 punkte nurodytiems užimtiems asmenims.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -3868,9 +3948,10 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 
 
 
-2) nėščios moterys, vaiko motina (įmotė) arba tėvas (įtėvis), vaiko globėjas, rūpintojas ir asmenys, faktiškai auginantys vaiką (įvaikį) iki 8 metų arba neįgalų vaiką (įvaikį) iki 18 metų (iki 2005 m. liepos 1 d. pripažintą vaiku invalidu), ir asmenys, prižiūrintys neįgalius šeimos narius, kuriems Neįgalumo ir darbingumo nustatymo tarnybos sprendimu nustatyta nuolatinė slauga ar priežiūra; 
+2) nėščios moterys, vaiko (įvaikio) motina (įmotė) arba tėvas (įtėvis), vaiko globėjas, rūpintojas ir asmenys, faktiškai vieni auginantys vaiką (įvaikį) iki 8 metų arba vaiką (įvaikį) su negalia iki 18 metų, taip pat asmenys, prižiūrintys šeimos narius su negalia, kuriems Asmens su negalia teisių apsaugos agentūros sprendimu nustatytas individualios pagalbos teikimo išlaidų kompensacijos poreikis; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
@@ -3940,9 +4021,17 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-11) darbo rinkai besirengiantys asmenys.
+11) darbo rinkai besirengiantys asmenys;
 Papildyta straipsnio punktu:
 Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+ 
+
+
+
+
+12) ilgalaikiai bedarbiai, kurių nedarbo trukmė ilgesnė kaip 12 mėnesių, skaičiuojant nuo įsiregistravimo Užimtumo tarnyboje dienos.
+Papildyta straipsnio punktu:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
@@ -3966,30 +4055,15 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 481 straipsnis. Atvykimo išmoka iš užsienio pritrauktiems darbuotojams
 
 
-1. Teisę gauti atvykimo išmoką iš užsienio pritrauktiems darbuotojams turi visas šias sąlygas atitinkantis asmuo:
+1. Teisę gauti atvykimo išmoką iš užsienio pritrauktiems darbuotojams turi asmuo (išskyrus asmenis, kuriems nacionalinė viza išduota iki 2022 m. birželio 30 d.), kuris atitinka visas šias sąlygas: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
 
 
-1) asmuo 2022 metais arba vėlesniais kalendoriniais metais laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 4 straipsnio nuostatas (toliau – nuolatinis Lietuvos gyventojas), išskyrus asmenis, kuriems nacionalinė viza buvo išduota iki 2022 m. birželio 30 d. Vizos išdavimo tvarkos apraše, tvirtinamame Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro įsakymu, nurodytais atvejais: 
-
-
-a) užsieniečiui, pateikusiam prašymą išduoti ar pakeisti leidimą gyventi Lietuvos Respublikoje arba Sąjungos piliečio šeimos nario leidimo gyventi šalyje kortelę;
-
-
-
-
-b) užsieniečiui, kuris yra valstybės, nurodytos Vizos išdavimo tvarkos aprašo 14 priede, pilietis, dėl kurio atvykimo į Lietuvos Respubliką tarpininkauja juridinis asmuo arba kuris vyksta į Lietuvos Respubliką ilgalaikiam buvimui;
-
-
-
-
-c) užsieniečiui, kuris yra nacionalinę vizą arba leidimą laikinai gyventi turinčio valstybės, nurodytos Vizos išdavimo tvarkos aprašo 14 priede, piliečio sutuoktinis arba asmuo, su kuriuo sudaryta registruotos partnerystės sutartis, nepilnametis vaikas (įvaikis), įskaitant sutuoktinio arba asmens, su kuriuo sudaryta registruotos partnerystės sutartis, nepilnamečius vaikus;
-
-
-
-
-d) kitais atvejais, kai užsieniečio atvykimo į Lietuvos Respubliką tikslas – ilgalaikis buvimas Lietuvos Respublikoje;
-
-
+1) asmuo 2022 metais arba vėlesniais kalendoriniais metais tapo nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 4 straipsnio nuostatas (toliau – nuolatinis Lietuvos gyventojas);
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -4169,15 +4243,16 @@ Nr. XIII-2846, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07511
 
 
 
-50 straipsnis. Užimtumo rėmimo priemonių, darbo rinkos paslaugų ir kitų išmokų finansavimo šaltiniai
+50 straipsnis. Užimtumo rėmimo priemonių, darbo rinkos paslaugų ir išmokų finansavimo šaltiniai
 
 
-Darbo rinkos paslaugos, užimtumo rėmimo priemonės ir kitos šiame įstatyme nurodytos išmokos finansuojamos iš valstybės ir savivaldybių biudžetų, Garantinio fondo, Europos Sąjungos struktūrinių ir kitų fondų bei šaltinių. Europos prisitaikymo prie globalizacijos padarinių fondo lėšų naudojimo sąlygas ir tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
+Darbo rinkos paslaugos, užimtumo rėmimo priemonės ir šiame įstatyme nurodytos išmokos finansuojamos iš valstybės ir savivaldybių biudžetų, Garantinio fondo, Ilgalaikio darbo išmokų fondo, Europos Sąjungos struktūrinių ir kitų fondų bei šaltinių. Europos prisitaikymo prie globalizacijos padarinių fondo lėšų naudojimo sąlygas ir tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
 Nr. XIII-2846, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07511
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
@@ -4231,22 +4306,17 @@ Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
 
 
 IV SKYRIUS
-NELEGALUS DARBAS, NEDEKLARUOTAS DARBAS, NEDEKLARUOTA SAVARANKIŠKA VEIKLA, UŽSIENIEČIŲ ĮDARBINIMO TVARKOS IR SKAIDRIAI DIRBANČIO ASMENS IDENTIFIKAVIMO PAŽEIDIMAI 
-Pakeistas skyriaus pavadinimas:
-Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
+NELEGALUS DARBAS, NEDEKLARUOTAS DARBAS, NEDEKLARUOTA SAVARANKIŠKA VEIKLA IR UŽSIENIEČIŲ ĮDARBINIMO TVARKOS PAŽEIDIMAI
  
 
 
-55 straipsnis. Institucijos, vykdančios nelegalaus darbo, nedeklaruoto darbo, nedeklaruotos savarankiškos veiklos ir skaidriai dirbančių asmenų identifikavimo kontrolę
+55 straipsnis. Institucijos, vykdančios nelegalaus darbo, nedeklaruoto darbo, nedeklaruotos savarankiškos veiklos kontrolę
 
 
-Nelegalaus darbo, nedeklaruoto darbo ir nedeklaruotos savarankiškos veiklos prevenciją vykdo, patikrinimus, grindžiamus rizikos vertinimu, ir skaidriai dirbančių asmenų identifikavimo kontrolę atlieka Valstybinė darbo inspekcija, Valstybinė mokesčių inspekcija, Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Finansinių nusikaltimų tyrimo tarnyba) ir policija, vadovaudamosi jų veiklą reglamentuojančiais teisės aktais.
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
-Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
+Valstybinė darbo inspekcija, Valstybinė mokesčių inspekcija, Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos ir policija vykdo nelegalaus darbo, nedeklaruoto darbo ir nedeklaruotos savarankiškos veiklos prevenciją, patikrinimus, grindžiamus rizikos vertinimu, ir kontrolę.
  
+
+
 
 
 
@@ -4257,106 +4327,44 @@ Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
 1. Nelegaliu darbu laikomos fizinio asmens (darbuotojo) pavaldžiai kitam asmeniui (darbdaviui) ir jo naudai atlygintinai atliekamos darbo funkcijos, kai:
 
 
-1) darbdavys nesudaro darbo sutarties raštu arba nepraneša Valstybinio socialinio draudimo fondo valdybos teritorinei įstaigai mažiausiai prieš vieną darbo dieną iki darbo pradžios apie darbuotojo priėmimą į darbą;
+1) darbdavys nesudaro darbo sutarties raštu ir (arba) nepraneša Valstybinio socialinio draudimo fondo valdybos teritorinei įstaigai mažiausiai prieš vieną darbo dieną iki darbo pradžios apie darbuotojo priėmimą į darbą;
 
 
 
 
-2) dirba trečiosios šalies pilietis, įdarbintas nesilaikant norminių teisės aktų, reglamentuojančių trečiųjų šalių piliečių įdarbinimą, nustatytos tvarkos.
-Straipsnio punkto pakeitimai:
-Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
- 
+2) dirba trečiosios šalies pilietis, kuris neturi teisės būti ar gyventi ir (arba) dirbti Lietuvos Respublikoje ir (arba) kuris neturi suformuoto galiojančio skaidriai dirbančio asmens identifikavimo kodo, jeigu privalu jį turėti, arba skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis, nurodytus Valstybinio socialinio draudimo įstatymo 151 straipsnio 8 dalyje, pagrindžiančių dokumentų (toliau – skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis pagrindžiantys dokumentai) tais atvejais, kai skaidriai dirbančio asmens identifikavimo kodas negali būti suformuojamas, arba nustatomos šios dalies 1 punkte nurodytos aplinkybės. 
 
 
 
 
 
 
-2. Darbdavys nelaikomas pažeidusiu šio straipsnio 1 dalies 2 punktą, jeigu, įdarbindamas trečiosios šalies pilietį, įvykdo šias sąlygas:
+2. Darbdavys nelaikomas pažeidusiu šio straipsnio 1 dalies 2 punktą, kai dirba trečiosios šalies pilietis, kuris neturi teisės būti ar gyventi ir (arba) dirbti Lietuvos Respublikoje, jeigu įdarbindamas trečiosios šalies pilietį ir visu jo darbo Lietuvos Respublikoje laikotarpiu saugo jo teisę būti ar gyventi ir (arba) dirbti Lietuvos Respublikoje patvirtinančių dokumentų kopijas ir pateikia jas Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas) ar šio įstatymo 55 straipsnyje nurodytai institucijai jų reikalavimu.
 
 
-1) ne vėliau kaip prieš vieną darbo dieną iki numatytos darbo sutarties sudarymo dienos yra gautas leidimas gyventi Lietuvos Respublikoje ar kitas dokumentas, suteikiantis teisę būti ar gyventi Lietuvos Respublikoje, ir leidimas dirbti Lietuvos Respublikoje, jeigu pagal  įstatymą „Dėl užsieniečių teisinės padėties“ trečiosios šalies pilietis nėra atleidžiamas nuo pareigos įsigyti leidimą dirbti Lietuvos Respublikoje, arba trečiosios šalies pilietis įdarbintas įgyvendinant stambaus projekto investicijų sutartį ar investicijų sutartį, sudarytą tarp investuotojo ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos Lietuvos Respublikos investicijų įstatymo 13 straipsnio 1 dalies 6 punkto pagrindu, ir ne vėliau kaip darbo sutarties sudarymo dieną yra pateiktas prašymas išduoti leidimą laikinai gyventi Investicijų įstatymo 131 straipsnio 3 dalies arba 155 straipsnio 6 dalies pagrindu; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
-Nr. XIII-3164, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15497
-Nr. XIV-379, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13523
- 
 
 
+3. Šio straipsnio 2 dalies nuostatos netaikomos, jeigu darbdavys žinojo, kad dokumentas, suteikiantis teisę būti ar gyventi Lietuvos Respublikoje, ir leidimas dirbti Lietuvos Respublikoje buvo suklastoti.
 
 
-2) darbo Lietuvos Respublikoje laikotarpiu saugo šio straipsnio 2 dalies 1 punkte nurodytų dokumentų kopijas ir pateikia jas Valstybinei darbo inspekcijai, Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas) ar kitai šio įstatymo 55 straipsnyje nurodytai institucijai jų reikalavimu. 
-Straipsnio punkto pakeitimai:
-Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
- 
 
 
+4. Padarius šio straipsnio 1 dalyje nurodytą pažeidimą, neatsižvelgiant į formalią nelegaliai dirbančio ir (ar) nelegalų darbą leidusio dirbti asmens veiklos išraišką:
 
 
+1) darbdavys privalo pranešti Valstybinio socialinio draudimo fondo valdybos teritorinei įstaigai apie nelegaliai dirbusio asmens priėmimą į darbą, nurodydamas faktinę jo darbo (nelegalaus) pradžią, ir sumokėti nelegaliai dirbusiam asmeniui sulygtą atlyginimą už darbą (už faktiškai dirbtą laikotarpį), ne mažesnį kaip 3 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžiai, taip pat, jeigu nelegaliai dirbo trečiosios šalies pilietis, pranešti apie darbo sutarties pasibaigimą ir apmokėti visas šiame punkte numatytų sumų pervedimo į šalį, į kurią grįžo ar buvo grąžintas trečiosios šalies pilietis, išlaidas ir trečiosios šalies piliečio grąžinimo išlaidas;
 
 
-3. Šio straipsnio 2 dalies nuostatos netaikomos, kai darbdavys žinojo, kad leidimas gyventi Lietuvos Respublikoje ar kitas dokumentas, suteikiantis teisę būti ar gyventi Lietuvos Respublikoje, ir leidimas dirbti Lietuvos Respublikoje buvo suklastoti.
 
 
+2) šio įstatymo nustatyta tvarka darbdaviui skiriama nuo 3 iki 12 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių bauda už kiekvieną nelegaliai dirbusį asmenį. Darbdaviui, jau baustam už šį pažeidimą per pastaruosius 2 metus, už pakartotinai padarytą pažeidimą šio įstatymo nustatyta tvarka skiriama nuo 6 iki 24 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių bauda už kiekvieną nelegaliai dirbusį asmenį.
 
 
-4. Šio įstatymo 55 straipsnyje nurodyta institucija, nustačiusi, kad darbdavys padarė šio straipsnio 1 dalies 1 punkte nurodytą pažeidimą, neatsižvelgdama į formalią nelegaliai dirbančio ir (ar) nelegalų darbą leidusio dirbti asmens veiklos išraišką:
 
 
-1) jeigu darbo santykiai nėra pasibaigę, įpareigoja darbdavį sudaryti rašytinę darbo sutartį su nelegaliai dirbusiu asmeniu ir pranešti Valstybinio socialinio draudimo fondo valdybos teritorinei įstaigai, kad darbo sutartis sudaryta ir darbuotojas priimtas į darbą;
 
 
-
-
-2) įpareigoja darbdavį sumokėti nelegaliai dirbusiam asmeniui sulygtą atlyginimą už darbą, išskyrus atvejį, kai šis atlyginimas buvo sumokėtas; 
-
-
-
-
-3) šio įstatymo nustatyta tvarka skiria baudą darbdaviui nuo 868 iki 2 896 eurų už kiekvieną nelegaliai dirbusį asmenį. Tokie patys veiksmai, padaryti darbdavio, jau bausto už šį pažeidimą per pastaruosius 2 metus, užtraukia baudą darbdaviui nuo 2 896 iki 5 792 eurų už kiekvieną nelegaliai dirbusį asmenį. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
- 
-
-
-
-
-5. Šio įstatymo 55 straipsnyje nurodyta institucija, nustačiusi, kad darbdavys padarė šio straipsnio 1 dalies 2 punkte nurodytą pažeidimą, neatsižvelgdama į formalią nelegaliai dirbančio ir (ar) nelegalų darbą leidusio dirbti asmens veiklos išraišką:
-
-
-1) įpareigoja darbdavį nutraukti darbo santykius su nelegaliai dirbančiu asmeniu per 3 darbo dienas nuo sprendimo priėmimo;
-
-
-
-
-2) įpareigoja darbdavį sumokėti nelegaliai dirbusiam asmeniui sulygtą atlyginimą už darbą, išskyrus atvejį, kai šis atlyginimas jau buvo sumokėtas;
-
-
-
-
-3) įpareigoja darbdavį sumokėti visas šioje dalyje numatytų sumų pervedimo į šalį, į kurią grįžo ar buvo grąžintas trečiosios šalies pilietis, išlaidas ir trečiosios šalies piliečio grąžinimo išlaidas;
-
-
-
-
-4) šio įstatymo nustatyta tvarka skiria baudą darbdaviui nuo 868 iki 2 896 eurų už kiekvieną nelegaliai dirbusį asmenį. Tokie patys veiksmai, padaryti darbdavio, jau bausto už šį pažeidimą per pastaruosius 2 metus, užtraukia baudą darbdaviui nuo 2 896 iki 5 792 eurų už kiekvieną nelegaliai dirbusį asmenį;
-
-
-
-
-5) duomenų teikimo sutartyje nustatytomis sąlygomis ir tvarka perduoda informaciją apie nelegaliai dirbantį ar dirbusį asmenį (vardas, pavardė, asmens kodas (jeigu asmens kodo neturi, – gimimo data), nelegalaus darbo pradžios data, darbdavio juridinio asmens pavadinimas ir kodas, šiam juridiniam asmeniui atstovaujančio asmens vardas, pavardė ir asmens kodas (jeigu darbdavys yra fizinis asmuo, – jo vardas ir pavardė, asmens kodas) Migracijos departamentui. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
- 
-
-
-
-
-6. Be šio straipsnio 5 dalyje numatytų pasekmių, darbdaviams, padariusiems šio straipsnio 1 dalies 2 punkte numatytą pažeidimą, gali būti taikomi:
+5. Be šio straipsnio 4 dalyje numatytų pasekmių, darbdaviams, padariusiems šio straipsnio 1 dalyje numatytą pažeidimą, gali būti taikomi:
 
 
 1) apribojimas dalyvauti viešuosiuose pirkimuose Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka;
@@ -4376,60 +4384,96 @@ Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
 
 
 
-7. Jeigu darbdavys, nelegaliai įdarbinęs trečiosios šalies pilietį dirbti tam tikrą darbą, yra subrangovas arba įmonė, atsiuntusi trečiosios šalies pilietį laikinai dirbti (toliau – siunčiančioji užsienio įmonė) į įmonę Lietuvos Respublikoje pagal sudarytą sutartį dėl paslaugų teikimo ar darbų atlikimo (toliau – priimančioji Lietuvos įmonė), rangovas arba priimančioji Lietuvos įmonė yra subsidiariai atsakingi už šio straipsnio 5 dalies 2 ir 3 punktuose nurodytų piniginių įpareigojimų įvykdymą, išskyrus atvejį, kai jie raštu iš subrangovo arba siunčiančiosios užsienio įmonės pareikalavo pateikti trečiųjų šalių piliečių įdarbinimo dokumentus, nurodytus šio straipsnio 2 dalyje, ir ėmėsi priemonių jų teisingumui patikrinti. Jeigu rangovas ar kiti subrangovai arba priimančioji Lietuvos įmonė žinojo apie tai, kad darbdavys yra nelegaliai įdarbinęs trečiosios šalies pilietį, jie taip pat yra subsidiariai atsakingi už šio straipsnio 5 dalies 2 ir 3 punktuose nurodytų piniginių įpareigojimų įvykdymą. Subsidiarios rangovo ar subrangovų arba priimančiosios Lietuvos įmonės atsakomybės esmė – tiek šio įstatymo 55 straipsnyje nurodyta institucija, tiek nelegaliai dirbęs trečiosios šalies pilietis turi teisę nukreipti savo piniginį reikalavimą į rangovą ar subrangovus per 3 mėnesius nuo tos dienos, kurią suėjo jų piniginio reikalavimo darbdaviui terminas, tačiau darbdavys jų piniginio reikalavimo nepatenkino arba patenkino nevisiškai. Darbdavys arba siunčiančioji užsienio įmonė ne vėliau kaip prieš vieną darbo dieną iki trečiosios šalies piliečio darbo Lietuvos Respublikoje pradžios raštu turi informuoti rangovą arba priimančiąją Lietuvos įmonę apie trečiosios šalies piliečio darbo Lietuvos Respublikoje pradžią, nurodydami šio trečiosios šalies piliečio vardą, pavardę ir darbo Lietuvos Respublikoje pradžios datą. Rangovo arba priimančiosios Lietuvos įmonės, gavusių iš darbdavio arba siunčiančiosios užsienio įmonės informaciją apie trečiosios šalies piliečio darbo Lietuvos Respublikoje pradžią, reikalavimu darbdavys arba siunčiančioji užsienio įmonė turi pateikti rangovui arba priimančiajai Lietuvos įmonei turimus dokumentus, nurodytus šio straipsnio 2 dalyje. Šio įstatymo 55 straipsnyje nurodyta institucija taip pat skiria rangovui arba priimančiajai Lietuvos įmonei baudą nuo 868 iki 2 896 eurų už kiekvieną nelegaliai dirbusį trečiosios šalies pilietį, išskyrus atvejį, kai rangovas arba priimančioji Lietuvos įmonė raštu iš subrangovo arba siunčiančiosios užsienio įmonės pareikalavo pateikti trečiųjų šalių piliečių įdarbinimo dokumentus, nurodytus šio straipsnio 2 dalyje, ir ėmėsi priemonių jų teisingumui patikrinti. Tokie patys veiksmai, padaryti rangovo arba priimančiosios Lietuvos įmonės, jau baustų už šį pažeidimą per pastaruosius 2 metus, užtraukia rangovui arba priimančiajai Lietuvos įmonei baudą nuo 2 896 iki 5 792 eurų už kiekvieną nelegaliai dirbusį trečiosios šalies pilietį. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-379, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13523
-Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
+6. Darbdavys, jeigu jis yra subrangovas, arba įmonė, atsiuntusi trečiosios šalies pilietį laikinai dirbti (toliau – siunčiančioji užsienio įmonė), ne vėliau kaip prieš vieną darbo dieną iki trečiosios šalies piliečio darbo Lietuvos Respublikoje pradžios turi raštu informuoti rangovą arba įmonę Lietuvos Respublikoje, į kurią pagal paslaugų teikimo ar darbų atlikimo sutartį atsiųstas trečiosios šalies pilietis, (toliau – priimančioji Lietuvos įmonė) apie trečiosios šalies piliečio darbo Lietuvos Respublikoje pradžią, nurodydami šio trečiosios šalies piliečio vardą, pavardę ir darbo Lietuvos Respublikoje pradžios datą. Rangovas arba priimančioji Lietuvos įmonė, gavę informaciją apie trečiosios šalies piliečio darbo Lietuvos Respublikoje pradžią, turi raštu pareikalauti darbdavio ar siunčiančiosios užsienio įmonės pateikti turimus trečiosios šalies piliečio įdarbinimo dokumentus, suformuotą galiojantį skaidriai dirbančio asmens identifikavimo kodą, kai privalu jį turėti, arba skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis pagrindžiančius dokumentus tais atvejais, kai skaidriai dirbančio asmens identifikavimo kodas negali būti suformuojamas, taip pat teisę būti ar gyventi ir (arba) dirbti Lietuvos Respublikoje patvirtinančius dokumentus.
+
+
+
+
+7. Už šio straipsnio 6 dalyje nurodytų pareigų nevykdymą rangovui ar priimančiajai Lietuvos įmonei skiriama šio straipsnio 4 dalies 2 punkte numatyta bauda. Rangovas arba priimančioji Lietuvos įmonė yra subsidiariai atsakingi už šio straipsnio 4 dalies 1 punkte nurodytų piniginių įpareigojimų įvykdymą, išskyrus atvejį, kai jie įvykdė šio straipsnio 6 dalyje nurodytas pareigas. Jeigu rangovas ar kiti subrangovai, ar priimančioji Lietuvos įmonė žinojo apie tai, kad darbdavys yra nelegaliai įdarbinęs trečiosios šalies pilietį, jie taip pat yra subsidiariai atsakingi už šio straipsnio 4 dalies 1 punkte nurodytų piniginių įpareigojimų įvykdymą.
+
+
+
+
+8. Nelegaliai dirbęs trečiosios šalies pilietis turi teisę nukreipti savo piniginį reikalavimą į rangovą ar subrangovus, ar priimančiąją Lietuvos įmonę per 3 mėnesius nuo tos dienos, kurią suėjo jo piniginio reikalavimo darbdaviui 3 mėnesių terminas nuo nelegalaus darbo nustatymo, tačiau darbdavys šio reikalavimo nepatenkino arba patenkino dalį jo.
+
+
+
+
+9. Nelegaliai dirbę asmenys turi teisę reikalauti jiems priklausančio nesumokėto darbo užmokesčio Lietuvos Respublikos darbo kodekse darbo ginčams dėl teisės nagrinėti nustatyta tvarka.
+
+
+
+
+10. Šio straipsnio 4 dalies 1 punkte nurodytu atveju atlyginimo darbuotojui už darbą dydis nustatomas pagal nelegalaus darbo fakto nustatymo dieną galiojančios Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydį. 
+
+
+
+
+11. Šio įstatymo 55 straipsnyje nurodyta institucija duomenų teikimo sutartyje nustatytomis sąlygomis ir tvarka perduoda informaciją apie nelegaliai dirbantį ar dirbusį trečiosios šalies pilietį Migracijos departamentui, kad jis galėtų atlikti savo funkcijas ir priimti sprendimus dėl trečiosios šalies piliečių.
+
+
+
+
+12. Šio straipsnio 4 dalies 2 punkte ir 7 dalyje nurodyta bauda juridiniam asmeniui neskiriama, jeigu padaryta veika užtraukia jam atsakomybę pagal Lietuvos Respublikos baudžiamojo kodekso 2921 straipsnį.
+
+
+
+
+13. Šio įstatymo 55 straipsnyje nurodyta institucija, prieš skirdama šio straipsnio 4 dalies 2 punkte numatytą baudą, įvertina, ar iki nutarimo priėmimo dienos juridinis asmuo įvykdė šio straipsnio 4 dalies 1 punkte ar šio įstatymo 561 straipsnio 2 dalies 1 punkte numatytas pareigas. Jeigu pareigos įvykdytos, skiriama 3 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių bauda už kiekvieną nelegaliai dirbusį asmenį, o juridiniam asmeniui, jau baustam už tuos pačius veiksmus per pastaruosius 2 metus, skiriama 6 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių bauda už kiekvieną nelegaliai dirbusį asmenį. 
  
 
 
 
 
-8. Nelegaliai dirbę asmenys turi teisę reikalauti jiems priklausančio nesumokėto darbo užmokesčio darbo ginčams dėl teisės nagrinėti Lietuvos Respublikos darbo kodekso nustatyta tvarka.
+
+
+561 straipsnis. Nelegalus darbas atliekant statybos darbus ir atsakomybė už jį
+
+
+1. Nelegaliu darbu atliekant statybos darbus laikomi statybos darbai, kuriuos atlieka fiziniai asmenys, išskyrus trečiosios šalies piliečius, neturintys suformuoto galiojančio skaidriai dirbančio asmens identifikavimo kodo, kai privalu jį turėti, arba skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis pagrindžiančių dokumentų tais atvejais, kai skaidriai dirbančio asmens identifikavimo kodas negali būti suformuojamas.
 
 
 
 
-9. Šio straipsnio 4 dalies 2 punkte, 5 dalies 2 ir 3 punktuose ir 8 dalyje nurodytais atvejais laikoma, kad nelegalaus darbo santykiai tęsiasi 3 mėnesius iki nelegalaus darbo fakto nustatymo dienos, o darbuotojui mokama nelegalaus darbo fakto nustatymo dieną galiojanti Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga. Ši nuostata netaikoma tais atvejais, kai šio įstatymo 55 straipsnyje nurodyta institucija ar darbuotojas įrodo, kad jam mokėtas didesnis darbo užmokestis, arba darbdavys, pripažindamas nelegalų darbą, įrodo, kad nelegalaus darbo laikotarpis buvo trumpesnis.
-Straipsnio dalies pakeitimai:
-Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
+2. Statytojas (užsakovas) ar jo vienas įgaliotas rangovas, padaręs šio straipsnio 1 dalyje nurodytą pažeidimą, laikomas nelegaliai statybos darbus atlikusio asmens darbdaviu. Statytojui (užsakovui) ar jo vienam įgaliotam rangovui, padariusiam šio straipsnio 1 dalyje nurodytą pažeidimą, neatsižvelgiant į formalią nelegaliai dirbančio ir (ar) nelegalų darbą leidusio dirbti asmens veiklos išraišką:
+
+
+1) privalu pranešti Valstybinio socialinio draudimo fondo valdybos teritorinei įstaigai apie nelegaliai dirbusio asmens priėmimą į darbą, nurodant faktinę jo darbo (nelegalaus) pradžią, ir sumokėti nelegaliai dirbusiam asmeniui sulygtą atlyginimą už darbą (už faktiškai dirbtą laikotarpį), ne mažesnį kaip 3 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžiai;
+
+
+
+
+2) skiriama šio įstatymo 56 straipsnio 4 dalies 2 punkte nurodyta bauda.
+
+
+
+
+
+
+3. Nelegaliu darbu trečiosios šalies piliečiams atliekant statybos darbus laikomi darbai, kai nustatomos šio įstatymo 56 straipsnio 1 dalies 2 punkte nurodytos aplinkybės ir, jas nustačius:
+
+
+1) taikomos šio įstatymo 56 straipsnio 2–13 dalių nuostatos;
+
+
+
+
+2) mutatis mutandis statytojui (užsakovui) ar jo vienam įgaliotam rangovui taikomos šio įstatymo 56 straipsnio 6–8 dalių nuostatos. 
+
+
+
+
+
+
+4. Nelegaliai statybos darbus atlikę asmenys turi teisę reikalauti jiems priklausančio nesumokėto darbo užmokesčio Lietuvos Respublikos darbo kodekse darbo ginčams dėl teisės nagrinėti nustatyta tvarka.
+
+
+
+
+5. Šio straipsnio 2 dalies 1 punkte nurodytu atveju atlyginimo darbuotojui už darbą dydis nustatomas pagal nelegalaus darbo fakto nustatymo dieną galiojančios Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydį.
  
 
 
-
-
-10. Šio straipsnio 4 dalies 3 punkte, 5 dalies 4 punkte ir 7 dalyje nurodyta bauda skiriama, jeigu padaryta veika neužtraukia atsakomybės fiziniam ar juridiniam asmeniui pagal Lietuvos Respublikos administracinių nusižengimų kodeksą ar Lietuvos Respublikos baudžiamąjį kodeksą. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
- 
-
-
-
-
-561 straipsnis. Skaidriai dirbančio asmens identifikavimas
-
-
-1. Skaidriai dirbančiu asmeniu laikomas Lietuvos Respublikos valstybinio socialinio draudimo įstatyme nustatyta tvarka suformuotą skaidriai dirbančio asmens identifikavimo kodą turintis fizinis asmuo, atliekantis darbą pagal darbo sutartį arba vykdantis savarankišką veiklą, kuriam (kuriai) atlikti (vykdyti) pagal specialiuosius įstatymus privaloma turėti galiojantį skaidriai dirbančio asmens identifikavimo kodą, o tais atvejais, kai tokiam asmeniui skaidriai dirbančio asmens identifikavimo kodas negali būti suformuotas, privaloma turėti skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis, nurodytus Valstybinio socialinio draudimo įstatymo 151 straipsnio 8 dalyje, pagrindžiančius dokumentus (toliau – skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis pagrindžiantys dokumentai).
-
-
-
-
-2. Darbdavys užtikrina, kad jo darbuotojai galiojantį skaidriai dirbančio asmens identifikavimo kodą, kurį pagal specialiuosius įstatymus jiems privalu turėti, arba tais atvejais, kai jiems skaidriai dirbančio asmens identifikavimo kodas negali būti suformuotas, skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis pagrindžiančius dokumentus turėtų darbo vietoje ir (ar) atlikdami darbus ir pateiktų jį šio įstatymo 55 straipsnyje nurodytoms institucijoms jų atliekamo patikrinimo metu, darbdavio užsakovams, kuriems atlieka darbdavio pavestus darbus ar teikia paslaugas, taip pat specialiuosiuose įstatymuose nurodytoms kontrolės institucijoms jų atliekamo patikrinimo metu ir (ar) specialiuosiuose įstatymuose nurodytiems asmenims. 
-
-
-
-
-3. Šio straipsnio 2 dalyje numatyto reikalavimo, kad komandiruojamas laikinai dirbti į Lietuvos Respubliką darbuotojas turėtų galiojantį skaidriai dirbančio asmens identifikavimo kodą, o tais atvejais, kai jam skaidriai dirbančio asmens identifikavimo kodas negali būti suformuotas, – skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis pagrindžiančius dokumentus, laikymąsi užtikrina įmonė Lietuvos Respublikoje arba fizinis asmuo, į kurią (pas kurį) komandiruojamas laikinai dirbti užsienietis ir kuri (kuris) teikia informaciją įstatymo „Dėl užsieniečių teisinės padėties“ 62 straipsnio 8 dalyje nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1287, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15436
- 
-
-
-Papildyta straipsniu:
-Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
- 
 
 
 
@@ -4440,45 +4484,52 @@ Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
 1. Užsieniečių įdarbinimo tvarkos pažeidimais laikomi darbdavio, įdarbinusio trečiosios šalies pilietį, veiksmai, kai jis:
 
 
-1) ne vėliau kaip prieš vieną darbo dieną iki numatytos darbo sutarties sudarymo dienos nepareikalauja iš trečiosios šalies piliečio pateikti galiojantį leidimą gyventi Lietuvos Respublikoje ar kitą dokumentą, suteikiantį teisę būti ar gyventi Lietuvos Respublikoje, ir leidimą dirbti Lietuvos Respublikoje, kai jį privaloma turėti;
+1) nepateikia dokumentų, patvirtinančių trečiosios šalies piliečio turimą kvalifikaciją, susijusią su atliktinu darbu, arba vienų metų trečiosios šalies piliečio darbo patirtį per pastaruosius 3 metus, susijusią su atliktinu darbu, kai vertinama trečiosios šalies piliečio kvalifikacija arba darbo patirtis ir darbdavys įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka Migracijos departamentui, nagrinėjančiam trečiosios šalies piliečio prašymą išduoti leidimą laikinai gyventi Lietuvos Respublikoje, ar Užimtumo tarnybai, nagrinėjančiai darbdavio prašymą išduoti leidimą dirbti ar priimti sprendimą dėl trečiosios šalies piliečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams, teikė informaciją apie trečiosios šalies piliečio turimą kvalifikaciją, susijusią su darbu, arba vienų metų trečiosios šalies piliečio darbo patirtį per pastaruosius 3 metus, susijusią su atliktinu darbu;
 
 
 
 
-2) nepateikia dokumentų, patvirtinančių trečiosios šalies piliečio turimą kvalifikaciją, susijusią su atliktinu darbu, arba vienų metų trečiosios šalies piliečio darbo patirtį per pastaruosius 3 metus, susijusią su atliktinu darbu, kai vertinama užsieniečio kvalifikacija arba darbo patirtis ir darbdavys įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka institucijoms, nagrinėjančioms trečiosios šalies piliečio prašymą išduoti nacionalinę vizą arba leidimą laikinai gyventi Lietuvos Respublikoje ar darbdavio prašymą išduoti leidimą dirbti ar priimti sprendimą dėl trečiosios šalies piliečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams, teikė informaciją apie trečiosios šalies piliečio turimą kvalifikaciją, susijusią su darbu, arba vienų metų trečiosios šalies piliečio darbo patirtį per pastaruosius 3 metus, susijusią su atliktinu darbu;
+2) darbo Lietuvos Respublikoje laikotarpiu nesaugo teisę būti ar gyventi ir (arba) dirbti Lietuvos Respublikoje patvirtinančių dokumentų kopijų ir (ar) nepateikia jų Migracijos departamentui ar šio įstatymo 55 straipsnyje nurodytoms institucijoms jų reikalavimu;
 
 
 
 
-3) darbo Lietuvos Respublikoje laikotarpiu nesaugo šio įstatymo 56 straipsnio 2 dalies 1 punkte nurodytų dokumentų kopijų ir (ar) nepateikia jų Valstybinei darbo inspekcijai, Migracijos departamentui ar kitoms šio įstatymo 55 straipsnyje nurodytoms institucijoms jų reikalavimu;
+3) įdarbina trečiosios šalies pilietį pagal laikinojo darbo sutartį, nors jis nėra įrašytas į Valstybinės darbo inspekcijos sudaromą ir jos interneto svetainėje skelbiamą laikinojo įdarbinimo įmonių sąrašą, laikinojo darbo sutartis sudaryta trumpesniam negu 6 mėnesių laikotarpiui, nėra nustatyta visa darbo laiko norma, darbo Lietuvos Respublikoje metu mokamas mėnesinis darbo užmokestis, mažesnis negu paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU dydis, o laikotarpiais tarp siuntimų – mažesnis negu Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga arba leidimas laikinai gyventi Lietuvos Respublikoje trečiosios šalies piliečiui nesuteikia teisės dirbti pagal laikinojo darbo sutartį;
 
 
 
 
-4) įdarbina trečiosios šalies pilietį pagal laikinojo darbo sutartį taip, kaip ji apibrėžiama Lietuvos Respublikos darbo kodekse, išskyrus atvejį, kai pagal laikinojo darbo sutartį įdarbina trečiosios šalies pilietį, kuriam išduotas leidimas laikinai gyventi įstatymo „Dėl užsieniečių teisinės padėties“ 40 straipsnio 1 dalies 4 punkto pagrindu;
-
-
-
-
-5) įdarbina trečiosios šalies pilietį nesilaikydamas įstatymo „Dėl užsieniečių teisinės padėties“ 62 straipsnio 4 dalyje nustatytų sąlygų.
+4) įdarbina trečiosios šalies pilietį, kuris neturi leidimo pakeisti darbdavį ar darbo funkciją, nors privalu jį turėti.
 
 
 
 
 
 
-2. Informavimo apie įdarbintus arba komandiruojamus laikinai dirbti į Lietuvos Respubliką užsieniečius tvarkos pažeidimu laikomi tokie darbdavio arba įmonės, į kurią užsienietis komandiruojamas laikinai dirbti, veiksmai, kai nesilaikoma įstatymo „Dėl užsieniečių teisinės padėties“ 62 straipsnio 8 dalyje ar 103 straipsnio 2 dalyje nustatytų reikalavimų. 
+2. Informavimo apie įdarbintus užsieniečius tvarkos pažeidimu laikomi tokie darbdavio veiksmai, kai nesilaikoma įstatymo „Dėl užsieniečių teisinės padėties“ 62 straipsnio 8 dalyje ar 103 straipsnio 2 dalyje nustatytų reikalavimų.
 
 
 
 
-3. Valstybinė darbo inspekcija, nustačiusi, kad darbdavys arba įmonė, į kurią užsienietis komandiruojamas laikinai dirbti, padarė šio straipsnio 1 ir (ar) 2 dalyje numatytą pažeidimą, šio įstatymo nustatyta tvarka skiria darbdaviui arba įmonei, į kurią užsienietis komandiruojamas laikinai dirbti, baudą nuo 200 iki 400 eurų už kiekvieną padarytą pažeidimą. Tokie patys veiksmai, padaryti darbdavio arba įmonės, į kurią užsienietis komandiruojamas laikinai dirbti, jau baustų už šį pažeidimą per pastaruosius 2 metus, užtraukia darbdaviui arba įmonei, į kurią užsienietis komandiruojamas laikinai dirbti, baudą nuo 400 iki 800 eurų už kiekvieną padarytą pažeidimą.
+3. Informavimo apie komandiruojamus laikinai dirbti į Lietuvos Respubliką užsieniečius tvarkos pažeidimu laikomi tokie įmonės, į kurią užsienietis komandiruojamas laikinai dirbti, veiksmai, kai nesilaikoma įstatymo „Dėl užsieniečių teisinės padėties“ 62 straipsnio 8 dalyje ar 103 straipsnio 2 dalyje nustatytų reikalavimų.
 
 
-Straipsnio pakeitimai:
-Nr. XIV-379, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13523
-Nr. XIV-1287, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15436
+
+
+4. Už šio straipsnio 2 dalyje numatytą pažeidimą darbdaviui šio įstatymo nustatyta tvarka skiriama nuo 0,75 iki 1,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio bauda. Darbdaviui, jau baustam už šio straipsnio 2 dalyje padarytą pažeidimą per pastaruosius 2 metus, už pakartotinai padarytą pažeidimą šio įstatymo nustatyta tvarka skiriama nuo 1,5 iki 3 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių bauda.
+
+
+
+
+5. Darbdaviui arba įmonei, į kurią užsienietis komandiruojamas laikinai dirbti, už kiekvieną jo (jos) padarytą šio straipsnio 1 ir (ar) 3 dalyse numatytą pažeidimą šio įstatymo nustatyta tvarka skiriama nuo 1 iki 2 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių bauda. Darbdaviui arba įmonei, į kurią užsienietis komandiruojamas laikinai dirbti, jau baustam (baustai) už šio straipsnio 1 ir (ar) 3 dalyse padarytą pažeidimą per pastaruosius 2 metus, šio įstatymo nustatyta tvarka skiriama nuo 2 iki 4 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių bauda už kiekvieną pakartotinai padarytą pažeidimą, nurodytą šio straipsnio 1 ir (ar) 3 dalyse. 
+
+
+
+
+6. Darbdaviui arba įmonei, į kurią užsienietis komandiruojamas laikinai dirbti, pateikusiam (pateikusiai) neteisingus duomenis apie įdarbintą arba komandiruotą laikinai dirbti į Lietuvos Respubliką užsienietį, šio įstatymo nustatyta tvarka skiriama nuo 0,35 iki 0,7 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio bauda. Darbdaviui arba įmonei, į kurią užsienietis komandiruojamas laikinai dirbti, jau baustam (baustai) už neteisingų duomenų apie įdarbintą arba komandiruotą laikinai dirbti į Lietuvos Respubliką užsienietį pateikimą per pastaruosius 2 metus, už pakartotinai pateiktus neteisingus duomenis apie įdarbintą arba komandiruotą laikinai dirbti į Lietuvos Respubliką užsienietį šio įstatymo nustatyta tvarka skiriama nuo 0,7 iki 1,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio bauda. 
  
+
+
 
 
 
@@ -4486,7 +4537,7 @@ Nr. XIV-1287, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15436
 58 straipsnis. Nedeklaruotas darbas ir atsakomybė už jį
 
 
-1. Nedeklaruotu darbu vadinamos fizinio asmens (darbuotojo) pavaldžiai kitam asmeniui (darbdaviui) ir jo naudai atlygintinai atliekamos darbo funkcijos, kai Lietuvos Respublikos darbo kodekso nustatyta tvarka darbo laiko apskaitos dokumentuose nėra pažymėta:
+1. Nedeklaruotu darbu vadinamos fizinio asmens (darbuotojo) pavaldžiai kitam asmeniui (darbdaviui) ir jo naudai atlygintinai atliekamos darbo funkcijos, kai Lietuvos Respublikos darbo kodekso nustatyta tvarka netvarkoma darbuotojų darbo laiko apskaita ir (arba) darbo laiko apskaitos dokumentuose nėra pažymėta:
 
 
 1) darbuotojo dirbti viršvalandžiai;
@@ -4499,7 +4550,7 @@ Nr. XIV-1287, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15436
 
 
 
-3) darbuotojo darbo laikas naktį. 
+3) darbuotojo darbo laikas naktį.
 
 
 
@@ -4507,39 +4558,31 @@ Nr. XIV-1287, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15436
 
 
 2. Prievolę įtraukti į apskaitos dokumentus šio straipsnio 1 dalyje nurodytas darbuotojo atliekamas darbo funkcijas darbdavys privalo įvykdyti iki darbo dienos darbovietėje pabaigos.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
- 
 
 
 
 
-3. Valstybinė darbo inspekcija, nustačiusi, kad darbdavys padarė šio straipsnio 1 dalyje numatytą pažeidimą:
+3. Padarius šio straipsnio 1 dalyje numatytą pažeidimą:
 
 
-1) įpareigoja darbdavį atkurti iškreipiamas ar slepiamas aplinkybes, dėl kurių buvo konstatuotas nedeklaruotas darbas; 
-
-
-
-
-2) skiria baudą darbdaviui nuo 200 iki 600 eurų. Tokie patys veiksmai, padaryti darbdavio, jau bausto už šį pažeidimą per pastaruosius 2 metus, užtraukia baudą darbdaviui nuo 600 iki 1 200 eurų. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
- 
+1) darbdavys privalo atkurti iškreipiamas ar slepiamas aplinkybes, dėl kurių buvo konstatuotas nedeklaruotas darbas; 
 
 
 
 
-
-
-4. Darbuotojai, kurių atliktos darbo funkcijos Lietuvos Respublikos darbo kodekso nustatyta tvarka darbo laiko apskaitos dokumentuose nebuvo pažymėtos, turi teisę reikalauti jiems nesumokėto darbo užmokesčio darbo ginčams dėl teisės nagrinėti Lietuvos Respublikos darbo kodekso nustatyta tvarka.
+2) darbdavys privalo sumokėti darbuotojui, kurio atliktos darbo funkcijos nebuvo pažymėtos darbo laiko apskaitos dokumentuose Lietuvos Respublikos darbo kodekso nustatyta tvarka, ne mažesnį kaip 1 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio atlyginimą;
 
 
 
 
-5. Šio straipsnio 3 dalies 2 punkte nurodyta bauda skiriama, jeigu padaryta veika neužtraukia atsakomybės fiziniam asmeniui pagal Lietuvos Respublikos administracinių nusižengimų kodeksą. 
-Papildyta straipsnio dalimi:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
+3) darbdaviui šio įstatymo nustatyta tvarka skiriama nuo 1 iki 3 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių bauda. Darbdaviui, jau baustam už šį pažeidimą per pastaruosius 2 metus, už pakartotinai padarytą pažeidimą šio įstatymo nustatyta tvarka skiriama nuo 3 iki 5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių bauda.
+
+
+
+
+
+
+4. Darbuotojai pagal šio straipsnio 3 dalies 2 punktą turi teisę reikalauti jiems nesumokėto darbo užmokesčio Lietuvos Respublikos darbo kodekse darbo ginčams dėl teisės nagrinėti nustatyta tvarka.
  
 
 
@@ -4558,7 +4601,12 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-2) įsiregistravęs mokesčių įstatymų nustatyta tvarka, bet nedeklaruodamas pajamų arba deklaruodamas mažesnes pajamas, negu faktiškai gavo iš tokios individualios veiklos. 
+2) įsiregistravęs mokesčių įstatymų nustatyta tvarka, bet nedeklaruodamas pajamų arba deklaruodamas mažesnes pajamas, negu faktiškai gavo iš tokios individualios veiklos;
+
+
+
+
+3) neturėdamas suformuoto galiojančio skaidriai dirbančio asmens identifikavimo kodo, kai privalu jį turėti, arba skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis pagrindžiančių dokumentų tais atvejais, kai skaidriai dirbančio asmens identifikavimo kodas negali būti suformuojamas.
 
 
 
@@ -4573,51 +4621,51 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-591 straipsnis. Savarankiškai dirbantiems asmenims taikomų skaidriai dirbančio asmens identifikavimo reikalavimų pažeidimas
+591 straipsnis. Juridinių asmenų atsakomybė už statybvietėje esančių asmenų, išskyrus asmenis, atliekančius statybos darbus, identifikavimo reikalavimų nevykdymą
 
 
-Skaidriai dirbančio asmens identifikavimo reikalavimų pažeidimu laikoma individualios veiklos požymius atitinkanti savarankiškai dirbančio asmens veikla, kuri vykdoma neturint galiojančio skaidriai dirbančio asmens identifikavimo kodo, o tuo atveju, kai jam skaidriai dirbančio asmens identifikavimo kodas negali būti suformuotas, – neturint skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis pagrindžiančių dokumentų, jeigu specialiuosiuose įstatymuose numatyta pareiga jį (juos) turėti arba jeigu ši veikla vykdoma nepateikiant jo (jų) šio įstatymo 55 straipsnyje nurodytoms institucijoms ar specialiuosiuose įstatymuose nurodytoms kontrolės institucijoms.
+1. Už Lietuvos Respublikos statybos įstatymo 221 straipsnio 4 dalyje nustatytų statybvietėje esančių asmenų, išskyrus asmenis, atliekančius statybos darbus, identifikavimo reikalavimų pažeidimą juridiniam asmeniui – statytojui (užsakovui) ar jo vienam įgaliotam rangovui skiriama bauda nuo 2 000 iki 5 000 eurų.
 
 
-Papildyta straipsniu:
-Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
+
+
+2. Už tokius pačius veiksmus, padarytus juridinio asmens – statytojo (užsakovo) ar jo vieno įgalioto rangovo, bausto bauda už šio straipsnio 1 dalyje nustatytus pažeidimus, skiriama bauda nuo 5 000 iki 7 000 eurų.
  
 
 
 
 
-592 straipsnis. Juridinių asmenų atsakomybė už statybvietėje esančių asmenų identifikavimo reikalavimų nevykdymą
 
 
-1. Už Lietuvos Respublikos statybos įstatymo 221 straipsnio 4 dalyje nustatytų reikalavimų pažeidimą juridiniam asmeniui – statytojui (užsakovui) ar jo įgaliotam rangovui skiriama bauda nuo 2 000 iki 5 000 eurų. 
+60 straipsnis. Ekonominių sankcijų skyrimas, nutarimo vykdymas ir apskundimas 
 
 
+1. Šio įstatymo 56 ir 561 straipsniuose numatytų pažeidimų bylas nagrinėja ir nutarimus priima šio įstatymo 55 straipsnyje nurodytos institucijos. Šio įstatymo 591 straipsnyje nurodytas bylas nagrinėja ir nutarimus priima Valstybinė darbo inspekcija ar Valstybinė mokesčių inspekcija. Šio įstatymo 57 ir 58 straipsniuose numatytų pažeidimų bylas nagrinėja ir nutarimus priima Valstybinė darbo inspekcija. Šie pažeidimai tiriami, pažeidimų protokolai surašomi ir bylos nagrinėjamos mutatis mutandis vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodeksu. Šio įstatymo 55 straipsnyje nurodytos institucijos, išnagrinėjusios bylą, turi teisę priimti nutarimą:
 
 
-2. Už tokius pačius veiksmus, padarytus juridinio asmens – statytojo (užsakovo) ar jo įgalioto rangovo, bausto bauda už šio straipsnio 1 dalyje nustatytus pažeidimus, skiriama bauda nuo 5 000 iki 7 000 eurų.
-
-
-Papildyta straipsniu:
-Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
- 
+1) skirti šio įstatymo nustatytas ekonomines sankcijas;
 
 
 
 
-60 straipsnis. Baudos skyrimas 
-
-
-1. Šio įstatymo 56 straipsnyje numatytų pažeidimų bylas nagrinėja ir baudas skiria šio įstatymo 55 straipsnyje nurodytos institucijos. Šio įstatymo 592 straipsnyje nurodytas bylas nagrinėja ir baudas skiria Valstybinė darbo inspekcija ar Valstybinė mokesčių inspekcija. Šio įstatymo 57 ir 58 straipsniuose numatytų pažeidimų bylas nagrinėja ir baudas skiria Valstybinė darbo inspekcija. Šie pažeidimai tiriami, pažeidimų protokolai surašomi ir bylos nagrinėjamos mutatis mutandis vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodeksu.
+2) nutraukti bylą, jeigu nėra šio įstatymo 56, 561, 57, 58 ar 591 straipsnyje numatyto pažeidimo;
 
 
 
 
-2. Šio įstatymo 55 straipsnyje nurodyta institucija, skirdama šio įstatymo 56, 57 ir 58 straipsniuose numatytą baudą, jos dydį nustato pagal baudos minimumo ir maksimumo vidurkį, atsižvelgdama į tai, ar yra darbdavio – juridinio ar fizinio asmens – atsakomybę lengvinančių ar sunkinančių aplinkybių. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas turi būti motyvuotas. Bauda išieškoma į valstybės biudžetą. Šios dalies nuostatos taikomos ir tais atvejais, kai Valstybinė darbo inspekcija ar Valstybinė mokesčių inspekcija skiria šio įstatymo 592 straipsnyje numatytas baudas.
+3) grąžinti bylą papildomam tyrimui atlikti. Šis nutarimas priimamas tik išimtiniais atvejais, kai reikia atlikti didelės apimties papildomą bylos aplinkybių tyrimą arba nagrinėjant bylą sunku nustatyti papildomas bylos aplinkybes. Byla gali būti grąžinta papildomam tyrimui tik vieną kartą.
 
 
 
 
-3. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad asmuo, padaręs pažeidimą, užkirto kelią žalingoms pažeidimo pasekmėms, iki pažeidimo tyrimo pradžios pažeidimą nutraukė, pripažino padaręs pažeidimą, padėjo įgaliotiems pareigūnams atlikti pažeidimo tyrimą, geranoriškai atlygino žalą, taip pat labai sunki juridinio asmens finansinė padėtis.
+
+
+2. Šio įstatymo 55 straipsnyje nurodyta institucija, skirdama šio įstatymo 56 straipsnio 4 dalies 2 punkte numatytą baudą, kai nėra taikoma šio įstatymo 56 straipsnio 13 dalis, 57 ir 58 straipsniuose numatytą baudą, jos dydį nustato pagal baudos minimumo ir maksimumo vidurkį, atsižvelgdama į tai, ar yra juridinio asmens atsakomybę lengvinančių ar sunkinančių aplinkybių. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas turi būti motyvuotas. Bauda išieškoma į valstybės biudžetą. Pažeidėjas turi sumokėti baudą ne vėliau kaip per 40 kalendorinių dienų nuo nutarimo išsiuntimo ar išdavimo jam dienos, o jeigu apskundžia nutarimą, – ne vėliau kaip per 40 kalendorinių dienų nuo nutarties, kuria skundas nepatenkinamas, išsiuntimo ar išdavimo jam dienos. Šio įstatymo 55 straipsnyje nurodytų institucijų nutarimai yra vykdomieji dokumentai, vykdomi Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per 6 mėnesius nuo šioje dalyje baudai sumokėti nustatyto termino pabaigos. Šios dalies nuostatos taikomos ir tais atvejais, kai Valstybinė darbo inspekcija ar Valstybinė mokesčių inspekcija skiria šio įstatymo 591 straipsnyje numatytas baudas.
+
+
+
+
+3. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad asmuo, padaręs pažeidimą, užkirto kelią žalingoms pažeidimo pasekmėms, iki pažeidimo tyrimo pradžios pažeidimą nutraukė, pripažino padaręs pažeidimą, padėjo įgaliotiems pareigūnams atlikti pažeidimo tyrimą, geranoriškai atlygino žalą, labai sunki juridinio asmens finansinė padėtis.
 
 
 
@@ -4627,20 +4675,24 @@ Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
 
 
 
-5. Šio įstatymo 56, 57, 58 ir 592 straipsniuose numatytos baudos gali būti skiriamos ne vėliau kaip per 2 metus nuo pažeidimo padarymo dienos, o trunkamojo pažeidimo atveju – per 2 metus nuo jo paaiškėjimo dienos. 
+5. Baudos skyrimas gali būti ginčijamas teisme Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Skundą nagrinėjantis teismas, atsižvelgdamas į padaryto pažeidimo pobūdį, mastą, atsakomybę lengvinančias ir kitas reikšmingas aplinkybes (dėl kurių atitinkama piniginė bauda pažeidėjui būtų akivaizdžiai per didelė bei neproporcinga (neadekvati) padarytam teisės pažeidimui ir dėl to neteisinga), vadovaudamasis teisingumo ir protingumo principais, turi teisę skirti mažesnę piniginę baudą negu šio įstatymo IV skyriuje nustatytos minimalios baudos.
 
 
 
 
-6. Baudos skyrimas gali būti ginčijamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+6. Jeigu pažeidėjas dėl objektyvių priežasčių negali laiku sumokėti baudos ir jeigu yra motyvuotas jo prašymas, šio įstatymo 55 straipsnyje nurodytos institucijos, atsižvelgdamos į jo finansinę padėtį, paskirtos baudos dydį ir kitas reikšmingas aplinkybes, turi teisę paskirtos baudos mokėjimą išdėstyti per laikotarpį iki vienų metų. Prašymas gali būti pateiktas bylos nagrinėjimo metu arba per vieną mėnesį nuo nutarimo įsiteisėjimo dienos.
 
 
-Straipsnio pakeitimai:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
-Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
+
+
+7. Šio įstatymo 56, 561, 57, 58 ir 591 straipsniuose numatytos baudos gali būti skiriamos ne vėliau kaip per 2 metus nuo pažeidimo padarymo dienos, o trunkamojo pažeidimo atveju – per 2 metus nuo jo paaiškėjimo dienos.
+
+
+
+
+Skyriaus pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
-
-
 
 
 
@@ -4959,3 +5011,8 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 37, 39-2 ir 39-3 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 2, 4, 5-1, 16, 17, 20, 24, 25, 30-1, 30-2, 31, 32, 35, 38, 39-3, 40, 41, 42, 43, 44, 45, 47, 48, 48-1, 50 straipsnių, IV skyriaus pakeitimo ir Įstatymo papildymo 12-2 straipsniu įstatymas
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2741, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11579
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 24 straipsnio pakeitimo įstatymas
