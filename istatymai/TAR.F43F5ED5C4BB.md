@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F43F5ED5C4BB"
 
 # Lietuvos Respublikos karių materialinės atsakomybės įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1928, i. k. 1001010ISTAIII-1857
  
@@ -37,10 +37,11 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, taip pat aktyviojo kariuomenės personalo rezervo kariams šis įstatymas taikomas mokymų, pratybų ir užduočių vykdymo laikotarpiu. 
+2. Kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, taip pat aktyviojo kariuomenės personalo rezervo kariams ir rezervo kariams šis įstatymas taikomas mokymų, pratybų ir užduočių vykdymo laikotarpiu.
 Straipsnio dalies pakeitimai:
 Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010ISTA0XI-1514
 Nr. XIII-2675, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21531
+Nr. XIV-2743, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11582
  
 
 
@@ -203,7 +204,10 @@ Nr. XIV-2370, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25624
 
 
 
-3. Kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, taip pat aktyviojo kariuomenės personalo rezervo kariai, pašaukti į tarnybą, pratybas ar mokymus, už tarnybos turto, piniginių lėšų ar kitų materialinių vertybių praradimą, sugadinimą ar sunaikinimą, padarytą dėl neatsargumo einant tarnybines pareigas, atsako pusės jų padarytos žalos dydžio suma, bet ne didesne kaip mėnesinis tarnybą aktyviajame kariuomenės personalo rezerve arba savanorišką nenuolatinę karo tarnybą atliekančio kario tarnybinis atlyginimas.
+3. Kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, taip pat aktyviojo kariuomenės personalo rezervo kariai ir rezervo kariai, pašaukti į tarnybą, pratybas ar mokymus, už tarnybos turto, piniginių lėšų ar kitų materialinių vertybių praradimą, sugadinimą ar sunaikinimą, padarytą dėl neatsargumo einant tarnybines pareigas, atsako pusės jų padarytos žalos dydžio suma, bet ne didesne kaip mėnesinis tarnybą rezerve arba savanorišką nenuolatinę karo tarnybą atliekančio kario tarnybinis atlyginimas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2743, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11582
+ 
 
 
 
@@ -448,7 +452,10 @@ Nr. XIV-1737, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00150
 
 
 
-2. Kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario, taip pat aktyviojo kariuomenės personalo rezervo kario mėnesiniu tarnybiniu atlyginimu, kurio dydžiu karys materialiai atsako už padarytą žalą esant ribotai materialinei atsakomybei, laikomas žalos padarymo dieną galiojęs nustatytas mėnesinis tarnybą aktyviajame kariuomenės personalo rezerve arba savanorišką nenuolatinę karo tarnybą atliekančio kario atlyginimas mokymų, pratybų, gynybos apsaugos ar kitokių karinių užduočių vykdymo laikotarpiu. 
+2. Kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario, taip pat aktyviojo kariuomenės personalo rezervo kario ir rezervo kario mėnesiniu tarnybiniu atlyginimu, kurio dydžiu karys materialiai atsako už padarytą žalą esant ribotai materialinei atsakomybei, laikomas žalos padarymo dieną galiojęs nustatytas mėnesinis tarnybą rezerve arba savanorišką nenuolatinę karo tarnybą atliekančio kario atlyginimas mokymų, pratybų, gynybos apsaugos ar kitokių karinių užduočių vykdymo laikotarpiu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2743, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11582
+ 
 
 
 
@@ -1003,11 +1010,12 @@ Nr. XIV-1737, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00150
 
 
 
-2. Kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario, taip pat aktyviojo kariuomenės personalo rezervo kario padaryta žala, esant ribotai materialinei atsakomybei, jeigu žalos atlyginimo klausimas neišspręstas šio įstatymo 20 straipsnyje nurodytu būdu, taip pat kariui pažeidus susitarimu nustatytas žalos atlyginimo sąlygas, atlyginama vado (viršininko) įsakymu, išskaitant iš kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario arba aktyviojo kariuomenės personalo rezervo kario tarnybinio atlyginimo, kitų pajamų ar turto. 
+2. Kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario, taip pat aktyviojo kariuomenės personalo rezervo kario ir rezervo kario padaryta žala, esant ribotai materialinei atsakomybei, jeigu žalos atlyginimo klausimas neišspręstas šio įstatymo 20 straipsnyje nurodytu būdu, taip pat kariui pažeidus susitarimu nustatytas žalos atlyginimo sąlygas, atlyginama vado (viršininko) įsakymu, išskaitant iš kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario arba aktyviojo kariuomenės personalo rezervo kario ar rezervo kario tarnybinio atlyginimo, kitų pajamų ar turto.
 Straipsnio dalies pakeitimai:
 Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. 1111010ISTA0XI-1514
 Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. 1131010ISTA0XII-250
 Nr. XIII-2675, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21531
+Nr. XIV-2743, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11582
  
 
 
@@ -1193,7 +1201,10 @@ VYKDYMO TVARKA
 
 
 
-2. Vado (viršininko) įsakymas atlyginti materialinę žalą, padarytą kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos rezervo kario, taip pat aktyviojo kariuomenės personalo rezervo kario, kai žala neviršija šių asmenų vieno tarnybinio atlyginimo dydžio, perduodamas krašto apsaugos sistemos institucijos, kurioje tarnauja karys, finansinės apskaitos padaliniui išieškoti iš kario tarnybinio atlyginimo. Jeigu žala, padaryta kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario, taip pat aktyviojo kariuomenės personalo rezervo kario, viršija nurodytą dydį, ji išieškoma per antstolį įstatymų nustatyta tvarka.
+2. Vado (viršininko) įsakymas atlyginti materialinę žalą, padarytą kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario, taip pat aktyviojo kariuomenės personalo rezervo kario ar rezervo kario, kai žala neviršija šių asmenų vieno tarnybinio atlyginimo dydžio, perduodamas krašto apsaugos sistemos institucijos, kurioje tarnauja karys, finansinės apskaitos padaliniui išieškoti iš kario tarnybinio atlyginimo. Jeigu žala, padaryta kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario, taip pat aktyviojo kariuomenės personalo rezervo kario ar rezervo kario, viršija nurodytą dydį, ji išieškoma per antstolį įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2743, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11582
+ 
 
 
 
@@ -1214,7 +1225,10 @@ Nr. XIV-1737, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00150
 26 straipsnis. Išskaitymų apribojimas
 
 
-1. Mėnesiniai išskaitymai už padarytą žalą negali viršyti 20 procentų profesinės karo tarnybos kario, aktyviojo kariuomenės personalo rezervo kario, kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario tarnybinio atlyginimo, kariūno stipendijos ir 50 procentų privalomosios pradinės karo tarnybos kario išmokų buitinėms išlaidoms. Kai žala padaryta nusikalstama veika ir išieškojimas nėra nukreiptas į kitą turtą arba kai atliekami ir kiti išskaitymai, jei išieškojimas nėra nukreiptas į kario turtą, išskaitymai už padarytą žalą negali viršyti 50 procentų profesinės karo tarnybos kario, aktyviojo kariuomenės personalo rezervo kario, kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario tarnybinio atlyginimo, kariūno stipendijos ar 70 procentų privalomosios pradinės karo tarnybos kario išmokų buitinėms išlaidoms.
+1. Mėnesiniai išskaitymai už padarytą žalą negali viršyti 20 procentų profesinės karo tarnybos kario, aktyviojo kariuomenės personalo rezervo kario ar rezervo kario, kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario tarnybinio atlyginimo, kariūno stipendijos ir 50 procentų privalomosios pradinės karo tarnybos kario išmokų buitinėms išlaidoms. Kai žala padaryta nusikalstama veika ir išieškojimas nėra nukreiptas į kitą turtą arba kai atliekami ir kiti išskaitymai, jei išieškojimas nėra nukreiptas į kario turtą, išskaitymai už padarytą žalą negali viršyti 50 procentų profesinės karo tarnybos kario, aktyviojo kariuomenės personalo rezervo kario ar rezervo kario, kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario tarnybinio atlyginimo, kariūno stipendijos ar 70 procentų privalomosios pradinės karo tarnybos kario išmokų buitinėms išlaidoms.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2743, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11582
+ 
 
 
 
@@ -1298,3 +1312,8 @@ Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2370, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25624
 Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 4 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2743, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11582
+Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 1, 4, 10, 21, 25  ir 26 straipsnių pakeitimo įstatymas
