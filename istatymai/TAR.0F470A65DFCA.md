@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-07-01
+Suvestinė redakcija nuo 2024-07-02
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
  
@@ -78,7 +78,10 @@ Programos lėšas sudaro:
 
 
 
-4) lėšos, gautos realizavus konfiskuotus aplinkos apsaugos nusikaltimų ir pažeidimų padarymo įrankius, priemones ir neteisėtai įgytus gamtos išteklius;
+4) lėšos, gautos realizavus konfiskuotą turtą, kuris buvo aplinkos apsaugos nusikaltimo ar pažeidimo padarymo įrankis, priemonė, dalykas ar aplinkos apsaugą reglamentuojančių įstatymų uždraustos veikos rezultatas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2787, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11786
+ 
 
 
 
@@ -306,3 +309,8 @@ Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1706, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27554
 Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2787, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11786
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 3 straipsnio pakeitimo įstatymas
