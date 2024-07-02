@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-07-01
+Suvestinė redakcija nuo 2024-07-02 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -2088,10 +2088,11 @@ Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)(papildyta nauju 1
 
 
 
-4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Administracinių nusižengimų kodekso 99, 127, 132, 134, 137, 143, 150, 151, 158, 159, 160, 162, 163, 164, 165, 166, 167, 170, 171, 172, 173, 174, 176, 187, 188, 1881, 1883, 1884, 190, 192, 193, 198, 205, 207, 2071, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 3621, 505 straipsniuose. 
+4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Administracinių nusižengimų kodekso 99, 127, 132, 134, 137, 143, 150, 151, 158, 159, 160, 162, 163, 164, 165, 166, 167, 170, 171, 172, 173, 174, 176, 187, 188, 1881, 1883, 1884, 1885, 190, 192, 193, 198, 205, 207, 2071, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 3621, 505 straipsniuose.
 Straipsnio punkto pakeitimai:
 Nr. XIV-1950, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09694
 Nr. XIV-2655, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09693
+Nr. XIV-2682, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11165
  
 
 
@@ -7302,4 +7303,9 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 61-3 straip
 42.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2655, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09693
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40-1 straipsnio pakeitimo įstatymas
+ 
+43.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2682, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11165
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40-1 straipsnio pakeitimo įstatymas
