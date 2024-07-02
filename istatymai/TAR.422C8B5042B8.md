@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-07-01
+Suvestinė redakcija nuo 2024-07-02 iki 2024-07-24
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -2102,9 +2102,6 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 1. Tarpininkavimo įdarbinant paslaugas trečiųjų šalių piliečiams, ketinantiems dirbti Lietuvos Respublikoje pagal darbo sutartį, išskyrus atvejus, kai ketinama dirbti pagal laikinojo darbo sutartį, teikia šio įstatymo 30 straipsnio 4 dalies 2 punkte nurodytas juridinis asmuo ar jo filialas (toliau – teikėjas).
-Straipsnio dalies pakeitimai:
-Nr. XIV-1287, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15436
- 
 
 
 
@@ -2112,64 +2109,63 @@ Nr. XIV-1287, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15436
 2. Teikėjas, ketinantis teikti tarpininkavimo įdarbinant paslaugas trečiųjų šalių piliečiams, ketinantiems dirbti Lietuvos Respublikoje pagal darbo sutartį, turi atitikti šiuos kriterijus:
 
 
-1) jam nėra iškelta bankroto byla, nėra likviduojamas, nėra priimtas kreditorių susirinkimo nutarimas bankroto procedūras vykdyti ne teismo tvarka;
+1) jam nėra iškelta bankroto byla, jis nėra likviduojamas, nėra priimtas kreditorių susirinkimo nutarimas bankroto procedūras vykdyti ne teismo tvarka;
 
 
 
 
-2) neturi mokestinės nepriemokos arba turi ne didesnę negu vieno bazinės socialinės išmokos dydžio mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar Valstybinio socialinio draudimo fondo biudžetui (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), vykdo įsipareigojimus muitinei;
+2) neturi mokestinės nepriemokos arba turi ne didesnę negu vieno bazinės socialinės išmokos dydžio mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar Valstybės socialinių fondų biudžetui (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), vykdo įsipareigojimus muitinei; 
 
 
 
 
-3) juridinio asmens vadovui ar kitam atsakingam asmeniui per paskutinius vienus metus iki šio įstatymo 30 straipsnio 5 dalyje nurodytos informacijos gavimo dienos nebuvo paskirta administracinė nuobauda už Lietuvos Respublikos administracinių nusižengimų kodekse numatytus tarpininkavimo įdarbinant paslaugų teikimo reikalavimų pažeidimus ar sąlygų užsiimti kita, negu atliekama pagal darbo sutartį, veikla sudarymą užsieniečiams, neturintiems leidimo užsiimti tokia veikla ir (ar) dokumento, patvirtinančio užsieniečio teisę būti ar gyventi Lietuvos Respublikoje.
+3) juridinio asmens vadovui ar kitam atsakingam asmeniui per paskutinius vienus metus iki šio įstatymo 30 straipsnio 5 dalyje nurodytos informacijos gavimo dienos nebuvo paskirta administracinė nuobauda už Lietuvos Respublikos administracinių nusižengimų kodekse numatytus tarpininkavimo įdarbinant paslaugų teikimo reikalavimų pažeidimus ar sąlygų užsiimti kita, negu atliekama pagal darbo sutartį, veikla sudarymą trečiosios šalies piliečiams, neturintiems leidimo užsiimti tokia veikla ir (ar) dokumento, patvirtinančio trečiosios šalies piliečio teisę būti ar gyventi ir (arba) dirbti Lietuvos Respublikoje.
 
 
 
 
 
 
-3. Sprendimą dėl teikėjo, ketinančio teikti tarpininkavimo įdarbinant paslaugas trečiųjų šalių piliečiams, ketinantiems dirbti Lietuvos Respublikoje pagal darbo sutartį, atitikties šio straipsnio 1 dalyje nurodytiems kriterijams priima Užimtumo tarnyba, gavusi šio įstatymo 30 straipsnio 5 dalyje nurodytą informaciją, jos nustatyta tvarka. 
+3. Sprendimą dėl teikėjo, ketinančio teikti tarpininkavimo įdarbinant paslaugas trečiųjų šalių piliečiams, ketinantiems dirbti Lietuvos Respublikoje pagal darbo sutartį, atitikties šio straipsnio 2 dalyje nurodytiems kriterijams priima Užimtumo tarnyba, gavusi šio įstatymo 30 straipsnio 5 dalyje nurodytą informaciją, jos nustatyta tvarka.
 
 
 
 
-4. Tarpininkavimo įdarbinant paslaugos teikiamos tarp teikėjo ir darbdavio, ketinančio įdarbinti trečiųjų šalių piliečius, sudarant sutartį, kuria teikėjas įsipareigoja teikti nemokamas arba už atlyginimą tarpininkavimo įdarbinant paslaugas, o darbdavys įsipareigoja įdarbinti trečiųjų šalių piliečius šio straipsnio 5 dalyje nurodytomis sąlygomis.
+4. Tarpininkavimo įdarbinant paslaugos teikiamos teikėjui ir darbdaviui, ketinančiam įdarbinti trečiųjų šalių piliečius, sudarant sutartį, kuria teikėjas įsipareigoja teikti nemokamas arba už atlyginimą tarpininkavimo įdarbinant paslaugas, o darbdavys įsipareigoja įdarbinti trečiųjų šalių piliečius šio straipsnio 5 dalyje nurodytomis sąlygomis.
 
 
 
 
-5. Tarpininkavimo įdarbinant paslaugas trečiosios šalies piliečiui, ketinančiam dirbti Lietuvos Respublikoje pagal darbo sutartį, teikia pats teikėjas pagal tarp teikėjo ir trečiosios šalies piliečio sudarytą sutartį, kuria įsipareigoja teikti nemokamas tarpininkavimo įdarbinant paslaugas ir pateikti darbo ieškančiam trečiosios šalies piliečiui: 
+5. Tarpininkavimo įdarbinant paslaugas trečiosios šalies piliečiui, ketinančiam dirbti Lietuvos Respublikoje pagal darbo sutartį, teikia pats teikėjas pagal tarp teikėjo ir trečiosios šalies piliečio sudarytą sutartį, kuria įsipareigoja teikti nemokamas tarpininkavimo įdarbinant paslaugas ir pateikti darbo ieškančiam trečiosios šalies piliečiui:
 
 
-1) darbdavio įsipareigojimą įdarbinti trečiosios šalies pilietį ne trumpesniam negu 6 mėnesių laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 1,5 Valstybės duomenų agentūros paskutinio paskelbto kalendorinių metų vidutinio mėnesinio bruto darbo užmokesčio šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) (toliau – paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU) dydžio, kai trečiosios šalies pilietis ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, arba
-Straipsnio punkto pakeitimai:
-Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
- 
+1) darbdavio įsipareigojimą įdarbinti trečiosios šalies pilietį pagal darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 1,5 Valstybės duomenų agentūros paskutinio paskelbto kalendorinių metų vidutinio mėnesinio bruto darbo užmokesčio šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) (toliau – paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU) dydžio, kai trečiosios šalies pilietis ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, arba
 
 
 
 
-11) darbdavio įsipareigojimą įdarbinti trečiosios šalies pilietį ne trumpesniam negu 6 mėnesių laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 1,2 paskutinio paskelbto kalendorinių metų vidutinio mėnesinio BDU dydžio, kai trečiosios šalies pilietis ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą pagal profesiją, kuri yra įtraukta į Aukštą pridėtinę vertę kuriančių profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą, patvirtintą ekonomikos ir inovacijų ministro pagal šio įstatymo 481 straipsnio 7 dalį, arba
+2) darbdavio įsipareigojimą įdarbinti trečiosios šalies pilietį pagal darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 1,2 paskutinio paskelbto kalendorinių metų vidutinio mėnesinio BDU dydžio, kai trečiosios šalies pilietis ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą pagal profesiją, kuri yra įtraukta į Aukštą pridėtinę vertę kuriančių profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą, patvirtintą ekonomikos ir inovacijų ministro pagal šio įstatymo 481 straipsnio 7 dalį, arba
 
 
 
 
-2) darbdavio įsipareigojimą įdarbinti trečiosios šalies pilietį pagal darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui ir mokėti mėnesinį darbo užmokestį, ne mažesnį, negu paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU dydis, kai nevertinama trečiosios šalies piliečio kvalifikacija arba darbo patirtis, arba
+3) darbdavio įsipareigojimą įdarbinti trečiosios šalies pilietį pagal darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui, nustatyti visą darbo laiko normą ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu paskutinio paskelbto kalendorinių metų vidutinio mėnesinio BDU dydžio, kai nevertinama trečiosios šalies piliečio kvalifikacija ir darbo patirtis, arba
 
 
 
 
-3) darbdavio įsipareigojimą įdarbinti trečiosios šalies pilietį pagal darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui, kai vertinama trečiosios šalies piliečio kvalifikacija arba darbo patirtis.
+4) darbdavio įsipareigojimą įdarbinti trečiosios šalies pilietį pagal darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui ir nustatyti visą darbo laiko normą, kai vertinama trečiosios šalies piliečio kvalifikacija ir darbo patirtis. 
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIV-1287, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15436
- 
 
 
-Papildyta straipsniu:
-Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
+
+
+6. Darbdavys, teikiantis įsipareigojimą įdarbinti trečiosios šalies pilietį, arba visi trečiosios šalies piliečio darbdaviai tuo atveju, kai su trečiosios šalies piliečiu ketinama sudaryti darbo keliems darbdaviams sutartį, turi atitikti įstatymo „Dėl užsieniečių teisinės padėties“ 44 straipsnio 8 dalyje nustatytas sąlygas, išskyrus atvejus, kai su darbdaviu sudaryta investicijų sutartis Investicijų įstatymo 131 straipsnyje nustatyta tvarka ar stambaus projekto investicijų sutartis Investicijų įstatymo 155 straipsnyje nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2785, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11779
  
 
 
@@ -4481,27 +4477,35 @@ Valstybinė darbo inspekcija, Valstybinė mokesčių inspekcija, Finansinių nus
 57 straipsnis. Užsieniečių įdarbinimo ir informavimo apie įdarbintus arba komandiruojamus laikinai dirbti į Lietuvos Respubliką užsieniečius tvarkos pažeidimai ir atsakomybė už juos
 
 
-1. Užsieniečių įdarbinimo tvarkos pažeidimais laikomi darbdavio, įdarbinusio trečiosios šalies pilietį, veiksmai, kai jis:
+1. Užsieniečių įdarbinimo tvarkos pažeidimais laikomi darbdavio, įdarbinusio trečiosios šalies pilietį, veiksmai, kai jis: 
 
 
-1) nepateikia dokumentų, patvirtinančių trečiosios šalies piliečio turimą kvalifikaciją, susijusią su atliktinu darbu, arba vienų metų trečiosios šalies piliečio darbo patirtį per pastaruosius 3 metus, susijusią su atliktinu darbu, kai vertinama trečiosios šalies piliečio kvalifikacija arba darbo patirtis ir darbdavys įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka Migracijos departamentui, nagrinėjančiam trečiosios šalies piliečio prašymą išduoti leidimą laikinai gyventi Lietuvos Respublikoje, ar Užimtumo tarnybai, nagrinėjančiai darbdavio prašymą išduoti leidimą dirbti ar priimti sprendimą dėl trečiosios šalies piliečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams, teikė informaciją apie trečiosios šalies piliečio turimą kvalifikaciją, susijusią su darbu, arba vienų metų trečiosios šalies piliečio darbo patirtį per pastaruosius 3 metus, susijusią su atliktinu darbu;
-
-
-
-
-2) darbo Lietuvos Respublikoje laikotarpiu nesaugo teisę būti ar gyventi ir (arba) dirbti Lietuvos Respublikoje patvirtinančių dokumentų kopijų ir (ar) nepateikia jų Migracijos departamentui ar šio įstatymo 55 straipsnyje nurodytoms institucijoms jų reikalavimu;
+1) nepateikia dokumentų, patvirtinančių trečiosios šalies piliečio turimą kvalifikaciją, susijusią su atliktinu darbu, ir jo turimą ne mažesnę negu vienų metų darbo patirtį per pastaruosius 3 metus, susijusią su atliktinu darbu, kai vertinama trečiosios šalies piliečio kvalifikacija ir darbo patirtis ir darbdavys įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka Migracijos departamentui, nagrinėjančiam trečiosios šalies piliečio prašymą išduoti leidimą laikinai gyventi Lietuvos Respublikoje, ar Užimtumo tarnybai, nagrinėjančiai darbdavio prašymą išduoti leidimą dirbti ar priimti sprendimą dėl trečiosios šalies piliečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams, nepateikė informacijos apie trečiosios šalies piliečio turimą kvalifikaciją, susijusią su atliktinu darbu, ir jo turimą ne mažesnę negu vienų metų darbo patirtį per pastaruosius 3 metus, susijusią su atliktinu darbu;
 
 
 
 
-3) įdarbina trečiosios šalies pilietį pagal laikinojo darbo sutartį, nors jis nėra įrašytas į Valstybinės darbo inspekcijos sudaromą ir jos interneto svetainėje skelbiamą laikinojo įdarbinimo įmonių sąrašą, laikinojo darbo sutartis sudaryta trumpesniam negu 6 mėnesių laikotarpiui, nėra nustatyta visa darbo laiko norma, darbo Lietuvos Respublikoje metu mokamas mėnesinis darbo užmokestis, mažesnis negu paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU dydis, o laikotarpiais tarp siuntimų – mažesnis negu Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga arba leidimas laikinai gyventi Lietuvos Respublikoje trečiosios šalies piliečiui nesuteikia teisės dirbti pagal laikinojo darbo sutartį;
+2) trečiosios šalies piliečio darbo Lietuvos Respublikoje laikotarpiu nesaugo jo teisę būti ar gyventi ir (arba) dirbti Lietuvos Respublikoje suteikiančių dokumentų kopijų ir (ar) nepateikia jų Migracijos departamentui ar šio įstatymo 55 straipsnyje nurodytoms institucijoms jų reikalavimu;
 
 
 
 
-4) įdarbina trečiosios šalies pilietį, kuris neturi leidimo pakeisti darbdavį ar darbo funkciją, nors privalu jį turėti.
+3) įdarbina trečiosios šalies pilietį pagal laikinojo darbo sutartį, nors jis nėra įrašytas į Valstybinės darbo inspekcijos sudaromą ir jos interneto svetainėje skelbiamą laikinojo įdarbinimo įmonių sąrašą, laikinojo darbo sutartis sudaryta trumpesniam negu 6 mėnesių laikotarpiui, nėra nustatyta visa darbo laiko norma, darbo Lietuvos Respublikoje metu mokamas mėnesinis darbo užmokestis, mažesnis negu paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU dydis, o laikotarpiais tarp siuntimų dirbti – mažesnis negu Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga arba leidimas laikinai gyventi Lietuvos Respublikoje trečiosios šalies piliečiui nesuteikia teisės dirbti pagal laikinojo darbo sutartį; 
 
 
+
+
+4) įdarbina trečiosios šalies pilietį ar pakeičia jo darbo funkciją, kai jis neturi leidimo pakeisti darbdavį ar darbo funkciją, nors privalu jį gauti;
+
+
+
+
+5) nemoka įstatymo „Dėl užsieniečių teisinės padėties“ 44 straipsnio 1 dalies 2 punkte, 441 straipsnio 1 dalies 1 punkte ar 62 straipsnio 5 dalyje nurodyto dydžio darbo užmokesčio.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2785, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11779
+ 
 
 
 
@@ -5016,3 +5020,8 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 2, 4, 5-1, 16, 17, 20, 24,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2741, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11579
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 24 straipsnio pakeitimo įstatymas
+ 
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2785, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11779
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 16, 30-1 ir 57 straipsnių pakeitimo įstatymas
