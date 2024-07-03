@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2024-05-14 iki 2024-07-02
+Suvestinė redakcija nuo 2024-07-03 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -5473,7 +5473,10 @@ Nr. XII-1017, 2014-07-10, paskelbta TAR 2014-07-18, i. k. 2014-10348
 151 straipsnis. Laikinas nuosavybės teisės apribojimas
 
 
-1. Civiliniam ieškiniui, galimam turto konfiskavimui arba išplėstiniam turto konfiskavimui užtikrinti prokuroro nutarimu įtariamajam ar pagal įstatymus materialiai atsakingam už įtariamojo veiksmus fiziniam asmeniui arba fiziniams asmenims, kurie turi nusikalstamu būdu gautą ar įgytą arba Lietuvos Respublikos baudžiamojo kodekso 723 straipsnyje nurodytus požymius atitinkantį konfiskuotiną turtą, gali būti skiriamas laikinas nuosavybės teisės apribojimas. Laikinas nuosavybės teisės apribojimas gali būti skiriamas kartu su poėmiu ar krata.
+1. Civiliniam ieškiniui, galimam turto konfiskavimui, išplėstiniam turto konfiskavimui arba nusikalstamu būdu užvaldyto turto grąžinimui savininkui ar teisėtam valdytojui užtikrinti prokuroro nutarimu įtariamajam ar pagal įstatymus materialiai atsakingam už įtariamojo veiksmus fiziniam asmeniui arba fiziniams asmenims, kurie turi nusikalstamu būdu gautą ar įgytą arba Lietuvos Respublikos baudžiamojo kodekso 723 straipsnyje nurodytus požymius atitinkantį konfiskuotiną turtą, gali būti skiriamas laikinas nuosavybės teisės apribojimas. Laikinas nuosavybės teisės apribojimas gali būti skiriamas kartu su poėmiu ar krata. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2801, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12132
+ 
 
 
 
@@ -5481,7 +5484,10 @@ Nr. XII-1017, 2014-07-10, paskelbta TAR 2014-07-18, i. k. 2014-10348
 2. Juridinio asmens nuosavybės teisė gali būti laikinai apribota prokuroro nutarimu, kai:
 
 
-1) siekiama užtikrinti galimą turto konfiskavimą Lietuvos Respublikos baudžiamojo kodekso 72 straipsnyje numatytais atvejais ir galimą išplėstinį turto konfiskavimą Lietuvos Respublikos baudžiamojo kodekso 723 straipsnyje numatytais atvejais;
+1) siekiama užtikrinti galimą turto konfiskavimą Lietuvos Respublikos baudžiamojo kodekso 72 straipsnyje numatytais atvejais ir galimą išplėstinį turto konfiskavimą Lietuvos Respublikos baudžiamojo kodekso 723 straipsnyje numatytais atvejais arba siekiama užtikrinti nusikalstamu būdu užvaldyto turto grąžinimą savininkui ar teisėtam valdytojui;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2801, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12132
+ 
 
 
 
@@ -5569,7 +5575,10 @@ Nr. XI-1200, 2010-12-02, Žin., 2010, Nr. 145-7440 (2010-12-11)
 
 
 
-5) asmuo, kurio ieškinio reikalavimo įvykdymui užtikrinti laikinai apribojama nuosavybės teisė (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta; juridinio asmens pavadinimas, buveinės adresas, kodas), – kai laikinai nuosavybės teisė apribojama siekiant užtikrinti civilinį ieškinį;
+5) asmuo, kurio ieškinio reikalavimo ar nusikalstamu būdu užvaldyto turto grąžinimo įvykdymui laikinai apribojama nuosavybės teisė (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta; juridinio asmens pavadinimas, buveinės adresas, kodas), – kai laikinai nuosavybės teisė apribojama siekiant užtikrinti civilinį ieškinį ar grąžinti nusikalstamu būdu užvaldytą turtą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2801, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12132
+ 
 
 
 
@@ -16774,3 +16783,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 53, 217, 307, 338, 357, 389, 3
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2591, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08763
 Lietuvos Respublikos baudžiamojo proceso kodekso 358 ir 360 straipsnių pakeitimo įstatymas
+ 
+76.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2801, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12132
+Lietuvos Respublikos baudžiamojo proceso kodekso 151 ir 152 straipsnių pakeitimo įstatymas
