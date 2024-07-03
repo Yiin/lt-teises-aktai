@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-07-02
+Suvestinė redakcija nuo 2024-07-03 iki 2024-11-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -19826,7 +19826,11 @@ Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 2. Antstolis privalo sustabdyti turto realizavimo veiksmus ir lėšų išmokėjimą šiais atvejais:
 
 
-1) kai fiziniam ar juridiniam asmeniui laikinai apribojamos nuosavybės teisės į realizuotiną turtą ar šis turtas areštuojamas, jei šios teisės apribojamos ar turtas areštuojamas Baudžiamojo proceso kodekso nustatyta tvarka;
+1) kai, siekiant užtikrinti galimą turto konfiskavimą, išplėstinį turto konfiskavimą, civilinį turto konfiskavimą ar nusikalstamu būdu užvaldyto turto grąžinimą savininkui ar teisėtam valdytojui, Lietuvos Respublikos baudžiamojo proceso kodekso, Lietuvos Respublikos administracinių nusižengimų kodekso ar Lietuvos Respublikos civilinio turto konfiskavimo įstatymo nustatyta tvarka fiziniam ar juridiniam asmeniui laikinai apribojamos nuosavybės teisės į realizuotiną turtą arba šis turtas areštuojamas ar paimamas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
+Nr. XIV-2802, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12133
+ 
 
 
 
@@ -19846,7 +19850,9 @@ Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 
 
 
-5) kai fiziniam ar juridiniam asmeniui priklausantis realizuotinas turtas Administracinių nusižengimų kodekse nustatyta tvarka paimamas siekiant užtikrinti galimą šio turto konfiskavimą. 
+5) Neteko galios nuo 2024-07-03
+Straipsnio punkto naikinimas:
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 Papildyta straipsnio punktu:
 Nr. XIII-2270, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11192
  
@@ -19856,7 +19862,10 @@ Nr. XIII-2270, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11192
 
 
 
-3. Kai turtas areštuotas ar nuosavybės teisės į turtą laikinai apribotos tos pačios ar paskesnės eilės kreditorių reikalavimams užtikrinti, išieškojimas iš šio turto nestabdomas. Šiuo atveju išieškojimas iš areštuoto turto ar lėšų vykdomas Sprendimų vykdymo instrukcijoje nustatyta tvarka.
+3. Kai Baudžiamojo proceso kodekso ar šio Kodekso nustatyta tvarka turtas areštuotas ar nuosavybės teisės į turtą laikinai apribotos siekiant užtikrinti civilinį ieškinį pagal tos pačios ar paskesnės eilės kreditorių reikalavimus, išieškojimas iš šio turto nestabdomas. Šiuo atveju išieškojimas iš areštuoto turto ar lėšų vykdomas Sprendimų vykdymo instrukcijoje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
+ 
 
 
 
@@ -21906,7 +21915,11 @@ Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 
 
-5. Piniginių lėšų apribojimų informacinėje sistemoje gavus duomenis iš Turto arešto aktų registro apie skolininko piniginių lėšų areštą (areštus) Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka, pateikti nurodymai priverstinai nurašyti skolininko pinigines lėšas sustabdomi ir nevykdomi tiek, kokio dydžio piniginių lėšų suma yra areštuota. Piniginių lėšų apribojimų informacinėje sistemoje iš Turto arešto aktų registro gavus antstolio nurodymą areštuoti skolininko pinigines lėšas, pateikti nurodymai priverstinai nurašyti skolininko pinigines lėšas vykdomi Sprendimų vykdymo instrukcijoje nustatyta tvarka laikantis šio Kodekso 626 straipsnio 3 dalyje ir 754 straipsnyje nustatytų reikalavimų. Piniginių lėšų apribojimų informacinėje sistemoje gavus duomenis iš Turto arešto aktų registro apie areštą (areštus) pagal teismo nutartį (nutartis) dėl laikinųjų apsaugos priemonių taikymo skolininko lėšoms su nurodytu reikalavimų patenkinimo eiliškumu arba duomenis apie tai, kad nurodymą pateikia antstolis, institucija ar pareigūnas, turintys teisę areštuoti skolininko pinigines lėšas arba nutraukti lėšų išmokėjimą iš skolininko sąskaitos (sąskaitų), vykdomi pateikti tos pačios ir (ar) pirmesnės eilės nurodymai šio Kodekso 626 straipsnio 3 dalyje ir 754 straipsnyje nustatyta tvarka.
+5. Piniginių lėšų apribojimų informacinėje sistemoje gavus duomenis iš Turto arešto aktų registro apie skolininko piniginių lėšų areštą (areštus) Baudžiamojo proceso kodekso ar Civilinio turto konfiskavimo įstatymo nustatyta tvarka, siekiant užtikrinti galimą šių lėšų konfiskavimą, išplėstinį turto konfiskavimą, civilinį turto konfiskavimą ar nusikalstamu būdu užvaldyto turto grąžinimą savininkui ar teisėtam valdytojui, pateikti nurodymai priverstinai nurašyti skolininko pinigines lėšas sustabdomi ir nevykdomi tiek, kokio dydžio piniginių lėšų suma yra areštuota. Piniginių lėšų apribojimų informacinėje sistemoje iš Turto arešto aktų registro gavus antstolio nurodymą areštuoti skolininko pinigines lėšas, pateikti nurodymai priverstinai nurašyti skolininko pinigines lėšas vykdomi Sprendimų vykdymo instrukcijoje nustatyta tvarka laikantis šio Kodekso 626 straipsnio 3 dalyje ir 754 straipsnyje nustatytų reikalavimų. Piniginių lėšų apribojimų informacinėje sistemoje gavus duomenis iš Turto arešto aktų registro apie piniginių lėšų areštą, siekiant užtikrinti civilinį ieškinį baudžiamojoje byloje, ar areštą (areštus) pagal teismo nutartį (nutartis) dėl laikinųjų apsaugos priemonių taikymo skolininko lėšoms su nurodytu reikalavimų patenkinimo eiliškumu arba duomenis apie tai, kad nurodymą pateikia antstolis, institucija ar pareigūnas, turintys teisę areštuoti skolininko pinigines lėšas arba nutraukti lėšų išmokėjimą iš skolininko sąskaitos (sąskaitų), vykdomi pateikti tos pačios ir (ar) pirmesnės eilės nurodymai šio Kodekso 626 straipsnio 3 dalyje ir 754 straipsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
+Nr. XIV-2802, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12133
+ 
 
 
 
@@ -21932,6 +21945,14 @@ Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 9. Piniginių lėšų apribojimų informacinės sistemos tvarkytojas gauna iš Valstybinės mokesčių inspekcijos informaciją apie Lietuvos ir užsienio juridinių asmenų (jų filialų ir atstovybių) bei fizinių asmenų atidarytas ir uždarytas sąskaitas kredito, mokėjimo ir (ar) elektroninių pinigų įstaigose. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+ 
+
+
+
+
+10. Jeigu kredito, mokėjimo ir (ar) elektroninių pinigų įstaiga, kurioje atidaryta skolininko sąskaita (sąskaitos), nėra prisijungusi prie Piniginių lėšų apribojimų informacinės sistemos arba skolininko sąskaitos (sąskaitų) numeris (numeriai) yra ne IBAN formatu, antstolis, institucija ar pareigūnas šio straipsnio 2 ir 3 dalyse nurodytus nurodymus pateikia kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai, kuri mutatis mutandis atlieka šio straipsnio 6 dalyje Piniginių lėšų apribojimų informacinei sistemai priskirtus veiksmus.
+Papildyta straipsnio dalimi:
+Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
  
 
 
@@ -25967,3 +25988,8 @@ Lietuvos Respublikos civilinio proceso kodekso 82, 108, 145, 192, 590, 593, 596,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2652, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09690
 Lietuvos Respublikos civilinio proceso kodekso 626, 663 ir 736 straipsnių pakeitimo įstatymas
+ 
+64.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2802, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12133
+Lietuvos Respublikos civilinio proceso kodekso 82, 108, 145, 192, 590, 593, 596, 601, 602, 609, 610, 611, 614, 624-1, 626, 627, 631, 632, 634, 636, 648, 650, 651, 654, 656, 661, 663, 668, 685, 689, 702, 706, 710, 713, 723, 727, 731, 732, 753, 754, 755 ir 771-1 straipsnių pakeitimo įstatymo Nr. XIV-2317 15 ir 30 straipsnių pakeitimo įstatymas
