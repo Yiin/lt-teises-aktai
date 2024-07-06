@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-07-05
+Suvestinė redakcija nuo 2024-07-06 iki 2025-01-14
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 104-2322; Žin. 1996, Nr.5-0, i. k. 0951010ISTA00I-1113
  
@@ -1408,3 +1408,13 @@ Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 III skyriaus p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2241, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22969
 Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2632, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09667
+Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 7, 8, 23 ir 24 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2838, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12633
+Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 pakeitimo įstatymo Nr. XIV-2241 2 straipsnio pakeitimo įstatymas
