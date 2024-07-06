@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-07-05
+Suvestinė redakcija nuo 2024-07-06 iki 2024-08-31
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
  
@@ -300,7 +300,10 @@ DARBO UŽMOKESTIS, DARBUOTOJŲ VERTINIMAS IR SKATINIMAS BEI MATERIALINĖS PAŠAL
 
 
 
-5) kintamoji dalis, jeigu ji numatyta darbo apmokėjimo sistemoje ir skiriama darbuotojui, atsižvelgiant į jo praėjusių metų veiklos vertinimą šio įstatymo ir darbo apmokėjimo sistemos nustatyta tvarka.
+5) kintamoji dalis, jeigu ji numatyta darbo apmokėjimo sistemoje ir skiriama darbuotojui šio įstatymo ir darbo apmokėjimo sistemos nustatyta tvarka, atsižvelgiant į jo praėjusių metų veiklos vertinimą, taip pat kitais darbo apmokėjimo sistemoje numatytais atvejais.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2836, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12631
+ 
 
 
 
@@ -333,7 +336,10 @@ DARBO UŽMOKESTIS, DARBUOTOJŲ VERTINIMAS IR SKATINIMAS BEI MATERIALINĖS PAŠAL
 6 straipsnis. Pareiginė alga
 
 
-1. Biudžetinių įstaigų darbuotojų, išskyrus biudžetinių įstaigų vadovus, mokyklų vadovų pavaduotojus ugdymui, švietimo pagalbos įstaigų vadovų pavaduotojus, kurių darbas laikomas pedagoginiu, mokyklų ugdymą organizuojančių skyrių vedėjus, švietimo pagalbos įstaigų skyrių vedėjus, kurių darbas laikomas pedagoginiu, mokytojus (išskyrus trenerius), taip pat specialiuosius pedagogus, logopedus, surdopedagogus, tiflopedagogus, judesio korekcijos specialistus, karjeros specialistus, psichologų asistentus, psichologus, socialinius pedagogus, auklėtojus, koncertmeisterius, akompaniatorius (toliau – pagalbos mokiniui specialistai), pareiginė alga nustatoma iš darbo apmokėjimo sistemoje pareigybei nustatyto pareiginės algos koeficientų intervalo, kurio minimalūs pareiginės algos koeficientų dydžiai negali būti mažesni negu šio įstatymo 1 priede nustatyti koeficientų dydžiai ir mažesni negu 1,1 Vyriausybės patvirtintos minimaliosios mėnesinės algos (toliau – MMA), išskyrus darbininkus. Biudžetinių įstaigų vadovų, išskyrus mokyklų vadovus ir švietimo pagalbos įstaigų vadovus, pareiginė alga nustatoma iš šio įstatymo 1 priede nustatyto pareigybės pareiginės algos koeficientų intervalo, atsižvelgiant į savininko teises ir pareigas įgyvendinančios institucijos nustatytoje savo valdymo sričiai priskirtų biudžetinių įstaigų vadovų darbo apmokėjimo sistemoje numatytus pareiginės algos nustatymo kriterijus. Biudžetinės įstaigos darbuotojo, pareiginės algos maksimalus koeficientas negali viršyti biudžetinės įstaigos vadovo pareiginės algos maksimalaus koeficiento dydžio, nustatyto šio įstatymo 1 priede, išskyrus šio straipsnio 6 dalyje nustatytus atvejus.
+1. Biudžetinių įstaigų darbuotojų, išskyrus biudžetinių įstaigų vadovus, mokyklų vadovų pavaduotojus ugdymui, švietimo pagalbos įstaigų vadovų pavaduotojus, kurių darbas laikomas pedagoginiu, mokyklų ugdymą organizuojančių skyrių vedėjus, švietimo pagalbos įstaigų skyrių vedėjus, kurių darbas laikomas pedagoginiu, mokytojus (išskyrus trenerius), taip pat specialiuosius pedagogus, logopedus, surdopedagogus, tiflopedagogus, judesio korekcijos specialistus, karjeros specialistus, psichologų asistentus, psichologus, socialinius pedagogus, auklėtojus, koncertmeisterius, akompaniatorius (toliau – pagalbos mokiniui specialistai), pareiginė alga nustatoma iš darbo apmokėjimo sistemoje pareigybei nustatyto pareiginės algos koeficientų intervalo, kurio minimalūs pareiginės algos koeficientų dydžiai negali būti mažesni negu šio įstatymo 1 priede nustatyti koeficientų dydžiai ir mažesni negu 1,1 Vyriausybės patvirtintos minimaliosios mėnesinės algos (toliau – MMA), išskyrus darbininkus. Biudžetinių įstaigų vadovų, išskyrus mokyklų vadovus ir švietimo pagalbos įstaigų vadovus, pareiginė alga nustatoma iš šio įstatymo 1 priede nustatyto pareigybės pareiginės algos koeficientų intervalo, atsižvelgiant į savininko teises ir pareigas įgyvendinančios institucijos nustatytoje savo valdymo sričiai priskirtų biudžetinių įstaigų vadovų darbo apmokėjimo sistemoje numatytus pareiginės algos nustatymo kriterijus. Biudžetinės įstaigos darbuotojo pareiginės algos maksimalaus koeficiento dydis negali viršyti biudžetinės įstaigos vadovo pareiginės algos maksimalaus koeficiento dydžio, nustatyto šio įstatymo 1 priede arba kituose įstatymuose, išskyrus šio straipsnio 6 dalyje nustatytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2836, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12631
+ 
 
 
 
@@ -2484,3 +2490,13 @@ Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
 Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2837, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12632
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 pakeitimo įstatymo Nr. XIV-2341 2 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2836, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12631
+Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 5 ir 6 straipsnių pakeitimo įstatymas
