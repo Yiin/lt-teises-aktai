@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a55037d0dcd611e89a31865acf012092"
 
 # Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2019-12-28 iki 2024-07-05
+Suvestinė redakcija nuo 2024-07-06
  
 Įstatymas paskelbtas: TAR 2018-10-31, i. k. 2018-17451
  
@@ -1412,9 +1412,10 @@ Valstybės ir savivaldybių institucijos ir įstaigos turi teisę steigti apdova
 
 
 
-7. Asmenys, kuriems iki šio įstatymo įsigaliojimo buvo išduoti kūno kultūros ir sporto veiklos leidimai ir šių leidimų galiojimo terminas nebuvo pasibaigęs, yra laikomi įgijusiais fizinio aktyvumo ar aukšto meistriškumo sporto specialisto (toliau – fizinio aktyvumo ar sporto specialistas) arba fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriaus (toliau – instruktorius) statusą iki šio įstatymo įsigaliojimo ir turi teisę dirbti fizinio aktyvumo ar sporto specialistais arba instruktoriais ar teikti fizinio aktyvumo ar sporto specialistų paslaugas iki 2024 m. rugsėjo 1 d. 
+7. Asmenys, kuriems iki šio įstatymo įsigaliojimo dienos buvo išduoti kūno kultūros ir sporto veiklos leidimai ir šių leidimų galiojimo terminas nebuvo pasibaigęs, yra laikomi įgijusiais fizinio aktyvumo ar aukšto meistriškumo sporto specialisto (toliau – fizinio aktyvumo ar sporto specialistas) arba fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriaus (toliau – instruktorius) statusą iki šio įstatymo įsigaliojimo dienos ir turi teisę dirbti fizinio aktyvumo ar sporto specialistais arba instruktoriais ar teikti fizinio aktyvumo ar sporto specialistų paslaugas iki 2030 m. rugsėjo 1 d.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2669, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21311
+Nr. XIV-2868, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12654
  
 
 
@@ -1491,4 +1492,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2669, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21311
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIII-1540 2 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2868, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12654
 Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIII-1540 2 straipsnio pakeitimo įstatymas
