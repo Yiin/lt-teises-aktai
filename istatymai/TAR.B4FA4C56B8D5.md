@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2023-07-01 iki 2024-07-05
+Suvestinė redakcija nuo 2024-07-06 iki 2024-08-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
  
@@ -45,7 +45,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šis įstatymas netaikomas Lietuvos Respublikos tarptautinėms sutartims, išskyrus šių sutarčių registravimą ir skelbimą.
+2. Šis įstatymas netaikomas Lietuvos Respublikos tarptautinėms sutartims ir Lietuvos Respublikos ar Lietuvos Respublikos Vyriausybės vardu sudaromiems susitarimams, kurie nėra tarptautinės sutartys, išskyrus šių sutarčių ir susitarimų registravimą ir skelbimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
+ 
 
 
 
@@ -529,7 +532,10 @@ Nr. XIII-3171, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15503
 
 
 
-3) Respublikos Prezidento, Seimo, Lietuvos Respublikos Vyriausybės narių, viceministrų, Vyriausybės, ministerijų kanclerių, parlamentinių politinių partijų vadovų, merų, savivaldybių tarybų narių, savivaldybių administracijų direktorių ir jų pavaduotojų savanoriškai deklaruota informacija apie jiems darytą įtaką dėl teisėkūros. 
+3) Respublikos Prezidento, Seimo, Vyriausybės narių, viceministrų, Vyriausybės, ministerijų kanclerių, parlamentinių politinių partijų vadovų, merų, vicemerų, savivaldybių tarybų narių, savivaldybių administracijų direktorių ir jų pavaduotojų savanoriškai deklaruota informacija apie jiems darytą įtaką dėl teisėkūros.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
+ 
 
 
 
@@ -597,9 +603,10 @@ Nr. XIII-3171, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15503
 
 
 
-7) Lietuvos Respublikos tarptautinės sutartys, išskyrus Europos Sąjungos ir Lietuvos Respublikos, kaip Europos Sąjungos valstybės narės, atstovaujančių vienai tarptautinės sutarties šaliai, tarptautines sutartis, kurios lietuvių kalba skelbiamos Europos Sąjungos oficialiajame leidinyje, ir Lietuvos Respublikos užsienio reikalų ministerijos teikiami pranešimai dėl visų Lietuvos Respublikos tarptautinių sutarčių įsigaliojimo, galiojimo, pakeitimo, laikino taikymo, sustabdymo, nutraukimo, prieštaravimo sutarties pakeitimui ar išlygoms;
+7) Lietuvos Respublikos tarptautinės sutartys, išskyrus Europos Sąjungos ir Lietuvos Respublikos, kaip Europos Sąjungos valstybės narės, atstovaujančių vienai tarptautinės sutarties šaliai, tarptautines sutartis, kurios lietuvių kalba skelbiamos Europos Sąjungos oficialiajame leidinyje, Lietuvos Respublikos ar Lietuvos Respublikos Vyriausybės vardu sudaromi susitarimai, kurie nėra tarptautinės sutartys ir kuriuos skelbti Teisės aktų registre privaloma pagal teisės aktus, ir Lietuvos Respublikos užsienio reikalų ministerijos teikiami pranešimai dėl visų Lietuvos Respublikos tarptautinių sutarčių įsigaliojimo, galiojimo, pakeitimo, laikino taikymo, sustabdymo, nutraukimo, prieštaravimo sutarties pakeitimui ar išlygoms; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1411, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20435
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
  
 
 
@@ -650,9 +657,10 @@ Nr. XII-1411, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20435
 
 
 
-17) įgaliotų atlikti viešąjį administravimą asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų ir regionų plėtros tarybų kolegijų priimti norminiai teisės aktai. Kitų asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų priimti teisės aktai Teisės aktų registro objektais yra tik tais atvejais, kai šiuos teisės aktus skelbti Teisės aktų registre privaloma pagal teisės aktus; 
+17) įgaliotų atlikti viešąjį administravimą asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, bendrovių, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų ir regionų plėtros tarybų kolegijų priimti norminiai teisės aktai. Kitų asociacijų, valstybės ar savivaldybės įmonių, viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valdymo organų priimti teisės aktai Teisės aktų registro objektais yra tik tais atvejais, kai šiuos teisės aktus skelbti Teisės aktų registre privaloma pagal teisės aktus; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3045, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13961
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
  
 
 
@@ -671,7 +679,10 @@ Nr. XIII-3045, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13961
 
 
 
-20) Lietuvos Aukščiausiojo Teismo ir Lietuvos vyriausiojo administracinio teismo sprendimai, nutartys, nutarimai, taip pat įsiteisėję administracinių teismų sprendimai dėl norminių administracinių aktų teisėtumo.
+20) Lietuvos Aukščiausiojo Teismo ir Lietuvos vyriausiojo administracinio teismo sprendimai, nutartys, nutarimai, taip pat įsiteisėję administracinių teismų sprendimai dėl norminių administracinių aktų teisėtumo, Lietuvos Respublikos pilietybės netekimo.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
+ 
 
 
 
@@ -880,7 +891,10 @@ Nr. XIII-1743, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20716
 
 
 
-7. Apmokėjimo už darbą savivaldybių tarybų, savivaldybių merų (merų pavaduotojų), savivaldybių administracijų direktorių, kitų iš savivaldybių biudžetų išlaikomų įstaigų vadovų sudaromose darbo grupėse (komisijose) teisės aktų projektams rengti tvarką nustato savivaldybių tarybos.
+7. Apmokėjimo už darbą savivaldybių tarybų, savivaldybių merų (vicemerų), savivaldybių administracijų direktorių, kitų iš savivaldybių biudžetų išlaikomų įstaigų vadovų sudaromose darbo grupėse (komisijose) teisės aktų projektams rengti tvarką nustato savivaldybių tarybos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
+ 
 
 
 
@@ -986,7 +1000,10 @@ Nr. XIII-1743, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20716
 
 
 
-3) teisės akto pavadinimas (antraštė);
+3) teisės akto pavadinimas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
+ 
 
 
 
@@ -1926,3 +1943,13 @@ Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 20 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1630, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26094
 Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 15 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2634, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09670
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 6 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 1, 5-3, 6, 10 ir 13 straipsnių pakeitimo įstatymas
