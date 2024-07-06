@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2023-11-01 iki 2024-07-05
+Suvestinė redakcija nuo 2024-07-06 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -1016,9 +1016,17 @@ Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
 
 
 
-4) užtikrina, kad perdavimo ir skirstymo sistemos operatoriams būtų suteiktos tinkamos paskatos trumpalaikiu ir ilgalaikiu laikotarpiu didinti energijos vartojimo efektyvumą, skatinti rinkos integraciją ir tiekimo saugumą bei remti susijusius mokslinius tyrimus. Siekdama didinti gamtinių dujų vartojimo efektyvumą, nustatydama viršutines perdavimo ir skirstymo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Taryba įvertina perdavimo sistemos ir skirstomųjų tinklų operatorių veiklos sąnaudų sumažėjimą dėl efektyvumo priemonių diegimo, įskaitant sutaupymą dėl gamtinių dujų perdavimo ar skirstymo paslaugų teikimo ar investicijų į tinklus sąnaudų sumažėjimo bei optimalaus tinklo eksploatavimo. 
+4) užtikrina, kad perdavimo ir skirstymo sistemos operatoriams būtų suteiktos tinkamos paskatos trumpalaikiu ir ilgalaikiu laikotarpiu didinti energijos vartojimo efektyvumą, skatinti rinkos integraciją ir tiekimo saugumą bei remti susijusius mokslinius tyrimus. Siekdama didinti gamtinių dujų vartojimo efektyvumą, nustatydama viršutines perdavimo ir skirstymo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Taryba įvertina perdavimo sistemos ir skirstomųjų tinklų operatorių veiklos sąnaudų sumažėjimą dėl efektyvumo priemonių diegimo, įskaitant sutaupymą dėl gamtinių dujų perdavimo ar skirstymo paslaugų teikimo ar investicijų į tinklus sąnaudų sumažėjimo bei optimalaus tinklo eksploatavimo;
 Papildyta straipsnio punktu:
 Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+ 
+
+
+
+
+5) nustato gamtinių dujų rinkos finansinių priemonių ir su valiutomis susietų pasirinkimo, ateities ir apsikeitimo sandorių bei kitų su valiutomis susietų išvestinių finansinių priemonių, taip pat apyvartinių taršos leidimų ar kitų su apyvartiniais taršos leidimais susietų išvestinių finansinių priemonių naudojimo gamtinių dujų įmonėms vykdant reguliuojamas veiklas tvarką ir sąlygas. Gamtinių dujų įmonės Tarybos nustatyta tvarka turi teisę naudoti šiame punkte nurodytas finansines priemones, kurios yra įtraukiamos į reguliuojamas kainas. Taryba įvertina šių finansinių priemonių taikymo sąnaudas ir gautą naudą nustatydama reguliuojamas kainas. 
+Papildyta straipsnio punktu:
+Nr. XIV-2841, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12636
  
 
 
@@ -1093,6 +1101,14 @@ Nr. XIV-1095, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10293
 161. Kai gamtinių dujų tarifai tvirtinami 6 kalendoriniams mėnesiams patvirtinus Energetikos įstatymo 192 straipsnyje nurodytus suvartotų gamtinių dujų kainos dalies kompensavimo buitiniams vartotojams dydžius arba perskaičiuojami pakeitus gamtinių dujų kainos dalies kompensavimo buitiniams vartotojams dydžius, Energetikos įstatymo 19 straipsnio 3 dalies nuostata netaikoma. Patvirtinti gamtinių dujų tarifai taikomi nuo prasidedančio kalendorinio pusmečio pirmo mėnesio pirmos dienos, o perskaičiuoti gamtinių dujų tarifai – nuo kito mėnesio, einančio po to mėnesio, kurį buvo priimtas Tarybos sprendimas dėl gamtinių dujų tarifų buitiniams vartotojams patvirtinimo, pirmos dienos, jeigu Tarybos sprendime nenumatyta vėlesnė įsigaliojimo data. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1095, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10293
+ 
+
+
+
+
+162. Gamtinių dujų įmonės, atsižvelgdamos į pokyčius gamtinių dujų rinkoje, kai skirtumas tarp į Tarybos patvirtintus gamtinių dujų tarifus buitiniams vartotojams įtrauktų ir einamojo pusmečio mėnesių prognozuojamų gamtinių dujų įsigijimo kainų yra 20 procentų ar didesnis, Tarybos nustatyta tvarka teikia Tarybai pasiūlymą perskaičiuoti gamtinių dujų tarifus buitiniams vartotojams. Taryba per 15 darbo dienų nuo pasiūlymo įregistravimo Taryboje dienos patvirtina gamtinių dujų tarifus buitiniams vartotojams. Gamtinių dujų tarifai buitiniams vartotojams gali būti perskaičiuojami kartą per kalendorinių metų ketvirtį. Jeigu skirtumas tarp į Tarybos patvirtintus gamtinių dujų tarifus buitiniams vartotojams įtrauktų ir einamojo pusmečio mėnesių prognozuojamų gamtinių dujų įsigijimo kainų yra 20 procentų ar didesnis ir gamtinių dujų įmonės Tarybai nepateikia pasiūlymo perskaičiuoti gamtinių dujų tarifus buitiniams vartotojams, Taryba ne vėliau kaip per 15 darbo dienų nuo Tarybos informacijos gamtinių dujų įmonėms dėl pasiūlymo perskaičiuoti gamtinių dujų tarifus buitiniams vartotojams pateikimo raštu dienos vienašališkai perskaičiuoja gamtinių dujų tarifus buitiniams vartotojams.
+Papildyta straipsnio dalimi:
+Nr. XIV-2841, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12636
  
 
 
@@ -4441,3 +4457,13 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 45, 46, 57 ir 62
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2196, 2023-10-26, paskelbta TAR 2023-10-31, i. k. 2023-21353
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 46 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2421, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25642
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2 ir 13-1 straipsnių pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2841, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12636
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 9 straipsnio pakeitimo įstatymas
