@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2024-01-02 iki 2024-07-05
+Suvestinė redakcija nuo 2024-07-06 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -2111,7 +2111,10 @@ Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 
 
-3. Valstybės reguliuojamos kainos turi būti skelbiamos viešai ne vėliau kaip prieš mėnesį iki jų taikymo pradžios, jeigu kituose įstatymuose nenustatyta kitaip, ir taikomos nuo mėnesio pirmos dienos.
+3. Valstybės reguliuojamos kainos turi būti skelbiamos viešai ne vėliau kaip prieš mėnesį iki jų taikymo pradžios ir taikomos nuo mėnesio pirmos dienos, išskyrus šio įstatymo 191 straipsnio 3 dalies 4 punkte ir kituose įstatymuose nurodytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
+ 
 
 
 
@@ -2150,16 +2153,22 @@ Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 
 
 
-2) Taryba per 30 kalendorinių dienų nuo prašymo įregistravimo Taryboje dienos patvirtina energetikos įmonės pateiktą centralizuotai tiekiamų suskystintų naftos dujų kainą. Taryba nepatvirtina kainos, jeigu vadovaudamasi Centralizuotai tiekiamų suskystintų naftos dujų kainų nustatymo metodika nustato pažeidimų kainos projekte ir kainos pagrindime. Energetikos įmonė privalo pašalinti Tarybos nustatytus pažeidimus ne vėliau kaip per 15 kalendorinių dienų. Jeigu energetikos įmonė nepašalina Tarybos nustatytų pažeidimų arba nustatytu laiku nepateikia Tarybai suskystintų naftos dujų kainos projekto ir kainos pagrindimo, Taryba vienašališkai nustato konkrečias kainas;
+2) Taryba per 30 kalendorinių dienų nuo prašymo įregistravimo Taryboje dienos patvirtina energetikos įmonės pateiktą centralizuotai tiekiamų suskystintų naftos dujų kainą. Taryba nepatvirtina kainos, jeigu vadovaudamasi Centralizuotai tiekiamų suskystintų naftos dujų kainų nustatymo metodika nustato pažeidimų kainos projekte ir kainos pagrindime. Energetikos įmonė privalo pašalinti Tarybos nustatytus pažeidimus per 5 darbo dienas. Jeigu energetikos įmonė nepašalina Tarybos nustatytų pažeidimų arba nustatytu laiku nepateikia Tarybai suskystintų naftos dujų kainos projekto ir kainos pagrindimo, Taryba vienašališkai nustato konkrečias kainas;
 
 
 
 
-3) Tarybos patvirtintos centralizuotai tiekiamų suskystintų naftos dujų kainos galioja 12 mėnesių nuo jų taikymo pradžios. Energetikos įmonės patvirtintas kainas skelbia šio įstatymo 19 straipsnio 3 dalyje nustatyta tvarka. 
+3) Tarybos patvirtintos centralizuotai tiekiamų suskystintų naftos dujų kainos galioja 12 mėnesių nuo jų taikymo pradžios. Energetikos įmonės patvirtintas kainas skelbia šio įstatymo 19 straipsnio 3 dalyje nustatyta tvarka;
+
+
+
+
+4) energetikos įmonė, atsižvelgdama į pokyčius suskystintų naftos dujų rinkoje, kai skirtumas tarp suskystintų naftos dujų įsigijimo kainos, įtrauktos į Tarybos patvirtintą centralizuotai tiekiamų suskystintų naftos dujų kainą, ir prognozuojamos einamųjų metų suskystintų naftos dujų įsigijimo kainos yra 20 procentų ar didesnis, Tarybos nustatyta tvarka teikia Tarybai pasiūlymą perskaičiuoti centralizuotai tiekiamų suskystintų naftos dujų kainą kartu su centralizuotai tiekiamų suskystintų naftos dujų kainos projektu ir kainos pagrindimu. Taryba per 15 darbo dienų nuo pasiūlymo įregistravimo Taryboje dienos patvirtina centralizuotai tiekiamų suskystintų naftos dujų kainą. Jeigu energetikos įmonės pateiktame pasiūlyme perskaičiuoti centralizuotai tiekiamų suskystintų naftos dujų kainą nustatomi trūkumai, šiems trūkumams pašalinti Taryba nustato 5 darbo dienų terminą. Energetikos įmonei per nustatytą terminą pašalinus nustatytus trūkumus, 15 darbo dienų terminas, per kurį Taryba patvirtina centralizuotai tiekiamų suskystintų naftos dujų kainą, skaičiuojamas nuo trūkumų pašalinimo dienos. Centralizuotai tiekiamų suskystintų naftos dujų kaina gali būti perskaičiuojama kartą per kalendorinių metų ketvirtį. Jeigu skirtumas tarp suskystintų naftos dujų įsigijimo kainos, įtrauktos į Tarybos patvirtintą centralizuotai tiekiamų suskystintų naftos dujų kainą, ir prognozuojamos einamųjų metų suskystintų naftos dujų įsigijimo kainos yra 20 procentų ar didesnis ir energetikos įmonė Tarybai nepateikia centralizuotai tiekiamų suskystintų naftos dujų kainos apskaičiavimo pasiūlymo arba šiame pasiūlyme nustatyti trūkumai, kurių energetikos įmonė per 5 darbo dienas nepašalina, Taryba ne vėliau kaip per 15 darbo dienų nuo Tarybos informacijos energetikos įmonėms dėl pasiūlymo perskaičiuoti centralizuotai tiekiamų suskystintų naftos dujų kainą pateikimo raštu dienos vienašališkai perskaičiuoja ir patvirtina centralizuotai tiekiamų suskystintų naftos dujų kainą. Šiame punkte nustatyta tvarka Tarybos patvirtinta centralizuotai tiekiamų suskystintų naftos dujų kaina taikoma nuo kito mėnesio, einančio po to mėnesio, kurį buvo priimtas Tarybos sprendimas dėl centralizuotai tiekiamų suskystintų naftos dujų kainos patvirtinimo, pirmos dienos, jeigu Tarybos sprendime nenumatyta vėlesnė įsigaliojimo data.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
  
 
 
@@ -4610,3 +4619,8 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 8 ir 24-1 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2401, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25633
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 28 straipsnio pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 4, 6, 8, 15, 19, 19-1, 22, 24-1, 36 straipsnių pakeitimo ir Įstatymo papildymo 24-2 straipsniu įstatymas
