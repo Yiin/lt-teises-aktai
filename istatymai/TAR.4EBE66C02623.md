@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2024-07-02 iki 2024-07-07
+Suvestinė redakcija nuo 2024-07-08 iki 2024-07-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -2159,38 +2159,34 @@ užtraukia baudą asmenims, įgaliotiems teikti informaciją, nuo vieno šimto k
 
 
 
-57 straipsnis. Neteisingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus, įsigytas medicinos pagalbos priemones ir išduotas (parduotas) ortopedijos technines priemones pateikimas
+57 straipsnis. Neteisingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus, medicinos pagalbos priemones (tarp jų ortopedijos technines priemones), specialiosios medicininės paskirties maisto produktus ir nuomojamas medicinos priemones pateikimas
 
 
-1. Neteisingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus, įsigytas medicinos pagalbos priemones ir išduotas (parduotas) ortopedijos technines priemones pateikimas Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos ir teritorinėms ligonių kasoms, kai dėl šios veikos padaroma mažesnė negu trijų šimtų eurų žala Privalomojo sveikatos draudimo fondo biudžetui, 
-užtraukia įspėjimą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ir kitų įmonių, sudariusių sutartis su teritorinėmis ligonių kasomis dėl išduotų kompensuojamųjų vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams ar kitiems atsakingiems asmenims. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2126, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08306
- 
+1. Neteisingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus, medicinos pagalbos priemones (tarp jų ortopedijos technines priemones), specialiosios medicininės paskirties maisto produktus ir nuomojamas medicinos priemones pateikimas Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos ir teritorinėms ligonių kasoms, kai dėl šios veikos padaroma mažesnė negu trijų šimtų eurų žala Privalomojo sveikatos draudimo fondo biudžetui,
+užtraukia įspėjimą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ir kitų ūkio subjektų, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl išduotų kompensuojamųjų vaistų, medicinos pagalbos priemonių ir (ar) specialiosios medicininės paskirties maisto produktų įsigijimo išlaidų kompensavimo ar medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams ar kitiems atsakingiems asmenims.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų. 
 
 
 
 
-3. Neteisingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus, įsigytas medicinos pagalbos priemones ir išduotas (parduotas) ortopedijos technines priemones pateikimas Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos ir teritorinėms ligonių kasoms, kai dėl šios veikos padaroma ne mažesnė negu trijų šimtų eurų žala Privalomojo sveikatos draudimo fondo biudžetui,
-užtraukia baudą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ir kitų įmonių, sudariusių sutartis su teritorinėmis ligonių kasomis dėl išduotų kompensuojamųjų vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar su teritorinėmis ligonių kasomis dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2126, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08306
- 
+3. Neteisingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus, medicinos pagalbos priemones (tarp jų ortopedijos technines priemones), specialiosios medicininės paskirties maisto produktus ir nuomojamas medicinos priemones pateikimas Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos ir teritorinėms ligonių kasoms, kai dėl šios veikos padaroma ne mažesnė negu trijų šimtų eurų žala Privalomojo sveikatos draudimo fondo biudžetui,
+užtraukia baudą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ir kitų ūkio subjektų, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl išduotų kompensuojamųjų vaistų, medicinos pagalbos priemonių ir (ar) specialiosios medicininės paskirties maisto produktų įsigijimo išlaidų kompensavimo ar medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar su teritorinėmis ligonių kasomis dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
 
 
 
 4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2793, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12736
  
-
-
 
 
 
@@ -2215,23 +2211,22 @@ Nr. XIV-1490, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22952
 
 
 
-58 straipsnis. Tyčinis melagingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus ir medicinos pagalbos priemones, gautus ir panaudotus centralizuotai perkamus vaistus ir medicinos pagalbos priemones, įsigytas medicinos pagalbos priemones ir išduotas (parduotas) ortopedijos technines priemones pateikimas
+58 straipsnis. Tyčinis melagingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus, specialiosios medicininės paskirties maisto produktus, medicinos pagalbos priemones (tarp jų ortopedijos technines priemones) ir nuomojamas medicinos priemones, gautus ir panaudotus centralizuotai perkamus vaistus ir medicinos pagalbos priemones (tarp jų ortopedijos technines priemones) pateikimas
 
 
-1. Tyčinis melagingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas ir išduotus (parduotus) kompensuojamuosius vaistus ir medicinos pagalbos priemones, gautus ir panaudotus centralizuotai perkamus vaistus ir medicinos pagalbos priemones, įsigytas medicinos pagalbos priemones ir išduotas (parduotas) ortopedijos technines priemones pateikimas Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos ir teritorinėms ligonių kasoms
-užtraukia baudą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ir optikų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl išduotų kompensuojamųjų vaistų ir (ar) medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2126, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08306
- 
+1. Tyčinis melagingų duomenų apie suteiktas asmens sveikatos priežiūros paslaugas ir išduotus (parduotus) kompensuojamuosius vaistus, specialiosios medicininės paskirties maisto produktus, medicinos pagalbos priemones (tarp jų ortopedijos technines priemones) ir nuomojamas medicinos priemones, gautus ir panaudotus centralizuotai perkamus vaistus ir medicinos pagalbos priemones (tarp jų ortopedijos technines priemones) pateikimas Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos ir teritorinėms ligonių kasoms
+užtraukia baudą asmens sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, įmonių, kurios verčiasi farmacine veikla, ir kitų ūkio subjektų, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl išduotų kompensuojamųjų vaistų, specialiosios medicininės paskirties maisto produktų ir (ar) medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo ar medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos ar teritorinėmis ligonių kasomis dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo biudžeto, vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2793, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12736
  
-
-
 
 
 
@@ -28744,3 +28739,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio, prie
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783
 Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 235, 236, 239, 242, 247, 260, 262, 271, 276, 281, 284, 285, 291, 293, 295, 296, 303, 304-2, 309, 356, 440, 505, 589 straipsnių ir priedo pakeitimo, Kodekso papildymo 255-1 straipsniu ir 304 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+237.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2793, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12736
+Lietuvos Respublikos administracinių nusižengimų kodekso 56, 57, 58 ir 589 straipsnių pakeitimo įstatymas
