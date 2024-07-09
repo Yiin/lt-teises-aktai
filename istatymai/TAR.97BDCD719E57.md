@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97BDCD719E57"
 
 # Lietuvos Respublikos veterinarijos įstatymas
 
-Suvestinė redakcija nuo 2023-03-30 iki 2024-07-08
+Suvestinė redakcija nuo 2024-07-09 iki 2024-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 3-0; Žin. 1992, Nr.2-15, i. k. 091XX01ISTA00I-2110
  
@@ -54,7 +54,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Gyvūnų laikymo vieta – pastatas  arba tuo atveju, kai gyvūnai laikomi lauke, bet kuri vieta, kur gyvūnai yra laikomi, auginami ir prižiūrimi.
+2. Gyvūnų laikymo vieta – pastatas  arba tuo atveju, kai gyvūnai laikomi lauke, bet kuri vieta, kur gyvūnai yra laikomi, auginami ir prižiūrimi.
 
 
 
@@ -140,7 +140,10 @@ Nr. XIV-1090, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11327
 
 
 
-16. Veterinarinės medicinos rezidentūros bazė – universitetas, vykdantis veterinarinės medicinos rezidentūrą, ir (ar) kitas žemės ūkio ministro nustatyta tvarka universiteto įvertintas ir parinktas juridinis asmuo, kita organizacija, juridinio asmens ar kitos organizacijos padalinys (filialas, atstovybė) veterinarinės medicinos rezidentūros studijų programos praktinei daliai vykdyti. 
+16. Veterinarinės medicinos rezidentūros bazė – universitetas, vykdantis veterinarinės medicinos rezidentūrą, ir (ar) kitas žemės ūkio ministro ir aplinkos ministro nustatyta tvarka universiteto įvertintas ir parinktas juridinis asmuo, kita organizacija, juridinio asmens ar kitos organizacijos padalinys (filialas, atstovybė) veterinarinės medicinos rezidentūros studijų programos praktinei daliai vykdyti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2858, 2024-06-27, paskelbta TAR 2024-07-08, i. k. 2024-12741
+ 
 
 
 
@@ -335,7 +338,10 @@ Nr. XIII-3206, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15399
 
 
 
-2. Šiame straipsnyje nustatytas funkcijas Valstybinė maisto ir veterinarijos tarnyba įgyvendina tiek tiesiogiai, tiek per pavaldžius teritorinius padalinius ir kitas pavaldžias įstaigas.
+2. Neteko galios nuo 2024-07-09
+Straipsnio dalies naikinimas:
+Nr. XIV-2858, 2024-06-27, paskelbta TAR 2024-07-08, i. k. 2024-12741
+ 
 
 
 
@@ -483,10 +489,12 @@ Valstybinės maisto ir veterinarijos tarnybos pareigūnai privalo:
 10 straipsnis. Valstybinės maisto ir veterinarijos tarnybos išlaikymas
 
 
-Valstybinė maisto ir veterinarijos tarnyba ir jai pavaldžios įstaigos yra išlaikomos iš biudžeto lėšų ir kitų teisėtai įgytų lėšų.
+Valstybinė maisto ir veterinarijos tarnyba yra išlaikoma iš valstybės biudžeto lėšų ir kitų teisėtai įgytų lėšų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2858, 2024-06-27, paskelbta TAR 2024-07-08, i. k. 2024-12741
  
-
-
 
 
 
@@ -746,7 +754,10 @@ Veterinarijos praktikos licencijos turėtojai privalo:
 
 
 
-2. Veterinarinės medicinos rezidentūros bazė su veterinarijos gydytoju rezidentu sudaro terminuotą darbo sutartį ir jis įdarbinamas veterinarijos gydytoju rezidentu veterinarinės medicinos rezidentūros bazėje. Veterinarijos gydytojui rezidentui mokama pareiginė alga, kuri apskaičiuojama pareiginės algos koeficientą dauginant iš pareiginės algos bazinio dydžio, nustatomo Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatyme nustatyta tvarka. Veterinarijos gydytojui rezidentui taikomas pareiginės algos koeficientas – 7,6. Veterinarijos gydytojo rezidento pareiginė alga mokama iš Lietuvos Respublikos žemės ūkio ministerijai skirtų valstybės biudžeto asignavimų. Veterinarinės medicinos rezidentūros vietų, į kurias priimtiems asmenims pareiginė alga mokama iš Žemės ūkio ministerijai skirtų valstybės biudžeto asignavimų, skaičius neturi viršyti tais metais vientisąsias veterinarijos medicinos studijas turinčių baigti asmenų skaičiaus. Lėšos veterinarinės medicinos rezidentūros bazėms paskirstomos žemės ūkio ministro nustatyta tvarka.
+2. Veterinarinės medicinos rezidentūros bazė su veterinarijos gydytoju rezidentu sudaro terminuotą darbo sutartį ir jis įdarbinamas veterinarijos gydytoju rezidentu veterinarinės medicinos rezidentūros bazėje. Veterinarijos gydytojui rezidentui mokama pareiginė alga, kuri apskaičiuojama pareiginės algos koeficientą dauginant iš Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatyto pareiginės algos (atlyginimo) bazinio dydžio. Veterinarijos gydytojui rezidentui taikomas pareiginės algos koeficientas – 0,7918. Veterinarijos gydytojo rezidento pareiginė alga mokama iš Lietuvos Respublikos žemės ūkio ministerijai ir Lietuvos Respublikos aplinkos ministerijai patvirtintų valstybės biudžeto asignavimų. Lėšos veterinarinės medicinos rezidentūros bazėms paskirstomos žemės ūkio ministro ir aplinkos ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2858, 2024-06-27, paskelbta TAR 2024-07-08, i. k. 2024-12741
+ 
 
 
 Papildyta straipsniu:
@@ -1044,7 +1055,10 @@ Medžioklės plotų naudotojai privalo užtikrinti tinkamą medžiojamųjų gyv�
 
 
 
-2. Veterinarinės kontrolės subjektų, tvarkančių gyvūninius produktus, pašarus ir jų priedus, šalutinius gyvūninius produktus ir jų gaminius, genetinės medžiagos produktus, laikančių, naudojančių, vežančių gyvūnus ar jais prekiaujančių, valstybinei veterinarinei priežiūrai šio įstatymo nuostatos taikomos tiek, kiek jos neprieštarauja Pašarų įstatymo, Maisto įstatymo, Lietuvos Respublikos ūkinių gyvūnų veislininkystės įstatymo, Gyvūnų gerovės ir apsaugos įstatymo nuostatoms.  
+2. Veterinarinės kontrolės subjektų, tvarkančių gyvūninius produktus, pašarus ir jų priedus, šalutinius gyvūninius produktus ir jų gaminius, genetinės medžiagos produktus, laikančių, naudojančių, vežančių gyvūnus ar jais prekiaujančių, valstybinei veterinarinei priežiūrai šio įstatymo nuostatos taikomos tiek, kiek jos neprieštarauja Pašarų įstatymo, Veterinarinių vaistų įstatymo, Maisto įstatymo, Gyvūnų gerovės ir apsaugos įstatymo nuostatoms.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2858, 2024-06-27, paskelbta TAR 2024-07-08, i. k. 2024-12741
+ 
 
 
 
@@ -1236,3 +1250,8 @@ Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 2, 17 straipsnių ir pri
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1824, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05490
 Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 8 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2858, 2024-06-27, paskelbta TAR 2024-07-08, i. k. 2024-12741
+Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 2, 6, 10, 13-1 ir 19 straipsnių pakeitimo įstatymas
