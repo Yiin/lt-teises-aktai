@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-07-08
+Suvestinė redakcija nuo 2024-07-09 iki 2024-07-24
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -1181,35 +1181,22 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 21 straipsnis. Specialioji pedagoginė ir specialioji pagalba
 
 
-1. Specialiosios pedagoginės ir specialiosios pagalbos paskirtis – didinti asmens, turinčio specialiųjų ugdymosi poreikių, ugdymosi veiksmingumą.
+1. Specialiosios pedagoginės pagalbos paskirtis – didinti asmens, turinčio specialiųjų ugdymosi poreikių, ugdymosi veiksmingumą. Ją teikia specialieji pedagogai, logopedai, tiflopedagogai, surdopedagogai, kurie yra įgiję aukštąjį universitetinį ar jam lygiavertį išsilavinimą pagal specialiosios pedagogikos studijų programą, atitinka švietimo, mokslo ir sporto ministro nustatytus kvalifikacinius reikalavimus ir pagal šio įstatymo 51 straipsnį yra nepriekaištingos reputacijos. Specialiosios pedagoginės pagalbos teikimo asmenims iki 21 metų, o suėjus 21 metams nepabaigus ugdymo programos – iki ugdymo programos pabaigos, taip pat asmenims, kurie dėl ligos mokėsi su pertraukomis ir pateikė tokių pertraukų priežastį pagrindžiančius dokumentus, – iki mokslo metų, kuriais jiems sueina 23 metai, pabaigos, tvarką nustato švietimo, mokslo ir sporto ministras.
 
 
 
 
-2. Specialiąją pedagoginę pagalbą asmenims iki mokslo metų, kuriais jiems sueina 21 metai, pabaigos, o tiems, kurie dėl ligos mokėsi su pertraukomis ir pateikė tokių pertraukų priežastį pagrindžiančius dokumentus, – iki mokslo metų, kuriais jiems sueina 23 metai, pabaigos teikia specialieji pedagogai, logopedai, tiflopedagogai, surdopedagogai ir kiti specialistai, kurie turi aukštąjį universitetinį išsilavinimą ir atitinka švietimo, mokslo ir sporto ministro nustatytus kvalifikacinius reikalavimus ir kurie pagal šio įstatymo 51 straipsnį yra nepriekaištingos reputacijos. Specialiosios pedagoginės pagalbos teikimo asmenims iki 21 metų tvarką nustato švietimo, mokslo ir sporto ministras. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
-Nr. XIV-484, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15863
-Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+2. Specialiosios pagalbos paskirtis – didinti ugdymosi prieinamumą ir mokinio savarankiškumą. Ją teikia mokinio padėjėjas, gestų kalbos vertėjas ir kiti specialistai. Specialiosios pagalbos teikimo mokyklose (išskyrus aukštąsias mokyklas) tvarką nustato švietimo, mokslo ir sporto ministras. Aukštojoje mokykloje specialioji pagalba teikiama aukštosios mokyklos nustatyta tvarka.
+
+
+
+
+3. Pedagoginėse psichologinėse tarnybose, mokyklose dirbantys specialistai konsultuoja specialiosios pedagoginės pagalbos gavėjus, jų tėvus (globėjus, rūpintojus) ir mokytojus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2846, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12740
  
-
-
-
-
-3. Specialioji pagalba mokiniui, kuriam jos reikia, teikiama mokykloje. Jam teikiamos žodinės kalbos vertimo į gestų kalbą, teksto skaitymo ir konspektavimo bei kitos paslaugos, didinančios ugdymosi prieinamumą. Specialiosios pagalbos teikimo mokyklose (išskyrus aukštąsias mokyklas) tvarką nustato švietimo, mokslo ir sporto ministras. Aukštojoje mokykloje specialioji pagalba teikiama aukštosios mokyklos nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
- 
-
-
-
-
-4. Pedagoginėse psichologinėse tarnybose, mokyklose dirbantys specialieji pedagogai, logopedai, tiflopedagogai, surdopedagogai ir kiti specialistai konsultuoja specialiosios pedagoginės pagalbos gavėjus, jų tėvus (globėjus, rūpintojus) ir mokytojus.
-Straipsnio dalies pakeitimai:
-Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
- 
-
-
 
 
 
@@ -5655,3 +5642,8 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 39 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2678, 2024-06-06, paskelbta TAR 2024-06-07, i. k. 2024-10552
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 41, 42 ir 43 straipsnių pakeitimo įstatymas
+ 
+60.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2846, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12740
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir 36 straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymo Nr. XIII-3268 3 ir 9 straipsnių pakeitimo įstatymas
