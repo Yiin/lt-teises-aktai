@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4961DA7FA79F"
 
 # Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-07-09
+Suvestinė redakcija nuo 2024-07-10 iki 2025-07-23
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 56-1977, i. k. 1011010ISTA00IX-378
  
@@ -929,10 +929,25 @@ Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 
 
-4) Lietuvos Respublikoje įvykusio eismo įvykio metu žala padaryta transporto priemone, kurios įprastinė buvimo vieta yra užsienio valstybės teritorijoje, kai nepavyksta nustatyti Europos Sąjungos valstybės narės draudimo įmonės, kuri apdraudė šios transporto priemonės valdytojo civilinę atsakomybę.
+4) Lietuvos Respublikoje įvykusio eismo įvykio metu žala padaryta transporto priemone, kurios įprastinė buvimo vieta yra užsienio valstybės teritorijoje, kai nepavyksta nustatyti Europos Sąjungos valstybės narės draudimo įmonės, kuri apdraudė šios transporto priemonės valdytojo civilinę atsakomybę;
+
+
+
+
+5) kaltininko civilinę atsakomybę pagal kitos Europos Sąjungos valstybės narės transporto priemonių valdytojų civilinės atsakomybės privalomąjį draudimą reglamentuojančius teisės aktus tiesiogiai ar per filialą apdraudė šio įstatymo 17 straipsnio 1 dalies 3 punkte nurodyta Lietuvos Respublikoje įsteigta draudimo įmonė. 
+Papildyta straipsnio punktu:
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
  
 
 
+
+
+
+
+7. Kai kitos Europos Sąjungos valstybės narės institucija, atsakinga už žalos atlyginimą, kai draudimo įmonė bankrutuoja ar likviduojama, atlygino žalą už atsakingą bankrutuojantį ar likviduojamą Lietuvos Respublikoje įsteigtą draudiką, Biuras privalo išmokėti šiai institucijai jos reikalaujamą sumą, sumokėtą nukentėjusiam trečiajam asmeniui, ir nustatytą atlygį už žalos administravimą ne vėliau kaip per 6 mėnesius nuo reikalavimo atlyginti šias sumas gavimo dienos, išskyrus atvejus, kai Biuro ir žalą atlyginusios institucijos sudarytuose susitarimuose nustatyti kiti terminai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
+ 
 
 
 
@@ -980,7 +995,15 @@ Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 
 
-2) per 2 mėnesius nuo eismo įvykio dienos neįmanoma nustatyti transporto priemonės, kuria padaryta žala, jeigu pagal valstybės, kurioje įvyko eismo įvykis, teisės aktus tokia žala yra atlyginama.
+2) per 2 mėnesius nuo eismo įvykio dienos neįmanoma nustatyti transporto priemonės, kuria padaryta žala, jeigu pagal valstybės, kurioje įvyko eismo įvykis, teisės aktus tokia žala yra atlyginama;
+
+
+
+
+3) kitoje Europos Sąjungos valstybėje narėje įsteigtai (registruotai) kaltininko civilinę atsakomybę apdraudusiai draudimo įmonei yra iškelta bankroto byla ar pradėta likvidavimo procedūra ir draudimo įmonė nėra paskyrusi savo atstovo pretenzijoms dėl padarytos žalos nagrinėti. 
+Papildyta straipsnio punktu:
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
+ 
 
 
 
@@ -1135,6 +1158,13 @@ Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 
 9. Šio įstatymo 22 straipsnyje nurodytais atvejais bankrutuojantis draudikas turi teisę reikalauti iš šio įstatymo 22 straipsnyje nurodytų asmenų grąžinti Biuro pagal šį straipsnį dėl padarytos žalos sumokėtas sumas.
+
+
+
+
+10. Atliekant veiksmus, susijusius su išmokos mokėjimu už draudikus, kurie atitinka šio įstatymo 17 straipsnio 1 dalies 3 punkte nustatytus kriterijus, Biuras bendradarbiauja su visomis suinteresuotomis šalimis, įskaitant bankrutuojantį ar likviduojamą draudiką, nemokumo administratorių, kitos Europos Sąjungos valstybės narės institucijas, atsakingas už žalos atlyginimą, kai draudimo įmonė bankrutuoja ar likviduojama, valstybinėmis įstaigomis, institucijomis. Bendradarbiavimas apima informacijos prašymą, jos gavimą ir teikimą, įskaitant informaciją apie konkrečius reikalavimus atlyginti žalą. Analogiški bendradarbiavimo principai taikomi ir kai atliekami veiksmai, susiję su išmokos mokėjimu, kai bankrutuoja ar likviduojama kitos Europos Sąjungos valstybės narės draudimo įmonė. Kai už bankrutuojantį ar likviduojamą draudiką yra atsakinga kitos Europos Sąjungos valstybės narės institucija, atsakinga už žalos atlyginimą, kai draudimo įmonė bankrutuoja ar likviduojama, Biuras, išmokėjęs išmoką, perimtas nukentėjusio trečiojo asmens teises kaltininko ar jo draudimo įmonės atžvilgiu perduoda šiai institucijai, kad ji galėtų įgyvendinti subrogacijos teisę. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
  
 
 
@@ -1270,7 +1300,15 @@ Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 
 
-4) garantinį fondą kitoje Europos Sąjungos valstybėje narėje, kurioje įvyko eismo įvykis, – kai žala padaryta transporto priemone, kurios įprastinė buvimo vieta yra užsienio valstybėje.
+4) garantinį fondą kitoje Europos Sąjungos valstybėje narėje, kurioje įvyko eismo įvykis, – kai žala padaryta transporto priemone, kurios įprastinė buvimo vieta yra užsienio valstybėje;
+
+
+
+
+5) kitos Europos Sąjungos valstybės narės instituciją, atsakingą už žalos atlyginimą, kai draudimo įmonė bankrutuoja ar likviduojama, – kai žala padaryta transporto priemone, apdrausta draudimo įmonėje, kuriai iškelta bankroto byla ar pradėta likvidavimo procedūra ir kurios pagrindinė buveinė yra ne Lietuvos Respublikoje. 
+Papildyta straipsnio punktu:
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
+ 
 
 
 
@@ -1298,6 +1336,13 @@ Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
 
 
 8. Biuras, sumokėjęs išmoką nukentėjusiam trečiajam asmeniui vadovaudamasis šio įstatymo 1 straipsnio 3 dalimi, turi teisę dėl išmokėtų sumų, žalai administruoti išleistų lėšų grąžinimo ir dėl to patirtų papildomų išlaidų atlyginimo kreiptis tik į renginio organizatorių.
+
+
+
+
+9. Biuras, sumokėjęs išmoką nukentėjusiems tretiesiems asmenims pagal šio įstatymo 17 straipsnio 3 dalies 2 punktą, turi teisę dėl išmokėtų sumų, žalai administruoti išleistų lėšų grąžinimo ir dėl to patirtų papildomų išlaidų atlyginimo kreiptis į kitos Europos Sąjungos valstybės narės instituciją, atsakingą už žalos atlyginimą, kai draudimo įmonė bankrutuoja ar likviduojama. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
  
 
 
@@ -1370,6 +1415,14 @@ Biuras atlieka šias funkcijas:
 
 
 8) vadovaudamasis Bendradarbiavimo nuostatais, skiria ir atšaukia užsienio valstybių draudimo įmonių atstovus pretenzijoms dėl padarytos žalos nagrinėti Lietuvos Respublikoje, tvarko ir teikia duomenis apie draudimo įmonių atstovus pretenzijoms dėl padarytos žalos nagrinėti;
+
+
+
+
+81) raštu informuoja apie draudikui iškeltą bankroto bylą arba priimtą sprendimą pradėti likvidavimo procedūrą dėl bankroto kitų Europos Sąjungos valstybių narių garantinius fondus ir žalos atlyginimo institucijas, atsakingas už žalos atlyginimą, kai draudimo įmonė bankrutuoja ar likviduojama; 
+Papildyta straipsnio punktu:
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
+ 
 
 
 
