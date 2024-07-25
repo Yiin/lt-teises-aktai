@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2022-12-01 iki 2024-07-24
+Suvestinė redakcija nuo 2024-07-25 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7759, i. k. 1111010ISTA0XI-1868
  
@@ -45,7 +45,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato asmenis, turinčius teisę leisti elektroninius pinigus Lietuvos Respublikoje, elektroninių pinigų leidimo ir išpirkimo sąlygas, elektroninių pinigų įstaigų ir užsienio valstybių elektroninių pinigų įstaigų filialų licencijavimo, veiklos, jų pabaigos ir veiklos priežiūros tvarką, kad elektroninių pinigų įstaigų sistema būtų stabili, patikima, veiksminga ir saugi.
+1. Šis įstatymas nustato asmenis, turinčius teisę leisti elektroninius pinigus, įskaitant elektroninių pinigų žetonus, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 7 punkte, Lietuvos Respublikoje, elektroninių pinigų leidimo ir išpirkimo sąlygas, elektroninių pinigų įstaigų ir užsienio valstybių elektroninių pinigų įstaigų filialų licencijavimo, veiklos, jų pabaigos ir veiklos priežiūros tvarką, kad elektroninių pinigų įstaigų sistema būtų stabili, patikima, veiksminga ir saugi.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
+ 
 
 
 
@@ -81,7 +84,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Elektroninių pinigų įstaiga – akcinė bendrovė arba uždaroji akcinė bendrovė, kuriai išduota elektroninių pinigų įstaigos licencija ar elektroninių pinigų įstaigos ribotos veiklos licencija, kuria suteikiama teisė leisti elektroninius pinigus Lietuvos Respublikoje ir (ar) kitose valstybėse narėse (toliau, kai šiame įstatyme kalbama apie elektroninių pinigų įstaigos licenciją ir elektroninių pinigų įstaigos ribotos veiklos licenciją kartu, vartojama sąvoka „licencija“).
+2. Elektroninių pinigų įstaiga – akcinė bendrovė arba uždaroji akcinė bendrovė, kuriai išduota elektroninių pinigų įstaigos licencija ar elektroninių pinigų įstaigos ribotos veiklos licencija, kuria suteikiama teisė leisti elektroninius pinigus, įskaitant elektroninių pinigų žetonus, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 7 punkte, Lietuvos Respublikoje ir (ar) kitose valstybėse narėse (toliau, kai šiame įstatyme kalbama apie elektroninių pinigų įstaigos licenciją ir elektroninių pinigų įstaigos ribotos veiklos licenciją kartu, vartojama sąvoka „licencija“).
+Straipsnio dalies pakeitimai:
+Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
+ 
 
 
 
@@ -411,7 +417,15 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 
-5) keisti valiutą (grynaisiais pinigais).
+5) keisti valiutą (grynaisiais pinigais);
+
+
+
+
+6) leisti elektroninių pinigų žetonus, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 7 punkte, Reglamento (ES) 2023/1114 IV antraštinėje dalyje nustatyta apimtimi ir tvarka. 
+Papildyta straipsnio punktu:
+Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
+ 
 
 
 
@@ -512,7 +526,10 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 
-7) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos) siekiant atlikti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentą (ES) Nr. 2015/847 dėl informacijos, teikiamos pervedant lėšas, ir kuriuo panaikinamas Reglamentas (EB) Nr. 1781/2006 (OL 2015 L 141, p. 1) (toliau – Reglamentas (ES) Nr. 2015/847), aprašymą;
+7) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos) siekiant atlikti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentą (ES) 2023/1113 dėl informacijos, teikiamos pervedant lėšas ir tam tikrą kriptoturtą, kuriuo iš dalies keičiama Direktyva (ES) 2015/849, aprašymą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
+ 
 
 
 
@@ -699,7 +716,10 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 
-5) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos) siekiant atlikti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir Reglamentą (ES) Nr. 2015/847, aprašymą;
+5) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos) siekiant atlikti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir Reglamentą (ES) 2023/1113, aprašymą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
+ 
 
 
 
@@ -1790,7 +1810,10 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 
-5. Vykdydama savo funkcijas, susijusias su Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo ir Reglamento (ES) Nr. 2015/847 nuostatų taikymu, ir vadovaudamasi šio straipsnio nuostatomis, priežiūros institucija turi teisę savo iniciatyva patikrinti kitos valstybės narės elektroninių pinigų įstaigos filialą, tarpininką, fizinį ar juridinį asmenį, per kurį kitos valstybės narės elektroninių pinigų įstaiga platina ir išperka elektroninius pinigus, ir kitą asmenį, kuriam perduotas veiklos funkcijų vykdymas, Lietuvos Respublikoje.
+5. Vykdydama savo funkcijas, susijusias su Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo ir Reglamento (ES) 2023/1113 nuostatų taikymu, ir vadovaudamasi šio straipsnio nuostatomis, priežiūros institucija turi teisę savo iniciatyva patikrinti kitos valstybės narės elektroninių pinigų įstaigos filialą, tarpininką, fizinį ar juridinį asmenį, per kurį kitos valstybės narės elektroninių pinigų įstaiga platina ir išperka elektroninius pinigus, ir kitą asmenį, kuriam perduotas veiklos funkcijų vykdymas, Lietuvos Respublikoje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
+ 
 
 
 
@@ -2405,3 +2428,13 @@ Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1479, 2022-11-03, paskelbta TAR 2022-11-17, i. k. 2022-23198
 Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 25 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2714, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11237
+Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 15, 39 ir 43 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
+Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 1, 2, 12, 13, 14 ir 35 straipsnių pakeitimo įstatymas
