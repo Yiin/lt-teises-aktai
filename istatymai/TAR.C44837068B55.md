@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-07-24
+Suvestinė redakcija nuo 2024-07-25 iki 2024-07-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -398,7 +398,9 @@ Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
 
 
 
-171. Pirminis virtualiosios valiutos siūlymas (ICO) – Lietuvos Respublikoje įsteigto juridinio asmens ar Lietuvos Respublikoje įsteigto Europos Sąjungos valstybės narės ar užsienio valstybės juridinio asmens filialo pirmą kartą tiesiogiai ar per tarpininką vykdomas siūlymas jo virtualiąją valiutą įsigyti už lėšas arba kitą virtualiąją valiutą siekiant pritraukti kapitalo ar investicijų. 
+171. Neteko galios nuo 2024-07-25
+Straipsnio dalies naikinimas:
+Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 Papildyta straipsnio dalimi:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
  
@@ -893,9 +895,10 @@ Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 Finansinių nusikaltimų tyrimo tarnyba turi teisę:
 
 
-1) gauti iš šio įstatymo 4 straipsnio 1–8 dalyse nurodytų institucijų, kitų valstybės institucijų (toliau šiame straipsnyje – institucijos), finansų įstaigų, kitų įpareigotųjų subjektų, išskyrus advokatus ar advokatų padėjėjus, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese arba dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo, pirminį virtualiosios valiutos siūlymą (ICO) vykdančių asmenų savo funkcijoms atlikti reikalingus duomenis ir dokumentus apie pinigines operacijas ar operacijas virtualiąja valiuta ir sandorius, kitą informaciją, reikalingą šio įstatymo nustatytoms funkcijoms ir uždaviniams vykdyti; 
+1) gauti iš šio įstatymo 4 straipsnio 1–8 dalyse nurodytų institucijų, kitų valstybės institucijų (toliau šiame straipsnyje – institucijos), finansų įstaigų, kitų įpareigotųjų subjektų, išskyrus advokatus ar advokatų padėjėjus, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese ar dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo, reikalingus duomenis ir dokumentus apie pinigines operacijas ar operacijas virtualiąja valiuta ir sandorius, kitą informaciją, reikalingą šio įstatymo nustatytoms funkcijoms ir uždaviniams vykdyti; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
  
 
 
@@ -1322,113 +1325,17 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-161. Virtualiųjų valiutų keityklos operatorius ir depozitinių virtualiųjų valiutų piniginių operatorius, siekdami nustatyti įtartinas pinigines operacijas ar sandorius ir prireikus imtis priemonių, atlikdami virtualiosios valiutos keitimo, pervedimo ar kitokią operaciją, privalo rinkti, saugoti ir perduoti operacijos gavėjo virtualiųjų valiutų keityklos operatoriui, depozitinių virtualiųjų valiutų piniginių operatoriui arba finansų įstaigai šią informaciją:
+161. Neteko galios nuo 2024-07-25
+Straipsnio dalies naikinimas:
+Nr. XIV-2884, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13493
+ 
 
 
-1) informaciją apie operacijos iniciatorių – fizinį asmenį:
 
 
-a) vardą (vardus), pavardę (pavardes);
-
-
-
-
-b) unikalų operacijos kodą;
-
-
-
-
-c) mokėjimo sąskaitos ar depozitinių virtualiųjų valiutų piniginių identifikacinius kodus;
-
-
-
-
-d) tapatybę patvirtinančio dokumento rūšį, jo numerį;
-
-
-
-
-e) asmens kodą (užsieniečio – gimimo datą, jeigu yra, – asmens kodą ar kitą šiam asmeniui suteiktą unikalią simbolių seką, skirtą asmeniui identifikuoti) ir pilietybę (jeigu asmuo be pilietybės, nurodyti valstybę, kuri išdavė asmens tapatybę patvirtinantį dokumentą);
-
-
-
-
-f) gyvenamosios vietos adresą;
-
-
-
-
-
-
-2) informaciją apie operacijos iniciatorių – juridinį asmenį:
-
-
-a) pavadinimą;
-
-
-
-
-b) unikalų operacijos kodą;
-
-
-
-
-c) mokėjimo sąskaitos ar depozitinių virtualiųjų valiutų piniginių identifikacinius kodus;
-
-
-
-
-d) kodą (jeigu kodas nesuteiktas, – registracijos išrašą);
-
-
-
-
-e) buveinės adresą;
-
-
-
-
-
-
-3) informaciją apie operacijos gavėją – fizinį asmenį:
-
-
-a) vardą (vardus), pavardę (pavardes);
-
-
-
-
-b) asmens kodą (užsieniečio – gimimo datą, jeigu yra, – asmens kodą ar kitą šiam asmeniui suteiktą unikalią simbolių seką, skirtą asmeniui identifikuoti);
-
-
-
-
-c) mokėjimo sąskaitos ar depozitinių virtualiųjų valiutų piniginių identifikacinius kodus;
-
-
-
-
-
-
-4) informaciją apie operacijos gavėją – juridinį asmenį:
-
-
-a) pavadinimą;
-
-
-
-
-b) kodą (jeigu kodas suteiktas);
-
-
-
-
-c) mokėjimo sąskaitos ar depozitinių virtualiųjų valiutų piniginių identifikacinius kodus. 
-TAR pastaba. 9 straipsnio 161 dalis įsigalioja 2025-01-01.
-
-
-
-
+162. Neteko galios nuo 2024-07-25
+Straipsnio dalies naikinimas:
+Nr. XIV-2884, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13493
 Papildyta straipsnio dalimi:
 Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
  
@@ -1436,17 +1343,9 @@ Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
 
 
 
-162. Operaciją inicijuojantis virtualiųjų valiutų keityklos operatorius ar depozitinių virtualiųjų valiutų piniginių operatorius, perduodamas operacijos gavėjo virtualiųjų valiutų keityklos operatoriui, depozitinių virtualiųjų valiutų piniginių operatoriui arba finansų įstaigai nurodymą atlikti operaciją, kartu perduoda šio straipsnio 161 dalyje nurodytą informaciją. 
-TAR pastaba. 9 straipsnio 162 dalis įsigalioja 2025-01-01.
-Papildyta straipsnio dalimi:
-Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
- 
-
-
-
-
-163. Virtualiųjų valiutų keityklos operatorius ar depozitinių virtualiųjų valiutų piniginių operatorius negali priimti operacijos iš kito virtualiųjų valiutų keityklos operatoriaus ar depozitinių virtualiųjų valiutų piniginių operatoriaus, jeigu šis nesilaiko reikalavimo perduoti šio straipsnio 161 dalyje nurodytą informaciją. 
-TAR pastaba. 9 straipsnio 16 3dalis įsigalioja 2025-01-01.
+163. Neteko galios nuo 2024-07-25
+Straipsnio dalies naikinimas:
+Nr. XIV-2884, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13493
 Papildyta straipsnio dalimi:
 Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
  
@@ -3139,64 +3038,9 @@ Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
 
 
 
-31. Virtualiųjų valiutų keityklos operatoriaus ir depozitinių virtualiųjų valiutų piniginių operatoriaus valdymo, priežiūros organų nariu, naudos gavėju negali būti fizinis asmuo, kuris yra:
-
-
-1) pripažintas kaltu padaręs Lietuvos Respublikos baudžiamajame kodekse numatytą sunkų arba labai sunkų nusikaltimą ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus, neatsižvelgiant į tai, ar asmens teistumas yra išnykęs, ar panaikintas;
-
-
-
-
-2) pripažintas kaltu padaręs Baudžiamajame kodekse numatytą nesunkų arba apysunkį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, visuomenės saugumui ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 5 metai;
-
-
-
-
-3) pripažintas kaltu padaręs kitą, negu nurodyta šios dalies 1 ir 2 punktuose, Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai. 
-
-
-Papildyta straipsnio dalimi:
-Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
- 
-
-
-
-
 4. Juridinis asmuo, pradėjęs vykdyti virtualiųjų valiutų keityklos operatoriaus ar depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą ar ją nutraukęs, ne vėliau kaip per 5 darbo dienas nuo veiklos pradžios ar pabaigos privalo informuoti Juridinių asmenų registro tvarkytoją apie virtualiųjų valiutų keityklos operatoriaus ar depozitinių virtualiųjų valiutų piniginių operatoriaus paslaugų teikėjo veiklos vykdymą ar tokios veiklos vykdymo pabaigą. Pateikdamas šią informaciją, virtualiųjų valiutų keityklos operatorius ar depozitinių virtualiųjų valiutų piniginių operatorius patvirtina, kad jis pats ar jo valdymo ar priežiūros organų nariai ir naudos gavėjai yra susipažinę su pinigų plovimą ir teroristų finansavimo prevenciją reglamentuojančiais teisės aktais ir atitinka jų reikalavimus. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
- 
-
-
-
-
-5. Juridinis asmuo, pradėjęs vykdyti virtualiųjų valiutų keityklos operatoriaus ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą, privalo turėti vyresnįjį vadovą, kuris būtų nuolatinis Lietuvos gyventojas, kaip jis suprantamas pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą. 
-Papildyta straipsnio dalimi:
-Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
- 
-
-
-
-
-6. Lietuvos Respublikoje įsteigtas juridinis asmuo, kurio teisinė forma yra akcinė bendrovė arba uždaroji akcinė bendrovė, ketinantis vykdyti virtualiųjų valiutų keityklos operatoriaus ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą, privalo turėti įregistruotą įstatinį kapitalą, kuris turi būti ne mažesnis kaip 125 000 eurų. Kitos teisinės formos Lietuvos Respublikoje įsteigtas juridinis asmuo arba Europos Sąjungos valstybės narės ar užsienio valstybės juridinio asmens filialas, ketinantis vykdyti virtualiųjų valiutų keityklos operatoriaus ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą, privalo turėti draudimo įmonės išduotą prievolių įvykdymo laidavimo draudimo arba finansų įstaigos laidavimo ar garantijos dokumentą dėl ne mažesnės kaip 100 000 eurų sumos vienai kliento pretenzijai dėl nuostolių atlyginimo ir 500 000 eurų sumos visoms klientų pretenzijoms dėl nuostolių atlyginimo per metus. 
-Papildyta straipsnio dalimi:
-Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
- 
-
-
-
-
-7. Pagal šio įstatymo 22 straipsnio 1 dalį paskirti virtualiųjų valiutų keityklos operatoriaus ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriaus vadovaujantieji darbuotojai negali tuo pačiu metu atstovauti daugiau kaip vienam virtualiųjų valiutų keityklos operatoriui ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriui, išskyrus atvejus, kai tie operatoriai priklauso vienai įmonių grupei. 
-Papildyta straipsnio dalimi:
-Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
- 
-
-
-
-
-8. Virtualiųjų valiutų keityklos operatorius ir (ar) depozitinių virtualiųjų valiutų piniginių operatorius privalo nevykdyti veiklos ir neteikti paslaugų kitoje valstybėje tokiu mastu, kad Lietuvos Respublikoje liktų tik neesminės pagal jų veiklos pobūdį funkcijos ar paslaugos ir jos būtų atliekamos ar teikiamos išimtinai tik kitos valstybės klientams ar iš esmės veiklos Lietuvos Respublikoje jie nebevykdytų.
-Papildyta straipsnio dalimi:
-Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
  
 
 
@@ -3207,29 +3051,9 @@ Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
 
 
 
-251 straipsnis. Reikalavimai pirminį virtualiosios valiutos siūlymą (ICO) vykdantiems asmenims
-
-
-1. Pirminį virtualiosios valiutos siūlymą (ICO) vykdantys asmenys privalo nustatyti ir patikrinti asmens, įsigyjančio virtualiąją valiutą, ir naudos gavėjo tapatybę šio įstatymo 9–15 straipsniuose nustatyta tvarka prieš atlikdami vienkartines ar kelias tarpusavyje susijusias pinigines operacijas ar operacijas virtualiąja valiuta arba sudarydami sandorius, kurių suma lygi arba viršija 3 000 eurų ar ją atitinkančią sumą virtualiąja valiuta (virtualiosios valiutos vertė nustatoma operacijos atlikimo ar sandorio sudarymo momentu), nesvarbu, ar sandoris sudaromas atliekant vieną ar kelias tarpusavyje susijusias pinigines operacijas, taip pat imtis reikiamų priemonių turto ir lėšų, susijusių su dalykiniais santykiais arba sandoriu, šaltiniui nustatyti.
-
-
-
-
-2. Pirminį virtualiosios valiutos siūlymą (ICO) vykdantys asmenys privalo Finansinių nusikaltimų tyrimo tarnybos reikalavimu pateikti prašomą informaciją per 7 darbo dienas nuo prašymo gavimo momento. Jeigu Finansinių nusikaltimų tyrimo tarnybos reikalavime pateikti prašomą informaciją motyvuotai nustatytas trumpesnis informacijos pateikimo terminas, pirminį virtualiosios valiutos siūlymą (ICO) vykdantys asmenys privalo šią informaciją pateikti per Finansinių nusikaltimų tyrimo tarnybos reikalavime pateikti prašomą informaciją nustatytą informacijos pateikimo terminą.
-
-
-
-
-3. Pirminį virtualiosios valiutos siūlymą (ICO) vykdantiems asmenims ir jų darbuotojams draudžiama pranešti klientui ar kitiems asmenims, kad informacija apie kliento atliekamas pinigines operacijas arba sudaromus sandorius ar bet kokia kita informacija pateikta Finansinių nusikaltimų tyrimo tarnybai arba kitai priežiūros institucijai. 
-
-
-
-
-4. Pirminį virtualiosios valiutos siūlymą (ICO) vykdantys asmenys šio straipsnio 2 dalyje nurodytų asmenų tapatybę patvirtinančių dokumentų kopijas, naudos gavėjo tapatybės duomenis, tiesioginio vaizdo perdavimo (tiesioginės vaizdo transliacijos) įrašus, kitus duomenis, gautus asmens, įsigyjančio virtualiąją valiutą, tapatybės nustatymo metu, sąskaitų ir (ar) sutarčių dokumentus (dokumentų originalus) bei piniginės operacijos, operacijos virtualiąja valiuta ar sandorio patvirtinimo dokumentus ir duomenis ar kitus teisinę galią turinčius dokumentus ir duomenis, susijusius su piniginių operacijų, operacijų virtualiąja valiuta atlikimu ar sandorių sudarymu, turi saugoti 8 metus nuo sandorio su asmeniu, įsigyjančiu virtualiąją valiutą, pabaigos dienos. 
-
-
-Papildyta straipsniu:
-Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+251 straipsnis. Neteko galios nuo 2024-07-25
+Straipsnio naikinimas:
+Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
  
 
 
@@ -5028,3 +4852,13 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 9, 10, 11, 15, 16, 21, 22, 23, 25, 29, 36, 39, 40, 48, 49 straipsnių pakeitimo ir Įstatymo papildymo 15-1, 15-2, 46-1 straipsniais įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2884, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13493
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 9, 25 straipsnių pakeitimo ir įstatymo papildymo 25-3 straipsniu įstatymo Nr. XIV-1374 2 ir 5 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 7, 9, 14, 19, 20, 22, 25, 29, 36, 49, 51 straipsnių, priedo pakeitimo, Įstatymo papildymo 36-1 straipsniu ir 25-1, 25-3 straipsnių pripažinimo netekusiais galios įstatymas
