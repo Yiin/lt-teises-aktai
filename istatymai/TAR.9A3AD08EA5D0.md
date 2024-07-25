@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-07-09 iki 2024-07-24
+Suvestinė redakcija nuo 2024-07-25 iki 2024-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -5647,3 +5647,18 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 41, 42 ir 43 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2846, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12740
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir 36 straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymo Nr. XIII-3268 3 ir 9 straipsnių pakeitimo įstatymas
+ 
+61.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2847, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12156
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 28 ir 29 straipsnių pakeitimo įstatymas
+ 
+62.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2864, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12649
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 68 straipsnio pakeitimo įstatymas
+ 
+63.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2933, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13520
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymo Nr. XIV-1726 36 straipsnio pakeitimo įstatymas
