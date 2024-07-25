@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2024-07-02 iki 2024-07-24
+Suvestinė redakcija nuo 2024-07-25 iki 2024-11-30
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -259,7 +259,9 @@ UŽIMTUMO FORMOS IR JŲ SISTEMA
 
 
 
-9) dėl asmenų, atlygintinai einančių narystės pagrindu renkamąsias pareigas ar paskirtų į apygardų, savivaldybių rinkimų, apylinkių rinkimų komisijas, į savivaldybių referendumo komisijas, apylinkių referendumo komisijas, tarnybos susiklostantys teisiniai santykiai, kurių ypatumus nustato Lietuvos Respublikos rinkimų kodeksas ir Lietuvos Respublikos referendumo konstitucinis įstatymas;
+9) Neteko galios nuo 2024-07-25
+Straipsnio punkto naikinimas:
+Nr. XIV-2901, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13509
 Straipsnio punkto pakeitimai:
 Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
@@ -5025,3 +5027,13 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 24 straipsnio pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2785, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11779
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 16, 30-1 ir 57 straipsnių pakeitimo įstatymas
+ 
+39.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2867, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12653
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 6 straipsnio pakeitimo įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2901, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13509
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 4 straipsnio pakeitimo įstatymas
