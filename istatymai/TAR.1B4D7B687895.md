@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-07-24
+Suvestinė redakcija nuo 2024-07-25 iki 2024-07-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1370,7 +1370,7 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą
 
 
-1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, Europos asmeninės pensijos produkto teikėjai ir Europos asmeninės pensijos produkto platintojai, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, profesinių pensijų asociacijos (toliau – pensijų asociacijos), pensijų anuitetų mokėtojai, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo paslaugų teikėjai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos ir valiutos keityklų operatoriai, mišrios veiklos finansų kontroliuojančiosios įmonės, įsteigtos Lietuvos Respublikoje, finansų kontroliuojančiosios bendrovės, įsteigtos Lietuvos Respublikoje, pagrindinės sandorio šalys, padengtųjų obligacijų bendrovės, pakeitimo vertybiniais popieriais bendrovės ir pakeitimo vertybiniais popieriais iniciatoriai, pakeitimo vertybiniais popieriais rėmėjai, pirminiai skolintojai ir trečiosios šalys, tikrinančios pakeitimo vertybiniais popieriais atitiktį paprastiems, skaidriems ir standartizuotiems kriterijams (toliau – PSS kriterijai).
+1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, Europos asmeninės pensijos produkto teikėjai ir Europos asmeninės pensijos produkto platintojai, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, profesinių pensijų asociacijos (toliau – pensijų asociacijos), pensijų anuitetų mokėtojai, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo paslaugų teikėjai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos ir valiutos keityklų operatoriai, mišrios veiklos finansų kontroliuojančiosios įmonės, įsteigtos Lietuvos Respublikoje, finansų kontroliuojančiosios bendrovės, įsteigtos Lietuvos Respublikoje, pagrindinės sandorio šalys, padengtųjų obligacijų bendrovės, pakeitimo vertybiniais popieriais bendrovės ir pakeitimo vertybiniais popieriais iniciatoriai, pakeitimo vertybiniais popieriais rėmėjai, pirminiai skolintojai ir trečiosios šalys, tikrinančios pakeitimo vertybiniais popieriais atitiktį paprastiems, skaidriems ir standartizuotiems kriterijams (toliau – PSS kriterijai), su turtu susietų žetonų emitentai, elektroninių pinigų žetonų emitentai. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 Nr. XIII-2852, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08966
@@ -1379,6 +1379,7 @@ Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
 Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
 Nr. XIV-1461, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22572
+Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
  
 
 
@@ -1387,7 +1388,10 @@ Nr. XIV-1461, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22572
 2. Lietuvos bankas, prižiūrėdamas, kaip prižiūrimi finansų rinkos dalyviai laikosi finansų rinką reglamentuojančiuose teisės aktuose nustatytų reikalavimų: 
 
 
-1) atlieka bankų, užsienio valstybių bankų filialų, įsteigtų Lietuvos Respublikoje, centrinių kredito unijų, kredito unijų priežiūrą ir kitas Lietuvos Respublikos bankų įstatymo, Lietuvos Respublikos centrinių kredito unijų įstatymo ir Lietuvos Respublikos kredito unijų įstatymo Lietuvos bankui priskirtas funkcijas;
+1) atlieka bankų, užsienio valstybių bankų filialų, įsteigtų Lietuvos Respublikoje, centrinių kredito unijų, kredito unijų priežiūrą ir kitas Lietuvos Respublikos bankų įstatymo, Lietuvos Respublikos centrinių kredito unijų įstatymo, Lietuvos Respublikos kredito unijų įstatymo ir, kiek tai susiję su bankų, centrinių kredito unijų teise leisti elektroninių pinigų žetonus ar su turtu susijusius žetonus, Reglamento (ES) 2023/1114 Lietuvos bankui priskirtas funkcijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
+ 
 
 
 
@@ -1397,7 +1401,10 @@ Nr. XIV-1461, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22572
 
 
 
-3) atlieka elektroninių pinigų įstaigų, elektroninių pinigų įstaigų tarpininkų ir užsienio valstybių elektroninių pinigų įstaigų filialų, įsteigtų Lietuvos Respublikoje, priežiūrą ir kitų įstatymų, reglamentuojančių šių subjektų veiklą, Lietuvos bankui priskirtas funkcijas; 
+3) atlieka elektroninių pinigų įstaigų, elektroninių pinigų įstaigų tarpininkų ir užsienio valstybių elektroninių pinigų įstaigų filialų, įsteigtų Lietuvos Respublikoje, priežiūrą, kiek tai susiję su elektroninių pinigų įstaigų teise leisti elektroninių pinigų žetonus, ir Reglamento (ES) 2023/1114 ir įstatymų, reglamentuojančių šių subjektų veiklą, Lietuvos bankui priskirtas funkcijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
+ 
 
 
 
@@ -1486,9 +1493,17 @@ Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 
 
 
-16) atlieka padengtųjų obligacijų bendrovių, pakeitimo vertybiniais popieriais bendrovių ir pakeitimo vertybiniais popieriais iniciatorių, pakeitimo vertybiniais popieriais rėmėjų, pirminių skolintojų ir trečiųjų šalių, tikrinančių pakeitimo vertybiniais popieriais atitiktį PSS kriterijams, priežiūrą ir kitas Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme Lietuvos bankui priskirtas funkcijas. 
+16) atlieka padengtųjų obligacijų bendrovių, pakeitimo vertybiniais popieriais bendrovių ir pakeitimo vertybiniais popieriais iniciatorių, pakeitimo vertybiniais popieriais rėmėjų, pirminių skolintojų ir trečiųjų šalių, tikrinančių pakeitimo vertybiniais popieriais atitiktį PSS kriterijams, priežiūrą ir kitas Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme Lietuvos bankui priskirtas funkcijas;
 Papildyta straipsnio punktu:
 Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
+ 
+
+
+
+
+17) atlieka su turtu susietų žetonų emitentų, elektroninių pinigų žetonų emitentų priežiūrą, kaip tai nustatyta Lietuvos Respublikos kriptoturto rinkų įstatyme ir Reglamente (ES) 2023/1114. 
+Papildyta straipsnio punktu:
+Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
  
 
 
@@ -2384,7 +2399,9 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 437 straipsnis. Pranešimas apie pažeidimus
 
 
-Lietuvos Respublikos pranešėjų apsaugos įstatymas ir Lietuvos bankas nustato priemones, kurios skatintų pranešti apie finansų rinką reglamentuojančių teisės aktų, įskaitant Reglamentą (ES) Nr. 575/2013, Reglamentą (ES) Nr. 600/2014, Reglamentą (ES) Nr. 909/2014, Reglamentą (ES) Nr. 596/2014, Reglamentą (ES) Nr. 1286/2014, Reglamentą (ES) 2017/1129, 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos Reglamentą (ES) 2019/2033 dėl riziką ribojančių reikalavimų investicinėms įmonėms, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 575/2013, (ES) Nr. 600/2014 ir (ES) Nr. 806/2014, ar jų įgyvendinamuosius teisės aktus, nuostatų pažeidimą. Šios priemonės turi atitikti šiuos reikalavimus:
+Lietuvos Respublikos pranešėjų apsaugos įstatymas ir Lietuvos bankas nustato priemones, kurios skatintų pranešti apie finansų rinką reglamentuojančių teisės aktų, įskaitant Reglamentą (ES) Nr. 575/2013, Reglamentą (ES) Nr. 600/2014, Reglamentą (ES) Nr. 909/2014, Reglamentą (ES) Nr. 596/2014, Reglamentą (ES) Nr. 1286/2014, Reglamentą (ES) 2017/1129, 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentą (ES) 2019/2033 dėl riziką ribojančių reikalavimų investicinėms įmonėms, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 575/2013, (ES) Nr. 600/2014 ir (ES) Nr. 806/2014, Reglamentą (ES) 2023/1114 ar jų įgyvendinamuosius teisės aktus, nuostatų pažeidimą. Šios priemonės turi atitikti šiuos reikalavimus: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
 
 
 1) numatytos specialios pranešimo apie minėtus pažeidimus gavimo ir vertinimo procedūros; 
@@ -2507,64 +2524,102 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 47 straipsnis. Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimas ne teismo tvarka
 
 
-1. Lietuvos bankas nagrinėja šio straipsnio 2 dalyje nurodytų vartotojų (toliau – vartotojai) ginčus su šio įstatymo 42 straipsnyje nurodytais finansų rinkos dalyviais ir kitais juridiniais asmenimis, kylančius iš finansinių ir (arba) papildomų investicinių paslaugų teikimo, iš draudimo paslaugų sutarties ar susijusius su ja, jeigu tokiai sutarčiai yra taikytina Lietuvos Respublikos teisė, taip pat vartotojų ginčus su kitais ūkio subjektais, kylančius dėl Lietuvos Respublikos mokėjimų įstatyme nustatytų reikalavimų laikymosi, kai ginčo nagrinėjimas Lietuvos bankui priskirtas finansų rinką reglamentuojančiuose įstatymuose. Lietuvos bankas taip pat nagrinėja vartotojų – Lietuvoje įsteigtų kolektyvinio investavimo subjektų, pensijų fondų dalyvių ginčus su šių subjektų ar fondų valdytojais, kylančius iš dalyvavimo atitinkamame subjekte ar fonde santykių, pensijų anuitetų gavėjų ginčus su pensijų anuitetų mokėtoju, kylančius iš pensijų anuitetų mokėjimo santykių, taip pat investuotojų ir emitentų, savo jėgomis vykdančių pirminę vertybinių popierių emisiją, ginčus, kylančius iš vertybinių popierių platinimo santykių. Šioje dalyje nurodytoms paslaugoms apibūdinti toliau šiame straipsnyje vartojama sąvoka „finansinės paslaugos“, o šių paslaugų teikėjams – „finansų rinkos dalyviai“. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2562, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20316
-Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
-Nr. XIII-2852, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08966
- 
+1. Lietuvos bankas nagrinėja šio straipsnio 5 dalyje nurodytų vartotojų (toliau – vartotojai) ginčus su šiais subjektais:
+
+
+1) šio įstatymo 42 straipsnyje nurodytais finansų rinkos dalyviais, taip pat juridiniais asmenimis, kurie turėjo teisę kaip šio įstatymo 42 straipsnyje nurodyti finansų rinkos dalyviai teikti licencines finansines ar draudimo paslaugas, tačiau ją prarado;
 
 
 
 
-2. Šiame straipsnyje vartotojas yra fizinis asmuo:
-
-
-1) sudarantis su finansų rinkos dalyviu finansinių paslaugų sutartį, išskyrus profesionaliuosius klientus ir informuotuosius investuotojus, asmeniniams, šeimos ar namų ūkio poreikiams tenkinti; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
- 
+2) šio įstatymo 42 straipsnyje nenurodytais, tačiau Lietuvos Respublikoje teisę teikti finansines ar draudimo paslaugas turinčiais subjektais, jeigu jie Lietuvos Respublikoje turi įgaliotus atstovus pretenzijoms nagrinėti. Su Lietuvos Respublikoje neįsisteigusiais transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo paslaugas teikiančiais, tačiau Lietuvos Respublikoje įgaliotus atstovus pretenzijoms nagrinėti turinčiais subjektais ginčai nagrinėjami tik tuo atveju, jeigu eismo įvykis įvyko Lietuvos Respublikoje;
 
 
 
 
-2) apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo ar kitas asmuo, jeigu finansinės paslaugos yra skirtos jų asmeniniams, šeimos ar namų ūkio poreikiams, o finansų rinkos dalyvis, sudarydamas sutartį, žinojo ar privalėjo žinoti apie finansinių paslaugų paskirtį; 
-
-
-
-
-3) kurio teisės ir pareigos finansų rinkos dalyvio atžvilgiu susijusios su finansinių paslaugų sutartimi, nepaisant to, kad jis nėra finansinių paslaugų sutarties šalis, jeigu esant santykių su finansų rinkos dalyviu toks asmuo nesiekia tikslų, susijusių su verslu ar profesine veikla.
+3) kitais subjektais dėl ginčų, nurodytų šio straipsnio 3 dalies 3 punkte.
 
 
 
 
 
 
-3. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo teises ar teisėtus interesus, atsirandančius iš sutarčių ar su jais susijusių santykių, turi teisę kreiptis į teismą arba į vartojimo ginčus ne teismo tvarka nagrinėjančią instituciją – Lietuvos banką. Vartotojo kreipimasis į Lietuvos banką neatima vartotojo teisės kreiptis į teismą.
+2. Šio straipsnio taikymo tikslais šio straipsnio 1 dalyje nurodyti subjektai toliau šiame straipsnyje vadinami finansų rinkos dalyviais.
 
 
 
 
-4. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo teises ar teisėtus interesus, atsirandančius iš sutarčių ar su jomis susijusių santykių, ir ketinantis dėl kilusio ginčo nagrinėjimo kreiptis į Lietuvos banką, prieš kreipdamasis į Lietuvos banką privalo raštu kreiptis į finansų rinkos dalyvį, nurodydamas ginčo aplinkybes ir savo reikalavimą. Finansų rinkos dalyvis privalo išnagrinėti rašytinį vartotojo kreipimąsi ir ne vėliau kaip per 15 darbo dienų nuo kreipimosi gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodamas kitą patvariąją laikmeną, jeigu dėl to susitarė vartotojas ir finansų rinkos dalyvis. Išskirtiniais atvejais, kai dėl priežasčių, kurių finansų rinkos dalyvis negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, jis turi išsiųsti negalutinį atsakymą, aiškiai nurodęs atsakymo į vartotojo kreipimąsi vėlavimo priežastis ir terminą, iki kurio vartotojas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Finansų rinkos dalyvis vartotojų kreipimusis nagrinėja neatlygintinai. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1095, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06731
-Nr. XIII-1304, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11309
- 
+3. Lietuvos bankas nagrinėja ginčus su finansų rinkos dalyviais dėl sutarčių, kurioms taikytina Lietuvos Respublikos teisė, kylančius iš:
+
+
+1) finansinių ir (arba) papildomų investicinių paslaugų teikimo;
 
 
 
 
-5. Lietuvos banko sprendimas dėl ginčo esmės yra rekomendacinio pobūdžio ir teismui neskundžiamas. Lietuvos bankas savo interneto svetainėje skelbia informaciją apie finansų rinkos dalyvius, nevykdančius Lietuvos banko sprendimų.
+2) draudimo sutarčių ar susijusius su jomis;
 
 
 
 
-6. Vartotojų ir finansų rinkos dalyvių ginčų neteisminio sprendimo tvarką reglamentuoja Lietuvos Respublikos vartotojų teisių apsaugos įstatymas ir Lietuvos banko patvirtintos vartotojų ir finansų rinkos dalyvių ginčų neteisminio sprendimo procedūros Lietuvos banke taisyklės.
+3) mokėjimo paslaugų teikimo ir kitų Lietuvos Respublikos mokėjimų įstatyme reglamentuotų santykių;
 
 
-TAR pastaba. Iki 2015 m. gruodžio 31 d. pradėti nagrinėti vartotojų ir finansų rinkos dalyvių ginčai baigiami nagrinėti vadovaujantis iki 2015 m. gruodžio 31 d. galiojusių teisės aktų nuostatomis.
+
+
+4) pensijų anuitetų mokėjimo santykių;
+
+
+
+
+5) su finansinėmis paslaugomis susijusių hipotekos ir laidavimo sutarčių.
+
+
+
+
+
+
+4. Šio straipsnio taikymo tikslais šio straipsnio 3 dalyje nurodytų santykių pagrindu finansų rinkos dalyvių teikiamos paslaugos šiame straipsnyje vadinamos finansinėmis paslaugomis.
+
+
+
+
+5. Šiame straipsnyje vartotoju laikomas fizinis asmuo:
+
+
+1) sudarantis su finansų rinkos dalyviu finansinių paslaugų sutartį, įskaitant investuotojus, kurie su emitentu, savo jėgomis vykdančiu pirminę vertybinių popierių emisiją, sudaro vertybinių popierių įsigijimo sutartį su verslu, prekyba, amatu ar profesija nesusijusiais tikslais (vartojimo tikslais), išskyrus profesionaliuosius klientus ir informuotuosius investuotojus;
+
+
+
+
+2) apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo ar kitas asmuo, kuris santykiuose su finansų rinkos dalyviu nesiekia tikslų, susijusių su verslu ar profesine veikla.
+
+
+
+
+
+
+6. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo teises ar teisėtus interesus, atsirandančius iš sutarčių ar su jais susijusių santykių, turi teisę kreiptis į teismą arba į vartojimo ginčus ne teismo tvarka nagrinėjančią instituciją – Lietuvos banką. Vartotojo kreipimasis į Lietuvos banką neatima vartotojo teisės kreiptis į teismą.
+
+
+
+
+7. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo teises ar teisėtus interesus, atsirandančius iš sutarčių ar su jomis susijusių santykių, ir ketinantis dėl kilusio ginčo nagrinėjimo kreiptis į Lietuvos banką, prieš kreipdamasis į Lietuvos banką privalo raštu kreiptis į finansų rinkos dalyvį, nurodydamas ginčo aplinkybes ir savo reikalavimą. Finansų rinkos dalyvis privalo išnagrinėti rašytinį vartotojo kreipimąsi ir ne vėliau kaip per 15 darbo dienų nuo kreipimosi gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodamas kitą patvariąją laikmeną, jeigu dėl to susitarė vartotojas ir finansų rinkos dalyvis. Išskirtiniais atvejais, kai dėl priežasčių, kurių finansų rinkos dalyvis negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, jis turi išsiųsti negalutinį atsakymą, aiškiai nurodydamas atsakymo į vartotojo kreipimąsi vėlavimo priežastis ir terminą, iki kurio vartotojas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Finansų rinkos dalyvis vartotojų kreipimusis nagrinėja neatlygintinai.
+
+
+
+
+8. Lietuvos banko sprendimas dėl ginčo esmės yra rekomendacinio pobūdžio ir teismui neskundžiamas. Lietuvos bankas savo interneto svetainėje skelbia informaciją apie finansų rinkos dalyvius, nevykdančius Lietuvos banko sprendimų.
+
+
+
+
+9. Vartotojų ir finansų rinkos dalyvių ginčų neteisminio sprendimo tvarką reglamentuoja Lietuvos Respublikos vartotojų teisių apsaugos įstatymas ir Lietuvos banko patvirtintos vartotojų ir finansų rinkos dalyvių ginčų neteisminio sprendimo procedūros Lietuvos banke taisyklės. 
+
+
 Straipsnio pakeitimai:
 Nr. XII-2088, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19366
+Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
  
 
 
@@ -3361,6 +3416,12 @@ FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ RINKOS PRIEŽIŪROS IŠLAIDO
  1 000 Eur 
 
 
+ 39. 
+ Su turtu susietų žetonų emitentai, gavę su turtu susietų žetonų emitento licenciją pagal Lietuvos Respublikos kriptoturto rinkų įstatymą 
+ Metinės pajamos 
+ 0,7 procento (minimali įmokos suma 3 000 Eur) 
+
+
 
  
 Priedo pakeitimai:
@@ -3373,6 +3434,7 @@ Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
 Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
 Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
+Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
 Pakeistas priedo pavadinimas:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
  
@@ -3566,7 +3628,10 @@ Lietuvos banko įstatymo
 
 
 
-12. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/878.
+12. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/1114. 
+Punkto pakeitimai:
+Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
+ 
 
 
 
@@ -3636,6 +3701,14 @@ Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
 22. 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/23 dėl pagrindinių sandorio šalių gaivinimo ir pertvarkymo sistemos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1095/2010, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 806/2014 ir (ES) 2015/2365 ir direktyvos 2002/47/EB, 2004/25/EB, 2007/36/EB, 2014/59/ES ir (ES) 2017/1132. 
 Papildyta punktu:
 Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
+ 
+
+
+
+
+23. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, su pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
  
 
 
@@ -3981,3 +4054,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 ir 42-1 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2143, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14039
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio pakeitimo įstatymas
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42, 43-7, 47 straipsnių ir 1, 3 priedų pakeitimo įstatymas
