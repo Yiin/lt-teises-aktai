@@ -20,14 +20,9 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2022-05-01 iki 2024-07-24
+Suvestinė redakcija nuo 2024-07-25 iki 2024-07-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
- 
-TAR pastaba. Įsigaliojus (2022-05-01) įstatymui Nr. XIV-680, kituose teisės aktuose: 1) vartojama sąvoka „buhalterinė apskaita“ atitinka įstatyme Nr. XIV-680 vartojamą sąvoką „finansinė apskaita“; 2) vartojama sąvoka „vyriausiasis buhalteris (buhalteris)“ atitinka įstatyme Nr. XIV-680 vartojamą sąvoką „apskaitą tvarkantis asmuo“; 3) nuorodos į Lietuvos Respublikos buhalterinės apskaitos įstatymą laikomos nuorodomis į Finansinės apskaitos įstatymą, nuorodos į verslo apskaitos standartus laikomos nuorodomis į Lietuvos finansinės atskaitomybės standartus.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-680, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25145
-Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 pakeitimo įstatymas
  
 Nauja redakcija nuo 2022-05-01:
 Nr. XIV-680, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25145
@@ -393,7 +388,10 @@ Supaprastintą apskaitą gali pasirinkti:
 
 
 
-4. Viešojo sektoriaus subjektai taiko šio straipsnio 2 dalies 1 punkte nurodytame euro ir užsienio valiutos santykio paskelbimo šaltinyje paskelbtą šio straipsnio 3 dalies 2 punkte nurodytą euro ir užsienio valiutos santykį.
+4. Viešojo sektoriaus subjektai taiko šio straipsnio 2 dalies 1 punkte nurodytame euro ir užsienio valiutos santykio paskelbimo šaltinyje paskelbtą šio straipsnio 3 dalies 2 punkte nurodytą euro ir užsienio valiutos santykį arba, kai to padaryti negali, nes euro ir užsienio valiutos santykis neskelbiamas ilgiau negu 30 dienų, taiko šio straipsnio 2 dalies 2 punkte nurodytame euro ir užsienio valiutos santykio paskelbimo šaltinyje paskelbtą euro ir užsienio valiutos santykį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2892, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13501
+ 
 
 
 
@@ -1277,3 +1275,18 @@ Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 6 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-680, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25145
 Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2516, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06303
+Lietuvos Respublikos finansinės apskaitos įstatymo Nr. IX-574 7 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2546, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07540
+Lietuvos Respublikos finansinės apskaitos įstatymo Nr. IX-574 2 ir 14 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2892, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13501
+Lietuvos Respublikos finansinės apskaitos įstatymo Nr. IX-574 5 ir 11 straipsnių pakeitimo įstatymas
