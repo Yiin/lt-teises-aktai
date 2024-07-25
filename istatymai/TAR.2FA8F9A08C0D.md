@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2fa8f9a08c0d11ed8df094f359a60216"
 
 # Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymas
 
-Suvestinė redakcija nuo 2023-07-06 iki 2024-07-24
+Suvestinė redakcija nuo 2024-07-25
  
 Įstatymas paskelbtas: TAR 2023-01-04, i. k. 2023-00140
  
@@ -1822,7 +1822,7 @@ Pakeisti 70 straipsnio 8 dalį ir ją išdėstyti taip:
 36 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 
-1. Šis įstatymas, išskyrus 3 straipsnio 3 dalį, 4 straipsnį, 6 straipsnio 4 dalį, 11 straipsnį, 12 straipsnio 1, 2 ir 3 dalis, 13 straipsnio 1 dalį, 14 straipsnį, 15 straipsnio 2 dalį, 16 straipsnio 1 dalį, 17 straipsnio 4 dalį, 18 straipsnio 1 dalį, 20 straipsnio 2 dalį, 21, 22, 23, 24, 25 straipsnius, 26 straipsnio 2 dalį, 27, 28, 29, 32 straipsnius, 33 straipsnio 1 dalį ir šio straipsnio 7 ir 8 dalis, įsigalioja 2023 m. rugsėjo 1 d.
+1. Šis įstatymas, išskyrus 3 straipsnio 3 dalį, 4 straipsnį, 6 straipsnio 4 dalį, 11 straipsnį, 12 straipsnio 1, 2 ir 3 dalis, 13 straipsnio 1 dalį, 14 straipsnį, 15 straipsnio 2 dalį, 16 straipsnio 1 dalį, 17 straipsnio 4 dalį, 18 straipsnio 1 dalį, 20 straipsnio 2 dalį, 21, 22, 23, 24, 25 straipsnius, 26 straipsnio 2 dalį, 27, 28, 29, 32 straipsnius, 33 straipsnio 1 dalį ir šio straipsnio 8 ir 9 dalis, įsigalioja 2023 m. rugsėjo 1 d.
 
 
 
@@ -1847,15 +1847,20 @@ Pakeisti 70 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
 
-6. Šio įstatymo 3 straipsnio 3 dalis, 4 straipsnis, 6 straipsnio 4 dalis ir 28 straipsnis įsigalioja 2024 m. rugsėjo 1 d. 
+6. Šio įstatymo 3 straipsnio 3 dalis, 6 straipsnio 4 dalis ir 28 straipsnis įsigalioja 2024 m. rugsėjo 1 d.
 
 
 
 
-7. Lietuvos Respublikos Vyriausybė, švietimo, mokslo ir sporto ministras priima: 
+7. Šio įstatymo 4 straipsnis įsigalioja 2026 m. rugsėjo 1 d. 
 
 
-1) iki 2023 m. rugpjūčio 31 d. – šio įstatymo, išskyrus 3 straipsnio 3 dalį, 4 ir 5 straipsnius, 6 straipsnio 4 dalį, 11 straipsnį, 12 straipsnio 1, 2 ir 3 dalis, 13 straipsnio 1 dalį, 14 straipsnį, 15 straipsnio 2 dalį ir 16 straipsnio 1 dalį, 17 straipsnio 4 dalį, 18 straipsnio 1 dalį, 20 straipsnio 2 dalį, 21, 22, 23, 24, 25 straipsnius, 26 straipsnio 2 dalį, 27, 28, 29, 32 straipsnius, 33 straipsnio 1 dalį, nuostatoms įgyvendinti reikalingus teisės aktus; 
+
+
+8. Lietuvos Respublikos Vyriausybė, švietimo, mokslo ir sporto ministras priima:
+
+
+1) iki 2023 m. rugpjūčio 31 d. – šio įstatymo, išskyrus 3 straipsnio 3 dalį, 4 ir 5 straipsnius, 6 straipsnio 4 dalį, 11 straipsnį, 12 straipsnio 1, 2 ir 3 dalis, 13 straipsnio 1 dalį, 14 straipsnį, 15 straipsnio 2 dalį ir 16 straipsnio 1 dalį, 17 straipsnio 4 dalį, 18 straipsnio 1 dalį, 20 straipsnio 2 dalį, 21, 22, 23, 24, 25 straipsnius, 26 straipsnio 2 dalį, 27, 28, 29, 32 straipsnius, 33 straipsnio 1 dalį, nuostatoms įgyvendinti reikalingus teisės aktus;
 
 
 
@@ -1865,7 +1870,7 @@ Pakeisti 70 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
 
-3) iki 2023 m. vasario 28 d. – šio įstatymo 11 straipsnio, 13 straipsnio 1 dalių, 15 straipsnio 2 dalies, 25 ir 27 straipsnių nuostatoms įgyvendinti reikalingus teisės aktus; 
+3) iki 2023 m. vasario 28 d. – šio įstatymo 11 straipsnio, 13 straipsnio 1 dalies, 15 straipsnio 2 dalies, 25 ir 27 straipsnių nuostatoms įgyvendinti reikalingus teisės aktus;
 
 
 
@@ -1875,54 +1880,54 @@ Pakeisti 70 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
 
-5) iki 2023 m. birželio 30 d. – šio įstatymo 16 straipsnio 1 dalies ir 33 straipsnio 1 dalies nuostatoms įgyvendinti reikalingus teisės aktus; 
+5) iki 2023 m. birželio 30 d. – šio įstatymo 16 straipsnio 1 dalies ir 33 straipsnio 1 dalies nuostatoms įgyvendinti reikalingus teisės aktus;
 
 
 
 
-6) iki 2024 m. rugpjūčio 31 d. – šio įstatymo 3 straipsnio 3 dalies, 4 straipsnio, 6 straipsnio 4 dalies ir 28 straipsnio nuostatoms įgyvendinti reikalingus teisės aktus.
+6) iki 2024 m. rugpjūčio 31 d. – šio įstatymo 3 straipsnio 3 dalies, 6 straipsnio 4 dalies ir 28 straipsnio nuostatoms įgyvendinti reikalingus teisės aktus;
+
+
+
+
+7) iki 2026 m. rugpjūčio 31 d. – šio įstatymo 4 straipsnio nuostatoms įgyvendinti reikalingus teisės aktus.
 
 
 
 
 
 
-8. Lietuvos Respublikos Vyriausybė, švietimo, mokslo ir sporto ministras, švietimo, mokslo ir sporto ministro įgaliota institucija iki 2023 m. birželio 30 d. priima šio įstatymo 14 straipsnio, 17 straipsnio 4 dalies, 18 straipsnio 1 dalies, 21, 22, 23, 24, 29 ir 32 straipsnių įgyvendinamuosius teisės aktus.
+9. Lietuvos Respublikos Vyriausybė, švietimo, mokslo ir sporto ministras, švietimo, mokslo ir sporto ministro įgaliota institucija iki 2023 m. birželio 30 d. priima šio įstatymo 14 straipsnio, 17 straipsnio 4 dalies, 18 straipsnio 1 dalies, 21, 22, 23, 24, 29 ir 32 straipsnių įgyvendinamuosius teisės aktus.
 
 
 
 
-9. Valstybinė švietimo teikėjų veiklos priežiūra, vidurinio ugdymo programų akreditavimas, pradėti vykdyti iki 2023 m. birželio 30 d., baigiami vykdyti pagal iki 2023 m. birželio 30 d. galiojusį teisinį reguliavimą.
+10. Valstybinė švietimo teikėjų veiklos priežiūra, vidurinio ugdymo programų akreditavimas, pradėti vykdyti iki 2023 m. birželio 30 d., baigiami vykdyti pagal iki 2023 m. birželio 30 d. galiojusį teisinį reguliavimą.
 
 
 
 
-10. Prašymai pateikti siūlymus dėl atvejų, kai savivaldybės tarybos sprendimų dėl bendrojo ugdymo mokyklų reorganizavimo, likvidavimo ir pertvarkymo projektai prieštarauja mokyklos bendruomenės sprendimams, gauti iki 2023 m. birželio 30 d., baigiami nagrinėti pagal iki 2023 m. birželio 30 d. galiojusį teisinį reguliavimą.
+11. Prašymai pateikti siūlymus dėl atvejų, kai savivaldybės tarybos sprendimų dėl bendrojo ugdymo mokyklų reorganizavimo, likvidavimo ir pertvarkymo projektai prieštarauja mokyklos bendruomenės sprendimams, gauti iki 2023 m. birželio 30 d., baigiami nagrinėti pagal iki 2023 m. birželio 30 d. galiojusį teisinį reguliavimą.
 
 
 
 
-11. Iki 2024 m. rugpjūčio 31 d. į pareigas priimti valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovai, kurie neturi jų pareigoms eiti būtino išsilavinimo, toliau eina pareigas, bet ne ilgiau kaip iki 2027 m. rugpjūčio 31 d. Per šį laikotarpį reikalaujamo išsilavinimo neįgiję švietimo įstaigų vadovai atleidžiami iš einamų pareigų.
+12. Iki 2024 m. rugpjūčio 31 d. į pareigas priimti valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovai, kurie neturi jų pareigoms eiti būtino išsilavinimo, toliau eina pareigas, bet ne ilgiau kaip iki 2027 m. rugpjūčio 31 d. Per šį laikotarpį reikalaujamo išsilavinimo neįgiję švietimo įstaigų vadovai atleidžiami iš einamų pareigų.
 
 
 
 
-12. Iki 2023 m. vasario 28 d. paskelbti konkursai į valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovų pareigas vykdomi, konkursų komisijos sudaromos pagal iki 2023 m. vasario 28 d. galiojusį teisinį reguliavimą.
+13. Iki 2023 m. vasario 28 d. paskelbti konkursai į valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovų pareigas vykdomi, konkursų komisijos sudaromos pagal iki 2023 m. vasario 28 d. galiojusį teisinį reguliavimą.
 
 
 
 
-13. Iki 2023 m. birželio 30 d. paskelbti konkursai į valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovų pareigas vykdomi, konkursų komisijos sudaromos pagal iki 2023 m. birželio 30 d. galiojusį teisinį reguliavimą.
+14. Iki 2023 m. birželio 30 d. paskelbti konkursai į valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovų pareigas vykdomi, konkursų komisijos sudaromos pagal iki 2023 m. birželio 30 d. galiojusį teisinį reguliavimą.
 
 
 
 
-14. Asmenims, įgijusiems pagrindinį išsilavinimą iki 2029 m. rugpjūčio 31 d. ir siekiantiems įgyti vidurinį išsilavinimą, netaikomas reikalavimas pasiekti švietimo, mokslo ir sporto ministro nustatytų dalykų pagrindinio ugdymo pasiekimų patikrinimų ne žemesnį kaip patenkinamą lygį. 
-
-
-
-
-15. Lietuvos Respublikos švietimo įstatymo 59 straipsnio 9 dalies 1 punkte nurodytiems buvusiems švietimo įstaigų (išskyrus aukštąją mokyklą) vadovams reikalavimas, kad visų metų veikla kadencijos, kurios metu jis atleistas iš pareigų dėl pareigybės panaikinimo, laikotarpiu būtų įvertinta gerai ir labai gerai netaikomas, jeigu švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo pareigybė panaikinta iki 2023 m. rugpjūčio 31 d. arba jis švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo pareigas ėjo mažiau negu vienus kalendorinius metus, arba buvusio švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo veikla nebuvo vertinta dėl Švietimo įstatymą įgyvendinančiuose teisės aktuose nustatytų priežasčių.
+15. Lietuvos Respublikos švietimo įstatymo 59 straipsnio 9 dalies 1 punkte nurodytiems buvusiems švietimo įstaigų (išskyrus aukštąją mokyklą) vadovams reikalavimas, kad visų metų veikla kadencijos, kurios metu jis atleistas iš pareigų dėl pareigybės panaikinimo, laikotarpiu būtų įvertinta gerai ir labai gerai netaikomas, jeigu švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo pareigybė panaikinta iki 2023 m. rugpjūčio 31 d. arba jis švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo pareigas ėjo mažiau negu vienus kalendorinius metus, arba buvusio švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo veikla nebuvo vertinta dėl Švietimo įstatymo įgyvendinamuosiuose teisės aktuose nustatytų priežasčių.
 
 
 
@@ -1932,10 +1937,12 @@ Pakeisti 70 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
 
-17. Nevalstybinių švietimo įstaigų vadovams Švietimo įstatymo 51 straipsnio 1 punkte įtvirtinta nuostata taikoma tais atvejais, kai apkaltinamasis teismo nuosprendis buvo priimtas po 2023 m. kovo 1 d., Švietimo įstatymo 51 straipsnio 2 punkte įtvirtinta nuostata – kai asmuo buvo atleistas iš tarnybos už tarnybinį nusižengimą ar iš darbo už darbo pareigų pažeidimus po 2023 m. kovo 1 d., Švietimo įstatymo 51 straipsnio 4 punkte įtvirtinta nuostata – kai asmuo Pedagogų etikos kodekso reikalavimus pažeidė po 2023 m. rugsėjo 1 d.
+17. Nevalstybinių švietimo įstaigų vadovams Švietimo įstatymo 51 straipsnio 1 punkte įtvirtinta nuostata taikoma tais atvejais, kai apkaltinamasis teismo nuosprendis buvo priimtas po 2023 m. kovo 1 d., Švietimo įstatymo 51 straipsnio 2 punkte įtvirtinta nuostata – kai asmuo buvo atleistas iš tarnybos už tarnybinį nusižengimą ar iš darbo už darbo pareigų pažeidimus po 2023 m. kovo 1 d., Švietimo įstatymo 51 straipsnio 4 punkte įtvirtinta nuostata – kai asmuo Pedagogų etikos kodekso reikalavimus pažeidė po 2023 m. rugsėjo 1 d.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2933, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13520
  
-
-
 
 
 
@@ -1955,3 +1962,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2093, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13990
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymo Nr. XIV-1726 17 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2933, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13520
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymo Nr. XIV-1726 36 straipsnio pakeitimo įstatymas
