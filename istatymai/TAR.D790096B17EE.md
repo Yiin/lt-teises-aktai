@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-07-24
+Suvestinė redakcija nuo 2024-07-25 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
  
@@ -1241,7 +1241,10 @@ TAR pastaba. Įstatymo nuostatos dėl vartojimo ginčų neteisminio sprendimo pr
 
 
 
-2) Lietuvos bankas – vartojimo ginčus dėl finansinių paslaugų, nurodytus Lietuvos Respublikos Lietuvos banko įstatyme;
+2) Lietuvos bankas – vartojimo ginčus dėl finansinių paslaugų ir kitus Lietuvos Respublikos Lietuvos banko įstatyme nurodytus vartojimo ginčus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2894, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13503
+ 
 
 
 
@@ -4032,3 +4035,13 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 49-1 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2145, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14041
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12 ir 49-1 straipsnių pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2749, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11255
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 40 straipsnio pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2894, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13503
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 22 straipsnio pakeitimo įstatymas
