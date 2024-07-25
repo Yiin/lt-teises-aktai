@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS FINANSINIO TVARUMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-07-24
+Suvestinė redakcija nuo 2024-07-25 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 93-3985, i. k. 1091010ISTA00XI-393
  
@@ -272,9 +272,11 @@ Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
 
 
 
-141. Papildomo kapitalo reikalavimas – pagal Lietuvos Respublikos bankų įstatymo 67 straipsnio 2 dalies 2 punktą arba pagal Lietuvos Respublikos centrinių kredito unijų įstatymo 49 straipsnio 2 dalies 2 punktą nustatytas kapitalo reikalavimas.
+141. Papildomo kapitalo reikalavimas – pagal Lietuvos Respublikos bankų įstatymo 67 straipsnio 2 dalies 2 punktą arba pagal Lietuvos Respublikos centrinių kredito unijų įstatymo 49 straipsnio 2 dalies 2 punktą, arba pagal Lietuvos Respublikos finansinių priemonių rinkų įstatymo 15 straipsnį nustatytas kapitalo reikalavimas.
 Papildyta straipsnio dalimi:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
+Straipsnio dalies pakeitimai:
+Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
  
 
 
@@ -1586,7 +1588,9 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 211 straipsnis. Įgaliojimai uždrausti tam tikrus paskirstymus
 
 
-1. Jeigu subjektas tenkina jungtinio rezervo reikalavimą, kai jis vertinamas kaip papildantis Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies a punkte nustatytą reikalavimą ir papildomo kapitalo, siekiant pašalinti riziką, kuri nėra pernelyg didelio sverto rizika, reikalavimą, Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies b punkte nustatytą reikalavimą ir papildomo kapitalo, siekiant pašalinti riziką, kuri nėra pernelyg didelio sverto rizika, reikalavimą ir Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies c punkte nustatytą reikalavimą ir papildomo kapitalo, siekiant pašalinti riziką, kuri nėra pernelyg didelio sverto rizika, reikalavimą, tačiau netenkina jungtinio rezervo reikalavimo, kai jis vertinamas kaip papildantis šio įstatymo 25 ir 262 straipsniuose nurodytus reikalavimus, taikomus pagal šio įstatymo 25 straipsnio 1 dalies 1 punktą, pertvarkymo institucija pagal šio straipsnio 3 ir 5 dalis turi teisę uždrausti subjektui paskirstyti didesnę negu didžiausią galimą paskirstyti sumą, susijusią su minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimu, kuri apskaičiuojama pagal šio straipsnio 8 dalį, atliekant bet kurį iš šių nurodytų veiksmų:
+1. Jeigu subjektas tenkina jungtinio rezervo reikalavimą, kai jis vertinamas kaip papildantis Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies a punkte nustatytą reikalavimą, ir papildomo kapitalo, siekiant pašalinti riziką, kuri nėra pernelyg didelio sverto rizika, reikalavimą, Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies b punkte nustatytą reikalavimą ir papildomo kapitalo, siekiant pašalinti riziką, kuri nėra pernelyg didelio sverto rizika, reikalavimą, ir kredito įstaigoms Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies c punkte nustatytą reikalavimą, o finansų maklerio įmonėms 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos Reglamento (ES) 2019/2033 dėl riziką ribojančių reikalavimų investicinėms įmonėms, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 575/2013, (ES) Nr. 600/2014 ir (ES) Nr. 806/2014, 11 straipsnio 1 dalyje nustatytą reikalavimą, ir papildomo kapitalo, siekiant pašalinti riziką, kuri nėra pernelyg didelio sverto rizika, reikalavimą, tačiau netenkina jungtinio rezervo reikalavimo, kai jis vertinamas kaip papildantis šio įstatymo 25 ir 262 straipsniuose nurodytus reikalavimus, taikomus pagal šio įstatymo 25 straipsnio 1 dalies 1 punktą, pertvarkymo institucija pagal šio straipsnio 3 ir 5 dalis turi teisę uždrausti subjektui paskirstyti didesnę negu didžiausią galimą paskirstyti sumą, susijusią su minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimu, kuri apskaičiuojama pagal šio straipsnio 8 dalį, atliekant bet kurį iš šių nurodytų veiksmų: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
 
 
 1) atliekant su bendru 1 lygio nuosavu kapitalu susijusį paskirstymą; 
@@ -1709,24 +1713,27 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 10. Šio straipsnio 8 dalyje nurodytas daugiklis nustatomas taip:
 
 
-1) jeigu subjekto turimas bendras 1 lygio nuosavas kapitalas, kuris nėra naudojamas Reglamento (ES) Nr. 575/2013 92a straipsnyje ir šio įstatymo 25, 252, 253 ir 261 straipsniuose nustatytiems reikalavimams tenkinti, išreikštas bendros rizikos pozicijų sumos, apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, procentine dalimi, priklauso pirmajam (žemiausiam) jungtinio rezervo reikalavimo kvartiliui, daugiklis yra lygus 0;
+1) jeigu subjekto turimas bendras 1 lygio nuosavas kapitalas, kuris nėra naudojamas Reglamento (ES) Nr. 575/2013 92a straipsnyje ir šio įstatymo 25, 252, 253 ir 261 straipsniuose nustatytiems reikalavimams tenkinti, išreikštas bendros rizikos pozicijų sumos, kredito įstaigoms apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, procentine dalimi, o finansų maklerio įmonėms Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje nustatytą dydį padauginus iš 12,5, priklauso pirmajam (žemiausiam) jungtinio rezervo reikalavimo kvartiliui, daugiklis yra lygus 0;
 
 
 
 
-2) jeigu subjekto turimas bendras 1 lygio nuosavas kapitalas, kuris nėra naudojamas Reglamento (ES) Nr. 575/2013 92a straipsnyje ir šio įstatymo 25, 252, 253 ir 261 straipsniuose nustatytiems reikalavimams tenkinti, išreikštas bendros rizikos pozicijų sumos, apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, procentine dalimi, priklauso antrajam jungtinio rezervo reikalavimo kvartiliui, daugiklis yra lygus 0,2;
+2) jeigu subjekto turimas bendras 1 lygio nuosavas kapitalas, kuris nėra naudojamas Reglamento (ES) Nr. 575/2013 92a straipsnyje ir šio įstatymo 25, 252, 253 ir 261 straipsniuose nustatytiems reikalavimams tenkinti, išreikštas bendros rizikos pozicijų sumos, kredito įstaigoms apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, procentine dalimi, o finansų maklerio įmonėms Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje nustatytą dydį padauginus iš 12,5, priklauso antrajam jungtinio rezervo reikalavimo kvartiliui, daugiklis yra lygus 0,2;
 
 
 
 
-3) jeigu subjekto turimas bendras 1 lygio nuosavas kapitalas, kuris nėra naudojamas Reglamento (ES) Nr. 575/2013 92a straipsnyje ir šio įstatymo 25, 252, 253 ir 261 straipsniuose nustatytiems reikalavimams tenkinti, išreikštas bendros rizikos pozicijų sumos, apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, procentine dalimi, priklauso trečiajam jungtinio rezervo reikalavimo kvartiliui, daugiklis yra lygus 0,4;
+3) jeigu subjekto turimas bendras 1 lygio nuosavas kapitalas, kuris nėra naudojamas Reglamento (ES) Nr. 575/2013 92a straipsnyje ir šio įstatymo 25, 252, 253 ir 261 straipsniuose nustatytiems reikalavimams tenkinti, išreikštas bendros rizikos pozicijų sumos, kredito įstaigoms apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, procentine dalimi, o finansų maklerio įmonėms Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje nustatytą dydį padauginus iš 12,5, priklauso trečiajam jungtinio rezervo reikalavimo kvartiliui, daugiklis yra lygus 0,4;
 
 
 
 
-4) jeigu subjekto turimas bendras 1 lygio nuosavas kapitalas, kuris nėra naudojamas Reglamento (ES) Nr. 575/2013 92a straipsnyje ir šio įstatymo 25, 252, 253 ir 261 straipsniuose nustatytiems reikalavimams tenkinti, išreikštas bendros rizikos pozicijų sumos, apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, procentine dalimi, priklauso ketvirtajam (aukščiausiam) jungtinio rezervo reikalavimo kvartiliui, daugiklis yra lygus 0,6.
+4) jeigu subjekto turimas bendras 1 lygio nuosavas kapitalas, kuris nėra naudojamas Reglamento (ES) Nr. 575/2013 92a straipsnyje ir šio įstatymo 25, 252, 253 ir 261 straipsniuose nustatytiems reikalavimams tenkinti, išreikštas bendros rizikos pozicijų sumos, kredito įstaigoms apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, procentine dalimi, o finansų maklerio įmonėms Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje nustatytą dydį padauginus iš 12,5, priklauso ketvirtajam (aukščiausiam) jungtinio rezervo reikalavimo kvartiliui, daugiklis yra lygus 0,6.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
+ 
 
 
 
@@ -1775,7 +1782,10 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 2) ne vėliau kaip per dvi savaites nuo šio straipsnio 1 dalyje nurodyto pranešimo gavimo dienos pertvarkymo institucijai pateikti pasiūlymus dėl nustatytų esminių sėkmingo pertvarkymo kliūčių pašalinimo priemonių ir jų įgyvendinimo tvarkaraštį, kad būtų užtikrintas minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo, nustatyto šio įstatymo 26 straipsnyje ar 262 ir 28 straipsniuose, ir jungtinio rezervo reikalavimo tenkinimas, jeigu esminė sėkmingo pertvarkymo kliūtis kyla dėl bent vieno iš šių atvejų:
 
 
-a) įstaiga ar subjektas tenkina jungtinio rezervo reikalavimą, kai jis vertinamas kaip papildantis Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies a punkte nustatytą reikalavimą, ir papildomo kapitalo, siekiant pašalinti riziką, kuri nėra pernelyg didelio sverto rizika, reikalavimą, Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies b punkte nustatytą reikalavimą ir papildomo kapitalo, siekiant pašalinti riziką, kuri nėra pernelyg didelio sverto rizika, reikalavimą ir Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies c punkte nustatytą reikalavimą ir papildomo kapitalo, siekiant pašalinti riziką, kuri nėra pernelyg didelio sverto rizika, reikalavimą, tačiau netenkina jungtinio rezervo reikalavimo, kai jis vertinamas kaip papildantis šio įstatymo 25 ir 262 straipsniuose nurodytus reikalavimus, apskaičiuotus pagal šio įstatymo 25 straipsnio 1 dalies 1 punktą, arba
+a) įstaiga ar subjektas tenkina jungtinio rezervo reikalavimą, kai jis vertinamas kaip papildantis Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies a punkte nustatytą reikalavimą, ir papildomo kapitalo, siekiant pašalinti riziką, kuri nėra pernelyg didelio sverto rizika, reikalavimą, Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies b punkte nustatytą reikalavimą ir papildomo kapitalo, siekiant pašalinti riziką, kuri nėra pernelyg didelio sverto rizika, reikalavimą, ir kredito įstaigoms Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies c punkte nustatytą reikalavimą, o finansų maklerio įmonėms Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje nustatytą reikalavimą, ir papildomo kapitalo, siekiant pašalinti riziką, kuri nėra pernelyg didelio sverto rizika, reikalavimą, tačiau netenkina jungtinio rezervo reikalavimo, kai jis vertinamas kaip papildantis šio įstatymo 25 ir 262 straipsniuose nurodytus reikalavimus, apskaičiuotus pagal šio įstatymo 25 straipsnio 1 dalies 1 punktą, arba 
+Papunkčio pakeitimai:
+Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
+ 
 
 
 
@@ -1865,7 +1875,10 @@ Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 
 
-12) reikalauja, kad tokia įstaiga ar toks subjektas pateiktų planą, kuriuo būtų užtikrintas šio įstatymo 26 straipsnyje ar 262 ir 28 straipsniuose nustatytų reikalavimų, išreikštų bendros rizikos pozicijų sumos, apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, procentine dalimi, ir, jeigu taikoma, jungtinio rezervo reikalavimo bei šio įstatymo 26 straipsnyje ar 262 ir 28 straipsniuose nustatytų reikalavimų, išreikštų bendro pozicijų mato, nurodyto Reglamento (ES) Nr. 575/2013 429 ir 429a straipsniuose, procentine dalimi, tenkinimas; 
+12) reikalauja, kad tokia įstaiga ar toks subjektas pateiktų planą, kuriuo būtų užtikrintas šio įstatymo 26 straipsnyje ar 262 ir 28 straipsniuose nustatytų reikalavimų, išreikštų bendros rizikos pozicijų sumos, kredito įstaigoms apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, procentine dalimi, o finansų maklerio įmonėms Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje nustatytą dydį padauginus iš 12,5, ir, jeigu taikoma, jungtinio rezervo reikalavimo bei šio įstatymo 26 straipsnyje ar 262 ir 28 straipsniuose nustatytų reikalavimų, išreikštų bendro pozicijų mato, nurodyto Reglamento (ES) Nr. 575/2013 429 ir 429a straipsniuose, procentine dalimi, tenkinimas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
+ 
 
 
 
@@ -1920,7 +1933,10 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 
 
-4. Jeigu šio straipsnio 2 dalyje nurodytoje ataskaitoje nustatytos sėkmingo pertvarkymo kliūtys atsiranda dėl šio įstatymo 22 straipsnio 2 dalies 2 punkte nurodytos grupės subjekto padėties, Lietuvos Respublikoje licencijuota ES patronuojančioji įmonė ne vėliau kaip per dvi savaites nuo pranešimo, pateikto pagal šio straipsnio 2 dalį, gavimo dienos grupės pertvarkymo institucijai turi pateikti pasiūlymus dėl esminių sėkmingo pertvarkymo kliūčių pašalinimo priemonių ir jų įgyvendinimo tvarkaraštį, kad būtų užtikrintas grupės subjektui taikomo šio įstatymo 26, 262 ar 28 straipsnyje nustatyto minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo, išreikšto bendros rizikos pozicijų sumos, apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, procentine dalimi, ir, kai taikoma, jungtinio rezervo reikalavimo ir šio įstatymo 26, 262 ir 28 straipsniuose nustatytų reikalavimų, išreikštų bendro pozicijų mato, nurodyto Reglamento (ES) Nr. 575/2013 429 ir 429a straipsniuose, procentine dalimi, tenkinimas. Pasiūlytų esminių sėkmingo pertvarkymo kliūčių pašalinimo priemonių įgyvendinimo tvarkaraštyje turi būti atsižvelgiama į esminės sėkmingo pertvarkymo kliūties priežastis. 
+4. Jeigu šio straipsnio 2 dalyje nurodytoje ataskaitoje nustatytos sėkmingo pertvarkymo kliūtys atsiranda dėl šio įstatymo 22 straipsnio 2 dalies 2 punkte nurodytos grupės subjekto padėties, Lietuvos Respublikoje licencijuota ES patronuojančioji įmonė ne vėliau kaip per dvi savaites nuo pranešimo, pateikto pagal šio straipsnio 2 dalį, gavimo dienos grupės pertvarkymo institucijai turi pateikti pasiūlymus dėl esminių sėkmingo pertvarkymo kliūčių pašalinimo priemonių ir jų įgyvendinimo tvarkaraštį, kad būtų užtikrintas grupės subjektui taikomo šio įstatymo 26, 262 ar 28 straipsnyje nustatyto minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo, išreikšto bendros rizikos pozicijų sumos, kredito įstaigoms apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, procentine dalimi, o finansų maklerio įmonėms Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje nustatytą dydį padauginus iš 12,5, ir, kai taikoma, jungtinio rezervo reikalavimo ir šio įstatymo 26, 262 ir 28 straipsniuose nustatytų reikalavimų, išreikštų bendro pozicijų mato, nurodyto Reglamento (ES) Nr. 575/2013 429 ir 429a straipsniuose, procentine dalimi, tenkinimas. Pasiūlytų esminių sėkmingo pertvarkymo kliūčių pašalinimo priemonių įgyvendinimo tvarkaraštyje turi būti atsižvelgiama į esminės sėkmingo pertvarkymo kliūties priežastis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
+ 
 
 
 
@@ -2029,7 +2045,10 @@ MINIMALUS NUOSAVŲ LĖŠŲ IR TINKAMŲ ĮSIPAREIGOJIMŲ DYDIS
 1. Įstaigos ir šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodyti subjektai privalo nuolat tenkinti minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimą, kai to iš jų reikalaujama pagal šį straipsnį ir šio įstatymo 251, 254, 26, 261, 262, 263, 265 ir 28 straipsnius, bei laikytis nurodytų straipsnių nuostatų. Minimalus nuosavų lėšų ir tinkamų įsipareigojimų dydis apskaičiuojamas šio įstatymo 252 ar 253 straipsnyje nustatyta tvarka, atsižvelgiant į tai, kas taikoma, kaip nuosavų lėšų ir tinkamų įsipareigojimų dydžio suma, išreikšta:
 
 
-1) bendros rizikos pozicijų sumos, apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, procentine dalimi, ir
+1) bendros rizikos pozicijų sumos, kredito įstaigoms apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, procentine dalimi, o finansų maklerio įmonėms Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje nustatytą dydį padauginus iš 12,5, ir
+Straipsnio punkto pakeitimai:
+Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
+ 
 
 
 
@@ -2180,12 +2199,18 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 5. Neatsižvelgdama į tai, ar daromas poveikis šio įstatymo 252 straipsnio 8 ir 9 dalyse ar 261 straipsnio 1 dalies 1 punkte nustatytam minimaliam reikalavimui, pertvarkymo institucija užtikrina, kad šio įstatymo 26 straipsnyje nurodyto reikalavimo dalį, kuri lygi 8 procentams visų įsipareigojimų, įskaitant nuosavas lėšas, pertvarkytini subjektai, kurie yra pasaulinės sisteminės svarbos įstaigos arba kuriems taikomos šio įstatymo 252 straipsnio 8, 9 ar 10 dalis, tenkintų naudodami nuosavas lėšas, subordinuotąsias tinkamas priemones arba įsipareigojimus, kaip nurodyta šio straipsnio 4 dalyje. Pertvarkymo institucija gali leisti, kad lygį, mažesnį negu 8 procentai visų įsipareigojimų, įskaitant nuosavas lėšas, bet didesnį už sumą, apskaičiuotą taikant formulę (1 – (X1 / X2)) x 8 procentai visų įsipareigojimų, įskaitant nuosavas lėšas, pertvarkytini subjektai, kurie yra pasaulinės sisteminės svarbos įstaigos arba kuriems taikomos šio įstatymo 252 straipsnio 8, 9 ar 10 dalis, vykdytų naudodami nuosavas lėšas, subordinuotąsias tinkamas priemones arba įsipareigojimus, kaip nurodyta šio straipsnio 4 dalyje, jeigu tenkinamos visos Reglamento (ES) Nr. 575/2013 72b straipsnio 3 dalyje nustatytos sąlygos, kai, atsižvelgiant į pagal to reglamento 72b straipsnio 3 dalį galimą sumažinimą:
 
 
-1) X1 – 3,5 procento bendros rizikos pozicijų sumos, apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį;
+1) X1 – 3,5 procento bendros rizikos pozicijų sumos, kredito įstaigoms apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, o finansų maklerio įmonėms Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje nustatytą dydį padauginus iš 12,5; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
+ 
 
 
 
 
-2) X2 – suma, gauta sudėjus 18 procentų bendros rizikos pozicijų sumos, apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, ir jungtinio rezervo reikalavimo sumą.
+2) X2 – suma, gauta sudėjus 18 procentų bendros rizikos pozicijų sumos, kredito įstaigoms apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, o finansų maklerio įmonėms Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje nustatytą dydį padauginus iš 12,5, ir jungtinio rezervo reikalavimo sumą. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
+ 
 
 
 
@@ -2250,12 +2275,10 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 
 
-2) sumos, apskaičiuotos taikant formulę A x 2 + B x 2 + C, kai: 
+2) sumos, apskaičiuotos taikant formulę A x 2 + B x 2 + C, kai:
 
 
-
-
-A – suma, gauta taikant Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies c punkte nurodytą reikalavimą;
+A – suma, gauta kredito įstaigoms taikant Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies c punkte nurodytą reikalavimą, o finansų maklerio įmonėms taikant Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje nustatytą reikalavimą;
 
 
 
@@ -2266,6 +2289,11 @@ B – suma, gauta taikant papildomo kapitalo reikalavimą;
 
 
 C – suma, gauta taikant jungtinio rezervo reikalavimą.
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
+ 
 
 
 
@@ -2356,14 +2384,17 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 1) kai minimalus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimas skaičiuojamas taikant šio įstatymo 25 straipsnio 1 dalies 1 punkte nurodytą išraišką, sudėjus:
 
 
-a) pertvarkytino subjekto nuostolių sumą, kuri turi būti padengta subjekto pertvarkymo metu ir kuri atitinka Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies c punkte nurodytą reikalavimą ir papildomo kapitalo reikalavimą, konsoliduotu pertvarkytinos grupės lygmeniu;
+a) pertvarkytino subjekto nuostolių sumą, kuri turi būti padengta subjekto pertvarkymo metu ir kuri atitinka kredito įstaigoms Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies c punkte nurodytą reikalavimą, o finansų maklerio įmonėms Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje nustatytą reikalavimą ir papildomo kapitalo reikalavimą, konsoliduotu pertvarkytinos grupės lygmeniu;
 
 
 
 
-b) rekapitalizavimo sumą, kuri suteikia galimybę pertvarkytinai grupei atkurti bendro kapitalo pakankamumo koeficiento reikalavimo, nurodyto Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies c punkte, ir papildomo kapitalo reikalavimo tenkinimą konsoliduotu pertvarkytinos grupės lygmeniu įgyvendinus pasirinktą pertvarkymo strategiją;
+b) rekapitalizavimo sumą, kuri suteikia galimybę pertvarkytinai grupei atkurti kredito įstaigoms Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies c punkte nurodyto bendro kapitalo pakankamumo koeficiento reikalavimo, o finansų maklerio įmonėms nuosavas lėšas, kaip tai suprantama pagal Reglamento (ES) 2019/2033 11 straipsnio 1 dalį, ir papildomo kapitalo reikalavimo tenkinimą konsoliduotu pertvarkytinos grupės lygmeniu įgyvendinus pasirinktą pertvarkymo strategiją;
 
 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
+ 
 
 
 
@@ -2484,14 +2515,17 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 1) kai skaičiuojama taikant šio įstatymo 25 straipsnio 1 dalies 1 punkte nurodytą išraišką, sudėjus:
 
 
-a) subjekto nuostolių, kurie turi būti padengti, sumą, atitinkančią Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies c punkte nurodytą reikalavimą ir papildomo kapitalo reikalavimą;
+a) subjekto nuostolių, kurie turi būti padengti, sumą, atitinkančią kredito įstaigoms Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies c punkte nurodytą reikalavimą, o finansų maklerio įmonėms Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje nustatytą reikalavimą ir papildomo kapitalo reikalavimą;
 
 
 
 
-b) rekapitalizavimo sumą, kuri suteikia galimybę subjektui atkurti bendro kapitalo pakankamumo koeficiento reikalavimo, nurodyto Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies c punkte, ir jam taikomo papildomo kapitalo reikalavimo tenkinimą, pritaikius atitinkamų kapitalo priemonių ir tinkamų įsipareigojimų nurašymą arba konvertavimą pagal šio įstatymo 58 straipsnį arba pertvarkius pertvarkytiną grupę;
+b) rekapitalizavimo sumą, kuri suteikia galimybę subjektui atkurti kredito įstaigoms Reglamento (ES) Nr. 575/2013 92 straipsnio 1 dalies c punkte nurodyto bendro kapitalo pakankamumo koeficiento reikalavimo, o finansų maklerio įmonėms Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje nustatyto reikalavimo ir jam taikomo papildomo kapitalo reikalavimo tenkinimą, pritaikius atitinkamų kapitalo priemonių ir tinkamų įsipareigojimų nurašymą arba konvertavimą pagal šio įstatymo 58 straipsnį arba pertvarkius pertvarkytiną grupę;
 
 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
+ 
 
 
 
@@ -2941,7 +2975,10 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 
 
-10. Jeigu per keturis mėnesius nuo pasiūlymo priimti bendrą sprendimą gavimo dienos pertvarkytino subjekto ar grupės pertvarkymo institucija kreipėsi į Europos bankininkystės instituciją, kad ši, vadovaudamasi Reglamento (ES) Nr. 1093/2010 19 straipsnio 3 dalimi, padėtų institucijoms priimti bendrą sprendimą dėl minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo lygio taikymo subjektams, kurie patys nėra pertvarkytini subjektai, pertvarkymo institucijos, atsakingos už patronuojamąsias įmones, individualiu pagrindu atideda savo sprendimo dėl minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo priėmimą iki Europos bankininkystės institucijos sprendimo priėmimo dienos. Pertvarkymo institucija savo sprendimą priima vadovaudamasi Europos bankininkystės institucijos sprendimu. Keturių mėnesių laikotarpis laikomas taikinamuoju laikotarpiu, kaip jis apibrėžtas Reglamente (ES) Nr. 1093/2010. Jeigu Europos bankininkystės institucija per vieną mėnesį nuo kreipimosi į ją dienos nepriima sprendimo, taikomi patronuojamųjų įmonių pertvarkymo institucijų sprendimai. Pasibaigus keturių mėnesių laikotarpiui ar priėmus bendrą sprendimą, pertvarkymo institucija negali kreiptis į Europos bankininkystės instituciją dėl pagalbos sprendžiant šioje dalyje nurodytus klausimus. Bendras sprendimas ir kiti sprendimai, priimti nepriėmus bendro sprendimo, reguliariai peržiūrimi ir prireikus atnaujinami. Pertvarkytino subjekto pertvarkymo institucija arba grupės pertvarkymo institucija neperduoda klausimo spręsti Europos bankininkystės institucijai, jeigu patronuojamosios įmonės pertvarkymo institucijos nustatytas lygis yra ne didesnis kaip 2 procentai bendros rizikos pozicijų sumos, apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį ir laikantis šio įstatymo 262 straipsnyje nustatytų reikalavimų, ir tenkina šio įstatymo 253 straipsnyje nustatytus reikalavimus.
+10. Jeigu per keturis mėnesius nuo pasiūlymo priimti bendrą sprendimą gavimo dienos pertvarkytino subjekto ar grupės pertvarkymo institucija kreipėsi į Europos bankininkystės instituciją, kad ši, vadovaudamasi Reglamento (ES) Nr. 1093/2010 19 straipsnio 3 dalimi, padėtų institucijoms priimti bendrą sprendimą dėl minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo lygio taikymo subjektams, kurie patys nėra pertvarkytini subjektai, pertvarkymo institucijos, atsakingos už patronuojamąsias įmones, individualiu pagrindu atideda savo sprendimo dėl minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo priėmimą iki Europos bankininkystės institucijos sprendimo priėmimo dienos. Pertvarkymo institucija savo sprendimą priima vadovaudamasi Europos bankininkystės institucijos sprendimu. Keturių mėnesių laikotarpis laikomas taikinamuoju laikotarpiu, kaip jis apibrėžtas Reglamente (ES) Nr. 1093/2010. Jeigu Europos bankininkystės institucija per vieną mėnesį nuo kreipimosi į ją dienos nepriima sprendimo, taikomi patronuojamųjų įmonių pertvarkymo institucijų sprendimai. Pasibaigus keturių mėnesių laikotarpiui ar priėmus bendrą sprendimą, pertvarkymo institucija negali kreiptis į Europos bankininkystės instituciją dėl pagalbos sprendžiant šioje dalyje nurodytus klausimus. Bendras sprendimas ir kiti sprendimai, priimti nepriėmus bendro sprendimo, reguliariai peržiūrimi ir prireikus atnaujinami. Pertvarkytino subjekto pertvarkymo institucija arba grupės pertvarkymo institucija neperduoda klausimo spręsti Europos bankininkystės institucijai, jeigu patronuojamosios įmonės pertvarkymo institucijos nustatytas lygis yra ne didesnis kaip 2 procentai bendros rizikos pozicijų sumos, kredito įstaigoms apskaičiuotos pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 dalį, o finansų maklerio įmonėms Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje nustatytą dydį padauginus iš 12,5 ir laikantis šio įstatymo 262 straipsnyje nustatytų reikalavimų, ir tenkina šio įstatymo 253 straipsnyje nustatytus reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
+ 
 
 
 
@@ -9669,3 +9706,13 @@ Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 1, 2, 101 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 22, 23, 25, 25-4, 26-5, 28, 44, 46, 49-1, 96, 98, 99, 107 straipsnių pakeitimo ir Įstatymo papildymo nauju VIII skyriumi įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 26-1, 26-3, 116, 117, 118 straipsnių ir priedo pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 21-1, 22, 23, 25, 25-1, 25-2, 25-3 ir 26-3 straipsnių pakeitimo įstatymas
