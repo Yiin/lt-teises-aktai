@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2023-11-10 iki 2024-07-24
+Suvestinė redakcija nuo 2024-07-25 iki 2024-12-29
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -701,9 +701,10 @@ Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010IST
 
 
 
-18) elektroninių pinigų leidimas; 
+18) elektroninių pinigų, įskaitant elektroninių pinigų žetonus, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamente (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 7 punkte, leidimas; 
 Straipsnio punkto pakeitimai:
 Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
+Nr. XIV-2882, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13488
  
 
 
@@ -737,9 +738,17 @@ Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 
 
-22) tarpusavio skolinimo platformos operatoriaus veikla.
+22) tarpusavio skolinimo platformos operatoriaus veikla;
 Papildyta straipsnio punktu:
 Nr. XII-2772, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26973
+ 
+
+
+
+
+23) su turtu susietų žetonų, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 6 punkte, leidimas. 
+Papildyta straipsnio punktu:
+Nr. XIV-2882, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13488
  
 
 
@@ -3007,9 +3016,10 @@ priedas
 
 
 
-2. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2021 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/338.
+2. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/1114.
 Punkto pakeitimai:
 Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
+Nr. XIV-2882, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13488
  
 
 
@@ -3187,3 +3197,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 3, 4, 7, 9, 10,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1894, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08613
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 48 straipsnio pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2882, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13488
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 3 straipsnio ir priedo pakeitimo įstatymas
