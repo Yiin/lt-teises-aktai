@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.74D8B260CB90"
 
 # Lietuvos Respublikos Šventosios jūrų uosto įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-07-25
+Suvestinė redakcija nuo 2024-07-26
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 132-4987, i. k. 1061010ISTA000X-910
  
@@ -53,10 +53,12 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Įstatyme vartojamos sąvokos
 
 
-Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatyme ir Lietuvos Respublikos saugios laivybos įstatyme.
+Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatyme, Lietuvos Respublikos saugios laivybos įstatyme ir Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2948, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13613
  
-
-
 
 
 
@@ -90,7 +92,10 @@ Uosto žemės ir akvatorijos teritorijų ribas Palangos miesto savivaldybės tar
 1. Uosto paskirtis:
 
 
-1) priimti pramoginius, mažuosius ir sportinius laivus;
+1) priimti pramoginius, mažuosius ir sportinius laivus ir vykdyti su buriavimo sritimi susijusias neformaliojo švietimo veiklas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2948, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13613
+ 
 
 
 
@@ -110,7 +115,15 @@ Uosto žemės ir akvatorijos teritorijų ribas Palangos miesto savivaldybės tar
 
 
 
-5) atlikti pirminį žuvų apdorojimą, plėtoti prekybą.
+5) atlikti pirminį žuvų apdorojimą, plėtoti prekybą;
+
+
+
+
+6) priimti atsinaujinančius energijos išteklius naudojančioms elektrinėms Lietuvos Respublikos teritorinėje jūroje ir (ar) Lietuvos Respublikos išskirtinėje ekonominėje zonoje Baltijos jūroje vystyti ir prižiūrėti naudojamus laivus ir vykdyti su šia uosto paskirtimi susijusią ūkinę ir komercinę veiklą.
+Papildyta straipsnio punktu:
+Nr. XIV-2948, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13613
+ 
 
 
 
@@ -219,7 +232,10 @@ UOSTO VALDYMAS
 
 
 
-3) nuomoti uosto žemę;
+3) nuomoti uosto žemę ir perduoti ją neatlygintinai naudotis (panaudai); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2948, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13613
+ 
 
 
 
@@ -259,7 +275,10 @@ UOSTO VALDYMAS
 
 
 
-11) užtikrinti neišnuomotos uosto žemės (teritorijos) priežiūrą;
+11) užtikrinti neišnuomotos ar neperduotos neatlygintinai naudotis (panaudai) uosto žemės (teritorijos) priežiūrą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2948, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13613
+ 
 
 
 
@@ -340,7 +359,10 @@ Uosto plėtra planuojama Lietuvos Respublikos teritorijų planavimo įstatymo nu
 
 
 
-4. Uosto žemė gali būti perduodama laikinai neatlygintinai naudotis valstybės institucijoms, kurių veikla uoste privaloma pagal Lietuvos Respublikos įstatymus. Sprendimą perduoti uosto žemę neatlygintinai naudotis priima Palangos miesto savivaldybės taryba. Uosto žemė perduodama laikinai neatlygintinai naudotis Vyriausybės nustatyta tvarka.
+4. Uosto žemė gali būti perduodama laikinai neatlygintinai naudotis (panaudai) valstybės institucijoms, kurių veikla uoste privaloma pagal Lietuvos Respublikos įstatymus, ir su buriavimo sritimi susijusioms neformaliojo švietimo veikloms vykdyti įstaigoms, kurių steigėja ir (ar) dalininkė yra savivaldybė ir kurioms savivaldybė daro lemiamą poveikį, kaip tai apibrėžta Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio 8 dalyje. Sprendimą perduoti uosto žemę neatlygintinai naudotis priima savivaldybės įmonė. Uosto žemė perduodama laikinai neatlygintinai naudotis Vyriausybės nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2948, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13613
+ 
 
 
 Straipsnio pakeitimai:
@@ -353,7 +375,10 @@ Nr. XIV-1915, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08619
 11 straipsnis. Uosto žemės nuomos sąlygos, uosto žemės nuomos sutartis ir terminai
 
 
-1. Uosto žemės nuomos sutartis sudaroma raštu ne ilgiau kaip 25 metams, laikantis Lietuvos Respublikos civiliniame kodekse ir šiame įstatyme nustatytų reikalavimų.
+1. Uosto žemės nuomos sutartis sudaroma raštu ne ilgiau kaip 50 metų, laikantis Lietuvos Respublikos civiliniame kodekse ir šiame įstatyme nustatytų reikalavimų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2948, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13613
+ 
 
 
 
@@ -734,3 +759,8 @@ Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1915, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08619
 Lietuvos Respublikos Šventosios jūrų uosto įstatymo Nr. X-910 4, 5, 7 ir 10 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2948, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13613
+Lietuvos Respublikos šventosios jūrų uosto įstatymo Nr. X-910 2, 4, 7, 10 ir 11 straipsnių pakeitimo įstatymas
