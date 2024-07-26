@@ -13,6 +13,18 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/236dcd008eb411eea5a28c81c82193a8"
 
 # Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2024-07-26
+ 
+Įstatymas paskelbtas: TAR 2023-11-29, i. k. 2023-22970
+ 
+TAR pastaba. Viešųjų įstaigų vadovai, su kuriais, vadovaujantis Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 pakeitimo įstatymo Nr. XIV 2242 2 straipsnio 12 dalimi, sudarytos terminuotos vienų metų darbo sutartys, įstaigos vadovo pareigas eina iki 2029 m. gegužės 2 d. Einamų viešosios įstaigos vadovo pareigų laikotarpis iki 2029 m. gegužės 2 d. laikomas antrąja viešosios įstaigos vadovo kadencija.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2936, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13609
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 pakeitimo įstatymo Nr. XIV-2242 2 straipsnio pakeitimo įstatymas
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VIEŠŲJŲ ĮSTAIGŲ ĮSTATYMO NR. I-1428 PAKEITIMO
 ĮSTATYMAS
@@ -1902,17 +1914,26 @@ Viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldy
 
 
 
-10. Viešųjų įstaigų, kurių savininkė ar dalininkė, turinti daugiau kaip 1/2 balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, vadovai, paskirti iki šio įstatymo įsigaliojimo ir pareigas einantys trumpiau negu 5 metus, toliau eina savo pareigas 5 metus nuo šio įstatymo įsigaliojimo dienos. Šis 5 metų laikotarpis prilyginamas pirmajai kadencijai einant vadovo pareigas.
+10. Viešųjų įstaigų, kurių savininkė ar dalininkė, turinti daugiau kaip 1/2 balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, vadovai, paskirti iki šio įstatymo įsigaliojimo dienos ir pareigas einantys 5 metus ar trumpiau, toliau eina savo pareigas 5 metus nuo šio įstatymo įsigaliojimo dienos. Šis 5 metų laikotarpis prilyginamas pirmajai kadencijai einant vadovo pareigas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2936, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13609
+ 
 
 
 
 
-11. Viešųjų įstaigų, kurių savininkė ar dalininkė, turinti daugiau kaip 1/2 balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, vadovai, paskirti iki šio įstatymo įsigaliojimo ir pareigas einantys ilgiau negu 5 metus, bet trumpiau negu 10 metų, toliau eina savo pareigas 5 metus nuo šio įstatymo įsigaliojimo dienos. Šis 5 metų laikotarpis prilyginamas antrajai kadencijai einant vadovo pareigas.
+11. Viešųjų įstaigų, kurių savininkė ar dalininkė, turinti daugiau kaip 1/2 balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, vadovai, paskirti iki šio įstatymo įsigaliojimo dienos ir pareigas einantys ilgiau negu 5 metus, toliau eina savo pareigas 5 metus nuo šio įstatymo įsigaliojimo dienos. Šis 5 metų laikotarpis prilyginamas antrajai kadencijai einant vadovo pareigas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2936, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13609
+ 
 
 
 
 
-12. Viešųjų įstaigų, kurių savininkė ar dalininkė, turinti daugiau kaip 1/2 balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, vadovai, paskirti iki šio įstatymo įsigaliojimo ir pareigas einantys ilgiau negu 10 metų, toliau eina savo pareigas vienus metus nuo šio įstatymo įsigaliojimo dienos, išskyrus, kai jiems šio įstatymo įsigaliojimo dieną iki teisės gauti senatvės pensiją yra likę mažiau kaip 5 metai. Šiuo atveju viešųjų įstaigų vadovai toliau eina savo pareigas iki teisės gauti senatvės pensiją įgijimo dienos.
+12. Viešųjų įstaigų, kurių savininkė ar dalininkė, turinti daugiau kaip 1/2 balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, vadovai, kurie yra paskirti iki šio įstatymo įsigaliojimo dienos ir kuriems šio įstatymo įsigaliojimo dieną iki teisės gauti visą socialinio draudimo senatvės pensiją yra likę ne daugiau kaip 5 metai, toliau eina vadovo pareigas iki tos dienos, kai įgyja teisę gauti visą socialinio draudimo senatvės pensiją.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2936, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13609
+ 
 
 
 
@@ -1976,3 +1997,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2936, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13609
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 pakeitimo įstatymo Nr. XIV-2242 2 straipsnio pakeitimo įstatymas
