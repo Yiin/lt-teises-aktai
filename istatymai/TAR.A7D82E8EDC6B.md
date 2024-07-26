@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-07-25
+Suvestinė redakcija nuo 2024-07-26 iki 2024-12-12
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
  
@@ -1704,4 +1704,9 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2312, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24180
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 7 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2935, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13608
 Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 7 straipsnio pakeitimo įstatymas
