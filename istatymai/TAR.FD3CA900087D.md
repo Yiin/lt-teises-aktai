@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/fd3ca900087d11efbcbfb318996800a8"
 
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 3, 6, 14, 16 ir 22 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2024-07-26
+ 
+Įstatymas paskelbtas: TAR 2024-05-02, i. k. 2024-08221
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 SU NEKILNOJAMUOJU TURTU SUSIJUSIO KREDITO ĮSTATYMO NR. XII-2769 3, 6, 14, 16 IR 22 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -28,7 +35,10 @@ Vilnius
 
 Pakeisti 3 straipsnio 34 dalį ir ją išdėstyti taip:
 
-„34. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos įmonių atskaitomybės įstatyme, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos privalomojo turto ir verslo vertinimo įstatyme ir Lietuvos Respublikos užimtumo įstatyme.“
+„34. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos kredito administratorių ir kredito pirkėjų įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos privalomojo turto ir verslo vertinimo įstatyme ir Lietuvos Respublikos užimtumo įstatyme.“
+
+Straipsnio pakeitimai:
+Nr. XIV-2934, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13607
  
 
 2 straipsnis. 6 straipsnio pakeitimas
@@ -85,4 +95,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2934, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13607
+Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 3, 6, 14, 16 ir 22 straipsnių pakeitimo įstatymo Nr. XIV-2580 1 straipsnio pakeitimo įstatymas
 
