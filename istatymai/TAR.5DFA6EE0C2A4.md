@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/5dfa6ee0c2a411ea9815f635b9c0dcef"
 
 # Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir 36 straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymas
 
-Suvestinė redakcija nuo 2024-07-09 iki 2024-07-25
+Suvestinė redakcija nuo 2024-07-26
  
 Įstatymas paskelbtas: TAR 2020-07-10, i. k. 2020-15543
  
@@ -50,22 +50,24 @@ Papildyti 5 straipsnį 5 punktu:
 
 
 
-2 straipsnis. 14 straipsnio pakeitimas 
+2 straipsnis. 14 straipsnio pakeitimas
 
 
-Pakeisti 14 straipsnio 7 dalį ir ją išdėstyti taip:
+Pakeisti 14 straipsnio 7 dalį ir ją išdėstyti taip: 
 
 
 
 
-„7. Mokinių, turinčių specialiųjų ugdymosi poreikių, ugdymą įgyvendina visos privalomąjį ir visuotinį švietimą teikiančios mokyklos, kiti švietimo teikėjai. Ugdymo procesą, kuriame dalyvauja mokiniai, turintys nedidelių ir vidutinių specialiųjų ugdymosi poreikių, gali vykdyti daugiau kaip vienas mokytojas, ugdymo procesą, kuriame dalyvauja mokiniai, turintys didelių ar labai didelių specialiųjų ugdymosi poreikių, vykdo daugiau kaip vienas mokytojas. Kartu su mokytoju pagalbą mokiniui teikia švietimo pagalbos specialistai.“
+„7. Mokinių, turinčių specialiųjų ugdymosi poreikių, ugdymą įgyvendina visos privalomąjį ir visuotinį švietimą teikiančios mokyklos, kiti švietimo teikėjai. Šio straipsnio 1 dalyje nurodyta švietimo, mokslo ir sporto ministro nustatyta tvarka ugdymo procesą, kuriame dalyvauja mokiniai, turintys nedidelių ir vidutinių specialiųjų ugdymosi poreikių, gali vykdyti vienas mokytojas arba mokytojas, ugdymo procese dalyvaujant švietimo pagalbą teikiančiam asmeniui, arba daugiau kaip vienas mokytojas, o ugdymo procesą, kuriame dalyvauja mokiniai, turintys didelių ar labai didelių specialiųjų ugdymosi poreikių, vykdo mokytojas, ugdymo procese dalyvaujant švietimo pagalbą teikiančiam asmeniui, arba daugiau kaip vienas mokytojas. Švietimo pagalbą teikiantys asmenys, dalyvaujantys ugdymo procese, privalo atitikti švietimo, mokslo ir sporto ministro nustatytus reikalavimus.“
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2950, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13617
  
-
-
-
-
-
-
 
 
 
@@ -249,6 +251,14 @@ Nr. XIV-2846, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12740
 
 
 
+4. Švietimo pagalbą teikiantys asmenys, dalyvaujantys ugdymo procese (išskyrus mokyklų psichologus, socialinius pedagogus, specialiuosius pedagogus, logopedus, tiflopedagogus, surdopedagogus ir kitus specialistus, teikiančius specialiąją pedagoginę pagalbą) priimti į darbą iki šio įstatymo įsigaliojimo dienos, švietimo, mokslo ir sporto ministro nustatytus reikalavimus privalo atitikti iki 2027 m. rugsėjo 1 d.
+Papildyta straipsnio dalimi:
+Nr. XIV-2950, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13617
+ 
+
+
+
+
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -276,3 +286,8 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir 36 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2846, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12740
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir 36 straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymo Nr. XIII-3268 3 ir 9 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2950, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13617
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir 36 straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymo Nr. XIII-3268 2 ir 9 straipsnių pakeitimo įstatymas
