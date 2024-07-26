@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2024-07-25
+Suvestinė redakcija nuo 2024-07-26 iki 2024-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
  
@@ -658,7 +658,7 @@ Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
 
 
 
-11) naudojimąsi gyvenamųjų vietovių viešąja turizmo ir poilsio infrastruktūra, kaip ji apibrėžta Lietuvos Respublikos turizmo įstatyme, išskyrus vaikus iki 18 metų.
+11) naudojimąsi gyvenamųjų vietovių viešąja turizmo ir poilsio infrastruktūra, kaip ji apibrėžta Lietuvos Respublikos turizmo įstatyme, išskyrus vaikus iki 18 metų;
 Straipsnio punkto pakeitimai:
 Nr. XII-1669, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07660
  
@@ -750,7 +750,9 @@ Nr. XII-1128, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13616
 
 
 
-3. Savivaldybės taryba atskiru sprendimu gali vietinės rinkliavos dydį kartą per metus indeksuoti, taikydama metinį vartojimo kainų indeksą, jeigu jis didesnis negu 1,1.
+3. Savivaldybės taryba atskiru sprendimu gali vietinės rinkliavos dydį kartą per metus indeksuoti taikydama metinį vartotojų kainų indeksą, jeigu jis didesnis kaip 110.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2962, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13623
  
 
 
@@ -1203,3 +1205,18 @@ Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 2 ir 12 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6, 6-1, 7 ir 8 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2552, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07451
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6 ir 11 straipsnių pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2871, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12656
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 11 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2962, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13623
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 11 ir 13 straipsnių pakeitimo įstatymas
