@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-07-25
+Suvestinė redakcija nuo 2024-07-26 iki 2024-08-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
  
@@ -1461,12 +1461,17 @@ MOBILIZACIJOS SISTEMOS FINANSAVIMAS
 
 
 
-3. Mobilizacijos sistemos finansavimo šaltinių lėšų apskaita tvarkoma vadovaujantis Lietuvos Respublikos buhalterinės apskaitos įstatymu, Biudžeto sandaros įstatymu, Lietuvos Respublikos valstybės iždo įstatymu ir kitais finansavimo šaltinių lėšų apskaitą reglamentuojančiais teisės aktais. 
+3. Mobilizacijos sistemos finansavimo šaltinių lėšų apskaita tvarkoma vadovaujantis Lietuvos Respublikos finansinės apskaitos įstatymu, Biudžeto sandaros įstatymu, Lietuvos Respublikos valstybės iždo įstatymu ir kitais finansavimo šaltinių lėšų apskaitą reglamentuojančiais teisės aktais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
+ 
 
 
 
 
-4. Civilinei mobilizacijos institucijai pavaldžių subjektų veikla, vykdant šiame įstatyme nustatytus mobilizacijos sistemos ir priimančiosios šalies paramos teikimo uždavinius, finansuojama iš civilinei mobilizacijos institucijai skiriamų valstybės biudžeto asignavimų ar šiame įstatyme nustatytais atvejais panaudojant valstybės rezervą.
+4. Civilinei mobilizacijos institucijai pavaldžių subjektų veikla vykdant šiame įstatyme nustatytus mobilizacijos sistemos ir priimančiosios šalies paramos teikimo uždavinius finansuojama iš civilinei mobilizacijos institucijai skiriamų valstybės biudžeto asignavimų, šiame įstatyme nustatytais atvejais panaudojant valstybės rezervą, ar kitomis teisėtai gautomis lėšomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
  
 
 
@@ -1553,3 +1558,8 @@ Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2731, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11568
 Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 2, 18 ir 22 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
+Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 2, 10, 11, 12, 14, 17, 18, 20, 26 straipsnių pakeitimo ir Įstatymo papildymo 17-1, 18-1 straipsniais įstatymas
