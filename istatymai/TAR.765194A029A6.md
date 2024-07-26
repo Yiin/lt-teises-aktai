@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/765194a029a611eb932eb1ed7f923910"
 
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir įstatymo papildymo 6-1 straipsniu įstatymas
 
-Suvestinė redakcija nuo 2023-12-15 iki 2024-07-25
+Suvestinė redakcija nuo 2024-07-26 iki 2024-12-12
  
 Įstatymas paskelbtas: TAR 2020-11-18, i. k. 2020-24269
  
@@ -320,16 +320,18 @@ finansavimo įstatymo
 
 7 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
-1. Šis įstatymas, išskyrus 4 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalis ir šio straipsnio 3 ir 4 dalis, įsigalioja 2025 m. sausio 1 d. 
+1. Šis įstatymas, išskyrus 4 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalis ir šio straipsnio 3 ir 4 dalis, įsigalioja 2025 m. liepos 1 d. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-2312, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24180
+Nr. XIV-2935, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13608
  
 
 2. Šio įstatymo 4 straipsnio 1, 2, 3, 4, 5, 6, 7 ir 8 dalys įsigalioja 2023 m. sausio 3 d.
 
-3. Iki 2024 m. gruodžio 31 d. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija priima šio įstatymo įgyvendinamuosius teisės aktus.
+3. Iki 2025 m. birželio 30 d. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija priima šio įstatymo įgyvendinamuosius teisės aktus.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2312, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24180
+Nr. XIV-2935, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13608
  
 
 4. Elektroninės kelių rinkliavos informacinės sistemos sukūrimo ir įdiegimo finansavimui užtikrinti valstybės įmonei Lietuvos automobilių kelių direkcijai Vyriausybė suteikia valstybės garantiją dėl ne didesnės kaip 90 milijonų eurų paskolos. Valstybės įmonę Lietuvos automobilių kelių direkciją pertvarkius į akcinę bendrovę, šias teises ir pareigas perima akcinė bendrovė Lietuvos automobilių kelių direkcija.
@@ -363,5 +365,10 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2312, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24180
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 7 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2935, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13608
 Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 7 straipsnio pakeitimo įstatymas
 
