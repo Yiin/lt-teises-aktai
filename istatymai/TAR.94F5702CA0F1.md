@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2024-04-01 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01 iki 2025-02-28
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
  
@@ -598,7 +598,10 @@ Nr. XIII-3216, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15753
 
 
 
-14 straipsnis. Drausminių nuobaudų skyrimo procedūra
+14 straipsnis. Antstolių garbės teismo sprendimai 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2545, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07539
+ 
 
 
 1. Antstolių garbės teismas, išnagrinėjęs drausmės bylą, priima vieną iš šių sprendimų:
@@ -624,7 +627,15 @@ Nr. XIII-3216, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15753
 
 
 
-5) teikti Lietuvos antstolių rūmų prezidiumo pirmininkui siūlymą atimti iš asmens teisę vykdyti antstolio padėjėjo veiklą.
+5) teikti Lietuvos antstolių rūmų prezidiumo pirmininkui siūlymą atimti iš asmens teisę vykdyti antstolio padėjėjo veiklą;
+
+
+
+
+6) skirti Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 1, 2 ir 6 punktuose numatytas poveikio priemones.
+Papildyta straipsnio punktu:
+Nr. XIV-2545, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07539
+ 
 
 
 
@@ -720,6 +731,34 @@ Nr. XIII-3216, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15753
 
 Straipsnio pakeitimai:
 Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
+
+
+
+
+151 straipsnis. Pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimo priežiūra
+
+
+1. Lietuvos antstolių rūmai prižiūri, ar antstolis, antstolio atstovas laikosi Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo reikalavimų.
+
+
+
+
+2. Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo reikalavimus galimai pažeidusiam antstoliui, antstolio atstovui Lietuvos antstolių rūmų prezidiumo sprendimu gali būti keliama drausmės byla, kurią nagrinėja Antstolių garbės teismas.
+
+
+
+
+3. Antstolių garbės teismas antstoliui, antstolio atstovui už šio straipsnio 2 dalyje nurodytus pažeidimus gali paskirti Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 1, 2 ir 6 punktuose numatytas poveikio priemones. 
+
+
+
+
+4. Šio įstatymo nuostatos dėl drausmės bylos iškėlimo, nagrinėjimo, Antstolių garbės teismo sprendimo priėmimo, įsiteisėjimo ir drausminės nuobaudos galiojimo, nagrinėjant šio straipsnio 2 dalyje nurodytus pažeidimus, taikomos tiek, kiek neprieštarauja Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo nuostatoms.
+
+
+Papildyta straipsniu:
+Nr. XIV-2545, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07539
  
 
 
@@ -2269,3 +2308,8 @@ Lietuvos Respublikos antstolių įstatymo Nr. IX-876 10 ir 32 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2318, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25071
 Lietuvos Respublikos antstolių įstatymo Nr. IX-876 2, 4, 5, 6, 8, 10, 11, 12, 14, 20, 21, 22, 28, 29, 32, 33, 34, 35, 36, 37, 43, 43-1, 46 ir 48 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2545, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07539
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 14 straipsnio pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
