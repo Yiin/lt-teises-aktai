@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-24 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
  
@@ -372,7 +372,6 @@ Nr. XIV-791, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27367
 
 
 4. Apie sužalotus pacientus, kuriems žala galėjo būti padaryta nusikalstama veika, sveikatos priežiūros įstaigos privalo nedelsdamos pranešti teisėsaugos institucijoms.
- 
 
 
 
@@ -500,14 +499,15 @@ Nr. XII-2037, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18597
 13 straipsnis. Teisė į žalos atlyginimą
 
 
-Pacientas ir asmuo, kuris buvo mirusio paciento išlaikomas arba jo mirties dieną turėjo teisę gauti iš jo išlaikymą (nepilnamečiai vaikai (įvaikiai), sutuoktinis, nedarbingi tėvai (įtėviai) ar kiti faktiniai nedarbingi išlaikytiniai), taip pat mirusio paciento vaikas, gimęs po jo mirties, turi teisę į turtinės ir neturtinės žalos, atsiradusios dėl paciento sveikatai padarytos žalos (toliau – žala), atlyginimą. Teisę į neturtinės žalos atlyginimą taip pat turi mirusio paciento darbingi tėvai (įtėviai) ir pilnamečiai vaikai (įvaikiai), kuriuos su pacientu siejo ypač artimas ir glaudus ryšys. Dėl mirusio paciento ir jo tėvų bei pilnamečių vaikų ryšio artimumo ir glaudumo sprendžia Pacientų sveikatai padarytos žalos nustatymo komisija (toliau – Komisija) pagal mirusio paciento tėvų (įtėvių) ir pilnamečių vaikų (įvaikių) ar jų atstovo pateiktus duomenis, patvirtinančius paciento ir jo tėvų bei pilnamečių vaikų ypač artimą ir glaudų ryšį (atsižvelgiant į bendravimo intensyvumą ir rūpinimosi vienas kitu pobūdį). 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 13 straipsnis (2019 m. gruodžio 17 d. redakcija; TAR, 2019-12-30, Nr. 21552) tiek, kiek pagal jį ne visi asmenys, dėl paciento mirties patyrę neturtinę žalą, turi teisę į tokios žalos atlyginimą šio įstatymo nustatyta tvarka, prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 2 daliai, konstituciniams teisingumo, teisinės valstybės principams.
+Pacientas ir asmuo, kuris buvo mirusio paciento išlaikomas arba jo mirties dieną turėjo teisę gauti iš jo išlaikymą (nepilnamečiai vaikai (įvaikiai), sutuoktinis, nedarbingi tėvai (įtėviai) ar kiti faktiniai nedarbingi išlaikytiniai), taip pat mirusio paciento vaikas, gimęs po jo mirties, turi teisę į turtinės ir neturtinės žalos, atsiradusios dėl paciento sveikatai padarytos žalos, (toliau – žala) atlyginimą. Teisę į neturtinės žalos atlyginimą taip pat turi kiti asmenys, kuriuos su pacientu siejo ypač artimas ir glaudus ryšys. Dėl mirusio paciento ir šių asmenų ryšio artimumo ir glaudumo sprendžia Pacientų sveikatai padarytos žalos nustatymo komisija (toliau – Komisija) pagal šių asmenų ar jų atstovo pateiktus duomenis, patvirtinančius paciento ir šių asmenų ypač artimą ir glaudų ryšį (atsižvelgiant į bendravimo intensyvumą ir rūpinimosi vienas kitu pobūdį).
+TAR pastaba: straipsnio nuostatos taikomos apskaičiuojant Pacientų sveikatai padarytos žalos nustatymo komisijos (toliau – Komisija) narių, ekspertų sąraše nurodytų sveikatos priežiūros specialistų ir kitų ekspertų sąraše nenurodytų sveikatos priežiūros specialistų, teikiančių išvadas Komisijai, (toliau kartu – ekspertai) atlygį nuo 2024 m. sausio 1 d. Komisijos nariams ir ekspertams nuo 2024 m. sausio 1 d. iki šio įstatymo įsigaliojimo dienos sumokėto atlygio ir šiuo laikotarpiu mokėtino atlygio, apskaičiuoto pagal šį įstatymą, skirtumą Vyriausybės įgaliota institucija Komisijos nariams ir ekspertams sumoka ne vėliau kaip per 30 darbo dienų nuo šio įstatymo įsigaliojimo dienos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2377, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12799
 Nr. XIII-2703, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21552
 Nr. KT10-N1/2024, 2024-01-24, paskelbta TAR 2024-01-24, i. k. 2024-01136
+Nr. XIV-2797, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12617
  
 
 
@@ -1027,7 +1027,11 @@ Nr. XIV-1489, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22951
 
 
 
-5. Komisijos nariams atlygis už darbą mokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatyme nustatyta tvarka. Komisijos nariams taip pat mokamas 0,082 pareiginės algos bazinio dydžio atlygis už vieną atstovavimo teismuose nagrinėjant vieną civilinę bylą valandą ir 0,14 pareiginės algos bazinio dydžio atlygis už pasiruošimą atstovauti viename teismo posėdyje. Konkretus Komisijos narių atlygio už darbą dydis ir mokėjimo tvarka nustatomi Komisijos nuostatuose.
+5. Komisijos nariams atlygis už darbą mokamas Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatyme nustatyta tvarka. Komisijos narių atlygio už darbą mokėjimo tvarka nustatoma Komisijos nuostatuose. Komisijos nariams taip pat mokamas 0,009 pareiginės algos (atlyginimo) bazinio dydžio (toliau – pareiginės algos bazinis dydis) atlygis už vieną atstovavimo teismuose nagrinėjant vieną civilinę bylą valandą ir 0,015 pareiginės algos bazinio dydžio atlygis už pasiruošimą atstovauti viename teismo posėdyje. 
+TAR pastaba: dalies nuostatos taikomos apskaičiuojant Pacientų sveikatai padarytos žalos nustatymo komisijos (toliau – Komisija) narių, ekspertų sąraše nurodytų sveikatos priežiūros specialistų ir kitų ekspertų sąraše nenurodytų sveikatos priežiūros specialistų, teikiančių išvadas Komisijai, (toliau kartu – ekspertai) atlygį nuo 2024 m. sausio 1 d. Komisijos nariams ir ekspertams nuo 2024 m. sausio 1 d. iki šio įstatymo įsigaliojimo dienos sumokėto atlygio ir šiuo laikotarpiu mokėtino atlygio, apskaičiuoto pagal šį įstatymą, skirtumą Vyriausybės įgaliota institucija Komisijos nariams ir ekspertams sumoka ne vėliau kaip per 30 darbo dienų nuo šio įstatymo įsigaliojimo dienos.  
+Straipsnio dalies pakeitimai:
+Nr. XIV-2797, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12617
+ 
 
 
 
@@ -1047,7 +1051,11 @@ Nr. XIV-1489, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22951
 
 
 
-9. Ekspertui ir kitam sveikatos priežiūros specialistui mokamas 2,27 Lietuvos Respublikos Seimo patvirtinto atitinkamų metų pareiginės algos bazinio dydžio atlygis už sveikatos apsaugos ministro nustatytus reikalavimus atitinkančios išvados pateikimą ir 0,082 Seimo patvirtinto atitinkamų metų pareiginės algos bazinio dydžio atlygis už kiekvieną dalyvavimo Komisijos posėdyje valandą. Šio įstatymo 25 straipsnio 1 dalyje nurodytais atvejais ekspertui ir kitam sveikatos priežiūros specialistui taip pat mokamas 0,082 pareiginės algos bazinio dydžio atlygis už vieną atstovavimo teismuose nagrinėjant vieną civilinę bylą valandą ir 0,14 pareiginės algos bazinio dydžio atlygis už pasiruošimą atstovauti viename teismo posėdyje.
+9. Ekspertui ir kitam sveikatos priežiūros specialistui mokamas 0,237 pareiginės algos bazinio dydžio atlygis už sveikatos apsaugos ministro nustatytus reikalavimus atitinkančios išvados pateikimą ir 0,009 pareiginės algos bazinio dydžio atlygis už kiekvieną dalyvavimo Komisijos posėdyje valandą. Šio įstatymo 25 straipsnio 1 dalyje nurodytais atvejais ekspertui ir kitam sveikatos priežiūros specialistui taip pat mokamas 0,009 pareiginės algos bazinio dydžio atlygis už vieną atstovavimo teismuose nagrinėjant vieną civilinę bylą valandą ir 0,015 pareiginės algos bazinio dydžio atlygis už pasiruošimą atstovauti viename teismo posėdyje.
+TAR pastaba: dalies nuostatos taikomos apskaičiuojant Pacientų sveikatai padarytos žalos nustatymo komisijos (toliau – Komisija) narių, ekspertų sąraše nurodytų sveikatos priežiūros specialistų ir kitų ekspertų sąraše nenurodytų sveikatos priežiūros specialistų, teikiančių išvadas Komisijai, (toliau kartu – ekspertai) atlygį nuo 2024 m. sausio 1 d. Komisijos nariams ir ekspertams nuo 2024 m. sausio 1 d. iki šio įstatymo įsigaliojimo dienos sumokėto atlygio ir šiuo laikotarpiu mokėtino atlygio, apskaičiuoto pagal šį įstatymą, skirtumą Vyriausybės įgaliota institucija Komisijos nariams ir ekspertams sumoka ne vėliau kaip per 30 darbo dienų nuo šio įstatymo įsigaliojimo dienos.  
+Straipsnio dalies pakeitimai:
+Nr. XIV-2797, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12617
+ 
 
 
 
@@ -1378,3 +1386,13 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT10-N1/2024, 2024-01-24, paskelbta TAR 2024-01-24, i. k. 2024-01136
 Dėl Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 13 straipsnio (2019 m. gruodžio 17 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2614, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08906
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 9 ir 12 straipsnių pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2797, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12617
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 13 ir 26 straipsnių pakeitimo įstatymas
