@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2024-07-25 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -1495,9 +1495,12 @@ Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
 
 
 
-4. Finansų įstaigos ir kiti įpareigotieji subjektai turi teisę gauti šiame įstatyme nurodytus kliento ar naudos gavėjo tapatybei nustatyti reikalingus dokumentus, duomenis ar informaciją tiesiogiai iš valstybės informacinių sistemų ar registrų ir nereikalauti iš kliento, kad jis pats pateiktų šiuos dokumentus, duomenis ar informaciją, jeigu klientas finansų įstaigos ar kito įpareigotojo subjekto dokumentus, duomenis ar informaciją, gautus tiesiogiai iš valstybės informacinių sistemų ar registrų, patvirtina parašu (įskaitant pažangųjį elektroninį parašą arba kvalifikuotą elektroninį parašą). Finansų įstaigos ir kiti įpareigotieji subjektai turi teisę nereikalauti, kad klientas finansų įstaigos ar kito įpareigotojo subjekto tiesiogiai iš valstybės informacinių sistemų ar registrų gautus dokumentus, duomenis ar informaciją patvirtintų parašu, jeigu tokie dokumentai, duomenys ar informacija nesiskiria nuo anksčiau kliento parašu patvirtintų dokumentų, duomenų ar informacijos, jeigu iš valstybės informacinių sistemų ar registrų gauti dokumentai, duomenys ar informacija yra apie juridinio asmens vadovą, taip pat jeigu tokie dokumentai, duomenys ar informacija gauti iš Lietuvos Respublikos gyventojų registro. Visais šioje dalyje nurodytais atvejais turi būti laikomasi šio straipsnio 1 dalyje nustatytų reikalavimų. 
+4. Finansų įstaigos ir kiti įpareigotieji subjektai turi teisę gauti šiame įstatyme nurodytus kliento ar naudos gavėjo tapatybei nustatyti reikalingus dokumentus, duomenis ar informaciją tiesiogiai iš Lietuvos Respublikos ir (ar) kitų valstybių informacinių sistemų ar registrų ir nereikalauti iš kliento, kad jis pats pateiktų šiuos dokumentus, duomenis ar informaciją, jeigu klientas finansų įstaigos ar kito įpareigotojo subjekto dokumentus, duomenis ar informaciją, gautus tiesiogiai iš valstybės informacinių sistemų ar registrų, patvirtina parašu (įskaitant pažangųjį elektroninį parašą arba kvalifikuotą elektroninį parašą). Finansų įstaigos ir kiti įpareigotieji subjektai turi teisę nereikalauti, kad klientas finansų įstaigos ar kito įpareigotojo subjekto tiesiogiai iš Lietuvos Respublikos ir (ar) kitų valstybių informacinių sistemų ar registrų gautus dokumentus, duomenis ar informaciją patvirtintų parašu, jeigu tokie dokumentai, duomenys ar informacija nesiskiria nuo anksčiau kliento parašu patvirtintų dokumentų, duomenų ar informacijos, taip pat jeigu tokie dokumentai, duomenys ar informacija gauti iš Lietuvos Respublikos ir (ar) kitų Europos Sąjungos valstybių narių informacinių sistemų ir (ar) registrų. Visais šioje dalyje nurodytais atvejais turi būti laikomasi šio straipsnio 1 dalyje nustatytų reikalavimų.
+ 
 Papildyta straipsnio dalimi:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
  
 
 
@@ -2304,9 +2307,11 @@ Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
 
 
 
-12) elektroninių pinigų išleidimo atvejais, kai per kalendorinius metus išleistų elektroninių pinigų bendrai vertei taikoma 1 000 eurų arba ją atitinkančios sumos užsienio valiuta riba, o elektroninių pinigų leidimo apribojimas taikomas išimtinai tik elektroninės prekybos platformų – interneto svetainių, mobiliųjų įrenginių programų ir kitų taikomųjų programų, skirtų elektroninei prekybai tarp jose registruotų vartotojų vykdyti, – vartotojų tarpusavio atsiskaitymams ir sukauptų lėšų pervedimas galimas tik į kliento kredito, mokėjimo ar elektroninių pinigų įstaigoje turimą sąskaitą, kai kredito, mokėjimo ar elektroninių pinigų įstaiga yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingos institucijos prižiūri, kaip ji šių reikalavimų laikosi, išskyrus atvejus, kai tais pačiais kalendoriniais metais elektroninių pinigų turėtojo prašymu išperkama 500 eurų arba ją atitinkanti suma užsienio valiuta ar didesnė suma grynaisiais pinigais. Elektroninės prekybos platforma šiuo atveju suprantama kaip technologinis sprendinys elektroninei prekybai tarp tos platformos registruotų vartotojų vykdyti. 
+12) elektroninių pinigų išleidimo atvejais, kai per kalendorinius metus išleistų elektroninių pinigų bendrai vertei taikoma 1 000 eurų arba ją atitinkančios sumos užsienio valiuta riba, o elektroninių pinigų leidimo apribojimas taikomas išimtinai tik elektroninės prekybos platformų – interneto svetainių, mobiliųjų įrenginių programų ir kitų taikomųjų programų, skirtų elektroninei prekybai tarp jose registruotų vartotojų vykdyti, – vartotojų tarpusavio ir kitiems atsiskaitymams, susijusiems su vartotojų tarpusavio prekyba elektroninės prekybos platformoje, ir sukauptų lėšų pervedimas galimas tik į kliento kredito, mokėjimo ar elektroninių pinigų įstaigoje turimą sąskaitą, kai kredito, mokėjimo ar elektroninių pinigų įstaiga yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingos institucijos prižiūri, kaip ji šių reikalavimų laikosi, išskyrus atvejus, kai tais pačiais kalendoriniais metais elektroninių pinigų turėtojo prašymu išperkama 500 eurų arba ją atitinkanti suma užsienio valiuta ar didesnė suma grynaisiais pinigais. Elektroninės prekybos platforma šiuo atveju suprantama kaip technologinis sprendinys elektroninei prekybai tarp tos platformos registruotų vartotojų vykdyti.
 Papildyta straipsnio punktu:
 Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
+Straipsnio punkto pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
  
 
 
@@ -2394,6 +2399,72 @@ Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
  
 
 
+
+
+
+
+151 straipsnis. Keitimasis informacija tarp finansų įstaigų 
+
+
+1. Finansų įstaigos, siekdamos įgyvendinti šiame įstatyme joms nustatytas pinigų plovimo ir (ar) teroristų finansavimo, įskaitant ir tarptautinių finansinių sankcijų ir (ar) ribojamųjų priemonių netinkamo įgyvendinimo, prevencijos priemones, turi teisę keistis informacija apie klientą ir jo atstovą, kliento naudos gavėją, kliento, kuris yra juridinis asmuo, nuosavybės ir kontrolės struktūroje dalyvaujančius asmenis ir (ar) pinigines operacijas ar sandorius, kai joms kyla įtarimų dėl galimo pinigų plovimo ir (ar) teroristų finansavimo, įskaitant galimą tarptautinių finansinių sankcijų ir (ar) ribojamųjų priemonių netinkamą įgyvendinimą. Keitimosi informacija apie klientą ir jo atstovą, kliento naudos gavėją, kliento, kuris yra juridinis asmuo, nuosavybės ir kontrolės struktūroje dalyvaujančius asmenis ir (ar) pinigines operacijas ar sandorius tvarką nustato Finansinių nusikaltimų tyrimo tarnybos direktorius. 
+
+
+
+
+2. Finansų įstaigos asmens duomenis tvarko vadovaudamosi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo, kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu), ir keičiasi tik ta informacija apie klientą ir jo atstovą, kliento naudos gavėją, kliento, kuris yra juridinis asmuo, nuosavybės ir kontrolės struktūroje dalyvaujančius asmenis ir (ar) pinigines operacijas ar sandorius, kuri yra būtina siekiant įgyvendinti šio straipsnio 1 dalyje nurodytus tikslus.
+
+
+Papildyta straipsniu:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
+
+
+
+
+152 straipsnis. Tapatybės nustatymo ir stebėsenos veiklos funkcijų perdavimas kitam asmeniui
+
+
+1. Finansų įstaigos ir kiti įpareigotieji subjektai turi teisę perduoti kliento ir naudos gavėjo tapatybės nustatymo ir nuolatinės dalykinių santykių stebėsenos veiklos funkcijas (toliau – veiklos funkcijos) kitam Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, kuri taiko Europos Sąjungos valstybėje narėje nustatytiems klientų ir naudos gavėjų tapatybės nustatymo reikalavimams ir informacijos saugojimo reikalavimams lygiaverčius reikalavimus, registruotam asmeniui, kuris nėra trečioji šalis (toliau šiame straipsnyje – kitas asmuo). 
+
+
+
+
+2. Finansų įstaigos ir kiti įpareigotieji subjektai, perduodami šio straipsnio 1 dalyje nurodytas veiklos funkcijas kitam asmeniui, turi laikytis šių reikalavimų:
+
+
+1) veiklos funkcijų vykdymo perdavimas kitam asmeniui yra nustatytas finansų įstaigos ar kito įpareigotojo subjekto vidaus politikos ir vidaus kontrolės procedūrose;
+
+
+
+
+2) tarp finansų įstaigos ar kito įpareigotojo subjekto ir kito asmens, kuriam yra perduodamos veiklos funkcijos, yra sudaryta rašytinė sutartis, nustatanti, be kita ko, veiklos funkcijų perdavimą, reguliarų kliento ir naudos gavėjo tapatybės nustatymo metu pateiktų dokumentų, duomenų ar informacijos atnaujinimą, keitimąsi informacija apie nustatytus šiame įstatyme nurodytų kliento ir naudos gavėjo tapatybės nustatymo reikalavimų pažeidimus;
+
+
+
+
+3) prieš perduodama veiklos funkcijas kitam asmeniui, finansų įstaiga ar kitas įpareigotasis subjektas įsitikino, kad kitas asmuo laikosi šiame įstatyme nurodytų kliento ar naudos gavėjo tapatybės nustatymo reikalavimų. Paaiškėjus naujoms aplinkybėms ar pasikeitus teisės normoms, finansų įstaiga ar kitas įpareigotasis subjektas privalo peržiūrėti ir atnaujinti informaciją, ar kitas asmuo laikosi šiame įstatyme nurodytų kliento ar naudos gavėjo tapatybės nustatymo reikalavimų, ir tęsti veiklos funkcijų perdavimą tik tuo atveju, jeigu įsitikino, kad kitas asmuo laikosi šiame įstatyme nurodytų kliento ar naudos gavėjo tapatybės nustatymo reikalavimų. Finansų įstaigos ir kiti įpareigotieji subjektai privalo šiame punkte numatytų patikrinimų rezultatus įforminti raštu;
+
+
+
+
+4) kitam asmeniui negali būti perduodamas kliento įtartinų piniginių operacijų ar sandorių nustatymas ir pranešimų apie tai teikimas, taip pat šio įstatymo 19 straipsnio 1 ir 2 dalyse nurodytos informacijos saugojimas. Šis ribojimas netaikomas, kai finansų įstaiga ir kitas asmuo, kuriam perduodamos veiklos funkcijos, priklauso vienai įmonių grupei;
+
+
+
+
+5) finansų įstaiga ar kitas įpareigotasis subjektas užtikrina, kad asmens duomenys tvarkomi laikantis šio įstatymo 24 straipsnyje nustatytų reikalavimų.
+
+
+
+
+
+
+3. Atsakomybė dėl šiame įstatyme nurodytų kliento ir naudos gavėjo tapatybės nustatymo ir nuolatinės dalykinių santykių stebėsenos reikalavimų laikymosi tenka kito asmens informacija apie klientą ar naudos gavėją pasinaudojusioms finansų įstaigoms ar kitiems įpareigotiesiems subjektams.
+
+
+Papildyta straipsniu:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
@@ -2767,7 +2838,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-2) muitinės pareikalavimu, kai asmuo į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išveža ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įveža ar į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabena grynuosius pinigus, kurių vienkartinė suma viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta;
+2) muitinės pareikalavimu, kai asmuo į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išveža ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įveža ar į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabena grynuosius pinigus ar nelydimus grynuosius pinigus, kurių vienkartinė suma lygi 10 000 eurų ar ją atitinkančiai sumai užsienio valiuta arba ją viršija; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
@@ -2787,7 +2861,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-2) į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išvežamų ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įvežamų ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabenamų grynųjų pinigų, kurių vienkartinė suma viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta, kontrolę.
+2) į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išvežamų ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įvežamų ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabenamų grynųjų pinigų ar nelydimų grynųjų pinigų, kurių vienkartinė suma lygi 10 000 eurų ar ją atitinkančiai sumai užsienio valiuta arba ją viršija, kontrolę. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
@@ -2799,12 +2876,18 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-4. Į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išvežamų ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įvežamų ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabenamų grynųjų pinigų deklaravimo ir kilmės kontrolės tvarką nustato Muitinės departamento prie Lietuvos Respublikos finansų ministerijos generalinis direktorius.
+4. Į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išvežamų ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įvežamų ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabenamų grynųjų pinigų ar nelydimų grynųjų pinigų deklaravimo ir kilmės kontrolės tvarką nustato Muitinės departamento prie Lietuvos Respublikos finansų ministerijos generalinis direktorius. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
 
-5. Muitinės įstaigos privalo nedelsdamos, ne vėliau kaip per 7 darbo dienas nuo deklaracijos gavimo, pranešti Finansinių nusikaltimų tyrimo tarnybai, jeigu asmuo į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išveža ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įveža ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabena grynųjų pinigų, kurių vienkartinė suma viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta.
+5. Muitinės įstaigos privalo nedelsdamos, ne vėliau kaip per 7 darbo dienas nuo deklaracijos gavimo, pranešti Finansinių nusikaltimų tyrimo tarnybai, jeigu asmuo į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išveža ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įveža ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabena grynųjų pinigų ar nelydimų grynųjų pinigų, kurių vienkartinė suma lygi 10 000 eurų ar ją atitinkančiai sumai užsienio valiuta arba ją viršija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
@@ -2863,10 +2946,11 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-7. Finansų įstaigos ir kiti įpareigotieji subjektai, prieš pradėdami dalykinius santykius arba prieš vykdydami vienkartinę piniginę operaciją ar sandorį, kai privaloma imtis priemonių ir nustatyti bei patikrinti ir kliento bei naudos gavėjo tapatybę, vadovaudamiesi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo, kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), 13 ir 14 straipsniais, privalo naujiems klientams pateikti informaciją apie jų duomenų tvarkymą.
+7. Finansų įstaigos ir kiti įpareigotieji subjektai, prieš pradėdami dalykinius santykius arba prieš vykdydami vienkartinę piniginę operaciją ar sandorį, kai privaloma imtis priemonių ir nustatyti bei patikrinti ir kliento bei naudos gavėjo tapatybę, vadovaudamiesi Reglamento (ES) 2016/679 13 ir 14 straipsniais, privalo naujiems klientams pateikti informaciją apie jų duomenų tvarkymą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
  
 
 
@@ -3001,9 +3085,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-25 straipsnis. Reikalavimai juridiniams asmenims ir asmenims, susijusiems su patikos, virtualiųjų valiutų keityklų, depozitinių virtualiųjų valiutų piniginių operatorių ar bendrovių paslaugų teikėjais ir nekilnojamojo turto agentais 
+25 straipsnis. Reikalavimai juridiniams asmenims ir asmenims, susijusiems su patikos, virtualiųjų valiutų keityklų, depozitinių virtualiųjų valiutų piniginių operatorių ar bendrovių, mokesčių konsultavimo paslaugų teikėjais ir nekilnojamojo turto agentais (brokeriais) 
 Pakeistas straipsnio pavadinimas:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
  
 
 
@@ -3023,8 +3108,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-2. Juridinis asmuo, pradėjęs vykdyti patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjo veiklą ar ją nutraukęs, ne vėliau kaip per 5 darbo dienas nuo veiklos pradžios ar pabaigos privalo informuoti Juridinių asmenų registro tvarkytoją apie patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjo veiklos vykdymą ar tokios veiklos vykdymo pabaigą. Fizinis asmuo, pradėjęs vykdyti patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjo veiklą ar ją nutraukęs, ne vėliau kaip per 5 darbo dienas nuo veiklos pradžios ar pabaigos privalo informuoti Valstybinę mokesčių inspekciją apie patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjo veiklos vykdymą ar tokios veiklos vykdymo pabaigą. Pateikdamas šią informaciją, patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjas patvirtina, kad jis pats ar jo valdymo ar priežiūros organų nariai ir naudos gavėjai yra susipažinę su pinigų plovimą ir teroristų finansavimo prevenciją reglamentuojančiais teisės aktais ir atitinka jų reikalavimus. 
-TAR pastaba. Asmenys, iki įstatymo Nr. XIII-1440 įsigaliojimo (2018-11-01) pradėję vykdyti ir po šio įstatymo įsigaliojimo toliau vykdantys patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjų veiklą, ne vėliau kaip per 4 mėnesius nuo šio įstatymo įsigaliojimo pateikia Juridinių asmenų registro tvarkytojui ar Valstybinei mokesčių inspekcijai Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 25 straipsnio 2 dalyje nurodytą informaciją.
+2. Juridinis asmuo, pradėjęs vykdyti patikos ar bendrovių steigimo, administravimo, nekilnojamojo turto agento (brokerio), mokesčių konsultavimo paslaugų teikėjo veiklą ar ją nutraukęs, ne vėliau kaip per 5 darbo dienas nuo veiklos pradžios ar pabaigos privalo informuoti Juridinių asmenų registro tvarkytoją apie patikos ar bendrovių steigimo, administravimo, nekilnojamojo turto agento (brokerio), mokesčių konsultavimo paslaugų teikėjo veiklos vykdymą ar tokios veiklos vykdymo pabaigą. Fizinis asmuo, pradėjęs vykdyti patikos ar bendrovių steigimo, administravimo, nekilnojamojo turto agento (brokerio), mokesčių konsultavimo paslaugų teikėjo veiklą ar ją nutraukęs, ne vėliau kaip per 5 darbo dienas nuo veiklos pradžios ar pabaigos Valstybinės mokesčių inspekcijos viršininko nustatyta tvarka privalo informuoti Valstybinę mokesčių inspekciją apie patikos ar bendrovių steigimo, administravimo, nekilnojamojo turto agento (brokerio), mokesčių konsultavimo paslaugų teikėjo veiklos vykdymą ar tokios veiklos vykdymo pabaigą. Pateikdamas šią informaciją, patikos ar bendrovių steigimo, administravimo, nekilnojamojo turto agento (brokerio), mokesčių konsultavimo paslaugų teikėjas patvirtina, kad jis pats ar jo valdymo ar priežiūros organų nariai ir naudos gavėjai yra susipažinę su pinigų plovimo ir teroristų finansavimo prevenciją reglamentuojančiais teisės aktais ir atitinka jų reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
@@ -3038,9 +3125,93 @@ Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
 
 
 
-4. Juridinis asmuo, pradėjęs vykdyti virtualiųjų valiutų keityklos operatoriaus ar depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą ar ją nutraukęs, ne vėliau kaip per 5 darbo dienas nuo veiklos pradžios ar pabaigos privalo informuoti Juridinių asmenų registro tvarkytoją apie virtualiųjų valiutų keityklos operatoriaus ar depozitinių virtualiųjų valiutų piniginių operatoriaus paslaugų teikėjo veiklos vykdymą ar tokios veiklos vykdymo pabaigą. Pateikdamas šią informaciją, virtualiųjų valiutų keityklos operatorius ar depozitinių virtualiųjų valiutų piniginių operatorius patvirtina, kad jis pats ar jo valdymo ar priežiūros organų nariai ir naudos gavėjai yra susipažinę su pinigų plovimą ir teroristų finansavimo prevenciją reglamentuojančiais teisės aktais ir atitinka jų reikalavimus. 
+31. Virtualiųjų valiutų keityklos operatoriaus ir depozitinių virtualiųjų valiutų piniginių operatoriaus valdymo, priežiūros organų nariu, naudos gavėju negali būti fizinis asmuo, kuris yra:
+
+
+1) pripažintas kaltu padaręs Baudžiamajame kodekse numatytą sunkų arba labai sunkų nusikaltimą ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 8 metai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
+
+
+
+
+2) pripažintas kaltu padaręs Baudžiamajame kodekse numatytą nesunkų arba apysunkį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, visuomenės saugumui ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 5 metai;
+
+
+
+
+3) pripažintas kaltu padaręs kitą, negu nurodyta šios dalies 1 ir 2 punktuose, Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
+ 
+
+
+
+
+4. Juridinis asmuo ir Lietuvos Respublikoje įsteigtas Europos Sąjungos valstybės narės ar užsienio valstybės juridinio asmens filialas, pradėjęs vykdyti virtualiųjų valiutų keityklos operatoriaus ar depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą ar ją nutraukęs, ne vėliau kaip per 5 darbo dienas nuo veiklos pradžios ar pabaigos privalo informuoti Juridinių asmenų registro tvarkytoją apie virtualiųjų valiutų keityklos operatoriaus ar depozitinių virtualiųjų valiutų piniginių operatoriaus paslaugų teikėjo veiklos vykdymą ar tokios veiklos vykdymo pabaigą. Pateikdamas šią informaciją, virtualiųjų valiutų keityklos operatorius ar depozitinių virtualiųjų valiutų piniginių operatorius patvirtina, kad jis pats ar jo valdymo ar priežiūros organų nariai ir naudos gavėjai yra susipažinę su pinigų plovimo ir teroristų finansavimo prevenciją reglamentuojančiais teisės aktais ir atitinka jų reikalavimus. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
+
+
+
+
+5. Juridinis asmuo arba Lietuvos Respublikoje įsteigtas Europos Sąjungos valstybės narės ar užsienio valstybės juridinio asmens filialas, pradėjęs vykdyti virtualiųjų valiutų keityklos operatoriaus ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą, privalo turėti vyresnįjį vadovą, kuris būtų nuolatinis Lietuvos gyventojas, kaip jis suprantamas pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
+
+
+
+
+6. Lietuvos Respublikoje įsteigtas juridinis asmuo, ketinantis vykdyti ar vykdantis virtualiųjų valiutų keityklos operatoriaus ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą, privalo:
+
+
+1) akcinė bendrovė arba uždaroji akcinė bendrovė:
+
+
+a) turėti įregistruotą ir apmokėtą ne mažesnį kaip 125 000 eurų įstatinį kapitalą ir nuolat palaikyti ne mažesnį kaip 125 000 eurų dydžio nuosavą kapitalą;
+
+
+
+
+b) steigimo ir įstatinio kapitalo didinimo metu įstatinį kapitalą formuojančias lėšas turi įnešti į sąskaitą Lietuvos Respublikos kredito įstaigoje arba Europos Sąjungos valstybės narės kredito įstaigoje, turinčioje filialą Lietuvos Respublikoje; 
+
+
+
+
+
+
+2) kitos teisinės formos Lietuvos Respublikoje įsteigtas juridinis asmuo arba Europos Sąjungos valstybės narės ar užsienio valstybės juridinio asmens filialas – visą veiklos laikotarpį turėti draudimo įmonės išduotą prievolių įvykdymo laidavimo draudimo arba finansų įstaigos laidavimo ar garantijos dokumentą dėl ne mažesnės kaip 100 000 eurų sumos vienai kliento pretenzijai dėl nuostolių atlyginimo ir 500 000 eurų sumos visoms klientų pretenzijoms dėl nuostolių atlyginimo per metus.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
+
+
+
+
+7. Pagal šio įstatymo 22 straipsnio 1 dalį paskirti virtualiųjų valiutų keityklos operatoriaus ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriaus vadovaujantieji darbuotojai negali tuo pačiu metu atstovauti daugiau kaip vienam virtualiųjų valiutų keityklos operatoriui ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriui, išskyrus atvejus, kai tie operatoriai priklauso vienai įmonių grupei. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
+ 
+
+
+
+
+8. Virtualiųjų valiutų keityklos operatorius ir (ar) depozitinių virtualiųjų valiutų piniginių operatorius privalo nevykdyti veiklos ir neteikti paslaugų kitoje valstybėje tokiu mastu, kad Lietuvos Respublikoje liktų tik neesminės pagal jų veiklos pobūdį funkcijos ar paslaugos ir jos būtų atliekamos ar teikiamos išimtinai tik kitos valstybės klientams ar iš esmės veiklos Lietuvos Respublikoje jie nebevykdytų.
+Papildyta straipsnio dalimi:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
  
 
 
@@ -3888,12 +4059,18 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
 
 
-4. Kultūros paveldo departamentas, Lošimų priežiūros tarnyba, Lietuvos prabavimo rūmai taiko šio straipsnio 1 dalies 1–6 punktuose nurodytas poveikio priemones.
+4. Kultūros paveldo departamentas, Lošimų priežiūros tarnyba, Lietuvos auditorių rūmai ir Lietuvos prabavimo rūmai taiko šio straipsnio 1 dalies 1–6 punktuose nurodytas poveikio priemones. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
 
-5. Lietuvos auditorių rūmai taiko šio straipsnio 1 dalies 1, 3–6 punktuose nurodytas poveikio priemones.
+5. Lietuvos notarų rūmai ir Lietuvos antstolių rūmai taiko šio straipsnio 1 dalies 1, 2 ir 6 punktuose nurodytas poveikio priemones. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
@@ -3903,12 +4080,18 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
 
 
-7. Lietuvos notarų rūmai ir Lietuvos antstolių rūmai patikrinimų dokumentus su atlikto patikrinimo išvadomis ne vėliau kaip per 3 darbo dienas nuo patikrinimo išvadų surašymo, kai nustatomas (nustatomi) pinigų plovimo ir (ar) teroristų finansavimo prevencijos nuostatų pažeidimas (pažeidimai), perduoda nagrinėti Finansinių nusikaltimų tyrimo tarnybai, kuri svarsto poveikio priemonės (priemonių) taikymo klausimą.
+7. Neteko galios nuo 2024-08-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
 
-8. Lietuvos auditorių rūmai, įvertinę, kad poveikio priemonių, nurodytų šio straipsnio 1 dalies 1, 3–6 punktuose, taikymas nepasieks poveikio priemonės tikslų, patikrinimų dokumentus su atlikto patikrinimo išvadomis, kai nustatomas pinigų plovimo ir (ar) teroristų finansavimo prevencijos nuostatų pažeidimas (pažeidimai), ne vėliau kaip per 3 darbo dienas nuo patikrinimo išvadų surašymo perduoda nagrinėti Finansinių nusikaltimų tyrimo tarnybai, kuri svarsto poveikio priemonės (priemonių) taikymo klausimą.
+8. Neteko galios nuo 2024-08-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
@@ -4104,7 +4287,9 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 40 straipsnis. Baudos kitiems įpareigotiesiems subjektams
 
 
-1. Priežiūros institucijos, išskyrus Lietuvos banką, Lietuvos auditorių rūmus, Lietuvos advokatūrą, Lietuvos notarų rūmus ir Lietuvos antstolių rūmus, pagal kompetenciją turi teisę kitiems įpareigotiesiems subjektams skirti šias baudas:
+1. Priežiūros institucijos, išskyrus Lietuvos banką ir Lietuvos advokatūrą, pagal kompetenciją turi teisę kitiems įpareigotiesiems subjektams skirti šias baudas: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
 
 1) už šio įstatymo pažeidimus – nuo 0,5 iki 5 procentų metinių pajamų, gautų iš profesinės ar kitos veiklos, nurodytos šio įstatymo 2 straipsnio 10 dalyje;
@@ -4134,7 +4319,10 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
 
 
-2. Priežiūros institucijos, išskyrus Lietuvos banką, Lietuvos auditorių rūmus, Lietuvos advokatūrą, Lietuvos notarų rūmus ir Lietuvos antstolių rūmus, turi teisę kito įpareigotojo subjekto dalyviui ar valdymo organo nariui už šio įstatymo pažeidimus, kai kitas įpareigotasis subjektas sistemingai pažeidžia šį įstatymą arba padaro vieną šiurkštų šio įstatymo pažeidimą, arba šį įstatymą pažeidžia pakartotinai per vienus metus nuo poveikio priemonės už šio įstatymo pažeidimą paskyrimo, skirti baudą – iki sumos, du kartus didesnės už dėl pažeidimo gautą naudą (jeigu tokią naudą galima nustatyti ir jeigu ši suma yra didesnė kaip 1 100 000 eurų), arba nuo 2 000 iki 1 100 000 eurų (jeigu suma, du kartus didesnė už dėl pažeidimo gautą naudą, yra mažesnė kaip 1 100 000 eurų arba dėl pažeidimo gautos naudos negalima nustatyti).
+2. Priežiūros institucijos, išskyrus Lietuvos banką, Lietuvos advokatūrą, Lietuvos notarų rūmus ir Lietuvos antstolių rūmus, turi teisę kito įpareigotojo subjekto dalyviui ar valdymo organo nariui už šio įstatymo pažeidimus, kai kitas įpareigotasis subjektas sistemingai pažeidžia šį įstatymą arba padaro vieną šiurkštų šio įstatymo pažeidimą, arba šį įstatymą pažeidžia pakartotinai per vienus metus nuo poveikio priemonės už šio įstatymo pažeidimą paskyrimo, skirti baudą – iki sumos, du kartus didesnės už dėl pažeidimo gautą naudą (jeigu tokią naudą galima nustatyti ir jeigu ši suma yra didesnė kaip 1 100 000 eurų), arba nuo 2 000 iki 1 100 000 eurų (jeigu suma, du kartus didesnė už dėl pažeidimo gautą naudą, yra mažesnė kaip 1 100 000 eurų arba dėl pažeidimo gautos naudos negalima nustatyti). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
