@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2024-07-25 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1370,7 +1370,7 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą
 
 
-1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, Europos asmeninės pensijos produkto teikėjai ir Europos asmeninės pensijos produkto platintojai, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, profesinių pensijų asociacijos (toliau – pensijų asociacijos), pensijų anuitetų mokėtojai, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo paslaugų teikėjai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos ir valiutos keityklų operatoriai, mišrios veiklos finansų kontroliuojančiosios įmonės, įsteigtos Lietuvos Respublikoje, finansų kontroliuojančiosios bendrovės, įsteigtos Lietuvos Respublikoje, pagrindinės sandorio šalys, padengtųjų obligacijų bendrovės, pakeitimo vertybiniais popieriais bendrovės ir pakeitimo vertybiniais popieriais iniciatoriai, pakeitimo vertybiniais popieriais rėmėjai, pirminiai skolintojai ir trečiosios šalys, tikrinančios pakeitimo vertybiniais popieriais atitiktį paprastiems, skaidriems ir standartizuotiems kriterijams (toliau – PSS kriterijai), su turtu susietų žetonų emitentai, elektroninių pinigų žetonų emitentai. 
+1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, Europos asmeninės pensijos produkto teikėjai ir Europos asmeninės pensijos produkto platintojai, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, profesinių pensijų asociacijos (toliau – pensijų asociacijos), pensijų anuitetų mokėtojai, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo paslaugų teikėjai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos ir valiutos keityklų operatoriai, mišrios veiklos finansų kontroliuojančiosios įmonės, įsteigtos Lietuvos Respublikoje, finansų kontroliuojančiosios bendrovės, įsteigtos Lietuvos Respublikoje, pagrindinės sandorio šalys, padengtųjų obligacijų bendrovės, pakeitimo vertybiniais popieriais bendrovės ir pakeitimo vertybiniais popieriais iniciatoriai, pakeitimo vertybiniais popieriais rėmėjai, pirminiai skolintojai ir trečiosios šalys, tikrinančios pakeitimo vertybiniais popieriais atitiktį paprastiems, skaidriems ir standartizuotiems kriterijams (toliau – PSS kriterijai), su turtu susietų žetonų emitentai, elektroninių pinigų žetonų emitentai, kredito administratoriai. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 Nr. XIII-2852, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08966
@@ -1501,7 +1501,15 @@ Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
 
 
 
-17) atlieka su turtu susietų žetonų emitentų, elektroninių pinigų žetonų emitentų priežiūrą, kaip tai nustatyta Lietuvos Respublikos kriptoturto rinkų įstatyme ir Reglamente (ES) 2023/1114. 
+17) atlieka su turtu susietų žetonų emitentų, elektroninių pinigų žetonų emitentų priežiūrą, kaip tai nustatyta Lietuvos Respublikos kriptoturto rinkų įstatyme ir Reglamente (ES) 2023/1114.
+Papildyta straipsnio punktu:
+Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
+ 
+
+
+
+
+18) atlieka kredito administratorių veiklos priežiūrą ir kitas Lietuvos Respublikos kredito administratorių ir kredito pirkėjų įstatyme Lietuvos bankui priskirtas funkcijas. 
 Papildyta straipsnio punktu:
 Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
  
@@ -3422,6 +3430,12 @@ FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ RINKOS PRIEŽIŪROS IŠLAIDO
  0,7 procento (minimali įmokos suma 3 000 Eur) 
 
 
+ 40. 
+ Kredito administratoriai 
+ - 
+ 3 000 Eur 
+
+
 
  
 Priedo pakeitimai:
@@ -3706,8 +3720,18 @@ Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
 
 
 
-23. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, su pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. 
+23. 2021 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/2167 dėl kredito administratorių ir kredito pirkėjų, kuria iš dalies keičiamos direktyvos 2008/48/EB ir 2014/17/ES. 
 Papildyta straipsnio dalimi:
+Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
+ 
+
+
+
+
+24. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, su pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
+Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
  
 
