@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01 iki 2025-01-22
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
  
@@ -3200,7 +3200,10 @@ Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 
 
 
-9. Konkursas naudoti jūrinę teritoriją Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje nustatytose dalyse plėtojant ne didesnės negu šiame nutarime nustatytos leistinos generuoti galios elektrines sandorio kainai, kuri turi būti didesnė už žemiausią ribą ir mažesnė arba lygi Valstybinės energetikos reguliavimo tarybos nustatytai didžiausiai galimai sandorio kainai, ir metiniam elektros energijos gamybos kiekiui, kuriam konkurso dalyvis pageidauja laimėti sandorio kainą (toliau – skatinamas kiekis), organizuojamas vadovaujantis Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka, tačiau ne vėliau kaip per 180 kalendorinių dienų nuo informacijos apie planuojamą organizuoti konkursą paskelbimo Valstybinės energetikos reguliavimo tarybos interneto svetainėje dienos. Šio straipsnio 1 dalyje numatytų tyrimų ir kitų veiksmų rezultatai bei šių tyrimų ir kitų veiksmų atlikimo išlaidos viešai paskelbiami per 5 kalendorines dienas nuo jų gavimo dienos, tačiau ne vėliau, negu skelbiama informacija apie planuojamą organizuoti konkursą. Konkurso dalyvių registracija trunka 90 kalendorinių dienų nuo informacijos apie planuojamą organizuoti konkursą paskelbimo dienos. Valstybinė energetikos reguliavimo taryba konkurso laimėtoją nustato per 60 kalendorinių dienų nuo konkurso dalyvių registracijos pabaigos. Šis terminas gali būti pratęstas 30 kalendorinių dienų motyvuotu konkurso komiteto, sudaryto Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka, prašymu. Į konkurso laimėtojo nustatymo terminus neįskaičiuojama šio straipsnio 19 dalyje numatytos patikros dėl atitikties nacionalinio saugumo interesams trukmė. Informacijos apie planuojamą organizuoti konkursą paskelbimo diena nurodoma Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje. Neįvykus konkursui šio straipsnio 10 dalyje numatytais atvejais, Vyriausybė nustato naują konkurso paskelbimo datą.
+9. Konkursas naudoti jūrinę teritoriją Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje nustatytose jos dalyse plėtojant ne didesnės negu šiame nutarime nustatytos leistinos generuoti galios elektrines, kuriame nustatoma sandorio kaina, kuri turi būti didesnė už žemiausią ribą ir mažesnė už Valstybinės energetikos reguliavimo tarybos nustatytą didžiausią galimą sandorio kainą arba jai lygi, ir metinis elektros energijos gamybos kiekis, už kurį konkurso dalyvis pageidauja laimėti sandorio kainą, (toliau – skatinamas kiekis) organizuojamas vadovaujantis Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka. Šio straipsnio 1 dalyje numatytų tyrimų ir kitų veiksmų rezultatai bei šių tyrimų ir kitų veiksmų atlikimo išlaidos viešai paskelbiami per 5 kalendorines dienas nuo jų gavimo dienos, tačiau ne vėliau, negu skelbiama informacija apie planuojamą organizuoti konkursą. Konkurso dalyvių registracija trunka 120 kalendorinių dienų nuo informacijos apie planuojamą organizuoti konkursą paskelbimo dienos. Valstybinė energetikos reguliavimo taryba konkurso laimėtoją nustato per 60 kalendorinių dienų nuo konkurso dalyvių registracijos pabaigos. Šis terminas gali būti pratęstas 30 kalendorinių dienų motyvuotu konkurso komiteto, sudaryto Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka, prašymu. Į konkurso laimėtojo nustatymo terminus neįskaičiuojama šio straipsnio 19 dalyje numatytos patikros dėl atitikties nacionalinio saugumo interesams trukmė. Informacijos apie planuojamą organizuoti konkursą paskelbimo diena nurodoma Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje. Neįvykus konkursui šio straipsnio 10 dalyje numatytais atvejais, Vyriausybė nustato naują konkurso paskelbimo datą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
+ 
 
 
 
@@ -3208,12 +3211,12 @@ Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 10. Konkursas laikomas neįvykusiu ir naują konkurso paskelbimo datą nustato Vyriausybė, kai:
 
 
-1) dalyvauti konkurse užsiregistruoja mažiau negu du dalyviai;
+1) dalyvauti konkurse neužsiregistruoja nė vienas dalyvis;
 
 
 
 
-2) į konkurso dalyvių sąrašą įrašyti mažiau negu du konkurso dalyviai;
+2) į konkurso dalyvių sąrašą neįrašytas nė vienas dalyvis;
 
 
 
@@ -3223,9 +3226,12 @@ Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 
 
 
-4) potencialiu konkurso laimėtoju laikomas konkurso dalyvis, vadovaujantis Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymu, nustatomas kaip neatitinkantis nacionalinio saugumo interesų arba atsisako būti konkurso laimėtoju ir potencialių konkurso laimėtojų sąraše nėra įrašyta daugiau konkurso dalyvių.
+4) potencialiu konkurso laimėtoju laikomas konkurso dalyvis, vadovaujantis Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymu, nustatomas kaip neatitinkantis nacionalinio saugumo interesų arba atsisako būti konkurso laimėtoju ir potencialių konkurso laimėtojų sąraše nėra įrašyta daugiau konkurso dalyvių. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
+ 
 
 
 
@@ -3415,6 +3421,14 @@ d) kiekvienas jungtinės veiklos sutarties pagrindu veikiančios asmenų grupės
 
 
 
+151. Valstybinė energetikos reguliavimo taryba nuo konkurso laimėtojo patvirtinimo dienos kiekvienais kalendoriniais metais iki sausio 31 dienos perskaičiuoja sandorio kainą, indeksuodama įvykusį sandorio kainos ir praėjusių metų prekybos elektros energijos biržoje Lietuvos zonoje vidutinės metinės elektros energijos kainos skirtumo pokytį metinės infliacijos koeficientu, skelbiamu Valstybinės duomenų agentūros. Apskaičiuojant sandorio kainos ir praėjusių metų prekybos elektros energijos biržoje Lietuvos zonoje vidutinės metinės elektros energijos kainos skirtumą, pirmaisiais metais vertinama konkurso laimėtojo laimėta sandorio kaina, kitais metais vertinama praėjusiais metais perskaičiuota sandorio kaina. Jeigu praėjusių metų prekybos elektros energijos biržoje Lietuvos zonoje vidutinė metinė elektros energijos kaina yra didesnė už sandorio kainą arba jai lygi, sandorio kaina neperskaičiuojama. Perskaičiuota sandorio kaina taikoma einamaisiais kalendoriniais metais apskaičiuojant konkurso laimėtojui, kuriam išduotas leidimas gaminti elektros energiją, mokėtiną viešuosius interesus atitinkančių paslaugų lėšų sumą už praėjusius metus ar iš gamintojo surinktiną lėšų sumą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
+ 
+
+
+
+
 16. Elektros energijos gamyba skatinama 15 metų laikotarpiu elektros energija prekiaujant pagal atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutartis ir (ar) energetikos ministro tvirtinamose elektros energijos rinkos taisyklėse nustatyta tvarka ir būdais, Vyriausybės nustatyta tvarka vadovaujantis šiais principais:
 
 
@@ -3436,6 +3450,14 @@ d) kiekvienas jungtinės veiklos sutarties pagrindu veikiančios asmenų grupės
 
 
 17. Vyriausybės nustatyta tvarka gamintojui viešuosius interesus atitinkančių paslaugų lėšos nemokamos už laikotarpį, kurį kitos paros prekybos elektros energijos biržoje Lietuvos zonoje valandinė kaina yra lygi gamintojo konkurse laimėtai sandorio kainai, ir (ar) už laikotarpį, kurį kitos paros prekybos elektros energijos biržoje Lietuvos zonoje valandinė kaina yra mažesnė už nulį arba jam lygi, taip pat už pagamintos ir į elektros tinklus patiektos elektros energijos kiekį, kuris viršija gamintojo konkurse nurodytą skatinamą kiekį.
+
+
+
+
+171. Viešuosius interesus atitinkančių paslaugų administratorius, atsižvelgdamas į Valstybinės energetikos reguliavimo tarybos vadovaujantis šio straipsnio 151 dalimi perskaičiuotą sandorio kainą, apskaičiuoja gamintojui mokėtiną viešuosius interesus atitinkančių paslaugų lėšų sumą, kai tenkinama šio straipsnio 16 dalies 1 punkte nurodyta sąlyga, ar iš gamintojo surinktiną lėšų sumą, kai tenkinama šio straipsnio 16 dalies 2 punkte nurodyta sąlyga. Pirmasis konkurso dalyvio siūlomas vystymo mokestis turi būti ne mažesnis kaip 5 milijonai eurų. Sutapus konkurso dalyvių pateiktiems vystymo mokesčiams, kitas konkurso dalyvio siūlomas vystymo mokestis turi būti ne mažesne kaip 5 milijonų eurų suma didesnis už prieš tai pasiūlytą vystymo mokestį. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
+ 
 
 
 
@@ -3615,7 +3637,10 @@ d) kiekvienas jungtinės veiklos sutarties pagrindu veikiančios asmenų grupės
 
 
 
-35. Šiame straipsnyje nurodyto konkurso dalyvis, pagal šio straipsnio 19 dalį pripažintas konkurso laimėtoju, per 5 metus nuo leidimo gaminti elektros energiją gavimo dienos lygiomis dalimis Vyriausybės nustatyta tvarka sumoka vystymo mokestį į atskirą valstybės iždo sąskaitą.
+35. Šiame straipsnyje nurodyto konkurso dalyvis, pagal šio straipsnio 19 dalį pripažintas konkurso laimėtoju, per 5 metus nuo leidimo gaminti elektros energiją gavimo dienos lygiomis dalimis Vyriausybės nustatyta tvarka sumoka vystymo mokestį į atskirą valstybės iždo sąskaitą. Valstybinė energetikos reguliavimo taryba nuo konkurso laimėtojo patvirtinimo dienos kiekvienais kalendoriniais metais iki sausio 31 dienos perskaičiuoja vystymo mokestį įvertindama per praėjusius kalendorinius metus dėl metinės infliacijos, skelbiamos Valstybinės duomenų agentūros, įvykusį vystymo mokesčio pokytį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
+ 
 
 
 
@@ -6442,3 +6467,8 @@ Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2390, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25901
 Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 2, 3, 5, 6, 11, 13, 14, 20-1, 20-2, 22, 30, 32, 48, 49, 51 straipsnių pakeitimo ir Įstatymo papildymo 13-1, 20-3 straipsniais įstatymo Nr. XIV-1169 7 ir 18 straipsnių pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
+Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 22 straipsnio pakeitimo įstatymas
