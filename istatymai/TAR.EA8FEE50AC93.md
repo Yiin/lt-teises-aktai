@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea8fee50ac9311e6b844f0f29024f5ac"
 
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas
 
-Suvestinė redakcija nuo 2024-06-27 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01 iki 2025-01-31
  
 Įstatymas paskelbtas: TAR 2016-11-17, i. k. 2016-26968
  
@@ -376,9 +376,10 @@ Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
 
 
 
-34. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos įmonių atskaitomybės įstatyme, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme ir Lietuvos Respublikos užimtumo rėmimo įstatyme.
+34. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos kredito administratorių ir kredito pirkėjų įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme ir Lietuvos Respublikos užimtumo įstatyme. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
+Nr. XIV-2897, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13506
  
 
 
@@ -1238,6 +1239,44 @@ Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
 
 
 
+171 straipsnis. Informavimas apie kredito sutarties sąlygų pakeitimą
+
+
+1. Kredito davėjas, prieš vienašališkai pakeisdamas kredito sutarties sąlygas, kredito gavėjui raštu popieriuje ar kitoje patvariojoje laikmenoje turi pateikti šią informaciją:
+
+
+1) siūlomo kredito sutarties sąlygas ir sąlygų pakeitimo aprašymą, nurodydamas, ar sutarties sąlygoms pakeisti reikalingas kredito gavėjo sutikimas;
+
+
+
+
+2) kredito sutarties sąlygų pakeitimo įsigaliojimo terminus;
+
+
+
+
+3) skundų dėl šios dalies 1 punkte nurodyto pakeitimo pateikimo tvarką, įskaitant skundo pateikimo būdus ir apskundimo terminą, ir priežiūros institucijos, kuriai skundas gali būti pateiktas, pavadinimą ir adresą.
+
+
+
+
+
+
+2. Kredito davėjas, kai reikalingas kredito gavėjo sutikimas, privalo kredito gavėjui suteikti ne trumpesnį kaip 30 dienų apsvarstymo laikotarpį, skirtą informacija pagrįstam sprendimui dėl kredito sutarties sąlygų pakeitimo priimti. 
+
+
+
+
+3. Apsvarstymo laikotarpis pradedamas skaičiuoti kitą dieną po tos dienos, kai kredito davėjas pateikia kredito gavėjui šio straipsnio 1 dalyje nurodytą informaciją apie kredito sutarties sąlygų pakeitimą. 
+
+
+Papildyta straipsniu:
+Nr. XIV-2897, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13506
+ 
+
+
+
+
 18 straipsnis. Kintamoji kredito palūkanų norma
 
 
@@ -1334,7 +1373,10 @@ Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
 
 
 
-2. Kai kredito gavėjas nėra pajėgus vykdyti įsipareigojimų pagal kredito sutartį, kredito davėjas turi elgtis sąžiningai, teisingai ir profesionaliai, bendradarbiauti su kredito gavėju. Kredito davėjas, įvertinęs turimus duomenis apie kredito gavėją, kredito gavėjo prašymu turi pasiūlyti galimus kredito gavėjo įsipareigojimų pagal kredito sutartį tolesnio vykdymo būdus ir (arba) priemones.
+2. Kai kredito gavėjas nėra pajėgus vykdyti įsipareigojimų pagal kredito sutartį, kredito davėjas turi elgtis sąžiningai, teisingai ir profesionaliai, bendradarbiauti su kredito gavėju. Kredito davėjas, įvertinęs turimus duomenis apie kredito gavėją, kredito gavėjo prašymu turi pasiūlyti galimus kredito gavėjo įsipareigojimų pagal kredito sutartį tolesnio vykdymo būdus ir (arba) priemones, kurios gali apimti kredito refinansavimą, įsipareigojimų pagal kredito sutartį vykdymo atidėjimą, kredito sutarties termino pratęsimą ar kitus kredito restruktūrizavimo būdus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2897, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13506
+ 
 
 
 
@@ -2024,7 +2066,10 @@ Nr. XIV-1340, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15405
 33 straipsnis. Teisių ir pareigų pagal kredito sutartis perleidimas
 
 
-1. Kredito davėjas turi teisę perleisti teises ir pareigas pagal su kredito gavėjais sudarytas galiojančias kredito sutartis tik į viešąjį kredito davėjų sąrašą įrašytam asmeniui, išskyrus šio straipsnio 4 ir 5 dalyse nustatytus atvejus.
+1. Kredito davėjas turi teisę perleisti teises ir pareigas pagal su kredito gavėjais sudarytas galiojančias kredito sutartis tik į viešąjį kredito davėjų sąrašą įrašytam asmeniui, išskyrus šio straipsnio 4 ir 5 dalyse nustatytus atvejus ir kai Kredito administratorių ir kredito pirkėjų įstatymo nustatyta tvarka yra perleidžiamos kreditoriaus teisės ir pareigos pagal galiojančias neveiksnias kredito sutartis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2897, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13506
+ 
 
 
 
@@ -3208,6 +3253,14 @@ priedas
 2. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1011 dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014, su paskutiniais pakeitimais, padarytais Europos Parlamento ir Tarybos reglamentu (ES) 2021/168.
 
 
+
+
+3. 2021 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/2167 dėl kredito administratorių ir kredito pirkėjų, kuria iš dalies keičiamos direktyvos 2008/48/EB ir 2014/17/ES. 
+Papildyta punktu:
+Nr. XIV-2897, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13506
+ 
+
+
 Priedo pakeitimai:
 Nr. XIV-1340, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15405
  
@@ -3259,3 +3312,8 @@ Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2738, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11575
 Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 22 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2897, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13506
+Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 3, 21, 33 straipsnių, priedo pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas
