@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2024-06-27 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
  
@@ -213,6 +213,14 @@ Nr. XIV-80, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28127
 
 
 24. Vartojimo kredito viršijimas – sąskaitos lėšų pereikvojimas, dėl kurio numanomai sutikta vartojimo kredito sutartyje, kai vartojimo kredito davėjas leidžia vartojimo kredito gavėjui disponuoti lėšomis viršijant esamą vartojimo kredito gavėjo sąskaitos likutį arba vartojimo kredito limitą sąskaitoje. 
+
+
+
+
+25. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos kredito administratorių ir kredito pirkėjų įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-2896, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13505
+ 
 
 
 Straipsnio pakeitimai:
@@ -1162,6 +1170,44 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 
 
+121 straipsnis. Informavimas apie vartojimo kredito sutarties sąlygų pakeitimą
+
+
+1. Vartojimo kredito davėjas, prieš vienašališkai pakeisdamas vartojimo kredito sutarties sąlygas, vartojimo kredito gavėjui turi pateikti patvariojoje laikmenoje šią informaciją:
+
+
+1) siūlomo vartojimo kredito sutarties sąlygas ir sąlygų pakeitimo aprašymą, nurodydamas, ar sutarties sąlygoms pakeisti reikalingas vartojimo kredito gavėjo sutikimas;
+
+
+
+
+2) vartojimo kredito sutarties sąlygų pakeitimo įsigaliojimo terminus; 
+
+
+
+
+3) skundų dėl šios dalies 1 punkte nurodyto pakeitimo pateikimo tvarką, įskaitant skundo pateikimo būdus ir apskundimo terminą, ir priežiūros institucijos, kuriai skundas gali būti pateiktas, pavadinimą ir adresą.
+
+
+
+
+
+
+2. Kredito davėjas tais atvejais, kai reikalingas kredito gavėjo sutikimas, privalo kredito gavėjui suteikti ne trumpesnį kaip 30 dienų apsvarstymo laikotarpį, skirtą informacija pagrįstam sprendimui dėl kredito sutarties sąlygų pakeitimo priimti.
+
+
+
+
+3. Apsvarstymo laikotarpis pradedamas skaičiuoti kitą dieną po tos dienos, kai kredito davėjas pateikia kredito gavėjui šio straipsnio 1 dalyje nurodytą informaciją apie kredito sutarties sąlygų pakeitimą.
+
+
+Papildyta straipsniu:
+Nr. XIV-2896, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13505
+ 
+
+
+
+
 13 straipsnis. Sąskaitos kreditavimo sutarties galiojimo metu teikiama informacija
 
 
@@ -1569,28 +1615,50 @@ Nr. XIII-2816, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05696
 
 
 
-19 straipsnis. Vartojimo kredito sutarties nutraukimas vartojimo kredito davėjo reikalavimu
+19 straipsnis. Vartojimo kredito sutarties nutraukimas vartojimo kredito davėjo reikalavimu ir pareiga bendradarbiauti
 
 
-Vartojimo kredito davėjas turi teisę nutraukti vartojimo kredito sutartį, kai yra visos šios sąlygos:
-
-
-1) vartojimo kredito gavėjas yra patvariojoje laikmenoje parengtu rašytiniu pranešimu informuotas apie pradelstą mokėjimą;
+1. Prieš nutraukiant vartojimo kredito sutartį vartojimo kredito davėjo reikalavimu, vartojimo kredito davėjas, įvertinęs turimus duomenis apie vartojimo kredito gavėją, vartojimo kredito gavėjo prašymu turi pasiūlyti galimus vartojimo kredito gavėjo įsipareigojimų pagal vartojimo kredito sutartį tolesnio vykdymo būdus ir (arba) priemones, kurios gali apimti vartojimo kredito refinansavimą, įsipareigojimų pagal vartojimo kredito sutartį vykdymo atidėjimą, vartojimo kredito sutarties termino pratęsimą ar kitus vartojimo kredito restruktūrizavimo būdus.
 
 
 
 
-2) mokėjimas pradelstas ilgiau kaip vieną mėnesį ir jo suma yra ne mažesnė kaip 10 procentų negrąžintos vartojimo kredito sumos arba mokėjimas yra pradelstas ilgiau kaip tris mėnesius iš eilės;
+2. Vartojimo kredito davėjas turi teisę nutraukti vartojimo kredito sutartį, kai yra visos šios sąlygos:
+
+
+1) vartojimo kredito gavėjas yra patvariojoje laikmenoje parengtu rašytiniu pranešimu informuotas apie pradelstą mokėjimą, įskaitant apie šio straipsnio 1 dalyje nurodytą vartojimo kredito gavėjo galimybę kreiptis į vartojimo kredito davėją su prašymu gauti pasiūlymą dėl galimų vartojimo kredito gavėjo įsipareigojimų pagal vartojimo kredito sutartį tolesnio vykdymo būdus ir (arba) priemones;
 
 
 
 
-3) pradelstas mokėjimas nebuvo padengtas per dvi savaites nuo papildomo patvariojoje laikmenoje parengto rašytinio pranešimo įteikimo vartojimo kredito gavėjui.
+2) mokėjimas pradelstas ilgiau kaip vieną mėnesį ir jo suma yra ne mažesnė kaip 10 procentų negrąžintos vartojimo kredito sumos arba mokėjimas yra pradelstas ilgiau kaip tris mėnesius iš eilės;
+
+
+
+
+3) pradelstas mokėjimas nebuvo padengtas per dvi savaites nuo papildomo patvariojoje laikmenoje parengto rašytinio pranešimo įteikimo vartojimo kredito gavėjui;
+
+
+
+
+4) buvo išnaudotos visos objektyviai įmanomos galimybės užtikrinti, kad būtų vykdomi kredito sutartyje nustatyti įsipareigojimai.
+
+
+
+
+
+
+3. Vartojimo kredito davėjas privalo nustatyti vartojimo kredito sutarties nevykdymo ar netinkamo vykdymo valdymo procedūras ir priemones, taikomas visoms neveiksnioms kredito sutartims.
+
+
+
+
+4. Vartojimo kredito gavėjas, pagal vartojimo kredito sutartį nevykdantis įsipareigojimų ar netinkamai juos vykdantis, privalo bendradarbiauti su vartojimo kredito davėju.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2896, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13505
  
-
-
-
-
 
 
 
@@ -1956,7 +2024,10 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 221 straipsnis. Teisių ir pareigų pagal vartojimo kredito sutartis perleidimas
 
 
-1. Vartojimo kredito davėjas turi teisę perleisti teises ir pareigas pagal galiojančias vartojimo kredito sutartis tik į viešąjį vartojimo kredito davėjų sąrašą įrašytam asmeniui, išskyrus šio straipsnio 4 ir 5 dalyse nustatytus atvejus.
+1. Vartojimo kredito davėjas turi teisę perleisti teises ir pareigas pagal galiojančias vartojimo kredito sutartis tik į viešąjį vartojimo kredito davėjų sąrašą įrašytam asmeniui, išskyrus šio straipsnio 4 ir 5 dalyse nustatytus atvejus ir kai Kredito administratorių ir kredito pirkėjų įstatymo nustatyta tvarka yra perleidžiamos kreditoriaus teisės ir pareigos pagal galiojančias neveiksnias vartojimo kredito sutartis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2896, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13505
+ 
 
 
 
@@ -3363,6 +3434,14 @@ vartojimo kredito įstatymo
 3. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1011 dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014, su paskutiniais pakeitimais, padarytais Europos Parlamento ir Tarybos reglamentu (ES) 2021/168.
 
 
+
+
+4. 2021 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/2167 dėl kredito administratorių ir kredito pirkėjų, kuria iš dalies keičiamos direktyvos 2008/48/EB ir 2014/17/ES.
+Papildyta straipsnio dalimi:
+Nr. XIV-2896, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13505
+ 
+
+
 Priedo pakeitimai:
 Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
 Nr. XIV-1341, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15415
@@ -3425,3 +3504,8 @@ Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 22, 22-1, 23-1 ir 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2737, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11574
 Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 18-1 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2896, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13505
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 2, 19, 22-1 straipsnių, 3 priedo pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
