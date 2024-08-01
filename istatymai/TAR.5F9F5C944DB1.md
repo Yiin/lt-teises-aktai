@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5F9F5C944DB1"
 
 # Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 102-2921, i. k. 0991010ISTAIII-1422
  
@@ -38,9 +38,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis ir taikymo sritis
 
 
-1. Šis įstatymas nustato žemės ūkio produkcijos pirkimo–pardavimo sutarties tipines sąlygas, atsiskaitymo už žemės ūkio produkciją terminus, sąlygas ir tvarką, žemės ūkio produkcijos priėmimo ir (arba) patikrinimo procedūros terminą, lėšų už patiektą žemės ūkio produkciją nurašymo eiliškumą, teisės į pavėluoto mokėjimo palūkanas atsiradimo aplinkybes, šių palūkanų apskaičiavimo ir mokėjimo tvarką bei išieškojimo išlaidų kompensavimo tvarką pavėluoto atsiskaitymo atveju, taip pat informacijos apie atsiskaitymo būklę teikimą, kokios sutarties sąlygos ir komercinė praktika laikomos nesąžiningomis žemės ūkio produkcijos pardavėjo atžvilgiu, atsakomybę už šio įstatymo pažeidimus ir ginčų nagrinėjimą.
+1. Šis įstatymas nustato žemės ūkio produkcijos pirkimo–pardavimo sutarties tipines sąlygas, atsiskaitymo už žemės ūkio produkciją terminus, sąlygas ir tvarką, žemės ūkio produkcijos priėmimo ir (arba) patikrinimo procedūros terminą, lėšų už patiektą žemės ūkio produkciją nurašymo eiliškumą, teisės į pavėluoto mokėjimo palūkanas atsiradimo aplinkybes, šių palūkanų apskaičiavimo ir mokėjimo tvarką bei išieškojimo išlaidų kompensavimo tvarką pavėluoto atsiskaitymo atveju, taip pat kokios sutarties sąlygos ir komercinė praktika laikomos nesąžiningomis žemės ūkio produkcijos pardavėjo atžvilgiu, atsakomybę už šio įstatymo pažeidimus ir ginčų nagrinėjimą. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-411, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15165
+Nr. XIV-2920, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13514
  
 
 
@@ -59,7 +60,10 @@ Nr. XIV-411, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15165
 
 
 
-2) kooperatinės bendrovės (kooperatyvo) ir mažosios bendrijos sandorių, kai jos perka iš savo narių jų pagamintą žemės ūkio produkciją; 
+2) Neteko galios nuo 2024-08-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2920, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13514
+ 
 
 
 
@@ -108,7 +112,9 @@ Nr. XIV-411, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15165
 
 
 
-3. Lygiavertis mokėjimo reikalavimo dokumentas – Lietuvos Respublikos buhalterinės apskaitos įstatyme nustatytus privalomus rekvizitus turintis apskaitos dokumentas (išskyrus PVM sąskaitą faktūrą ir sąskaitą faktūrą), kuriame nurodomas reikalavimas sumokėti už patiektą žemės ūkio produkciją. 
+3. Lygiavertis mokėjimo reikalavimo dokumentas – Lietuvos Respublikos finansinės apskaitos įstatyme nustatytus privalomus rekvizitus turintis apskaitos dokumentas (išskyrus PVM sąskaitą faktūrą ir sąskaitą faktūrą), kuriame nurodomas reikalavimas sumokėti už patiektą žemės ūkio produkciją.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2920, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13514
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-411, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15165
  
@@ -312,13 +318,15 @@ ANTRASIS SKIRSNIS
  
 
 
-3 straipsnis. Žemės ūkio produkcijos pirkimo – pardavimo sutarties forma 
+3 straipsnis. Žemės ūkio produkcijos pirkimo–pardavimo sutarties forma
 
 
-Žemės ūkio produkcijos pirkėjas gali pirkti žemės ūkio produkciją tik sudaręs su žemės ūkio produkcijos pardavėju rašytinę žemės ūkio produkcijos pirkimo–pardavimo sutartį, kuri turi atitikti šio įstatymo 4 straipsnio 1 dalyje ir Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) arba jos įgaliotos institucijos nustatytas žemės ūkio produkcijos pirkimo–pardavimo sutarties tipines sąlygas. 
+Žemės ūkio produkcijos pirkėjas gali pirkti žemės ūkio produkciją tik sudaręs su žemės ūkio produkcijos pardavėju rašytinę žemės ūkio produkcijos pirkimo–pardavimo sutartį, kuri turi atitikti šio įstatymo 4 straipsnio 1 dalyje ir Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatytas žemės ūkio produkcijos pirkimo−pardavimo sutarties tipines sąlygas. Ši nuostata netaikoma tais atvejais, kai žemės ūkio produkcijos pirkimo–pardavimo sutartis sudaryta dėl žemės ūkio produkcijos, kurią gamintojų organizacijos, įskaitant kooperatinę bendrovę (kooperatyvą), narys turi pristatyti (patiekti) gamintojų organizacijai (įskaitant kooperatinę bendrovę (kooperatyvą), kurios narys yra pardavėjas, jeigu tos gamintojų organizacijos (įskaitant kooperatinės bendrovės (kooperatyvo) įstatuose arba pagal juos priimtose taisyklėse ir sprendimuose įtvirtintos nuostatos atitinka šio įstatymo 4 straipsnio 1 dalyje ir Vyriausybės arba jos įgaliotos institucijos nustatytas žemės ūkio produkcijos pirkimo−pardavimo sutarties tipines sąlygas.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2920, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13514
  
-
-
 
 
 
@@ -337,9 +345,10 @@ Nr. XIV-411, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15165
 
 
 
-2) pirkimo ir tiekimo tvarka (pristatymo periodiškumas, būdas, vieta, laikas, pirkėjo priimtos žemės ūkio produkcijos įkainojimo trukmė ir, šalims susitarus, išankstinis užsakymas ir (arba) tiekimo grafikas, o parduodant žalią pieną, – reguliariai parduodamo žalio pieno tiekimo laikotarpio trukmė);
+2) pirkimo ir tiekimo tvarka (pristatymo periodiškumas (reguliarus tiekimas, nereguliarus tiekimas), būdas, vieta, laikas, pirkėjo priimtos žemės ūkio produkcijos įkainojimo trukmė ir, šalims susitarus, išankstinis užsakymas ir (arba) tiekimo grafikas, tiekimo laikotarpio trukmė, jeigu žemės ūkio produkcija tiekiama reguliariai);
 Straipsnio punkto pakeitimai:
 Nr. XIV-411, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15165
+Nr. XIV-2920, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13514
  
 
 
@@ -405,7 +414,18 @@ ATSISKAITYMO UŽ ŽEMĖS ŪKIO PRODUKCIJĄ, JOS PRIĖMIMO IR (ARBA) PATIKRINIMO 
 
 
 
-4. Žemės ūkio produkcijos pardavėjų patiekti žemės ūkio produktai įkainojami ne vėliau kaip:
+4. Kai už patiektą žemės ūkio produkciją mokėtiną pinigų sumą nustato žemės ūkio produkcijos pardavėjas ir yra tenkinamos Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo 4 straipsnio 3 dalyje nustatytos sąlygos, atsiskaitymo už žemės ūkio produkciją terminas skaičiuojamas nuo mokėtinos pinigų sumos nustatymo dienos. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2920, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13514
+ 
+
+
+
+
+5. Žemės ūkio produkcijos pardavėjų patiekti žemės ūkio produktai įkainojami ne vėliau kaip:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2920, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13514
+ 
 
 
 1) žalias pienas – per 8 darbo dienas nuo jo gavimo dienos;
@@ -517,12 +537,28 @@ LĖŠŲ UŽ PATIEKTĄ ŽEMĖS ŪKIO PRODUKCIJĄ NURAŠYMO EILIŠKUMAS
 
 
 
-2. Reguliariai parduodamo žalio pieno tiekimo laikotarpio trukmė negali būti ilgesnė kaip pirmoji mėnesio pusė (nuo 1 d. iki 15 d. imtinai) ar antroji mėnesio pusė (nuo 16 d. iki mėnesio pabaigos), o jo patiekimo data laikoma paskutinė šio laikotarpio diena. Už visą per šį laikotarpį patiektą žalią pieną yra apskaičiuojama pinigų suma. 
+2. Kai žemės ūkio produkcijos pirkimo–pardavimo sutartyje numatytas reguliarus tiekimas:
+
+
+1) reguliariai parduodamos žemės ūkio produkcijos, išskyrus žalią pieną, tiekimo laikotarpio trukmė negali būti ilgesnė kaip kalendorinis mėnuo, o jos patiekimo data laikoma paskutinė šio laikotarpio diena. Už patiektą žemės ūkio produkciją mokėtina pinigų suma apskaičiuojama už visą šį laikotarpį; 
 
 
 
 
-3. Žemės ūkio produkcijos pirkimas įforminamas išrašant PVM sąskaitą faktūrą, sąskaitą faktūrą arba lygiavertį mokėjimo reikalavimo dokumentą. PVM sąskaitai faktūrai privalomi rekvizitai nustatyti Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme, o sąskaitai faktūrai arba lygiaverčiam mokėjimo reikalavimo dokumentui – Lietuvos Respublikos buhalterinės apskaitos įstatyme. Šiuose dokumentuose taip pat gali būti įrašyti ir Vyriausybės arba jos įgaliotos institucijos nustatyti rekomenduojami papildomi rekvizitai. 
+2) reguliariai parduodamo žalio pieno tiekimo laikotarpio trukmė negali būti ilgesnė kaip pirmoji mėnesio pusė (nuo 1 dienos iki 15 dienos imtinai) ar antroji mėnesio pusė (nuo 16 dienos iki mėnesio pabaigos), o jo patiekimo data laikoma paskutinė vieno iš šių laikotarpių diena. Už patiektą žalią pieną mokėtina pinigų suma apskaičiuojama už visą šį laikotarpį. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2920, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13514
+ 
+
+
+
+
+3. Žemės ūkio produkcijos pirkimas įforminamas išrašant PVM sąskaitą faktūrą, sąskaitą faktūrą arba lygiavertį mokėjimo reikalavimo dokumentą. PVM sąskaitai faktūrai privalomi rekvizitai nustatyti Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme, o sąskaitai faktūrai arba lygiaverčiam mokėjimo reikalavimo dokumentui – Finansinės apskaitos įstatyme. Šiuose dokumentuose taip pat gali būti įrašyti ir Vyriausybės arba jos įgaliotos institucijos nustatyti rekomenduojami papildomi rekvizitai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2920, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13514
+ 
 
 
 
@@ -724,62 +760,10 @@ Nr. XIV-411, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15165
 
 
 
-SEPTINTASIS SKIRSNIS
-INFORMACIJOS APIE ATSISKAITYMĄ UŽ ŽEMĖS ŪKIO PRODUKCIJĄ TEIKIMAS 
-Pakeistas skirsnio pavadinimas:
-Nr. XIV-411, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15165
+7 skirsnis. Neteko galios nuo 2024-08-01
+Skirsnio naikinimas:
+Nr. XIV-2920, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13514
  
-
-
-14 straipsnis. Informacijos apie atsiskaitymo būklę teikimas
-
-
-1. Informaciją apie atsiskaitymo už žemės ūkio produkciją būklę Valstybinei mokesčių inspekcijai kas mėnesį privalo teikti žemės ūkio produkcijos pirkėjai:
-
-
-1) prekybos įmonės, kurių pajamos per paskutinius ataskaitinius metus yra 1,5 milijono eurų arba daugiau; 
-
-
-
-
-2) žemės ūkio produktų perdirbimo įmonės, kiti ūkio ir viešieji subjektai, superkantys žemės ūkio produktus apdoroti, apdirbti, perdirbti, naudoti savo ūkio reikmėms ar maitinimo poreikiams tenkinti ir (arba) parduoti, ir kurių pajamos per paskutinius ataskaitinius metus yra 0,3 milijono eurų arba daugiau.
-
-
-
-
-
-
-2. Informacijos apie atsiskaitymo už žemės ūkio produkciją teikimo tvarką nustato Valstybinė mokesčių inspekcija, suderinusi su Lietuvos Respublikos žemės ūkio ministerija.
-
-
-
-
-3. Valstybinė mokesčių inspekcija kas ketvirtį, per penkiolika darbo dienų nuo ketvirčio pabaigos, informaciją apie atsiskaitymo už žemės ūkio produkciją būklę pateikia:
-
-
-1) Žemės ūkio ministerijai;
-
-
-
-
-2) žemės ūkio ministro įgaliotai institucijai, kuri atlieka Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo priežiūros institucijos funkcijas;
-Straipsnio punkto pakeitimai:
-Nr. XIV-2066, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12749
- 
-
-
-
-
-3) Lietuvos Respublikos konkurencijos tarybai, kuri atlieka Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo priežiūros institucijos funkcijas.
-
-
-
-
-Straipsnio pakeitimai:
-Nr. XIV-411, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15165
- 
-
-
 
 
 
@@ -909,3 +893,8 @@ Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VI
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2066, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12749
 Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 14 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2920, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13514
+Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo Nr. VIII-1422 1, 2, 3, 4, 5, 8 straipsnių pakeitimo ir septintojo skirsnio pripažinimo netekusiu galios įstatymas
