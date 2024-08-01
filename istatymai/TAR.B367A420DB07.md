@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b367a420db0711eb9f09e7df20500045"
 
 # Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01
  
 Įstatymas paskelbtas: TAR 2021-07-02, i. k. 2021-15163
  
@@ -46,7 +46,10 @@ BENDROSIOS NUOSTATOS
 2. Šis įstatymas taikomas:
 
 
-1) nesąžiningos prekybos praktikai, nurodytai šio įstatymo 4 straipsnio 1 ir 2 dalyse, kai žemės ūkio ir maisto produktus parduoda tiekėjai, kurių metinė apyvarta per praėjusius finansinius metus sudaro nuo 1 euro iki 350 milijonų eurų, ir kai žemės ūkio ir maisto produktus perka pirkėjai, nepriklausomai nuo jų metinės apyvartos per praėjusius finansinius metus dydžio;
+1) nesąžiningos prekybos praktikai, nurodytai šio įstatymo 4 straipsnio 1 dalyje, kai žemės ūkio ir maisto produktus parduoda tiekėjai, kurių metinė apyvarta per praėjusius finansinius metus sudaro nuo 1 euro iki 350 milijonų eurų, ir kai žemės ūkio ir maisto produktus perka pirkėjai, nepriklausomai nuo jų metinės apyvartos per praėjusius finansinius metus dydžio; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
 
 
 
@@ -111,12 +114,15 @@ e) tiekėjai, kurių metinė apyvarta per praėjusius finansinius metus yra dide
 
 
 
-2) žemės ūkio ir maisto produktų tiekėjų ar žemės ūkio ir maisto produktų pirkėjų sutartims su vartotojais;
+2) žemės ūkio ir maisto produktų tiekėjų ar žemės ūkio ir maisto produktų pirkėjų sutartims su vartotojais.
 
 
 
 
-3) kooperatinių bendrovių (kooperatyvų) ar mažųjų bendrijų ir jų narių žemės ūkio ir (ar) maisto produktų pirkimo–pardavimo sutartims.
+3) Neteko galios nuo 2024-08-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
 
 
 
@@ -174,7 +180,10 @@ e) tiekėjai, kurių metinė apyvarta per praėjusius finansinius metus yra dide
 
 
 
-9. Žemės ūkio ir maisto produktai – Sutarties dėl Europos Sąjungos veikimo I priede nurodyti produktai ir juos perdirbus pagaminami tame priede nenurodyti maistui skirti produktai.
+9. Žemės ūkio ir maisto produktai – Sutarties dėl Europos Sąjungos veikimo I priede nurodyti produktai ir juos perdirbus pagaminami tame priede nenurodyti maistui skirti produktai, taip pat fasuotas geriamasis vanduo, šaltinio vanduo, natūralus mineralinis vanduo ir kiti nealkoholiniai gėrimai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
 
 
 
@@ -251,67 +260,81 @@ NESĄŽININGOS PREKYBOS PRAKTIKOS IR JOS VEIKSMŲ DRAUDIMAS, ŽEMĖS ŪKIO IR MA
 4 straipsnis. Draudžiami nesąžiningos prekybos praktikos veiksmai
 
 
-1. Kai pirkimo–pardavimo sutartyje numatytas reguliarus žemės ūkio ir maisto produktų tiekimas, draudžiama nesąžiningos prekybos praktika, kai pirkėjas vėluoja sumokėti tiekėjui:
+1. Draudžiama ši nesąžiningos prekybos praktika, kai pirkėjas su tiekėju atsiskaito:
 
 
-1) už kitus žemės ūkio ir maisto produktus, kurių sąrašą tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija, vadovaudamasi Atsiskaitymo už žemės ūkio produkciją įstatymo 5 straipsnio 2 dalies nuostatomis, bei greitai gendančius žemės ūkio ir maisto produktus – ilgiau kaip per 30 kalendorinių dienų nuo pirkimo–pardavimo sutartyje nustatyto šių produktų pristatymo laikotarpio, į jį įskaitant ir šių produktų įkainojimo trukmę, pabaigos arba ilgiau kaip per 30 kalendorinių dienų nuo už tą pristatymo laikotarpį, į jį įskaitant ir šių produktų įkainojimo trukmę, mokėtinos sumos nustatymo dienos, atsižvelgiant į tai, kuri iš tų dviejų datų yra vėlesnė;
-
-
-
-
-2) už kitus žemės ūkio ir maisto produktus, nepriskirtinus šios dalies 1 punkte nurodytiems produktams:
-
-
-a) kai pirkimo–pardavimo sutartis sudaryta tarp tiekėjo ir pirkėjo, kuris yra viešasis subjektas, – ilgiau kaip per Atsiskaitymo už žemės ūkio produkciją įstatymo 6 straipsnio 2 ir 3 dalyse nustatytus terminus;
+1) už greitai gendančius žemės ūkio ir maisto produktus – vėliau kaip per 30 kalendorinių dienų;
 
 
 
 
-b) kai pirkimo–pardavimo sutartis sudaryta tarp tiekėjo ir pirkėjo, nenurodyto šio punkto a papunktyje, – ilgiau kaip per 60 kalendorinių dienų nuo pirkimo–pardavimo sutartyje nustatyto šių produktų pristatymo laikotarpio, į jį įskaitant ir šių produktų įkainojimo trukmę, pabaigos arba vėliau kaip per 60 kalendorinių dienų nuo už tą pristatymo laikotarpį, į jį įskaitant ir šių produktų įkainojimo trukmę, mokėtinos sumos nustatymo dienos, atsižvelgiant į tai, kuri iš tų dviejų datų yra vėlesnė.
+2) už kitus žemės ūkio ir maisto produktus, nepriskirtinus šios dalies 1 punkte nurodytiems produktams, kurių sąrašą tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija, vadovaudamasi Atsiskaitymo už žemės ūkio produkciją įstatymo 5 straipsnio 2 dalies nuostatomis:
+
+
+a) vėliau kaip per 30 kalendorinių dienų;
 
 
 
 
-
-
-
-
-2. Kai pirkimo–pardavimo sutartyje nenumatytas reguliarus žemės ūkio ir maisto produktų tiekimas, draudžiama ši nesąžiningos prekybos praktika, kai pirkėjas vėluoja sumokėti tiekėjui:
-
-
-1) už kitus žemės ūkio ir maisto produktus, kurių sąrašą tvirtina Vyriausybės įgaliota institucija, vadovaudamasi Atsiskaitymo už žemės ūkio produkciją įstatymo 5 straipsnio 2 dalies nuostatomis, bei greitai gendančius žemės ūkio ir maisto produktus – ilgiau kaip per 30 kalendorinių dienų, į jas įskaitant ir šių produktų įkainojimo trukmę, nuo pristatymo dienos arba ilgiau kaip per 30 kalendorinių dienų, į jas įskaitant ir šių produktų įkainojimo trukmę, nuo mokėtinos sumos nustatymo dienos, atsižvelgiant į tai, kuri iš tų dviejų datų yra vėlesnė;
-
-
-
-
-2) už kitus žemės ūkio ir maisto produktus, nepriskirtinus šios dalies 1 punkte nurodytiems produktams:
-
-
-a) kai pirkimo–pardavimo sutartis sudaryta tarp tiekėjo ir pirkėjo, kuris yra viešasis subjektas, – ilgiau kaip per Atsiskaitymo už žemės ūkio produkciją įstatymo 6 straipsnio 2 ir 3 dalyse nustatytus terminus;
-
-
-
-
-b) kai pirkimo–pardavimo sutartis sudaryta tarp tiekėjo ir pirkėjo, nenurodyto šio punkto a papunktyje, – ilgiau kaip per 60 kalendorinių dienų, į jas įskaitant ir šių produktų įkainojimo trukmę, nuo pristatymo dienos arba vėliau kaip per 60 kalendorinių dienų, į jas įskaitant ir šių produktų įkainojimo trukmę, nuo mokėtinos sumos nustatymo dienos, atsižvelgiant į tai, kuri iš tų dviejų datų yra vėlesnė.
+b) kai atsiskaitoma dalimis, – 50 procentų sumos vėliau nei per 30 kalendorinių dienų ir likusius 50 procentų sumos vėliau nei per 60 kalendorinių dienų;
 
 
 
 
 
 
+3) už kitus žemės ūkio ir maisto produktus, nepriskirtinus šios dalies 1 ir 2 punktuose nurodytiems produktams:
 
 
-3. Nepaisant šio straipsnio 1 ir 2 dalių, kai pirkėjas nustato mokėtiną sumą:
-
-
-1) šio straipsnio 1 dalyje nurodyti mokėjimo terminai pradedami skaičiuoti nuo sutarto žemės ūkio ir maisto produktų pristatymo laikotarpio, į jį įskaitant ir šių produktų įkainojimo trukmę, per kurį buvo vykdomas pristatymas, pabaigos ir
+a) vėliau kaip per Atsiskaitymo už žemės ūkio produkciją įstatymo 6 straipsnio 2 ir 3 dalyse nustatytus terminus, kai pirkimo–pardavimo sutartis sudaryta tarp tiekėjo ir pirkėjo, kuris yra viešasis subjektas;
 
 
 
 
-2) šio straipsnio 2 dalyje nurodyti mokėjimo terminai, į juos įskaitant ir žemės ūkio ir maisto produktų įkainojimo trukmę, pradedami skaičiuoti nuo šių produktų pristatymo dienos.
+b) vėliau kaip per 60 kalendorinių dienų, kai pirkimo–pardavimo sutartis sudaryta tarp tiekėjo ir pirkėjo, nenurodyto šio punkto a papunktyje. 
 
 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
+
+
+
+
+2. Atsiskaitymo terminai, nurodyti šio straipsnio 1 dalyje, į kuriuos įskaitoma žemės ūkio ir maisto produktų įkainojimo trukmė, skaičiuojami nuo:
+
+
+1) žemės ūkio ir maisto produktų pristatymo laikotarpio, kuris baigiasi paskutinę kalendorinio mėnesio dieną, pabaigos, kai pirkimo–pardavimo sutartyje numatytas reguliarus žemės ūkio ir maisto produktų tiekimas;
+
+
+
+
+2) žemės ūkio ir maisto produktų pristatymo dienos, kai pirkimo–pardavimo sutartyje nenumatytas reguliarus tiekimas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
+
+
+
+
+3. Nepaisant šio straipsnio 2 dalies nuostatų, atsiskaitymo terminai, į kuriuos įskaitoma žemės ūkio ir maisto produktų įkainojimo trukmė, skaičiuojami nuo mokėtinos sumos už pristatytus žemės ūkio ir maisto produktus nustatymo dienos, jeigu yra tenkinamos visos šios sąlygos:
+
+
+1) mokėtiną sumą nustatė tiekėjas savo aiškiai raštu išreikšta valia;
+
+
+
+
+2) mokėtinos sumos nustatymo diena yra vėlesnė negu žemės ūkio ir maisto produktų pristatymo diena ar pristatymo laikotarpio pabaiga. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
 
 
 
@@ -339,7 +362,10 @@ b) kai pirkimo–pardavimo sutartis sudaryta tarp tiekėjo ir pirkėjo, nenurody
 
 
 
-5) pirkėjas perka žemės ūkio ir (ar) maisto produktus nesudaręs su šių produktų tiekėju rašytinės pirkimo–pardavimo sutarties pagal iš anksto su tiekėju sutartas sąlygas; tai netaikoma tais atvejais, kai pirkimo–pardavimo sutartis yra susijusi su žemės ūkio ir maisto produktais, kuriuos gamintojų organizacijos, įskaitant kooperatinę bendrovę (kooperatyvą), narys turi pristatyti (patiekti) gamintojų organizacijai (kooperatinei bendrovei (kooperatyvui), kurios narys yra tiekėjas, jeigu tos gamintojų organizacijos (kooperatinės bendrovės (kooperatyvo) įstatuose arba į tuos įstatus įtrauktose arba pagal juos priimtose taisyklėse ir sprendimuose yra nuostatų, kurių poveikis panašus į pirkimo–pardavimo sutarties sąlygų poveikį;
+5) pirkėjas perka žemės ūkio ir (ar) maisto produktus nesudaręs su šių produktų tiekėju rašytinės pirkimo–pardavimo sutarties pagal iš anksto su tiekėju sutartas sąlygas; tai netaikoma tais atvejais, kai žemės ūkio ir maisto produktus gamintojų organizacijos, įskaitant kooperatinę bendrovę (kooperatyvą), narys turi pristatyti (patiekti) gamintojų organizacijai (kooperatinei bendrovei (kooperatyvui), kurios narys yra tiekėjas, jeigu tos gamintojų organizacijos (kooperatinės bendrovės (kooperatyvo) įstatuose arba pagal juos priimtose taisyklėse ir sprendimuose įtvirtintos nuostatos atitinka Atsiskaitymo už žemės ūkio produkciją įstatyme nustatytas žemės ūkio produkcijos pirkimo–pardavimo sutarties tipines sąlygas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
 
 
 
@@ -361,7 +387,9 @@ b) kai pirkimo–pardavimo sutartis sudaryta tarp tiekėjo ir pirkėjo, nenurody
 
 
 
-5. Šio straipsnio 1 ir 2 dalyse nurodyti draudimai nedaro poveikio:
+5. Šio straipsnio 1 dalyje nurodyti draudimai nedaro poveikio: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
 
 
 1) pasekmėms, susijusioms su Atsiskaitymo už žemės ūkio produkciją įstatyme nurodytais pavėluotais mokėjimais už parduotą žemės ūkio produkciją ir žalos atlyginimo priemonėmis;
@@ -376,7 +404,9 @@ b) kai pirkimo–pardavimo sutartis sudaryta tarp tiekėjo ir pirkėjo, nenurody
 
 
 
-6. Šio straipsnio 1 ir 2 dalyse nurodyti draudimai netaikomi mokėjimams:
+6. Šio straipsnio 1 dalyje nurodyti draudimai netaikomi mokėjimams: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
 
 
 1) kuriuos pirkėjas atlieka tiekėjui, kai tokie mokėjimai atliekami įgyvendinant Vaisių ir daržovių bei pieno ir pieno produktų vartojimo skatinimo vaikų ugdymo įstaigose programą, vadovaujantis Reglamento (ES) Nr. 1308/2013 23 straipsnio nuostata;
@@ -459,7 +489,9 @@ Nr. XIV-1898, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08464
 
 
 
-10. Šio straipsnio 1, 2, 4 ir 7 dalyse nustatyti draudimai yra privalomi, nepriklausomai nuo šalių sudarytai pirkimo–pardavimo sutarčiai taikytinos teisės.
+10. Šio straipsnio 1, 4 ir 7 dalyse nustatyti draudimai yra privalomi, nepriklausomai nuo šalių sudarytai pirkimo–pardavimo sutarčiai taikytinos teisės.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
  
 
 
@@ -480,7 +512,9 @@ Nr. XIV-1898, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08464
 
 
 
-3. Tiekėjai ir pirkėjai, vadovaudamiesi žemės ūkio ir maisto produktų priskyrimo prie greitai gendančių žemės ūkio ir maisto produktų tvarkos aprašu ir rekomendacinio pobūdžio greitai gendančių žemės ūkio ir maisto produktų sąrašu, nurodytu šio straipsnio 2 dalyje, sudarydami pirkimo–pardavimo sutartis atrenka iš Sutarties dėl Europos Sąjungos veikimo I priede nurodytus produktus, taip pat kitus šiame priede nenurodytus maistui skirtus produktus, pagamintus perdirbus šiame priede išvardytus produktus.
+3. Tiekėjai ir pirkėjai, vadovaudamiesi žemės ūkio ir maisto produktų priskyrimo prie greitai gendančių žemės ūkio ir maisto produktų tvarkos aprašu ir rekomendacinio pobūdžio greitai gendančių žemės ūkio ir maisto produktų sąrašu, nurodytu šio straipsnio 2 dalyje, sudarydami pirkimo–pardavimo sutartis atrenka Sutarties dėl Europos Sąjungos veikimo I priede nurodytus produktus, taip pat kitus šiame priede nenurodytus maistui skirtus produktus, pagamintus perdirbus šiame priede išvardytus produktus, taip pat fasuotą geriamąjį vandenį, šaltinio vandenį, natūralų mineralinį vandenį ir kitus nealkoholinius gėrimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
  
 
 
@@ -746,7 +780,10 @@ PAŽEIDIMŲ TYRIMO, BYLŲ NAGRINĖJIMO IR ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEI
 
 
 
-4. Baigus pažeidimo tyrimą, proceso dalyviai turi teisę susipažinti su pažeidimo tyrimo išvadomis (toliau – tyrimo išvados). Proceso šalys taip pat turi teisę susipažinti su bylos medžiaga, išskyrus dokumentus, kurie susiję su tiekėjo, kuriam buvo pritaikyta nesąžiningos prekybos praktika ir dėl kurio pažeistų interesų vykdomas tyrimas, tapatybe ar kitais jo tapatybės nustatymo duomenimis, jeigu tiekėjas arba tiekėjo interesams atstovaujanti organizacija ar asociacija (gamintojų organizacija, kitų tiekėjų organizacija ir tokių organizacijų asociacija) prašo juos saugoti. Agentūra turi teisę motyvuotu sprendimu apriboti proceso šalių teisę susipažinti su dokumentais, kurie sudaro valstybės, tarnybos, profesinę ar komercinę paslaptį. Šis Agentūros sprendimas gali būti skundžiamas Vilniaus apygardos administraciniam teismui per 7 kalendorines dienas nuo jo įteikimo proceso dalyviams dienos.
+4. Baigus arba nutraukus pažeidimo tyrimą, proceso dalyviai turi teisę susipažinti su pažeidimo tyrimo išvadomis (toliau – tyrimo išvados). Proceso šalys taip pat turi teisę susipažinti su bylos medžiaga, išskyrus dokumentus, kurie susiję su tiekėjo, kuriam buvo pritaikyta nesąžiningos prekybos praktika ir dėl kurio pažeistų interesų vykdomas tyrimas, tapatybe ar kitais jo tapatybės nustatymo duomenimis, jeigu tiekėjas arba tiekėjo interesams atstovaujanti organizacija ar asociacija (gamintojų organizacija, kitų tiekėjų organizacija ir tokių organizacijų asociacija) prašo juos saugoti. Agentūra turi teisę motyvuotu sprendimu apriboti proceso šalių teisę susipažinti su dokumentais, kurie sudaro valstybės, tarnybos, profesinę ar komercinę paslaptį. Šis Agentūros sprendimas gali būti skundžiamas Regionų administraciniam teismui per 7 kalendorines dienas nuo jo įteikimo proceso dalyviams dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
 
 
 
@@ -765,6 +802,15 @@ PAŽEIDIMŲ TYRIMO, BYLŲ NAGRINĖJIMO IR ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEI
 
 
 2) per dvejus metus nuo šio įstatymo pažeidimo padarymo dienos, o kai pažeidimas yra tęstinis ar trunkamasis, – nuo paskutinių veiksmų atlikimo dienos.
+
+
+
+
+
+
+7. Sustabdžius pažeidimo tyrimą arba bylą, sustabdomi ir šio įstatymo 12 straipsnio 6 dalyje nustatyti terminai.
+Papildyta straipsnio dalimi:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
  
 
 
@@ -772,9 +818,10 @@ PAŽEIDIMŲ TYRIMO, BYLŲ NAGRINĖJIMO IR ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEI
 
 
 
-
-
-13 straipsnis. Pareiškimo atlikti pažeidimo tyrimą pateikimas ir jo nagrinėjimas
+13 straipsnis. Pareiškimo atlikti pažeidimo tyrimą pateikimas ir jo nagrinėjimas; pažeidimo tyrimo sustabdymo ir nutraukimo pagrindai 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
 
 
 1. Pareiškėjas, norėdamas inicijuoti pažeidimo tyrimą, turi pateikti Agentūrai rašytinį pareiškimą dėl pažeidimo tyrimo atlikimo (toliau – pareiškimas).
@@ -830,7 +877,10 @@ PAŽEIDIMŲ TYRIMO, BYLŲ NAGRINĖJIMO IR ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEI
 
 
 
-4) pareiškime nurodytos faktinės aplinkybės yra priskirtinos prie galimų mažareikšmių pažeidimų ir neatitinka Agentūros patvirtintų veiklos administracinių prioritetų, kurie nustatomi taip pat vadovaujantis ir ūkio subjektų veiklos priežiūros rizikos vertinimo principu. Šis principas reiškia, kad Agentūros veiksmai nukreipiami didelės rizikos atvejams šalinti, riziką siejant su žalos teisės normų saugomoms vertybėms atsiradimo tikimybe ir šios žalos dydžiu bei mastu;
+4) pareiškime nurodytos faktinės aplinkybės yra priskirtinos prie Agentūros vadovo patvirtintų galimų mažareikšmių pažeidimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
 
 
 
@@ -848,6 +898,52 @@ PAŽEIDIMŲ TYRIMO, BYLŲ NAGRINĖJIMO IR ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEI
 
 
 6. Agentūrai priėmus motyvuotą sprendimą pradėti pažeidimo tyrimą arba atsisakyti pradėti pažeidimo tyrimą, šio sprendimo kopija išsiunčiama proceso šalims ne vėliau kaip per 3 darbo dienas nuo jo priėmimo. Jeigu, atsižvelgiant į pažeidimo pobūdį, pranešimas apie pradėtą pažeidimo tyrimą iki pažeidimo tyrimo veiksmų atlikimo pradžios galėtų pakenkti pažeidimo tyrimui, nes yra pagrįsta rizika, kad pirkėjas, įtariamas padaręs šio įstatymo pažeidimą, gali paslėpti ar sunaikinti dokumentus, reikalingus pažeidimo tyrimui atlikti, arba yra kitų aplinkybių, dėl kurių pažeidimo tyrimas taptų neįmanomas arba jo atlikimas ypač pasunkėtų, šio sprendimo kopija išsiunčiama proceso šalims per 3 darbo dienas nuo pažeidimo tyrimo veiksmų atlikimo pradžios.
+
+
+
+
+7. Agentūra motyvuotu sprendimu sustabdo pažeidimo tyrimą, jeigu:
+
+
+1) pirkėjui, kurio atžvilgiu atliekamas pažeidimo tyrimas, yra iškelta bankroto ar restruktūrizavimo byla, iki bankroto ar restruktūrizavimo proceso pabaigos;
+
+
+
+
+2) dėl to paties pažeidimo kita Europos Sąjungos valstybės narės priežiūros institucija yra pradėjusi pažeidimo tyrimą, iki išsprendžiamas klausimas dėl bendradarbiavimo ir (ar) nurodyta, kuri priežiūros institucija turi tęsti pažeidimo tyrimą;
+
+
+
+
+3) pirkėjas, kurio atžvilgiu atliekamas pažeidimo tyrimas, gali būti priskiriamas prie didelę rinkos galią turinčios mažmeninės prekybos įmonės, kol įvertinama, ar pirkėjas atitinka didelę rinkos galią turinčiai mažmeninės prekybos įmonei keliamus reikalavimus.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
+
+
+
+
+8. Sustabdžius pažeidimo tyrimą, sustabdomas ir šio įstatymo 12 straipsnio 6 dalyje nustatytas pažeidimo tyrimo terminas. Jeigu išnyko šio straipsnio 7 dalyje numatyti pažeidimo tyrimo sustabdymo pagrindai, Agentūros motyvuotu sprendimu pažeidimo tyrimas atnaujinamas, išskyrus atvejus, kai atsiranda šio straipsnio 9 dalyje numatyti pažeidimo tyrimo nutraukimo pagrindai. Atnaujinus pažeidimo tyrimą, pažeidimo tyrimo termino skaičiavimas tęsiamas nuo šio tyrimo atnaujinimo momento.
+Papildyta straipsnio dalimi:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
+
+
+
+
+9. Agentūra motyvuotu sprendimu nutraukia pažeidimo tyrimą, jeigu paaiškėja šio straipsnio 4 dalyje arba šio įstatymo 18 straipsnio 9 dalies 2 punkte nurodytos aplinkybės.
+Papildyta straipsnio dalimi:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
+
+
+
+
+10. Agentūra motyvuotą sprendimą sustabdyti pažeidimo tyrimą arba nutraukti pažeidimo tyrimą turi priimti ne vėliau kaip per 20 kalendorinių dienų nuo šio straipsnio 7–9 dalyse nurodytų aplinkybių paaiškėjimo dienos. Agentūrai priėmus motyvuotą sprendimą sustabdyti pažeidimo tyrimą arba nutraukti pažeidimo tyrimą, šio sprendimo kopija išsiunčiama proceso šalims ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos.
+Papildyta straipsnio dalimi:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
  
 
 
@@ -888,7 +984,9 @@ PAŽEIDIMŲ TYRIMO, BYLŲ NAGRINĖJIMO IR ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEI
 
 
 
-5. Agentūros sprendimas taikyti laikinąsias priemones gali būti skundžiamas Vilniaus apygardos administraciniam teismui per 10 kalendorinių dienų nuo jo įteikimo dienos. Skundo padavimas laikinųjų priemonių taikymo nesustabdo. Skundas turi būti išnagrinėtas ir sprendimas dėl jo priimtas per 45 kalendorines dienas nuo skundo gavimo dienos. Vilniaus apygardos administracinio teismo sprendimas gali būti skundžiamas Lietuvos vyriausiajam administraciniam teismui per 7 kalendorines dienas nuo sprendimo paskelbimo Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Lietuvos vyriausiasis administracinis teismas apeliacinį skundą dėl Vilniaus apygardos administracinio teismo sprendimo turi išnagrinėti ir sprendimą dėl jo priimti per 45 kalendorines dienas nuo bylos gavimo teisme dienos.
+5. Agentūros sprendimas taikyti laikinąsias priemones gali būti skundžiamas Regionų administraciniam teismui per 10 kalendorinių dienų nuo jo įteikimo pirkėjui dienos. Skundo padavimas laikinųjų priemonių taikymo nesustabdo. Skundas turi būti išnagrinėtas ir sprendimas dėl jo priimtas per 45 kalendorines dienas nuo skundo gavimo dienos. Regionų administracinio teismo sprendimas gali būti skundžiamas Lietuvos vyriausiajam administraciniam teismui per 7 kalendorines dienas nuo sprendimo paskelbimo Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Lietuvos vyriausiasis administracinis teismas apeliacinį skundą dėl Regionų administracinio teismo sprendimo turi išnagrinėti ir sprendimą dėl jo priimti per 45 kalendorines dienas nuo bylos gavimo teisme dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
  
 
 
@@ -995,7 +1093,10 @@ c) Agentūros darbuotojai turi teismo nutartį dėl leidimo įeiti į pirkėjui 
 16 straipsnis. Teismo leidimų įeiti į juridinių arba fizinių asmenų, kurie įtariami padarę šio įstatymo pažeidimą, teritoriją ir (ar) jų naudojamas patalpas gavimo tvarka
 
 
-1. Agentūrai priėmus sprendimą dėl tyrimo veiksmų, numatytų šio įstatymo 15 straipsnio 1 dalies 1 punkte, Agentūros darbuotojas pateikia Vilniaus apygardos administraciniam teismui prašymą dėl teismo leidimo įeiti į pirkėjui, kuris įtariamas padaręs šio įstatymo pažeidimą, nuosavybės teise priklausančią ar jo valdomą teritoriją ir (ar) jam nuosavybės teise priklausančias ar jo valdomas ir naudojamas patalpas bei jose atlikti patikras išdavimo.
+1. Agentūrai priėmus sprendimą dėl tyrimo veiksmų, numatytų šio įstatymo 15 straipsnio 1 dalies 1 punkte, Agentūros darbuotojas pateikia Regionų administraciniam teismui prašymą dėl teismo leidimo įeiti į pirkėjui, kuris įtariamas padaręs šio įstatymo pažeidimą, nuosavybės teise priklausančią ar jo valdomą teritoriją ir (ar) jam nuosavybės teise priklausančias ar jo valdomas ir naudojamas patalpas ir jose atlikti patikras išdavimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
 
 
 
@@ -1015,7 +1116,10 @@ c) Agentūros darbuotojai turi teismo nutartį dėl leidimo įeiti į pirkėjui 
 
 
 
-3. Išnagrinėjęs prašymą išduoti teismo leidimą įeiti į juridiniam arba fiziniam asmeniui – pirkėjui, kuris įtariamas padaręs šio įstatymo pažeidimą, jam nuosavybės teise priklausančią ar jo valdomą teritoriją ir (ar) jam nuosavybės teise priklausančias ar jo valdomas ir naudojamas patalpas, Vilniaus apygardos administracinis teismas priima motyvuotą nutartį prašymą patenkinti, patenkinti iš dalies arba atmesti.
+3. Išnagrinėjęs prašymą išduoti teismo leidimą įeiti į juridiniam arba fiziniam asmeniui – pirkėjui, kuris įtariamas padaręs šio įstatymo pažeidimą, nuosavybės teise priklausančią ar jo valdomą teritoriją ir (ar) jam nuosavybės teise priklausančias ar jo valdomas ir naudojamas patalpas, Regionų administracinis teismas priima motyvuotą nutartį prašymą patenkinti, patenkinti iš dalies arba atmesti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
 
 
 
@@ -1025,12 +1129,18 @@ c) Agentūros darbuotojai turi teismo nutartį dėl leidimo įeiti į pirkėjui 
 
 
 
-5. Agentūra turi teisę per 7 kalendorines dienas nuo teismo nutarties paskelbimo dienos apskųsti Lietuvos vyriausiajam administraciniam teismui Vilniaus apygardos administracinio teismo nutartimi atmestą arba iš dalies patenkintą prašymą dėl teismo leidimo įeiti į juridiniam arba fiziniam asmeniui – pirkėjui, kuris įtariamas padaręs šio įstatymo pažeidimą, nuosavybės teise priklausančią ar jo valdomą teritoriją ir (ar) jam nuosavybės teise priklausančias ar jo valdomas ir naudojamas patalpas.
+5. Agentūra turi teisę per 7 kalendorines dienas nuo teismo nutarties paskelbimo dienos apskųsti Lietuvos vyriausiajam administraciniam teismui Regionų administracinio teismo nutartimi atmestą arba iš dalies patenkintą prašymą dėl teismo leidimo įeiti į juridiniam arba fiziniam asmeniui – pirkėjui, kuris įtariamas padaręs šio įstatymo pažeidimą, nuosavybės teise priklausančią ar jo valdomą teritoriją ir (ar) jam nuosavybės teise priklausančias ar jo valdomas ir naudojamas patalpas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
 
 
 
 
-6. Lietuvos vyriausiasis administracinis teismas skundą dėl Vilniaus apygardos administracinio teismo nutarties turi išnagrinėti ne vėliau kaip per 7 kalendorines dienas nuo šio skundo gavimo dienos. Agentūros atstovas turi teisę dalyvauti Lietuvos vyriausiajam administraciniam teismui žodinio proceso tvarka nagrinėjant skundą dėl Vilniaus apygardos administracinio teismo nutarties.
+6. Lietuvos vyriausiasis administracinis teismas skundą dėl Regionų administracinio teismo nutarties turi išnagrinėti ne vėliau kaip per 7 kalendorines dienas nuo šio skundo gavimo dienos. Agentūros atstovas turi teisę dalyvauti Lietuvos vyriausiajam administraciniam teismui žodinio proceso tvarka nagrinėjant skundą dėl Regionų administracinio teismo nutarties.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
 
 
 
@@ -1103,6 +1213,37 @@ Baigus pažeidimo tyrimą, proceso dalyviams ne vėliau kaip prieš 20 darbo die
 
 
 
+81. Agentūra motyvuotu sprendimu sustabdo bylą, jeigu: 
+
+
+1) pirkėjui, kurio atžvilgiu nagrinėjama byla, yra iškelta bankroto ar restruktūrizavimo byla, iki bankroto ar restruktūrizavimo proceso pabaigos;
+
+
+
+
+2) dėl to paties pažeidimo kita Europos Sąjungos valstybės narės priežiūros institucija yra pradėjusi pažeidimo tyrimą, iki išsprendžiamas klausimas dėl bendradarbiavimo ir (ar) bylos nagrinėjimo;
+
+
+
+
+3) pirkėjas, kurio atžvilgiu nagrinėjama byla, gali būti priskiriamas prie didelę rinkos galią turinčios mažmeninės prekybos įmonės, kol įvertinama, ar pirkėjas atitinka didelę rinkos galią turinčiai mažmeninės prekybos įmonei keliamus reikalavimus.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
+
+
+
+
+82. Sustabdžius bylą, sustabdomi ir šio įstatymo 12 straipsnio 6 dalyje nustatyti terminai. Jeigu išnyko šio straipsnio 81 dalyje numatyti bylos sustabdymo pagrindai, Agentūros motyvuotu sprendimu bylos nagrinėjimas atnaujinamas, išskyrus atvejus, jei atsiranda šio straipsnio 9 dalies 2 punkte nustatyti bylos nutraukimo pagrindai. Atnaujinus bylos nagrinėjimą, šio įstatymo 12 straipsnio 6 dalyje nustatytų terminų skaičiavimas tęsiamas nuo bylos atnaujinimo momento. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
+
+
+
+
 9. Išnagrinėjusi bylą, Agentūra priima vieną iš šių sprendimų:
 
 
@@ -1129,7 +1270,39 @@ c) pareiškėjas atsisakė pareiškimo, išskyrus šio įstatymo 11 straipsnio 4
 
 
 
-d) tolesnis bylos nagrinėjimas keltų riziką, kad bus atskleista pareiškėjo tapatybė arba bet kuri kita informacija, kurią atskleidus, pareiškėjo manymu, būtų pakenkta jo interesams, ir jeigu pareiškėjas nurodė tą informaciją pagal 10 straipsnio 1 dalį.
+d) tolesnis bylos nagrinėjimas keltų riziką, kad bus atskleista pareiškėjo tapatybė arba bet kuri kita informacija, kurią atskleidus, pareiškėjo manymu, būtų pakenkta jo interesams, ir jeigu pareiškėjas nurodė tą informaciją pagal 10 straipsnio 1 dalį;
+
+
+
+
+e) pirkėjas yra likviduojamas arba reorganizuojamas ir negalimas teisių ir pareigų perėmimas (kai pirkėjas yra juridinis asmuo); 
+Papildyta papunkčiu:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
+
+
+
+
+f) pirkėjas miršta (kai pirkėjas yra fizinis asmuo); 
+Papildyta papunkčiu:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
+
+
+
+
+g) paaiškėja, kad pirkėjas, kuris įtariamas padaręs šio įstatymo pažeidimą, yra neveiksnus;
+Papildyta papunkčiu:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
+
+
+
+
+h) paaiškėja šio įstatymo 13 straipsnio 4 dalyje nurodytos aplinkybės. 
+Papildyta papunkčiu:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
 
 
 
@@ -1138,7 +1311,9 @@ d) tolesnis bylos nagrinėjimas keltų riziką, kad bus atskleista pareiškėjo 
 
 
 
-10. Šio straipsnio 9 dalyje nurodytame sprendime turi būti nurodyta: 
+10. Šio straipsnio 81 ir 9 dalyse nurodytame sprendime turi būti nurodyta:  
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
 
 
 1) sprendimo priėmimo laikas ir vieta;
@@ -1173,7 +1348,9 @@ d) tolesnis bylos nagrinėjimas keltų riziką, kad bus atskleista pareiškėjo 
 
 
 
-11. Šio straipsnio 9 dalyje nurodyto sprendimo kopija ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos išsiunčiama registruotu laišku proceso šalims. Kai Agentūros sprendime yra neskelbtinų duomenų apie valstybės, tarnybos, profesines, komercines paslaptis ar asmens duomenų, kurie yra neskelbtini atsižvelgiant į asmens duomenų apsaugos teisės aktų reikalavimus, parengiama skelbtina sprendimo versija, iš kurios pašalinami visi neskelbtini duomenys.
+11. Šio straipsnio 81 ir 9 dalyse nurodyto sprendimo kopija ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos išsiunčiama registruotu laišku proceso šalims. Kai Agentūros sprendime yra neskelbtinų duomenų (valstybės, tarnybos, profesinių, komercinių paslapčių ar asmens duomenų, kurie yra neskelbtini atsižvelgiant į asmens duomenų apsaugos teisės aktų reikalavimus), parengiama skelbtina sprendimo versija, iš kurios pašalinami visi neskelbtini duomenys.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
  
 
 
@@ -1195,10 +1372,12 @@ Nedarant poveikio tiekėjų teisei teikti pareiškimus pagal šio įstatymo 13 s
 20 straipsnis. Agentūros sprendimų apskundimas
 
 
-Agentūros sprendimai, priimti pagal šio įstatymo 10 straipsnio 2 dalį, 13 straipsnio 4 dalį ir 18 straipsnio 9 dalį, per 30 kalendorinių dienų nuo sprendimo kopijos gavimo dienos gali būti skundžiami teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. Skundą gali pateikti tik proceso šalys. Kreipimasis į teismą nesustabdo sprendimo vykdymo, jeigu teismas nenustato kitaip.
+Agentūros sprendimai, priimti pagal šio įstatymo 10 straipsnio 2 dalį, 13 straipsnio 4 ir 9 dalis ir 18 straipsnio 9 dalį, per 30 kalendorinių dienų nuo sprendimo kopijos gavimo dienos gali būti skundžiami teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. Skundą gali pateikti tik proceso šalys. Kreipimasis į teismą nesustabdo sprendimo vykdymo, jeigu teismas nenustato kitaip.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
  
-
-
 
 
 
@@ -1214,7 +1393,9 @@ Nr. XIV-1898, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08464
 
 
 
-2. Už šio įstatymo 4 straipsnio 1 ir 2 dalyse nurodytų draudžiamų nesąžiningos prekybos praktikos veiksmų taikymą pirkėjui skiriama ne mažesnė kaip dviejų šimtų eurų, tačiau ne didesnė kaip 20 procentų nuo susidariusios pradelstų skolų tiekėjui sumos dydžio bauda. Baudos dydis apskaičiuojamas ir skiriamas pirkėjui vadovaujantis šiais etapais:
+2. Už šio įstatymo 4 straipsnio 1 dalyje nurodytų draudžiamų nesąžiningos prekybos praktikos veiksmų taikymą pirkėjui skiriama ne mažesnė kaip dviejų šimtų eurų, tačiau ne didesnė kaip 20 procentų nuo susidariusios pradelstų skolų tiekėjui sumos dydžio bauda. Baudos dydis apskaičiuojamas ir skiriamas pirkėjui vadovaujantis šiais etapais: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
 
 
 1) pirmuoju etapu apskaičiuojamas pradinis baudos dydis, kuris yra 7 procentai nuo susidariusios pradelstų skolų tiekėjui sumos;
@@ -1457,7 +1638,10 @@ Agentūra, naudodamasi jai šiame įstatyme suteiktomis teisėmis ir vykdydama j
 23 straipsnis. Ataskaitų paskelbimas ir teikimas
 
 
-1. Agentūra iki kiekvienų metų kovo 1 d. savo interneto svetainėje paskelbia savo veiklos, susijusios su šio įstatymo nuostatų taikymu, metinę ataskaitą, kurioje nurodomas per praėjusius metus gautų skundų skaičius ir pradėtų arba užbaigtų tyrimų skaičius. Ataskaitoje pateikiama kiekvieno užbaigto tyrimo dalyko santrauka, tyrimo rezultatai ir, kai taikytina, priimtas sprendimas, laikantis šio įstatymo 9 straipsnyje nustatytų konfidencialumo reikalavimų.
+1. Agentūra iki kiekvienų metų kovo 1 d. savo interneto svetainėje paskelbia savo veiklos, susijusios su šio įstatymo nuostatų taikymu, metinę ataskaitą. Šioje ataskaitoje nurodomas per praėjusius metus gautų skundų skaičius ir pradėtų, užbaigtų, sustabdytų arba nutrauktų tyrimų skaičius. Ataskaitoje pateikiama kiekvieno tyrimo dalyko santrauka, tyrimo rezultatai ir, kai taikytina, priimtas sprendimas, laikantis šio įstatymo 9 straipsnyje nustatytų konfidencialumo reikalavimų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+ 
 
 
 
@@ -1557,3 +1741,8 @@ Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2064, 2023-06-15, paskelbta TAR 2023-06-27, i. k. 2023-12802
 Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo Nr. XIV-409 6 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2919, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13513
+Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo Nr. XIV-409 1, 2, 4, 5, 12, 13, 14, 16, 18, 20, 21 ir 23 straipsnių pakeitimo įstatymas
