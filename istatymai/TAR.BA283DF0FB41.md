@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BA283DF0FB41"
 
 # Lietuvos Respublikos želdynų įstatymas
 
-Suvestinė redakcija nuo 2023-05-01 iki 2024-07-31
+Suvestinė redakcija nuo 2024-08-01 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3215, i. k. 1071010ISTA00X-1241
  
@@ -409,7 +409,11 @@ Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
 
 
 
-2. Savivaldybių vykdomosios institucijos: 
+2. Savivaldybių vykdomosios institucijos ar jų įgalioti savivaldybių administracijų direktoriai:  
+ 
+ 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
 
 
 1) organizuoja atskirųjų želdynų žemės sklypų formavimą, šių sklypų kadastro duomenų nustatymą ir jų įrašymą į Nekilnojamojo turto kadastrą; 
@@ -543,7 +547,9 @@ III SKYRIUS
 
 
 
-2. Priklausomieji želdynai kuriami ir tvarkomi atsižvelgiant į žemės sklypo pagrindinę žemės naudojimo paskirtį ir naudojimo būdą, vadovaujantis teritorijų planavimo dokumentų sprendiniais. 
+2. Priklausomieji želdynai kuriami ir tvarkomi atsižvelgiant į žemės sklypo pagrindinę žemės naudojimo paskirtį ir naudojimo būdą, vadovaujantis teritorijų planavimo dokumentų sprendiniais, statinių ir (ar) įrenginių projektais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
  
 
 
@@ -702,7 +708,9 @@ Nr. XIV-1616, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25040
 
 
 
-3. Dendrologiškai, ekologiškai, estetiškai vertingus, kultūros paveldui ir kraštovaizdžiui reikšmingus medžius ir krūmus savivaldybių atstovaujamosios institucijos skelbia saugotinais želdiniais. Kriterijus, pagal kuriuos savivaldybių atstovaujamosios institucijos priima sprendimus dėl konkrečių želdinių paskelbimo saugotinais, nustato aplinkos ministras. Savivaldybės vykdomoji institucija per 20 darbo dienų nuo savivaldybės atstovaujamosios institucijos sprendimo dėl medžių ir krūmų paskelbimo saugotinais želdiniais priėmimo raštu informuoja saugotinais paskelbtų želdinių savininkus ir valdytojus. Informacija apie savivaldybės atstovaujamosios institucijos sprendimą dėl medžių ir krūmų paskelbimo saugotinais želdiniais, laikantis asmens duomenų apsaugą reglamentuojančių teisės aktų reikalavimų, per 20 darbo dienų nuo savivaldybės atstovaujamosios institucijos sprendimo dėl medžių ir krūmų paskelbimo saugotinais želdiniais priėmimo paskelbiama savivaldybės interneto svetainėje.
+3. Dendrologiškai, ekologiškai, estetiškai vertingus, kultūros paveldui ir kraštovaizdžiui reikšmingus medžius ir krūmus, išskyrus elektros tinklų proskynose augančius medžius, savivaldybių atstovaujamosios institucijos skelbia saugotinais želdiniais. Kriterijus, pagal kuriuos savivaldybių atstovaujamosios institucijos priima sprendimus dėl konkrečių želdinių paskelbimo saugotinais, nustato aplinkos ministras. Savivaldybės vykdomoji institucija per 20 darbo dienų nuo savivaldybės atstovaujamosios institucijos sprendimo dėl medžių ir krūmų paskelbimo saugotinais želdiniais priėmimo Lietuvos Respublikos viešojo administravimo įstatymo 9 straipsnyje nurodytais atvejais per Nacionalinę elektroninių siuntų pristatymo, naudojant pašto tinklą, informacinę sistemą arba registruotąja pašto siunta informuoja saugotinais paskelbtų želdinių savininkus ir valdytojus, elektros tinklus, šilumos perdavimo tinklus, magistralinius dujotiekius ir naftotiekius (produktotiekius) eksploatuojančius asmenis, kai želdiniai patenka į šių inžinerinių tinklų apsaugos zoną. Informacija apie savivaldybės atstovaujamosios institucijos sprendimą dėl medžių ir krūmų paskelbimo saugotinais želdiniais, laikantis asmens duomenų apsaugą reglamentuojančių teisės aktų reikalavimų, per 20 darbo dienų nuo savivaldybės atstovaujamosios institucijos sprendimo dėl medžių ir krūmų paskelbimo saugotinais želdiniais priėmimo paskelbiama savivaldybės interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
  
 
 
@@ -749,7 +757,10 @@ Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
 
 
 
-3) yra pažeisti stiebo ir šaknų puvinio arba vabzdžių kenkėjų ar grybinių ligų (išskyrus biologinei įvairovei svarbius želdinius, kurie nekelia pavojaus gyventojams, jų turtui, statiniams ir eismo saugumui); 
+3) pagal aplinkos ministro tvirtinamuose Želdinių atkuriamosios vertės įkainiuose nustatytus želdinių būklės vertinimo kriterijus dėl ligų intensyvumo, kenkėjų gausumo ir kamieno (žievės) mechaninio pažeidimo intensyvumo yra nepatenkinamos arba blogos būklės (išskyrus biologinei įvairovei svarbius želdinius, kurie nekelia pavojaus gyventojams, jų turtui, statiniams ir eismo saugumui); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
@@ -784,17 +795,26 @@ Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
 
 
 
-10) auga geležinkelio kelių ir jų įrenginių, geležinkelio želdinių apsaugos zonoje; 
+10) auga žemosios įtampos elektros tinklų, geležinkelio kelių ir jų įrenginių, geležinkelio želdinių apsaugos zonoje (kai saugotinų želdinių kirtimo ar kitokio pašalinimo iš augimo vietos darbus atlieka šią infrastruktūrą eksploatuojantys asmenys ar jų įgalioti tretieji asmenys); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
 
-11) auga teritorijoje, kuri naudojama valstybinės reikšmės keliams eksploatuoti; 
+11) auga valstybinės reikšmės kelio juostoje; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
 
-12) auga valstybinės ar vietinės reikšmės kelio juostoje ir dėl blogos būklės kelia grėsmę užvirsti ant kelio; 
+12) auga vietinės reikšmės kelio juostoje ir dėl blogos būklės kelia grėsmę užvirsti ant kelio; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
@@ -809,7 +829,15 @@ Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
 
 
 
-15) kertami ar kitaip pašalinami iš augimo vietos įgyvendinant krašto apsaugos ar valstybės sienos apsaugos tikslus.
+15) kertami ar kitaip pašalinami iš augimo vietos įgyvendinant krašto apsaugos ar valstybės sienos apsaugos tikslus;
+
+
+
+
+16) kertami ar kitaip pašalinami iš augimo vietos tvarkant botanikos sodus ir juos atnaujinant. 
+Papildyta straipsnio punktu:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
@@ -821,12 +849,18 @@ Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
 
 
 
-5. Privačios žemės sklypo savininkas, ketinantis kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinus želdinius, savivaldybės vykdomajai institucijai pateikia prašymą dėl leidimo išdavimo. Savivaldybės vykdomoji institucija, gavusi tinkamai užpildytą prašymą, per 20 darbo dienų nuo jo gavimo dienos patikrina, ar numatomas saugotinų želdinių kirtimas, kitoks pašalinimas iš augimo vietos ar intensyvus genėjimas neprieštarauja savivaldybės strateginiams plėtros ir veiklos planams, savivaldybės ir (ar) vietovės lygmens kompleksinio ir specialiojo teritorijų planavimo dokumentams, ir privačios žemės sklypo savininkui išduoda leidimą, kuriame nurodo želdinių atkuriamosios vertės kompensacijos dydį, arba, nustačiusi, kad numatomas saugotinų želdinių kirtimas, kitoks pašalinimas iš augimo vietos ar intensyvus genėjimas prieštarauja savivaldybės strateginiams plėtros ir veiklos planams, savivaldybės ir (ar) vietovės lygmens kompleksinio ir specialiojo teritorijų planavimo dokumentams, motyvuotai atsisako jį išduoti ir apie priimtą sprendimą raštu informuoja privačios žemės sklypo savininką. Jeigu privačios žemės sklypo savininkas pateikė netinkamai užpildytą prašymą, savivaldybės vykdomoji institucija per 5 darbo dienas nuo prašymo gavimo dienos informuoja apie tai privačios žemės sklypo savininką ir nustato 5 darbo dienų terminą patikslintam prašymui pateikti. Jeigu per nustatytą terminą pagal tinkamai užpildytą prašymą savivaldybės vykdomoji institucija neišduoda leidimo arba motyvuotai neatsisako jį išduoti, laikoma, kad leidimas išduotas. Leidimas galioja neterminuotai. Savivaldybės vykdomoji institucija, laikydamasi asmens duomenų apsaugą reglamentuojančių teisės aktų reikalavimų, privalo ne vėliau kaip per 3 darbo dienas nuo leidimo išdavimo dienos savivaldybės interneto svetainėje paskelbti informaciją apie išduotą leidimą, nurodydama numatomų kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinų želdinių vietą, rūšį, skaičių, skersmenį. Leidime numatyti saugotinų želdinių kirtimo, kitokio pašalinimo iš augimo vietos ar intensyvaus genėjimo darbai gali būti pradėti tik suėjus šio įstatymo 20 straipsnio 3 dalyje numatytam terminui.
+5. Privačios žemės sklypo savininkas, valdytojas ar naudotojas, ketinantis kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinus želdinius, savivaldybės vykdomajai institucijai pateikia prašymą dėl leidimo išdavimo. Savivaldybės vykdomoji institucija, gavusi tinkamai užpildytą prašymą, per 20 darbo dienų nuo jo gavimo dienos patikrina, ar numatomas saugotinų želdinių kirtimas, kitoks pašalinimas iš augimo vietos ar intensyvus genėjimas neprieštarauja savivaldybės strateginiams plėtros ir veiklos planams, savivaldybės ir (ar) vietovės lygmens kompleksinio ir specialiojo teritorijų planavimo dokumentams, ir privačios žemės sklypo savininkui išduoda leidimą, kuriame nurodo želdinių atkuriamosios vertės kompensacijos dydį, arba, nustačiusi, kad numatomas saugotinų želdinių kirtimas, kitoks pašalinimas iš augimo vietos ar intensyvus genėjimas prieštarauja savivaldybės strateginiams plėtros ir veiklos planams, savivaldybės ir (ar) vietovės lygmens kompleksinio ir specialiojo teritorijų planavimo dokumentams, motyvuotai atsisako jį išduoti ir apie priimtą sprendimą raštu informuoja privačios žemės sklypo savininką. Jeigu privačios žemės sklypo savininkas pateikė netinkamai užpildytą prašymą, savivaldybės vykdomoji institucija per 5 darbo dienas nuo prašymo gavimo dienos apie tai informuoja privačios žemės sklypo savininką ir nustato 5 darbo dienų terminą patikslintam prašymui pateikti. Jeigu per nustatytą terminą pagal tinkamai užpildytą prašymą savivaldybės vykdomoji institucija neišduoda leidimo arba motyvuotai neatsisako jį išduoti, laikoma, kad leidimas išduotas. Leidimas galioja neterminuotai. Savivaldybės vykdomoji institucija, laikydamasi asmens duomenų apsaugą reglamentuojančių teisės aktų reikalavimų, privalo ne vėliau kaip per 3 darbo dienas nuo leidimo išdavimo dienos savivaldybės interneto svetainėje paskelbti informaciją apie išduotą leidimą, nurodydama numatomų kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinų želdinių vietą, rūšį, skaičių, skersmenį. Leidime numatyti saugotinų želdinių kirtimo, kitokio pašalinimo iš augimo vietos ar intensyvaus genėjimo darbai gali būti pradėti tik suėjus šio įstatymo 20 straipsnio 3 dalyje numatytam terminui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
 
-6. Valstybinės žemės valdytojas, ketinantis kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinus želdinius, savivaldybės vykdomajai institucijai pateikia prašymą dėl leidimo išdavimo. Savivaldybės vykdomoji institucija, įvertinusi, ar numatomas saugotinų želdinių kirtimas, kitoks pašalinimas iš augimo vietos ar intensyvus genėjimas neprieštarauja savivaldybės strateginiams plėtros ir veiklos planams, savivaldybės ir (ar) vietovės lygmens kompleksinio ir specialiojo teritorijų planavimo dokumentams, taip pat šio įstatymo numatytais atvejais atsižvelgusi į želdynų ir želdinių apsaugos, priežiūros ir tvarkymo komisijos išvadą ir (ar) želdynų ir želdinių būklės ekspertizės išvadą, priima sprendimą išduoti leidimą ir numato leidimo įsigaliojimo terminą, kuris gali būti ne ankstesnis kaip po 20 darbo dienų nuo sprendimo priėmimo dienos, ir ne vėliau kaip per 3 darbo dienas nuo sprendimo išduoti leidimą priėmimo dienos savivaldybės interneto svetainėje paskelbia informaciją apie priimtą sprendimą išduoti leidimą, nurodydama numatomų kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinų želdinių vietą, rūšį, skaičių, skersmenį, želdinių atkuriamosios vertės kompensacijos dydį bei numatomą leidimo įsigaliojimo dieną. Kartu su sprendimu dėl leidimo išdavimo savivaldybės interneto svetainėje paskelbiama želdynų ir želdinių apsaugos, priežiūros ir tvarkymo komisijos išvada ir (ar) želdynų ir želdinių būklės ekspertizės išvada, kai šias išvadas šio įstatymo numatytais atvejais privaloma gauti ir įvertinti iki sprendimo dėl leidimo išdavimo priėmimo. Jeigu per nustatytą terminą savivaldybės vykdomoji institucija gavo šio įstatymo 23 straipsnio 2 dalies 3 punkte numatytą rašytinį suinteresuotos visuomenės prašymą atlikti želdynų ir želdinių būklės ekspertizę arba šio įstatymo 23 straipsnio 3 dalyje numatytą gavo suinteresuotos visuomenės pranešimą apie jos iniciatyva užsakytą želdynų ir želdinių būklės ekspertizę ir tai patvirtinančius dokumentus, leidimo įsigaliojimas atidedamas laikotarpiui, reikalingam želdynų ir želdinių būklės ekspertizei atlikti. Gavusi želdynų ir želdinių būklės ekspertizės išvadą, savivaldybės vykdomoji institucija per 5 darbo dienas susipažįsta su želdynų ir želdinių būklės ekspertizės išvada ir priima sprendimą nekeisti leidimo, pakeisti leidimą arba panaikinti sprendimą dėl leidimo išdavimo ir jį kartu su želdynų ir želdinių būklės ekspertizės išvada paskelbia savivaldybės interneto svetainėje. Jeigu savivaldybės vykdomoji institucija neatsižvelgė ar atsižvelgė tik iš dalies į želdynų ir želdinių apsaugos, priežiūros ir tvarkymo komisijos išvadą ir (ar) želdynų ir želdinių būklės ekspertizės išvadą, savivaldybės vykdomosios institucijos sprendime dėl leidimo išdavimo privaloma nurodyti tokio sprendimo priežastis ir motyvus. Leidimas galioja neterminuotai. Leidime numatyti saugotinų želdinių kirtimo, kitokio pašalinimo iš augimo vietos ar intensyvaus genėjimo darbai gali būti pradėti tik suėjus šio įstatymo 20 straipsnio 3 dalyje numatytam terminui.
+6. Valstybinės žemės valdytojas ar naudotojas, ketinantis kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinus želdinius, savivaldybės vykdomajai institucijai pateikia prašymą dėl leidimo išdavimo. Savivaldybės vykdomoji institucija, įvertinusi, ar numatomas saugotinų želdinių kirtimas, kitoks pašalinimas iš augimo vietos ar intensyvus genėjimas neprieštarauja savivaldybės strateginiams plėtros ir veiklos planams, savivaldybės ir (ar) vietovės lygmens kompleksinio ir specialiojo teritorijų planavimo dokumentams, taip pat šio įstatymo numatytais atvejais atsižvelgusi į želdynų ir želdinių apsaugos, priežiūros ir tvarkymo komisijos išvadą ir (ar) želdynų ir želdinių būklės ekspertizės išvadą, priima sprendimą išduoti leidimą ir numato leidimo įsigaliojimo terminą, kuris gali būti ne ankstesnis kaip po 10 darbo dienų nuo sprendimo priėmimo dienos, ir ne vėliau kaip per 3 darbo dienas nuo sprendimo išduoti leidimą priėmimo dienos savivaldybės interneto svetainėje paskelbia informaciją apie priimtą sprendimą išduoti leidimą, nurodydama numatomų kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinų želdinių vietą, rūšį, skaičių, skersmenį, želdinių atkuriamosios vertės kompensacijos dydį bei numatomą leidimo įsigaliojimo dieną. Kartu su sprendimu dėl leidimo išdavimo savivaldybės interneto svetainėje paskelbiama želdynų ir želdinių apsaugos, priežiūros ir tvarkymo komisijos išvada ir (ar) želdynų ir želdinių būklės ekspertizės išvada, kai šias išvadas šio įstatymo numatytais atvejais privaloma gauti ir įvertinti iki sprendimo dėl leidimo išdavimo priėmimo. Jeigu per nustatytą terminą savivaldybės vykdomoji institucija gavo šio įstatymo 23 straipsnio 2 dalies 3 punkte numatytą rašytinį suinteresuotos visuomenės prašymą atlikti želdynų ir želdinių būklės ekspertizę arba šio įstatymo 23 straipsnio 3 dalyje numatytą suinteresuotos visuomenės pranešimą apie jos iniciatyva užsakytą želdynų ir želdinių būklės ekspertizę ir tai patvirtinančius dokumentus, leidimo įsigaliojimas atidedamas laikotarpiui, reikalingam želdynų ir želdinių būklės ekspertizei atlikti. Gavusi želdynų ir želdinių būklės ekspertizės išvadą, savivaldybės vykdomoji institucija per 5 darbo dienas susipažįsta su želdynų ir želdinių būklės ekspertizės išvada ir priima sprendimą nekeisti leidimo, pakeisti leidimą arba panaikinti sprendimą dėl leidimo išdavimo ir jį kartu su želdynų ir želdinių būklės ekspertizės išvada paskelbia savivaldybės interneto svetainėje. Jeigu savivaldybės vykdomoji institucija neatsižvelgė ar atsižvelgė tik iš dalies į želdynų ir želdinių apsaugos, priežiūros ir tvarkymo komisijos išvadą ir (ar) želdynų ir želdinių būklės ekspertizės išvadą, savivaldybės vykdomosios institucijos sprendime dėl leidimo išdavimo privaloma nurodyti tokio sprendimo priežastis ir motyvus. Leidimas galioja neterminuotai. Leidime numatyti saugotinų želdinių kirtimo, kitokio pašalinimo iš augimo vietos ar intensyvaus genėjimo darbai gali būti pradėti tik suėjus šio įstatymo 20 straipsnio 3 dalyje numatytam terminui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
@@ -844,7 +878,10 @@ Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
 
 
 
-3) privataus žemės sklypo savininko ar valstybinės žemės valdytojo prašymu.
+3) privataus žemės sklypo savininko ar valstybinės žemės valdytojo ar naudotojo prašymu. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
@@ -926,7 +963,10 @@ Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
 
 
 
-3. Želdynai ir želdiniai inventorizuojami visoje savivaldybės teritorijoje, neatsižvelgiant į žemės, kurioje jie yra, nuosavybės formą. Želdynai ir želdiniai inventorizuojami surenkant pagrindinius duomenis (želdinio rūšį, želdyno rūšinę sudėtį, plotą) apie neurbanizuotoje teritorijoje esančius želdynus ir želdinius, žaliųjų jungčių želdinius, privačioje žemėje esančius želdynus ir želdinius ir išsamius duomenis (be pagrindinių duomenų, surenkami duomenys apie želdinių kiekį, amžių, aukštį, skersmenį, būklę, tvarkymo priemones) apie viešųjų atskirųjų ir priklausomųjų želdynų, viešųjų ir konfesinių kapinių, kelių, gatvių želdinius, kitus miestų, miestelių ir kaimo gyvenamųjų vietovių viešuosius želdynus ir želdinius. Želdynų ir želdinių inventorizavimo ir apskaitos taisykles tvirtina aplinkos ministras. 
+3. Želdynai ir želdiniai inventorizuojami visoje savivaldybės teritorijoje, neatsižvelgiant į žemės, kurioje jie yra, nuosavybės formą. Želdynai ir želdiniai inventorizuojami surenkant pagrindinius ir išsamius duomenis. Pagrindinius duomenis sudaro informacija apie želdinio ir želdyno padėtį erdvėje, želdinio rūšį, želdyno rūšinę sudėtį. Šie duomenys surenkami apie neurbanizuotoje teritorijoje esančius viešuosius želdynus ir želdinius bei privačioje žemėje esančius želdinius. Vienbučių ir dvibučių gyvenamųjų pastatų teritorijose želdiniai inventorizuojami, kai teritorijoje rengiamas topografinis planas. Išsamius duomenis sudaro pagrindiniai duomenys ir duomenys apie želdinių kiekį, amžių, aukštį, skersmenį, būklę, tvarkymo priemones. Išsamūs duomenys surenkami apie urbanizuotoje ir urbanizuojamoje teritorijoje esančius viešuosius želdinius ir viešųjų atskirųjų ir viešųjų priklausomųjų želdynų želdinius ir (ar) jų grupes. Želdynų ir želdinių inventorizavimo ir apskaitos taisykles tvirtina aplinkos ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
@@ -936,7 +976,9 @@ Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
 
 
 
-5. Želdynų ir želdinių inventorizavimas atliekamas reguliariai, siekiant, kad savivaldybių vykdomųjų institucijų tvarkomi duomenys apie neurbanizuotoje teritorijoje esančius želdynus ir želdinius, žaliųjų jungčių želdinius, privačioje žemėje esančius želdynus ir želdinius būtų ne senesni kaip 10 metų, o duomenys apie viešųjų atskirųjų ir priklausomųjų želdynų, viešųjų ir konfesinių kapinių, kelių, gatvių želdinius, kitus miestų, miestelių ir kaimo gyvenamųjų vietovių viešuosius želdynus ir želdinius būtų ne senesni kaip 5 metų.
+5. Želdynų ir želdinių inventorizavimas atliekamas želdynų ir želdinių erdvinius duomenis registruojant į Topografijos ir inžinerinės infrastruktūros informacinę sistemą. Pasikeitus duomenims, Topografijos ir inžinerijos infrastruktūros informacinėje sistemoje kaupiami želdynų ir želdinių duomenys turi būti atnaujinami.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
  
 
 
@@ -947,10 +989,12 @@ Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
 16 straipsnis. Želdynų ir želdinių būklės stebėsena
 
 
-Savivaldybės želdynų ir želdinių teritorijose esančių želdynų ir želdinių būklės stebėseną vykdo savivaldybės pagal savivaldybės želdynų ir želdinių būklės stebėsenos planą, parengtą pagal aplinkos ministro tvirtinamą Želdynų ir želdinių būklės stebėsenos programą. 
+Savivaldybės želdynų ir želdinių teritorijose esančių želdynų ir želdinių būklės stebėseną vykdo savivaldybės pagal savivaldybės želdynų ir želdinių būklės stebėsenos planą, parengtą pagal aplinkos ministro tvirtinamą Želdynų ir želdinių būklės stebėsenos programą. Želdynų ir želdinių būklės stebėsenos duomenų tvarkymas ir kaupimas vykdomas, kaip nurodyta šio įstatymo 15 straipsnyje.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
  
-
-
 
 
 
@@ -1139,7 +1183,10 @@ VIEŠUOSIUS ŽELDYNUS PROJEKTUOJANČIŲ, VIEŠUOSIUS ŽELDYNUS IR ŽELDINIUS PRI
 
 
 
-4. Ne vėliau kaip per 20 darbo dienų nuo prašymo ir visų tinkamai pateiktų dokumentų želdynų projektų rengimo vadovo atestatui gauti gavimo dienos Aplinkos ministerijos įgaliota institucija priima sprendimą ir išduoda želdynų projektų rengimo vadovo atestatą arba motyvuotai atsisako jį išduoti ir apie priimtą sprendimą informuoja prašymą pateikusį asmenį. Jeigu pareiškėjas pateikia netinkamai įformintą prašymą arba ne visus dokumentus, kurių reikia atestatui išduoti, per 5 darbo dienas nuo pranešimo gavimo dienos pareiškėjas turi patikslinti prašymą ar pateikti trūkstamus dokumentus. Jeigu per nustatytą terminą Aplinkos ministerijos įgaliota institucija nepriima sprendimo dėl želdynų projektų rengimo vadovo atestato išdavimo arba motyvuotai neatsisako išduoti želdynų projektų rengimo vadovo atestato, laikoma, kad želdynų projektų rengimo vadovo atestatas išduotas. Želdynų projektų rengimo vadovo atestatas galioja neterminuotai. 
+4. Ne vėliau kaip per 20 darbo dienų nuo prašymo ir visų tinkamai pateiktų dokumentų želdynų projektų rengimo vadovo atestatui gauti gavimo dienos Aplinkos ministerijos įgaliota institucija priima sprendimą ir išduoda želdynų projektų rengimo vadovo atestatą arba motyvuotai atsisako jį išduoti ir apie priimtą sprendimą informuoja prašymą pateikusį asmenį. Jeigu pareiškėjas pateikia netinkamai įformintą prašymą arba ne visus dokumentus, kurių reikia atestatui išduoti, per 5 darbo dienas nuo pranešimo gavimo dienos pareiškėjas turi patikslinti prašymą ar pateikti trūkstamus dokumentus. Jeigu per nustatytą terminą Aplinkos ministerijos įgaliota institucija nepriima sprendimo dėl želdynų projektų rengimo vadovo atestato išdavimo arba motyvuotai neatsisako išduoti želdynų projektų rengimo vadovo atestato, laikoma, kad želdynų projektų rengimo vadovo atestatas išduotas. Želdynų projektų rengimo vadovo atestatas galioja neterminuotai. Želdynų projektų rengimo vadovų atestatus išduodanti Aplinkos ministerijos įgaliota institucija, siekdama informuoti visuomenę apie atestuotus asmenis, jų atestato galiojimo laikotarpiu savo interneto svetainėje pateikia šiuos duomenis: želdynų projektų rengimo vadovo vardą, pavardę, atestato numerį ir jo išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ar galiojimo panaikinimo datą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
@@ -1328,7 +1375,10 @@ VIII SKYRIUS
 
 
 
-5. Ne vėliau kaip per 20 darbo dienų nuo prašymo ir visų tinkamai pateiktų dokumentų nepriklausomo želdynų ir želdinių eksperto kvalifikacijos atestatui gauti gavimo dienos Aplinkos ministerijos įgaliota institucija priima sprendimą ir išduoda nepriklausomo želdynų ir želdinių eksperto kvalifikacijos atestatą arba motyvuotai atsisako jį išduoti ir apie priimtą sprendimą informuoja prašymą pateikusį asmenį. Jeigu pareiškėjas pateikia netinkamai įformintą prašymą arba ne visus dokumentus, kurių reikia atestatui išduoti, per 5 darbo dienas nuo pranešimo gavimo dienos pareiškėjas turi patikslinti prašymą ar pateikti trūkstamus dokumentus. Jeigu per nustatytą terminą Aplinkos ministerijos įgaliota institucija nepriima sprendimo dėl nepriklausomo želdynų ir želdinių eksperto kvalifikacijos atestato išdavimo arba motyvuotai neatsisako išduoti nepriklausomo želdynų ir želdinių eksperto kvalifikacijos atestato, laikoma, kad nepriklausomo želdynų ir želdinių eksperto kvalifikacijos atestatas išduotas. Nepriklausomo želdynų ir želdinių eksperto kvalifikacijos atestatas galioja neterminuotai. 
+5. Ne vėliau kaip per 20 darbo dienų nuo prašymo ir visų tinkamai pateiktų dokumentų nepriklausomo želdynų ir želdinių eksperto kvalifikacijos atestatui gauti gavimo dienos Aplinkos ministerijos įgaliota institucija priima sprendimą ir išduoda nepriklausomo želdynų ir želdinių eksperto kvalifikacijos atestatą arba motyvuotai atsisako jį išduoti ir apie priimtą sprendimą informuoja prašymą pateikusį asmenį. Jeigu pareiškėjas pateikia netinkamai įformintą prašymą arba ne visus dokumentus, kurių reikia atestatui išduoti, per 5 darbo dienas nuo pranešimo gavimo dienos jis turi patikslinti prašymą ar pateikti trūkstamus dokumentus. Jeigu per nustatytą terminą Aplinkos ministerijos įgaliota institucija nepriima sprendimo dėl nepriklausomo želdynų ir želdinių eksperto kvalifikacijos atestato išdavimo arba motyvuotai neatsisako išduoti nepriklausomo želdynų ir želdinių eksperto kvalifikacijos atestato, laikoma, kad nepriklausomo želdynų ir želdinių eksperto kvalifikacijos atestatas išduotas. Nepriklausomo želdynų ir želdinių eksperto kvalifikacijos atestatas galioja neterminuotai. Nepriklausomo želdynų ir želdinių eksperto kvalifikacijos atestatus išduodanti Aplinkos ministerijos įgaliota institucija, siekdama informuoti visuomenę apie atestuotus asmenis, jų atestato galiojimo laikotarpiu savo interneto svetainėje pateikia šiuos duomenis: nepriklausomo želdynų ir želdinių eksperto vardą, pavardę, atestato numerį ir jo išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, galiojimo panaikinimo datą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
@@ -1338,7 +1388,10 @@ VIII SKYRIUS
 
 
 
-7. Jeigu Aplinkos ministerijos įgaliota institucija nustato, kad nepriklausomas želdynų ir želdinių ekspertas pažeidė želdynų ir želdinių būklės ekspertizės atlikimo tvarkos aprašo, nurodyto šio įstatymo 4 straipsnio 3 dalies 3 punkte, ir (ar) kvalifikacijos tobulinimo reikalavimus, nurodytus šio straipsnio 6 dalyje, Aplinkos ministerijos įgaliota institucija raštu įspėja nepriklausomą želdynų ir želdinių ekspertą apie galimą nepriklausomo želdynų ir želdinių eksperto kvalifikacijos atestato galiojimo sustabdymą ir nustato ne ilgesnį kaip 6 mėnesių terminą šiems pažeidimams pašalinti. 
+7. Jeigu Aplinkos ministerijos įgaliota institucija, vadovaudamasi informacija, gauta iš institucijų, atsakingų už aplinkos apsaugos valstybinę kontrolę, saugomų teritorijų apsaugos ir tvarkymo organizavimą, istorinių želdynų, kultūros paveldo objektų ir kultūros paveldo objektų teritorijoje ar kultūros paveldo vietovėje esančių želdynų ir želdinių – jų vertingųjų savybių tvarkybą ir priežiūrą, nustato, kad nepriklausomas želdynų ir želdinių ekspertas pažeidė želdynų ir želdinių būklės ekspertizės atlikimo tvarkos aprašo, nurodyto šio įstatymo 4 straipsnio 3 dalies 3 punkte, reikalavimus, arba nustato, kad nepriklausomas želdynų ir želdinių ekspertas pažeidė šio straipsnio 6 dalyje nurodytus kvalifikacijos tobulinimo reikalavimus, Aplinkos ministerijos įgaliota institucija raštu įspėja nepriklausomą želdynų ir želdinių ekspertą apie galimą nepriklausomo želdynų ir želdinių eksperto kvalifikacijos atestato galiojimo sustabdymą ir nustato ne ilgesnį kaip 6 mėnesių terminą šiems pažeidimams pašalinti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
@@ -1701,3 +1754,8 @@ Lietuvos Respublikos želdynų įstatymo Nr. X-1241 5, 13, 14 ir 30 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1616, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25040
 Lietuvos Respublikos želdynų įstatymo Nr. X-1241 11 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+Lietuvos Respublikos želdynų įstatymo Nr. X-1241 2, 5, 7, 8, 12, 13, 14, 15, 16, 22 ir 24 straipsnių pakeitimo įstatymas
