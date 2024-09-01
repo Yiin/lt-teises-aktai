@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
  
@@ -187,7 +187,10 @@ MAŽOSIOS BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
 
 
 
-3. Kai mažosios bendrijos steigimo sutartyje nurodomas fizinis asmuo, nurodomi šio fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta.
+3. Kai mažosios bendrijos steigimo sutartyje nurodomas fizinis asmuo, nurodomi šio fizinio asmens vardas, pavardė, asmens kodas ir korespondencijos adresas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2639, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09675
+ 
 
 
 
@@ -362,17 +365,19 @@ MAŽOSIOS BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
 
 
 
-2) likvidatorius (vardas, pavardė, asmens kodas, gyvenamoji vieta) ar likvidacinė komisija (likvidacinės komisijos sudarymo data, likvidacinės komisijos pirmininkas ir kiekvieno likvidatoriaus vardas, pavardė, asmens kodas, gyvenamoji vieta), kiekvieno likvidatoriaus paskyrimo data, likvidatoriaus (likvidacinės komisijos) įgaliojimai, išskyrus įstatymuose nustatytus įgaliojimus, ir jų pabaigos data.
+2) likvidatorius (vardas, pavardė, asmens kodas, korespondencijos adresas) ar likvidacinė komisija (likvidacinės komisijos sudarymo data, likvidacinės komisijos pirmininkas ir kiekvieno likvidatoriaus vardas, pavardė, asmens kodas, korespondencijos adresas), kiekvieno likvidatoriaus paskyrimo data, likvidatoriaus (likvidacinės komisijos) įgaliojimai, išskyrus įstatymuose nustatytus įgaliojimus, ir jų pabaigos data.
 
 
 
 
 
 
-2. Kai mažojoje bendrijoje yra du ar daugiau narių ir mažosios bendrijos narių susirinkimas yra mažosios bendrijos valdymo organas, Juridinių asmenų registre taip pat nurodomas mažosios bendrijos atstovas (vardas, pavardė, asmens kodas ir gyvenamoji vieta, jo paskyrimo data ir įgaliojimų pabaigos data).
+2. Kai mažojoje bendrijoje yra du ar daugiau narių ir mažosios bendrijos narių susirinkimas yra mažosios bendrijos valdymo organas, Juridinių asmenų registre taip pat nurodomas mažosios bendrijos atstovas (vardas, pavardė, asmens kodas, korespondencijos adresas, jo paskyrimo data ir įgaliojimų pabaigos data).
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2639, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09675
  
-
-
 
 
 
@@ -393,7 +398,10 @@ MAŽOSIOS BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
 
 
 
-3) mažosios bendrijos nario gyvenamoji vieta arba adresas korespondencijai. Jeigu mažosios bendrijos narys mažajai bendrijai yra nurodęs savo gyvenamąją vietą ir adresą korespondencijai, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiamas tik adresas korespondencijai; 
+3) mažosios bendrijos nario korespondencijos adresas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2639, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09675
+ 
 
 
 
@@ -565,7 +573,10 @@ Nauji mažosios bendrijos nariai priimami mažosios bendrijos nuostatuose nustat
 
 
 
-4. Fizinis asmuo, iš mažosios bendrijos nario įgijęs nario teises, pateikia mažajai bendrijai nario teisių įgijimą patvirtinantį dokumentą ar jo išrašą. Jeigu pateikiamas dokumento išrašas, jame turi būti nurodytos sandorio dėl nario teisių įgijimo šalys (jų vardai, pavardės, asmens kodai, gyvenamosios vietos), sandorio objektas, sandorio data ir momentas, nuo kurio įgyjamos teisės.
+4. Fizinis asmuo, iš mažosios bendrijos nario įgijęs nario teises, pateikia mažajai bendrijai nario teisių įgijimą patvirtinantį dokumentą ar jo išrašą. Jeigu pateikiamas dokumento išrašas, jame turi būti nurodytos sandorio dėl nario teisių įgijimo šalys (jų vardai, pavardės, asmens kodai, korespondencijos adresai), sandorio objektas, sandorio data ir momentas, nuo kurio įgyjamos teisės.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2639, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09675
+ 
 
 
 
@@ -1772,7 +1783,10 @@ Nr. XII-1075, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10456
 10. Be kitų šiame įstatyme ir Civiliniame kodekse nustatytų pareigų, likvidatorius (likvidacinė komisija) privalo:
 
 
-1) Juridinių asmenų registro tvarkytojui pateikti duomenis apie save (kiekvieno likvidatoriaus vardą, pavardę, asmens kodą, gyvenamąją vietą; jeigu sudaroma likvidacinė komisija, nurodomas jos pirmininkas) ir ne vėliau kaip pirmą viešo paskelbimo apie priimtą sprendimą likviduoti mažąją bendriją dieną pateikti dokumentus, patvirtinančius sprendimo likviduoti mažąją bendriją priėmimą;
+1) Juridinių asmenų registro tvarkytojui pateikti duomenis apie save (kiekvieno likvidatoriaus vardą, pavardę, asmens kodą, korespondencijos adresą; jeigu sudaroma likvidacinė komisija, nurodomas jos pirmininkas) ir ne vėliau kaip pirmą viešo paskelbimo apie priimtą sprendimą likviduoti mažąją bendriją dieną pateikti dokumentus, patvirtinančius sprendimo likviduoti mažąją bendriją priėmimą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2639, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09675
+ 
 
 
 
