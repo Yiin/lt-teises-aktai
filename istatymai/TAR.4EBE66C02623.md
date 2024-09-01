@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2024-08-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2024-09-30
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -3263,11 +3263,17 @@ užtraukia baudą rinkimų komisijų ar referendumo komisijų nariams arba kitie
 
 
 
-88 straipsnis. Lietuvos Respublikos referendumo konstituciniame įstatyme, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatyme, Lietuvos Respublikos rinkimų kodekse nustatytos piliečių parašų rinkimo tvarkos pažeidimas
+88 straipsnis. 88 straipsnis. Lietuvos Respublikos referendumo konstituciniame įstatyme, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos konstituciniame įstatyme, Lietuvos Respublikos rinkimų kodekse nustatytos piliečių parašų rinkimo tvarkos pažeidimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2832, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12629
+ 
 
 
-1. Lietuvos Respublikos referendumo konstituciniame įstatyme, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatyme, Lietuvos Respublikos rinkimų kodekse  nustatytos piliečių parašų rinkimo tvarkos pažeidimas 
+1. Lietuvos Respublikos referendumo konstituciniame įstatyme, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos konstituciniame įstatyme, Lietuvos Respublikos rinkimų kodekse nustatytos piliečių parašų rinkimo tvarkos pažeidimas
 užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2832, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12629
+ 
 
 
 
@@ -28743,3 +28749,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 56, 57, 58 ir 589 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2922, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13555
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir 180 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+239.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2832, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12629
+Lietuvos Respublikos administracinių nusižengimų kodekso 88 straipsnio pakeitimo įstatymas
