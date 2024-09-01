@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2025-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -491,7 +491,10 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 21. Šio straipsnio 2 dalies 1 punkte nurodyti duomenys yra: 
 
 
-1) fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta arba adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė ir juridinio asmens atstovo vardas, pavardė, asmens kodas, gyvenamoji vieta arba adresas korespondencijai; 
+1) fizinio asmens vardas, pavardė, asmens kodas ir korespondencijos adresas; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė ir juridinio asmens atstovo vardas, pavardė, asmens kodas, korespondencijos adresas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2637, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09673
+ 
 
 
 
@@ -806,9 +809,10 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-2. Šio straipsnio 1 dalies 1, 2, 3 ir 7 punktuose nurodyti duomenys apie fizinius asmenis yra fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta, o duomenys apie juridinius asmenis – juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė. Apie užsienio valstybės fizinius asmenis papildomai nurodoma to asmens gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir valstybės, kuri išdavė asmens dokumentus, pavadinimas, o apie užsienio valstybės juridinius asmenis papildomai nurodoma valstybės, kurioje tas juridinis asmuo įregistruotas, pavadinimas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data.
+2. Šio straipsnio 1 dalies 1, 2, 3 ir 7 punktuose nurodyti duomenys apie fizinius asmenis yra fizinio asmens vardas, pavardė, asmens kodas ir korespondencijos adresas, o duomenys apie juridinius asmenis – juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė. Apie užsienio valstybės fizinius asmenis papildomai nurodoma to asmens gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir valstybės, kuri išdavė asmens dokumentus, pavadinimas, o apie užsienio valstybės juridinius asmenis papildomai nurodoma valstybės, kurioje tas juridinis asmuo įregistruotas, pavadinimas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data.
 Straipsnio dalies pakeitimai:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIV-2637, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09673
  
 
 
@@ -3838,7 +3842,10 @@ Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
 
 
 
-2) susijusios šalies duomenys (juridinio asmens pavadinimas, teisinė forma, kodas, buveinė, registras, kuriame kaupiami ir saugomi duomenys apie šį asmenį; fizinio asmens vardas, pavardė, adresas korespondencijai);
+2) susijusios šalies duomenys (juridinio asmens pavadinimas, teisinė forma, kodas, buveinė, registras, kuriame kaupiami ir saugomi duomenys apie šį asmenį; fizinio asmens vardas, pavardė, korespondencijos adresas); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2637, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09673
+ 
 
 
 
@@ -3878,19 +3885,22 @@ Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
 
 
-11. Sandoriai dėl turto investavimo, įsigijimo, perleidimo, nuomos, įkeitimo ir hipotekos, prievolių įvykdymo laidavimo ar garantavimo, kai sandorio arba bendra tokių sandorių suma per finansinius metus viršija 1/10 akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, vėliausiai parengtame balanse nurodytos turto vertės, su susijusia šalimi sudaromi įprastinėmis rinkos sąlygomis verčiantis įprasta ūkine veikla ir periodiškai vertinami dėl atitikties šioms sąlygoms, vadovaujantis stebėtojų tarybos arba valdybos, atliekančios šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, patvirtinta tvarka ir sąlygomis. Susijusios šalys vertinant sandorius nedalyvauja. Informacija apie tokius sandorius, sudarytus per finansinius metus su ta pačia susijusia šalimi, papildomai pateikiama šios akcinės bendrovės vadovybės ataskaitoje, kurioje nurodomos sandorio šalys (juridinio asmens pavadinimas, teisinė forma, kodas, buveinė, registras, kuriame kaupiami ir saugomi duomenys apie šį asmenį; fizinio asmens vardas, pavardė, adresas korespondencijai) ir sandorio vertė.
+11. Sandoriai dėl turto investavimo, įsigijimo, perleidimo, nuomos, įkeitimo ir hipotekos, prievolių įvykdymo laidavimo ar garantavimo, kai sandorio arba bendra tokių sandorių suma per finansinius metus viršija 1/10 akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, vėliausiai parengtame balanse nurodytos turto vertės, su susijusia šalimi sudaromi įprastinėmis rinkos sąlygomis verčiantis įprasta ūkine veikla ir periodiškai vertinami dėl atitikties šioms sąlygoms, vadovaujantis stebėtojų tarybos arba valdybos, atliekančios šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, nustatyta tvarka ir sąlygomis. Susijusios šalys vertinant sandorius nedalyvauja. Informacija apie tokius sandorius, sudarytus per finansinius metus su ta pačia susijusia šalimi, papildomai pateikiama šios akcinės bendrovės vadovybės ataskaitoje, kurioje nurodomos sandorio šalys (juridinio asmens pavadinimas, teisinė forma, kodas, buveinė, registras, kuriame kaupiami ir saugomi duomenys apie šį asmenį; fizinio asmens vardas, pavardė, korespondencijos adresas) ir sandorio vertė.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+Nr. XIV-2637, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09673
 Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+Nr. XIV-2913, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13548
  
 
 
 
 
-12. Apie šio straipsnio 1 dalyje nurodytus kriterijus atitinkančius sandorius, sudaromus tarp su akcine bendrove, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, susijusios šalies ir šios akcinės bendrovės dukterinės bendrovės, vėliausiai sandorio sudarymo metu paskelbiama akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje, kurioje nurodoma informacija apie sandorio šalis (juridinio asmens pavadinimas, teisinė forma, kodas, buveinė, registras, kuriame kaupiami ir saugomi duomenys apie šį asmenį; fizinio asmens vardas, pavardė, adresas korespondencijai), kaip akcinė bendrovė yra susijusi su sandorį sudariusia susijusia šalimi – sandorio data ir vertė, taip pat pateikiamas vertinimas, ar sandoris yra sąžiningas ir pagrįstas akcinės bendrovės ir jos akcininkų, kurie nėra sandorio šalys, atžvilgiu.
+12. Apie šio straipsnio 1 dalyje nurodytus kriterijus atitinkančius sandorius, sudaromus tarp su akcine bendrove, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, susijusios šalies ir šios akcinės bendrovės dukterinės bendrovės, vėliausiai sandorio sudarymo metu paskelbiama akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje, kurioje nurodoma informacija apie sandorio šalis (juridinio asmens pavadinimas, teisinė forma, kodas, buveinė, registras, kuriame kaupiami ir saugomi duomenys apie šį asmenį; fizinio asmens vardas, pavardė, korespondencijos adresas), kaip akcinė bendrovė yra susijusi su sandorį sudariusia susijusia šalimi – sandorio data ir vertė, taip pat pateikiamas vertinimas, ar sandoris yra sąžiningas ir pagrįstas akcinės bendrovės ir jos akcininkų, kurie nėra sandorio šalys, atžvilgiu.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+Nr. XIV-2637, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09673
  
 
 
@@ -4776,7 +4786,10 @@ Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
 
 
-6. Visuotinio akcininkų susirinkimo sprendime dėl įstatinio kapitalo padidinimo, be kita ko, turi būti nurodytas kiekvienas asmuo, kuris apmoka akcijas nepiniginiu įnašu (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė), akcijų, kurios apmokamos nepiniginiu įnašu, nominali vertė ir emisijos kaina.
+6. Visuotinio akcininkų susirinkimo sprendime dėl įstatinio kapitalo padidinimo, be kita ko, turi būti nurodytas kiekvienas asmuo, kuris apmoka akcijas nepiniginiu įnašu (fizinio asmens vardas, pavardė, asmens kodas ir korespondencijos adresas; juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė), akcijų, kurios apmokamos nepiniginiu įnašu, nominali vertė ir emisijos kaina.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2637, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09673
+ 
 
 
 
@@ -5062,7 +5075,10 @@ Nr. X-715, 2006-06-22, Žin., 2006, Nr. 77-2964 (2006-07-14)
 
 
 
-2) akcijas išperkančio akcininko duomenys (fizinio asmens vardas, pavardė, adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė) ir jo turimų akcijų skaičius, įskaitant akcijų skaičių pagal klases, jų suteikiamų balsų skaičius; 
+2) akcijas išperkančio akcininko duomenys (fizinio asmens vardas, pavardė, korespondencijos adresas; juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė) ir jo turimų akcijų skaičius, įskaitant akcijų skaičių pagal klases, jų suteikiamų balsų skaičius;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2637, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09673
+ 
 
 
 
@@ -6146,7 +6162,10 @@ Nr. X-1540, 2008-05-15, Žin., 2008, Nr. 63-2378 (2008-06-03)
 
 
 
-2) asmuo ar asmenys, kuriems suteikiama teisė įsigyti akcijų ar konvertuojamųjų obligacijų (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė), jeigu šiuos asmenis ir duomenis apie juos būtina nurodyti pagal šioje dalyje nustatytas sąlygas;
+2) asmuo ar asmenys, kuriems suteikiama teisė įsigyti akcijų ar konvertuojamųjų obligacijų (fizinio asmens vardas, pavardė, asmens kodas ir korespondencijos adresas; juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė), jeigu šiuos asmenis ir duomenis apie juos būtina nurodyti pagal šioje dalyje nustatytas sąlygas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2637, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09673
+ 
 
 
 
@@ -6174,7 +6193,10 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-3) asmuo ar asmenys, kuriems siūloma suteikti teisę įsigyti akcijų ar konvertuojamųjų obligacijų (fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė, atstovo vardas, pavardė, asmens kodas, gyvenamoji vieta), bei išleidžiamų akcijų ar konvertuojamųjų obligacijų, kurių kiekvienas iš šių asmenų gali įsigyti, skaičius (jei šiuos duomenis būtina nurodyti pagal šio straipsnio 5 dalyje nustatytas sąlygas).
+3) asmuo ar asmenys, kuriems siūloma suteikti teisę įsigyti akcijų ar konvertuojamųjų obligacijų (fizinio asmens vardas, pavardė, asmens kodas ir korespondencijos adresas; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė, atstovo vardas, pavardė, asmens kodas ir korespondencijos adresas), ir išleidžiamų akcijų ar konvertuojamųjų obligacijų, kurių kiekvienas iš šių asmenų gali įsigyti, skaičius (jei šiuos duomenis būtina nurodyti pagal šio straipsnio 5 dalyje nustatytas sąlygas).
+Straipsnio punkto pakeitimai:
+Nr. XIV-2637, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09673
+ 
 
 
 
@@ -8290,3 +8312,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 7, 12, 37-2, 45
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 18, 20, 21, 24, 25, 30, 31, 32, 33, 34, 37, 37-2, 37-3, 55, 58, 60-1, 65, 74, 76 straipsnių ir priedo pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2913, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13548
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 7, 12, 37-2, 45, 46-1 ir 57 straipsnių pakeitimo įstatymo Nr. XIV-2637 3 straipsnio pakeitimo įstatymas
