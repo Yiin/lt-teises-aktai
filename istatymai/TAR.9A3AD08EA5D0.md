@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-07-25 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -194,6 +194,14 @@ Nr. XIV-2462, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-26033
 
 
 
+162. Mokinių taryba – mokyklos savivaldos institucija, susidedanti iš rinkimais išrinktų mokinių, atstovaujanti mokinių interesams, sprendžianti mokiniams aktualias problemas ir prisidedanti prie jaunimo politikos įgyvendinimo mokykloje. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2619, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08911
+ 
+
+
+
+
 17. Mokinys – asmuo, kuris mokosi.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
@@ -205,6 +213,14 @@ Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
 18. Mokytojas – asmuo, ugdantis mokinius pagal formaliojo arba neformaliojo švietimo programas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+181. Mokytojų taryba – mokyklos savivaldos institucija, susidedanti iš rinkimais išrinktų mokytojų, atstovaujanti mokytojų interesams ir sprendžianti mokytojams aktualias problemas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2619, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08911
  
 
 
@@ -366,6 +382,14 @@ Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
 34. Švietimo teikėjas – mokykla, laisvasis mokytojas arba kitas švietimo teikėjas (įstaiga, įmonė, organizacija, taip pat valstybės narės juridinis asmuo ar kita organizacija, ar jų padaliniai, įsteigti Lietuvos Respublikoje, kuriems švietimas nėra pagrindinė veikla), Lietuvos Respublikos įstatymų nustatyta tvarka turintys teisę vykdyti švietimą.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+341. Tėvų  taryba – mokyklos savivaldos institucija, susidedanti iš rinkimais išrinktų tėvų (globėjų, rūpintojų), atstovaujanti tėvų (globėjų, rūpintojų) interesams ir sprendžianti tėvams (globėjams, rūpintojams) aktualias problemas.
+Papildyta straipsnio dalimi:
+Nr. XIV-2619, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08911
  
 
 
@@ -632,10 +656,6 @@ Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
 
 
 
-3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas.
-3 dalies redakcija nuo 2023-09-01 iki 2024-08-31:
-3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas. Ugdymas pagal ikimokyklinio ugdymo programą yra visuotinis nuo 4 metų amžiaus.
-3 dalies redakcija nuo 2024-09-01 iki 2025-08-31:
 3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas. Ugdymas pagal ikimokyklinio ugdymo programą yra visuotinis nuo 3 metų amžiaus.
 3 dalies redakcija nuo 2025-09-01:
 3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas. Ugdymas pagal ikimokyklinio ugdymo programą yra visuotinis nuo 2 metų amžiaus.
@@ -745,7 +765,10 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-6. Pradinis išsilavinimas įgyjamas baigus pradinio ugdymo programą.
+6. Pradinis išsilavinimas įgyjamas baigus pradinio ugdymo programą ir nacionalinių mokinių pasiekimų patikrinimų metu patikrinus mokymosi pasiekimus, išskyrus atvejus, kai asmuo švietimo, mokslo ir sporto ministro nustatytais atvejais yra atleidžiamas nuo mokymosi pasiekimų patikrinimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+ 
 
 
 
@@ -810,7 +833,13 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-5. Vidurinis išsilavinimas įgyjamas baigus vidurinio ugdymo programą ir išlaikius brandos egzaminus, išskyrus atvejus, kai asmuo švietimo, mokslo ir sporto ministro nustatytais atvejais yra atleidžiamas nuo brandos egzaminų. Vidurinį išsilavinimą įgijusių asmenų mokymosi rezultatai apibendrinami ir fiksuojami dalykų metiniais ir išlaikytų brandos egzaminų įvertinimais. Asmens brandos egzaminų įvertinimai atitinka aukštesnįjį, pagrindinį ar patenkinamą pasiekimų lygius ir jų ribas, nustatytas švietimo, mokslo ir sporto ministro tvirtinamose brandos egzaminų programose.
+5. Vidurinis išsilavinimas įgyjamas baigus vidurinio ugdymo programą ir išlaikius du valstybinius brandos egzaminus: lietuvių kalbos ir literatūros ir mokinio pasirinktą brandos egzaminą, išskyrus atvejus, kai asmuo švietimo, mokslo ir sporto ministro nustatytais atvejais yra atleidžiamas nuo brandos egzaminų. Vidurinį išsilavinimą įgijusių asmenų mokymosi rezultatai apibendrinami ir fiksuojami dalykų metiniais ir išlaikytų brandos egzaminų įvertinimais. Asmens brandos egzaminų įvertinimai atitinka slenkstinį, patenkinamą, pagrindinį ar aukštesnįjį pasiekimų lygius ir jų ribas, nustatytas švietimo, mokslo ir sporto ministro tvirtinamose bendrosiose programose.
+5 dalies redakcija nuo 2026-09-01:
+5. Vidurinis išsilavinimas įgyjamas baigus vidurinio ugdymo programą ir išlaikius tris valstybinius brandos egzaminus: lietuvių kalbos ir literatūros ir du kitus mokinio pasirinktus brandos egzaminus, išskyrus atvejus, kai asmuo švietimo, mokslo ir sporto ministro nustatytais atvejais yra atleidžiamas nuo brandos egzaminų. Vidurinį išsilavinimą įgijusių asmenų mokymosi rezultatai apibendrinami ir fiksuojami dalykų metiniais ir išlaikytų brandos egzaminų įvertinimais. Asmens brandos egzaminų įvertinimai atitinka slenkstinį, patenkinamą, pagrindinį ar aukštesnįjį pasiekimų lygius ir jų ribas, nustatytas švietimo, mokslo ir sporto ministro tvirtinamose bendrosiose programose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1263, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15494
+Nr. XIV-1729, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00144
+ 
 
 
 
@@ -930,7 +959,10 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-3. Mokinio specialiųjų ugdymosi poreikių pirminį įvertinimą atlieka Vaiko gerovės komisija. Mokinio specialiuosius ugdymosi poreikius (išskyrus atsirandančius dėl išskirtinių gabumų) pedagoginiu, psichologiniu, medicininiu ir socialiniu pedagoginiu aspektais įvertina Pedagoginė psichologinė tarnyba ir specialųjį ugdymąsi skiria Pedagoginės psichologinės tarnybos vadovas, atskirais atvejais – mokyklos vadovas su tėvų (globėjų, rūpintojų) sutikimu švietimo ir mokslo ministro nustatyta tvarka.
+3. Mokinio ugdymosi poreikių pirminį vertinimą atlieka mokyklos Vaiko gerovės komisija ir esant poreikiui mokyklos vadovas skiria švietimo pagalbą. Mokinio specialiuosius ugdymosi poreikius pedagoginiu, psichologiniu, medicininiu ir socialiniu pedagoginiu aspektais vertina pedagoginė psichologinė tarnyba. Pedagoginės psichologinės tarnybos vadovas skiria švietimo pagalbą ir ugdymo pritaikymą. Specialiųjų ugdymosi poreikių vertinimas, ugdymo pritaikymas ir (ar) reikalingos švietimo pagalbos skyrimas vykdomas švietimo, mokslo ir sporto ministro nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+ 
 
 
 
@@ -956,7 +988,11 @@ Nr. XIV-484, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15863
 
 
 
-7. Mokinių, turinčių specialiųjų ugdymosi poreikių, ugdymą įgyvendina visos privalomąjį ir visuotinį švietimą teikiančios mokyklos, kiti švietimo teikėjai, atskirais atvejais – mokyklos (klasės), skirtos mokiniams, turintiems specialiųjų ugdymosi poreikių, ugdyti.
+7. Mokinių, turinčių specialiųjų ugdymosi poreikių, ugdymą įgyvendina visos privalomąjį ir visuotinį švietimą teikiančios mokyklos, kiti švietimo teikėjai. Šio straipsnio 1 dalyje nurodyta švietimo, mokslo ir sporto ministro nustatyta tvarka ugdymo procesą, kuriame dalyvauja mokiniai, turintys nedidelių ir vidutinių specialiųjų ugdymosi poreikių, gali vykdyti vienas mokytojas arba mokytojas, ugdymo procese dalyvaujant švietimo pagalbą teikiančiam asmeniui, arba daugiau kaip vienas mokytojas, o ugdymo procesą, kuriame dalyvauja mokiniai, turintys didelių ar labai didelių specialiųjų ugdymosi poreikių, vykdo mokytojas, ugdymo procese dalyvaujant švietimo pagalbą teikiančiam asmeniui, arba daugiau kaip vienas mokytojas. Švietimo pagalbą teikiantys asmenys, dalyvaujantys ugdymo procese, privalo atitikti švietimo, mokslo ir sporto ministro nustatytus reikalavimus.  
+Straipsnio dalies pakeitimai:
+Nr. XIII-3268, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15543
+Nr. XIV-2950, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13617
+ 
 
 
 
@@ -1195,6 +1231,8 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 Straipsnio pakeitimai:
+Nr. XIV-485, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15864
+Nr. XIV-1727, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00141
 Nr. XIV-2846, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12740
  
 
@@ -1534,8 +1572,6 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 
 
-5. Asmeniui, įgijusiam pagrindinį ar vidurinį išsilavinimą ir pageidaujančiam geriau pasirengti toliau mokytis, sudaromos sąlygos mokytis pageidaujamų bendrojo ugdymo dalykų ir pasitikrinti mokymosi pasiekimus švietimo ir mokslo ministro nustatyta tvarka.
-5 dalies redakcija nuo 2023-09-01:
 5. Asmeniui, įgijusiam pradinį ar pagrindinį išsilavinimą arba baigusiam pagrindinio ugdymo programos pirmąją dalį ir nepasiekusiam patenkinamo pasiekimų lygmens, sudaromas individualių mokymosi pasiekimų gerinimo planas ir skiriama reikalinga mokymosi pagalba švietimo, mokslo ir sporto ministro nustatyta tvarka. Asmeniui, įgijusiam pagrindinį ar vidurinį išsilavinimą ir pageidaujančiam geriau pasirengti toliau mokytis, sudaromos sąlygos mokytis pageidaujamų bendrojo ugdymo dalykų ir pasitikrinti mokymosi pasiekimus savo lėšomis švietimo, mokslo ir sporto ministro nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1261, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15488
@@ -1699,7 +1735,10 @@ Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 
 
 
-6. Savivaldybė privalo turėti optimalų pradinio, pagrindinio, vidurinio ir neformaliojo vaikų ir suaugusiųjų švietimo programų teikėjų tinklą, užtikrinantį asmenų ugdymąsi ir jų teisę mokytis valstybine kalba, ir pagalbą mokiniui, mokytojui ir mokyklai teikiančių įstaigų tinklą. Vietovėse, kuriose savivaldybė neužtikrina asmenų teisės mokytis pagal ikimokyklinio, priešmokyklinio ir bendrojo ugdymo programas valstybine kalba, gali būti steigiamos valstybinės mokyklos, kuriose ugdymo programos vykdomos valstybine kalba. 
+6. Savivaldybė privalo turėti optimalų pradinio, pagrindinio, vidurinio ir neformaliojo vaikų ir suaugusiųjų švietimo programų teikėjų tinklą, atsižvelgiant į ugdymosi poreikių įvairovę užtikrinantį visiems asmenims lygias galimybes mokytis kartu su bendraamžiais, teisę mokytis valstybine kalba, ir pagalbą mokiniui, mokytojui ir mokyklai teikiančių įstaigų tinklą. Savivaldybė užtikrina sistemingą ir nuoseklų įtraukties principo, apibrėžto šio įstatymo 5 straipsnyje, įgyvendinimą mokyklose. Mokyklose, išskyrus mokyklas, skirtas mokiniams, turintiems specialiųjų ugdymosi poreikių, gali būti ne daugiau kaip penktadalis mokinių, turinčių specialiųjų ugdymosi poreikių, išskyrus atvejus, kai visų mokinių, turinčių specialiųjų ugdymosi poreikių, deklaruota gyvenamoji vieta yra tai mokyklai priskirtoje aptarnavimo teritorijoje. Vietovėse, kuriose savivaldybė neužtikrina asmenų teisės mokytis pagal ikimokyklinio, priešmokyklinio ir bendrojo ugdymo programas valstybine kalba, gali būti steigiamos valstybinės mokyklos, kuriose ugdymo programos vykdomos valstybine kalba.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2847, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12156
+ 
 
 
 
@@ -1764,6 +1803,14 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
+31. Jeigu mokykla negali patenkinti visų priimto mokytis mokinio ugdymosi poreikių ir švietimo, mokslo ir sporto ministro nustatyta tvarka įvertinama, kad dėl neproporcingos ar nepagrįstos naštos priimtam mokytis mokiniui mokykloje neįmanoma užtikrinti tinkamo sąlygų pritaikymo ugdytis, mokyklos vadovas kreipiasi su motyvuotu prašymu į savivaldybės vykdomąją instituciją (savivaldybės mokyklos – biudžetinės įstaigos ir viešosios įstaigos, kurių savininkė yra savivaldybė), savininko teises ir pareigas įgyvendinančią instituciją (dalyvių susirinkimą) (valstybinės mokyklos – biudžetinės ir viešosios įstaigos ir savivaldybės mokyklos – viešosios įstaigos, kurios dalininkė yra savivaldybė), savininką (dalyvių susirinkimą) (kitų mokyklų) dėl siūlymo mokiniui mokytis kitoje mokykloje ir (ar) tinkamo sąlygų pritaikymo ugdytis. Savivaldybės vykdomoji institucija, savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar savininkas (dalyvių susirinkimas) siūlo tinkamą sąlygų pritaikymą ugdytis toje pačioje mokykloje ir (ar), pritarus švietimo, mokslo ir sporto ministro įgaliotai institucijai, mokinio tėvams (globėjams, rūpintojams) siūlo pasirinkti mokyklą iš ne mažiau kaip dviejų bendrojo ugdymo mokyklų, kuriose užtikrinamas tinkamas sąlygų pritaikymas ugdytis ir mokinio vežimas į mokyklą ir atgal.
+Papildyta straipsnio dalimi:
+Nr. XIV-2847, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12156
+ 
+
+
+
+
 4. Į valstybinę ir savivaldybės ikimokyklinio ugdymo mokyklą ir bendrojo ugdymo mokyklą, skirtą mokiniams, turintiems specialiųjų ugdymosi poreikių, ugdyti, į ikimokyklinio ugdymo mokyklos grupę ir bendrojo ugdymo mokyklos klasę, skirtą mokiniams, turintiems specialiųjų ugdymosi poreikių, ugdyti, priimami asmenys, turintys didelių ir labai didelių specialiųjų ugdymosi poreikių.
 
 
@@ -1819,7 +1866,10 @@ Nr. XIV-2096, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13993
 
 
 
-10. Mokykla, dėl objektyvių priežasčių negalinti užtikrinti mokiniui, kuris mokosi pagal privalomojo švietimo programas, psichologinės, specialiosios pedagoginės, specialiosios ar socialinės pedagoginės pagalbos, suderinusi su jo tėvais (globėjais, rūpintojais), pedagogine psichologine bei vaiko teisių apsaugos tarnyba, siūlo jam mokytis kitoje mokykloje.
+10. Neteko galios nuo 2024-09-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3268, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15543
+ 
 
 
 
@@ -1880,7 +1930,10 @@ Nr. XIII-3361, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23809
 
 
 
-6. Kurčiajam ikimokyklinio ir bendrojo ugdymo mokyklose, skirtose mokiniams, turintiems specialiųjų ugdymosi poreikių, sudaromos sąlygos mokytis gimtosios (gestų) kalbos.
+6. Kurčiajam sudaromos ir užtikrinamos sąlygos mokytis gimtosios (gestų) kalbos ikimokyklinio ir bendrojo ugdymo mokyklose.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3268, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15543
+ 
 
 
 
@@ -2007,20 +2060,17 @@ Nr. XIII-2593, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20026
 34 straipsnis. Švietimo prieinamumas mokiniams, turintiems specialiųjų ugdymosi poreikių
 
 
-1. Mokiniui, turinčiam specialiųjų ugdymosi poreikių, jeigu jo tėvai (globėjai, rūpintojai) pageidauja, sudaromos sąlygos ugdytis arčiau jo gyvenamosios vietos esančioje ikimokyklinio ugdymo, bendrojo ugdymo mokykloje, profesinio mokymo įstaigoje arba bet kurioje valstybinėje, savivaldybės (regiono) mokykloje, skirtoje mokiniams, turintiems specialiųjų ugdymosi poreikių. Mokyklą vaikui rekomenduoja pedagoginė psichologinė tarnyba.
+1. Švietimo prieinamumas mokiniui, turinčiam specialiųjų ugdymosi poreikių, užtikrinamas teikiant psichologinę, specialiąją pedagoginę, specialiąją, socialinę pedagoginę pagalbą, socialines, sveikatos priežiūros ir kitas paslaugas, aprūpinant ugdymuisi skirtomis techninės pagalbos priemonėmis mokykloje, specialiosiomis mokymo priemonėmis, pritaikant ugdymo aplinką (fizinę, informacinę) ir kitais įstatymų nustatytais būdais.
 
 
 
 
-2. Profesinio mokymo įstaiga, aukštoji mokykla nustato priėmimo į šias mokyklas tvarką asmenims, turintiems specialiųjų ugdymosi poreikių. 
+2. Mokinių, turinčių specialiųjų ugdymosi poreikių, ugdymo prieinamumu valstybinėse ir savivaldybių mokyklose rūpinasi savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitose mokyklose – savininkas (dalyvių susirinkimas).
 
 
-
-
-3. Mokinių, turinčių specialiųjų ugdymosi poreikių, ugdymo prieinamumu rūpinasi savivaldybė, kurios teritorijoje jie gyvena. Švietimo prieinamumas užtikrinamas pritaikant mokyklos aplinką, teikiant psichologinę, specialiąją pedagoginę, specialiąją ir socialinę pedagoginę pagalbą, aprūpinant ugdymui skirtomis techninės pagalbos priemonėmis mokykloje ir specialiosiomis mokymo priemonėmis, kitais įstatymų nustatytais būdais.
+Straipsnio pakeitimai:
+Nr. XIII-3268, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15543
  
-
-
 
 
 
@@ -2055,12 +2105,13 @@ Nr. XIV-1223, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15589
 36 straipsnis. Vežimas, apgyvendinimas, maitinimas
 
 
-1. Mokiniai į atitinkamą ugdymo programą vykdančią mokyklą, vadovaujantis Lietuvos Respublikos transporto lengvatų įstatymu, vežami keleiviniu transportu mokinio pažymėjime nurodytu maršrutu, mokykliniu autobusu arba kitu transportu. Į mokyklą ir atgal privalo būti vežami kaimuose, miesteliuose toliau kaip 3 kilometrai nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendrojo ugdymo programas, ir vaikai, kuriems paskirtas privalomas ikimokyklinis ugdymas. 
+1. Mokiniai į atitinkamą švietimo programą vykdančią mokyklą vežami keleiviniu transportu, mokykliniu autobusu arba kitu transportu. Mokinių važiavimo keleiviniu transportu lengvatas nustato Lietuvos Respublikos transporto lengvatų įstatymas. Siekiant užtikrinti švietimo prieinamumą, į mokyklą ir atgal privalo būti vežami kaimuose, miesteliuose toliau kaip 3 kilometrai nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendrojo ugdymo programas, ir vaikai, kuriems paskirtas privalomas ikimokyklinis ugdymas. Vežimą į mokyklą ir atgal organizuoja valstybinės ir savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas) savo nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
-Nr. XIII-3268, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15543
 Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
 Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+Nr. XIII-3268, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15543
+Nr. XIV-1727, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00141
  
 
 
@@ -2199,12 +2250,11 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-4. Švietimo, mokslo ir sporto ministro įgaliota institucija ir savivaldybės vykdomoji institucija organizuoja mokymosi pagal bendrojo ugdymo programas pasiekimų patikrinimus (brandos egzaminus, pasiekimų patikrinimus baigus pagrindinio ugdymo programą, nacionalinius mokinių pasiekimų patikrinimus ir kitus mokymosi pasiekimų patikrinimo būdus) pagal švietimo, mokslo ir sporto ministro patvirtintas mokymosi pasiekimų patikrinimų programas ir mokymosi pasiekimų patikrinimų organizavimo ir vykdymo tvarkos aprašus, mokinių pasiekimų tyrimus. Šie mokymosi pasiekimų patikrinimai organizuojami vienodi visų mokomųjų kalbų mokyklų mokiniams, nepažeidžiant lygių galimybių principo, apibrėžto šio įstatymo 5 straipsnyje, o mokiniams, turintiems specialiųjų ugdymosi poreikių (išskyrus atsirandančius dėl išskirtinių asmens gabumų), pritaikomi švietimo, mokslo ir sporto ministro nustatyta tvarka. Nacionaliniai mokinių pasiekimų patikrinimai organizuojami švietimo, mokslo ir sporto ministro nustatyta tvarka. Visos bendrojo ugdymo mokyklos užtikrina lietuvių kalbos mokėjimą pagal švietimo, mokslo ir sporto ministro patvirtintą lietuvių kalbos ir literatūros bendrąją programą (nacionalinio mokinių pasiekimų patikrinimo, pagrindinio ugdymo pasiekimų patikrinimo ir brandos egzaminų). 
-4 dalies redakcija nuo 2024-09-01:
-4. Švietimo, mokslo ir sporto ministro įgaliotos institucijos ir savivaldybių vykdomosios institucijos organizuoja mokymosi pagal bendrojo ugdymo programas pasiekimų patikrinimus (brandos egzaminus, pasiekimų patikrinimus baigus pagrindinio ugdymo programą, nacionalinius mokinių pasiekimų patikrinimus ir kitus mokymosi pasiekimų patikrinimo būdus) pagal švietimo, mokslo ir sporto ministro patvirtintas bendrąsias programas ir mokymosi pasiekimų patikrinimų organizavimo ir vykdymo tvarkos aprašus, mokinių pasiekimų tyrimus. Šie mokymosi pasiekimų patikrinimai organizuojami vienodi visų mokomųjų kalbų mokyklų mokiniams, nepažeidžiant lygių galimybių principo, apibrėžto šio įstatymo 5 straipsnyje, o mokiniams, turintiems specialiųjų ugdymosi poreikių (išskyrus atsirandančius dėl išskirtinių asmens gabumų), pritaikomi švietimo, mokslo ir sporto ministro nustatyta tvarka. Nacionaliniai mokinių pasiekimų patikrinimai organizuojami švietimo, mokslo ir sporto ministro nustatyta tvarka. Visos bendrojo ugdymo mokyklos užtikrina lietuvių kalbos mokėjimą pagal švietimo, mokslo ir sporto ministro patvirtintą lietuvių kalbos ir literatūros bendrąją programą.
+4. Švietimo, mokslo ir sporto ministro įgaliota institucija ir savivaldybės vykdomoji institucija organizuoja mokymosi pagal bendrojo ugdymo programas pasiekimų patikrinimus (brandos egzaminus, pasiekimų patikrinimus baigus pagrindinio ugdymo programą, nacionalinius mokinių pasiekimų patikrinimus ir kitus mokymosi pasiekimų patikrinimo būdus) pagal švietimo, mokslo ir sporto ministro patvirtintas bendrąsias programas ir mokymosi pasiekimų patikrinimų organizavimo ir vykdymo tvarkos aprašus, mokinių pasiekimų tyrimus. Šie mokymosi pasiekimų patikrinimai organizuojami vienodi visų mokomųjų kalbų mokyklų mokiniams, nepažeidžiant lygių galimybių principo, apibrėžto šio įstatymo 5 straipsnyje, o mokiniams, turintiems specialiųjų ugdymosi poreikių (išskyrus atsirandančius dėl išskirtinių asmens gabumų), pritaikomi švietimo, mokslo ir sporto ministro nustatyta tvarka. Nacionaliniai mokinių pasiekimų patikrinimai organizuojami švietimo, mokslo ir sporto ministro nustatyta tvarka. Visos bendrojo ugdymo mokyklos užtikrina lietuvių kalbos mokėjimą pagal švietimo, mokslo ir sporto ministro patvirtintą lietuvių kalbos ir literatūros bendrąją programą.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1261, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15488
 Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+Nr. XIV-1728, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00143
  
 
 
@@ -2712,7 +2762,10 @@ Straipsnio dalies pakeitimai:
 Nr. XIV-2678, 2024-06-06, paskelbta TAR 2024-06-07, i. k. 2024-10552
 
 
-1) visų klasių mokiniai mokomi pagal bendrojo ugdymo programas ir kadetų ugdymo programą, suderintą su krašto apsaugos ministru ir patvirtintą švietimo, mokslo ir sporto ministro;
+1) visų klasių mokiniai arba visų klasių mokiniai, išskyrus mokinius, kurie mokosi struktūriniame mokyklos padalinyje, kurio buveinė yra kitoje gyvenamojoje vietovėje nei mokyklos buveinė, mokomi pagal bendrojo ugdymo programas ir kadetų ugdymo programą, suderintą su krašto apsaugos ministru ir patvirtintą švietimo, mokslo ir sporto ministro;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2965, 2024-08-13, paskelbta TAR 2024-08-23, i. k. 2024-14758
+ 
 
 
 
@@ -3251,9 +3304,7 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 
 
-6) leisti vaiką mokytis pagal priešmokyklinio ugdymo programą ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai, arba, jeigu toks vaikas jau yra baigęs priešmokyklinio ugdymo programą, pagal pradinio ugdymo programą; 
-1 dalies 6 punkto redakcija nuo 2024-01-01:
-6) leisti vaiką mokytis pagal priešmokyklinio ugdymo programą ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai, o pagal pradinio ugdymo programą – ne vėliau, negu vaikui tais kalendoriniais metais sueina 7 metai;
+6) leisti vaiką mokytis pagal priešmokyklinio ugdymo programą ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai, o pagal pradinio ugdymo programą – ne vėliau, negu vaikui tais kalendoriniais metais sueina 7 metai; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
@@ -3294,8 +3345,6 @@ Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
 2. Tėvai (globėjai, rūpintojai) privalo:
 
 
-1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais sueina 7 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus;
-2 dalies 1 punkto redakcija nuo 2024-01-01:
 1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 6 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus;
 
 
@@ -4385,7 +4434,10 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-2. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovu gali būti asmuo, kuris pagal šio įstatymo 51 straipsnį yra nepriekaištingos reputacijos ir jam atliktas vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimas švietimo, mokslo ir sporto ministro nustatyta tvarka arba, jeigu jis vienoje švietimo įstaigoje vadovo pareigas ėjo ne mažiau kaip 10 metų ir jam atliktas vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimui prilygintas vertinimas švietimo, mokslo ir sporto ministro nustatyta tvarka. Valstybinės ar savivaldybės švietimo pagalbos įstaigos, bendrojo ugdymo mokyklos ir profesinio mokymo įstaigos vadovas turi turėti aukštąjį universitetinį išsilavinimą, valstybinės ar savivaldybės neformaliojo švietimo mokyklos vadovas – aukštąjį koleginį išsilavinimą. Asmuo skiriamas į švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo pareigas švietimo, mokslo ir sporto ministro nustatyta tvarka, įvertinus jo gebėjimus įgyvendinti viešam konkursui pateiktas vadovavimo švietimo įstaigai gaires ir pareigybės aprašyme nustatytas funkcijas.
+2. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovu gali būti ne žemesnį kaip magistro kvalifikacinį laipsnį arba prilygintą aukštojo mokslo kvalifikaciją, arba teisės aktų nustatyta tvarka pripažintą kaip lygiavertę užsienyje įgytą kvalifikaciją turintis asmuo, kuris pagal šio įstatymo 51 straipsnį yra nepriekaištingos reputacijos ir jam atliktas vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimas švietimo, mokslo ir sporto ministro nustatyta tvarka arba, jeigu jis vienoje švietimo įstaigoje vadovo pareigas ėjo ne mažiau kaip 10 metų ir jam atliktas vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimui prilygintas vertinimas švietimo, mokslo ir sporto ministro nustatyta tvarka. Asmuo skiriamas į švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo pareigas švietimo, mokslo ir sporto ministro nustatyta tvarka įvertinus jo gebėjimus įgyvendinti viešam konkursui pateiktas vadovavimo švietimo įstaigai gaires ir pareigybės aprašyme nustatytas funkcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+ 
 
 
 
@@ -4545,9 +4597,10 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-3. Mokyklos taryba – aukščiausioji mokyklos savivaldos institucija, sudaryta iš mokinių, mokytojų, tėvų (globėjų, rūpintojų) ir vietos bendruomenės atstovų. Už savo veiklą mokyklos taryba atsiskaito ją rinkusiems mokyklos bendruomenės nariams.
+3. Mokyklos taryba – aukščiausioji mokyklos savivaldos institucija, sudaryta iš mokinių, mokytojų, tėvų (globėjų, rūpintojų) ir vietos bendruomenės atstovų. Mokinių, mokytojų ir tėvų (globėjų, rūpintojų) atstovai į mokyklos tarybą yra renkami mokyklos nuostatuose ar įstatuose nustatyta tvarka. Už savo veiklą mokyklos taryba atsiskaito ją rinkusiems mokyklos bendruomenės nariams. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
+Nr. XIV-2619, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08911
  
 
 
@@ -4569,9 +4622,10 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 
 
-6. Mokykloje veikia ir kitos mokyklos savivaldos institucijos (mokytojų, mokinių, tėvų (globėjų, rūpintojų) mokyklos nuostatuose (įstatuose) nustatyta tvarka.
+6. Bendrojo ugdymo mokykloje, vykdančioje pagrindinio ir (ar) vidurinio ugdymo programas, veikia, o profesinio mokymo įstaigoje ir neformaliojo švietimo mokykloje gali veikti mokyklos nuostatuose ar įstatuose nustatyta tvarka išrinktos mokinių taryba, mokytojų taryba ir tėvų taryba. Bendrojo ugdymo mokykloje, vykdančioje tik pradinio ugdymo programą, veikia mokyklos nuostatuose ar įstatuose nustatyta tvarka išrinktos mokytojų taryba ir tėvų taryba ir gali veikti mokyklos nuostatuose ar įstatuose nustatyta tvarka išrinkta mokinių taryba. Mokykloje gali veikti ir kitos mokyklos savivaldos institucijos mokyklos nuostatuose ar įstatuose nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3022, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13239
+Nr. XIV-2619, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08911
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
  
@@ -5662,3 +5716,13 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 68 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2933, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13520
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymo Nr. XIV-1726 36 straipsnio pakeitimo įstatymas
+ 
+64.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2950, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13617
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir 36 straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymo Nr. XIII-3268 2 ir 9 straipsnių pakeitimo įstatymas
+ 
+65.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2965, 2024-08-13, paskelbta TAR 2024-08-23, i. k. 2024-14758
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 43 straipsnio pakeitimo įstatymas
