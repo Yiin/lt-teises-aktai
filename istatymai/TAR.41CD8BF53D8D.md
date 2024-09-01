@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2024-07-26 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
  
@@ -640,7 +640,10 @@ Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
 
 
 
-8) komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą;
+8) komunalinių atliekų ir komunalinėms atliekoms nepriskiriamų buityje susidarančių atliekų, kaip jos suprantamos Lietuvos Respublikos atliekų tvarkymo įstatyme, tvarkymą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2962, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13623
+ 
 
 
 
