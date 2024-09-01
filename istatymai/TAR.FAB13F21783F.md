@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FAB13F21783F"
 
 # Lietuvos Respublikos individualių įmonių įstatymas
 
-Suvestinė redakcija nuo 2012-09-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 112-4991, i. k. 1031010ISTA0IX-1805
  
@@ -219,7 +219,10 @@ Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų r
 
 
 
-2) individualios įmonės savininko duomenys (vardas, pavardė, asmens kodas, gyvenamoji vieta);
+2) individualios įmonės savininko duomenys (vardas, pavardė, asmens kodas, korespondencijos adresas);
+Straipsnio punkto pakeitimai:
+Nr. XIV-2638, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09674
+ 
 
 
 
@@ -571,7 +574,10 @@ Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA
 4. Be kitų šiame Įstatyme ir Civiliniame kodekse nustatytų pareigų, individualios įmonės likvidatorius privalo:
 
 
-1) pranešti juridinių asmenų registrui apie sprendimą likviduoti individualią įmonę, pateikti sprendimą patvirtinantį dokumentą ir pranešti duomenis apie save (vardą, pavardę, asmens kodą, gyvenamąją vietą) ne vėliau kaip pirmą viešo paskelbimo apie individualios įmonės likvidavimą dieną;
+1) pranešti juridinių asmenų registrui apie sprendimą likviduoti individualią įmonę, pateikti sprendimą patvirtinantį dokumentą ir duomenis apie save (vardą, pavardę, asmens kodą, korespondencijos adresą) ne vėliau kaip pirmą viešo paskelbimo apie individualios įmonės likvidavimą dieną;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2638, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09674
+ 
 
 
 
@@ -688,3 +694,8 @@ Lietuvos Respublikos individualių įmonių įstatymo 4, 5, 6 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2160, 2012-06-29, Žin., 2012, Nr. 83-4334 (2012-07-14), i. k. 1121010ISTA0XI-2160
 Lietuvos Respublikos individualių įmonių įstatymo 11 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2638, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09674
+Lietuvos Respublikos individualių įmonių įstatymo Nr. IX-1805 5 ir 13 straipsnių pakeitimo įstatymas
