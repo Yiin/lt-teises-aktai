@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2024-07-06 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2025-01-14
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
  
@@ -58,7 +58,10 @@ Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
 
 
 
-4. Kai piliečiai įgyvendina Lietuvos Respublikos Konstitucijoje (toliau – Konstitucija) įtvirtintą įstatymų leidybos iniciatyvos teisę, peticijos teisę ir teisę teikti Lietuvos Respublikos Seimui (toliau – Seimas) sumanymą keisti ar papildyti Konstituciją, šis įstatymas netaikomas. Referendumui siūlomas įstatymo ar kito teisės akto projektas turi atitikti šiame įstatyme nustatytus formos, struktūros, turinio ir kalbos reikalavimus.
+4. Kai įgyvendinamos Lietuvos Respublikos Konstitucijoje garantuojamos piliečių įstatymų leidybos iniciatyvos ir piliečių Konstitucijos keitimo iniciatyvos teisės, taip pat referendumo paskelbimo iniciatyvos teisė, Lietuvos Respublikos Seimui teikiamas ar referendumui siūlomas teisės akto projektas turi atitikti šiame įstatyme nustatytus formos, struktūros, turinio ir kalbos reikalavimus. Įgyvendinant Konstitucijoje laiduojamą peticijos teisę, šis įstatymas netaikomas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
+ 
 
 
 
