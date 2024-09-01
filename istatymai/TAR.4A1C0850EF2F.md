@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4a1c0850ef2f11e4927fda1d051299fb"
 
 # Lietuvos Respublikos privačios detektyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01
  
 Įstatymas paskelbtas: TAR 2015-04-30, i. k. 2015-06577
  
@@ -756,7 +756,10 @@ PRIVAČIOS DETEKTYVINĖS VEIKLOS ORGANIZAVIMO IR VYKDYMO PAGRINDAI
 3. Privačių detektyvų bendrijos steigimo sutartyje, be Civilinio kodekso 2.47 straipsnyje nustatytų reikalavimų, turi būti nurodyta:
 
 
-1) privačių detektyvų bendrijos dalyvių vardai, pavardės, asmens kodai, gyvenamosios vietos adresai;
+1) privačių detektyvų bendrijos dalyvių vardai, pavardės, asmens kodai, korespondencijos adresai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2642, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09679
+ 
 
 
 
@@ -1230,3 +1233,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1374, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12042
 Lietuvos Respublikos privačios detektyvinės veiklos įstatymo Nr. XII-1615 8 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2642, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09679
+Lietuvos Respublikos privačios detektyvinės veiklos įstatymo Nr. XII-1615 19 straipsnio pakeitimo įstatymas
