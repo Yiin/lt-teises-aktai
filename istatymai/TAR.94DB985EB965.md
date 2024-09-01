@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2025-06-30
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
  
@@ -328,7 +328,10 @@ KOOPERATINIŲ BENDROVIŲ STEIGIMAS IR JŲ TEISĖS
 4. Kooperatinės bendrovės steigimo sutartyje nurodoma:
 
 
-1) steigėjų fizinių asmenų – vardas, pavardė, asmens kodas ir gyvenamoji vieta; steigėjų juridinių asmenų – pavadinimas, kodas, buveinė ir jų įgaliotų atstovų vardai ir pavardės;
+1) steigėjų fizinių asmenų – vardas, pavardė, asmens kodas ir korespondencijos adresas; steigėjų juridinių asmenų – pavadinimas, kodas, buveinė ir jų įgaliotų atstovų vardai ir pavardės;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2643, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09681
+ 
 
 
 
@@ -549,7 +552,10 @@ Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00X
 1. Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiami šie duomenys apie kooperatinės bendrovės narius:
 
 
-1) nario fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta (jeigu kooperatinės bendrovės narys fizinis asmuo kooperatinei bendrovei yra nurodęs savo gyvenamąją vietą ir adresą korespondencijai, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiamas tik adresas korespondencijai); nario juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė. Teikiant duomenis apie narį užsienio valstybės fizinį asmenį, papildomai nurodoma to asmens gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir asmens dokumentus išdavusios valstybės pavadinimas, o teikiant duomenis apie narį užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje tas juridinis asmuo įregistruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data;
+1) nario fizinio asmens vardas, pavardė, asmens kodas ir korespondencijos adresas; nario juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė. Teikiant duomenis apie narį užsienio valstybės fizinį asmenį, papildomai nurodoma to asmens gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir asmens dokumentus išdavusios valstybės pavadinimas, o teikiant duomenis apie narį užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje tas juridinis asmuo įregistruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2643, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09681
+ 
 
 
 
@@ -709,7 +715,10 @@ KOOPERATINĖS BENDROVĖS NARIAI
 4. Kooperatinės bendrovės narių registre nurodoma:
 
 
-1) fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta arba juridinio asmens pavadinimas, kodas ir buveinė;
+1) fizinio asmens vardas, pavardė, asmens kodas ir korespondencijos adresas arba juridinio asmens pavadinimas, kodas ir buveinė;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2643, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09681
+ 
 
 
 
