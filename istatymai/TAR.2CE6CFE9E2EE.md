@@ -13,25 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
-TAR pastaba. 8 straipsnio 3 ir 4 dalyse nurodytų dydžių šalpos neįgalumo pensijos jų gavėjams pradedamos mokėti ne vėliau kaip 2023 m. lapkričio 30 d., kartu išmokant nuo 2023 m. liepos 1 d. susidariusias šalpos neįgalumo pensijų nepriemokas.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1957, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09701
-Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 8 straipsnio pakeitimo įstatymas
- 
-Nauja redakcija nuo 2017-01-01:
-Nr. XII-2506, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20643
+Nauja redakcija nuo 2024-09-01:
+Nr. XIV-2760, 2024-06-18, paskelbta TAR 2024-06-27, i. k. 2024-11773
  
 LIETUVOS RESPUBLIKOS
 ŠALPOS PENSIJŲ
 ĮSTATYMAS
- 
-1994 m. lapkričio 29 d. Nr. I-675
-Vilnius
- 
  
 
 
@@ -43,20 +34,17 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo tikslas, paskirtis ir taikymas
 
 
-1. Šio įstatymo tikslas – nustatyti mėnesines pinigines išmokas, užtikrinančias minimalias pajamas asmenims, atitinkantiems šiame įstatyme nustatytas sąlygas neįgalumo, netekto darbingumo ir senatvės atvejais, taip pat mėnesines pinigines išmokas mirusiojo vaikams (įvaikiams). 
+1. Šio įstatymo tikslas – nustatyti mėnesines pinigines išmokas, užtikrinančias minimalias pajamas asmenims, atitinkantiems šiame įstatyme nustatytas sąlygas negalios ir senatvės atvejais, taip pat mėnesines pinigines išmokas mirusio (paskelbto mirusiu) asmens vaikams (įvaikiams).
 
 
 
 
-2. Šis įstatymas nustato šalpos pensijų rūšis, šių pensijų finansavimo šaltinį, teisę į šalpos pensijas turinčius asmenis, šių pensijų skyrimo ir mokėjimo sąlygas bei tvarką. Šio įstatymo nustatyta tvarka taip pat skiriamos ir mokamos šalpos kompensacijos, socialinio draudimo senatvės arba netekto darbingumo (invalidumo) pensijų priemokos (toliau – pensijos priemoka), mokamos šalpos pensijos už invalidų slaugą namuose, paskirtos iki 2004 m. balandžio 1 d., ir socialinės pensijos, paskirtos iki 1995 m. sausio 1 d. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
- 
+2. Šis įstatymas nustato šalpos pensijų rūšis, šių pensijų finansavimo šaltinį, teisę į šalpos pensijas turinčius asmenis, šių pensijų skyrimo ir mokėjimo sąlygas bei tvarką. Šio įstatymo nustatyta tvarka taip pat skiriamos ir mokamos šalpos kompensacijos, socialinio draudimo senatvės, negalios arba netekto darbingumo bei invalidumo pensijų priemokos (toliau kartu – pensijos priemoka), mokamos socialinės pensijos, paskirtos iki 1994 m. gruodžio 31 d.
 
 
 
 
-3. Šis įstatymas taikomas, išskyrus 221 straipsnyje nurodytus asmenis, deklaravusiems gyvenamąją vietą arba įtrauktiems į gyvenamosios vietos nedeklaravusių asmenų apskaitą Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka:
+3. Šis įstatymas, išskyrus 17 straipsnyje nurodytus asmenis, taikomas gyvenantiems Lietuvos Respublikoje ir deklaravusiems gyvenamąją vietą arba įtrauktiems į gyvenamosios vietos nedeklaravusių asmenų apskaitą Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka:
 
 
 1) Lietuvos Respublikos piliečiams;
@@ -75,39 +63,23 @@ Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
 
 
 4) užsieniečiams, kuriems suteiktas prieglobstis arba laikinoji apsauga Lietuvos Respublikoje;
-Straipsnio punkto pakeitimai:
-Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
- 
 
 
 
 
-5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, suteikiantys teisę gyventi Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“;
-Papildyta straipsnio punktu:
-Nr. XIII-2346, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12437
- 
+5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, suteikiantys teisę gyventi Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžiami Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“;
 
 
 
 
 6) asmenims, kuriems taikomos Lietuvos Respublikos tarptautinės sutartys dėl socialinio draudimo pensijų mokėjimo;
-Papildyta straipsnio punktu:
-Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
- 
 
 
 
 
 7) užsieniečiams, kuriems leidimas laikinai gyventi Lietuvos Respublikoje išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą.
-Papildyta straipsnio punktu:
-Nr. XIV-1285, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15434
- 
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
-Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
- 
 
 
 
@@ -117,46 +89,7 @@ Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
 
 
 
-5. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-449, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10813
- 
-
-
-
-
-2 straipsnis. Pagrindinės šio įstatymo sąvokos 
-
-
-1. Neteko galios nuo 2020-01-01
-Straipsnio dalies naikinimas:
-Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
- 
-
-
-
-
-2. Palaikomojo gydymo ir slaugos ligoninėje slaugomas asmuo – asmuo, kuriam ne ilgiau kaip 120 dienų per kalendorinius metus palaikomojo gydymo ir slaugos ligoninėje teikiamos slaugos, palaikomojo gydymo, socialinės paslaugos bei patarnavimai, už kuriuos mokama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų.
-
-
-
-
-3. Socialinės globos įstaigoje gyvenantis asmuo – asmuo, kurio gyvenamoji vieta – socialinės globos įstaiga, išskyrus šeimynas, ir kuris gauna ilgalaikės socialinės globos paslaugas.
-
-
-
-
-4. Šalpos išmokos – šio įstatymo nustatytomis sąlygomis ir tvarka skiriamos ir (ar) mokamos šalpos pensijos, šalpos kompensacijos, šalpos pensijos už invalidų slaugą namuose, paskirtos iki 2004 m. balandžio 1 d., ir socialinės pensijos, paskirtos iki 1995 m. sausio 1 d. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
- 
-
-
-
-
-5. Švietimo įstaigoje gyvenantis asmuo – asmuo, kurio gyvenamoji vieta – švietimo įstaiga ir kuris yra išlaikomas valstybės ir (ar) savivaldybės biudžeto lėšomis (gauna maistą, aprangą ir nakvynę).
+5. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
  
 
 
@@ -164,23 +97,50 @@ Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
 
 
 
-3 straipsnis. Šalpos pensijų rūšys 
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
+
+
+1. Socialinės globos įstaigoje gyvenantis asmuo – asmuo, kurio nuolatinė gyvenamoji vieta – socialinės globos įstaiga, išskyrus šeimynas, ir kuris joje gauna ilgalaikės socialinės globos paslaugas.
+
+
+
+
+2. Šalpos išmokos – šio įstatymo nustatytomis sąlygomis ir tvarka skiriamos ir (ar) mokamos šalpos pensijos, šalpos kompensacijos ir socialinės pensijos, paskirtos iki 1994 m. gruodžio 31 d.
+
+
+
+
+3. Švietimo įstaigoje gyvenantis asmuo – asmuo, kurio nuolatinė gyvenamoji vieta – švietimo įstaiga ir kuris išlaikomas Lietuvos Respublikos valstybės ir (ar) savivaldybės biudžeto lėšomis (gauna maistą, aprangą ir nakvynę).
+
+
+
+
+4. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos socialinio draudimo pensijų įstatyme, Lietuvos Respublikos socialinių paslaugų įstatyme ir Lietuvos Respublikos civiliniame kodekse.
+ 
+ 
+
+
+
+
+
+
+3 straipsnis. Šalpos pensijų rūšys
 
 
 Nustatomos šios šalpos pensijų rūšys:
 
 
-1) šalpos neįgalumo pensijos; 
+1) šalpos negalios pensija;
 
 
 
 
-2) šalpos senatvės pensijos;
+2) šalpos senatvės pensija;
 
 
 
 
-3) šalpos našlaičių pensijos.
+3) šalpos našlaičių pensija.
  
 
 
@@ -193,17 +153,15 @@ Nustatomos šios šalpos pensijų rūšys:
 4 straipsnis. Šalpos išmokų mokėjimo šaltinis ir dydžio matas
 
 
-1. Šalpos išmokos mokamos, taip pat jų skyrimo, mokėjimo ir pristatymo išlaidos finansuojamos iš Lietuvos Respublikos valstybės biudžeto lėšų. 
+1. Šalpos išmokos mokamos, taip pat jų skyrimo, mokėjimo ir pristatymo išlaidos finansuojamos iš valstybės biudžeto lėšų.
 
 
 
 
-2. Šalpos išmokų dydžio matas yra šalpos pensijų bazė. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
+2. Šalpos išmokų dydžio matas yra šalpos pensijų bazė.
  
+
+
 
 
 
@@ -211,110 +169,42 @@ Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
 
 
 II SKYRIUS
-ŠALPOS NEĮGALUMO IR ŠALPOS SENATVĖS PENSIJOS
+ŠALPOS NEGALIOS IR ŠALPOS SENATVĖS PENSIJOS
  
 
 
-5 straipsnis. Asmenys, turintys teisę gauti šalpos neįgalumo pensiją 
+5 straipsnis. Asmenys, turintys teisę gauti šalpos negalios pensiją
 
 
-Teisę gauti šalpos neįgalumo pensiją turi: 
+Teisę gauti šalpos negalios pensiją turi:
 
 
-1) asmenys, kuriems nustatytas sunkus, vidutinis ar lengvas neįgalumas;
+1) asmenys, kuriems nustatytas sunkaus, vidutinio arba lengvo neįgalumo lygis;
 
 
 
 
-2) asmenys, pripažinti netekusiais 45 procentų ir daugiau darbingumo iki dienos (įskaitytinai), kurią jiems sukanka 24 metai, taip pat asmenys, kurie dėl ligos ar traumos, atsiradusios iki jiems sukako 24 metai, padarinių pripažinti netekusiais 45 procentų ir daugiau darbingumo po 24 metų sukakties dienos, tačiau ne vėliau kaip iki dienos (įskaitytinai), kurią jiems sukanka 26 metai; 
+2) asmenys, pripažinti netekusiais 45 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), jeigu pirmą kartą jie tokiais pripažinti iki dienos (įskaitytinai), kurią jiems sukako 24 metai;
 
 
 
 
-3) tėvai (įtėviai), globėjai ar rūpintojai, kurie yra pripažinti netekusiais 60 procentų ir daugiau darbingumo ir kurie ne mažiau kaip 15 metų slaugė namuose neįgaliuosius, kuriems nustatytas specialusis nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikis. Už vieno neįgalaus asmens slaugą šalpos neįgalumo pensija skiriama ir mokama tik vienam asmeniui; 
+3) asmenys, pripažinti netekusiais 45 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) dėl ligos ar traumos, atsiradusios, iki jiems sukako 24 metai, – jeigu pirmą kartą jie tokiais pripažinti po 24 metų sukakties dienos, tačiau ne vėliau kaip iki dienos (įskaitytinai), kurią jiems sukako 26 metai;
 
 
 
 
-4) motinos, išauginusios penkis ar daugiau vaikų (vaikų mirties atveju – auginusios ne trumpiau kaip 8 metus) ir pripažintos netekusiomis 60 procentų ir daugiau darbingumo;
+4) tėvai (įtėviai), globėjai ar rūpintojai, kurie yra pripažinti netekusiais 60 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) ir kurie ne trumpiau kaip 15 metų slaugė namuose asmenis, kuriems nustatytas individualios pagalbos teikimo išlaidų kompensacijos poreikis (iki 2023 m. gruodžio 31 d. – specialusis nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikis);
 
 
 
 
-5) asmenys, pripažinti netekusiais 60 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. pripažinti I ar II grupės invalidais), išskyrus asmenis, nurodytus šio straipsnio 2, 3 ir 4 punktuose. 
+5) tėvai (įtėviai), išauginę penkis ar daugiau vaikų (įvaikių) (vaikų (įvaikių) mirties atveju – ne mažiau kaip iki 8 metų) ir pripažinti netekusiais 60 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo);
 
 
 
 
-Straipsnio pakeitimai:
-Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
- 
-
-
-
-
-6 straipsnis. Asmenys, turintys teisę gauti šalpos senatvės pensiją 
-
-
-Teisę gauti šalpos senatvės pensiją turi senatvės pensijos amžių sukakę asmenys, atitinkantys šio įstatymo 7 straipsnyje nustatytas sąlygas. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
- 
-
-
-
-
-7 straipsnis. Šalpos neįgalumo ir šalpos senatvės pensijų skyrimo ir mokėjimo sąlygos
-
-
-1. Šalpos neįgalumo ir šalpos senatvės pensijos skiriamos ir mokamos asmenims, neturintiems teisės gauti socialinio draudimo pensijų (kartu su pensijos priemoka), valstybinių pensijų, kompensacijų už ypatingas darbo sąlygas, valstybinių signataro rentų, valstybinių signataro našlių ir našlaičių rentų, rentų buvusiems sportininkams, kompensacinių išmokų profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams ir kitų periodinių pensinio pobūdžio išmokų, mokamų iš Valstybinio socialinio draudimo fondo biudžeto ar valstybės biudžeto lėšų, pagal Lietuvos Respublikos pensijų kaupimo įstatymą ir Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymą gaunamų pensijų išmokų, užsienio valstybių pensijų ir kitų periodinių pensinio pobūdžio išmokų (toliau – pensijos ar pensijų išmokos), kurios (jeigu asmuo turi teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra didesnės arba tokio paties dydžio kaip šalpos neįgalumo pensija arba šalpos senatvės pensija, išskyrus:
-
-
-1) šio įstatymo 5 straipsnio 1 ir 2 punktuose nurodytus asmenis, kurie kartu su šalpos neįgalumo pensijomis turi teisę gauti socialinio draudimo našlaičių pensijas, socialinio draudimo našlių pensijas, valstybines našlaičių pensijas ar vienišo asmens išmokas;
-
-
-
-
-2) šio įstatymo 5 straipsnio 3, 4 ir 5 punktuose ir šio įstatymo 6 straipsnyje nurodytus asmenis, kurie kartu su šalpos pensijomis turi teisę gauti socialinio draudimo našlių pensijas ar vienišo asmens išmokas.
-
-
-
-
-
-
-2. Šio įstatymo 5 straipsnio 5 punkte ir 6 straipsnyje nurodytiems asmenims šalpos pensijos skiriamos ir mokamos, jeigu jie nėra privalomai draudžiami valstybiniu pensijų socialiniu draudimu pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymą, išskyrus asmenis, nurodytus Valstybinio socialinio draudimo įstatymo 6 straipsnyje.
-
-
-Straipsnio pakeitimai:
-Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
-Nr. XIV-353, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13154
-Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
- 
-
-
-
-
-8 straipsnis. Šalpos neįgalumo ir šalpos senatvės pensijų dydžiai
-
-
-1. Šalpos neįgalumo pensijos šio įstatymo 5 straipsnio 1 punkte nurodytiems asmenims yra šių dydžių:
-
-
-1) asmenims, kuriems nustatytas sunkus neįgalumas, – 2 šalpos pensijų bazių dydžio;
-
-
-
-
-2) asmenims, kuriems nustatytas vidutinis neįgalumas, – 1,5 šalpos pensijų bazės dydžio;
-
-
-
-
-3) asmenims, kuriems nustatytas lengvas neįgalumas, – 1 šalpos pensijų bazės dydžio. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+6) asmenys, pripažinti netekusiais 60 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), išskyrus asmenis, nurodytus šio straipsnio 2–5 punktuose.
  
 
 
@@ -322,70 +212,25 @@ Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
 
 
 
-2. Šalpos neįgalumo pensijos šio įstatymo 5 straipsnio 2 punkte nurodytiems asmenims yra šių dydžių:
 
 
-1) asmenims, netekusiems 100 procentų darbingumo, – 2,25 šalpos pensijų bazių dydžio;
+6 straipsnis. Asmenys, turintys teisę gauti šalpos senatvės pensiją
 
 
+Teisę gauti šalpos senatvės pensiją turi:
 
 
-2) asmenims, netekusiems 95 procentų darbingumo, – 2,16 šalpos pensijų bazių dydžio;
-
-
-
-
-3) asmenims, netekusiems 90 procentų darbingumo, – 2,08 šalpos pensijų bazių dydžio;
+1) Socialinio draudimo pensijų įstatyme nustatytą socialinio draudimo senatvės pensijos amžių (toliau – senatvės pensijos amžius) sukakę tėvai (įtėviai), globėjai ar rūpintojai, kurie ne trumpiau kaip 15 metų slaugė namuose asmenis, kuriems nustatytas individualios pagalbos teikimo išlaidų kompensacijos poreikis (iki 2023 m. gruodžio 31 d. – specialusis nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikis);
 
 
 
 
-4) asmenims, netekusiems 85 procentų darbingumo, – 2 šalpos pensijų bazių dydžio;
+2) senatvės pensijos amžių sukakę tėvai (įtėviai), išauginę penkis ar daugiau vaikų (įvaikių) (vaikų (įvaikių) mirties atveju – ne mažiau kaip iki 8 metų);
 
 
 
 
-5) asmenims, netekusiems 80 procentų darbingumo, – 1,91 šalpos pensijų bazės dydžio;
-
-
-
-
-6) asmenims, netekusiems 75 procentų darbingumo, – 1,82 šalpos pensijų bazės dydžio;
-
-
-
-
-7) asmenims, netekusiems 70 procentų darbingumo, – 1,74 šalpos pensijų bazės dydžio;
-
-
-
-
-8) asmenims, netekusiems 65 procentų darbingumo, – 1,65 šalpos pensijų bazės dydžio;
-
-
-
-
-9) asmenims, netekusiems 60 procentų darbingumo, – 1,43 šalpos pensijų bazės dydžio;
-
-
-
-
-10) asmenims, netekusiems 55 procentų darbingumo, – 1,2 šalpos pensijų bazės dydžio;
-
-
-
-
-11) asmenims, netekusiems 45–50 procentų darbingumo, – 1 šalpos pensijų bazės dydžio; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
- 
-
-
-
-
-12) neteko galios 2020-01-01.
-Straipsnio punkto pakeitimai:
-Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+3) senatvės pensijos amžių sukakę asmenys, išskyrus asmenis, nurodytus šio straipsnio 1 ir 2 punktuose.
  
 
 
@@ -393,99 +238,203 @@ Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
 
 
 
-3. Šalpos neįgalumo pensijos šio įstatymo 5 straipsnio 3 ir 4 punktuose nurodytiems asmenims yra šių dydžių:
 
 
-1) asmenims, netekusiems 100 procentų darbingumo, – 2 šalpos pensijų bazių dydžio;
+7 straipsnis. Šalpos negalios ir šalpos senatvės pensijų skyrimo ir mokėjimo sąlygos
 
 
-
-
-2) asmenims, netekusiems 95 procentų darbingumo, – 1,87 šalpos pensijų bazės dydžio;
+1. Šalpos negalios ir šalpos senatvės pensijos skiriamos ir mokamos asmenims, neturintiems teisės gauti socialinio draudimo pensijų (kartu su pensijos priemoka), valstybinių pensijų (kartu su pareigūnų ir karių valstybinės pensijos priedu už tarnybą), kompensacijų už ypatingas darbo sąlygas, valstybinių signataro rentų, valstybinių signataro našlių ir našlaičių rentų, rentų buvusiems sportininkams, kompensacinių išmokų profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams ir kitų periodinių pensinio pobūdžio išmokų, mokamų iš Valstybinio socialinio draudimo fondo biudžeto ar valstybės biudžeto lėšų, pagal Lietuvos Respublikos pensijų kaupimo įstatymą ir Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymą gaunamų pensijų išmokų (išskyrus vienkartines pensines išmokas), užsienio valstybių pensijų ir kitų periodinių pensinio pobūdžio išmokų (toliau – pensijos ar pensijų išmokos), kurios (jeigu asmuo turi teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra didesnės arba tokio paties dydžio kaip šalpos negalios pensija arba šalpos senatvės pensija, išskyrus šio straipsnio 2 dalyje nustatytus atvejus.
 
 
 
 
-3) asmenims, netekusiems 90 procentų darbingumo, – 1,75 šalpos pensijų bazės dydžio;
+2. Kartu su šalpos negalios arba šalpos senatvės pensija gali būti mokama socialinio draudimo našlaičių pensija, socialinio draudimo našlių pensija, našlių ar našlaičių išmoka, paskirta vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų ar Lietuvos Respublikos tarptautinių sutarčių nuostatomis dėl socialinio draudimo pensijų mokėjimo, užsienio valstybės mokama našlių ar našlaičių išmoka, valstybinė našlaičių arba našlių pensija ar vienišo asmens išmoka.
 
 
 
 
-4) asmenims, netekusiems 85 procentų darbingumo, – 1,62 šalpos pensijų bazės dydžio;
+3. Už tą patį namuose slaugytą asmenį arba už išaugintus penkis ar daugiau vaikų (įvaikių) šalpos negalios arba šalpos senatvės pensija skiriama ir mokama tik vienam asmeniui. Jeigu asmuo namuose slaugė kelis asmenis, jam skiriama ir mokama tik viena šalpos pensija.
 
 
 
 
-5) asmenims, netekusiems 80 procentų darbingumo, – 1,5 šalpos pensijų bazės dydžio;
-
-
-
-
-6) asmenims, netekusiems 75 procentų darbingumo, – 1,37 šalpos pensijų bazės dydžio; 
-
-
-
-
-7) asmenims, netekusiems 70 procentų darbingumo, – 1,25 šalpos pensijų bazės dydžio;
-
-
-
-
-8) asmenims, netekusiems 65 procentų darbingumo, – 1,12 šalpos pensijų bazės dydžio;
-
-
-
-
-9) asmenims, netekusiems 60 procentų darbingumo, – 1 šalpos pensijų bazės dydžio. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIV-1957, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09701
+4. Skiriant šalpos negalios pensiją šio įstatymo 5 straipsnio 4 punkte nurodytiems asmenims arba šalpos senatvės pensiją šio įstatymo 6 straipsnio 1 punkte nurodytiems asmenims, vaikų invalidų, I ar II grupės invalidų nuo vaikystės, visiškos negalios invalidų, pripažintų tokiais iki 2005 m. birželio 30 d., slaugos namuose laikas prilyginamas asmenų, kuriems nustatytas individualios pagalbos teikimo išlaidų kompensacijos poreikis, slaugos namuose laikui.
  
 
 
 
 
-4. Šalpos neįgalumo pensijos šio įstatymo 5 straipsnio 5 punkte nurodytiems asmenims yra šių dydžių:
 
 
-1) asmenims, netekusiems 100 procentų darbingumo, – 2 šalpos pensijų bazių dydžio;
+8 straipsnis. Šalpos negalios ir šalpos senatvės pensijų dydžiai
 
 
+1. Šalpos negalios pensijos šio įstatymo 5 straipsnio 1 punkte nurodytiems asmenims yra šių dydžių:
 
 
-2) asmenims, netekusiems 95 procentų darbingumo, – 1,83 šalpos pensijų bazės dydžio;
-
-
-
-
-3) asmenims, netekusiems 90 procentų darbingumo, – 1,66 šalpos pensijų bazės dydžio;
+1) asmenims, kuriems nustatytas sunkaus neįgalumo lygis, – 2 šalpos pensijų bazių dydžio;
 
 
 
 
-4) asmenims, netekusiems 85 procentų darbingumo, – 1,5 šalpos pensijų bazės dydžio;
+2) asmenims, kuriems nustatytas vidutinio neįgalumo lygis, – 1,5 šalpos pensijų bazės dydžio;
 
 
 
 
-5) asmenims, netekusiems 80 procentų darbingumo, – 1,33 šalpos pensijų bazės dydžio;
+3) asmenims, kuriems nustatytas lengvo neįgalumo lygis, – 1 šalpos pensijų bazės dydžio.
 
 
 
 
-6) asmenims, netekusiems 75 procentų darbingumo, – 1,17 šalpos pensijų bazės dydžio; 
+
+
+2. Šalpos negalios pensijos šio įstatymo 5 straipsnio 2 ir 3 punktuose nurodytiems asmenims yra šių dydžių:
+
+
+1) asmenims, netekusiems 100 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 2,25 šalpos pensijų bazės dydžio;
 
 
 
 
-7) asmenims, netekusiems 60–70 procentų darbingumo, – 1 šalpos pensijų bazės dydžio.
+2) asmenims, netekusiems 95 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 2,16 šalpos pensijų bazės dydžio;
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
-Nr. XIV-1957, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09701
- 
+
+
+3) asmenims, netekusiems 90 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 2,08 šalpos pensijų bazės dydžio;
+
+
+
+
+4) asmenims, netekusiems 85 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 2 šalpos pensijų bazių dydžio;
+
+
+
+
+5) asmenims, netekusiems 80 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,91 šalpos pensijų bazės dydžio;
+
+
+
+
+6) asmenims, netekusiems 75 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,82 šalpos pensijų bazės dydžio;
+
+
+
+
+7) asmenims, netekusiems 70 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,74 šalpos pensijų bazės dydžio;
+
+
+
+
+8) asmenims, netekusiems 65 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,65 šalpos pensijų bazės dydžio;
+
+
+
+
+9) asmenims, netekusiems 60 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,43 šalpos pensijų bazės dydžio;
+
+
+
+
+10) asmenims, netekusiems 55 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,2 šalpos pensijų bazės dydžio;
+
+
+
+
+11) asmenims, netekusiems 45–50 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1 šalpos pensijų bazės dydžio.
+
+
+
+
+
+
+3. Šalpos negalios pensijos šio įstatymo 5 straipsnio 4 ir 5 punktuose nurodytiems asmenims yra šių dydžių:
+
+
+1) asmenims, netekusiems 100 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 2 šalpos pensijų bazių dydžio;
+
+
+
+
+2) asmenims, netekusiems 95 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,87 šalpos pensijų bazės dydžio;
+
+
+
+
+3) asmenims, netekusiems 90 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,75 šalpos pensijų bazės dydžio;
+
+
+
+
+4) asmenims, netekusiems 85 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,62 šalpos pensijų bazės dydžio;
+
+
+
+
+5) asmenims, netekusiems 80 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,5 šalpos pensijų bazės dydžio;
+
+
+
+
+6) asmenims, netekusiems 75 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,37 šalpos pensijų bazės dydžio;
+
+
+
+
+7) asmenims, netekusiems 70 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,25 šalpos pensijų bazės dydžio;
+
+
+
+
+8) asmenims, netekusiems 65 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,12 šalpos pensijų bazės dydžio;
+
+
+
+
+9) asmenims, netekusiems 60 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1 šalpos pensijų bazės dydžio.
+
+
+
+
+
+
+4. Šalpos negalios pensijos šio įstatymo 5 straipsnio 6 punkte nurodytiems asmenims yra šių dydžių:
+
+
+1) asmenims, netekusiems 100 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 2 šalpos pensijų bazių dydžio;
+
+
+
+
+2) asmenims, netekusiems 95 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,83 šalpos pensijų bazės dydžio;
+
+
+
+
+3) asmenims, netekusiems 90 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,66 šalpos pensijų bazės dydžio;
+
+
+
+
+4) asmenims, netekusiems 85 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,5 šalpos pensijų bazės dydžio;
+
+
+
+
+5) asmenims, netekusiems 80 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,33 šalpos pensijų bazės dydžio;
+
+
+
+
+6) asmenims, netekusiems 75 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,17 šalpos pensijų bazės dydžio;
+
+
+
+
+7) asmenims, netekusiems 60–70 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1 šalpos pensijų bazės dydžio.
+
+
 
 
 
@@ -493,23 +442,15 @@ Nr. XIV-1957, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09701
 5. Šalpos senatvės pensijos yra šių dydžių:
 
 
-1) tėvams (įtėviams), globėjams ar rūpintojams, kurie ne mažiau kaip 15 metų slaugė namuose neįgaliuosius, kuriems nustatytas specialusis nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikis, – 1,5 šalpos pensijų bazės dydžio;
+1) šio įstatymo 6 straipsnio 1 ir 2 punktuose nurodytiems asmenims – 1,5 šalpos pensijų bazės dydžio;
 
 
 
 
-2) motinoms, išauginusioms penkis ar daugiau vaikų (vaikų mirties atveju – auginusioms ne trumpiau kaip 8 metus), – 1,5 šalpos pensijų bazės dydžio;
-
-
-
-
-3) senatvės pensijos amžių sukakusiems asmenims, išskyrus asmenis, nurodytus šios dalies 1 ir 2 punktuose, – 1 šalpos pensijų bazės dydžio. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
-Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
+2) šio įstatymo 6 straipsnio 3 punkte nurodytiems asmenims – 1 šalpos pensijų bazės dydžio.
  
+
+
 
 
 
@@ -523,36 +464,30 @@ III SKYRIUS
  
 
 
-9 straipsnis. Asmenys, turintys teisę gauti šalpos našlaičių pensiją 
+9 straipsnis. Asmenys, turintys teisę gauti šalpos našlaičių pensiją
 
 
-1. Teisę gauti šalpos našlaičių pensiją turi mirusiojo arba įstatymų nustatyta tvarka paskelbto mirusiu asmens vaikai (įvaikiai), kurie yra:
+1. Teisę gauti šalpos našlaičių pensiją turi mirusio (paskelbto mirusiu) asmens vaikai (įvaikiai), kurie yra:
 
 
-1) nesukakę 18 metų; 
-
-
-
-
-2) sukakę 18 metų ir mokosi pagal teisės aktų nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programas ar formaliojo profesinio mokymo programas arba studijuoja aukštojoje mokykloje pagal nuolatinės formos studijų programas, – iki mokymosi ar studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, turinčius teisę gauti šalpos našlaičių pensiją iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 d.), tačiau ne vyresni negu 24 metų;
+1) nesukakę 18 metų;
 
 
 
 
-3) sukakę 18 metų ir pripažinti netekusiais 45 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. – invalidais) iki dienos (įskaitytinai), kurią jiems sukanka 24 metai, taip pat asmenys, kurie dėl ligos ar traumos, atsiradusios iki jiems sukako 24 metai, padarinių pripažinti netekusiais 45 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. – invalidais) po 24 metų sukakties dienos, tačiau ne vėliau kaip iki dienos (įskaitytinai), kurią jiems sukanka 26 metai, ir jeigu jie nuo pripažinimo neįgaliaisiais dienos nuolat yra pripažįstami netekusiais 45 procentų ir daugiau darbingumo (invalidai). 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
- 
+2) sukakę 18 metų ir mokosi pagal bendrojo ugdymo programas ar formaliojo profesinio mokymo programas arba studijuoja pagal nuolatinės studijų formos programas, – iki mokymosi ar studijų pagal šias programas baigimo (išskyrus bendrojo ugdymo programų mokinius, turinčius teisę gauti šalpos našlaičių pensiją iki tų metų, kuriais jie baigia mokytis pagal šias programas, rugpjūčio 31 dienos), tačiau ne vyresni negu 24 metų;
+
+
+
+
+3) sukakę 18 metų ir pripažinti netekusiais 45 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) iki dienos (įskaitytinai), kurią jiems sukanka 24 metai, taip pat asmenys, kurie dėl ligos ar traumos, atsiradusios, iki jiems sukako 24 metai, padarinių pripažinti netekusiais 45 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) po 24 metų sukakties dienos, tačiau ne vėliau kaip iki dienos (įskaitytinai), kurią jiems sukanka 26 metai, ir jeigu jie nuo pripažinimo asmenimis su negalia (iki 2023 m. gruodžio 31 d. – neįgaliaisiais) dienos nuolat yra pripažįstami netekusiais 45 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo).
 
 
 
 
 
 
-2. Našlaičiams, netekusiems abiejų tėvų (įtėvių), šalpos našlaičių pensijos skiriamos už kiekvieną iš mirusių tėvų (įtėvių). 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3372, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23939
- 
+2. Našlaičiams, netekusiems abiejų tėvų (įtėvių), šalpos našlaičių pensijos skiriamos už kiekvieną iš mirusių (paskelbtų mirusiais) tėvų (įtėvių).
 
 
 
@@ -560,18 +495,20 @@ Nr. XIII-3372, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23939
 3. Teisė gauti šalpos našlaičių pensiją išlieka:
 
 
-1) įvaikinus mirusiojo vaikus (įvaikius), turinčius teisę gauti šalpos našlaičių pensiją;
+1) šio straipsnio 1 dalies 2 punkte nustatytus reikalavimus atitinkantiems našlaičiams, kurie tais pačiais kalendoriniais metais baigė bendrojo ugdymo programą ir įstojo mokytis pagal formaliojo profesinio mokymo programą ar studijuoti pagal nuolatinės studijų formos programą – laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią prasideda mokslo ar studijų metai pagal formaliojo profesinio mokymo programą ar nuolatinės studijų formos programą, pagal kurią mokytis ar studijuoti įstojo našlaitis;
 
 
 
 
-2) šio straipsnio 1 dalies 2 punkto reikalavimus atitinkantiems našlaičiams, kurie tais pačiais kalendoriniais metais baigė bendrojo ugdymo programą ir įstojo į švietimo įstaigą mokytis pagal formaliojo profesinio ugdymo programą ar studijuoti pagal nuolatinių studijų programą – laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigoje prasideda mokslo ar studijų metai pagal formaliojo profesinio ugdymo programą ar nuolatinių studijų programą, pagal kurią mokytis ar studijuoti įstojo našlaitis.
-TAR pastaba. 3 dalies 2 punkto nuostatos taikomos ir šalpos našlaičių pensijos jas turintiems teisę gauti našlaičiams, 2020 metais įstojusiems į švietimo įstaigas, kuriose mokslo ar studijų metai prasidėjo vėliau negu 2020 m. rugsėjo 1 d., mokytis pagal formaliojo profesinio ugdymo programas ar studijuoti pagal nuolatinių studijų programas, skiriamos ir (ar) mokamos nuo 2020 m. rugsėjo 1 d.
+2) kai šalpos našlaičių pensijos mokėjimas nutraukiamas, nes našlaičiui nustatytas didesnis negu 55 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) lygis, tačiau, nepraėjus 3 metams nuo dienos, kurią buvo nutrauktas šalpos našlaičių pensijos mokėjimas, jis pripažįstamas asmeniu su negalia. Tokiu atveju šalpos našlaičių pensija vėl pradedama mokėti nuo dienos, nuo kurios našlaičiui vėl nustatytas dalyvumo lygis;
 
 
-Papildyta straipsnio dalimi:
-Nr. XIII-3372, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23939
+
+
+3) kai iki 2023 m. gruodžio 31 d. netekusiu 45 ar daugiau procentų darbingumo pripažintas našlaitis šalpos našlaičių pensijos gavimo laikotarpiu senatvės pensijos amžių sukako iki 2023 m. gruodžio 31 d.
  
+
+
 
 
 
@@ -581,30 +518,12 @@ Nr. XIII-3372, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23939
 10 straipsnis. Šalpos našlaičių pensijų skyrimo ir mokėjimo sąlygos
 
 
-1. Šalpos našlaičių pensijos skiriamos ir mokamos asmenims, neturintiems teisės gauti pensijų ar pensijų išmokų, kurios (jeigu asmuo turi teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra didesnės arba tokio paties dydžio kaip šalpos našlaičių pensija, išskyrus šio straipsnio 2 dalyje numatytą atvejį.
-Straipsnio dalies pakeitimai:
-Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
- 
+1. Šalpos našlaičių pensijos skiriamos ir mokamos asmenims, neturintiems teisės gauti socialinio draudimo našlaičių pensijų, našlaičių išmokų, paskirtų vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų ar Lietuvos Respublikos tarptautinių sutarčių nuostatomis dėl socialinio draudimo pensijų mokėjimo, užsienio valstybės mokamų našlaičių išmokų ar valstybinių našlaičių pensijų už tą patį mirusį (paskelbtą mirusiu) asmenį, kurios yra didesnės arba tokio paties dydžio kaip šalpos našlaičių pensija.
 
 
 
 
-2. Asmeniui, turinčiam teisę gauti šalpos našlaičių pensiją, ši pensija skiriama ir mokama, nors šis asmuo turi teisę gauti socialinio draudimo netekto darbingumo (invalidumo) pensiją, socialinio draudimo senatvės pensiją, socialinio draudimo senatvės pensiją neįgaliajam, socialinio draudimo našlaičių pensiją, valstybinę našlaičių pensiją už mirusį kitą iš tėvų (įtėvių) ar vienišo asmens išmoką.
-Straipsnio dalies pakeitimai:
-Nr. XIV-353, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13154
-Nr. XIV-230, 2021-03-30, paskelbta TAR 2021-04-07, i. k. 2021-07272
-Nr. XIV-354, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13157
- 
-
-
-
-
-3. Šalpos našlaičių pensijos skiriamos ir mokamos nepaisant to, kad asmuo gauna šiame įstatyme nustatytas šalpos išmokas, išskyrus socialinę pensiją, paskirtą už tą mirusį maitintoją, už kurį asmuo turi teisę gauti ir šalpos našlaičių pensiją. 
-
-
-
-
-4. Šalpos našlaičių pensijos skiriamos ir mokamos nepaisant to, kad mirusysis arba įstatymų nustatyta tvarka paskelbtas mirusiu asmuo, kurio vaikai (įvaikiai) turi teisę gauti šalpos našlaičio pensiją, iki mirties ar paskelbimo mirusiu neatitiko šio įstatymo 1 straipsnio 3 dalyje nustatytų sąlygų.
+2. Šalpos našlaičių pensijos skiriamos ir mokamos neatsižvelgiant į tai, kad miręs (paskelbtas mirusiu) asmuo, kurio vaikai (įvaikiai) turi teisę gauti šalpos našlaičio pensiją, iki mirties ar paskelbimo mirusiu neatitiko šio įstatymo 1 straipsnio 3 dalyje nustatytų sąlygų.
  
 
 
@@ -615,7 +534,7 @@ Nr. XIV-354, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13157
 11 straipsnis. Šalpos našlaičių pensijų dydis
 
 
-Šalpos našlaičių pensija skiriama ir mokama 0,5 šalpos pensijų bazės dydžio kiekvienam vaikui. Kai ši pensija skiriama 4 ar daugiau mirusiojo vaikų (įvaikių), 1,5 šalpos pensijų bazės skiriama ir mokama visiems mirusiojo vaikams (įvaikiams) lygiomis dalimis.
+Šalpos našlaičių pensija skiriama ir mokama 0,5 šalpos pensijų bazės dydžio kiekvienam mirusio (paskelbto mirusiu) asmens vaikui (įvaikiui). Kai ši pensija skiriama keturiems ar daugiau mirusio (paskelbto mirusiu) asmens vaikų (įvaikių), 1,5 šalpos pensijų bazės skiriama ir mokama visiems mirusio (paskelbto mirusiu) asmens vaikams (įvaikiams) lygiomis dalimis.
  
 
 
@@ -630,18 +549,18 @@ IV SKYRIUS
  
 
 
-12 straipsnis. Asmenys, turintys teisę gauti šalpos kompensaciją 
+12 straipsnis. Asmenys, turintys teisę gauti šalpos kompensaciją
 
 
 Teisę gauti šalpos kompensaciją turi:
 
 
-1) tėvai (įtėviai), kurie iki 1995 m. sausio 1 d. ne mažiau kaip 8 metus slaugė namuose vaikus invalidus arba vaikus, pripažintus I ar II grupės invalidais nuo vaikystės arba tapusius I ar II grupės invalidais iki 18 metų; 
+1) tėvai (įtėviai), kurie iki 1994 m. gruodžio 31 d. ne trumpiau kaip 8 metus slaugė namuose vaikus (įvaikius) invalidus arba vaikus (įvaikius), pripažintus I ar II grupės invalidais nuo vaikystės arba tapusius I ar II grupės invalidais iki 18 metų;
 
 
 
 
-2) motinos, kurios iki 1995 m. sausio 1 d. pagimdė penkis ar daugiau vaikų ir išaugino juos iki 8 metų. 
+2) motinos, kurios iki 1994 m. gruodžio 31 d. pagimdė penkis ar daugiau vaikų ir išaugino (iki 1994 m. gruodžio 31 d. arba po šios datos) juos (vaikų mirties atveju – ne mažiau kaip iki 8 metų).
  
 
 
@@ -654,31 +573,25 @@ Teisę gauti šalpos kompensaciją turi:
 13 straipsnis. Šalpos kompensacijų skyrimo ir mokėjimo sąlygos
 
 
-1. Šalpos kompensacijos šio įstatymo 12 straipsnyje nurodytiems asmenims skiriamos ir mokamos, kai jie sukanka amžių, penkeriais metais mažesnį už senatvės pensijos amžių, arba pripažįstami netekusiais 60 procentų ir daugiau darbingumo. 
+1. Šalpos kompensacijos šio įstatymo 12 straipsnyje nurodytiems asmenims skiriamos ir mokamos, kai jie sukanka amžių, penkeriais metais mažesnį už senatvės pensijos amžių, arba yra pripažįstami netekusiais 60 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo).
 
 
 
 
- 2. Šalpos kompensacijos mokamos tol, kol jų gavėjai įgyja teisę gauti šio įstatymo 7 straipsnio 1 dalyje nurodytas pensijas ar pensijų išmokas, kurios (jeigu asmuo įgyja teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra didesnės arba tokio paties dydžio kaip šalpos kompensacija, išskyrus socialinio draudimo našlių pensiją ar vienišo asmens išmoką. Jeigu šalpos kompensacijos gavėjas neįgyja teisės gauti nė vienos iš šioje dalyje nurodytų pensijų ar pensijų išmokų, išskyrus socialinio draudimo našlių pensiją ar vienišo asmens išmoką, šalpos kompensacija jam mokama tol, kol jis yra pripažintas netekusiu 60 procentų ir daugiau darbingumo (sukakusiam senatvės pensijos amžių – iki gyvos galvos).
-Straipsnio dalies pakeitimai:
-Nr. XIV-353, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13154
-Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
+ 2. Šalpos kompensacijos mokamos tol, kol jų gavėjai įgyja teisę gauti šio įstatymo 7 straipsnio 1 dalyje nurodytas pensijas ar pensijų išmokas, kurios (jeigu asmuo įgyja teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra didesnės arba tokio paties dydžio kaip šalpos kompensacija, išskyrus socialinio draudimo našlių arba našlaičių pensiją, našlių arba našlaičių išmoką, paskirtą vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų ar Lietuvos Respublikos tarptautinių sutarčių nuostatomis dėl socialinio draudimo pensijų mokėjimo, užsienio valstybės mokamą našlių ar našlaičių išmoką, valstybinę našlaičių arba našlių pensiją ar vienišo asmens išmoką. Jeigu šalpos kompensacijos gavėjas neįgyja teisės gauti nė vienos iš pensijų ar pensijų išmokų, išskyrus šioje dalyje nurodytas, šalpos kompensacija jam mokama tol, kol jis yra pripažintas netekusiu 60 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), o sukakusiam senatvės pensijos amžių šalpos kompensacijos gavėjui – iki gyvos galvos.
+
+
+
+
+3. Už tą patį namuose slaugomą asmenį šalpos kompensacija skiriama ir mokama tik vienam iš tėvų (įtėvių). Jeigu asmuo namuose slaugo kelis asmenis, jam skiriama ir mokama tik viena šalpos kompensacija.
+
+
+
+
+4. Asmenims, kurie tuo pačiu metu turi teisę gauti kelias šalpos kompensacijas, jų pasirinkimu skiriama ir mokama viena šalpos kompensacija.
  
 
 
-
-
-3. Už tą patį namuose slaugomą asmenį šalpos kompensacija skiriama ir mokama tik vienam iš tėvų (įtėvių). Jeigu asmuo namuose slaugė kelis asmenis, skiriama ir mokama tik viena šalpos kompensacija.
-
-
-
-
-4. Asmenų, kurie tuo pačiu metu turi teisę gauti kelias šalpos kompensacijas, pasirinkimu skiriama ir mokama viena šalpos kompensacija. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
- 
 
 
 
@@ -701,7 +614,7 @@ V SKYRIUS
  
 
 
-15 straipsnis. Šalpos išmokų skyrimo ir mokėjimo tvarka 
+15 straipsnis. Šalpos išmokų skyrimo ir mokėjimo tvarka
 
 
 1. Šalpos išmokas skiria ir moka Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota (įgaliotos) Valstybinio socialinio draudimo fondo administravimo įstaiga (įstaigos) (toliau – šalpos išmokas mokanti įstaiga).
@@ -709,81 +622,57 @@ V SKYRIUS
 
 
 
-2. Kreipimosi dėl šalpos išmokų skyrimo ir mokėjimo, šalpos išmokų skyrimo ir mokėjimo tvarką, taip pat šalpos išmokų skyrimo ir mokėjimo tvarką asmenims, kuriems taikomi Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentai, nustato socialinės apsaugos ir darbo ministras.
+2. Kreipimosi dėl šalpos išmokų skyrimo ir mokėjimo, jų skyrimo ir mokėjimo tvarką, taip pat šalpos išmokų skyrimo ir mokėjimo tvarką asmenims, kuriems taikomi Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentai, nustato socialinės apsaugos ir darbo ministras.
 
 
 
 
-3. Šalpos išmokos skiriamos arba jų mokėjimas atnaujinamas (pratęsiamas) asmenų, turinčių teisę gauti šias išmokas, arba jų įgaliotų asmenų, arba globėjų, jeigu šie asmenys pripažinti neveiksniais atitinkamoje srityje, arba jų sutuoktinių ar artimųjų giminaičių (kaip ši sąvoka apibrėžta Lietuvos Respublikos civiliniame kodekse), arba neįgaliųjų aprūpintojų (kaip ši sąvoka apibrėžta Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme), arba socialinių paslaugų įstaigos darbuotojų prašymu. Šalpos išmokos asmenims iki 18 metų skiriamos arba jų mokėjimas atnaujinamas (pratęsiamas) jų tėvų (įtėvių) arba globėjų ar rūpintojų, arba artimųjų giminaičių (kaip ši sąvoka apibrėžta Civiliniame kodekse), arba socialinių paslaugų įstaigos darbuotojų prašymu. Paskirtos šalpos išmokos mokamos asmenims, turintiems teisę gauti šias išmokas, arba jų atstovams, arba neįgaliųjų aprūpintojams.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1365, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15460
- 
+3. Šalpos išmokos skiriamos arba jų mokėjimas atnaujinamas (pratęsiamas) asmenų, turinčių teisę gauti šias išmokas, jų įgaliotų asmenų, globėjų, jeigu šie asmenys pripažinti neveiksniais tam tikroje srityje, jų sutuoktinių, artimųjų giminaičių, aprūpintojų arba socialinių paslaugų įstaigos darbuotojų prašymu. Šalpos išmokos asmenims iki 18 metų skiriamos arba jų mokėjimas atnaujinamas (pratęsiamas) jų tėvų (įtėvių), globėjų, rūpintojų, artimųjų giminaičių arba socialinių paslaugų įstaigos darbuotojų prašymu. Paskirtos šalpos išmokos mokamos asmenims, turintiems teisę gauti šias išmokas, jų atstovams arba aprūpintojams.
 
 
 
 
-4. Šalpos išmokas mokanti įstaiga per 10 darbo dienų nuo prašymo skirti šalpos išmoką ar atnaujinti (pratęsti) jos mokėjimą kartu su visais reikiamais dokumentais arba papildomų dokumentų, išskyrus šio straipsnio 51 dalyje nustatytus atvejus, gavimo šalpos išmokas mokančioje įstaigoje dienos privalo priimti sprendimą dėl šalpos išmokos skyrimo ar mokėjimo atnaujinimo (pratęsimo) ir apie tai raštu pranešti pareiškėjui.
-Straipsnio dalies pakeitimai:
-Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
-Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
- 
+4. Šalpos išmokas mokanti įstaiga per 10 darbo dienų nuo prašymo skirti šalpos išmoką ar atnaujinti (pratęsti) jos mokėjimą kartu su visais reikiamais dokumentais arba papildomų dokumentų, išskyrus šio straipsnio 6 dalyje nustatytus atvejus, gavimo šalpos išmokas mokančioje įstaigoje dienos privalo priimti sprendimą dėl šalpos išmokos skyrimo ar mokėjimo atnaujinimo (pratęsimo) ir apie tai raštu pranešti pareiškėjui.
 
 
 
 
-5. Asmenims, kuriems paskirtos šalpos išmokos, išduodami pažymėjimai, kurių formas ir išdavimo tvarką nustato Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktorius.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1734, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20996
-Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
- 
+5. Šalpos išmokų gavėjams, kuriems šalpos išmokos mokėjimo metu nepaskirtos pagal Socialinio draudimo pensijų įstatymą skiriamos ir mokamos socialinio draudimo pensijos, išduodami pažymėjimai, kurių formas ir išdavimo tvarką nustato Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktorius.
 
 
 
 
-51. Šalpos išmokas mokanti įstaiga, gavusi prašymą skirti šalpos išmoką ar atnaujinti (pratęsti) jos mokėjimą ir nustačiusi, kad iš kompetentingų užsienio valstybių institucijų negalima gauti informacijos ir (ar) duomenų apie užsienio valstybių pensijas ar pensijų išmokas, kurias pareiškėjas gauna arba turi teisę gauti, nes Lietuvos Respublika ar užsienio valstybė nėra prisijungusi prie tarptautinės konvencijos, kito tarptautinio teisės akto, su užsienio valstybe nėra sudariusi tarptautinės sutarties ar tarptautinio tarpžinybinio susitarimo, pagal kuriuos tokią informaciją ir (ar) duomenis galėtų gauti, taip pat iš Lietuvos Respublikos užsienio reikalų ministerijos gavusi informaciją, kad šioje dalyje nurodytos informacijos ir (ar) duomenų negalima gauti diplomatiniais kanalais, arba tais atvejais, kai Lietuvos Respublika ar užsienio valstybė yra prisijungusi prie tarptautinės konvencijos, kito tarptautinio teisės akto ar su užsienio valstybe yra sudaryta tarptautinė sutartis ar tarptautinis tarpžinybinis susitarimas, tačiau, Užsienio reikalų ministerijos pateiktais duomenimis, šią užsienio valstybę ištiko humanitarinė krizė, kaip ji apibrėžta Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme (toliau – humanitarinė krizė), ir duomenų apie asmeniui užsienio valstybės paskirtos pensijos dydį negalima gauti diplomatiniais kanalais, per 10 darbo dienų nuo tokios informacijos ir kitų šalpos išmokai skirti ar jos mokėjimui atnaujinti (pratęsti) reikalingų dokumentų gavimo dienos priima sprendimą dėl šalpos išmokos skyrimo ar mokėjimo atnaujinimo (pratęsimo), nereikalaudama pateikti informacijos ir (ar) duomenų apie užsienio valstybių pensijas ar pensijų išmokas, kurias pareiškėjas gauna arba turi teisę gauti, ir apie priimtą sprendimą raštu informuoja pareiškėją.
-Papildyta straipsnio dalimi:
-Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
-Straipsnio dalies pakeitimai:
-Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
- 
+6. Šalpos išmokas mokanti įstaiga, gavusi prašymą skirti šalpos išmoką ar atnaujinti (pratęsti) jos mokėjimą ir nustačiusi, kad iš kompetentingų užsienio valstybių institucijų negalima gauti informacijos ir (ar) duomenų apie užsienio valstybių pensijas ar pensijų išmokas, kurias pareiškėjas gauna arba turi teisę gauti, nes Lietuvos Respublika ar užsienio valstybė nėra prisijungusi prie tarptautinės konvencijos, kito tarptautinio teisės akto, su užsienio valstybe nėra sudariusi tarptautinės sutarties ar tarptautinio tarpžinybinio susitarimo, pagal kuriuos tokią informaciją ir (ar) duomenis galėtų gauti, taip pat iš Lietuvos Respublikos užsienio reikalų ministerijos gavusi informaciją, kad šioje dalyje nurodytos informacijos ir (ar) duomenų negalima gauti diplomatiniais kanalais, arba tais atvejais, kai Lietuvos Respublika ar užsienio valstybė yra prisijungusi prie tarptautinės konvencijos, kito tarptautinio teisės akto ar su užsienio valstybe yra sudaryta tarptautinė sutartis ar tarptautinis tarpžinybinis susitarimas, tačiau, Užsienio reikalų ministerijos pateiktais duomenimis, šią užsienio valstybę ištiko humanitarinė krizė, kaip ji apibrėžiama Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme, (toliau – humanitarinė krizė) ir duomenų apie asmeniui užsienio valstybės paskirtos pensijos dydį negalima gauti diplomatiniais kanalais, per 10 darbo dienų nuo tokios informacijos ir kitų šalpos išmokai skirti ar jos mokėjimui atnaujinti (pratęsti) reikalingų dokumentų gavimo dienos priima sprendimą dėl šalpos išmokos skyrimo ar mokėjimo atnaujinimo (pratęsimo), nereikalaudama pateikti informacijos ir (ar) duomenų apie užsienio valstybių pensijas ar pensijų išmokas, kurias pareiškėjas gauna arba turi teisę gauti, ir apie priimtą sprendimą raštu informuoja pareiškėją.
 
 
 
 
-6. Asmenims, tuo pačiu metu turintiems teisę gauti šalpos neįgalumo pensiją ir šalpos senatvės pensiją arba šalpos neįgalumo ar šalpos senatvės pensiją ir šalpos kompensaciją, mokama didesnio dydžio šalpos išmoka arba asmenų, nurodytų šio straipsnio 3 dalyje, prašymu – tik viena iš šių šalpos išmokų. Kai šio įstatymo 5 straipsnio 3 ir 4 punktuose nurodyti asmenys, kuriems skiriamos ir mokamos šalpos neįgalumo pensijos, sukanka senatvės pensijos amžių, be atskiro jų prašymo jiems skiriama ir mokama atitinkamai šio įstatymo 8 straipsnio 5 dalies 1 ir 2 punktuose nurodyto dydžio šalpos senatvės pensija.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
-Nr. XIV-230, 2021-03-30, paskelbta TAR 2021-04-07, i. k. 2021-07272
-Nr. XIV-1365, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15460
- 
+7. Asmenims, tuo pačiu metu turintiems teisę gauti kelias šalpos išmokas, mokama didesnio dydžio šalpos išmoka arba asmenų, nurodytų šio straipsnio 3 dalyje, prašymu – tik viena iš šių šalpos išmokų, išskyrus toliau šioje dalyje ir šio įstatymo 9 straipsnio 2 dalyje nustatytus atvejus. Kartu su asmeniui priklausančia šalpos negalios pensija, šalpos senatvės pensija arba šalpos kompensacija gali būti mokama šalpos našlaičių pensija. Kai šalpos išmokos gavėjas kreipiasi dėl vienos iš šalpos išmokų, kurią jis turi teisę gauti, mokėjimo sustabdymo arba atnaujinimo, šios šalpos išmokos mokėjimas atitinkamai sustabdomas arba atnaujinamas nuo kito mėnesio pirmos dienos po to, kai asmuo pateikė prašymą atitinkamai sustabdyti arba atnaujinti šios šalpos išmokos mokėjimą, arba nuo ankstesnio asmens prašyme nurodyto mėnesio pirmos dienos, jeigu ši šalpos išmoka už tą mėnesį dar neišmokėta.
 
 
 
 
-7. Šalpos neįgalumo pensijos šio įstatymo 5 straipsnio 4 punkte nurodytiems asmenims, šalpos senatvės pensijos šio įstatymo 8 straipsnio 5 dalies 2 punkte nurodytiems asmenims ir šalpos kompensacijos šio įstatymo 12 straipsnio 2 punkte nurodytiems asmenims skiriamos ir mokamos tik tuo atveju, jeigu jų vaikams nebuvo nustatyta nuolatinė globa ar rūpyba. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
- 
+8. Šalpos negalios pensijos šio įstatymo 5 straipsnio 5 punkte nurodytiems asmenims, šalpos senatvės pensijos šio įstatymo 6 straipsnio 2 punkte nurodytiems asmenims ir šalpos kompensacijos šio įstatymo 12 straipsnio 2 punkte nurodytiems asmenims skiriamos ir mokamos tik tuo atveju, jeigu jų vaikams (įvaikiams) iki 18 metų nebuvo nustatyta nuolatinė globa ar rūpyba.
 
 
 
 
-8. Asmenims, teismo nuosprendžiu pripažintiems kaltais už tyčinį asmens, už kurį ši pensija skiriama ir mokama, gyvybės atėmimą, šalpos našlaičių pensija neskiriama, o paskirtosios mokėjimas nutraukiamas nuo kito mėnesio pirmos dienos po to, kai įsiteisėjo teismo nuosprendis.
+9. Asmenims, teismo nuosprendžiu pripažintiems kaltais už tyčinį asmens, už kurį šalpos našlaičių pensija skiriama ir mokama, gyvybės atėmimą, šalpos našlaičių pensija neskiriama, o paskirtosios mokėjimas nutraukiamas nuo kito mėnesio pirmos dienos po to, kai įsiteisėja teismo nuosprendis.
 
 
 
 
-9. Asmenims iki 18 metų, gyvenantiems švietimo įstaigoje, o likusiems be tėvų globos vaikams ir (ar) vaikams, patiriantiems socialinę riziką, – ir socialinės globos įstaigoje, šalpos išmokos neskiriamos, o paskirtųjų mokėjimas sustabdomas nuo kitos dienos po to, kai jie buvo apgyvendinti šiose įstaigose.
+10. Asmenims iki 18 metų, gyvenantiems švietimo įstaigoje, o likusiems be tėvų globos vaikams ir (ar) vaikams, patiriantiems socialinę riziką, – ir socialinės globos įstaigoje, šalpos išmokos neskiriamos, o paskirtųjų mokėjimas sustabdomas nuo kito mėnesio pirmos dienos po to, kai jie buvo apgyvendinti šiose įstaigose.
 
 
 
 
-10. Kai šio straipsnio 9 dalyje nurodyti asmenys laikinai ar visam laikui išvyksta iš socialinės globos ar švietimo įstaigos, šalpos išmokos skiriamos, o paskirtųjų mokėjimas atnaujinamas nuo kitos dienos po to, kai jie išvyko iš šių įstaigų. Jeigu šie asmenys vėl grįžta į šioje dalyje nurodytas įstaigas, šalpos išmokų mokėjimas sustabdomas nuo kitos dienos po to, kai jie vėl buvo apgyvendinti šiose įstaigose. 
+11. Kai šio straipsnio 10 dalyje nurodyti asmenys laikinai ar visam laikui išvyksta iš socialinės globos ar švietimo įstaigos, šalpos išmokos jiems skiriamos, o paskirtų šalpos išmokų mokėjimas atnaujinamas nuo kitos dienos po to, kai jie išvyko iš šių įstaigų. Jeigu šie asmenys vėl grįžta į šioje dalyje nurodytas įstaigas, šalpos išmokų mokėjimas sustabdomas nuo kito mėnesio pirmos dienos po to, kai jie vėl buvo apgyvendinti šiose įstaigose.
 
 
 
 
-11. Šalpos išmokos neskiriamos, o paskirtųjų mokėjimas sustabdomas asmenims:
+12. Šalpos išmokos neskiriamos, o paskirtų šalpos išmokų mokėjimas sustabdomas asmenims:
 
 
 1) kuriems paskirta kardomoji priemonė – suėmimas;
@@ -791,55 +680,52 @@ Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
 
 
 
-2) atliekantiems laisvės atėmimo bausmes uždaro ir pusiau atviro tipo bausmės atlikimo vietose;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1225, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15591
+2) kurie atlieka laisvės atėmimo bausmes uždaro ir pusiau atviro tipo bausmės atlikimo vietose;
+
+
+
+
+3) kuriems paskirtos Lietuvos Respublikos baudžiamajame kodekse nustatytos priverčiamosios medicinos priemonės stacionarinio stebėjimo bendro, sustiprinto ar griežto stebėjimo sąlygomis specializuotose psichikos sveikatos priežiūros įstaigose ar auklėjamojo poveikio priemonė – atidavimas į specialią auklėjimo įstaigą.
+
+
+
+
+
+
+13. Šio straipsnio 12 dalyje nurodytiems asmenims paskirtų šalpos išmokų mokėjimas sustabdomas nuo kito mėnesio pirmos dienos po to, kai jie buvo suimti, nuteisti, pradėti priverstinai gydyti ar auklėti. Paskirtos šalpos išmokos mokėjimas šio straipsnio 20 dalyje nustatyta tvarka atnaujinamas gavus asmens prašymą atnaujinti šalpos išmokos mokėjimą nuo kitos dienos po to, kai išnyko šio straipsnio 12 dalyje nurodytos šalpos išmokų mokėjimo sustabdymo aplinkybės.
+
+
+
+
+14. Lietuvos Respublikos gyventojų registre panaikinus asmens, kuriam paskirta šalpos išmoka, gyvenamosios vietos deklaravimo Lietuvos Respublikoje duomenis, išskyrus šio straipsnio 18 dalyje nustatytą atvejį, arba jį išbraukus iš gyvenamosios vietos nedeklaravusių asmenų apskaitos, atitinkamos šalpos išmokos mokėjimas sustabdomas nuo kito mėnesio pirmos dienos po to, kai atsirado ši aplinkybė. Kai asmuo Gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka vėl deklaruoja gyvenamąją vietą Lietuvos Respublikoje arba yra įtraukiamas į gyvenamosios vietos nedeklaravusių asmenų apskaitą, šalpos išmokos mokėjimas atnaujinamas nuo jos mokėjimo sustabdymo dienos, jeigu jo teisė gauti šią išmoką yra išlikusi.
+
+
+
+
+15. Asmeniui, kuriam paskirta šalpos išmoka, įgijus teisę gauti pensiją ar pensijų išmoką (šalpos našlaičių pensijos gavėjui – šio įstatymo 10 straipsnio 1 dalyje nurodytą pensiją ar pensijų išmoką), kuri (jeigu asmuo įgijo teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra didesnė arba tokio paties dydžio kaip šalpos išmoka, išskyrus šio įstatymo 7 straipsnio 2 dalyje nustatytą atvejį, šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio, einančio po mėnesio, kurį jam paskirta pensija ar pensijų išmoka (šalpos našlaičių pensijos gavėjui – šio įstatymo 10 straipsnio 1 dalyje nurodyta išmoka), kuri (jeigu asmeniui paskirta daugiau negu viena pensija ar pensijų išmoka – bendra jų suma) yra didesnė arba tokio paties dydžio kaip šalpos išmoka, pirmos dienos, išskyrus šio straipsnio 19 dalies 1 punkte nustatytą atvejį, kai šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio, einančio po mėnesio, kurį gauta informacija ir (ar) duomenys apie užsienio valstybių pensijas ir pensijų išmokas. Asmeniui, gaunančiam pensiją ar pensijų išmoką (šalpos našlaičių pensijos gavėjui – šio įstatymo 10 straipsnio 1 dalyje nurodytą išmoką), kuri (jeigu asmuo gauna daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra mažesnė už šalpos negalios, šalpos senatvės pensiją, šalpos našlaičių pensiją ar šalpos kompensaciją arba bendrą jų sumą, jeigu asmuo gauna daugiau negu vieną iš šių šalpos išmokų, šios šalpos išmokos skiriamos ir mokamos nuo tos dienos, nuo kurios buvo nutrauktas pensijos ar pensijų išmokos mokėjimas, išskyrus šio straipsnio 16 dalyje nustatytą atvejį.
+
+
+
+
+16. Asmenims, nurodytiems šio įstatymo 5 straipsnio 6 punkte ir 6 straipsnyje, turintiems teisę į pensiją ar pensijų išmoką, išskyrus asmenis, turinčius teisę į socialinio draudimo našlių pensiją ar vienišo asmens išmoką, kuri (jeigu asmuo turi teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) kartu su pensijos priemoka yra mažesnė už šalpos pensiją, mokamas šalpos pensijos ir pensijos ar pensijų išmokos (jeigu asmuo turi teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendros jų sumos) kartu su pensijos priemoka skirtumas.
+
+
+
+
+17. Neteko galios nuo 2024-09-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2949, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13615
  
 
 
 
 
-3) kuriems paskirtos Lietuvos Respublikos baudžiamajame kodekse nustatytos priverčiamosios medicinos priemonės stacionarinio stebėjimo bendro, sustiprinto ar griežto stebėjimo sąlygomis specializuotose psichikos sveikatos priežiūros įstaigose ar auklėjamojo poveikio priemonė – atidavimas į specialią auklėjimo įstaigą. 
+18. Asmeniui, kuriam paskirta šalpos išmoka, Gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka deklaravus išvykimą iš Lietuvos Respublikos, paskirtos šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio pirmos dienos po to, kai atsirado ši aplinkybė, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar Europos Sąjungos teisės aktuose nenustatyta kitaip.
 
 
 
 
-
-
-12. Šio straipsnio 11 dalyje nurodytiems asmenims paskirtų šalpos išmokų mokėjimas sustabdomas nuo kito mėnesio pirmos dienos po to, kai jie buvo suimti, nuteisti, pradėti priverstinai gydyti ar auklėti. Paskirtos šalpos išmokos mokėjimas atnaujinamas išnykus šio straipsnio 11 dalyje nurodytoms aplinkybėms ir pateikus prašymą atnaujinti šalpos išmokos mokėjimą. 
-
-
-
-
-13. Asmeniui, kuriam paskirta šalpos išmoka, įgijus teisę gauti pensiją ar pensijų išmoką, kuri (jeigu asmuo įgijo teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra didesnė arba tokio paties dydžio kaip šalpos išmoka, išskyrus šio įstatymo 7 straipsnio 1 dalies 1 ir 2 punktuose, 10 straipsnio 2 dalyje nustatytus atvejus, šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio, einančio po mėnesio, kurį jam paskirta pensija ar pensijų išmoka, kuri (jeigu asmeniui paskirta daugiau negu viena pensija ar pensijų išmoka – bendra jų suma) yra didesnė arba tokio paties dydžio kaip šalpos išmoka, pirmos dienos, išskyrus šio straipsnio 151  dalies 1 punkte nustatytą atvejį, kai šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio, einančio po mėnesio, kurį gauta informacija ir (ar) duomenys apie užsienio valstybių pensijas ir pensijų išmokas. Asmeniui, gaunančiam pensiją  ar pensijų išmoką, kuri (jeigu asmuo gauna daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra mažesnė už šalpos neįgalumo, šalpos senatvės pensiją, šalpos našlaičių pensiją ar šalpos kompensaciją arba bendrą jų sumą, jeigu asmuo gauna daugiau negu vieną iš šių šalpos išmokų, šios šalpos išmokos skiriamos ir mokamos nuo tos dienos, nuo kurios nutrauktas pensijos ar pensijų išmokos mokėjimas, išskyrus šio straipsnio 131 dalyje ir šio įstatymo 10 straipsnio 2 dalyje nustatytus atvejus.
-Straipsnio dalies pakeitimai:
-Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
-Nr. XIV-230, 2021-03-30, paskelbta TAR 2021-04-07, i. k. 2021-07272
-Nr. XIV-480, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15859
- 
-
-
-
-
-131. Asmenims, nurodytiems šio įstatymo 5 straipsnio 5 punkte ir 6 straipsnyje, turintiems teisę į pensiją ar pensijų išmoką, išskyrus asmenis, turinčius teisę į socialinio draudimo našlių pensiją ar vienišo asmens išmoką, kuri (jeigu asmuo turi teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) kartu su pensijos priemoka yra mažesnė už šalpos pensiją, mokamas šalpos pensijos ir pensijos ar pensijų išmokos (jeigu asmuo turi teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendros jų sumos) kartu su pensijos priemoka skirtumas. 
-Papildyta straipsnio dalimi:
-Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
- 
-
-
-
-
-14. Kai šio įstatymo 5 straipsnio 5 punkte arba 6 straipsnyje nurodytas asmuo tampa asmeniu, kuris privalomai draudžiamas valstybiniu pensijų socialiniu draudimu pagal Valstybinio socialinio draudimo įstatymą (išskyrus asmenis, nurodytus Valstybinio socialinio draudimo įstatymo 6 straipsnyje), jam paskirtos šalpos neįgalumo arba šalpos senatvės pensijos mokėjimas sustabdomas nuo kito mėnesio, einančio po to mėnesio, kurį ši aplinkybė atsirado, pirmos dienos. Šalpos neįgalumo arba šalpos senatvės pensijos mokėjimas, gavus šio straipsnio 3 dalyje nurodyto asmens prašymą, atnaujinamas nuo dienos, kurią šioje dalyje nurodytos aplinkybės išnyksta, jeigu asmuo turi teisę gauti šias išmokas.
-
-
-
-
-15. Asmeniui, kuriam paskirta šalpos išmoka, Gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka deklaravus išvykimą iš Lietuvos Respublikos, paskirtos šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio pirmos dienos po to, kai atsirado ši aplinkybė, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar Europos Sąjungos teisės aktuose nenustatyta kitaip. 
-
-
-
-
-151. Šalpos išmokas mokanti įstaiga iš kompetentingų užsienio valstybių institucijų ir (ar) Užsienio reikalų ministerijos gavusi informaciją ir (ar) duomenis apie užsienio valstybių pensijas ir pensijų išmokas, turinčias įtakos šalpos išmokos, paskirtos ir mokamos vadovaujantis šio straipsnio 51 dalimi, mokėjimui, nuo kito mėnesio, einančio po mėnesio, kurį nurodyta informacija ir (ar) duomenys buvo gauti, pirmos dienos:
+19. Šalpos išmokas mokanti įstaiga iš kompetentingų užsienio valstybių institucijų ir (ar) Užsienio reikalų ministerijos gavusi informaciją ir (ar) duomenis apie užsienio valstybių pensijas ir pensijų išmokas, turinčias įtakos šalpos išmokos, paskirtos ir mokamos vadovaujantis šio straipsnio 6 dalimi, mokėjimui, nuo kito mėnesio, einančio po mėnesio, kurį nurodyta informacija ir (ar) duomenys buvo gauti, pirmos dienos:
 
 
 1) nutraukia šalpos išmokos mokėjimą, išskyrus šios dalies 2 punkte nustatytą atvejį;
@@ -847,87 +733,44 @@ Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
 
 
 
-2) šio straipsnio 131 dalyje nustatytu atveju priima sprendimą skirti ir mokėti šalpos neįgalumo pensijos arba šalpos senatvės pensijos ir užsienio valstybės pensijos ar pensijų išmokos (jeigu asmuo turi teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendros jų sumos) skirtumą.
-
-
-Papildyta straipsnio dalimi:
-Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
- 
-
-
-
-
-16. Pasibaigus šalpos išmokos skyrimo laikotarpiui, šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio pirmos dienos po to, kai pasibaigė šalpos išmokos skyrimo laikotarpis. Jeigu asmens teisė gauti šalpos išmoką išlieka, bet prašymą pratęsti šios išmokos mokėjimą asmuo pateikia po to, kai šalpos išmokos mokėjimas jau nutrauktas, šalpos išmokos mokėjimas atnaujinamas ir šalpos išmoka išmokama už praėjusį laikotarpį, bet ne daugiau kaip už 12 mėnesių nuo tos dienos, kai buvo pateikti prašymas pratęsti šalpos išmokos mokėjimą ir reikiami dokumentai.
-
-
-
-
-17. Asmuo, kuriam mokama šalpos išmoka, privalo pranešti šalpos išmokas mokančiai įstaigai apie aplinkybes, nurodytas šio straipsnio 8–15 dalyse, per 10 dienų nuo šių aplinkybių atsiradimo dienos. Šalpos išmokas mokanti įstaiga, informuodama asmenį, kuriam paskirta šalpos išmoka, apie priimtą sprendimą paskirti šalpos išmoką, kartu privalo informuoti apie šio straipsnio 8–15 dalyse nurodytas aplinkybes, turinčias įtakos mokant paskirtą šalpos išmoką. 
-
-
-
-
-18. Dėl asmens, kuriam mokama šalpos išmoka, kaltės permokėta šalpos išmokos suma grąžinama šalpos išmokas mokančios įstaigos nustatyta tvarka. Permokėta, tačiau negrąžinta šalpos išmokos suma išskaičiuojama iš asmeniui, kuriam paskirta šalpos išmoka, priklausančios šalpos išmokos. Išskaičiuojamos sumos dydis per mėnesį negali viršyti 20 procentų asmeniui priklausančios šalpos išmokos. Jeigu yra rašytinis asmens, kuriam mokama šalpos išmoka, prašymas ar sutikimas, gali būti išskaičiuojama daugiau kaip 20 procentų, tačiau ne daugiau kaip 50 procentų mokėtinos šalpos išmokos sumos per mėnesį. Jeigu šalpos išmokos mokėjimas nutraukiamas, o visa permokėta šalpos išmokos suma neišskaičiuota, likusi skola šalpos išmokas mokančios įstaigos nustatyta tvarka išskaičiuojama iš bet kurios kitos šalpos išmokas mokančios įstaigos mokamos išmokos. Jeigu asmuo negauna kitų išmokų, likusi skola išieškoma teismo tvarka. Jeigu šalpos išmoka permokama dėl šalpos išmokas mokančios įstaigos kaltės, nereikalaujama, kad asmuo, kuriam paskirta šalpos išmoka, permokėtą sumą grąžintų, ir permokėta suma iš jo neišskaičiuojama.
-
-
-
-
-19. Mirus šalpos išmokos gavėjui, jį laidojusiam asmeniui, kuris pirmas kreipiasi, išmokama mirusio šalpos išmokos gavėjo negauta praėjusio mėnesio šalpos išmoka, šalpos išmoka už tą mėnesį, kurį šalpos išmokos gavėjas mirė, ir dar viena viso šalpos išmokos dydžio suma. Kitos šalpos išmokos gavėjui priklausančios apskaičiuotos šalpos išmokos sumos, kurios jam nebuvo išmokėtos dėl mirties, išmokamos mirusiojo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio asmens turtas, pateikusiems paveldėjimo teisės liudijimą, ir (ar) mirusįjį pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
-Nr. XIII-1349, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11451
- 
-
-
-
-
-16 straipsnis. Šalpos išmokų skyrimo ir mokėjimo terminai
-
-
-1. Šalpos išmokos skiriamos ir mokamos nuo teisės gauti šalpos išmoką atsiradimo dienos, tačiau ne daugiau kaip už 6 mėnesius iki prašymo skirti šalpos išmoką gavimo šalpos išmokas mokančioje įstaigoje dienos. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
- 
-
-
-
-
-2. Šalpos išmoka skiriama laikotarpiui, kurį šalpos išmokos gavėjas turi teisę gauti šią išmoką. Šalpos išmokas mokanti įstaiga privalo prieš mėnesį pranešti šalpos išmokos gavėjui apie šalpos išmokos skyrimo termino pabaigą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
- 
-
-
-
-
-3. Teisė gauti šalpos neįgalumo pensiją ar šalpos našlaičių pensiją išlieka, kai asmuo, pripažintas netekusiu 45 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. – invalidu), senatvės pensijos amžių sukanka šalpos neįgalumo pensijos ar šalpos našlaičių pensijos gavimo laikotarpiu. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
- 
-
-
-
-
-4. Kai šalpos neįgalumo pensijos gavėjui nustatomas kitoks neįgalumo ar darbingumo lygis ir dėl to keičiasi jam priklausančios šalpos neįgalumo pensijos dydis, naujo dydžio šalpos pensija pradedama mokėti:
-
-
-1) kai nustatomas sunkesnis neįgalumo lygis arba mažesnis darbingumo lygis, – nuo neįgalumo lygio ar darbingumo lygio pakeitimo dienos;
-
-
-
-
-2) kai nustatomas lengvesnis neįgalumo lygis arba didesnis darbingumo lygis, – nuo kito mėnesio pirmos dienos po to, kai buvo nustatytas lengvesnis neįgalumo lygis ar didesnis darbingumo lygis.
+2) šio straipsnio 16 dalyje nustatytais atvejais priima sprendimą skirti ir mokėti atitinkamos šalpos išmokos ir užsienio valstybės pensijos ar pensijų išmokos (jeigu asmuo turi teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendros jų sumos) skirtumą.
 
 
 
 
 
 
-5. Šalpos išmoka neįgaliojo aprūpintojui mokama jo prašymu, kol galioja Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos direktoriaus ar jo įgalioto asmens sprendimas dėl neįgaliojo aprūpintojo skyrimo.
-Papildyta straipsnio dalimi:
-Nr. XIV-1365, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15460
+20. Pasibaigus šalpos išmokos skyrimo laikotarpiui, šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio pirmos dienos po to, kai pasibaigė šalpos išmokos skyrimo laikotarpis. Jeigu asmens teisė gauti šalpos išmoką išlieka, bet prašymą pratęsti šios išmokos mokėjimą asmuo pateikia po to, kai šalpos išmokos mokėjimas jau nutrauktas, šalpos išmokos mokėjimas atnaujinamas ir šalpos išmoka išmokama už praėjusį laikotarpį, bet ne daugiau kaip už 3 metus nuo tos dienos, kai buvo pateiktas prašymas pratęsti šalpos išmokos mokėjimą ir gauti visi šalpos išmokai pratęsti reikalingi dokumentai.
+
+
+
+
+21. Asmuo, kuriam mokama šalpos išmoka, privalo pranešti šalpos išmokas mokančiai įstaigai apie aplinkybes, nurodytas šio straipsnio 9–18 dalyse, per 10 darbo dienų nuo šių aplinkybių atsiradimo dienos. Šalpos išmokas mokanti įstaiga, informuodama asmenį, kuriam paskirta šalpos išmoka, apie priimtą sprendimą paskirti šalpos išmoką, kartu privalo informuoti apie šio straipsnio 9–18 dalyse nurodytas aplinkybes, turinčias įtakos mokant paskirtą šalpos išmoką.
+
+
+
+
+22. Dėl asmens, kuriam mokama šalpos išmoka, kaltės permokėta šalpos išmokos suma išskaičiuojama Valstybinio socialinio draudimo įstatymo 21 straipsnyje nustatyta tvarka. Jeigu šalpos išmoka permokama dėl šalpos išmokas mokančios įstaigos kaltės, permokėta suma iš šio asmens neišskaičiuojama.
+
+
+
+
+23. Nepasibaigus šalpos išmokos skyrimo terminui, jos mokėjimas stabdomas, jeigu įsiteisėjusiu teismo sprendimu šalpos išmokos gavėjas pripažintas nežinia kur esančiu arba gaunami duomenys apie aplinkybes, sudarančias pagrindą nuspręsti, kad šalpos išmokos gavėjas prarado teisę ją gauti. Šalpos išmokos mokėjimas sustabdomas nuo mėnesio, einančio po to mėnesio, kurį atsirado šioje dalyje nurodytos aplinkybės, pirmos dienos. Išnykus šioje dalyje nurodytoms aplinkybėms, šalpos išmokos mokėjimas atnaujinamas nuo jos mokėjimo sustabdymo dienos, jeigu šalpos išmokos gavėjui teisė gauti šalpos išmoką buvo išlikusi.
+
+
+
+
+24. Mirus šalpos išmokos gavėjui, jį laidojusiam asmeniui išmokama mirusio šalpos išmokos gavėjo negauta praėjusio mėnesio šalpos išmoka, šalpos išmoka už tą mėnesį, kurį šalpos išmokos gavėjas mirė, ir dar viena viso šalpos išmokos dydžio suma. Kitos šalpos išmokos gavėjui priklausančios apskaičiuotos šalpos išmokos sumos, kurios jam nebuvo išmokėtos dėl mirties, išmokamos mirusiojo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio asmens turtas, pateikusiems paveldėjimo teisės liudijimą, ir (ar) mirusįjį pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą. Jeigu paaiškėja, kad šalpos išmokos gavėjas, kuriam šalpos išmokos mokėjimas buvo sustabdytas šio straipsnio 23 dalyje nustatyta tvarka, yra miręs (paskelbtas mirusiu), jo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio (paskelbto mirusiu) asmens turtas, pateikusiems paveldėjimo teisės liudijimą, ir (arba) mirusį (paskelbtą mirusiu) šalpos išmokos gavėją pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą, išmokama mirusiam (paskelbtam mirusiu) šalpos išmokos gavėjui priklausiusi šalpos išmoka nuo jos mokėjimo sustabdymo dienos, bet ne daugiau kaip už 3 metus nuo šalpos išmokos gavėjo mirties (paskelbimo mirusiu).
+
+
+
+
+25. Skiriant šalpos negalios pensiją šio įstatymo 5 straipsnio 4 punkte nurodytiems asmenims, šalpos senatvės pensiją šio įstatymo 6 straipsnio 1 punkte nurodytiems asmenims arba šalpos kompensaciją šio įstatymo 12 straipsnio 1 punkte nurodytiems asmenims, slaugomais namuose taip pat laikomi asmenys su negalia, gydomi stacionarinėse asmens sveikatos priežiūros įstaigose (išskyrus asmenis, kuriems ne ilgiau kaip 120 dienų per kalendorinius metus palaikomojo gydymo ir slaugos ligoninėje teikiamos slaugos, palaikomojo gydymo, socialinės paslaugos bei patarnavimai, už kuriuos mokama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų) ar gaunantys socialines paslaugas nestacionariose socialinės globos įstaigose.
+
+
+
+
+26. Šalpos išmokos neskiriamos ir nemokamos asmenims, kurie perkėlė savo Lietuvos Respublikos valstybinio socialinio draudimo fonde įgytas pensines teises, suteikiančias teisę gauti socialinio draudimo pensiją, į Europos Sąjungos institucijų pensijų sistemą pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą.
  
 
 
@@ -935,18 +778,38 @@ Nr. XIV-1365, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15460
 
 
 
-17 straipsnis. Neteko galios nuo 2019-01-01
-Straipsnio naikinimas:
-Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
+16 straipsnis. Kreipimosi dėl šalpos išmokų skyrimo, šalpos išmokų skyrimo ir mokėjimo terminai
+
+
+1. Dėl šalpos išmokos skyrimo asmuo turi teisę kreiptis ne anksčiau kaip prieš 3 mėnesius iki teisės gauti šalpos išmoką atsiradimo dienos. Šalpos išmokos skiriamos ir mokamos nuo teisės gauti šalpos išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 mėnesių iki prašymo skirti šalpos išmoką su visais jai skirti reikalingais dokumentais gavimo šalpos išmokas mokančioje įstaigoje dienos.
+
+
+
+
+2. Šalpos išmoka skiriama laikotarpiui, kurį šalpos išmokos gavėjas turi teisę gauti šią išmoką. Šalpos išmokas mokanti įstaiga privalo prieš vieną mėnesį iki šalpos išmokos skyrimo termino pabaigos raštu pranešti šalpos išmokos gavėjui apie šalpos išmokos skyrimo termino pabaigą.
+
+
+
+
+3. Kai šalpos negalios pensijos gavėjui nustatomas kitoks neįgalumo ar dalyvumo lygis ir dėl to keičiasi jam priklausančios šalpos negalios pensijos dydis, naujo dydžio šalpos pensija pradedama mokėti:
+
+
+1) kai nustatomas sunkesnis neįgalumo lygis arba mažesnis dalyvumo lygis, – nuo neįgalumo lygio ar dalyvumo lygio pakeitimo dienos;
+
+
+
+
+2) kai nustatomas lengvesnis neįgalumo lygis arba didesnis dalyvumo lygis, – nuo kito mėnesio pirmos dienos po to, kai buvo nustatytas lengvesnis neįgalumo lygis ar didesnis dalyvumo lygis.
+
+
+
+
+
+
+4. Šalpos išmokos mokėjimas aprūpintojui nutraukiamas nuo kito mėnesio pirmos dienos po to, kai pripažįstamas netekusiu galios Asmens su negalia teisių apsaugos agentūros prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos direktoriaus ar jo įgalioto asmens sprendimas dėl aprūpintojo skyrimo.
  
 
 
-
-
-18 straipsnis. Neteko galios nuo 2019-01-01
-Straipsnio naikinimas:
-Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
- 
 
 
 
@@ -954,192 +817,25 @@ Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
 
 
 VI SKYRIUS
-TEISIŲ IŠSAUGOJIMAS
- 
-
-
-19 straipsnis. Asmenų iki 18 metų įgytų teisių išsaugojimas
-
-
-Asmenims iki 18 metų, kurie iki 2005 m. liepos 1 d. buvo pripažinti vaikais invalidais, nuo šios datos iki jiems nustatyto invalidumo termino pabaigos šalpos neįgalumo pensijos skiriamos ir mokamos tokio paties dydžio ir tokiomis pačiomis sąlygomis kaip šio įstatymo 5 straipsnio 1 punkte nurodytiems asmenims: 
-
-
-1) vaikams invalidams, kuriems nustatyta sunki (visiška) negalia, – kaip neįgaliems vaikams, kuriems nustatytas sunkus neįgalumas;
-
-
-
-
-2) vaikams invalidams, kuriems nustatyta vidutinė negalia, – kaip neįgaliems vaikams, kuriems nustatytas vidutinis neįgalumas;
-
-
-
-
-3) vaikams invalidams, kuriems nustatyta lengva negalia arba dėl kurių invalidumo lygio nustatymo nesikreipta, – kaip neįgaliems vaikams, kuriems nustatytas lengvas neįgalumas.
- 
-
-
-
-
-
-
-
-
-20 straipsnis. Sukakusių 18 metų asmenų įgytų teisių išsaugojimas 
-
-
-1. Teisė gauti šalpos neįgalumo pensiją (šios dalies 1–4 punktai) arba šalpos kompensaciją (šios dalies 5 ir 6 punktai) nuo 2005 m. liepos 1 d. iki nustatyto invalidumo termino pabaigos išsaugoma šiems asmenims:
-
-
-1) invalidams, kuriems nustatyta invalidumo priežastis, – invalidumas nuo vaikystės;
-
-
-
-
-2) invalidams, pripažintiems invalidais iki dienos (įskaitytinai), kurią jiems sukako 24 metai, taip pat asmenims, kurie dėl ligos ar traumos, atsiradusios iki jiems sukako 24 metai, padarinių invalidais pripažinti po 24 metų sukakties dienos, tačiau ne vėliau kaip iki dienos (įskaitytinai), kurią jiems sukako 26 metai;
-
-
-
-
-3) pripažintiems I ar II grupės invalidais tėvams (įtėviams), globėjams ar rūpintojams, kurie ne mažiau kaip 15 metų slaugė namuose vaikus invalidus, I ar II grupės invalidus nuo vaikystės arba tapusius I ar II grupės invalidais iki 18 metų, taip pat visiškos negalios invalidus; 
-
-
-
-
-4) motinoms, pagimdžiusioms ir išauginusioms iki 8 metų penkis ar daugiau vaikų, pripažintoms I ar II grupės invalidėmis; 
-
-
-
-
-5) pripažintiems I ar II grupės invalidais tėvams (įtėviams), kurie iki 1995 m. sausio 1 d. ne mažiau kaip 10 metų slaugė namuose vaikus invalidus arba vaikus, pripažintus I ar II grupės invalidais nuo vaikystės arba tapusius I ar II grupės invalidais iki 18 metų; 
-
-
-
-
-6) motinoms, iki 1995 m. sausio 1 d. pagimdžiusioms penkis ar daugiau vaikų ir išauginusioms juos iki 8 metų, pripažintoms I ar II grupės invalidėmis. 
-
-
-
-
-
-
-2. Invalidams, nurodytiems šio straipsnio 1 dalies 1 ir 2 punktuose, šalpos neįgalumo pensijos mokamos tokiomis pačiomis sąlygomis kaip asmenims, nurodytiems šio įstatymo 5 straipsnio 2 punkte; invalidams, nurodytiems šio straipsnio 1 dalies 3 punkte, – kaip asmenims, nurodytiems šio įstatymo 5 straipsnio 3 punkte; invalidams, nurodytiems šio straipsnio 1 dalies 4 punkte, – kaip asmenims, nurodytiems šio įstatymo 5 straipsnio 4 punkte. Invalidams, nurodytiems šio straipsnio 1 dalies 5 ir 6 punktuose, šalpos kompensacijos mokamos tokio paties dydžio ir tokiomis pačiomis sąlygomis kaip asmenims, nurodytiems šio įstatymo 12 straipsnyje.
-
-
-
-
-3. Šio straipsnio 1 dalyje nurodytiems invalidams šalpos neįgalumo pensijos mokamos šių dydžių:
-
-
-1) šio straipsnio 1 dalies 1 ir 2 punktuose nurodytiems asmenims, pripažintiems I grupės invalidais, – 2 šalpos pensijų bazių dydžio; pripažintiems II grupės invalidais, – 1,5 šalpos pensijų bazės dydžio; pripažintiems III grupės invalidais, – 1 šalpos pensijų bazės dydžio; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
- 
-
-
-
-
-2) šio straipsnio 1 dalies 3 ir 4 punktuose nurodytiems asmenims, pripažintiems I grupės invalidais, – 1,5 šalpos pensijų bazės dydžio; pripažintiems II grupės invalidais – 1 šalpos pensijų bazės dydžio.
-
-
-
-
-
-
-4. Jeigu asmenims, nurodytiems šio straipsnio 1 dalies 1 ir 2 punktuose, šalpos neįgalumo pensijos mokėjimas buvo nutrauktas dėl atgauto darbingumo ir jiems vėl nustatant darbingumo lygį jie pripažįstami netekusiais 45 procentų ir daugiau darbingumo, šalpos neįgalumo pensijos jiems skiriamos ir mokamos nepaisant jų amžiaus darbingumo lygio nustatymo metu tokio paties dydžio ir tokiomis pačiomis sąlygomis kaip asmenims, nurodytiems šio įstatymo 5 straipsnio 2 punkte. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
- 
-
-
-
-
-
-
-21 straipsnis. Šalpos pensijų, paskirtų iki 2004 m. balandžio 1 d. už invalidų slaugą  namuose, mokėjimas
-
-
-1. Šalpos pensijų, paskirtų vienam iš tėvų (įtėvių), globėjui ar rūpintojui iki 2004 m. balandžio 1 d. galiojusia tvarka už vaikų invalidų arba I grupės invalidų nuo vaikystės, arba tapusių I grupės invalidais iki 18 metų slaugą namuose (toliau šiame straipsnyje – namuose slaugomi invalidai), mokėjimas tęsiamas tol, kol pasibaigia šių šalpos pensijų skyrimo ir mokėjimo terminas, nustatytas šio straipsnio 2 dalyje. 
-
-
-
-
-2. Šio straipsnio 1 dalyje nurodytų šalpos pensijų skyrimo ir mokėjimo vienam iš tėvų (įtėvių), globėjui ar rūpintojui terminas pasibaigia, kai:
-
-
-1) namuose slaugomi invalidai įgyja teisę gauti slaugos ar priežiūros (pagalbos) išlaidų tikslinę kompensaciją;
-
-
-
-
-2) pasibaigia namuose slaugomiems invalidams nustatyto invalidumo terminas; 
-
-
-
-
-3) namuose slaugomiems vaikams invalidams iki 16 metų sukanka 16 metų;
-
-
-
-
-4) namuose slaugomi invalidai toliau namuose neslaugomi, nes jie apgyvendinami ar slaugomi socialinės globos, švietimo įstaigose ar palaikomojo gydymo ir slaugos ligoninėse. Tokiais atvejais šalpos pensijos šių invalidų buvimo šiose įstaigose laiku nemokamos, o jiems išvykus iš šių įstaigų, vėl pradedamos mokėti šio įstatymo 18 straipsnio 2 ir 3 dalyse nustatyta tvarka.
-
-
-
-
-
-
-3. Šalpos pensijos už invalidų slaugą namuose mokamos vienam iš tėvų (įtėvių), globėjui ar rūpintojui, yra 2004 m. kovo mėnesio dydžio ir nedidinamos. 
- 
-
-
-
-
-
-
-22 straipsnis. Socialinių pensijų mokėjimas 
-
-
-1. Socialinės pensijos mokamos tol, kol pasibaigia šių pensijų skyrimo ir mokėjimo terminas arba kol socialinių pensijų gavėjai įgyja teisę gauti šalpos neįgalumo arba šalpos senatvės pensiją, šalpos našlaičių pensiją arba šalpos kompensaciją, kuri (jeigu asmuo įgyja teisę gauti daugiau negu vieną šalpos išmoką – bendra jų suma) yra didesnė arba tokio paties dydžio kaip socialinė pensija.
-Straipsnio dalies pakeitimai:
-Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
- 
-
-
-
-
-2. Socialinės pensijos indeksuojamos pagal naujai Lietuvos Respublikos Vyriausybės patvirtinto šalpos pensijų bazės dydžio ir iki tol galiojusio šalpos pensijų bazės dydžio santykį. 
- 
-
-
-
-
-
-
-
-
-VI1 SKYRIUS
 PENSIJOS PRIEMOKOS
  
 
 
-221 straipsnis. Asmenys, turintys teisę gauti pensijos priemoką
+17 straipsnis. Asmenys, turintys teisę gauti pensijos priemoką
 
 
-Socialinio draudimo senatvės pensijų, išskyrus išankstines senatvės pensijas, gavėjai ir socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensijų gavėjai, netekę 60 procentų ar daugiau darbingumo (iki 2005 m. liepos 1 d. pripažinti I ar II grupės invalidais), senatvės pensijos amžių sukakę socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensijų gavėjai, netekę 45–55 procentų darbingumo (iki 2005 m. liepos 1 d. pripažinti III grupės invalidais), jeigu jų gaunamų socialinio draudimo pensijų (išskyrus socialinio draudimo našlių pensiją), kompensacijų už ypatingas darbo sąlygas, valstybinių pensijų, užsienio valstybių pensijų (toliau kartu – pensijos) suma per mėnesį yra mažesnė negu Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka apskaičiuotas minimalių vartojimo poreikių dydis (toliau – MVPD), turi teisę gauti pensijos priemoką. Pensijos priemoka skiriama ir mokama, jeigu šiame straipsnyje nurodyti asmenys yra deklaravę gyvenamąją vietą arba įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą Gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
-Nr. XIV-353, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13154
+Socialinio draudimo senatvės pensijų, išskyrus išankstines senatvės pensijas, gavėjai, socialinio draudimo negalios, netekto darbingumo, invalidumo pensijų gavėjai, atitinkamai netekę 60 procentų ar daugiau dalyvumo, iki 2023 m. gruodžio 31 d. pripažinti netekusiais 60 procentų ar daugiau darbingumo arba iki 2005 m. birželio 30 d. pripažinti I ar II grupės invalidais, senatvės pensijos amžių sukakę socialinio draudimo negalios pensijos gavėjai, netekę 45–55 procentų dalyvumo, senatvės pensijos amžių sukakę socialinio draudimo netekto darbingumo, invalidumo pensijų gavėjai, atitinkamai iki 2023 m. gruodžio 31 d. netekę 45–55 procentų darbingumo arba iki 2005 m. birželio 30 d. pripažinti III grupės invalidais, jeigu jų gaunamų socialinio draudimo pensijų (išskyrus socialinio draudimo našlių pensiją), kompensacijų už ypatingas darbo sąlygas, valstybinių pensijų, užsienio valstybių pensijų (toliau kartu – pensijos) suma per mėnesį yra mažesnė negu Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka apskaičiuotas minimalių vartojimo poreikių dydis (toliau – MVPD), turi teisę gauti pensijos priemoką. Pensijos priemoka skiriama ir mokama, jeigu šiame straipsnyje nurodyti asmenys gyvena Lietuvos Respublikoje ir yra deklaravę gyvenamąją vietą arba įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą Gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka.
  
 
 
 
 
-222 straipsnis. Pensijos priemokų apskaičiavimas
 
 
-1. Pensijos priemoka asmenims, kuriems mokama socialinio draudimo senatvės arba socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensija, apskaičiuota turint būtinąjį pensijų socialinio draudimo stažą, apskaičiuojama euro cento tikslumu pagal formulę PD = MVPD – P, čia:
+18 straipsnis. Pensijos priemokų apskaičiavimas
+
+
+1. Pensijos priemoka asmenims, kuriems mokama socialinio draudimo senatvės, negalios, netekto darbingumo ar invalidumo pensija, apskaičiuota turint būtinąjį pensijų socialinio draudimo stažą, apskaičiuojama euro cento tikslumu pagal formulę PD = MVPD – P, čia:
 
 
 1) PD – pensijos priemokos dydis;
@@ -1152,17 +848,14 @@ Nr. XIV-353, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13154
 
 
 
-3) P – visų asmeniui mokamų pensijų suma. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
- 
+3) P – visų asmeniui mokamų pensijų suma.
 
 
 
 
-2. Pensijos priemoka asmenims, kuriems mokama socialinio draudimo senatvės arba socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensija, apskaičiuota neturint būtinojo pensijų socialinio draudimo stažo, apskaičiuojama euro cento tikslumu pagal formulę PD = (MVPD – P) × (S / BS), čia:
+
+
+2. Pensijos priemoka asmenims, kuriems mokama socialinio draudimo senatvės, negalios, netekto darbingumo ar invalidumo pensija, apskaičiuota neturint būtinojo pensijų socialinio draudimo stažo, apskaičiuojama euro cento tikslumu pagal formulę PD = (MVPD – P) × (S / BS), čia:
 
 
 1) PD – pensijos priemokos dydis;
@@ -1175,38 +868,24 @@ Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
 
 
 
-3) S – asmens įgytas pensijų socialinio draudimo stažas, pagal kurį apskaičiuota mokama socialinio draudimo senatvės arba netekto darbingumo (invalidumo) pensija;
+3) S – asmens įgytas pensijų socialinio draudimo stažas, pagal kurį apskaičiuota mokama socialinio draudimo senatvės, negalios, netekto darbingumo arba invalidumo pensija;
 
 
 
 
-4) BS – asmeniui nustatytas būtinasis pensijų socialinio draudimo stažas socialinio draudimo senatvės ar socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensijai gauti (atsižvelgiant į gaunamos pensijos rūšį);
+4) BS – asmeniui pensijos skyrimo metu nustatytas būtinasis pensijų socialinio draudimo stažas socialinio draudimo senatvės, negalios, netekto darbingumo arba invalidumo pensijai gauti (atsižvelgiant į gaunamos pensijos rūšį);
 
 
 
 
-5) P – visų asmeniui mokamų pensijų suma. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
- 
-
-
-
-
-3. Nustatant, ar asmuo yra įgijęs būtinąjį pensijų socialinio draudimo stažą socialinio draudimo senatvės ar socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensijai gauti (atsižvelgiant į gaunamos pensijos rūšį), atsižvelgiama į stažą, pagal kurį paskirta (gali būti paskirta) pensija užsienio valstybėje taikant Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentus arba Lietuvos Respublikos tarptautinių sutarčių nuostatas dėl pensijų mokėjimo.
- 
+5) P – visų asmeniui mokamų pensijų suma.
 
 
 
 
 
 
-223 straipsnis. Pensijos priemokų mokėjimo ir administravimo šaltinis
-
-
-Pensijos priemokos mokamos, jų skyrimo ir mokėjimo administravimo išlaidos apmokamos iš Lietuvos Respublikos valstybės biudžeto lėšų.
+3. Nustatant, ar asmuo yra įgijęs būtinąjį pensijų socialinio draudimo stažą socialinio draudimo senatvės, negalios, netekto darbingumo arba invalidumo pensijai gauti (atsižvelgiant į gaunamos pensijos rūšį), atsižvelgiama į stažą, pagal kurį paskirta (gali būti paskirta) pensija užsienio valstybėje taikant Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentus arba Lietuvos Respublikos tarptautinių sutarčių nuostatas dėl pensijų mokėjimo.
  
 
 
@@ -1214,53 +893,51 @@ Pensijos priemokos mokamos, jų skyrimo ir mokėjimo administravimo išlaidos ap
 
 
 
-224 straipsnis. Pensijos priemokų skyrimas ir mokėjimas
+19 straipsnis. Pensijos priemokų mokėjimo ir administravimo šaltinis
 
 
-1. Pensijos priemoką be atskiro asmens prašymo skiria ir moka Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga, mokanti asmeniui socialinio draudimo pensiją.
-
-
-
-
-2. Asmenų, kurie gauna užsienio valstybės pensiją, teisė gauti pensijos priemoką nustatoma ir pensijos priemoka skiriama bei mokama, asmeniui pateikus duomenis apie užsienio valstybės paskirtos pensijos dydį (jeigu Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga neturi šių duomenų), išskyrus šio straipsnio 21 dalyje nustatytą atvejį. Gavusi duomenis apie užsienio valstybės paskirtos pensijos dydį, Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga turinčiam teisę gauti pensijos priemoką asmeniui paskiria pensijos priemoką nuo teisės gauti pensijos priemoką atsiradimo dienos, bet ne daugiau kaip už 12 mėnesių nuo duomenų apie užsienio valstybės paskirtos pensijos dydį pateikimo dienos, ir išmoka pensijos priemokos nepriemoką. Duomenis apie užsienio valstybės paskirtos pensijos dydį asmuo privalo teikti ne rečiau kaip vieną kartą per metus, jeigu Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga negauna šių duomenų.
-Straipsnio dalies pakeitimai:
-Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
+Pensijos priemokos mokamos, jų skyrimo ir mokėjimo administravimo išlaidos apmokamos iš valstybės biudžeto lėšų.
  
 
 
 
 
-21. Kai asmuo, kuris gauna užsienio valstybės pensiją, patvirtina, kad negali šio straipsnio 2 dalyje nustatyta tvarka pateikti duomenų apie jam užsienio valstybės paskirtos pensijos dydį (jeigu Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga negali šių duomenų gauti iš kompetentingų užsienio valstybių institucijų), o iš Užsienio reikalų ministerijos yra gauta informacija, kad užsienio valstybę ištiko humanitarinė krizė ir duomenų apie asmeniui užsienio valstybės paskirtos pensijos dydį negalima gauti diplomatiniais kanalais, pensijos priemoka šiam asmeniui skiriama ir mokama nereikalaujant duomenų apie jam užsienio valstybės paskirtos pensijos dydį ir laikant, kad jam užsienio valstybės paskirtos pensijos dydis yra 0 eurų. Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga, iš asmens, kompetentingų užsienio valstybių institucijų ir (ar) Užsienio reikalų ministerijos gavusi duomenis apie tam asmeniui užsienio valstybės paskirtos pensijos dydį, nustato šio asmens teisę gauti pensijos priemoką iš naujo ir naujo dydžio pensijos priemoką pradeda mokėti arba pensijos priemokos mokėjimą nutraukia nuo kito mėnesio, einančio po mėnesio, kurį nurodyta informacija ir (ar) duomenys buvo gauti, pirmos dienos.
-Papildyta straipsnio dalimi:
-Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
+
+
+20 straipsnis. Pensijos priemokų skyrimas ir mokėjimas
+
+
+1. Pensijos priemoką be atskiro asmens prašymo skiria ir moka Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga, mokanti asmeniui socialinio draudimo pensiją, (toliau – įgaliota įstaiga).
+
+
+
+
+2. Asmenų, kurie gauna užsienio valstybės pensiją, teisė gauti pensijos priemoką nustatoma ir pensijos priemoka skiriama bei mokama, asmeniui pateikus duomenis apie užsienio valstybės paskirtos pensijos dydį (jeigu įgaliota įstaiga neturi šių duomenų), išskyrus šio straipsnio 3 dalyje nustatytą atvejį. Gavusi duomenis apie užsienio valstybės paskirtos pensijos dydį, įgaliota įstaiga turinčiam teisę gauti pensijos priemoką asmeniui paskiria pensijos priemoką nuo teisės gauti pensijos priemoką atsiradimo dienos, bet ne daugiau kaip už 12 mėnesių nuo duomenų apie užsienio valstybės paskirtos pensijos dydį gavimo įgaliotoje įstaigoje dienos, išmoka pensijos priemokos nepriemoką ir tokio dydžio pensijos priemoką moka iki naujų duomenų gavimo, bet ne ilgiau kaip 12 mėnesių. Įgaliota įstaiga, gavusi naujus duomenis apie užsienyje paskirtos pensijos ar pensijų išmokos dydį, nustato šio asmens teisę gauti pensijos priemoką iš naujo ir naujo dydžio pensijos priemoką pradeda mokėti arba pensijos priemokos mokėjimą nutraukia nuo kito mėnesio pirmos dienos po to, kai nurodyti duomenys buvo gauti, arba nuo ankstesnio mėnesio pirmos dienos, jeigu pensijos priemoka už tą mėnesį dar neišmokėta, bet ne daugiau kaip už 12 mėnesių nuo duomenų gavimo apie užsienyje paskirtos pensijos ar pensijų išmokos dydį įgaliotoje įstaigoje dienos.
+
+
+
+
+3. Kai asmuo, kuris gauna užsienio valstybės pensiją, patvirtina, kad negali šio straipsnio 2 dalyje nustatyta tvarka pateikti duomenų apie jam užsienio valstybės paskirtos pensijos dydį (jeigu įgaliota įstaiga negali šių duomenų gauti iš kompetentingų užsienio valstybių institucijų), o iš Užsienio reikalų ministerijos yra gauta informacija, kad užsienio valstybę ištiko humanitarinė krizė ir duomenų apie asmeniui užsienio valstybės paskirtos pensijos dydį negalima gauti diplomatiniais kanalais, pensijos priemoka šiam asmeniui skiriama ir mokama nereikalaujant duomenų apie jam užsienio valstybės paskirtos pensijos dydį ir laikant, kad jam užsienio valstybės paskirtos pensijos dydis yra 0 eurų. Įgaliota įstaiga, iš asmens, kompetentingų užsienio valstybių institucijų ir (ar) Užsienio reikalų ministerijos gavusi duomenis apie tam asmeniui užsienio valstybės paskirtos pensijos dydį, nustato šio asmens teisę gauti pensijos priemoką iš naujo ir naujo dydžio pensijos priemoką pradeda mokėti arba pensijos priemokos mokėjimą nutraukia nuo kito mėnesio, einančio po mėnesio, kurį nurodyta informacija ir (ar) duomenys buvo gauti, pirmos dienos.
+
+
+
+
+4. Pensijos priemoka mokama už praėjusį mėnesį, atsižvelgiant į už tą mėnesį priskaičiuotų pensijų sumą ir tą mėnesį galiojusį MVPD.
+
+
+
+
+5. Jeigu mokant pensijos priemoką paaiškėja, kad už tą laikotarpį, už kurį ši priemoka išmokėta, jos gavėjas turėjo teisę gauti (gavo) kitas pensijas arba didesnę socialinio draudimo senatvės, negalios, netekto darbingumo arba invalidumo pensiją, kurios jam skiriamos nuo dienos iki pensijos priemokos paskyrimo arba nuo pensijos priemokos paskyrimo dienos, asmens teisė gauti pensijos priemoką nustatoma iš naujo. Šiais atvejais pensijos priemokos permoka išieškoma socialinio draudimo senatvės, negalios, netekto darbingumo arba invalidumo pensiją asmeniui mokančios Valstybinio socialinio draudimo fondo administravimo įstaigos sprendimu Valstybinio socialinio draudimo įstatymo nustatyta tvarka iš bet kurios asmens gaunamos pensijos (kartu su pensijos priemoka, jeigu ji yra paskirta), kurios mokėjimas pavestas Valstybinio socialinio draudimo fondo administravimo įstaigoms.
+
+
+
+
+6. Pensijos priemokoms taip pat taikomos šio įstatymo 15 straipsnio 12, 13 ir 24 dalių nuostatos. Šiame įstatyme nenustatytais pensijos priemokų skyrimo ir mokėjimo atvejais taikoma Socialinio draudimo pensijų įstatyme ir socialinės apsaugos ir darbo ministro tvirtinamuose socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nustatyta socialinio draudimo pensijų skyrimo ir mokėjimo tvarka.
  
 
 
 
 
-3. Pensijos priemoka mokama už praėjusį mėnesį, atsižvelgiant į už tą mėnesį priskaičiuotų pensijų sumą ir tą mėnesį galiojusį MVPD.
-
-
-
-
-4. Tais atvejais, kai šio įstatymo nustatyta tvarka apskaičiuota pensijos priemoka yra mažesnė negu 1,45 euro, visa pensijos priemokos suma už praėjusius metus išmokama vieną kartą per metus pirmąjį kalendorinių metų mėnesį.
-
-
-
-
-5. Jeigu mokant pensijos priemoką paaiškėja, kad už tą laikotarpį, už kurį ši priemoka išmokėta, jos gavėjas turėjo teisę gauti (gavo) kitas pensijas arba didesnę socialinio draudimo senatvės ar socialinio draudimo netekto darbingumo (invalidumo) pensiją, kurios jam skiriamos nuo dienos iki pensijos priemokos paskyrimo arba nuo pensijos priemokos paskyrimo dienos, asmens teisė gauti pensijos priemoką nustatoma iš naujo. Šiais atvejais pensijos priemokos permoka išieškoma socialinio draudimo senatvės ar socialinio draudimo netekto darbingumo (invalidumo) pensiją asmeniui mokančios Valstybinio socialinio draudimo fondo administravimo įstaigos sprendimu Valstybinio socialinio draudimo įstatymo nustatyta tvarka iš bet kurios asmens gaunamos pensijos, kurios mokėjimas pavestas Valstybinio socialinio draudimo fondo administravimo įstaigoms.
-
-
-
-
-6. Pensijos priemokoms taip pat taikomos šio įstatymo 15 straipsnio 11 ir 12 dalių nuostatos. Šiame įstatyme nenustatytais pensijos priemokų skyrimo ir mokėjimo atvejais taikoma Socialinio draudimo pensijų įstatyme ir Socialinio draudimo pensijų skyrimo ir mokėjimo nuostatuose nustatyta socialinio draudimo pensijų skyrimo ir mokėjimo tvarka. 
-
-
-
-
-Papildyta skyriumi:
-Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
- 
 
 
 
@@ -1270,42 +947,34 @@ BAIGIAMOSIOS NUOSTATOS
  
 
 
-23 straipsnis. Slaugos namuose laikotarpių nustatymas
+21 straipsnis. Socialinių pensijų mokėjimas
 
 
-1. Skiriant šalpos neįgalumo pensiją šio įstatymo 5 straipsnio 3 punkte nurodytiems asmenims arba šalpos senatvės pensiją šio įstatymo 8 straipsnio 5 dalies 1 punkte nurodytiems asmenims, vaikų invalidų, I ar II grupės invalidų nuo vaikystės arba tapusių I ar II grupės invalidais iki 18 metų, taip pat visiškos negalios invalidų, pripažintų tokiais iki 2005 m. liepos 1 d., slaugos namuose laikas prilyginamas neįgaliųjų, kuriems nustatytas specialusis nuolatinės slaugos poreikis arba nuolatinės priežiūros (pagalbos) poreikis, slaugos namuose laikui. Už vieno neįgalaus asmens slaugą šalpos senatvės pensija skiriama ir mokama tik vienam asmeniui.
+1. Socialinės pensijos mokamos tol, kol pasibaigia šių pensijų skyrimo ir mokėjimo terminas arba kol socialinių pensijų gavėjai įgyja teisę gauti šalpos negalios arba šalpos senatvės pensiją, šalpos našlaičių pensiją arba šalpos kompensaciją, pensiją ar pensijų išmoką, išskyrus socialinio draudimo našlių pensiją ir (ar) našlių išmoką, paskirtą vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų ar Lietuvos Respublikos tarptautinių sutarčių nuostatomis dėl socialinio draudimo pensijų mokėjimo, kuri (jeigu asmuo įgyja teisę gauti daugiau negu vieną išmoką – bendra jų suma) yra didesnė arba tokio paties dydžio kaip socialinė pensija.
 
 
 
 
-2. Skiriant šalpos neįgalumo pensiją šio įstatymo 5 straipsnio 3 punkte nurodytiems asmenims, šalpos senatvės pensiją šio įstatymo 8 straipsnio 5 dalies 1 punkte nurodytiems asmenims arba šalpos kompensaciją šio įstatymo 12 straipsnio 1 punkte nurodytiems asmenims, slaugomais namuose taip pat laikomi neįgalieji, gydomi stacionarinėse asmens sveikatos priežiūros įstaigose (išskyrus asmenis, kurie pagal šį įstatymą laikomi slaugomais palaikomojo gydymo ir slaugos ligoninėse) ar gaunantys socialines paslaugas nestacionariose socialinės globos įstaigose. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
-Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
+2. Socialinės pensijos indeksuojamos pagal naujai Lietuvos Respublikos Vyriausybės patvirtinto šalpos pensijų bazės dydžio ir iki tol galiojusio šalpos pensijų bazės dydžio santykį.
  
 
 
 
 
-24 straipsnis. Informacijos ir duomenų, susijusių su šalpos išmokų skyrimu ir mokėjimu, gavimas ir teikimas 
 
 
-1. Šalpos išmokas mokanti įstaiga šalpos išmokų, pensijų priemokų skyrimo ir (ar) mokėjimo tikslu turi teisę gauti iš valstybės ir savivaldybių institucijų, įstaigų, įmonių ir organizacijų, valstybės, žinybinių registrų arba valstybės, savivaldybių informacinių sistemų informaciją, duomenis (įskaitant asmens duomenis), taip pat asmens duomenis, susijusius su paskirta kardomąja priemone (duomenis apie suėmimo laiką), priverčiamosiomis medicinos priemonėmis (duomenis apie taikomo stacionarinio stebėjimo bendro, sustiprinto ar griežto stebėjimo sąlygomis specializuotose psichikos sveikatos priežiūros įstaigose laiką), auklėjamojo poveikio priemone (duomenis apie nustatytą atidavimo į specialią auklėjimo įstaigą laiką), teistumu (duomenis apie laisvės atėmimo bausmės atlikimo laiką), specialių kategorijų asmens duomenis (sveikatos duomenis apie neįgalumą, darbingumo lygį (invalidumą), specialiuosius poreikius, slaugymą, slaugą, palaikomąjį gydymą) ir juos tvarkyti. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+22 straipsnis. Informacijos ir duomenų, susijusių su šalpos išmokų skyrimu ir mokėjimu, gavimas ir teikimas
+
+
+1. Šalpos išmokas mokanti įstaiga šalpos išmokų, pensijų priemokų skyrimo ir (ar) mokėjimo tikslu turi teisę gauti iš valstybės ir savivaldybių institucijų, įstaigų, įmonių ir organizacijų, valstybės, žinybinių registrų arba valstybės, savivaldybių informacinių sistemų informaciją, duomenis (įskaitant asmens duomenis), taip pat asmens duomenis, susijusius su paskirta kardomąja priemone (duomenis apie suėmimo laiką), priverčiamosiomis medicinos priemonėmis (duomenis apie taikomo stacionarinio stebėjimo bendro, sustiprinto ar griežto stebėjimo sąlygomis specializuotose psichikos sveikatos priežiūros įstaigose laiką), auklėjamojo poveikio priemone (duomenis apie nustatytą atidavimo į specialią auklėjimo įstaigą laiką), teistumu (duomenis apie laisvės atėmimo bausmės atlikimo laiką), specialių kategorijų asmens duomenis (sveikatos duomenis apie asmens negalią, individualiosios pagalbos poreikius (iki 2023 m. gruodžio 31 d. – specialiuosius poreikius), slaugymą, slaugą, palaikomąjį gydymą) ir juos tvarkyti.
+
+
+
+
+2. Šalpos išmokas mokanti įstaiga Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos prašymu teikia informaciją apie šalpos išmokų ir pensijų priemokų gavėjų skaičių, šalpos išmokų ir pensijų priemokų vidutinius dydžius, šioms išmokoms mokėti ir administruoti panaudotas valstybės biudžeto lėšas
  
 
 
-
-
-2. Šalpos išmokas mokanti įstaiga socialinės apsaugos ir darbo ministro nustatyta tvarka teikia Lietuvos Respublikos socialinės apsaugos ir darbo ministerijai informaciją apie šalpos išmokų gavėjų skaičių, šalpos išmokų vidutinius dydžius, šioms išmokoms mokėti ir administruoti panaudotas valstybės biudžeto lėšas. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
- 
 
 
 
@@ -1327,9 +996,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-Lietuvos Respublikos 
-šalpos pensijų įstatymo 
+Lietuvos Respublikos
+šalpos pensijų įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
@@ -1347,14 +1015,13 @@ priedas
 
 
 3. 2021 m. spalio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/1883 dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo siekiant dirbti aukštos kvalifikacijos darbą sąlygų, kuria panaikinama Tarybos direktyva 2009/50/EB.
-Papildyta punktu:
-Nr. XIV-1285, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15434
- 
 
 
-Priedo pakeitimai:
-Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
- 
+
+
+–––––––––––––––––
+
+
  
  
 Pakeitimai:
@@ -1528,3 +1195,13 @@ Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 15 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1957, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09701
 Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 8 straipsnio pakeitimo įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2760, 2024-06-18, paskelbta TAR 2024-06-27, i. k. 2024-11773
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2949, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13615
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 pakeitimo įstatymo Nr. XIV-2760 1, 2 ir 3 straipsnių pakeitimo įstatymas
