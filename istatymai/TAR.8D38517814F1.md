@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2023-10-04 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -536,6 +536,14 @@ Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
 
 
+381. Komunalinėms atliekoms nepriskiriamos buityje susidarančios atliekos – fizinių asmenų kasdienėje buities veikloje (išskyrus jų vykdomą ūkinę komercinę veiklą, verslą ir profesinę veiklą) susidarančios ir savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose tvarkomos atliekos, neįskaitant buityje susidarančių atliekų, kurios pagal šį Įstatymą priskiriamos komunalinėms atliekoms, ir atliekų, už kurių tvarkymą pagal gamintojo ir importuotojo atsakomybės principą atsakingi gamintojai ir (ar) importuotojai. Komunalinėms atliekoms nepriskiriamoms buityje susidarančioms atliekoms nepriskiriamos gamybos, sveikatos priežiūros veikloje susidarančios atliekos, žemės ūkio, miškininkystės, žvejybos, septikų, taip pat kanalizacijos ir nuotekų valymo atliekos, įskaitant nuotekų dumblą, eksploatuoti netinkamos transporto priemonės. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
+ 
+
+
+
+
 39. Komunalinės atliekos – mišrios ir atskirai surinktos buitinės (buityje susidarančios) atliekos, įskaitant popieriaus ir kartono, stiklo, metalų, plastiko, biologines, medienos, tekstilės, pakuočių, elektros ir elektroninės įrangos, baterijų ir akumuliatorių, taip pat stambiąsias atliekas, įskaitant čiužinius ir baldus, ir atliekos, surinktos iš kitų šaltinių, kai jos savo pobūdžiu ar sudėtimi yra panašios į buitines atliekas. Prie komunalinių atliekų nepriskiriamos gamybos, sveikatos priežiūros veikloje susidarančios atliekos, žemės ūkio, miškininkystės, žvejybos, septikų, taip pat kanalizacijos ir nuotekų valymo atliekos, įskaitant nuotekų dumblą, eksploatuoti netinkamos transporto priemonės ir statybinės atliekos. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
@@ -544,20 +552,28 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
-391. Komunalinių atliekų tvarkymo lėšų administravimas – savivaldybės ar savivaldybės pavedimu juridinio asmens atliekamas vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą ir jų tvarkymą surinkimas iš atliekų turėtojų ir kitos funkcijos, nurodytos šio Įstatymo 305 straipsnio 1 dalyje. 
+391. Komunalinių atliekų tvarkymo lėšų administravimas – Lietuvos Respublikos vietos savivaldos įstatyme nustatyta tvarka savivaldybės ar savivaldybės pavedimu Lietuvos Respublikos vietos savivaldos įstatyme nurodyto juridinio asmens atliekamas vietinės rinkliavos už komunalinių atliekų ir komunalinėms atliekoms nepriskiriamų buityje susidarančių atliekų tvarkymą ar kitos įmokos už komunalinių atliekų ir komunalinėms atliekoms nepriskiriamų buityje susidarančių atliekų tvarkymą lėšų surinkimas iš atliekų turėtojų ir kitos funkcijos, nurodytos šiame įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+Straipsnio dalies pakeitimai:
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
  
 
 
 
 
-40. Komunalinių atliekų tvarkymo paslauga – viešoji paslauga, apimanti komunalinių atliekų surinkimą, vežimą, naudojimą, šalinimą, šių veiklų organizavimą, stebėseną, šalinimo vietų vėlesnę priežiūrą.
+40. Komunalinių atliekų tvarkymo paslauga – viešoji paslauga, apimanti komunalinių atliekų ir komunalinėms atliekoms nepriskiriamų buityje susidarančių atliekų surinkimą, vežimą, naudojimą, šalinimą, šių veiklų organizavimą, stebėseną, šalinimo vietų vėlesnę priežiūrą ir gaminių, pakuočių, kurių gamintojams ir (ar) importuotojams taikomas gamintojo ir importuotojo atsakomybės principas, atliekų tvarkymą tokia apimtimi, kiek jį organizuoja savivaldybės ar komunalinių atliekų tvarkymo sistemos administratoriai, o ne gamintojai ir (ar) importuotojai ir (arba) jų organizacijos pagal šį Įstatymą ir (ar) Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
+ 
 
 
 
 
-41. Komunalinių atliekų tvarkymo paslaugos teikimo administravimas – savivaldybės veikla nustatant komunalinių atliekų tvarkymo paslaugos teikimo taisykles, priimant kitus teisės aktus, reglamentuojančius komunalinių atliekų tvarkymą, taip pat savivaldybės atliekų tvarkymo taisyklių, kitų teisės aktų reikalavimų vykdymo kontrolė.
+41. Komunalinių atliekų tvarkymo paslaugos teikimo administravimas – savivaldybės veikla nustatant komunalinių atliekų tvarkymo paslaugos teikimo taisykles, priimant kitus teisės aktus, reglamentuojančius komunalinių atliekų ir komunalinėms atliekoms nepriskiriamų buityje susidarančių atliekų tvarkymą, taip pat savivaldybės atliekų tvarkymo taisyklių, kitų teisės aktų reikalavimų vykdymo kontrolė. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
+ 
 
 
 
@@ -744,25 +760,31 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 
 
 
-583. Regioniniai komunalinių atliekų tvarkymo įrenginiai – regione naudojami komunalinių atliekų mechaninio-biologinio apdorojimo įrenginiai ir (ar) biologinio apdorojimo įrenginiai, nepavojingųjų atliekų sąvartynai, didelių gabaritų atliekų surinkimo aikštelės, kompostavimo aikštelės ir kiti įrenginiai, kuriuos savivaldybių pavedimu tvarko regioninis atliekų tvarkymo centras ar komunalinių atliekų sistemos administratorius arba kitas juridinis asmuo. 
+583. Regioniniai komunalinių atliekų tvarkymo įrenginiai – komunalinių atliekų tvarkymo regione naudojami komunalinių atliekų ir komunalinėms atliekoms nepriskiriamų buityje susidarančių atliekų mechaninio-biologinio ir (ar) mechaninio, ir (ar) biologinio apdorojimo įrenginiai, nepavojingųjų atliekų sąvartynai, didelių gabaritų atliekų surinkimo aikštelės, kompostavimo aikštelės ir kiti įrenginiai, kuriuos savivaldybių pavedimu valdo regioninis atliekų tvarkymo centras ar komunalinių atliekų tvarkymo sistemos administratorius arba kitas juridinis asmuo. 
 Papildyta straipsnio dalimi:
 Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+Straipsnio dalies pakeitimai:
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
  
 
 
 
 
-584. Reguliuojamoji kaina – valstybės reguliuojama regioninių atliekų tvarkymo centrų, bendro atliekų deginimo įrenginių, atliekų deginimo įrenginių valdytojų komunalinių atliekų tvarkymo paslaugos kaina, į kurią neįskaičiuojamos komunalinių atliekų tvarkymo administravimo, komunalinių atliekų tvarkymo lėšų administravimo sąnaudos ir komunalinių atliekų surinkimo ir vežimo iš atliekų turėtojų paslaugų kaina. 
+584. Reguliuojamoji kaina – valstybės reguliuojama regioninių atliekų tvarkymo centrų, bendro atliekų deginimo įrenginių, atliekų deginimo įrenginių valdytojų komunalinių atliekų tvarkymo paslaugos kaina, į kurią neįskaičiuojamos sąnaudos, patiriamos vykdant veiklą, nepriskiriamą reguliuojamajai veiklai. 
 Papildyta straipsnio dalimi:
 Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+Straipsnio dalies pakeitimai:
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
  
 
 
 
 
-585. Reguliuojamoji veikla – regioninių atliekų tvarkymo centrų, bendro atliekų deginimo įrenginių, atliekų deginimo įrenginių valdytojų vykdoma komunalinių atliekų tvarkymo veikla, kurios įkainius ar kainas reguliuoja valstybė. 
+585. Reguliuojamoji veikla – regioninių atliekų tvarkymo centrų vykdomas komunalinių atliekų ir komunalinėms atliekoms nepriskiriamų buityje susidarančių atliekų tvarkymas (įskaitant šių atliekų tvarkymą savivaldybės pavedimu regioninių atliekų tvarkymo centrų valdomose didelių gabaritų atliekų surinkimo aikštelėse ir (ar) kompostavimo aikštelėse), ir gaminių, pakuočių, kurių gamintojams ir (ar) importuotojams taikomas gamintojo ir importuotojo atsakomybės principas, atliekų tvarkymas savivaldybės pavedimu regioninių atliekų tvarkymo centrų valdomose didelių gabaritų atliekų surinkimo aikštelėse ir (ar) kompostavimo aikštelėse tokia apimtimi, kiek jo neįpareigoti organizuoti gamintojai ir (ar) importuotojai ir (arba) jų organizacijos pagal šį Įstatymą ir (ar) Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymą, kurių įkainius ar kainas reguliuoja valstybė, taip pat bendro atliekų deginimo įrenginių, atliekų deginimo įrenginių valdytojų vykdomas komunalinių atliekų tvarkymas, kurio įkainius ar kainas reguliuoja valstybė. Reguliuojamajai veiklai nepriskiriama veikla, kurios sąnaudas šiame Įstatyme nustatyta tvarka prideda savivaldybių tarybos, nustatydamos vietinės rinkliavos už komunalinių atliekų ir komunalinėms atliekoms nepriskiriamų buityje susidarančių atliekų tvarkymą ar kitos įmokos už komunalinių atliekų ir komunalinėms atliekoms nepriskiriamų buityje susidarančių atliekų tvarkymą dydžius.
 Papildyta straipsnio dalimi:
 Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+Straipsnio dalies pakeitimai:
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
  
 
 
@@ -1400,10 +1422,11 @@ ATLIEKŲ TVARKYMAS
 4 straipsnis. Atliekų tvarkymo organizavimas
 
 
-1. Atliekų turėtojas šio Įstatymo ir kitų teisės aktų nustatyta tvarka turi atliekas perduoti atliekų tvarkytojams arba gali tvarkyti atliekas pats. Atliekos tvarkomos aplinkos ministro patvirtintose Atliekų tvarkymo taisyklėse nustatyta tvarka. Komunalinės atliekos tvarkomos savivaldybių atliekų tvarkymo taisyklėse nustatyta tvarka. Atliekų turėtojas pagal sudarytą rašytinės formos sutartį dėl atliekų naudojimo ir (ar) šalinimo atliekas perduoda atliekų tvarkytojams, turintiems teisę tvarkyti atliekas, išskyrus komunalinių atliekų perdavimą vadovaujantis šio Įstatymo 301 straipsniu. Atliekų turėtojas, kuris perdavė atliekas atliekų tvarkytojui (tvarkytojams), privalo turėti galutinį atliekų sutvarkymą patvirtinantį dokumentą, išskyrus komunalinių atliekų perdavimą vadovaujantis šio Įstatymo 301 straipsniu. 
+1. Atliekų turėtojas šio Įstatymo ir kitų teisės aktų nustatyta tvarka turi atliekas perduoti atliekų tvarkytojams arba gali tvarkyti atliekas pats. Atliekos tvarkomos pagal aplinkos ministro tvirtinamas atliekų tvarkymo taisykles. Komunalinės atliekos ir komunalinėms atliekoms nepriskiriamos buityje susidarančios atliekos (toliau – kitos buityje susidarančios atliekos) tvarkomos savivaldybių atliekų tvarkymo taisyklėse nustatyta tvarka. Atliekų turėtojas pagal sudarytą rašytinę sutartį dėl atliekų naudojimo ir (ar) šalinimo atliekas perduoda atliekų tvarkytojams, turintiems teisę tvarkyti atliekas, išskyrus komunalinių atliekų ir kitų buityje susidarančių atliekų perdavimą vadovaujantis šio Įstatymo 301 straipsniu. Atliekų turėtojas, kuris perdavė atliekas atliekų tvarkytojui (tvarkytojams), privalo turėti galutinį atliekų sutvarkymą patvirtinantį dokumentą, išskyrus komunalinių atliekų ir kitų buityje susidarančių atliekų perdavimą vadovaujantis šio Įstatymo 301 straipsniu. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
 Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
  
 
 
@@ -2387,13 +2410,14 @@ Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
 25 straipsnis. Savivaldybių funkcijos
 
 
-Savivaldybės organizuoja komunalinių atliekų tvarkymo sistemas, būtinas jų teritorijose susidarančioms komunalinėms atliekoms tvarkyti, užtikrina tų sistemų funkcionavimą, organizuoja šiukšlių ir atliekų, kurių turėtojo nustatyti neįmanoma arba kuris neegzistuoja, tvarkymą ir administruoja komunalinių atliekų tvarkymo paslaugos teikimą.
-
-
+Savivaldybės organizuoja komunalinių atliekų tvarkymo sistemas, būtinas jų teritorijose susidarančioms komunalinėms atliekoms ir kitoms buityje susidarančioms atliekoms tvarkyti, užtikrina šių sistemų funkcionavimą, organizuoja šiukšlių ir atliekų, kurių turėtojo nustatyti neįmanoma arba kuris neegzistuoja, tvarkymą ir administruoja komunalinių atliekų tvarkymo paslaugos teikimą.
 Straipsnio pakeitimai:
 Nr. XI-1981, 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
+
+
 Straipsnio pakeitimai:
 Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
  
 
 
@@ -2744,9 +2768,10 @@ VALSTYBINIS ATLIEKŲ PREVENCIJOS IR TVARKYMO PLANAS, REGIONINIAI IR SAVIVALDYBI�
 
 
 
-7. Už patvirtintų savivaldybių atliekų prevencijos ir tvarkymo planų priemonių įgyvendinimą, už savivaldybės teritorijoje esančių komunalinių atliekų, šiukšlių ir atliekų, kurių turėtojo nustatyti neįmanoma arba kuris neegzistuoja, sutvarkymo organizavimą atsakinga savivaldybės vykdomoji institucija.
+7. Už patvirtintų savivaldybių atliekų prevencijos ir tvarkymo planų priemonių įgyvendinimą, savivaldybės teritorijoje esančių komunalinių atliekų ir kitų buityje susidarančių atliekų, šiukšlių ir atliekų, kurių turėtojo nustatyti neįmanoma arba kuris neegzistuoja, sutvarkymo organizavimą atsakinga savivaldybės vykdomoji institucija arba Vietos savivaldos įstatyme nustatyta tvarka jos įgaliotas asmuo.
 Straipsnio dalies pakeitimai:
 Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
  
 
 
@@ -2812,9 +2837,10 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 
 
 
-4) pateikti savivaldybei rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžio apskaičiavimą ir, jeigu savivaldybės taryba patvirtina, ją rinkti;
+4) pateikti savivaldybei vietinės rinkliavos už komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymą (toliau – rinkliava) ar kitos įmokos už komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymą (toliau – įmoka) dydžio apskaičiavimą;
 Straipsnio punkto pakeitimai:
 Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
  
 
 
@@ -3196,65 +3222,60 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 302 straipsnis. Komunalinių atliekų tvarkymo paslaugų kainodara
 
 
-1. Komunalinių atliekų tvarkymo paslaugų kainodara už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą nustatoma vadovaujantis solidarumo, proporcingumo, nediskriminavimo, sąnaudų susigrąžinimo, skaidrumo principais ir atliekų tvarkymo srityje taikomu principu „teršėjas moka“. Solidarumo, proporcingumo, nediskriminavimo, sąnaudų susigrąžinimo, skaidrumo principai komunalinių atliekų tvarkymo paslaugų kainodaroje suprantami taip:
+1. Komunalinių atliekų tvarkymo paslaugų kainodara už komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymą nustatoma vadovaujantis solidarumo, proporcingumo, nediskriminavimo, sąnaudų susigrąžinimo, skaidrumo principais ir atliekų tvarkymo srityje taikomu principu „teršėjas moka“. Solidarumo, proporcingumo, nediskriminavimo, sąnaudų susigrąžinimo, skaidrumo principai komunalinių atliekų tvarkymo paslaugų kainodaroje suprantami taip:
 
 
-1) solidarumo. Šis principas, nustatant rinkliavą ar kitą įmoką už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą, reiškia, kad palankesnes sąlygas dėl ekonominių, gyvenamosios vietos, atstumo iki atliekų tvarkymo įrenginių ar kitų priežasčių turintys komunalinių atliekų turėtojai prisideda prie komunalinių atliekų tvarkymo finansavimo, kad būtų sudarytos prieinamos sąlygos naudotis komunalinių atliekų tvarkymo paslaugomis komunalinių atliekų turėtojams, kurie tokių sąlygų neturi ir kuriems rinkliava ar kita įmoka už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą tampa didesne našta;
-
-
-
-
-2) proporcingumo. Šio principo įgyvendinimas turi užtikrinti, kad rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydis neviršytų to, kiek yra būtina komunalinių atliekų tvarkymo sistemos eksploatavimo ir komunalinių atliekų tvarkymo paslaugos finansavimo tikslui pasiekti. Šis principas reikalauja, kad komunalinių atliekų turėtojams nustatyta rinkliava ar kita įmoka už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą būtų proporcinga galinčiam susidaryti ar susidarančiam komunalinių atliekų kiekiui dėl atliekų turėtojų nekilnojamojo turto ir jo panaudojimo paskirties ir (ar) veiklos;
+1) solidarumo. Šis principas, nustatant rinkliavą ar įmoką, reiškia, kad palankesnes sąlygas dėl ekonominių, gyvenamosios vietos, atstumo iki atliekų tvarkymo įrenginių ar kitų priežasčių turintys komunalinių atliekų turėtojai prisideda prie komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo finansavimo, kad būtų sudarytos sąlygos naudotis komunalinių atliekų tvarkymo paslaugomis komunalinių atliekų turėtojams, kurie tokių sąlygų neturi ir kuriems rinkliava ar įmoka tampa didesne našta;
 
 
 
 
-3) nediskriminavimo. Šis principas komunalinių atliekų tvarkymo sistemoje reiškia, kad, nustatant rinkliavą ar kitą įmoką už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą tos pačios kategorijos komunalinių atliekų turėtojams, turi būti taikomi vienodi rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą nustatymo ir apskaičiavimo metodai, tvarka ir dydis;
+2) proporcingumo. Šio principo įgyvendinimas turi užtikrinti, kad rinkliavos ar įmokos dydis neviršytų to dydžio, kuris yra būtinas komunalinių atliekų tvarkymo sistemos eksploatavimo ir komunalinių atliekų tvarkymo paslaugos finansavimo tikslui pasiekti. Šis principas reiškia, kad komunalinių atliekų turėtojams nustatyta rinkliava ar įmoka turi būti proporcinga galinčiam susidaryti ar susidarančiam komunalinių atliekų ir kitų buityje susidarančių atliekų kiekiui dėl atliekų turėtojų nekilnojamojo turto ir jo panaudojimo paskirties ir (ar) veiklos;
 
 
 
 
-4) sąnaudų susigrąžinimo. Šis principas reikalauja, kad už suteiktą paslaugą gautos pajamos padengtų būtinąsias su komunalinių atliekų tvarkymu susijusias sąnaudas, reikalingas tai paslaugai teikti. Įgyvendinant šį principą, reikia nustatyti tokį rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį, kuris užtikrintų, kad komunalinių atliekų turėtojai padengtų būtinąsias su komunalinių atliekų tvarkymu susijusias sąnaudas, kurios patiriamos siekiant užtikrinti, kad komunalinių atliekų tvarkymo sistema atitiktų teisės aktuose nustatytus reikalavimus;
+3) nediskriminavimo. Šis principas reiškia, kad, nustatant rinkliavą ar įmoką tos pačios kategorijos komunalinių atliekų turėtojams, turi būti taikomi vienodi rinkliavos ar įmokos nustatymo ir apskaičiavimo metodai, tvarka ir dydis;
 
 
 
 
-5) skaidrumo. Šio principo įgyvendinimas turi užtikrinti, kad informacija apie rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą nustatymo ir apskaičiavimo metodus, tvarką ir dydį turi būti vieša. 
+4) sąnaudų susigrąžinimo. Šis principas reiškia, kad už suteiktą paslaugą gautos pajamos turi padengti būtinąsias su komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymu susijusias sąnaudas, reikalingas tai paslaugai teikti. Įgyvendinant šį principą, reikia nustatyti tokį rinkliavos ar įmokos dydį, kuris užtikrintų, kad komunalinių atliekų turėtojai padengtų būtinąsias su komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymu susijusias sąnaudas, kurios patiriamos siekiant užtikrinti, kad komunalinių atliekų tvarkymo sistema atitiktų šiame Įstatyme ir kituose teisės aktuose, reglamentuojančiuose komunalinių atliekų tvarkymo sistemų organizavimą ir funkcionavimą, nustatytus reikalavimus;
+
+
+
+
+5) skaidrumo. Šio principo įgyvendinimas turi užtikrinti, kad informacija apie rinkliavos ar įmokos nustatymo ir apskaičiavimo metodus, tvarką ir dydį turi būti vieša.
 
 
 
 
 
 
-2. Komunalinių atliekų tvarkymo paslaugų kaina turi užtikrinti ilgalaikį komunalinėms atliekoms tvarkyti skirtos infrastruktūros eksploatavimą, jos atnaujinimą ir sudaryti komunalinių atliekų turėtojams priimtinas sąlygas dalyvauti tvarkant komunalines atliekas, taip pat mažinti aplinkos taršą. 
+2. Komunalinių atliekų tvarkymo paslaugų kaina turi užtikrinti ilgalaikį komunalinėms atliekoms ir kitoms buityje susidarančioms atliekoms tvarkyti skirtos infrastruktūros eksploatavimą, jos atnaujinimą ir sudaryti komunalinių atliekų turėtojams sąlygas dalyvauti tvarkant komunalines atliekas ir kitas buityje susidarančias atliekas, taip pat mažinti aplinkos taršą.
 
 
 
 
-3. Nustatant rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį, turi būti vadovaujamasi Vyriausybės patvirtintomis vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą taisyklėmis ir savivaldybių vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžio nustatymo teisės aktais.
+3. Nustatant rinkliavos ar įmokos dydį, turi būti vadovaujamasi Vyriausybės tvirtinamomis rinkliavos ar įmokos dydžio nustatymo taisyklėmis ir savivaldybių rinkliavos ar įmokos dydžio nustatymo teisės aktais.
 
 
 
 
-4. Rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį nustato savivaldybės taryba, vadovaudamasi šio straipsnio 1 ir 2 dalyse nurodytais principais ir neviršydama Tarybos nustatyto regioninės kainos dydžio.
+4. Savivaldybių tarybų nustatytos rinkliavos ar įmokos skelbiamos atitinkamos savivaldybės interneto svetainėje.
 
 
 
 
-5. Savivaldybių tarybų nustatytos rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą skelbiamos atitinkamos savivaldybės interneto svetainėje. 
+5. Regioninė kaina, įskaitant protingumo kriterijų atitinkančią investicijų grąžą, nustatomą Tarybos vadovaujantis jos tvirtinama komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo regioninių kainų nustatymo metodika, grindžiama būtinosiomis su komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymu susijusiomis pagrįstomis sąnaudomis, reikalingomis reguliuojamajai veiklai vykdyti, ilgalaikiam komunalinėms atliekoms ir kitoms buityje susidarančioms atliekoms tvarkyti skirtų regioninių komunalinių atliekų tvarkymo įrenginių eksploatavimui, jų atnaujinimui, plėtrai užtikrinti, priimtinos komunalinių atliekų tvarkymo paslaugos teikimo užtikrinimui ir aplinkos taršos mažinimui (toliau – regioninės kainos būtinosios sąnaudos). Į regioninės kainos būtinąsias sąnaudas neįskaičiuojamos sąnaudos, patiriamos vykdant veiklą, nepriskiriamą reguliuojamajai veiklai. Nustatant regioninės kainos būtinąsias sąnaudas, įvertinama ir atskirų komunalinių atliekų tvarkymo paslaugų sutartys, būtinos investicijos ir atidėjinių sąvartynų uždarymui poreikis, siekiant užtikrinti nenutrūkstamą ir aplinkosauginius reikalavimus atitinkantį komunalinių atliekų tvarkymą. Regioninio atliekų tvarkymo centro įgyvendinamų atliekų prevencijai skirtų priemonių, numatytų Vyriausybės tvirtinamame valstybiniame atliekų prevencijos ir tvarkymo plane, regioniniuose atliekų prevencijos ir tvarkymo planuose, savivaldybių atliekų prevencijos ir tvarkymo planuose, įgyvendinimo sąnaudos, gaminių, pakuočių, kurių gamintojams ir (ar) importuotojams taikomas gamintojo atsakomybės principas, atliekų tvarkymo savivaldybės pavedimu regioninių atliekų tvarkymo centrų valdomose didelių gabaritų atliekų surinkimo aikštelėse ir (ar) kompostavimo aikštelėse sąnaudos tokia apimtimi, kiek jų neįpareigoti finansuoti gamintojai ir (ar) importuotojai ir (arba) jų organizacijos pagal šio Įstatymo aštuntąjį1 – aštuntąjį6 ir aštuntąjį11 skirsnius ir (ar) Pakuočių ir pakuočių atliekų tvarkymo įstatymą, atliekų deginimo sąnaudos, patiriamos atsiskaitant su bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytoju už po rūšiavimo likusias netinkamas perdirbti ar kitaip panaudoti energinę vertę turinčias sudegintas komunalines atliekas, pripažįstamos regioninės kainos būtinosiomis sąnaudomis. Pareiga pagrįsti, kad regioninė kaina grindžiama būtinosiomis sąnaudomis, tenka regioniniam atliekų tvarkymo centrui.
 
 
 
 
-6. Regioninė kaina, įskaitant protingumo kriterijų atitinkančią investicijų grąžą, grindžiama būtinosiomis su komunalinių atliekų tvarkymu susijusiomis pagrįstomis sąnaudomis, reikalingomis komunalinių atliekų tvarkymo paslaugai suteikti, ilgalaikiam komunalinėms atliekoms tvarkyti skirtų regioninių komunalinių atliekų tvarkymo įrenginių eksploatavimui, jų atnaujinimui, plėtrai užtikrinti, priimtinos komunalinių atliekų tvarkymo paslaugos teikimo užtikrinimui ir aplinkos taršos mažinimui. Į būtinąsias su komunalinių atliekų tvarkymu susijusias sąnaudas neįskaičiuojama komunalinių atliekų tvarkymo administravimo, komunalinių atliekų tvarkymo lėšų administravimo sąnaudos bei komunalinių atliekų surinkimo ir vežimo iš atliekų turėtojų paslaugų kaina. Nustatant regioninės kainos būtinąsias sąnaudas, įvertinama ir atskirų komunalinių atliekų tvarkymo paslaugų sutartys, būtinos investicijos ir atidėjinių sąvartynų uždarymui poreikis nenutrūkstamam ir aplinkosauginius reikalavimus atitinkančiam komunalinių atliekų tvarkymui užtikrinti. Regioninio atliekų tvarkymo centro atliekų deginimo sąnaudos, patiriamos atsiskaitant su bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytoju už po rūšiavimo likusias netinkamas perdirbti ar kitaip panaudoti energinę vertę turinčias sudegintas komunalines atliekas, pripažįstamos būtinosiomis sąnaudomis. Pareiga pagrįsti, kad regioninė kaina grindžiama būtinosiomis sąnaudomis, tenka regioniniam atliekų tvarkymo centrui.
+6. Regioninės kainos projekto rengimo etapai:
 
 
-
-
-7. Regioninės kainos projekto rengimo etapai:
-
-
-1) regioniniai atliekų tvarkymo centrai, vadovaudamiesi šio straipsnio 1 ir 2 dalyse nustatytais principais ir Tarybos patvirtinta Komunalinių atliekų tvarkymo regioninių kainų nustatymo metodika, likus ne mažiau kaip 5 mėnesiams iki regioninės kainos galiojimo termino pabaigos, parengia ir Tarybai pateikia regioninės kainos apskaičiavimo projektą;
+1) regioniniai atliekų tvarkymo centrai, vadovaudamiesi šio straipsnio 1 ir 2 dalyse nustatytais principais ir Tarybos patvirtinta komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo regioninių kainų nustatymo metodika, likus ne mažiau kaip 5 mėnesiams iki regioninės kainos galiojimo termino pabaigos, parengia ir Tarybai pateikia regioninės kainos apskaičiavimo projektą;
 
 
 
@@ -3264,92 +3285,103 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 
 
 
-3) su teikiamais derinti regioninių kainų apskaičiavimo projektais regioniniai atliekų tvarkymo centrai pateikia regioninių kainų apskaičiavimo projektų pagrindimą ir veiklos planus, atsižvelgdami į Tarybos patvirtintą Komunalinių atliekų tvarkymo regioninių kainų nustatymo metodiką. Regioninės kainos apskaičiavimo projekto kopija teikiama komunalinių atliekų tvarkymo regiono savivaldybėms tuo pačiu metu kaip ir Tarybai, kurios ne vėliau kaip per 2 mėnesius nuo regioninės kainos apskaičiavimo projekto gavimo dienos pateikia pastabas regioniniams atliekų tvarkymo centrams ir Tarybai;
+3) su teikiamais derinti regioninių kainų apskaičiavimo projektais regioniniai atliekų tvarkymo centrai pateikia regioninių kainų apskaičiavimo projektų pagrindimą ir veiklos planus, atsižvelgdami į Tarybos patvirtintą komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo regioninių kainų nustatymo metodiką. Regioninės kainos apskaičiavimo projekto kopija teikiama komunalinių atliekų tvarkymo regiono savivaldybėms tuo pačiu metu kaip ir Tarybai. Komunalinių atliekų tvarkymo regiono savivaldybės ne vėliau kaip per 2 mėnesius nuo regioninės kainos apskaičiavimo projekto gavimo dienos pateikia pastabas regioniniams atliekų tvarkymo centrams ir Tarybai;
 
 
 
 
-4) Taryba, per 5 mėnesius nuo regioninio atliekų tvarkymo centro visų tinkamų duomenų ir (arba) dokumentų pateikimo dienos išnagrinėjusi regioninės kainos apskaičiavimo projektą, nustato naują konkretaus regiono regioninę kainą. Tarybai nepatvirtinus naujos regioninės kainos per numatytą terminą, lieka galioti ankstesnė patvirtina regioninė kaina. Tarybos patvirtinta regioninė kaina galioja ne trumpiau kaip 3 metus iki naujos Tarybos sprendimu patvirtintos regioninės kainos įsigaliojimo;
+4) Taryba, per 5 mėnesius nuo regioninio atliekų tvarkymo centro visų tinkamų duomenų ir (arba) dokumentų pateikimo dienos išnagrinėjusi regioninės kainos apskaičiavimo projektą, nustato naują konkretaus regiono regioninę kainą. Tarybai nenustačius naujos regioninės kainos per numatytą terminą, lieka galioti ankstesnė nustatyta regioninė kaina. Tarybos nustatyta regioninė kaina galioja ne trumpiau kaip 3 metus iki naujos Tarybos sprendimu nustatytos regioninės kainos įsigaliojimo;
 
 
 
 
-5) Taryba turi teisę grąžinti papildyti regioninės kainos apskaičiavimo projektą regioniniam atliekų tvarkymo centrui tais atvejais, kai Tarybai pateiktame regioninės kainos apskaičiavimo projekte regioninė kaina apskaičiuota nesilaikant regioninės kainos nustatymo reikalavimų, nustatytų Komunalinių atliekų tvarkymo regioninių kainų nustatymo metodikoje, ir (arba) yra klaidinga. 
+5) Taryba turi teisę grąžinti papildyti regioninės kainos apskaičiavimo projektą regioniniam atliekų tvarkymo centrui tais atvejais, kai Tarybai pateiktame regioninės kainos apskaičiavimo projekte regioninė kaina apskaičiuota nesilaikant regioninės kainos nustatymo reikalavimų, nustatytų komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo regioninių kainų nustatymo metodikoje, ir (arba) yra klaidinga.
 
 
 
 
 
 
-8. Prireikus Tarybos nustatytos regioninės kainos gali būti koreguojamos kartą per metus. Regioninis atliekų tvarkymo centras regioninės kainos perskaičiavimo projektą, parengtą vadovaujantis Tarybos patvirtinta Komunalinių atliekų tvarkymo regioninių kainų nustatymo metodika, Tarybai pateikia likus ne mažiau kaip 3 mėnesiams iki datos, kai buvo patvirtinta galiojanti regioninė kaina.
+7. Prireikus Tarybos nustatytos regioninės kainos gali būti koreguojamos kartą per metus. Regioninis atliekų tvarkymo centras regioninės kainos perskaičiavimo projektą, parengtą vadovaujantis Tarybos patvirtinta komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo regioninių kainų nustatymo metodika, Tarybai pateikia likus ne mažiau kaip 3 mėnesiams iki datos, kai buvo nustatyta galiojanti regioninė kaina.
 
 
 
 
-9. Tarybos patvirtintos galiojančios regioninės kainos yra skelbiamos Tarybos interneto svetainėje ir kitomis priemonėmis.
+8. Tarybos nustatytos galiojančios regioninės kainos yra skelbiamos Tarybos interneto svetainėje ir kitomis priemonėmis.
 
 
 
 
-10. Savivaldybių tarybos, atsižvelgdamos į Tarybos nustatytas regionines kainas ir vadovaudamosi Vyriausybės patvirtintomis vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą taisyklėmis ir savivaldybių vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžio nustatymo teisės aktais, pridėdamos savivaldybės komunalinių atliekų tvarkymo administravimo, komunalinių atliekų tvarkymo lėšų administravimo sąnaudas ir komunalinių atliekų surinkimo iš atliekų turėtojų ir vežimo paslaugų kainą, ne vėliau kaip per 3 mėnesius nuo regioninių kainų patvirtinimo patvirtina naujus arba patvirtina esamus rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžius. Savivaldybių tarybos, patvirtindamos naujus arba patvirtindamos esamus rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą dydžius, turi įvertinti, ar jų mokama suma už paslaugas neviršys vieno procento vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų. Savivaldybės, įgyvendindamos šią nuostatą, turi atsižvelgti į Lietuvos statistikos departamento naujausių kalendorinių metų duomenis apie tos apskrities vidutines disponuojamąsias pajamas per mėnesį. Jeigu apskaičiuotas rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą dydis už atliekų tvarkymo paslaugas viršija vieną procentą vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų, savivaldybės iš naujo turi įvertinti komunalinių atliekų tvarkymo administravimo, komunalinių atliekų tvarkymo lėšų administravimo sąnaudas ir perskaičiuoti rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą dydį, kad jis neviršytų vieno procento vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų. Patvirtinti nauji rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžiai taikomi nuo artimiausio mokestinio laikotarpio pradžios. Jeigu savivaldybės taryba per šioje dalyje nurodytą terminą nepatvirtina naujų arba nepatvirtina esamų rinkliavos ar kitos įmokos už atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą dydžių, taikomi rinkliavos ar kitos įmokos už atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą dydžiai, galioję iki naujų apskaičiuotų regioninių kainų dydžių. Patvirtinus naujus rinkliavos ar kitos įmokos už atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą dydžius, atliekų turėtojams (fiziniams asmenims) susidariusį skirtumą savivaldybės kompensuoja iš savivaldybių biudžetų lėšų.
+9. Savivaldybių skaičiuojamos rinkliavos ar įmokos dalies būtinosioms sąnaudoms priskiriamos savivaldybės komunalinių atliekų tvarkymo sistemos administravimo, komunalinių atliekų tvarkymo lėšų administravimo sąnaudos, komunalinių atliekų ir kitų buityje susidarančių atliekų surinkimo ir vežimo iš atliekų turėtojų paslaugų sąnaudos, komunalinių atliekų ir kitų buityje susidarančių atliekų surinkimo infrastruktūros (išskyrus didelių gabaritų atliekų surinkimo aikštelių ir (ar) kompostavimo aikštelių, kurias savivaldybių pavedimu valdo regioninis atliekų tvarkymo centras, šio Įstatymo 30 straipsnio 10 dalies 3 punkte nurodytų priemonių) įrengimo, priežiūros, atnaujinimo ir plėtros sąnaudos, savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose surinktų komunalinių atliekų ir kitų buityje susidarančių atliekų apdorojimo sąnaudos, patiriamos vykdant veiklą, nepriskiriamą reguliuojamajai veiklai, atliekų prevencijai skirtų priemonių, numatytų Vyriausybės tvirtinamame valstybiniame atliekų prevencijos ir tvarkymo plane, regioniniuose atliekų prevencijos ir tvarkymo planuose, savivaldybių atliekų prevencijos ir tvarkymo planuose, įgyvendinimo sąnaudos, patiriamos vykdant veiklą, nepriskiriamą reguliuojamajai veiklai, gaminių, pakuočių, kurių gamintojams ir (ar) importuotojams taikomas gamintojo atsakomybės principas, atliekų tvarkymo ne regioninių atliekų tvarkymo centrų valdomose didelių gabaritų atliekų surinkimo aikštelėse ir (ar) kompostavimo aikštelėse sąnaudos tokia apimtimi, kiek jų neįpareigoti finansuoti gamintojai ir (ar) importuotojai ir (arba) jų organizacijos pagal šio Įstatymo aštuntąjį1 – aštuntąjį6 ir aštuntąjį11 skirsnius ir (ar) Pakuočių ir pakuočių atliekų tvarkymo įstatymą, (toliau – savivaldybių skaičiuojamos rinkliavos ar įmokos dalies būtinosios sąnaudos).
 
 
 
 
-11. Savivaldybės privalo užtikrinti, kad patvirtinti nauji rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą, kurią moka atliekų turėtojai (fiziniai asmenys) kiekvieną mėnesį už paslaugas, dydžiai neviršys vieno procento vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų. Savivaldybė, vadovaudamasi savivaldybės parengtais ir patvirtintais vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą teisės aktais, turi atlikti vertinimą, ar patvirtinus naujus rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą dydžius, šie dydžiai neviršys vieno procento vidutinių mėnesio namų ūkio pajamų. Toks vertinimas atliekamas atsižvelgiant į savivaldybės teritorijoje gyvenančių fizinių asmenų vidutines statistines mėnesio namų ūkio pajamas ir atliekų turėtojų (fizinių asmenų) per mėnesį mokamos rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžio už atliekų tvarkytojo suteiktas paslaugas sumą. Savivaldybė, nustačiusi, kad nauja rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą mokama suma už šias paslaugas viršys vieną procentą vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų, turi imtis veiksmų sumažinti komunalinių atliekų tvarkymo sąnaudas. 
+10. Savivaldybių tarybos, vadovaudamosi šio straipsnio 1 dalyje nustatytais principais ir šio straipsnio 2 dalyje nustatytais reikalavimais, taikydamos Tarybos nustatytas regionines kainas, vadovaudamosi Vyriausybės tvirtinamomis rinkliavos ar įmokos dydžio nustatymo taisyklėmis ir savivaldybių rinkliavos ar įmokos dydžio nustatymo teisės aktais, pridėdamos savivaldybių skaičiuojamos rinkliavos ar įmokos dalies būtinąsias sąnaudas, ne vėliau kaip per 7 mėnesius nuo pirmą kartą nustatytų regioninių kainų nustatymo dienos apskaičiuoja ir patvirtina naujus rinkliavos ar įmokos dydžius arba ne vėliau kaip per 5 mėnesius nuo perskaičiuotų arba vėlesnių metų naujų regioninių kainų nustatymo dienos apskaičiuoja ir patvirtina naujus arba patvirtina esamus rinkliavos ar įmokos dydžius. Savivaldybių tarybos, patvirtindamos naujus arba esamus rinkliavos ar įmokos dydžius, turi įvertinti, ar jų mokama suma už paslaugas neviršys vieno procento vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų. Savivaldybės, įgyvendindamos šią nuostatą, turi atsižvelgti į Valstybės duomenų agentūros naujausių kalendorinių metų duomenis apie tos apskrities vidutines disponuojamąsias pajamas per mėnesį. Jeigu apskaičiuotas rinkliavos ar įmokos dydis už komunalinių atliekų tvarkymo paslaugas viršija vieną procentą vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų, savivaldybės iš naujo turi įvertinti komunalinių atliekų tvarkymo sistemos administravimo, komunalinių atliekų tvarkymo lėšų administravimo sąnaudas ir perskaičiuoti rinkliavos ar įmokos dydį, kad jis neviršytų vieno procento vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų. Sprendimą dėl patvirtintų naujų rinkliavos ar įmokos dydžių taikymo pradžios ir trukmės priima savivaldybės taryba, atsižvelgdama į Tarybos nustatytos regioninės kainos galiojimo laikotarpį, naujo rinkliavos ar įmokos dydžio, perskaičiuoto dėl šio straipsnio 7 ir 12 dalyse ir (ar) Lietuvos Respublikos rinkliavų įstatymo 13 straipsnio 3 dalyje nurodytų priežasčių, patvirtinimo datą. Jeigu savivaldybės taryba per šioje dalyje nurodytą terminą nepatvirtina naujų arba esamų rinkliavos ar įmokos dydžių, taikomi rinkliavos ar įmokos dydžiai, galioję iki naujų apskaičiuotų regioninių kainų dydžių. Patvirtinus naujus rinkliavos ar įmokos dydžius, atliekų turėtojams susidariusį skirtumą savivaldybės kompensuoja iš savivaldybių biudžetų lėšų.
 
 
 
 
-12. Taikant rinkliavą ar kitą įmoką už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą savivaldybėje, turi būti užtikrinamas savivaldybėje surenkamų komunalinių atliekų tvarkymo sąnaudų, apskaičiuojamų pagal galiojančią regioninę kainą, kompensavimas regioniniam atliekų tvarkymo centrui ir atliekų surinkėjams. Savivaldybės taryba gali teikti lengvatas atliekų turėtojams (fiziniams asmenims) savivaldybės biudžeto sąskaita. Lengvatos atliekų turėtojams teikiamos savivaldybės tarybos nustatyta tvarka.
+11. Šio straipsnio 10 dalyje nustatyta tvarka tvirtinant rinkliavos ar įmokos dydžius į komunalinių atliekų tvarkymo regiono savivaldybių skaičiuojamą rinkliavos ar įmokos dalį gali būti įtrauktos regioninės kainos būtinosios sąnaudos (su kitų buityje susidarančių atliekų tvarkymu susijusios sąnaudos, reikalingos reguliuojamajai veiklai vykdyti, ilgalaikiam kitoms buityje susidarančioms atliekoms tvarkyti skirtų regioninių komunalinių atliekų tvarkymo įrenginių eksploatavimui, jų atnaujinimui, plėtrai užtikrinti, priimtinos komunalinių atliekų tvarkymo paslaugos teikimo užtikrinimui ir aplinkos taršos mažinimui, regioninio atliekų tvarkymo centro įgyvendinamų atliekų prevencijai skirtų priemonių, numatytų Vyriausybės tvirtinamame valstybiniame atliekų prevencijos ir tvarkymo plane, regioniniuose atliekų prevencijos ir tvarkymo planuose, savivaldybių atliekų prevencijos ir tvarkymo planuose, įgyvendinimo sąnaudos, gaminių, pakuočių, kurių gamintojams ir (ar) importuotojams taikomas gamintojo atsakomybės principas, atliekų tvarkymo savivaldybės pavedimu regioninių atliekų tvarkymo centrų valdomose didelių gabaritų atliekų surinkimo aikštelėse ir (ar) kompostavimo aikštelėse sąnaudos tokia apimtimi, kiek jų neįpareigoti finansuoti gamintojai ir (ar) importuotojai ir (arba) jų organizacijos pagal šio Įstatymo aštuntąjį1 – aštuntąjį6 ir aštuntąjį11 skirsnius ir (ar) Pakuočių ir pakuočių atliekų tvarkymo įstatymą, sąnaudos), kurios nebuvo įtrauktos pirmą kartą nustatant regioninę kainą. 
 
 
 
 
-13. Atliekų turėtojai su savivaldybe ar juridiniu asmeniu, atliekančiu komunalinių atliekų tvarkymo lėšų administravimo funkciją, atsiskaito mokėdami nustatytą rinkliavą ar kitą įmoką už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą, vadovaudamiesi:
+12. Savivaldybės privalo užtikrinti, kad patvirtinti nauji rinkliavos ar įmokos, kurią moka atliekų turėtojai (fiziniai asmenys) kiekvieną mėnesį už paslaugas, dydžiai neviršys vieno procento vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų. Savivaldybė, vadovaudamasi savivaldybės parengtais ir patvirtintais rinkliavos ar įmokos dydžio nustatymo teisės aktais, turi atlikti vertinimą, ar patvirtinus naujus rinkliavos ar įmokos dydžius, šie dydžiai neviršys vieno procento vidutinių mėnesio namų ūkio pajamų. Toks vertinimas atliekamas atsižvelgiant į savivaldybės teritorijoje gyvenančių fizinių asmenų vidutines statistines mėnesio namų ūkio pajamas ir atliekų turėtojų (fizinių asmenų) per mėnesį mokamos rinkliavos ar įmokos dydžio už atliekų tvarkytojo suteiktas paslaugas sumą. Savivaldybė, nustačiusi, kad nauja rinkliavos ar įmokos mokama suma už šias paslaugas viršys vieną procentą vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų, turi imtis veiksmų, kad būtų sumažintos komunalinių atliekų tvarkymo sąnaudos.
 
 
-1) Lietuvos Respublikos rinkliavų įstatymo nuostatomis, jeigu savivaldybės teritorijoje taikoma rinkliava už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą;
 
 
+13. Taikant rinkliavą ar įmoką savivaldybėje, savivaldybė ar jos pavedimu komunalinių atliekų tvarkymo sistemos administratorius turi užtikrinti savivaldybėje faktiškai patiriamų komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo ir atliekų prevencijos priemonių įgyvendinimo sąnaudų, kurios šio straipsnio 10 ir (ar) 11 dalyse nustatyta tvarka turi būti įskaičiuotos į rinkliavos ar įmokos dydį, apmokėjimą regioniniam atliekų tvarkymo centrui ir atliekų tvarkytojams. Jeigu savivaldybėje faktiškai patiriamos komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo ir atliekų prevencijos priemonių įgyvendinimo sąnaudos viršija atliekų turėtojų per kalendorinius metus sumokėtą rinkliavos ar įmokos lėšų sumą arba yra už ją mažesnės, savivaldybės turi iš naujo įvertinti savivaldybių skaičiuojamos rinkliavos ar įmokos dalies būtinąsias sąnaudas ir (arba) inicijuoti regioninės kainos koregavimą šio straipsnio 7 dalyje nustatyta tvarka, perskaičiuoti ir nustatyti tokį rinkliavos ar įmokos dydį, kuris leistų užtikrinti savivaldybėje faktiškai patiriamų komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo ir atliekų prevencijos priemonių įgyvendinimo sąnaudų, kurios šio straipsnio 10 ir (ar) 11 dalyse nustatyta tvarka turi būti įskaičiuotos į rinkliavos ar įmokos dydį, apmokėjimą regioniniam atliekų tvarkymo centrui ir atliekų tvarkytojams. Savivaldybės taryba gali teikti lengvatas atliekų turėtojams savivaldybės biudžeto sąskaita. Lengvatos atliekų turėtojams teikiamos savivaldybės tarybos nustatyta tvarka.
 
 
-2) sudarytomis sutartimis, jeigu savivaldybės teritorijoje taikoma rinkliava už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą. 
 
 
+14. Atliekų turėtojai su savivaldybe ar juridiniu asmeniu, atliekančiu komunalinių atliekų tvarkymo lėšų administravimo funkciją, atsiskaito mokėdami nustatytą rinkliavą ar įmoką vadovaudamiesi:
 
 
+1) Rinkliavų įstatymo nuostatomis, jeigu savivaldybės teritorijoje taikoma rinkliava;
 
 
-14. Bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai taiko komunalinių atliekų deginimo vienos tonos įkainį už regioninio atliekų tvarkymo centro sudegintas po rūšiavimo likusias netinkamas perdirbti ar kitaip panaudoti energinę vertę turinčias komunalines atliekas. Visais atvejais bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų taikomas komunalinių atliekų deginimo vienos tonos įkainis negali viršyti pagal šio straipsnio 16 dalį nustatytos komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos.
 
 
+2) sudarytomis sutartimis, jeigu savivaldybės teritorijoje taikoma įmoka.
 
 
-15. Bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai, vadovaudamiesi Tarybos patvirtinta Po rūšiavimo likusių, perdirbti ir pakartotinai panaudoti netinkančių energinę vertę turinčių komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos nustatymo metodika, parengia ir Tarybai pateikia komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektą. Taryba, per 5 mėnesius nuo visų tinkamų duomenų ir (ar) dokumentų pateikimo dienos, išnagrinėjusi komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektą, nustato komunalinių atliekų deginimo vienos tonos įkainio viršutinę ribą konkrečiam bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui. Komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektas Tarybai turi būti pateiktas likus ne mažiau kaip 5 mėnesiams iki galiojančio įkainio viršutinės ribos termino galiojimo pabaigos. Taryba privalo grąžinti papildyti komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektą bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui tais atvejais, kai Tarybai pateikta komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba yra apskaičiuota nesilaikant komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos nustatymo reikalavimų, nustatytų Po rūšiavimo likusių, perdirbti ir pakartotinai panaudoti netinkančių energinę vertę turinčių komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos nustatymo metodikoje, ir (arba) yra klaidingas.
 
 
 
 
-16. Komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba nustatoma atsižvelgiant į aplinkosauginius reikalavimus bei alternatyvius atliekų šalinimo būdus ir yra pagrįsta būtinosiomis komunalinių atliekų deginimo sąnaudomis. Būtinosios komunalinių atliekų deginimo sąnaudos nustatomos atsižvelgiant į bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų išlaikymo sąnaudas, protingumo kriterijų atitinkančią investicijų grąžą. Pareiga pagrįsti, kad komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba grindžiama būtinosiomis komunalinių atliekų deginimo sąnaudomis, tenka bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui.
+15. Bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai taiko komunalinių atliekų deginimo vienos tonos įkainį už regioninio atliekų tvarkymo centro sudegintas po rūšiavimo likusias netinkamas perdirbti ar kitaip panaudoti energinę vertę turinčias komunalines atliekas. Visais atvejais bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų taikomas komunalinių atliekų deginimo vienos tonos įkainis negali viršyti pagal šio straipsnio 17 dalį nustatytos komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos.
 
 
 
 
-17. Komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba nustatoma ne trumpesniam kaip 3 metų laikotarpiui ir yra koreguojama kartą per metus. Bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojas perskaičiuoto komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos projektą, parengtą vadovaujantis Tarybos patvirtinta Po rūšiavimo likusių, perdirbti ir pakartotinai panaudoti netinkančių energinę vertę turinčių komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos nustatymo metodika, Tarybai pateikia likus ne mažiau kaip 5 mėnesiams iki datos, kai buvo patvirtinta galiojanti komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba. Taryba, per 5 mėnesius nuo visų tinkamų duomenų ir (ar) dokumentų pateikimo dienos išnagrinėjusi komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektą, tvirtina perskaičiuotą komunalinių atliekų deginimo vienos tonos įkainio viršutinę ribą.
+16. Bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai, vadovaudamiesi Tarybos patvirtinta po rūšiavimo likusių, perdirbti ir pakartotinai panaudoti netinkančių energinę vertę turinčių komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos nustatymo metodika, parengia ir Tarybai pateikia komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektą. Taryba, per 5 mėnesius nuo visų tinkamų duomenų ir (ar) dokumentų pateikimo dienos išnagrinėjusi komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektą, nustato komunalinių atliekų deginimo vienos tonos įkainio viršutinę ribą konkrečiam bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui. Komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektas Tarybai turi būti pateiktas likus ne mažiau kaip 5 mėnesiams iki galiojančio įkainio viršutinės ribos termino galiojimo pabaigos. Taryba privalo grąžinti papildyti komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektą bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui tais atvejais, kai Tarybai pateikta komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba yra apskaičiuota nesilaikant komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos nustatymo reikalavimų, nustatytų po rūšiavimo likusių, perdirbti ir pakartotinai panaudoti netinkančių energinę vertę turinčių komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos nustatymo metodikoje, ir (arba) yra klaidingas.
 
 
 
 
-18. Tarybos nutarimas dėl komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos oficialiai skelbiamas Teisės aktų registre, o juo nustatyta komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba įsigalioja nuo kito mėnesio pirmosios dienos.
+17. Komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba nustatoma atsižvelgiant į aplinkosauginius reikalavimus bei alternatyvius atliekų šalinimo būdus ir yra pagrįsta būtinosiomis komunalinių atliekų deginimo sąnaudomis. Būtinosios komunalinių atliekų deginimo sąnaudos nustatomos atsižvelgiant į bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų išlaikymo sąnaudas, protingumo kriterijų atitinkančią investicijų grąžą. Pareiga pagrįsti, kad komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba grindžiama būtinosiomis komunalinių atliekų deginimo sąnaudomis, tenka bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui.
 
 
+
+
+18. Komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba nustatoma ne trumpesniam kaip 3 metų laikotarpiui ir yra koreguojama kartą per metus. Bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojas perskaičiuoto komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos projektą, parengtą vadovaujantis Tarybos patvirtinta po rūšiavimo likusių, perdirbti ir pakartotinai panaudoti netinkančių energinę vertę turinčių komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos nustatymo metodika, Tarybai pateikia likus ne mažiau kaip 5 mėnesiams iki datos, kai buvo patvirtinta galiojanti komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba. Taryba, per 5 mėnesius nuo visų tinkamų duomenų ir (ar) dokumentų pateikimo dienos išnagrinėjusi komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektą, tvirtina perskaičiuotą komunalinių atliekų deginimo vienos tonos įkainio viršutinę ribą.
+
+
+
+
+19. Tarybos nutarimas dėl komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos oficialiai skelbiamas Teisės aktų registre, o juo nustatyta komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba įsigalioja nuo kito mėnesio pirmosios dienos.
 Įstatymas papildytas straipsniu:
 Nr. XI-1981, 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
 Straipsnio pakeitimai:
 Nr. XII-137, 2012-12-20, Žin., 2012, Nr. 155-8003 (2012-12-31)
+
+
 Straipsnio pakeitimai:
 Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
  
 
 
@@ -3472,12 +3504,12 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 1. Komunalinių atliekų tvarkymo lėšų administravimas apima šias funkcijas, jeigu jas paveda savivaldybė:
 
 
-1) sutarčių pasirašymą su komunalinių atliekų turėtojais;
+1) sutarčių su komunalinių atliekų turėtojais pasirašymą;
 
 
 
 
-2) rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą surinkimą;
+2) rinkliavos ar įmokos surinkimą;
 
 
 
@@ -3504,7 +3536,7 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 
 
 
-2. Komunalinių atliekų tvarkymo lėšų administravimo sąnaudomis laikomos juridinio asmens, savivaldybės pavedimu atliekančio komunalinių atliekų tvarkymo lėšų administravimo funkcijas, sąnaudos, patirtos apskaičiuojant ir surenkant įmokas už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą, išrašant sąskaitas už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą, darbuotojų atlyginimų ir biuro eksploatavimo sąnaudos, susijusios su komunalinių atliekų tvarkymo lėšų administravimo funkcijomis.
+2. Komunalinių atliekų tvarkymo lėšų administravimo sąnaudomis laikomos juridinio asmens, savivaldybės pavedimu atliekančio komunalinių atliekų tvarkymo lėšų administravimo funkcijas, sąnaudos, patirtos apskaičiuojant ir surenkant rinkliavą ar įmokas, išrašant sąskaitas už komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymą, darbuotojų atlyginimų ir biuro eksploatavimo sąnaudos, susijusios su komunalinių atliekų tvarkymo lėšų administravimo funkcijomis.
 
 
 
@@ -3514,16 +3546,16 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 
 
 
-4. Rinkliava ar kita įmoka už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą, nustatyta vadovaujantis Vyriausybės patvirtintomis vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą taisyklėmis ir savivaldybių vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžio nustatymo teisės aktais, yra privaloma visiems atliekų turėtojams. 
+4. Rinkliava ar įmoka, nustatyta vadovaujantis Vyriausybės tvirtinamomis rinkliavos ar įmokos dydžio nustatymo taisyklėmis ir savivaldybių rinkliavos ar įmokos dydžio nustatymo teisės aktais, privaloma visiems atliekų turėtojams.
 
 
 
 
-5. Rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą lėšos gali būti naudojamos tik komunalinių atliekų tvarkymo būtinosioms sąnaudoms, susijusioms su naudojimu, šalinimu, šių veiklų organizavimu, stebėsena, šalinimo vietų vėlesne priežiūra, finansuoti ir komunalinių atliekų tvarkymo lėšų administravimo sąnaudoms padengti.
+5. Rinkliavos ar įmokos lėšos gali būti naudojamos tik komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo būtinosioms sąnaudoms, susijusioms su naudojimu, šalinimu, šių veiklų organizavimu, stebėsena, šalinimo vietų vėlesne priežiūra, finansuoti ir komunalinių atliekų tvarkymo lėšų administravimo sąnaudoms padengti.
 
 
-Papildyta straipsniu:
-Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+Straipsnio pakeitimai:
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
  
 
 
@@ -3946,13 +3978,10 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 
 
 
-31 straipsnis. Savivaldybių atliekų tvarkymo taisyklės 
+31 straipsnis. Savivaldybių atliekų tvarkymo taisyklės
 
 
-1. Savivaldybių tarybos turi patvirtinti taisykles, reglamentuojančias savivaldybės komunalinių atliekų tvarkymo sistemos organizavimą, komunalinių atliekų tvarkymo paslaugų teikimą ir užtikrinančias, kad šios paslaugos atitiktų aplinkosaugos, techninius-ekonominius, higienos reikalavimus ir savivaldybių bei regioninių atliekų prevencijos ir tvarkymo planų įgyvendinimą nustatančias komunalinių atliekų tvarkymo sąlygas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
- 
+1. Savivaldybių tarybos turi patvirtinti taisykles, kuriomis reglamentuojamas savivaldybės komunalinių atliekų tvarkymo sistemos organizavimas, komunalinių atliekų tvarkymo paslaugų teikimas ir užtikrinama, kad šios paslaugos atitiktų teisės aktuose, reguliuojančiuose aplinkosaugos ir visuomenės sveikatos saugos sritis, nustatytus reikalavimus ir savivaldybių bei regioninių atliekų prevencijos ir tvarkymo planų įgyvendinimą nustatančias komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo sąlygas.
 
 
 
@@ -3962,11 +3991,13 @@ Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 
 
 
-3. Savivaldybių atliekų tvarkymo taisyklės turi būti paskelbtos vietinėje spaudoje.
+3. Savivaldybių atliekų tvarkymo taisyklės turi būti paskelbtos Teisės aktų registre ir savivaldybių interneto svetainėse.
+Straipsnio pakeitimai:
+Nr. XI-1981, 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
 
 
 Straipsnio pakeitimai:
-Nr. XI-1981, 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
  
 
 
@@ -7528,3 +7559,13 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2 ir 4 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2175, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19348
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 32-1 straipsnio pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2508, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05469
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2 straipsnio pakeitimo ir Įstatymo papildymo aštuntuoju-12 skirsniu įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2, 4, 25, 28, 30, 30-2, 30-5, 31 straipsnių pakeitimo įstatymas
