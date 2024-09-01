@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 
 # Lietuvos Respublikos advokatūros įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 50-1632, i. k. 1041010ISTA0IX-2066
  
@@ -1129,7 +1129,10 @@ ADVOKATŲ VEIKLA ĮSTEIGIANT JURIDINĮ ASMENĮ
 3. Advokatų profesinės bendrijos steigimo dokumente, be Civilinio kodekso 2.47 straipsnyje nurodytų reikalavimų, turi būti nurodyta: 
 
 
-1) advokatų profesinės bendrijos dalyvių vardai, pavardės, asmens kodai, gyvenamosios vietos adresai;
+1) advokatų profesinės bendrijos dalyvių vardai, pavardės, asmens kodai, korespondencijos adresai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2641, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09678
+ 
 
 
 
@@ -3189,3 +3192,8 @@ Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 43 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2290, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23068
 Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 2, 9, 16, 17, 23, 24, 35, 39, 56, 57, 59, 60, 64, 66, 67, 68, 69 straipsnių ir keturioliktojo skirsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2641, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09678
+Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 30 straipsnio pakeitimo įstatymas
