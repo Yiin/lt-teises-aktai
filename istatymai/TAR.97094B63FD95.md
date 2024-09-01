@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97094B63FD95"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
+Suvestinė redakcija nuo 2024-09-01
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 112-4990, i. k. 1031010ISTA0IX-1804
  
@@ -177,7 +177,10 @@ Nr. XIV-79, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28126
 
 
 
-4) bendrijos tikrieji nariai ir jų duomenys (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta ar adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė) bei taisyklė, pagal kurią tikrieji nariai veikia bendrijos vardu;
+4) bendrijos tikrieji nariai ir jų duomenys (fizinio asmens vardas, pavardė, asmens kodas, korespondencijos adresas; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė) bei taisyklė, pagal kurią tikrieji nariai veikia bendrijos vardu; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2640, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09676
+ 
 
 
 
@@ -232,7 +235,10 @@ Nr. XIV-79, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28126
 4. Bendrijos veiklos sutartyje, be šio straipsnio 3 dalyje nurodytų nuostatų, arba bendrijos dalyvių sutartyje turi būti nurodyta:
 
 
-1) komanditinės ūkinės bendrijos komanditoriai (nurodyta, kad tai komanditorius) ir jų duomenys (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta ar adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė);
+1) komanditinės ūkinės bendrijos komanditoriai (nurodyta, kad tai komanditorius) ir jų duomenys (fizinio asmens vardas, pavardė, asmens kodas, korespondencijos adresas; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė);
+Straipsnio punkto pakeitimai:
+Nr. XIV-2640, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09676
+ 
 
 
 
@@ -334,7 +340,10 @@ TAR pastaba. Tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos, �
 
 
 
-2) likvidatorius (vardas, pavardė, asmens kodas, gyvenamoji vieta), jo paskyrimo ir įgaliojimų pabaigos datos, likvidatoriaus įgaliojimai, išskyrus įstatymuose nustatytus įgaliojimus; 
+2) likvidatorius (vardas, pavardė, asmens kodas, korespondencijos adresas), jo paskyrimo ir įgaliojimų pabaigos datos, likvidatoriaus įgaliojimai, išskyrus įstatymuose nustatytus įgaliojimus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2640, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09676
+ 
 
 
 
@@ -515,7 +524,9 @@ Nr. XIV-245, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08853
 
 
 
-8. Bendrija, įgyvendindama Civilinio kodekso 2.120 straipsnio 2 dalyje nustatytus reikalavimus, išduoda bendrijos dalyviui bendrijos veiklos sutarties ar bendrijos dalyvių sutarties, jeigu ji yra sudaryta, išrašą, kuriame turi būti nurodytas bendrijos pavadinimas, bendrijos dalyvis (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta ar adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė), kuriam išduodamas šis išrašas, ir jo įnašo dydis, bendrijos veiklos sutarties ar bendrijos dalyvių sutarties, jeigu ji yra sudaryta, sudarymo data.
+8. Bendrija, įgyvendindama Civilinio kodekso 2.120 straipsnio 2 dalyje nustatytus reikalavimus, išduoda bendrijos dalyviui bendrijos veiklos sutarties ar bendrijos dalyvių sutarties, jeigu ji yra sudaryta, išrašą, kuriame turi būti nurodytas bendrijos pavadinimas, bendrijos dalyvis (fizinio asmens vardas, pavardė, asmens kodas, korespondencijos adresas; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė), kuriam išduodamas šis išrašas, ir jo įnašo dydis, bendrijos veiklos sutarties ar bendrijos dalyvių sutarties, jeigu ji yra sudaryta, sudarymo data.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2640, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09676
  
 
 
@@ -956,7 +967,10 @@ Nr. XIV-2824, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12146
 12. Be kitų šiame įstatyme ir Civiliniame kodekse nustatytų pareigų, bendrijos likvidatorius privalo: 
 
 
-1) šio įstatymo 4 straipsnio 3 dalies 9 punkte nurodytame šaltinyje viešai paskelbti apie bendrijos likvidavimą ir pateikti Juridinių asmenų registro tvarkytojui dokumentus, patvirtinančius sprendimą likviduoti bendriją, ir duomenis apie save (vardas, pavardė, asmens kodas, gyvenamoji vieta);
+1) šio įstatymo 4 straipsnio 3 dalies 9 punkte nurodytame šaltinyje viešai paskelbti apie bendrijos likvidavimą ir pateikti Juridinių asmenų registro tvarkytojui dokumentus, patvirtinančius sprendimą likviduoti bendriją, ir duomenis apie save (vardas, pavardė, asmens kodas, korespondencijos adresas);
+Straipsnio punkto pakeitimai:
+Nr. XIV-2640, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09676
+ 
 
 
 
