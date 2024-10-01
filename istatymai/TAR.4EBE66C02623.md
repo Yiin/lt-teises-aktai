@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2024-09-01 iki 2024-09-30
+Suvestinė redakcija nuo 2024-10-01 iki 2024-10-17
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -7934,7 +7934,10 @@ Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
 
 
 
-242 straipsnis. Teršalų išmetimas į aplinkos orą
+242 straipsnis. Teršalų išmetimą į aplinkos orą reglamentuojančių teisės aktų pažeidimas. Savivaldybės institucijų priimtų aplinkos apsaugos normatyvų ir (ar) savivaldybės tarybos priimtų sprendimų apriboti arba uždrausti naudoti vienos ar daugiau rūšių kurą pažeidimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2662, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09703
+ 
 
 
 1. Teršalų išmetimas į aplinkos orą pažeidžiant teisės aktuose nustatytus teršalų išmetimo į aplinkos orą aplinkos apsaugos normatyvus ar kitus teršalų išmetimo į aplinkos orą reikalavimus, kai pagal teisės aktus leidimas išmesti į aplinkos orą teršalus nereikalingas,
@@ -7951,6 +7954,17 @@ užtraukia baudą asmenims nuo dviejų šimtų septyniasdešimt iki vieno tūkst
 
 3. Išmetamų į aplinkos orą teršalų apskaitos ir ataskaitų teikimo reikalavimų nevykdymas, išskyrus šio kodekso 236 straipsnyje nurodytas veikas,
 užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto dvidešimt iki trijų šimtų eurų. 
+
+
+
+
+4. Savivaldybės institucijų priimtų aplinkos apsaugos normatyvų ir (ar) savivaldybės tarybos priimtų sprendimų savivaldybės teritorijoje apriboti arba uždrausti naudoti vienos ar daugiau rūšių kurą pažeidimas
+užtraukia įspėjimą arba baudą asmenims nuo šešiasdešimt iki trijų šimtų eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto septyniasdešimt iki vieno tūkstančio vieno šimto septyniasdešimt eurų.
+Papildyta straipsnio dalimi:
+Nr. XIV-2662, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09703
+Straipsnio dalies pakeitimai:
+Nr. XIV-2852, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12637
+ 
 
 
 Straipsnio pakeitimai:
@@ -23111,7 +23125,7 @@ Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
 
 
 
-82) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168 straipsniuose, 205 straipsnio 7 dalyje, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 268 straipsnio 7, 8 dalyse, 281, 286, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2, 21 dalyse, 418, 419 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 446, 447 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 4491, 457, 459, 484, 4841, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 5051, 507, 5071, 516, 5171, 5172, 5173, 5174, 518, 519, 526, 5261, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų;
+82) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168 straipsniuose, 205 straipsnio 7 dalyje, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 242 straipsnio 4 dalyje, 268 straipsnio 7, 8 dalyse, 281, 286, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2, 21 dalyse, 418, 419 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 446, 447 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 4491, 457, 459, 484, 4841, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 5051, 507, 5071, 516, 5171, 5172, 5173, 5174, 518, 519, 526, 5261, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-927, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21600
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
@@ -23125,6 +23139,7 @@ Nr. XIV-1567, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25033
 Nr. XIV-1641, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26582
 Nr. XIV-2151, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14337
 Nr. XIV-2662, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09703
+Nr. XIV-2852, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12637
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
@@ -28754,3 +28769,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2832, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12629
 Lietuvos Respublikos administracinių nusižengimų kodekso 88 straipsnio pakeitimo įstatymas
+ 
+240.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2852, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12637
+Lietuvos Respublikos administracinių nusižengimų kodekso 242, 268, 286 ir 589 straipsnių pakeitimo įstatymo Nr. XIV-2662 1, 2, 3, 7 ir 8 straipsnių pakeitimo įstatymas
