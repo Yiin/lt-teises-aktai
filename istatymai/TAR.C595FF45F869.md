@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2024-09-01 iki 2024-10-03
+Suvestinė redakcija nuo 2024-10-04 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -715,7 +715,33 @@ Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
 
 
 
-4. Universitete teikiamas aukštasis universitetinis išsilavinimas. Universitetas negali vykdyti koleginių studijų ir teikti aukštojo koleginio išsilavinimo, išskyrus šio įstatymo 53 straipsnio 18 dalyje nustatytus atvejus ir tuo atveju, jeigu Vyriausybės nustatyta tvarka ir sąlygomis, įvertinus atliktų išorinio studijų vertinimo ir išorinio mokslo ir studijų institucijų vertinimo rezultatus, mokslo ir studijų institucijų mokslinių tyrimų ir eksperimentinės plėtros bei meno veiklos vertinimo rezultatus, specialistų poreikį, valstybės ūkinės, socialinės, kultūrinės plėtros poreikius ir ateities perspektyvas, universiteto statute yra numatytas koleginių studijų vykdymas pagal Vyriausybės nustatytos studijų krypties (krypčių, krypčių grupės) trumposios, pirmosios, antrosios pakopų koleginių studijų programas. Universitete turi vyrauti universitetinės studijos.
+4. Universitete teikiamas aukštasis universitetinis išsilavinimas. Universitete turi vyrauti universitetinės studijos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2986, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17426
+ 
+
+
+
+
+5. Universitetas negali vykdyti koleginių studijų ir teikti aukštojo koleginio išsilavinimo, išskyrus:
+
+
+1) šio įstatymo 53 straipsnio 18 dalyje nustatytus atvejus;
+
+
+
+
+2) jeigu Vyriausybės nustatyta tvarka ir sąlygomis, įvertinus atliktų išorinio studijų vertinimo ir išorinio mokslo ir studijų institucijų vertinimo rezultatus, mokslo ir studijų institucijų mokslinių tyrimų ir eksperimentinės plėtros bei meno veiklos vertinimo rezultatus, specialistų poreikį, valstybės ūkinės, socialinės, kultūrinės plėtros poreikius ir ateities perspektyvas, universiteto statute yra numatytas koleginių studijų vykdymas pagal Vyriausybės nustatytos studijų krypties (krypčių, krypčių grupės) trumposios ir pirmosios pakopų koleginių studijų programas;
+
+
+
+
+3) kai universitetas dalyvauja Vyriausybei reorganizuojant valstybinę kolegiją, perima reorganizuojamos valstybinės kolegijos teises ir pareigas (įskaitant materialinę bazę ir kvalifikuotą personalą, būtiną koleginių studijų programoms vykdyti) ir sudaro galimybes reorganizuojamos valstybinės kolegijos studentams baigti pradėtas studijas pagal koleginių studijų programas, kurios studentams baigus studijas išregistruojamos.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2986, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17426
+ 
 
 
 Straipsnio pakeitimai:
@@ -6098,3 +6124,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 62 ir 77 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2845, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12155
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 67 straipsnio pakeitimo įstatymas
+ 
+70.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2986, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17426
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 10 straipsnio pakeitimo įstatymas
