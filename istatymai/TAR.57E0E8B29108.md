@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-10-09
+Suvestinė redakcija nuo 2024-10-10 iki 2024-10-17
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
  
@@ -175,7 +175,9 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
 
 
-10. Trečiasis asmuo – fizinis ar juridinis asmuo, kuriam pagal sandorius, nurodytus šio įstatymo 13 straipsnio 4 dalies 1 punkto a papunktyje, suteikiama teisė gauti prieigą ar kitaip susipažinti su įmonės saugumo planuose ar kituose įmonės vidaus dokumentuose nustatytomis ryšių ir informacinėmis sistemomis (ar jų dalimis), kurios yra reikšmingos įmonės veiklai, šių ryšių ir informacinių sistemų (ar jų dalių) technologijomis, duomenų bazėmis ar jose esamais duomenimis arba šiems asmenims būtų suteikta teisė aptarnauti ar kitaip susipažinti su tokiomis ryšių ir informacinėmis sistemomis (jų dalimis). 
+10. Neteko galios nuo 2024-10-10
+Straipsnio dalies naikinimas:
+Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
 Papildyta straipsnio dalimi:
 Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
  
@@ -215,9 +217,10 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
 
 
-15. Šiame įstatyme vartojama sąvoka „sutartinai veikiantys asmenys“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos vertybinių popierių įstatyme, sąvoka „kontroliuojantis asmuo“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos konkurencijos įstatyme, sąvoka „ypatingos svarbos informacinės infrastruktūros valdytojas“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos kibernetinio saugumo įstatyme.
+15. Šiame įstatyme vartojama sąvoka „sutartinai veikiantys asmenys“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos vertybinių popierių įstatyme, sąvoka „kontroliuojantis asmuo“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos konkurencijos įstatyme, sąvoka „ypatingos svarbos informacinės infrastruktūros valdytojas“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos kibernetinio saugumo įstatyme, sąvoka „subtiekėjas“ suprantama taip, kaip ji vartojama Lietuvos Respublikos viešųjų pirkimų įstatyme ir Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
  
 
 
@@ -849,7 +852,10 @@ Nr. XIV-957, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05379
 
 
 
-2. Pirmos ir antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės taip pat privalo informuoti Komisiją apie ketinamus sudaryti sandorius, kai sandorio šaliai sandorio pagrindu yra suteikiamos šio straipsnio 4 dalies 1 punkte, o trečiajam asmeniui – šio straipsnio 4 dalies 1 punkto a papunktyje nurodytos teisės, išskyrus šio straipsnio 8 dalyje nurodytus sandorius. Kreipdamosi į Komisiją dėl šioje dalyje nurodytų ketinamų sudaryti sandorių pirmos ir antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės Komisijai privalo pateikti vertinimą, pagrindžiantį, kad ketinamu sudaryti sandoriu sandorio šaliai yra suteikiamos šio straipsnio 4 dalies 1 punkte, o trečiajam asmeniui – šio straipsnio 4 dalies 1 punkto a papunktyje nurodytos teisės, ir kitą Komisijos darbo tvarkos apraše nustatytą informaciją.
+2. Pirmos ir antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės taip pat privalo informuoti Komisiją apie ketinamus sudaryti sandorius, kai sandorio šaliai sandorio pagrindu yra suteikiamos šio straipsnio 4 dalies 1 punkte, o subtiekėjui – šio straipsnio 4 dalies 1 punkto a papunktyje nurodytos teisės, išskyrus šio straipsnio 8 dalyje nurodytus sandorius. Kreipdamosi į Komisiją dėl šioje dalyje nurodytų ketinamų sudaryti sandorių pirmos ir antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės Komisijai privalo pateikti vertinimą, pagrindžiantį, kad ketinamu sudaryti sandoriu sandorio šaliai yra suteikiamos šio straipsnio 4 dalies 1 punkte, o subtiekėjui – šio straipsnio 4 dalies 1 punkto a papunktyje nurodytos teisės, ir kitą Komisijos darbo tvarkos apraše nustatytą informaciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
+ 
 
 
 
@@ -894,7 +900,26 @@ Nr. XIV-957, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05379
 
 
 
-2) sandorio šalies patikros ar trečiojo asmens patikros, kuri atliekama vertinant sandorio šalį ar trečiąjį asmenį pagal šio įstatymo 11 straipsnyje nustatytus kriterijus ir mutatis mutandis laikantis šio įstatymo 12 straipsnyje nustatytos investuotojų atitikties nacionalinio saugumo interesams patikros tvarkos bei sandorio šaliai ar trečiajam asmeniui mutatis mutandis taikant šio įstatymo 10 straipsnio 4, 5 ir 6 dalyse nustatytas išimtis, kai nėra atliekama investuotojo patikra.
+2) sandorio šalies patikros ar subtiekėjo patikros, kuri atliekama vertinant sandorio šalį ar subtiekėją pagal šio įstatymo 11 straipsnyje nustatytus kriterijus ir mutatis mutandis laikantis šio įstatymo 12 straipsnyje nustatytos investuotojų atitikties nacionalinio saugumo interesams patikros tvarkos bei sandorio šaliai ar subtiekėjui mutatis mutandis taikant šio įstatymo 10 straipsnio 4, 5 ir 6 dalyse nustatytas išimtis, kai nėra atliekama investuotojo patikra; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
+ 
+
+
+
+
+3) sandorio šalies ir (ar) šiam sandoriui vykdyti pasitelkiamų subtiekėjų patikros, kuri atliekama vertinant, ar sandorio šalis ir (ar) šiam sandoriui vykdyti pasitelkiami subtiekėjai vykdo veiklą Vyriausybės pagal Viešųjų pirkimų įstatymo 92 straipsnio 15 dalies nuostatas patvirtintame sąraše nurodytose valstybėse ir (ar) jie yra įmonių grupės, kurios bet kuris narys vykdo veiklą tokioje valstybėje, nariai ir (ar) jų vadovai, kiti valdymo ar priežiūros organo nariai ar kitas (-i) asmuo (-enys), turintis (-ys) teisę atstovauti tiekėjui, subtiekėjui ar jį kontroliuoti, jo vardu priimti sprendimą, sudaryti sandorį, dalyvauja tokių įmonių grupių ir (ar) įmonių veikloje, ir nustatant, kad tai kelia riziką nacionalinio saugumo interesams arba neatitinka nacionalinio saugumo interesų; 
+Papildyta straipsnio punktu:
+Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
+ 
+
+
+
+
+4) sandorio šalies ir (ar) šiam sandoriui vykdyti pasitelkiamos įrangos patikros, kai toks vertinimas yra būtinas siekiant įgyvendinti Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 15 straipsnio 1 dalies 3 punkto nuostatas. 
+Papildyta straipsnio punktu:
+Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
+ 
 
 
 
@@ -916,7 +941,18 @@ Nr. XIV-957, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05379
 
 
 
-6. Jeigu nustatoma, kad sandorio pagrindu sandorio šaliai būtų ar yra suteiktos šio straipsnio 4 dalies 1 punkte, o trečiajam asmeniui – šio straipsnio 4 dalies 1 punkto a papunktyje nurodytos teisės ir tokia sandorio šalis arba trečiasis asmuo kelia riziką arba neatitinka nacionalinio saugumo interesų, toks sandoris laikomas atitinkamai keliančiu riziką arba neatitinkančiu nacionalinio saugumo interesų. Šioje dalyje nurodyti sprendimai priimami mutatis mutandis laikantis šio įstatymo 12 straipsnyje nustatytos tvarkos.
+51. Komisijai išvadą dėl šio straipsnio 4 dalies 3 punkte nurodyto vertinimo teikia jos sprendime nurodytos institucijos. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
+ 
+
+
+
+
+6. Jeigu nustatoma, kad sandorio pagrindu sandorio šaliai ir subtiekėjui būtų ar yra suteiktos šio straipsnio 4 dalies 1 punkte nurodytos teisės ir tokia sandorio šalis arba subtiekėjas kelia riziką nacionalinio saugumo interesams arba neatitinka nacionalinio saugumo interesų ir (ar) šio straipsnio 4 dalies 3 punkte nurodyta sandorio šalis ar sandoriui vykdyti pasitelkiami subtiekėjai kelia riziką nacionalinio saugumo interesams arba neatitinka nacionalinio saugumo interesų, toks sandoris laikomas atitinkamai keliančiu riziką nacionalinio saugumo interesams arba neatitinkančiu nacionalinio saugumo interesų. Šioje dalyje nurodyti sprendimai priimami mutatis mutandis laikantis šio įstatymo 12 straipsnyje nustatytos tvarkos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
+ 
 
 
 
@@ -937,12 +973,18 @@ a) sandorį ketinama sudaryti su sandorio šalimi, atitinkančia bent vieną iš
 
 
 
-b) sudarius sandorį su sandorio šalimi, bent vieną iš šio įstatymo 11 straipsnyje įtvirtintų kriterijų atitiks trečiasis asmuo;
+b) sudarius sandorį su sandorio šalimi, bent vieną iš šio įstatymo 11 straipsnyje įtvirtintų kriterijų atitiks subtiekėjas; 
+Papunkčio pakeitimai:
+Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
+ 
 
 
 
 
-c) sandorį sudariusi šalis ar trečiasis asmuo atitinka bent vieną iš šio įstatymo 11 straipsnyje įtvirtintų kriterijų;
+c) sandorį sudariusi šalis ar subtiekėjas atitinka bent vieną iš šio įstatymo 11 straipsnyje įtvirtintų kriterijų; 
+Papunkčio pakeitimai:
+Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
+ 
 
 
 
@@ -956,7 +998,10 @@ d) sandoris gali atitikti šio straipsnio 4 dalies 1 punkte nurodytus kriterijus
 
 
 
-8. Jeigu šio įstatymo nustatyta tvarka priimamas sprendimas, kad sandoris atitinka nacionalinio saugumo interesus, laikoma, kad kiti sandoriai dėl lygiaverčio objekto su ta pačia sandorio šalimi atitinka nacionalinio saugumo interesus, išskyrus atvejus, kai yra naujų duomenų dėl sandorio ar sandorio šalies (trečiojo asmens) atitikties nacionalinio saugumo interesams.
+8. Jeigu šio įstatymo nustatyta tvarka priimamas sprendimas, kad sandoris atitinka nacionalinio saugumo interesus, laikoma, kad kiti sandoriai dėl lygiaverčio objekto su ta pačia sandorio šalimi atitinka nacionalinio saugumo interesus, išskyrus atvejus, kai yra naujų duomenų dėl sandorio ar sandorio šalies (subtiekėjo) atitikties nacionalinio saugumo interesams. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
+ 
 
 
 
@@ -966,7 +1011,10 @@ d) sandoris gali atitikti šio straipsnio 4 dalies 1 punkte nurodytus kriterijus
 
 
 
-10. Su sandorio šalimi ar trečiuoju asmeniu, pripažintu neatitinkančiu nacionalinio saugumo interesų, nacionaliniam saugumui užtikrinti svarbios įmonės ir ypatingos svarbos informacinės infrastruktūros valdytojai negali sudaryti sandorių, suteikiančių sandorio šaliai šio straipsnio 4 dalies 1 punkte, o trečiajam asmeniui – šios straipsnio 4 dalies 1 punkto a papunktyje nurodytas teises, kol sandorio šalis ar trečiasis asmuo nepateiks informacijos, kad aplinkybės, dėl kurių jis buvo pripažintas neatitinkančiu nacionalinio saugumo interesų, išnyko ar buvo pašalintos.
+10. Su sandorio šalimi ar subtiekėju, pripažintu neatitinkančiu nacionalinio saugumo interesų, nacionaliniam saugumui užtikrinti svarbios įmonės ir ypatingos svarbos informacinės infrastruktūros valdytojai negali sudaryti sandorių, suteikiančių sandorio šaliai šio straipsnio 4 dalies 1 punkte, o subtiekėjui – šio straipsnio 4 dalies 1 punkto a papunktyje nurodytas teises, kol sandorio šalis ar subtiekėjas nepateiks informacijos, kad aplinkybės, dėl kurių jis buvo pripažintas neatitinkančiu nacionalinio saugumo interesų, išnyko ar buvo pašalintos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
+ 
 
 
 
@@ -1361,9 +1409,10 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 2. Komisija suinteresuotų subjektų prašymu ar savo iniciatyva:
 
 
-1) atlieka investuotojo, sandorio ar sandorio šalies (trečiojo asmens) ir asmenų, siekiančių įgyti ar įgijusių transliavimo ir (arba) retransliuojamo turinio licenciją, patikrą dėl atitikties nacionalinio saugumo interesams ir priima sprendimą arba teikia išvadą ar rekomendacijas Vyriausybei ir (ar) investuotojui ar sandorio šaliai (trečiajam asmeniui); 
+1) atlieka investuotojo, sandorio ar sandorio šalies (subtiekėjo) ir asmenų, siekiančių įgyti ar įgijusių transliavimo ir (arba) retransliuojamo turinio licenciją, patikrą dėl atitikties nacionalinio saugumo interesams ir priima sprendimą arba teikia išvadą ar rekomendacijas Vyriausybei ir (ar) investuotojui ar sandorio šaliai (subtiekėjui); 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
  
 
 
@@ -1412,9 +1461,10 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
 
 
-10) teikia informaciją, nuomonę, išvadas, rekomendacijas, taip pat įpareigojimus investuotojui, nacionaliniam saugumui užtikrinti svarbiai įmonei, sandorio šaliai ar trečiajam asmeniui dėl kitų nacionalinio saugumo interesams užtikrinti būtinų priemonių, susijusių su nacionaliniam saugumui užtikrinti svarbių objektų apsauga;
+10) teikia informaciją, nuomonę, išvadas, rekomendacijas, taip pat įpareigojimus investuotojui, nacionaliniam saugumui užtikrinti svarbiai įmonei, sandorio šaliai ar subtiekėjui dėl kitų nacionalinio saugumo interesams užtikrinti būtinų priemonių, susijusių su nacionaliniam saugumui užtikrinti svarbių objektų apsauga;
 Straipsnio punkto pakeitimai:
 Nr. XIV-957, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05379
+Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
  
 
 
@@ -2130,3 +2180,8 @@ Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaug
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1599, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25173
 Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 20 straipsnio pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2985, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17425
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 2, 13 ir 19 straipsnių pakeitimo įstatymas
