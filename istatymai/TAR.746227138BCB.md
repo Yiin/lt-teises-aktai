@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.746227138BCB"
 
 # Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2024-10-10
+Suvestinė redakcija nuo 2024-10-11 iki 2024-11-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 112-3100, i. k. 0981010ISTAVIII-947
  
@@ -276,10 +276,10 @@ Draudžiama diskriminuoti dėl lyties priimant į darbuotojų, darbdavių organi
 9 straipsnis. Draudimas diskriminuoti dėl lyties socialinės apsaugos sistemose
 
 
-1. Draudžiama diskriminuoti asmenis dėl lyties nustatant ir taikant socialinės apsaugos nuostatas, įskaitant sistemose, pakeičiančiose arba papildančiose valstybinio socialinio draudimo sistemą (toliau – socialinės apsaugos nuostatos):
+1. Draudžiama diskriminuoti asmenis dėl lyties nustatant ir taikant socialinės apsaugos nuostatas, įskaitant nuostatas, taikomas sistemose, kuriomis pakeičiama arba papildoma valstybinio socialinio draudimo sistema, (toliau – socialinės apsaugos nuostatos):
 
 
-1) nustatant dalyvavimo socialinės apsaugos sistemose ir naudojimosi jomis galimybes; 
+1) nustatant dalyvavimo socialinės apsaugos sistemose ir naudojimosi jomis galimybes;
 
 
 
@@ -296,15 +296,17 @@ Draudžiama diskriminuoti dėl lyties priimant į darbuotojų, darbdavių organi
 
 
 
-2. Diskriminacija draudžiama nustatant ir taikant socialinės apsaugos nuostatas ligos, neįgalumo, senatvės, įskaitant išankstinį išėjimą į pensiją, nelaimingų atsitikimų darbe ir profesinių ligų, nedarbo atvejais ir socialinės apsaugos nuostatas, kuriomis numatomos bet kokios socialinės išmokos, įskaitant našlių ir našlaičių pensijas, išmokas ir materialines pašalpas.
+2. Diskriminacija draudžiama nustatant ir taikant socialinės apsaugos nuostatas ligos, negalios, senatvės atvejais, įskaitant išankstinio išėjimo į pensiją atvejį, taip pat nelaimingų atsitikimų darbe ir profesinių ligų, nedarbo atvejais ir socialinės apsaugos nuostatas, kuriomis numatomos bet kokios socialinės išmokos, įskaitant našlių ir našlaičių pensijas, išmokas ir materialines pašalpas. 
 
 
 
 
-3. Draudimas diskriminuoti dėl lyties taikomas dirbantiems asmenims, įskaitant savarankiškai dirbančius asmenis, asmenims, kurie nutraukė darbą dėl ligos, motinystės, nelaimingo atsitikimo ar priverstinio nedarbo, taip pat darbo ieškantiems asmenims, pensininkams, neįgaliems darbuotojams ir asmenims, turintiems teisę jų vardu reikalauti išmokų.
+3. Draudimas diskriminuoti dėl lyties taikomas dirbantiems asmenims, įskaitant savarankiškai dirbančius asmenis, asmenims, kurie yra nutraukę darbą dėl ligos, motinystės, nelaimingo atsitikimo ar priverstinio nedarbo, taip pat darbo ieškantiems asmenims, pensininkams, darbuotojams su negalia ir asmenims, turintiems teisę šioje dalyje įvardytų asmenų vardu reikalauti išmokų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-3011, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17776
  
-
-
 
 
 
@@ -761,4 +763,9 @@ Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo Nr. VIII-947 p
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-364, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08723
-Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo Nr. VIII-947 5, 6 ir 11 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo Nr. VIII-947 5, 6 ir 11 straipsnių pakeitimo įstatymas 
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3011, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17776
+Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo Nr. VIII-947 1, 2, 9 straipsnių, priedo pakeitimo ir Įstatymo papildymo 6-1, 11-1 ir 20 straipsniais įstatymas
