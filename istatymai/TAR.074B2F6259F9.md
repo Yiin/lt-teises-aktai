@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.074B2F6259F9"
 
 # Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas
 
-Suvestinė redakcija nuo 2023-05-01 iki 2024-10-10
+Suvestinė redakcija nuo 2024-10-11
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 47-1747, i. k. 1081010ISTA00X-1478
+ 
+TAR pastaba. Iki 2024-10-03 įstatymo Nr. XIV-3013 įsigaliojimo dienos (2024-10-11) Lietuvos Respublikos kompetentingų institucijų priimti sprendimai dėl Rumunijoje įgytos bendrosios praktikos slaugytojo kvalifikacijos, kuri neatitiko minimalių rengimo reikalavimų, pripažinimo galioja ir įsigaliojus 2024-10-03  įstatymui  Nr. XIV-3013.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3013, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17778
+Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 29, 31 straipsnių ir 6 priedo pakeitimo įstatymas
  
 Nauja redakcija nuo 2016-01-18:
 Nr. XII-2233, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00361
@@ -1986,7 +1991,10 @@ BENDROSIOS PRAKTIKOS SLAUGYTOJAI
 
 
 
-3. Bendrosios praktikos slaugytojų rengimą sudaro ne trumpesnės kaip trejų metų trukmės studijos, kurios papildomai gali būti išreikštos lygiaverčiais ECTS kreditais ir kurias sudaro ne mažiau kaip 4 600 valandų teorinio ir klinikinio rengimo. Teorinio rengimo trukmė turi sudaryti ne mažiau kaip vieną trečdalį, o klinikinio rengimo – ne mažiau kaip pusę šioje dalyje numatytos minimalios rengimo trukmės. Kompetentinga institucija gali taikyti dalines išimtis asmenims, įgijusiems dalį rengimo lygiaverčiuose kursuose. Lietuvos Respublikos sveikatos apsaugos ministerija ir Lietuvos Respublikos švietimo ir mokslo ministerija užtikrina, kad slaugytojus rengiančios mokymo įstaigos būtų atsakingos už teorinio ir klinikinio rengimo koordinavimą per visą studijų programos laiką.
+3. Bendrosios praktikos slaugytojų rengimą sudaro ne trumpesnės kaip trejų metų trukmės studijos, kurios papildomai gali būti išreikštos lygiaverčiais ECTS kreditais ir kurias sudaro ne mažiau kaip 4 600 valandų teorinio ir klinikinio rengimo. Teorinio rengimo trukmė turi sudaryti ne mažiau kaip vieną trečdalį, o klinikinio rengimo – ne mažiau kaip pusę šioje dalyje numatytos minimalios rengimo trukmės. Kompetentinga institucija gali taikyti dalines išimtis asmenims, įgijusiems dalį rengimo lygiaverčiuose kursuose. Lietuvos Respublikos sveikatos apsaugos ministerija ir Lietuvos Respublikos švietimo, mokslo ir sporto ministerija užtikrina, kad slaugytojus rengiančios mokymo įstaigos būtų atsakingos už teorinio ir klinikinio rengimo koordinavimą per visą studijų programos laiką.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3013, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17778
+ 
 
 
 
@@ -2128,23 +2136,40 @@ b) 2011 m. liepos 15 d. Įstatymo „Dėl slaugytojo ir akušerio profesijų“ 
 
 
 
-4. Lietuvos Respublikos kompetentinga institucija kaip pakankamą įrodymą pripažįsta valstybių narių piliečių, kurie dalyvavo bendrosios praktikos slaugytojų rengimuose Rumunijoje ir kurių rengimas neatitinka šio įstatymo 29 straipsnio 3 dalyje nustatytų būtiniausių rengimo reikalavimų, toliau nurodytus bendrosios praktikos slaugytojo formalios kvalifikacijos įrodymus, su sąlyga, kad kartu su tuo įrodymu pateikiamas pažymėjimas, kuriame nurodyta, jog tos valstybės narės piliečiai bent trejus metus iš eilės per penkerius metus iki tokio pažymėjimo išdavimo dienos faktiškai ir teisėtai užsiėmė bendrosios praktikos slaugytojo veikla Rumunijoje, įskaitant visiškos atsakomybės už pacientų slaugymo veiklos planavimą, organizavimą ir vykdymą prisiėmimą:
+4. Lietuvos Respublikos kompetentinga institucija kaip pakankamą įrodymą pripažįsta valstybių narių piliečių, kurie dalyvavo bendrosios praktikos slaugytojų rengimuose Rumunijoje ir kurių rengimas neatitinka šio įstatymo 29 straipsnio 3 dalyje nustatytų būtiniausių rengimo reikalavimų, toliau nurodytus bendrosios praktikos slaugytojo formalios kvalifikacijos įrodymus:
 
 
-1) „Certificat de competențe profesionale de asistent medical generalist“ su lavinimo po vidurinės mokyklos, kuris įgytas școală postliceală, pažymėjimu, patvirtinant, kad rengimas prasidėjo iki 2007 m. sausio 1 d.;
+1) bet kurį iš toliau nurodytų bendrosios praktikos slaugytojo formalios kvalifikacijos įrodymų su sąlyga, kad kartu su tuo įrodymu pateikiamas pažymėjimas, kuriame nurodyta, jog tos valstybės narės piliečiai bent trejus metus iš eilės per penkerius metus iki tokio pažymėjimo išdavimo dienos faktiškai ir teisėtai užsiėmė bendrosios praktikos slaugytojo veikla Rumunijoje, įskaitant visiškos atsakomybės už pacientų slaugymo veiklos planavimą, organizavimą ir vykdymą, prisiėmimą:
 
 
-
-
-2) „Diplomă de absolvire de asistent medical generalist“ su trumpalaikėmis aukštojo mokslo studijomis, patvirtinant, kad rengimas prasidėjo iki 2003 m. spalio 1 d.;
+a) „Certificat de competențe profesionale de asistent medical generalist“ pažymėjimą, kuris įgytas „școală postliceală“ po vidurinio ugdymo, patvirtinant, kad rengimas prasidėjo iki 2007 m. sausio 1 d.;
 
 
 
 
-3) „Diplomă de licență de asistent medical generalist“ su ilgalaikėmis aukštojo mokslo studijomis, patvirtinant, kad rengimas prasidėjo iki 2003 m. spalio 1 d.
+b) „Diplomă de absolvire de asistent medical generalist“ su trumpalaikėmis aukštojo mokslo studijomis, patvirtinant, kad rengimas prasidėjo iki 2003 m. spalio 1 d.;
+
+
+
+
+c) „Diplomă de licență de asistent medical generalist“ su ilgalaikėmis aukštojo mokslo studijomis, patvirtinant, kad rengimas prasidėjo iki 2003 m. spalio 1 d.;
+
+
+
+
+
+
+2) bet kurį iš šios dalies 1 punkto b ir c papunkčiuose nurodytų bendrosios praktikos slaugytojo formalios kvalifikacijos įrodymų su sąlyga, kad kartu su tuo įrodymu pateikiamas šis formalios kvalifikacijos, įgytos pagal specialią tobulinimo programą, įrodymas: „Diplomă de licență“, nurodytas nacionalinio švietimo ministro ir sveikatos apsaugos ministro 2014 m. rugpjūčio 11 d. bendrojo įsakymo Nr. 4317/943/2014 dėl specialiosios pirminio rengimo tobulinimo programos, skirtos bendrosios praktikos slaugytojams (po vidurinio ugdymo ir aukštojo mokslo absolventams), įgijusiems kvalifikaciją iki 2007 m. sausio 1 d., patvirtinimo (2014 m. rugpjūčio 26 d. Rumunijos oficialusis leidinys Nr. 624) 3 straipsnio 2 dalyje, kartu su diplomo priedu, kuriame nurodyta, kad studentas užbaigė specialią tobulinimo programą;
+
+
+
+
+3) bet kurį iš formalios kvalifikacijos po vidurinio ugdymo įrodymų, nurodytų nacionalinio švietimo ministro įsakymo Nr. 5114/2014 dėl specialiosios pirminio rengimo tobulinimo programos, skirtos bendrosios praktikos slaugytojams (po vidurinio ugdymo absolventams), įgijusiems kvalifikaciją iki 2007 m. sausio 1 d., organizavimo, vykdymo ir užbaigimo metodikos patvirtinimo (2015 m. sausio 6 d. Rumunijos oficialusis leidinys Nr. 5) 4 straipsnyje, jeigu kartu su tuo įrodymu pateikiamas šis formalios kvalifikacijos, įgytos pagal specialią tobulinimo programą, įrodymas: „Certificat de revalorizare a competenţelor profesionale“, nurodytas nacionalinio švietimo ministro ir sveikatos apsaugos ministro 2014 m. rugpjūčio 11 d. bendrojo įsakymo Nr. 4317/943/2014 3 straipsnio 1 dalyje ir 3 priede bei nacionalinio švietimo ministro įsakymo Nr. 5114/2014 16 straipsnyje.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-3013, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17778
  
-
-
 
 
 
@@ -12599,7 +12624,10 @@ kvalifikacijų pripažinimo įstatymo
  
 
 
-1. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/36/EB dėl profesinių kvalifikacijų pripažinimo su paskutiniais pakeitimais, padarytais 2021 m. rugpjūčio 25 d. Komisijos deleguotuoju sprendimu (ES) 2021/2183, kuriuo dėl formalios kvalifikacijos įrodymų ir rengimo kursų pavadinimų iš dalies keičiamas Europos Parlamento ir Tarybos direktyvos 2005/36/EB V priedas.
+1. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/36/EB dėl profesinių kvalifikacijų pripažinimo su paskutiniais pakeitimais, padarytais 2024 m. vasario 7 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/505.
+Punkto pakeitimai:
+Nr. XIV-3013, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17778
+ 
 
 
 
@@ -12656,3 +12684,8 @@ Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 1, 2, 5, 58, 59, 63 straipsnių ir 6 priedo pakeitimo ir Įstatymo papildymo 59-1 straipsniu įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3013, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17778
+Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 29, 31 straipsnių ir 6 priedo pakeitimo įstatymas
