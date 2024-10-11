@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF"
 
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas
 
-Suvestinė redakcija nuo 2021-10-01 iki 2024-10-10
+Suvestinė redakcija nuo 2024-10-11 iki 2024-10-17
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 105-3019, i. k. 0991010ISTAIII-1443
  
@@ -91,7 +91,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-9. Įslaptintos informacijos gavėjas – paslapčių subjektas ar jo padalinys, paslapčių subjektui pavaldi ar jo reguliavimo sričiai priskirta įstaiga, įmonė, tiekėjas, darbuotojas, kuriems skirta kito paslapčių subjekto parengta įslaptinta informacija.
+9. Įslaptintos informacijos gavėjas – paslapčių subjektas ar jo padalinys, paslapčių subjektui pavaldi ar jo reguliavimo sričiai priskirta įstaiga, įmonė, akcinė bendrovė arba uždaroji akcinė bendrovė, kurios visus balsus visuotiniame akcininkų susirinkime suteikiančios akcijos priklauso valstybei, savivaldybei ar valstybės valdomai bendrovei, tiekėjas, darbuotojas, kuriems skirta kito paslapčių subjekto parengta įslaptinta informacija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
 
 
 
@@ -101,7 +104,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-11. Įslaptintos informacijos rengėjas – paslapčių subjektas, paslapčių subjektui pavaldi ar jo reguliavimo sričiai priskirta įstaiga, įmonė, parengę ir įslaptinę informaciją, arba jų teisių perėmėjas. 
+11. Įslaptintos informacijos rengėjas – paslapčių subjektas, paslapčių subjektui pavaldi ar jo reguliavimo sričiai priskirta įstaiga, įmonė, akcinė bendrovė arba uždaroji akcinė bendrovė, kurios visus balsus visuotiniame akcininkų susirinkime suteikiančios akcijos priklauso valstybei, savivaldybei ar valstybės valdomai bendrovei, parengę ir įslaptinę informaciją, arba jų teisių perėmėjas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
 
 
 
@@ -131,14 +137,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-17. Paslapčių subjektas – valstybės ir savivaldybės institucija, kurios veikla susijusi su informacijos įslaptinimu, išslaptinimu, įslaptintos informacijos naudojimu ir (ar) apsauga, tokiai institucijai pavaldi ar jos reguliavimo sričiai priskirta įstaiga, įmonė, kurioms suteiktas paslapčių subjekto statusas, pritarus Lietuvos Respublikos paslapčių apsaugos koordinavimo komisijai (toliau – Paslapčių apsaugos koordinavimo komisija).
+17. Paslapčių subjektas – valstybės ir savivaldybės institucija, kurios veikla susijusi su informacijos įslaptinimu, išslaptinimu, įslaptintos informacijos naudojimu ir (ar) apsauga, taip pat tokiai institucijai pavaldi ar jos reguliavimo sričiai priskirta įstaiga, įmonė, akcinė bendrovė arba uždaroji akcinė bendrovė, kurios visus balsus visuotiniame akcininkų susirinkime suteikiančios akcijos priklauso valstybei, savivaldybei ar valstybės valdomai bendrovei, kurioms ši institucija, pritarus Lietuvos Respublikos paslapčių apsaugos koordinavimo komisijai, suteikė paslapčių subjekto statusą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
 
 
 
 
-18. Paslapčių subjekto ar tiekėjo darbuotojas – asmuo, kurį su paslapčių subjektu ar tiekėju sieja tarnybos ar darbo santykiai, taip pat asmuo, kuris, sudaręs praktinio mokymo, savanoriškos praktikos ar profesinės veiklos praktikos sutartį, paslapčių subjekte ar pas tiekėją atlieka praktiką. 
+18. Paslapčių subjekto ar tiekėjo darbuotojas – asmuo, kurį su paslapčių subjektu ar tiekėju sieja tarnybos ar darbo santykiai, asmuo, kuris, sudaręs praktinio mokymo, savanoriškos praktikos ar profesinės veiklos praktikos sutartį, paslapčių subjekte ar pas tiekėją atlieka praktiką, taip pat asmuo, kuris paslapčių subjekto statusą turinčioje akcinėje bendrovėje arba uždarojoje akcinėje bendrovėje yra kolegialaus priežiūros organo, kolegialaus valdymo organo ar jų sudaromo komiteto narys. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
  
 
 
@@ -190,6 +200,13 @@ Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 
 28. Žinybinė saugumo priežiūros tarnyba – paslapčių subjekto vadovo ar jo įgalioto asmens sprendimu paskirtas arba įsteigtas paslapčių subjekto padalinys, institucija ar įstaiga, vykdantys ĮIRIS apsaugos priežiūrą ir išduodantys leidimus naudoti ĮIRIS.
+
+
+
+
+29. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos karo prievolės įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
  
 
 
@@ -353,7 +370,10 @@ ANTRASIS SKIRSNIS
 
 
 
-3. Įslaptintos informacijos rengėju nelaikomas paslapčių subjektas, paslapčių subjektui pavaldi ar jo reguliavimo sričiai priskirta įstaiga, įmonė, disponuojantys bet kokiu būdu gauta, bet kokio pobūdžio ir kilmės kito paslapčių subjekto parengta, įslaptinta ir jiems perduota informacija ar savo veikloje ją naudojantys.
+3. Įslaptintos informacijos rengėju nelaikomas paslapčių subjektas, paslapčių subjektui pavaldi ar jo reguliavimo sričiai priskirta įstaiga, įmonė, akcinė bendrovė arba uždaroji akcinė bendrovė, kurios visus balsus visuotiniame akcininkų susirinkime suteikiančios akcijos priklauso valstybei, savivaldybei ar valstybės valdomai bendrovei, (toliau kartu – paslapčių subjektui pavaldi ar jo reguliavimo sričiai priskirta įstaiga, įmonė), disponuojantys bet kokiu būdu gauta, bet kokio pobūdžio ir kilmės kito paslapčių subjekto parengta, įslaptinta ir jiems perduota informacija ar savo veikloje ją naudojantys.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
 
 
 
@@ -432,7 +452,10 @@ ANTRASIS SKIRSNIS
 
 
 
-13) detalūs duomenys apie valstybės gynybai naudojamą oro erdvės stebėjimo ir kontrolės sistemą;
+13) detalūs duomenys apie valstybės gynybai naudojamą oro erdvės ar jūros stebėjimo ir kontrolės sistemą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
 
 
 
@@ -916,7 +939,10 @@ Vyriausybė atlieka šias funkcijas:
 
 
 
-7) vertina paslapčių subjektų sprendimų dėl paslapčių subjekto statuso suteikimo pavaldžioms ar jų reguliavimo sričiai priskirtoms įstaigoms, įmonėms projektus;
+7) vertina paslapčių subjektų sprendimų dėl paslapčių subjekto statuso suteikimo pavaldžioms ar jų reguliavimo sričiai priskirtoms įstaigoms, įmonėms, akcinėms bendrovėms arba uždarosioms akcinėms bendrovėms, kurių visus balsus visuotiniame akcininkų susirinkime suteikiančios akcijos priklauso valstybei, savivaldybei ar valstybės valdomai bendrovei, projektus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
 
 
 
@@ -3500,3 +3526,13 @@ Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 4, 7, 8, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24, 26, 27, 30, 31, 33, 35, 37, 38, 46, 47 ir 48 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2911, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13546
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 4 ir 7 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 2, 6, 7, 12, 16, 17, 18, 20, 21, 22, 35, 36, 43 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas
