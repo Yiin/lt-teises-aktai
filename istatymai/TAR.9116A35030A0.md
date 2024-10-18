@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9116a35030a011e78397ae072f58c508"
 
 # Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-10-17
+Suvestinė redakcija nuo 2024-10-18 iki 2024-12-31
  
 Įstatymas paskelbtas: TAR 2017-05-04, i. k. 2017-07551
  
@@ -341,10 +341,12 @@ Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
 
 
 
-28. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Viešųjų pirkimų įstatyme, Lietuvos Respublikos visuomenės informavimo įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos pašto įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatyme, Lietuvos Respublikos koncesijų įstatyme.
+28. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Viešųjų pirkimų įstatyme, Lietuvos Respublikos visuomenės informavimo įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos pašto įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatyme, Lietuvos Respublikos koncesijų įstatyme, Lietuvos Respublikos kibernetinio saugumo įstatyme.
+ 
 Straipsnio dalies pakeitimai:
 Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
 Nr. XIV-1672, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27262
+Nr. XIV-2910, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13545
  
 
 
@@ -1721,11 +1723,12 @@ Nr. XIV-1672, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27262
 
 
 
-5. Perkantysis subjektas, veikiantis gynybos srityje, valdantis ypatingos svarbos informacinę infrastruktūrą, veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, ar įrašytas į Saugiojo valstybinio duomenų perdavimo tinklo naudotojų sąrašą (toliau – Saugiojo tinklo naudotojų sąrašas), atlikdamas su nacionaliniu saugumu susijusių prekių, paslaugų ar darbų pirkimus, įvertina visus galinčius kelti grėsmę nacionalinio saugumo interesams rizikos veiksnius ir sprendžia, ar šiuose pirkimuose gali dalyvauti tiekėjai, jų subtiekėjai ir ūkio subjektai, kurių pajėgumais remiamasi, kurie nėra registruoti (jeigu tiekėjas, jo subtiekėjas ar ūkio subjektas, kurio pajėgumais remiamasi, yra fizinis asmuo – nuolat gyvenantis ar turintis pilietybę) Europos Sąjungos valstybėje narėje, Šiaurės Atlanto sutarties organizacijos valstybėje narėje ar trečiojoje šalyje, pasirašiusioje šio straipsnio 4 dalyje nurodytus tarptautinius susitarimus.
+5. Perkantysis subjektas, veikiantis gynybos srityje ar srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, įrašytas į Saugiojo valstybinio duomenų perdavimo tinklo naudotojų sąrašą (toliau – Saugiojo tinklo naudotojų sąrašas) ar laikomas esminiu kibernetinio saugumo subjektu, nurodytu Kibernetinio saugumo įstatyme, (toliau – esminis subjektas), atlikdamas su nacionaliniu saugumu susijusių prekių, paslaugų ar darbų pirkimus, įvertina visus galinčius kelti grėsmę nacionalinio saugumo interesams rizikos veiksnius ir sprendžia, ar šiuose pirkimuose gali dalyvauti tiekėjai, jų subtiekėjai ir ūkio subjektai, kurių pajėgumais remiamasi, kurie nėra registruoti (jeigu tiekėjas, jo subtiekėjas ar ūkio subjektas, kurio pajėgumais remiamasi, yra fizinis asmuo – nuolat gyvenantis ar turintis pilietybę) Europos Sąjungos valstybėje narėje, Šiaurės Atlanto sutarties organizacijos valstybėje narėje ar trečiojoje šalyje, pasirašiusioje šio straipsnio 4 dalyje nurodytus tarptautinius susitarimus.
 Papildyta straipsnio dalimi:
 Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 Straipsnio dalies pakeitimai:
 Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
+Nr. XIV-2910, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13545
  
 
 
@@ -3116,17 +3119,20 @@ Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
 
 
 
-8. Perkantysis subjektas, veikiantis gynybos srityje, valdantis ypatingos svarbos informacinę infrastruktūrą, veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, rengdamas su nacionaliniu saugumu susijusių pirkimų technines specifikacijas, reikalauja, kad tiekėjo siūlomos prekės (įskaitant jų gamintojus), paslaugos ar darbai nekeltų grėsmės nacionaliniam saugumui. Perkantysis subjektas, veikiantis gynybos srityje, sprendžia, ar tiekėjo siūlomos prekės (įskaitant jų gamintojus), paslaugos ar darbai kelia grėsmę nacionaliniam saugumui, įvertinęs kompetentingų institucijų pateiktą informaciją. Perkantysis subjektas, veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, ar valdantis ypatingos svarbos informacinę infrastruktūrą, kelia reikalavimą, kad tiekėjo siūlomos prekės (įskaitant jų gamintojus), paslaugos ar darbai nekeltų grėsmės nacionaliniam saugumui, kai sandorio pagrindu susidarytų aplinkybės, nurodytos Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 13 straipsnio 4 dalies 1 punkte. Perkantysis subjektas, veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, valdantis ypatingos svarbos informacinę infrastruktūrą, laiko, kad tiekėjo siūlomos prekės (įskaitant jų gamintojus), paslaugos ar darbai kelia grėsmę nacionaliniam saugumui, kai Lietuvos Respublikos Vyriausybė yra priėmusi sprendimą, patvirtinantį, kad ketinamas sudaryti sandoris neatitinka nacionalinio saugumo interesų vadovaujantis Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymu. 
+8. Perkantysis subjektas, veikiantis gynybos srityje ar srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, ar laikomas esminiu subjektu, rengdamas su nacionaliniu saugumu susijusių pirkimų technines specifikacijas, reikalauja, kad tiekėjo siūlomos prekės (taip pat jų gamintojai), paslaugos ar darbai nekeltų grėsmės nacionaliniam saugumui. Perkantysis subjektas, veikiantis gynybos srityje, sprendžia, ar tiekėjo siūlomos prekės (taip pat jų gamintojai), paslaugos ar darbai kelia grėsmę nacionaliniam saugumui, įvertinęs kompetentingų institucijų pateiktą informaciją. Perkantysis subjektas, veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, ar laikomas esminiu subjektu, kelia reikalavimą, kad tiekėjo siūlomos prekės (taip pat jų gamintojai), paslaugos ar darbai nekeltų grėsmės nacionaliniam saugumui, kai sandorio pagrindu susidarytų aplinkybės, nurodytos Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 13 straipsnio 4 dalies 1 punkte. Perkantysis subjektas, veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, ar laikomas esminiu subjektu, laiko, kad tiekėjo siūlomos prekės (taip pat jų gamintojai), paslaugos ar darbai kelia grėsmę nacionaliniam saugumui, kai Lietuvos Respublikos Vyriausybė yra priėmusi sprendimą, patvirtinantį, kad ketinamas sudaryti sandoris neatitinka nacionalinio saugumo interesų vadovaujantis Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymu. 
 Papildyta straipsnio dalimi:
 Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
 Straipsnio dalies pakeitimai:
 Nr. XIV-1672, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27262
+Nr. XIV-2910, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13545
  
 
 
 
 
-9. Perkantysis subjektas, veikiantis gynybos srityje, valdantis ypatingos svarbos informacinę infrastruktūrą, veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, ar įrašytas į Saugiojo tinklo naudotojų sąrašą, atlikdamas pirkimus, kurių objektas apima Viešųjų pirkimų įstatymo 92 straipsnio 13 dalyje numatytame sąraše nurodytų BVPŽ kodų prekes ar paslaugas, laiko, kad prekės ar paslaugos kelia grėsmę nacionaliniam saugumui, kai:
+9. Perkantysis subjektas, veikiantis gynybos srityje ar srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, įrašytas į Saugiojo tinklo naudotojų sąrašą ar laikomas esminiu subjektu, atlikdamas pirkimus, kurių objektas apima Viešųjų pirkimų įstatymo 92 straipsnio 13 dalyje numatytame sąraše nurodytų BVPŽ kodų prekes ar paslaugas, laiko, kad prekės ar paslaugos kelia grėsmę nacionaliniam saugumui, kai: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2910, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13545
 
 
 1) prekių gamintojas ar jį kontroliuojantis asmuo yra registruoti (jeigu gamintojas ar jį kontroliuojantis asmuo yra fizinis asmuo – nuolat gyvenantis ar turintis pilietybę) Viešųjų pirkimų įstatymo 92 straipsnio 14 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose;
@@ -6138,9 +6144,11 @@ Nr. XIV-1672, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27262
 
 
 
-3. Perkantysis subjektas, veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, ar valdantis ypatingos svarbos informacinę infrastruktūrą, nustato specialų pirkimo sutarties nutraukimo atvejį, pagal kurį sutartis būtų nutraukta, kai Lietuvos Respublikos Vyriausybė Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka priima sprendimą, patvirtinantį, kad sutartis neatitinka nacionalinio saugumo interesų.
+3. Perkantysis subjektas, veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, ar laikomas esminiu subjektu, nustato specialų pirkimo sutarties nutraukimo atvejį, pagal kurį sutartis būtų nutraukta, kai Lietuvos Respublikos Vyriausybė Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka priima sprendimą, patvirtinantį, kad sutartis neatitinka nacionalinio saugumo interesų.
 Papildyta straipsnio dalimi:
 Nr. XIII-3259, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15774
+Straipsnio dalies pakeitimai:
+Nr. XIV-2910, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13545
  
 
 
@@ -8172,3 +8180,8 @@ Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2752, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11296
 Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 37 ir 68 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2910, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13545
+Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 2, 29, 50 ir 95 straipsnių pakeitimo įstatymas
