@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2024-10-01 iki 2024-10-17
+Suvestinė redakcija nuo 2024-10-18 iki 2024-10-24
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
+ 
+TAR pastaba. Suvestinėse redakcijose nuo 2024-10-18 iki 2025-01-01 ir nuo 2025-01-01 nėra įtraukti visi Kodekso pakeitimai
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539
+Lietuvos Respublikos administracinių nusižengimų kodekso 479, 480, 589 straipsnių ir priedo pakeitimo įstatymas
  
  
 
@@ -19175,82 +19180,56 @@ užtraukia baudą nuo šešių šimtų iki vieno tūkstančio šimto penkiasdeš
 
 
 
-479 straipsnis. Lietuvos Respublikos kibernetinio saugumo įstatymo nuostatų dėl pareigos teikti informaciją pažeidimai
+479 straipsnis. Lietuvos Respublikos kibernetinio saugumo įstatymo nuostatų dėl pareigos teikti informaciją, reikalingą analizuojant ir vertinant, ar kibernetinis incidentas turi galimų nusikalstamos veikos požymių, pažeidimai
 
 
-1. Informacijos apie kibernetinius incidentus ir taikytas kibernetinių incidentų valdymo priemones nepateikimas Nacionaliniam kibernetinio saugumo centrui arba šios informacijos teikimo tvarkos pažeidimas
+1. Informacijos, reikalingos analizuojant ir vertinant, ar kibernetinis incidentas turi galimų nusikalstamos veikos požymių, nepateikimas policijai
 užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trisdešimt iki trijų šimtų eurų.
 
 
 
 
-2. Nacionalinio kibernetinio saugumo centro nurodymų kibernetinio saugumo subjektams pateikti informaciją, būtiną kibernetinio saugumo subjektų ir jų valdomų ryšių ir informacinių sistemų atitikties organizaciniams ir techniniams kibernetinio saugumo reikalavimams, taikomiems kibernetinio saugumo subjektams, ir kibernetinio saugumo būklei įvertinti, nevykdymas laiku
-užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trisdešimt iki trijų šimtų eurų.
-
-
-
-
-3. Informacijos apie kibernetinius incidentus, galimai turinčius nusikalstamų veikų požymių, nepateikimas policijai arba šios informacijos teikimo tvarkos pažeidimas
-užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trisdešimt iki trijų šimtų eurų.
-
-
-
-
-4. Šio straipsnio 1, 2, 3 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki vieno tūkstančio keturių šimtų keturiasdešimt eurų.
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki vieno tūkstančio keturių šimtų keturiasdešimt eurų. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594
 Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
+Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539
  
 
 
 
 
-480 straipsnis. Lietuvos Respublikos kibernetinio saugumo įstatyme nustatytų kibernetinio saugumo užtikrinimo pareigų atlikimo pažeidimai 
-Pakeistas straipsnio pavadinimas:
-Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
- 
+480 straipsnis. Lietuvos Respublikos kibernetinio saugumo įstatyme nustatytų kibernetinio saugumo užtikrinimo pareigų atlikimo pažeidimai
 
 
-1. Teisėtų Nacionalinio kibernetinio saugumo centro ar policijos nurodymų, susijusių su kibernetinio saugumo užtikrinimu, neįvykdymas laiku
-užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo septyniasdešimt iki vieno šimto penkiasdešimt eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594
-Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
- 
+1. Teisėtų policijos nurodymų, susijusių su kibernetinio saugumo užtikrinimu, neįvykdymas laiku
+užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo septyniasdešimt iki vieno šimto penkiasdešimt eurų.
 
 
 
 
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki penkių šimtų septyniasdešimt eurų.
 
 
 
 
-3. Kibernetinių incidentų valdymo ypatingos svarbos informacinėje infrastruktūroje plano neparengimas ar nepatvirtinimas arba nepateikimas Nacionaliniam kibernetinio saugumo centrui
-užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trisdešimt iki vieno tūkstančio keturių šimtų eurų.
+3. Lietuvos Respublikos kibernetinio saugumo įstatyme nustatytų reikalavimų kibernetinio saugumo subjektų vadovams ar jų įgaliotiems asmenims pažeidimas
+užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar jų įgaliotiems asmenims nuo dviejų šimtų penkiasdešimt iki trijų tūkstančių eurų.
 
 
 
 
-4. Nustatytų organizacinių ir techninių kibernetinio saugumo reikalavimų, taikomų kibernetinio saugumo subjektams, kibernetinio saugumo subjektų ir jų valdomų ryšių ir informacinių sistemų kibernetiniam saugumui užtikrinti nevykdymas 
-užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trisdešimt iki vieno tūkstančio keturių šimtų eurų.
-Straipsnio dalies pakeitimai:
-Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594
-Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą juridinių asmenų vadovams ar jų įgaliotiems asmenims nuo dviejų tūkstančių iki šešių tūkstančių eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539
  
-
-
-
-
-5. Šio straipsnio 3, 4 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
-užtraukia baudą juridinių asmenų vadovams ar kitiems asmenims nuo vieno tūkstančio keturių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
- 
-
-
 
 
 
@@ -22722,11 +22701,12 @@ Nr. XIV-2133, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14325
 
 
 
-46) Nacionalinio kibernetinio saugumo centro – dėl šio kodekso 479 straipsnio 1, 2, 4 dalyse, 480, 4801, 507 straipsniuose numatytų administracinių nusižengimų; 
+46) Nacionalinio kibernetinio saugumo centro – dėl šio kodekso 480 straipsnio 3, 4 dalyse, 4801, 507 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594
 Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
 Nr. XIV-414, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14162
+Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539
  
 
 
@@ -22746,7 +22726,7 @@ Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
 
 
 
-49) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 1311, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 1701, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 2091, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 2341, 2342 straipsniuose, 281 straipsnio 1, 2, 3, 4, 5 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 373 straipsnio 2 dalyje, 414, 415, 416, 417, 420, 421, 422, 4221, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 451, 452, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474, 4741 straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 4841, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 4941, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 41, 5, 6 dalyse, 507, 5071, 508, 5101, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 3 dalyje, 5261, 527, 528, 530, 534, 535, 538, 540, 546, 553, 5551 straipsniuose numatytų administracinių nusižengimų;
+49) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 1311, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 1701, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 2091, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 2341, 2342 straipsniuose, 281 straipsnio 1, 2, 3, 4, 5 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 373 straipsnio 2 dalyje, 414, 415, 416, 417, 420, 421, 422, 4221, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 451, 452, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474, 4741, 479 straipsniuose, 480 straipsnio 1, 2 dalyse, 481, 482, 483, 484, 4841, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 4941, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 41, 5, 6 dalyse, 507, 5071, 508, 5101, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 3 dalyje, 5261, 527, 528, 530, 534, 535, 538, 540, 546, 553, 5551 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
@@ -22772,6 +22752,7 @@ Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
 Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
 Nr. XIV-2151, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14337
 Nr. XIV-2463, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25957
+Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539
  
 
 
@@ -27421,7 +27402,10 @@ Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
 
 
 
-98. 2016 m. liepos 6 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/1148 dėl priemonių aukštam bendram tinklų ir informacinių sistemų saugumo lygiui visoje Sąjungoje užtikrinti. 
+98. Neteko galios nuo 2024-10-18
+Punkto naikinimas:
+Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539
+ 
 
 
 
@@ -27564,6 +27548,14 @@ Nr. XIV-2681, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11164
 119. 2024 m. vasario 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/573 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo iš dalies keičiama Direktyva (ES) 2019/1937 ir panaikinamas Reglamentas (ES) Nr. 517/2014. 
 Papildyta straipsnio dalimi:
 Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783
+ 
+
+
+
+
+120. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2555 dėl priemonių aukštam bendram kibernetinio saugumo lygiui visoje Sąjungoje užtikrinti, kuria iš dalies keičiamas Reglamentas (ES) Nr. 910/2014 ir Direktyva (ES) 2018/1972 ir panaikinama Direktyva (ES) 2016/1148. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539
  
 
 
@@ -28774,3 +28766,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 88 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2852, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12637
 Lietuvos Respublikos administracinių nusižengimų kodekso 242, 268, 286 ir 589 straipsnių pakeitimo įstatymo Nr. XIV-2662 1, 2, 3, 7 ir 8 straipsnių pakeitimo įstatymas
+ 
+241.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539
+Lietuvos Respublikos administracinių nusižengimų kodekso 479, 480, 589 straipsnių ir priedo pakeitimo įstatymas
