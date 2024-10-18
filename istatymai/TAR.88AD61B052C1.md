@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/88ad61b052c111e884cbc4327e55f3ca"
 
 # Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatymas
 
-Suvestinė redakcija nuo 2024-01-02 iki 2024-10-17
+Suvestinė redakcija nuo 2024-10-18
  
 Įstatymas paskelbtas: TAR 2018-05-08, i. k. 2018-07474
  
@@ -212,7 +212,10 @@ Nr. XIV-1952, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09710
 
 
 
-7) nustato pranešimų pagal Reglamento (ES) Nr. 910/2014 19 straipsnio 2 dalį pateikimo tvarką, kiek tai nereglamentuota Europos Komisijos priimtuose Reglamento (ES) Nr. 910/2014 įgyvendinamuosiuose teisės aktuose;
+7) Neteko galios nuo 2024-10-18
+Straipsnio punkto naikinimas:
+Nr. XIV-2907, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13542
+ 
 
 
 
@@ -1197,3 +1200,8 @@ Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų pati
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1952, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09710
 Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatymo Nr. XIII-1120 1, 2, 3, 12, 13, 16, 17, 18 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 4-1, 4-2 straipsniais, V-1, V-2 skyriais įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2907, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13542
+Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatymo Nr. XIII-1120 4 straipsnio pakeitimo įstatymas
