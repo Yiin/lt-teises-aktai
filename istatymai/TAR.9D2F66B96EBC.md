@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-10-17
+Suvestinė redakcija nuo 2024-10-18 iki 2024-11-22
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -1986,10 +1986,11 @@ Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
 
 
 
-10. Reglamento (ES) 2015/1998 priedo 1.0.6 ir 1.7 punktuose numatyta civilinės aviacijos ypatingos svarbos informacinė infrastruktūra nustatoma ir apsauga nuo kibernetinių grėsmių vykdoma vadovaujantis Lietuvos Respublikos kibernetinio saugumo įstatymu ir jo įgyvendinamųjų teisės aktų nuostatomis. Reglamento (ES) 2015/1998 priedo 1.7 punkte numatytos ypatingos svarbos informacinių ir ryšių technologijų sistemos ir duomenys, nepatenkantys į Kibernetinio saugumo įstatymo reguliavimo sritį, nustatomi ir jų apsauga nuo kibernetinių grėsmių vykdoma vadovaujantis Reglamento (ES) 2015/1998 priedo 1.7 punkto ir Nacionalinės civilinės aviacijos saugumo programos nuostatomis. 
+10. Reglamento (ES) 2015/1998 priedo 1.0.6 ir 1.7 punktuose numatytos civilinės aviacijos ypatingos svarbos informacinių ir ryšių technologijų sistemos ir duomenys nustatomi identifikuojant kibernetinio saugumo subjektų tinklų ir informacines sistemas ir jų apsauga nuo kibernetinių grėsmių vykdoma vadovaujantis Lietuvos Respublikos kibernetinio saugumo įstatymu ir jo įgyvendinamųjų teisės aktų nuostatomis. Reglamento (ES) 2015/1998 priedo 1.7 punkte numatytos ypatingos svarbos informacinių ir ryšių technologijų sistemos ir duomenys, nepatenkantys į Kibernetinio saugumo įstatymo reguliavimo sritį, nustatomi ir jų apsauga nuo kibernetinių grėsmių vykdoma vadovaujantis Reglamento (ES) 2015/1998 priedo 1.7 punkto ir Nacionalinės civilinės aviacijos saugumo programos nuostatomis.
 Straipsnio dalies pakeitimai:
 Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
+Nr. XIV-2903, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13538
  
 
 
@@ -3636,3 +3637,8 @@ Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2 straipsnio pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2399, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25337
 Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 3, 5, 6, 8 ir 36 straipsnių pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2903, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13538
+Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 41 straipsnio pakeitimo įstatymas
