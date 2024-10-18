@@ -13,19 +13,24 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/5468a25089ef11e4a98a9f2247652cf4"
 
 # Lietuvos Respublikos kibernetinio saugumo įstatymas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-10-17
+Suvestinė redakcija nuo 2024-10-18
  
 Įstatymas paskelbtas: TAR 2014-12-23, i. k. 2014-20553
  
-Nauja redakcija nuo 2018-07-04:
-Nr. XIII-1299, 2018-06-27, paskelbta TAR 2018-07-03, i. k. 2018-11180
+TAR pastaba. Saugos įgaliotiniai, kuriems iki įstatymo  Nr. XIV-2902 įsigaliojimo buvo taikomos Kibernetinio saugumo įstatymo 22 straipsnio nuostatos dėl saugos įgaliotinio skyrimo ir atitikties reikalavimams, toliau pareigas vykdo  Kibernetinio saugumo įstatymo 15 straipsnyje nustatyta tvarka. Šioje dalyje nurodytiems saugos įgaliotiniams  Kibernetinio saugumo įstatymo 15 straipsnio 5 dalies 3 punkte nurodyti reikalavimai netaikomi pirmus 2 metus nuo įstatymo Nr. XIV-2902 įsigaliojimo dienos (2024-10-18).
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2902, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13535
+Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas
+ 
+Nauja redakcija nuo 2024-10-18:
+Nr. XIV-2902, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13535
  
 LIETUVOS RESPUBLIKOS
-KIBERNETINIO SAUGUMO
-ĮSTATYMAS
+KIBERNETINIO SAUGUMO ĮSTATYMAS
  
 2014 m. gruodžio 11 d. Nr. XII-1428
 Vilnius
+ 
  
 
 
@@ -37,25 +42,55 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šis įstatymas nustato kibernetinio saugumo principus, kibernetinio saugumo politikos formavimo ir įgyvendinimo institucijas, šių institucijų įgaliojimus kibernetinio saugumo srityje, kibernetinio saugumo subjektų pareigas, tarpinstitucinį bendradarbiavimą, ryšių ir informacinių sistemų spragų paieškos ir pranešimo apie jas ir kibernetinius incidentus pagrindus, nacionalinės kibernetinio saugumo sertifikavimo institucijos funkcijas ir įgaliojimus, taip pat valstybės informacinių išteklių saugos reikalavimus. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
+1. Šis įstatymas nustato kibernetinio saugumo principus, kibernetinio saugumo politiką formuojančias ir ją įgyvendinančias institucijas, jų funkcijas ir įgaliojimus, kibernetinio saugumo subjektų identifikavimo pagrindus ir šių subjektų pareigas, keitimąsi informacija ir tarpinstitucinį bendradarbiavimą, kibernetinio saugumo subjektų atitikties šio įstatymo reikalavimams patikrinimus ir vykdymo užtikrinimo priemones, nacionalinės kibernetinio saugumo sertifikavimo institucijos įgaliojimus, Saugiojo valstybinio duomenų perdavimo tinklo naudojimo pagrindus.
+
+
+
+
+2. Šis įstatymas, išskyrus VII skyrių, netaikomas žvalgybos institucijoms. Šis įstatymas netaikomas kredito unijoms, išskyrus kredito unijas, kurios paslaugoms teikti ar veiklai vykdyti valdo ir (ar) tvarko tinklų ir informacines sistemas nepriklausomai nuo centrinių kredito unijų.
+
+
+
+
+3. Šio įstatymo 14 straipsnio, 15 straipsnio ir 18 straipsnio 1 dalies 1 ir (ar) 2 punktų nuostatos netaikomos kibernetinio saugumo subjektams, jeigu jiems taikomuose Europos Sąjungos teisės aktuose yra keliami reikalavimai įgyvendinti kibernetinio saugumo rizikos valdymo priemones, pranešti apie didelius kibernetinius incidentus ar skirti už kibernetinį saugumą atsakingus asmenis ir jeigu šių reikalavimų poveikis yra bent lygiavertis šio įstatymo 14 straipsnyje ar jo pagrindu priimtuose įgyvendinamuosiuose teisės aktuose, 15 straipsnio 1–4 dalyse, 18 straipsnio 1 dalies 1 punkte ir 4 dalyje ir (ar) 18 straipsnio 1 dalies 2 punkte ir 5 dalyje nustatytų reikalavimų poveikiui.
+
+
+
+
+4. Šio straipsnio 3 dalyje nurodytų reikalavimų poveikis yra laikomas lygiaverčiu:
+
+
+1) šio įstatymo 14 straipsnyje ar jo pagrindu priimtuose įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų poveikiui, jeigu nustatytos kibernetinio saugumo rizikos valdymo priemonės apima priemones, kuriomis siekiama užtikrinti tinklų ir informacinių sistemų saugumą prieinamumo, autentiškumo, vientisumo ir konfidencialumo atžvilgiu, be to, yra grindžiamos visus pavojus apimančiu požiūriu, įskaitant tinklų ir informacinių sistemų fizinį ir aplinkos saugumą;
+
+
+
+
+2) šio įstatymo 15 straipsnio 1–4 dalyse nustatytų reikalavimų poveikiui, jeigu yra numatytas už kibernetinį saugumą atsakingų asmenų skyrimas, kurio poveikis yra bent lygiavertis šio įstatymo 15 straipsnio 1–4 dalyse nustatytiems reikalavimams;
+
+
+
+
+3) šio įstatymo 18 straipsnio 1 dalies 1 punkte ir 4 dalyje nustatytų reikalavimų poveikiui, jeigu yra numatyta reagavimo į kibernetinius incidentus tarnybos neatidėliotina prieiga, kai tinkama, automatinė ir tiesioginė, prie pateiktų pranešimų apie incidentus, o nustatyti reikalavimai pranešti apie didelius incidentus pagal poveikį yra bent lygiaverčiai šio įstatymo 18 straipsnio 1 dalies 1 punkte ir 4 dalyje nustatytiems reikalavimams;
+
+
+
+
+4) šio įstatymo 18 straipsnio 1 dalies 2 punkte ir 5 dalyje nustatytų reikalavimų poveikiui, jeigu yra numatyta reagavimo į kibernetinius incidentus tarnybos neatidėliotina prieiga, kai tinkama, automatinė ir tiesioginė, prie pateiktų pranešimų apie incidentus, o nustatyti reikalavimai pranešti apie incidentus pagal poveikį yra bent lygiaverčiai šio įstatymo 18 straipsnio 1 dalies 2 punkte ir 5 dalyje nustatytiems reikalavimams.
+
+
+
+
+
+
+5. Lietuvos Respublikos Vyriausybė šio įstatymo 1 ir 2 prieduose nurodytuose atskiruose sektoriuose politiką formuojančių ministerijų teikimu tvirtina Europos Sąjungos teisės aktų, atitinkančių bent vieną šio straipsnio 4 dalyje nurodytą kriterijų, sąrašą.
+
+
+
+
+6. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo 3 priede.
  
 
 
-
-
-2. Šis įstatymas netaikomas patikimumo užtikrinimo paslaugų teikėjams, kuriems taikomi 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB, 19 straipsnyje nustatyti reikalavimai.
-
-
-
-
-3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. 
-
-
-Straipsnio pakeitimai:
-Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
- 
 
 
 
@@ -63,127 +98,142 @@ Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Debesijos paslaugos – paslaugos, kurių gavėjai nuotoliniu būdu naudojasi šių paslaugų teikėjų valdoma ryšių ir informacinių sistemų infrastruktūra.
+1. Aukščiausio lygio domenų vardų registravimo paslaugas teikiantis subjektas – subjektas, atsakingas už aukščiausio lygio domeno administravimą, apimantį domenų vardų registraciją tame domene ir techninį jo veikimą, įskaitant vardų serverių veikimą, duomenų bazių techninę priežiūrą ir aukščiausio lygio domenų zonos rinkmenų paskirstymą tarp domenų vardų serverių, neatsižvelgiant į tai, ar visas tas operacijas atlieka pats subjektas, ar dalis jų yra užsakomosios paslaugos. Subjektas nėra laikomas aukščiausio lygio domenų vardų registravimo paslaugas teikiančiu subjektu, jeigu aukščiausio lygio domenų vardus naudoja tik savo reikmėms.
 
 
 
 
-2. Elektroninės informacijos prieglobos paslaugos – paslaugos, apimančios galimybės naudotis elektroninės informacijos ir elektroninių duomenų (toliau – elektroninė informacija) kūrimo ir tvarkymo priemonėmis sudarymą ir (arba) paslaugų gavėjo pateiktos elektroninės informacijos laikymą.
+2. Debesijos paslauga – informacinės visuomenės paslauga, kuri apima jos administravimą ir plataus masto nuotolinę prieigą prie kintamo masto pritaikomos bendrų ir paskirstytų kompiuterijos išteklių bazės, įskaitant atvejus, kai tokie ištekliai yra paskirstyti per kelias vietas.
 
 
 
 
-3. Elektroninės prekyvietės paslauga – paslauga, kuria sudaromos sąlygos vartotojams ir (arba) komercinės veiklos subjektams sudaryti elektroninės prekybos ar paslaugų sutartis su komercinės veiklos subjektais elektroninės prekyvietės svetainėje arba komercinės veiklos subjekto svetainėje, kurioje naudojamasi elektroninės prekyvietės teikiamomis kompiuterijos paslaugomis.
+3. Didelė kibernetinė grėsmė – kibernetinė grėsmė, kurios techninės charakteristikos leidžia daryti prielaidą, kad ji gali padaryti didelį neigiamą poveikį subjekto arba subjekto teikiamų paslaugų naudotojų tinklų ir informacinėms sistemoms, sukeldama didelę turtinę arba neturtinę žalą.
 
 
 
 
-4. Ypatingos svarbos informacinė infrastruktūra – ryšių ir informacinė sistema ar jos dalis, ryšių ir informacinių sistemų grupė, kurioje įvykęs kibernetinis incidentas gali padaryti didelį neigiamą poveikį nacionaliniam saugumui, valstybės ūkiui, valstybės ir visuomenės interesams. 
+4. Domenų vardų registravimo paslaugas teikiantis subjektas – subjektas arba jo vardu veikiantis subjektas, teikiantys domenų vardų registravimo paslaugas, įskaitant privatumo ar įgaliotojo tarpininkavimo registravimo paslaugų teikėją arba perpardavėją.
 
 
 
 
-5. Ypatingos svarbos informacinės infrastruktūros valdytojas – asmuo, valdantis ypatingos svarbos informacinę infrastruktūrą.
+5. Domenų vardų sistema – sistema, kurioje hierarchiškai suskirstyti domenų vardai, kurioje galima identifikuoti interneto paslaugas ir išteklius ir kurioje sudaromos sąlygos galutiniams naudotojams naudotis interneto maršruto parinkimo ir junglumo paslaugomis siekiant gauti išteklius.
 
 
 
 
-6. Kibernetinė erdvė – aplinka, kurią sudaro kompiuteriai ir kita ryšių ir informacinių technologijų įranga ir juose sukuriama ir (arba) jais perduodama elektroninė informacija.
+6. Domenų vardų sistemos paslaugų teikėjas – subjektas, kuris teikia viešai prieinamas rekursinio domenų vardų keitimo paslaugas galutiniams interneto naudotojams arba patikimas domenų vardų keitimo paslaugas trečiosioms šalims, išskyrus šakninių domenų vardų serverių paslaugas.
 
 
 
 
-7. Kibernetinio saugumo krizė – kibernetinis incidentas arba incidentai, kurių sukelto neigiamo poveikio Lietuvos Respublika negali pašalinti viena pati arba kurie Lietuvos Respublikai ir kitoms valstybėms, priklausančioms tarptautinėms organizacijoms, kurių narė yra Lietuvos Respublika, arba tų tarptautinių organizacijų institucijoms sukelia tokio masto ir tokios techninės arba politinės reikšmės neigiamą poveikį, kad iškyla poreikis koordinuoti politiką ir reaguoti tarptautiniu lygmeniu.
+7. Duomenų centro paslauga – duomenų centro teikiama paslauga, kuri apima informacinių technologijų ir tinklo įrangos centralizuotą pritaikymą, eksploatavimą ir tarpusavio junglumo palaikymą, duomenų saugojimo, tvarkymo ir perdavimo paslaugų teikimą ir visos energijos paskirstymo ir aplinkos kontrolės įrangos ir infrastruktūros užtikrinimą.
 
 
 
 
-8. Kibernetinio saugumo subjektas – subjektas, valdantis ir (arba) tvarkantis valstybės informacinius išteklius, ypatingos svarbos informacinės infrastruktūros valdytojas, viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų, elektroninės informacijos prieglobos paslaugų ir skaitmeninių paslaugų teikėjas.
-Straipsnio dalies pakeitimai:
-Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
- 
+8. Elektroninės informacijos prieglobos paslaugos – paslaugos, kurios sudaro paslaugos gavėjo pateiktos elektroninės informacijos saugojimą jo prašymu.
 
 
 
 
-9. Kibernetinis incidentas – įvykis ar veika kibernetinėje erdvėje, galintys sukelti arba sukeliantys grėsmę arba neigiamą poveikį ryšių ir informacinėmis sistemomis perduodamos ar jose tvarkomos elektroninės informacijos prieinamumui, autentiškumui, vientisumui ir konfidencialumui, galintys trikdyti arba trikdantys ryšių ir informacinių sistemų veikimą, valdymą ir paslaugų jomis teikimą.
+9. Interneto duomenų srautų mainų taškas – tinklo įrenginys, per kurį siekiant palengvinti interneto duomenų srautų mainus, sujungiamos daugiau nei dvi atskiros autonominės sistemos. Interneto duomenų srautų mainų taškas sujungia tik autonomines sistemas, jį naudojant nebūtina, kad interneto duomenų srautai, kuriais keičiasi autonominių sistemų pora, būtų perduodami per trečią autonominę sistemą, be to, jis nekeičia ir netrikdo tokių srautų.
 
 
 
 
-10. Kibernetinis saugumas – visuma teisinių, informacijos sklaidos, organizacinių ir techninių priemonių, kuriomis siekiama išlaikyti atsparumą veiksniams, kibernetinėje erdvėje keliantiems grėsmę ryšių ir informacinėmis sistemomis perduodamos ar jose tvarkomos elektroninės informacijos prieinamumui, autentiškumui, vientisumui ir konfidencialumui, ryšių ir informacinių sistemų netrikdomam veikimui, valdymui arba paslaugų šiomis sistemomis teikimui, taip pat kuriomis siekiama atkurti įprastinę ryšių ir informacinių sistemų veiklą.
+10. Kibernetinė erdvė – aplinka, kurią sudaro kompiuteriai ir kita tinklų ir informacinių technologijų įranga ir juose sukuriami ir (ar) jais perduodami skaitmeniniai duomenys.
 
 
 
 
-11. Kibernetinių incidentų valdymas – procedūros, kurių tikslas – aptikti, analizuoti kibernetinius incidentus ir reaguoti į juos, taip pat atkurti įprastinę ryšių ir informacinių sistemų veiklą. 
+11. Kibernetinio incidento valdymas – veiksmai ir procedūros, kuriais siekiama užkirsti kelią kibernetiniam incidentui, jį atskleisti, išanalizuoti ir sustabdyti arba į jį reaguoti ir atkurti veiklą po jo.
 
 
 
 
-12. Paieškos internete paslauga – paslauga, kuria interneto vartotojams sudaromos sąlygos atlikti paiešką svetainėse pagal kokio nors dalyko užklausą, vartojant raktinį žodį, frazę arba kitus įvesties duomenis. Atlikus paiešką pateikiamos nuorodos, kuriose gali būti su ieškomu turiniu susijusios informacijos.
+12. Kibernetinio saugumo rizika – potencialus praradimas arba sutrikimas, kurį gali sukelti kibernetinis incidentas. Kibernetinio saugumo rizika išreiškiama kaip tokio praradimo arba sutrikimo masto ir kibernetinio incidento tikimybės derinys.
 
 
 
 
-13. Pramoninių procesų valdymo sistema – iš ryšių ir informacinėmis technologijomis grindžiamos įrangos sudaryta sistema, skirta technologiniams procesams stebėti ar valdyti pramonės, energetikos, transporto, vandens tiekimo paslaugų ir kituose ūkinės veiklos sektoriuose.
+13. Kibernetinio saugumo subjektas – subjektas, registruotas Kibernetinio saugumo informacinėje sistemoje.
 
 
 
 
-14. Ryšių ir informacinė sistema – elektroninių ryšių tinklas, informacinė sistema, registras, pramoninių procesų valdymo sistema ir jų valdymo, naudojimo, apsaugos ir priežiūros tikslais laikoma, tvarkoma, atkuriama arba perduodama elektroninė informacija.
+14. Kibernetinis incidentas – įvykis, dėl kurio kyla pavojus saugomų, perduodamų arba tvarkomų duomenų arba paslaugų, teikiamų arba prieinamų per tinklų ir informacines sistemas, prieinamumui, autentiškumui, vientisumui arba konfidencialumui.
 
 
 
 
-141. Ryšių ir informacinės sistemos spraga (toliau – spraga) – ryšių ir informacinės sistemos trūkumas, dėl kurio gali įvykti kibernetinis incidentas. 
-Papildyta straipsnio dalimi:
-Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
- 
+15. Nacionalinė kibernetinio saugumo strategija – nuosekli sistema, apimanti nustatytus Lietuvos Respublikos kibernetinio saugumo srities strateginius tikslus ir prioritetus ir jų įgyvendinimo valdymą.
 
 
 
 
-15. Rizika – pagrįstai nustatoma aplinkybė ar įvykis, galintis turėti neigiamą poveikį ryšių ir informacinių sistemų saugumui.
+16. Paskirstytasis turinio teikimo tinklas – geografiškai paskirstytų serverių tinklas, kurio paskirtis yra turinio ir paslaugų teikėjų vardu užtikrinti interneto vartotojams didelę skaitmeninio turinio ir paslaugų pasiūlą, prieinamumą arba greitą teikimą.
 
 
 
 
-151. Saugusis valstybinis duomenų perdavimo tinklas (toliau – Saugusis tinklas) – valstybės valdomas specialiuosius organizacinius ir techninius reikalavimus atitinkantis ir nuo viešųjų elektroninių ryšių tinklų nepriklausomas elektroninių ryšių tinklas. 
-Papildyta straipsnio dalimi:
-Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
- 
+17. Saugusis valstybinis duomenų perdavimo tinklas – valstybės valdomas specialiuosius organizacinius ir techninius reikalavimus atitinkantis ir nuo viešųjų elektroninių ryšių tinklų nepriklausomas elektroninių ryšių tinklas.
 
 
 
 
-16. Skaitmeninės paslaugos – ryšių ir informacinėmis technologijomis grindžiama paslaugų grupė, apimanti elektroninės prekyvietės, paieškos internete ir (arba) debesijos paslaugas.
+18. Socialinių tinklų paslaugų platforma – interneto platforma, kuri sudaro galimybes galutiniams naudotojams įvairiais įrenginiais prisijungti, dalytis turiniu, rasti vienam kitą ir skelbiamą turinį, visų pirma per pokalbius, įrašus, vaizdo įrašus ir rekomendacijas.
 
 
 
 
-17. Skaitmeninių paslaugų teikėjas – juridinis asmuo, teikiantis skaitmenines paslaugas Lietuvoje Respublikoje ir (arba) kitose Europos Sąjungos valstybėse narėse.
+19. Subjektas – fizinis asmuo arba juridinis asmuo, įsteigtas ir tokiu pripažintas pagal jo įsteigimo vietos nacionalinę teisę, kurie, veikdami savo vardu, naudojasi teisėmis ir kuriems gali būti taikomos pareigos.
 
 
 
 
-171. Sąvokos „Europos kibernetinio saugumo sertifikavimo schema“, „Europos kibernetinio saugumo sertifikatas“, „akreditavimas“ ir „atitikties vertinimo įstaiga“ šiame įstatyme suprantamos taip, kaip jos apibrėžtos Reglamente (ES) 2019/881. 
-Papildyta straipsnio dalimi:
-Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
- 
+20. Šakninis vardų serveris – aukščiausio lygio domenų vardų sistemos struktūroje esantis domenų vardų serveris, kuris atsako į užklausas pateikdamas atitinkamo aukščiausio lygio domeno vardų serverių sąrašą.
 
 
 
 
-18. Kriterijai, kuriais remiantis vertinama, ar šio įstatymo 2 straipsnio 4 dalyje nurodytas neigiamas poveikis yra didelis, nustatomi ypatingos svarbos informacinės infrastruktūros identifikavimo metodikoje.
+21. Tinklų ir informacinė sistema – elektroninių ryšių tinklas, bet koks prietaisas arba tarpusavyje sujungtų arba susijusių prietaisų, iš kurių vienas ar daugiau pagal programą automatiškai apdoroja skaitmeninius duomenis, grupė arba skaitmeniniai duomenys, saugomi, tvarkomi, atkuriami arba perduodami nurodytomis priemonėmis jų valdymo, naudojimo, apsaugos ir priežiūros tikslais.
 
 
 
 
-19. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos informacinės visuomenės paslaugų įstatyme, Lietuvos Respublikos kriminalinės žvalgybos įstatyme, Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos žvalgybos įstatyme ir 2012 m. spalio 25 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1025/2012 dėl Europos standartizacijos, kuriuo iš dalies keičiamos Tarybos direktyvos 89/686/EEB ir 93/15/EEB ir Europos Parlamento ir Tarybos direktyvos 94/9/EB, 94/25/EB, 95/16/EB, 97/23/EB, 98/34/EB, 2004/22/EB, 2007/23/EB, 2009/23/EB ir 2009/105/EB ir panaikinamas Tarybos sprendimas Nr. 87/95/EEB ir Europos Parlamento ir Tarybos sprendimas Nr. 1673/2006/EB. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3114, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15325
-Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
+22. Tinklų ir informacinės sistemos spraga – tinklų ir informacinės sistemos trūkumas, įskaitant informacinių ir ryšių technologijų produktų arba informacinių ir ryšių technologijų paslaugų trūkumus, dėl kurio gali įvykti kibernetinis incidentas ar kuriuo gali būti pasinaudota kibernetinei grėsmei kelti.
+
+
+
+
+23. Tinklų ir informacinių sistemų saugumas – tinklų ir informacinių sistemų pajėgumas tam tikru patikimumo lygiu išlikti atspariems bet kokiam įvykiui, galinčiam sukelti pavojų saugomų, perduodamų ar tvarkomų duomenų arba per tas tinklų ir informacines sistemas teikiamų arba gaunamų paslaugų prieinamumui, autentiškumui, vientisumui ar konfidencialumui.
+
+
+
+
+24. Valdomų kibernetinio saugumo paslaugų teikėjas – valdomų paslaugų teikėjas, vykdantis kibernetinio saugumo rizikos valdymo veiklą arba teikiantis pagalbą tokiai veiklai vykdyti.
+
+
+
+
+25. Valdomų paslaugų teikėjas – subjektas, teikiantis paslaugas, susijusias su informacinių ir ryšių technologijų produktų, tinklų, infrastruktūros, taikomųjų programų ar bet kurių kitų tinklų ir informacinių sistemų diegimu, valdymu, naudojimu ar technine priežiūra, kaip pagalbą arba kaip aktyvaus administravimo paslaugas klientų patalpose arba nuotoliniu būdu.
+
+
+
+
+26. Vos neįvykęs kibernetinis incidentas – įvykis, dėl kurio galėjo būti sukeltas pavojus saugomų, perduodamų arba tvarkomų duomenų arba paslaugų, teikiamų arba prieinamų per tinklų ir informacines sistemas, prieinamumui, autentiškumui, vientisumui arba konfidencialumui, bet kuriam įvykti buvo sėkmingai užkirstas kelias arba kuris neįvyko.
+
+
+
+
+27. Šiame įstatyme vartojamos sąvokos „Europos kibernetinio saugumo sertifikavimo schema“, „Europos kibernetinio saugumo sertifikatas“, „akreditavimas“ ir „atitikties vertinimo įstaiga“, „informacinių ir ryšių technologijų produktas“, „informacinių ir ryšių technologijų paslauga“, „informacinių ir ryšių technologijų procesas“, „kibernetinė grėsmė“, „kibernetinis saugumas“ suprantamos taip, kaip jos apibrėžiamos Reglamente (ES) 2019/881. Sąvokos „Kibernetinio saugumo kompetencijos bendruomenė“, „Europos kibernetinio saugumo pramonės, technologijų ir mokslinių tyrimų kompetencijos centras“, „Nacionalinių koordinavimo centrų tinklas“ šiame įstatyme suprantamos taip, kaip jos vartojamos Reglamente (ES) 2021/887. Sąvokos „patikimumo užtikrinimo paslauga“, „patikimumo užtikrinimo paslaugų teikėjas“, „kvalifikuota patikimumo užtikrinimo paslauga“, „kvalifikuotas patikimumo užtikrinimo paslaugų teikėjas“ šiame įstatyme suprantamos taip, kaip jos apibrėžiamos 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB, su visais pakeitimais. Sąvoka „interneto paieškos sistema“ šiame įstatyme suprantama taip, kaip ji apibrėžiama 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamente (ES) 2019/1150 dėl verslo klientams teikiamų internetinių tarpininkavimo paslaugų sąžiningumo ir skaidrumo didinimo. Sąvokos „standartas“, „techninė specifikacija“ šiame įstatyme suprantamos taip, kaip jos apibrėžiamos 2012 m. spalio 25 d. Europos Parlamento ir Tarybos reglamente (ES) 1025/2012 dėl Europos standartizacijos, kuriuo iš dalies keičiamos Tarybos direktyvos 89/686/EEB ir 93/15/EEB ir Europos Parlamento ir Tarybos direktyvos 94/9/EB, 94/25/EB, 95/16/EB, 97/23/EB, 98/34/EB, 2004/22/EB, 2007/23/EB, 2009/23/EB ir 2009/105/EB ir panaikinamas Tarybos sprendimas 87/95/EEB ir Europos Parlamento ir Tarybos sprendimas Nr. 1673/2006/EB, su visais pakeitimais. Sąvoka „duomenys“ suprantama taip, kaip ji apibrėžiama Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme.
+
+
+
+
+28. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos alternatyviųjų degalų įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos geležinkelių transporto kodekse, Lietuvos Respublikos geriamojo vandens įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos informacinės visuomenės paslaugų įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatyme, Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme, Lietuvos Respublikos pašto įstatyme, Lietuvos Respublikos saugios laivybos įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos žvalgybos įstatyme.
  
 
 
@@ -197,32 +247,32 @@ Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
 1. Kibernetinis saugumas grindžiamas šiais kibernetinio saugumo principais:
 
 
-1) kibernetinės erdvės nediskriminavimo – teisės aktų nuostatos yra taikomos, o gėriai yra saugomi vienodai tiek fizinėje, tiek kibernetinėje erdvėje;
+1) kibernetinės erdvės nediskriminavimo – teisės aktų nuostatos yra taikomos, o teisės aktų saugomų gėrių apsauga yra užtikrinama vienodai tiek fizinėje, tiek kibernetinėje erdvėje;
 
 
 
 
-2) kibernetinio saugumo rizikos valdymo – taikomos kibernetinio saugumo priemonės turi užtikrinti kibernetinio saugumo subjektų reguliariai įvertinamos rizikos suvaldymą;
+2) kibernetinio saugumo rizikos valdymo – taikomos kibernetinio saugumo rizikos valdymo priemonės turi užtikrinti kibernetinio saugumo subjektų reguliariai įvertinamos rizikos suvaldymą;
 
 
 
 
-3) kibernetinio saugumo proporcingumo – taikomos teisinės, organizacinės ir techninės kibernetinio saugumo priemonės neturi apriboti kibernetinio saugumo subjektų veiklos kibernetinėje erdvėje labiau, negu tai būtina;
+3) kibernetinio saugumo proporcingumo – taikomos kibernetinio saugumo rizikos valdymo priemonės neturi apriboti kibernetinio saugumo subjektų veiklos labiau, negu tai būtina kibernetiniam saugumui užtikrinti;
 
 
 
 
-4) viešojo intereso viršenybės – taikomos kibernetinio saugumo priemonės pirmiausia turi užtikrinti viešojo intereso apsaugą, tačiau neturi iš esmės pažeisti atskirų vartotojų teisių ar neproporcingai apriboti jų laisvės kibernetinėje erdvėje;
+4) viešojo intereso viršenybės – taikomos kibernetinio saugumo rizikos valdymo priemonės pirmiausia turi užtikrinti viešojo intereso apsaugą, tačiau neturi iš esmės pažeisti atskirų vartotojų, kibernetinio saugumo subjektų teisių ir teisėtų interesų ar neproporcingai apriboti jų laisvės;
 
 
 
 
-5) standartizacijos ir technologinio neutralumo – įgyvendinant kibernetinio saugumo priemones, kibernetinio saugumo subjektai skatinami vadovautis nacionaliniais, Europos Sąjungos ir kitais tarptautiniais ryšių ir informacinių sistemų kibernetinio saugumo standartais ir specifikacijomis, nereikalaujant taikyti kokios nors konkrečios rūšies technologijos ir nesuteikiant jai pirmenybės;
+5) standartizacijos ir technologinio neutralumo – įgyvendinant kibernetinio saugumo rizikos valdymo priemones, kibernetinio saugumo subjektai skatinami vadovautis nacionaliniais, Europos Sąjungos ir kitais tarptautiniais tinklų ir informacinių sistemų saugumo standartais ir techninėmis specifikacijomis, nereikalaujant taikyti kokios nors konkrečios rūšies technologijos ir nesuteikiant jai pirmenybės;
 
 
 
 
-6) subsidiarumo – už ryšių ir informacinių sistemų ir jomis teikiamų paslaugų kibernetinį saugumą yra atsakingi šias sistemas valdantys ir paslaugas jomis teikiantys kibernetinio saugumo subjektai. Srityse, kurios priklauso išimtinei kibernetinio saugumo subjektų kompetencijai, kibernetinio saugumo politikos formavimo ir įgyvendinimo institucijos veiksmų imasi tik tada, kai ryšių ir informacinių sistemų ir jomis teikiamų paslaugų kibernetinio saugumo negali užtikrinti šias sistemas valdantys ir paslaugas jomis teikiantys kibernetinio saugumo subjektai.
+6) subsidiarumo – už tinklų ir informacinių sistemų ir jomis teikiamų paslaugų kibernetinį saugumą yra atsakingi šias sistemas valdantys ir paslaugas jomis teikiantys kibernetinio saugumo subjektai. Srityse, kurios priklauso išimtinei kibernetinio saugumo subjektų kompetencijai, kibernetinio saugumo politikos formavimo ir įgyvendinimo institucijos veiksmų imasi tik tada, kai tinklų ir informacinių sistemų ir jomis teikiamų paslaugų kibernetinio saugumo neužtikrina šias sistemas valdantys ir paslaugas jomis teikiantys kibernetinio saugumo subjektai.
 
 
 
@@ -240,79 +290,24 @@ Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
 
 
 II SKYRIUS
-KIBERNETINIO SAUGUMO POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS 
+KIBERNETINIO SAUGUMO POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
  
 
 
 4 straipsnis. Kibernetinio saugumo politikos formavimo ir įgyvendinimo institucijos
 
 
-1. Kibernetinio saugumo politikos strateginius tikslus, pažangos uždavinius ir jiems pasiekti būtinas priemones nustato Lietuvos Respublikos Vyriausybė. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3114, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15325
- 
+1. Kibernetinio saugumo politika formuojama, atsižvelgiant į Lietuvos Respublikos Seimo tvirtinamoje Nacionalinio saugumo strategijoje nustatytus ilgojo laikotarpio nacionalinio saugumo politikos prioritetus ir uždavinius, Vyriausybės tvirtinamame Nacionaliniame pažangos plane nustatytus strateginius tikslus ir uždavinius, Seimo tvirtinamoje Krašto apsaugos sistemos stiprinimo ir plėtros bei Vyriausybės tvirtinamoje Nacionalinės kibernetinio saugumo plėtros programose nustatytus uždavinių įgyvendinimo prioritetus ir kryptis. Šioje dalyje nurodyti strateginio planavimo dokumentai ar jų dalys kartu su šiuo įstatymu ir jo įgyvendinamaisiais teisės aktais sudaro nacionalinę kibernetinio saugumo strategiją.
 
 
 
 
-2. Kibernetinio saugumo politiką formuoja, jos įgyvendinimą organizuoja, kontroliuoja ir koordinuoja Lietuvos Respublikos krašto apsaugos ministerija. Nacionalinis kibernetinio saugumo centras formuojant kibernetinio saugumo politiką dalyvauja tiek, kiek šiame įstatyme nustatytoms funkcijoms atlikti reikia nustatyti kibernetinio saugumo subjektų veiklos teisinį reguliavimą.
+2. Kibernetinio saugumo politiką formuoja, jos įgyvendinimą organizuoja, kontroliuoja ir koordinuoja Lietuvos Respublikos krašto apsaugos ministerija. Lietuvos Respublikos užsienio reikalų ministerija formuojant kibernetinio saugumo politiką dalyvauja tiek, kiek reikia nustatyti diplomatinių priemonių taikymo reaguojant į kibernetines grėsmes ir kibernetinius incidentus teisinį reguliavimą. Nacionalinis kibernetinio saugumo centras formuojant kibernetinio saugumo politiką dalyvauja tiek, kiek šiame įstatyme jam nustatytoms funkcijoms atlikti reikia nustatyti kibernetinio saugumo subjektų veiklos ir priežiūros teisinį reguliavimą. 
 
 
 
 
-3. Kibernetinio saugumo politiką įgyvendina Nacionalinis kibernetinio saugumo centras, Valstybinė duomenų apsaugos inspekcija, Lietuvos policija ir kitos institucijos, kurių funkcijos yra susijusios su kibernetiniu saugumu.
- 
-
-
-
-
-
-
-5 straipsnis. Vyriausybės įgaliojimai kibernetinio saugumo srityje 
-
-
-Vyriausybė:
-
-
-1) nustato kibernetinio saugumo politikos strateginius tikslus ir (arba) pažangos uždavinius tvirtindama Nacionalinį pažangos planą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3114, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15325
- 
-
-
-
-
-2) tvirtina Kibernetinio saugumo tarybos institucinę sudėtį;
-
-
-
-
-3) tvirtina ypatingos svarbos informacinės infrastruktūros identifikavimo metodiką ir ypatingos svarbos informacinės infrastruktūros ir jos valdytojų sąrašą;
-
-
-
-
-4) tvirtina organizacinius ir techninius kibernetinio saugumo reikalavimus, taikomus kibernetinio saugumo subjektams;
-
-
-
-
-5) tvirtina Nacionalinį kibernetinių incidentų valdymo planą; 
-
-
-
-
-6) tvirtina bendrųjų elektroninės informacijos saugos reikalavimų aprašą, saugos dokumentų turinio gairių aprašą Valstybės informacinių išteklių valdymo įstatyme nurodytiems registrų informacinių sistemų, valstybės ir vidaus administravimo informacinių sistemų valdytojams ir tvarkytojams (toliau kartu – subjektai, valdantys ir (arba) tvarkantys valstybės informacinius išteklius); 
-Papildyta straipsnio punktu:
-Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
- 
-
-
-
-
-7) vadovauja kibernetinio saugumo krizių valdymui.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
+3. Kibernetinio saugumo politiką įgyvendina Nacionalinis kibernetinio saugumo centras, Lietuvos policija ir Valstybinė duomenų apsaugos inspekcija.
  
 
 
@@ -320,107 +315,69 @@ Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
 
 
 
+5 straipsnis. Krašto apsaugos ministerijos įgaliojimai kibernetinio saugumo srityje
 
 
-6 straipsnis. Krašto apsaugos ministerijos įgaliojimai kibernetinio saugumo srityje 
-
-
-Krašto apsaugos ministerija:
-
-
-1) dalyvauja rengiant Nacionalinį pažangos planą dėl kibernetinio saugumo politikos strateginių tikslų ir (arba) pažangos uždavinių nustatymo; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3114, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15325
+Krašto apsaugos ministerija, be šio įstatymo 4 straipsnio 2 dalyje numatyto kibernetinio saugumo politikos formavimo ir kitų šio įstatymo nustatytų funkcijų vykdymo, taip pat bendradarbiauja su atitinkamomis Šiaurės Atlanto sutarties organizacijos (toliau – NATO) bei Europos Sąjungos institucijomis ir NATO valstybių narių bei Europos Sąjungos valstybių narių institucijomis, tarptautinėmis institucijomis kibernetinio saugumo klausimais.
  
 
 
 
 
-11) rengia kibernetinio saugumo politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą; 
-Papildyta straipsnio punktu:
-Nr. XIII-3114, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15325
- 
+
+
+6 straipsnis. Kibernetinio saugumo taryba
+
+
+1. Kibernetinio saugumo taryba (toliau – Taryba) yra nuolatinė kolegiali nepriklausoma visuomeniniais pagrindais veikianti patariamoji institucija, kuri savo veikloje remiasi Tarybos narių turimomis žiniomis ir gerąja praktika bei teikia pasiūlymus Krašto apsaugos ministerijai dėl:
+
+
+1) kibernetinio saugumo politikos prioritetų, plėtros krypčių, siektinų rezultatų ir įgyvendinimo būdų;
 
 
 
 
-2) teikia Vyriausybei tvirtinti organizacinius ir techninius kibernetinio saugumo reikalavimus, taikomus kibernetinio saugumo subjektams;
+2) viešojo sektoriaus, verslo subjektų ir mokslo ir studijų institucijų bendradarbiavimo galimybių kibernetinio saugumo užtikrinimo srityje;
 
 
 
 
-3) teikia Vyriausybei tvirtinti Nacionalinį kibernetinių incidentų valdymo planą;
+3) kibernetinio saugumo rizikos valdymo priemonių, kibernetinių incidentų valdymo ir kibernetinio saugumo stiprinimo krypčių.
 
 
 
 
-4) teikia Vyriausybei tvirtinti ypatingos svarbos informacinės infrastruktūros identifikavimo metodiką;
+
+
+2. Tarybos nariais tvirtinami kibernetinio saugumo politiką formuojančių, ją formuojant dalyvaujančių ir įgyvendinančių institucijų atstovai, šio įstatymo 1 ir 2 prieduose nurodytų institucijų, atsakingų už kibernetinio saugumo subjektų identifikavimą, atstovai, kibernetinio saugumo subjektams atstovaujančių asociacijų, mokslo ir studijų institucijų atstovai ir šio įstatymo 23 straipsnyje nurodyti Kibernetinio saugumo bendruomenės nariai.
 
 
 
 
-5) teikia Vyriausybei tvirtinti ypatingos svarbos informacinės infrastruktūros ir jos valdytojų sąrašą;
+3. Tarybai vadovauja Krašto apsaugos ministerijos atstovas.
 
 
 
 
-51) teikia Vyriausybei tvirtinti bendrųjų elektroninės informacijos saugos reikalavimų aprašą, saugos dokumentų turinio gairių aprašą subjektams, valdantiems ir (arba) tvarkantiems valstybės informacinius išteklius; 
-Papildyta straipsnio punktu:
-Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
- 
+4. Tarybą sudaro, jos institucinę ir personalinę sudėtį ir darbo reglamentą tvirtina krašto apsaugos ministras.
 
 
 
 
-6) tvirtina tipinį kibernetinių incidentų valdymo ypatingos svarbos informacinėse infrastruktūrose planą;
+5. Tarybą ūkiškai ir techniškai aptarnauja Krašto apsaugos ministerija ar krašto apsaugos ministro įgaliota institucija.
 
 
 
 
-7) tvirtina ypatingos svarbos informacinių infrastruktūrų kibernetinės gynybos planą;
+6. Taryba, siekdama jai nustatytų veiklos tikslų, turi šias teises:
+
+
+1) gauti iš valstybės ir savivaldybių institucijų ir įstaigų reikalingą informaciją jos kompetencijai priskirtiems klausimams spręsti;
 
 
 
 
-8) nustato Nacionalinio kibernetinio saugumo centro reagavimo į kibernetinio saugumo subjektų ryšių ir informacinėse sistemose įvykusius kibernetinius incidentus tvarką;
-
-
-
-
-9) tvirtina techninių kibernetinio saugumo priemonių sąrašą, kuriame nurodoma kibernetinio saugumo priemonių paskirtis ir tvarkomi duomenys (jeigu jie yra tvarkomi), techninių kibernetinio saugumo priemonių diegimo planą, nustato jų diegimo ir valdymo valstybės informaciniuose ištekliuose ir ypatingos svarbos informacinėje infrastruktūroje tvarką; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
- 
-
-
-
-
-10) dalyvauja kibernetinio saugumo krizių valdyme;
-
-
-
-
-11) steigia Kibernetinio saugumo informacinį tinklą ir tvirtinta jo nuostatus;
-
-
-
-
-111) valdo Saugųjį tinklą; 
-Papildyta straipsnio punktu:
-Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
- 
-
-
-
-
-12) tvirtina Kibernetinio saugumo tarybos reglamentą ir personalinę sudėtį;
-
-
-
-
-13) tvirtina nacionalinės spragų atskleidimo tvarkos aprašą. 
-Papildyta straipsnio punktu:
-Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
+2) organizuoti pasitarimus, konferencijas ir kitus renginius.
  
 
 
@@ -430,53 +387,7 @@ Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
 
 
 
-7 straipsnis. Kibernetinio saugumo taryba
-
-
-1. Kibernetinio saugumo taryba yra nuolatinė kolegiali nepriklausoma patariamoji institucija, analizuojanti kibernetinio saugumo užtikrinimo būklę Lietuvos Respublikoje ir teikianti kibernetinio saugumo politikos formavimo ir įgyvendinimo institucijoms, kibernetinio saugumo subjektams, mokslo ir studijų institucijoms ir informacinių technologijų srityje veiklą vykdantiems verslo subjektams (toliau – kibernetinio saugumo dalyviai) pasiūlymus dėl kibernetinio saugumo užtikrinimo būklės gerinimo. 
-
-
-
-
-2. Kibernetinio saugumo tarybai vadovauja Krašto apsaugos ministerijos atstovas.
-
-
-
-
-3. Kibernetinio saugumo tarybą ūkiškai ir techniškai aptarnauja Krašto apsaugos ministerija ar jos įgaliota institucija.
-
-
-
-
-4. Kibernetinio saugumo taryba: 
-
-
-1) teikia kibernetinio saugumo dalyviams pasiūlymus dėl kibernetinio saugumo prioritetų, plėtros krypčių, siektinų rezultatų ir jų įgyvendinimo būdų;
-
-
-
-
-2) teikia kibernetinio saugumo dalyviams pasiūlymus dėl viešojo sektoriaus, verslo ir mokslo bendradarbiavimo galimybių kibernetinio saugumo užtikrinimo srityje; 
-
-
-
-
-3) analizuoja kibernetinio saugumo užtikrinimo tobulinimo tendencijas, teikia kibernetinio saugumo dalyviams išvadas ir pasiūlymus dėl kibernetinių incidentų valdymo;
-
-
-
-
-4) teikia kibernetinio saugumo dalyviams rekomendacijas dėl kibernetinio saugumo stiprinimo.
- 
-
-
-
-
-
-
-
-
-8 straipsnis. Nacionalinis kibernetinio saugumo centras 
+7 straipsnis. Nacionalinis kibernetinio saugumo centras
 
 
 1. Nacionalinis kibernetinio saugumo centras yra įstaiga prie Krašto apsaugos ministerijos.
@@ -484,138 +395,183 @@ Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
 
 
 
-2. Nacionalinis kibernetinio saugumo centras, įgyvendindamas kibernetinio saugumo politiką ir užtikrindamas valstybės informacinių išteklių saugą, pagal kompetenciją:  
-Straipsnio dalies pakeitimai:
-Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
+2. Nacionalinis kibernetinio saugumo centras, įgyvendindamas kibernetinio saugumo politiką:
 
 
-1) atlieka kibernetinio saugumo subjektų ir jų valdomų ryšių ir informacinių sistemų atitikties organizaciniams ir techniniams kibernetinio saugumo reikalavimams, taikomiems kibernetinio saugumo subjektams, priežiūrą ir kibernetinio saugumo būklės tyrimus;
-
-
-
-
-2) duoda nurodymus kibernetinio saugumo subjektams pateikti informaciją, būtiną kibernetinio saugumo subjektų ir jų valdomų ryšių ir informacinių sistemų atitikties organizaciniams ir techniniams kibernetinio saugumo reikalavimams, taikomiems kibernetinio saugumo subjektams, ir kibernetinio saugumo būklės įvertinimui atlikti;
+1) taiko kibernetinių grėsmių paieškos priemones kibernetinėje erdvėje, siekdamas įvertinti tinklų ir informacinių sistemų atsparumą kibernetiniams incidentams;
 
 
 
 
-3) taiko technines priemones, siekdamas įvertinti valstybės informacinių išteklių ir ypatingos svarbos informacinių infrastruktūrų atsparumą kibernetiniams incidentams;
+2) stebi, renka ir analizuoja informaciją apie kibernetines grėsmes, tinklų ir informacinių sistemų spragas (toliau – spraga), kibernetinius incidentus ir vos neįvykusius kibernetinius incidentus;
 
 
 
 
-4) duoda nurodymus, susijusius su kibernetinio saugumo užtikrinimu ir nustatytų kibernetinio saugumo trūkumų pašalinimu, nustato šių nurodymų įvykdymo terminą subjektams, valdantiems ir (arba) tvarkantiems valstybės informacinius išteklius, ypatingos svarbos informacinės infrastruktūros valdytojams, viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams ir elektroninės informacijos prieglobos paslaugų teikėjams;
-Straipsnio punkto pakeitimai:
-Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
+3) valdo kibernetinius incidentus Vyriausybės tvirtinamo nacionalinio kibernetinių incidentų valdymo plano nustatyta tvarka;
+
+
+
+
+4) kibernetinio saugumo subjektams ir suinteresuotiesiems subjektams teikia ankstyvuosius perspėjimus, įspėjimus, pranešimus ir keičiasi informacija apie kibernetines grėsmes, spragas, kibernetinius incidentus ir vos neįvykusius kibernetinius incidentus;
+
+
+
+
+5) kibernetinio saugumo subjektams teikia pagalbą, susijusią su jų tinklų ir informacinių sistemų stebėjimu;
+
+
+
+
+6) siekdamas stabdyti kibernetinio incidento poveikį kibernetinio saugumo subjektų tinklų ir informacinių sistemų saugumui, duoda nurodymą viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams, elektroninių prekyviečių, interneto paieškos sistemų, debesijos paslaugų teikėjams, elektroninės informacijos prieglobos paslaugų teikėjams ne ilgiau kaip 48 valandoms apriboti viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų, elektroninių prekyviečių, interneto paieškos sistemų, debesijos paslaugų, elektroninės informacijos prieglobos paslaugų teikimą. Nacionalinis kibernetinio saugumo centras apie viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams pagal šį punktą duotus nurodymus ne vėliau kaip kitą darbo dieną praneša Lietuvos Respublikos ryšių reguliavimo tarnybai;
+
+
+
+
+7) siekdamas pašalinti kibernetines grėsmes ar stabdyti jų plitimą, duoda nurodymą viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams ir (ar) domenų vardų registravimo paslaugas teikiantiems subjektams blokuoti interneto svetainių, platinančių kenkimo programas, apgaulės būdu renkančias prisijungimo prie tinklų ir informacinių sistemų duomenis ir (ar) naudojamas siekiant koordinuoti ir vykdyti kibernetinius incidentus, domenų vardus, taip pat kitus domenų vardus, sukurtus minėtoms interneto svetainių veikloms vykdyti. Dėl Nacionalinio kibernetinio saugumo centro nurodymo blokuoti interneto svetainės domeno vardą jos savininkas turi teisę kreiptis į teismą Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka;
+
+
+
+
+8) įvykus kibernetiniam incidentui, taiko būtinas kibernetinio saugumo priemones;
+
+
+
+
+9) tikrina kibernetinio saugumo subjektų valdomas ir (ar) tvarkomas tinklų ir informacines sistemas, siekdamas nustatyti spragas;
+
+
+
+
+10) koordinuoja spragų atskleidimą;
+
+
+
+
+11) renka ir analizuoja kibernetinio incidento tyrimo duomenis, atlieka kibernetinio saugumo rizikų ir kibernetinių incidentų analizę, taip pat užtikrina kibernetinio saugumo politiką formuojančių ir įgyvendinančių institucijų ir kibernetinio saugumo subjektų informavimą apie padėtį kibernetinio saugumo srityje;
+
+
+
+
+12) kai būtina informuoti visuomenę siekiant išvengti kibernetinio incidento arba valdyti vykstantį kibernetinį incidentą ar iškilusią kibernetinę grėsmę, prieš tai pasikonsultavęs su kibernetinio saugumo subjektu, pranešusiu apie kibernetinį incidentą, informuoja visuomenę apie kibernetinį incidentą ir (ar) kibernetinę grėsmę, jeigu įmanoma, nurodydamas veiksmus, kurių būtina imtis reaguojant į tą kibernetinį incidentą ir (ar) kibernetinę grėsmę, arba reikalauja, kad tai padarytų informaciją pateikęs kibernetinio saugumo subjektas;
+
+
+
+
+13) dalyvauja valdant krizes, susijusias su kibernetiniais incidentais, Krizių valdymo ir civilinės saugos įstatymo nustatyta tvarka;
+
+
+
+
+14) koordinuojant Nacionaliniam krizių valdymo centrui, praneša Europos Sąjungos institucijoms apie krizes, susijusias su kibernetiniais incidentais, kurių viena Lietuvos Respublika nepajėgia suvaldyti;
+
+
+
+
+15) dalyvauja Europos Sąjungos ir NATO įsteigtų reagavimo į kibernetinius incidentus tinklų veikloje ir teikia savitarpio pagalbą pagal savo pajėgumus ir kompetenciją kitiems šių tinklų nariams jų prašymu;
+
+
+
+
+16) atlieka kibernetinio saugumo subjektų atitikties kibernetinio saugumo rizikos valdymo priemonėms stebėseną;
+
+
+
+
+17) konsultuoja kibernetinio saugumo subjektus kibernetinio saugumo rizikos valdymo priemonių parinkimo ir taikymo klausimais;
+
+
+
+
+18) bendradarbiauja su Europos Sąjungos valstybių narių, NATO valstybių narių ir kitų valstybių institucijomis ir organizacijomis, įgyvendinančiomis kibernetinio saugumo politiką, tarptautinėmis organizacijomis, turi teisę jas pasitelkti, kartu atliekant šio įstatymo ir kitų teisės aktų nustatytas funkcijas kibernetinio saugumo srityje;
+
+
+
+
+19) kartu su verslo subjektais, mokslo ir studijų institucijomis, nacionalinėmis, Europos Sąjungos valstybių narių, NATO valstybių narių ir kitų valstybių institucijomis ir organizacijomis, tarptautinėmis organizacijomis, nevyriausybinėmis organizacijomis ir kibernetinio saugumo subjektais plėtoja nacionalinį kibernetinį saugumą stiprinančius projektus;
+
+
+
+
+20) atlieka kitas šiame įstatyme nustatytas funkcijas.
+
+
+
+
+
+
+3. Nacionalinis kibernetinio saugumo centras, atlikdamas šio straipsnio 2 dalies 16 punkte nurodytas funkcijas, kibernetinio saugumo auditui atlikti turi teisę pasitelkti nepriklausomą auditorių, audito įmonę ar kitą instituciją, kuri atitinka Nacionalinio kibernetinio saugumo centro nustatytus nepriklausomumo, nešališkumo ir nepriekaištingos reputacijos reikalavimus, nustatytus šio įstatymo 14 straipsnio 8 dalyje nurodytoje metodikoje. Atliekant kibernetinio saugumo auditą turi būti užtikrinamas kibernetinio saugumo subjekto valdomų ir (ar) tvarkomų tinklų ir informacinės sistemos kibernetinis saugumas.
+
+
+
+
+4. Nacionalinio kibernetinio saugumo centro pritaikytas priemones ir duotus nurodymus kibernetinio saugumo subjektai ir kiti subjektai turi teisę skųsti teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, išskyrus šiame įstatyme nurodytus atvejus, kai taikoma kita apskundimo tvarka.
+
+
+
+
+5. Nacionalinis kibernetinio saugumo centras turi atitikti šiuos reikalavimus:
+
+
+1) Nacionalinio kibernetinio saugumo centro ryšio kanalai turi būti lengvai prieinami išvengiant kritinių funkcionavimo trikties taškų;
+
+
+
+
+2) turi būti nustatoma keletas būdų, kaip bet kuriuo metu susisiekti su Nacionaliniu kibernetinio saugumo centru, apie šiuos būdus ir ryšių kanalus informuojami kibernetinio saugumo subjektai ir kitos šio įstatymo 20 straipsnyje nurodytos institucijos;
+
+
+
+
+3) Nacionalinio kibernetinio saugumo centro patalpos ir pagalbinės informacinės sistemos turi būti įrengtos vietose, nekeliančiose grėsmės Nacionalinio kibernetinio saugumo centro atliekamų funkcijų tęstinumui;
+
+
+
+
+4) Nacionalinis kibernetinio saugumo centras turi turėti prašymų valdymo ir perdavimo sistemą, užtikrinančią veiksmingą ir efektyvų prašymų perdavimą;
+
+
+
+
+5) Nacionalinis kibernetinio saugumo centras privalo užtikrinti savo veiklos konfidencialumą ir patikimumą;
+
+
+
+
+6) Nacionalinis kibernetinio saugumo centras privalo turėti pakankamai darbuotojų, kad jo pasiekiamumas būtų užtikrintas bet kuriuo metu;
+
+
+
+
+7) Nacionalinio kibernetinio saugumo centro darbuotojai turi būti tinkamai parengti atlikti funkcijas;
+
+
+
+
+8) Nacionalinis kibernetinio saugumo centras turi turėti antrines sistemas ir atsarginę darbo erdvę, kad būtų užtikrintas Nacionalinio kibernetinio saugumo centro funkcijų tęstinumas.
+
+
+
+
+
+
+6. Krašto apsaugos ministerija privalo užtikrinti, kad Nacionalinis kibernetinio saugumo centras turėtų pakankamai pajėgumų ir išteklių, reikalingų šio straipsnio 2 dalyje nustatytoms funkcijoms atlikti, atitiktų šio straipsnio 5 dalyje nustatytus reikalavimus, ir plėtoti Nacionalinio kibernetinio saugumo centro techninius pajėgumus.
  
 
 
 
 
-5) duoda nurodymus kibernetinio saugumo subjektams, išskyrus skaitmeninių paslaugų teikėjus, savo lėšomis atlikti nepriklausomą ryšių ir informacinių sistemų arba jomis teikiamų paslaugų saugumo auditą ir pateikti šio audito rezultatus, jei jie organizacinių ir techninių kibernetinio saugumo reikalavimų, taikomų kibernetinio saugumo subjektams, apraše nustatyta tvarka nepateikia techninės informacijos, reikalingos ryšių ir informacinių sistemų ar jomis teikiamų paslaugų kibernetinio saugumo būklei įvertinti;
 
 
+8 straipsnis. Pasirengimas krizėms, ekstremaliosioms situacijoms kibernetinio saugumo srityje
 
 
-6) gavęs iš kibernetinio saugumo subjekto, skaitmeninės paslaugos vartotojo arba kitos Europos Sąjungos valstybės narės, kurioje yra teikiama skaitmeninė paslauga, kompetentingos institucijos, prižiūrinčios skaitmeninių paslaugų teikėjų veiklą kibernetinio saugumo srityje, įrodymų, kad skaitmeninių paslaugų teikėjai neatitinka šio įstatymo nustatytų reikalavimų, duoda nurodymus skaitmeninių paslaugų teikėjams, kad šie pateiktų informaciją, reikalingą jų valdomų ryšių ir informacinių sistemų kibernetiniam saugumui įvertinti, ir pašalintų kibernetinio saugumo reikalavimų įgyvendinimo trūkumus;
+1. Nacionalinis kibernetinio saugumo centras tvarko duomenis apie kibernetinio saugumo subjektus, kitas įstaigas ir ūkio subjektus, kuriems, įvykus ekstremaliajam įvykiui kibernetinėje erdvėje, būtų pavedamos būtinosios užduotys valdant kibernetinius incidentus.
 
 
 
 
-7) nacionaliniu lygmeniu stebi kibernetinius incidentus ir atlieka rizikos kibernetinėje erdvėje bei kibernetinių incidentų analizę;
-
-
-
-
-8) pagal techninių kibernetinio saugumo priemonių diegimo planą, suderintą su subjektais, valdančiais ir (arba) tvarkančiais valstybės informacinius išteklius, ar ypatingos svarbos informacinės infrastruktūros valdytojais, laikydamasis krašto apsaugos ministro nustatytos tvarkos, diegia ir valdo technines kibernetinio saugumo priemones valstybės informaciniuose ištekliuose ir ypatingos svarbos informacinėse infrastruktūrose. Nacionalinio kibernetinio saugumo centro lėšomis įdiegtos priemonės naudojamos išimtinai tik kibernetiniam saugumui užtikrinti. Nacionalinio kibernetinio saugumo centro lėšomis įdiegtos techninės kibernetinio saugumo priemonės techniškai prižiūrimos, jų remontas atliekamas Nacionalinio kibernetinio saugumo centro lėšomis;
-
-
-
-
-9) nacionaliniu lygmeniu organizuoja kibernetinių incidentų kibernetinio saugumo subjektų ryšių ir informacinėse sistemose valdymą; 
-
-
-
-
-10) kibernetinio incidento metu taiko būtinas kibernetinio saugumo priemones;
-
-
-
-
-11) siekdamas stabdyti kibernetinio incidento poveikį valstybės informacinių išteklių ar ypatingos svarbos informacinių infrastruktūrų kibernetiniam saugumui, duoda nurodymą viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjui ne ilgiau negu 48 valandoms apriboti viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikimą šių paslaugų gavėjui. Nacionalinis kibernetinio saugumo centras apie viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams pagal šį punktą duotus nurodymus ne vėliau kaip kitą darbo dieną praneša Lietuvos Respublikos ryšių reguliavimo tarnybai;
-Straipsnio punkto pakeitimai:
-Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
- 
-
-
-
-
-12) dalyvauja kibernetinio saugumo krizių valdyme;
-
-
-
-
-13) kai būtina informuoti visuomenę siekiant išvengti kibernetinio incidento arba valdyti vykstantį kibernetinį incidentą, pasikonsultavęs su kibernetinio saugumo subjektu, pranešusiu apie kibernetinį incidentą, informuoja visuomenę apie pavienius kibernetinius incidentus arba reikalauja, kad tai padarytų kibernetinio saugumo subjektas;
-
-
-
-
-14) bendradarbiauja su tarptautinių organizacijų kompetentingomis institucijomis, jų įsteigtomis bendradarbiavimo grupėmis ir užsienio valstybių kompetentingomis institucijomis ir tarnybomis, turi teisę jas pasitelkti kartu atliekant šio įstatymo ir kitų teisės aktų nustatytas funkcijas kibernetinio saugumo srityje;
-
-
-
-
-15) tvarko asmens duomenis, būtinus Nacionalinio kibernetinio saugumo centro funkcijoms kibernetinio saugumo užtikrinimo srityje atlikti. Nacionalinis kibernetinio saugumo centras asmens duomenis tvarko Asmens duomenų teisinės apsaugos įstatymo nustatyta tvarka;
-
-
-
-
-16) kartu su verslo subjektais, mokslo ir studijų institucijomis ir kibernetinio saugumo subjektais plėtoja nacionalinį kibernetinį saugumą stiprinančius projektus;
-
-
-
-
-161) analizuoja informaciją apie spragas, duoda nurodymus subjektams, valdantiems ir (ar) tvarkantiems valstybės informacinius išteklius, ypatingos svarbos informacinės infrastruktūros valdytojams, viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams ir elektroninės informacijos prieglobos paslaugų teikėjams dėl spragų patvirtinimo ir informavimo apie jas; 
-Papildyta straipsnio punktu:
-Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
- 
-
-
-
-
-162) atlieka valstybės informacinių išteklių atitikties teisės aktų nustatytiems elektroninės informacijos saugos reikalavimams stebėseną;
-Papildyta straipsnio punktu:
-Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
- 
-
-
-
-
-163) derina su valstybės informacinių išteklių sauga susijusių teisės aktų ir saugos dokumentų projektus;
-Papildyta straipsnio punktu:
-Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
- 
-
-
-
-
-164) konsultuoja subjektus, valdančius ir (arba) tvarkančius valstybės informacinius išteklius, valstybės informacinių išteklių saugos klausimais;
-Papildyta straipsnio punktu:
-Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
- 
-
-
-
-
-165) organizuoja valstybės informacinių išteklių saugos vertinimą; 
-Papildyta straipsnio punktu:
-Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
- 
-
-
-
-
-17) atlieka kitas Lietuvos Respublikos teisės aktuose nustatytas funkcijas kibernetinio saugumo užtikrinimo srityje.
+2. Nacionalinis kibernetinio saugumo centras tvirtina kibernetinio saugumo pratybų planą, kuriuo remdamasis šio straipsnio 1 dalyje nurodytiems kibernetinio saugumo subjektams, kitoms įstaigoms ir ūkio subjektams organizuoja kibernetinio saugumo pratybas ir mokymus, siekdamas užtikrinti pasirengimą krizėms, ekstremaliosioms situacijoms kibernetinio saugumo srityje.
  
 
 
@@ -623,17 +579,13 @@ Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
 
 
 
+9 straipsnis. Valstybinės duomenų apsaugos inspekcijos įgaliojimai kibernetinio saugumo srityje
 
 
-9 straipsnis. Valstybinės duomenų apsaugos inspekcijos įgaliojimai kibernetinio saugumo srityje 
-
-
-Valstybinė duomenų apsaugos inspekcija įgyvendina kibernetinio saugumo politiką asmens duomenų apsaugos srityje ir atlieka 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) nustatytas priežiūros institucijos užduotis. 
-
-
-Straipsnio pakeitimai:
-Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
+Valstybinė duomenų apsaugos inspekcija įgyvendina kibernetinio saugumo politiką asmens duomenų apsaugos srityje ir atlieka 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) su visais pakeitimais nustatytas priežiūros institucijos užduotis. 
  
+
+
 
 
 
@@ -641,33 +593,33 @@ Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
 10 straipsnis. Policijos įgaliojimai kibernetinio saugumo srityje
 
 
-Policija, vykdydama kibernetinių incidentų, galimai turinčių nusikalstamų veikų požymių, užkardymą ir atlikdama jų tyrimą:
+1. Policija, įgyvendindama kibernetinio saugumo politiką:
 
 
-1) renka, analizuoja ir apibendrina informaciją apie kibernetinius incidentus, galimai turinčius nusikalstamų veikų požymių;
-
-
-
-
-2) nustato kibernetinio saugumo subjektams informacijos, reikalingos kibernetiniams incidentams, galimai turintiems nusikalstamų veikų požymių, užkardyti ir tirti, pateikimo policijai tvarką;
+1) gauna ir tvarko duomenis ir (ar) informaciją apie kibernetinius incidentus nusikalstamų veikų prevencijos, analizės, tyrimo ar atskleidimo tikslais;
 
 
 
 
-3) turi teisę, kai paslaugų gavėjas galimai dalyvauja ar jo naudojama ryšių ir informacinių technologijų įranga galimai yra naudojama nusikalstamai veikai, be teismo sankcijos duoti nurodymą viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjui, elektroninės informacijos prieglobos paslaugų teikėjui ir skaitmeninių paslaugų teikėjui ne ilgiau kaip 48 valandoms, o ilgesniam laikui – su apylinkės teismo sankcija apriboti viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų, elektroninės informacijos prieglobos paslaugų ir skaitmeninių paslaugų teikimą paslaugų gavėjui ir (arba) nurodyti taikyti priemones, šalinančias nusikalstamų veikų kibernetinėje erdvėje priežastis. Šiais atvejais apylinkės teismo pirmininkui ar jo įgaliotam teisėjui pateikiamas teikimas dėl veiksmų teisėtumo ar pagrįstumo patvirtinimo motyvuota nutartimi. Jeigu šiame punkte nurodytas paslaugų teikimo apribojimo terminas baigiasi poilsio ar švenčių dieną, teikimas pateikiamas ne vėliau kaip kitą darbo dieną po poilsio ar švenčių dienos. Jeigu teisėjas motyvuota nutartimi nepatvirtina teikime nurodytų veiksmų teisėtumo ar pagrįstumo, nurodymas nedelsiant stabdomas;
-Straipsnio punkto pakeitimai:
-Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
+2) turi teisę iš kibernetinio saugumo subjektų gauti informaciją, reikalingą analizuojant ir vertinant, ar kibernetinis incidentas turi galimų nusikalstamos veikos požymių. Kibernetinio saugumo subjektai privalo policijos prašymu teikti šiame punkte nurodytą informaciją;
+
+
+
+
+3) turi teisę, kai viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų, elektroninės informacijos prieglobos paslaugų, elektroninių prekyviečių, interneto paieškos sistemų, debesijos paslaugų gavėjas galimai dalyvauja ar jo naudojama tinklų ir informacinių technologijų įranga galimai yra naudojama nusikalstamai veikai, be teismo sankcijos duoti nurodymą viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjui, elektroninės informacijos prieglobos paslaugų teikėjui, elektroninių prekyviečių, interneto paieškos sistemų, debesijos paslaugų teikėjams ne ilgiau kaip 48 valandoms, o ilgesniam laikui – su apylinkės teismo sankcija apriboti viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų, elektroninės informacijos prieglobos paslaugų, elektroninių prekyviečių, interneto paieškos sistemų, debesijos paslaugų teikimą šių paslaugų gavėjui ir (ar) nurodyti taikyti priemones nusikalstamų veikų kibernetinėje erdvėje priežastims šalinti. Šiais atvejais teisėjui pateikiamas teikimas dėl veiksmų teisėtumo ar pagrįstumo patvirtinimo motyvuota nutartimi. Jeigu šiame punkte nurodytas paslaugų teikimo apribojimo terminas baigiasi poilsio ar švenčių dieną, teikimas pateikiamas ne vėliau kaip kitą darbo dieną po poilsio ar švenčių dienos. Teisėjas turi išnagrinėti teikimą ir priimti nutartį dėl teikime nurodytų veiksmų teisėtumo ar pagrįstumo ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo dienos. Jeigu teisėjas motyvuota nutartimi nepatvirtina teikime nurodytų veiksmų teisėtumo ar pagrįstumo, nurodymas nedelsiant stabdomas;
+
+
+
+
+4) turi teisę duoti nurodymą viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjui, elektroninės informacijos prieglobos paslaugų teikėjui, elektroninių prekyviečių, interneto paieškos sistemų, debesijos paslaugų teikėjams išsaugoti su savo teikiamomis paslaugomis susijusią informaciją, iš kurios galima nustatyti naudotos ryšio paslaugos tipą, taikytas priemones ir naudojimo laiką, paslaugos gavėjo tapatybę, pašto, geografinės padėties adresą, ryšio numerį, informaciją apie sąskaitas ir atliktus mokėjimus paslaugos sutarties arba susitarimo pagrindu ir kitą informaciją ryšių įrangos įrengimo vietoje, turimą pagal paslaugos sutartį arba susitarimą, šią informaciją gauti, o kai yra motyvuota teismo nutartis, gauti paslaugų gavėjo srauto duomenis ir kontroliuoti šiame punkte nurodytos perduodamos informacijos turinį.
+
+
+
+
+
+
+2. Policijos nurodymus dėl paslaugų teikimo jų gavėjui apribojimo ar (ir) nurodymus taikyti priemones nusikalstamų veikų kibernetinėje erdvėje priežastims šalinti, ar (ir) nurodymus paslaugų teikėjams išsaugoti su savo teikiamomis paslaugomis susijusią informaciją privaloma įvykdyti ne vėliau kaip per 8 valandas nuo policijos nurodymo įteikimo momento, o pagrįstais skubos atvejais kaip įmanoma greičiau ir bet kuriuo atveju ne vėliau kaip per vieną valandą nuo nurodymo gavimo momento.
  
-
-
-
-
-4) turi teisę duoti nurodymą viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjui, elektroninės informacijos prieglobos paslaugų teikėjui ir skaitmeninių paslaugų teikėjui išsaugoti su jų teikiamomis paslaugomis susijusią informaciją, iš kurios galima nustatyti naudotos ryšio paslaugos tipą, taikytas technines priemones ir naudojimo laiką, paslaugos gavėjo tapatybę, pašto, geografinės padėties adresą, telefono ir bet kokį kitą prieigos numerį, informaciją apie sąskaitas ir atliktus mokėjimus paslaugos sutarties arba susitarimo pagrindu ir kitą informaciją ryšių aparatūros įrengimo vietoje, turimą pagal paslaugos sutartį arba susitarimą, šią informaciją gauti, o kai yra motyvuota teismo nutartis, gauti paslaugų gavėjo srauto duomenis ir kontroliuoti šiame punkte nurodytos perduodamos informacijos turinį.
-Straipsnio punkto pakeitimai:
-Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
- 
-
-
 
 
 
@@ -677,49 +629,154 @@ Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
 
 
 III SKYRIUS
-KIBERNETINIO SAUGUMO SUBJEKTŲ PAREIGOS
+KIBERNETINIO SAUGUMO SUBJEKTŲ IDENTIFIKAVIMAS IR ŠIŲ SUBJEKTŲ PAREIGOS
  
 
 
-11 straipsnis. Bendrosios kibernetinio saugumo subjektų pareigos
+11 straipsnis. Kibernetinio saugumo subjektai
 
 
-1. Kibernetinio saugumo subjektai:
-
-
-1) atsako už jų valdomų ryšių ir informacinių sistemų ar teikiamų paslaugų kibernetinį saugumą, užtikrina jų atitiktį organizaciniams ir techniniams kibernetinio saugumo reikalavimams, taikomiems kibernetinio saugumo subjektams;
+1. Kibernetinio saugumo subjekto statusą įgyja ir Kibernetinio saugumo informacinėje sistemoje registruojami subjektai, atitinkantys bent vieną iš šio straipsnio 3–5 dalyse nurodytų bendrųjų ar specialiųjų kibernetinio saugumo subjektų identifikavimo kriterijų ir šiose dalyse nurodytoms paslaugoms teikti ar veiklai vykdyti valdantys ir (ar) tvarkantys tinklų ir informacines sistemas. Atsižvelgiant į galimą neigiamą poveikį, kurį kibernetinis incidentas gali padaryti kibernetinio saugumo subjektų valdomoms ir (ar) tvarkomoms tinklų ir informacinėms sistemoms, kibernetinio saugumo subjektai skirstomi į esminius kibernetinio saugumo subjektus (toliau – esminiai subjektai) ir svarbius kibernetinio saugumo subjektus (toliau – svarbūs subjektai).
 
 
 
 
-2) organizacinių ir techninių kibernetinio saugumo reikalavimų, taikomų kibernetinio saugumo subjektams, apraše nustatyta tvarka atlieka rizikos vertinimą ir įdiegia kitas, naujausiais technikos laimėjimais paremtas ir nustatytai rizikai proporcingas, technines ir organizacines kibernetinio saugumo priemones;
+2. Kibernetinio saugumo subjektai įgyja pareigas, nustatytas kibernetinio saugumo subjektams, tik nuo jų įregistravimo Kibernetinio saugumo informacinėje sistemoje.
 
 
 
 
-3) Nacionaliniame kibernetinių incidentų valdymo plane nustatytomis sąlygomis ir tvarka praneša Nacionaliniam kibernetinio saugumo centrui apie jų valdomose ir (arba) tvarkomose ryšių ir informacinėse sistemose įvykusius kibernetinius incidentus ir taikytas kibernetinių incidentų valdymo priemones;
+3. Bendrieji esminių subjektų identifikavimo kriterijai:
+
+
+1) subjektas teikia paslaugas ir (ar) vykdo veiklą šio įstatymo 1 priede nurodytuose sektoriuose ir viršija vidutinių įmonių darbuotojų skaičių ir finansinius duomenis apibrėžiančias ribas, nustatytas Smulkiojo ir vidutinio verslo plėtros įstatyme;
 
 
 
 
-4) policijos generalinio komisaro nustatyta tvarka teikia policijai informaciją, reikalingą teisės pažeidimams, turintiems nusikalstamų veikų požymių, kibernetinėje erdvėje užkardyti ir tirti, ir vykdo kitus policijos nurodymus, duotus šio įstatymo nustatytais pagrindais. Policijos nurodymus dėl paslaugų teikimo jų gavėjui apribojimo privaloma įvykdyti ne vėliau kaip per 8 valandas nuo policijos nurodymo gavimo;
+2) subjektas šio įstatymo 1 priede nurodytame skaitmeninės infrastruktūros sektoriuje teikia kvalifikuotas patikimumo užtikrinimo paslaugas, aukščiausio lygio domeno vardų registravimo paslaugas ar domenų vardų sistemos (toliau – DNS) paslaugas, išskyrus šakninių vardų serverių operatorius;
 
 
 
 
-5) paskiria kompetentingą asmenį ar padalinį, atsakingą už kibernetinio saugumo organizavimą ir užtikrinimą, ir Nacionaliniam kibernetinio saugumo centrui pateikia šio asmens ar padalinio kontaktinę informaciją;
+3) subjektas šio įstatymo 1 priede nurodytame skaitmeninės infrastruktūros sektoriuje teikia viešąsias elektroninių ryšių tinklų ar viešąsias elektroninių ryšių paslaugas ir yra laikomas vidutine įmone pagal Smulkiojo ir vidutinio verslo plėtros įstatymą;
 
 
 
 
-6) vykdo šio įstatymo 8 straipsnyje nustatytus Nacionalinio kibernetinio saugumo centro nurodymus.
+4) subjektas Krizių valdymo ir civilinės saugos įstatymo nustatyta tvarka yra pripažintas ypatingos svarbos subjektu;
+
+
+
+
+5) subjektas šio įstatymo 1 priede nurodytame viešojo administravimo sektoriuje teikia paslaugas ir (ar) vykdo veiklą ir yra laikomas centriniu valstybinio administravimo subjektu ar regioninio administravimo subjektu, ar savivaldybių administravimo subjektu pagal Viešojo administravimo įstatymą;
+
+
+
+
+6) subjektas Valstybės informacinių išteklių valdymo įstatymo nustatyta tvarka valdo ir (ar) tvarko ypatingos svarbos ir (ar) svarbius valstybės informacinius išteklius;
+
+
+
+
+7) subjektas yra laikomas nacionaliniam saugumui užtikrinti svarbia įmone arba subjekto valdoma ir (ar) tvarkoma tinklų ir informacinė sistema yra įrašyta į nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto sąrašą.
 
 
 
 
 
 
-2. Šio straipsnio nuostatos netaikomos skaitmenines paslaugas Lietuvos Respublikoje ir (arba) kitoje Europos Sąjungos valstybėje narėje teikiančioms mažoms ir labai mažoms įmonėms, kurios yra apibrėžtos Smulkiojo ir vidutinio verslo plėtros įstatyme.
+4. Bendrieji svarbių subjektų identifikavimo kriterijai:
+
+
+1) subjektas teikia paslaugas ir (ar) vykdo veiklą šio įstatymo 2 priede nurodytuose sektoriuose, viršija mažų įmonių darbuotojų skaičių ir finansinius duomenis apibrėžiančias ribas, nustatytas Smulkiojo ir vidutinio verslo plėtros įstatyme, ir šio subjekto šiame punkte nurodytų teikiamų paslaugų ir (ar) vykdomos veiklos metinių pajamų suma viršija 50 procentų visų subjekto metinių pajamų;
+
+
+
+
+2) subjektas teikia paslaugas ir (ar) vykdo veiklą šio įstatymo 1 priede nurodytuose sektoriuose ir viršija mažų įmonių darbuotojų skaičių ir finansinius duomenis apibrėžiančias ribas, tačiau neviršija vidutinių įmonių darbuotojų skaičiaus ir finansinių duomenų ribų, nustatytų Smulkiojo ir vidutinio verslo plėtros įstatyme;
+
+
+
+
+3) subjektas teikia nekvalifikuotas patikimumo užtikrinimo paslaugas šio įstatymo 1 priede nurodytame skaitmeninės infrastruktūros sektoriuje ir yra laikomas vidutine, maža ar labai maža įmone pagal Smulkiojo ir vidutinio verslo plėtros įstatymą;
+
+
+
+
+4) subjektas teikia viešąsias elektroninių ryšių tinklų ar viešąsias elektroninių ryšių paslaugas šio įstatymo 1 priede nurodytame skaitmeninės infrastruktūros sektoriuje ir yra laikomas maža ar labai maža įmone pagal Smulkiojo ir vidutinio verslo plėtros įstatymą;
+
+
+
+
+5) subjektas valdo ir (ar) tvarko valstybės informacinius išteklius;
+
+
+
+
+6) subjektas teikia domenų vardų registravimo paslaugas;
+
+
+
+
+7) subjektas teikia elektroninės informacijos prieglobos paslaugas.
+
+
+
+
+
+
+5. Specialieji kibernetinio saugumo subjektų identifikavimo kriterijai:
+
+
+1) subjektas yra vienintelis paslaugos, kuri yra būtina siekiant užtikrinti ypatingos svarbos visuomeninės ar ekonominės veiklos vykdymą Lietuvos Respublikoje, teikėjas;
+
+
+
+
+2) paslaugos, kurią teikia subjektas, sutrikimas galėtų daryti didelį poveikį viešajam saugumui, visuomenės saugumui arba visuomenės sveikatai;
+
+
+
+
+3) paslaugos, kurią teikia subjektas, sutrikimas galėtų kelti didelę sisteminę riziką sektoriuose, kuriuose toks sutrikimas galėtų daryti tarpvalstybinį poveikį;
+
+
+
+
+4) subjektas yra ypatingos svarbos atsižvelgiant į jo svarbą konkrečiam sektoriui ar paslaugos rūšiai arba kitiems tarpusavyje priklausomiems sektoriams nacionaliniu ar regioniniu lygmeniu;
+
+
+
+
+5) subjektas šio įstatymo 1 priede nurodytame viešojo administravimo sektoriuje teikia paslaugas ir (ar) vykdo veiklą, kuriai sutrikus galėtų kilti didelis poveikis valstybei, institucijoms ar gyventojams, ir yra laikomas teritoriniu valstybinio administravimo subjektu ar regioniniu administravimo subjektu, ar savivaldybių administravimo subjektu pagal Viešojo administravimo įstatymą;
+
+
+
+
+6) paslaugos, kurią teikia subjektas, sutrikimas galėtų daryti didelį poveikį esminio subjekto teikiamai paslaugai ir (ar) vykdomai veiklai;
+
+
+
+
+7) subjektas yra paslaugos, kuri yra būtina gyvybiškai svarbioms valstybės funkcijoms atlikti ir valstybinėms mobilizacinėms užduotims vykdyti, teikėjas;
+
+
+
+
+8) subjektas šio įstatymo 2 priede nurodytame mokslinių tyrimų sektoriuje vykdo ypatingos svarbos mokslinių tyrimų ir eksperimentinės plėtros veiklą.
+
+
+
+
+
+
+6. Vyriausybė nustato identifikavimo pagal specialiuosius kriterijus metodiką, pagal kurią subjektas priskiriamas esminiams arba svarbiems subjektams. Pagal šio straipsnio 5 dalies 5 punkte nurodytą kriterijų identifikuojami tik esminiai subjektai, o pagal šio straipsnio 5 dalies 8 punkte nurodytą kriterijų identifikuojami tik svarbūs subjektai.
+
+
+
+
+7. Jeigu subjektas atitinka bent vieną šio straipsnio 3 ar 5 dalyje nurodytą kriterijų, pagal kurį identifikuojamas esminis subjektas, laikoma, kad subjektas yra esminis subjektas nepriklausomai nuo jo atitikties svarbaus subjekto kriterijams.
  
 
 
@@ -727,81 +784,50 @@ KIBERNETINIO SAUGUMO SUBJEKTŲ PAREIGOS
 
 
 
-12 straipsnis. Specialiosios kibernetinio saugumo subjektų pareigos
+12 straipsnis. Jurisdikcija ir teritoriškumas
 
 
-1. Ypatingos svarbos informacinės infrastruktūros valdytojai:
+1. Identifikuojant kibernetinio saugumo subjektus laikoma, kad Lietuvos Respublikos jurisdikcijai priklauso:
 
 
-1) vadovaudamiesi krašto apsaugos ministro patvirtintu tipiniu kibernetinių incidentų valdymo ypatingos svarbos informacinėse infrastruktūrose planu, patvirtina ir Nacionaliniam kibernetinio saugumo centrui pateikia kibernetinių incidentų valdymo ypatingos svarbos informacinėse infrastruktūrose planus;
+1) subjektai, registruoti Lietuvos Respublikoje, išskyrus:
 
 
-
-
-2) Nacionaliniame kibernetinių incidentų valdymo plane nustatyta tvarka praneša skaitmeninių paslaugų teikėjams apie neigiamą poveikį ypatingos svarbos informacinės infrastruktūros veiklai, kurį lėmė skaitmeninių paslaugų teikėjų ryšių ir informacinėse sistemose įvykę sutrikimai; 
-
-
-
-
-3) ne rečiau kaip kartą per kalendorinius metus išbando kibernetinių incidentų valdymo ypatingos svarbos informacinėse infrastruktūrose planuose numatytų priemonių veikimą ir bandymų rezultatus organizacinių ir techninių kibernetinio saugumo reikalavimų, taikomų kibernetinio saugumo subjektams, apraše nustatyta tvarka pateikia Nacionaliniam kibernetinio saugumo centrui;
+a) viešojo administravimo subjektus, kurie yra įsteigti kitos valstybės;
 
 
 
 
-4) sudaro sąlygas Nacionaliniam kibernetinio saugumo centrui diegti ir valdyti technines kibernetinio saugumo priemones ypatingos svarbos informacinėje infrastruktūroje ir taikyti technines priemones, siekiant įvertinti ypatingos svarbos informacinių infrastruktūrų atsparumą kibernetiniams incidentams.
+b) šios dalies 3 punkte nurodytus subjektus, kurių pagrindinė buveinė yra ne Lietuvos Respublikoje;
 
 
 
 
 
 
-2. Subjektai, valdantys ir (arba) tvarkantys valstybės informacinius išteklius:
-
-
-1) sudaro sąlygas Nacionaliniam kibernetinio saugumo centrui diegti ir valdyti technines kibernetinio saugumo priemones valstybės informaciniuose ištekliuose ir taikyti technines priemones, siekdami įvertinti valstybės informacinių išteklių atsparumą kibernetiniams incidentams;
+2) viešojo administravimo subjektai, kuriuos Lietuvos Respublika įsteigė kitose valstybėse;
 
 
 
 
-2) planuoja atitinkamiems Vyriausybės ir (arba) jos įgaliotos institucijos nustatytiems valstybės informacinių išteklių saugos reikalavimams įgyvendinti reikalingas lėšas ir jas skiria kibernetiniam saugumui ir valstybės informacinių išteklių saugai užtikrinti, taip pat imasi veiksmų, kad suplanuotos lėšos būtų skiriamos, ir kontroliuoja, kaip skirtos lėšos panaudojamos. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
- 
+3) DNS paslaugų teikėjai, aukščiausio lygio domenų vardų registravimo paslaugas teikiantys subjektai, domenų vardų registravimo paslaugas teikiantys subjektai, debesijos paslaugų teikėjai, duomenų centrų paslaugų teikėjai, paskirstytojo turinio teikimo tinklo paslaugų teikėjai, valdomų paslaugų teikėjai, valdomų kibernetinio saugumo paslaugų teikėjai, elektroninių prekyviečių, interneto paieškos sistemų ar socialinio tinklo paslaugų platformų paslaugų teikėjai, kurių pagrindinė buveinė yra Lietuvos Respublikoje;
 
 
 
 
-3. Viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjai viešai skelbia savo interneto svetainėse ar kitomis visuomenės informavimo priemonėmis paslaugų gavėjams rekomendacijas dėl priemonių kibernetiniam saugumui užtikrinti naudojantis viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų teikiamomis paslaugomis.
-Straipsnio dalies pakeitimai:
-Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
- 
-
-
-
-
-4. Elektroninės informacijos prieglobos paslaugų teikėjai viešai skelbia savo interneto svetainėse ar kitomis visuomenės informavimo priemonėmis elektroninės informacijos prieglobos paslaugų gavėjams rekomendacijas dėl priemonių kibernetiniam saugumui užtikrinti naudojantis elektroninės informacijos prieglobos paslaugomis.
-
-
-
-
-5. Skaitmeninių paslaugų teikėjai:
-
-
-1) viešai skelbia savo interneto svetainėse ar kitomis visuomenės informavimo priemonėmis paslaugų gavėjams rekomendacijas dėl priemonių kibernetiniam saugumui užtikrinti naudojantis skaitmeninių paslaugų teikėjų teikiamomis paslaugomis;
-
-
-
-
-2) skiria atstovą veiklai skaitmeninių paslaugų teikėjo vardu vykdyti Europos Sąjungoje. Šis atstovas skiriamas, jei skaitmeninių paslaugų teikėjas nėra įsisteigęs Europos Sąjungos valstybėje narėje. Atstovas turi būti fizinis arba juridinis asmuo, įsisteigęs vienoje iš tų Europos Sąjungos valstybių narių, kurioje yra teikiamos skaitmeninės paslaugos. Kibernetinio saugumo politikos įgyvendinimo institucijos turi teisę kreiptis į skaitmeninių paslaugų teikėjo atstovą dėl šiame įstatyme nustatytų skaitmeninių paslaugų teikėjo pareigų atlikimo. Jei skaitmeninių paslaugų teikėjas skiria atstovą veiklai Lietuvos Respublikoje vykdyti, laikoma, kad skaitmeninių paslaugų teikėjas priklauso Lietuvos Respublikos jurisdikcijai. 
+4) viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjai, teikiantys šias paslaugas Lietuvos Respublikoje.
 
 
 
 
 
 
-6. Šio straipsnio nuostatos netaikomos skaitmenines paslaugas Lietuvos Respublikoje ir (arba) kitoje Europos Sąjungos valstybėje narėje teikiančioms mažoms ir labai mažoms įmonėms, kurios yra apibrėžtos Smulkiojo ir vidutinio verslo plėtros įstatyme.
+2. Laikoma, kad šio straipsnio 1 dalies 3 punkte nurodyta pagrindinė buveinė yra Lietuvos Respublikoje, jeigu šio straipsnio 1 dalies 3 punkte nurodyti subjektai yra registruoti ar įsisteigę Lietuvos Respublikoje. Laikoma, kad šio straipsnio 1 dalies 3 punkte nurodyta pagrindinė buveinė yra Lietuvos Respublikoje, jeigu su kibernetinio saugumo rizikos valdymo priemonėmis susiję sprendimai yra priimami Lietuvos Respublikoje. Jeigu Europos Sąjungos valstybė narė, kurioje priimami tokie sprendimai, nenustatoma arba tokie sprendimai Europos Sąjungoje nepriimami, laikoma, kad pagrindinė buveinė yra Lietuvos Respublikoje, kai Lietuvos Respublikoje įgyvendinamos kibernetinio saugumo rizikos valdymo priemonės. Jeigu nenustatoma Europos Sąjungos valstybė narė, kurioje įgyvendinamos kibernetinio saugumo rizikos valdymo priemonės, laikoma, kad pagrindinė buveinė yra Lietuvos Respublikoje, jeigu subjektas Lietuvos Respublikoje turi padalinį, kuriame dirba daugiausia jo darbuotojų Europos Sąjungoje.
+
+
+
+
+3. Jeigu šio straipsnio 1 dalies 3 punkte nurodytas subjektas nėra įsisteigęs Europos Sąjungoje, bet teikia paslaugas Lietuvos Respublikoje, jis privalo paskirti Europos Sąjungoje įsisteigusį fizinį arba juridinį asmenį veikti tik DNS paslaugų teikėjo, aukščiausio lygio domenų vardų registravimo paslaugas teikiančio subjekto, domenų vardų registravimo paslaugas teikiančio subjekto, debesijos paslaugų teikėjo, duomenų centro paslaugų teikėjo, paskirstytojo turinio teikimo tinklo paslaugų teikėjo, valdomų paslaugų teikėjo, valdomų kibernetinio saugumo paslaugų teikėjo, elektroninės prekyvietės paslaugų teikėjo, interneto paieškos sistemos paslaugų teikėjo arba socialinio tinklo paslaugų platformų paslaugų teikėjo, kuris nėra įsisteigęs Europos Sąjungoje, vardu, į kurį Nacionalinis kibernetinio saugumo centras gali kreiptis vietoj subjekto dėl to subjekto pareigų atlikimo pagal šį įstatymą (toliau – atstovas) Europos Sąjungoje. Šioje dalyje nurodytas atstovas turi būti įsisteigęs vienoje iš tų Europos Sąjungos valstybių narių, kuriose siūlomos paslaugos. Jeigu šio straipsnio 1 dalies 3 punkte nurodytas subjektas skiria atstovą Lietuvos Respublikoje arba jo nepaskiria, bet teikia paslaugas Lietuvos Respublikoje, laikoma, kad toks subjektas priklauso Lietuvos Respublikos jurisdikcijai.
  
 
 
@@ -809,118 +835,581 @@ Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
 
 
 
+13 straipsnis. Kibernetinio saugumo subjektų registras
 
 
-IV SKYRIUS 
+1. Kibernetinio saugumo subjektų registro objektas yra kibernetinio saugumo subjektai.
+
+
+
+
+2. Kibernetinio saugumo subjektų registras tvarkomas Kibernetinio saugumo informacinėje sistemoje.
+
+
+
+
+3. Kibernetinio saugumo subjektų registrą sudaro šie pagrindiniai duomenys apie kibernetinio saugumo subjektus:
+
+
+1) jeigu kibernetinio saugumo subjektas yra juridinis asmuo – kibernetinio saugumo subjekto pavadinimas, juridinio asmens kodas, teisinė forma, ekonominės veiklos sritis (sritys) ir rūšis (rūšys), pagrindinės buveinės adresas, o jeigu kibernetinio saugumo subjektas nėra įsisteigęs Europos Sąjungoje, – pagal šio įstatymo 12 straipsnio 3 dalį paskirto atstovo pavadinimas, teisinė forma, ekonominės veiklos sritis (sritys) ir rūšis (rūšys), adresas. Jeigu kibernetinio saugumo subjektas yra DNS paslaugų teikėjas, aukščiausio lygio domenų vardų registravimo paslaugas teikiantis subjektas, debesijos paslaugų teikėjas, duomenų centrų paslaugų teikėjas, paskirstytojo turinio teikimo tinklo paslaugų teikėjas, valdomų paslaugų teikėjas, valdomų kibernetinio saugumo paslaugų teikėjas, elektroninės prekyvietės paslaugų teikėjas, interneto paieškos sistemų ir socialinių tinklų paslaugų platformų paslaugų teikėjas (toliau – specialusis subjektas) ar yra domenų vardų registravimo paslaugas teikiantis subjektas – ir kitų juridinių padalinių Europos Sąjungoje adresai;
+
+
+
+
+2) jeigu kibernetinio saugumo subjektas yra fizinis asmuo – kibernetinio saugumo subjekto vardas, pavardė, asmens kodas, veiklos vykdymo adresas;
+
+
+
+
+3) kibernetinio saugumo subjekto (jeigu jis nėra įsisteigęs Europos Sąjungoje – taip pat ir pagal šio įstatymo 12 straipsnio 3 dalį paskirto atstovo) kontaktiniai duomenys (elektroninio pašto adresas, ryšio numeris);
+
+
+
+
+4) kibernetinio saugumo subjekto teikiamos paslaugos ir (ar) vykdomos veiklos, atitinkančios šio įstatymo 11 straipsnio 3–5 dalyse nurodytus kriterijus;
+
+
+
+
+5) kibernetinio saugumo subjekto naudojami interneto protokolo (IP) adresai;
+
+
+
+
+6) valstybės, kuriose kibernetinio saugumo subjektas teikia paslaugas ir (ar) vykdo veiklą, nurodytą šio įstatymo 1 ir 2 prieduose nurodytuose sektoriuose ir subsektoriuose;
+
+
+
+
+7) kibernetinio saugumo subjekto paslaugų teikimui ar veiklai reikšmingos tinklų ir informacinės sistemos;
+
+
+
+
+8) šio įstatymo 1 ir 2 prieduose nurodytas sektorius, kuriame kibernetinio saugumo subjektas veikia ar teikia paslaugas, jo subsektorius.
+
+
+
+
+
+
+4. Subjektas, atitinkantis šio įstatymo 11 straipsnio 3–5 dalyse nustatytus kibernetinio saugumo subjektų identifikavimo kriterijus, Kibernetinio saugumo informacinės sistemos duomenų tvarkytojui pateikia duomenis, nurodytus krašto apsaugos ministro tvirtinamuose Kibernetinio saugumo informacinės sistemos nuostatuose. Duomenys teikiami šiuose nuostatuose nustatyta tvarka.
+
+
+
+
+5. Kibernetinio saugumo subjektus registruoja ir išregistruoja Kibernetinio saugumo informacinės sistemos duomenų tvarkytojas Kibernetinio saugumo informacinės sistemos nuostatuose nustatyta tvarka. Kibernetinio saugumo subjektai šio įstatymo 1 ir 2 prieduose nurodytiems sektoriams, subsektoriams ir subjekto rūšiai priskiriami pagal Ekonominės veiklos rūšių klasifikatorių Kibernetinio saugumo informacinės sistemos nuostatuose nustatyta tvarka.
+
+
+
+
+6. Šio įstatymo 1 ir 2 prieduose nurodytos institucijos, atsakingos už kibernetinio saugumo subjektų identifikavimą, patvirtina šio straipsnio 3 dalyje nurodytus Kibernetinio saugumo informacinės sistemos duomenų tvarkytojo duomenis apie kibernetinio saugumo subjektus, taip pat pagal Vyriausybės nustatytą identifikavimo pagal specialiuosius kriterijus metodiką identifikuotus kibernetinio saugumo subjektus Kibernetinio saugumo informacinės sistemos nuostatuose nustatyta tvarka.
+
+
+
+
+7. Kibernetinio saugumo informacinės sistemos nuostatuose nustatytais atvejais ir tvarka identifikuojami ir registruojami subjektai, taip pat kitos valstybės institucijos, valstybės įstaigos, valstybės valdomos įmonės, viešosios įstaigos, savivaldybių valdomos įmonės ir savivaldybių įstaigos neatlygintinai teikia Kibernetinio saugumo informacinės sistemos duomenų tvarkytojui šio straipsnio 3 dalyje nurodytus duomenis ir kitą šiuos duomenis apibūdinančią informaciją, reikalingą kibernetinio saugumo subjektams registruoti.
+
+
+
+
+8. Jeigu kibernetinio saugumo subjektas neatitinka šio įstatymo 11 straipsnio 3–5 dalyse nurodytų kriterijų, jis išregistruojamas iš Kibernetinio saugumo informacinės sistemos. Kibernetinio saugumo subjektas išregistruojamas iš Kibernetinio saugumo informacinės sistemos per 20 darbo dienų nuo dienos, kai Kibernetinio saugumo informacinės sistemos duomenų tvarkytojas gauna informacijos, kad kibernetinio saugumo subjektas nebeatitinka šio įstatymo 11 straipsnio 3–5 dalyse nurodytų kriterijų.
+
+
+
+
+9. Subjektai turi teisę skųsti sprendimą juos registruoti arba jų neregistruoti Kibernetinio saugumo informacinėje sistemoje, taip pat sprendimą iš jos išregistruoti Administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+
+
+10. Kibernetinio saugumo subjektas netenka šiame įstatyme nurodytų kibernetinio saugumo subjektams taikomų pareigų nuo jo išregistravimo iš Kibernetinio saugumo informacinės sistemos.
+ 
+
+
+
+
+
+
+14 straipsnis. Kibernetinio saugumo rizikos valdymo priemonės
+
+
+1. Kibernetinio saugumo subjektai privalo užtikrinti šio įstatymo 11 straipsnio 3–5 dalyse nurodytus kriterijus atitinkančiai veiklai vykdyti ar paslaugoms teikti naudojamų tinklų ir informacinių sistemų atitiktį kibernetinio saugumo rizikos valdymo priemonėms:
+
+
+1) kibernetinio saugumo reikalavimams, tvirtinamiems Vyriausybės, išskyrus šio straipsnio 4 dalyje nurodytus atvejus;
+
+
+
+
+2) Europos Komisijos priimtiems įgyvendinamiesiems teisės aktams.
+
+
+
+
+
+
+2. Kibernetinio saugumo subjektai privalo šio straipsnio 1 dalies 1 punkte nurodytus kibernetinio saugumo reikalavimus įgyvendinti per Vyriausybės nustatytą ne trumpesnį kaip 12 mėnesių terminą nuo jų įregistravimo Kibernetinio saugumo informacinėje sistemoje. Nustatydama terminą Vyriausybė privalo atsižvelgti į kibernetinio saugumo reikalavimams įgyvendinti reikalingus kibernetinio saugumo subjekto žmogiškuosius ir finansinius išteklius.
+
+
+
+
+3. Kibernetinio saugumo subjektai privalo Nacionaliniam kibernetinio saugumo centrui Kibernetinio saugumo informacinės sistemos nuostatuose nustatyta tvarka pateikti šiuose nuostatuose nurodytus duomenis apie kibernetinio saugumo rizikos valdymo priemonių įgyvendinimą.
+
+
+
+
+4. Specialusis subjektas privalo užtikrinti savo naudojamų tinklų ir informacinių sistemų atitiktį tik šio straipsnio 1 dalies 2 punkte nurodytoms kibernetinio saugumo rizikos valdymo priemonėms.
+
+
+
+
+5. Kibernetinio saugumo reikalavimai apima šiuos elementus:
+
+
+1) kibernetinio saugumo rizikos analizės, tinklų ir informacinių sistemų kibernetinio saugumo politiką;
+
+
+
+
+2) už kibernetinį saugumą atsakingų asmenų, nurodytų šio įstatymo 15 straipsnyje, ir kibernetinio saugumo subjekto vadovo ar jo įgalioto asmens pareigas;
+
+
+
+
+3) kibernetinių incidentų valdymą;
+
+
+
+
+4) veiklos tęstinumą;
+
+
+
+
+5) tiekimo grandinės saugumą, įskaitant aspektus, susijusius su kiekvieno kibernetinio saugumo subjekto ir jo tiesioginių tiekėjų ar paslaugų teikėjų santykiais;
+
+
+
+
+6) tinklų ir informacinių sistemų įsigijimą, plėtojimą ir priežiūros saugumą, įskaitant spragų valdymą ir atskleidimą;
+
+
+
+
+7) politiką ir procedūras, skirtas kibernetinio saugumo reikalavimų veiksmingumui įvertinti;
+
+
+
+
+8) kibernetinės higienos praktiką ir reguliarius kibernetinio saugumo mokymus;
+
+
+
+
+9) kriptografijos ir šifravimo naudojimo politiką ir procedūras;
+
+
+
+
+10) žmogiškųjų išteklių saugumą, prieigos prie tinklų ir informacinių sistemų kontrolės politiką ir turto valdymą;
+
+
+
+
+11) kelių veiksnių tapatumo nustatymo ar nuolatinio tapatumo nustatymo sprendimų, saugių balso, vaizdo ir teksto ryšių bei saugių avarinių ryšių sistemų subjekto viduje naudojimą;
+
+
+
+
+12) kibernetinio saugumo subjektų valdomų ir (ar) tvarkomų tinklų ir informacinių sistemų naudotojų, administratorių, kibernetinio saugumo subjektų tiekėjų, jų subtiekėjų ir kitų ūkio subjektų teisių ir prieigos prie kibernetinio saugumo subjektų valdomų ir (ar) tvarkomų tinklų ir informacinių sistemų ir (ar) skaitmeninių duomenų suteikimo ir valdymo politiką;
+
+
+
+
+13) kitus atskiriems sektoriams arba atskiroms kibernetinio saugumo subjektų grupėms taikomus kibernetinio saugumo reikalavimus, nustatytus atsižvelgiant į identifikuotas atskirų sektorių kibernetinio saugumo rizikas.
+
+
+
+
+
+
+6. Kibernetinio saugumo subjekto vadovas arba jo įgaliotas asmuo privalo užtikrinti, kad kibernetinio saugumo subjektas laikytųsi šiame įstatyme jam nustatytų pareigų, ir prižiūrėti jų laikymąsi. Kibernetinio saugumo subjekto vadovas, įgaliodamas šioje dalyje nurodytą asmenį, užtikrina, kad jis turėtų būtinų priemonių, reikalingų nurodytam įgaliojimui vykdyti.
+
+
+
+
+7. Kibernetinio saugumo subjekto valdymo organų nariai, vadovas ir jo įgaliotas asmuo, jeigu toks yra, ar kibernetinio saugumo subjektas, jeigu jis yra fizinis asmuo, privalo ne rečiau kaip kartą per 2 metus Nacionalinio kibernetinio saugumo centro vadovo nustatyta tvarka išklausyti kibernetinio saugumo mokymus ir užtikrinti kibernetinio saugumo subjekto darbuotojų, jeigu tokių yra, nuolatinį švietimą kibernetinio saugumo srityje.
+
+
+
+
+8. Kibernetinio saugumo subjektai ne rečiau kaip kartą per 3 metus atlieka kibernetinio saugumo auditą pagal Nacionalinio kibernetinio saugumo centro tvirtinamą kibernetinio saugumo auditų atlikimo metodiką. Kibernetinio saugumo auditą atlieka nepriklausomi visuotinai pripažintų tarptautinių organizacijų sertifikuoti informacinių sistemų saugumo atitikties auditoriai, audito įmonės ar kitos institucijos, Nacionalinio kibernetinio saugumo centro vadovo nustatyta tvarka mokymus išklausę ir kvalifikacinius žinių ir praktinių įgūdžių patikrinimo egzaminą išlaikę asmenys, kurie atitinka Nacionalinio kibernetinio saugumo centro kibernetinio saugumo auditų atlikimo metodikoje nustatytus nepriklausomumo, nešališkumo ir nepriekaištingos reputacijos reikalavimus, (toliau kartu – auditoriai). Auditoriams negali būti pavedama vertinti tinklų ir informacinių sistemų, kurias valdo ir (ar) tvarko subjektas, kuriame dirba auditorius, saugos.
+ 
+
+
+
+
+
+
+15 straipsnis. Už kibernetinį saugumą atsakingi asmenys
+
+
+1. Kibernetinio saugumo subjekto vadovas ar jo įgaliotas asmuo privalo paskirti kibernetinio saugumo vadovą, tiesiogiai atskaitingą kibernetinio saugumo subjekto vadovui, atsakingą už kibernetinio saugumo subjekto atitikties šio įstatymo 14 ir 18 straipsniuose nustatytiems reikalavimams įgyvendinimą ir atliekantį kitas kibernetinį saugumą reglamentuojančiuose teisės aktuose nustatytas funkcijas.
+
+
+
+
+2. Kibernetinio saugumo subjekto vadovas ar jo įgaliotas asmuo privalo paskirti saugos įgaliotinį, atsakingą už konkrečios tinklų ir informacinės sistemos atitiktį šio įstatymo 14 ir 18 straipsniuose nustatytiems reikalavimams ir atliekantį kitas kibernetinį saugumą reglamentuojančiuose teisės aktuose nustatytas funkcijas. 
+
+
+
+
+3. Kibernetinio saugumo vadovas gali vykdyti saugos įgaliotinio funkcijas. Kibernetinio saugumo vadovas gali būti paskirtas atsakingas už šio įstatymo 14 ir 18 straipsniuose nustatytų reikalavimų, taikomų keliems kibernetinio saugumo subjektams, įgyvendinimą. Saugos įgaliotinis gali būti paskirtas atsakingas už kelių tinklų ir informacinių sistemų atitiktį šio įstatymo 14 ir 18 straipsniuose nustatytiems reikalavimams. Tinklų ir informacinės sistemos valdytojas turi teisę pavesti šios tinklų ir informacinės sistemos tvarkytojui paskirti saugos įgaliotinį.
+
+
+
+
+4. Kibernetinio saugumo subjektui leidžiama iš tiekėjo įsigyti paslaugas, kurias teikiant būtų atliekamos kibernetinio saugumo vadovo ir (ar) saugos įgaliotinio funkcijos. Įsigyjant šioje dalyje nurodytas paslaugas, turi būti užtikrinama atitiktis šio įstatymo 14 ir 18 straipsniuose nustatytiems reikalavimams.
+
+
+
+
+5. Kibernetinio saugumo vadovas ir saugos įgaliotinis:
+
+
+1) turi atitikti Lietuvos Respublikos valstybės tarnybos įstatyme valstybės tarnautojams nustatytus nepriekaištingos reputacijos reikalavimus;
+
+
+
+
+2) negali turėti administracinės nuobaudos už teisės aktų pažeidimus tinklų ir informacinių sistemų ir asmens duomenų tvarkymo ir privatumo apsaugos srityse, nuo kurios paskyrimo praėję mažiau kaip vieni metai;
+
+
+
+
+3) turi turėti ne mažiau kaip 2 metų patirtį informacinių technologijų, kibernetinio saugumo ar tinklų ir informacinių sistemų srityje arba šių sričių kvalifikaciją patvirtinantį aukštojo mokslo diplomą, tarptautiniu lygmeniu pripažįstamą kvalifikacijos sertifikatą arba Nacionalinio kibernetinio saugumo centro vadovo nustatyta tvarka būti išklausę mokymus ir išlaikę kibernetinio saugumo vadovo egzaminą.
+
+
+
+
+
+
+6. Jeigu kibernetinio saugumo subjektas yra fizinis asmuo, jam netaikomi šiame straipsnyje nustatyti reikalavimai.
+ 
+
+
+
+
+
+
+16 straipsnis. Techninės kibernetinio saugumo priemonės
+
+
+1. Vykdydamas esminių subjektų valdomų ir (ar) tvarkomų tinklų ir informacinių sistemų stebėseną, siekdamas identifikuoti kibernetines grėsmes ir kibernetinius incidentus, Nacionalinis kibernetinio saugumo centras esminių subjektų tinklų ir informacinėse sistemose diegia ir valdo technines kibernetinio saugumo priemones. Svarbių subjektų valdomose ir (ar) tvarkomose tinklų ir informacinėse sistemose techninės kibernetinio saugumo priemonės gali būti diegiamos jų prašymu, siekiant suvaldyti kibernetinius incidentus. Šioje dalyje nurodytos priemonės diegiamos ir naudojamos taip, kad būtų užtikrinamas kibernetinio saugumo subjektų valdomų ir (ar) tvarkomų tinklų ir informacinės sistemos saugumas, nepertraukiamas veikimas, kibernetinio saugumo subjekto duomenų ir informacijos slaptumas, konfidencialumas, prieinamumas ir atsparumas, tinkama kibernetinio saugumo subjektų, kitų subjektų teisių ir teisėtų interesų apsauga.
+
+
+
+
+2. Krašto apsaugos ministras nustato techninių kibernetinio saugumo priemonių diegimo ir valdymo kibernetinio saugumo subjektų valdomose ir (ar) tvarkomose tinklų ir informacinėse sistemose tvarką, tvirtina techninių kibernetinio saugumo priemonių diegimo planą, kuriame nustato technines kibernetinio saugumo priemones, šiomis priemonėmis tvarkomus duomenis (jeigu jie yra tvarkomi).
+
+
+
+
+3. Techninės kibernetinio saugumo priemonės, įdiegtos Nacionalinio kibernetinio saugumo centro, prižiūrimos, naudojamos ir remontuojamos Nacionalinio kibernetinio saugumo centro lėšomis.
+
+
+
+
+4. Esminiai subjektai privalo sudaryti sąlygas Nacionaliniam kibernetinio saugumo centrui diegti ir valdyti technines kibernetinio saugumo priemones.
+ 
+
+
+
+
+
+
+17 straipsnis. Aukščiausio lygio domenų vardų registravimo ir domenų vardų registravimo paslaugų teikimo reikalavimai
+
+
+Kibernetinio saugumo subjektai, kurie yra aukščiausio lygio domenų vardų registravimo paslaugas teikiantys subjektai ir domenų vardų registravimo paslaugas teikiantys subjektai, privalo:
+
+
+1) siekdami prisidėti prie DNS saugumo, stabilumo ir atsparumo, kaupti informaciją, pagal kurią būtų galima nustatyti domenų vardų turėtojus ir kontaktinius asmenis, administruojančius aukščiausio lygio domenų vardais pažymėtus domenų vardus, ir su jais susisiekti, laikydamiesi Reglamento (ES) 2016/679 reikalavimų, kai tvarkomi asmens duomenys. Tokia informacija apima:
+
+
+a) domeno vardą; 
+
+
+
+
+b) domeno registracijos datą;
+
+
+
+
+c) domeno vardo turėtojo juridinio asmens pavadinimą ar fizinio asmens vardą ir pavardę, kontaktinius duomenis (elektroninio pašto adresas, ryšio numeris);
+
+
+
+
+d) domeno vardą administruojančio kontaktinio asmens elektroninio pašto adresą ir ryšio numerį, jeigu jie skiriasi nuo domeno vardo turėtojo duomenų;
+
+
+
+
+
+
+2) taikyti politiką ir procedūras, įskaitant tikrinimo procedūras, kuriomis užtikrinama, kad domenų vardų registracijos duomenų bazėje būtų pateikiama tiksli ir išsami informacija;
+
+
+
+
+3) nuolat skelbti šio straipsnio 2 ir 5 punktuose nurodytą politiką ir procedūras viešai savo interneto svetainėse ar, jeigu jos neturi, kitomis visuomenės informavimo priemonėmis;
+
+
+
+
+4) ne vėliau kaip per 72 valandas po domeno vardo užregistravimo momento paskelbti viešai savo interneto svetainėse ar, jeigu jos neturi, kitomis visuomenės informavimo priemonėmis domeno vardo registracijos duomenis, kurie nėra asmens duomenys;
+
+
+
+
+5) gavę teisėtus ir pagrįstus teisėtos prieigos prie domenų vardų registracijos duomenų, kurie yra asmens duomenys, prašančių subjektų prašymus, pagal taikomą duomenų atskleidimo politiką ir procedūras suteikti prieigą prie konkrečių domenų vardų registracijos duomenų, laikydamiesi Reglamento (ES) 2016/679 nustatytos tvarkos. Atsakymai prašančiam subjektui pateikiami ne vėliau kaip per 72 valandas nuo tada, kai gaunamas prašymas suteikti prieigą;
+
+
+
+
+6) siekdami nedubliuoti domenų vardų registracijos duomenų rinkimo, bendradarbiauti tarpusavyje.
+ 
+
+
+
+
+
+
+
+
+18 straipsnis. Pranešimai apie kibernetinius incidentus
+
+
+1. Kibernetinio saugumo subjektai privalo pranešti Nacionaliniam kibernetinio saugumo centrui apie:
+
+
+1) didelį kibernetinį incidentą, darantį poveikį jų šio įstatymo 11 straipsnio 3–5 dalyse nurodytus kriterijus atitinkančiai vykdomai veiklai ir (ar) teikiamoms paslaugoms;
+
+
+
+
+2) šio straipsnio 2 dalyje nurodytų didelio kibernetinio incidento kriterijų neatitinkančius kibernetinius incidentus, darančius poveikį jų šio įstatymo 11 straipsnio 3–5 dalyse nurodytus kriterijus atitinkančiai vykdomai veiklai ir (ar) teikiamoms paslaugoms, nacionalinio kibernetinių incidentų valdymo plano nustatytais terminais ir pateikti šiame plane nustatytą informaciją.
+
+
+
+
+
+
+2. Kibernetinis incidentas laikomas dideliu bent vienu iš šių atvejų:
+
+
+1) kai dėl kibernetinio incidento kibernetinio saugumo subjektas patyrė arba gali patirti didelių paslaugų teikimo sutrikimų arba finansinių nuostolių;
+
+
+
+
+2) kai kibernetinis incidentas paveikė arba gali paveikti kitus fizinius ar juridinius asmenis, sukeldamas didelę turtinę arba neturtinę žalą.
+
+
+
+
+
+
+3. Atvejai, kai kibernetinis incidentas laikomas dideliu, išsamiau apibrėžiami Europos Komisijos priimamuose įgyvendinamuosiuose teisės aktuose.
+
+
+
+
+4. Pranešant apie didelį kibernetinį incidentą pateikiama:
+
+
+1) nedelsiant, bet ne vėliau kaip per 24 valandas nuo sužinojimo apie didelį kibernetinį incidentą momento – ankstyvasis perspėjimas, kuriame pagal galimybes nurodoma, ar didelį kibernetinį incidentą, kaip įtariama, sukėlė neteisėti ar piktavališki veiksmai ir ar jis galėtų daryti tarpvalstybinį poveikį;
+
+
+
+
+2) nedelsiant, bet ne vėliau kaip per 72 valandas nuo sužinojimo apie didelį kibernetinį incidentą momento – pranešimas apie kibernetinį incidentą, kuriame pagal galimybes atnaujinama šios dalies 1 punkte nurodyta informacija ir nurodomas didelio kibernetinio incidento, įskaitant jo sunkumą ir poveikį, pradinis vertinimas, taip pat nurodomi įsilaužimo įrodymai, jeigu tokių yra;
+
+
+
+
+3) Nacionalinio kibernetinio saugumo centro prašymu – tarpinė atitinkamų atnaujintų padėties duomenų ataskaita per Nacionalinio kibernetinio saugumo centro nurodytą pateikimo terminą;
+
+
+
+
+4) ne vėliau kaip per vieną mėnesį nuo šios dalies 1 punkte nurodyto pranešimo apie kibernetinį incidentą pateikimo dienos – galutinė ataskaita, kurioje pateikiama ši informacija:
+
+
+a) išsamus kibernetinio incidento, įskaitant jo sunkumą ir poveikį, aprašymas;
+
+
+
+
+b) grėsmės arba pagrindinės priežasties, dėl kurios kibernetinis incidentas galėjo įvykti, rūšis;
+
+
+
+
+c) taikomos ir įgyvendinamos kibernetinio incidento poveikio mažinimo priemonės;
+
+
+
+
+d) tarpvalstybinis kibernetinio incidento poveikis, jeigu toks buvo;
+
+
+
+
+
+
+5) jeigu šios dalies 4 punkte nurodytos galutinės ataskaitos pateikimo metu kibernetinis incidentas tebevyksta, pateikiama pažangos ataskaita, o galutinė ataskaita – per vieną mėnesį nuo dienos, kai kibernetinis incidentas buvo suvaldytas.
+
+
+
+
+
+
+5. Nacionaliniame kibernetinių incidentų valdymo plane nustatoma:
+
+
+1) terminai, per kuriuos turi būti pranešama apie šio straipsnio 1 dalies 1 punkte nenurodytus kibernetinius incidentus;
+
+
+
+
+2) informacija, kuri turi būti perduodama pranešant apie šio straipsnio 1 dalies 1 punkte nenurodytus kibernetinius incidentus;
+
+
+
+
+3) informacijos apie kibernetinius incidentus pateikimo būdai ir priemonės;
+
+
+
+
+4) institucijų veiksmai, gavus informacijos apie kibernetinius incidentus;
+
+
+
+
+5) išsamesni atvejai, kada kibernetinis incidentas laikomas dideliu, jeigu išsamesni atvejai nenustatomi Europos Komisijos įgyvendinamuosiuose teisės aktuose.
+ 
+
+
+
+
+
+
+
+
+
+
+IV SKYRIUS
 KEITIMASIS INFORMACIJA IR TARPINSTITUCINIS BENDRADARBIAVIMAS
  
 
 
-13 straipsnis. Kibernetinio saugumo informacinis tinklas
+19 straipsnis. Kibernetinio saugumo informacinė sistema
 
 
-1. Kibernetinio saugumo informacinis tinklas yra valstybės informacinė sistema, kurios paskirtis – informacinių technologijų priemonėmis tvarkyti duomenis, surinktus techninėmis kibernetinio saugumo priemonėmis, siekiant užkardyti ir valdyti kibernetinius incidentus, keistis informacija apie galimus ir įvykusius kibernetinius incidentus šio straipsnio 4 dalyje nustatytais atvejais, taip pat kita su kibernetinio saugumo užtikrinimu susijusia informacija. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
- 
+1. Kibernetinio saugumo informacinės sistemos paskirtis:
 
 
+1) registruoti Kibernetinio saugumo subjektų registro objektus ir tvarkyti jų duomenis;
 
 
-2. Kibernetinio saugumo informaciniu tinklu gali naudotis tik tie kibernetinio saugumo subjektai, kurie atitinka Kibernetinio saugumo informacinio tinklo nuostatuose nurodytus reikalavimus.
 
 
+2) tvarkyti duomenis, surinktus techninėmis kibernetinio saugumo priemonėmis, siekiant užkardyti ir valdyti kibernetinius incidentus;
 
 
-3. Kibernetinio saugumo informaciniame tinkle skelbiama aktuali kibernetinio saugumo subjektų paskirtų asmenų ar padalinių, atsakingų už kibernetinio saugumo organizavimą ir kibernetinių incidentų valdymą, kontaktinė informacija.
 
 
+3) tvarkyti duomenis, susijusius su kibernetinio saugumo rizikos valdymo priemonių įgyvendinimo stebėsena;
 
 
-4. Kibernetinio saugumo informacinio tinklo duomenys, susiję su kibernetiniais incidentais, yra konfidencialūs ir teikiami tik šiais atvejais:
 
 
-1) Kibernetinio saugumo informacinio tinklo naudotojams tiek, kiek tai susiję su jų valdomomis ir (ar) tvarkomomis ryšių ir informacinėmis sistemomis;
+4) tvarkyti duomenis apie kibernetinio saugumo subjektus, kitas įstaigas ir ūkio subjektus, kuriems, įvykus ekstremaliajam įvykiui kibernetinėje erdvėje, būtų pavedamos būtinosios užduotys valdant kibernetinius incidentus;
 
 
 
 
-2) Nacionaliniam kibernetinio saugumo centrui atliekant šio įstatymo 8 straipsnio 2 dalies 13 punkte nustatytą funkciją;
+5) keistis su Kibernetinio saugumo informacinės sistemos naudotojais duomenimis, susijusiais su kibernetiniais incidentais, kibernetinėmis grėsmėmis, vos neįvykusiais kibernetiniais incidentais, taip pat kita su kibernetinio saugumo užtikrinimu susijusia informacija;
 
 
 
 
-3) valdant ir tiriant kibernetinius incidentus tiek, kiek tai būtina šio įstatymo 14 straipsnio 1 ir 2 dalyse nustatytoms institucijų funkcijoms atlikti; 
-Papildyta straipsnio punktu:
-Nr. XIV-1864, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06471
- 
+6) tvarkyti duomenis apie privalomus nurodymus blokuoti domeno vardą, identifikuojantį interneto svetainę, ir juos viešai skelbti;
 
 
 
 
-4) jeigu galimybė teikti šiuos duomenis yra nustatyta įstatymuose ar jų pagrindu priimtuose teisės aktuose. 
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIV-1864, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06471
- 
+7) teikti kibernetinio saugumo paslaugas ir priemones, įskaitant mokymų ir pratybų paslaugas ir įrankius.
 
 
-Papildyta straipsnio dalimi:
-Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
- 
 
 
 
 
+2. Kibernetinio saugumo informacinės sistemos valdytoja ir duomenų valdytoja – Krašto apsaugos ministerija, tvarkytojas ir duomenų tvarkytojas – Nacionalinis kibernetinio saugumo centras.
 
 
-131 straipsnis. Duomenų apie privalomus nurodymus tvarkymas Kibernetinio saugumo informaciniame tinkle
 
 
-1. Kibernetinio saugumo informaciniame tinkle įstatymų nustatytais atvejais tvarkomi duomenys apie privalomus nurodymus blokuoti domeno vardą, identifikuojantį interneto svetainę.
+3. Kibernetinio saugumo informacinės sistemos naudotojai yra subjektai, atitinkantys Kibernetinio saugumo informacinės sistemos nuostatuose nurodytus reikalavimus. Šio straipsnio 1 dalies 6 punkte nustatytus nurodymus duodančios institucijos ir juos įgyvendinantys kibernetinio saugumo subjektai privalo naudotis Kibernetinio saugumo informacinės sistemos dalimi, kurioje tvarkomi duomenys apie privalomus nurodymus blokuoti domeno vardą, identifikuojantį interneto svetainę, nepriklausomai nuo kibernetinio saugumo subjektų atitikties Kibernetinio saugumo informacinės sistemos nuostatuose nurodytiems reikalavimams.
 
 
 
 
-2. Šio straipsnio 1 dalyje nustatytus nurodymus duodančios institucijos ir juos įgyvendinantys kibernetinio saugumo subjektai privalo naudotis Kibernetinio saugumo informacinio tinklo dalimi, kurioje tvarkomi duomenys apie privalomus nurodymus blokuoti domeno vardą, identifikuojantį interneto svetainę, nepriklausomai nuo kibernetinio saugumo subjektų atitikties Kibernetinio saugumo informacinio tinklo nuostatuose nurodytiems reikalavimams.
+4. Kibernetinio saugumo subjektai turi teisę tapti Kibernetinio saugumo informacinės sistemos naudotojais, įgyvendindami tarpusavio dalijimosi kibernetinio saugumo informacija susitarimus. Nepriklausomai nuo to, ar naudojamasi Kibernetinio saugumo informacine sistema, kibernetinio saugumo subjektai privalo pranešti Nacionaliniam kibernetinio saugumo centrui apie tokių susitarimų sudarymą, taip pat apie pasitraukimą iš tokių susitarimų per 20 darbo dienų nuo šių aplinkybių atsiradimo dienos.
 
 
 
 
-3. Kibernetinio saugumo informaciniame tinkle viešai skelbiami duomenys apie privalomus nurodymus blokuoti domeno vardą, identifikuojantį interneto svetainę.
+5. Kibernetinio saugumo informacinės sistemos duomenys yra konfidencialūs ir teikiami tik:
 
 
-Papildyta straipsniu:
-Nr. XIV-1864, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06471
- 
+1) Kibernetinio saugumo informacinės sistemos naudotojams tiek, kiek tai susiję su jų valdomomis ir (ar) tvarkomomis tinklų ir informacinėmis sistemomis;
 
 
 
 
-14 straipsnis. Tarpinstitucinis bendradarbiavimas valdant ir tiriant kibernetinius incidentus
+2) Nacionaliniam kibernetinio saugumo centrui atliekant šio įstatymo 7 straipsnio 2 dalies 12 punkte nustatytą funkciją;
 
 
-1. Nacionalinis kibernetinio saugumo centras ir policija konsultuojasi ir bendradarbiauja tiriant kibernetinius incidentus, keičiasi su kibernetinių incidentų tyrimu susijusia informacija, reikalinga pagal kompetenciją šių institucijų funkcijoms atlikti. Prireikus apie kibernetinių incidentų tyrimą gali būti pranešama kitiems kriminalinės žvalgybos subjektams ir (arba) žvalgybos institucijoms.
 
 
+3) valdant ir (ar) tiriant kibernetinius incidentus tiek, kiek tai būtina šio įstatymo 20 straipsnio 1 dalyje nustatytoms institucijų funkcijoms atlikti;
 
 
-2. Nacionalinis kibernetinio saugumo centras ir Valstybinė duomenų apsaugos inspekcija bendradarbiauja tiriant kibernetinius incidentus, susijusius su asmens duomenų ir (ar) privatumo apsaugos pažeidimais, keičiasi informacija, reikalinga teisės aktų nustatytoms funkcijoms, susijusioms su asmens duomenų ir (ar) privatumo apsaugą pažeidžiančių kibernetinių incidentų tyrimu, atlikti.
 
 
+4) identifikuojant ir registruojant kibernetinio saugumo subjektus Kibernetinio saugumo informacinėje sistemoje šio įstatymo 13 straipsnyje nustatytoms institucijų funkcijoms atlikti;
 
 
-3. Tarpinstitucinio bendradarbiavimo valdant ir tiriant kibernetinius incidentus tvarka nustatoma Nacionaliniame kibernetinių incidentų valdymo plane.
- 
 
 
+5) viešai skelbiant duomenis apie privalomus nurodymus blokuoti domeno vardą, identifikuojantį interneto svetainę;
 
 
 
 
-15 straipsnis. Informacijos apsauga
+6) policijai atliekant šio įstatymo 10 straipsnio 1 dalies 1 punkte nustatytą funkciją;
 
 
-Kibernetinio saugumo politikos įgyvendinimo institucijos kibernetinio saugumo subjektų pateikta informacija, įskaitant ir konfidencialią informaciją, turi teisę keistis tik tiek, kiek tai yra būtina šių institucijų funkcijoms pagal kompetenciją atlikti, ir privalo užtikrinti gautos informacijos apsaugą.
+
+
+7) jeigu teisė gauti šiuos duomenis yra nustatyta įstatymuose ar jų įgyvendinamuosiuose teisės aktuose.
  
 
 
@@ -930,22 +1419,96 @@ Kibernetinio saugumo politikos įgyvendinimo institucijos kibernetinio saugumo s
 
 
 
-V SKYRIUS 
-PRANEŠIMAI APIE SPRAGAS IR KIBERNETINIUS INCIDENTUS 
-Pakeistas skyriaus pavadinimas:
-Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
+20 straipsnis. Tarpinstitucinis bendradarbiavimas
+
+
+1. Kibernetinio saugumo politiką formuojančios ir įgyvendinančios institucijos bendradarbiauja tarpusavyje ir su kitomis valstybės institucijomis, įskaitant Ryšių reguliavimo tarnybą, kompetentingas institucijas pagal Reglamentą (ES) Nr. 910/2014 ir 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentą (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011, taip pat Nacionaliniu krizių valdymo centru, įgyvendindamos šiame įstatyme nustatytus tikslus, įskaitant keitimąsi informacija ir duomenimis apie kibernetinius incidentus, kibernetines grėsmes ir vos neįvykusius kibernetinius incidentus, taip pat informacijos perdavimą pagal šio straipsnio 2 dalį.
+
+
+
+
+2. Nacionalinis kibernetinio saugumo centras:
+
+
+1) ne vėliau kaip per 20 darbo dienų nuo sprendimo taikyti šio įstatymo 28 straipsnio 1 dalyje nurodytą vykdymo užtikrinimo priemonę priėmimo dienos apie tai informuoja Nacionalinį krizių valdymo centrą, jeigu vykdymo užtikrinimo priemonė taikoma siekiant užtikrinti, kad esminis subjektas laikytųsi šio įstatymo reikalavimų;
+
+
+
+
+2) ne vėliau kaip per 20 darbo dienų nuo sprendimo taikyti šio įstatymo 28 straipsnio 1 dalyje nurodytą vykdymo užtikrinimo priemonę priėmimo dienos apie tai informuoja kompetentingą instituciją pagal Reglamentą (ES) 2022/2554, jeigu vykdymo užtikrinimo priemonė taikoma siekiant užtikrinti, kad esminis subjektas, paskirtas ypatingai svarbiu trečiųjų šalių informacinių ir ryšių technologijų paslaugų teikėju pagal Reglamento (ES) 2022/2554 31 straipsnį, laikytųsi šio įstatymo reikalavimų;
+
+
+
+
+3) teikia technines ir kitokias konsultacijas, pagalbą kompetentingai institucijai pagal Reglamentą (ES) 2022/2554 ir turi teisę su kompetentinga institucija pagal Reglamentą (ES) 2022/2554 sudaryti bendradarbiavimo susitarimą, nurodytą Reglamento (ES) 2022/2554 47 straipsnio 3 dalyje;
+
+
+
+
+4) nustatęs, kad esminis ar svarbus subjektas gali būti padaręs asmens duomenų saugumo pažeidimą, apie tai nepagrįstai nedelsdamas, bet ne vėliau kaip per 36 valandas nuo šios aplinkybės nustatymo momento informuoja Valstybinę duomenų apsaugos inspekciją, nurodydamas turimą informaciją apie Reglamento (ES) 2016/679 33 straipsnio 3 dalyje nurodytas aplinkybes;
+
+
+
+
+5) bendradarbiauja su Ryšių reguliavimo tarnyba patikimumo užtikrinimo paslaugų teikėjų kibernetinio saugumo audito srityje, taip pat nedelsdamas, bet ne vėliau kaip per 24 valandas informuoja Ryšių reguliavimo tarnybą apie gautus patikimumo užtikrinimo paslaugų teikėjų pranešimus apie kibernetinius incidentus;
+
+
+
+
+6) ne vėliau kaip per 20 darbo dienų nuo sprendimo taikyti šio įstatymo 28 straipsnio 1 dalyje nurodytą vykdymo užtikrinimo priemonę priėmimo dienos apie tai informuoja kitos Europos Sąjungos valstybės narės kompetentingą instituciją, atsakingą už kibernetinio saugumo reikalavimų vykdymo užtikrinimą, jeigu kibernetinio saugumo subjektas teikia paslaugas arba jo tinklų ir informacinės sistemos yra toje Europos Sąjungos valstybėje narėje;
+
+
+
+
+7) bendradarbiauja su kitų Europos Sąjungos valstybių narių kompetentingomis institucijomis, atsakingomis už kibernetinio saugumo reikalavimų vykdymo užtikrinimą, kai kibernetinio saugumo subjektas teikia paslaugas daugiau kaip vienoje Europos Sąjungos valstybėje narėje arba teikia paslaugas vienoje ar daugiau Europos Sąjungos valstybių narių, o jo tinklų ir informacinės sistemos yra vienoje ar daugiau kitų Europos Sąjungos valstybių narių, vykdydamas savitarpio pagalbos prašymus šio įstatymo 21 straipsnio nustatyta tvarka;
+
+
+
+
+8) prieš vykdydamas šio įstatymo 26 straipsnyje nurodytus patikrinimus ar taikydamas šio įstatymo 28 straipsnyje nurodytas vykdymo užtikrinimo priemones Lietuvos banko atžvilgiu, konsultuojasi su Europos Centriniu Banku.
  
 
 
-16 straipsnis. Savanoriškas pranešimas apie kibernetinius incidentus
-
-
-1. Asmenys, kuriems šiame įstatyme nėra nustatytos pareigos pranešti apie kibernetinius incidentus jų valdomose ryšių ir informacinėse sistemose, turi teisę savanoriškai pranešti Nacionaliniam kibernetinio saugumo centrui apie kibernetinius incidentus ir taikytas kibernetinių incidentų valdymo priemones. Nacionalinis kibernetinio saugumo centras tokius pranešimus tvarko Nacionaliniame kibernetinių incidentų valdymo plane nustatyta tvarka.
 
 
 
 
-2. Asmeniui, savanoriškai pranešusiam apie kibernetinį incidentą, nenustatoma pareigų, susijusių su pranešimo pateikimu.
+
+
+21 straipsnis. Savitarpio pagalba
+
+
+1. Nacionalinis kibernetinio saugumo centras, gavęs kitos Europos Sąjungos valstybės narės kompetentingos institucijos pagrįstą savitarpio pagalbos prašymą, vykdo šio įstatymo 26 ir 28 straipsniuose nurodytus kibernetinio saugumo subjektų patikrinimo ir (ar) vykdymo užtikrinimo priemonių veiksmus, taip pat kitus prašomus veiksmus, kuriuos vykdyti suteikia teisę šis įstatymas. Teikdamas savitarpio pagalbą dėl šio įstatymo 12 straipsnio 1 dalies 3 punkte nurodyto subjekto, kurio pagrindinė buveinė yra ne Lietuvos Respublikoje, Nacionalinis kibernetinio saugumo centras negali imtis daugiau veiksmų, negu nurodyta savitarpio pagalbos prašyme.
+
+
+
+
+2. Nacionalinis kibernetinio saugumo centras kitos Europos Sąjungos valstybės narės kompetentingos institucijos savitarpio pagalbos prašymą gali atmesti tik tais atvejais, kai:
+
+
+1) Nacionalinis kibernetinio saugumo centras neturi kompetencijos teikti prašomą pagalbą;
+
+
+
+
+2) prašoma pagalba nėra proporcinga Nacionalinio kibernetinio saugumo centro turimiems žmogiškiesiems ar finansiniams ištekliams;
+
+
+
+
+3) prašymas yra susijęs su informacija arba apima veiklą, kurios atskleidimas arba atlikimas prieštarautų Lietuvos Respublikos nacionalinio saugumo, visuomenės saugumo ar gynybos interesams.
+
+
+
+
+
+
+3. Jeigu Nacionalinis kibernetinio saugumo centras pagal kompetenciją negali įvykdyti pateikto savitarpio pagalbos prašymo, tačiau nustato, kad prašymą turėtų vykdyti kita valstybės institucija, prašymo nenagrinėja, persiunčia jį kitai valstybės institucijai ir apie tai praneša prašymą pateikusiai kitos valstybės kompetentingai institucijai.
+
+
+
+
+4. Nacionalinis kibernetinio saugumo centras, negalėdamas įvykdyti kitos Europos Sąjungos valstybės narės kompetentingos institucijos savitarpio pagalbos prašymo, apie tai privalo ją informuoti, nurodydamas negalėjimo įvykdyti prašymo priežastis, ir, jeigu yra kitos Europos Sąjungos valstybės narės prašymas, prieš atmesdamas tokį prašymą, konsultuojasi su Europos Komisija ir (ar) Europos Sąjungos kibernetinio saugumo agentūra.
  
 
 
@@ -953,10 +1516,143 @@ Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
 
 
 
-17 straipsnis. Spragų paieška ir atskleidimas
+22 straipsnis. Vykdant tarpinstitucinį bendradarbiavimą tvarkomos informacijos apsauga
 
 
-1. Spragų paieška ir atskleidimas laikomi teisėtais ir tokius veiksmus atlikusiam asmeniui neužtraukia teisinės atsakomybės tik tais atvejais, kai spragų paieška atliekama laikantis šio straipsnio 2 dalyje, nacionalinės spragų atskleidimo tvarkos apraše ir (ar) kibernetinio saugumo subjekto nustatytos spragų atskleidimo tvarkos apraše, taip pat šio straipsnio 5 dalyje numatytų apribojimų.
+1. Kibernetinio saugumo politikos formavimo ir įgyvendinimo institucijos šio įstatymo tikslais gauta informacija, įskaitant asmens duomenis ir konfidencialią informaciją, turi teisę keistis tarpusavyje, su kitų valstybių institucijomis, NATO ir Europos Sąjungos institucijomis ir tarptautinėmis organizacijomis tik tiek, kiek tai yra būtina šių institucijų funkcijoms pagal kompetenciją atlikti, atsižvelgiant į keitimosi informacija tikslą ir proporcingumą.
+
+
+
+
+2. Kibernetinio saugumo politikos formavimo ir įgyvendinimo institucijos, tvarkydamos šio įstatymo tikslais gautą informaciją, saugo įslaptintą informaciją, asmenų saugumo ir komercinius interesus, taip pat pateiktos informacijos konfidencialumą. Šioje dalyje nurodyta informacija teikiama tik tais atvejais, kai teisė gauti šią informaciją yra nustatyta įstatymuose ar jų įgyvendinamuosiuose norminiuose teisės aktuose.
+
+
+
+
+3. Kibernetinio saugumo politikos formavimo ir įgyvendinimo institucijos šio įstatymo tikslais tvarkomus asmens duomenis tvarko laikydamosi Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo, Reglamento (ES) 2016/679 ir Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu.
+ 
+
+
+
+
+
+
+23 straipsnis. Kibernetinio saugumo kompetencijos bendruomenė
+
+
+1. Bent vienoje iš Reglamento (ES) 2021/887 8 straipsnio 3 dalyje nurodytų sričių kibernetinio saugumo ekspertinių žinių turintys Lietuvos Respublikoje registruoti juridiniai asmenys, galintys prisidėti prie Europos kibernetinio saugumo pramonės, technologijų ir mokslinių tyrimų kompetencijos centro ir Nacionalinių koordinavimo centrų tinklo misijos, turi teisę tapti Kibernetinio saugumo kompetencijos bendruomenės, sudaromos Reglamento (ES) 2021/887 8 straipsnio pagrindu, (toliau – Bendruomenė) nariais. Bendruomenės nariais negali būti nacionalinio saugumo interesams grėsmę keliantys asmenys.
+
+
+
+
+2. Bendruomenės nariais juridinius asmenis registruoja Reglamento (ES) 2021/887 6 straipsnyje nustatyta tvarka paskirtas Nacionalinis koordinavimo centras, atlikęs vertinimą, kuriuo patvirtinama, kad šie juridiniai asmenys atitinka šio straipsnio 1 dalyje nustatytus reikalavimus. Nacionalinis koordinavimo centras neregistruoja juridinių asmenų Bendruomenės nariais, jeigu jie kelia grėsmę nacionalinio saugumo interesams. Informaciją, ar šie asmenys galėtų kelti grėsmę nacionalinio saugumo interesams, pagal Nacionalinio koordinavimo centro kreipimąsi teikia institucijos, nurodytos Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 12 straipsnio 7 dalyje, vadovaudamosi Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nurodytais investuotojų patikros dėl atitikties nacionalinio saugumo interesams vertinimo kriterijais. Nurodytos institucijos išvadas dėl investuotojo atitikties nacionalinio saugumo interesams pateikia ne vėliau kaip per 15 darbo dienų nuo Nacionalinio kibernetinio saugumo centro kreipimosi gavimo dienos. Jeigu per šioje dalyje nurodytą terminą institucijos nepateikia išvadų, laikoma, kad institucijos neturi informacijos apie juridinio asmens keliamą grėsmę nacionalinio saugumo interesams.
+
+
+
+
+3. Lietuvos Respublikoje registruotas juridinis asmuo, reiškiantis norą tapti Bendruomenės nariu, (toliau – pareiškėjas) Nacionaliniam koordinavimo centrui pateikia prašymą, kuriame nurodoma:
+
+
+1) juridinio asmens pavadinimas, juridinio asmens kodas, buveinės adresas ir kontaktiniai duomenys (elektroninio pašto adresas, ryšio numeris);
+
+
+
+
+2) juridinio asmens atstovo kontaktiniai duomenys (elektroninio pašto adresas, ryšio numeris);
+
+
+
+
+3) patvirtinimas, kad pareiškėjui netaikomas nė vienas iš 2018 m. liepos 18 d. Europos Parlamento ir Tarybos reglamento (ES, Euratomas) 2018/1046 dėl Sąjungos bendrajam biudžetui taikomų finansinių taisyklių, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1296/2013, (ES) Nr. 1301/2013, (ES) Nr. 1303/2013, (ES) Nr. 1304/2013, (ES) Nr. 1309/2013, (ES) Nr. 1316/2013, (ES) Nr. 223/2014, (ES) Nr. 283/2014 ir Sprendimas Nr. 541/2014/ES, bei panaikinamas Reglamentas (ES, Euratomas) Nr. 966/2012, su visais pakeitimais 136 straipsnyje nustatytų pašalinimo kriterijų;
+
+
+
+
+4) informacija apie pareiškėjo turimas bent vienos iš Reglamento (ES) 2021/887 8 straipsnio 3 dalyje nurodytų sričių kibernetinio saugumo ekspertines žinias.
+
+
+
+
+
+
+4. Nacionalinis koordinavimo centras įvertina pareiškėją ir jo pateiktą informaciją, taip pat atsižvelgia į kompetentingų institucijų informaciją, pateiktą pagal šio straipsnio 2 dalį, ir per 2 mėnesius nuo pareiškėjo prašymo gavimo dienos priima sprendimą:
+
+
+1) įregistruoti pareiškėją Bendruomenės nariu;
+
+
+
+
+2) atsisakyti įregistruoti pareiškėją Bendruomenės nariu.
+
+
+
+
+
+
+5. Nacionalinis koordinavimo centras pašalina Bendruomenės narį iš Bendruomenės, jeigu:
+
+
+1) Bendruomenės narys pateikia prašymą pašalinti jį iš Bendruomenės narių;
+
+
+
+
+2) Bendruomenės narys nebeatitinka šio straipsnio 1 dalies nuostatų.
+
+
+
+
+
+
+6. Sprendimą pašalinti iš Bendruomenės narių Nacionalinis koordinavimo centras priima per 10 darbo dienų nuo Bendruomenės nario prašymo būti pašalintam gavimo dienos arba nuo to momento, kai paaiškėja kitos aplinkybės, nurodytos šio straipsnio 5 dalies 2 punkte.
+
+
+
+
+7. Nacionaliniam koordinavimo centrui atsisakius registruoti pareiškėją Bendruomenės nariu, pareiškėjas turi teisę dar kartą pateikti prašymą tapti Bendruomenės nariu. Nacionalinis koordinavimo centras turi teisę nenagrinėti pakartotinai pateikto prašymo, jeigu:
+
+
+1) nepraėjo 2 mėnesiai nuo anksčiau priimto sprendimo atsisakyti registruoti pareiškėją Bendruomenės nariu ir 
+
+
+
+
+2) nepasikeitė faktinės aplinkybės, kurios buvo pagrindas priimti sprendimą atsisakyti registruoti pareiškėją Bendruomenės nariu.
+
+
+
+
+
+
+8. Pareiškėjas turi teisę skųsti teismui Administracinių bylų teisenos įstatymo nustatyta tvarka šio straipsnio 4 dalies 2 punkte, 5 dalies 2 punkte ir 7 dalyje nurodytus Nacionalinio koordinavimo centro sprendimus.
+ 
+
+
+
+
+
+
+24 straipsnis. Savanoriškas pranešimas
+
+
+1. Subjektai, kuriems šio įstatymo 18 straipsnio 1 dalyje nėra nustatytos pareigos pranešti apie kibernetinius incidentus, kibernetines grėsmes, vos neįvykusius kibernetinius incidentus ir (ar) taikytas kibernetinių incidentų valdymo priemones, turi teisę savanoriškai apie juos pranešti Nacionaliniam kibernetinio saugumo centrui. Nacionalinis kibernetinio saugumo centras tokius pranešimus tvarko nacionaliniame kibernetinių incidentų valdymo plane nustatyta tvarka.
+
+
+
+
+2. Subjektui, savanoriškai pranešusiam apie kibernetinį incidentą, kibernetinę grėsmę, vos neįvykusį kibernetinį incidentą ir (ar) taikytas kibernetinių incidentų valdymo priemones, nenustatoma pareigų, susijusių su pranešimo pateikimu.
+ 
+
+
+
+
+
+
+25 straipsnis. Spragų paieška ir atskleidimas
+
+
+1. Spragų paieška ir atskleidimas laikomi teisėtais ir tokius veiksmus atlikusiam subjektui neužtraukia teisinės atsakomybės tik tais atvejais, kai spragų paieška atliekama kibernetinio saugumo subjektų valdomose ir tvarkomose tinklų ir informacinėse sistemose, laikantis šio straipsnio 2 dalyje, nacionalinės spragų atskleidimo tvarkos apraše, tvirtinamame krašto apsaugos ministro, ir (ar) kibernetinio saugumo subjekto nustatytos spragų atskleidimo tvarkos apraše, taip pat šio straipsnio 6 dalyje nustatytų apribojimų.
 
 
 
@@ -964,7 +1660,7 @@ Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
 2. Atliekant spragų paiešką laikomasi šių apribojimų:
 
 
-1) negali būti trikdomas ar keičiamas ryšių ir informacinės sistemos darbas, funkcionalumas, teikiamos paslaugos bei duomenų prieinamumas ar vientisumas;
+1) negali būti trikdomas ar keičiamas tinklų ir informacinės sistemos darbas, funkcionalumas, teikiamos paslaugos ir duomenų prieinamumas ar vientisumas;
 
 
 
@@ -974,7 +1670,7 @@ Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
 
 
 
-3) asmuo, atlikęs spragų paiešką, ne vėliau kaip per 24 valandas nuo spragų paieškos pradžios (paiešką tęsiant ilgiau kaip 24 valandas – kas 24 valandas) turi parengti nacionalinės spragų atskleidimo tvarkos apraše ar kibernetinio saugumo subjekto nustatytos spragų atskleidimo tvarkos apraše nustatyto turinio informaciją apie spragų paieškos rezultatus ir ją pateikti Nacionaliniam kibernetinio saugumo centrui nacionalinės spragų atskleidimo tvarkos apraše nustatyta tvarka ir (arba) kibernetinio saugumo subjektui, kurio ryšių ir informacinėje sistemoje atlikta spragų paieška, šio kibernetinio saugumo subjekto nustatytos spragų atskleidimo tvarkos apraše nustatyta tvarka;
+3) subjektas, atlikęs spragų paiešką, ne vėliau kaip per 24 valandas nuo spragų paieškos pradžios (paiešką tęsiant ilgiau kaip 24 valandas – kas 24 valandas) turi parengti nacionalinės spragų atskleidimo tvarkos apraše ar kibernetinio saugumo subjekto nustatytos spragų atskleidimo tvarkos apraše nustatyto turinio informaciją apie spragų paieškos rezultatus ir ją pateikti Nacionaliniam kibernetinio saugumo centrui nacionalinės spragų atskleidimo tvarkos apraše nustatyta tvarka ir (ar) kibernetinio saugumo subjektui, kurio tinklų ir informacinėje sistemoje atlikta spragų paieška, šio kibernetinio saugumo subjekto nustatytos spragų atskleidimo tvarkos apraše nustatyta tvarka;
 
 
 
@@ -984,34 +1680,685 @@ Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
 
 
 
-5) nebandoma atspėti slaptažodžių, nenaudojami neteisėtu būdu gauti slaptažodžiai ir nėra manipuliuojama kibernetinio saugumo subjekto darbuotojais ar kitais asmenimis, turinčiais teisę naudotis viešai neskelbtina informacija, reikšminga spragų paieškai;
+5) atskleidžiant spragą nenaudojami pastebėti, užfiksuoti, perimti, atskleisti asmens duomenys;
 
 
 
 
-6) nesidalijama informacija apie aptiktą spragą, išskyrus šios dalies 3 punkte ir šio straipsnio 5 dalyje nustatytus atvejus.
+6) nebandoma atspėti slaptažodžių, nenaudojami neteisėtai gauti slaptažodžiai ir nėra manipuliuojama kibernetinio saugumo subjekto darbuotojais ar kitais subjektais, turinčiais teisę naudotis viešai neskelbtina informacija, reikšminga spragų paieškai;
+
+
+
+
+7) nesidalijama informacija apie aptiktą spragą, išskyrus šios dalies 3 punkte ir šio straipsnio 6 dalyje nustatytus atvejus, taip pat kai informacija apie aptiktą spragą yra registruojama Europos pažeidžiamumų duomenų bazėje.
 
 
 
 
 
 
-3. Spragų atskleidimo Nacionaliniam kibernetinio saugumo centrui tvarka, Nacionaliniam kibernetinio saugumo centrui teikiamos informacijos apie spragas turinys, trumpesnio negu 90 kalendorinių dienų informacijos apie aptiktą spragą atskleidimo kitiems, negu nurodyti šio straipsnio 2 dalies 3 punkte, asmenims termino nustatymo tvarka nustatomi nacionalinės spragų atkleidimo tvarkos apraše.
+3. Subjektas, surinkęs informaciją apie spragą, turi teisę šią informaciją anonimiškai pateikti Nacionaliniam kibernetinio saugumo centrui, išsaugodamas nacionalinės spragų atskleidimo tvarkos apraše nurodytą informaciją apie spragų paieškos rezultatų pateikimą. Nacionalinis kibernetinio saugumo centras užtikrina apie spragą pranešusio subjekto anonimiškumą. Šioje dalyje nurodytą informaciją apie spragų paieškos rezultatų pateikimą subjektas, surinkęs informaciją apie spragą ir ją pateikęs anonimiškai, privalo saugoti 12 metų nuo pranešimo Nacionaliniam kibernetinio saugumo centrui pateikimo dienos.
 
 
 
 
-4. Kibernetinio saugumo subjektas turi teisę nustatyti spragų jo valdomose ir (ar) tvarkomose ryšių ir informacinėse sistemose atskleidimo tvarką ir nustatyti kitus spragų paieškos apribojimus, negu numatyta šio straipsnio 2 dalyje, arba jų atsisakyti. Kibernetinio saugumo subjekto nustatytame spragų atskleidimo tvarkos apraše numatyti spragų paieškos apribojimai negali būti griežtesni, negu nurodyti šio straipsnio 2 dalyje. Kibernetinio saugumo subjekto nustatytame spragų atskleidimo tvarkos apraše negali būti nustatoma informacijos apie spragas pateikimo Nacionaliniam kibernetinio saugumo centrui tvarka ir numatomos šio straipsnio 5 dalyje nustatyto reguliavimo išimtys.
+4. Spragų atskleidimo Nacionaliniam kibernetinio saugumo centrui tvarka, Nacionaliniam kibernetinio saugumo centrui teikiamos informacijos apie spragas turinys, trumpesnio kaip 90 kalendorinių dienų informacijos apie aptiktą spragą atskleidimo kitiems, negu nurodyti šio straipsnio 2 dalies 3 punkte, subjektams termino nustatymo tvarka nustatomi nacionalinės spragų atkleidimo tvarkos apraše.
 
 
 
 
-5. Asmuo, nustatęs spragą, laikydamasis šio straipsnio 1 dalyje nurodytų reikalavimų, turi teisę informaciją apie aptiktą spragą, tačiau ne daugiau informacijos, negu buvo pateikta Nacionaliniam kibernetinio saugumo centrui ir (ar) kibernetinio saugumo subjektui, atskleisti kitiems, negu nurodyti šio straipsnio 2 dalies 3 punkte, asmenims ne anksčiau kaip po 90 kalendorinių dienų nuo informacijos apie spragą pateikimo Nacionaliniam kibernetinio saugumo centrui ir (ar) kibernetinio saugumo subjektui. Nacionalinis kibernetinio saugumo centras, įvertinęs spragos sudėtingumą ir jos ištaisymo galimybes, nacionalinės spragų atskleidimo tvarkos apraše nustatyta tvarka turi teisę nustatyti trumpesnį informacijos apie aptiktą spragą atskleidimo kitiems, negu nurodyti šio straipsnio 2 dalies 3 punkte, asmenims terminą, tačiau ne trumpesnį kaip 3 kalendorinės dienos. 
+5. Kibernetinio saugumo subjektas turi teisę nustatyti spragų savo valdomose ir (ar) tvarkomose tinklų ir informacinėse sistemose atskleidimo tvarką ir nustatyti kitus spragų paieškos apribojimus, negu numatyta šio straipsnio 2 dalyje, arba jų atsisakyti. Kibernetinio saugumo subjekto nustatytame spragų atskleidimo tvarkos apraše nustatyti spragų paieškos apribojimai negali būti griežtesni, negu nurodyti šio straipsnio 2 dalyje. Kibernetinio saugumo subjekto nustatytame spragų atskleidimo tvarkos apraše negali būti nustatoma informacijos apie spragas pateikimo Nacionalinio kibernetinio saugumo centrui tvarka ir numatomos šio straipsnio 6 dalyje nustatyto reguliavimo išimtys.
 
 
-Papildyta straipsniu:
-Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
+
+
+6. Subjektas, nustatęs spragą, laikydamasis šio straipsnio 1 dalyje nurodytų apribojimų, turi teisę informaciją apie aptiktą spragą, tačiau ne daugiau, negu buvo pateikta Nacionaliniam kibernetinio saugumo centrui ir (ar) kibernetinio saugumo subjektui, atskleisti kitiems, negu nurodyti šio straipsnio 2 dalies 3 punkte, subjektams ne anksčiau kaip po 90 kalendorinių dienų nuo informacijos apie spragą pateikimo Nacionaliniam kibernetinio saugumo centrui ir (ar) kibernetinio saugumo subjektui dienos. Nacionalinis kibernetinio saugumo centras, įvertinęs spragos sudėtingumą ir jos ištaisymo galimybes, nacionalinės spragų atskleidimo tvarkos apraše nustatyta tvarka turi teisę nustatyti trumpesnį informacijos apie aptiktą spragą atskleidimo kitiems, negu nurodyti šio straipsnio 2 dalies 3 punkte, subjektams terminą, tačiau ne trumpesnį kaip 3 kalendorinės dienos.
  
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+V SKYRIUS
+PATIKRINIMAI IR VYKDYMO UŽTIKRINIMO PRIEMONĖS
+ 
+
+
+26 straipsnis. Kibernetinio saugumo subjektų patikrinimai
+
+
+1. Nacionalinis kibernetinio saugumo centras atlieka kibernetinio saugumo subjektų atitikties šio įstatymo reikalavimams, išskyrus nustatytus šio įstatymo VI ir VII skyriuose, patikrinimus.
+
+
+
+
+2. Nacionalinis kibernetinio saugumo centras turi teisę pradėti šio straipsnio 1 dalyje nurodytą kibernetinio saugumo subjekto patikrinimą bet kokiu klausimu, susijusiu su šio įstatymo reikalavimais, kurie nustatyti kibernetinio saugumo subjektams ir kurių nevykdymas laikomas pažeidimu, savo iniciatyva, gavęs skundą ar kitų šaltinių pagrindu, išskyrus šio straipsnio 3 dalyje nurodytus atvejus.
+
+
+
+
+3. Šio straipsnio 1 dalyje nurodyti svarbių subjektų patikrinimai atliekami tik gavus duomenų ar informacijos, kad svarbus subjektas, kaip įtariama, padarė šio įstatymo reikalavimų pažeidimą.
+
+
+
+
+4. Šio straipsnio 1 dalyje nurodyti patikrinimai atliekami šio įstatymo 27 straipsnyje ir Nacionalinio kibernetinio saugumo centro nustatyta tvarka. Nacionalinio kibernetinio saugumo centro tvirtinamame patikrinimų atlikimo tvarkos apraše turi būti numatoma kibernetinio saugumo rizikos požiūriu prioritetinių patikrinimų nustatymo tvarka.
+ 
+
+
+
+
+
+
+27 straipsnis. Bendrieji kibernetinio saugumo subjektų patikrinimų atlikimo pagrindai
+
+
+1. Patikrinimas atliekamas per kuo trumpesnį terminą, bet ne vėliau kaip per 4 mėnesius nuo skundo gavimo dienos arba Nacionalinio kibernetinio saugumo centro direktoriaus ar jo įgalioto asmens sprendimo atlikti patikrinimą savo iniciatyva arba kitų šaltinių pagrindu priėmimo dienos.
+
+
+
+
+2. Atsižvelgiant į patikrinimo sudėtingumą, mastą, kibernetinio saugumo subjektų veiklos pobūdį ir vengimą vykdyti Nacionalinio kibernetinio saugumo centro reikalavimus, patikrinimo metu paaiškėjusias naujas aplinkybes arba kitas objektyvias priežastis, šio straipsnio 1 dalyje nustatytas terminas Nacionalinio kibernetinio saugumo centro direktoriaus sprendimu gali būti pratęsiamas, bet ne ilgiau kaip 2 mėnesiams. Bendras patikrinimo atlikimo terminas negali būti ilgesnis kaip 6 mėnesiai nuo skundo gavimo dienos arba nuo sprendimo atlikti patikrinimą savo iniciatyva ar kitų šaltinių pagrindu priėmimo dienos. Apie patikrinimo termino pratęsimą ir priežastis, dėl kurių šis terminas pratęstas, Nacionalinis kibernetinio saugumo centras privalo nedelsdamas, bet ne vėliau kaip iki šio straipsnio 1 dalyje nurodyto termino pabaigos pranešti tikrinamam subjektui.
+
+
+
+
+3. Atlikdamas šio įstatymo 26 straipsnio 1 dalyje nurodytus patikrinimus, Nacionalinis kibernetinio saugumo centras turi teisę:
+
+
+1) įeiti į tikrinamų kibernetinio saugumo subjektų patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais), ne ilgesniam kaip 30 kalendorinių dienų terminui paimti dokumentų kopijas ir nuorašus, duomenų kopijas ir kitus daiktus, reikalingus patikrinimams atlikti. Įeiti į juridinio asmens patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais) galima tik juridinio asmens darbo laiku, pateikus tarnybinį pažymėjimą ir Nacionalinio kibernetinio saugumo centro sprendimą atlikti patikrinimą liudijantį dokumentą ar kitą Nacionalinio kibernetinio saugumo centro vadovo suteiktą įgaliojimą. Įeiti į fiziniam asmeniui priklausančias patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais) galima tik pateikus teismo nutartį dėl leidimo įeiti į fiziniam asmeniui priklausančias patalpas;
+
+
+
+
+2) duoti nurodymus tikrinamiems kibernetinio saugumo subjektams savo lėšomis atlikti nepriklausomą tinklų ir informacinių sistemų arba jomis vykdomos veiklos ar teikiamų paslaugų tikslinį kibernetinio saugumo auditą ir pateikti šio audito rezultatus, jeigu remiantis kibernetinio saugumo rizikos analizės rezultatais nustatytas aukštas rizikos lygis;
+
+
+
+
+3) duoti nurodymus pateikti visą reikalingą informaciją, dokumentų kopijas ir išrašus, duomenų kopijas, taip pat susipažinti su visais duomenimis ir dokumentais, reikalingais kibernetinio saugumo subjektų tinklų ir informacinių sistemų atitikčiai šio įstatymo 14 straipsnio 1 dalyje nurodytiems reikalavimams įvertinti, įskaitant atliktų kibernetinio saugumo auditų rezultatus, įrodančius tinklų ir informacinių sistemų atitiktį nurodytiems reikalavimams;
+
+
+
+
+4) duoti nurodymus subjektams, turintiems patikrinimams reikšmingos informacijos, pateikti žodinius ir rašytinius paaiškinimus, reikalauti, kad jie atvyktų į Nacionalinio kibernetinio saugumo centro patalpas duoti paaiškinimų;
+
+
+
+
+5) savo lėšomis pasitelkti nepriklausomų, nešališkų ir Valstybės tarnybos įstatyme nustatytus nepriekaištingos reputacijos kriterijus atitinkančių bei reikiamą kvalifikaciją ir patirtį turinčių subjektų;
+
+
+
+
+6) sudaryti sutartis su audito įmonėmis, kitais subjektais, kurių paslaugomis Nacionalinis kibernetinio saugumo centras naudosis atlikdamas patikrinimą. Sudarant šiame punkte nurodytas sutartis taikomi šio įstatymo 7 straipsnio 3 dalyje nurodyti reikalavimai;
+
+
+
+
+7) naudoti visą Nacionalinio kibernetinio saugumo centro turimą informaciją, įskaitant ir informaciją, gautą kitų patikrinimų metu;
+
+
+
+
+8) naudotis kitomis įstatymų suteiktomis teisėmis.
+
+
+
+
+
+
+4. Duodamas šio straipsnio 3 dalies 3 punkte nustatytą nurodymą, Nacionalinis kibernetinio saugumo centras privalo nurodyti prašymo tikslą, pagrindą ir tiksliai apibrėžti prašomą informaciją.
+
+
+
+
+5. Nacionalinis kibernetinio saugumo centras, baigęs patikrinimą, priima bent vieną iš šių sprendimų:
+
+
+1) konstatuoti, kad pažeidimų nenustatyta;
+
+
+
+
+2) nustatęs šio įstatymo pažeidimą, taikyti šio įstatymo 28 straipsnyje nurodytas vykdymo užtikrinimo priemones.
+
+
+
+
+
+
+6. Nustačius šio įstatymo pažeidimą, šio įstatymo 28 straipsnyje nurodytos vykdymo užtikrinimo priemonės, išskyrus nurodytas 28 straipsnio 1 dalies 9–11 punktuose, atsižvelgiant į patikrinimo sudėtingumą, mastą, kibernetinio saugumo subjektų veiklos pobūdį ir vengimą vykdyti Nacionalinio kibernetinio saugumo centro reikalavimus, patikrinimo metu paaiškėjusias naujas aplinkybes arba kitas objektyvias priežastis, gali būti taikomos ir nebaigus patikrinimo.
+
+
+
+
+7. Prieš priimdamas sprendimą taikyti šio įstatymo 28 straipsnio 1 dalyje nurodytą vykdymo užtikrinimo priemonę (-es), Nacionalinis kibernetinio saugumo centras privalo apie tai informuoti kibernetinio saugumo subjektą, kuriam ketinama taikyti vykdymo užtikrinimo priemonę (-es), pateikdamas esminę informaciją apie teisės aktų nuostatas ir nustatytus faktinius duomenis, kurie sudaro vykdymo užtikrinimo priemonės (-ių) taikymo pagrindus, ir nustatyti ne trumpesnį kaip 20 darbo dienų terminą nuo pranešimo įteikimo dienos paaiškinimams pateikti, išskyrus atvejus, kai tai trukdytų imtis neatidėliotinų kibernetinių incidentų prevencijos arba reagavimo į juos veiksmų. Skiriant šio įstatymo 28 straipsnio 1 dalies 9–11 punktuose nurodytas poveikio priemones šioje dalyje nurodytas 20 darbo dienų terminas paaiškinimams teikti turi būti nustatomas.
+ 
+
+
+
+
+
+
+28 straipsnis. Vykdymo užtikrinimo priemonės
+
+
+1. Nacionalinis kibernetinio saugumo centras, šio įstatymo 26 straipsnio 1 dalyje nurodyto patikrinimo metu nustatęs šio įstatymo pažeidimą, taiko vieną ar kelias vykdymo užtikrinimo priemones:
+
+
+1) teikia įspėjimus, kad kibernetinio saugumo subjektai pažeidžia šiame įstatyme nustatytus reikalavimus;
+
+
+
+
+2) duoda nurodymus esminiams subjektams dėl priemonių, kurių reikia siekiant užkirsti kelią kibernetiniam incidentui arba jam suvaldyti, ir tokių priemonių įgyvendinimo bei jų įgyvendinimo ataskaitų pateikimo terminų, nurodymus kibernetinio saugumo subjektams, kad atitinkami subjektai pašalintų nustatytus trūkumus arba ištaisytų šiame įstatyme nustatytų reikalavimų pažeidimus;
+
+
+
+
+3) duoda nurodymus kibernetinio saugumo subjektams nutraukti veiksmus, kurie pažeidžia šiame įstatyme nustatytus reikalavimus, ir tokių veiksmų nebekartoti;
+
+
+
+
+4) duoda nurodymus kibernetinio saugumo subjektams tam tikru būdu ir per nustatytą laikotarpį užtikrinti, kad jų naudojamos kibernetinio saugumo rizikos valdymo priemonės atitiktų šio įstatymo 14 straipsnio 1 dalyje nurodytus teisės aktus arba kad jie įvykdytų šio įstatymo 18 straipsnio 1 dalyje nustatytą pareigą pranešti apie kibernetinius incidentus;
+
+
+
+
+5) duoda nurodymus kibernetinio saugumo subjektams informuoti subjektus, kuriems jie teikia paslaugas arba kuriems vykdo aktualią veiklą ir kuriuos didelė kibernetinė grėsmė gali paveikti, apie grėsmės pobūdį, taip pat apie visus galimus veiksmus, kurių gali imtis tie subjektai, reaguodami į tą grėsmę;
+
+
+
+
+6) duoda nurodymus kibernetinio saugumo subjektams per pagrįstą terminą įgyvendinti kibernetinio saugumo audito metu pateiktas rekomendacijas;
+
+
+
+
+7) skiria stebėsenos pareigūną, kuriam per nustatytą laikotarpį pavedamos aiškiai nustatytos užduotys, prižiūrėti, kaip esminiai subjektai laikosi šio įstatymo 14 ir 18 straipsniuose nustatytų reikalavimų;
+
+
+
+
+8) duoda nurodymus kibernetinio saugumo subjektams tam tikru būdu viešai paskelbti šio įstatymo pažeidimo aspektus;
+
+
+
+
+9) skiria kibernetinio saugumo subjektams baudą šio įstatymo 30 ir 31 straipsniuose nustatyta tvarka kartu su bet kuriomis šios dalies 1–8, 10 ir 11 punktuose nurodytomis priemonėmis;
+
+
+
+
+10) inicijuoja šio įstatymo 32 straipsnyje nustatytą teisės užsiimti dalimi esminio subjekto vykdomos veiklos ar visa jo vykdoma veikla arba teisės teikti paslaugas laikiną sustabdymą;
+
+
+
+
+11) inicijuoja šio įstatymo 33 straipsnyje nustatytą esminio subjekto vadovo, išskyrus Seimo, Vyriausybės ir Lietuvos Respublikos Prezidento sprendimu skiriamus viešojo administravimo subjektų vadovus, laikiną nušalinimą nuo pareigų.
+
+
+
+
+
+
+2. Vykdymo užtikrinimo priemonės pritaikymas neatleidžia kibernetinio saugumo subjekto nuo pareigos, už kurios nevykdymą pritaikyta vykdymo užtikrinimo priemonė, atlikimo. Vykdymo užtikrinimo priemonės taikymas juridiniams asmenims neatleidžia jų vadovų ir darbuotojų nuo įstatymuose nustatytos civilinės, administracinės ar baudžiamosios atsakomybės.
+
+
+
+
+3. Taikydamas bet kurią iš šio straipsnio 1 dalyje nurodytų vykdymo užtikrinimo priemonių, Nacionalinis kibernetinio saugumo centras atsižvelgia į kiekvieno konkretaus atvejo aplinkybes, taip pat į:
+
+
+1) atsakomybę lengvinančias aplinkybes, nustatytas šio straipsnio 4 dalyje, atsakomybę sunkinančias aplinkybės, nustatytas šio straipsnio 5 dalyje, ir pažeidimo pavojingumą, nurodytą šio įstatymo 29 straipsnyje; 
+
+
+
+
+2) pažeidimo trukmę;
+
+
+
+
+3) subjekto įvykdytus ankstesnius šio įstatymo pažeidimus per pastaruosius 2 metus;
+
+
+
+
+4) padarytą turtinę arba neturtinę žalą, kuri vertinama apskaičiuojant finansinius ar ekonominius nuostolius, poveikį kitoms paslaugoms ir paveiktų naudotojų skaičių, nuostolių atlyginimą ar padaryto neigiamo poveikio panaikinimą;
+
+
+
+
+5) priemones, kurių subjektas ėmėsi siekdamas užkirsti kelią turtinei ar neturtinei žalai arba ją sumažinti;
+
+
+
+
+6) patvirtintų elgesio kodeksų arba patvirtintų sertifikavimo mechanizmų laikymąsi;
+
+
+
+
+7) bendradarbiavimą su Nacionaliniu kibernetinio saugumo centru;
+
+
+
+
+8) pažeidimo mastą;
+
+
+
+
+9) tai, ar pažeidimą įvykdęs subjektas veikė tyčia, ar pažeidimas padarytas dėl neatsargumo.
+
+
+
+
+
+
+4. Atsakomybę lengvinančios aplinkybės yra šios:
+
+
+1) subjektas savo noru užkirto kelią turtinei ar neturtinei žalai;
+
+
+
+
+2) subjektas atlygino padarytą žalą;
+
+
+
+
+3) subjektas pripažino pažeidimą ir padėjo Nacionaliniam kibernetinio saugumo centrui patikrinimo metu;
+
+
+
+
+4) subjektas savo valia nutraukė pažeidimą.
+
+
+
+
+
+
+5. Atsakomybę sunkinančios aplinkybės yra šios:
+
+
+1) pažeidimas padarytas pakartotinai. Laikoma, kad pažeidimas padarytas pakartotinai, jeigu subjektas, įtariamas pažeidimo padarymu, per paskutinius 12 mėnesių nuo sprendimo, kuriuo buvo paskirta vykdymo užtikrinimo priemonė, įsigaliojimo dienos padarė tokį patį pažeidimą. Padarius pakartotinį pažeidimą, šioje dalyje nustatytas terminas skaičiuojamas iš naujo;
+
+
+
+
+2) padarytas pavojingas pažeidimas, kaip jis suprantamas pagal šio įstatymo 29 straipsnio 2 dalį;
+
+
+
+
+3) subjektas neištaisė trūkumų pagal Nacionalinio kibernetinio saugumo centro pateiktus nurodymus;
+
+
+
+
+4) subjektas trukdė vykdyti kibernetinio saugumo audito ar stebėsenos pareigūno veiklą, kurią įpareigojo atlikti Nacionalinis kibernetinio saugumo centras, nustatęs pažeidimą;
+
+
+
+
+5) subjektas pateikė neteisingą informaciją, susijusią su šio įstatymo reikalavimais;
+
+
+
+
+6) subjektas slėpė padarytą pažeidimą ar pažeidimą tęsė nepaisydamas to, kad Nacionalinis kibernetinio saugumo centras buvo atkreipęs dėmesį į pažeidimus ar veiklos trūkumus.
+
+
+
+
+
+
+6. Šio straipsnio 1 dalyje nurodytos vykdymo užtikrinimo priemonės taikomos Vyriausybės nustatyta vykdymo užtikrinimo priemonių taikymo tvarka.
+
+
+
+
+7. Sprendimas dėl vykdymo užtikrinimo priemonės skyrimo gali būti priimtas, jeigu praėjo ne daugiau kaip 2 metai nuo pažeidimo dienos, o kai pažeidimas trunkamasis – jeigu praėjo ne daugiau kaip 2 metai nuo jo paaiškėjimo dienos.
+ 
+
+
+
+
+
+
+29 straipsnis. Pažeidimai, dėl kurių taikomos vykdymo užtikrinimo priemonės
+
+
+1. Pažeidimais yra laikomi šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų nesilaikymas ar trukdymas šio įstatymo 4 straipsnio 2 ir 3 dalyse nurodytoms institucijoms, įskaitant jų pasitelkiamus subjektus, atlikti joms priskirtas funkcijas. Pažeidimai skirstomi į pavojingus, vidutinio pavojingumo ir nedidelio pavojingumo.
+
+
+
+
+2. Pavojingais pažeidimais yra laikomi šio įstatymo 14 straipsnio 1 dalyje, 18 straipsnio 1 dalies 1 punkte nustatytų reikalavimų pažeidimai.
+
+
+
+
+3. Vidutinio pavojingumo pažeidimais yra laikomi šio įstatymo 7 straipsnio 2 dalies 6 ir 7 punktuose, 14 straipsnio 6 ir 8 dalyse ir 15 straipsnio 1, 2 ir 3 dalyse nustatytų reikalavimų pažeidimai ar trukdymas institucijoms atlikti šio įstatymo 27 straipsnio 3 dalyje joms priskirtas funkcijas, taip pat šio įstatymo 17 straipsnyje nustatytų reikalavimų pažeidimai, jeigu juos padarė aukščiausio lygio domenų vardų registravimo paslaugas teikiantys subjektai.
+
+
+
+
+4. Nedidelio pavojingumo pažeidimais yra laikomi šio įstatymo 14 straipsnio 3 ir 7 dalyse, 18 straipsnio 1 dalies 2 punkte ir 19 straipsnio 4 dalyje nustatytų reikalavimų pažeidimai, taip pat šio įstatymo 17 straipsnyje nustatytų reikalavimų pažeidimai, jeigu juos padarė domenų vardų registravimo paslaugas teikiantys subjektai.
+ 
+
+
+
+
+
+
+30 straipsnis. Baudos
+
+
+1. Baudas skiria Nacionalinio kibernetinio saugumo centro vadovas ar jo įgaliotas asmuo Vyriausybės nustatyta vykdymo užtikrinimo priemonių taikymo esminiams ir svarbiems subjektams tvarka.
+
+
+
+
+2. Už šio įstatymo 29 straipsnyje nurodytus pažeidimus skiriamų baudų maksimalūs dydžiai:
+
+
+1) esminiam subjektui – iki 10 000 000 Eur arba iki 2 procentų juridinio asmens bendros pasaulinės metinės apyvartos per praėjusį finansinį laikotarpį, atsižvelgiant į tai, kuri suma didesnė;
+
+
+
+
+2) svarbiam subjektui – iki 7 000 000 Eur arba iki 1,4 procento juridinio asmens bendros pasaulinės metinės apyvartos per praėjusį finansinį laikotarpį, atsižvelgiant į tai, kuri suma didesnė;
+
+
+
+
+3) biudžetinei įstaigai, kuri yra esminis subjektas, – iki 1 procento biudžetinės įstaigos einamųjų metų biudžeto ir kitų praėjusiais metais gautų bendrųjų metinių pajamų dydžio, bet ne didesnė kaip 60 000 Eur;
+
+
+
+
+4) biudžetinei įstaigai, kuri yra svarbus subjektas, – iki 0,5 procento biudžetinės įstaigos einamųjų metų biudžeto ir kitų praėjusiais metais gautų bendrųjų metinių pajamų dydžio, bet ne didesnė kaip 30 000 Eur.
+
+
+
+
+
+
+3. Nustatomos šios baudos:
+
+
+1) iki 100 procentų šio straipsnio 2 dalyje nustatytos maksimalios baudos, jeigu pažeidimas yra laikomas pavojingu pažeidimu pagal šio įstatymo 29 straipsnio 2 dalį;
+
+
+
+
+2) iki 50 procentų šio straipsnio 2 dalyje nustatytos maksimalios baudos, jeigu pažeidimas yra laikomas vidutinio pavojingumo pažeidimu pagal šio įstatymo 29 straipsnio 3 dalį;
+
+
+
+
+3) iki 10 procentų šio straipsnio 2 dalyje nustatytos maksimalios baudos, jeigu pažeidimas yra laikomas nedidelio pavojingumo pažeidimu pagal šio įstatymo 29 straipsnio 4 dalį.
+
+
+
+
+
+
+4. Nustatomas baudos dydis turi būti veiksmingas, proporcingas padarytam pažeidimui ir atgrasantis nuo pažeidimų darymo ateityje. Nustatant baudos dydį atsižvelgiama į 28 straipsnio 3–5 dalyse nurodytas aplinkybes, išskyrus 28 straipsnio 5 dalies 2 punkte nurodytą aplinkybę.
+ 
+
+
+
+
+
+
+31 straipsnis. Baudų skyrimo tvarka
+
+
+1. Nacionalinis kibernetinio saugumo centras baudos skyrimo klausimą paprastai nagrinėja rašytinės procedūros tvarka pagal jam pateiktus paaiškinimus, gautus šio įstatymo 27 straipsnio 7 dalyje nustatyta tvarka. Baudos skyrimą svarstant rašytinės procedūros tvarka, posėdis nerengiamas.
+
+
+
+
+2. Nacionalinis kibernetinio saugumo centras kibernetinio saugumo subjekto, kuriam numatoma skirti baudą, prašymu arba savo iniciatyva dėl aplinkybių sudėtingumo ar kitų svarbių aplinkybių gali nuspręsti baudos skyrimą svarstyti žodinės procedūros tvarka, kai būtina išklausyti žodinius pažeidimo padarymu įtariamo kibernetinio saugumo subjekto paaiškinimus ar kitais atvejais, kai baudos skyrimas gali būti geriau apsvarstytas žodinės procedūros tvarka. Nusprendus baudos skyrimą svarstyti žodinės procedūros tvarka, kibernetinio saugumo subjektui, kuriam numatoma skirti baudą, ir kitiems suinteresuotiems subjektams elektroniniu paštu turi būti pranešta apie posėdžio, kuriame svarstomas baudos skyrimas, vietą, datą ir laiką ne vėliau kaip prieš 10 darbo dienų iki posėdžio dienos.
+
+
+
+
+3. Posėdyje, kuriame svarstomas baudos skyrimas, gali dalyvauti ir pateikti paaiškinimus dėl pažeidimo padarymo kibernetinio saugumo subjektas, kuriam numatoma skirti baudą, ir kiti subjektai, kurių dalyvavimas reikalingas baudos skyrimui tinkamai apsvarstyti.
+
+
+
+
+4. Kibernetinio saugumo subjekto, kuriam numatoma skirti baudą, ar jo atstovo neatvykimas netrukdo svarstyti baudos skyrimo, jeigu subjektui apie bylos nagrinėjimo posėdį buvo tinkamai pranešta ir jis nepateikė įrodymų, kad negali atvykti dėl svarbių priežasčių.
+
+
+
+
+5. Baudos skyrimo svarstymas yra viešas, išskyrus atvejus, kai Nacionalinis kibernetinio saugumo centras savo iniciatyva arba kibernetinio saugumo subjekto, kuriam numatoma skirti baudą, ir (ar) kito suinteresuoto subjekto prašymu nusprendžia baudos skyrimą svarstyti uždarame posėdyje siekdamas apsaugoti valstybės, tarnybos, profesines, komercines paslaptis ar kitas įstatymų saugomas paslaptis arba užtikrinti subjekto teises į privataus gyvenimo neliečiamumą ir (ar) asmens duomenų apsaugą.
+
+
+
+
+6. Posėdis, kuriame svarstomas baudos skyrimas, vyksta lietuvių kalba. Asmenims, nemokantiems valstybinės kalbos, garantuojama teisė naudotis vertėjo paslaugomis.
+
+
+
+
+7. Posėdžio, kuriame svarstomas baudos skyrimas, metu daromas posėdžio garso įrašas. Jis laikomas posėdžio protokolu.
+
+
+
+
+8. Kai baudos skyrimas svarstomas rašytinės procedūros tvarka, Nacionalinis kibernetinio saugumo centras sprendimą dėl baudos skyrimo priima per 20 darbo dienų nuo šio įstatymo 27 straipsnio 7 dalyje nustatyto termino paaiškinimams pateikti pabaigos. Jeigu baudos skyrimas svarstomas žodinės procedūros tvarka, Nacionalinis kibernetinio saugumo centras sprendimą dėl baudos skyrimo priima per 20 darbo dienų nuo posėdžio dienos. Nacionalinis kibernetinio saugumo centras sprendimo nuorašą dėl baudos skyrimo ne vėliau kaip per 3 darbo dienas nuo priėmimo dienos išsiunčia subjektui, dėl kurio šis sprendimas priimtas, ir, jeigu bauda skiriama atlikus tyrimą, pradėtą gauto skundo pagrindu, skundą pateikusiam subjektui.
+
+
+
+
+9. Nacionalinio kibernetinio saugumo centro sprendimas dėl baudos skyrimo turi būti motyvuotas. Jame nurodoma Valstybės tarnybos įstatymo 10 straipsnio 5 punkte nurodyta informacija, įskaitant:
+
+
+1) duomenis apie esminį ar svarbų subjektą, dėl kurio priimtas sprendimas;
+
+
+
+
+2) pažeidimus, jeigu jų nustatyta, ir jų aplinkybes;
+
+
+
+
+3) surinktus įrodymus ir jų vertinimą;
+
+
+
+
+4) pažeidimo padarymu įtariamo kibernetinio saugumo subjekto ir kitų subjektų paaiškinimus (jeigu jie pateikti), jų vertinimą;
+
+
+
+
+5) priimtą sprendimą skirti baudą arba jos neskirti.
+
+
+
+
+
+
+10. Bauda neskiriama, jeigu kibernetinio saugumo subjektui už tą patį pažeidimą jau buvo skirta bauda vadovaujantis Reglamento (ES) 2016/679 58 straipsnio 2 dalies i punktu.
+
+
+
+
+11. Nacionalinio kibernetinio saugumo centro sprendimas dėl baudos skyrimo gali būti skundžiamas teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+
+
+12. Nacionalinio kibernetinio saugumo centro sprendimas dėl baudos skyrimo turi būti įvykdytas ne vėliau kaip per 3 mėnesius nuo dienos, kurią jis buvo įteiktas subjektui, kuriam bauda paskirta. Apskundus Nacionalinio kibernetinio saugumo centro sprendimą dėl baudos skyrimo, jis turi būti įvykdytas ne vėliau kaip per 3 mėnesius nuo teismo sprendimo, kuriuo baudos skyrimas pripažįstamas pagrįstu, įsiteisėjimo dienos. Bauda turi būti sumokėta į valstybės biudžetą.
+
+
+
+
+13. Nacionalinio kibernetinio saugumo centro sprendimas dėl baudos skyrimo yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka. Jis gali būti pateiktas vykdyti ne vėliau kaip per 3 metus nuo priėmimo dienos.
+ 
+
+
+
+
+
+
+32 straipsnis. Teisės užsiimti dalimi esminio subjekto vykdomos veiklos ar visa jo vykdoma veikla arba teisės teikti paslaugas laikinas sustabdymas
+
+
+1. Bendrosios kompetencijos apylinkės teismas, gavęs Nacionalinio kibernetinio saugumo centro prašymą, nutartimi turi teisę laikinai sustabdyti teisę užsiimti dalimi esminio subjekto vykdomos veiklos ar visa jo vykdoma veikla arba teisę teikti paslaugas, jeigu nustatoma, kad šio įstatymo 28 straipsnio 1 dalies 1–4 ir 6 punktuose nurodytų vykdymo užtikrinimo priemonių taikymas yra neveiksmingas. Teisės užsiimti dalimi esminio subjekto vykdomos veiklos ar visa jo vykdoma veikla arba teisės teikti paslaugas laikinas sustabdymas gali būti taikomas tik dėl pavojingų pažeidimų, nurodytų šio įstatymo 29 straipsnio 2 dalyje.
+
+
+
+
+2. Nacionalinis kibernetinio saugumo centras, prieš kreipdamasis į bendrosios kompetencijos apylinkės teismą su prašymu laikinai sustabdyti teisę užsiimti dalimi esminio subjekto vykdomos veiklos ar visa jo vykdoma veikla arba teisę teikti paslaugas šio straipsnio 1 dalyje nurodytu pagrindu, privalo esminį subjektą informuoti pateikdamas esminę informaciją apie teisės aktų nuostatas ir nustatytus faktinius duomenis, kurie sudaro teisės užsiimti dalimi esminio subjekto vykdomos veiklos ar visa jo vykdoma veikla arba teisės teikti paslaugas laikino sustabdymo pagrindus, ir nustatyti terminą, kuris negali būti trumpesnis kaip 10 darbo dienų nuo pranešimo įteikimo dienos ir iki kurio esminis subjektas turi imtis būtinų veiksmų nustatytiems trūkumams pašalinti ar reikalavimams įvykdyti. Nacionalinis kibernetinio saugumo centras šio straipsnio 1 dalyje nustatytu pagrindu į bendrosios kompetencijos apylinkės teismą turi teisę kreiptis tik pasibaigus Nacionalinio kibernetinio saugumo centro nustatytam terminui ir esminiam subjektui nesiėmus nurodytų veiksmų.
+
+
+
+
+3. Nacionalinio kibernetinio saugumo centro prašyme bendrosios kompetencijos apylinkės teismui dėl teisės laikinai sustabdyti teisę užsiimti dalimi esminio subjekto vykdomos veiklos ar visa jo vykdoma veikla arba teisę teikti paslaugas nurodoma:
+
+
+1) esminio subjekto vykdoma veikla ar jos dalis arba teikiamos paslaugos, kurias prašoma stabdyti;
+
+
+
+
+2) aplinkybės, įrodančios, kad šio įstatymo 28 straipsnio 1 dalies 1–4 ir 6 punktuose nurodytų užtikrinimo priemonių taikymas yra neveiksmingas;
+
+
+
+
+3) aplinkybės, įrodančios, kad esminiam subjektui buvo nustatytas terminas trūkumams pašalinti ar reikalavimams įvykdyti, o esminis subjektas nesiėmė nurodytų veiksmų;
+
+
+
+
+4) esminio subjekto, kurio teisę užsiimti dalimi vykdomos veiklos ar visa vykdoma veikla arba teisę teikti paslaugas prašoma stabdyti, paaiškinimai, jeigu tokie buvo gauti.
+
+
+
+
+
+
+4. Nutartimi laikinai sustabdyti teisę užsiimti dalimi esminio subjekto vykdomos veiklos ar visa jo vykdoma veikla arba teisę teikti paslaugas esminis subjektas įpareigojamas laikinai nutraukti visą steigimo dokumentuose nurodytą ūkinę, komercinę, finansinę, profesinę veiklą ar jos dalį ir uždaryti visus su šia veikla ar jos dalimi susijusius padalinius. Nutartyje nurodomas esminio subjekto veiklos laikino sustabdymo terminas, kuris negali būti ilgesnis kaip 4 mėnesiai. Jeigu aplinkybės, kad šio įstatymo 28 straipsnio 1 dalies 1–4 ir 6 punktuose nurodytų užtikrinimo priemonių taikymas yra neveiksmingas, išlieka, gavus Nacionalinio kibernetinio saugumo centro prašymą, bendrosios kompetencijos apylinkės teismo nutartimi šis terminas gali būti pratęsiamas, bet ne ilgiau kaip 2 mėnesiams. Pratęsimų skaičius neribojamas, bet visais atvejais teisės užsiimti dalimi esminio subjekto vykdomos veiklos ar visa jo vykdoma veikla arba teisės teikti paslaugas laikinas sustabdymas negali trukti ilgiau, negu to reikia, kad būtų užtikrinamas šio įstatymo nuostatų laikymasis.
+
+
+
+
+5. Nutartis, kuria laikinai sustabdoma teisė užsiimti dalimi esminio subjekto vykdomos veiklos ar visa jo vykdoma veikla arba teisė teikti paslaugas, nedelsiant nusiunčiama antstoliui vykdyti, Nacionaliniam kibernetinio saugumo centrui ir prireikus atitinkamo viešo registro informacinės sistemos tvarkytojui.
+
+
+
+
+6. Nutartis, kuria laikinai sustabdoma teisė užsiimti dalimi esminio subjekto vykdomos veiklos ar visa jo vykdoma veikla arba teisė teikti paslaugas, esminiam subjektui ar jo atstovui paskelbiama Civilinio proceso kodekso nustatyta tvarka.
+
+
+
+
+7. Esminis subjektas bendrosios kompetencijos apylinkės teismo nutartį, kuria jam laikinai sustabdoma teisė užsiimti dalimi vykdomos veiklos ar visa vykdoma veikla arba teisė teikti paslaugas, taip pat nutartį pratęsti šios priemonės taikymo terminą gali apskųsti aukštesnės instancijos teismui per 7 darbo dienas nuo nutarties įteikimo dienos. Šio teismo priimta nutartis yra galutinė ir neskundžiama.
+
+
+
+
+8. Nacionalinis kibernetinio saugumo centras, gavęs motyvuotą esminio subjekto, kurio visa veikla ar jos dalis arba paslaugų teikimas buvo sustabdyta, prašymą ir nustatęs, kad esminio subjekto veiklos ar paslaugų teikimo laikinas sustabdymas yra nebereikalingas, ne vėliau kaip per 7 darbo dienas nuo prašymo gavimo dienos kreipiasi į bendrosios kompetencijos apylinkės teismą dėl laikino sustabdymo panaikinimo. Bendrosios kompetencijos apylinkės teismas panaikina esminio subjekto veiklos ar paslaugų teikimo laikiną sustabdymą, kai ši priemonė tampa nebereikalinga ir Nacionalinis kibernetinio saugumo centras prašo panaikinti laikiną sustabdymą.
+
+
+
+
+9. Nacionalinis kibernetinio saugumo centras informaciją apie esminį subjektą, kuriam laikinai sustabdyta teisė užsiimti dalimi vykdomos veiklos ar visa jo vykdoma veikla arba teisė teikti paslaugas, skelbia savo interneto svetainėje visu šios vykdymo užtikrinimo priemonės taikymo laikotarpiu.
+ 
+
+
+
+
+
+
+33 straipsnis. Esminio subjekto vadovo laikinas nušalinimas nuo pareigų
+
+
+1. Bendrosios kompetencijos apylinkės teismas, gavęs Nacionalinio kibernetinio saugumo centro prašymą laikinai nušalinti esminio subjekto vadovą nuo pareigų, nutartimi turi teisę laikinai nušalinti esminio subjekto vadovą nuo pareigų, jeigu nustatoma, kad šio įstatymo 28 straipsnio 1 dalies 1–4 ir 6 punktuose nurodytų vykdymo užtikrinimo priemonių taikymas yra neveiksmingas. Esminio subjekto vadovo laikinas nušalinimas nuo pareigų gali būti taikomas tik dėl pavojingų pažeidimų, nurodytų šio įstatymo 29 straipsnio 2 dalyje.
+
+
+
+
+2. Nacionalinis kibernetinio saugumo centras, prieš kreipdamasis į bendrosios kompetencijos apylinkės teismą su prašymu laikinai nušalinti esminio subjekto vadovą nuo pareigų šio straipsnio 1 dalyje nurodytu pagrindu, privalo esminį subjektą informuoti pateikdamas esminę informaciją apie teisės aktų nuostatas ir nustatytus faktinius duomenis, kurie sudaro esminio subjekto vadovo laikino nušalinimo nuo pareigų pagrindus, ir nustatyti terminą, kuris negali būti trumpesnis kaip 10 darbo dienų nuo pranešimo įteikimo dienos ir per kurį esminis subjektas turi imtis būtinų veiksmų nustatytiems trūkumams pašalinti ar reikalavimams įvykdyti. Nacionalinis kibernetinio saugumo centras šio straipsnio 1 dalyje nustatytu pagrindu į bendrosios kompetencijos apylinkės teismą turi teisę kreiptis tik pasibaigus Nacionalinis kibernetinio saugumo centro nustatytam terminui ir esminiam subjektui nesiėmus nurodytų veiksmų.
+
+
+
+
+3. Nacionalinio kibernetinio saugumo centro prašyme bendrosios kompetencijos apylinkės teismui dėl esminio subjekto vadovo laikino nušalinimo nuo pareigų nurodoma:
+
+
+1) aplinkybės, įrodančios, kad šio įstatymo 28 straipsnio 1 dalies 1–4 ir 6 punktuose nurodytų užtikrinimo priemonių taikymas yra neveiksmingas;
+
+
+
+
+2) aplinkybės, įrodančios, kad esminiam subjektui buvo nustatytas terminas trūkumams pašalinti ar reikalavimams įvykdyti, o esminis subjektas nesiėmė nurodytų veiksmų;
+
+
+
+
+3) esminio subjekto, kurio vadovą prašoma laikinai nušalinti nuo pareigų, paaiškinimai, jeigu tokie buvo gauti.
+
+
+
+
+
+
+4. Nutartis, kuria esminio subjekto vadovas laikinai nušalinamas nuo pareigų, nedelsiant nusiunčiama jį į pareigas priimančiam subjektui ir Nacionaliniam kibernetinio saugumo centrui.
+
+
+
+
+5. Nutartis, kuria esminio subjekto vadovas laikinai nušalinamas nuo pareigų, esminio subjekto vadovui ar jo atstovui paskelbiama Civilinio proceso kodekso nustatyta tvarka.
+
+
+
+
+6. Nuo bendrosios kompetencijos apylinkės teismo nutarties laikinai nušalinti esminio subjekto vadovą nuo pareigų paskelbimo dienos nušalintas nuo pareigų esminio subjekto vadovas neturi teisės atlikti savo funkcijų ir visi po tokio teismo sprendimo paskelbimo dienos jo priimti sprendimai yra negaliojantys.
+
+
+
+
+7. Esminio subjekto vadovo laikinas nušalinimas nuo pareigų negali trukti ilgiau kaip 6 mėnesius. Prireikus šios priemonės taikymas gali būti pratęsiamas dar iki 3 mėnesių. Pratęsimų skaičius neribojamas, bet visais atvejais nušalinimas nuo pareigų negali trukti ilgiau, negu to reikia, kad būtų užtikrinamas šio įstatymo nuostatų laikymasis.
+
+
+
+
+8. Nutartį laikinai nušalinti esminio subjekto vadovą nuo pareigų, taip pat nutartį pratęsti šios priemonės taikymo terminą per 7 darbo dienas nuo nutarties paskelbimo dienos esminis subjektas ar nušalintas esminio subjekto vadovas gali apskųsti aukštesnės instancijos teismui. Šio teismo priimta nutartis yra galutinė ir neskundžiama.
+
+
+
+
+9. Nacionalinis kibernetinio saugumo centras, gavęs motyvuotą nušalinto esminio subjekto vadovo prašymą ir nustatęs, kad esminio subjekto vadovo nušalinimas yra nebereikalingas, ne vėliau kaip per 7 darbo dienas nuo prašymo gavimo dienos privalo prašyti bendrosios kompetencijos apylinkės teismo panaikinti esminio subjekto vadovo laikiną nušalinimą nuo pareigų. Bendrosios kompetencijos apylinkės teismas panaikina esminio subjekto vadovo laikiną nušalinimą nuo pareigų, kai ši priemonė tampa nebereikalinga ir Nacionalinis kibernetinio saugumo centras prašo panaikinti esminio subjekto vadovo laikiną nušalinimą nuo pareigų.
+
+
+
+
+10. Nacionalinis kibernetinio saugumo centras informaciją apie esminį subjektą, kurio vadovas laikinai nušalintas nuo pareigų, skelbia savo interneto svetainėje visu šios vykdymo užtikrinimo priemonės taikymo laikotarpiu.
+ 
+
+
 
 
 
@@ -1023,7 +2370,7 @@ NACIONALINĖS KIBERNETINIO SAUGUMO SERTIFIKAVIMO INSTITUCIJOS ĮGALIOJIMAI
  
 
 
-18 straipsnis. Nacionalinė kibernetinio saugumo sertifikavimo institucija
+34 straipsnis. Nacionalinė kibernetinio saugumo sertifikavimo institucija
 
 
 1. Nacionalinis kibernetinio saugumo centras vykdo Reglamente (ES) 2019/881 nustatytas nacionalinės kibernetinio saugumo sertifikavimo institucijos funkcijas, turi nacionalinės kibernetinio saugumo sertifikavimo institucijos įgaliojimus.
@@ -1034,32 +2381,32 @@ NACIONALINĖS KIBERNETINIO SAUGUMO SERTIFIKAVIMO INSTITUCIJOS ĮGALIOJIMAI
 2. Nacionalinis kibernetinio saugumo centras, vykdydamas nacionalinės kibernetinio saugumo sertifikavimo institucijos funkcijas:
 
 
-1) turi teisę neatlygintinai iš atitikties vertinimo įstaigų, Europos kibernetinio saugumo sertifikatų turėtojų, Europos Sąjungos atitikties pareiškimus išduodančių subjektų, valstybės ir savivaldybių institucijų ir įstaigų gauti visą reikalingą informaciją, dokumentų kopijas ir nuorašus, duomenų kopijas, taip pat susipažinti su visais duomenimis ir dokumentais;
+1) turi teisę neatlygintinai iš atitikties vertinimo įstaigų, Europos kibernetinio saugumo sertifikatų turėtojų, Europos Sąjungos atitikties pareiškimus išduodančių subjektų, valstybės ir savivaldybių institucijų ir įstaigų gauti visą nacionalinės kibernetinio saugumo sertifikavimo institucijos funkcijoms vykdyti reikalingą informaciją, dokumentų kopijas ir nuorašus, duomenų kopijas, taip pat susipažinti su visais duomenimis ir dokumentais;
 
 
 
 
-2) nustato įgaliojimų atitikties vertinimo įstaigoms pagal Reglamento (ES) 2019/881 60 straipsnio 3 dalį (toliau – papildomi įgaliojimai) suteikimo, apribojimo ir sustabdymo, papildomų įgaliojimų apribojimo ir sustabdymo panaikinimo, papildomų įgaliojimų atšaukimo tvarką, teikia papildomus įgaliojimus, juos apriboja, sustabdo arba atšaukia šio įstatymo 19 straipsnyje nustatytais atvejais;
+2) nustato įgaliojimų atitikties vertinimo įstaigoms pagal Reglamento (ES) 2019/881 60 straipsnio 3 dalį (toliau – papildomi įgaliojimai) suteikimo, apribojimo ir sustabdymo, papildomų įgaliojimų apribojimo ir sustabdymo panaikinimo, papildomų įgaliojimų atšaukimo tvarką, teikia papildomus įgaliojimus, juos apriboja, sustabdo arba atšaukia šio įstatymo 35 straipsnyje nustatytais atvejais;
 
 
 
 
-3) Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka nagrinėja Reglamento (ES) 2019/881 58 straipsnio 7 dalies f punkte nurodytus skundus;
+3) Viešojo administravimo įstatymo nustatyta tvarka nagrinėja Reglamento (ES) 2019/881 58 straipsnio 7 dalies f punkte nurodytus skundus;
 
 
 
 
-4) Reglamento (ES) 2019/881, šio įstatymo 19 straipsnyje ir Nacionalinio kibernetinio saugumo centro nustatyta tvarka atlieka tyrimus, kaip laikomasi Reglamento (ES) 2019/881 III antraštinės dalies ar Europos kibernetinio saugumo sertifikavimo schemų nuostatų;
+4) Reglamente (ES) 2019/881, šio įstatymo 36 straipsnyje ir Nacionalinio kibernetinio saugumo centro nustatyta tvarka atlieka tyrimus, kaip laikomasi Reglamento (ES) 2019/881 III antraštinės dalies ar Europos kibernetinio saugumo sertifikavimo schemų, kurios taikomos informacinių ir ryšių technologijų produktų, informacinių ir ryšių technologijų paslaugų, informacinių ir ryšių technologijų procesų sertifikavimui, nuostatų;
 
 
 
 
-5) atlikdamas šios dalies 4 punkte nurodytus tyrimus, įgalioja asmenis, turinčius teisę įeiti į atitikties vertinimo įstaigų ir Europos kibernetinio saugumo sertifikatų turėtojų patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais), ne ilgesniam kaip 30 kalendorinių dienų terminui paimti dokumentų kopijas ir nuorašus, duomenų kopijas bei kitus daiktus, reikalingus atliekant tyrimus. Įeiti į juridinio asmens patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais) galima tik juridinio asmens darbo laiku, pateikus tarnybinį pažymėjimą. Įeiti į fiziniam asmeniui priklausančias patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais) galima tik pateikus teismo nutartį dėl leidimo įeiti į fiziniam asmeniui priklausančias patalpas;
+5) atlikdamas šios dalies 4 punkte nurodytus tyrimus, turi teisę įeiti į atitikties vertinimo įstaigų ir Europos kibernetinio saugumo sertifikatų turėtojų patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais), ne ilgesniam kaip 30 kalendorinių dienų terminui paimti dokumentų kopijas ir nuorašus, duomenų kopijas ir kitus daiktus, reikalingus atliekant tyrimus. Įeiti į juridinio asmens patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais) galima tik juridinio asmens darbo laiku, pateikus tarnybinį pažymėjimą. Įeiti į fiziniam asmeniui priklausančias patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais) galima tik pateikus teismo nutartį dėl leidimo įeiti į fiziniam asmeniui priklausančias patalpas;
 
 
 
 
-6) atlikdamas šios dalies 4 punkte nurodytus tyrimus, turi teisę gauti žodinius ir rašytinius paaiškinimus iš tikrinamų juridinių ir fizinių asmenų ir reikalauti, kad jie atvyktų į nacionalinės kibernetinio saugumo sertifikavimo institucijos patalpas duoti paaiškinimų;
+6) atlikdamas šios dalies 4 punkte nurodytus tyrimus, turi teisę gauti žodinius ir rašytinius tikrinamų juridinių ir fizinių asmenų paaiškinimus ir reikalauti, kad jie atvyktų į nacionalinės kibernetinio saugumo sertifikavimo institucijos patalpas duoti paaiškinimų;
 
 
 
@@ -1071,7 +2418,7 @@ NACIONALINĖS KIBERNETINIO SAUGUMO SERTIFIKAVIMO INSTITUCIJOS ĮGALIOJIMAI
 
 
 
-3. Nacionalinio kibernetinio saugumo centro prašymai dėl teismo leidimo įeiti į fiziniam asmeniui priklausančias patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais) nagrinėjami Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.
+3. Nacionalinio kibernetinio saugumo centro prašymai dėl teismo leidimo įeiti į fiziniam asmeniui priklausančias patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais) nagrinėjami Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.
  
 
 
@@ -1079,10 +2426,10 @@ NACIONALINĖS KIBERNETINIO SAUGUMO SERTIFIKAVIMO INSTITUCIJOS ĮGALIOJIMAI
 
 
 
-19 straipsnis. Papildomų įgaliojimų atitikties vertinimo įstaigoms suteikimas, apribojimas ir sustabdymas, papildomų įgaliojimų apribojimo ir sustabdymo panaikinimas, papildomų įgaliojimų atšaukimas
+35 straipsnis. Papildomų įgaliojimų atitikties vertinimo įstaigoms suteikimas, apribojimas ir sustabdymas, papildomų įgaliojimų apribojimo ir sustabdymo panaikinimas, papildomų įgaliojimų atšaukimas
 
 
-1. Papildomi įgaliojimai suteikiami, apribojami ir sustabdomi, papildomų įgaliojimų apribojimas ir sustabdymas panaikinamas, papildomi įgaliojimai atšaukiami šiame straipsnyje ir šio įstatymo 18 straipsnio 2 dalies 2 punkte nurodytame teisės akte nustatyta tvarka.
+1. Atitikties vertinimo įstaigoms papildomi įgaliojimai suteikiami, apribojami ir sustabdomi, papildomų įgaliojimų apribojimas ir sustabdymas panaikinamas, papildomi įgaliojimai atšaukiami šiame straipsnyje ir šio įstatymo 34 straipsnio 2 dalies 2 punkte nurodytame teisės akte nustatyta tvarka.
 
 
 
@@ -1102,7 +2449,7 @@ NACIONALINĖS KIBERNETINIO SAUGUMO SERTIFIKAVIMO INSTITUCIJOS ĮGALIOJIMAI
 
 
 
-3. Sprendimas dėl papildomų įgaliojimų suteikimo priimamas per 30 kalendorinių dienų nuo visų tinkamai užpildytų dokumentų, įrodančių atitikties vertinimo įstaigų atitiktį šio straipsnio 2 dalyje nurodytoms sąlygoms, gavimo. 
+3. Sprendimas dėl papildomų įgaliojimų suteikimo priimamas per 30 kalendorinių dienų nuo visų tinkamai užpildytų dokumentų, įrodančių atitikties vertinimo įstaigų atitiktį šio straipsnio 2 dalyje nurodytoms sąlygoms, gavimo dienos.
 
 
 
@@ -1112,7 +2459,12 @@ NACIONALINĖS KIBERNETINIO SAUGUMO SERTIFIKAVIMO INSTITUCIJOS ĮGALIOJIMAI
 
 
 
-5. Papildomi įgaliojimai apribojami Nacionalinio kibernetinio saugumo centro sprendimu, kuriame nurodomas papildomų įgaliojimų apribojimo pagrindas, taikomi apribojimai ir, jeigu papildomi įgaliojimai apribojami šios dalies 2 punkte nustatytu pagrindu, terminas, kuris negali būti ilgesnis kaip 6 mėnesiai ir per kurį atitikties vertinimo įstaiga turi pašalinti pažeidimus, dėl kurių apribojami papildomi įgaliojimai, kai yra bent viena iš šių sąlygų:
+5. Papildomi įgaliojimai apribojami Nacionalinio kibernetinio saugumo centro sprendimu, kuriame nurodomas papildomų įgaliojimų apribojimo pagrindas, taikomi apribojimai ir, jeigu papildomi įgaliojimai apribojami šio straipsnio 6 dalies 2 punkte nustatytu pagrindu, terminas, kuris negali būti ilgesnis kaip 6 mėnesiai nuo sprendimo apriboti papildomus įgaliojimus priėmimo dienos ir per kurį atitikties vertinimo įstaiga turi pašalinti pažeidimus, dėl kurių apribojami papildomi įgaliojimai.
+
+
+
+
+6. Papildomi įgaliojimai apribojami, kai yra bent viena iš šių sąlygų:
 
 
 1) pasikeitė Europos kibernetinio saugumo sertifikavimo schemoje nustatyti specialieji ar papildomi reikalavimai;
@@ -1132,15 +2484,20 @@ NACIONALINĖS KIBERNETINIO SAUGUMO SERTIFIKAVIMO INSTITUCIJOS ĮGALIOJIMAI
 
 
 
-6. Priėmus sprendimą apriboti papildomus įgaliojimus, atitikties vertinimo įstaigai draudžiama vykdyti sprendime nurodytas užduotis pagal Europos kibernetinio saugumo sertifikavimo schemą, dėl kurios buvo išduoti papildomi įgaliojimai. 
+7. Priėmus sprendimą apriboti papildomus įgaliojimus, atitikties vertinimo įstaigai draudžiama vykdyti sprendime nurodytas užduotis pagal Europos kibernetinio saugumo sertifikavimo schemą, dėl kurios buvo išduoti papildomi įgaliojimai.
 
 
 
 
-7. Papildomų įgaliojimų apribojimas panaikinamas, kai atitikties vertinimo įstaiga ne vėliau kaip per 7 mėnesius nuo sprendimo apriboti papildomus įgaliojimus priėmimo dienos pateikia prašymą, o Nacionalinis kibernetinio saugumo centras atlieka tyrimą šio įstatymo 20 straipsnyje nustatyta tvarka ir nustato, kad:
+8. Papildomų įgaliojimų apribojimas panaikinamas, kai atitikties vertinimo įstaiga ne vėliau kaip per 7 mėnesius nuo sprendimo apriboti papildomus įgaliojimus priėmimo dienos pateikia prašymą, o Nacionalinis kibernetinio saugumo centras atlieka tyrimą šio įstatymo 36 straipsnyje nustatyta tvarka ir nustato šio straipsnio 9 dalyje nurodytas sąlygas.
 
 
-1) atitikties įvertinimo įstaiga atitinka Europos kibernetinio saugumo sertifikavimo schemoje nustatytus reikalavimus, jeigu papildomi įgaliojimai buvo apriboti šio straipsnio 5 dalies 1 punkte nustatytu pagrindu;
+
+
+9. Papildomų įgaliojimų apribojimo panaikinimo sąlygos:
+
+
+1) atitikties įvertinimo įstaiga atitinka Europos kibernetinio saugumo sertifikavimo schemoje nustatytus reikalavimus, jeigu papildomi įgaliojimai buvo apriboti šio straipsnio 6 dalies 1 punkte nustatytu pagrindu;
 
 
 
@@ -1150,14 +2507,14 @@ NACIONALINĖS KIBERNETINIO SAUGUMO SERTIFIKAVIMO INSTITUCIJOS ĮGALIOJIMAI
 
 
 
-3) Atitikties vertinimo įstatymo nustatyta tvarka keičiant akreditavimo pažymėjimą nėra susiaurinta akreditavimo sritis, dėl kurios buvo išduoti papildomi įgaliojimai, jeigu papildomi įgaliojimai buvo apriboti šio straipsnio 5 dalies 3 punkte nustatytu pagrindu.
+3) Lietuvos Respublikos atitikties vertinimo įstatymo nustatyta tvarka keičiant akreditavimo pažymėjimą nėra susiaurinta akreditavimo sritis, dėl kurios buvo išduoti papildomi įgaliojimai, jeigu papildomi įgaliojimai buvo apriboti šio straipsnio 6 dalies 3 punkte nustatytu pagrindu.
 
 
 
 
 
 
-8. Papildomi įgaliojimai sustabdomi Nacionalinio kibernetinio saugumo centro sprendimu. Šiame sprendime nurodomas papildomų įgaliojimų sustabdymo pagrindas ir, jeigu papildomi įgaliojimai sustabdomi šios dalies 2 punkte nustatytu pagrindu, terminas, kuris negali būti ilgesnis kaip 6 mėnesiai ir per kurį atitikties vertinimo įstaiga turi pašalinti pažeidimus, dėl kurių sustabdomi papildomi įgaliojimai, kai yra bent viena iš šių sąlygų:
+10. Papildomi įgaliojimai sustabdomi Nacionalinio kibernetinio saugumo centro sprendimu. Šiame sprendime nurodomas papildomų įgaliojimų sustabdymo pagrindas ir, jeigu papildomi įgaliojimai sustabdomi šios dalies 2 punkte nustatytu pagrindu, terminas, kuris negali būti ilgesnis kaip 6 mėnesiai ir per kurį atitikties vertinimo įstaiga turi pašalinti pažeidimus, dėl kurių sustabdomi papildomi įgaliojimai, kai yra bent viena iš šių sąlygų:
 
 
 1) atitikties vertinimo įstaiga pateikė prašymą Nacionaliniam kibernetinio saugumo centrui sustabdyti jai suteiktus papildomus įgaliojimus prašyme nurodytam terminui, kuris negali būti ilgesnis kaip 6 mėnesiai;
@@ -1165,22 +2522,22 @@ NACIONALINĖS KIBERNETINIO SAUGUMO SERTIFIKAVIMO INSTITUCIJOS ĮGALIOJIMAI
 
 
 
-2) Nacionalinis kibernetinio saugumo centras, atlikdamas tyrimą, nustato, kad atitikties vertinimo įstaiga, kurios papildomi įgaliojimai buvo apriboti šio straipsnio 5 dalies 2 punkte nustatytu pagrindu, per Nacionalinio kibernetinio saugumo centro nustatytą terminą nepašalino pažeidimų, dėl kurių papildomi įgaliojimai buvo apriboti;
+2) Nacionalinis kibernetinio saugumo centras, atlikdamas tyrimą, nustato, kad atitikties vertinimo įstaiga, kurios papildomi įgaliojimai buvo apriboti šio straipsnio 6 dalies 2 punkte nustatytu pagrindu, per Nacionalinio kibernetinio saugumo centro nustatytą terminą nepašalino pažeidimų, dėl kurių papildomi įgaliojimai buvo apriboti;
 
 
 
 
-3) Atitikties vertinimo įstatymo nustatyta tvarka sustabdomas akreditavimo pažymėjimo galiojimas. 
+3) Atitikties vertinimo įstatymo nustatyta tvarka sustabdomas akreditavimo pažymėjimo galiojimas.
 
 
 
 
 
 
-9. Papildomų įgaliojimų sustabdymas panaikinamas, kai atitikties vertinimo įstaiga ne vėliau kaip per 7 mėnesius nuo sprendimo sustabdyti papildomus įgaliojimus priėmimo dienos pateikia prašymą, o Nacionalinis kibernetinio saugumo centras atlieka tyrimą šio įstatymo 20 straipsnyje nustatyta tvarka ir nustato, kad:
+11. Papildomų įgaliojimų sustabdymas panaikinamas, kai atitikties vertinimo įstaiga ne vėliau kaip per 7 mėnesius nuo sprendimo sustabdyti papildomus įgaliojimus priėmimo dienos pateikia prašymą, o Nacionalinis kibernetinio saugumo centras atlieka tyrimą šio įstatymo 36 straipsnyje nustatyta tvarka ir nustato, kad:
 
 
-1) atitikties vertinimo įstaiga atitinka Europos kibernetinio saugumo sertifikavimo schemoje nustatytus reikalavimus, jeigu jai suteikti papildomi įgaliojimai buvo sustabdyti šio straipsnio 8 dalies 1 punkte nustatytu pagrindu;
+1) atitikties vertinimo įstaiga atitinka Europos kibernetinio saugumo sertifikavimo schemoje nustatytus reikalavimus, jeigu jai suteikti papildomi įgaliojimai buvo sustabdyti šio straipsnio 10 dalies 1 punkte nustatytu pagrindu;
 
 
 
@@ -1190,22 +2547,22 @@ NACIONALINĖS KIBERNETINIO SAUGUMO SERTIFIKAVIMO INSTITUCIJOS ĮGALIOJIMAI
 
 
 
-3) Atitikties įvertinimo įstatymo nustatyta tvarka panaikintas akreditavimo pažymėjimo galiojimo sustabdymas, jeigu papildomi įgaliojimai buvo sustabdyti šio straipsnio 8 dalies 3 punkte nustatytu pagrindu.
+3) Atitikties įvertinimo įstatymo nustatyta tvarka panaikintas akreditavimo pažymėjimo galiojimo sustabdymas, jeigu papildomi įgaliojimai buvo sustabdyti šio straipsnio 10 dalies 3 punkte nustatytu pagrindu.
 
 
 
 
 
 
-10. Papildomi įgaliojimai atšaukiami Nacionalinio kibernetinio saugumo centro sprendimu, kai yra bent viena iš šių sąlygų:
+12. Papildomi įgaliojimai atšaukiami Nacionalinio kibernetinio saugumo centro sprendimu, kai yra bent viena iš šių sąlygų:
 
 
-1) atitikties vertinimo įstaiga pateikė prašymą Nacionaliniam kibernetinio saugumo centrui atšaukti jai suteiktus papildomus įgaliojimus; 
+1) atitikties vertinimo įstaiga pateikė prašymą Nacionaliniam kibernetinio saugumo centrui atšaukti jai suteiktus papildomus įgaliojimus;
 
 
 
 
-2) atitikties vertinimo įstaiga nepateikė prašymo dėl papildomų įgaliojimų apribojimo ar sustabdymo panaikinimo per šio straipsnio 7 ir 9 dalyse nurodytus terminus; 
+2) atitikties vertinimo įstaiga nepateikė prašymo dėl papildomų įgaliojimų apribojimo ar sustabdymo panaikinimo per šio straipsnio 8 ir 11 dalyse nurodytus terminus;
 
 
 
@@ -1230,7 +2587,7 @@ NACIONALINĖS KIBERNETINIO SAUGUMO SERTIFIKAVIMO INSTITUCIJOS ĮGALIOJIMAI
 
 
 
-20  straipsnis. Tyrimo atlikimo tvarka
+36 straipsnis. Tyrimo atlikimas
 
 
 1. Nacionalinis kibernetinio saugumo centras turi teisę pradėti tyrimą bet kokiu klausimu, susijusiu su Reglamento (ES) 2019/881 III antraštinės dalies ar Europos kibernetinio saugumo sertifikavimo schemų nuostatų galimu pažeidimu ar jų laikymosi stebėsena.
@@ -1238,7 +2595,7 @@ NACIONALINĖS KIBERNETINIO SAUGUMO SERTIFIKAVIMO INSTITUCIJOS ĮGALIOJIMAI
 
 
 
-2. Pagrindas pradėti tyrimą gali būti skundai, teikiami pagal Reglamento (ES) 2019/881 58 straipsnio 7 dalies f punktą, atitikties vertinimo įstaigų prašymai, teikiami pagal šio įstatymo 19 straipsnį, ir kiti šaltiniai. Nacionalinis kibernetinio saugumo centras turi teisę pradėti tyrimą ir savo iniciatyva.
+2. Pagrindas pradėti tyrimą gali būti skundai, teikiami pagal Reglamento (ES) 2019/881 58 straipsnio 7 dalies f punktą, atitikties vertinimo įstaigų prašymai, teikiami pagal šio įstatymo 35 straipsnį, ir kiti šaltiniai. Nacionalinis kibernetinio saugumo centras turi teisę pradėti tyrimą ir savo iniciatyva.
 
 
 
@@ -1248,7 +2605,7 @@ NACIONALINĖS KIBERNETINIO SAUGUMO SERTIFIKAVIMO INSTITUCIJOS ĮGALIOJIMAI
 
 
 
-4. Atsižvelgiant į tyrimo sudėtingumą, tyrimo mastą, atitikties vertinimo įstaigų, Europos kibernetinio saugumo sertifikatų turėtojų ir Europos Sąjungos atitikties pareiškimų išdavėjų veiklos pobūdį bei vengimą vykdyti Nacionalinio kibernetinio saugumo centro reikalavimus, tyrimo metu paaiškėjusias naujas aplinkybes arba kitas objektyvias priežastis, šio straipsnio 3 dalyje nustatytas terminas Nacionalinio kibernetinio saugumo centro sprendimu gali būti pratęstas, bet ne ilgiau kaip 2 mėnesiams. Bendras tyrimo atlikimo terminas negali būti ilgesnis kaip 6 mėnesiai nuo šio straipsnio 2 dalyje nurodyto skundo ar prašymo gavimo dienos arba sprendimo atlikti tyrimą kitų šaltinių, nurodytų šio straipsnio 2 dalyje, pagrindu priėmimo dienos. Apie tyrimo termino pratęsimą ir priežastis, dėl kurių šis terminas pratęstas, Nacionalinis kibernetinio saugumo centras privalo nedelsdamas, bet ne vėliau kaip iki šio straipsnio 3 dalyje nurodyto termino pabaigos, pranešti atitikties vertinimo įstaigai, Europos kibernetinio saugumo sertifikatų turėtojui ar Europos Sąjungos atitikties pareiškimų išdavėjui.
+4. Atsižvelgiant į tyrimo sudėtingumą, tyrimo mastą, atitikties vertinimo įstaigų, Europos kibernetinio saugumo sertifikatų turėtojų ir Europos Sąjungos atitikties pareiškimų išdavėjų veiklos pobūdį ir vengimą vykdyti Nacionalinio kibernetinio saugumo centro reikalavimus, tyrimo metu paaiškėjusias naujas aplinkybes arba kitas objektyvias priežastis, šio straipsnio 3 dalyje nustatytas terminas Nacionalinio kibernetinio saugumo centro sprendimu gali būti pratęsiamas, bet ne ilgiau kaip 2 mėnesiams. Bendras tyrimo atlikimo terminas negali būti ilgesnis kaip 6 mėnesiai nuo šio straipsnio 2 dalyje nurodyto skundo ar prašymo gavimo dienos arba sprendimo atlikti tyrimą kitų šaltinių, nurodytų šio straipsnio 2 dalyje, pagrindu priėmimo dienos. Apie tyrimo termino pratęsimą ir priežastis, dėl kurių šis terminas pratęstas, Nacionalinis kibernetinio saugumo centras privalo nedelsdamas, bet ne vėliau kaip iki šio straipsnio 3 dalyje nurodyto termino pabaigos pranešti atitikties vertinimo įstaigai, Europos kibernetinio saugumo sertifikatų turėtojui ar Europos Sąjungos atitikties pareiškimų išdavėjui.
 
 
 
@@ -1271,134 +2628,48 @@ NACIONALINĖS KIBERNETINIO SAUGUMO SERTIFIKAVIMO INSTITUCIJOS ĮGALIOJIMAI
 
 
 
-4) pripažinti Europos Sąjungos atitikties pareiškimą, išduotą pagal Reglamento (ES) 2019/881 53 straipsnio 2 dalį, negaliojančiu, jeigu tyrimo metu nustatoma, kad nesilaikoma Reglamento (ES) 2019/881 arba Europos kibernetinio saugumo sertifikavimo schemoje nustatytų reikalavimų;
+4) pripažinti Europos Sąjungos atitikties pareiškimą, išduotą pagal Reglamento (ES) 2019/881 53 straipsnio 2 dalį, negaliojančiu, jeigu tyrimo metu nustatoma, kad nesilaikoma Reglamento (ES) 2019/881 arba Europos kibernetinio saugumo sertifikavimo schemoje nustatytų reikalavimų;
 
 
 
 
-5) panaikinti savo paties arba pagal Reglamento (ES) 2019/881 56 straipsnio 6 dalį atitikties vertinimo įstaigos išduoto Europos kibernetinio saugumo sertifikato galiojimą, jeigu tyrimo metu nustatoma, kad Europos kibernetinio saugumo sertifikatas neatitinka Reglamento (ES) 2019/881 arba Europos kibernetinio saugumo sertifikavimo schemoje nustatytų reikalavimų;
+5) panaikinti savo paties arba pagal Reglamento (ES) 2019/881 56 straipsnio 6 dalį atitikties vertinimo įstaigos išduoto Europos kibernetinio saugumo sertifikato galiojimą, jeigu tyrimo metu nustatoma, kad Europos kibernetinio saugumo sertifikatas neatitinka Reglamente (ES) 2019/881 arba Europos kibernetinio saugumo sertifikavimo schemoje nustatytų reikalavimų;
 
 
 
 
-6) apriboti, sustabdyti, atšaukti atitikties vertinimo įstaigų papildomus įgaliojimus arba panaikinti papildomų įgaliojimų apribojimą ar sustabdymą šio įstatymo 19 straipsnyje nustatytais atvejais.
+6) apriboti, sustabdyti, atšaukti atitikties vertinimo įstaigų papildomus įgaliojimus arba panaikinti papildomų įgaliojimų apribojimą ar sustabdymą šio įstatymo 35 straipsnyje nustatytais atvejais.
 
 
 
 
 
 
-6. Šio straipsnio 5 dalies 2 punkte numatyti nurodymai ir rekomendacijos pateikiami per 20 darbo dienų nuo sprendimo priėmimo dienos.
+6. Šio straipsnio 5 dalies 2 punkte numatyti nurodymai ir rekomendacijos pateikiami per 20 darbo dienų nuo sprendimo priėmimo dienos.
 
 
 
 
-7. Nacionalinio kibernetinio saugumo centro sprendimai, išskyrus sprendimą, nurodytą šio straipsnio 5 dalies 3 punkte, gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. 
+7. Nacionalinio kibernetinio saugumo centro sprendimai, išskyrus sprendimą, nurodytą šio straipsnio 5 dalies 3 punkte, gali būti skundžiami teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+ 
  
 
 
 
 
-Papildyta skyriumi:
-Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
- 
 
 
 
 
 VII SKYRIUS
-VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ SAUGA
+SAUGIOJO VALSTYBINIO DUOMENŲ PERDAVIMO TINKLO NAUDOJIMO PAGRINDAI
  
 
 
-21 straipsnis. Valstybės informacinių išteklių saugos užtikrinimas
+37 straipsnis. Saugusis valstybinis duomenų perdavimo tinklas
 
 
-1. Tvarkant valstybės informacinius išteklius, Valstybės informacinių išteklių valdymo įstatyme nurodytiems registrų informacinių sistemų, valstybės ir vidaus administravimo informacinių sistemų (toliau kartu – informacinės sistemos) tvarkytojams privaloma įgyvendinti saugos priemones, skirtas informacinėse sistemose tvarkomos elektroninės informacijos tikslumui užtikrinti ir jai nuo atsitiktinio ar neteisėto sunaikinimo, pakeitimo, sugadinimo, atskleidimo, neteisėto pasisavinimo, paskelbimo, pateikimo ar kitokio panaudojimo, taip pat nuo bet kokio kito neteisėto tvarkymo apsaugoti.
-
-
-
-
-2. Subjektai, valdantys ir (arba) tvarkantys valstybės informacinius išteklius, siekdami užtikrinti valstybės informacinių išteklių saugą, vadovaudamiesi Vyriausybės tvirtinamu bendrųjų elektroninės informacijos saugos reikalavimų aprašu, rengia, derina ir tvirtina informacinės sistemos saugos dokumentus. Informacinės sistemos valdytojas gali tvirtinti visų jo valdymo sričiai priskirtų informacinių sistemų bendrus saugos dokumentus. Organizuojant valstybės informacinių išteklių saugą, rekomenduojama vadovautis pripažintų standartizacijos organizacijų ir standartizacijos institucijų priimtais ir paskelbtais standartais.
-
-
-
-
-3. Už informacinėje sistemoje tvarkomų duomenų saugą pagal kompetenciją atsako subjektai, valdantys ir (arba) tvarkantys valstybės informacinius išteklius. Subjektai, tvarkantys valstybės informacinius išteklius, privalo saugos nuostatuose ir kituose saugos dokumentuose nustatyta tvarka užtikrinti reikiamas technines ir organizacines saugos priemones ir tokių priemonių laikymąsi.
-
-
-
-
-4. Valstybės tarnautojai arba darbuotojai, dirbantys pagal darbo sutartis ir gaunantys darbo užmokestį iš valstybės ir savivaldybių biudžetų ir valstybės pinigų fondų, tvarkantys duomenis informacinėje sistemoje, privalo įsipareigoti saugoti elektroninės informacijos paslaptį, kurią sudaro bet kokia skaitmeninės išraiškos informacija, dokumentai ir (ar) jų kopijos, įskaitant garso, vaizdo arba garso ir vaizdo įrašus, taip pat asmens duomenys, kurie saugomi, perduodami, interpretuojami ir apdorojami informacinių technologijų priemonėmis. Įsipareigojimas saugoti paslaptį galioja ir tada, kai su elektroninės informacijos tvarkymu susijusi veikla nutraukiama perėjus dirbti į kitas pareigas, pasibaigus darbo ar sutartiniams santykiams.
-
-
-
-
-5. Fizinių asmenų asmens duomenų saugumas užtikrinamas vadovaujantis Reglamentu (ES) 2016/679 ir (ar) Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu.
-
-
-
-
-6. Informacija apie saugos priemones, nurodytas šio straipsnio 1 dalyje, ir valstybės informacinių išteklių pažeidžiamumą nėra viešai skelbiama. Informacija teikiama tik jeigu teisė gauti šią informaciją yra nustatyta įstatymuose ar jų pagrindu priimtuose kituose norminiuose teisės aktuose.
- 
-
-
-
-
-
-
-22 straipsnis. Saugos įgaliotinis
-
-
-1. Saugos įgaliotinis atsako už saugos reikalavimų vykdymą ir atlieka informacinės sistemos saugos nuostatuose ir kituose valstybės informacinių išteklių saugą reglamentuojančiuose teisės aktuose nustatytas funkcijas.
-
-
-
-
-2. Saugos įgaliotinis skiriamas teisės aktu, kuriuo tvirtinami informacinės sistemos saugos nuostatai, arba informacinės sistemos valdytojas paveda informacinės sistemos tvarkytojui paskirti saugos įgaliotinį. Gali būti skiriamas kelių informacinių sistemų saugos įgaliotinis. 
-
-
-
-
-3. Saugos įgaliotinis negali turėti neišnykusio ar nepanaikinto teistumo už nusikaltimą elektroninių duomenų ir informacinių sistemų saugumui, taip pat negali turėti paskirtos administracinės nuobaudos už neteisėtą asmens duomenų tvarkymą ir privatumo apsaugos pažeidimą elektroninių ryšių srityje, elektroninių ryšių išteklių naudojimo ir skyrimo taisyklių pažeidimą, elektroninių ryšių tinklo gadinimą ar savavališką prisijungimą prie tinklo arba galinių įrenginių, kurie trukdo elektroninių ryšių tinklo veikimui, savavališką prisijungimą arba elektroninių ryšių infrastruktūros įrengimo, naudojimo ir apsaugos sąlygų ir taisyklių pažeidimą, jeigu nuo nuobaudos paskyrimo yra praėję mažiau kaip vieni metai.
- 
-
-
-
-
-
-
-23 straipsnis. Valstybės informacinių išteklių atitikties nustatytiems elektroninės informacijos saugos reikalavimams stebėsena
-
-
-Subjektai, valdantys valstybės informacinius išteklius (išskyrus įslaptintos informacijos tvarkymą), valstybės informacinių išteklių atitikties saugos reikalavimams stebėsenos sistemoje šios sistemos nuostatuose nustatyta tvarka teikia duomenis apie organizacinių ir techninių kibernetinio saugumo reikalavimų, taikomų kibernetinio saugumo subjektams, ir elektroninės informacijos saugos reikalavimų, taikomų valstybės informacinius išteklius valdantiems ir (arba) tvarkantiems subjektams, įgyvendinimą savo valdomuose valstybės informaciniuose ištekliuose.
- 
-
-
-
-
-
-
-24 straipsnis. Valstybės informacinių išteklių saugos vertinimas
-
-
-1. Vertinant ypatingos svarbos ir svarbių valstybės informacinių išteklių saugą, o jeigu kartu yra tvarkomi vidutinės ir (ar) mažos svarbos valstybės informaciniai ištekliai, atliekant saugos auditą kartu įtraukiami ir šie ištekliai. Šių išteklių saugos auditas atliekamas ne rečiau kaip kartą per 3 metus. 
-
-
-
-
-2. Valstybės informacinių išteklių saugos auditą atlieka nepriklausomi visuotinai pripažintų tarptautinių organizacijų sertifikuoti informacinių sistemų auditoriai arba minėtų organizacijų sertifikatus turintys informacinių technologijų specialistai, kuriems negali būti pavedama vertinti savo valdomų ir (arba) tvarkomų valstybės informacinių išteklių saugos.
- 
-
-
-
-
-
-
-25 straipsnis. Saugusis tinklas
-
-
-1. Valstybės ir savivaldybių institucijos ir įstaigos, valstybės valdomos įmonės ir viešosios įstaigos (toliau kartu – institucijos), įrašytos į Saugiojo tinklo naudotojų sąrašą, privalo naudotis tik Saugiuoju tinklu teikiamomis elektroninių ryšių paslaugomis ir jungtis prie viešųjų elektroninių ryšių tinklų tik per Saugųjį tinklą, išskyrus atvejus, kai elektroninių ryšių paslaugomis naudotis ir (arba) prie viešųjų elektroninių ryšių tinklų jungtis ne per Saugųjį tinklą yra būtina renkant ir (arba) teikiant žvalgybos informaciją. Kai nėra techninių galimybių jungtis prie viešųjų elektroninių ryšių tinklų tik per Saugųjį tinklą, institucijos turi teisę Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais ir tvarka prie viešųjų elektroninių ryšių tinklų jungtis ne per Saugųjį tinklą. Saugiojo tinklo naudotojų sąrašą krašto apsaugos ministro teikimu tvirtina Vyriausybė. Saugiuoju tinklu negali naudotis į Saugiojo tinklo naudotojų sąrašą neįtraukti subjektai. Krašto apsaugos ministras bent kartą per metus peržiūri Saugiojo tinklo naudotojų sąrašą ir prireikus inicijuoja šio sąrašo pakeitimus.
+1. Valstybės ir savivaldybių institucijos ir įstaigos, valstybės valdomos įmonės ir viešosios įstaigos (toliau kartu – institucijos), įrašytos į Saugiojo valstybinio duomenų perdavimo tinklo (toliau – Saugusis tinklas) naudotojų sąrašą, privalo naudotis tik Saugiuoju tinklu teikiamomis elektroninių ryšių paslaugomis ir jungtis prie viešųjų elektroninių ryšių tinklų tik per Saugųjį tinklą, išskyrus atvejus, kai naudotis elektroninių ryšių paslaugomis ir (ar) jungtis prie viešųjų elektroninių ryšių tinklų ne per Saugųjį tinklą yra būtina renkant ir (ar) teikiant žvalgybos informaciją. Kai nėra techninių galimybių jungtis prie viešųjų elektroninių ryšių tinklų tik per Saugųjį tinklą, institucijos turi teisę Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais ir tvarka prie viešųjų elektroninių ryšių tinklų jungtis ne per Saugųjį tinklą. Saugiojo tinklo naudotojų sąrašą krašto apsaugos ministro teikimu tvirtina Vyriausybė. Saugiuoju tinklu negali naudotis į Saugiojo tinklo naudotojų sąrašą neįtraukti subjektai. Krašto apsaugos ministras bent kartą per metus peržiūri Saugiojo tinklo naudotojų sąrašą ir prireikus inicijuoja šio sąrašo pakeitimus.
 
 
 
@@ -1411,7 +2682,7 @@ Subjektai, valdantys valstybės informacinius išteklius (išskyrus įslaptintos
 
 
 
-2) institucija, atlikdama gyvybiškai svarbias valstybės funkcijas, dalyvauja vykdant valstybines mobilizacines užduotis, kurioms atlikti būtina perduoti duomenis institucijoms, valdančioms ir (arba) tvarkančioms valstybės informacinius išteklius, būtinus gyvybiškai svarbioms valstybės funkcijoms atlikti ir valstybinėms mobilizacinėms užduotims vykdyti, ir (arba) gauti tokius duomenis;
+2) institucija, atlikdama gyvybiškai svarbias valstybės funkcijas, dalyvauja vykdant valstybines mobilizacines užduotis, kurioms atlikti būtina perduoti duomenis institucijoms, valdančioms ir (ar) tvarkančioms valstybės informacinius išteklius, būtinus gyvybiškai svarbioms valstybės funkcijoms atlikti ir valstybinėms mobilizacinėms užduotims vykdyti, ir (ar) gauti tokius duomenis;
 
 
 
@@ -1421,19 +2692,19 @@ Subjektai, valdantys valstybės informacinius išteklius (išskyrus įslaptintos
 
 
 
-4) institucijai atliekant savo funkcijas būtina naudotis Saugiuoju tinklu arba jai reikalinga prieiga prie Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto sutarties organizacijos (NATO) valstybėse narėse esančių institucijų ar duomenų centrų.
+4) institucijai atliekant savo funkcijas būtina naudotis Saugiuoju tinklu arba jai reikalinga prieiga prie Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (ar) NATO valstybėse narėse esančių institucijų ar duomenų centrų.
 
 
 
 
 
 
-3. Saugųjį tinklą tvarko krašto apsaugos ministro įgaliota valstybės biudžetinė įstaiga.
+3. Saugųjį tinklą valdo Krašto apsaugos ministerija, o tvarko krašto apsaugos ministro įgaliota valstybės biudžetinė įstaiga.
 
 
 
 
-4. Specialiuosius organizacinius ir techninius reikalavimus, taikomus Saugiajam tinklui, Saugiojo tinklo paslaugoms bei prekių ir paslaugų Saugiajam tinklui teikėjams, ir Saugiojo tinklo nuostatus tvirtina Saugiojo tinklo valdytojas. Saugiojo tinklo tvarkytojas užtikrina, kad būtų įgyvendinti specialieji organizaciniai ir techniniai reikalavimai, taikomi Saugiajam tinklui, taip pat kad būtų teikiamos Saugiojo tinklo standartinės ir papildomos elektroninių ryšių ir kibernetinio saugumo paslaugos. Saugiuoju tinklu teikiamų elektroninių ryšių ir kibernetinio saugumo paslaugų teikimo sąlygas ir taisykles nustato Vyriausybė ar jos įgaliota institucija. Saugiajam tinklui veikti reikiamos prekės ir paslaugos įsigyjamos laikantis Lietuvos Respublikos viešųjų pirkimų įstatymo reikalavimų.
+4. Specialiuosius organizacinius ir techninius reikalavimus, taikomus Saugiajam tinklui, Saugiojo tinklo paslaugoms bei prekių ir paslaugų Saugiajam tinklui teikėjams, ir Saugiojo tinklo nuostatus tvirtina Saugiojo tinklo valdytojas. Saugiojo tinklo tvarkytojas užtikrina Saugiajam tinklui taikomų specialiųjų organizacinių ir techninių reikalavimų įgyvendinimą, taip pat Saugiojo tinklo standartinių ir papildomų elektroninių ryšių ir kibernetinio saugumo paslaugų teikimą. Saugiuoju tinklu teikiamų elektroninių ryšių ir kibernetinio saugumo paslaugų teikimo sąlygas ir taisykles nustato Vyriausybė ar jos įgaliota institucija. Saugiajam tinklui veikti reikiamos prekės ir paslaugos įsigyjamos laikantis Lietuvos Respublikos viešųjų pirkimų įstatymo reikalavimų.
 
 
 
@@ -1461,7 +2732,7 @@ Subjektai, valdantys valstybės informacinius išteklius (išskyrus įslaptintos
 
 
 
-5) valstybės valdomų elektroninių ryšių tinklų, kurie naudojami vykdant valstybines mobilizacines užduotis, dalių sujungimas;
+5) valstybės valdomų elektroninių ryšių tinklų, naudojamų valstybinėms mobilizacinėms užduotims vykdyti, dalių sujungimas;
 
 
 
@@ -1473,7 +2744,7 @@ Subjektai, valdantys valstybės informacinius išteklius (išskyrus įslaptintos
 
 
 
-6. Standartinių paslaugų kiekybiniai ir kokybiniai rodikliai nustatomi Vyriausybės ar jos įgaliotos institucijos Saugiuoju tinklu teikiamų elektroninių ryšių ir kibernetinio saugumo paslaugų teikimo sąlygų apraše ir taisyklėse. Saugiojo tinklo tvarkytojas užtikrina neatlygintiną standartinių paslaugų teikimą Saugiojo tinklo naudotojams. Išlaidos, patirtos dėl neatlygintinai teikiamų standartinių paslaugų, apmokamos iš Saugiajam tinklui tvarkyti skiriamų valstybės biudžeto lėšų ir (ar) kitų teisės aktuose nustatytų finansavimo šaltinių.
+6. Standartinių paslaugų kiekybinius ir kokybinius rodiklius nustato Vyriausybė ar jos įgaliota institucija Saugiuoju tinklu teikiamų elektroninių ryšių ir kibernetinio saugumo paslaugų teikimo sąlygų apraše ir taisyklėse. Saugiojo tinklo tvarkytojas užtikrina neatlygintiną standartinių paslaugų teikimą Saugiojo tinklo naudotojams. Neatlygintinai teikiamų standartinių paslaugų teikimo išlaidos apmokamos iš Saugiajam tinklui tvarkyti skiriamų valstybės biudžeto lėšų ir (ar) kitų teisės aktuose nustatytų finansavimo šaltinių.
 
 
 
@@ -1483,12 +2754,12 @@ Subjektai, valdantys valstybės informacinius išteklius (išskyrus įslaptintos
 
 
 
-8. Atlyginimo už naudojimąsi papildomomis paslaugomis dydžių nustatymo kriterijus ir atlyginimo apskaičiavimo tvarkos aprašą tvirtina Vyriausybė. Krašto apsaugos ministras, atsižvelgdamas į atlyginimo už naudojimąsi Saugiuoju tinklu dydžių kriterijus, tvirtina atlyginimo už naudojimąsi Saugiuoju tinklu dydžius. Atlyginimas už papildomas paslaugas neturi viršyti sąnaudų, patiriamų teikiant šias paslaugas. Papildomų paslaugų teikimo sąnaudos Saugiojo tinklo tvarkytojo lėšomis turi būti patikrintos auditoriaus ar audito įmonės, o patikrinti duomenys apie patirtas sąnaudas per 2 mėnesius nuo kalendorinių metų pabaigos turi būti pateikti Vyriausybės įgaliotai institucijai. Vyriausybės įgaliota institucija vertina, ar atlyginimo už papildomų paslaugų teikimą dydžiai nustatyti atsižvelgiant į Vyriausybės patvirtintus atlyginimo už naudojimąsi papildomomis paslaugomis dydžių nustatymo kriterijus, ir teikia išvadą Saugiojo tinklo tvarkytojui.
+8. Atlyginimo už naudojimąsi papildomomis paslaugomis dydžių nustatymo kriterijus nustato ir atlyginimo apskaičiavimo tvarkos aprašą tvirtina Vyriausybė. Krašto apsaugos ministras, atsižvelgdamas į atlyginimo už naudojimąsi Saugiuoju tinklu dydžių kriterijus, nustato atlyginimo už naudojimąsi Saugiuoju tinklu dydžius. Atlyginimas už papildomas paslaugas neturi viršyti šių paslaugų teikimo sąnaudų. Papildomų paslaugų teikimo sąnaudos Saugiojo tinklo tvarkytojo lėšomis turi būti patikrintos auditoriaus ar audito įmonės, o patikrinti duomenys apie patirtas sąnaudas per 2 mėnesius nuo kalendorinių metų pabaigos turi būti pateikti Vyriausybės įgaliotai institucijai. Vyriausybės įgaliota institucija vertina, ar atlyginimo už papildomų paslaugų teikimą dydžiai nustatyti atsižvelgiant į Vyriausybės nustatytus atlyginimo už naudojimąsi papildomomis paslaugomis dydžių nustatymo kriterijus, ir teikia išvadą Saugiojo tinklo tvarkytojui.
 
 
 
 
-9. Institucijų prisijungimo prie Saugiojo tinklo ir atsijungimo nuo jo sąlygas, planą ir terminus nustato Vyriausybė ar jos įgaliota institucija. 
+9. Institucijų prisijungimo prie Saugiojo tinklo ir atsijungimo nuo jo sąlygas, planą ir terminus nustato Vyriausybė ar jos įgaliota institucija.
  
 
 
@@ -1496,27 +2767,28 @@ Subjektai, valdantys valstybės informacinius išteklius (išskyrus įslaptintos
 
 
 
-26 straipsnis. Duomenų centrų naudojimas
+38 straipsnis. Duomenų centrų naudojimas
 
 
-1. Institucijos, įrašytos į Saugiojo tinklo naudotojų sąrašą, išskyrus žvalgybos institucijas, savo valdomus valstybės informacinius išteklius laiko valstybiniuose duomenų centruose arba Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (ar) Šiaurės Atlanto sutarties organizacijos (NATO) valstybėse narėse esančiuose duomenų centruose, vadovaudamosi Valstybės informacinių išteklių valdymo įstatymo 45 straipsnio 1–4 ir 6 dalyse nustatyta tvarka. Į Saugiojo tinklo naudotojų sąrašą įrašytos žvalgybos institucijos savo valdomus valstybės informacinius išteklius laiko savo valdomuose duomenų centruose, o valstybės informacinius išteklius sudarančių duomenų ir informacinių sistemų, kuriose šie duomenys tvarkomi, kopijos žvalgybos institucijos vadovo sprendimu gali būti laikomos Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (ar) Šiaurės Atlanto sutarties organizacijos (NATO) valstybėse narėse esančiuose duomenų centruose. 
-
-
-
-
-2. Visų institucijų išlaidos, patirtos dėl jų valdomų valstybės informacinių išteklių ir (ar) jų kopijų laikymo valstybiniuose duomenų centruose arba Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (ar) Šiaurės Atlanto sutarties organizacijos (NATO) valstybėse narėse esančiuose duomenų centruose, apmokamos iš šioms institucijoms skirtų valstybės biudžeto lėšų ir (ar) iš šių institucijų veiklą reglamentuojančiuose kituose teisės aktuose nustatytų finansavimo šaltinių.
+1. Institucijos, įrašytos į Saugiojo tinklo naudotojų sąrašą, išskyrus žvalgybos institucijas, savo valdomus valstybės informacinius išteklius laiko valstybiniuose duomenų centruose arba Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (ar) NATO valstybėse narėse esančiuose duomenų centruose, vadovaudamosi Valstybės informacinių išteklių valdymo įstatymo 45 straipsnio 1–4 ir 6 dalių nuostatomis. Į Saugiojo tinklo naudotojų sąrašą įrašytos žvalgybos institucijos savo valdomus valstybės informacinius išteklius laiko savo valdomuose duomenų centruose, o valstybės informacinius išteklius sudarančių duomenų ir informacinių sistemų, kuriose šie duomenys tvarkomi, kopijos žvalgybos institucijos vadovo sprendimu gali būti laikomos Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (ar) NATO valstybėse narėse esančiuose duomenų centruose.
 
 
 
 
-3. Valstybinių duomenų centrų sąrašas, techniniai ir organizaciniai reikalavimai, taikomi valstybiniams duomenų centrams ir Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (ar) Šiaurės Atlanto sutarties organizacijos (NATO) valstybėse narėse esantiems duomenų centrams, kuriuose laikomi valstybės informaciniai ištekliai, tvirtinami Valstybės informacinių išteklių įstatymo nustatyta tvarka. 
+2. Visų institucijų išlaidos, patirtos dėl savo valdomų valstybės informacinių išteklių ir (ar) jų kopijų laikymo valstybiniuose duomenų centruose arba Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (ar) NATO valstybėse narėse esančiuose duomenų centruose, apmokamos iš šioms institucijoms skirtų valstybės biudžeto lėšų ir (ar) iš šių institucijų veiklą reglamentuojančiuose teisės aktuose nustatytų kitų finansavimo šaltinių.
 
 
 
 
-Papildyta skyriumi:
-Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
+3. Valstybinių duomenų centrų sąrašas, techniniai ir organizaciniai reikalavimai, taikomi valstybiniams duomenų centrams ir Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (ar) NATO valstybėse narėse esantiems duomenų centrams, kuriuose laikomi valstybės informaciniai ištekliai, nustatomi Valstybės informacinių išteklių valdymo įstatymo nustatyta tvarka.
  
+ 
+ 
+ 
+
+
+
+
 
 
 
@@ -1535,25 +2807,415 @@ Respublikos Prezidentė                            �
 
 
  
-Lietuvos Respublikos 
+Lietuvos Respublikos
 kibernetinio saugumo įstatymo
-priedas
+1 priedas
+ 
+YPATINGOS SVARBOS SEKTORIAI
+
+
+
+ Sektorius 
+ Subsektorius 
+ Subjekto rūšis 
+ Institucija, atsakinga už identifikavimą 
+
+
+
+
+ 1. Energetika 
+ 1.1. Elektra 
+ 1.1.1. Elektros energetikos įmonės, atliekančios elektros energijos tiekimo funkciją. 
+ Lietuvos Respublikos energetikos ministerija 
+
+
+ 1.1.2. Elektros energijos skirstomųjų tinklų operatorius. 
+ Energetikos ministerija 
+
+
+ 1.1.3. Elektros energijos perdavimo sistemos operatorius. 
+ Energetikos ministerija 
+
+
+ 1.1.4. Elektros energijos gamintojas. 
+ Energetikos ministerija 
+
+
+ 1.1.5. Paskirtieji elektros energijos rinkos operatoriai, kaip apibrėžta 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/943 dėl elektros energijos vidaus rinkos 2 straipsnio 8 punkte. 
+ Energetikos ministerija 
+
+
+ 1.1.6. Elektros energijos rinkos dalyviai, kaip apibrėžta Reglamento (ES) 2019/943 2 straipsnio 25 punkte, teikiantys elektros energijos paklausos telkimo, energijos kaupimo paslaugas ir elektros energijos reguliavimo apkrovos paslaugas. 
+ Energetikos ministerija 
+
+
+ 1.1.7. Elektromobilių įkrovimo prieigos operatoriai. 
+ Energetikos ministerija 
+
+
+ 1.2. Centralizuotas šilumos ir vėsumos tiekimas 
+ 1.2.1. Centralizuoto šilumos ar vėsumos energijos tiekimo operatoriai. 
+ Energetikos ministerija 
+
+
+ 1.3. Nafta 
+ 1.3.1. Naftotiekį valdanti įmonė. 
+ Energetikos ministerija 
+
+
+ 1.3.2. Naftos gamybos įmonė.   Naftos perdirbimo įmonė.   Naftą importuojanti įmonė, naftą įvežanti įmonė, naftos atsargas kaupianti įmonė, naftos atsargas tvarkanti įmonė. 
+ Energetikos ministerija 
+
+
+ 1.3.3. Centrinė naftos produktus ir naftos atsargas kaupianti ir tvarkanti organizacija. 
+ Energetikos ministerija 
+
+
+ 1.4. Dujos 
+ 1.4.1. Gamtinių dujų tiekimo įmonė. 
+ Energetikos ministerija 
+
+
+ 1.4.2. Gamtinių dujų skirstymo sistemos operatorius. 
+ Energetikos ministerija 
+
+
+ 1.4.3. Gamtinių dujų perdavimo sistemos operatorius. 
+ Energetikos ministerija 
+
+
+ 1.4.4. Gamtinių dujų laikymo sistemos operatorius. 
+ Energetikos ministerija 
+
+
+ 1.4.5. Suskystintų gamtinių dujų sistemos operatorius. 
+ Energetikos ministerija 
+
+
+ 1.4.6. Gamtinių dujų įmonė. 
+ Energetikos ministerija 
+
+
+ 1.4.7. Gamtinių dujų perdirbimo ir apdorojimo įrenginių operatoriai. 
+ Energetikos ministerija 
+
+
+ 1.5. Vandenilis 
+ 1.5.1. Vandenilio gamybos, laikymo ir perdavimo operatoriai. 
+ Energetikos ministerija 
+
+
+ 2. Transportas 
+ 2.1. Oro transportas 
+ 2.1.1. Oro vežėjai, kaip apibrėžta 2008 m. kovo 11 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 300/2008 dėl civilinės aviacijos saugumo bendrųjų taisyklių ir panaikinančio Reglamentą (EB) Nr. 2320/2002 3 straipsnio 4 punkte, naudojami komerciniais tikslais. 
+ Lietuvos Respublikos susisiekimo ministerija 
+
+
+ 2.1.2. Oro uostas, įskaitant 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1315/2013 dėl Sąjungos transeuropinio transporto tinklo plėtros gairių, kuriuo panaikinamas Sprendimas Nr. 661/2010/ES, II priedo 2 skirsnyje išvardytus pagrindinius oro uostus, ir oro uostą valdančios įmonės vadovas.   Subjektai, eksploatuojantys oro uostuose esančius pagalbinius įrenginius. 
+ Susisiekimo ministerija 
+
+
+ 2.1.3. Skrydžių valdymo operatoriai, teikiantys skrydžių valdymo paslaugas, kaip apibrėžta 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 549/2004, nustatančio bendro Europos dangaus sukūrimo pagrindą, 2 straipsnio 1 punkte. 
+ Susisiekimo ministerija 
+
+
+ 2.2. Geležinkelių transportas 
+ 2.2.1. Geležinkelių infrastruktūros valdytojas. 
+ Susisiekimo ministerija 
+
+
+ 2.2.2. Geležinkelių įmonė (vežėjas). 
+ Susisiekimo ministerija 
+
+
+ 2.2.3. Geležinkelių paslaugų įrenginių operatorius. 
+ Susisiekimo ministerija 
+
+
+ 2.3. Vandens transportas 
+ 2.3.1. Vidaus vandenų, jūrų ir priekrantės keleivinio ir krovininio vandens transporto bendrovės, kaip apibrėžta jūrų transporto atžvilgiu 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 725/2004 dėl laivų ir uostų įrenginių apsaugos stiprinimo I priede, neįskaitant tų bendrovių eksploatuojamų atskirų laivų. 
+ Susisiekimo ministerija 
+
+
+ 2.3.2. Uostus, įskaitant jų uosto įrenginius, kaip apibrėžta Reglamento (EB) Nr. 725/2004 2 straipsnio 11 punkte, valdančios įmonės ir subjektai, vykdantys uostuose esančių įrenginių eksploatavimą, valdymą ir techninę priežiūrą. 
+ Susisiekimo ministerija 
+
+
+ 2.3.3. Laivų eismo tarnybų operatoriai. 
+ Susisiekimo ministerija 
+
+
+ 2.4. Kelių transportas 
+ 2.4.1. Kelių direkcijos, kaip apibrėžta 2014 m. gruodžio 18 d. Komisijos deleguotojo reglamento (ES) Nr. 2015/962, kuriuo papildomos Europos Parlamento ir Tarybos direktyvos 2010/40/ES nuostatos, susijusios su visoje Europos Sąjungoje teikiamomis tikralaikės eismo informacijos paslaugomis, 2 straipsnio 12 punkte, atsakingos už eismo valdymo kontrolę, išskyrus viešuosius subjektus, kuriems eismo valdymo arba intelektinių transporto sistemų operatoriaus veikla yra tik neesminė jų bendrosios veiklos dalis. 
+ Susisiekimo ministerija 
+
+
+ 2.4.2. Intelektinių transporto sistemų operatoriai. 
+ Susisiekimo ministerija 
+
+
+ 3. Bankininkystė 
+
+ 3.1.1. Kredito įstaigos, kaip apibrėžta 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 4 straipsnio 1 punkte. 
+ Lietuvos Respublikos finansų ministerija 
+
+
+ 4. Finansų rinkų infrastruktūros objektai 
+
+ 4.1.1. Prekybos vietų operatoriai. 
+ Finansų ministerija 
+
+
+ 4.1.2. Pagrindinės sandorio šalys, kaip apibrėžta 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų 2 straipsnio 1 punkte. 
+ Finansų ministerija 
+
+
+ 5. Sveikatos priežiūra 
+
+ 5.1.1. Asmens sveikatos priežiūros įstaiga. 
+ Lietuvos Respublikos sveikatos apsaugos ministerija 
+
+
+ 5.1.2. Europos Sąjungos etaloninės laboratorijos, nurodytos 2022 m. lapkričio 23 d. Europos Parlamento ir Tarybos reglamento (ES) 2022/2371 dėl didelių tarpvalstybinio pobūdžio grėsmių sveikatai, kuriuo panaikinamas Sprendimas Nr. 1082/2013/ES, 15 straipsnyje. 
+ Sveikatos apsaugos ministerija 
+
+
+ 5.1.3. Subjektai, vykdantys vaistų (vaistinių preparatų), mokslinių tyrimų ir kūrimo veiklą. 
+ Sveikatos apsaugos ministerija 
+
+
+ 5.1.4. Subjektai, gaminantys pagrindinius farmacijos produktus ir farmacijos preparatus, nurodytus Ekonominės veiklos rūšių klasifikatoriaus 2 redakcijos C skirsnio 21 skyriuje. 
+ Sveikatos apsaugos ministerija 
+
+
+ 5.1.5. Subjektai, gaminantys medicinos priemones, kurios laikomos ypatingos svarbos ekstremaliosios visuomenės sveikatos situacijos atveju (ypatingos svarbos medicinos priemonių ekstremaliosios visuomenės sveikatos situacijos atveju sąrašas), kaip tai suprantama pagal 2022 m. sausio 25 d. Europos Parlamento ir Tarybos reglamento (ES) 2022/123 dėl didesnio Europos vaistų agentūros vaidmens pasirengimo vaistų ir medicinos priemonių krizei ir jos valdymo srityje 22 straipsnį. 
+ Sveikatos apsaugos ministerija 
+
+
+ 6. Geriamasis vanduo 
+
+ 6.1.1. Žmonėms vartoti skirto vandens tiekėjai ir skirstytojai, išskyrus skirstytojus, kuriems žmonėms vartoti skirto vandens skirstymas yra neesminė jų bendrosios kitų prekių ir produktų paskirstymo veiklos dalis. 
+ Lietuvos Respublikos aplinkos ministerija 
+
+
+ 7. Nuotekos 
+
+ 7.1.1. Nuotekas renkančios, šalinančios ar valančios įmonės, išskyrus įmones, kurioms miesto nuotekų, buitinių nuotekų ar pramoninių nuotekų rinkimas, šalinimas ar valymas yra neesminė jų bendrosios veiklos dalis. 
+ Aplinkos ministerija 
+
+
+ 8. Skaitmeninė infrastruktūra 
+
+ 8.1.1. Interneto duomenų srautų mainų taško teikėjai. 
+ Susisiekimo ministerija 
+
+
+ 8.1.2. Domenų vardų sistemos paslaugų teikėjai. 
+ Lietuvos Respublikos ekonomikos ir inovacijų ministerija 
+
+
+ 8.1.3. Aukščiausio lygio domenų vardų registravimo paslaugas teikiantys subjektai. 
+ Ekonomikos ir inovacijų ministerija 
+
+
+ 8.1.4. Debesijos paslaugų teikėjai. 
+ Ekonomikos ir inovacijų ministerija 
+
+
+ 8.1.5. Duomenų centrų paslaugų teikėjai. 
+ Ekonomikos ir inovacijų ministerija 
+
+
+ 8.1.6. Paskirstytojo turinio teikimo tinklo teikėjai. 
+ Ekonomikos ir inovacijų ministerija 
+
+
+ 8.1.7. Patikimumo užtikrinimo paslaugų teikėjai. 
+ Ekonomikos ir inovacijų ministerija 
+
+
+ 8.1.8. Viešųjų elektroninių ryšių tinklų teikėjai. 
+ Susisiekimo ministerija 
+
+
+ 8.1.9. Viešųjų elektroninių ryšių paslaugų teikėjai. 
+ Susisiekimo ministerija 
+
+
+ 9. Informacinių ir ryšių technologijų paslaugų valdymas (paslaugos „verslas verslui“) 
+
+ 9.1.1. Valdomų paslaugų teikėjai. 
+ Ministerijos 
+
+
+ 9.1.2. Valdomų kibernetinio saugumo paslaugų teikėjai. 
+ Ministerijos 
+
+
+ 10. Viešasis administravimas 
+
+ 10.1.1. Valstybinio administravimo subjektai. 
+ Lietuvos Respublikos vidaus reikalų ministerija 
+
+
+ 10.1.2. Regioninio administravimo subjektai ir savivaldybių administravimo subjektai. 
+ Vidaus reikalų ministerija 
+
+
+ 11. Kosmosas 
+
+ 11.1.1. Lietuvos Respublikos įsteigtos arba privatiems subjektams priklausančios, jų valdomos ir eksploatuojamos antžeminės infrastruktūros operatoriai, kurie remia kosminių paslaugų teikimą, išskyrus viešųjų elektroninių ryšių tinklų teikėjus. 
+ Ekonomikos ir inovacijų ministerija 
+
+
+
+ 
+
+
+––––––––––––––––
+ 
+
+
+
+
+
+
+ 
+Lietuvos Respublikos
+kibernetinio saugumo įstatymo
+2 priedas
+ 
+KITI ITIN SVARBŪS SEKTORIAI
+
+
+
+ Sektorius 
+ Subsektorius 
+ Subjekto rūšis 
+ Institucija, atsakinga už subjektų identifikavimą 
+
+
+
+
+ 1. Pašto paslaugos 
+
+ 1.1.1. Pašto paslaugos teikėjai. 
+ Lietuvos Respublikos susisiekimo ministerija 
+
+
+ 2. Atliekų tvarkymas 
+
+ 2.1.1. Atliekų tvarkymo paslaugų teikėjai, išskyrus paslaugų teikėjus, kurių pagrindinė ekonominė veikla nėra atliekų tvarkymas. 
+ Lietuvos Respublikos aplinkos ministerija 
+
+
+ 3. Cheminių medžiagų gamyba ir platinimas 
+
+ 3.1.1. Chemines medžiagas gaminančios ir chemines medžiagas ar mišinius platinančios įmonės, kaip nurodyta 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, 3 straipsnio 9 ir 14 punktuose, ir gaminius, kaip apibrėžta to paties reglamento 3 straipsnio 3 punkte, iš tų medžiagų ar mišinių gaminančios įmonės. 
+ Aplinkos ministerija 
+
+
+ 4. Maisto gamyba, perdirbimas ir platinimas 
+
+ 4.1.1. Maisto verslo įmonės, kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002, nustatančio maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiančio Europos maisto saugos tarnybą ir nustatančio su maisto saugos klausimais susijusias procedūras, 3 straipsnio 2 punkte, vykdančios didmeninio platinimo ir pramoninės gamybos bei perdirbimo veiklą. 
+ Lietuvos Respublikos žemės ūkio ministerija 
+
+
+ 5. Gamyba 
+ 5.1. Medicinos priemonių ir in vitro diagnostikos medicinos priemonių gamyba 
+ 5.1.1. Medicinos priemones, kaip apibrėžta 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009, ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, 2 straipsnio 1 punkte, gaminantys subjektai ir in vitro diagnostikos medicinos priemones, kaip apibrėžta 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/746 dėl in vitro diagnostikos medicinos priemonių, kuriuo panaikinama Direktyva 98/79/EB ir Komisijos sprendimas 2010/227/ES, 2 straipsnio 2 punkte, gaminantys subjektai, išskyrus šio įstatymo I priedo 5.1.5 papunktyje nurodytas medicinos priemones gaminančius subjektus. 
+ Lietuvos Respublikos sveikatos apsaugos ministerija 
+
+
+ 5.2. Kompiuterinių, elektroninių ir optinių gaminių gamyba 
+ 5.2.1. Subjektai, vykdantys bet kurią ekonominę veiklą, nurodytą Ekonominės veiklos rūšių klasifikatoriaus 2 redakcijos C skirsnio 26 skyriuje. 
+ Lietuvos Respublikos ekonomikos ir inovacijų ministerija 
+
+
+ 5.3. Elektros įrangos gamyba 
+ 5.3.1. Subjektai, vykdantys bet kurią ekonominę veiklą, nurodytą Ekonominės veiklos rūšių klasifikatoriaus 2 redakcijos C skirsnio 27 skyriuje. 
+ Lietuvos Respublikos energetikos ministerija 
+
+
+ 5.4. Niekur kitur nepriskirtų mašinų ir įrangos gamyba 
+ 5.4.1. Subjektai, vykdantys bet kurią ekonominę veiklą, nurodytą Ekonominės veiklos rūšių klasifikatoriaus 2 redakcijos C skirsnio 28 skyriuje. 
+ Ministerijos 
+
+
+ 5.5. Motorinių transporto priemonių, priekabų ir puspriekabių gamyba 
+ 5.5.1. Subjektai, vykdantys bet kurią ekonominę veiklą, nurodytą Ekonominės veiklos rūšių klasifikatoriaus 2 redakcijos C skirsnio 29 skyriuje. 
+ Susisiekimo ministerija 
+
+
+ 5.6. Kitos transporto įrangos gamyba 
+ 5.6.1. Subjektai, vykdantys bet kurią ekonominę veiklą, nurodytą Ekonominės veiklos rūšių klasifikatoriaus 2 redakcijos C skirsnio 29 skyriuje. 
+ Susisiekimo ministerija 
+
+
+ 6. Informacinės visuomenės paslaugos 
+
+ 6.1.1. Elektroninių prekyviečių paslaugų teikėjai. 
+ Ekonomikos ir inovacijų ministerija 
+
+
+ 6.1.2. Paieškos sistemų teikėjai. 
+ Ekonomikos ir inovacijų ministerija 
+
+
+ 6.1.3. Socialinių tinklų paslaugų platformos teikėjai. 
+ Ekonomikos ir inovacijų ministerija 
+
+
+ 6.1.4. Elektroninės informacijos prieglobos paslaugų teikėjai. 
+ Ekonomikos ir inovacijų ministerija 
+
+
+ 7. Moksliniai tyrimai 
+
+ 7.1.1. Mokslinius tyrimus vykdantys subjektai. 
+ Lietuvos Respublikos švietimo, mokslo ir sporto ministerija 
+
+
+
+ 
+
+
+–––––––––––––––––––––––
+
+
+
+
+
+
+ 
+Lietuvos Respublikos
+kibernetinio saugumo įstatymo
+3 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2016 m. liepos 6 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/1148 dėl priemonių aukštam bendram tinklų ir informacinių sistemų saugumo lygiui visoje Sąjungoje užtikrinti.
+1. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/881 dėl ENISA (Europos Sąjungos kibernetinio saugumo agentūros) ir informacinių ir ryšių technologijų kibernetinio saugumo sertifikavimo, kuriuo panaikinamas Reglamentas (ES) Nr. 526/2013 (Kibernetinio saugumo aktas).
 
 
 
 
-2. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1972, kuria nustatomas Europos elektroninių ryšių kodeksas (nauja redakcija).
+2. 2021 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/887, kuriuo įsteigiamas Europos kibernetinio saugumo pramonės, technologijų ir mokslinių tyrimų kompetencijos centras ir Nacionalinių koordinavimo centrų tinklas.
 
 
-Priedo pakeitimai:
-Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
+
+
+3. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2555 dėl priemonių aukštam bendram kibernetinio saugumo lygiui visoje Sąjungoje užtikrinti, kuria iš dalies keičiamas Reglamentas (ES) Nr. 910/2014 ir Direktyva (ES) 2018/1972 ir panaikinama Direktyva (ES) 2016/1148 (TIS 2 direktyva).
  
+
+
+
+
+–––––––––––––––––––
+ 
+
+
  
  
 Pakeitimai:
@@ -1602,3 +3264,8 @@ Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 13 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2438, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26027
 Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 1, 2, 5, 6, 8, 12 straipsnių pakeitimo ir Įstatymo papildymo VII skyriumi įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2902, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13535
+Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas
