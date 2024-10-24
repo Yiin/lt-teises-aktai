@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2024-09-01 iki 2024-10-23
+Suvestinė redakcija nuo 2024-10-24 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -38700,6 +38700,13 @@ Jeigu ko kita nenustato įstatymai ar sutartis, apdovanotasis atsako tik už tas
 
 
 6. Aukoms netaikomas šio kodekso 6.467 straipsnis.
+
+
+
+
+7. Paramos sutarčiai, kurios suma yra ne didesnė kaip šimtas tūkstančių eurų, išskyrus atvejus, kai paramos dalykas yra nekilnojamasis daiktas, netaikomos šio kodekso 6.469 straipsnio 2 dalies nuostatos.
+Papildyta straipsnio dalimi:
+Nr. XIV-3026, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18354
  
 
 
@@ -51812,3 +51819,8 @@ Lietuvos Respublikos civilinio kodekso 2.46, 2.47, 2.54, 2. 57, 2.62, 2.63, 2.64
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2912, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13547
 Lietuvos Respublikos civilinio kodekso 2.46, 2.47, 2.54, 2.57, 2.62, 2.63, 2.64, 2.66, 2.68, 2.70, 2.110 ir 2.184 straipsnių pakeitimo įstatymo Nr. XIV-2630 8 straipsnio pakeitimo įstatymas
+ 
+78.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3026, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18354
+Lietuvos Respublikos civilinio kodekso 6.476 straipsnio pakeitimo įstatymas
