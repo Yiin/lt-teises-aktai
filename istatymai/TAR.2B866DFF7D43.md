@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2024-06-14 iki 2024-10-23
+Suvestinė redakcija nuo 2024-10-24 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -12960,3 +12960,18 @@ Lietuvos Respublikos baudžiamojo kodekso 5, 7, 8, 18, 25, 27, 37, 38, 39, 40, 4
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2683, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10821
 Lietuvos Respublikos baudžiamojo kodekso 114, 118, 119, 120 ir 121 straipsnių pakeitimo įstatymas
+ 
+64.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2736, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11573
+Lietuvos Respublikos baudžiamojo kodekso 316, 330 straipsnių pakeitimo ir Kodekso papildymo 314-1 straipsniu įstatymas
+ 
+65.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2853, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12639
+Lietuvos Respublikos baudžiamojo kodekso 182-1 straipsnio pakeitimo įstatymas
+ 
+66.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3033, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18357
+Lietuvos Respublikos baudžiamojo kodekso 5, 7, 8, 18, 25, 27, 37, 38, 39, 40, 42, 43, 47, 48, 51, 52, 54, 59, 61, 62, 63, 64, 65, 66, 67, 69, 70, 72-2, 74, 75, 76, 82, 84, 85, 87, 89, 90, 92, 93, 97, 243, 244 straipsnių pakeitimo ir Kodekso papildymo 5-1, 40-1, 58-1, 72-5, 72-6, 72-7, 72-8 straipsniais įstatymo Nr. XIV-2573 50 straipsnio pakeitimo įstatymas
