@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0"
 
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-10-23
+Suvestinė redakcija nuo 2024-10-24
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1659, i. k. 0971010ISTAVIII-371
  
@@ -465,7 +465,15 @@ Deklaracijoje pateiktus duomenis ir privačius interesus gali tikrinti instituci
 
 
 
-3) profesinės karo tarnybos karių deklaracijų duomenis. 
+3) profesinės karo tarnybos karių deklaracijų duomenis;
+
+
+
+
+4) Lietuvos Respublikos vadovybės apsaugos tarnybos personalo deklaracijų duomenis.
+Papildyta straipsnio punktu:
+Nr. XIV-3028, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18355
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -1099,3 +1107,8 @@ Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo Nr. V
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2259, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22991
 Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo Nr. VIII-371 4 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3028, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18355
+Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo Nr. VIII-371 10 straipsnio pakeitimo įstatymas
