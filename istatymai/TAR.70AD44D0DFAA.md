@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/70ad44d0dfaa11eb9f09e7df20500045"
 
 # Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 5, 6, 7, 8, 14, 21, 23, 25, 29, 30, 31 straipsnių ir priedo pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2024-04-24 iki 2024-10-24
+Suvestinė redakcija nuo 2024-10-25
  
 Įstatymas paskelbtas: TAR 2021-07-08, i. k. 2021-15469
  
@@ -464,10 +464,10 @@ priedas
 
 
 
-5. Šio įstatymo 9 straipsnio 1 dalyje išdėstyta Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalis taikoma ir fizinių asmenų bankrotams, pradėtiems ir nebaigtiems iki šio įstatymo įsigaliojimo.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 5, 6, 7, 8, 14, 21, 23, 25, 29, 30, 31 straipsnių ir priedo pakeitimo įstatymo (TAR, 2021-07-08, Nr. 15469) 13 straipsnio 5 dalis tiek, kiek pagal ją Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalies (2021 m. birželio 29 d. redakcija) nuostata, pagal kurią baigus fizinio asmens bankroto procesą nenurašomi reikalavimai, kylantys iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus kitų įstatymų pažeidimus, taikoma iki šio įstatymo įsigaliojimo pradėtiems ir nebaigtiems fizinių asmenų bankrotams, prieštarauja konstituciniam teisinės valstybės principui.
+5. Šio įstatymo 9 straipsnio 1 dalyje išdėstyta Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalis, išskyrus nuostatą, kad negali būti nurašomi reikalavimai, kylantys iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus kitų įstatymų pažeidimus, taikoma ir fizinių asmenų bankrotams, pradėtiems ir nebaigtiems iki šio įstatymo įsigaliojimo dienos.
 Straipsnio dalies pakeitimai:
 Nr.  KT36-N5/2024, 2024-04-24, paskelbta TAR 2024-04-24, i. k. 2024-07473
+Nr. XIV-3023, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18463
  
 
 
@@ -490,3 +490,8 @@ Pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr.  KT36-N5/2024, 2024-04-24, paskelbta TAR 2024-04-24, i. k. 2024-07473
 Dėl Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalies (2021 m. birželio 29 d. redakcija), Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 5, 6, 7, 8, 14, 21, 23, 25, 29, 30, 31 straipsnių ir priedo pakeitimo įstatymo 13 straipsnio 5 dalies atitikties Lietuvos Respublikos Konstitucijai
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3023, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18463
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 5, 6, 7, 8, 14, 21, 23, 25, 29, 30, 31 straipsnių ir priedo pakeitimo įstatymo Nr. XIV-451 13 straipsnio pakeitimo įstatymas
