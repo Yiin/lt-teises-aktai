@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-10-24
+Suvestinė redakcija nuo 2024-10-25 iki 2024-12-31
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -599,7 +599,10 @@ TERMINAI
 
 
 
-3. Metais, mėnesiais ar savaitėmis apibrėžti terminai baigiasi atitinkamą metų, mėnesio ar savaitės dieną. Jeigu mėnesiais apibrėžtas terminas baigiasi tokį mėnesį, kurį nėra atitinkamos dienos, terminas baigiasi to mėnesio paskutinę dieną. Jeigu tiksliai negalima nustatyti, kurį mėnesį prasidėjo terminas, skaičiuojamas metais, arba kurią dieną prasidėjo terminas, skaičiuojamas mėnesiais, termino paskutine diena laikoma atitinkamai birželio trisdešimtoji ir mėnesio penkioliktoji diena.
+3. Metais, mėnesiais ar savaitėmis apibrėžti terminai baigiasi atitinkamą metų, mėnesio ar savaitės dieną. Jeigu mėnesiais apibrėžtas terminas baigiasi tokį mėnesį, kurį nėra atitinkamos dienos, terminas baigiasi to mėnesio paskutinę dieną. Jeigu tiksliai negalima nustatyti, kurį mėnesį prasidėjo terminas, skaičiuojamas metais, arba kurią dieną prasidėjo terminas, skaičiuojamas mėnesiais, termino paskutine diena laikoma atitinkamai birželio trisdešimtoji ir mėnesio penkioliktoji diena. Jeigu paskutinė termino diena yra ne darbo ar švenčių diena, termino pabaigos diena laikoma po jos einanti darbo diena. Toks termino pabaigos skaičiavimas mutatis mutandis taikomas ir kadencijos termino pabaigai nustatyti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -1342,7 +1345,9 @@ Nr. XIV-1189, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15178
 
 
 
-4. Darbuotojas gali per išbandymo terminą nutraukti darbo sutartį, apie tai raštu įspėjęs darbdavį prieš tris darbo dienas. Šis įspėjimas gali būti atšauktas ne vėliau kaip kitą darbo dieną po jo pateikimo. Darbuotojo pateiktas ir neatšauktas įspėjimas pabaigia darbo sutartį ir darbdavys ne vėliau kaip paskutinę darbo dieną privalo įforminti darbo sutarties pasibaigimą.
+4. Darbuotojas iki išbandymo termino pabaigos gali pateikti prašymą nutraukti darbo sutartį. Darbuotojas apie tai raštu įspėja darbdavį prieš tris darbo dienas iki darbo sutarties nutraukimo. Šis įspėjimas gali būti atšauktas ne vėliau kaip kitą darbo dieną po jo pateikimo. Darbuotojo pateiktas ir neatšauktas įspėjimas pabaigia darbo sutartį ir darbdavys ne vėliau kaip paskutinę darbo dieną privalo įforminti darbo sutarties pasibaigimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -1504,10 +1509,11 @@ DARBO SUTARTIES SUDARYMAS
 
 
 
-3. Darbuotojui parinkti į vadovaujančiųjų darbuotojų ir specialistų pareigas, taip pat tokias pareigas, kurias gali eiti asmenys, turintys tam tikrų gebėjimų arba kuriems keliami ypatingi intelekto, fiziniai, sveikatos ar kiti reikalavimai, gali būti rengiamas konkursas. Pareigybių, dėl kurių turi būti rengiamas konkursas, sąrašą ir konkursų valstybės ir savivaldybių įmonėse, iš valstybės, savivaldybių ir Valstybinio socialinio draudimo fondo biudžetų bei iš kitų valstybės įsteigtų fondų lėšų finansuojamose valstybės ir savivaldybių įstaigose ir viešosiose įstaigose, kurių savininkė yra valstybė ar savivaldybė, organizavimo ir vykdymo tvarką nustato Lietuvos Respublikos Vyriausybė, išskyrus pareigybes, dėl kurių turi būti rengiamas konkursas ir kurių sąrašą ir (ar) konkursų organizavimo ir vykdymo tvarką nustato specialūs įstatymai. Asmuo, laimėjęs konkursą, turi teisę reikalauti, kad su juo ne vėliau kaip per dvidešimt darbo dienų būtų sudaryta darbo sutartis, išskyrus įstatymų nustatytas išimtis. 
+3. Darbuotojui parinkti į vadovaujančiųjų darbuotojų ir specialistų pareigas, taip pat tokias pareigas, kurias gali eiti asmenys, turintys tam tikrų gebėjimų arba kuriems keliami ypatingi intelekto, fiziniai, sveikatos ar kiti reikalavimai, gali būti rengiamas konkursas. Pareigybių, dėl kurių turi būti rengiamas konkursas, sąrašą ir konkursų valstybės ir savivaldybių įmonėse, iš valstybės, savivaldybių ir valstybės socialinių fondų biudžetų bei iš kitų valstybės įsteigtų fondų lėšų finansuojamose valstybės ir savivaldybių įstaigose ir viešosiose įstaigose, kurių savininkė yra valstybė ar savivaldybė, organizavimo ir vykdymo tvarką nustato Lietuvos Respublikos Vyriausybė, išskyrus pareigybes, dėl kurių turi būti rengiamas konkursas ir kurių sąrašą ir (ar) konkursų organizavimo ir vykdymo tvarką nustato specialūs įstatymai. Asmuo, laimėjęs konkursą, turi teisę reikalauti, kad su juo ne vėliau kaip per dvidešimt darbo dienų būtų sudaryta darbo sutartis, išskyrus įstatymų nustatytas išimtis.
 Straipsnio dalies pakeitimai:
 Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -2174,9 +2180,10 @@ Nr. XIV-2704, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11228
 
 
 
-4) pagal neterminuotą darbo sutartį dirbantis darbuotojas sukako senatvės pensijos amžių ir įgijo teisę į visą senatvės pensiją dirbdamas pas tą darbdavį. 
+4) pagal neterminuotą darbo sutartį dirbantis darbuotojas sukako socialinio draudimo senatvės pensijos amžių (toliau – senatvės pensijos amžius) dirbdamas pas tą darbdavį.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -2257,10 +2264,11 @@ Nr. XIV-2704, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11228
 
 
 
-3) kurie turi ne mažiau kaip dešimties metų nepertraukiamąjį darbo stažą pas tą darbdavį, išskyrus darbuotojus, kurie sukako senatvės pensijos amžių ir įgijo teisę į visą senatvės pensiją dirbdami to darbdavio įmonėje; 
+3) kurie turi ne mažiau kaip dešimties metų nepertraukiamąjį darbo stažą pas tą darbdavį, išskyrus darbuotojus, kurie sukako senatvės pensijos amžių dirbdami to darbdavio įmonėje;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 Nr. XIV-1189, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15178
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -2414,7 +2422,10 @@ Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
 59 straipsnis. Darbo sutarties nutraukimas darbdavio valia
 
 
-1. Darbdavys, išskyrus valstybės ar savivaldybės institucijas ar įstaigas, išlaikomas iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmones, viešąsias įstaigas, kurių savininkė yra valstybė ar savivaldybė, ir Lietuvos banką, turi teisę nutraukti darbo sutartį su darbuotoju dėl priežasčių, nenurodytų šio kodekso 57 straipsnio 1 dalyje, įspėjęs prieš tris darbo dienas ir sumokėjęs ne mažesnę kaip šešių mėnesių jo vidutinio darbo užmokesčio dydžio išeitinę išmoką.
+1. Darbdavys, išskyrus valstybės ar savivaldybės institucijas ar įstaigas, išlaikomas iš valstybės ar savivaldybės biudžeto, valstybės socialinių fondų biudžetų ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmones, viešąsias įstaigas, kurių savininkė yra valstybė ar savivaldybė, ir Lietuvos banką, turi teisę nutraukti darbo sutartį su darbuotoju dėl priežasčių, nenurodytų šio kodekso 57 straipsnio 1 dalyje, įspėjęs prieš tris darbo dienas ir sumokėjęs ne mažesnę kaip šešių mėnesių jo vidutinio darbo užmokesčio dydžio išeitinę išmoką.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -4323,17 +4334,21 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 
 
 
-5. Valstybės ir savivaldybių įstaigų, kurios išlaikomos iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ir savivaldybės įmonių, viešųjų įstaigų, kurių savininkė yra valstybė ar savivaldybė, ir Lietuvos banko darbuotojams, kurie augina vaikus iki trejų metų, nustatoma sutrumpinta trisdešimt dviejų valandų per savaitę darbo laiko norma, už nedirbtą darbo laiko normos dalį paliekant nustatytą darbo užmokestį. Ši sutrumpinta darbo laiko norma taikoma vienam iš tėvų (įtėvių) ar globėjų jų pasirinkimu, iki vaikui sukanka treji metai. 
+5. Valstybės ir savivaldybių įstaigų, kurios išlaikomos iš valstybės ar savivaldybės biudžeto, valstybės socialinių fondų biudžetų ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ir savivaldybės įmonių, viešųjų įstaigų, kurių savininkė yra valstybė ar savivaldybė, ir Lietuvos banko darbuotojams, kurie augina vaikus iki trejų metų, nustatoma sutrumpinta trisdešimt dviejų valandų per savaitę darbo laiko norma, už nedirbtą darbo laiko normos dalį paliekant nustatytą darbo užmokestį. Ši sutrumpinta darbo laiko norma taikoma vienam iš tėvų (įtėvių) ar globėjų jų pasirinkimu, iki vaikui sukanka treji metai. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1032, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08775
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
 
 
-6. Švenčių dienų išvakarėse darbo dienos trukmė sutrumpinama viena valanda, išskyrus pagal sutrumpintą darbo laiko normą dirbančius darbuotojus.
+6. Švenčių dienų išvakarėse darbo dienos trukmė sutrumpinama viena valanda, išskyrus pagal sutrumpintą darbo laiko normą dirbančius darbuotojus. Jeigu dėl darbo organizavimo ypatumų ar nepertraukiamos darbdavio veiklos sutrumpinti darbo dienos darbuotojui nėra galimybės, už šią valandą yra apmokama kaip už viršvalandinį darbą.
 Papildyta straipsnio dalimi:
 Nr. XII-2688, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26498
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1032, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08775
  
@@ -5647,7 +5662,10 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 
 
 
-4. Iš valstybės, savivaldybių ir Valstybinio socialinio draudimo fondo biudžetų ir kitų valstybės įsteigtų fondų lėšų finansuojamų įmonių, įstaigų ir organizacijų bei Lietuvos banko darbuotojų darbo apmokėjimo sąlygos nustatomos teisės aktų nustatyta tvarka.
+4. Iš valstybės, savivaldybių ir valstybės socialinių fondų biudžetų ir kitų valstybės įsteigtų fondų lėšų finansuojamų įmonių, įstaigų ir organizacijų bei Lietuvos banko darbuotojų darbo apmokėjimo sąlygos nustatomos teisės aktų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -5681,7 +5699,11 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 
 
 
-3. Minimalųjį valandinį atlygį ir minimaliąją mėnesinę algą tvirtina Lietuvos Respublikos Vyriausybė, gavusi Lietuvos Respublikos trišalės tarybos rekomendaciją ir atsižvelgdama į šalies ūkio vystymosi rodiklius bei tendencijas. Lietuvos Respublikos trišalė taryba savo išvadą Lietuvos Respublikos Vyriausybei pateikia kiekvienais metais iki birželio 15 dienos arba iki kitos Lietuvos Respublikos Vyriausybės prašomos datos. 
+3. Minimalųjį valandinį atlygį ir minimaliąją mėnesinę algą tvirtina Lietuvos Respublikos Vyriausybė, gavusi Lietuvos Respublikos trišalės tarybos rekomendaciją ir atsižvelgdama į Lietuvos Respublikos finansų ministerijos skelbiamą ekonominės raidos scenarijų bei Valstybės duomenų agentūros paskelbtus šalies ūkio vystymosi rodiklius, kartu įvertindama tokius kriterijus kaip perkamąją galią atsižvelgiant į pragyvenimo išlaidas, bendrą darbo užmokesčio lygį ir jo pasiskirstymą, darbo užmokesčio augimo greitį, ilgalaikius darbo našumo lygius ir pokyčius. Lietuvos Respublikos trišalė taryba, rengdama rekomendaciją, aptaria šioje dalyje nurodytus kriterijus ir kitą informaciją, reikalingą minimaliajai mėnesinei algai nustatyti ir jos deramumui įvertinti. Lietuvos Respublikos trišalė taryba savo išvadą Lietuvos Respublikos Vyriausybei pateikia kiekvienais metais iki birželio 15 dienos arba iki kitos Lietuvos Respublikos Vyriausybės prašomos datos.
+TAR pastaba: 141 straipsnio 3 dalies nuostatos taikomos derantis dėl 2026 metais ir vėliau taikomo minimalaus valandinio atlygio ir minimalios mėnesinės algos ir juos tvirtinant.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -6556,9 +6578,10 @@ Nr. XIV-1189, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15178
 
 
 
-2. Darbo tarybos rinkimus vykdo rinkimų komisija, kurią įsakymu sudaro darbdavys. Atsiradus šiame kodekse nustatytoms sąlygoms, darbdavys ne vėliau kaip per dvi savaites sudaro darbo tarybos rinkimų komisiją iš mažiausia trijų ir daugiausia septynių narių. Darbdavio administracijos pareigūnai gali sudaryti ne daugiau kaip trečdalį darbo tarybos rinkimų komisijos narių.
+2. Darbo tarybos rinkimus vykdo rinkimų komisija, kurią įsakymu sudaro darbdavys. Atsiradus šiame kodekse nustatytoms sąlygoms, darbdavys ne vėliau kaip per dvi savaites sudaro darbo tarybos rinkimų komisiją iš mažiausiai trijų ir daugiausia septynių narių. Juridinio asmens vadovaujantys darbuotojai (šio kodekso 101 straipsnio 3 ir 4 dalys) gali sudaryti ne daugiau kaip trečdalį darbo tarybos rinkimų komisijos narių. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1189, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15178
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -6609,9 +6632,10 @@ Nr. XIV-1189, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15178
 
 
 
-5. Kandidatus į darbo tarybos narius gali siūlyti rinkimų teisę turintys darbuotojai. Kandidatais gali būti tik rinkimų teisę turintys darbuotojai, išskyrus rinkimų komisijos narius. Kiekvienas darbuotojas gali pasiūlyti po vieną kandidatą raštu kreipdamasis į rinkimų komisiją ir pateikdamas rašytinį siūlomo kandidato sutikimą būti renkamam į darbo tarybą. Darbdavio lygmeniu veikiančios profesinės sąjungos turi teisę pasiūlyti ne mažiau kaip tris rinkimų teisę turinčius darbuotojus kandidatais į darbo tarybos narius, iš kurių išrinktu bus laikomas daugiausia darbuotojų balsų gavęs kandidatas. Visų kandidatų sąrašas turi būti sudarytas ne vėliau kaip likus keturiolikai dienų iki darbo tarybos rinkimų dienos. Jeigu pasiūlytų kandidatų skaičius yra lygus renkamos darbo tarybos narių skaičiui arba mažesnis už šį skaičių, rinkimų komisija nustato papildomą laiką, per kurį galima siūlyti papildomus kandidatus. Šiuo atveju kandidatus pakartotinai gali siūlyti ir tie darbuotojai, kurie jau yra pasiūlę savo kandidatus. Jeigu per papildomą laiką nepasiūloma pakankamai kandidatų į darbo tarybos narius, rinkimų komisija surašo ir viešai paskelbia protokolą, kad darbo tarybos rinkimai laikomi neįvykusiais. Tokiu atveju nauji darbo tarybos rinkimai rengiami pagal šiame kodekse nustatytą tvarką ne anksčiau kaip po šešių mėnesių nuo rinkimų komisijos sprendimo darbo tarybos rinkimus laikyti neįvykusiais priėmimo. 
+5. Kandidatus į darbo tarybos narius gali siūlyti rinkimų teisę turintys darbuotojai. Kandidatais gali būti tik rinkimų teisę turintys darbuotojai, išskyrus rinkimų komisijos narius. Kiekvienas darbuotojas gali pasiūlyti po vieną kandidatą raštu kreipdamasis į rinkimų komisiją ir pateikdamas rašytinį siūlomo kandidato sutikimą būti renkamam į darbo tarybą. Darbdavio lygmeniu veikiančios profesinės sąjungos turi teisę pasiūlyti ne mažiau kaip tris rinkimų teisę turinčius darbuotojus kandidatais į darbo tarybos narius, iš kurių išrinktu bus laikomas daugiausia darbuotojų balsų gavęs kandidatas. Visų kandidatų sąrašas turi būti sudarytas ne vėliau kaip likus keturiolikai dienų̨ iki darbo tarybos rinkimų dienos. Jeigu pasiūlytų kandidatų skaičius yra lygus renkamos darbo tarybos narių skaičiui arba mažesnis už šį skaičių, rinkimų komisija nustato papildomą laiką, per kurį galima siūlyti papildomus kandidatus. Šiuo atveju kandidatus pakartotinai gali siūlyti ir tie darbuotojai, kurie jau yra pasiūlę savo kandidatus. Jeigu per papildomą laiką nepasiūloma pakankamai kandidatų į darbo tarybos narius, rinkimų komisija surašo ir viešai paskelbia protokolą, kad darbo tarybos rinkimai laikomi neįvykusiais. Tokiu atveju nauji darbo tarybos rinkimai rengiami pagal šiame kodekse nustatytą tvarką po šešių mėnesių nuo rinkimų komisijos sprendimo darbo tarybos rinkimus laikyti neįvykusiais priėmimo dienos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -7068,12 +7092,18 @@ Nr. XIII-2009, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05337
 
 
 
-7) joms neiškelta bankroto byla arba bankroto procesas nevykdomas ne teismo tvarka, nesiekiama priverstinio likvidavimo procedūros ar susitarimo su kreditoriais;
+7) Neteko galios nuo 2024-10-25
+Straipsnio punkto naikinimas:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
 
-8) jos neturi mokestinės nepriemokos Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams, fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas arba dėl nesumokėtų mokesčių, delspinigių, baudų vyksta mokestinis ginčas), ir jos nėra skolingos Valstybinio socialinio draudimo fondo biudžetui;
+8) jos neturi mokestinės nepriemokos Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams, fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas arba dėl nesumokėtų mokesčių, delspinigių, baudų vyksta mokestinis ginčas), ir jos nėra skolingos valstybės socialinių fondų biudžetui;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -7126,15 +7156,19 @@ DARBDAVIŲ ATSTOVAI
 
 
 
-2. Socialinėje partnerystėje šakos ar nacionaliniu lygmeniu darbdaviams – iš valstybės, savivaldybių ir Valstybinio socialinio draudimo fondo biudžetų bei kitų valstybės įsteigtų fondų lėšų išlaikomoms įstaigoms, organizacijoms, taip pat įmonėms, įstaigoms ir organizacijoms, kurių savininko teises ir pareigas įgyvendina valstybė ar savivaldybė, – atstovauja Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
+2. Socialinėje partnerystėje šakos ar nacionaliniu lygmeniu darbdaviams – iš valstybės, savivaldybių ir valstybės socialinių fondų biudžetų bei kitų valstybės įsteigtų fondų lėšų išlaikomoms įstaigoms, organizacijoms, taip pat įmonėms, įstaigoms ir organizacijoms, kurių savininko teises ir pareigas įgyvendina valstybė ar savivaldybė, – atstovauja Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
 
 
-3. Socialinėje partnerystėje teritoriniu lygmeniu darbdaviams – iš savivaldybių biudžetų išlaikomoms įstaigoms, organizacijoms – atstovauja savivaldybės taryba, iš Valstybinio socialinio draudimo fondo biudžetų bei kitų valstybės įsteigtų fondų lėšų išlaikomoms įstaigoms, organizacijoms atstovauja Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Savivaldybės taryba taip pat atstovauja socialinėje partnerystėje teritoriniu lygmeniu toms įmonėms, įstaigoms ir organizacijoms, kurių savininko teises ir pareigas įgyvendina atitinkama savivaldybė. 
+3. Socialinėje partnerystėje teritoriniu lygmeniu darbdaviams – iš savivaldybių biudžetų išlaikomoms įstaigoms, organizacijoms – atstovauja savivaldybės taryba, iš valstybės socialinių fondų biudžetų bei kitų valstybės įsteigtų fondų lėšų išlaikomoms įstaigoms, organizacijoms atstovauja Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Savivaldybės taryba taip pat atstovauja socialinėje partnerystėje teritoriniu lygmeniu toms įmonėms, įstaigoms ir organizacijoms, kurių savininko teises ir pareigas įgyvendina atitinkama savivaldybė.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -7175,7 +7209,50 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 
 
 
-5. Darbdavių organizacijos turi teisę jungtis į aukštesnio lygmens darbdavių organizacijas (asociacijas, federacijas, konfederacijas, susivienijimus ir kita). 
+5. Darbdavių organizacijos turi teisę jungtis į aukštesnio lygmens darbdavių organizacijas (asociacijas, federacijas, konfederacijas, susivienijimus ir kita), veikiančias nacionaliniu, šakos ir teritoriniu lygmenimis. Nacionaliniu lygmeniu veikiančios darbdavių organizacijos turi atitikti šiuos kriterijus:
+
+
+1) turi juridinio asmens statusą;
+
+
+
+
+2) veikia kaip darbdavių organizacija nepertraukiamai bent trejus metus;
+
+
+
+
+3) turi savarankišką organizacinę struktūrą;
+
+
+
+
+4) turi ne mažiau kaip penkis darbuotojus, dirbančius pagal darbo sutartį;
+
+
+
+
+5) darbdavių organizacijų nariai – darbdaviai – įdarbina ne mažiau kaip 3 procentus pagal darbo sutartį ar kitais Lietuvos Respublikos užimtumo įstatyme nurodytais darbo santykiams prilygintų teisinių santykių pagrindais Lietuvos Respublikos teritorijoje dirbančių asmenų;
+
+
+
+
+6) dėl jų nėra galiojančio apkaltinamojo teismo nuosprendžio;
+
+
+
+
+7) jos neturi mokestinės nepriemokos Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams, fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas arba dėl nesumokėtų mokesčių, delspinigių, baudų vyksta mokestinis ginčas), ir jos nėra skolingos valstybės socialinių fondų biudžetui;
+
+
+
+
+8) jos priklauso ES, Europos ekonominės erdvės organizacijoms arba kitoms tarptautinėms organizacijoms, kuriose daugiau kaip pusė narių yra ES valstybės narės arba daugiau kaip pusė ES valstybių narių priklauso tarptautinei organizacijai, kuriose mokamas nario mokestis.
+TAR pastaba: 182 straipsnio 5 dalyje numatyti kriterijai taikomi darbdavių organizacijoms, kurios po įstatymo NR. XIV-3024 21 straipsnio įsigaliojimo dienos (2024-10-25) pradeda derėtis dėl nacionalinės (tarpšakinės) kolektyvinės sutarties sudarymo ir (ar) kurios pretenduoja į naujos kadencijos Lietuvos Respublikos trišalės tarybos sudėtį.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -7334,7 +7411,10 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 
 
 
-7) jos neturi mokestinės nepriemokos Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams, fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas arba dėl nesumokėtų mokesčių, delspinigių, baudų vyksta mokestinis ginčas), ir jos nėra skolingos Valstybinio socialinio draudimo fondo biudžetui;
+7) jos neturi mokestinės nepriemokos Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams, fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas arba dėl nesumokėtų mokesčių, delspinigių, baudų vyksta mokestinis ginčas), ir jos nėra skolingos valstybės socialinių fondų biudžetui;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -7739,29 +7819,51 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 
 
 
-5) šalių tarpusavio informavimo sąlygas;
+5) darbuotojų motyvavimo ir įtraukties priemones; 
+Papildyta straipsnio punktu:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
 
-6) informavimo, konsultavimo ir kitokio darbuotojų atstovų dalyvavimo darbdaviui priimant sprendimus teisių įgyvendinimo tvarką, nemažinant įstatyme nustatytų darbo tarybos įgaliojimų;
+6) šalių tarpusavio informavimo sąlygas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
 
-7) kitas šalims svarbias darbo, ekonomines ir socialines sąlygas;
+7) informavimo, konsultavimo ir kitokio darbuotojų atstovų dalyvavimo darbdaviui priimant sprendimus teisių įgyvendinimo tvarką, nemažinant įstatyme nustatytų darbo tarybos įgaliojimų;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
 
-8) kolektyvinės sutarties vykdymo tvarką;
+8) kitas šalims svarbias darbo, ekonomines ir socialines sąlygas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
 
-9) kolektyvinės sutarties keitimo, pildymo ir nutraukimo tvarką, galiojimo terminą, vykdymo kontrolės sistemą ir tvarką, kitus organizacinius klausimus, susijusius su kolektyvinės sutarties sudarymu ir vykdymu. 
+9) kolektyvinės sutarties vykdymo tvarką;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
+
+
+
+
+10) kolektyvinės sutarties keitimo, pildymo ir nutraukimo tvarką, galiojimo terminą, vykdymo kontrolės sistemą ir tvarką, kitus organizacinius klausimus, susijusius su kolektyvinės sutarties sudarymu ir vykdymu. 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -7774,7 +7876,10 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 194 straipsnis. Kolektyvinių derybų viešajame sektoriuje ypatumai
 
 
-1. Darbdaviams ‒ iš valstybės, savivaldybių, Valstybinio socialinio draudimo fondo biudžetų ir kitų valstybės įsteigtų fondų lėšų išlaikomoms įstaigoms, organizacijoms ‒ atstovauja Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, gavusi profesinių sąjungų organizacijos pasiūlymą pradėti nacionalinio (tarpšakinio) ar šakos (gamybos, paslaugų, profesinės) lygmens kolektyvines derybas arba pati inicijuodama šias derybas, privalo pakviesti į jas atitinkamoje šakoje (gamybos, paslaugų, profesinėje) veikiančias privačiojo sektoriaus darbdavių organizacijas, kurios gali dalyvauti kartu šiose kolektyvinėse derybose. Šios nuostatos mutatis mutandis taikomos, kai socialinėje partnerystėje teritoriniu lygmeniu veikia savivaldybės institucijos.
+1. Darbdaviams ‒ iš valstybės, savivaldybių, valstybės socialinių fondų biudžetų ir kitų valstybės įsteigtų fondų lėšų išlaikomoms įstaigoms, organizacijoms ‒ atstovauja Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, gavusi nacionalinio lygmens profesinių sąjungų organizacijos ar organizacijų pasiūlymą pradėti nacionalinio (tarpšakinio) lygmens kolektyvines derybas ar gavusi šakos lygmens profesinių sąjungų organizacijos ar organizacijų pasiūlymą pradėti šakos (gamybos, paslaugų, profesinės) lygmens kolektyvines derybas arba pati inicijuodama šias derybas, privalo pakviesti į jas atitinkamoje šakoje (gamybos, paslaugų, profesinėje) veikiančias privataus sektoriaus darbdavių organizacijas, kurios gali dalyvauti kartu šiose kolektyvinėse derybose. Šios nuostatos mutatis mutandis taikomos, kai socialinėje partnerystėje teritoriniu lygmeniu veikia savivaldybės institucijos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -8741,10 +8846,11 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 222 straipsnis. Darbo ginčų komisijos darbo sąlygos
 
 
-1. Profesinių sąjungų ir darbdavių organizacijų atstovai – darbo ginčų komisijos nariai – atleidžiami nuo darbo pareigų atlikimo laikotarpiu, kurį jie dalyvauja darbo ginčų komisijos darbe. Jų darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka, o kelionės išlaidų dydžius ir jų apmokėjimo tvarką nustato Lietuvos Respublikos socialinės apsaugos ir darbo ministras.
+1. Profesinių sąjungų ir darbdavių organizacijų atstovai – darbo ginčų komisijos nariai – atleidžiami nuo darbo pareigų atlikimo laikotarpiu, kurį jie dalyvauja darbo ginčų komisijos darbe. Jų darbas apmokamas Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka, o kelionės išlaidų dydžius ir jų apmokėjimo tvarką nustato Lietuvos Respublikos socialinės apsaugos ir darbo ministras.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1759, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20740
 Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -9291,7 +9397,11 @@ KOLEKTYVINIŲ DARBO GINČŲ DĖL INTERESŲ NAGRINĖJIMAS
 
 
 
-2. Tarpininkų sąrašą sudaro, tvirtina ir atnaujina Lietuvos Respublikos socialinės apsaugos ir darbo ministras. Į tarpininkų sąrašus ketverių metų kadencijai gali būti įtraukti nepriekaištingos reputacijos, nešališki ir turintys specialių žinių, reikalingų kolektyviniams darbo ginčams dėl interesų spręsti, fiziniai asmenys.
+2. Tarpininkų sąrašą sudaro, tvirtina ir atnaujina Lietuvos Respublikos socialinės apsaugos ir darbo ministras. Į tarpininkų sąrašus ketverių metų kadencijai gali būti įtraukti nepriekaištingos reputacijos, mutatis mutandis taikant Lietuvos Respublikos mediacijos įstatyme nustatytus nepriekaištingos reputacijos reikalavimus, nešališki ir turintys specialių žinių, reikalingų kolektyviniams darbo ginčams dėl interesų spręsti, fiziniai asmenys.
+TAR pastaba: 237 straipsnio 2 dalies nuostatos taikomos sudarant naują Tarpininkų sąrašą ir naują Arbitrų sąrašą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -9397,7 +9507,11 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 
 
 
-4. Arbitrų sąrašą sudaro, tvirtina ir atnaujina Lietuvos Respublikos socialinės apsaugos ir darbo ministras. Į arbitrų sąrašus ketverių metų kadencijai su teise pratęsti kadenciją dar ketveriems metams gali būti įtraukti nepriekaištingos reputacijos, nešališki ir turintys specialių žinių, reikalingų kolektyviniams darbo ginčams dėl interesų spręsti, fiziniai asmenys.
+4. Arbitrų sąrašą sudaro, tvirtina ir atnaujina Lietuvos Respublikos socialinės apsaugos ir darbo ministras. Į arbitrų sąrašus ketverių metų kadencijai su teise pratęsti kadenciją dar ketveriems metams gali būti įtraukti nepriekaištingos reputacijos, mutatis mutandis taikant Lietuvos Respublikos mediacijos įstatyme nustatytus nepriekaištingos reputacijos reikalavimus, nešališki ir turintys specialių žinių, reikalingų kolektyviniams darbo ginčams dėl interesų spręsti, fiziniai asmenys. 
+TAR pastaba: 240 straipsnio 4 dalies nuostatos taikomos sudarant naują Tarpininkų sąrašą ir naują Arbitrų sąrašą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -9407,11 +9521,12 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 
 
 
-6. Arbitrai, kuriuos iš arbitrų sąrašo pasirenka kolektyvinio darbo ginčo dėl interesų šalys, šio ginčo nagrinėjimo laikotarpiu atleidžiami nuo darbo pareigų. Arbitrų darbas apmokamas Valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka. Arbitrų kelionės išlaidų dydžius ir apmokėjimo tvarką nustato Lietuvos Respublikos socialinės apsaugos ir darbo ministras.
+6. Arbitrai, kuriuos iš arbitrų sąrašo pasirenka kolektyvinio darbo ginčo dėl interesų šalys, šio ginčo nagrinėjimo laikotarpiu atleidžiami nuo darbo pareigų. Arbitrų darbas apmokamas Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka. Arbitrų kelionės išlaidų dydžius ir apmokėjimo tvarką nustato Lietuvos Respublikos socialinės apsaugos ir darbo ministras.
 Straipsnio dalies pakeitimai:
 Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 Nr. XIII-1759, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20740
 Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -9441,22 +9556,50 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 
 
 
-2. Atsakingas Valstybinės darbo inspekcijos teritorinio skyriaus valstybės tarnautojas ar darbuotojas raštu suteikia šalims penkių darbo dienų terminą susitarti dėl trijų arbitrų, o per šį terminą joms nesusitarus, paskiria į darbo arbitražą iš kiekvienos šalies po vieną pasiūlytą arbitrą. Tokiu atveju trečią arbitrą paskirtieji arbitrai pasirenka šalių susitarimu. 
+2. Kai teisę streikuoti riboja arba draudžia šis kodeksas ar įstatymai ir yra šiame kodekse nustatytos sąlygos, arbitražo procesą inicijuoja darbuotojų atstovai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
 
-3. Darbo arbitražo pirmininką išsirenka patys arbitrai. Apie pasirinktą trečią arbitrą ir darbo arbitražo pirmininką pranešama Valstybinės darbo inspekcijos teritorinio skyriaus atsakingam valstybės tarnautojui ar darbuotojui, kuris patikrina ir priima sprendimą patvirtinti darbo arbitražo sudėtį ir pirmininką.
+3. Inicijavus darbo arbitražo procesą, Valstybinės darbo inspekcijos teritoriniam skyriui pateikiamas darbo ginčų komisijos ar tarpininko sprendimas, ar darbuotojų, kuriems teisę streikuoti riboja arba draudžia įstatymai, atstovų prašymas dėl kolektyvinio darbo ginčo dėl interesų nagrinėjimo darbo arbitraže. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
 
-4. Laikoma, kad kolektyvinio darbo ginčo dėl interesų nagrinėjimas darbo arbitraže pradėtas tą dieną, kurią sudaromas darbo arbitražas. 
+4. Atsakingas Valstybinės darbo inspekcijos teritorinio skyriaus valstybės tarnautojas ar darbuotojas raštu suteikia šalims penkių darbo dienų terminą susitarti dėl trijų arbitrų, o per šį terminą joms nesusitarus, paskiria į darbo arbitražą iš kiekvienos šalies po vieną pasiūlytą arbitrą. Tokiu atveju trečią arbitrą paskirtieji arbitrai pasirenka šalių susitarimu. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
 
-5. Atsakingą Valstybinės darbo inspekcijos teritorinio skyriaus valstybės tarnautoją ar darbuotoją skiria Lietuvos Respublikos vyriausiasis valstybinis darbo inspektorius.
+5. Darbo arbitražo pirmininką išsirenka patys arbitrai. Apie pasirinktą trečią arbitrą ir darbo arbitražo pirmininką pranešama Valstybinės darbo inspekcijos teritorinio skyriaus atsakingam valstybės tarnautojui ar darbuotojui, kuris patikrina ir priima sprendimą patvirtinti darbo arbitražo sudėtį ir pirmininką.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
+
+
+
+
+6. Laikoma, kad kolektyvinio darbo ginčo dėl interesų nagrinėjimas darbo arbitraže pradėtas tą dieną, kurią sudaromas darbo arbitražas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
+
+
+
+
+7. Atsakingą Valstybinės darbo inspekcijos teritorinio skyriaus valstybės tarnautoją ar darbuotoją skiria Lietuvos Respublikos vyriausiasis valstybinis darbo inspektorius.
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -10218,6 +10361,13 @@ priedas
 
 
 17. 2020 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/1057, kuria nustatomos konkrečios su Direktyva 96/71/EB ir Direktyva 2014/67/ES susijusios kelių transporto vairuotojų komandiravimo taisyklės ir iš dalies keičiami Direktyva 2006/22/EB, kiek tai susiję su vykdymo užtikrinimo reikalavimais, ir Reglamentas (ES) Nr. 1024/2012.
+
+
+
+
+18. 2022 m. spalio 19 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2041 dėl deramo minimaliojo darbo užmokesčio Europos Sąjungoje.
+Papildyta straipsnio dalimi:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -10428,3 +10578,8 @@ Lietuvos Respublikos darbo kodekso 134 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2704, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11228
 Lietuvos Respublikos darbo kodekso 25, 26, 40, 52, 56, 57, 109, 113, 117, 118, 119, 126, 128, 137, 138 ir 158 straipsnių pakeitimo įstatymas
+ 
+41.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+Lietuvos Respublikos darbo kodekso 14, 30, 35, 36, 41, 42, 56, 57, 59, 62, 72-1, 112, 119, 134, 140, 141, 144, 171, 179, 181, 182, 185, 193, 194, 222, 223, 225, 226, 228, 237, 240, 241 straipsnių ir priedo pakeitimo įstatymas
