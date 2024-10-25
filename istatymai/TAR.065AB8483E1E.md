@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2024-10-01 iki 2024-10-24
+Suvestinė redakcija nuo 2024-10-25 iki 2024-11-20
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -255,7 +255,170 @@ Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
 
 
 
-38. Prekių rodymas – bet kokios formos komercinis audiovizualinis pranešimas, kuriame už užmokestį ar kitokį atlygį programoje ar naudotojo sukurtame vaizdo įraše aiškiai pateikiama informacija apie prekę, paslaugą ar prekių ženklą ir (ar) nuorodas į juos.
+38. Pranešimas žiniasklaidai – asmens, įmonės ar organizacijos parengtas informacinis pranešimas, kuris viešosios informacijos rengėjo ir (ar) skleidėjo nuožiūra gali būti skleidžiamas visuomenės informavimo priemonėse. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+39. Prekių rodymas – bet kokios formos komercinis audiovizualinis pranešimas, kuriame už užmokestį ar kitokį atlygį programoje ar naudotojo sukurtame vaizdo įraše aiškiai pateikiama informacija apie prekę, paslaugą ar prekių ženklą ir (ar) nuorodas į juos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+40. Privataus pobūdžio informacija – žmogaus teisės į privataus gyvenimo apsaugą užtikrinimo požiūriu neskelbtina informacija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+41. Privatus gyvenimas – asmeninis žmogaus, jo šeimos gyvenimas, gyvenamoji aplinka, kurią sudaro žmogaus gyvenamoji patalpa, jai priklausanti privati teritorija ir kitos privačios patalpos, kurias žmogus naudoja savo ūkinei, komercinei ar profesinei veiklai, laisvalaikiui, poilsiui, taip pat kitos žmogaus privataus gyvenimo sritys, kuriose jis pagrįstai gali tikėtis privatumo, žmogaus psichinė ir fizinė neliečiamybė, garbė ir reputacija, slapti asmeniniai faktai, žmogaus fotonuotraukos ar kiti atvaizdai, informacija apie žmogaus sveikatą, privatus susirašinėjimas ar kitoks ryšio palaikymas, žmogaus pažiūros, įsitikinimai, įpročiai ir kiti duomenys, kuriuos galima naudoti tik jam sutikus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+42. Programa – savarankiškų savo turiniu ir struktūra garsų ir (arba) judančių vaizdų visuma, sudaranti atskirą paslaugų teikėjo nustatyto programų tvarkaraščio arba katalogo vienetą, nepriklausomai nuo jo trukmės (vaidybinis filmas, vaizdo klipas, sporto ar kitoks renginys, situacijų komedija, dokumentinis filmas, programa vaikams, originalus dramos kūrinys, anonsas, pokalbių programa, žinių programa ir kt.).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+43. Programa vaikams – programa, kurios tikslinė auditorija yra asmenys iki 18 metų. Programa, kurios tikslinė auditorija yra įvairaus amžiaus asmenys, nelaikoma programa vaikams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+44. Programų katalogas (toliau – katalogas) – užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjo sudarytas siūlomų programų sąrašas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+45. Programų tvarkaraštis – numatomų transliuoti radijo programų ar televizijos programų išankstinis planas, paprastai skelbiamas visuomenės informavimo priemonėse, nurodant programų pavadinimus ir jų transliavimo laiką.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+46. Radijo dažnis (kanalas) – radijo bangų dažnių juosta, būtina bent vienai radijo ar televizijos programai perduoti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+47. Radijo programa – radijo transliuotojo transliuojamų programų, skleidžiamų visuomenei elektroninių ryšių tinklais, visuma. Radijo programą gali sudaryti ir viena (atskira) programa.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+48. Radijo programų transliavimas – radijo programų transliuotojo teikiama visuomenės informavimo paslauga – radijo programų perdavimas pagal programų tvarkaraštį klausyti tuo pačiu metu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+49. Radijo programų transliuotojas – radijo programų transliavimo paslaugų teikėjas, kuriam tenka redakcinė atsakomybė už radijo programų turinio parinkimą ir jo išdėstymą radijo programų tvarkaraštyje ir kuris kuria, rengia radijo programas ir (ar) atskiras programas ir jas perduoda visuomenei arba leidžia kitam asmeniui nepakeistas perduoti visuomenei.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+50. Radijo stotis – technikos kompleksas, kurį sudaro radijo siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas radijo programoms transliuoti, retransliuoti ar siųsti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+51. Redakcinė atsakomybė – viešosios informacijos rengėjui ir (ar) viešosios informacijos skleidėjui, išskyrus retransliuotoją ir dalijimosi vaizdo medžiaga platformos paslaugos teikėją, tenkanti atsakomybė už kontrolę rengiant viešąją informaciją visuomenei, ruošiant ją skleisti ir šią informaciją skleidžiant, taip pat atrenkant programas ir jas išdėstant chronologine tvarka programų tvarkaraštyje ir (ar) kataloge.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+52. Redakcinis sprendimas – reguliariai priimamas sprendimas, kuriuo prisiimama redakcinė atsakomybė dėl kasdienės audiovizualinės žiniasklaidos paslaugų teikimo veiklos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+53. Regioninis laikraštis – laikraštis, kurio ne mažiau kaip 90 procentų tiražo platinama vienos Lietuvos Respublikos apskrities teritorijoje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+54. Regioninis programų transliuotojas – radijo ar televizijos programos transliuotojas, kurio antžeminiu televizijos, radijo tinklu transliuojama programa yra priimama teritorijoje, kurioje gyvena mažiau negu 60 procentų Lietuvos Respublikos gyventojų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+55. Reklama – bet kokia forma ir bet kokiomis priemonėmis reklamos užsakovo interesais arba savireklamos tikslais skleidžiama informacija, išskyrus televizijos reklamą, apie asmens ūkinę, komercinę, finansinę ar profesinę veiklą, skatinanti įsigyti prekių ar naudotis paslaugomis, įskaitant nekilnojamojo turto įsigijimą, turtinių teisių ir įsipareigojimų perėmimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
+
+
+
+
+56. Rėmimas – pagalba, kurią asmuo, nedalyvaujantis transliuojant radijo programą ir (ar) teikiant audiovizualinės žiniasklaidos paslaugas, ir (ar) kuriant audiovizualinį, garso ar informacinės visuomenės informavimo priemonės turinį, teikia audiovizualinės žiniasklaidos paslaugoms ir (ar) programoms, radijo programoms, informacinės visuomenės informavimo priemonėms, dalijimosi vaizdo medžiaga platformų paslaugoms ir (ar) programoms ar naudotojų sukurtiems vaizdo įrašams finansuoti, siekdamas skleisti informaciją apie savo pavadinimą, prekių ženklą, įvaizdį, veiklą, prekes ar paslaugas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
  
@@ -263,297 +426,181 @@ Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
 
 
 
-39. Privataus pobūdžio informacija – žmogaus teisės į privataus gyvenimo apsaugą užtikrinimo požiūriu neskelbtina informacija.
+57. Retransliavimas – transliuojamų radijo ir (ar) televizijos programų ar atskirų programų parinkimas, teikimas skleisti ir skleidimas visuomenei, šiuo tikslu jas priimant ir tuo pačiu metu nepakeistas perduodant visuomenei elektroninių ryšių tinklais arba techninėmis ir (ar) programinėmis priemonėmis sudarant visuomenei galimybę priimti elektroninių ryšių tinklais perduodamas sąlygine prieiga apsaugotas radijo ir (ar) televizijos programas ar atskiras programas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-40. Privatus gyvenimas – asmeninis žmogaus, jo šeimos gyvenimas, gyvenamoji aplinka, kurią sudaro žmogaus gyvenamoji patalpa, jai priklausanti privati teritorija ir kitos privačios patalpos, kurias žmogus naudoja savo ūkinei, komercinei ar profesinei veiklai, laisvalaikiui, poilsiui, taip pat kitos žmogaus privataus gyvenimo sritys, kuriose jis pagrįstai gali tikėtis privatumo, žmogaus psichinė ir fizinė neliečiamybė, garbė ir reputacija, slapti asmeniniai faktai, žmogaus fotonuotraukos ar kiti atvaizdai, informacija apie žmogaus sveikatą, privatus susirašinėjimas ar kitoks ryšio palaikymas, žmogaus pažiūros, įsitikinimai, įpročiai ir kiti duomenys, kuriuos galima naudoti tik jam sutikus.
+58. Retransliuojamo turinio licencija – Lietuvos radijo ir televizijos komisijos išduotas dokumentas, kuriuo suteikiama teisė jį turinčiam asmeniui verstis transliuojamų radijo ir (ar) televizijos programų ar atskirų programų parinkimu ir teikimu skleisti visuomenei radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais radijo dažniais (kanalais) nustatytoje teritorijoje ir kuriame nustatomos tokios veiklos sąlygos.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-41. Programa – savarankiškų savo turiniu ir struktūra garsų ir (arba) judančių vaizdų visuma, sudaranti atskirą paslaugų teikėjo nustatyto programų tvarkaraščio arba katalogo vienetą, nepriklausomai nuo jo trukmės (vaidybinis filmas, vaizdo klipas, sporto ar kitoks renginys, situacijų komedija, dokumentinis filmas, programa vaikams, originalus dramos kūrinys, anonsas, pokalbių programa, žinių programa ir kt.).
+59. Retransliuotojas – asmuo, kuris retransliuoja visuomenei nepakeistas transliuojamas radijo ir (ar) televizijos programas arba atskiras programas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-42. Programa vaikams – programa, kurios tikslinė auditorija yra asmenys iki 18 metų. Programa, kurios tikslinė auditorija yra įvairaus amžiaus asmenys, nelaikoma programa vaikams.
+60. Siuntimas – su radijo ir (ar) televizijos programų transliavimu ir (ar) retransliavimu susijusi elektroninių ryšių veiklos sritis, apimanti radijo ir (ar) televizijos programos elektromagnetinių signalų perdavimą elektroninių ryšių tinklais į galinius įrenginius.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-43. Programų katalogas (toliau – katalogas) – užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjo sudarytas siūlomų programų sąrašas.
+61. Siuntimo stotis – technikos kompleksas, kurį sudaro radijo ir (ar) televizijos siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas radijo ir (ar) televizijos programoms transliuoti, retransliuoti ar siųsti.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-44. Programų tvarkaraštis – numatomų transliuoti radijo programų ar televizijos programų išankstinis planas, paprastai skelbiamas visuomenės informavimo priemonėse, nurodant programų pavadinimus ir jų transliavimo laiką.
+62. Smurtinio pobūdžio informacija – informacija, kai detaliai rodomas žmonių, gyvūnų žudymas, žalojimas, kankinimas ar kitoks prieš žmogų, bet kokią kitą gyvą būtybę nukreiptas elgesys, sukeliantis skausmą, diskomfortą arba darantis kitokią žalą (fizinę, psichologinę, materialinę), taip pat vandalizmas ir (ar) teigiamai vertinama, skatinama prievarta, žiaurumas ar mėgavimasis tuo.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-45. Radijo dažnis (kanalas) – radijo bangų dažnių juosta, būtina bent vienai radijo ar televizijos programai perduoti.
+63. Teleparduotuvė – televizijos programų transliuotojo už užmokestį visuomenei transliuojami tiesioginiai siūlymai pirkti prekių ar naudotis paslaugomis, tarp jų ir siūlymai įsigyti nekilnojamojo turto, turtinių teisių ir įsipareigojimų.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-46. Radijo programa – radijo transliuotojo transliuojamų programų, skleidžiamų visuomenei elektroninių ryšių tinklais, visuma. Radijo programą gali sudaryti ir viena (atskira) programa.
+64. Televitrina – teleparduotuvės intarpams skirta programa, transliuojama televizijos programose, kurios nėra skirtos tik teleparduotuvei.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-47. Radijo programų transliavimas – radijo programų transliuotojo teikiama visuomenės informavimo paslauga – radijo programų perdavimas pagal programų tvarkaraštį klausyti tuo pačiu metu.
+65. Televizijos programa – televizijos programų transliuotojo elektroninių ryšių tinklais visuomenei transliuojamų programų visuma, skirta programoms žiūrėti pagal transliuotojo nustatytą programų tvarkaraštį tuo pačiu metu. Televizijos programą gali sudaryti ir viena (atskira) programa.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-48. Radijo programų transliuotojas – radijo programų transliavimo paslaugų teikėjas, kuriam tenka redakcinė atsakomybė už radijo programų turinio parinkimą ir jo išdėstymą radijo programų tvarkaraštyje ir kuris kuria, rengia radijo programas ir (ar) atskiras programas ir jas perduoda visuomenei arba leidžia kitam asmeniui nepakeistas perduoti visuomenei.
+66. Televizijos programų ir (ar) atskirų programų platinimo internete paslauga – transliuojamų televizijos programų ar atskirų programų parinkimas, teikimas skleisti ir tuo pačiu metu nepakeistų skleidimas visuomenei internete, įskaitant tokį skleidimą visuomenei naudojantis dalijimosi vaizdo medžiaga platformos paslauga bei apsaugotų televizijos programų ar atskirų programų skleidimą visuomenei internete naudojant sąlyginę prieigą.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-49. Radijo stotis – technikos kompleksas, kurį sudaro radijo siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas radijo programoms transliuoti, retransliuoti ar siųsti.
+67. Televizijos programų paketas – televizijos programų retransliuotojo ir (ar) kito asmens, teikiančio Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, sudaromas ir vartotojams siūlomas televizijos programų rinkinys.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-50. Redakcinė atsakomybė – viešosios informacijos rengėjui ir (ar) viešosios informacijos skleidėjui, išskyrus retransliuotoją ir dalijimosi vaizdo medžiaga platformos paslaugos teikėją, tenkanti atsakomybė už kontrolę rengiant viešąją informaciją visuomenei, ruošiant ją skleisti ir šią informaciją skleidžiant, taip pat atrenkant programas ir jas išdėstant chronologine tvarka programų tvarkaraštyje ir (ar) kataloge.
+68. Televizijos programų transliavimas – audiovizualinės žiniasklaidos paslaugų teikėjo teikiama linijinė audiovizualinės žiniasklaidos paslauga – televizijos programų perdavimas žiūrėti pagal programų tvarkaraštį tuo pačiu metu.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-51. Redakcinis sprendimas – reguliariai priimamas sprendimas, kuriuo prisiimama redakcinė atsakomybė dėl kasdienės audiovizualinės žiniasklaidos paslaugų teikimo veiklos.
+69. Televizijos programų transliuotojas – televizijos programų transliavimo paslaugų teikėjas, kuris kuria, rengia televizijos programas ir (ar) atskiras programas ir jas perduoda visuomenei arba leidžia kitam asmeniui nepakeistas perduoti visuomenei ir kuriam tenka redakcinė atsakomybė už audiovizualinės žiniasklaidos paslaugos turinio parinkimą ir jo išdėstymą televizijos programų tvarkaraštyje.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-52. Regioninis laikraštis – laikraštis, kurio ne mažiau kaip 90 procentų tiražo platinama vienos Lietuvos Respublikos apskrities teritorijoje.
+70. Televizijos reklama – už užmokestį ar kitokį atlygį bet kokia forma audiovizualinės žiniasklaidos paslaugų teikėjo skelbiama informacija, kurią asmuo, vykdantis ūkinę komercinę ar profesinę veiklą, užsako skleisti ar skleidžia savireklamos tikslais ar siekdamas skatinti įsigyti prekių ar naudotis paslaugomis, įskaitant nekilnojamojo turto įsigijimą, turtinių teisių ir įsipareigojimų perėmimą.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-53. Regioninis programų transliuotojas – radijo ar televizijos programos transliuotojas, kurio antžeminiu televizijos, radijo tinklu transliuojama programa yra priimama teritorijoje, kurioje gyvena mažiau negu 60 procentų Lietuvos Respublikos gyventojų.
+71. Televizijos stotis – technikos kompleksas, kurį sudaro televizijos siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas televizijos programoms transliuoti, retransliuoti ar siųsti.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-54. Reklama – bet kokia forma ir bet kokiomis priemonėmis reklamos užsakovo interesais arba savireklamos tikslais skleidžiama informacija, išskyrus televizijos reklamą, apie asmens ūkinę, komercinę, finansinę ar profesinę veiklą, skatinanti įsigyti prekių ar naudotis paslaugomis, įskaitant nekilnojamojo turto įsigijimą, turtinių teisių ir įsipareigojimų perėmimą.
+72. Teroristinius nusikaltimus skatinanti ar kurstanti informacija – informacija, kuria tiesiogiai arba netiesiogiai skatinama arba kurstoma daryti teroristinius nusikaltimus, įskaitant informaciją, kuria šlovinami arba pateisinami šie nusikaltimai, niekinamos jų aukos, skleidžiami jų vaizdai siekiant užsitikrinti paramą teroristiniam elgesiui arba stipriai įbauginti gyventojus.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-55. Rėmimas – pagalba, kurią asmuo, nedalyvaujantis transliuojant radijo programą ir (ar) teikiant audiovizualinės žiniasklaidos paslaugas, ir (ar) kuriant audiovizualinius ar garso kūrinius, teikia audiovizualinės žiniasklaidos paslaugoms ir (ar) programoms, radijo programoms, dalijimosi vaizdo medžiaga platformų paslaugoms ir (ar) programoms ar naudotojų sukurtiems vaizdo įrašams finansuoti, siekdamas skleisti informaciją apie savo pavadinimą, prekių ženklą, įvaizdį, veiklą, prekes ar paslaugas.
+73. Transliavimo licencija – Lietuvos radijo ir televizijos komisijos išduotas dokumentas, kuriuo suteikiama teisė jį turinčiam asmeniui verstis radijo ir (ar) televizijos programų transliavimo veikla nustatytoje teritorijoje ir kuriame nustatomos tokios transliavimo sąlygos.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-56. Retransliavimas – transliuojamų radijo ir (ar) televizijos programų ar atskirų programų parinkimas, teikimas skleisti ir skleidimas visuomenei, šiuo tikslu jas priimant ir tuo pačiu metu nepakeistas perduodant visuomenei elektroninių ryšių tinklais arba techninėmis ir (ar) programinėmis priemonėmis sudarant visuomenei galimybę priimti elektroninių ryšių tinklais perduodamas sąlygine prieiga apsaugotas radijo ir (ar) televizijos programas ar atskiras programas.
+74. Už papildomą mokestį platinamas televizijos programų paketas – televizijos programų paketas, teikiamas vartotojams už mokestį, neįtrauktą į mokestį už pagrindinį televizijos programų paketą. Už papildomą mokestį platinamą televizijos programų paketą gali sudaryti ir viena atskira televizijos programa.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-57. Retransliuojamo turinio licencija – Lietuvos radijo ir televizijos komisijos išduotas dokumentas, kuriuo suteikiama teisė jį turinčiam asmeniui verstis transliuojamų radijo ir (ar) televizijos programų ar atskirų programų parinkimu ir teikimu skleisti visuomenei radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais radijo dažniais (kanalais) nustatytoje teritorijoje ir kuriame nustatomos tokios veiklos sąlygos.
+75. Užsakomoji audiovizualinės žiniasklaidos paslauga – audiovizualinės žiniasklaidos paslaugų teikėjo teikiama nelinijinė audiovizualinės žiniasklaidos paslauga, skirta programoms žiūrėti vartotojo prašymu ir jo pasirinktu laiku pagal audiovizualinės žiniasklaidos paslaugų teikėjo siūlomą katalogą.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-58. Retransliuotojas – asmuo, kuris retransliuoja visuomenei nepakeistas transliuojamas radijo ir (ar) televizijos programas arba atskiras programas.
+76. Viešasis asmuo yra:
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-59. Siuntimas – su radijo ir (ar) televizijos programų transliavimu ir (ar) retransliavimu susijusi elektroninių ryšių veiklos sritis, apimanti radijo ir (ar) televizijos programos elektromagnetinių signalų perdavimą elektroninių ryšių tinklais į galinius įrenginius.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-60. Siuntimo stotis – technikos kompleksas, kurį sudaro radijo ir (ar) televizijos siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas radijo ir (ar) televizijos programoms transliuoti, retransliuoti ar siųsti.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-61. Smurtinio pobūdžio informacija – informacija, kai detaliai rodomas žmonių, gyvūnų žudymas, žalojimas, kankinimas ar kitoks prieš žmogų, bet kokią kitą gyvą būtybę nukreiptas elgesys, sukeliantis skausmą, diskomfortą arba darantis kitokią žalą (fizinę, psichologinę, materialinę), taip pat vandalizmas ir (ar) teigiamai vertinama, skatinama prievarta, žiaurumas ar mėgavimasis tuo.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-62. Teleparduotuvė – televizijos programų transliuotojo už užmokestį visuomenei transliuojami tiesioginiai siūlymai pirkti prekių ar naudotis paslaugomis, tarp jų ir siūlymai įsigyti nekilnojamojo turto, turtinių teisių ir įsipareigojimų.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-63. Televitrina – teleparduotuvės intarpams skirta programa, transliuojama televizijos programose, kurios nėra skirtos tik teleparduotuvei.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-64. Televizijos programa – televizijos programų transliuotojo elektroninių ryšių tinklais visuomenei transliuojamų programų visuma, skirta programoms žiūrėti pagal transliuotojo nustatytą programų tvarkaraštį tuo pačiu metu. Televizijos programą gali sudaryti ir viena (atskira) programa.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-65. Televizijos programų ir (ar) atskirų programų platinimo internete paslauga – transliuojamų televizijos programų ar atskirų programų parinkimas, teikimas skleisti ir tuo pačiu metu nepakeistų skleidimas visuomenei internete, įskaitant tokį skleidimą visuomenei naudojantis dalijimosi vaizdo medžiaga platformos paslauga bei apsaugotų televizijos programų ar atskirų programų skleidimą visuomenei internete naudojant sąlyginę prieigą.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-66. Televizijos programų paketas – televizijos programų retransliuotojo ir (ar) kito asmens, teikiančio Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, sudaromas ir vartotojams siūlomas televizijos programų rinkinys.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-67. Televizijos programų transliavimas – audiovizualinės žiniasklaidos paslaugų teikėjo teikiama linijinė audiovizualinės žiniasklaidos paslauga – televizijos programų perdavimas žiūrėti pagal programų tvarkaraštį tuo pačiu metu.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-68. Televizijos programų transliuotojas – televizijos programų transliavimo paslaugų teikėjas, kuris kuria, rengia televizijos programas ir (ar) atskiras programas ir jas perduoda visuomenei arba leidžia kitam asmeniui nepakeistas perduoti visuomenei ir kuriam tenka redakcinė atsakomybė už audiovizualinės žiniasklaidos paslaugos turinio parinkimą ir jo išdėstymą televizijos programų tvarkaraštyje.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-69. Televizijos reklama – už užmokestį ar kitokį atlygį bet kokia forma audiovizualinės žiniasklaidos paslaugų teikėjo skelbiama informacija, kurią asmuo, vykdantis ūkinę komercinę ar profesinę veiklą, užsako skleisti ar skleidžia savireklamos tikslais ar siekdamas skatinti įsigyti prekių ar naudotis paslaugomis, įskaitant nekilnojamojo turto įsigijimą, turtinių teisių ir įsipareigojimų perėmimą.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-70. Televizijos stotis – technikos kompleksas, kurį sudaro televizijos siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas televizijos programoms transliuoti, retransliuoti ar siųsti.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-71. Teroristinius nusikaltimus skatinanti ar kurstanti informacija – informacija, kuria tiesiogiai arba netiesiogiai skatinama arba kurstoma daryti teroristinius nusikaltimus, įskaitant informaciją, kuria šlovinami arba pateisinami šie nusikaltimai, niekinamos jų aukos, skleidžiami jų vaizdai siekiant užsitikrinti paramą teroristiniam elgesiui arba stipriai įbauginti gyventojus.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-72. Transliavimo licencija – Lietuvos radijo ir televizijos komisijos išduotas dokumentas, kuriuo suteikiama teisė jį turinčiam asmeniui verstis radijo ir (ar) televizijos programų transliavimo veikla nustatytoje teritorijoje ir kuriame nustatomos tokios transliavimo sąlygos.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-73. Už papildomą mokestį platinamas televizijos programų paketas – televizijos programų paketas, teikiamas vartotojams už mokestį, neįtrauktą į mokestį už pagrindinį televizijos programų paketą. Už papildomą mokestį platinamą televizijos programų paketą gali sudaryti ir viena atskira televizijos programa.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-74. Užsakomoji audiovizualinės žiniasklaidos paslauga – audiovizualinės žiniasklaidos paslaugų teikėjo teikiama nelinijinė audiovizualinės žiniasklaidos paslauga, skirta programoms žiūrėti vartotojo prašymu ir jo pasirinktu laiku pagal audiovizualinės žiniasklaidos paslaugų teikėjo siūlomą katalogą.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
- 
-
-
-
-
-75. Viešasis asmuo yra:
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
@@ -617,99 +664,112 @@ Nr. XIV-867, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27774
 
 
 
-76. Viešoji informacija – informacija, skirta viešai skleisti, išskyrus privataus pobūdžio informaciją, taip pat kitą informaciją, kuri pagal šį ir kitus Lietuvos Respublikos įstatymus negali būti viešai skleidžiama.
+77. Viešoji informacija – informacija, skirta viešai skleisti, išskyrus privataus pobūdžio informaciją, taip pat kitą informaciją, kuri pagal šį ir kitus Lietuvos Respublikos įstatymus negali būti viešai skleidžiama.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-77. Viešosios informacijos rengėjas – audiovizualinės žiniasklaidos paslaugos teikėjas, radijo programų transliuotojas, leidykla, kino, garso ar vaizdo studija, informacijos, reklamos ar viešųjų ryšių agentūra, redakcija, informacinės visuomenės informavimo priemonės valdytojas, nepriklausomas kūrėjas, žurnalistas ar kitas asmuo, rengiantys ar pateikiantys skleisti viešąją informaciją.
+78. Viešosios informacijos rengėjas – audiovizualinės žiniasklaidos paslaugos teikėjas, radijo programų transliuotojas, leidykla, kino, garso ar vaizdo studija, informacijos, reklamos ar viešųjų ryšių agentūra, redakcija, informacinės visuomenės informavimo priemonės valdytojas, nepriklausomas kūrėjas, žurnalistas ar kitas asmuo, rengiantys ar pateikiantys skleisti viešąją informaciją.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-78. Viešosios informacijos skleidėjas – audiovizualinės žiniasklaidos paslaugos teikėjas, retransliuotojas, asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, dalijimosi vaizdo medžiaga platformos paslaugos teikėjas, radijo programų transliuotojas, informacinės visuomenės informavimo priemonės valdytojas ar kitas asmuo, skleidžiantis viešąją informaciją visuomenei ir atsakantis už tos informacijos teisėtumą šio ir kitų įstatymų nustatyta tvarka.
+79. Viešosios informacijos skleidėjas – audiovizualinės žiniasklaidos paslaugos teikėjas, retransliuotojas, asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, dalijimosi vaizdo medžiaga platformos paslaugos teikėjas, radijo programų transliuotojas, informacinės visuomenės informavimo priemonės valdytojas ar kitas asmuo, skleidžiantis viešąją informaciją visuomenei ir atsakantis už tos informacijos teisėtumą šio ir kitų įstatymų nustatyta tvarka.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-79. Vietinis laikraštis – laikraštis, kurio ne mažiau kaip 90 procentų tiražo platinama vienos savivaldybės teritorijoje.
+80. Vietinis laikraštis – laikraštis, kurio ne mažiau kaip 90 procentų tiražo platinama vienos savivaldybės teritorijoje.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-80. Vietinė radijo ir (ar) televizijos programa – radijo ir (ar) televizijos programa, transliuojama per vieną antžeminę radijo ir (ar) televizijos stotį, kabelinės televizijos tinklais ir (ar) laidiniais plačiajuosčio ryšio tinklais.
+81. Vietinė radijo ir (ar) televizijos programa – radijo ir (ar) televizijos programa, transliuojama per vieną antžeminę radijo ir (ar) televizijos stotį, kabelinės televizijos tinklais ir (ar) laidiniais plačiajuosčio ryšio tinklais.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-81. Visuomenės informavimas – viešosios informacijos teikimas visuomenei.
+82. Visuomenės informavimas – viešosios informacijos teikimas visuomenei.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-82. Visuomenės informavimo priemonė – laikraštis, žurnalas, biuletenis ar kitas leidinys, knyga, televizijos programa, radijo programa, kino ar kita garso ir vaizdo studijų produkcija, informacinės visuomenės informavimo priemonė ir kita priemonė, kuria viešai skleidžiama informacija. Pagal šį įstatymą visuomenės informavimo priemonei nepriskiriamas oficialus, techninis ir tarnybinis dokumentas, vertybiniai popieriai.
+83. Visuomenės informavimo priemonė – laikraštis, žurnalas, biuletenis ar kitas leidinys, knyga, televizijos programa, radijo programa, kino ar kita garso ir vaizdo studijų produkcija, informacinės visuomenės informavimo priemonė ir kita priemonė, kuria viešai skleidžiama informacija. Pagal šį įstatymą visuomenės informavimo priemonei nepriskiriamas oficialus, techninis ir tarnybinis dokumentas, vertybiniai popieriai.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-83. Žinia – visuomenės informavimo priemonėse skelbiamas faktas, tikri (teisingi) duomenys.
+84. Žinia – visuomenės informavimo priemonėse skelbiamas faktas, tikri (teisingi) duomenys.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-84. Žinių programa – programa, kurios turinys apima aktualią visuomenei informaciją apie politiką, ekonomiką, kultūrą, sportą, orus ir kitas sritis.
+85. Žinių programa – programa, kurios turinys apima aktualią visuomenei informaciją apie politiką, ekonomiką, kultūrą, sportą, orus ir kitas sritis.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-85. Žurnalas – iliustruotas informacinis periodinis leidinys, skirtas įvairiai auditorijai, kuriame spausdinami įvairių sričių straipsniai.
+86. Žurnalas – iliustruotas informacinis periodinis leidinys, skirtas įvairiai auditorijai, kuriame spausdinami įvairių sričių straipsniai.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-86. Žurnalistas – fizinis asmuo, kuris profesionaliai renka, rengia ir teikia medžiagą viešosios informacijos rengėjui ir (ar) skleidėjui pagal sutartį su juo ir (ar) yra žurnalistų profesinės organizacijos narys.
+87. Žurnalistas – fizinis asmuo, kuris profesionaliai renka, rengia ir teikia medžiagą viešosios informacijos rengėjui ir (ar) skleidėjui pagal sutartį su juo ir (ar) yra žurnalistų profesinės organizacijos narys.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
 
 
-87. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos alkoholio kontrolės įstatyme, Lietuvos Respublikos azartinių lošimų įstatyme, Elektroninių ryšių įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos informacinės visuomenės paslaugų įstatyme, Lietuvos Respublikos kibernetinio saugumo įstatyme, Lietuvos Respublikos kino įstatyme, Lietuvos Respublikos konkurencijos įstatyme,  Lietuvos Respublikos labdaros ir paramos įstatyme, Lietuvos Respublikos loterijų įstatyme, Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatyme, Lietuvos Respublikos politinių organizacijų įstatyme, Lietuvos Respublikos reklamos įstatyme, Lietuvos Respublikos rinkimų kodekse, Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme, Teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme, Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatyme, kituose įstatymuose ir Reglamente (ES) 2021/784.
+88. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos alkoholio kontrolės įstatyme, Lietuvos Respublikos azartinių lošimų įstatyme, Elektroninių ryšių įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos informacinės visuomenės paslaugų įstatyme, Lietuvos Respublikos kibernetinio saugumo įstatyme, Lietuvos Respublikos kino įstatyme, Lietuvos Respublikos konkurencijos įstatyme,  Lietuvos Respublikos labdaros ir paramos įstatyme, Lietuvos Respublikos loterijų įstatyme, Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatyme, Lietuvos Respublikos politinių organizacijų įstatyme, Lietuvos Respublikos reklamos įstatyme, Lietuvos Respublikos rinkimų kodekse, Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme, Teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme, Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatyme, kituose įstatymuose ir Reglamente (ES) 2021/784.
 Straipsnio dalies pakeitimai:
 Nr. XIV-240, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08842
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
 Nr. XIV-1989, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11560
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
  
 
 
@@ -3274,7 +3334,10 @@ Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
 
 
 
-39 straipsnis. Reklamai ir komerciniams audiovizualiniams pranešimams keliami reikalavimai
+39 straipsnis. Reklamai, komerciniams audiovizualiniams pranešimams ir pranešimams žiniasklaidai keliami reikalavimai 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
 
 
 1. Reklama, komerciniai audiovizualiniai pranešimai turi būti padorūs, teisingi ir aiškiai atpažįstami. Paslėpta reklama, paslėpti komerciniai audiovizualiniai pranešimai draudžiami. 
@@ -3438,6 +3501,29 @@ Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
 
 
 11. Atsakomybės už klaidinančios ir neleidžiamos lyginamosios reklamos naudojimo ypatumus ir jos taikymo tvarką nustato Reklamos įstatymas. 
+
+
+
+
+12. Visuomenės informavimo priemonėje skleidžiant visą ar tik dalį parengto pranešimo žiniasklaidai turi būti laikomasi šių reikalavimų: 
+
+
+1) jeigu pranešimas žiniasklaidai skleidžiamas neatlygintinai, jis žymimas žodžiais „Pranešimas žiniasklaidai“;
+
+
+
+
+2) jeigu pranešimas žiniasklaidai skleidžiamas atlygintinai, jis žymimas žodžiais „Reklama“ arba „Rėmimas“ (pasirinktinai);
+
+
+
+
+3) visais atvejais nurodomas pranešimo žiniasklaidai rengėjas.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+ 
 
 
 Straipsnio pakeitimai:
@@ -5934,3 +6020,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 19 ir 34-1 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2726, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11247
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 34-1 straipsnio pakeitimo įstatymo Nr. XIV-1425 2 ir 3 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2 ir 39 straipsnių pakeitimo įstatymas
