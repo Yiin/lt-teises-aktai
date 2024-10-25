@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2024-10-18 iki 2024-10-24
+Suvestinė redakcija nuo 2024-10-25 iki 2024-10-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
- 
-TAR pastaba. Suvestinėse redakcijose nuo 2024-10-18 iki 2025-01-01 ir nuo 2025-01-01 nėra įtraukti visi Kodekso pakeitimai
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539
-Lietuvos Respublikos administracinių nusižengimų kodekso 479, 480, 589 straipsnių ir priedo pakeitimo įstatymas
  
  
 
@@ -27537,6 +27532,14 @@ Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
 
 
 
+1171. 2022 m. spalio 19 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2041 dėl deramo minimaliojo darbo užmokesčio Europos Sąjungoje.
+Papildyta straipsnio dalimi:
+Nr. XIV-3035, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18432
+ 
+
+
+
+
 118. 2022 m. gruodžio 15 d. Tarybos direktyva (ES) 2022/2523 dėl visuotinio minimalaus tarptautinių įmonių grupių ir didelių vietos subjektų grupių apmokestinimo lygio užtikrinimo Sąjungoje. 
 Papildyta straipsnio dalimi:
 Nr. XIV-2681, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11164
@@ -28771,3 +28774,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 242, 268, 286 ir 589
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539
 Lietuvos Respublikos administracinių nusižengimų kodekso 479, 480, 589 straipsnių ir priedo pakeitimo įstatymas
+ 
+242.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3035, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18432
+Lietuvos Respublikos administracinių nusižengimų kodekso 96 straipsnio ir priedo pakeitimo įstatymas
