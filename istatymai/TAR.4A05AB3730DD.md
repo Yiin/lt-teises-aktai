@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MOKĖJIMO ĮSTAIGŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2022-12-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-12-29
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 153-6887, i. k. 1091010ISTA00XI-549
  
@@ -752,7 +752,10 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 
 
 
-5. Priežiūros institucija, priėmusi sprendimą sustabdyti licencijos galiojimą, per 3 darbo dienas nuo tokio sprendimo priėmimo dienos apie tai praneša mokėjimo įstaigai, nurodo pažeidimą (pažeidimus) ir nustato ne ilgesnį kaip 2 mėnesių terminą, per kurį mokėjimo įstaiga privalo nurodytą pažeidimą (pažeidimus) pašalinti. 
+5. Priežiūros institucija, priėmusi sprendimą sustabdyti licencijos galiojimą, per 3 darbo dienas nuo tokio sprendimo priėmimo dienos apie tai praneša mokėjimo įstaigai, nurodo pažeidimą (pažeidimus) ir nustato ne trumpesnį kaip vieno mėnesio terminą, per kurį mokėjimo įstaiga privalo nurodytą pažeidimą (pažeidimus) pašalinti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2718, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11241
+ 
 
 
 
@@ -1821,7 +1824,9 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 
 
 
-8) paskiria laikinąjį atstovą mokėjimo įstaigos veiklos priežiūrai (toliau – atstovas veiklos priežiūrai);
+8) paskiria laikinąjį administratorių;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2718, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11241
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
  
@@ -2019,54 +2024,100 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 
 
 
-37 straipsnis. Atstovas veiklos priežiūrai
+37 straipsnis. Laikinasis administratorius
 
 
-1. Neatidėliotinais atvejais, kai yra duomenų apie grėsmę saugiai ir patikimai mokėjimo įstaigos veiklai, siekdama apsaugoti mokėjimo paslaugų vartotojų ar iš kito mokėjimo paslaugų teikėjo gautas lėšas, perduotas mokėjimo įstaigai, priežiūros institucija turi teisę paskirti atstovą veiklos priežiūrai.
+1. Priežiūros institucija turi teisę mokėjimo įstaigai paskirti laikinąjį administratorių. Laikinuoju administratoriumi gali būti paskirtas juridinis ar fizinis asmuo. Laikinuoju administratoriumi negali būti paskirtas priežiūros institucijos tarnautojas.
 
 
 
 
-2. Atstovu veiklos priežiūrai gali būti paskirtas juridinis ar fizinis asmuo. Atstovu veiklos priežiūrai skiriamam fiziniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi šio įstatymo 9 straipsnio 3 dalyje nustatyti nepriekaištingos reputacijos, kvalifikacijos ir patirties reikalavimai. Jeigu atstovu veiklos priežiūrai skiriamas fizinis asmuo, gali būti paskirtas ir jo padėjėjas. Atlyginimus atstovui veiklos priežiūrai ir jo padėjėjui, atsižvelgdama į jų veiklos mastą, kvalifikaciją, veiklos terminus, nustato priežiūros institucija. Atlyginimai išmokami iš mokėjimo įstaigos lėšų. Atstovu veiklos priežiūrai ir jo padėjėju negali būti paskirtas priežiūros institucijos tarnautojas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
+2. Laikinuoju administratoriumi skiriamam fiziniam asmeniui, juridiniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi Bankų įstatymo 34 straipsnio 12 ir 13 dalyse nustatyti nepriekaištingos reputacijos reikalavimai ir šio įstatymo 9 straipsnio 3 dalyje nustatyti kvalifikacijos ir patirties reikalavimai, jo neturi saistyti interesų konfliktas, tai yra laikinojo administratoriaus asmeniniai interesai negali prieštarauti mokėjimo įstaigos ar priežiūros institucijos interesams.
+
+
+
+
+3. Laikinojo administratoriaus veiklos sąlygos, funkcijos ir jų apribojimai nustatomi priežiūros institucijos ir laikinojo administratoriaus sudaromoje laikinojo administravimo sutartyje. Tokioje sutartyje turi būti nustatyti priežiūros institucijos įsipareigojimai, susiję su laikinojo administratoriaus veiksmais atlyginant tretiesiems asmenims padarytą žalą. Bet kuriuo atveju laikinasis administratorius neatsako už žalą, atsiradusią dėl veiksmų, atliktų vykdant priežiūros institucijos duotus nurodymus. Tokiu atveju už padarytą žalą, kai yra įstatymuose, reglamentuojančiuose civilinės atsakomybės atsiradimą, nustatytos sąlygos, atsako priežiūros institucija.
+
+
+
+
+4. Laikinasis administratorius savo funkcijoms tinkamai atlikti turi teisę savo nuožiūra pasitelkti padėjėjų ir paslaugų teikėjų (įskaitant teisės, apskaitos, audito, valdymo konsultantus). 
+
+
+
+
+5. Atlyginimas ir kitos išlaidos (įskaitant išlaidas paslaugų teikėjams) laikinajam administratoriui ir jo padėjėjams, atsižvelgiant į laikinojo administratoriaus veiklos mastą, kvalifikaciją, veiklos terminus, nustatomi laikinojo administravimo sutartyje. Atlyginimas išmokamas ir išlaidos (įskaitant išlaidas paslaugų teikėjams) apmokamos iš mokėjimo įstaigos lėšų prieš bet kokius kitus mokėjimo įstaigos mokėjimus. 
+
+
+
+
+6. Jeigu administruojamai mokėjimo įstaigai iškeliama bankroto byla, mokėjimai laikinajam administratoriui išmokami prieš bet kokius kitus mokėjimo įstaigos mokėjimus. Jeigu mokėjimo įstaiga laikinajam administratoriui nesumoka laiku, laikinajam administratoriui privalo sumokėti priežiūros institucija, kuri turi teisę reikalauti sumokėtų sumų iš mokėjimo įstaigos. 
+
+
+
+
+7. Priežiūros institucija, remdamasi proporcingumo principu, priimdama sprendimą skirti laikinąjį administratorių, gali nustatyti, kad:
+
+
+1) laikinai sustabdomi mokėjimo įstaigos stebėtojų tarybos, valdybos ir administracijos vadovų įgaliojimai ir šių organų įgaliojimus laikinai perima paskirtas laikinasis administratorius. Tokiu atveju šiame punkte nurodytų mokėjimo įstaigos organų atitinkami sprendimai, priimti po sprendimo paskirti laikinąjį administratorių įsigaliojimo dienos, yra negaliojantys ir nevykdytini arba
+
+
+
+
+2) mokėjimo įstaigos stebėtojų tarybos, valdybos ir administracijos vadovų įgaliojimai nesustabdomi, o paskirtas laikinasis administratorius laikinai veikia kartu su šiais mokėjimo įstaigos organais. 
+
+
+
+
+
+
+8. Priežiūros institucija sprendime dėl laikinojo administratoriaus paskyrimo turi nustatyti laikinojo administratoriaus įgaliojimus, funkcijas, veiksmus, kuriuos laikinasis administratorius gali atlikti tik gavęs išankstinį priežiūros institucijos pritarimą, ir laikinojo administratoriaus paskyrimo terminą.
+
+
+
+
+9. Jeigu laikinasis administratorius skiriamas pagal šio straipsnio 7 dalies 1 punktą, jam gali būti suteikiami kai kurie ar visi šiame įstatyme, kituose teisės aktuose, reglamentuojančiuose įmonių veiklą, ir mokėjimo įstaigos įstatuose nustatyti mokėjimo įstaigos stebėtojų tarybos, valdybos ir administracijos vadovų įgaliojimai. Laikinajam administratoriui gali būti pavedama išsiaiškinti ir įvertinti mokėjimo įstaigos finansinę būklę, vadovauti mokėjimo įstaigos veiklai (arba jos daliai), siekiant išsaugoti arba atkurti mokėjimo įstaigos finansinę būklę ir užtikrinant patikimą ir riziką ribojantį mokėjimo įstaigos veiklos valdymą, ir (arba) atlikti kitas funkcijas. 
+
+
+
+
+10. Jeigu laikinasis administratorius skiriamas pagal šio straipsnio 7 dalies 2 punktą, priežiūros institucija sprendime turi nurodyti, kuriuos sprendimus priimti ar kitus veiksmus atlikti mokėjimo įstaigos stebėtojų taryba, valdyba ir administracijos vadovas gali tik gavę išankstinį laikinojo administratoriaus pritarimą. Laikinasis administratorius nesutinka su šių mokėjimo įstaigos organų sprendimais, jeigu jie, jo nuomone, prieštarauja patikimą ir riziką ribojančią mokėjimo įstaigų veiklą reglamentuojantiems teisės aktams ar dėl kitų priežasčių kelia grėsmę mokėjimo įstaigos veiklos stabilumui ir patikimumui arba mokėjimo paslaugų vartotojų interesams.
+
+
+
+
+11. Laikinasis administratorius skiriamas ne ilgesniam negu vienų metų laikotarpiui. Išimtiniais atvejais, kai nustatoma, kad laikinojo administratoriaus skyrimo priežastimi buvusios aplinkybės nėra išnykusios, laikinojo administratoriaus paskyrimo terminas motyvuotu priežiūros institucijos sprendimu gali būti pratęstas vieną kartą ne ilgesniam negu vienų metų laikotarpiui. 
+
+
+
+
+12. Priežiūros institucija bet kuriuo metu gali pakeisti sprendimo dėl laikinojo administratoriaus paskyrimo nuostatas, taip pat bet kuriuo metu ir dėl bet kokios priežasties gali atšaukti laikinąjį administratorių. Laikinasis administratorius turi teisę atsistatydinti laikinojo administravimo sutartyje nustatytais atvejais ir tvarka. Jeigu laikinasis administratorius atsistatydina, priežiūros institucija nedelsdama priima sprendimą dėl naujo laikinojo administratoriaus paskyrimo.
+
+
+
+
+13. Apie pagal šio straipsnio 7 dalies 1 punktą priimtą sprendimą paskirti laikinąjį administratorių arba jį atšaukti ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos priežiūros institucija raštu praneša mokėjimo įstaigai, Juridinių asmenų registro tvarkytojui ir paskelbia savo interneto svetainėje.
+
+
+
+
+14. Pagal šio straipsnio 7 dalies 1 punktą paskirtas laikinasis administratorius gali sušaukti mokėjimo įstaigos visuotinį akcininkų susirinkimą ir nustatyti tokio susirinkimo darbotvarkę tik gavęs išankstinį priežiūros institucijos pritarimą. Laikinojo administratoriaus paskyrimas taip pat neriboja teisės aktuose, reglamentuojančiuose įmonių veiklą, nustatytų mokėjimo įstaigos akcininkų teisių.
+
+
+
+
+15. Priežiūros institucija gali reikalauti, kad laikinasis administratorius priežiūros institucijos nustatytais terminais jai teiktų informaciją apie mokėjimo įstaigos finansinę būklę ir savo atliktus veiksmus. 
+
+
+
+
+16. Laikinasis administratorius privalo savo funkcijas atlikti apdairiai ir sąžiningai. Laikinasis administratorius negali jam suteiktų teisių panaudoti savo asmeniniams ar trečiųjų asmenų poreikiams tenkinti. Laikinojo administratoriaus ir mokėjimo įstaigos, kurią administruoti jis paskirtas, nesieja pasitikėjimo (fiduciariniai) santykiai, jis neturi pareigos veikti mokėjimo įstaigos ir jos akcininkų interesais.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2718, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11241
  
-
-
-
-
-3. Mokėjimo įstaigos valdyba ir vadovai turi gauti atstovo veiklos priežiūrai sutikimą dėl kiekvieno su mokėjimo įstaigos veikla susijusio sprendimo. Visi be atstovo veiklos priežiūrai sutikimo mokėjimo įstaigos valdybos ir vadovų sprendimai, priimti po sprendimo paskirti atstovą veiklos priežiūrai įsigaliojimo dienos, yra negaliojantys.
-
-
-
-
-4. Atstovas veiklos priežiūrai nesutinka su mokėjimo įstaigos valdybos ir vadovų sprendimais, jeigu jie, jo nuomone, prieštarauja saugią ir patikimą mokėjimo įstaigų veiklą reglamentuojantiems teisės aktams ar dėl kitų priežasčių kelia grėsmę mokėjimo įstaigos veiklos stabilumui ir patikimumui. Atstovui veiklos priežiūrai, atliekančiam savo funkcijas, mutatis mutandis taikomos Lietuvos banko įstatymo 421 straipsnio 5 dalies 1, 3, 11 ir 12 punktų nuostatos. Atstovas veiklos priežiūrai privalo teikti priežiūros institucijai jos nustatytą informaciją.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
- 
-
-
-
-
-5. Apie priimtą sprendimą paskirti atstovą veiklos priežiūrai ar jį atšaukti ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos pranešama mokėjimo įstaigai ir Juridinių asmenų registrui, taip pat paskelbiama priežiūros institucijos interneto svetainėje. 
-
-
-
-
-6. Atstovas veiklos priežiūrai atšaukiamas, kai:
-
-
-1) nustatoma, kad mokėjimo įstaiga gali stabiliai ir patikimai veikti, ar, priežiūros institucijos nuomone, tokios priemonės taikymas nebetikslingas dėl kitų priežasčių;
-
-
-
-
-2) panaikinamas mokėjimo įstaigai išduotos licencijos galiojimas.
- 
-
-
-
-
 
 
 
@@ -2275,3 +2326,8 @@ Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 8 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1480, 2022-11-03, paskelbta TAR 2022-11-17, i. k. 2022-23199
 Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 17 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2718, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11241
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 8, 33 ir 37 straipsnių pakeitimo įstatymas
