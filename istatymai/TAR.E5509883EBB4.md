@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-11-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
  
@@ -102,17 +102,10 @@ Nr. XII-1166, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13586
 
 
 
-9. Juridinį asmenį kontroliuojantis asmuo – fizinis arba juridinis asmuo, kuris:
-
-
-1) turi teisę išrinkti (paskirti) daugiau negu pusę stebėtojų tarybos (valdybos) narių ar administracijos vadovą;
-
-
-
-
-2) faktiškai kontroliuoja juridinio asmens priimamus sprendimus: turi nuosavybės teisę į visą ar dalį ūkio subjekto turto arba teisę naudoti visą ar dalį ūkio subjekto turto.
-
-
+9. Neteko galios nuo 2024-11-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
 
 
 
@@ -302,6 +295,14 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
  
 
 
+
+
+31. Šiame įstatyme vartojama sąvoka „kontroliuojantis asmuo“ suprantama taip, kaip Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme apibrėžiama sąvoka „naudos gavėjas“. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-995, 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
 Nr. IX-1271, 2002-12-10, Žin., 2002, Nr. 123-5553 (2002-12-24)
@@ -463,12 +464,44 @@ Nr. IX-995, 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
 
 
 
-3) duomenys apie bendrovės akcininkus, stebėtojų tarybos, valdybos narius, bendrovės vadovą, vadovo pavaduotoją, vyriausiąjį buhalterį (buhalterį) ir kitus asmenis, galinčius tvarkyti bendrovės buhalterinę apskaitą pagal Lietuvos Respublikos buhalterinės apskaitos įstatymą;
+3) duomenys apie bendrovės akcininkus, stebėtojų tarybos, valdybos narius, bendrovės vadovą, vadovo pavaduotoją, finansinę apskaitą tvarkančius asmenis; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
 
 
 
 
-4) informacija apie šios dalies 2 ir 3 punktuose nurodytų asmenų dalyvavimą kitų įmonių valdyme;
+31) duomenys apie fizinius asmenis, kurie yra kontroliuojantys asmenys:
+
+
+a) pelno siekiančio juridinio asmens ar pelno siekiančiose juridinio asmens statuso neturinčiose organizacijose, kuriose kontroliuojančiais asmenimis yra bendrovės stebėtojų tarybos, valdybos nariai, bendrovės vadovas, vadovo pavaduotojas, filialo vadovas, bendrovę kontroliuojantys, jos finansinę apskaitą tvarkantys asmenys;
+
+
+
+
+b) juridinio asmens ar juridinio asmens statuso neturinčiose organizacijose, įsteigtose ar veikiančiose de facto siekiant turtinės naudos bendrovės stebėtojų tarybos, valdybos nariams, bendrovės vadovui, vadovo pavaduotojui, filialo vadovui, bendrovę kontroliuojantiems, jos finansinę apskaitą tvarkantiems asmenims;
+
+
+
+
+32) duomenys apie fizinius asmenis, juridinius asmenis, organizacijas, neturinčias juridinio asmens teisių, ar jų filialus, pasitelktus lošimų veiklos leidime nurodomai lošimų organizavimo veiklai vykdyti ar konsultavimui dėl šios veiklos vykdymo; 
+Papildyta straipsnio punktu:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
+
+
+Papildyta straipsnio punktu:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
+
+
+
+
+4) Neteko galios nuo 2024-11-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
 
 
 
@@ -498,12 +531,18 @@ Nr. IX-995, 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
 
 
 
-2) užsienio bendrovės rašytinis įsipareigojimas, kad įsteigtas filialas buhalterinės apskaitos ir kitus su filialo vykdoma veikla susijusius dokumentus tvarkys ir laikys filialo buveinėje;
+2) užsienio bendrovės rašytinis įsipareigojimas, kad įsteigtas filialas finansinės apskaitos ir kitus su filialo vykdoma veikla susijusius dokumentus tvarkys ir laikys filialo buveinėje; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
 
 
 
 
-3) duomenys apie filialo vadovą, jo dalyvavimą kitų įmonių valdyme.
+3) duomenys apie filialo vadovą. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
 
 
 
@@ -520,27 +559,38 @@ Nr. IX-995, 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
 
 
 
-5. Priežiūros tarnyba per 3 darbo dienas nuo visų šio straipsnio 1, 2 ir 3 dalyse nurodytų tinkamų dokumentų ir informacijos gavimo dienos turi:
+5. Priežiūros tarnyba per 7 darbo dienas nuo visų šio straipsnio 1, 2 ir 3 dalyse nurodytų tinkamų dokumentų ir informacijos gavimo dienos turi:
 
 
-1) kreiptis į Įtariamųjų, kaltinamųjų ir nuteistųjų registro tvarkytoją, siekdama patikrinti, ar bendrovė, ar šio straipsnio 1 dalies 2 ir 3 punktuose ir 2 dalies 3 punkte nurodyti asmenys atitinka šio įstatymo 11 straipsnio 1 ir 2 dalyse nustatytus nepriekaištingos reputacijos  reikalavimus;
-
-
-
-
-2) kreiptis į Valstybės saugumo departamentą dėl išvadų, ar šio straipsnio 1 dalies 2 ir 3 punktuose ir 2 dalies 3 punkte nurodyti asmenys ir bendrovės veikla nekelia grėsmės valstybės saugumui;
+1) kreiptis į Įtariamųjų, kaltinamųjų ir nuteistųjų registro tvarkytoją, siekdama patikrinti, ar bendrovė, ar šio straipsnio 1 dalies 2, 3, 31 ir 32 punktuose ir 2 dalies 3 punkte nurodyti asmenys atitinka šio įstatymo 11 straipsnio 1 ir 2 dalyse nustatytus nepriekaištingos reputacijos reikalavimus;
 
 
 
 
-3) kreiptis į Finansinių nusikaltimų tyrimo tarnybą prie Vidaus reikalų ministerijos dėl turimos neigiamos informacijos apie bendrovę ir šio straipsnio 1 dalies 2 ir 3 punktuose ir 2 dalies 3 punkte nurodytus asmenis pateikimo;
+2) kreiptis į Lietuvos Respublikos valstybės saugumo departamentą dėl išvadų, ar šio straipsnio 1 dalies 2, 3, 31 ir 32 punktuose ir 2 dalies 3 punkte nurodyti asmenys ir bendrovės veikla nekelia grėsmės valstybės saugumui;
 
 
 
 
-4) patikrinti, ar bendrovė neturi mokestinių nepriemokų Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos, ar neturi skolos Valstybinio socialinio draudimo fondo biudžetui (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas) (toliau – mokestinė nepriemoka).
+3) kreiptis į Finansinių nusikaltimų tyrimo tarnybą prie Vidaus reikalų ministerijos dėl turimos neigiamos informacijos apie bendrovę ir šio straipsnio 1 dalies 2, 3, 31 ir 32 punktuose ir 2 dalies 3 punkte nurodytus asmenis pateikimo;
 
 
+
+
+4) patikrinti, ar bendrovė neturi mokestinių nepriemokų Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar neturi skolos Valstybinio socialinio draudimo fondo biudžetui (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas) (toliau – mokestinė nepriemoka). 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
+
+
+
+
+51. Priežiūros tarnyba, vertindama bendrovės, šio straipsnio 1 dalies 2, 3, 31 ir 32 punktuose ir 2 dalies 3 punkte nurodytų asmenų atitiktį šio įstatymo 11 straipsnyje nurodytam nepriekaištingos reputacijos reikalavimui, gali naudotis ir kitų valstybės registrų ir valstybės informacinių sistemų duomenimis.
+Papildyta straipsnio dalimi:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
 
 
 
@@ -615,7 +665,10 @@ Lošimų licencijavimo taisykles tvirtina Vyriausybė.
 
 
 
-3) bendrovė neatitinka šio įstatymo 11 straipsnyje nurodyto nepriekaištingos reputacijos reikalavimo arba bendrovės akcininkai, juos kontroliuojantys asmenys (jeigu bendrovės akcininkas yra juridinis asmuo), stebėtojų tarybos, valdybos nariai, bendrovės vadovas, jo pavaduotojas, vyriausiasis buhalteris (buhalteris) ir kiti asmenys, galintys tvarkyti bendrovės buhalterinę apskaitą pagal Buhalterinės apskaitos įstatymą, filialo vadovas neatitinka šio įstatymo 11 straipsnyje nurodyto nepriekaištingos reputacijos reikalavimo;
+3) bendrovė neatitinka šio įstatymo 11 straipsnyje nurodyto nepriekaištingos reputacijos reikalavimo arba šio įstatymo 6 straipsnio 1 dalies 2, 3, 31 ir 32 punktuose ir 2 dalies 3 punkte nurodyti asmenys neatitinka šio įstatymo 11 straipsnyje nurodyto nepriekaištingos reputacijos reikalavimo;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
 
 
 
@@ -665,6 +718,14 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 
 
 
+11. Priežiūros tarnyba, savo iniciatyva surinkusi arba gavusi duomenis ir informaciją, kad šio įstatymo 6 straipsnio 1 dalies 31 ir 32 punktuose nurodyti asmenys nebeatitinka šio įstatymo 11 straipsnio 4 dalyje nustatyto nepriekaištingos reputacijos reikalavimo, ne vėliau kaip per 3 darbo dienas nuo duomenų ir informacijos gavimo dienos priima sprendimą įspėti bendrovę apie galimą licencijos galiojimo sustabdymą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
+
+
+
+
 2. Priežiūros tarnyba sprendimo įspėti bendrovę apie galimą licencijos galiojimo sustabdymą priėmimo dieną apie priimtą sprendimą praneša bendrovei, nurodo pažeidimus ir, atsižvelgdama į pažeidimų pobūdį ir sunkumą, nustato ne ilgesnį kaip 2 mėnesių terminą, per kurį bendrovė privalo nurodytus pažeidimus nutraukti.
 
 
@@ -683,7 +744,10 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 
 
 
-2) Priežiūros tarnyba savo iniciatyva surenka arba gauna duomenis ir informaciją, kad šio įstatymo 11 straipsnio 2 dalyje nurodyti asmenys nebeatitinka nepriekaištingos reputacijos reikalavimo arba bendrovė nebeatitinka nepriekaištingos reputacijos reikalavimo ir (ar) bendrovei keliamų reikalavimų, nustatytų šio įstatymo 10 straipsnio 4 ir 14 dalyse ir 14 straipsnyje, ir (ar) neturi apmokėto įstatuose nurodyto dydžio įstatinio ir (ar) nuosavo kapitalo, atitinkančio šio įstatymo 13 straipsnio reikalavimus.
+2) Priežiūros tarnyba savo iniciatyva surenka arba gauna duomenis ir informaciją, kad šio įstatymo 6 straipsnio 1 dalies 2 ir 3 punktuose ir 2 dalies 3 punkte nurodyti asmenys nebeatitinka nepriekaištingos reputacijos reikalavimo arba bendrovė nebeatitinka nepriekaištingos reputacijos reikalavimo ir (ar) bendrovei keliamų reikalavimų, nustatytų šio įstatymo 10 straipsnio 4 ir 14 dalyse ir 14 straipsnyje, ir (ar) neturi apmokėto įstatuose nurodyto dydžio įstatinio ir (ar) nuosavo kapitalo, atitinkančio šio įstatymo 13 straipsnyje nustatytus reikalavimus.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
 
 
 
@@ -816,7 +880,10 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 
 
 
-2) pasikeitus akcininkams, juos kontroliuojantiems asmenims (jeigu bendrovės akcininkas yra juridinis asmuo), stebėtojų tarybos, valdybos nariams, bendrovės vadovui, jo pavaduotojui, vyriausiajam buhalteriui (buhalteriui) ir kitiems asmenims, galintiems tvarkyti bendrovės buhalterinę apskaitą pagal Buhalterinės apskaitos įstatymą, filialo vadovui, ne vėliau kaip per 5 darbo dienas nuo duomenų pasikeitimo apie tai pranešti Priežiūros tarnybai jos nustatyta tvarka;
+2) Neteko galios nuo 2024-11-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
 
 
 
@@ -833,6 +900,64 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 
 Papildyta straipsniu:
 Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
+ 
+
+
+
+
+74 straipsnis. Pareiga pranešti Priežiūros tarnybai ir gauti jos išankstinį pritarimą atlikti pakeitimus
+
+
+1. Lošimų organizatorius privalo Priežiūros tarnybai jos nustatyta tvarka pranešti apie numatomą šio įstatymo 6 straipsnio 1 dalies 3 punkte ir 2 dalies 3 punkte nurodytų asmenų pasikeitimą ir pateikti prašymą leisti atlikti nurodytų asmenų pakeitimus bei pateikti šio įstatymo 6 straipsnio 1 dalies 3 punkte ir 2 dalies 3 punkte nurodytus dokumentus ir duomenis bei dokumentus ir duomenis apie lošimų organizatoriaus akcininkų lėšų, kurios bus naudojamos lošimų organizatoriaus vardinėms akcijoms įsigyti, kilmę (pinigų gavimo šaltinius).
+
+
+
+
+2. Priežiūros tarnyba, gavusi šio straipsnio 1 dalyje nurodytus dokumentus ir informaciją, ne vėliau kaip per 3 darbo dienas nuo dokumentų ir informacijos gavimo dienos juos įvertina ir nustačiusi, kad pateiktuose dokumentuose nurodyti neteisingi duomenys ar pateikti ne visi privalomi pateikti dokumentai ir informacija, lošimų organizatoriui praneša apie nustatytus trūkumus bei nurodo ne trumpesnį kaip 5 darbo dienų nuo pranešimo gavimo dienos terminą trūkumams pašalinti.
+
+
+
+
+3. Priežiūros tarnyba per 3 darbo dienas nuo visų tinkamų dokumentų ir informacijos iš lošimų organizatoriaus gavimo dienos turi kreiptis į šio įstatymo 6 straipsnio 5 dalies  1–3 punktuose nurodytas institucijas dėl išvadų ir informacijos apie asmenis, ketinančius tapti šio įstatymo 6 straipsnio 1 dalies 3 punkte ir 2 dalies 3 punkte nurodytais asmenimis, gavimo. Šio įstatymo 6 straipsnio 5 dalies 1–3 punktuose nurodytos institucijos pagal kompetenciją išvadas ir informaciją Priežiūros tarnybai turi pateikti ne vėliau kaip per 20 darbo dienų nuo kreipimosi pateikimo institucijoms dienos. 
+
+
+
+
+4. Priežiūros tarnybos sprendimas leisti ar atsisakyti leisti lošimų organizatoriui atlikti asmenų pakeitimus priimamas per 3 darbo dienas nuo visų šio įstatymo 6 straipsnio 5 dalies  1–3 punktuose nurodytų institucijų išvadų ir informacijos gavimo dienos.
+
+
+
+
+5. Atsisakymas leisti atlikti asmenų pakeitimus priimamas, kai yra šio įstatymo 71 straipsnio 1 dalies 3, 5 ir 6 punktuose nustatyti pagrindai. Atsisakymas leisti atlikti asmenų pakeitimus priimamas ir tuo atveju, kai lošimų organizatorius per šio straipsnio 2 dalyje nustatytą terminą nepateikia visų dokumentų, duomenų ir (ar) informacijos, reikalingų sprendimui leisti lošimų organizatoriui atlikti asmenų pakeitimus priimti.
+
+
+
+
+6. Priežiūros tarnyba sprendimo leisti ar atsisakyti leisti atlikti asmenų pakeitimus priėmimo dieną šį sprendimą pateikia lošimų organizatoriui, dėl kurio jis priimtas, ir nurodo tokio sprendimo priėmimo motyvus, pagrindus ir sprendimo apskundimo tvarką.
+
+
+
+
+7. Lošimų organizatorius, gavęs Priežiūros tarnybos sprendimą leisti atlikti asmenų pakeitimus, ne vėliau kaip per 5 darbo dienas nuo vadovo pavaduotojo ir finansinę apskaitą tvarkančio asmens pasikeitimo dienos privalo apie tai pranešti Priežiūros tarnybai.
+
+
+
+
+8. Jeigu yra būtinybė lošimų organizatoriaus vadovą nušalinti nuo pareigų nedelsiant, kol bus gautas Priežiūros tarnybos sprendimas leisti atlikti asmenų pakeitimus, bendrovės vadovo pareigas pavedama laikinai eiti bendrovės darbuotojui, kuris atitinka šio įstatymo 11 straipsnio 3 dalyje nustatytą nepriekaištingos reputacijos reikalavimą.
+
+
+
+
+9. Šio straipsnio 8 dalies nuostatos mutatis mutandis taikomos filialo vadovo nušalinimui nuo pareigų.
+
+
+
+
+10. Lošimų organizatorius privalo Priežiūros tarnybai jos nustatyta tvarka pranešti apie šio įstatymo 6 straipsnio 1 dalies 2, 31 ir 32 punktuose nurodytų asmenų pasikeitimą ne vėliau kaip per 20 darbo dienų nuo duomenų pasikeitimo dienos ir pateikti šio įstatymo 6 straipsnio 1 dalies 2, 31 ir 32 punktuose nurodytus dokumentus ir duomenis. Priežiūros tarnyba, gavusi lošimų organizatoriaus pateiktus dokumentus ir duomenis, ne vėliau kaip per 3 darbo dienas nuo dokumentų ir duomenų gavimo dienos juos įvertina ir nustačiusi, kad pateiktuose dokumentuose nurodyti neteisingi duomenys ar pateikti ne visi privalomi pateikti dokumentai ir duomenys, lošimų organizatoriui praneša apie nustatytus trūkumus bei nurodo ne trumpesnį kaip 5 darbo dienų nuo pranešimo gavimo dienos terminą trūkumams pašalinti. Priežiūros tarnyba per 3 darbo dienas nuo visų tinkamų dokumentų ir duomenų gavimo iš lošimų organizatoriaus dienos turi kreiptis į šio įstatymo 6 straipsnio 5 dalies 1–3 punktuose nurodytas institucijas dėl išvadų ir informacijos apie šio įstatymo 6 straipsnio 1 dalies 2, 31 ir 32 punktuose nurodytus asmenis gavimo. Šio įstatymo 6 straipsnio 5 dalies 1–3 punktuose nurodytos institucijos pagal kompetenciją išvadas ir informaciją Priežiūros tarnybai turi pateikti ne vėliau kaip per 20 darbo dienų nuo kreipimosi pateikimo institucijoms dienos.
+
+
+Papildyta straipsniu:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
  
 
 
@@ -1243,56 +1368,87 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 11 straipsnis. Nepriekaištinga reputacija
 
 
-1.  Ketinanti gauti licenciją organizuoti lošimus bendrovė (dokumentų licencijai gauti pateikimo metu) ir tokią licenciją turinti bendrovė privalo būti nepriekaištingos reputacijos.
+1. Ketinanti gauti licenciją organizuoti lošimus bendrovė (dokumentų licencijai gauti pateikimo metu) ir tokią licenciją turinti bendrovė privalo būti nepriekaištingos reputacijos.
 
 
 
 
-2.  Bendrovės akcininkais, juos kontroliuojančiais asmenimis (jeigu bendrovės akcininkas yra juridinis asmuo), stebėtojų tarybos, valdybos nariais, bendrovės vadovu, jo pavaduotojais, vyriausiuoju buhalteriu (buhalteriu) ir kitais asmenimis, galinčiais tvarkyti bendrovės buhalterinę apskaitą pagal Buhalterinės apskaitos įstatymą, filialo vadovu, lošimo namų (kazino), bingo, automatų salonų vadovais, jų pavaduotojais, vyriausiaisiais buhalteriais (buhalteriais), lošėjus aptarnaujančio personalo darbuotojais turi būti nepriekaištingos reputacijos asmenys. 
+2. Šio įstatymo 6 straipsnio 1 dalies 2, 3, 31 ir 32 punktuose ir 2 dalies 3 punkte nurodyti asmenys, lošimo namų (kazino), bingo, automatų salonų, totalizatoriaus ir lažybų punktų, nuotolinių lošimų organizavimo vadovai, jų pavaduotojai, lošėjus aptarnaujančio personalo darbuotojai turi būti nepriekaištingos reputacijos.
 
 
 
 
-3. Fizinis asmuo laikomas nepriekaištingos reputacijos, išskyrus atvejus, kai:
+3. Fizinis asmuo, išskyrus šio įstatymo 6 straipsnio 1 dalies 31 ir 32 punktuose nurodytus asmenis, laikomas nepriekaištingos reputacijos, išskyrus atvejus, kai:
 
 
-1) jis yra pripažintas kaltu dėl Lietuvos Respublikos baudžiamajame kodekse numatyto sunkaus tyčinio nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, teisingumui, visuomenės saugumui, valdymo tvarkai ar dėl juos atitinkančių nusikalstamų veikų padarymo pagal kitų valstybių baudžiamuosius įstatymus ir turi neišnykusį ar nepanaikintą teistumą;
-
-
-
-
-2) jis yra uždraustos organizacijos narys.
+1) jis yra pripažintas kaltu padaręs Lietuvos Respublikos baudžiamajame kodekse numatytą sunkų arba labai sunkų nusikaltimą ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 8 metai; 
 
 
 
 
-
-
-4. Bendrovė laikoma nepriekaištingos reputacijos, išskyrus atvejus, kai:
-
-
-1) ji yra pripažinta kalta dėl Baudžiamajame kodekse numatyto sunkaus tyčinio nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, teisingumui, visuomenės saugumui, valdymo tvarkai ar dėl juos atitinkančių nusikalstamų veikų padarymo pagal kitų valstybių baudžiamuosius įstatymus ir turi neišnykusį ar nepanaikintą teistumą;   
+2) jis yra pripažintas kaltu padaręs Baudžiamajame kodekse numatytą nesunkų arba apysunkį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, teisingumui, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 5 metai;
 
 
 
 
-2) bendrovės akcininkai, juos kontroliuojantys fiziniai asmenys (jeigu bendrovės akcininkas yra juridinis asmuo), stebėtojų tarybos, valdybos nariai, bendrovės vadovas, jo pavaduotojai, vyriausiasis buhalteris (buhalteris) ir kiti asmenys, galintys tvarkyti bendrovės buhalterinę apskaitą pagal Buhalterinės apskaitos įstatymą, filialo vadovas yra pripažinti kaltais dėl Baudžiamajame kodekse numatyto sunkaus tyčinio nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, teisingumui, visuomenės saugumui, valdymo tvarkai ar dėl juos atitinkančių nusikalstamų veikų padarymo pagal kitų valstybių baudžiamuosius įstatymus ir turi neišnykusį ar nepanaikintą teistumą (fizinis asmuo) ar yra uždraustos organizacijos nariai arba šios bendrovės akcininkas (juridinis asmuo) ir (arba) šį akcininką kontroliuojantis juridinis asmuo yra pripažinti kaltais dėl šios dalies 1 punkte nurodytos nusikalstamos veikos padarymo ir turi neišnykusį ar nepanaikintą teistumą;
+3) jis yra pripažintas kaltu padaręs kitą, negu nurodyta šios dalies 1 ir 2 punktuose, Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai; 
 
 
 
 
-3) šios bendrovės akcininkas (juridinis asmuo) ir (arba) šį akcininką kontroliuojantis juridinis asmuo yra bendrovė, kuriai licencijos organizuoti lošimus galiojimas panaikintas pagal šio įstatymo 72 straipsnio 8 dalies 1, 4, 5 ir 6 punktus ir nuo licencijos galiojimo panaikinimo nepraėję 5 metai. 
+4) jis yra uždraustos organizacijos narys ar kelia grėsmę valstybės saugumui.
 
 
 
 
+
+
+4. Šio įstatymo 6 straipsnio 1 dalies 31 ir 32 punktuose nurodyti asmenys laikomi nepriekaištingos reputacijos, išskyrus atvejus, kai jie yra pripažinti kaltais dėl Baudžiamajame kodekse numatyto sunkaus, labai sunkaus arba tyčinio nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, teisingumui, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar juos atitinkančių nusikalstamų veikų pagal kitų valstybių baudžiamuosius įstatymus ir turi neišnykusį ar nepanaikintą teistumą, yra uždraustos organizacijos nariai ar kelia grėsmę valstybės saugumui.
+
+
+
+
+5. Bendrovė laikoma nepriekaištingos reputacijos, išskyrus atvejus, kai:
+
+
+1) ji yra pripažinta kalta dėl Baudžiamajame kodekse numatyto sunkaus arba labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, teisingumui, visuomenės saugumui, valdymo tvarkai ar dėl juos atitinkančių nusikalstamų veikų padarymo pagal kitų valstybių baudžiamuosius įstatymus ir nuo teistumo išnykimo ar panaikinimo dienos nepraėjo 8 metai; 
+
+
+
+
+2) šio įstatymo 6 straipsnio 1 dalies 2, 3 punktuose ir 2 dalies 3 punkte nurodyti asmenys yra pripažinti kaltais padarę Baudžiamajame kodekse numatytą sunkų arba labai sunkų nusikaltimą ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir nuo asmens teistumo išnykimo ar panaikinimo dienos nepraėjo 8 metai ar šio įstatymo 6 straipsnio 1 dalies 2, 3 punktuose ir 2 dalies 3 punkte nurodyti asmenys yra uždraustos organizacijos nariai;
+
+
+
+
+3) šio įstatymo 6 straipsnio 1 dalies 2, 3 punktuose ir 2 dalies 3 punkte nurodyti asmenys yra pripažinti kaltais padarę Baudžiamajame kodekse numatytą nesunkų arba apysunkį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, teisingumui, visuomenės saugumui ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 5 metai;
+
+
+
+
+4) šio įstatymo 6 straipsnio 1 dalies 2, 3 punktuose ir 2 dalies 3 punkte nurodyti asmenys yra pripažinti kaltais padarę kitą, negu nurodyta šios dalies 2 ir 3 punktuose, Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai;
+
+
+
+
+5) šio įstatymo 6 straipsnio 1 dalies 31 ir 32 punktuose nurodyti asmenys yra pripažinti kaltais dėl Baudžiamajame kodekse numatyto sunkaus, labai sunkaus nusikaltimo arba tyčinio nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, teisingumui, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar juos atitinkančių nusikalstamų veikų pagal kitų valstybių baudžiamuosius įstatymus ir turi neišnykusį ar nepanaikintą teistumą, yra uždraustos organizacijos nariai ar kelia grėsmę valstybės saugumui;
+
+
+
+
+6) šios bendrovės akcininkas (juridinis asmuo) yra bendrovė, kuriai licencijos organizuoti lošimus galiojimas panaikintas pagal šio įstatymo 72 straipsnio 8 dalies 1, 4, 5 ir 6 punktus ir nuo licencijos galiojimo panaikinimo nepraėjo 5 metai.
 Straipsnio pakeitimai:
 Nr. IX-1418, 2003-04-03, Žin., 2003, Nr. 38-1663 (2003-04-24)
 Nr. IX-1698, 2003-07-04, Žin., 2003, Nr. 74-3419 (2003-07-25)
-Nr. XI-1578, 2011-09-15, Žin., 2011, Nr. 119-5611 (2011-10-01)
+Nr. XI-1578, 2011-09-15, Žin., 2011, Nr. 119-5611 (2011-10-01
 Nr. XI-2239, 2012-10-02, Žin., 2012, Nr. 122-6098 (2012-10-20)
+
+
+
+
 Straipsnio pakeitimai:
 Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
  
 
 
@@ -2374,7 +2530,10 @@ Nr. XIV-800, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27378
 
 
 
-5) lošimo namų (kazino), bingo, automatų salonų vadovai, jų pavaduotojai, vyriausieji buhalteriai (buhalteriai), lošėjus aptarnaujančio personalo darbuotojai neatitinka nepriekaištingos reputacijos reikalavimo;
+5) lošimo namų (kazino), bingo, automatų salonų vadovai, jų pavaduotojai, finansinę apskaitą tvarkantys asmenys, lošėjus aptarnaujančio personalo darbuotojai neatitinka nepriekaištingos reputacijos reikalavimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
 
 
 
@@ -3134,7 +3293,10 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 292 straipsnis. Baudos ir jų skyrimo tvarka
 
 
-1. Bendrovei už šio įstatymo 10 straipsnio 9, 10, 19 ir 21 dalių, 13 ir 208 straipsnių pažeidimus Priežiūros tarnyba skiria baudą nuo 0,1 iki 1 procento praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą), bet ne mažiau kaip 6 000 eurų ir ne daugiau kaip 25 000 eurų.
+1. Bendrovei už šio įstatymo 74 straipsnio 1 ir 10 dalių, 10 straipsnio 9, 10, 19 ir 21 dalių, 11, 13 ir 208 straipsnių pažeidimus Priežiūros tarnyba skiria baudą nuo 0,1 iki 1 procento praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą), bet ne mažiau kaip 6 000 eurų ir ne daugiau kaip 25 000 eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
 
 
 
@@ -3144,7 +3306,10 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 
 
 
-3. Už šio įstatymo 10 straipsnio 3, 5, 6, 7, 8, 101, 11, 13, 15 ir 17 dalių, 101 straipsnio 1 dalies, 102 straipsnio 3 dalies, 103 straipsnio 1 ir 3 dalių, 11 straipsnio 5 dalies, 12 straipsnio 2, 3, 4 ir 5 dalių, 15–20 straipsnių, 201 straipsnio 1 ir 2 dalių, 202 straipsnio, 203 straipsnio 3, 4, 5, 8 ir 9 dalių, 204 straipsnio 1, 3 ir 4 dalių, 205 straipsnio 1, 2 ir 3 dalių, 206 straipsnio 2 ir 3 dalių ir 25 straipsnio 1 dalies pažeidimus Priežiūros tarnyba bendrovei skiria baudą nuo 0,1 iki 0,5 procento praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą), bet ne mažiau kaip 6 000 eurų ir ne daugiau kaip 15 000 eurų.
+3. Už šio įstatymo 10 straipsnio 3, 5, 6, 7, 8, 101, 11, 13, 15 ir 17 dalių, 101 straipsnio 1 dalies, 102 straipsnio 3 dalies, 103 straipsnio 1 ir 3 dalių, 12 straipsnio 2, 3, 4 ir 5 dalių, 15–20 straipsnių, 201 straipsnio 1 ir 2 dalių, 202 straipsnio, 203 straipsnio 3, 4, 5, 8 ir 9 dalių, 204 straipsnio 1, 3 ir 4 dalių, 205 straipsnio 1, 2 ir 3 dalių, 206 straipsnio 2 ir 3 dalių ir 25 straipsnio 1 dalies pažeidimus Priežiūros tarnyba bendrovei skiria baudą nuo 0,1 iki 0,5 procento praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą), bet ne mažiau kaip 6 000 eurų ir ne daugiau kaip 15 000 eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+ 
 
 
 
@@ -3518,3 +3683,8 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 20-7 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2142, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14038
 Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 20-7 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 6, 7-1, 7-2, 7-3, 11, 22, 29-2 straipsnių pakeitimo ir Įstatymo papildymo 7-4 straipsniu įstatymas
