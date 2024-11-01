@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2024-08-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-12-29
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -3116,10 +3116,26 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
 
 
-3. Patikos ar bendrovių steigimo, ar administravimo paslaugų teikėju, nekilnojamojo turto agentu, juridinio asmens, kuris vykdo patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjo, nekilnojamojo turto agento veiklą, valdymo ar priežiūros organų nariu arba tokių asmenų naudos gavėju negali būti fizinis asmuo, kuris yra pripažintas kaltu dėl sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams ir turi neišnykusį ar nepanaikintą teistumą.
+3. Patikos ar bendrovių steigimo, administravimo, mokesčių konsultavimo paslaugų teikėju, nekilnojamojo turto agentu (brokeriu), juridinio asmens, kuris vykdo patikos ar bendrovių steigimo, administravimo, mokesčių konsultavimo paslaugų teikėjo, nekilnojamojo turto agento (brokerio) veiklą, valdymo ar priežiūros organų nariu arba tokių asmenų naudos gavėju negali būti fizinis asmuo, kuris yra: 
+
+
+1) pripažintas kaltu padaręs Lietuvos Respublikos baudžiamajame kodekse numatytą sunkų arba labai sunkų nusikaltimą ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 8 metai; 
+
+
+
+
+2) pripažintas kaltu padaręs Baudžiamajame kodekse numatytą nesunkų arba apysunkį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, visuomenės saugumui ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 5 metai; 
+
+
+
+
+3) pripažintas kaltu padaręs kitą, negu nurodyta šios dalies 1 ir 2 punktuose, Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai. 
+
+
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
  
 
 
