@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2024-07-06 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2025-01-16
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -472,6 +472,14 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 75. Kainų reguliavimo periodas – laikotarpis, kuriam nustatomos elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų viršutinės ribos.
+
+
+
+
+751. Kilnojamųjų elektros energetikos objektų ir įrenginių gyvavimo ciklas – visuma procesų, sudarančių kilnojamųjų elektros energetikos objektų ir įrenginių raidos ciklą (planavimas, projektavimas, įrengimas, naudojimas ir išmontavimas) per šių objektų ir įrenginių gyvavimo laiką.
+Papildyta straipsnio dalimi:
+Nr. XIV-2423, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25644
+ 
 
 
 
@@ -2136,7 +2144,10 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-2) 48 mėnesių laikotarpiui statant ar įrengiant elektros energijos gamybos įrenginius ir energijos kaupimo įrenginius, išskyrus šios dalies 1 punkte nurodytas saulės šviesos energijos elektrines ir šio straipsnio 43 punkte nurodytus energijos kaupimo įrenginius. 
+2) 48 mėnesių laikotarpiui statant ar įrengiant elektros energijos gamybos įrenginius ir energijos kaupimo įrenginius, išskyrus šios dalies 1 punkte nurodytas saulės šviesos energijos elektrines ir šio straipsnio 43 dalyje nurodytus energijos kaupimo įrenginius. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
+ 
 
 
 Papildyta straipsnio dalimi:
@@ -2159,9 +2170,11 @@ Nr. XIV-1700, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27273
 
 
 
-43. Leidimai tiesti tiesioginę liniją, leidimai modernizuoti iš atsinaujinančių išteklių elektros energiją gaminančią elektrinę ar elektros energijos gamybos įrenginį ir energijos kaupimo įrenginį, kurio leistina generuoti galia yra mažesnė negu 6 MW, išduodami 36 mėnesių laikotarpiui.
+43. Leidimai tiesti tiesioginę liniją, leidimai modernizuoti iš atsinaujinančių išteklių elektros energiją gaminančią elektrinę ar elektros energijos gamybos įrenginį ir leidimai plėtoti energijos kaupimo pajėgumus statant ar įrengiant energijos kaupimo įrenginį, kurio leistina generuoti galia yra mažesnė negu 6 MW, išduodami 36 mėnesių laikotarpiui. 
 Papildyta straipsnio dalimi:
 Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+Straipsnio dalies pakeitimai:
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
  
 
 
@@ -2249,7 +2262,23 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-8) kurie turi leidimą modernizuoti iš atsinaujinančių išteklių elektros energiją gaminančią elektrinę ar elektros energijos gamybos įrenginį, kai leidimo turėtojas įvykdė šios dalies 1–5 punktuose nurodytus reikalavimus. 
+8) kurie turi leidimą modernizuoti iš atsinaujinančių išteklių elektros energiją gaminančią elektrinę ar elektros energijos gamybos įrenginį, kai leidimo turėtojas įvykdė šios dalies 1–5 punktuose nurodytus reikalavimus; 
+
+
+
+
+9) jeigu juridiniam asmeniui nėra pradėta bankroto, restruktūrizavimo ir (ar) likvidavimo procedūra, o fiziniam asmeniui nėra pradėta fizinio asmens bankroto procedūra;
+Papildyta straipsnio punktu:
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
+ 
+
+
+
+
+10) kurie neturi skolų, kurių bendra suma viršija 10 000 eurų, viešuosius interesus atitinkančių paslaugų elektros energetikos sektoriuje lėšų biudžetui, administruojamam viešuosius interesus atitinkančių paslaugų elektros energetikos sektoriuje lėšų administratoriaus. Jeigu šiame punkte nurodytų skolų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo neturi šiame punkte nurodytų skolų. 
+Papildyta straipsnio punktu:
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -2428,7 +2457,23 @@ Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
 
 
 
-9) gautas Lietuvos kariuomenės patvirtinimas, kad teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo reikalavimus, netaikomi apribojimai projektuoti ir statyti vėjo elektrines arba yra apribojimai projektuoti ir statyti vėjo elektrines, tačiau planuojamų statyti vėjo elektrinių keliamų trukdžių nacionaliniam saugumui užtikrinti galima išvengti panaudojant papildomas priemones, kaip tai numatyta Atsinaujinančių išteklių energetikos įstatyme. 
+9) gautas Lietuvos kariuomenės patvirtinimas, kad teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo reikalavimus, netaikomi apribojimai projektuoti ir statyti vėjo elektrines arba yra apribojimai projektuoti ir statyti vėjo elektrines, tačiau planuojamų statyti vėjo elektrinių keliamų trukdžių nacionaliniam saugumui užtikrinti galima išvengti panaudojant papildomas priemones, kaip tai numatyta Atsinaujinančių išteklių energetikos įstatyme; 
+
+
+
+
+10) juridiniam asmeniui nėra pradėta bankroto, restruktūrizavimo ir (ar) likvidavimo procedūra, o fiziniam asmeniui nėra pradėta fizinio asmens bankroto procedūra;
+Papildyta straipsnio punktu:
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
+ 
+
+
+
+
+11) neturi skolų, kurių bendra suma viršija 10 000 eurų, viešuosius interesus atitinkančių paslaugų elektros energetikos sektoriuje lėšų biudžetui, administruojamam viešuosius interesus atitinkančių paslaugų elektros energetikos sektoriuje lėšų administratoriaus. Jeigu šiame punkte nurodytų skolų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo neturi šiame punkte nurodytų skolų. 
+Papildyta straipsnio punktu:
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -2612,12 +2657,13 @@ Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
 
 
 
-25. Jeigu pateikti ne visi šio straipsnio 1 dalies 1–5 ir 8–10 punktuose nurodytiems leidimams išduoti reikalingi dokumentai arba pateikti duomenys yra neteisingi, taip pat jeigu jų nepakanka nustatyti, ar dokumentai atitinka nustatytus reikalavimus, Taryba ne vėliau kaip per 10 darbo dienų nuo prašymo registravimo leidimus išduodančioje institucijoje dienos praneša asmeniui, kad būtina pateikti trūkstamus dokumentus ar informaciją. Asmuo trūkstamus dokumentus ar informaciją pateikia ne vėliau kaip per 30 kalendorinių dienų nuo pranešimo gavimo dienos. Jeigu asmuo per nustatytą terminą pateikia trūkstamus dokumentus ar informaciją, taip pašalindamas aplinkybes, trukdančias išduoti leidimą, leidimas išduodamas per šio įstatymo 17 straipsnyje nustatytą terminą. 
+25. Jeigu pateikti ne visi šio straipsnio 1 dalies 1–6 ir 8–10 punktuose nurodytiems leidimams išduoti reikalingi dokumentai arba pateikti duomenys yra neteisingi, taip pat jeigu jų nepakanka nustatyti, ar dokumentai atitinka nustatytus reikalavimus, Taryba ne vėliau kaip per 10 darbo dienų nuo prašymo registravimo leidimus išduodančioje institucijoje dienos praneša asmeniui, kad būtina pateikti trūkstamus dokumentus ar informaciją. Asmuo trūkstamus dokumentus ar informaciją pateikia ne vėliau kaip per 30 kalendorinių dienų nuo pranešimo gavimo dienos. Jeigu asmuo per nustatytą terminą pateikia trūkstamus dokumentus ar informaciją, taip pašalindamas aplinkybes, trukdančias išduoti leidimą, leidimas išduodamas per šio įstatymo 17 straipsnyje nustatytą terminą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 Nr. XIV-1002, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07251
 Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
  
 
 
@@ -4356,7 +4402,10 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 
 
-2. Perdavimo sistemos operatorius užtikrina trečiųjų asmenų prieigą prie perdavimo tinklų, ją valdo ir pateikia paaiškinimus, kai tokia prieiga nesuteikiama. Tuo tikslu perdavimo sistemos operatorius Tarybos nustatytomis sąlygomis parengia ir teikia Tarybai tvirtinti Pasinaudojimo elektros tinklais tvarkos aprašą, taip pat jį paskelbia savo interneto svetainėje.
+2. Perdavimo sistemos operatorius užtikrina trečiųjų asmenų prieigą prie perdavimo tinklų, ją valdo ir pateikia paaiškinimus, kai tokia prieiga nesuteikiama. Tuo tikslu perdavimo sistemos operatorius Tarybos nustatytomis sąlygomis parengia, su Energetikos ministerija ir kitomis suinteresuotomis šalimis derina ir teikia Tarybai tvirtinti Pasinaudojimo elektros tinklais tvarkos aprašą, taip pat jį paskelbia savo interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
+ 
 
 
 
@@ -4892,9 +4941,10 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 
 
-2. Skirstomųjų tinklų operatorius užtikrina trečiųjų asmenų prieigą prie skirstomųjų tinklų, ją valdo ir pateikia paaiškinimus, kai tokia prieiga nesuteikiama. Tuo tikslu skirstomųjų tinklų operatorius Tarybos nustatytomis sąlygomis parengia ir teikia Tarybai tvirtinti Pasinaudojimo elektros tinklais tvarkos aprašą, taip pat jį skelbia savo interneto svetainėje. 
+2. Skirstomųjų tinklų operatorius užtikrina trečiųjų asmenų prieigą prie skirstomųjų tinklų, ją valdo ir pateikia paaiškinimus, kai tokia prieiga nesuteikiama. Tuo tikslu skirstomųjų tinklų operatorius Tarybos nustatytomis sąlygomis parengia, su Energetikos ministerija ir kitomis suinteresuotomis šalimis derina ir teikia Tarybai tvirtinti Pasinaudojimo elektros tinklais tvarkos aprašą, taip pat jį paskelbia savo interneto svetainėje.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
  
 
 
@@ -7337,6 +7387,89 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
+571 straipsnis. Energijos duomenų mainai elektros energetikos sektoriuje
+
+
+1. Elektros energetikos sektoriuje energijos duomenų mainai tarp elektros energijos rinkos dalyvių, tinklų naudotojų ir kitų asmenų, turinčių teisę gauti energijos duomenis, vykdomi per centralizuotą energijos duomenų platformą. Energijos duomenys, kuriais yra mainomasi centralizuotoje energijos duomenų platformoje, yra nustatomi centralizuotos energijos duomenų platformos valdytojo parengtame naudojimosi centralizuota energijos duomenų platforma tvarkos apraše. 
+
+
+
+
+2. Centralizuotoje energijos duomenų platformoje yra kaupiami, saugomi energijos duomenys, įskaitant elektros energijos suvartojimo, elektros energijos gamybos, apskaitos prietaisų, išmaniųjų apskaitos prietaisų duomenis, taip pat energijos duomenis, būtinus siekiant pasirinkti elektros energijos tiekėją, plėtoti elektros energijos pasiūlos ir paklausos valdymo paslaugas, lankstumo paslaugas, ir jais keičiamasi.
+
+
+
+
+3. Centralizuotos energijos duomenų platformos sukūrimą, priežiūrą ir valdymą užtikrina skirstomųjų tinklų operatorius, aptarnaujantis daugiau kaip 100 000 vartotojų, arba jo šioje dalyje nurodytiems tikslams įgyvendinti įsteigtas juridinis asmuo (toliau – centralizuotos energijos duomenų platformos valdytojas). Centralizuotos energijos duomenų platformos valdytojas rengia ir teikia Tarybai tvirtinti naudojimosi centralizuota energijos duomenų platforma tvarkos aprašą, kuriame nustatoma naudojimosi centralizuota energijos duomenų platforma tvarka ir sąlygos, prieigos prie energijos duomenų reikalavimai, energijos duomenų mainų reikalavimai, įskaitant centralizuotoje energijos duomenų platformoje pateiktų ir tvarkomų energijos duomenų apimtį, struktūrą, saugojimo trukmę, standartizavimo sąlygas, energijos duomenų mainų taisykles joje, centralizuotos energijos duomenų platformos valdytojo, centralizuotos energijos duomenų platformos naudotojų teises, pareigas ir atsakomybę, taip pat energijos duomenų mainų sutarties su centralizuotos energijos duomenų platformos naudotojais, nurodytais šio straipsnio 1 dalyje, sudarymo tvarką. Centralizuotos energijos duomenų platformos valdytojas, nustatydamas naudojimosi centralizuota energijos duomenų platforma tvarką, privalo vadovautis efektyvios duomenų prieigos, taip pat asmens duomenų apsaugos ir duomenų saugumo principais.
+
+
+
+
+4. Centralizuotos energijos duomenų platformos valdytojas nemokamai teikia energijos duomenų parsisiuntimo, perdavimo ir kaupimo paslaugas tinklų naudotojams, rinkos dalyviams, valstybės įstaigoms ar institucijoms ir savivaldybėms (ar jų įmonėms ir įstaigoms), kurie yra centralizuotos energijos duomenų platformos naudotojai, kai tokie energijos duomenys yra būtini teisės aktuose numatytai energetikos veiklai vykdyti ar tokios veiklos reguliavimui, kontrolei ir priežiūrai atlikti. 
+
+
+
+
+5. Centralizuotos energijos duomenų platformos valdytojas gali teikti šiame straipsnyje nustatytas energijos duomenų mainų paslaugas ir kitiems šio straipsnio 4 dalyje nenurodytiems asmenims. Tokiu atveju centralizuotos energijos duomenų platformos naudotojai moka centralizuotos energijos duomenų platformos valdytojo nustatytą naudojimosi centralizuota energijos duomenų platforma įkainį, kuris grindžiamas tiesioginėmis centralizuotos energijos duomenų platformos valdytojo patiriamomis pagrįstomis sąnaudomis, susijusiomis su tokios paslaugos teikimu kitiems asmenims, jeigu kituose teisės aktuose nenustatyta kitaip. Centralizuotos energijos duomenų platformos valdytojas šioje dalyje nurodytos paslaugos apskaitą privalo tvarkyti atskirai nuo bet kurios kitos veiklos apskaitos. Pajamos, gautos už asmenų naudojimąsi centralizuota energijos duomenų platforma, įvertinamos nustatant skirstymo paslaugų kainų viršutines ribas.
+
+
+
+
+6. Tinklų naudotojai, rinkos dalyviai, vykdantys energetikos veiklą, ir asmenys, planuojantys vykdyti ir (ar) vykdantys energetikos veiklą pagal Atsinaujinančių išteklių energetikos įstatymo 201 straipsnio 8 dalies nuostatas, energijos duomenų mainus privalo vykdyti centralizuotoje energijos duomenų platformoje. Ši pareiga yra laikoma reguliuojamosios energetikos veiklos vykdymo sąlyga. Šioje dalyje nurodyti asmenys centralizuotos energijos duomenų platformos valdytojo parengtame naudojimosi centralizuota energijos duomenų platforma tvarkos apraše numatytomis sąlygomis užtikrina, kad teisės aktuose nurodyti energijos duomenys būtų tinkamai ir laiku pateikti į centralizuotą energijos duomenų platformą.
+
+
+
+
+7. Centralizuotos energijos duomenų platformos valdytojas užtikrina prieigą prie centralizuotos energijos duomenų platformos ir sudaro vienodas, nediskriminacines ir konkurencines sąlygas visiems tinklų naudotojams ir elektros energijos rinkos dalyviams, valstybės įstaigoms ar institucijoms ir savivaldybėms (ar jų įmonėms ir įstaigoms), kaip tai numatyta šio straipsnio 4 dalyje, taip pat kitiems asmenims, kaip tai numatyta šio straipsnio 5 dalyje. Šio straipsnio 4 ir 5 dalyse nurodytiems asmenims prieiga prie centralizuotos energijos duomenų platformos suteikiama turint tinklų naudotojų ir (ar) rinkos dalyvių sutikimą gauti energijos duomenis. Neturint tinklų naudotojų ir (ar) rinkos dalyvių sutikimo, prieiga prie centralizuotos energijos duomenų platformos šiems asmenims gali būti suteikiama siekiant užtikrinti teisės aktuose šiems asmenims nustatytų funkcijų ir (ar) užduoties, vykdomos siekiant užtikrinti viešąjį interesą, atlikimą.
+
+
+
+
+8. Vartotojas, gaminantis vartotojas, aktyvusis vartotojas, gamintojas, piliečių energetikos bendrija, atsinaujinančių išteklių energijos bendrija ar jų įgaliotas asmuo per standartizuotą elektroninių ryšių sąsają arba nuotoliniu būdu turi teisę:
+
+
+1) neatlygintinai naudotis savo energijos duomenimis, esančiais centralizuotoje energijos duomenų platformoje;
+
+
+
+
+2) nustatyti, kuriems asmenims, išskyrus asmenis, kuriems energijos duomenys būtini teisės aktuose nustatytoms funkcijoms ir (ar) užduočiai, vykdomai siekiant užtikrinti viešąjį interesą, atlikti, gali būti suteikta prieiga prie centralizuotoje energijos duomenų platformoje esančių energijos duomenų;
+
+
+
+
+3) neatlygintinai gauti informaciją apie tai, kurie asmenys naudojosi centralizuotoje energijos duomenų platformoje esančiais jo energijos duomenimis.
+
+
+
+
+
+
+9. Šio straipsnio 8 dalyje nurodytiems asmenims nėra taikomi šio straipsnio 6 dalyje nurodyti reikalavimai.
+
+
+
+
+10. Centralizuotos energijos duomenų platformos naudotojai ir centralizuotos energijos duomenų platformos valdytojas privalo užtikrinti energijos duomenų, kurie pateikti centralizuotoje energijos duomenų platformoje, vykdant energijos duomenų mainus, ir kurie sudaro komercinę ar kitokią paslaptį, konfidencialumą, taip pat užtikrinti asmens duomenų apsaugą ir energijos duomenų saugumą.
+
+
+
+
+11. Centralizuotos energijos duomenų platformos valdytojo ir centralizuotos energijos duomenų platformos naudotojo, išskyrus vartotojo, gaminančio vartotojo, aktyviojo vartotojo, gamintojo, piliečių energetikos bendrijos ir atsinaujinančių išteklių energijos bendrijos ar jų įgalioto asmens, tarpusavio santykiai grindžiami energijos duomenų mainų sutartimi. Tuo atveju, kai energijos duomenys yra ir asmens duomenys, energijos duomenų mainų sutartyje taip pat turi būti nurodytas asmens duomenų tvarkymo tikslas, tokių duomenų teikimo ir gavimo teisinis pagrindas.
+
+
+
+
+12. Energijos duomenų mainai per centralizuotą energijos duomenų platformą nėra privalomi skirstomųjų tinklų operatoriams, aptarnaujantiems mažiau kaip 100 000 vartotojų, taip pat prie perdavimo tinklų prijungtiems tinklų naudotojams. Perdavimo sistemos operatorius ir skirstomųjų tinklų operatorius, aptarnaujantis daugiau kaip 100 000 vartotojų, siekdami užtikrinti tinklų operatorių bendradarbiavimą, centralizuotoje energijos duomenų platformoje keičiasi visa būtina informacija ir energijos duomenimis Reglamento (ES) Nr. 2019/943 57 straipsnyje nustatytais tikslais, apimtimi ir tvarka.
+
+
+Papildyta straipsniu:
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
+ 
+
+
+
+
 
 
 DEŠIMTASIS SKIRSNIS
@@ -9458,7 +9591,10 @@ Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
 
 
 
-2. Elektros įrenginių, gaminančių, perduodančių, skirstančių ir vartojančių elektros energiją, avarijos ir sutrikimai tiriami Vyriausybės ar jos įgaliotos institucijos patvirtintuose Energetikos įrenginių avarijų ir sutrikimų tyrimo ir apskaitos nuostatuose nustatyta tvarka.
+2. Elektros įrenginių, gaminančių, perduodančių, skirstančių ir vartojančių elektros energiją, avarijos ir sutrikimai tiriami Tarybos tvirtinamuose energetikos įrenginių avarijų ir sutrikimų tyrimo ir apskaitos nuostatuose nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
+ 
 
 
 
@@ -9886,6 +10022,22 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
+21. Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais elektros energetikos objektų ir įrenginių, taip pat šio straipsnio 2 dalyje nurodytų kilnojamųjų elektros energetikos objektų ir įrenginių gyvavimo ciklą apibūdinantys duomenys kuriami, tvarkomi, valdomi ir viešinami skaitmenine forma
+Papildyta straipsnio dalimi:
+Nr. XIV-2423, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25644
+ 
+
+
+
+
+22. Vyriausybė ar jos įgaliota institucija nustato elektros energetikos objektų ir įrenginių, taip pat šio straipsnio 2 dalyje nurodytų kilnojamųjų elektros energetikos objektų ir įrenginių gyvavimo ciklą apibūdinančių duomenų kūrimo, tvarkymo, valdymo, viešinimo, duomenų struktūros reikalavimus. Nustatydama šiuos reikalavimus, Vyriausybė ar jos įgaliota institucija nurodo atvejus ir nustato tvarką, kada skaitmeniniai duomenys kuriami, tvarkomi, valdomi, naudojami taikant statinio informacinį modeliavimą ir Nacionalinį statybos informacijos klasifikatorių, kaip jie apibrėžiami Statybos įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-2423, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25644
+ 
+
+
+
+
 3. Elektros energetikos objektų ir įrenginių, esančių elektros energetikos objektus ir įrenginius valdančiai elektros energetikos įmonei nuosavybės teise ar kitais teisėtais pagrindais nepriklausančioje žemėje ar kituose nekilnojamuosiuose daiktuose, eksploatavimui, aptarnavimui, remontui, techninei priežiūrai, rekonstravimui, modernizavimui ir (ar) naudojimui užtikrinti šiuo įstatymu nustatomi žemės ir kitų nekilnojamųjų daiktų servitutai šių objektų ir įrenginių nustatytų (nustatomų) apsaugos zonų ribose. Tinklų operatoriai tiesti perdavimo, skirstomuosius tinklus ar įrengti kitus elektros įrenginius tinklų operatoriui nuosavybės teise ar kitais teisėtais pagrindais nepriklausančioje žemėje ar kituose nekilnojamuosiuose daiktuose turi teisę tik įstatymų nustatyta tvarka su žemės ar kito nekilnojamojo turto savininku išsprendę žemės ar kito nekilnojamojo turto naudojimo klausimą. Tinklų operatoriai, sudarę sutartis su žemės ar kito nekilnojamojo turto savininkais dėl žemės ar kito nekilnojamojo turto servitutų nustatymo elektros tinklams įrengti ir (ar) elektros tinklų apsaugos zonoms nustatyti (kai įstatymuose nurodyta, kad privaloma gauti žemės savininko, valstybinės ar savivaldybės žemės patikėtinio rašytinį sutikimą dėl šių zonų nustatymo) tinklų operatoriams nuosavybės teise ar kitais teisėtais pagrindais nepriklausančioje žemėje ar kituose nekilnojamuosiuose daiktuose, žemės ar kitų nekilnojamųjų daiktų savininkams išmoka vienkartines kompensacijas nuostoliams dėl apribojimų dėl servituto nustatymo ar nuostoliams, patiriamiems dėl specialiųjų žemės naudojimo sąlygų taikymo šioje dalyje nurodytų elektros tinklų apsaugos zonose, atlyginti. Kai sudarius nurodytas sutartis toje pačioje teritorijoje patiriama nuostolių dėl apribojimų dėl servituto nustatymo ir dėl specialiųjų žemės naudojimo sąlygų taikymo, žemės savininko pasirinkimu jam išmokama viena iš kompensacijų sutampantiems nuostoliams atlyginti. Tuo atveju, kai nuostoliai, patiriami dėl specialiųjų žemės naudojimo sąlygų taikymo toje pačioje teritorijoje jau buvo atlyginti ar su žemės savininku susitarta kitaip, kompensacija už nuostolius dėl servituto nustatymo mažinama atitinkama dalimi. Žemės ar kitų nekilnojamųjų daiktų savininkams atlyginama sunaikintų sodinių, pasėlių, iškirsto miško rinkos vertė bei nuostoliai, atsiradę dėl galimybės naudoti žemės sklypą, jo dalį ar kitą nekilnojamąjį turtą pagal pagrindinę žemės ar kito nekilnojamojo turto naudojimo paskirtį praradimo. Šių nuostolių dydžiai apskaičiuojami pagal Vyriausybės patvirtintą Kompensacijos dėl specialiųjų žemės naudojimo sąlygų taikymo Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nurodytose teritorijose, nustatytose tenkinant viešąjį interesą, apskaičiavimo ir išmokėjimo metodiką arba Maksimalaus dydžio vienkartinės kompensacijos, mokamos už naudojimąsi įstatymu ar sutartimi tinklų operatorių naudai nustatytu žemės servitutu, nustatymo metodiką. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
@@ -9932,17 +10084,21 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-9. Asmuo, pageidaujantis rekonstruoti ar perkelti skirstomuosius tinklus, kliudančius statinių statybai ar dėl kitų priežasčių, turi teisę Energetikos ministerijos nustatyta tvarka, suderinęs su skirstomųjų tinklų operatoriumi, rekonstruoti ar perkelti šiuos elektros tinklus ir organizuoti jų rekonstravimo ar perkėlimo darbus. Šiuo atveju asmuo, kuris pageidauja rekonstruoti ar perkelti skirstomuosius tinklus, apmoka 100 procentų skirstomųjų tinklų rekonstravimo ar perkėlimo sąnaudų, išskyrus šio straipsnio 11 dalyje nurodytus atvejus. Rekonstruotų ar perkeltų skirstomųjų tinklų nuosavybė nekeičiama. 
+9. Asmuo, pageidaujantis rekonstruoti ar perkelti skirstomuosius tinklus, kliudančius statinių statybai ar dėl kitų priežasčių, turi teisę energetikos ministro nustatyta tvarka, suderinęs su skirstomųjų tinklų operatoriumi, rekonstruoti ar perkelti šiuos elektros tinklus ir organizuoti jų rekonstravimo ar perkėlimo darbus. Šiuo atveju asmuo, kuris pageidauja rekonstruoti ar perkelti skirstomuosius tinklus, apmoka 100 procentų skirstomųjų tinklų rekonstravimo ar perkėlimo sąnaudų, išskyrus šio straipsnio 11 dalyje ir 12 dalies 3 punkte nurodytus atvejus. 
 Papildyta straipsnio dalimi:
 Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
+Straipsnio dalies pakeitimai:
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
  
 
 
 
 
-10. Tuo atveju, kai asmuo pageidauja rekonstruoti ar perkelti skirstomųjų tinklų operatoriui priklausančias anksčiau kaip prieš 20 metų įrengtas 0,4–10 kV įtampos elektros oro linijas ir (ar) oro kabelių linijas, išskyrus transformatorių pastotes, transformatorines, skirstomuosius punktus, kliudančias statinių statybai ar dėl kitų priežasčių, šis asmuo apmoka skirstomųjų tinklų operatoriui 50 procentų visų operatoriaus išlaidų, patirtų rekonstruojant ar perkeliant šiuos objektus. Rekonstruotų ar perkeltų skirstomųjų tinklų nuosavybė nekeičiama. 
+10. Tuo atveju, kai asmuo pageidauja rekonstruoti ar perkelti skirstomųjų tinklų operatoriui priklausančias anksčiau kaip prieš 20 metų įrengtas 0,4–10 kV įtampos elektros oro linijas ir (ar) oro kabelių linijas, išskyrus transformatorių pastotes, transformatorines, skirstomuosius punktus, kliudančias statinių statybai ar dėl kitų priežasčių, šis asmuo apmoka skirstomųjų tinklų operatoriui 50 procentų visų operatoriaus išlaidų, patirtų rekonstruojant ar perkeliant šiuos objektus, išskyrus šio straipsnio 12 dalyje nurodytus atvejus. 
 Papildyta straipsnio dalimi:
 Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
+Straipsnio dalies pakeitimai:
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
  
 
 
@@ -9951,6 +10107,45 @@ Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
 11. Tuo atveju, kai asmuo pageidauja rekonstruoti ar perkelti skirstomųjų tinklų operatoriui priklausančias anksčiau kaip prieš 20 metų įrengtas 0,4–10 kV įtampos elektros oro linijas ir (ar) oro kabelių linijas, išskyrus transformatorių pastotes, transformatorines, skirstomuosius punktus, šių objektų rekonstravimo ar perkėlimo darbams rengiamas kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektas ir tokių darbų sąnaudos yra ne mažiau kaip 10 procentų mažesnės, negu apskaičiuotos skirstomųjų tinklų operatoriaus, asmuo turi teisę vykdyti ir (ar) organizuoti šių objektų rekonstravimą ar perkėlimą Energetikos ministerijos nustatyta tvarka, suderinęs su skirstomųjų tinklų operatoriumi. Šiuo atveju skirstomųjų tinklų operatorius Energetikos ministerijos nustatyta tvarka padengia 50 procentų skirstomųjų tinklų rekonstravimo ar perkėlimo sąnaudų. 
 Papildyta straipsnio dalimi:
 Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
+ 
+
+
+
+
+12. Kai būtina rekonstruoti ar perkelti valstybinės reikšmės kelių juostoje arba geležinkelio kelių ir jų įrenginių apsaugos zonose esančius skirstomuosius tinklus, kliudančius valstybinės reikšmės kelių arba geležinkelio kelių ir jų įrenginių kapitaliniam remontui, rekonstravimui ar plėtrai, skirstomuosius tinklus rekonstruoja ar perkelia ir skirstomųjų tinklų rekonstravimo ar perkėlimo darbus vykdo ir (ar) organizuoja skirstomųjų tinklų operatorius arba asmuo, pageidaujantis rekonstruoti ar perkelti šiuos skirstomuosius tinklus, energetikos ministro nustatyta tvarka, suderinęs su skirstomųjų tinklų operatoriumi. Skirstomųjų tinklų rekonstravimo ar perkėlimo sąnaudos dengiamos tokia tvarka:
+
+
+1) kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektą rengia, derina ir susijusias sąnaudas padengia asmuo, pageidaujantis rekonstruoti ar perkelti skirstomuosius tinklus;
+
+
+
+
+2) kai skirstomieji tinklai įrengti ne daugiau kaip prieš 5 metus, skirstomųjų tinklų rekonstravimo ar perkėlimo sąnaudas padengia asmuo, pageidaujantis rekonstruoti ar perkelti skirstomuosius tinklus;
+
+
+
+
+3) kai skirstomieji tinklai įrengti daugiau kaip prieš 5 metus, skirstomųjų tinklų rekonstravimo ar perkėlimo sąnaudas padengia skirstomųjų tinklų operatorius. Skirstomųjų tinklų rekonstravimo ar perkėlimo darbus turi teisę vykdyti ir (ar) organizuoti asmuo, pageidaujantis rekonstruoti ar perkelti skirstomuosius tinklus, energetikos ministro nustatyta tvarka, suderinęs su skirstomųjų tinklų operatoriumi, jeigu tokių darbų apskaičiuotos sąnaudos yra ne mažiau kaip 10 procentų mažesnės, negu apskaičiuotos skirstomųjų tinklų operatoriaus.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
+ 
+
+
+
+
+13. Šio straipsnio 9–12 dalyse nurodytais atvejais rekonstruotų ar perkeltų skirstomųjų tinklų nuosavybės teisė nekeičiama.
+Papildyta straipsnio dalimi:
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
+ 
+
+
+
+
+14. Skirstomųjų tinklų operatoriaus sąnaudos, patirtos šiame straipsnyje numatytais atvejais, yra pripažįstamos skirstomųjų tinklų operatoriaus tinklų plėtros išlaidomis ir Tarybos įvertinamos nustatant skirstymo paslaugų kainų viršutines ribas.
+Papildyta straipsnio dalimi:
+Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
  
 
 
