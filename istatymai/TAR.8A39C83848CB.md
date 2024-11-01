@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2024-10-24 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2025-01-14
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -19125,7 +19125,10 @@ Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)
 
 
 
-2. Sprendimą dėl bendrojo naudojimo objektų administratoriaus pasirinkimo priima butų ir kitų patalpų savininkai, o jų pasirinktą administratorių skiria savivaldybės vykdomoji institucija. Jeigu butų ir kitų patalpų savininkai nepasirenka administratoriaus, sprendimą dėl administratoriaus skyrimo priima savivaldybės vykdomoji institucija. Bendrojo naudojimo objektų administratoriaus atrankos ir skyrimo tvarką nustato Vyriausybė.
+2. Sprendimą dėl bendrojo naudojimo objektų administratoriaus pasirinkimo priima butų ir kitų patalpų savininkai, o jų pasirinktą administratorių skiria savivaldybės vykdomoji institucija. Jeigu butų ir kitų patalpų savininkai nepasirenka administratoriaus, sprendimą dėl administratoriaus skyrimo priima savivaldybės vykdomoji institucija. Jeigu, vertinant administratoriaus administravimo veiklą konkrečiame name, tris kartus per metus šiam administratoriui – fiziniam asmeniui arba juridinio asmens vadovui buvo paskirta administracinė nuobauda, savivaldybės vykdomoji institucija organizuoja butų ir kitų patalpų savininkų sprendimo dėl paskirto šio namo administratoriaus atšaukimo priėmimą Civilinio kodekso 4.85 straipsnyje nustatyta tvarka. Jeigu butų ir kitų patalpų savininkų sprendimui priimti nesusirenka pakankamai butų ir kitų patalpų savininkų, administratorių atšaukia savivaldybės vykdomoji institucija. Antrą kartą per vienus metus toje pačioje savivaldybėje už paskirtas administracines nuobaudas atšauktas administratorius netenka teisės vienus metus nuo atšaukimo dienos pretenduoti teikti administravimo paslaugą ir būti skiriamas administratoriumi šioje savivaldybėje. Bendrojo naudojimo objektų administratoriaus atrankos, skyrimo ir atšaukimo tvarką nustato Vyriausybė arba jos įgaliota institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2624, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08914
+ 
 
 
 
@@ -19135,9 +19138,10 @@ Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)
 
 
 
-4. Savivaldybės vykdomoji institucija bendrojo naudojimo objektų administratorių skiria penkeriems metams. Likus šešiems mėnesiams iki šio termino pabaigos, pradedama šio straipsnio 3 dalyje numatyta procedūra, jeigu bent 1/5 daugiabučio namo butų ir kitų patalpų savininkų raštu pareiškia pageidavimą spręsti bendrojo naudojimo objektų administratoriaus paskyrimo klausimą iš naujo arba savivaldybės vykdomoji institucija yra gavusi šio namo butų ir kitų patalpų savininkų pagrįstų nusiskundimų dėl administratoriaus veiklos. Nesant tokio pageidavimo ir nusiskundimų, bendrojo naudojimo objektų administratoriaus paskyrimas šiam daugiabučiam namui pratęsiamas  penkerių metų laikotarpiui. Visais atvejais butų ir kitų patalpų savininkai turi teisę šio kodekso 4.85 straipsnyje nustatyta tvarka priimti sprendimą pakeisti bendrojo naudojimo objektų administratorių nesuėjus penkerių metų terminui. 
+4. Savivaldybės vykdomoji institucija bendrojo naudojimo objektų administratorių skiria penkeriems metams. Likus šešiems mėnesiams iki šio termino pabaigos, pradedama šio straipsnio 3 dalyje numatyta procedūra, jeigu bent 1/5 daugiabučio namo butų ir kitų patalpų savininkų raštu pareiškia pageidavimą spręsti bendrojo naudojimo objektų administratoriaus paskyrimo klausimą iš naujo arba savivaldybės vykdomoji institucija yra gavusi šio namo butų ir kitų patalpų savininkų pagrįstų nusiskundimų dėl administratoriaus veiklos. Nesant tokio pageidavimo ir nusiskundimų, bendrojo naudojimo objektų administratoriaus paskyrimas, išskyrus šio straipsnio 2 dalyje nurodytus atvejus, šiam daugiabučiam namui pratęsiamas penkerių metų laikotarpiui. Visais atvejais butų ir kitų patalpų savininkai turi teisę šio kodekso 4.85 straipsnyje nustatyta tvarka priimti sprendimą pakeisti bendrojo naudojimo objektų administratorių nesuėjus penkerių metų terminui. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1356, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15490
+Nr. XIV-2624, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08914
  
 
 
@@ -51824,3 +51828,8 @@ Lietuvos Respublikos civilinio kodekso 2.46, 2.47, 2.54, 2.57, 2.62, 2.63, 2.64,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3026, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18354
 Lietuvos Respublikos civilinio kodekso 6.476 straipsnio pakeitimo įstatymas
+ 
+79.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2624, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08914
+Lietuvos Respublikos civilinio kodekso 4.84 straipsnio pakeitimo įstatymas
