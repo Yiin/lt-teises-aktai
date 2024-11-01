@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BA283DF0FB41"
 
 # Lietuvos Respublikos želdynų įstatymas
 
-Suvestinė redakcija nuo 2024-08-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3215, i. k. 1071010ISTA00X-1241
  
@@ -211,7 +211,9 @@ Nr. XIV-1326, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15654
 
 
 
-32. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos miškų įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos turizmo įstatyme, Lietuvos Respublikos viešųjų pirkimų įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme, Lietuvos Respublikos žemės įstatyme.
+32. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos geležinkelių transporto kodekse, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos miškų įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos turizmo įstatyme, Lietuvos Respublikos viešųjų pirkimų įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme, Lietuvos Respublikos žemės įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
  
 
 
@@ -732,14 +734,17 @@ Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
 2. Saugotinus želdinius kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti be leidimo ar sprendimo galima, kai:
 
 
-1) jie auga elektros tinklų, šilumos perdavimo tinklų, magistralinių dujotiekių ir naftotiekių (produktotiekių) apsaugos zonose ir šiuos darbus atlieka, prieš darbų pradžią apie juos raštu informavę žemės, kurioje auga saugotini želdiniai, savininką ar valdytoją, elektros tinklus, šilumos tinklus, magistralinius dujotiekius ir naftotiekius (produktotiekius) eksploatuojantys asmenys ar jų įgalioti tretieji asmenys;
+1) savivaldybės atstovaujamosios institucijos saugotinais paskelbti želdiniai auga vidutinės ir aukštosios įtampos antžeminių elektros tinklų apsaugos zonose ir kelia pavojų elektros tinklams dėl to, kad jų aukštis yra didesnis už atstumą nuo želdinio iki elektros tinklų ir virsdami jie gali sutrikdyti inžinerinės infrastruktūros veiklą, ir šiuos darbus atlieka elektros tinklus eksploatuojantys asmenys ar jų įgalioti tretieji asmenys. Šie asmenys privalo likus iki darbų pradžios ne mažiau kaip 20 darbo dienų savivaldybės vykdomajai institucijai raštu pranešti apie ketinimą kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti pavojų elektros tinklams keliančius saugotinus želdinius, nurodydami tokių želdinių vietą (adresą ar koordinates). Gavusi pranešimą apie ketinimą kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinus želdinius, savivaldybės vykdomoji institucija per 10 darbo dienų nuo pranešimo gavimo dienos įvertina, ar tokie želdiniai kelia pavojų elektros tinklams, ir išduoda sutikimą dėl jų kirtimo, kitokio pašalinimo iš augimo vietos ar intensyvaus genėjimo arba jo neišduoda. Sutikimų išdavimo tvarka nustatoma energetikos ministro patvirtintose elektros tinklų apsaugos taisyklėse. Atsisakymas išduoti sutikimą privalo būti motyvuotas, pagrįstas ir įrodantis, kad konkrečiu atveju numatomas kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti želdinys nekelia pavojaus elektros tinklams. Žala, atsiradusi dėl nepagrįsto atsisakymo išduoti sutikimą, atlyginama Lietuvos Respublikos civilinio kodekso nustatyta tvarka;
 
 
 
 
-2) šiuos darbus reikia atlikti nedelsiant – dėl gamtinio, eismo ar kito įvykio pakitus saugotinų želdinių būklei, kai dėl to jie kelia pavojų gyventojams, jų turtui, statiniams ar eismo saugumui. Šiuo atveju darbus atlikę asmenys per 3 darbo dienas privalo raštu informuoti savivaldybės vykdomąją instituciją, nurodydami saugotino želdinio vietą (adresą ar koordinates) ir pateikdami 3 nuotraukas, kuriose būtų užfiksuotas vaizdas prieš atliekant darbus ir iš skirtingų pusių užfiksuotas nukirstas, kitaip pašalintas iš augimo vietos ar intensyviai nugenėtas saugotinas želdinys.
+2) šiuos darbus reikia atlikti nedelsiant – dėl gamtinio, eismo ar kito įvykio pakitus saugotinų želdinių būklei, kai dėl to jie kelia pavojų gyventojams, jų turtui, statiniams ar eismo saugumui. Šiuo atveju darbus atlikę asmenys per 3 darbo dienas privalo raštu informuoti savivaldybės vykdomąją instituciją, nurodydami saugotino želdinio vietą (adresą ar koordinates) ir pateikdami 3 nuotraukas, kuriose būtų užfiksuotas vaizdas prieš atliekant darbus ir iš skirtingų pusių užfiksuotas nukirstas, kitaip pašalintas iš augimo vietos ar intensyviai nugenėtas saugotinas želdinys. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
@@ -899,6 +904,13 @@ Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
 
 
 10. Kai savivaldybės želdynų ir želdinių teritorijose arba ne savivaldybės valdomoje valstybinėje žemėje ketinama kirsti ar kitaip pašalinti iš augimo vietos 10 ar daugiau saugotinų želdinių, viešuosiuose atskiruosiuose želdynuose augančius saugotinus želdinius, savivaldybės vykdomoji institucija privalo gauti želdynų ir želdinių apsaugos, priežiūros ir tvarkymo komisijos išvadą dėl būtinybės kirsti ar kitaip pašalinti iš augimo vietos saugotinus želdinius. Želdynų ir želdinių apsaugos, priežiūros ir tvarkymo komisija išvadą privalo pateikti savivaldybės vykdomajai institucijai per 20 darbo dienų.
+
+
+
+
+11. Medžius, kurių kamieno skersmuo 1,3 metro aukštyje yra 12 ar daugiau centimetrų, augančius miestų gyvenamųjų vietovių požeminių inžinerinių tinklų apsaugos zonose ir ant pastatų dalių, kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti žemės sklypo savininkas, valdytojas ar naudotojas (išskyrus atvejus, kai jau gautas leidimas kirsti, kitaip pašalinti ar intensyviai genėti medžius) gali tik pateikęs pranešimą apie ketinimą kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti medžius savivaldybės vykdomajai institucijai, iki darbų pradžios likus ne mažiau kaip 10 darbo dienų. Pranešimui taikomi reikalavimai ir pranešimo nagrinėjimo tvarka nustatomi savivaldybės želdynų ir želdinių apsaugos taisyklėse. Gavusi pranešimą apie ketinimą kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti medžius, savivaldybės vykdomoji institucija per 5 darbo dienas nuo prašymo gavimo dienos patikrina, ar pranešime nurodyti medžiai nėra priskiriami saugotiniems želdiniams, ir tokiu būdu, kokiu buvo pateiktas pranešimas, informuoja pranešimą pateikusį asmenį, ar pranešime nurodytiems medžiams kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti reikia gauti leidimą arba dėl jų turi būti priimtas sprendimas šiame straipsnyje nustatyta tvarka. Elektros tinklus, šilumos perdavimo tinklus, magistralinius dujotiekius ir naftotiekius (produktotiekius) eksploatuojantys asmenys ar jų įgalioti tretieji asmenys, ketinantys kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti tokius medžius šių objektų apsaugos zonose, privalo likus iki darbų pradžios ne mažiau kaip 5 darbo dienoms raštu apie tai informuoti žemės, kurioje auga želdiniai, savininką, valdytoją ar naudotoją, taip pat savivaldybės vykdomąją instituciją (išskyrus dėl medžių ir (ar) krūmų, augančių elektros tinklų proskynose) ir nurodyti medžio vietą (adresą ar koordinates).
+Papildyta straipsnio dalimi:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
  
 
 
@@ -937,7 +949,10 @@ Nr. XIV-1614, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25039
 
 
 
-6. Želdinius, kurie auga viešosios geležinkelių infrastruktūros kelių ir jų įrenginių, geležinkelio želdinių apsaugos zonose, tvarko ir naujus želdinius šiose zonose veisia viešosios geležinkelių infrastruktūros valdytojas. Želdinius, kurie auga privažiuojamųjų geležinkelio kelių ir jų įrenginių apsaugos zonose, saugo ir tvarko privažiuojamųjų geležinkelio kelių savininkas ar valdytojas.
+6. Želdinius, kurie auga viešosios geležinkelių infrastruktūros kelių ir jų įrenginių, geležinkelio želdinių apsaugos zonose, tvarko ir naujus želdinius šiose zonose veisia viešosios geležinkelių infrastruktūros valdytojas. Želdinius, kurie auga geležinkelių paslaugų įrenginiams priskiriamų geležinkelio kelių ir jų įrenginių, privažiuojamųjų geležinkelio kelių ir jų įrenginių apsaugos zonose, saugo ir tvarko geležinkelių paslaugų įrenginiams priskiriamų geležinkelio kelių, privažiuojamųjų geležinkelio kelių savininkas ar valdytojas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
@@ -1353,7 +1368,10 @@ VIII SKYRIUS
 
 
 
-2) turėti ne mažesnę kaip 5 metų praktinio darbo patirtį želdynų ir želdinių projektavimo ir (ar) priežiūros ir tvarkymo srityje arba turėti ne mažesnę kaip 5 metų mokslinio darbo patirtį šioje srityje;
+2) turėti ne mažesnę kaip 5 metų praktinio darbo patirtį želdynų ir želdinių projektavimo ir (ar) tyrimų srityje arba turėti ne mažesnę kaip 5 metų mokslinio darbo patirtį šioje srityje; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
