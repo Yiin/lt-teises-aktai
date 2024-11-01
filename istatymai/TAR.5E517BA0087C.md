@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/5e517ba0087c11efbcbfb318996800a8"
 
 # Lietuvos Respublikos baudžiamojo kodekso 5, 7, 8, 18, 25, 27, 37, 38, 39, 40, 42, 43, 47, 48, 51, 52, 54, 59, 61, 62, 63, 64, 65, 66, 67, 69, 70, 72-2, 74, 75, 76, 82, 84, 85, 87, 89, 90, 92, 93, 97, 243, 244 straipsnių pakeitimo ir Kodekso papildymo 5-1, 40-1, 58-1, 72-5, 72-6, 72-7, 72-8 straipsniais įstatymas
 
-Suvestinė redakcija nuo 2024-10-24 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01
  
 Įstatymas paskelbtas: TAR 2024-05-02, i. k. 2024-08214
  
