@@ -21,7 +21,7 @@ PRIEŽIŪROS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2025-04-30
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 76-3848, i. k. 1131010ISTA0XII-459
  
@@ -632,7 +632,10 @@ STATYBOS VALSTYBINĖ PRIEŽIŪRA
 
 
 
-11) pritarimų projektiniams pasiūlymams teisėtumo tikrinimą; 
+11) pranešimų apie statybos pradžią tikrinimą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
 
 
 
@@ -707,88 +710,10 @@ STATYBOS VALSTYBINĖ PRIEŽIŪRA
 
 
 
-8 straipsnis. Pritarimų projektiniams pasiūlymams teisėtumo tikrinimas
-
-
-1. Inspekcija pritarimų projektiniams pasiūlymams teisėtumą tikrina pagal viešojo administravimo subjektų, kitų asmenų skundus, pateiktus iki statybą leidžiančio dokumento išdavimo. Jeigu Inspekcija pritarimų projektiniams pasiūlymams teisėtumą tikrina išdavus statybą leidžiantį dokumentą, jeigu pritarimų projektiniams pasiūlymams tikrinimo metu išduodamas statybą leidžiantis dokumentas, šiame straipsnyje nustatyta procedūra nutraukiama ir atliekamas šio įstatymo 10 straipsnyje nurodytas statybą leidžiančių dokumentų išdavimo teisėtumo patikrinimas.
-
-
-
-
-2. Statybos valstybinės priežiūros pareigūnas, tikrindamas pritarimų projektiniams pasiūlymams teisėtumą, visuomenę apie numatomą statinių projektavimą informavusiam subjektui ar kitiems procedūroje dalyvaujantiems subjektams pateikia privalomąjį nurodymą pateikti visus tikrinamai procedūrai atlikti reikalingus dokumentus. Dokumentai, išskyrus tuos, kuriuos galima gauti per IS „Infostatyba“, pateikiami per privalomajame nurodyme nustatytą ne ilgesnį kaip 10 darbo dienų terminą. Gavusi subjekto rašytinį motyvuotą prašymą iki privalomojo nurodymo įvykdymo termino pabaigos, šį terminą Inspekcija gali pratęsti vieną kartą ir ne ilgiau kaip 10 darbo dienų, kai dėl nuo privalomąjį nurodymą gavusio subjekto nepriklausančių priežasčių šis nurodymas negali būti įvykdytas per nustatytą terminą.
-
-
-
-
-3. Statybos valstybinės priežiūros pareigūnas, gavęs privalomajame nurodyme nurodytus dokumentus, patikrina, ar:
-
-
-1) statytojo (užsakovo) (toliau – statytojas) prašyme informuoti visuomenę apie numatomą statinių projektavimą nurodyti visi privalomi duomenys; 
-
-
-
-
-2) statytojas su prašymu informuoti visuomenę apie numatomą statinių projektavimą pateikė visus privalomus dokumentus, nurodytus Statybos įstatyme ir jo įgyvendinamuosiuose teisės aktuose; ar statinio projektinių pasiūlymų sudėtis atitinka Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimus;
-
-
-
-
-3) statytojas atitinka statytojui Statybos įstatyme nustatytus reikalavimus;
-
-
-
-
-4) statinio projektinius pasiūlymus pasirašė visi juos privalėję pasirašyti asmenys, ar šie asmenys turėjo teisę rengti ir pasirašyti statinio projektinius pasiūlymus;
-
-
-
-
-5) statinio projektiniuose pasiūlymuose teisingai nurodyta statinio naudojimo paskirtis, kategorija ir statybos rūšis;
-
-
-
-
-6) statinio projektinių pasiūlymų sprendiniai neprieštarauja teritorijų planavimo dokumentams;
-
-
-
-
-7) laikytasi aplinkos ministro nustatytų visuomenės informavimo apie numatomą statinių projektavimą terminų.
-
-
-
-
-
-
-4. Inspekcija, atlikdama šio straipsnio 3 dalyje nurodytus patikrinimus, prireikus kreipiasi į Statybos įstatyme nurodytas statinio projektą tikrinančias institucijas ir kitus subjektus (jų padalinius) pateikdama privalomuosius nurodymus per 10 darbo dienų pateikti išvadas, ar statinio projektinių pasiūlymų sprendiniai atitinka Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimus.
-
-
-
-
-5. Pritarimų projektiniams pasiūlymams teisėtumo patikrinimas turi būti atliktas per 20 darbo dienų nuo visos informacijos, būtinos skundui išnagrinėti, gavimo dienos. Kai dėl objektyvių priežasčių per šį terminą patikrinimo negalima atlikti, Inspekcija gali šį terminą pratęsti ne ilgiau kaip 10 darbo dienų, apie tai ne vėliau kaip per 2 darbo dienas nuo termino pratęsimo dienos raštu informuodama skundą pateikusį (patikrinimą inicijavusį) asmenį, nurodydama patikrinimo pratęsimo priežastis. Patikrinimo rezultatai įforminami patikrinimo aktu, kuris teikiamas visuomenę apie numatomą statinių projektavimą informavusiam subjektui ir savivaldybės administracijai. Apie atliktą patikrinimą skundo pateikėjas informuojamas raštu per 5 darbo dienas nuo patikrinimo akto pasirašymo dienos, pateikiant patvirtintą patikrinimo akto kopiją.
-
-
-
-
-6. Nustatęs pažeidimų, statybos valstybinės priežiūros pareigūnas per 5 darbo dienas nuo patikrinimo akto pasirašymo dienos (jeigu statybą leidžiantis dokumentas neišduotas) priima sprendimą:
-
-
-1) jeigu nustatyti techninio pobūdžio ar mažareikšmiai procedūriniai pažeidimai, nustatyta kitų trūkumų, kuriuos galima pašalinti laikantis Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimų ir trečiųjų asmenų teisėtų interesų, – pateikti pažeidimus padariusiems asmenims privalomąjį nurodymą juos pašalinti;
-
-
-
-
-2) kai pažeisti šios dalies 1 punkte nenurodyti reikalavimai, – savivaldybės administracijai surašyti privalomąjį nurodymą per ne ilgesnį kaip 10 darbo dienų terminą panaikinti pritarimą projektiniams pasiūlymams ir šį pritarimą IS „Infostatyba“ pažymėti kaip negaliojantį. Surašius šį privalomąjį nurodymą, pagal neteisėtą pritarimą projektiniams pasiūlymams draudžiama išduoti statybą leidžiančius dokumentus.
-
-
-
-
-
-
-7. Pritarimų projektiniams pasiūlymams patikrinimų tvarką nustato ir su visuomenės informavimo apie numatomą statinių projektavimą teisėtumo patikrinimais susijusių dokumentų formas tvirtina Inspekcijos vadovas.
+8 straipsnis. Neteko galios nuo 2024-11-01
+Straipsnio naikinimas:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
  
-
-
 
 
 
@@ -840,9 +765,17 @@ STATYBOS VALSTYBINĖ PRIEŽIŪRA
 
 
 
-3) savo iniciatyva, kai pagal turimą informaciją kyla įtarimų dėl statybą leidžiančių dokumentų išdavimo teisėtumo.
+3) Statybos įstatymo 27 straipsnio 31 dalyje nurodytais atvejais;
 
 
+
+
+4)  savo iniciatyva, kai pagal turimą informaciją kyla įtarimų dėl statybą leidžiančių dokumentų išdavimo teisėtumo. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
 
 
 
@@ -855,7 +788,7 @@ STATYBOS VALSTYBINĖ PRIEŽIŪRA
 3. Gavęs privalomajame nurodyme nurodytus dokumentus, statybos valstybinės priežiūros pareigūnas patikrina, ar:
 
 
-1) statytojo prašyme išduoti statybą leidžiantį dokumentą nurodyti visi privalomi duomenys;
+1)   statytojo prašyme išduoti statybą leidžiantį dokumentą nurodyti visi privalomi duomenys;
 
 
 
@@ -865,69 +798,67 @@ STATYBOS VALSTYBINĖ PRIEŽIŪRA
 
 
 
-3) statytojas su prašymu išduoti statybą leidžiantį dokumentą pateikė visus privalomus dokumentus, nurodytus Statybos įstatyme ir jo įgyvendinamuosiuose teisės aktuose; ar šis prašymas įregistruotas IS „Infostatyba“;
+3)  statytojas su prašymu išduoti statybą leidžiantį dokumentą pateikė visus privalomus dokumentus, nurodytus Statybos įstatyme ir jo įgyvendinamuosiuose teisės aktuose; ar šis prašymas įregistruotas IS „Infostatyba“;
 
 
 
 
-4) prie statinio projekto pridėtos visos prisijungimo sąlygos ir specialieji reikalavimai (kai pridėti privaloma pagal Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimus);
+4)   prie projektinių pasiūlymų pridėtos visos prisijungimo sąlygos ir specialieji reikalavimai (kai pridėti privaloma pagal Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimus);
 
 
 
 
-5) statinio projekto sudėtis atitinka Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimus;
+5)  projektinių pasiūlymų sudėtis atitinka Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimus;
 
 
 
 
-6) statinio projektą pasirašė visi jį privalėję pasirašyti asmenys ir ar jie turėjo teisę rengti ir pasirašyti statinio projektą;
+6) projektinius pasiūlymus pasirašė visi juos privalėję pasirašyti asmenys ir ar jie turėjo teisę rengti ir pasirašyti projektinius pasiūlymus;
 
 
 
 
-7) statinio projekte teisingai nurodyta statinio kategorija ir statybos rūšis;
+7) projektiniuose pasiūlymuose teisingai nurodyta statinio naudojimo paskirtis, kategorija ir statybos rūšis;
 
 
 
 
-8) statinio projekto ekspertizės akte (kai ekspertizė privaloma) yra įrašas, kad statinio projekto sprendiniai atitinka esminius statinio reikalavimus, privalomųjų projekto rengimo dokumentų, kitų Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimus;
+8) projektinių pasiūlymų sprendiniai neprieštarauja teritorijų planavimo dokumentams;
 
 
 
 
-9) statinio projekto ekspertizę atlikę ir ekspertizės aktą pasirašę asmenys turėjo teisę tai atlikti;
+9)  numatytos prisijungimo prie inžinerinių tinklų ir susisiekimo komunikacijų vietos ir būdai atitinka inžinerinių tinklų ir susisiekimo komunikacijų savininkų ar naudotojų išduotas prisijungimo sąlygas;
 
 
 
 
-10) statinio projekto sprendiniai neprieštarauja teritorijų planavimo dokumentams;
+10) teisingai nurodyti subjektai, pagal Statybos įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytą kompetenciją privalantys patikrinti projektinius pasiūlymus;
 
 
 
 
-11) numatytos prisijungimo prie inžinerinių tinklų ir susisiekimo komunikacijų vietos ir būdai atitinka inžinerinių tinklų ir susisiekimo komunikacijų savininkų ar naudotojų išduotas prisijungimo sąlygas;
+11) projektiniams pasiūlymams pritarė visi privalėję juos tikrinti subjektai;
 
 
 
 
-12) teisingai nurodyti subjektai, pagal Statybos įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytą kompetenciją privalantys patikrinti statinio projektą;
+12) laikytasi Statybos įstatyme nustatytų projektinių pasiūlymų patikrinimo terminų;
 
 
 
 
-13) statinio projektui pritarė visi privalėję jį tikrinti subjektai;
+13)   laikytasi Statybos įstatyme nustatytų statybą leidžiančio dokumento išdavimo terminų;
 
 
 
 
-14) laikytasi Statybos įstatyme nustatytų statinio projekto patikrinimo terminų;
+14)  visuomenė Statybos įstatymo nustatyta tvarka informuota apie numatomą statinių projektavimą. 
 
 
-
-
-15) laikytasi Statybos įstatyme nustatytų statybą leidžiančio dokumento išdavimo terminų.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
 
 
 
@@ -985,6 +916,58 @@ b) kai pagal imperatyvias teisės normas tokio (-ių) pažeidimo (-ų) pašalint
 9. Statybą leidžiančių dokumentų išdavimo teisėtumo patikrinimo tvarką, tikrintinų statybą leidžiančių dokumentų įtraukimo į Inspekcijos tvirtinamus patikrinimų planus tvarką nustato, statybą leidžiančių dokumentų išdavimo teisėtumui patikrinti pateiktinų dokumentų sąrašą ir surašomų dokumentų formas tvirtina Inspekcijos vadovas.
 
 
+
+
+10. Statybos įstatymo 27 straipsnio 31 dalyje nurodytais atvejais Inspekcija statybą leidžiančių dokumentų teisėtumo patikrinimą pradeda per 5 darbo dienas nuo statybą leidžiančio dokumento išdavimo dienos.
+Papildyta straipsnio dalimi:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
+
+
+
+
+
+
+101 straipsnis. Pranešimų apie statybos pradžią tikrinimas
+
+
+1.   Inspekcija pranešimus apie statybos pradžią tikrina vadovaudamasi Inspekcijos metiniais veiklos planais, taip pat gavusi viešojo administravimo subjektų, fizinių asmenų,
+juridinių asmenų ir jų padalinių, kitų juridinio asmens statuso neturinčių organizacijų ir jų padalinių skundus.
+
+
+
+
+2. Inspekcijos pareigūnas patikrina, ar:
+
+
+1) pateikti visi Statybos įstatyme nurodyti dokumentai ir informacija;
+
+
+
+
+2)  techninis darbo projektas atitinka projektinius pasiūlymus, pagal kuriuos išduotas statybą leidžiantis dokumentas, išskyrus statinio projekto pakeitimus, dėl kurių pagal Statybos įstatymą neprivaloma iš naujo gauti statybą leidžiančio dokumento.
+
+
+
+
+
+
+3.  Jeigu asmuo pateikia skundą, pranešimo apie statybos pradžią patikrinimas turi būti atliktas per 20 darbo dienų nuo skundo gavimo dienos. Jeigu dėl objektyvių priežasčių per šį terminą patikrinimo atlikti negalima, Inspekcija šį terminą gali pratęsti, bet ne ilgiau kaip 20 darbo dienų. Inspekcija apie tai ne vėliau kaip per 2 darbo dienas nuo termino pratęsimo dienos turi raštu informuoti skundą pateikusį (patikrinimą inicijavusį) asmenį, nurodyti patikrinimo termino pratęsimo priežastis. Patikrinimo rezultatai įforminami patikrinimo aktu. Patikrinimo aktą pasirašo patikrinimą atlikęs Inspekcijos pareigūnas. Patikrinimo akto kopija pateikiama statytojui. Apie atliktą patikrinimą skundo teikėjas informuojamas raštu per 5 darbo dienas nuo patikrinimo akto pasirašymo dienos ir pateikiama teisės aktuose nustatyta tvarka patvirtinta patikrinimo akto kopija.
+
+
+
+
+4.  Jeigu nustatoma, kad statyba vykdoma nepateikus pranešimo apie statybos pradžią arba pateikti ne visi privalomi pateikti dokumentai, informacija ir (ar) pateikti dokumentai, informacija neatitinka teisės aktų reikalavimų, Inspekcijos pareigūnas ne vėliau kaip per 5 darbo dienas nuo patikrinimo akto pasirašymo dienos šio įstatymo 13 straipsnyje nustatyta tvarka sustabdo statybą, iki bus pašalinti pažeidimai. Pažeidimus padariusiems asmenims taikoma administracinė atsakomybė. Statytojas, pašalinęs pažeidimus per 10 darbo dienų nuo statybos sustabdymo dienos ir pateikęs teisės aktų reikalavimus atitinkantį pranešimą apie statybos pradžią, atleidžiamas nuo Statybos įstatymo 1 priede nurodytos įmokos už nepranešimą apie statybos pradžią. Inspekcijos pareigūnas po 10 darbo dienų nuo statybos sustabdymo dienos patikrina, ar pateiktas teisės aktų reikalavimus atitinkantis pranešimas apie statybos pradžią, ir, nustatęs, kad pranešimas nepateiktas, pateikia statytojui privalomąjį nurodymą per ne ilgesnį kaip 2 mėnesių terminą sumokėti Statybos įstatymo 1 priede nurodyto dydžio įmoką už nepranešimą apie statybos pradžią, kai Statybos įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka ši įmoka privaloma. Neįvykdžius privalomojo nurodymo sumokėti įmoką, Inspekcija per vieną mėnesį nuo privalomojo nurodymo įvykdymo termino pabaigos kreipiasi į teismą dėl įpareigojimo jį įvykdyti.
+
+
+
+
+5.   Pranešimų apie statybos pradžią patikrinimų tvarkos aprašą tvirtina Inspekcijos vadovas.
+
+
+Papildyta straipsniu:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
 
 
 
@@ -1049,6 +1032,14 @@ Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 
 
 5) pagal turimus dokumentus patikrina statybą leidžiančio dokumento teisėtumą (jeigu jis privalomas) šio įstatymo 10 straipsnyje nustatyta tvarka, jeigu kyla abejonių dėl statybą leidžiančio dokumento teisėtumo;
+
+
+
+
+6) pasinaudodamas jam suteikta prieiga prie IS „Infostatyba“, patikrina pranešimą apie statybos pradžią (jeigu jis buvo privalomas) šio įstatymo 101 straipsnyje nustatyta tvarka.
+Papildyta straipsnio punktu:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
 
 
 
@@ -1198,6 +1189,14 @@ Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 
 
 
+4) kai nustatoma, kad nepateiktas pranešimas apie statybos pradžią, kai jis privalomas pagal Statybos įstatymo nuostatas, arba jis neatitinka teisės aktų reikalavimų. 
+Papildyta straipsnio punktu:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
+
+
+
+
 
 
 2. Šio straipsnio 1 dalyje nenurodytais atvejais, nustačius, kad statinys (jo dalis) statomas (-a) pažeidžiant statinio projekto sprendinius ar Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimus, statybos valstybinės priežiūros pareigūnas statytojui surašo šio įstatymo 11 straipsnio 6 dalyje numatytą privalomąjį nurodymą.
@@ -1272,7 +1271,27 @@ Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 
 
 
-2. Statybos valstybinės priežiūros pareigūnas per 10 darbo dienų nuo savavališkos statybos akto surašymo dienos pateikia šio straipsnio 1 dalyje nurodytam asmeniui privalomąjį nurodymą pašalinti savavališkos statybos padarinius. Privalomajame nurodyme nurodoma, kad asmuo turi teisę Statybos įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka parengti projektinę dokumentaciją ir, sumokėjęs Statybos įstatymo 1 priede nustatytą įmoką už savavališkos statybos įteisinimą, gauti statybą leidžiantį dokumentą, šalinantį savavališkos statybos padarinius, tais atvejais, kai žemės sklype (teritorijoje), kuriame (-ioje) nustatyta savavališka statyba, tokios paskirties naujo statinio statyba yra galima arba tokie šio statinio rekonstravimo, remonto ar griovimo darbai yra galimi pagal galiojančius detaliuosius planus ar žemės valdos projektus (jeigu jie privalomi), taip pat bendruosius planus ar specialiojo teritorijų planavimo dokumentus ir tokia statyba neprieštarauja imperatyviems aplinkos apsaugos, paveldosaugos, saugomų teritorijų apsaugos teisės aktų reikalavimams. Be to, asmeniui nurodoma vienu iš šių būdų pašalinti savavališkos statybos padarinius:
+11. Apie nustatytą savavališką statybą Inspekcija ne vėliau kaip per 5 darbo dienas nuo savavališkos statybos akto surašymo informuoja:
+
+
+1)  Nekilnojamojo turto kadastro tvarkytoją dėl įrašo, kad nustatyta savavališka statyba, Nekilnojamojo turto registre padarymo;
+
+
+
+
+2) viešojo administravimo subjektą, atliekantį statinio naudojimo priežiūrą, dėl draudimo naudotis savavališkai pastatytu ar statomu statiniu (jo dalimi) pagal Civilinio kodekso nuostatas. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
+
+
+
+
+2. Statybos valstybinės priežiūros pareigūnas per 10 darbo dienų nuo savavališkos statybos akto surašymo dienos pateikia šio straipsnio 1 dalyje nurodytam asmeniui privalomąjį nurodymą pašalinti savavališkos statybos padarinius. Privalomajame nurodyme nurodoma, kad asmuo turi teisę Statybos įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka parengti projektinę dokumentaciją, sumokėti Statybos įstatymo 1 priede nustatytą įmoką už savavališkos statybos įteisinimą, gauti statybą leidžiantį dokumentą, šalinantį savavališkos statybos padarinius, ir (ar) pranešti apie statybos pradžią tais atvejais, kai žemės sklype (teritorijoje), kuriame (-ioje) nustatyta savavališka statyba, tokios paskirties naujo statinio statyba yra galima arba tokie šio statinio rekonstravimo, remonto ar griovimo darbai yra galimi pagal galiojančius detaliuosius planus ar žemės valdos projektus (jeigu jie privalomi), taip pat bendruosius planus ar specialiojo teritorijų planavimo dokumentus ir tokia statyba neprieštarauja imperatyviems aplinkos apsaugos, paveldosaugos, saugomų teritorijų apsaugos teisės aktų reikalavimams. Be to, asmeniui nurodoma vienu iš šių būdų pašalinti savavališkos statybos padarinius: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 
 
 1) nugriauti statinį ir sutvarkyti statybvietę;
@@ -1310,27 +1329,36 @@ Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 
 
 
-5. Asmenys turi teisę Statybos įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka parengti statinio projektą ir, sumokėję Statybos įstatymo 1 priede nustatytą įmoką už savavališkos statybos įteisinimą, gauti statybą leidžiantį dokumentą tais atvejais, kai žemės sklype (teritorijoje), kuriame (-ioje) yra savavališka statyba, tokios paskirties naujo statinio statyba yra galima arba tokie šio statinio rekonstravimo, remonto ar griovimo darbai yra galimi pagal galiojančius detaliuosius planus ar žemės valdos projektus (jeigu jie privalomi), taip pat bendruosius planus ar specialiojo teritorijų planavimo dokumentus ir tokia statyba neprieštarauja imperatyviems aplinkos apsaugos, paveldosaugos, saugomų teritorijų apsaugos teisės aktų reikalavimams.
+5. Asmenys turi teisę Statybos įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka parengti statinio projektą, sumokėti Statybos įstatymo 1 priede nustatytą įmoką už savavališkos statybos įteisinimą, gauti statybą leidžiantį dokumentą ir (ar) pranešti apie statybos pradžią tais atvejais, kai žemės sklype (teritorijoje), kuriame (-ioje) yra savavališka statyba, tokios paskirties naujo statinio statyba yra galima arba tokie šio statinio rekonstravimo, remonto ar griovimo darbai yra galimi pagal galiojančius detaliuosius planus ar žemės valdos projektus (jeigu jie privalomi), taip pat bendruosius planus ar specialiojo teritorijų planavimo dokumentus ir tokia statyba neprieštarauja imperatyviems aplinkos apsaugos, paveldosaugos, saugomų teritorijų apsaugos teisės aktų reikalavimams. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
 
 
 
 
-6. Jeigu asmuo per šio straipsnio 2 dalyje nustatyto privalomojo nurodymo įvykdymo terminą gauna statybą leidžiantį dokumentą, jis apie tai raštu informuoja Inspekciją. Inspekcija per 10 darbo dienų nuo statybą leidžiančio dokumento gavimo dienos patikrina šio dokumento teisėtumą šio įstatymo 10 straipsnyje nustatyta tvarka ir:
+6. Jeigu asmuo per šio straipsnio 2 dalyje nustatytą privalomojo nurodymo įvykdymo terminą gauna statybą leidžiantį dokumentą ir (ar) praneša apie statybos pradžią, jis apie tai raštu informuoja Inspekciją. Inspekcija per 10 darbo dienų nuo informacijos gavimo dienos patikrina statybą leidžiančio dokumento teisėtumą šio įstatymo 10 straipsnyje nustatyta tvarka, pranešimą apie statybos pradžią – šio įstatymo 101 straipsnyje nustatyta tvarka ir:
 
 
-1) nustačiusi, kad statybą leidžiantis dokumentas išduotas neteisėtai, priima sprendimą dėl kreipimosi į teismą dėl šio dokumento galiojimo panaikinimo;
-
-
-
-
-2) nustačiusi, kad statybą leidžiantis dokumentas išduotas teisėtai, per 10 darbo dienų patikrina savavališkai pastatyto statinio (-ių) atitiktį statinio projekto, pagal kurį išduotas statybą leidžiantis dokumentas, sprendiniams ir, jeigu statinys atitinka esminius statinio projekto sprendinius, per 5 darbo dienas Inspekcijos vadovo nustatyta tvarka informacinėje sistemoje, kurioje užregistruotas privalomasis nurodymas, pažymima, kad privalomasis nurodymas yra įvykdytas. Jeigu statinys neatitinka statinio projekto esminių sprendinių, laikoma, kad privalomasis nurodymas neįvykdytas, ir suėjus privalomojo nurodymo įvykdymo terminui Inspekcija jos vadovo nustatyta tvarka privalomąjį nurodymą perduoda priverstinai vykdyti antstoliui, išskyrus atvejus, kai iškelta byla dėl privalomojo nurodymo teisėtumo arba privalomojo nurodymo įvykdymo termino pratęsimo. Tokiais atvejais privalomasis nurodymas, jeigu buvo skundžiamas jo teisėtumas arba kreiptasi į teismą dėl privalomojo nurodymo įvykdymo termino pratęsimo, Inspekcijos vadovo nustatyta tvarka perduodamas vykdyti antstoliui įsiteisėjus teismo sprendimui nepanaikinti privalomojo nurodymo arba kai sueina teismo nustatyti papildomi privalomojo nurodymo įvykdymo terminai ar įsiteisėja teismo sprendimas dėl privalomojo nurodymo termino nepratęsimo.
+1)  nustačiusi, kad statybą leidžiantis dokumentas išduotas neteisėtai, priima sprendimą dėl kreipimosi į teismą dėl šio dokumento galiojimo panaikinimo;
 
 
 
 
+2) nustačiusi, kad statybą leidžiantis dokumentas išduotas teisėtai ir (ar) pranešimas apie statybos pradžią atitinka teisės aktų reikalavimus, per 10 darbo dienų patikrina savavališkai pastatyto statinio (-ių) atitiktį statinio projekto, pagal kurį išduotas statybą leidžiantis dokumentas ir (ar) pateiktas pranešimas apie statybos pradžią, sprendiniams ir, jeigu statinys atitinka esminius statinio projekto sprendinius, per 5 darbo dienas Inspekcijos vadovo nustatyta tvarka informacinėje sistemoje, kurioje užregistruotas privalomasis nurodymas, pažymima, kad privalomasis nurodymas yra įvykdytas, ir apie tai informuojami Nekilnojamojo turto kadastro tvarkytojas ir statinio naudojimo priežiūrą atliekantis viešojo administravimo subjektas. Jeigu statinys neatitinka statinio projekto esminių sprendinių, laikoma, kad privalomasis nurodymas neįvykdytas, ir suėjus privalomojo nurodymo įvykdymo terminui Inspekcija jos vadovo nustatyta tvarka privalomąjį nurodymą perduoda priverstinai vykdyti antstoliui, išskyrus atvejus, kai iškelta byla dėl privalomojo nurodymo teisėtumo arba privalomojo nurodymo įvykdymo termino pratęsimo. Tokiais atvejais privalomasis nurodymas, jeigu buvo skundžiamas jo teisėtumas arba kreiptasi į teismą dėl privalomojo nurodymo įvykdymo termino pratęsimo, Inspekcijos vadovo nustatyta tvarka perduodamas vykdyti antstoliui įsiteisėjus teismo sprendimui nepanaikinti privalomojo nurodymo arba kai sueina teismo nustatyti papildomi privalomojo nurodymo įvykdymo terminai ar įsiteisėja teismo sprendimas dėl privalomojo nurodymo termino nepratęsimo.
 
 
-7. Jeigu asmuo per nustatytą privalomojo nurodymo įvykdymo terminą šio straipsnio 2 dalyje nurodyto privalomojo nurodymo neįvykdo arba negauna statybą leidžiančio dokumento, Inspekcija jos vadovo nustatyta tvarka privalomąjį nurodymą perduoda priverstinai vykdyti antstoliui, išskyrus atvejus, kai iškelta byla dėl privalomojo nurodymo teisėtumo arba privalomojo nurodymo įvykdymo termino pratęsimo. Tokiais atvejais privalomasis nurodymas, jeigu buvo skundžiamas jo teisėtumas arba kreiptasi į teismą dėl privalomojo nurodymo įvykdymo termino pratęsimo, Inspekcijos vadovo nustatyta tvarka perduodamas vykdyti antstoliui įsiteisėjus teismo sprendimui nepanaikinti privalomojo nurodymo arba kai sueina teismo nustatyti papildomi privalomojo nurodymo įvykdymo terminai ar įsiteisėja teismo sprendimas dėl privalomojo nurodymo termino nepratęsimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
+
+
+
+
+7. Jeigu asmuo per nustatytą privalomojo nurodymo įvykdymo terminą šio straipsnio 2 dalyje nurodyto privalomojo nurodymo neįvykdo arba negauna statybą leidžiančio dokumento ir (ar) nepraneša apie statybos pradžią, Inspekcija jos vadovo nustatyta tvarka privalomąjį nurodymą perduoda priverstinai vykdyti antstoliui, išskyrus atvejus, kai iškelta byla dėl privalomojo nurodymo teisėtumo arba privalomojo nurodymo įvykdymo termino pratęsimo. Tokiais atvejais privalomasis nurodymas, jeigu buvo skundžiamas jo teisėtumas arba kreiptasi į teismą dėl privalomojo nurodymo įvykdymo termino pratęsimo, Inspekcijos vadovo nustatyta tvarka perduodamas vykdyti antstoliui įsiteisėjus teismo sprendimui nepanaikinti privalomojo nurodymo arba kai sueina teismo nustatyti papildomi privalomojo nurodymo įvykdymo terminai ar įsiteisėja teismo sprendimas dėl privalomojo nurodymo termino nepratęsimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
 
 
 
@@ -1343,7 +1371,10 @@ Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 9. Jeigu į teismą dėl savavališkos statybos padarinių šalinimo kreipėsi kitas viešojo administravimo subjektas ar prokuratūra, teismas savo sprendimu gali įpareigoti atsakovą savo lėšomis per nustatytą terminą:
 
 
-1) leisti Statybos įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka parengti projektinę dokumentaciją ir, sumokėjus Statybos įstatymo 1 priede nustatytą įmoką už savavališkos statybos įteisinimą, gauti statybą leidžiantį dokumentą, šalinantį savavališkos statybos padarinius, tais atvejais, kai žemės sklype (teritorijoje), kuriame (-ioje) nustatyta savavališka statyba, tokios paskirties naujo statinio statyba yra galima arba tokie šio statinio rekonstravimo, remonto ar griovimo darbai yra galimi pagal galiojančius detaliuosius planus ar žemės valdos projektus (jeigu jie privalomi), taip pat pagal bendruosius planus ar specialiojo teritorijų planavimo dokumentus ir tokia statyba neprieštarauja imperatyviems aplinkos apsaugos, paveldosaugos, saugomų teritorijų apsaugos teisės aktų reikalavimams; šių veiksmų per nustatytą terminą neatlikus, – vykdyti šios dalies 2–5 punktuose nurodytus reikalavimus;
+1) leisti Statybos įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka parengti projektinę dokumentaciją, sumokėti Statybos įstatymo 1 priede nustatytą įmoką už savavališkos statybos įteisinimą, gauti statybą leidžiantį dokumentą, šalinantį savavališkos statybos padarinius, ir (ar) pranešti apie statybos pradžią tais atvejais, kai žemės sklype (teritorijoje), kuriame (-ioje) nustatyta savavališka statyba, tokios paskirties naujo statinio statyba yra galima arba tokie šio statinio rekonstravimo, remonto ar griovimo darbai yra galimi pagal galiojančius detaliuosius planus ar žemės valdos projektus (jeigu jie privalomi), taip pat pagal bendruosius planus ar specialiojo teritorijų planavimo dokumentus ir tokia statyba neprieštarauja imperatyviems aplinkos apsaugos, paveldosaugos, saugomų teritorijų apsaugos teisės aktų reikalavimams; šių veiksmų per nustatytą terminą neatlikus, – vykdyti šios dalies 2–5 punktuose nurodytus reikalavimus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
 
 
 
@@ -2414,12 +2445,34 @@ Asmenų prašymai išduoti šiame įstatyme, Statybos įstatyme, Teritorijų pla
 
 
 
-9) skundas paduotas dėl pažeidimų vykdant statybą, kai statybos darbams nereikia rengti nei statinio projekto, nei gauti statybą leidžiančio dokumento, išskyrus atvejus, kai: įvyko ar gresia statinio avarija; statinio statyba toje vietoje pagal teisės aktus negalima, jeigu įtariama, kad statant tokį statinį pažeistas viešasis interesas; rašytinį sutikimą dėl statybos privaloma gauti iš valstybinės žemės patikėtinio, kai statyba vykdoma valstybinėje žemėje;
+9) skundas paduotas dėl pažeidimų vykdant statybą, kai statybos darbams nereikia nei rengti statinio projekto, nei gauti statybą leidžiančio dokumento, nei pranešti apie statybos pradžią, išskyrus atvejus, kai: įvyko ar gresia statinio avarija; statinio statyba toje vietoje pagal teisės aktus negalima, jeigu įtariama, kad statant tokį statinį pažeistas viešasis interesas; rašytinį sutikimą dėl statybos privaloma gauti iš valstybinės žemės patikėtinio, kai statyba vykdoma valstybinėje žemėje; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
 
 
 
 
-10) skundas paduotas dėl statybos teisėtumo, negavus bendraturčių sutikimų, kai statybos darbams atlikti turi būti parengtas statinio projektas, bet statybą leidžiančio dokumento gauti neprivaloma, išskyrus atvejus, kai sutikimą reikia gauti iš valstybinės žemės patikėtinio.
+10) skundas paduotas dėl statybos teisėtumo, negavus bendraturčių sutikimų, kai statybos darbams atlikti turi būti parengtas statinio projektas, bet statybą leidžiančio dokumento gauti ir (ar) pranešti apie statybos pradžią neprivaloma, išskyrus atvejus, kai sutikimą reikia gauti iš valstybinės žemės patikėtinio; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
+
+
+
+
+11) dėl pranešimų apie statybos pradžią – jeigu nuo pranešimo apie statybos pradžią iki skundo padavimo praėjo daugiau kaip 2 metai, išskyrus atvejus, kai dėl pažeidimo teisėsaugos institucijos atlieka tyrimą arba kai kyla įtarimų, kad pažeistas viešasis interesas;
+Papildyta straipsnio punktu:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
+
+
+
+
+12) skundas paduotas dėl statybos teisėtumo, negavus bendraturčių arba besiribojančių žemės sklypų savininkų ar valdytojų sutikimo, kai statybos darbams atlikti privaloma gauti statybą leidžiantį dokumentą, išskyrus atvejus, kai sutikimą reikia gauti iš valstybinės žemės patikėtinio ir (ar) kai kyla įtarimų, kad pažeistas viešasis interesas.
+Papildyta straipsnio punktu:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
 
 
 
