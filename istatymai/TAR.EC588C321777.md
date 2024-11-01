@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2024-07-03 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2025-01-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -1752,7 +1752,10 @@ Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
 
 
 
-4. Prokuroro nutarimu ar teismo nutartimi atstovo pagal įstatymą teisėmis procese gali būti leidžiama dalyvauti asmens, kuris nustatyta tvarka nėra pripažintas neveiksniu, tačiau dėl senatvės, neįgalumo, ligos ar kitų svarbių priežasčių negali tinkamai pasinaudoti įstatymų suteiktomis teisėmis, šeimos nariui ar artimajam giminaičiui, pateikusiam rašytinį ar žodinį prašymą.
+4. Prokuroro nutarimu ar teismo nutartimi atstovo pagal įstatymą teisėmis procese gali būti leidžiama dalyvauti asmens, kuris nustatyta tvarka nėra pripažintas neveiksniu, tačiau dėl senatvės, negalios, ligos ar kitų svarbių priežasčių negali tinkamai pasinaudoti įstatymų suteiktomis teisėmis, šeimos nariui ar artimajam giminaičiui, pateikusiam rašytinį ar žodinį prašymą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2574, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08215
+ 
 
 
 
@@ -8072,7 +8075,10 @@ Nr. XI-1200, 2010-12-02, Žin., 2010, Nr. 145-7440 (2010-12-11)
 
 
 
-5. Jeigu įtariamasis, dėl kurio padarytos veikos ikiteisminis tyrimas buvo nutrauktas šio Kodekso 212 straipsnio 6 punkte numatytu atveju, kol nesibaigė laidavimo terminas, padaro naują nusikalstamą veiką arba jeigu laiduotojas atsisako laidavimo, prokuroras Lietuvos Respublikos baudžiamojo kodekso 40 straipsnio 6 ir 7 dalyse nurodytomis sąlygomis gali, o to paties straipsnio 8 dalyje nurodytomis sąlygomis privalo priimti nutarimą atnaujinti nutrauktą ikiteisminį tyrimą.
+5. Jeigu įtariamasis, dėl kurio padarytos veikos ikiteisminis tyrimas buvo nutrauktas šio Kodekso 212 straipsnio 6 punkte numatytu atveju, kol nesibaigė laidavimo terminas, padaro naują nusikalstamą veiką arba jeigu laiduotojas atsisako laidavimo, prokuroras Lietuvos Respublikos baudžiamojo kodekso 40 straipsnio 7 ir 8 dalyse nurodytomis sąlygomis gali, o to paties straipsnio 9 dalyje nurodytomis sąlygomis privalo priimti nutarimą atnaujinti nutrauktą ikiteisminį tyrimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2574, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08215
+ 
 
 
 
@@ -10653,7 +10659,10 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-5) sprendimas kaltinamąjį pripažinti pavojingu recidyvistu, jeigu teismas tai pripažįsta;
+5) sprendimas kaltinamąjį pripažinti recidyvistu ar pavojingu recidyvistu, jeigu teismas tai pripažįsta;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2574, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08215
+ 
 
 
 
@@ -11929,7 +11938,10 @@ Nepateikiamas vykdyti ir nevykdomas įsiteisėjęs apkaltinamasis teismo nuospre
 
 
 
-3) kai nuteistoji, kuriai tėvų valdžia neapribota, turi mažamečių vaikų, – iki jauniausiajam iš jų sueis treji metai;
+3) kai nuteistasis, kuriam tėvų valdžia neapribota, turi mažamečių vaikų, – iki jauniausiajam iš jų sueis treji metai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2574, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08215
+ 
 
 
 
@@ -12475,13 +12487,44 @@ Nr. XIII-2269, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11190
 
 
 
-8. Nuteistiesiems, kuriems paskirta baudžiamojo poveikio priemonė – turtinės žalos atlyginimas ar pašalinimas arba nemokami darbai, arba įmoka į Nukentėjusiųjų nuo nusikaltimų asmenų fondą, Lietuvos Respublikos baudžiamojo kodekso 74 straipsnyje numatytais atvejais teismas vieną baudžiamojo poveikio priemonę gali pakeisti kita šio Kodekso 362 straipsnyje nustatyta tvarka.
+8. Nuteistiesiems, kuriems paskirta baudžiamojo poveikio priemonė – turtinės ir (ar) neturtinės žalos atlyginimas ar pašalinimas arba nemokami darbai, Lietuvos Respublikos baudžiamojo kodekso 74 straipsnyje numatytais atvejais teismas vieną baudžiamojo poveikio priemonę gali pakeisti kita šio Kodekso 362 straipsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2574, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08215
+ 
 
 
 Straipsnio pakeitimai:
 Nr. XI-1200, 2010-12-02, Žin., 2010, Nr. 145-7440 (2010-12-11)
 Nr. XI-1473, 2011-06-21, Žin., 2011, Nr. 81-3960 (2011-07-05)
 Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
+ 
+
+
+
+
+3571 straipsnis. Nuosprendžio, kuriuo paskirta baudžiamojo poveikio priemonė juridiniam asmeniui, vykdymas
+
+
+1. Sprendimą, kuriuo paskirta baudžiamojo poveikio priemonė juridiniam asmeniui, paskelbęs teismas tuoj pat išaiškina nuteisto juridinio asmens vadovui ar darbuotojui, atsakingam už paskirtos baudžiamojo poveikio priemonės įvykdymą, šios priemonės turinį ir terminą, jos vykdymo tvarką ir sąlygas, nuteisto juridinio asmens teises ir pareigas. 
+
+
+
+
+2. Sprendimą paskelbęs teismas apie draudimą juridiniam asmeniui dalyvauti viešuosiuose pirkimuose arba gauti paramą, subsidiją ar dotaciją praneša Juridinių asmenų registro tvarkytojui. Juridinių asmenų registro tvarkytojas įtraukia šią informaciją į Juridinių asmenų registrą.
+
+
+
+
+3. Sprendimas, kuriuo uždraudžiama reorganizuoti juridinį asmenį, siunčiamas antstoliui vykdyti, taip pat apie juridiniam asmeniui paskirtą baudžiamojo poveikio priemonę pranešama Juridinių asmenų registro tvarkytojui. Juridinių asmenų registro tvarkytojas įtraukia šią informaciją į Juridinių asmenų registrą.
+
+
+
+
+4. Sprendimu juridiniam asmeniui paskirta baudžiamojo poveikio priemonė – turto konfiskavimas arba išplėstinis turto konfiskavimas – vykdoma šio Kodekso 357 straipsnio 6 dalyje nustatyta tvarka.
+
+
+Papildyta straipsniu:
+Nr. XIV-2574, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08215
  
 
 
@@ -14040,51 +14083,61 @@ Nr. XII-2781, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26877
 389 straipsnis. Laikinos procesinės prievartos priemonės, taikomos juridiniam asmeniui
 
 
-1. Juridiniam asmeniui gali būti paskirtos šios procesinės prievartos priemonės: laikinas juridinio asmens veiklos sustabdymas ir laikinas juridinio asmens veiklos apribojimas.
+1. Juridiniam asmeniui gali būti paskirtos šios procesinės prievartos priemonės: laikinas juridinio asmens veiklos sustabdymas, laikinas juridinio asmens veiklos apribojimas ir draudimas juridiniam asmeniui reorganizuotis.
 
 
 
 
-2. Juridinio asmens veiklą laikinai sustabdo ar laikinai apriboja prokuroro prašymu ikiteisminio tyrimo teisėjas ar teismas nutartimi.
+2. Šio straipsnio 1 dalyje numatytas procesines prievartos priemones prokuroro prašymu skiria ikiteisminio tyrimo teisėjas ar teismas nutartimi.
 
 
 
 
-3. Laikinas juridinio asmens veiklos sustabdymas ar laikinas juridinio asmens veiklos apribojimas skiriamas tuo atveju, jeigu trauktino baudžiamojon atsakomybėn juridinio asmens veikla gali sukliudyti netrukdomą baudžiamosios bylos procesą, taip pat gali pažeisti ūkininkavimo tvarką, padaryti žalos finansams, gamtai, visuomenės saugumui bei intelektinei nuosavybei.
+3. Laikinas juridinio asmens veiklos sustabdymas ar laikinas juridinio asmens veiklos apribojimas skiriamas tuo atveju, kai trauktino baudžiamojon atsakomybėn juridinio asmens veikla gali sukliudyti netrukdomą baudžiamosios bylos procesą, taip pat gali pažeisti ūkininkavimo tvarką, padaryti žalos finansams, gamtai, visuomenės saugumui bei intelektinei nuosavybei. 
 
 
 
 
-4. Nutartyje laikinai sustabdyti juridinio asmens veiklą juridinis asmuo įpareigojamas laikinai nutraukti visą steigimo dokumentuose numatytą ūkinę, komercinę, finansinę ar profesinę veiklą ir uždaryti visus padalinius. Nutartyje nurodomas laikino juridinio asmens veiklos sustabdymo terminas. Prokuroro prašymu ikiteisminio tyrimo teisėjo ar teismo nutartimi šis terminas gali būti pratęstas.
+4. Draudimas juridiniam asmeniui reorganizuotis skiriamas tuo atveju, kai trauktino baudžiamojon atsakomybėn juridinio asmens reorganizavimas gali sukliudyti netrukdomą baudžiamosios bylos procesą ir (ar) nuosprendžio juridinio asmens atžvilgiu priėmimą.
 
 
 
 
-5. Nutartyje laikinai apriboti juridinio asmens veiklą uždraudžiama juridiniam asmeniui užsiimti tam tikra steigimo dokumentuose numatyta veikla ir įpareigojama uždaryti tam tikrą juridinio asmens padalinį. Nutartyje nurodomas laikino juridinio asmens veiklos apribojimo terminas.
+5. Nutartyje laikinai sustabdyti juridinio asmens veiklą juridinis asmuo įpareigojamas laikinai nutraukti visą steigimo dokumentuose numatytą ūkinę, komercinę, finansinę ar profesinę veiklą ir uždaryti visus padalinius. Nutartyje nurodomas laikino juridinio asmens veiklos sustabdymo terminas. Prokuroro prašymu ikiteisminio tyrimo teisėjo ar teismo nutartimi šis terminas gali būti pratęstas.
 
 
 
 
-6. Nutartis, kuria laikinai sustabdoma juridinio asmens veikla ar laikinai apribojama juridinio asmens veikla, siunčiama antstoliui vykdyti.
+6. Nutartyje laikinai apriboti juridinio asmens veiklą uždraudžiama juridiniam asmeniui užsiimti tam tikra steigimo dokumentuose numatyta veikla ir įpareigojama uždaryti tam tikrą juridinio asmens padalinį. Nutartyje nurodomas laikino juridinio asmens veiklos apribojimo terminas. Prokuroro prašymu ikiteisminio tyrimo teisėjo ar teismo nutartimi šis terminas gali būti pratęstas.
 
 
 
 
-7. Nutartis juridinio asmens atstovui paskelbiama pasirašytinai.
+7. Nutartyje, kuria uždraudžiama juridiniam asmeniui reorganizuotis, laikinai apribojama teisė reorganizuoti juridinį asmenį. Nutartyje nurodomas draudimo juridiniam asmeniui reorganizuotis terminas. Prokuroro prašymu ikiteisminio tyrimo teisėjo ar teismo nutartimi šis terminas gali būti pratęstas.
 
 
 
 
-8. Juridinio asmens atstovas ikiteisminio tyrimo teisėjo ar teismo nutartis laikinai sustabdyti juridinio asmens veiklą ar laikinai apriboti juridinio asmens veiklą gali apskųsti aukštesniajam teismui per septynias dienas nuo nutarties gavimo dienos.
+8. Nutartis, kuria laikinai sustabdoma juridinio asmens veikla, laikinai apribojama juridinio asmens veikla ar uždraudžiama juridiniam asmeniui reorganizuotis, siunčiama antstoliui vykdyti, taip pat Juridinių asmenų registro tvarkytojui.
 
 
 
 
-9. Ikiteisminio tyrimo teisėjo ar teismo nutartį neskirti laikino juridinio asmens veiklos sustabdymo ar laikino juridinio asmens veiklos apribojimo gali apskųsti prokuroras šio straipsnio 8 dalyje nustatytais terminais ir tvarka.
+9. Nutartis juridinio asmens atstovui paskelbiama pasirašytinai.
+
+
+
+
+10. Juridinio asmens atstovas ikiteisminio tyrimo teisėjo ar teismo nutartis dėl šio straipsnio 1 dalyje numatytų procesinių prievartos priemonių gali apskųsti aukštesniajam teismui per septynias dienas nuo nutarties gavimo dienos.
+
+
+
+
+11. Ikiteisminio tyrimo teisėjo ar teismo nutartį neskirti šio straipsnio 1 dalyje numatytų procesinių prievartos priemonių gali apskųsti prokuroras šio straipsnio 10 dalyje nustatytais terminais ir tvarka.
 
 
 Straipsnio pakeitimai:
-Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
+Nr. XIV-2574, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08215
  
 
 
@@ -14134,7 +14187,10 @@ Priverčiamųjų medicinos priemonių taikymo procesas
 
 
 
-2. Priverčiamosios medicinos priemonės gali būti taikomos asmenims, teismo pripažintiems ribotai pakaltinamais, Lietuvos Respublikos baudžiamojo kodekso 18 straipsnio 2 dalyje numatytais atvejais.
+2. Priverčiamosios medicinos priemonės gali būti taikomos asmenims, teismo pripažintiems ribotai pakaltinamais, Lietuvos Respublikos baudžiamojo kodekso 18 straipsnio 2 ir 3 dalyse numatytais atvejais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2574, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08215
+ 
 
 
 
@@ -14537,7 +14593,10 @@ Teismo nutartį taikyti priverčiamąją medicinos priemonę turi teisę apskųs
 
 
 
-4. Dėl priverčiamosios medicinos priemonės pratęsimo, rūšies pakeitimo ar panaikinimo sprendžia teismas pagal šios priemonės taikymo vietą. Sprendžiant šį klausimą, teismo posėdyje turi dalyvauti išvadą apie asmens sveikatos būklę pateikusios sveikatos priežiūros įstaigos atstovas. Teisėjas turi teisę reikalauti, kad į posėdį būtų pristatytas asmuo, kuriam pratęsiama, keičiama ar panaikinama priverčiamoji medicinos priemonė, jeigu pagal gydytojų komisijos išvadą tam nekliudo jo ligos pobūdis. Apie posėdžio vietą ir laiką teismas privalo pranešti šio Kodekso 404 straipsnyje nurodytiems asmenims. Šių asmenų neatvykimas nagrinėti klausimą nekliudo.
+4. Dėl priverčiamosios medicinos priemonės pratęsimo, rūšies pakeitimo ar panaikinimo sprendžia teismas pagal šios priemonės taikymo vietą. Sprendžiant šį klausimą, teismo posėdyje turi dalyvauti išvadą apie asmens sveikatos būklę pateikusios sveikatos priežiūros įstaigos atstovas ir asmens, kuriam taikomos priverčiamosios medicinos priemonės, gynėjas. Teisėjas turi teisę reikalauti, kad į posėdį būtų pristatytas asmuo, kuriam pratęsiama, keičiama ar panaikinama priverčiamoji medicinos priemonė, jeigu pagal gydytojų komisijos išvadą tam nekliudo jo ligos pobūdis. Apie posėdžio vietą ir laiką teismas privalo pranešti kitiems šio Kodekso 404 straipsnyje nurodytiems asmenims. Šių asmenų neatvykimas nagrinėti klausimo nekliudo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2574, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08215
+ 
 
 
 
