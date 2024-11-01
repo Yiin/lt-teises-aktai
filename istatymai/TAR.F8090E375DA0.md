@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.02.25)
 
 
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-11-20
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
  
@@ -260,7 +260,10 @@ Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
 
 
 
-26. Pridėtinis tabako gaminio kvapas ar skonis – aiškiai juntamas ne tabako kvapas ar skonis, kurį suteikia priedas ar priedų derinys, įskaitant vaisių, prieskonių, žolių, alkoholio, karamelės, mentolio ar vanilės ir kitus priedus ar jų derinius, ir kuris jaučiamas prieš vartojant ir (ar) vartojant tabako gaminį. 
+26. Pridėtinis tabako gaminio, elektroninės cigaretės, elektroninių cigarečių pildyklės kvapas ar skonis – aiškiai juntamas ne tabako kvapas ar skonis, kurį suteikia priedas ar priedų derinys, įskaitant vaisių, prieskonių, žolių, alkoholio, karamelės, mentolio ar vanilės ir kitus priedus ar jų derinius, ir kuris jaučiamas prieš vartojant arba vartojant tabako gaminį, elektroninę cigaretę, taip pat prieš naudojant elektroninių cigarečių pildyklę.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2402, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25914
+ 
 
 
 
@@ -1225,7 +1228,10 @@ ELEKTRONINIŲ CIGAREČIŲ, ELEKTRONINIŲ CIGAREČIŲ PILDYKLIŲ, RŪKOMŲJŲ ŽO
 2. Pateikiamos rinkai elektroninės cigaretės ir elektroninių cigarečių pildyklės turi atitikti šiuos reikalavimus: 
 
 
-1) skystis, kuriame yra nikotino, pateikiamas rinkai tik tam skirtose elektroninių cigarečių pildyklėse, kurių tūris yra ne didesnis kaip 10 mililitrų, vienkartinėse elektroninėse cigaretėse arba vienkartinėse kapsulėse ar rezervuaruose, o kapsulių ar rezervuarų tūris yra ne didesnis kaip 2 mililitrai; 
+1) skystis, pateikiamas rinkai tik tam skirtose elektroninių cigarečių pildyklėse, kurių tūris yra ne didesnis kaip 10 mililitrų, vienkartinėse elektroninėse cigaretėse arba vienkartinėse kapsulėse ar rezervuaruose, o kapsulių ar rezervuarų tūris yra ne didesnis kaip 2 mililitrai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2402, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25914
+ 
 
 
 
@@ -1280,11 +1286,30 @@ ELEKTRONINIŲ CIGAREČIŲ, ELEKTRONINIŲ CIGAREČIŲ PILDYKLIŲ, RŪKOMŲJŲ ŽO
 
 
 
-5) kvapiųjų medžiagų, išskyrus tabako kvapą ir (ar) skonį.
+5) pridėtinio kvapo ar skonio, kaip tai apibrėžta šio Įstatymo 2 straipsnio 26 dalyje; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2402, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25914
+ 
+
+
+
+
+6) cukraus ir (ar) saldiklių.
+Papildyta straipsnio punktu:
+Nr. XIV-2435, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26023
+ 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-909, 2022-01-18, paskelbta TAR 2022-01-28, i. k. 2022-01408
+ 
+
+
+
+
+5. Valstybinė vartotojų teisių apsaugos tarnyba, vadovaudamasi moksliniais tyrimais pagrįstais įrodymais ir (arba) kitų šalių kompetentingų institucijų gerąja praktika, sudaro konkrečių leidžiamų naudoti cheminių medžiagų, suteikiančių elektroninių cigarečių ir elektroninių cigarečių pildyklių skysčiui tabako skonį ir kvapą, sąrašą, kuriame nurodomi šių medžiagų Cheminių medžiagų santrumpų tarnybos (angl. Chemical Abstracts Service (CAS) suteikti registracijos numeriai.
+Papildyta straipsnio dalimi:
+Nr. XIV-2402, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25914
  
 
 
@@ -1455,7 +1480,10 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 95 straipsnis. Įspėjimai apie galimą žalą sveikatai 
 
 
-1. Ant elektroninių cigarečių ir elektroninių cigarečių pildyklių vienetinių pakelių ar bet kokios išorinės pakuotės turi būti šis įspėjimas apie galimą žalą sveikatai: „Šiame gaminyje yra nikotino, kuris yra itin didelę priklausomybę sukelianti medžiaga. Jo nerekomenduojama vartoti nerūkantiesiems“.
+1. Ant elektroninių cigarečių ir elektroninių cigarečių pildyklių vienetinių pakelių ar bet kokios išorinės pakuotės turi būti šis įspėjimas apie galimą žalą sveikatai: „Šiame gaminyje yra nikotino, kuris yra itin didelę priklausomybę sukelianti medžiaga.“ Šis reikalavimas netaikomas elektroninių cigarečių pildyklėms, kurių sudėtyje nėra nikotino.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2402, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25914
+ 
 
 
 
@@ -3124,7 +3152,10 @@ Nr. XII-1526, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21287
 
 
 
-2. Byla nagrinėjama žodinio proceso tvarka, dalyvaujant proceso šalims ir kitiems proceso dalyviams.
+2. Byla nagrinėjama žodinio proceso tvarka, dalyvaujant proceso šalims ir kitiems bylos nagrinėjimo proceso dalyviams. Byla gali būti nagrinėjama rašytinio proceso tvarka, kai viena proceso šalis pareiškia prašymą bylą nagrinėti rašytinio proceso tvarka, o kita šalis per nustatytą terminą nepareiškia prieštaravimo dėl tokio bylos nagrinėjimo. Šioje dalyje nurodytu atveju žodinis bylos nagrinėjimas rengiamas, jeigu bet kuri proceso šalis pareiškia motyvuotą prašymą nagrinėti bylą žodinio proceso tvarka arba bylą nagrinėjanti institucija nusprendžia, kad toks nagrinėjimas yra būtinas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2402, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25914
+ 
 
 
 
@@ -3712,3 +3743,13 @@ Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kont
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2403, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25915
 Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 18 straipsnio pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2402, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25914
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 2, 9-2, 9-5 ir 30 straipsnių pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2435, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26023
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 9-2 straipsnio pakeitimo įstatymas
