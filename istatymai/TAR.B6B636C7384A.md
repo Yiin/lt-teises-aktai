@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2024-07-25 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-12-29
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
  
@@ -1060,12 +1060,18 @@ Nr. XIII-729, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18796
 
 
 
-2) duomenis apie likvidųjį turtą;
+2) duomenis apie likvidųjį turtą, kuriuo gali naudotis filialas, įskaitant eurais išreikštą likvidųjį turtą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2712, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11235
+ 
 
 
 
 
-3) duomenis apie nuosavų lėšų sumą;
+3) duomenis apie nuosavų lėšų, kuriomis disponuoja filialas, sumą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2712, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11235
+ 
 
 
 
@@ -2583,10 +2589,11 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 52 straipsnis. Vidinio skolinimo apribojimai 
 
 
-1. Skolinimas banko vadovams, su jais artimos giminystės, svainystės ryšiais susijusiems asmenims ir juridiniams asmenims, kurių kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį turi banko vadovai, su jais artimos giminystės, svainystės ryšiais susiję asmenys arba kuriuose šie asmenys yra vadovai, negali viršyti banko stebėtojų tarybos nustatytų dydžių. Tokio skolinimo sąlygas ir tvarką nustato banko stebėtojų taryba.
+1. Skolinimas banko vadovams, su jais artimos giminystės, svainystės ryšiais susijusiems asmenims ir juridiniams asmenims, kurių kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį turi banko vadovai, su jais artimos giminystės, svainystės ryšiais susiję asmenys arba kuriuose šie asmenys yra vyresnioji vadovybė ar vadovai, negali viršyti banko stebėtojų tarybos nustatytų dydžių. Tokio skolinimo sąlygas ir tvarką nustato banko stebėtojų taryba.
 Straipsnio dalies pakeitimai:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
+Nr. XIV-2712, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11235
  
 
 
@@ -2863,7 +2870,10 @@ Nr. X-1038, 2007-01-18, Žin., 2007, Nr. 12-499 (2007-01-30)
 tikslais
 
 
-1. Bankas, kuris yra globojanti grupės įstaiga, ar finansinei grupei priklausantis bankas (jei globojanti grupės įstaiga yra finansų kontroliuojančioji (holdingo) bendrovė) privalo parengti ir priežiūros institucijai pateikti visos finansinės grupės konsoliduotas finansines ir priežiūrai skirtas ataskaitas. Šios ataskaitos turi būti pateikiamos kas ketvirtį priežiūros institucijos nustatytais terminais.
+1. Bankas, kuris yra globojanti grupės įstaiga, ar finansinei grupei priklausantis bankas (jei globojanti grupės įstaiga yra finansų kontroliuojančioji (holdingo) bendrovė arba mišrios veiklos finansų kontroliuojančioji įmonė, kurios neįrašytos į Įmonių, priklausančių finansų konglomeratui, viešąjį sąrašą pagal Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 121 straipsnio 5 dalį) privalo parengti ir priežiūros institucijai pateikti visos finansinės grupės konsoliduotąsias finansines ir priežiūrai skirtas ataskaitas. Šios ataskaitos turi būti pateikiamos kas ketvirtį priežiūros institucijos nustatytais terminais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2712, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11235
+ 
 
 
 
@@ -3387,7 +3397,10 @@ Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
 
 
 
-7) sumažinti kintamąją atlygio dalį, mokamą banko vadovams ir darbuotojams, jeigu tai nesuderinama su patikimos kapitalo bazės išlaikymu; 
+7) sumažinti kintamąją atlygio dalį kaip procentinę grynųjų pajamų dalį, mokamą banko vadovams ir darbuotojams, jeigu tai nesuderinama su patikimos kapitalo bazės išlaikymu;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2712, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11235
+ 
 
 
 
