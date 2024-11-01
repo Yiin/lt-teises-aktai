@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2024-07-25 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-12-29
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
  
@@ -2509,7 +2509,10 @@ Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
 
 
 
-7) sumažinti kintamąją atlygio dalį, mokamą centrinės kredito unijos vadovams ir darbuotojams, jeigu tai nesuderinama su patikimos kapitalo bazės išlaikymu; 
+7) sumažinti kintamąją atlygio dalį kaip procentinę grynųjų pajamų dalį, mokamą centrinės kredito unijos vadovams ir darbuotojams, jeigu tai nesuderinama su patikimos kapitalo bazės išlaikymu;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2713, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11236
+ 
 
 
 
