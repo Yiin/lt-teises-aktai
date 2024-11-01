@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.708F524D8B62"
 
 # Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2024-04-26 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1528, i. k. 0951010ISTA000I-996
  
@@ -169,6 +169,13 @@ BENDROSIOS NUOSTATOS
 
 
 25. Valstybinis kontrolinis prabavimo ženklas – ženklas, kuriuo patvirtinama, kad jį turintis tauriųjų metalų gaminys yra prabuotas ir įspauduotas Europos ekonominės erdvės valstybės arba Turkijos įgaliotos tauriųjų metalų ir brangakmenių prabavimo valstybinės priežiūros institucijos.
+
+
+
+
+26. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-2550, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07554
  
 
 
@@ -581,25 +588,47 @@ Su tauriaisiais metalais ir brangakmeniais susijusios veiklos rūšys:
 8 straipsnis. Reikalavimai ūkio subjektams
 
 
-1. Ūkio subjektas, siekiantis verstis su tauriaisiais metalais ir brangakmeniais susijusia veikla Lietuvos Respublikoje, priežiūros institucijai pateikia priežiūros institucijos savininko teises ir pareigas įgyvendinančios institucijos patvirtintose Ūkio subjektų, kurie verčiasi su tauriaisiais metalais ir brangakmeniais susijusia veikla, sąrašo sudarymo ir tvarkymo ir atsakomybės ženklų pavyzdžių registravimo taisyklėse nustatytos formos ilgalaikės arba laikinai ar vieną kartą vykdomos su tauriaisiais metalais ir brangakmeniais susijusios veiklos deklaraciją (toliau – deklaracija) ir, jeigu jis privalo turėti šio straipsnio 2 dalyje nurodytą atsakomybės ženklą, – ne mažesnį kaip 2 x 2 cm dydžio atsakomybės ženklo eskizą bei metalinę plokštelę su atsakomybės ženklo įspaudu (toliau kartu – atsakomybės ženklo pavyzdžiai).
+1. Ūkio subjektas, siekiantis verstis su tauriaisiais metalais ir brangakmeniais susijusia veikla Lietuvos Respublikoje, priežiūros institucijai pateikia priežiūros institucijos savininko teises ir pareigas įgyvendinančios institucijos tvirtinamose ūkio subjektų, kurie verčiasi su tauriaisiais metalais ir brangakmeniais susijusia veikla, sąrašo sudarymo ir tvarkymo ir atsakomybės ženklų pavyzdžių registravimo taisyklėse (toliau – Ūkio subjektų, kurie verčiasi su tauriaisiais metalais ir brangakmeniais susijusia veikla, sąrašo sudarymo ir tvarkymo ir atsakomybės ženklų pavyzdžių registravimo taisyklės) nustatytos formos ilgalaikės arba laikinai ar vieną kartą vykdomos su tauriaisiais metalais ir brangakmeniais susijusios veiklos deklaraciją (toliau – deklaracija) ir, jeigu jis privalo turėti šio straipsnio 3 dalyje nurodytą atsakomybės ženklą, – ne mažesnį kaip 2 ⅹ 2 cm dydžio atsakomybės ženklo eskizą bei metalinę plokštelę su atsakomybės ženklo įspaudu (toliau kartu – atsakomybės ženklo pavyzdžiai). 
 
 
 
 
-2. Ūkio subjektas privalo turėti atsakomybės ženklą, jeigu jis siekia verstis tauriųjų metalų ir brangakmenių gaminių gamyba ir (arba) tauriųjų metalų ir brangakmenių gaminių realizavimu (didmenine ir (arba) mažmenine prekyba).
+2. Deklaracijoje ūkio subjektas patvirtina, kad nėra šio straipsnio 5 dalyje nurodytų aplinkybių.
 
 
 
 
-3. Ūkio subjektas kitą dieną nuo deklaracijos pateikimo priežiūros institucijai dienos turi teisę vykdyti su tauriaisiais metalais ir brangakmeniais susijusią veiklą, išskyrus atvejus, kai deklaracijoje jis nurodo vėlesnę su tauriaisiais metalais ir brangakmeniais susijusios veiklos pradžios datą.
+3. Ūkio subjektas privalo turėti atsakomybės ženklą, jeigu jis siekia verstis tauriųjų metalų ir brangakmenių gaminių gamyba ir (arba) tauriųjų metalų ir brangakmenių gaminių realizavimu (didmenine ir (arba) mažmenine prekyba).
 
 
 
 
-4. Ūkio subjektas atsakomybės ženklo pavyzdžius priežiūros institucijai pateikia iki tauriųjų metalų ir (arba) brangakmenių gaminių ženklinimo atsakomybės ženklu pradžios, bet ne vėliau kaip per 20 dienų nuo tos dienos, kai įgijo teisę vykdyti su tauriaisiais metalais ir brangakmeniais susijusią veiklą, arba nuo deklaracijoje nurodytos su tauriaisiais metalais ir brangakmeniais susijusios veiklos pradžios dienos.
+4. Ūkio subjektas kitą dieną nuo deklaracijos ir atsakomybės ženklo, jeigu jis privalo jį turėti, pavyzdžių pateikimo priežiūros institucijai dienos turi teisę vykdyti su tauriaisiais metalais ir brangakmeniais susijusią veiklą, išskyrus atvejus, kai deklaracijoje jis nurodo vėlesnę su tauriaisiais metalais ir brangakmeniais susijusios veiklos pradžios datą.
+
+
+
+
+5. Su tauriaisiais metalais ir brangakmeniais susijusia veikla draudžiama verstis ūkio subjektui, kurio valdymo ar priežiūros organo narys ar naudos gavėjas yra pripažintas kaltu padaręs:
+
+
+1) Lietuvos Respublikos baudžiamajame kodekse numatytą sunkų arba labai sunkų nusikaltimą ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 8 metai; 
+
+
+
+
+2) Baudžiamajame kodekse numatytą nesunkų arba apysunkį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, visuomenės saugumui ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo dienos nepraėjo 5 metai;
+
+
+
+
+3) kitą, negu nurodyta šios dalies 1 ir 2 punktuose, Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2550, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07554
  
-
-
 
 
 
@@ -607,12 +636,12 @@ Su tauriaisiais metalais ir brangakmeniais susijusios veiklos rūšys:
 9 straipsnis. Ūkio subjektų, kurie verčiasi su tauriaisiais metalais ir brangakmeniais susijusia veikla, sąrašo sudarymas, jo tvarkymas ir atsakomybės ženklo pavyzdžių registravimas
 
 
-1. Priežiūros institucija sudaro ir tvarko Ūkio subjektų, kurie verčiasi su tauriaisiais metalais ir brangakmeniais susijusia veikla, sąrašą (toliau – Ūkio subjektų sąrašas) bei registruoja atsakomybės ženklo pavyzdžius Ūkio subjektų, kurie verčiasi su tauriaisiais metalais ir brangakmeniais susijusia veikla, sąrašo sudarymo ir tvarkymo ir atsakomybės ženklų pavyzdžių registravimo taisyklėse nustatyta tvarka.
+1. Priežiūros institucija sudaro ir tvarko ūkio subjektų, kurie verčiasi su tauriaisiais metalais ir brangakmeniais susijusia veikla, sąrašą (toliau – Ūkio subjektų sąrašas) bei registruoja atsakomybės ženklo pavyzdžius Ūkio subjektų, kurie verčiasi su tauriaisiais metalais ir brangakmeniais susijusia veikla, sąrašo sudarymo ir tvarkymo ir atsakomybės ženklų pavyzdžių registravimo taisyklėse nustatyta tvarka.
 
 
 
 
-2. Priežiūros institucija, gavusi ūkio subjekto deklaraciją, ne vėliau kaip kitą darbo dieną įrašo ūkio subjektą į Ūkio subjektų sąrašą, išskyrus ūkio subjektą, kuris su tauriaisiais metalais ir brangakmeniais susijusią veiklą vykdo vieną kartą. 
+2. Priežiūros institucija, gavusi deklaraciją ir atsakomybės ženklo, jeigu ūkio subjektas privalo jį turėti, pavyzdžius, ne vėliau kaip kitą darbo dieną įrašo ūkio subjektą į Ūkio subjektų sąrašą, išskyrus ūkio subjektą, kuris su tauriaisiais metalais ir brangakmeniais susijusią veiklą vykdo vieną kartą.
 
 
 
@@ -642,7 +671,27 @@ Su tauriaisiais metalais ir brangakmeniais susijusios veiklos rūšys:
 
 
 
-4. Priežiūros institucija ūkio subjektą iš Ūkio subjektų sąrašo išbraukia:
+4. Priežiūros institucija sustabdo ūkio subjekto su tauriaisiais metalais ir brangakmeniais susijusią veiklą ir nustato ūkio subjektui:
+
+
+1) 20 darbo dienų terminą pašalinti šio įstatymo reikalavimų neatitinkančius asmenis iš ūkio subjekto valdymo ar priežiūros organų narių ar naudos gavėjų, kai atsiranda ir (ar) paaiškėja šio įstatymo 8 straipsnio 5 dalyje nurodytos aplinkybės;
+
+
+
+
+2) 5 darbo dienų terminą pateikti patikslintą deklaraciją, kai paaiškėja, kad deklaracijoje nurodyti neteisingi veiklos duomenys, nesusiję su šio įstatymo 8 straipsnio 5 dalyje nurodytomis aplinkybėmis.
+
+
+
+
+
+
+5. Priežiūros institucija priima sprendimą dėl ūkio subjekto su tauriaisiais metalais ir brangakmeniais susijusios veiklos sustabdymo per 5 darbo dienas nuo šio straipsnio 4 dalyje nurodytų veiklos sustabdymo pagrindų atsiradimo dienos.
+
+
+
+
+6. Priežiūros institucija išbraukia ūkio subjektą iš Ūkio subjektų sąrašo:
 
 
 1) ūkio subjektui pateikus prašymą išbraukti jį iš Ūkio subjektų sąrašo;
@@ -660,22 +709,39 @@ Su tauriaisiais metalais ir brangakmeniais susijusios veiklos rūšys:
 
 
 
-4) ūkio subjektui (fiziniam asmeniui) mirus.
+4) ūkio subjektui (fiziniam asmeniui) mirus;
+
+
+
+
+5) paaiškėjus, kad deklaracijoje nurodyti neteisingi duomenys apie šio įstatymo 8 straipsnio 5 dalyje nurodytas aplinkybes;
+
+
+
+
+6) atsiradus ir (ar) paaiškėjus šio įstatymo 8 straipsnio 5 dalyje nurodytoms aplinkybėms, jeigu ūkio subjektas per šio straipsnio 4 dalies 1 punkte nustatytą terminą nepašalina šio įstatymo reikalavimų neatitinkančių asmenų iš ūkio subjekto valdymo ar priežiūros organų narių ar naudos gavėjų;
+
+
+
+
+7) paaiškėjus, kad deklaracijoje buvo nurodyti neteisingi veiklos duomenys, nesusiję su šio įstatymo 8 straipsnio 5 dalyje nurodytomis aplinkybėmis, jeigu ūkio subjektas per šio straipsnio 4 dalies 2 punkte nustatytą terminą nepateikia patikslintos deklaracijos.
 
 
 
 
 
 
-5. Priežiūros institucija ne vėliau kaip kitą darbo dieną nuo šio straipsnio 4 dalyje nurodytų aplinkybių paaiškėjimo dienos, išskyrus atvejus, kai ūkio subjekto prašyme išbraukti jį iš Ūkio subjektų sąrašo nurodyta vėlesnė data, išbraukia ūkio subjektą iš Ūkio subjektų sąrašo ir apie tai jį informuoja. Ūkio subjektui pateikus prašymą išbraukti jį iš Ūkio subjektų sąrašo vėlesne data, priežiūros institucija prašyme nurodytą dieną išbraukia ūkio subjektą iš Ūkio subjektų sąrašo ir apie tai jį informuoja. 
+7. Priežiūros institucija ne vėliau kaip kitą darbo dieną nuo šio straipsnio 6 dalyje nurodytų aplinkybių paaiškėjimo dienos, išskyrus atvejus, kai ūkio subjekto prašyme išbraukti jį iš Ūkio subjektų sąrašo nurodyta vėlesnė data, išbraukia ūkio subjektą iš Ūkio subjektų sąrašo ir apie tai jį informuoja. Ūkio subjektui pateikus prašymą išbraukti jį iš Ūkio subjektų sąrašo vėlesne data, priežiūros institucija prašyme nurodytą dieną išbraukia ūkio subjektą iš Ūkio subjektų sąrašo ir apie tai jį informuoja.
 
 
 
 
-6. Ūkio subjektas, išbrauktas iš Ūkio subjektų sąrašo, praranda teisę vykdyti su tauriaisiais metalais ir brangakmeniais susijusią veiklą. 
+8. Ūkio subjektas, išbrauktas iš Ūkio subjektų sąrašo, praranda teisę vykdyti su tauriaisiais metalais ir brangakmeniais susijusią veiklą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2550, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07554
  
-
-
 
 
 
@@ -729,7 +795,10 @@ Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
 
 
 
-7. Ūkio subjektas apie pasikeitusius jo su tauriaisiais metalais ir brangakmeniais susijusios veiklos duomenis, nurodytus priežiūros institucijai pateiktoje deklaracijoje, arba planuojamą nutraukti su tauriaisiais metalais ir brangakmeniais susijusią veiklą ar jos nutraukimą raštu praneša priežiūros institucijai ne vėliau kaip per 10 dienų nuo duomenų pasikeitimo dienos arba nuo dienos, kai paaiškėja, kad su tauriaisiais metalais ir brangakmeniais susijusią veiklą planuojama nutraukti, ar nuo šios veiklos nutraukimo dienos. 
+7. Ūkio subjektas priežiūros institucijai pateikia patikslintą deklaraciją, kurioje nurodo informaciją apie pasikeitusius jo su tauriaisiais metalais ir brangakmeniais susijusios veiklos duomenis, nurodytus deklaracijoje, arba planuojamą pradėti ar nutraukti su tauriaisiais metalais ir brangakmeniais susijusią veiklą, jos pradžią ar nutraukimą, taip pat apie pasikeitusius valdymo ar priežiūros organų narius ar naudos gavėjus, pasikeitusias su tauriaisiais metalais ir brangakmeniais susijusios veiklos rūšis ar veiklos adresus, įskaitant elektroninės parduotuvės adresą, ne vėliau kaip per 10 dienų nuo duomenų pasikeitimo dienos arba nuo dienos, kai paaiškėja, kad su tauriaisiais metalais ir brangakmeniais susijusią veiklą planuojama pradėti ar nutraukti, ar nuo šios veiklos pradžios ar nutraukimo dienos. Vietos, kurioje ūkio subjektas laikinai vykdys su tauriaisiais metalais ir brangakmeniais susijusią veiklą, adresą ir darbo joje laiką ūkio subjektas raštu nurodo priežiūros institucijai ne vėliau kaip prieš 2 darbo dienas iki veiklos nurodytu adresu pradžios. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2550, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07554
+ 
 
 
 
