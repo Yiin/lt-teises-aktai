@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2024-08-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-12-29
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -2051,9 +2051,11 @@ Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 
 
 
-10. Pagal šio straipsnio 7 dalies 19–21 punktus informacija perduodama tik pateikus prašymą, kuriame prašymą teikianti įstaiga nurodo konkrečias užduotis, kurioms atlikti pagal teisės aktais nustatytus įgaliojimus būtina prašoma informacija. Prašyme turi būti tiksliai nurodyta prašoma informacija ir jos atskleidimo ar perdavimo būdas. Informacija perduodama tik prašymą pateikusios įstaigos nurodytiems asmenims, kurie atlieka su prašymą pateikusios įstaigos įgaliojimais tiesiogiai susijusias funkcijas. Informacija, iš kurios tiesiogiai ar netiesiogiai galima nustatyti konkrečių asmens duomenų, gali būti teikiama tik Lietuvos banko patalpose. 
+10. Pagal šio straipsnio 7 dalies 19–21 punktus informacija perduodama tik pateikus prašymą, kuriame prašymą teikianti įstaiga nurodo konkrečias užduotis, kurioms atlikti pagal teisės aktais nustatytus įgaliojimus būtina prašoma informacija. Prašyme turi būti tiksliai nurodyta prašoma informacija, jos mastas, forma ir atskleidimo ar perdavimo būdas. Informacija, kuri turi būti apibendrinta ar nuasmeninta, perduodama tik prašymą pateikusios įstaigos nurodytiems asmenims, kurie atlieka su prašymą pateikusios įstaigos įgaliojimais tiesiogiai susijusias funkcijas. Informacija, iš kurios tiesiogiai ar netiesiogiai galima nustatyti konkrečius asmens duomenis, gali būti teikiama tik Lietuvos banko patalpose.
 Papildyta straipsnio dalimi:
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+Straipsnio dalies pakeitimai:
+Nr. XIV-2717, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11240
  
 
 
@@ -2232,7 +2234,10 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 
 
-4) netaikyti poveikio priemonių, kai nenustatomas pažeidimas, kai nutraukiamas poveikio priemonės taikymo klausimo svarstymas šio straipsnio 5 dalyje nurodytu pagrindu arba nėra įstatymo pagrindo taikyti poveikio priemonę, taip pat šio įstatymo 434 straipsnyje nustatytais atvejais;
+4) netaikyti poveikio priemonių, kai nenustatomas pažeidimas, kai nutraukiamas poveikio priemonės taikymo klausimo svarstymas šio straipsnio 5 dalyje nurodytu pagrindu arba nėra įstatymo pagrindo taikyti poveikio priemonę, taip pat šio įstatymo 435 straipsnyje nustatytais atvejais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2721, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11244
+ 
 
 
 
@@ -2350,7 +2355,128 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 
 
-434 straipsnis. Lietuvos banko teisė netaikyti poveikio priemonių 
+434 straipsnis. Poveikio priemonių taikymas sudarant administracinį susitarimą 
+
+
+1. Poveikio priemonės taikymo klausimo svarstymas gali būti baigtas Lietuvos bankui ir asmeniui, kuriam ketinama taikyti poveikio priemonę, sudarius administracinį susitarimą. Tokiu atveju šio įstatymo 433 ir 437 straipsnių nuostatos taikomos mutatis mutandis atsižvelgiant į šio straipsnio nuostatas. 
+
+
+
+
+2. Administracinio susitarimo sudarymo tikslas yra pasiekti bendrą Lietuvos banko ir asmens, kuriam ketinama taikyti poveikio priemonę, susitarimą dėl nustatytų faktinių duomenų, kurie sudaro poveikio priemonės taikymo pagrindus, juos patvirtinančių įrodymų ir asmeniui taikytinos atsakomybės ir išspręsti klausimą dėl poveikio priemonės taikymo. 
+
+
+
+
+3. Asmuo, kuriam ketinama taikyti poveikio priemonę, šio įstatymo 433 straipsnio 2 dalyje nustatyta tvarka gavęs iš Lietuvos banko esminę informaciją apie teisės aktų nuostatas ir nustatytus faktinius duomenis, kurie sudaro poveikio priemonės taikymo pagrindus, per paaiškinimams pateikti nustatytą terminą kartu su teikiamais paaiškinimais turi teisę pasiūlyti Lietuvos bankui sudaryti administracinį susitarimą. Jeigu asmuo siūlymą dėl administracinio susitarimo sudarymo pateikia vėliau, bet iki priimant sprendimą dėl poveikio priemonės taikymo, Lietuvos bankas, spręsdamas dėl galimybės sudaryti administracinį susitarimą, atsižvelgia į tai, ar dėl vėlesnio siūlymo pateikimo nebus uždelsiamas poveikio priemonės taikymo klausimo svarstymas.
+
+
+
+
+4. Asmens, kuriam ketinama taikyti poveikio priemonę, siūlymo dėl administracinio susitarimo sudarymo pateikimas neįpareigoja Lietuvos banko pradėti administracinio susitarimo sudarymo proceso. Lietuvos bankas, spręsdamas dėl galimybės sudaryti administracinį susitarimą, atsižvelgia į: 
+
+
+1) įtariamų finansų rinką reglamentuojančių teisės aktų pažeidimų pobūdį; 
+
+
+
+
+2) asmens, kuriam ketinama taikyti poveikio priemonę, ankstesnius pažeidimus ir jam taikytas poveikio priemones; 
+
+
+
+
+3) tai, ar asmuo, kuriam ketinama taikyti poveikio priemonę, elgiasi sąžiningai, atskleidžia reikšmingas su įtariamais pažeidimais susijusias faktines aplinkybes ir jas patvirtinančius įrodymus;
+
+
+
+
+4) tai, ar administracinio susitarimo sudarymas užtikrins, kad bus veiksmingai pasiektas priežiūros ir (arba) poveikio priemonės taikymo tikslas; 
+
+
+
+
+5) tikimybę per šiame straipsnyje nustatytą terminą pasiekti bendrą susitarimą, įvertinant faktinių aplinkybių ginčijimo pobūdį ir mastą, iš anksto numatomus priešingus ir nesuderinamus požiūrius dėl atsakomybės taikymo bei kitas susitarimui per šio straipsnio 9 dalyje nustatytą terminą pasiekti reikšmingas aplinkybes. 
+
+
+
+
+
+
+5. Administracinis susitarimas turi neprieštarauti imperatyvioms įstatymų ir kitų teisės aktų nuostatoms, viešajam interesui, nepažeisti trečiųjų suinteresuotų asmenų teisių ar teisėtų interesų. 
+
+
+
+
+6. Administracinio susitarimo dalykas turi sutapti su šio įstatymo 433 straipsnio 2 dalyje nustatyta tvarka Lietuvos banko nurodytais faktiniais duomenimis, kurie sudaro poveikio priemonės taikymo pagrindus. Administraciniu susitarimu taip pat gali būti išsprendžiami su asmens, kuriam ketinama taikyti poveikio priemonę, nustatytais pažeidimais ir jų pasekmių pašalinimu susiję klausimai, taip pat baudos ar jos dalies mokėjimo išdėstymo šio įstatymo 437 straipsnio 2 dalyje nustatytomis sąlygomis klausimas.
+
+
+
+
+7. Administracinis susitarimas sudaromas raštu. Jame turi būti nurodyta:
+
+
+1) administracinio susitarimo sudarymo data;
+
+
+
+
+2) šalių tapatybę apibūdinantys duomenys: juridinio asmens pavadinimas ir kodas, fizinio asmens vardas, pavardė ir asmens kodas, taip pat šalims atstovaujančių įgaliotų atstovų vardai ir pavardės; 
+
+
+
+
+3) informacija apie padarytų pažeidimų esmę, šių pažeidimų padarymo aplinkybes ir poveikio priemonės taikymo pagrindą;
+
+
+
+
+4) asmeniui taikoma poveikio priemonė ir informacija apie šio įstatymo 433 straipsnio  7–9 dalyse nustatytas aplinkybes, į kurias atsižvelgiama parenkant konkrečią poveikio priemonę ir jos dydį, ir baudos dydžio nustatymą pagal šio straipsnio 8 dalį, jeigu poveikio priemonė taikoma.
+
+
+
+
+
+
+8. Jeigu administraciniu susitarimu taikoma poveikio priemonė yra bauda, baudos dydis nustatomas šio įstatymo 433 straipsnio 10 dalyje nustatyta tvarka ir mažinamas nuo 20 iki 40 procentų. Dydis, kuriuo mažinama bauda, nustatomas atsižvelgiant į tai, ar asmuo, kuriam ketinama taikyti poveikio priemonę, nutraukė įtariamus pažeidimus arba įsipareigojo nutraukti šiuos pažeidimus per pagrįstą administraciniame susitarime nustatytą laiką, kiek ir kokios reikšmės aplinkybių bei jas patvirtinančių įrodymų, susijusių su šiais pažeidimais, atskleidė, kokių priemonių ir per kokį laiką ėmėsi arba ketina imtis, kad šie pažeidimai nepasikartotų ateityje ir (arba) kad būtų pašalintos kilusios neigiamos pasekmės, taip pat bendradarbiavimo apimtį. 
+
+
+
+
+9. Administracinis susitarimas gali būti sudarytas per du mėnesius nuo Lietuvos banko sprendimo pradėti administracinio susitarimo sudarymo procesą. Šis terminas Lietuvos banko sprendimu gali būti pratęstas, jeigu yra objektyvių aplinkybių. Jeigu per du mėnesius ar pratęstą terminą nesudaromas administracinis susitarimas pagal šio straipsnio 7 dalį arba viena iš šalių raštu atsisako tęsti administracinio susitarimo sudarymo procesą iki šio termino pabaigos, poveikio priemonės taikymo klausimas toliau svarstomas šio įstatymo 433 straipsnyje nustatyta tvarka.
+
+
+
+
+10. Lietuvos banko sprendimas sudaryti administracinį susitarimą priimamas nedalyvaujant asmeniui, kuriam ketinama taikyti poveikio priemonę.
+
+
+
+
+11. Administracinis susitarimas įsigalioja nuo jo pasirašymo dienos, jeigu administraciniame susitarime nenustatyta kitaip. 
+
+
+
+
+12. Administraciniam susitarimui įsigaliojus, be šio įstatymo 433 straipsnio 15 dalyje nurodytos informacijos, Lietuvos banko interneto svetainėje skelbiama informacija apie administracinio susitarimo sudarymo faktą.
+
+
+
+
+13. Asmens, kuriam ketinama taikyti poveikio priemonę, prisipažinimas padarius pažeidimus, pateiktas administracinio susitarimo sudarymo proceso metu arba administraciniame susitarime, negali būti naudojamas kaip jo kaltės įrodymas nagrinėjant tuos pačius finansų rinką reglamentuojančių teisės aktų pažeidimus šio įstatymo 433 straipsnyje nustatyta tvarka, jeigu administracinis susitarimas nebuvo sudarytas, arba nagrinėjant kitus įtariamus šio asmens padarytus finansų rinką reglamentuojančių teisės aktų pažeidimus. 
+
+
+Papildyta straipsniu:
+Nr. XIV-2721, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11244
+ 
+
+
+
+
+435 straipsnis. Lietuvos banko teisė netaikyti poveikio priemonių 
+Straipsnio numeracijos pakeitimas:
+Nr. XIV-2721, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11244
+ 
 
 
 Lietuvos bankas, svarstydamas, ar taikyti įstatymuose nustatytas poveikio priemones, atsižvelgdamas į šio įstatymo 433 straipsnio 7 ir 8 dalyse nurodytas aplinkybes ir kai nėra šio įstatymo 433 straipsnio 9 dalyje ar kituose įstatymuose nustatytų atsakomybę sunkinančių aplinkybių, vadovaudamasis teisingumo ir protingumo kriterijais, gali netaikyti poveikio priemonių, jeigu pažeidimas yra mažareikšmis arba jeigu turi pagrindą manyti, kad priežiūros tikslas gali būti pasiektas ir kitomis priemonėmis, ne tik taikant poveikio priemones. 
@@ -2363,10 +2489,16 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 
 
-435 straipsnis. Lietuvos banko sprendimų, veiksmų (neveikimo) apskundimas 
+436 straipsnis. Lietuvos banko sprendimų, veiksmų (neveikimo) apskundimas 
+Straipsnio numeracijos pakeitimas:
+Nr. XIV-2721, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11244
+ 
 
 
-1. Šiame skirsnyje nurodytus Lietuvos banko sprendimus, veiksmus (neveikimą) asmenys, kurių teisės arba pagal įstatymus saugomi interesai pažeisti, turi teisę skųsti teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+1. Šiame skirsnyje nurodytus Lietuvos banko sprendimus, veiksmus (neveikimą), išskyrus šio įstatymo 434 straipsnyje nurodytą Lietuvos banko sprendimą atsisakyti pradėti administracinio susitarimo sudarymo procesą ar sudaryti administracinį susitarimą, taip pat sudarytą administracinį susitarimą asmenys, kurių teisės arba pagal įstatymus saugomi interesai pažeisti, turi teisę skųsti teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2721, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11244
+ 
 
 
 
@@ -2381,7 +2513,10 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 
 
-436 straipsnis. Piniginių baudų išieškojimas
+437 straipsnis. Piniginių baudų išieškojimas
+Straipsnio numeracijos pakeitimas:
+Nr. XIV-2721, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11244
+ 
 
 
 1. Lietuvos banko paskirta piniginė bauda į valstybės biudžetą turi būti sumokėta ne vėliau kaip per 40 dienų nuo dienos, kai asmuo gauna Lietuvos banko sprendimą skirti baudą. Apskundus šį sprendimą, bauda turi būti sumokėta ne vėliau kaip per 40 dienų nuo teismo sprendimo įsiteisėjimo dienos. 
@@ -2394,7 +2529,10 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 
 
-3. Lietuvos banko sprendimas skirti baudą yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Lietuvos banko sprendimas gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos ar, jeigu Lietuvos banko sprendimas buvo apskųstas, teismo sprendimo įsiteisėjimo dienos. Tuo atveju, kai baudos sumokėjimas buvo išdėstytas šio straipsnio 2 dalyje nustatyta tvarka, Lietuvos banko sprendimas gali būti pateikiamas vykdyti per 3 metus nuo išdėstymo termino pabaigos. 
+3. Lietuvos banko sprendimas dėl baudos skyrimo ir (arba) kitų išieškotinų sumų yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Lietuvos banko sprendimas gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos ar, jeigu Lietuvos banko sprendimas buvo apskųstas, teismo sprendimo įsiteisėjimo dienos. Kai baudos sumokėjimas buvo išdėstytas šio straipsnio 2 dalyje nustatyta tvarka, Lietuvos banko sprendimas gali būti pateikiamas vykdyti per 3 metus nuo išdėstymo termino pabaigos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2721, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11244
+ 
 
 
 Papildyta straipsniu:
@@ -2404,7 +2542,10 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 
 
-437 straipsnis. Pranešimas apie pažeidimus
+438 straipsnis. Pranešimas apie pažeidimus
+Straipsnio numeracijos pakeitimas:
+Nr. XIV-2721, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11244
+ 
 
 
 Lietuvos Respublikos pranešėjų apsaugos įstatymas ir Lietuvos bankas nustato priemones, kurios skatintų pranešti apie finansų rinką reglamentuojančių teisės aktų, įskaitant Reglamentą (ES) Nr. 575/2013, Reglamentą (ES) Nr. 600/2014, Reglamentą (ES) Nr. 909/2014, Reglamentą (ES) Nr. 596/2014, Reglamentą (ES) Nr. 1286/2014, Reglamentą (ES) 2017/1129, 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentą (ES) 2019/2033 dėl riziką ribojančių reikalavimų investicinėms įmonėms, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 575/2013, (ES) Nr. 600/2014 ir (ES) Nr. 806/2014, Reglamentą (ES) 2023/1114 ar jų įgyvendinamuosius teisės aktus, nuostatų pažeidimą. Šios priemonės turi atitikti šiuos reikalavimus: 
@@ -2903,7 +3044,10 @@ GRYNŲJŲ PINIGŲ TVARKYTOJŲ VEIKLOS PRIEŽIŪRA
 
 
 
-11. Lietuvos banko sprendimui dėl poveikio priemonių taikymo, jų rūšių, dydžių ir taikymo terminų, informavimui apie pritaikytas poveikio priemones, teisei neskirti poveikio priemonių, juridinio asmens patraukimo atsakomybėn senaties terminui ir piniginių baudų išieškojimui mutatis mutandis taikomos šio įstatymo 433 straipsnio 2–13, 15 ir 16 dalių ir 434, 435, 436 straipsnių nuostatos.
+11. Lietuvos banko sprendimui dėl poveikio priemonių taikymo, jų rūšių, dydžių ir taikymo terminų, informavimui apie pritaikytas poveikio priemones, teisei neskirti poveikio priemonių, juridinio asmens patraukimo atsakomybėn senaties terminui ir piniginių baudų išieškojimui mutatis mutandis taikomos šio įstatymo 433 straipsnio 2–13, 15 ir 16 dalių ir 434, 435, 436, 437 straipsnių nuostatos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2721, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11244
+ 
 
 
 
@@ -4083,3 +4227,13 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42, 43-7, 47 straipsnių ir 1, 3 priedų pakeitimo įstatymas
+ 
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2717, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11240
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 43 straipsnio pakeitimo įstatymas
+ 
+39.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2721, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11244
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 43-3, 43-6, 43-7, 47-7 straipsnių pakeitimo ir Įstatymo papildymo 43-4 straipsniu įstatymas
