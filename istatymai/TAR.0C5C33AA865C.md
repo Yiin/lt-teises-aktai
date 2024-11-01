@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2024-07-06 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2025-04-25
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -362,6 +362,14 @@ Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
 
 
 47. Magistralinio dujotiekio vietovės klasės vienetas (toliau – vietovės klasės vienetas) – bet kuri išilgai magistralinio dujotiekio vamzdyno besitęsiančios teritorijos atkarpa, esanti po 200 metrų į abi puses nuo magistralinio dujotiekio vamzdyno ašies ir besitęsianti 1 600 metrų išilgai magistralinio dujotiekio vamzdyno.
+
+
+
+
+471. Mažo ar vidutinio slėgio dujotiekio gyvavimo ciklas – visuma procesų, sudarančių mažo ar vidutinio slėgio dujotiekio raidos ciklą (planavimas, projektavimas, įrengimas, naudojimas ir išmontavimas) per šio dujotiekio gyvavimo laiką.
+Papildyta straipsnio dalimi:
+Nr. XIV-2421, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25642
+ 
 
 
 
@@ -1312,19 +1320,29 @@ Nr. XIII-2175, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09949
 
 
 
-131 straipsnis. Mažo ir (ar) vidutinio slėgio dujotiekių projektavimas ir įrengimas 
+131 straipsnis. Mažo ir (ar) vidutinio slėgio dujotiekių projektavimas ir įrengimas
 
 
-1. Gamtinių dujų sistema, išskyrus šio straipsnio 2 dalyje nurodytus objektus, statoma Lietuvos Respublikos statybos įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka. Šio straipsnio 2 dalyje nurodyti objektai projektuojami, įrengiami bei informacija apie įrengtus objektus (techniniai bei buvimo vietos duomenys) skelbiama viešai Lietuvos Respublikos energetikos ministerijos (toliau – Energetikos ministerija) nustatyta tvarka.
+1. Gamtinių dujų sistema, išskyrus šio straipsnio 2 dalyje nurodytus objektus, statoma Statybos įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka. Šio straipsnio 2 dalyje nurodyti objektai projektuojami, įrengiami ir informacija apie įrengtus objektus (techniniai ir buvimo vietos duomenys) skelbiama viešai Lietuvos Respublikos energetikos ministerijos nustatyta tvarka.
 
 
 
 
-2. Mažo ir vidutinio slėgio dujotiekiai laikomi kilnojamaisiais daiktais. 
+2. Mažo ir vidutinio slėgio dujotiekiai laikomi kilnojamaisiais daiktais.
 
 
-Papildyta straipsniu:
-Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
+
+
+3. Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais gamtinių dujų sistemos duomenys, taip pat mažo ir vidutinio slėgio dujotiekių gyvavimo ciklą apibūdinantys duomenys kuriami, tvarkomi, valdomi ir viešinami skaitmenine forma.
+
+
+
+
+4. Vyriausybė ar jos įgaliota institucija nustato gamtinių dujų sistemos duomenų, mažo ir vidutinio slėgio dujotiekių gyvavimo ciklą apibūdinančių duomenų kūrimo, tvarkymo, valdymo, viešinimo, duomenų struktūros reikalavimus. Nustatydama šiuos reikalavimus, Vyriausybė ar jos įgaliota institucija nurodo atvejus ir nustato tvarką, kada skaitmeniniai duomenys kuriami, tvarkomi, valdomi taikant statinio informacinį modeliavimą ir Nacionalinį statybos informacijos klasifikatorių, kaip jie apibrėžiami Statybos įstatyme.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2421, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25642
  
 
 
