@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-06-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
  
@@ -299,6 +299,14 @@ Nr. XIV-1619, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25043
 
 
 
+281. Ūkininko gaminamas tradicinis alkoholinis gėrimas – iki 65 procentų tūrinės etilo alkoholio koncentracijos alkoholinis gėrimas, pripažintas tautinio paveldo produktu, kaip apibrėžiama Lietuvos Respublikos tautinio paveldo produktų įstatyme, ir gaminamas ūkininko, kaip jis apibrėžiamas Lietuvos Respublikos ūkininko ūkio įstatyme, teikiančio kaimo turizmo paslaugas.
+Papildyta straipsnio dalimi:
+Nr. XIV-2974, 2024-09-03, paskelbta TAR 2024-09-10, i. k. 2024-15914
+ 
+
+
+
+
 29. Užsienio juridinis asmuo – Europos ekonominės erdvės susitarimo dalyvėje (išskyrus Lietuvos Respubliką) ar kitoje užsienio valstybėje įsteigtas juridinis asmuo arba kita organizacija.
 
 
@@ -529,11 +537,64 @@ ALKOHOLIO PRODUKTŲ GAMYBOS VALSTYBINIS REGLAMENTAVIMAS
 10 straipsnis. Naminių alkoholinių gėrimų gamybos valstybinis reglamentavimas
 
 
-Lietuvos Respublikoje draudžiama gaminti naminius alkoholinius gėrimus, išskyrus fizinių asmenų asmeniniam naudojimui (t. y. ne parduoti, o tik savo ar šeimos poreikiams tenkinti) gaminamus natūralios fermentacijos alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija ne didesnė kaip 18 procentų (alaus – ne didesnė kaip 9,5 procento).
+Lietuvos Respublikoje leidžiama gaminti naminius natūralios fermentacijos alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija ne didesnė kaip 18 procentų (alaus – ne didesnė kaip 9,5 procento), ne parduoti, o tik savo ar šeimos poreikiams tenkinti.
 
 
 Straipsnio pakeitimai:
-Nr. XI-2103, 2012-06-21, Žin., 2012, Nr. 78-4025 (2012-07-04)
+Nr. XIV-2974, 2024-09-03, paskelbta TAR 2024-09-10, i. k. 2024-15914
+ 
+
+
+
+
+101 straipsnis. Ūkininkų gaminamų tradicinių alkoholinių gėrimų gamybos valstybinis reglamentavimas
+
+
+1. Ūkininkams, apibrėžtiems Ūkininko ūkio įstatyme, nuosavybės teise priklausančioje kaimo turizmo sodyboje teikiantiems kaimo turizmo reikalavimus atitinkančias paslaugas, užtikrinantiems kaimo turizmo paslaugų prieinamumą asmenims su negalia ir žemės ūkio ministro nustatyta tvarka sertifikavusiems gaminamus alkoholinius gėrimus kaip tautinio paveldo produktus (toliau – ūkininkas), leidžiama gaminti tradicinius alkoholinius gėrimus kaimo turizmo sodybose ne parduoti, o tik savo ar šeimos poreikiams tenkinti ir (arba) degustuoti vietoje.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytiems ūkininkams leidžiama per kalendorinius metus pagaminti ne daugiau kaip 100 litrų tradicinių alkoholinių gėrimų. 
+
+
+
+
+3. Įranga, naudojama gaminant tradicinius alkoholinius gėrimus, turi būti ūkininko pažymėta identifikaciniu numeriu. Numeris turi būti aiškiai matomas. Jį sudaro 13 skaitmenų: vietovės, kurioje vykdoma gamyba, pašto kodas (5 skaitmenys), įrangos žymėjimo einamieji metai (4 skaitmenys), mėnuo (2 skaitmenys), diena (2 skaitmenys).
+
+
+
+
+4. Prieš 48 valandas iki tradicinio alkoholinio gėrimo gamybos pradžios ūkininkas raštu ar elektroninių ryšių priemonėmis apie tai informuoja Valstybinę maisto ir veterinarijos tarnybą, nurodydamas šio produkto gamybos vietos adresą, tikslią gamybos pabaigos datą, planuojamą gamybos pradžios ir pabaigos laiką, planuojamą pagaminti šio produkto kiekį, naudojamos įrangos identifikacinį numerį, kaip jis apibrėžiamas šio straipsnio 3 dalyje. Per 24 valandas po gamybos pabaigos ūkininkas raštu ar elektroninių ryšių priemonėmis informuoja Valstybinę maisto ir veterinarijos tarnybą apie tikslų pagamintą šio produkto kiekį.
+
+
+
+
+5. Ūkininkų pagaminti tradiciniai alkoholiniai gėrimai turi būti nedelsiant išpilstyti į ne mažesnę kaip 0,2 litro, bet ne didesnę kaip vieno litro stiklinę tarą.
+
+
+
+
+6. Ūkininkų gaminami tradiciniai alkoholiniai gėrimai žymimi aiškiai matomomis etiketėmis. Jose turi būti nurodytas etiketės numeris, tradicinį alkoholinį gėrimą pagaminusio ūkininko vardas ir pavardė, šio produkto pagaminimo data ir laikas, sudėtis ir tūrinė etilo alkoholio koncentracija procentais.
+
+
+
+
+7. Šio straipsnio 4 ir 6 dalyse nurodytą informaciją ūkininkas žymi registracijos žurnale.
+
+
+
+
+8. Tradicinių alkoholinių gėrimų gamyboje draudžiama naudoti nesaugias priemaišas, kurios neatitinka teisės aktų nustatytų reikalavimų, ir kitų subjektų pagamintą spiritą.
+
+
+
+
+9. Valstybinė maisto ir veterinarijos tarnyba turi teisę dalyvauti tradicinio alkoholinio gėrimo gamybos procese, tikrinti šio straipsnio 7 dalyje nurodytą ūkininko pildomą registracijos žurnalą. Ūkininkas privalo tam sudaryti tinkamas sąlygas.
+
+
+Papildyta straipsniu:
+Nr. XIV-2974, 2024-09-03, paskelbta TAR 2024-09-10, i. k. 2024-15914
  
 
 
@@ -584,7 +645,10 @@ Nr. XI-1406, 2011-05-24, Žin., 2011, Nr. 65-3049 (2011-05-28)
 
 
 
-2. Gaminti alkoholio produktus, išskyrus šio Įstatymo 10 straipsnyje nurodytus naminius alkoholinius gėrimus, kuriuos pasigamina fiziniai asmenys asmeniniam naudojimui, leidžiama tik įmonėms, turinčioms licenciją verstis alkoholio produktų gamyba. Licencijas išduoda, papildo, rekvizitus patikslina Narkotikų, tabako ir alkoholio kontrolės departamentas. Licencijos išduodamos neterminuotam laikui.
+2. Gaminti alkoholio produktus, išskyrus šio Įstatymo 10 straipsnyje nurodytus alkoholinius gėrimus ir šio Įstatymo 101 straipsnyje nurodytus ūkininkų gaminamus tradicinius alkoholinius gėrimus, leidžiama tik įmonėms, turinčioms licenciją gaminti šiuos produktus. Licencijas išduoda, papildo, rekvizitus patikslina Narkotikų, tabako ir alkoholio kontrolės departamentas. Licencijos išduodamos neterminuotam laikui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2974, 2024-09-03, paskelbta TAR 2024-09-10, i. k. 2024-15914
+ 
 
 
 
@@ -904,7 +968,10 @@ Nr. XIV-2621, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08915
 
 
 
-8) naminius alkoholinius gėrimus;
+8) naminius alkoholinius gėrimus ir ūkininkų pagamintus tradicinius alkoholinius gėrimus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2974, 2024-09-03, paskelbta TAR 2024-09-10, i. k. 2024-15914
+ 
 
 
 
@@ -934,7 +1001,9 @@ Nr. XIV-2621, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08915
 
 
 
-2. Įmonėms, Europos juridiniams asmenims ir jų filialams, užsienio juridinių asmenų atstovybėms Lietuvos Respublikoje laikyti, gabenti Lietuvos Respublikoje draudžiama:
+2. Įmonėms, Europos juridiniams asmenims ir jų filialams, užsienio juridinių asmenų atstovybėms Lietuvos Respublikoje, ūkininkams laikyti, gabenti Lietuvos Respublikoje draudžiama: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2974, 2024-09-03, paskelbta TAR 2024-09-10, i. k. 2024-15914
 
 
 1) alkoholio produktus be Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduotų alkoholio produktų atitiktį patvirtinančių dokumentų;
@@ -947,9 +1016,10 @@ Nr. XIV-2621, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08915
 
 
 
-3) alkoholinius gėrimus, išskyrus alų, alaus mišinius su nealkoholiniais gėrimais ir natūralios fermentacijos sidrą, kurių tūrinė etilo alkoholio koncentracija neviršija 8,5 procento, nepaženklintus Lietuvos Respublikos Vyriausybės nustatyta tvarka specialiais ženklais – banderolėmis; 
+3) alkoholinius gėrimus, išskyrus alų, alaus mišinius su nealkoholiniais gėrimais ir natūralios fermentacijos sidrą, kurio tūrinė etilo alkoholio koncentracija neviršija 8,5 procento, ir ūkininkų pagamintus tradicinius alkoholinius gėrimus, nepaženklintus Lietuvos Respublikos Vyriausybės nustatyta tvarka specialiais ženklais – banderolėmis; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-2621, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08915
+Nr. XIV-2974, 2024-09-03, paskelbta TAR 2024-09-10, i. k. 2024-15914
  
 
 
@@ -970,7 +1040,10 @@ Nr. XIV-2621, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08915
 
 
 
-7) naminius alkoholinius gėrimus;
+7) naminius alkoholinius gėrimus, išskyrus ūkininkų pagamintus tradicinius alkoholinius gėrimus, laikomus tik ūkininkų kaimo turizmo sodybose;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2974, 2024-09-03, paskelbta TAR 2024-09-10, i. k. 2024-15914
+ 
 
 
 
@@ -1974,6 +2047,14 @@ Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
  
 
 
+
+
+4. Ūkininkai, gaminantys tradicinius alkoholinius gėrimus, privalo užtikrinti, kad degustacijų kaimo turizmo sodybose metu asmenys iki 20 metų nevartotų ūkininkų pagamintų tradicinių alkoholinių gėrimų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2974, 2024-09-03, paskelbta TAR 2024-09-10, i. k. 2024-15914
+ 
+
+
 Straipsnio pakeitimai:
 Nr. X-1750, 2008-10-14, Žin., 2008, Nr. 123-4660 (2008-10-25), atitaisymas skelbtas: Žin., 2008, Nr. 126
 Nr. XI-1911, 2011-12-23, Žin., 2011, Nr. 165-7859 (2011-12-31)
@@ -2101,7 +2182,9 @@ Nr. XII-2356, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13917
 28 straipsnis. Su alkoholiniais gėrimais susiję draudimai
 
 
-1. Įmonėms, Europos juridiniams asmenims ir jų filialams Lietuvos Respublikoje draudžiama:
+1. Įmonėms, Europos juridiniams asmenims ir jų filialams Lietuvos Respublikoje, ūkininkams draudžiama: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2974, 2024-09-03, paskelbta TAR 2024-09-10, i. k. 2024-15914
 
 
 1) alkoholinius gėrimus duoti kaip premiją, kaip prekės priedą arba dovanoti. Ši nuostata netaikoma, kai alkoholiniai gėrimai dovanojami verslo partneriams reprezentacinėms reikmėms, t. y. siekiant užmegzti naujus ar pagerinti esamus verslo ryšius su kitomis įmonėmis, Europos juridiniais asmenimis ir jų filialais, užsienio juridinių asmenų atstovybėmis Lietuvos Respublikoje ar fiziniais asmenimis, išskyrus alkoholinius gėrimus, dovanojamus savo įmonės, Europos juridinio asmens ir jų filialų darbuotojams, akcininkams, savininkams; 
@@ -2117,9 +2200,10 @@ Nr. XIV-2621, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08915
 
 
 
-3) organizuoti alkoholinių gėrimų pavyzdžių platinimą nemokamai, išskyrus degustacijas parodose, mugėse ir alkoholinių gėrimų gamybos įmonių patalpose;
+3) organizuoti alkoholinių gėrimų pavyzdžių platinimą nemokamai, išskyrus degustacijas parodose, mugėse, alkoholinių gėrimų gamybos įmonių patalpose ir ūkininkų kaimo turizmo sodybose;
 Straipsnio punkto pakeitimai:
 Nr. XIV-2621, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08915
+Nr. XIV-2974, 2024-09-03, paskelbta TAR 2024-09-10, i. k. 2024-15914
  
 
 
@@ -2211,7 +2295,15 @@ Nr. XII-2356, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13917
 
 
 
-7) mažmeninės prekybos ar viešojo maitinimo vietose, kuriose alkoholiniai gėrimai parduodami vartotojui, ar alkoholinius gėrimus gaminančių ar jais prekiaujančių įmonių interneto svetainėse, ar alkoholiniais gėrimais prekiaujančių įmonių interneto platformose pateikiama informacija apie alkoholinių gėrimų derinimą su maistu, alkoholinių gėrimų ir maisto degustacijas.
+7) mažmeninės prekybos ar viešojo maitinimo vietose, kuriose alkoholiniai gėrimai parduodami vartotojui, ar alkoholinius gėrimus gaminančių ar jais prekiaujančių įmonių interneto svetainėse, ar alkoholiniais gėrimais prekiaujančių įmonių interneto platformose pateikiama informacija apie alkoholinių gėrimų derinimą su maistu, alkoholinių gėrimų ir maisto degustacijas;
+
+
+
+
+8) ūkininkų gaminamų tradicinių alkoholinių gėrimų pavadinimai, pateikiami ant ūkininkų kaimo turizmo sodybų ir valdomo transporto, ūkininkų gaminamų tradicinių alkoholinių gėrimų eksponavimas degustacijai, taip pat informacija apie ūkininkų gaminamus tradicinius alkoholinius gėrimus, pateikiama ūkininkų kaimo turizmo sodybų interneto svetainėse.
+Papildyta straipsnio punktu:
+Nr. XIV-2974, 2024-09-03, paskelbta TAR 2024-09-10, i. k. 2024-15914
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -3488,3 +3580,8 @@ Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 29 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2621, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08915
 Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 1, 2, 12, 13, 14, 16, 17, 18, 28, 29, 33, 34, 34-1, 38, 39 straipsnių, III skyriaus ketvirtojo skirsnio, priedo pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2974, 2024-09-03, paskelbta TAR 2024-09-10, i. k. 2024-15914
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 2, 10, 12, 17, 22, 28, 29 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
