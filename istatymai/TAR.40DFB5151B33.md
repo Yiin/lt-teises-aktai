@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2024-07-25 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-12-29
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7759, i. k. 1111010ISTA0XI-1868
  
@@ -858,7 +858,10 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 
-5. Priežiūros institucija, priėmusi sprendimą sustabdyti licencijos galiojimą, per 3 darbo dienas nuo tokio sprendimo priėmimo dienos apie tai praneša elektroninių pinigų įstaigai, nurodo pažeidimą (pažeidimus) ir nustato ne ilgesnį kaip 2 mėnesių terminą, per kurį elektroninių pinigų įstaiga privalo nurodytą pažeidimą (pažeidimus) pašalinti. 
+5. Priežiūros institucija, priėmusi sprendimą sustabdyti licencijos galiojimą, per 3 darbo dienas nuo tokio sprendimo priėmimo dienos apie tai praneša elektroninių pinigų įstaigai, nurodo pažeidimą (pažeidimus) ir nustato ne trumpesnį kaip vieno mėnesio terminą, per kurį elektroninių pinigų įstaiga privalo nurodytą pažeidimą (pažeidimus) pašalinti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2714, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11237
+ 
 
 
 
@@ -1973,7 +1976,9 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 
-8) paskiria laikinąjį atstovą elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo veiklos priežiūrai (toliau – atstovas veiklos priežiūrai);
+8) paskiria laikinąjį administratorių;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2714, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11237
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
  
@@ -2171,54 +2176,100 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 
-43 straipsnis. Atstovas veiklos priežiūrai
+43 straipsnis. Laikinasis administratorius
 
 
-1. Neatidėliotinais atvejais, kai yra duomenų apie grėsmę saugiai ir patikimai elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo veiklai, siekdama apsaugoti iš elektroninių pinigų turėtojų gautas lėšas, perduotas elektroninių pinigų įstaigai ar užsienio valstybės elektroninių pinigų įstaigos filialui, priežiūros institucija turi teisę paskirti atstovą veiklos priežiūrai.
+1. Priežiūros institucija turi teisę elektroninių pinigų įstaigai paskirti laikinąjį administratorių. Laikinuoju administratoriumi gali būti paskirtas juridinis ar fizinis asmuo. Laikinuoju administratoriumi negali būti paskirtas priežiūros institucijos tarnautojas.
 
 
 
 
-2. Atstovu veiklos priežiūrai gali būti paskirtas juridinis ar fizinis asmuo. Atstovu veiklos priežiūrai skiriamam fiziniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi šio įstatymo 16 straipsnio 3 dalyje nustatyti nepriekaištingos reputacijos, kvalifikacijos ir patirties reikalavimai. Jeigu atstovu veiklos priežiūrai skiriamas fizinis asmuo, gali būti paskirtas ir jo padėjėjas. Atlyginimus atstovui veiklos priežiūrai ir jo padėjėjui, atsižvelgdama į jų veiklos mastą, kvalifikaciją, veiklos terminus, nustato priežiūros institucija. Atlyginimai išmokami iš elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo lėšų. Atstovu veiklos priežiūrai ir jo padėjėju negali būti paskirtas priežiūros institucijos tarnautojas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
+2. Laikinuoju administratoriumi skiriamam fiziniam asmeniui, juridiniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi Bankų įstatymo 34 straipsnio 12 ir 13 dalyse nustatyti nepriekaištingos reputacijos ir šio įstatymo 16 straipsnio 3 dalyje nustatyti kvalifikacijos ir patirties reikalavimai, jo neturi saistyti interesų konfliktas, tai yra laikinojo administratoriaus asmeniniai interesai negali prieštarauti elektroninių pinigų įstaigos ar priežiūros institucijos interesams.
+
+
+
+
+3. Laikinojo administratoriaus veiklos sąlygos, funkcijos ir jų apribojimai nustatomi priežiūros institucijos ir laikinojo administratoriaus sudaromoje laikinojo administravimo sutartyje. Tokioje sutartyje turi būti nustatyti priežiūros institucijos įsipareigojimai, susiję su laikinojo administratoriaus veiksmais atlyginant tretiesiems asmenims padarytą žalą. Bet kuriuo atveju laikinasis administratorius neatsako už žalą, atsiradusią dėl veiksmų, atliktų vykdant priežiūros institucijos duotus nurodymus. Tokiu atveju už padarytą žalą, kai yra įstatymuose, reglamentuojančiuose civilinės atsakomybės atsiradimą, nustatytos sąlygos, atsako priežiūros institucija. 
+
+
+
+
+4. Laikinasis administratorius savo funkcijoms tinkamai atlikti turi teisę savo nuožiūra pasitelkti padėjėjų ir paslaugų teikėjų (įskaitant teisės, apskaitos, audito, valdymo konsultantus). 
+
+
+
+
+5. Atlyginimas ir kitos išlaidos (įskaitant išlaidas paslaugų teikėjams) laikinajam administratoriui ir jo padėjėjams, atsižvelgiant į laikinojo administratoriaus veiklos mastą, kvalifikaciją, veiklos terminus, nustatomi laikinojo administravimo sutartyje. Atlyginimas išmokamas ir išlaidos (įskaitant išlaidas paslaugų teikėjams) apmokamos iš elektroninių pinigų įstaigos lėšų prieš bet kokius kitus elektroninių pinigų įstaigos mokėjimus. 
+
+
+
+
+6. Jeigu administruojamai elektroninių pinigų įstaigai iškeliama bankroto byla, mokėjimai laikinajam administratoriui išmokami prieš bet kokius kitus elektroninių pinigų įstaigos mokėjimus. Jeigu elektroninių pinigų įstaiga laikinajam administratoriui nesumoka laiku, laikinajam administratoriui privalo sumokėti priežiūros institucija, kuri turi teisę reikalauti sumokėtų sumų iš elektroninių pinigų įstaigos. 
+
+
+
+
+7. Priežiūros institucija, remdamasi proporcingumo principu, priimdama sprendimą skirti laikinąjį administratorių, gali nustatyti, kad:
+
+
+1) laikinai sustabdomi elektroninių pinigų įstaigos stebėtojų tarybos, valdybos ir administracijos vadovų įgaliojimai ir šių organų įgaliojimus laikinai perima paskirtas laikinasis administratorius. Tokiu atveju šiame punkte nurodytų elektroninių pinigų įstaigos organų atitinkami sprendimai, priimti po sprendimo paskirti laikinąjį administratorių įsigaliojimo dienos, yra negaliojantys ir nevykdytini arba
+
+
+
+
+2) elektroninių pinigų įstaigos stebėtojų tarybos, valdybos ir administracijos vadovų įgaliojimai nesustabdomi, o paskirtas laikinasis administratorius laikinai veikia kartu su šiais elektroninių pinigų įstaigos organais. 
+
+
+
+
+
+
+8. Priežiūros institucija sprendime dėl laikinojo administratoriaus paskyrimo turi nustatyti laikinojo administratoriaus įgaliojimus, funkcijas, veiksmus, kuriuos laikinasis administratorius gali atlikti tik gavęs išankstinį priežiūros institucijos pritarimą, ir laikinojo administratoriaus paskyrimo terminą.
+
+
+
+
+9. Jeigu laikinasis administratorius skiriamas pagal šio straipsnio 7 dalies 1 punktą, jam gali būti suteikiami kai kurie ar visi šiame įstatyme, kituose teisės aktuose, reglamentuojančiuose įmonių veiklą, ir elektroninių pinigų įstaigos įstatuose nustatyti elektroninių pinigų įstaigos stebėtojų tarybos, valdybos ir administracijos vadovų įgaliojimai. Laikinajam administratoriui gali būti pavedama išsiaiškinti ir įvertinti elektroninių pinigų įstaigos finansinę būklę, vadovauti elektroninių pinigų įstaigos veiklai (arba jos daliai), siekiant išsaugoti arba atkurti elektroninių pinigų įstaigos finansinę būklę ir užtikrinant patikimą ir riziką ribojantį elektroninių pinigų įstaigos veiklos valdymą, ir (arba) atlikti kitas funkcijas. 
+
+
+
+
+10. Jeigu laikinasis administratorius skiriamas pagal šio straipsnio 7 dalies 2 punktą, priežiūros institucija sprendime turi nurodyti, kuriuos sprendimus priimti ar kitus veiksmus atlikti elektroninių pinigų įstaigos stebėtojų taryba, valdyba ir administracijos vadovas gali tik gavę išankstinį laikinojo administratoriaus pritarimą. Laikinasis administratorius nesutinka su šių elektroninių pinigų įstaigos organų sprendimais, jeigu jie, jo nuomone, prieštarauja patikimą ir riziką ribojančią elektroninių pinigų įstaigų veiklą reglamentuojantiems teisės aktams ar dėl kitų priežasčių kelia grėsmę elektroninių pinigų įstaigos veiklos stabilumui ir patikimumui arba elektroninių pinigų turėtojų interesams.
+
+
+
+
+11. Laikinasis administratorius skiriamas ne ilgesniam negu vienų metų laikotarpiui. Išimtiniais atvejais, kai nustatoma, kad laikinojo administratoriaus skyrimo priežastimi buvusios aplinkybės nėra išnykusios, laikinojo administratoriaus paskyrimo terminas motyvuotu priežiūros institucijos sprendimu gali būti pratęstas vieną kartą ne ilgesniam negu vienų metų laikotarpiui. 
+
+
+
+
+12. Priežiūros institucija bet kuriuo metu gali pakeisti sprendimo dėl laikinojo administratoriaus paskyrimo nuostatas, taip pat bet kuriuo metu ir dėl bet kokios priežasties gali atšaukti laikinąjį administratorių. Laikinasis administratorius turi teisę atsistatydinti laikinojo administravimo sutartyje nustatytais atvejais ir tvarka. Jeigu laikinasis administratorius atsistatydina, priežiūros institucija nedelsdama priima sprendimą dėl naujo laikinojo administratoriaus paskyrimo.
+
+
+
+
+13. Apie pagal šio straipsnio 7 dalies 1 punktą priimtą sprendimą paskirti laikinąjį administratorių arba jį atšaukti ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos priežiūros institucija raštu praneša elektroninių pinigų įstaigai, Juridinių asmenų registro tvarkytojui ir paskelbia savo interneto svetainėje.
+
+
+
+
+14. Pagal šio straipsnio 7 dalies 1 punktą paskirtas laikinasis administratorius gali sušaukti elektroninių pinigų įstaigos visuotinį akcininkų susirinkimą ir nustatyti tokio susirinkimo darbotvarkę tik gavęs išankstinį priežiūros institucijos pritarimą. Laikinojo administratoriaus paskyrimas taip pat neriboja teisės aktuose, reglamentuojančiuose įmonių veiklą, nustatytų elektroninių pinigų įstaigos akcininkų teisių.
+
+
+
+
+15. Priežiūros institucija gali reikalauti, kad laikinasis administratorius priežiūros institucijos nustatytais terminais jai teiktų informaciją apie elektroninių pinigų įstaigos finansinę būklę ir savo atliktus veiksmus. 
+
+
+
+
+16. Laikinasis administratorius privalo savo funkcijas atlikti apdairiai ir sąžiningai. Laikinasis administratorius negali jam suteiktų teisių panaudoti savo asmeniniams ar trečiųjų asmenų poreikiams tenkinti. Laikinojo administratoriaus ir elektroninių pinigų įstaigos, kurią administruoti jis paskirtas, nesieja pasitikėjimo (fiduciariniai) santykiai, jis neturi pareigos veikti elektroninių pinigų įstaigos ir jos akcininkų interesais.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2714, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11237
  
-
-
-
-
-3. Elektroninių pinigų įstaigos valdyba ir vadovai ar užsienio valstybės elektroninių pinigų įstaigos filialo vadovai turi gauti atstovo veiklos priežiūrai sutikimą dėl kiekvieno su elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo veikla susijusio sprendimo. Visi be atstovo veiklos priežiūrai sutikimo elektroninių pinigų įstaigos valdybos ir vadovų ar užsienio valstybės elektroninių pinigų įstaigos filialo vadovų sprendimai, priimti po sprendimo paskirti atstovą veiklos priežiūrai įsigaliojimo dienos, yra negaliojantys.
-
-
-
-
-4. Atstovas veiklos priežiūrai nesutinka su elektroninių pinigų įstaigos valdybos ir vadovų ar užsienio valstybės elektroninių pinigų įstaigos filialo vadovų sprendimais, jei jie, jo nuomone, prieštarauja saugią ir patikimą elektroninių pinigų įstaigų veiklą reglamentuojantiems teisės aktams ar dėl kitų priežasčių kelia grėsmę elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo veiklos stabilumui ir patikimumui. Atstovui veiklos priežiūrai, atliekančiam savo funkcijas, mutatis mutandis taikomos Lietuvos banko įstatymo 421 straipsnio 5 dalies 1, 3, 11 ir 12 punktų nuostatos. Atstovas veiklos priežiūrai privalo teikti priežiūros institucijai jos nustatytą informaciją. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
- 
-
-
-
-
-5. Apie priimtą sprendimą paskirti atstovą veiklos priežiūrai ar jį atšaukti ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos pranešama elektroninių pinigų įstaigai ar užsienio valstybės elektroninių pinigų įstaigos filialą įsteigusiai užsienio valstybės elektroninių pinigų įstaigai ir Juridinių asmenų registrui, taip pat paskelbiama priežiūros institucijos interneto svetainėje.
-
-
-
-
-6. Atstovas veiklos priežiūrai atšaukiamas, kai:
-
-
-1) nustatoma, kad elektroninių pinigų įstaiga ar užsienio valstybės elektroninių pinigų įstaigos filialas gali stabiliai ir patikimai veikti, ar, priežiūros institucijos nuomone, tokios priemonės taikymas nebetikslingas dėl kitų priežasčių;
-
-
-
-
-2) panaikinamas elektroninių pinigų įstaigai ar užsienio valstybės elektroninių pinigų įstaigos filialui išduotos licencijos galiojimas.
- 
-
-
-
-
 
 
 
