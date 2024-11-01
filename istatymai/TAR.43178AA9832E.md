@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2024-08-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-12-29
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
  
@@ -940,7 +940,25 @@ APSKAITOS ORGANIZAVIMAS IR TVARKYMAS
 
 
 
-2. Apskaitos paslaugas teikiančio arba apskaitos funkciją atliekančio juridinio asmens vadovaujamas pareigas einančiais asmenimis, dalyviais arba apskaitos paslaugas savarankiškai teikiančiu asmeniu negali būti asmenys, kurie buvo pripažinti kaltais dėl sunkaus ar labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams padarymo, kol teistumas neišnykęs arba nepanaikintas.
+2. Apskaitos paslaugas teikiančio arba apskaitos funkciją pagal šio įstatymo 16 straipsnio 1 dalį priimtus sprendimus atliekančio (toliau šiame straipsnyje – apskaitos funkciją atliekantis) juridinio asmens vadovaujamas pareigas einančiu asmeniu ar naudos gavėju arba apskaitos paslaugas savarankiškai teikiančiu asmeniu negali būti asmuo, kuris buvo:
+
+
+1) pripažintas kaltu padaręs Lietuvos Respublikos baudžiamajame kodekse numatytą sunkų arba labai sunkų nusikaltimą ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 8 metai; 
+
+
+
+
+2) pripažintas kaltu padaręs Baudžiamajame kodekse numatytą nesunkų arba apysunkį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, visuomenės saugumui ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 5 metai; 
+
+
+
+
+3) pripažintas kaltu padaręs kitą, negu nurodyta šios dalies 1 ir 2 punktuose, Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2546, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07540
+ 
 
 
 
