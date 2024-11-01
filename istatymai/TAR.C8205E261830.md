@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
  
@@ -127,51 +127,68 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 
-11. Vaikas – žmogus iki 18 metų, išskyrus atvejus, kai Lietuvos Respublikos įstatymuose nustatyta kitaip. Jeigu asmens amžius yra nežinomas ir yra priežasčių manyti, kad jis yra nepilnametis, toks asmuo laikomas vaiku, iki bus nustatyta priešingai.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
+11. Specializuota pagalba galimai seksualinį smurtą patyrusiems vaikams (toliau – specializuota pagalba) – socialinės, psichologinės, sveikatos priežiūros ir kitokios pagalbos priemonių, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyboje teikiamų vaikams, galimai nukentėjusiems nuo seksualinio smurto, ir jų atstovams pagal įstatymą, derinys. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
  
 
 
 
 
-12. Vaiko atstovai pagal įstatymą – vaiko tėvai, vaiką įvaikinus, – įtėviai, nustačius globą ar rūpybą, – globėjai ar rūpintojai, įstatymų nustatytais atvejais – valstybinė vaiko teisių apsaugos institucija. 
+12. Vaikas – žmogus iki 18 metų, išskyrus atvejus, kai Lietuvos Respublikos įstatymuose nustatyta kitaip. Jeigu asmens amžius yra nežinomas ir yra priežasčių manyti, kad jis yra nepilnametis, toks asmuo laikomas vaiku, iki bus nustatyta priešingai.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
  
 
 
 
 
-13. Netenka galios 2019-04-20. 
+13. Vaiko atstovai pagal įstatymą – vaiko tėvai, vaiką įvaikinus, – įtėviai, nustačius globą ar rūpybą, – globėjai ar rūpintojai, įstatymų nustatytais atvejais – valstybinė vaiko teisių apsaugos institucija. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
+ 
+
+
+
+
+14. Netenka galios 2019-04-20. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
  
 
 
 
 
-14. Vaiko laikinoji priežiūra – visuma veiksmų, užtikrinančių vaikui saugią aplinką, tėvams ar kitiems vaiko atstovams pagal įstatymą išlaikant teises ir pareigas.
+15. Vaiko laikinoji priežiūra – visuma veiksmų, užtikrinančių vaikui saugią aplinką, tėvams ar kitiems vaiko atstovams pagal įstatymą išlaikant teises ir pareigas.
 Papildyta straipsnio dalimi:
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
  
 
 
 
 
-15. Vaikui nesaugi aplinka – vaiko gyvenamoji ar kita aplinka, kurioje kyla pavojus vaiko gyvybei, sveikatai ar normaliai raidai dėl nepriežiūros, smurto ar kitų socialinės rizikos veiksnių.
+16. Vaikui nesaugi aplinka – vaiko gyvenamoji ar kita aplinka, kurioje kyla pavojus vaiko gyvybei, sveikatai ar normaliai raidai dėl nepriežiūros, smurto ar kitų socialinės rizikos veiksnių.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
  
 
 
 
 
-16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos socialinių paslaugų įstatyme, Lietuvos Respublikos šeimos stiprinimo įstatyme, Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatyme, Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatyme, Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatyme ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas).
+17. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos socialinių paslaugų įstatyme, Lietuvos Respublikos šeimos stiprinimo įstatyme, Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatyme, Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatyme, Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatyme ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas).
 Straipsnio dalies pakeitimai:
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 Nr. XIV-171, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00911
 Nr. XIV-2116, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14032
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
  
 
 
@@ -781,9 +798,10 @@ Nr. XIV-1033, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08777
 
 
 
-4. Vaikų su negalia teises ir socialinę integraciją nustato Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymas, Švietimo įstatymas ir kiti teisės aktai. 
+4. Vaikų su negalia teises ir socialinę integraciją nustato Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas, Švietimo įstatymas ir kiti teisės aktai.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1296, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10620
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
  
 
 
@@ -1100,65 +1118,110 @@ Nr. XIV-1376, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15468
 
 
 
-30 straipsnis. Darbo su vaikais apribojimai
+30 straipsnis. Darbo, paslaugų teikimo, savanoriškos veiklos, individualios veiklos, praktikos ir stažuotės, susijusios su vaikais, apribojimai
 
 
-1. Asmenims, įsiteisėjusiu apkaltinamuoju teismo nuosprendžiu pripažintiems kaltais už nusikaltimus žmogaus seksualinio apsisprendimo laisvei ir neliečiamumui, už vaiko išnaudojimą pornografijai, pelnymąsi iš vaiko prostitucijos, vaiko įtraukimą į prostituciją ar disponavimą pornografinio turinio dalykais, kuriuose vaizduojamas vaikas arba asmuo pateikiamas kaip vaikas, vaiko pirkimą arba pardavimą, taip pat už kitus tyčinius sunkius ar labai sunkius nusikaltimus ar už analogiškas veikas, numatytas kitų valstybių baudžiamuosiuose įstatymuose, neatsižvelgiant į tai, ar teistumas yra išnykęs ar panaikintas, draudžiama:
+1. Asmenims, įsiteisėjusiu apkaltinamuoju teismo nuosprendžiu pripažintiems kaltais dėl nusikalstamų veikų žmogaus seksualinio apsisprendimo laisvei ir neliečiamumui, dėl vaiko išnaudojimo pornografijai, pelnymosi iš nepilnamečio asmens prostitucijos, nepilnamečio asmens įtraukimo į prostituciją ar disponavimo pornografinio turinio dalykais, kuriuose vaizduojamas vaikas arba asmuo pateikiamas kaip vaikas, vaiko pirkimo arba pardavimo (toliau kartu – seksualiniai nusikaltimai), taip pat dėl kitų tyčinių sunkių ar labai sunkių nusikaltimų arba dėl analogiškų veikų, nurodytų kitų valstybių baudžiamuosiuose įstatymuose, neatsižvelgiant į tai, ar teistumas yra išnykęs ar panaikintas, arba asmenims, padariusiems seksualinius nusikaltimus, bet atleistiems nuo baudžiamosios atsakomybės, taip pat padariusiems kitus tyčinius sunkius ar labai sunkius nusikaltimus, bet atleistiems nuo baudžiamosios atsakomybės pagal laidavimą arba jei kaltininkas ir nukentėjęs asmuo susitaikė, arba jei yra lengvinančių aplinkybių, arba jei asmuo aktyviai padėjo atskleisti organizuotos grupės, teroristinės grupės ar nusikalstamo susivienijimo narių padarytas nusikalstamas veikas, arba jei asmuo yra pranešėjas (toliau kartu – kiti atleidimo nuo baudžiamosios atsakomybės pagrindai), draudžiama:
 
 
-1) dirbti ar užsiimti savanoriška veikla vaiko teisių apsaugos, vaikų socialinėse, švietimo ir sporto, sveikatos priežiūros paslaugas vaikams teikiančiose įstaigose, įmonėse ir organizacijose;
-
-
-
-
-2) dirbti darbą kitose, negu nurodytos šio straipsnio 1 dalies 1 punkte, įstaigose, įmonėse ir organizacijose, taip pat jose užsiimti savanoriška veikla, jeigu šis darbas ar savanoriška veikla tiesioginiais ir reguliariais kontaktais yra susiję su vaikų auklėjimu, mokymu, priežiūra ar jų saugumo užtikrinimu;
+1) dirbti, užsiimti savanoriška veikla, atlikti praktiką ar stažuotis socialines, kultūros, švietimo, sporto ir sveikatos priežiūros paslaugas vaikams teikiančiose įstaigose, įmonėse ir organizacijose;
 
 
 
 
-3) verstis individualia veikla, jeigu ši veikla tiesioginiais ir reguliariais kontaktais susijusi su vaikų auklėjimu, mokymu, priežiūra ar jų saugumo užtikrinimu. 
+2) dirbti, užsiimti savanoriška veikla, atlikti praktiką ar stažuotis kitose, nei nurodyta šios dalies 1 punkte, įstaigose, įmonėse ir organizacijose, įskaitant ir religines bendruomenes ir bendrijas, jeigu šis darbas, savanoriška veikla, praktika ar stažuotė tiesioginiais ir reguliariais kontaktais susiję su vaikais;
+
+
+
+
+3) verstis individualia veikla ar teikti paslaugas juridiniams ar fiziniams asmenims, taip pat vykdyti bet kokią kitą veiklą, jei ši veikla, paslaugos ar juridinio asmens, kuriam teikiamos paslaugos, veikla tiesioginiais ir reguliariais kontaktais susijusios su vaikais.
 
 
 
 
 
 
-2. Mokytojams papildomai taikomi darbo apribojimai, nustatyti Švietimo įstatyme.
+2. Mokytojams papildomai taikomi darbo apribojimai, nustatyti Švietimo įstatyme. Kitiems asmenims pagal atliekamo darbo, teikiamos paslaugos, veiklos, praktikos ar stažuotės pobūdį gali būti taikomi papildomi darbo, paslaugų teikimo, savanoriškos veiklos, praktikos, stažuotės, individualios veiklos apribojimai, nustatyti tam tikras sritis reglamentuojančiuose įstatymuose.
 
 
 
 
-3. Vyriausybė ar jos įgaliota institucija tvirtina sąrašą darbų, veiklų ar paslaugų, nurodytų šio straipsnio 1 dalies 2 ir 3 punktuose, kurių dirbti, atlikti ar teikti dėl tiesioginių ir reguliarių kontaktų su vaikais neturi teisės asmenys, įsiteisėjusiu teismo nuosprendžiu pripažinti kaltais padarius nusikaltimus, nurodytus šio straipsnio 1 dalyje.
+3. Kontaktas su vaiku (-ais) laikomas tiesioginiu, jei yra bent viena iš šių sąlygų:
+
+
+1) asmuo turi galimybę likti vienas su vaiku (-ais);
 
 
 
 
-4. Darbdavys, ketindamas įdarbinti asmenį vykdyti profesinę veiklą ar priimti asmenis savanoriškai veiklai, susijusiai su tiesioginiais ir reguliariais kontaktais su vaikais, šio straipsnio 1 dalies 1 punkte nurodytose įstaigose, įmonėse ir organizacijose ar priimdamas dirbti į šio straipsnio 3 dalyje nurodytą sąrašą įtrauktus darbus, gali priimti asmenį į darbą ar vykdyti tokią savanorišką veiklą tik gavęs iš Įtariamųjų, kaltinamųjų ir nuteistųjų registro informaciją, kad asmuo nėra teistas už nusikaltimus, nurodytus šio straipsnio 1 dalyje.
+2) asmuo turi galimybę užmegzti fizinį ir (ar) emocinį santykį su vaiku (-ais).
 
 
 
 
-5. Paslaugų, įtrauktų į šio straipsnio 3 dalyje nurodytą sąrašą, gavėjas, sudarantis su asmeniu, vykdančiu individualią veiklą, sutartį dėl paslaugų teikimo vaikui, turi paslaugų teikėjo paprašyti, o paslaugų teikėjas privalo pateikti pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų apie fizinį asmenį.
+
+
+4. Kontaktas su vaiku (-ais) laikomas reguliariu, jei asmuo turi galimybę neatsitiktinai (daugiau nei vieną kartą) kontaktuoti su vaiku (-ais), nesvarbu, ar tai tas pats (tie patys) vaikas  (-ai) ar ne.
 
 
 
 
-6. Įtariamųjų, kaltinamųjų ir nuteistųjų registro valdytojas šio straipsnio 4 ir 5 dalyse nurodytiems darbdaviui ar asmeniui, vykdančiam individualią veiklą, turi pateikti pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų apie fizinį asmenį, dirbantį darbus ar užsiimantį savanoriška veikla, nurodyta šio straipsnio 1 dalyje. 
+5. Darbdavys, priimančioji organizacija, taip pat juridinis asmuo, kuris pasitelkia asmenį teikti paslaugas ar kuriame asmuo ketina atlikti praktiką ar stažuotis, gali priimti į darbą asmenį, leisti jam atlikti praktiką, stažuotis, teikti paslaugas ar pasitelkti savanorį tik įsitikinę, kad asmeniui negalioja šio straipsnio 1 dalyje numatytas draudimas. Jeigu toks asmuo yra užsienietis, jis privalo darbdaviui, priimančiajai organizacijai, taip pat juridiniam asmeniui, kuris pasitelkia šį asmenį teikti paslaugas ar kuriame šis asmuo ketina atlikti praktiką ar stažuotis, pateikti dokumentus, patvirtinančius, kad jis nėra teistas už nusikalstamas veikas, nurodytas šio straipsnio 1 dalyje, išduotus užsienio valstybės, kurios pilietybę jis turi arba kurioje yra jo nuolatinė gyvenamoji vieta, kompetentingų institucijų.
 
 
 
 
-7. Į pareigas asmenį skiriantis ar paskyręs subjektas šiame straipsnyje nustatyta tvarka gautos informacijos apie asmenį negali perduoti tretiesiems asmenims, išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus.
+6. Asmenys, kuriems taikomi šio straipsnio 1 dalyje numatyti apribojimai, dirbdami, atlikdami praktiką, stažuotę, teikdami paslaugas ar užsiimdami savanoriška veikla privalo turėti Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų pagrindu suformuotą galiojantį teisėto darbo su vaikais kodą, o darbdavys, priimančioji organizacija, juridinis asmuo, kuris pasitelkia asmenį teikti paslaugas, priima asmenį atlikti praktiką, stažuotis, teisėto darbo su vaikais kodo galiojimą turi tikrinti periodiškai, bet ne rečiau kaip kartą per kalendorinius metus. Teisėto darbo su vaikais kodo išdavimo ir naudojimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 
 
 
-8. Jeigu asmuo, kuriam taikytini šio straipsnio 1 dalyje nustatyti apribojimai, priimamas dirbti ar užsiimti šiame straipsnyje nurodytų paslaugų teikimo veikla ir paaiškėja, kad jis pateikė melagingus ar tikrovės neatitinkančius duomenis apie save, su juo nutraukiama paslaugų sutartis dėl paslaugų teikimo vaikui. Asmenys, kurie priimti į darbą ar savanoriškai veiklai nepaisant šiame straipsnyje nustatytų darbo apribojimų, nedelsiant nušalinami nuo kontaktų su vaikais ir atleidžiami iš darbo atitinkamai Lietuvos Respublikos darbo kodekse arba Lietuvos Respublikos valstybės tarnybos įstatyme nustatyta tvarka, su jais nutraukiama savanoriškos veiklos sutartis. Už šių reikalavimų laikymąsi yra atsakingas darbdavys ir paslaugų gavėjas.
+7. Vaiko atstovai pagal įstatymą turi teisę šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų įstaigų, įmonių ir organizacijų vadovų ar jų įgaliotų asmenų paprašyti informuoti, o šių įstaigų, įmonių ir organizacijų vadovai ar jų įgalioti asmenys turi vaiko atstovus pagal įstatymą informuoti apie tai, ar jie arba jų įstaigoje, įmonėje ar organizacijoje dirbantys, atliekantys praktiką, besistažuojantys, užsiimantys savanoriška veikla, pasitelkiami teikti paslaugas vaikams asmenys turi galiojantį teisėto darbo su vaikais kodą. Vaiko atstovai pagal įstatymą asmenų, nurodytų šio straipsnio 1 dalies 3 punkte, besiverčiančių individualia veikla, teikiančių paslaugas jų vaikams, ar vykdančių bet kokią kitą veiklą, gali paprašyti pateikti teisėto darbo su vaikais kodą, o šie asmenys privalo jį pateikti.
 
 
 
 
-9. Asmuo negali dirbti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyboje ar jos įgaliotuose teritoriniuose skyriuose, jeigu yra bent viena iš šių sąlygų:
+8. Šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų įstaigų, įmonių ir organizacijų vadovai ar jų įgalioti asmenys, priimančioji organizacija, juridinio asmens, pasitelkiančio asmenį teikti paslaugas, priimančio asmenį atlikti praktiką ar stažuotis, vadovai ar jų įgalioti asmenys, vaiko atstovai pagal įstatymą šiame straipsnyje nustatyta tvarka gautos informacijos apie asmenį negali perduoti tretiesiems asmenims, išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus.
+
+
+
+
+9. Jeigu asmuo, kuriam taikomi šio straipsnio 1 dalyje nustatyti apribojimai, priimamas dirbti, atlieka praktiką, stažuojasi, pasitelkiamas savanoriauti, pradeda užsiimti individualia veikla, teikti paslaugas ar vykdyti bet kokią kitą veiklą, bet paaiškėja, kad jis yra pateikęs melagingus ar tikrovės neatitinkančius duomenis apie save, arba įsiteisėja apkaltinamasis teismo nuosprendis, kuriuo šis asmuo yra pripažintas kaltu dėl nusikalstamų veikų, nurodytų šio straipsnio 1 dalyje, arba asmuo, padaręs seksualinius nusikaltimus, yra atleistas nuo baudžiamosios atsakomybės, arba asmuo, padaręs kitus tyčinius sunkius ar labai sunkius nusikaltimus, yra atleistas nuo baudžiamosios atsakomybės kitais atleidimo nuo baudžiamosios atsakomybės pagrindais:
+
+
+1) jis kaip darbuotojas, dirbantis šio straipsnio 1 dalies 1 punkte nurodytose įstaigose, įmonėse ir organizacijose, nedelsiant nušalinamas nuo kontaktų su vaikais ir atleidžiamas iš darbo Darbo kodekse nustatyta tvarka;
+
+
+
+
+2) jis kaip darbuotojas, dirbantis šio straipsnio 1 dalies 2 punkte nurodytose įstaigose, įmonėse ir organizacijose, nedelsiant nušalinamas nuo kontaktų su vaikais ir, esant galimybei, perkeliamas į kitas pareigas, jei šis darbas tiesioginiais ir reguliariais kontaktais nesusijęs su vaikais, o jei nėra tokios galimybės, jis atleidžiamas iš darbo Darbo kodekse nustatyta tvarka;
+
+
+
+
+3) jis kaip savanoris, užsiimantis savanoriška veikla šio straipsnio 1 dalies 1 punkte nurodytose įstaigose, įmonėse ir organizacijose, nedelsiant nušalinamas nuo veiklos, susijusios su vaikais, ir su juo nutraukiama savanoriškos veiklos sutartis, o jei tokia sutartis nesudaryta, jo atsisakoma;
+
+
+
+
+4) jis kaip savanoris, užsiimantis savanoriška veikla šio straipsnio 1 dalies 2 punkte nurodytose įstaigose, įmonėse ir organizacijose, nedelsiant nušalinamas nuo veiklos, susijusios su vaikais, ir, esant galimybei, jam pasiūloma užsiimti kita savanoriška veikla, jei ši savanoriška veikla tiesioginiais ir reguliariais kontaktais nesusijusi su vaikais, o jei tokios galimybės nėra, savanoriškos veiklos sutartis su juo nutraukiama arba, jei tokia sutartis nesudaryta, jo atsisakoma;
+
+
+
+
+5) jis kaip asmuo, atliekantis praktiką ar besistažuojantis, nedelsiant nušalinamas nuo kontaktų su vaikais ir su juo nutraukiama savanoriškos praktikos, profesinės veiklos praktikos ar stažuotės sutartis;
+
+
+
+
+6) nedelsiant sustabdomas paslaugų sutarties vykdymas ir Civiliniame kodekse nustatyta tvarka paslaugų sutartis su paslaugų teikėju nutraukiama. 
+
+
+
+
+
+
+10. Asmuo negali dirbti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyboje ar jos įgaliotuose teritoriniuose skyriuose, jeigu yra bent viena iš šių sąlygų: 
 
 
 1) jam taikomi darbo apribojimai, nustatyti šio straipsnio 1 dalyje;
@@ -1166,7 +1229,7 @@ Nr. XIV-1376, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15468
 
 
 
-2) jis įsiteisėjusiu teismo nuosprendžiu pripažintas kaltu padarius kitą, negu nurodyta šios dalies 1 punkte, nesunkų ir (ar) apysunkį nusikaltimą, jeigu teistumas už jį neišnykęs ar nepanaikintas; 
+2) jis įsiteisėjusiu apkaltinamuoju teismo nuosprendžiu yra pripažintas kaltu padaręs kitą, nei nurodyta šio straipsnio 1 dalyje, nesunkų ir (ar) apysunkį nusikaltimą, jeigu teistumas už jį neišnykęs ar nepanaikintas; 
 
 
 
@@ -1176,15 +1239,12 @@ Nr. XIV-1376, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15468
 
 
 
-4) jis buvo vaiko globėjas (rūpintojas) ir buvo nušalintas nuo globėjo (rūpintojo) pareigų Civilinio kodekso 3.246 straipsnio 2 dalyje numatytais atvejais arba jo su globos centru sudaryta tarpusavio bendradarbiavimo ir paslaugų teikimo sutartis buvo nutraukta dėl netinkamo jos vykdymo;
-Straipsnio punkto pakeitimai:
-Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
- 
+4) jis buvo vaiko globėjas (rūpintojas) ir buvo nušalintas nuo globėjo (rūpintojo) pareigų Civilinio kodekso 3.246 straipsnio 2 dalyje nustatytais atvejais arba jo su globos centru sudaryta tarpusavio bendradarbiavimo ir paslaugų teikimo sutartis buvo nutraukta dėl netinkamo jos vykdymo;
 
 
 
 
-5) jis neatitinka nepriekaištingos reputacijos, kaip tai apibrėžta Valstybės tarnybos įstatyme;
+5) jis neatitinka valstybės tarnautojui arba asmeniui, pretenduojančiam tapti valstybės tarnautoju, keliamo nepriekaištingos reputacijos, kaip ji apibrėžiama Lietuvos Respublikos valstybės tarnybos įstatyme, reikalavimo;
 
 
 
@@ -1194,18 +1254,54 @@ Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
 
 
 
-7) kitais įstatymų nustatytais atvejais.
+7) kitos įstatymų nustatytos sąlygos.
 
 
 
 
 
 
-10. Į pareigas asmenį priimantis ar skiriantis subjektas privalo užtikrinti, kad į Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgaliotų teritorinių skyrių darbuotojų (tarnautojų) pareigas būtų priimti tik asmenys, kuriems netaikomi šio straipsnio 1 dalyje nustatyti darbo apribojimai. Darbuotoją (tarnautoją) į pareigas priimantis asmuo turi teisę motyvuotu rašytiniu prašymu kreiptis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas, valstybės ar savivaldybės valdomas įmones, kad šios pateiktų apie tokį asmenį jų turimą informaciją. Institucijos, įstaigos ir įmonės tokią informaciją turi pateikti ne vėliau kaip per 7 kalendorines dienas nuo prašymo pateikti tokią informaciją gavimo dienos, jeigu įstatymuose nenustatyta kitaip. 
+11. Į Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgaliotų teritorinių skyrių valstybės tarnautojų ir (ar) darbuotojų, dirbančių pagal darbo sutartį, pareigas asmenį priimantis ar skiriantis subjektas privalo užtikrinti, kad į šias pareigas būtų priimami tik tie asmenys, kuriems netaikomi šio straipsnio 10 dalyje nustatyti darbo apribojimai. Valstybės tarnautoją ir (ar) darbuotoją, dirbantį pagal darbo sutartį, į pareigas priimantis asmuo turi teisę motyvuotu rašytiniu prašymu kreiptis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas, valstybės ar savivaldybės valdomas įmones, kad jos pateiktų turimą informaciją apie šį asmenį. Institucijos, įstaigos ir valstybės ar savivaldybės valdomos įmonės šią informaciją turi pateikti ne vėliau kaip per 7 kalendorines dienas nuo prašymo pateikti šią informaciją gavimo dienos, jeigu kituose įstatymuose nenustatyta kitaip. Jeigu asmuo priimamas dirbti ar priimamas į pareigas Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyboje ar jos įgaliotame teritoriniame skyriuje, bet paaiškėja bent viena iš šio straipsnio 10 dalyje nurodytų sąlygų, šis asmuo nušalinamas nuo kontaktų su vaikais ir atleidžiamas iš darbo Darbo kodekse nustatyta tvarka arba atleidžiamas iš pareigų Valstybės tarnybos įstatyme nustatyta tvarka.
+
+
+
+
+12. Už šio straipsnio reikalavimų laikymąsi atsakingas darbdavys, priimančioji organizacija ir juridinis asmuo, pasitelkiantis asmenį teikti paslaugas, priimantis asmenį atlikti praktiką, stažuotis.
+
+
+
+
+13. Šiame straipsnyje nurodytų reikalavimų vykdymą prižiūri ir jų pažeidimų prevenciją vykdo:
+
+
+1) vaikų socialinės globos įstaigose – socialinės apsaugos ir darbo ministro įgaliota institucija;
+
+
+
+
+2) švietimo įstaigose, įmonėse ir organizacijose – švietimo, mokslo ir sporto ministro įgaliota institucija;
+
+
+
+
+3) sveikatos priežiūros įstaigose, įmonėse ir organizacijose – sveikatos apsaugos ministro įgaliota institucija;
+
+
+
+
+4) jei savanoriška veikla užsiimama, praktika atliekama ir stažuojamasi, paslaugos teikiamos kitose, nei nurodyta šios dalies 1–3 punktuose, įstaigose, įmonėse ir organizacijose, taip pat individualia veikla užsiimančių bei bet kokią kitą veiklą vykdančių asmenų – socialinės apsaugos ir darbo ministro įgaliota institucija; 
+
+
+
+
+5) jei dirbama kitose, nei nurodyta šios dalies 1–3 punktuose, įstaigose, įmonėse ir organizacijose, – socialinės apsaugos ir darbo ministro įgaliota institucija.
+
+
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
  
 
 
@@ -1511,7 +1607,10 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 
-3. Policijos pareigūnai, turintys darbo su nepilnamečiais kompetenciją, įvykio vietoje nustatę vaiko buvimą jam nesaugioje aplinkoje, privalo nedelsdami imtis veiksmų vaiko fiziniam ar psichiniam saugumui užtikrinti ir apie įvykį nedelsdami informuoti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybą ar jos įgaliotą teritorinį skyrių. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, gavę pranešimą iš policijos pareigūnų apie vaiko buvimą jam nesaugioje aplinkoje, atvyksta į įvykio vietą ne vėliau kaip per vieną valandą nuo pranešimo gavimo. Jeigu dėl objektyvių priežasčių Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius negali atvykti į policijos pareigūnų pranešime nurodytą vietą per vieną valandą nuo pranešimo gavimo, jis privalo apie tai nedelsdamas informuoti policijos pareigūnus ir užtikrinti atvykimą kiek įmanoma skubiau.
+3. Policijos pareigūnai, turintys darbo su nepilnamečiais kompetenciją, įvykio vietoje nustatę vaiko buvimą jam nesaugioje aplinkoje ir (arba) galimai panaudotą seksualinį smurtą prieš vaiką, ir (arba) kilusį pavojų vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei, privalo nedelsdami imtis veiksmų vaiko fiziniam ar psichiniam saugumui užtikrinti ir apie įvykį nedelsdami informuoti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybą ar jos įgaliotą teritorinį skyrių. Gavę policijos pareigūnų pranešimą apie vaiko buvimą jam nesaugioje aplinkoje ir (arba) galimai panaudotą seksualinį smurtą prieš vaiką, ir (arba) kilusį pavojų vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius atvyksta į įvykio vietą ne vėliau kaip per vieną valandą nuo šio pranešimo gavimo. Dėl objektyvių priežasčių negalėdami atvykti į policijos pareigūnų pranešime nurodytą vietą per vieną valandą nuo šio pranešimo gavimo, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius privalo nedelsdami apie tai informuoti policijos pareigūnus ir užtikrinti kiek įmanoma skubesnį atvykimą. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, reaguodami į pranešimą apie vaiką, galimai nukentėjusį nuo seksualinio smurto, taip pat įvertina specializuotos pagalbos poreikį socialinės apsaugos ir darbo ministro nustatytomis sąlygomis ir tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
+ 
 
 
 
@@ -1610,7 +1709,20 @@ Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
 
 
 
-3. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs vaiko apsaugos poreikį, ne vėliau kaip kitą darbo dieną inicijuoja atvejo vadybininko paskyrimą ir organizuoja mobiliosios komandos sudarymą. Mobiliųjų komandų sudarymo, specialistų atrankos ir jų darbo tvarkos aprašą tvirtina socialinės apsaugos ir darbo ministras.
+3. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatę vaiko apsaugos poreikį:
+
+
+1) ne vėliau kaip kitą darbo dieną inicijuoja atvejo vadybininko paskyrimą ir, jei vaikas gyvena tėvų ar turimo vienintelio iš tėvų šeimoje, organizuoja mobiliosios komandos sudarymą, išskyrus šios dalies 2 punkte nurodytus atvejus ir atvejus, kai vaikui saugi aplinka užtikrinama taikant šio įstatymo 364 straipsnio 1 dalies 3 punktą. Mobiliųjų komandų sudarymo, specialistų atrankos ir jų darbo tvarkos aprašą tvirtina socialinės apsaugos ir darbo ministras;
+
+
+
+
+2) jei nustatomas specializuotos pagalbos poreikis, pradeda ją teikti nedelsiant. Jei nustatoma, kad specializuota pagalba reikalinga, bet gali būti suteikta tik per šio įstatymo 366 straipsnio 1 dalies 2 punkte nurodytą terminą, mobiliosios komandos sudarymas organizuojamas, jei pagalba nepradedama teikti per 5 darbo dienas nuo pranešimo apie galimą vaiko teisių pažeidimą gavimo dienos.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
+ 
 
 
 
@@ -1676,12 +1788,18 @@ Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
 
 
 
-7. Fiziniai asmenys, sutinkantys užtikrinti šio straipsnio 1 dalies 1 ar 2 punktuose numatytą vaiko laikinąją priežiūrą, pateikia Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai ar jos įgaliotam teritoriniam skyriui rašytinį įsipareigojimą užtikrinti vaikui saugią aplinką.
+7. Fiziniai asmenys, sutinkantys užtikrinti šio straipsnio 1 dalies 1 ar 2 punkte numatytą vaiko laikinąją priežiūrą, pateikia Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai ar jos įgaliotam teritoriniam skyriui rašytinį įsipareigojimą užtikrinti vaikui saugią aplinką. Vaiką laikinai prižiūrinčiu asmeniu negali būti asmuo, teistas už šio įstatymo 30 straipsnio 1 dalyje numatytas nusikalstamas veikas, neatsižvelgiant į tai, ar teistumas yra išnykęs ar panaikintas, arba asmuo, padaręs seksualinius nusikaltimus, bet atleistas nuo baudžiamosios atsakomybės arba padaręs kitus tyčinius sunkius ar labai sunkius nusikaltimus, bet atleistas nuo baudžiamosios atsakomybės kitais atleidimo nuo baudžiamosios atsakomybės pagrindais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
+ 
 
 
 
 
-8. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, pritaikęs šio straipsnio 1 dalies 1 ar 2 punkte nurodytą vaiko laikinosios priežiūros priemonę, nedelsdamas, bet ne vėliau kaip kitą darbo dieną nuo vaiko laikinosios priežiūros priemonės pritaikymo dienos, Įtariamųjų, kaltinamųjų ir nuteistųjų registre patikrina, ar vaiką laikinai prižiūrintis asmuo nėra teistas už šio įstatymo 30 straipsnio 1 dalyje nurodytų nusikaltimų padarymą. Išimtiniais atvejais, kai Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius neturi techninių galimybių pats tiesiogiai patikrinti šią informaciją Įtariamųjų, kaltinamųjų ir nuteistųjų registre, o skubus informacijos patikrinimas yra objektyviai būtinas, šiai informacijai patikrinti gali būti pasitelkiami policijos pareigūnai.
+8. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, pritaikę šio straipsnio 1 dalies 1 ar 2 punkte nurodytą vaiko laikinosios priežiūros priemonę, nedelsdami, bet ne vėliau kaip kitą darbo dieną nuo vaiko laikinosios priežiūros priemonės pritaikymo dienos Įtariamųjų, kaltinamųjų ir nuteistųjų registre patikrina, ar vaiką laikinai prižiūrintis asmuo nėra teistas už šio įstatymo 30 straipsnio 1 dalyje numatytas nusikalstamas veikas, neatsižvelgiant į tai, ar teistumas yra išnykęs ar panaikintas, ar yra padaręs seksualinius nusikaltimus, bet atleistas nuo baudžiamosios atsakomybės arba padaręs kitus tyčinius sunkius ar labai sunkius nusikaltimus, bet atleistas nuo baudžiamosios atsakomybės kitais atleidimo nuo baudžiamosios atsakomybės pagrindais. Išimtiniais atvejais, kai Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius neturi techninių galimybių patys tiesiogiai patikrinti šią informaciją Įtariamųjų, kaltinamųjų ir nuteistųjų registre, o skubiai patikrinti informaciją yra objektyviai būtina, šiai informacijai patikrinti gali būti pasitelkiami policijos pareigūnai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
+ 
 
 
 
@@ -1753,6 +1871,44 @@ Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
 
 Straipsnio pakeitimai:
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
+ 
+
+
+
+
+366 straipsnis. Specializuotos pagalbos poreikio vertinimas ir teikimas
+
+
+1. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, įvertinę specializuotos pagalbos poreikį, gali nustatyti, kad specializuota pagalba:
+
+
+1) reikalinga ir turi būti suteikta nedelsiant;
+
+
+
+
+2) reikalinga, bet gali būti suteikta ne vėliau kaip per 60 dienų nuo pranešimo apie galimą vaiko teisių pažeidimą gavimo dienos;
+
+
+
+
+3) nereikalinga.
+
+
+
+
+
+
+2. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatę, kad specializuota pagalba yra reikalinga, ją teikia Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyboje socialinės apsaugos ir darbo ministro nustatytomis sąlygomis ir tvarka.
+
+
+
+
+3. Jei nustatoma, kad specializuota pagalba reikalinga ir turi būti suteikta nedelsiant, tačiau dėl objektyvių aplinkybių nėra galimybių ją suteikti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyboje, organizuojamas asmens sveikatos priežiūros paslaugų suteikimas galimai seksualinį smurtą patyrusiam vaikui sveikatos apsaugos ministro nustatyta tvarka. Asmens sveikatos priežiūros paslaugas gavęs galimai seksualinį smurtą patyręs vaikas įrašomas į eilę gauti specializuotą pagalbą Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyboje socialinės apsaugos ir darbo ministro nustatytomis sąlygomis ir tvarka.
+
+
+Papildyta straipsniu:
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
  
 
 
@@ -2065,7 +2221,10 @@ TEISĘ PAŽEIDUSIŲ VAIKŲ TEISIŲ UŽTIKRINIMO YPATUMAI
 
 
 
-2. Procesiniai veiksmai dėl teisę pažeidusio vaiko atliekami vaikui draugiškoje fizinėje aplinkoje, atitinkančioje vaiko interesus, nustatytus šio įstatymo 2 straipsnio 12 dalyje.
+2. Procesiniai veiksmai dėl teisę pažeidusio vaiko atliekami vaikui draugiškoje fizinėje aplinkoje, atitinkančioje jo interesus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
+ 
 
 
 
@@ -2470,9 +2629,26 @@ Nr. XIV-2116, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14032
 
 
 
-19) vykdo kitas šiame įstatyme ir kituose jos (jų) veiklą reglamentuojančiuose teisės aktuose nustatytas funkcijas.
+19) teikia specializuotą pagalbą; 
+Papildyta straipsnio punktu:
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
+ 
+
+
+
+
+20) organizuoja mokymus, šviečiamojo pobūdžio susitikimus, edukacinius užsiėmimus, skirtus įvairių sričių (socialinės, sveikatos apsaugos, teisėsaugos, švietimo ir kt.) specialistams, vaikams ir jų šeimoms, vaiko teisės į visapusišką apsaugą nuo seksualinio smurto užtikrinimo srityje; 
+Papildyta straipsnio punktu:
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
+ 
+
+
+
+
+21) vykdo kitas šiame įstatyme ir kituose jos (jų) veiklą reglamentuojančiuose teisės aktuose nustatytas funkcijas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-2116, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14032
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
  
 
 
@@ -2866,3 +3042,8 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2359, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25608
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 41, 52 straipsnių ir priedo pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 19, 30, 36, 36-3, 36-4, 45 ir 50 straipsnių pakeitimo ir Įstatymo papildymo 36-6 straipsniu įstatymas
