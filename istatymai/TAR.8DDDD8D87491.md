@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2026-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
  
@@ -616,7 +616,10 @@ Nr. XIV-1901, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08467
 
 
 
-9) veterinarinės procedūros, siekiant pakeisti gyvūnų išvaizdą ar gyvūnų fiziologines funkcijas (ausų, barzdelių, skiauterių, snapų, uodegų trumpinimas, balso stygų, ragų, nagų, sparnų, kanopų ir ilčių pažeidimas ar pašalinimas, plunksnų išpešimas ar pašalinimas kitu būdu ir kt.), pažeidžiant gyvūnų kūno dalių, minkštųjų audinių ar kaulų struktūrą, išskyrus gyvūnų kastravimą ir kitus teisės aktuose numatytus atvejus arba veterinarines procedūras, atliekamas veterinarijos gydytojo sprendimu dėl gyvūno sveikatos;
+9) veterinarinės procedūros, siekiant pakeisti gyvūnų išvaizdą ar fiziologines funkcijas (ausų, barzdelių, skiauterių, snapų, uodegų trumpinimas, balso stygų, ragų, nagų, sparnų, kanopų ir ilčių pažeidimas ar pašalinimas, plunksnų išpešimas ar pašalinimas kitu būdu ir kt.), pažeidžiant gyvūnų kūno dalių, minkštųjų audinių ar kaulų struktūrą, išskyrus gyvūnų kastravimą ir kitus teisės aktuose numatytus atvejus arba veterinarines procedūras, atliekamas veterinarijos gydytojo rašytiniu sprendimu dėl gyvūno sveikatos;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2978, 2024-09-12, paskelbta TAR 2024-09-19, i. k. 2024-16410
+ 
 
 
 
@@ -1117,7 +1120,10 @@ Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
 
 
 
-5. Draudžiama veisti genetiškai nevisaverčius gyvūnus augintinius su akivaizdžiai matomomis genetinėmis ligomis, apsigimimais ar patologijomis.
+5. Draudžiama veisti genetiškai nesveikus gyvūnus augintinius su akivaizdžiai matomomis genetinėmis ligomis, apsigimimais, patologijomis ar gyvūnus augintinius, kuriems atliktos šio įstatymo 4 straipsnio 2 dalies 9 punkte išvardytos veterinarinės procedūros.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2978, 2024-09-12, paskelbta TAR 2024-09-19, i. k. 2024-16410
+ 
 
 
 
@@ -1179,6 +1185,14 @@ Gyvūnai turi būti vežami taip, kad kelionės metu nesusižalotų, nepatirtų 
 5. Draudžiama prekiauti gyvūnais augintiniais lauko sąlygomis ir turgavietėse. 
 Papildyta straipsnio dalimi:
 Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
+ 
+
+
+
+
+51. Draudžiama parduoti ar kitaip perleisti nuosavybės teises į gyvūnus augintinius, kuriems atliktos šio įstatymo 4 straipsnio 2 dalies 9 punkte išvardytos veterinarinės procedūros, išskyrus atvejus, numatytus Valstybinės maisto ir veterinarijos tarnybos direktoriaus tvirtinamuose veterinarijos reikalavimuose gyvūnų augintinių veisėjams ir prekybai gyvūnais augintiniais.
+Papildyta straipsnio dalimi:
+Nr. XIV-2978, 2024-09-12, paskelbta TAR 2024-09-19, i. k. 2024-16410
  
 
 
@@ -1414,7 +1428,9 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 
 
-5. Draudžiama eksponuoti genetiškai nevisaverčius, su akivaizdžiai matomomis genetinėmis ligomis, apsigimimais ar patologijomis gyvūnus augintinius.
+5. Draudžiama eksponuoti genetiškai nesveikus gyvūnus augintinius su akivaizdžiai matomomis genetinėmis ligomis, apsigimimais, patologijomis ar gyvūnus augintinius, kuriems atliktos šio įstatymo 4 straipsnio 2 dalies 9 punkte išvardytos veterinarinės procedūros.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2978, 2024-09-12, paskelbta TAR 2024-09-19, i. k. 2024-16410
  
 
 
@@ -1739,3 +1755,8 @@ Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 1, 3 i
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2484, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04798
 Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 3 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2978, 2024-09-12, paskelbta TAR 2024-09-19, i. k. 2024-16410
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 4, 10, 12 ir 19 straipsnių pakeitimo įstatymas
