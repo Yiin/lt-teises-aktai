@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 
 
-Suvestinė redakcija nuo 2024-08-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
  
@@ -696,7 +696,10 @@ Nr. XIV-2338, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25258
 
 
 
-7. Savivaldybės, sudariusios panaudos sandorį, dėl joms patikėjimo teise perduotų valstybinės žemės sklypų, kurie atitinka šio įstatymo 362 straipsnio 9 dalyje nustatytus kriterijus, šio įstatymo 362 straipsnio 8 dalyje nustatyta tvarka ir terminais kreipiasi į Nacionalinę žemės tarnybą dėl šios sutarties teisėtumo patikrinimo ir išvados pateikimo. Sandoriai Nekilnojamojo turto registre registruojami tik gavus Nacionalinės žemės tarnybos išvadą apie sandorio atitiktį teisės aktų reikalavimams (nesant trūkumų) ir galimybę jį registruoti. 
+7. Prieš savivaldybės tarybai priimant sprendimą dėl patikėjimo teise perduotų valstybinės žemės sklypų, kurie atitinka šio įstatymo 362 straipsnio 9 dalyje nustatytus kriterijus, panaudos sandorio sudarymo, savivaldybės šio įstatymo 362 straipsnio 8 dalyje nustatyta tvarka ir terminais teikia prašymą Nacionalinei žemės tarnybai patikrinti šio sandorio teisėtumą ir pateikti išvadą. Sandoriai tvirtinami ir Nekilnojamojo turto registre registruojami tik gavus Nacionalinės žemės tarnybos išvadą apie sandorio atitiktį teisės aktų reikalavimams. Gavus Nacionalinės žemės tarnybos išvadą, kad sandoris atitinka teisės aktų reikalavimus, jo sąlygos nekeičiamos. Siekiant pakeisti sandorio sąlygas, savivaldybė parengia naują sandorio projektą ir kreipiasi į Nacionalinę žemės tarnybą dėl pakartotinės išvados gavimo. Nacionalinei žemės tarnybai pateikus pakartotinę išvadą, ankstesnė išvada laikoma negaliojančia. Dėl savivaldybės tarybos patvirtintų sandorių, kurių sąlygos buvo pakeistos be pakartotinės Nacionalinės žemės tarnybos išvados, panaikinimo Nacionalinė žemės tarnyba Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka su pareiškimu kreipiasi į administracinį teismą, kad būtų apgintas viešasis interesas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2993, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17763
+ 
 
 
 
@@ -852,7 +855,10 @@ Nr. XIV-2445, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25938
 
 
 
-11. Savivaldybės, sudariusios valstybinės žemės nuomos sutartį dėl joms patikėjimo teise perduotų valstybinės žemės sklypų, kurie atitinka šio įstatymo 362 straipsnio 9 dalyje nustatytus kriterijus, šio įstatymo 362 straipsnio 8 dalyje nustatyta tvarka ir terminais kreipiasi į Nacionalinę žemės tarnybą dėl šios sutarties teisėtumo patikrinimo ir išvados pateikimo. Sandoriai Nekilnojamojo turto registre registruojami tik gavus Nacionalinės žemės tarnybos išvadą apie sandorio atitiktį teisės aktų reikalavimams (nesant trūkumų) ir galimybę jį registruoti. 
+11. Prieš savivaldybės tarybai priimant sprendimą dėl patikėjimo teise perduotų valstybinės žemės sklypų, kurie atitinka šio įstatymo 362 straipsnio 9 dalyje nustatytus kriterijus, nuomos, savivaldybės šio įstatymo 362 straipsnio 8 dalyje nustatyta tvarka ir terminais teikia prašymą Nacionalinei žemės tarnybai patikrinti šio sandorio teisėtumą ir pateikti išvadą. Sandoriai tvirtinami ir Nekilnojamojo turto registre registruojami tik gavus Nacionalinės žemės tarnybos išvadą apie sandorio atitiktį teisės aktų reikalavimams. Gavus Nacionalinės žemės tarnybos išvadą, kad sandoris atitinka teisės aktų reikalavimus, jo sąlygos nekeičiamos. Siekiant pakeisti sandorio sąlygas, savivaldybė parengia naują sandorio projektą ir kreipiasi į Nacionalinę žemės tarnybą dėl pakartotinės išvados gavimo. Nacionalinei žemės tarnybai pateikus pakartotinę išvadą, ankstesnė išvada laikoma negaliojančia. Dėl savivaldybės tarybos patvirtintų sandorių, kurių sąlygos buvo pakeistos be pakartotinės Nacionalinės žemės tarnybos išvados, panaikinimo Nacionalinė žemės tarnyba Administracinių bylų teisenos įstatymo nustatyta tvarka su pareiškimu kreipiasi į administracinį teismą, kad būtų apgintas viešasis interesas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2993, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17763
+ 
 
 
 
@@ -1053,7 +1059,9 @@ Nr. XIV-2445, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25938
 
 
 
-3. Valstybinės žemės nuomininkas, pageidaujantis įgyvendinti valstybinės žemės nuomos sutartyje numatytą galimybę statyti naujus ir (ar) rekonstruoti esamus statinius, iki statybą leidžiančio dokumento išdavimo, o jeigu jų statybai statybą leidžiantis dokumentas neprivalomas, iki naujų statinių statybos ir (ar) esamų statinių rekonstravimo pradžios Vyriausybės nustatyta tvarka turi sumokėti 50 procentų atlyginimo už galimybę statyti valstybinėje žemėje į valstybės biudžetą, 50 procentų atlyginimo už galimybę statyti valstybinėje žemėje – į savivaldybės, kurios teritorijoje yra žemės sklypas, biudžetą:
+3. Valstybinės žemės nuomininkas, pageidaujantis įgyvendinti valstybinės žemės nuomos sutartyje numatytą galimybę statyti naujus ir (ar) rekonstruoti esamus statinius, iki pranešimo apie statybos pradžią, jeigu reikalavimas pranešti apie statybos pradžią nenustatytas, – iki naujų statinių statybos ir (ar) esamų statinių rekonstravimo pradžios Vyriausybės nustatyta tvarka turi sumokėti 50 procentų atlyginimo už galimybę statyti valstybinėje žemėje į valstybės biudžetą, 50 procentų atlyginimo už galimybę statyti valstybinėje žemėje – į savivaldybės, kurios teritorijoje yra žemės sklypas, biudžetą. Jeigu statinio projekte, pagal kurį bus vykdomi statybos darbai, numatyta atskirus statinius statyti etapais, atlyginimas už galimybę statyti valstybinėje žemėje mokamas tik už tą statinį, apie kurio statybos pradžią bus pranešta arba kurio statybos darbai bus pradėti (kai reikalavimas pranešti apie statybos pradžią nenustatytas): 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2424, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25647
 
 
 1) kai statant naują ir (ar) rekonstruojant esamą statinį juo užstatytas žemės plotas nedidėja arba sumažėja, palyginti su iki statybos ir (ar) rekonstravimo Nekilnojamojo turto registre pagrindiniu daiktu įregistruotu statiniu užstatytu plotu, ir (ar) po statybos, ir (ar) po rekonstravimo statinio bendras plotas nedidėja arba sumažėja, palyginti su iki statybos ir (ar) rekonstravimo Nekilnojamojo turto registre pagrindiniu daiktu įregistruoto statinio bendru plotu, – sumą, lygią 5 procentams vidutinės valstybinės žemės sklypo ar jo dalies, jeigu ji buvo nustatyta, rinkos vertės, apskaičiuotos atliekant valstybinės žemės sklypo vertinimą masiniu būdu Vyriausybės nustatyta tvarka;
@@ -3233,7 +3241,10 @@ VALSTYBINĖS ŽEMĖS PATIKĖTINIŲ VEIKLOS KONTROLĖ
 
 
 
-8. Nacionalinė žemės tarnyba teikia išvadą dėl šio įstatymo 8 straipsnio 7 dalyje ir 9 straipsnio 11 dalyje nurodytų sandorių, atitinkančių šio straipsnio 9 dalyje nustatytus kriterijus, atitikties jų sudarymą reglamentuojančių teisės aktų reikalavimams ir galimybės juos registruoti Nekilnojamojo turto registre. Savivaldybė per 10 darbo dienų nuo šių sandorių sudarymo dienos, bet visais atvejais iki jų įregistravimo Nekilnojamojo turto registre, per Žemės informacinę sistemą teikia juos patikrinti Nacionalinei žemės tarnybai. Nacionalinė žemės tarnyba ne vėliau kaip per 10 darbo dienų nuo sandorio pateikimo tikrinti dienos, parengia išvadą dėl jo atitikties teisės aktų reikalavimams ir galimybės sandorį registruoti Nekilnojamojo turto registre arba informuoja apie nustatytus trūkumus ir galimybę sandorio šalių susitarimu juos pašalinti per 20 darbo dienų nuo išvados pateikimo sandorio šalims dienos. Nacionalinės žemės tarnybos išvada teikiama per Žemės informacinę sistemą. Savivaldybė per nustatytą terminą pateikia Nacionalinei žemės tarnybai patikslintą sandorį ir informaciją apie išvadoje nurodytų trūkumų pašalinimą. Sandorio šalims nesusitarus dėl trūkumų pašalinimo ir savivaldybei nepateikus Nacionalinei žemės tarnybai patikslinto sandorio ir nurodytos informacijos, Nacionalinė žemės tarnyba kreipiasi į teismą dėl sandorio vykdymo sustabdymo ir pripažinimo negaliojančiu. Nekilnojamojo turto registro tvarkytojas neregistruoja šio įstatymo 8 straipsnio 7 dalyje ir 9 straipsnio 11 dalyje nurodytų sandorių, atitinkančių šio straipsnio 9 dalyje nustatytus kriterijus, jeigu su sandorio dokumentais nepateikiama Nacionalinės žemės tarnybos išvada, kad sandoris atitinka teisės aktų reikalavimus ir galima jį registruoti.
+8. Nacionalinė žemės tarnyba teikia išvadą dėl šio įstatymo 8 straipsnio 7 dalyje ir 9 straipsnio 11 dalyje nurodytų sandorių, atitinkančių šio straipsnio 9 dalyje nustatytus kriterijus, atitikties jų sudarymą reglamentuojančių teisės aktų reikalavimams. Savivaldybė ne vėliau kaip prieš 20 darbo dienų iki šių sandorių sudarymo dienos per Žemės informacinę sistemą teikia juos tikrinti Nacionalinei žemės tarnybai. Nacionalinė žemės tarnyba ne vėliau kaip per 10 darbo dienų nuo sandorio pateikimo tikrinti dienos parengia išvadą dėl jo atitikties teisės aktų reikalavimams arba informuoja apie nustatytus trūkumus ir galimybę sandorio šalių susitarimu juos pašalinti per 20 darbo dienų nuo išvados pateikimo sandorio šalims dienos. Nacionalinė žemės tarnyba išvadą teikia per Žemės informacinę sistemą. Savivaldybė per nustatytą terminą pateikia Nacionalinei žemės tarnybai patikslintą sandorį ir informaciją apie išvadoje nurodytų trūkumų pašalinimą. Negavus Nacionalinės žemės tarnybos išvados dėl sandorio atitikties teisės aktų reikalavimams, sandoris nesudaromas. Gavus Nacionalinės žemės tarnybos išvadą, kad sandoris atitinka teisės aktų reikalavimus, jo sąlygos nekeičiamos. Siekiant pakeisti sandorio sąlygas, savivaldybė parengia naują sandorio projektą ir kreipiasi į Nacionalinę žemės tarnybą dėl pakartotinės išvados gavimo. Nacionalinei žemės tarnybai pateikus pakartotinę išvadą, ankstesnė išvada laikoma negaliojančia. Dėl savivaldybės tarybos patvirtintų sandorių, kurių sąlygos buvo pakeistos be pakartotinės Nacionalinės žemės tarnybos išvados, panaikinimo Nacionalinė žemės tarnyba Administracinių bylų teisenos įstatymo nustatyta tvarka su pareiškimu kreipiasi į administracinį teismą, kad būtų apgintas viešasis interesas. Nekilnojamojo turto registro tvarkytojas neregistruoja šio įstatymo 8 straipsnio 7 dalyje ir 9 straipsnio 11 dalyje nurodytų sandorių, atitinkančių šio straipsnio 9 dalyje nustatytus kriterijus, jeigu su sandorio dokumentais nepateikiama Nacionalinės žemės tarnybos išvada, kad sandoris atitinka teisės aktų reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2993, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17763
+ 
 
 
 
@@ -5518,3 +5529,8 @@ Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 23, 32, 37, 41 ir 42 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2918, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13551
 Lietuvos Respublikos žemės įstatymo Nr. I-446 40 straipsnio pakeitimo įstatymas
+ 
+45.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2993, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17763
+Lietuvos Respublikos žemės įstatymo Nr. I-446 8, 9, 22, 29, 36-2, 48 ir 52 straipsnių pakeitimo įstatymas
