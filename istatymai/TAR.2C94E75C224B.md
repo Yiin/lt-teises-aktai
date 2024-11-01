@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2C94E75C224B"
 
 # Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2022-01-02 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 120-4433, i. k. 1041010ISTA0IX-2387
  
@@ -837,32 +837,18 @@ ANTRASIS1 SKIRSNIS
 121 straipsnis. Įmonių, priklausančių finansų konglomeratui, viešasis sąrašas
 
 
-1. Mišrios veiklos finansų kontroliuojančioji įmonė, jeigu ji yra patronuojančioji įmonė, turinti buveinę Lietuvos Respublikoje, finansų kontroliuojančioji bendrovė, jeigu ji yra patronuojančioji įmonė, turinti buveinę Lietuvos Respublikoje, kreipiasi į Lietuvos Respublikos priežiūros instituciją dėl jų įrašymo į Įmonių, priklausančių finansų konglomeratui, viešąjį sąrašą (toliau – Sąrašas). Kitos finansų kontroliuojančiosios bendrovės, jeigu jos yra patronuojančiosios įmonės, arba mišrios veiklos finansų kontroliuojančiosios įmonės, jeigu jos yra patronuojančiosios įmonės, kreipiasi į Lietuvos Respublikos priežiūros instituciją dėl jų įrašymo į Sąrašą, kai savo veikloje privalo laikytis Bankų įstatymo ir kai reikalaujama, kad jos iš dalies konsoliduotai laikytųsi Reglamento (ES) Nr. 575/2013 reikalavimų.
+1. Finansų kontroliuojančioji bendrovė, veikianti kaip patronuojančioji įmonė Lietuvos Respublikoje arba kitoje valstybėje narėje, arba mišrios veiklos finansų kontroliuojančioji įmonė, veikianti kaip patronuojančioji įmonė Lietuvos Respublikoje arba kitoje valstybėje narėje, kreipiasi į Lietuvos Respublikos priežiūros instituciją dėl įrašymo į Įmonių, priklausančių finansų konglomeratui, viešąjį sąrašą (toliau – Sąrašas). Kitos finansų kontroliuojančiosios bendrovės arba mišrios veiklos finansų kontroliuojančiosios įmonės kreipiasi į Lietuvos Respublikos priežiūros instituciją dėl įrašymo į Sąrašą, kai savo veikloje privalo laikytis Bankų įstatymo ir kai reikalaujama, kad jos iš dalies konsoliduotai laikytųsi Reglamento (ES) Nr. 575/2013 reikalavimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2716, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11239
+ 
 
 
 
 
-2. Kreipiantis dėl įrašymo į Sąrašą, priežiūros institucijai ir priežiūros institucijai, atsakingai už jungtinę (konsoliduotą) priežiūrą, jeigu ji nėra Lietuvos Respublikos priežiūros institucija, turi būti pateiktas prašymas ir priežiūros institucijos nustatytus reikalavimus atitinkantys dokumentai ir (arba) duomenys apie:
-
-
-1) grupės, kuriai priklauso finansų kontroliuojančioji bendrovė arba mišrios veiklos finansų kontroliuojančioji įmonė, organizacinę struktūrą, patronuojančiąsias įmones, jų patronuojamąsias įmones (jeigu tokių ji turi), taip pat kiekvieno iš grupės subjektų vykdomos veiklos vietą ir rūšį;
-
-
-
-
-2) finansų kontroliuojančiosios bendrovės arba mišrios veiklos finansų kontroliuojančiosios įmonės vadovus (bent apie du vadovus); 
-
-
-
-
-3) kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį turinčius asmenis (pateikiama, kai viena iš finansų kontroliuojančiosios bendrovės arba mišrios veiklos finansų kontroliuojančiosios įmonės patronuojamųjų įmonių yra kredito įstaiga). Nustatant kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, atsižvelgiama į Lietuvos Respublikos vertybinių popierių įstatymo 15 straipsnyje nustatytą pareigą pranešti apie akcijų paketo įsigijimą ar jo netekimą ir asmens turimų balsų skaičiavimo tvarką;
-
-
-
-
-4) grupės organizacinę vidaus struktūrą ir pareigų paskirstymą grupėje.
-
-
+2. Šio straipsnio 1 dalyje nurodyta tarpinė patronuojančioji įmonė, veikianti Lietuvos Respublikoje arba kitoje valstybėje narėje, turi gauti kredito įstaigos licenciją arba turi būti įrašyta į Sąrašą šio įstatymo 121 straipsnyje nustatyta tvarka. Ši nuostata netaikoma šio straipsnio 4 dalyje nustatytais atvejais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2716, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11239
+ 
 
 
 
@@ -1536,3 +1522,8 @@ Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-830, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27722
 Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Nr. IX-2387 19 straipsnio ir priedo pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2716, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11239
+Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Nr. IX-2387 12-1 ir 12-2 straipsnių pakeitimo įstatymas
