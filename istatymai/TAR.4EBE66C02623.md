@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2024-10-25 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-11-14
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -1715,8 +1715,11 @@ užtraukia įspėjimą arba baudą potencialiai pavojingų įrenginių savininka
 
 
 
-2. Nuolatinės potencialiai pavojingų įrenginių priežiūros atlikimas neturint reikiamos kvalifikacijos arba specialiųjų žinių ir įgūdžių, arba reikiamos įrangos, prietaisų ir priemonių 
+2. Nuolatinės potencialiai pavojingų įrenginių priežiūros atlikimas neturint reikiamos kvalifikacijos arba specialiųjų žinių ir įgūdžių, arba reikiamos įrangos, prietaisų ir priemonių ar neapsidraudus civilinės atsakomybės draudimu arba turimo civilinės atsakomybės draudimo sumai esant mažesnei už nustatytą minimalią šio draudimo sumą
 užtraukia įspėjimą arba baudą potencialiai pavojingų įrenginių savininkams fiziniams asmenims, atliekantiems nuolatinę potencialiai pavojingų įrenginių priežiūrą, potencialiai pavojingų įrenginių savininkų juridinių asmenų, atliekančių nuolatinę potencialiai pavojingų įrenginių priežiūrą, vadovams, fiziniams asmenims, su kuriais sudarytos sutartys dėl nuolatinės potencialiai pavojingų įrenginių priežiūros atlikimo, arba juridinių asmenų, su kuriais sudarytos sutartys dėl nuolatinės potencialiai pavojingų įrenginių priežiūros atlikimo, vadovams nuo vieno šimto iki trijų šimtų eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2706, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11230
+ 
 
 
 
@@ -1727,8 +1730,11 @@ užtraukia baudą potencialiai pavojingų įrenginių savininkams fiziniams asme
 
 
 
-4. Potencialiai pavojingų įrenginių naudojimas neatlikus techninės būklės tikrinimo gamintojo ar potencialiai pavojingų įrenginių priežiūros norminių teisės aktų nustatyta tvarka ir terminais 
-užtraukia baudą potencialiai pavojingų įrenginių savininkams fiziniams asmenims arba potencialiai pavojingų įrenginių savininkų juridinių asmenų vadovams nuo trijų šimtų iki šešių šimtų eurų.  
+4. Sutarties su akredituotąja potencialiai pavojingų įrenginių techninės būklės tikrinimo įstaiga dėl potencialiai pavojingo įrenginio techninės būklės tikrinimo neturėjimas arba potencialiai pavojingo įrenginio nepateikimas gamintojo ar potencialiai pavojingų įrenginių priežiūros norminių teisės aktų nustatyta tvarka ir terminais akredituotajai potencialiai pavojingų įrenginių techninės būklės tikrinimo įstaigai potencialiai pavojingo įrenginio techninei būklei patikrinti, arba potencialiai pavojingo įrenginio naudojimas neatlikus jo techninės būklės tikrinimo gamintojo ar potencialiai pavojingų įrenginių priežiūros norminių teisės aktų nustatyta tvarka ir terminais
+užtraukia baudą potencialiai pavojingų įrenginių savininkams fiziniams asmenims arba potencialiai pavojingų įrenginių savininkų juridinių asmenų vadovams nuo trijų šimtų iki šešių šimtų eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2706, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11230
+ 
 
 
 
@@ -2831,18 +2837,54 @@ užtraukia įspėjimą arba baudą nuo dvidešimt iki penkiasdešimt eurų.
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo šešiasdešimt iki vieno šimto eurų. 
+užtraukia baudą nuo šešiasdešimt iki vieno šimto eurų.
 
 
 
 
-3. Mokymo, auklėjimo, sveikatos priežiūros ir kitų institucijų, įstaigų ir įmonių, kurių prižiūrimas yra vaikas, vadovų, auklėtojų ar kitų jiems tolygių asmenų savo pareigų nevykdymas arba netinkamas vykdymas, fizinis ar psichinis vaiko žalojimas ar kitoks vaiko teisių pažeidimas
-užtraukia įspėjimą arba baudą nuo trisdešimt iki vieno šimto penkiasdešimt eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
+3. Mokymo, auklėjimo, sveikatos priežiūros ir kitų institucijų, įstaigų ir įmonių, kurios prižiūri vaiką, vadovų, auklėtojų ar kitų jiems tolygių asmenų savo pareigų nevykdymas arba netinkamas vykdymas, išskyrus šio straipsnio 4, 5, 6, 7, 8, 9 dalyse nurodytus pažeidimus, fizinis ar psichinis vaiko žalojimas ar kitoks vaiko teisių pažeidimas
+užtraukia įspėjimą arba baudą nuo trisdešimt iki vieno šimto penkiasdešimt eurų.
+
+
+
+
+4. Socialines, kultūros, švietimo, sporto ir sveikatos priežiūros paslaugas vaikams teikiančių įstaigų, įmonių ir organizacijų, kitų įstaigų, įmonių ir organizacijų, jei jose dirba, užsiima savanoriška veikla, stažuojasi ar atlieka praktiką asmenys, kurių darbas, savanoriška veikla, praktika ar stažuotė tiesioginiais ir reguliariais kontaktais susiję su vaikais, taip pat juridinių asmenų, pasitelkiančių asmenis teikti paslaugas, jei šios paslaugos ar juridinių asmenų, kuriems teikiamos paslaugos, veikla tiesioginiais ir reguliariais kontaktais susijusios su vaikais, priimančiųjų organizacijų pareigos, nurodytos Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 5, 6 dalyse, nevykdymas
+užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
+
+
+
+
+5. Šio straipsnio 4 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
+
+
+
+
+6. Socialines, kultūros, švietimo, sporto ir sveikatos priežiūros paslaugas vaikams teikiančių įstaigų, įmonių ir organizacijų, kitų įstaigų, įmonių ir organizacijų, jei jose dirba, užsiima savanoriška veikla, stažuojasi ar atlieka praktiką asmenys, kurių darbas, savanoriška veikla, praktika ar stažuotė tiesioginiais ir reguliariais kontaktais susiję su vaikais, taip pat juridinių asmenų, pasitelkiančių asmenis teikti paslaugas, jei šios paslaugos ar juridinių asmenų, kuriems teikiamos paslaugos, veikla tiesioginiais ir reguliariais kontaktais susijusios su vaikais, priimančiųjų organizacijų pareigos, nurodytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 5, 6 dalyse, nevykdymas arba pareigų, nurodytų Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 9 dalyje, nevykdymas, jei šioje dalyje nurodytose įstaigose, įmonėse, organizacijose dirba, užsiima savanoriška veikla, atlieka praktiką, stažuojasi ar teikia paslaugas asmuo, kuris apkaltinamuoju teismo nuosprendžiu pripažintas kaltu dėl nusikalstamų veikų, nurodytų Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 1 dalyje, arba asmuo, kuris yra padaręs Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 1 dalyje nurodytas nusikalstamas veikas, bet atleistas nuo baudžiamosios atsakomybės Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 1 dalyje nurodytais pagrindais, 
+užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.
+
+
+
+
+7. Šio straipsnio 6 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo penkių tūkstančių iki šešių tūkstančių eurų.
+
+
+
+
+8. Asmens, besiverčiančio individualia veikla, teikiančio paslaugas ar vykdančio bet kokią kitą veiklą, jei ši veikla ar paslaugos tiesioginiais ir reguliariais kontaktais susijusios su vaikais, pareigos, nurodytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 6 dalyje, ir pareigos, nurodytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 7 dalyje, nevykdymas
+užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
+
+
+
+
+9. Šio straipsnio 8 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2916, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13512
  
-
-
 
 
 
@@ -3553,44 +3595,42 @@ Nr. XIV-2653, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09691
 
 
 1. Darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimas
-užtraukia baudą darbuotojui ar savarankiškai dirbančiam asmeniui nuo trisdešimt iki devyniasdešimt eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-553, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21221
- 
+užtraukia baudą darbuotojui ar savarankiškai dirbančiam asmeniui nuo trisdešimt iki devyniasdešimt eurų.
 
 
 
 
 2. Darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimas
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų keturiasdešimt iki aštuonių šimtų aštuoniasdešimt eurų.
+užtraukia baudą darbdaviams fiziniams asmenims, darbdavių juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų keturiasdešimt iki aštuonių šimtų aštuoniasdešimt eurų.
 
 
 
 
-3. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, jeigu dėl to galėjo įvykti nelaimingas atsitikimas darbe, avarija ar atsirasti kitų sunkių padarinių,
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio iki dviejų tūkstančių eurų. 
+3. Darbuotojų saugos ir sveikatos statybvietėse norminių teisės aktų pažeidimas 
+užtraukia baudą asmenims, juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų keturiasdešimt iki aštuonių šimtų aštuoniasdešimt eurų.
 
 
 
 
-4. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo devynių šimtų iki vieno tūkstančio keturių šimtų eurų. 
-Papildyta straipsnio dalimi:
-Nr. XIV-367, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13174
- 
+4. Šio straipsnio 2 ar 3 dalyje numatytas administracinis nusižengimas, dėl kurio galėjo įvykti nelaimingas atsitikimas darbe, avarija ar atsirasti kitų sunkių padarinių,
+užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
 
 
 
 
-5. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų. 
-Papildyta straipsnio dalimi:
-Nr. XIV-367, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13174
- 
+5. Šio straipsnio 2 ar 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo devynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+
+
+
+
+6. Šio straipsnio 4 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
+Nr. XIV-2706, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11230
  
 
 
@@ -10586,8 +10626,11 @@ užtraukia baudą asmenims nuo šešiasdešimt iki dviejų šimtų eurų ir juri
 
 
 
-2. Neteisėtas medžių, kurie pagal Želdynų įstatymą priskiriami saugotiniems želdiniams, naikinimas
+2. Neteisėtas medžių, kurie pagal Želdynų įstatymą priskiriami saugotiniems želdiniams, arba medžių, apie kurių kirtimą, kitokį pašalinimą iš augimo vietos ar intensyvų genėjimą pagal Želdynų įstatymą reikia pateikti pranešimą savivaldybės vykdomajai institucijai, naikinimas
 užtraukia baudą asmenims nuo vieno šimto aštuoniasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų šimtų keturiasdešimt iki devynių šimtų eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2878, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13534
+ 
 
 
 
@@ -22402,11 +22445,12 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 
 
 
-21) Lietuvos Respublikos švietimo, mokslo ir sporto ministerijos ar jos įgaliotos įstaigos – dėl šio kodekso 80, 981, 2261, 505, 507, 549 straipsniuose numatytų administracinių nusižengimų; 
+21) Lietuvos Respublikos švietimo, mokslo ir sporto ministerijos ar jos įgaliotos įstaigos – dėl šio kodekso 72 straipsnio 4, 5, 6, 7 dalyse, 80, 981, 2261, 505, 507, 549 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-610, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12431
 Nr. XIII-1546, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16602
 Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+Nr. XIV-2916, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13512
  
 
 
@@ -22721,7 +22765,7 @@ Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
 
 
 
-49) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 1311, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 1701, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 2091, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 2341, 2342 straipsniuose, 281 straipsnio 1, 2, 3, 4, 5 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 373 straipsnio 2 dalyje, 414, 415, 416, 417, 420, 421, 422, 4221, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 451, 452, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474, 4741, 479 straipsniuose, 480 straipsnio 1, 2 dalyse, 481, 482, 483, 484, 4841, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 4941, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 41, 5, 6 dalyse, 507, 5071, 508, 5101, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 3 dalyje, 5261, 527, 528, 530, 534, 535, 538, 540, 546, 553, 5551 straipsniuose numatytų administracinių nusižengimų; 
+49) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71 straipsniuose, 72 straipsnio 1, 2, 3 dalyse, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 1311, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 1701, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 2091, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 2341, 2342 straipsniuose, 281 straipsnio 1, 2, 3, 4, 5 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 373 straipsnio 2 dalyje, 414, 415, 416, 417, 420, 421, 422, 4221, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 451, 452, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474, 4741, 479 straipsniuose, 480 straipsnio 1, 2 dalyse, 481, 482, 483, 484, 4841, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 4941, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 41, 5, 6 dalyse, 507, 5071, 508, 5101, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 3 dalyje, 5261, 527, 528, 530, 534, 535, 538, 540, 546, 553, 5551 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
@@ -22748,6 +22792,8 @@ Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
 Nr. XIV-2151, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14337
 Nr. XIV-2463, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25957
 Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539
+Nr. XIV-2916, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13512
+Nr. XIV-3018, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17780
  
 
 
@@ -22771,10 +22817,11 @@ Nr. XIII-3367, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24524
 
 
 
-52) Socialinių paslaugų priežiūros departamento prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 72 straipsnio 3 dalyje, 107, 224, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+52) Socialinių paslaugų priežiūros departamento prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 72 straipsnio 4, 5, 6, 7 dalyse, 107, 224, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 Nr. XIII-3345, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23930
+Nr. XIV-2916, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13512
  
 
 
@@ -22815,7 +22862,10 @@ Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
 
 
 
-56) Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos – dėl šio kodekso 54, 55, 59, 61, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+56) Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos – dėl šio kodekso 54, 55, 59, 61, 72 straipsnio 4, 5, 6, 7 dalyse, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2916, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13512
+ 
 
 
 
@@ -22830,7 +22880,7 @@ Nr. XIV-1143, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13882
 
 
 
-58) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 471 straipsnyje, 72 straipsnio 3 dalyje, 95, 96, 97, 98, 981, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 2, 11, 16, 19, 20, 21, 22 dalyse, 3081 straipsnio 4, 6, 7 dalyse, 3621 straipsnyje, 453 straipsnio 10, 11 dalyse, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3 dalyse numatytų administracinių nusižengimų; 
+58) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 471 straipsnyje, 72 straipsnio 4, 5, 6, 7 dalyse, 95, 96, 97, 98, 981, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 2, 11, 16, 19, 20, 21, 22 dalyse, 3081 straipsnio 4, 6, 7 dalyse, 3621 straipsnyje, 453 straipsnio 10, 11 dalyse, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3 dalyse numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
@@ -22843,6 +22893,7 @@ Nr. XIII-2870, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09208
 Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755
 Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
 Nr. XIV-2653, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09691
+Nr. XIV-2916, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13512
  
 
 
@@ -28779,3 +28830,23 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 479, 480, 589 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3035, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18432
 Lietuvos Respublikos administracinių nusižengimų kodekso 96 straipsnio ir priedo pakeitimo įstatymas
+ 
+243.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2706, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11230
+Lietuvos Respublikos administracinių nusižengimų kodekso 47-1 ir 96 straipsnių pakeitimo įstatymas
+ 
+244.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2878, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13534
+Lietuvos Respublikos administracinių nusižengimų kodekso 281 straipsnio pakeitimo įstatymas
+ 
+245.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2916, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13512
+Lietuvos Respublikos administracinių nusižengimų kodekso 72 ir 589 straipsnių pakeitimo įstatymas
+ 
+246.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3018, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17780
+Lietuvos Respublikos administracinių nusižengimų kodekso 72 ir 589 straipsnių pakeitimo įstatymo Nr. XIV-2916 2 straipsnio pakeitimo įstatymas
