@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-12-31
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
  
@@ -2495,6 +2495,19 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 
 
 
+291 straipsnis. Vietinės rinkliavos
+
+
+Už naudojimąsi savivaldybės tarybos nustatytomis vietomis vidaus vandenų transporto priemonėms švartuoti ar stovėti (kai vidaus vandenų transporto priemonė iškeliama ant kranto) mokamos nustatyto dydžio vietinės rinkliavos. 
+
+
+Papildyta straipsniu:
+Nr. XIV-2870, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12655
+ 
+
+
+
+
 
 
 SEPTINTASIS SKIRSNIS
@@ -3760,3 +3773,8 @@ Lietuvos Respublikos vidaus vandenų transporto kodekso 27-1, 40, 47 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2536, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07269
 Lietuvos Respublikos vidaus vandenų transporto kodekso 16-2 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2870, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12655
+Lietuvos Respublikos vidaus vandenų transporto kodekso papildymo 29-1 straipsniu įstatymas
