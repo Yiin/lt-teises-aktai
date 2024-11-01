@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2024-12-29
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 59-1916; Žin. 1999, Nr.60-0, i. k. 0991010ISTAIII-1227
  
@@ -1030,7 +1030,25 @@ Auditoriaus pažymėjimas išduodamas asmeniui, jeigu jis:
 Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis:
 
 
-1) buvo pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai arba viešiesiems interesams ir teistumas neišnykęs arba nepanaikintas;
+1) buvo pripažintas kaltu padaręs:
+
+
+a) Lietuvos Respublikos baudžiamajame kodekse numatytą sunkų arba labai sunkų nusikaltimą ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 8 metai;
+
+
+
+
+b) Baudžiamajame kodekse numatytą nesunkų arba apysunkį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, visuomenės saugumui ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 5 metai;
+
+
+
+
+c) kitą, negu nurodyta šio punkto a ir b papunkčiuose, Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai; 
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIV-2812, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12135
+ 
 
 
 
@@ -1677,10 +1695,37 @@ Audito įmonės pažymėjimas išduodamas įmonei, jeigu ji:
 28 straipsnis. Audito įmonių nepriekaištinga reputacija
 
 
-Audito įmonė nėra laikoma nepriekaištingos reputacijos, jeigu dėl jos arba jos patronuojančiosios įmonės yra įsiteisėjęs apkaltinamasis teismo nuosprendis už sunkų ar labai sunkų nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, viešiesiems interesams, teisingumui arba visuomenės saugumui arba per pastaruosius 3 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis už kitą tyčinę nusikalstamą veiką ir jos teistumas neišnykęs arba nepanaikintas, taip pat jeigu audito įmonei buvo paskirta Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte nurodyta poveikio priemonė – išduotos licencijos ar leidimo vykdyti veiklą panaikinimas ir nuo šios poveikio priemonės paskyrimo dienos nepraėjo 5 metai.
+Audito įmonė nėra laikoma nepriekaištingos reputacijos, jeigu:
+
+
+1) jai buvo paskirta Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte nurodyta poveikio priemonė – išduotos licencijos ar leidimo vykdyti veiklą panaikinimas ir nuo šios poveikio priemonės paskyrimo dienos nepraėjo 5 metai;
+
+
+
+
+2) dėl jos arba jos vadovaujamas pareigas einančio darbuotojo ar naudos gavėjo arba jos patronuojančiosios įmonės yra įsiteisėjęs apkaltinamasis teismo nuosprendis už:
+
+
+a) Baudžiamajame kodekse numatytą sunkų arba labai sunkų nusikaltimą ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 8 metai;
+
+
+
+
+b) Baudžiamajame kodekse numatytą nesunkų arba apysunkį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, visuomenės saugumui ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 5 metai;
+
+
+
+
+c) kitą, negu nurodyta šio punkto a ir b papunkčiuose, Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai. 
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2812, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12135
  
-
-
 
 
 
