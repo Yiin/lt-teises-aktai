@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS FINANSINIO TVARUMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2024-07-25 iki 2024-10-31
+Suvestinė redakcija nuo 2024-11-01 iki 2025-04-25
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 93-3985, i. k. 1091010ISTA00XI-393
  
@@ -2754,17 +2754,20 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 
 
-4. Taikant šio įstatymo 263 straipsnio 2 dalį, jeigu pertvarkytinų subjektų yra daugiau negu vienas pasaulinės sisteminės svarbos įstaigos subjektas, priklausantis tai pačiai pasaulinės sisteminės svarbos įstaigai, atitinkamos pertvarkymo institucijos apskaičiuoja šio straipsnio 3 dalyje nurodytą sumą:
+4. Taikant šio įstatymo 263 straipsnio 2 dalį, kai pertvarkytini subjektai ar trečiųjų valstybių subjektai, kurie būtų pertvarkytini subjektai, jeigu jie būtų įsteigti ES, yra keli tai pačiai pasaulinės sisteminės svarbos įstaigai priklausantys pasaulinės sisteminės svarbos įstaigos subjektai, atitinkamos pertvarkymo institucijos apskaičiuoja šio straipsnio 3 dalyje nurodytą sumą:
 
 
-1) kiekvienam pertvarkytinam subjektui;
+1) kiekvienam pertvarkytinam subjektui arba trečiosios valstybės subjektui, kuris būtų pertvarkytinas subjektas, jeigu jis būtų įsteigtas ES;
 
 
 
 
-2) ES patronuojančiajam subjektui, kuris laikomas vieninteliu pasaulinės sisteminės svarbos įstaigos pertvarkytinu subjektu.
+2) ES patronuojančiajai įmonei, kuri laikoma vieninteliu pasaulinės sisteminės svarbos įstaigos pertvarkytinu subjektu.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
+ 
 
 
 
@@ -2915,22 +2918,28 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 
 
-4. Jeigu keli pasaulinės sisteminės svarbos įstaigos subjektai, priklausantys tai pačiai pasaulinės sisteminės svarbos įstaigai, yra pertvarkytini subjektai, šio straipsnio 1 dalyje nurodytos pertvarkymo institucijos aptaria Reglamento (ES) Nr. 575/2013 72e straipsnio taikymą ir bet kokį patikslinimą Reglamento (ES) Nr. 575/2013 45d straipsnio 4 dalies a punkte ir 12a straipsnyje nurodytų atskiriems pertvarkytiniems subjektams taikomų sumų sumos ir Reglamento (ES) Nr. 575/2013 12a straipsnyje ir 45d straipsnio 4 dalies b punkte nurodytų sumų sumos skirtumui sumažinti arba panaikinti ir, kai tai tinkama ir atitinka pasaulinės sisteminės svarbos įstaigos pertvarkymo strategiją, susitaria dėl to. Patikslinimas gali būti taikomas laikantis šių sąlygų: 
+4. Jeigu pertvarkytini subjektai ar trečiųjų valstybių subjektai, kurie būtų pertvarkytini subjektai, jeigu jie būtų įsteigti ES, yra keli tai pačiai pasaulinės sisteminės svarbos įstaigai priklausantys pasaulinės sisteminės svarbos įstaigos subjektai, šio straipsnio 1 dalyje nurodytos pertvarkymo institucijos aptaria Reglamento (ES) Nr. 575/2013 72e straipsnio taikymą ir bet kokį patikslinimą šio įstatymo 261 straipsnio 4 dalies 1 punkte ir Reglamento (ES) Nr. 575/2013 12a straipsnio a punkte nurodytų atskiriems pertvarkytiniems subjektams ar trečiųjų valstybių subjektams taikomų sumų sumos ir šio įstatymo 261 straipsnio 4 dalies 2 punkte ir Reglamento (ES) Nr. 575/2013 12a straipsnio b punkte nurodytiems pertvarkytiniems subjektams taikomų sumų sumos skirtumui sumažinti arba panaikinti ir, kai tai tinkama ir atitinka pasaulinės sisteminės svarbos įstaigos pertvarkymo strategiją, susitaria dėl to. Patikslinimas gali būti taikomas laikantis šių sąlygų:
 
 
-1) patikslinimas gali būti taikomas atitinkamų valstybių narių apskaičiuotų sumų skirtumams, siekiant patikslinti reikalavimo lygį, sumažinti ar pašalinti;
-
-
-
-
-2) patikslinimas netaikomas skirtumui, atsirandančiam dėl pertvarkytinų grupių tarpusavio pozicijų, pašalinti.
+1) patikslinimas gali būti taikomas atitinkamų valstybių narių arba trečiųjų valstybių apskaičiuotų sumų skirtumams, siekiant patikslinti reikalavimo lygį, sumažinti arba pašalinti;
 
 
 
 
+2) patikslinimas netaikomas skirtumui, atsirandančiam dėl pertvarkytinų grupių tarpusavio pozicijų, pašalinti. 
 
 
-5. Šio įstatymo 261 straipsnio 4 dalies 1 punkte ir Reglamento (ES) Nr. 575/2013 12a straipsnyje nurodytoms pertvarkytinoms įstaigoms taikomų sumų suma turi būti ne mažesnė negu šio įstatymo 261 straipsnio 4 dalies 2 punkte ir Reglamento (ES) Nr. 575/2013 12a straipsnyje nurodytų sumų suma.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
+ 
+
+
+
+
+5. Šio įstatymo 261 straipsnio 4 dalies 1 punkte ir Reglamento (ES) Nr. 575/2013 12a straipsnio a punkte nurodytoms pertvarkytinoms įstaigoms arba trečiųjų valstybių subjektams, kurie būtų pertvarkytini subjektai, jeigu jie būtų įsteigti ES, taikomų sumų suma turi būti ne mažesnė negu šio įstatymo 261 straipsnio 4 dalies 2 punkte ir Reglamento (ES) Nr. 575/2013 12a straipsnio b punkte nurodytiems pertvarkytiniems subjektams taikomų sumų suma.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
+ 
 
 
 
@@ -8564,10 +8573,16 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
  
 
 
-116 straipsnis. Šio įstatymo ir Reglamento (ES) 2021/23 pažeidimus nagrinėjančios institucijos
+116 straipsnis. Šio įstatymo, Reglamento (ES) Nr. 806/2014 ir Reglamento (ES) 2021/23 pažeidimus nagrinėjančios institucijos 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
+ 
 
 
-1. Šio įstatymo ir Reglamento (ES) 2021/23 pažeidimus tiria ir šiame įstatyme nustatytas poveikio priemones už juos taiko priežiūros, pertvarkymo ir pagrindinių sandorio šalių pertvarkymo institucijos (toliau šiame skyriuje kartu – priežiūros ir pertvarkymo institucijos). 
+1. Šio įstatymo, Reglamento (ES) Nr. 806/2014 ir Reglamento (ES) 2021/23 pažeidimus tiria ir šiame įstatyme nustatytas poveikio priemones už juos taiko priežiūros, pertvarkymo ir pagrindinių sandorio šalių pertvarkymo institucijos (toliau šiame skyriuje kartu – priežiūros ir pertvarkymo institucijos). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
+ 
 
 
 
@@ -8577,7 +8592,10 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-3. Pertvarkymo institucija tiria šio įstatymo 118 straipsnio 2 dalies 4 ir 9 punktuose nurodytus pažeidimus ir taiko poveikio priemones.
+3. Pertvarkymo institucija tiria šio įstatymo 118 straipsnio 2 dalies 4, 9 ir 10 punktuose nurodytus pažeidimus ir taiko poveikio priemones.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
+ 
 
 
 
@@ -8623,7 +8641,10 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 117 straipsnis. Teisė reikalauti pateikti informaciją ir teisė atlikti patikrinimus
 
 
-1. Priežiūros ir pertvarkymo institucijos turi teisę reikalauti, kad įstaigos, šio įstatymo 1 straipsnio 2 dalies 4 ir 5 punktuose nurodyti subjektai, taip pat pagrindinės sandorio šalys ir kiti Reglamente (ES) 2021/23 nurodyti subjektai joms teiktų visą informaciją, reikalingą šio įstatymo arba Reglamento (ES) 2021/23 pažeidimams tirti.
+1. Priežiūros ir pertvarkymo institucijos turi teisę reikalauti, kad įstaigos, šio įstatymo 1 straipsnio 2 dalies 4 ir 5 punktuose nurodyti subjektai, taip pat pagrindinės sandorio šalys ir kiti Reglamente (ES) 2021/23 nurodyti subjektai joms teiktų visą informaciją, reikalingą šio įstatymo, Reglamento (ES) Nr. 806/2014 arba Reglamento (ES) 2021/23 pažeidimams tirti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
+ 
 
 
 
@@ -8633,7 +8654,9 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-3. Priežiūros ir pertvarkymo institucijos turi teisę atlikti šio įstatymo arba Reglamento (ES) 2021/23 pažeidimams tirti reikalingus su šio straipsnio 1 dalyje nurodytais asmenimis susijusius patikrinimus. Patikrinimų atlikimą reglamentuoja Lietuvos banko įstatymas.
+3. Priežiūros ir pertvarkymo institucijos turi teisę atlikti šio įstatymo, Reglamento (ES) Nr. 806/2014 arba Reglamento (ES) 2021/23 pažeidimams tirti reikalingus su šio straipsnio 1 dalyje nurodytais asmenimis susijusius patikrinimus. Patikrinimų atlikimą reglamentuoja Lietuvos banko įstatymas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
  
 
 
@@ -8647,12 +8670,18 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 1. Priežiūros ir pertvarkymo institucijos turi teisę asmenims taikyti šias poveikio priemones:
 
 
-1) viešai paskelbti apie šio įstatymo, jo įgyvendinamojo teisės akto arba Reglamento (ES) 2021/23 pažeidimą ir jį padariusį asmenį;
+1) viešai paskelbti apie šio įstatymo, jo įgyvendinamojo teisės akto, Reglamento (ES) Nr. 806/2014 arba Reglamento (ES) 2021/23 pažeidimą ir jį padariusį asmenį; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
+ 
 
 
 
 
-2) įspėti dėl šio įstatymo, jo įgyvendinamojo teisės akto arba Reglamento (ES) 2021/23 pažeidimo ir nurodyti per nustatytą terminą nutraukti teisės akto pažeidimą ir užtikrinti, kad jis nesikartotų;
+2) įspėti dėl šio įstatymo, jo įgyvendinamojo teisės akto, Reglamento (ES) Nr. 806/2014 arba Reglamento (ES) 2021/23 pažeidimo, nurodyti per nustatytą terminą nutraukti teisės akto pažeidimą ir užtikrinti, kad jis nesikartotų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
+ 
 
 
 
@@ -8712,7 +8741,18 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-9) pažeidžiamos kitos šio įstatymo ar jo įgyvendinamojo teisės akto nuostatos.
+9) pažeidžiami Reglamente (ES) Nr. 806/2014 nustatyti reikalavimai; 
+Papildyta straipsnio punktu:
+Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
+ 
+
+
+
+
+10) pažeidžiamos kitos šio įstatymo ar jo įgyvendinamojo teisės akto nuostatos.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
+ 
 
 
 
@@ -9634,12 +9674,18 @@ priedas
 
 
 
-2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/879.
+2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2022 m. spalio 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2022/2036. 
+Punkto pakeitimai:
+Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
+ 
 
 
 
 
-3. 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010.
+3. 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010, su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/23.
+Punkto pakeitimai:
+Nr. XIV-2711, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11234
+ 
 
 
 
