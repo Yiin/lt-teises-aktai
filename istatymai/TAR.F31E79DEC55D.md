@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-11-01
+Suvestinė redakcija nuo 2024-11-02 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -3242,11 +3242,12 @@ Nr. XIV-2522, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06309
 
 
 
-24. Kai rengiamas šio straipsnio 1 dalies 1–5 punktuose nurodytas statinio projektas ir šio įstatymo nustatyta tvarka privaloma gauti statybą leidžiantį dokumentą, statinio projektas rengiamas dviem etapais: pirma rengiami projektiniai pasiūlymai, pagal kuriuos išduodamas statybą leidžiantis dokumentas, vėliau – techninis darbo projektas. Kai rengiamas šio straipsnio 1 dalies 6–13 punktuose nurodytas statinio projektas ar kai statybą leidžiantis dokumentas neprivalomas, statinio projektą galima rengti vienu etapu, kuris atitinka abu statinio projekto rengimo etapus ir šiems etapams taikomus reikalavimus. Jeigu statinio projektas rengiamas vienu etapu, kartu su prašymu išduoti statybą leidžiantį dokumentą, pranešant apie statybos pradžią arba atliekant statybos užbaigimo procedūras pateikiamas šio straipsnio 1 dalies 6–13 punktuose nurodytas statinio projektas ar aprašas. Statinio projekto ir jo rengimo etapų sudėtį nustato aplinkos ministras.
+24. Kai rengiamas šio straipsnio 1 dalies 1–4 punktuose nurodytas statinio projektas ir šio įstatymo nustatyta tvarka privaloma gauti statybą leidžiantį dokumentą, statinio projektas rengiamas dviem etapais: pirma rengiami projektiniai pasiūlymai, pagal kuriuos išduodamas statybą leidžiantis dokumentas, vėliau – techninis darbo projektas. Kai rengiamas šio straipsnio 1  dalies 5–13 punktuose nurodytas statinio projektas ar kai statybą leidžiantis dokumentas neprivalomas, statinio projektą galima rengti vienu etapu, kuris atitinka abu statinio projekto rengimo etapus ir šiems etapams taikomus reikalavimus. Jeigu statinio projektas rengiamas vienu etapu, kartu su prašymu išduoti statybą leidžiantį dokumentą, pranešant apie statybos pradžią arba atliekant statybos užbaigimo procedūras, pateikiamas šio straipsnio 1 dalies 5–13 punktuose nurodytas statinio projektas ar aprašas. Statinio projekto ir jo rengimo etapų sudėtį nustato aplinkos ministras.
 Papildyta straipsnio dalimi:
 Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 Straipsnio dalies pakeitimai:
 Nr. XIV-2522, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06309
+Nr. XIV-2994, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17764
  
 
 
@@ -3280,9 +3281,6 @@ Nr. XIV-1066, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09675
 
 
 6. Savivaldybės administracija, gavusi šio straipsnio 4 dalyje nurodytus duomenis, per 3 darbo dienas pateikia aplinkos ministro patvirtintos formos paraiškas: 
- 
- 
- 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
@@ -4711,11 +4709,12 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-3. Deklaracija apie statybos užbaigimą surašoma, statinio projekto (jo dalies) ekspertizės rangovas arba statinio (jo dalies) ekspertizės rangovas tvirtina deklaraciją apie statybos užbaigimą ir ši deklaracija Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ registruojama užbaigus kitus, negu nurodyti šio straipsnio 2 dalyje, statybos darbus, kuriems buvo išduoti šio įstatymo 27 straipsnio 1 dalies 1–7 punktuose nurodyti statybą leidžiantys dokumentai, išskyrus šio įstatymo 27 straipsnio 1 dalies 5 punkte nurodytus branduolinės energetikos objekto statinių paprastojo remonto ir aplinkos ministro nustatytus atvejus, arba kai pagal šio įstatymo 27 straipsnio 11 dalies 1–7 punktus privaloma pranešti apie statybos pradžią.
+3. Deklaracija apie statybos užbaigimą surašoma, statinio projekto (jo dalies) ekspertizės rangovas arba statinio (jo dalies) ekspertizės rangovas tvirtina deklaraciją apie statybos užbaigimą ir ši deklaracija Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ registruojama užbaigus kitus, negu nurodyti šio straipsnio 2 dalyje, statybos darbus, kuriems buvo išduoti šio įstatymo 27 straipsnio 1 dalies 1–7 punktuose nurodyti statybą leidžiantys dokumentai, išskyrus šio įstatymo 27 straipsnio 1 dalies 5 punkte nurodytus branduolinės energetikos objekto statinių paprastojo remonto ir aplinkos ministro nustatytus atvejus.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 Nr. XIV-2522, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06309
+Nr. XIV-2994, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17764
  
 
 
@@ -6772,15 +6771,6 @@ statybos įstatymo
 ĮMOKOS UŽ SAVAVALIŠKOS STATYBOS ĮTEISINIMĄ IR ĮMOKOS UŽ NEPRANEŠIMĄ APIE STATYBOS PRADŽIĄ MOKĖJIMO PRINCIPAI 
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Pakeistas priedo pavadinimas:
 Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
  
@@ -6795,9 +6785,9 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 2. Įmokos už savavališkos statybos įteisinimą (toliau – įmoka) dydis kinta atsižvelgiant į savavališkai atliktų statybos darbų, įskaitant panaudotus statybos produktus, sąnaudų vertę. Įmoka negali viršyti 300 000 eurų ir 70 procentų savavališkai atliktų statybos darbų sąnaudų vertės (V). Įmokos dydis apskaičiuojamas pagal formulę Į = x+y+V2/200 000 Eur, čia: 
- 
 Punkto pakeitimai:
 Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+Nr. XIV-2994, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17764
 
 
 1) Į – įmokos dydis;
@@ -6826,9 +6816,9 @@ Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 
 
 3. Kai savavališkos statybos darbai, dėl kurių nesurašytas savavališkos statybos aktas, įteisinti išduodant statybą leidžiantį dokumentą ir (ar) pranešus apie statybos pradžią ir šią aplinkybę Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos nustato, mokėtinos įmokos dydis apskaičiuojamas pagal formulę Į = x+y+V2/200 000 Eur * a / b, čia: 
- 
 Punkto pakeitimai:
 Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+Nr. XIV-2994, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17764
 
 
 1) Į – įmokos dydis;
