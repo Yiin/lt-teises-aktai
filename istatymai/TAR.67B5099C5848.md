@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-11-06
+Suvestinė redakcija nuo 2024-11-07
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -6453,9 +6453,6 @@ PRAŠYMŲ DĖL PROCESO ATNAUJINIMO PADAVIMAS
 
 
 1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismo sprendimas byloje prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir jos papildomiems protokolams, arba kai Jungtinių Tautų Žmogaus teisių komitetas pripažįsta, kad Lietuvos Respublikos teismo sprendimu pažeista Tarptautiniame pilietinių ir politinių teisių pakte nustatyta asmens teisė;
-Straipsnio punkto pakeitimai:
-Nr. XIII-3221, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15516
- 
 
 
 
@@ -6516,11 +6513,12 @@ Nr. XIII-3221, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15516
 
 
 13) Konstitucinis Teismas, nagrinėdamas Konstitucijos 106 straipsnio ketvirtojoje dalyje nurodyto asmens prašymą, pripažįsta, kad įstatymas ar kitas Seimo priimtas aktas, Respublikos Prezidento aktas ar Vyriausybės aktas (ar jų dalis), kurio (kurios) pagrindu priimtas asmens konstitucines teises ar laisves pažeidžiantis sprendimas, prieštarauja Konstitucijai.
-Papildyta straipsnio punktu:
-Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos administracinių bylų teisenos įstatymo (2016 m. birželio 2 d. redakcija, TAR, 2016-06-15, Nr. 16849) 156 straipsnio 2 dalis (su 2020 m. birželio 30 d. pakeitimu, TAR, 2020-07-10, Nr. 15516) tiek, kiek joje nenustatyta galimybė atnaujinti bylos, užbaigtos įsiteisėjusiu teismo sprendimu ar nutartimi, proceso, kai byla išnagrinėta nesant nors vieno iš proceso dalyvių, kuriam nepranešta apie teismo posėdį ir nebėra galimybės apskųsti tokio sprendimo (nutarties), prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, 109 straipsnio 1 daliai, konstituciniams teisinės valstybės, teisingumo principams.
+
+
+Straipsnio dalies pakeitimai:
+Nr. KT85-N13/2024, 2024-11-07, paskelbta TAR 2024-11-07, i. k. 2024-19451
  
-
-
 
 
 
@@ -7203,3 +7201,8 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 13,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2248, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22978
 Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 17 ir 110 straipsnių pakeitimo įstatymas
+ 
+37.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT85-N13/2024, 2024-11-07, paskelbta TAR 2024-11-07, i. k. 2024-19451
+Dėl Lietuvos Respublikos administracinių bylų teisenos įstatymo 156 straipsnio 2 dalies (su 2020 m. birželio 30 d. pakeitimu) atitikties Lietuvos Respublikos Konstitucijai
