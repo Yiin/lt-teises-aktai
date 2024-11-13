@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/10fb2930715211e484b9c12b550436a3"
 
 # Lietuvos Respublikos įstatymas dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-11-12
+Suvestinė redakcija nuo 2024-11-13
  
 Įstatymas paskelbtas: TAR 2014-11-21, i. k. 2014-17299
  
@@ -428,7 +428,10 @@ SPRENDIMŲ DĖL LAISVĖS ATĖMIMO BAUSMĖS PRIPAŽINIMAS IR VYKDYMAS LIETUVOS RE
 2. Lietuvos Respublika gali pripažinti ir vykdyti kitoje Europos Sąjungos valstybėje narėje priimtą sprendimą dėl laisvės atėmimo bausmės ir kitais atvejais, negu numatyta šio straipsnio 1 dalyje, kai yra visos šios sąlygos:
 
 
-1) nuteistasis yra Lietuvos Respublikos pilietis arba nuolat Lietuvos Respublikoje gyvenantis asmuo; 
+1) nuteistasis yra Lietuvos Respublikos pilietis arba užsienietis, turintis teisę būti ar gyventi Lietuvos Respublikoje;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3064, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19690
+ 
 
 
 
@@ -1062,7 +1065,10 @@ Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
 17 straipsnis. Sprendimo dėl laisvės atėmimo bausmės pripažinimo Lietuvos Respublikoje ypatumai, susiję su Europos arešto orderio vykdymu
 
 
-1. Vilniaus apygardos teismas, nusprendęs Lietuvos Respublikos baudžiamojo kodekso 91 straipsnio 4 dalies 3 punkte nurodytu pagrindu atsisakyti perduoti Lietuvos Respublikos pilietį arba nuolat Lietuvos Respublikoje gyvenantį asmenį Europos arešto orderį išdavusiai Europos Sąjungos valstybei narei ir Lietuvos Respublikai perimti šios bausmės vykdymą, nutartimi šio įstatymo 9 straipsnyje nustatyta tvarka suderina sprendimu dėl laisvės atėmimo bausmės paskirtą bausmę su Lietuvos Respublikos baudžiamuosiuose įstatymuose nustatytais reikalavimais. 
+1. Vilniaus apygardos teismas, nusprendęs Lietuvos Respublikos baudžiamojo kodekso 91  straipsnio 4 dalies 3 punkte nurodytu pagrindu atsisakyti perduoti Lietuvos Respublikos pilietį arba užsienietį, turintį teisę būti ar gyventi Lietuvos Respublikoje, Europos arešto orderį išdavusiai Europos Sąjungos valstybei narei ir kad Lietuvos Respublika perima šios bausmės vykdymą, nutartimi šio įstatymo 9 straipsnyje nustatyta tvarka suderina sprendimu dėl laisvės atėmimo bausmės paskirtą bausmę su Lietuvos Respublikos baudžiamuosiuose įstatymuose nustatytais reikalavimais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3064, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19690
+ 
 
 
 
@@ -4511,7 +4517,10 @@ priedas
 
 
 
-7. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/41/ES dėl Europos tyrimo orderio baudžiamosiose bylose.
+7. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/41/ES dėl Europos tyrimo orderio baudžiamosiose bylose su paskutiniais pakeitimais, padarytais 2022 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/228.
+Punkto pakeitimai:
+Nr. XIV-3064, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19690
+ 
 
 
 
@@ -4576,3 +4585,8 @@ Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių spren
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
 Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Nr. XII-1322 2, 3, 4, 5, 6, 7, 9, 11, 12, 14, 16, 17, 20, 21, 22, 23, 24, 30, 33, 37, 38, 39, 55 ir 87 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3064, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19690
+Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Nr. XII-1322 3 ir 17 straipsnių, priedo pakeitimo įstatymas
