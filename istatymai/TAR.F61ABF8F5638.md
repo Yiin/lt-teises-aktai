@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS ŠIAULIŲ LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2024-11-14
+Suvestinė redakcija nuo 2024-11-15 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 164-7802, i. k. 1111010ISTA0XI-1909
  
@@ -42,7 +42,10 @@ Vilnius
 
 
 
-2. Zonos įsteigimo tikslas – padidinti Šiaulių rajono pramoninį patrauklumą ir sudaryti palankesnes sąlygas investicijoms pritraukti, aukštųjų technologijų vystymuisi ir naujų darbo vietų kūrimui.
+2. Zonos įsteigimo tikslas – padidinti Šiaulių regiono pramoninį patrauklumą ir sudaryti palankesnes sąlygas investicijoms pritraukti, aukštųjų technologijų vystymuisi ir naujų darbo vietų kūrimui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3085, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19838
+ 
 
 
 
@@ -133,7 +136,10 @@ Zonos teritorijos ribas nustato Lietuvos Respublikos Vyriausybė (toliau – Vyr
 
 
 
-2) zonos ūkinės komercinės ir finansinės veiklos naudos Šiaulių rajonui ir Lietuvos Respublikai pagrindimą ir priemonių, skatinančių vietinį verslą zonoje, planą;
+2) zonos ūkinės komercinės ir finansinės veiklos naudos Šiaulių regionui ir Lietuvos Respublikai pagrindimą ir priemonių, skatinančių vietinį verslą zonoje, planą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3085, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19838
+ 
 
 
 
@@ -485,3 +491,8 @@ Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-190
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-916, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21508
 Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 2 ir 4 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3085, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19838
+Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 1, 4 ir 6 straipsnių pakeitimo įstatymas
