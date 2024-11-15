@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7A984833333"
 
 # Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas
 
-Suvestinė redakcija nuo 2022-06-16 iki 2024-11-14
+Suvestinė redakcija nuo 2024-11-15 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-27, i. k. 1031010ISTA0IX-1905
  
@@ -134,7 +134,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-14. Geležinkelių posistemis – geležinkelių sistemos struktūrinė dalis, tai yra struktūrinis geležinkelių posistemis (geležinkelių infrastruktūros; energijos; geležinkelio kelio kontrolės, valdymo ir signalizacijos; geležinkelių riedmenų kontrolės, valdymo ir signalizacijos; geležinkelių riedmenų), arba funkcinė dalis, tai yra funkcinis geležinkelių posistemis (traukinių eismo organizavimo ir valdymo; geležinkelių techninės priežiūros; geležinkeliuose taikomų telematikos priemonių), kurių struktūrą tvirtina susisiekimo ministras. 
+14. Geležinkelių posistemis – geležinkelių sistemos struktūrinė dalis, tai yra struktūrinis geležinkelių posistemis (geležinkelių infrastruktūros; elektros energijos; geležinkelio kelio kontrolės, valdymo ir signalizacijos; geležinkelių riedmenų kontrolės, valdymo ir signalizacijos; geležinkelių riedmenų), arba funkcinė dalis, tai yra funkcinis geležinkelių posistemis (traukinių eismo organizavimo ir valdymo; geležinkelių techninės priežiūros; geležinkeliuose taikomų telematikos priemonių), kurių struktūrą tvirtina susisiekimo ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
 
@@ -339,7 +342,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-55. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos geležinkelių transporto kodekse, Lietuvos Respublikos atitikties įvertinimo įstatyme, Lietuvos Respublikos korupcijos prevencijos įstatyme, Lietuvos Respublikos standartizacijos įstatyme, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 765/2008, nustatančiame su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinančiame Reglamentą (EEB) Nr. 339/93, su visais pakeitimais, 2012 m. spalio 25 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1025/2012 dėl Europos standartizacijos, kuriuo iš dalies keičiamos Tarybos direktyvos 89/686/EEB ir 93/15/EEB ir Europos Parlamento ir Tarybos direktyvos 94/9/EB, 94/25/EB, 95/16/EB, 97/23/EB, 98/34/EB, 2004/22/EB, 2007/23/EB, 2009/23/EB ir 2009/105/EB ir panaikinamas Tarybos sprendimas 87/95/EEB ir Europos Parlamento ir Tarybos sprendimas Nr. 1673/2006/EB, su visais pakeitimais.
+55. Šiame įstatyme vartojama sąvoka „specialieji geležinkelių riedmenys“ suprantama taip, kaip yra nustatyta 2014 m. lapkričio 18 d. Komisijos reglamente (ES) Nr. 1302/2014 dėl Europos Sąjungos geležinkelių sistemos posistemio „Lokomotyvai ir keleiviniai riedmenys“ techninės sąveikos specifikacijos su visais pakeitimais priedo 2.2.2 punkto c papunktyje. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos geležinkelių transporto kodekse, Lietuvos Respublikos atitikties įvertinimo įstatyme, Lietuvos Respublikos korupcijos prevencijos įstatyme, Lietuvos Respublikos standartizacijos įstatyme, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 765/2008, nustatančiame su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinančiame Reglamentą (EEB) Nr. 339/93, su visais pakeitimais, 2012 m. spalio 25 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1025/2012 dėl Europos standartizacijos, kuriuo iš dalies keičiamos Tarybos direktyvos 89/686/EEB ir 93/15/EEB ir Europos Parlamento ir Tarybos direktyvos 94/9/EB, 94/25/EB, 95/16/EB, 97/23/EB, 98/34/EB, 2004/22/EB, 2007/23/EB, 2009/23/EB ir 2009/105/EB ir panaikinamas Tarybos sprendimas 87/95/EEB ir Europos Parlamento ir Tarybos sprendimas Nr. 1673/2006/EB, su visais pakeitimais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
  
 
 
@@ -466,9 +471,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Šio įstatymo 15 straipsnio 7 dalyje nustatyta tvarka paskirti geležinkelių riedmenų, naudojamų Lietuvos Respublikos geležinkelių tinkle, techniniai prižiūrėtojai, siekdami užtikrinti geležinkelių riedmenų saugų veikimą, parengia geležinkelių riedmenų techninės priežiūros sistemas ir jas taikydami atlieka šio įstatymo 15 straipsnio 9 dalyje nurodytus veiksmus. Geležinkelių riedmenų, naudojamų 1 435 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninės priežiūros sistemos turi atitikti Reglamento (ES) 2019/779 nustatytus reikalavimus. Geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninės priežiūros sistemos rengiamos susisiekimo ministro nustatyta tvarka. 
+5. Šio įstatymo 15 straipsnio 7 dalyje nustatyta tvarka paskirti geležinkelių riedmenų, naudojamų Lietuvos Respublikos geležinkelių tinkle ar jo dalyje, techniniai prižiūrėtojai, siekdami užtikrinti geležinkelių riedmenų saugų veikimą, parengia geležinkelių riedmenų techninės priežiūros sistemas ir jas taikydami atlieka šio įstatymo 15 straipsnio 9 dalyje nurodytus veiksmus. Geležinkelių riedmenų, naudojamų 1 435 mm pločio vėžės Lietuvos Respublikos geležinkelių tinklo dalyje, techninės priežiūros sistemos turi atitikti Įgyvendinimo reglamento (ES) 2019/779 nustatytus reikalavimus. Geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinklo dalyje, techninės priežiūros sistemos rengiamos susisiekimo ministro nustatyta tvarka arba pagal Įgyvendinimo reglamento (ES) 2019/779 nustatytus reikalavimus.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
  
 
 
@@ -513,7 +519,10 @@ Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
 
 
 
-4) TSS neapima visų taisyklių dėl reikalavimų darbuotojams, susijusiems su eismo sauga ar eismo saugos užduočių vykdymu (įskaitant atrankos kriterijus, fizinį ir psichologinį tinkamumą ir profesinį mokymą);
+4) Neteko galios nuo 2024-11-15
+Straipsnio punkto naikinimas:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
 
@@ -540,7 +549,9 @@ Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
 
 
 
-6. Eismo saugos institucija gali nuspręsti nepranešti apie vietinės reikšmės taisykles ir apribojimus. Tokiu atveju eismo saugos institucija informaciją apie šias taisykles ir apribojimus įtraukia į Agentūros tvarkomą geležinkelių infrastruktūros informacinę sistemą 2019 m. gegužės 16 d. Europos Komisijos įgyvendinimo reglamento (ES) 2019/777 dėl geležinkelių infrastruktūros registro bendrųjų specifikacijų, kuriuo panaikinamas įgyvendinimo sprendimas 2014/880/ES, nustatyta tvarka.
+6. Eismo saugos institucija praneša šio straipsnio 4 dalyje nustatyta tvarka apie 2019 m. gegužės 16 d. Europos Komisijos įgyvendinimo reglamento (ES) 2019/773 dėl Europos Sąjungos geležinkelių sistemos traukinių eismo organizavimo ir valdymo posistemio sąveikos techninės specifikacijos, kuriuo panaikinamas Sprendimas 2012/757/ES, su visais pakeitimais I priedėlyje apibrėžtas vietinio pobūdžio veiklos taisykles, nustatytas norminiu teisės aktu. Informaciją apie kitas Įgyvendinimo reglamento (ES) 2019/773 I priedėlyje apibrėžtas vietinio pobūdžio veiklos taisykles, susijusias su konkrečiomis vietos sąlygomis, viešosios geležinkelių infrastruktūros valdytojas įtraukia į Agentūros tvarkomą geležinkelių infrastruktūros informacinę sistemą 2019 m. gegužės 16 d. Europos Komisijos įgyvendinimo reglamento (ES) 2019/777 dėl geležinkelių infrastruktūros registro bendrųjų specifikacijų, kuriuo panaikinamas Įgyvendinimo sprendimas 2014/880/ES, su visais pakeitimais nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
  
 
 
@@ -754,7 +765,7 @@ Eismo SAUGOS Valstybinis Valdymas IR eismo saugos reikalavimų ĮGYVENDINIMAS
 
 
 
-12. Eismo saugos institucijos metinėje eismo saugos ataskaitoje taip pat nurodoma, kad:
+12. Eismo saugos institucijos metinėje eismo saugos ataskaitoje taip pat nurodomos už geležinkelių riedmenų techninę priežiūrą atsakingų asmenų sertifikavimo sistemos, nustatytos Įgyvendinimo reglamente (ES) 2019/779, išimtys ir jų pagrindimas, tai yra kad:
 
 
 1) Lietuvos Respublikoje netaikomas reikalavimas paskirti Lietuvos Respublikos geležinkelių tinkle naudojamų trečiosiose valstybėse įsteigtose organizacijose (asociacijose) įregistruotų prekinių ir keleivinių vagonų, kurių techninė priežiūra atliekama pagal tos organizacijos (asociacijos), kurioje registruoti šie geležinkelių riedmenys, dokumentus, techninį prižiūrėtoją, kaip tai numatyta šio įstatymo 15 straipsnio 8 dalyje;
@@ -762,18 +773,12 @@ Eismo SAUGOS Valstybinis Valdymas IR eismo saugos reikalavimų ĮGYVENDINIMAS
 
 
 
-2) asmenys, pageidaujantys atlikti geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės geležinkelių tinkle, techninę priežiūrą, turi gauti geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės geležinkelių tinkle, techninio prižiūrėtojo sertifikatą, kaip tai numatyta šio įstatymo  18 straipsnyje; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
+2) asmenys, pageidaujantys atlikti geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinklo dalyje, techninę priežiūrą, turi gauti geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinklo dalyje, techninio prižiūrėtojo sertifikatą arba Įgyvendinimo reglamento (ES) 2019/779 nustatyta tvarka išduotą už techninę priežiūrą atsakingo asmens sertifikatą (toliau – ECM sertifikatas), kaip tai numatyta šio įstatymo 18 straipsnyje.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
  
-
-
-
-
-3) už geležinkelių riedmenų techninę priežiūrą atsakingų asmenų sertifikavimo sistemos, nustatytos Reglamente (ES) 2019/779, išimtis, nurodytas šios dalies 1 ir 2 punktuose, leidžiama taikyti vadovaujantis Direktyvos (ES) 2016/798 15 straipsnio 1 dalies b ir c punktais.
- 
-
-
 
 
 
@@ -788,7 +793,9 @@ Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
 
 
 
-2. Elektroninės formos bendrąjį saugos sertifikatą išduoda, atnaujina, papildo, pakeičia, laikinai apriboja, sustabdo, panaikina jo sustabdymą arba galiojimą:
+2. Elektroninės formos bendrąjį saugos sertifikatą išduoda, atnaujina, papildo, pakeičia, laikinai apriboja, sustabdo, apriboja, panaikina jo laikiną apribojimą, sustabdymą arba galiojimą: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 
 1) Agentūra šio straipsnio 1 dalyje nurodytiems asmenims, jeigu jų veiklos vieta yra tik Lietuvos Respublikoje arba Lietuvos Respublikoje ir kitoje Europos Sąjungos valstybėje (valstybėse) narėje (narėse); bendrasis saugos sertifikatas išduodamas 2018 m. balandžio 9 d. Europos Komisijos įgyvendinimo reglamento (ES) 2018/763, kuriuo pagal Europos Parlamento ir Tarybos direktyvą (ES) 2016/798 nustatomos bendrų saugos sertifikatų išdavimo geležinkelio įmonėms praktinės taisyklės ir panaikinamas Europos Komisijos reglamentas (EB) Nr. 653/2007, su paskutiniais pakeitimais, padarytais 2020 m. birželio 12 d. Komisijos įgyvendinimo reglamentu (ES) 2020/777, nustatyta tvarka;
@@ -858,7 +865,10 @@ Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
 
 
 
-12. Jeigu bendrajame saugos sertifikate nurodyta veiklos vieta yra Europos Sąjungos valstybė (valstybės) narė (narės), kurios (kurių) 1 520 mm pločio vėžės geležinkelių tinklui taikomi tokie patys techniniai ir eksploataciniai reikalavimai kaip ir Lietuvos Respublikos 1 520 mm pločio vėžės geležinkelių tinklui, šis bendrasis saugos sertifikatas galioja Agentūrai jo nepapildžius dėl veiklos vietos išplėtimo Lietuvos Respublikoje eismo saugos institucijos, kitų susijusių Europos Sąjungos valstybių narių eismo saugos institucijų ir Agentūros daugiašaliame susitarime, kuris skelbiamas eismo saugos institucijos interneto svetainėje, numatytomis sąlygomis.
+12. Jeigu bendrajame saugos sertifikate nurodyta veiklos vieta yra Europos Sąjungos valstybė (valstybės) narė (narės), kurios (kurių) 1 520 mm pločio vėžės geležinkelių tinklui taikomi tokie patys techniniai ir eksploataciniai reikalavimai kaip ir 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinklo daliai, šis bendrasis saugos sertifikatas galioja Agentūrai jo nepapildžius dėl veiklos vietos išplėtimo Lietuvos Respublikoje eismo saugos institucijos, kitų susijusių Europos Sąjungos valstybių narių eismo saugos institucijų ir Agentūros daugiašaliame susitarime, kuris skelbiamas eismo saugos institucijos interneto svetainėje, numatytomis sąlygomis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
 
@@ -1293,7 +1303,10 @@ eismo saugos ir geležinkelių SISTEMOS sąveikumo reikalavimai
 
 
 
-13. Europos Sąjungos valstybėse narėse, kurių 1 520 mm pločio vėžės geležinkelių tinklui taikomi tokie patys techniniai ir eksploataciniai reikalavimai kaip ir Lietuvos Respublikos 1 520 mm pločio vėžės geležinkelių tinklui, nacionalinės eismo saugos institucijos išduotas leidimas pateikti rinkai geležinkelių riedmenis (geležinkelių riedmenų seriją), leidimas pateikti rinkai patvirtintą geležinkelių riedmenų tipą atitinkančius geležinkelių riedmenis (geležinkelių riedmenų seriją) galioja Lietuvos Respublikoje eismo saugos institucijos, kitų susijusių Europos Sąjungos valstybių narių eismo saugos institucijų ir Agentūros daugiašaliame susitarime, kuris skelbiamas eismo saugos institucijos interneto svetainėje, numatytomis sąlygomis. 
+13. Europos Sąjungos valstybėse narėse, kurių 1 520 mm pločio vėžės geležinkelių tinklui taikomi tokie patys techniniai ir eksploataciniai reikalavimai kaip ir 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinklo daliai, nacionalinės eismo saugos institucijos išduotas leidimas pateikti rinkai geležinkelių riedmenis (geležinkelių riedmenų seriją), leidimas pateikti rinkai patvirtintą geležinkelių riedmenų tipą atitinkančius geležinkelių riedmenis (geležinkelių riedmenų seriją) galioja Lietuvos Respublikoje eismo saugos institucijos, kitų susijusių Europos Sąjungos valstybių narių eismo saugos institucijų ir Agentūros daugiašaliame susitarime, kuris skelbiamas eismo saugos institucijos interneto svetainėje, numatytomis sąlygomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
 
@@ -1306,9 +1319,20 @@ eismo saugos ir geležinkelių SISTEMOS sąveikumo reikalavimai
 
 
 
-2) visiems privažiuojamiesiems geležinkelio keliams, kurie nepriskirtini viešajai geležinkelių infrastruktūrai ir kuriuos jų savininkas arba naudotojas naudoja tik savo reikmėms, ir tik juose naudojamiems geležinkelių riedmenims.
+2) Neteko galios nuo 2024-11-15
+Straipsnio punkto naikinimas:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
+
+
+
+
+141. Šio straipsnio 5 ir 6 dalių nuostatos netaikomos visiems privažiuojamiesiems geležinkelio keliams, kurie nepriskirtini viešajai geležinkelių infrastruktūrai ir kuriuos jų savininkas arba naudotojas naudoja tik savo reikmėms, ir tik juose naudojamiems geležinkelių riedmenims.
+Papildyta straipsnio dalimi:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
 
@@ -1381,7 +1405,10 @@ Fiziniams asmenims draudžiama vaikščioti, važinėti geležinkelio keliais ir
 14 straipsnis. Geležinkelių infrastruktūros reikalavimai
 
 
-1. Geležinkelių infrastruktūrą valdo, naudoja ir jos priežiūrą atlieka geležinkelių infrastruktūros valdytojai šio įstatymo, Lietuvos Respublikos statybos įstatymo, Geležinkelių transporto kodekso, TSS, kitų teisės aktų, reglamentuojančių geležinkelio statinių naudojimo ir techninės priežiūros reikalavimus, nustatyta tvarka ir taikydami savo eismo saugos valdymo sistemas. Geležinkelių infrastruktūros valdytojai įtraukia duomenis apie geležinkelių infrastruktūrą į Agentūros tvarkomą informacinę sistemą Reglamento (ES) 2019/777 nustatyta tvarka.
+1. Geležinkelių infrastruktūrą valdo, naudoja ir jos priežiūrą atlieka geležinkelių infrastruktūros valdytojai šio įstatymo, Lietuvos Respublikos statybos įstatymo, Geležinkelių transporto kodekso, TSS, kitų teisės aktų, reglamentuojančių geležinkelio statinių naudojimo ir techninės priežiūros reikalavimus, nustatyta tvarka ir taikydami savo eismo saugos valdymo sistemas. Geležinkelių infrastruktūros valdytojai įtraukia duomenis apie geležinkelių infrastruktūrą į Agentūros tvarkomą informacinę sistemą Įgyvendinimo reglamento (ES) 2019/777 nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
 
@@ -1490,7 +1517,10 @@ Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
 
 
 
-12. Lietuvos Respublikoje galioja bet kurioje Europos Sąjungos valstybėje narėje Reglamento (ES) 2019/779 nustatyta tvarka išduotas už techninę priežiūrą atsakingo asmens sertifikatas (toliau – ECM sertifikatas).
+12. Lietuvos Respublikoje galioja bet kurioje Europos Sąjungos valstybėje narėje Įgyvendinimo reglamento (ES) 2019/779 nustatyta tvarka išduotas ECM sertifikatas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
 
@@ -1531,10 +1561,16 @@ REIKALAVIMAI ASMENIMS, PAGEIDAUJANTIEMS VYKDYTI VEIKLĄ AR DIRBTI DARBĄ, GALIN�
  
 
 
-17 straipsnis. Geležinkelių riedmenų, naudojamų 1 435 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninių prižiūrėtojų sertifikavimas 
+17 straipsnis. Geležinkelių riedmenų, naudojamų 1 435 mm pločio vėžės Lietuvos Respublikos geležinkelių tinklo dalyje, techninių prižiūrėtojų sertifikavimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
-1. Asmenys, pageidaujantys atlikti geležinkelių riedmenų, naudojamų 1 435 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle (toliau šiame straipsnyje – geležinkelių riedmenys), techninę priežiūrą, turi gauti elektroninės formos ECM sertifikatą, kuris patvirtina, kad šio sertifikato turėtojas parengė geležinkelių riedmenų techninės priežiūros sistemą, vadovaudamasis šio įstatymo 4 straipsnio 5 dalyje nustatytais reikalavimais. Eismo saugos institucija, vadovaudamasi nepriklausomumo, kompetencijos, nešališkumo principais, ECM sertifikatą išduoda 5 metams. ECM sertifikatas gali būti atnaujintas eismo saugos institucijos sprendimu, pateikus jai atitinkamą prašymą.
+1. Asmenys, pageidaujantys atlikti geležinkelių riedmenų, naudojamų 1 435 mm pločio vėžės Lietuvos Respublikos geležinkelių tinklo dalyje (toliau šiame straipsnyje – geležinkelių riedmenys), techninę priežiūrą, turi gauti elektroninės formos ECM sertifikatą, kuriuo patvirtinama, kad šio sertifikato turėtojas parengė geležinkelių riedmenų techninės priežiūros sistemą, vadovaudamasis šio įstatymo 4 straipsnio 5 dalyje nustatytais reikalavimais. Eismo saugos institucija, vadovaudamasi nepriklausomumo, kompetencijos, nešališkumo principais, ECM sertifikatą išduoda 5 metams. ECM sertifikatas gali būti atnaujintas eismo saugos institucijos sprendimu, pateikus jai atitinkamą prašymą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
 
@@ -1544,12 +1580,18 @@ REIKALAVIMAI ASMENIMS, PAGEIDAUJANTIEMS VYKDYTI VEIKLĄ AR DIRBTI DARBĄ, GALIN�
 
 
 
-3. Jeigu prekinių vagonų techninę priežiūrą pageidauja atlikti geležinkelių infrastruktūros valdytojas ar geležinkelio įmonė (vežėjas), geležinkelių infrastruktūros valdytojo ar geležinkelio įmonės (vežėjo) atitiktis šio įstatymo 4 straipsnio 5 dalyje nustatytiems reikalavimams patikrinama išduodant geležinkelių infrastruktūros valdytojams saugos leidimus, o geležinkelio įmonėms (vežėjams) – bendruosius saugos sertifikatus.
+3. Geležinkelių infrastruktūros valdytojų ir geležinkelio įmonių (vežėjų), kurie siekia atlikti tik savo veikloje naudojamų geležinkelių riedmenų (išskyrus prekinius vagonus), tai yra geležinkelių riedmenų, kuriais nesinaudoja joks kitas geležinkelių infrastruktūros valdytojas ir jokia kita geležinkelio įmonė (vežėjas), techninę priežiūrą, atitiktis šio įstatymo 4 straipsnio 5 dalyje nustatytiems reikalavimams patikrinama išduodant geležinkelių infrastruktūros valdytojams saugos leidimus, o geležinkelio įmonėms (vežėjams) – bendruosius saugos sertifikatus arba savanoriškai pateikus prašymą gauti ECM sertifikatą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
 
 
-4. Asmenys, pageidaujantys gauti ECM sertifikatą, susisiekimo ministro nustatyta tvarka pateikia eismo saugos institucijai Reglamente (ES) 2019/779 nustatytos formos prašymą išduoti ECM sertifikatą ir dokumentus, kuriais įrodoma, kad geležinkelių riedmenų techninės priežiūros sistema yra parengta vadovaujantis šio įstatymo 4 straipsnio 5 dalyje nustatytais reikalavimais.
+4. Asmenys, pageidaujantys gauti ECM sertifikatą, susisiekimo ministro nustatyta tvarka pateikia eismo saugos institucijai Įgyvendinimo reglamente (ES) 2019/779 nustatytos formos prašymą išduoti ECM sertifikatą ir dokumentus, kuriais įrodoma, kad geležinkelių riedmenų techninės priežiūros sistema yra parengta vadovaujantis šio įstatymo 4 straipsnio 5 dalyje nustatytais reikalavimais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
 
@@ -1582,7 +1624,10 @@ REIKALAVIMAI ASMENIMS, PAGEIDAUJANTIEMS VYKDYTI VEIKLĄ AR DIRBTI DARBĄ, GALIN�
 
 
 
-3) prižiūrėti ir koordinuoti kitų asmenų veiksmus, jeigu jie atlieka techninės priežiūros plėtojimo, riedmenų parko techninės priežiūros valdymo ar techninės priežiūros vykdymo funkcijas pagal sutartį, sudarytą su asmeniu, įgijusiu ECM sertifikatą; asmenys, įgiję ECM sertifikatą, visais atvejais atsako už tai, kad šių funkcijų atlikimas atitiktų Reglamente (ES) 2019/799 nustatytus reikalavimus; 
+3) prižiūrėti ir koordinuoti kitų asmenų veiksmus, jeigu jie atlieka techninės priežiūros plėtojimo, riedmenų parko techninės priežiūros valdymo ar techninės priežiūros vykdymo funkcijas pagal sutartį, sudarytą su asmeniu, įgijusiu ECM sertifikatą; asmenys, įgiję ECM sertifikatą, visais atvejais atsako už tai, kad šių funkcijų atlikimas atitiktų Įgyvendinimo reglamente (ES) 2019/779 nustatytus reikalavimus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
 
@@ -1607,7 +1652,10 @@ REIKALAVIMAI ASMENIMS, PAGEIDAUJANTIEMS VYKDYTI VEIKLĄ AR DIRBTI DARBĄ, GALIN�
 
 
 
-8) vykdyti Reglamento (ES) 2019/779 4, 5 ir 9 straipsniuose nurodytas informavimo pareigas.
+8) vykdyti Įgyvendinimo reglamento (ES) 2019/779 4, 5 ir 9 straipsniuose nurodytas informavimo pareigas. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
 
@@ -1669,12 +1717,18 @@ REIKALAVIMAI ASMENIMS, PAGEIDAUJANTIEMS VYKDYTI VEIKLĄ AR DIRBTI DARBĄ, GALIN�
 
 
 
-16. Techninis prižiūrėtojas, įgijęs ECM sertifikatą, likus 20 darbo dienų iki šio straipsnio  9 dalyje nurodyto patikrinimo pateikia eismo saugos institucijai ir Agentūrai, jai paprašius, Reglamente (ES) 2019/779 nustatyto turinio praėjusių metų veiklos ataskaitą.
+16. Techninis prižiūrėtojas, įgijęs ECM sertifikatą, likus 20 darbo dienų iki šio straipsnio 9 dalyje nurodyto patikrinimo pateikia eismo saugos institucijai ir Agentūrai jos prašymu Įgyvendinimo reglamente (ES) 2019/779 nustatyto turinio praėjusių metų veiklos ataskaitą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
 
 
-17. Eismo saugos institucija savo interneto svetainėje viešai skelbia asmens, kuriam išduotas ECM sertifikatas, vardą (vardus), pavardę (pavardes), jeigu jis yra fizinis asmuo, juridinio asmens teisinę formą, pavadinimą, kodą, jeigu jis yra juridinis asmuo, sertifikato numerį, išdavimo datą, galiojimo srities apribojimo, galiojimo sustabdymo, galiojimo srities apribojimo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo datą, kad būtų galima įsitikinti, jog asmeniui yra išduotas ECM sertifikatas ir jis galioja. Duomenys apie asmenį, kuriam išduotas ECM sertifikatas, paskelbiami ne vėliau kaip kitą darbo dieną po sprendimo išduoti šį sertifikatą priėmimo dienos ir skelbiami iki ECM sertifikato galiojimo pabaigos datos arba iki dienos, kai ECM sertifikato galiojimas panaikinamas šio straipsnio 15 dalyje nustatytais atvejais. Asmens duomenys tvarkomi vadovaujantis Bendruoju duomenų apsaugos reglamentu, Asmens duomenų teisinės apsaugos įstatymu ir kitais teisės aktais, reglamentuojančiais duomenų tvarkymą. 
+17. Eismo saugos institucija savo interneto svetainėje viešai skelbia asmens, kuriam išduotas ECM sertifikatas, vardą (vardus), pavardę (pavardes), jeigu jis yra fizinis asmuo, juridinio asmens teisinę formą, pavadinimą, kodą, jeigu jis yra juridinis asmuo, sertifikato numerį, išdavimo datą, laikino galiojimo srities apribojimo, galiojimo sustabdymo, galiojimo srities apribojimo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo datą, kad būtų galima įsitikinti, jog asmeniui yra išduotas ECM sertifikatas ir jis galioja. Duomenys apie asmenį, kuriam išduotas ECM sertifikatas, paskelbiami ne vėliau kaip kitą darbo dieną po sprendimo išduoti šį sertifikatą priėmimo dienos ir skelbiami iki ECM sertifikato galiojimo pabaigos datos arba iki dienos, kai ECM sertifikato galiojimas panaikinamas šio straipsnio 15 dalyje nustatytais atvejais. Asmens duomenys tvarkomi vadovaujantis Bendruoju duomenų apsaugos reglamentu, Asmens duomenų teisinės apsaugos įstatymu ir kitais teisės aktais, reglamentuojančiais duomenų tvarkymą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
 Straipsnio pakeitimai:
@@ -1684,7 +1738,10 @@ Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
 
 
 
-18 straipsnis. Geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninių prižiūrėtojų sertifikavimas 
+18 straipsnis. Geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių dalyje, techninių prižiūrėtojų sertifikavimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+ 
 
 
 1. Asmenys, pageidaujantys atlikti geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninę priežiūrą, turi gauti elektroninės formos geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninio prižiūrėtojo sertifikatą (toliau – techninio prižiūrėtojo sertifikatas), kuris patvirtina, kad šio sertifikato turėtojas parengė geležinkelių riedmenų techninės priežiūros sistemą, vadovaudamasis šio įstatymo 4 straipsnio 5 dalyje nustatytais reikalavimais. Eismo saugos institucija, vadovaudamasi nepriklausomumo, kompetencijos, nešališkumo principais, techninio prižiūrėtojo sertifikatą išduoda 5 metams. Techninio prižiūrėtojo sertifikatas gali būti atnaujintas eismo saugos institucijos sprendimu, pateikus jai atitinkamą prašymą. 
@@ -2494,7 +2551,9 @@ Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
 
 
 
-8. Asmenys, gavę įgaliojimus traukinio mašinistų egzaminavimo centrams (toliau – traukinio mašinistų egzaminavimo centrai), vykdydami veiklą privalo:
+8. Traukinio mašinistų egzaminavimo centrai, vykdydami veiklą, privalo: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
 
 
 1) vadovautis šiuo įstatymu ir Sprendime Nr. 2011/765/ES nustatytais egzaminavimo principais bei reikalavimais;
@@ -2627,7 +2686,9 @@ Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
 
 
 
-7) traukinio mašinistų mokymo centras pakartotinai per vienus metus 3 kartus buvo įspėtas dėl šio straipsnio 8 dalyje nustatytų reikalavimų pažeidimų, išskyrus pažeidimus, kurie, vadovaujantis Viešojo administravimo įstatymu, laikyti mažareikšmiais.
+7) traukinio mašinistų egzaminavimo centras pakartotinai per vienus metus 3 kartus buvo įspėtas dėl šio straipsnio 8 dalyje nustatytų reikalavimų pažeidimų, išskyrus pažeidimus, kurie, vadovaujantis Viešojo administravimo įstatymu, laikyti mažareikšmiais.
+Straipsnio punkto pakeitimai:
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
  
 
 
@@ -3980,3 +4041,8 @@ Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-190
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
 Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3068, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19831
+Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 1, 2, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 17, 18, 20, 21, 22, 23, 24, 26 straipsnių, priedo pakeitimo ir Įstatymo papildymo 16-1, 19-1 straipsniais įstatymas
