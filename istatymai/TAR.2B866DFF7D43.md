@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2024-11-13 iki 2024-11-14
+Suvestinė redakcija nuo 2024-11-15 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -10979,26 +10979,25 @@ Nr. XII-1871, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11240
 285 straipsnis. Melagingas pranešimas apie visuomenei gresiantį pavojų ar ištikusią nelaimę
 
 
-1. Tas, kas melagingai pranešė ar paskleidė žinią apie visuomenei ar valstybinės reikšmės objektui, kuris atitinka Civilinės saugos įstatyme nustatytus požymius, gresiantį pavojų arba didelę nelaimę, jeigu dėl to buvo iškviestos pagalbos tarnybos, 
+1. Tas, kas melagingai pranešė ar paskleidė žinią apie visuomenei, ypatingos svarbos subjektui ar valstybinės reikšmės objektui gresiantį pavojų arba didelę nelaimę, jeigu dėl to buvo iškviestos pagalbos tarnybos,
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų.
 
 
 
 
-2. Tas, kas melagingai pranešė ar paskleidė žinią apie visuomenei ar valstybinės reikšmės objektui, kuris atitinka Civilinės saugos įstatyme nustatytus požymius, gresiantį pavojų arba didelę nelaimę, jeigu dėl to kilo žmonių sumaištis ar buvo sutrikdyta valstybinės reikšmės objekto veikla, 
+2. Tas, kas melagingai pranešė ar paskleidė žinią apie visuomenei, ypatingos svarbos subjektui ar valstybinės reikšmės objektui gresiantį pavojų arba didelę nelaimę, jeigu dėl to kilo žmonių sumaištis ar buvo sutrikdyta valstybinės reikšmės objekto veikla,
 baudžiamas bauda arba laisvės apribojimu, arba laisvės atėmimu iki dvejų metų.
 
 
 
 
-3. Tas, kas melagingai pranešė ar paskleidė žinią apie visuomenei ar valstybinės reikšmės objektui, kuris atitinka Civilinės saugos įstatyme nustatytus požymius, gresiantį pavojų arba didelę nelaimę, jeigu dėl to buvo padaryta didelės turtinės žalos, 
-baudžiamas bauda arba laisvės atėmimu iki trejų metų.
+3. Tas, kas melagingai pranešė ar paskleidė žinią apie visuomenei, ypatingos svarbos subjektui ar valstybinės reikšmės objektui gresiantį pavojų arba didelę nelaimę, jeigu dėl to buvo padaryta didelė turtinė žala,
+baudžiamas bauda arba laisvės atėmimu iki trejų metų. 
 
 
-Straipsnio pakeitimai:
-Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 Straipsnio pakeitimai:
 Nr. XII-2170, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20140
+Nr. XIV-3050, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19821
  
 
 
@@ -12353,6 +12352,14 @@ Nr. XIV-2500, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05374
  
 
 
+
+
+39. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2557 dėl ypatingos svarbos subjektų atsparumo, kuria panaikinama Tarybos direktyva 2008/114/EB. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3050, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19821
+ 
+
+
 Kodeksas papildytas priedu:
 Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)
 Priedo pakeitimai:
@@ -12983,3 +12990,8 @@ Lietuvos Respublikos baudžiamojo kodekso 5, 7, 8, 18, 25, 27, 37, 38, 39, 40, 4
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3063, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19689
 Lietuvos Respublikos baudžiamojo kodekso 9-1 straipsnio pakeitimo įstatymas
+ 
+68.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3050, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19821
+Lietuvos Respublikos baudžiamojo kodekso 285 straipsnio ir priedo pakeitimo įstatymas
