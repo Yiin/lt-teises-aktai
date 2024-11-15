@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C15592B096FA"
 
 # Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-11-14
+Suvestinė redakcija nuo 2024-11-15
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 115-3230, i. k. 0981010ISTAVIII-971
  
@@ -34,10 +34,10 @@ Bendrosios nuostatos
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šis įstatymas nustato krizių ir ekstremaliųjų situacijų prevencijos, pasirengimo krizėms ir ekstremaliosioms situacijoms, jų valdymo ir padarinių šalinimo teisinius pagrindus.
+1. Šis įstatymas nustato krizių ir ekstremaliųjų situacijų prevencijos, pasirengimo krizėms ir ekstremaliosioms situacijoms, jų valdymo ir padarinių šalinimo teisinius pagrindus, taip pat reikalavimus, taikomus siekiant užtikrinti ypatingos svarbos subjektų atsparumą ir jų veiklos tęstinumą.
 
 
 
@@ -47,10 +47,22 @@ Bendrosios nuostatos
 
 
 
-3. Šiuo įstatymu įgyvendinamos Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, nuostatos.
+3. Šio įstatymo 12 straipsnio 3 dalies, 13 straipsnio 2 dalies ir 22 straipsnio 4 dalies, kiek tai susiję su ypatingos svarbos subjektų atsparumo užtikrinimu, ir 492, 493, 494 straipsnių nuostatos netaikomos ypatingos svarbos subjektams, priskirtiems šio įstatymo 1 priede nurodytiems bankininkystės, finansų rinkų infrastruktūros ir skaitmeninės infrastruktūros sektoriams.
+
+
+
+
+4. Su ypatingos svarbos subjektų atsparumo užtikrinimu susijusiai įslaptintai informacijai taikomi Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme nustatyti įslaptintos informacijos reikalavimai, o su ypatingos svarbos subjektų atsparumo užtikrinimu susijusiai neįslaptintai informacijai – ypatingos svarbos subjekte nustatyti konfidencialios informacijos apsaugos reikalavimai.
+
+
+
+
+5. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo 2 priede.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
  
-
-
 
 
 
@@ -58,177 +70,337 @@ Bendrosios nuostatos
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Būtinos užduotys – ekstremaliajai situacijai likviduoti ir jos padariniams skubiai šalinti būtini atlikti darbai, kurių neatlikus atsirastų arba galėtų atsirasti žala Lietuvos Respublikos nacionalinio saugumo interesams, gyventojams, aplinkai ar turtui. 
+1. Atsparumas – ypatingos svarbos subjekto gebėjimas užkirsti kelią įvykiui, ekstremaliajam įvykiui, ypatingam įvykiui, ekstremaliajai situacijai ar krizei, dėl kurių gali sutrikti arba nutrūkti būtinosios paslaugos teikimas, apsisaugoti nuo jo (jos), į jį (ją) reaguoti, prieš jį (ją) atsilaikyti, jį (ją) sušvelninti, įveikti, prisitaikyti prie jo (jos) ir po jo (jos) atkurti veiklą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-2. Cheminis mišinys – dviejų arba daugiau cheminių medžiagų mišinys arba tirpalas. 
+11. Būtinoji paslauga – paslauga, kurios teikimas būtinas siekiant užtikrinti gyvybiškai svarbias valstybės funkcijas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-3. Civilinė sauga – veikla, apimanti valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų, nevyriausybinių organizacijų, gyventojų ir kitų šiame įstatyme nurodytų asmenų pasirengimą ekstremaliosioms situacijoms, veiksmus joms gresiant ar susidarius, ekstremaliųjų situacijų valdymą ir jų padarinių šalinimą.
+2. Būtinos užduotys – ekstremaliajai situacijai likviduoti ir jos padariniams skubiai šalinti būtini atlikti darbai, kurių neatlikus atsirastų arba galėtų atsirasti žala Lietuvos Respublikos nacionalinio saugumo interesams, gyventojams, aplinkai ar turtui. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-4. Didelė pramoninė avarija – dėl nekontroliuojamos padėties eksploatuojant pavojingąjį objektą įvykstantis nenumatytas staigus įvykis (sprogimas, gaisras arba didelio kiekio pavojingųjų medžiagų išsiveržimas į aplinką), kuris sukelia tiesioginį ar uždelstą didelį pavojų gyventojams ir (ar) aplinkai pavojingajame objekte ar už jo ribų ir kuris yra susijęs su viena ar keliomis pavojingosiomis medžiagomis.
+3. Cheminis mišinys – dviejų arba daugiau cheminių medžiagų mišinys arba tirpalas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-5. Ekstremalioji situacija – dėl ekstremaliojo įvykio susidariusi padėtis, kuri gali sukelti ar sukelia didelį pavojų gyventojų gyvybei ar sveikatai, jų būtiniausioms gyvenimo (veiklos) sąlygoms, turtui, aplinkai, gyvybiškai svarbių valstybės funkcijų atlikimui, viešajai tvarkai arba gyventojų žūtį, sužalojimą, turtinę ar kitą žalą.
+4. Civilinė sauga – veikla, apimanti valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų, nevyriausybinių organizacijų, gyventojų ir kitų šiame įstatyme nurodytų asmenų pasirengimą ekstremaliosioms situacijoms, veiksmus joms gresiant ar susidarius, ekstremaliųjų situacijų valdymą ir jų padarinių šalinimą, taip pat ypatingos svarbos subjektų pasirengimą užtikrinti atsparumą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-6. Ekstremaliojo įvykio kriterijai – stebėjimais ir skaičiavimais nustatyti arba tarptautinėje praktikoje naudojami fizikiniai, cheminiai, geografiniai, medicininiai, socialiniai ar kiti įvykio mastą, padarinius ar faktą apibūdinantys dydžiai arba aplinkybės (kritinės ribos), kuriuos atitinkantis įvykis laikomas ekstremaliuoju.
+5. Didelė pramoninė avarija – dėl nekontroliuojamos padėties eksploatuojant pavojingąjį objektą įvykstantis nenumatytas staigus įvykis (sprogimas, gaisras arba didelio kiekio pavojingųjų medžiagų išsiveržimas į aplinką), kuris sukelia tiesioginį ar uždelstą didelį pavojų gyventojams ir (ar) aplinkai pavojingajame objekte ar už jo ribų ir kuris yra susijęs su viena ar keliomis pavojingosiomis medžiagomis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-7. Ekstremaliosios situacijos operacijų vadovas (toliau – operacijų vadovas) – valstybės tarnautojas, valstybės politikas ar valstybės ir (ar) savivaldybės institucijos ar įstaigos darbuotojas, dirbantis pagal darbo sutartį, paskirtas vadovauti visiems krizių valdymo ir civilinės saugos sistemos subjektams, dalyvaujantiems likviduojant ekstremaliąją situaciją ir šalinant jos padarinius, ir pagal kompetenciją priimantis sprendimus, būtinus siekiant likviduoti ekstremaliąją situaciją ir pašalinti jos padarinius.
+6. Ekstremalioji situacija – dėl ekstremaliojo įvykio susidariusi padėtis, kuri gali sukelti ar sukelia didelį pavojų gyventojų gyvybei ar sveikatai, jų būtiniausioms gyvenimo (veiklos) sąlygoms, turtui, aplinkai, gyvybiškai svarbių valstybės funkcijų atlikimui, viešajai tvarkai arba gyventojų žūtį, sužalojimą, turtinę ar kitą žalą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-8. Ekstremaliosios situacijos židinys – vieta, kurioje įvyko įvykis ar ekstremalusis įvykis, ir teritorija, apimanti didžiausio pavojaus sritį apie tų įvykių vietą, kurioje gresia įvykio ar ekstremaliojo įvykio veiksnių pavojai ten esančių gyventojų gyvybei ir (ar) sveikatai, turtui ir (ar) aplinkai.
+7. Ekstremaliojo įvykio kriterijai – stebėjimais ir skaičiavimais nustatyti arba tarptautinėje praktikoje naudojami fizikiniai, cheminiai, geografiniai, medicininiai, socialiniai ar kiti įvykio mastą, padarinius ar faktą apibūdinantys dydžiai arba aplinkybės (kritinės ribos), kuriuos atitinkantis įvykis laikomas ekstremaliuoju.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-9. Ekstremaliųjų situacijų valdymo planas – savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų ir veiklos vykdytojų veiksmų ir priemonių planas, užtikrinantis materialinių ir žmogiškųjų išteklių sutelkimą ir valdymą gresiant ar susidarius ekstremaliosioms situacijoms.
+8. Ekstremaliosios situacijos operacijų vadovas (toliau – operacijų vadovas) – valstybės tarnautojas, valstybės politikas ar valstybės ir (ar) savivaldybės institucijos ar įstaigos darbuotojas, dirbantis pagal darbo sutartį, paskirtas vadovauti visiems krizių valdymo ir civilinės saugos sistemos subjektams, dalyvaujantiems likviduojant ekstremaliąją situaciją ir šalinant jos padarinius, ir pagal kompetenciją priimantis sprendimus, būtinus siekiant likviduoti ekstremaliąją situaciją ir pašalinti jos padarinius.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-10. Ekstremalusis įvykis – nustatytus kriterijus atitinkantis gamtinis, techninis, ekologinis ar socialinis įvykis, keliantis tokio lygio pavojų gyventojų gyvybei ar sveikatai, jų būtiniausioms gyvenimo (veiklos) sąlygoms, turtui, aplinkai, gyvybiškai svarbių valstybės funkcijų atlikimui, viešajai tvarkai, kad gali būti skelbiama ekstremalioji situacija.
+9. Ekstremaliosios situacijos židinys – vieta, kurioje įvyko įvykis ar ekstremalusis įvykis, ir teritorija, apimanti didžiausio pavojaus sritį apie tų įvykių vietą, kurioje gresia įvykio ar ekstremaliojo įvykio veiksnių pavojai ten esančių gyventojų gyvybei ir (ar) sveikatai, turtui ir (ar) aplinkai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-11. Gelbėjimo darbai – veiksmai, kuriais įvykių, ekstremaliųjų įvykių, ypatingų įvykių ar ekstremaliųjų situacijų metu siekiama išgelbėti gyventojų gyvybes, sveikatą ir turtą, suteikti gyventojams pirmąją medicinos pagalbą, taip pat apsaugoti aplinką.
+10. Ekstremaliųjų situacijų valdymo planas – savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų ir veiklos vykdytojų veiksmų ir priemonių planas, užtikrinantis materialinių ir žmogiškųjų išteklių sutelkimą ir valdymą gresiant ar susidarius ekstremaliosioms situacijoms.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-12. Gelbėjimo darbų vadovas – civilinės saugos pajėgų valstybės tarnautojas ar darbuotojas, dirbantis pagal darbo sutartį, ekstremaliosios situacijos židinyje vadovaujantis paieškos, gelbėjimo ir neatidėliotiniems darbams, taip pat įvykio, ekstremaliojo įvykio likvidavimo ir jų padarinių šalinimo darbams. 
+11. Ekstremalusis įvykis – nustatytus kriterijus atitinkantis gamtinis, techninis, ekologinis ar socialinis įvykis, keliantis tokio lygio pavojų gyventojų gyvybei ar sveikatai, jų būtiniausioms gyvenimo (veiklos) sąlygoms, turtui, aplinkai, gyvybiškai svarbių valstybės funkcijų atlikimui, viešajai tvarkai, kad gali būti skelbiama ekstremalioji situacija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-13. Gyventojas – fizinis asmuo, esantis Lietuvos Respublikos teritorijoje.
+12. Gelbėjimo darbai – veiksmai, kuriais įvykių, ekstremaliųjų įvykių, ypatingų įvykių ar ekstremaliųjų situacijų metu siekiama išgelbėti gyventojų gyvybes, sveikatą ir turtą, suteikti gyventojams pirmąją medicinos pagalbą, taip pat apsaugoti aplinką.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-14. Gyventojų evakavimas – dėl gresiančios ar susidariusios ekstremaliosios situacijos organizuotas laikinas gyventojų perkėlimas iš teritorijų, kuriose pavojinga gyventi ir dirbti, į kitas teritorijas, laikinai suteikiant jiems gyvenamąsias patalpas.
+13. Gelbėjimo darbų vadovas – civilinės saugos pajėgų valstybės tarnautojas ar darbuotojas, dirbantis pagal darbo sutartį, ekstremaliosios situacijos židinyje vadovaujantis paieškos, gelbėjimo ir neatidėliotiniems darbams, taip pat įvykio, ekstremaliojo įvykio likvidavimo ir jų padarinių šalinimo darbams. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-15. Įvykis – ekstremaliojo įvykio kriterijų neatitinkantis gamtinis, techninis, ekologinis ar socialinis įvykis, keliantis pavojų gyventojų gyvybei ar sveikatai, jų būtiniausioms gyvenimo (veiklos) sąlygoms, turtui ir (ar) aplinkai, gyvybiškai svarbių valstybės funkcijų atlikimui, viešajai tvarkai. 
+14. Gyventojas – fizinis asmuo, esantis Lietuvos Respublikos teritorijoje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-16. Ypatingas įvykis – staigus įvykis ar netikėtai susidariusios aplinkybės, sukėlę pavojų visuomenės saugumui ar viešajai tvarkai, gyventojų gyvybei, sveikatai, turtui ar aplinkai, užsienio valstybėje esančių Lietuvos Respublikos piliečių gyvybei ar saugumui, nacionalinę priklausomybę turintiems laivams ar orlaiviams, kai staigus įvykis ar netikėtai susidariusios aplinkybės turi ar gali turėti reikšmingų neigiamų padarinių ir (ar) reikia skubaus valdymo sprendimo nacionaliniu lygmeniu.
+15. Gyventojų evakavimas – dėl gresiančios ar susidariusios ekstremaliosios situacijos organizuotas laikinas gyventojų perkėlimas iš teritorijų, kuriose pavojinga gyventi ir dirbti, į kitas teritorijas, laikinai suteikiant jiems gyvenamąsias patalpas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-17. Kita įstaiga – socialinėje, švietimo, mokslo, kultūros, sporto, sveikatos priežiūros srityse veikiantis juridinis asmuo, kurio veiklos tikslas – tenkinti tam tikrus viešuosius interesus. Ši sąvoka neapima valstybės ir savivaldybių institucijų ir įstaigų.
+16. Įvykis – ekstremaliojo įvykio kriterijų neatitinkantis gamtinis, techninis, ekologinis ar socialinis įvykis, keliantis pavojų gyventojų gyvybei ar sveikatai, jų būtiniausioms gyvenimo (veiklos) sąlygoms, turtui ir (ar) aplinkai, gyvybiškai svarbių valstybės funkcijų atlikimui, viešajai tvarkai. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-18. Krizė – valstybės lygio ekstremalioji situacija, kurios nepavyksta arba neįmanoma likviduoti ir (ar) pašalinti jos padarinių taikant šiame įstatyme nustatytas valstybės lygio ekstremaliosios situacijos valdymo priemones, ypatingo įvykio, taip pat išorės arba vidaus įvykių ar procesų nulemta situacija, kelianti grėsmę Lietuvos Respublikos nacionalinio saugumo interesams ar gyvybiškai svarbių valstybės funkcijų atlikimui. Ši sąvoka neapima grėsmę valstybės suverenumui, teritorijos vientisumui, Lietuvos Respublikos konstitucinei santvarkai ar visuomenės rimčiai keliančių situacijų ir įvykių, kuriems esant yra pagrindas priimti sprendimą dėl kariuomenės panaudojimo reaguojant į vietinio pobūdžio ginkluotus incidentus ir valstybės sienos pažeidimus, pagal savo pobūdį neprilygstančius agresijos aktams, ar įvesti karo padėtį. 
+17. Ypatingas įvykis – staigus įvykis ar netikėtai susidariusios aplinkybės, sukėlę pavojų visuomenės saugumui ar viešajai tvarkai, gyventojų gyvybei, sveikatai, turtui ar aplinkai, užsienio valstybėje esančių Lietuvos Respublikos piliečių gyvybei ar saugumui, nacionalinę priklausomybę turintiems laivams ar orlaiviams, kai staigus įvykis ar netikėtai susidariusios aplinkybės turi ar gali turėti reikšmingų neigiamų padarinių ir (ar) reikia skubaus valdymo sprendimo nacionaliniu lygmeniu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-19. Krizių ir ekstremaliųjų situacijų prevencija – kryptingai vykdoma veikla, kad būtų išvengta krizių ar ekstremaliųjų situacijų arba mažėtų jų galimybė, o susidarius krizei ar ekstremaliajai situacijai būtų kuo mažiau pakenkta Lietuvos Respublikos nacionalinio saugumo interesams, gyvybiškai svarbių valstybės funkcijų atlikimui, gyventojams, valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų ir veiklos vykdytojų veiklai, turtui ir aplinkai.
+171. Ypatingos svarbos infrastruktūra – teritorijų, statinių, įrenginių ir konstrukcijų, kitokio turto ir (ar) informacinių sistemų visuma arba jų dalys, reikalingos būtinosioms paslaugoms teikti. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-20. Krizių ir ekstremaliųjų situacijų valdymo planas – valstybės institucijų ir įstaigų veiksmų ir priemonių, turinčių užtikrinti krizių ir ekstremaliųjų situacijų valdymą, planas. 
+172. Ypatingos svarbos subjektas – juridinis asmuo, kita organizacija ar jų padalinys, pagal savo paskirtį ar veiklos pobūdį teikiantis būtinąsias paslaugas ir priklausantis vienai iš šio įstatymo 1 priede nurodytų kategorijų, ir įtrauktas į Lietuvos Respublikos Vyriausybės tvirtinamą ypatingos svarbos subjektų sąrašą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-21. Krizių valdymas – veikla, apimanti rizikos veiksnių, pavojų ir grėsmių Lietuvos Respublikos nacionalinio saugumo interesams ar gyvybiškai svarbių valstybės funkcijų atlikimui numatymą, stebėjimą, prevencinių ir pasirengimo priemonių rengimą ir vykdymą, krizių likvidavimą ir jų padarinių šalinimą.
+18. Kita įstaiga – socialinėje, švietimo, mokslo, kultūros, sporto, sveikatos priežiūros srityse veikiantis juridinis asmuo, kurio veiklos tikslas – tenkinti tam tikrus viešuosius interesus. Ši sąvoka neapima valstybės ir savivaldybių institucijų ir įstaigų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-22. Krizių valdymo ir civilinės saugos mokymas – paskaitos, seminarai, pratybos ir kiti renginiai, kurių tikslas – suteikti pasirengimo krizėms ir ekstremaliosioms situacijoms, jų valdymo žinių, mokyti šias įgytas žinias taikyti praktikoje ir patikrinti asmenų pasirengimą veikti krizių, ekstremaliųjų situacijų, karinių ir hibridinių grėsmių metu.
+19. Krizė – valstybės lygio ekstremalioji situacija, kurios nepavyksta arba neįmanoma likviduoti ir (ar) pašalinti jos padarinių taikant šiame įstatyme nustatytas valstybės lygio ekstremaliosios situacijos valdymo priemones, ypatingo įvykio, taip pat išorės arba vidaus įvykių ar procesų nulemta situacija, kelianti grėsmę Lietuvos Respublikos nacionalinio saugumo interesams ar gyvybiškai svarbių valstybės funkcijų atlikimui. Ši sąvoka neapima grėsmę valstybės suverenumui, teritorijos vientisumui, Lietuvos Respublikos konstitucinei santvarkai ar visuomenės rimčiai keliančių situacijų ir įvykių, kuriems esant yra pagrindas priimti sprendimą dėl kariuomenės panaudojimo reaguojant į vietinio pobūdžio ginkluotus incidentus ir valstybės sienos pažeidimus, pagal savo pobūdį neprilygstančius agresijos aktams, ar įvesti karo padėtį. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-23. Kolektyvinės apsaugos statinys – statinys ar patalpa, kuri yra pritaikyta gyventojams apsaugoti nuo atsiradusių gyvybei ar sveikatai pavojingų veiksnių ekstremaliosios situacijos ar karo metu.
+20. Krizių ir ekstremaliųjų situacijų prevencija – kryptingai vykdoma veikla, kad būtų išvengta krizių ar ekstremaliųjų situacijų arba mažėtų jų galimybė, o susidarius krizei ar ekstremaliajai situacijai būtų kuo mažiau pakenkta Lietuvos Respublikos nacionalinio saugumo interesams, gyvybiškai svarbių valstybės funkcijų atlikimui, gyventojams, valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų ir veiklos vykdytojų veiklai, turtui ir aplinkai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-24. Materialiniai ištekliai – nekilnojamasis turtas, transporto priemonės, įranga ir kiti daiktai, kurie gali būti panaudoti gresiančiai ar susidariusiai ekstremaliajai situacijai likviduoti ir jos padariniams šalinti, valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų ir veiklos vykdytojų veiklai palaikyti ir atkurti.
+21. Krizių ir ekstremaliųjų situacijų valdymo planas – valstybės institucijų ir įstaigų veiksmų ir priemonių, turinčių užtikrinti krizių ir ekstremaliųjų situacijų valdymą, planas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-25. Neatidėliotini darbai – veiksmai, užtikrinantys gelbėjimo, paieškos darbų vykdymą, turto išsaugojimą, sanitarinį švarinimą ir būtiniausių gyvenimo (veiklos) sąlygų atkūrimą įvykių, ekstremaliųjų įvykių, ypatingų įvykių ar ekstremaliųjų situacijų metu.
+22. Krizių valdymas – veikla, apimanti rizikos veiksnių, pavojų ir grėsmių Lietuvos Respublikos nacionalinio saugumo interesams ar gyvybiškai svarbių valstybės funkcijų atlikimui numatymą, stebėjimą, prevencinių ir pasirengimo priemonių rengimą ir vykdymą, krizių likvidavimą ir jų padarinių šalinimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-26. Paieškos darbai – veiksmai, kuriais siekiama surasti įvykių, ekstremaliųjų įvykių, ypatingų įvykių ar ekstremaliųjų situacijų metu dingusius, pasiklydusius ar nukentėjusius gyventojus, patyrusius avariją laivus ir orlaivius.
+23. Krizių valdymo ir civilinės saugos mokymas – paskaitos, seminarai, pratybos ir kiti renginiai, kurių tikslas – suteikti pasirengimo krizėms ir ekstremaliosioms situacijoms, jų valdymo žinių, mokyti šias įgytas žinias taikyti praktikoje ir patikrinti asmenų pasirengimą veikti krizių, ekstremaliųjų situacijų, karinių ir hibridinių grėsmių metu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-27. Pavojingasis objektas – visa veiklos vykdytojo kontroliuojama teritorija, kurios bent viename įrenginyje, įskaitant įprastą ir susijusią infrastruktūrą, kuriame vykdoma įprastinė ir susijusi veikla, yra pavojingųjų medžiagų. 
+24. Kolektyvinės apsaugos statinys – statinys ar patalpa, kuri yra pritaikyta gyventojams apsaugoti nuo atsiradusių gyvybei ar sveikatai pavojingų veiksnių ekstremaliosios situacijos ar karo metu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-28. Pavojingoji medžiaga – cheminė medžiaga arba cheminis mišinys, nurodyti Lietuvos Respublikos Vyriausybės patvirtintame pavojingųjų medžiagų ir mišinių sąraše arba atitinkantys Vyriausybės nustatytus kriterijus; pavojingosios medžiagos gali būti žaliavos, produktai, šalutiniai produktai, liekanos ar tarpiniai produktai. 
+25. Materialiniai ištekliai – nekilnojamasis turtas, transporto priemonės, įranga ir kiti daiktai, kurie gali būti panaudoti gresiančiai ar susidariusiai ekstremaliajai situacijai likviduoti ir jos padariniams šalinti, valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų ir veiklos vykdytojų veiklai palaikyti ir atkurti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-29. Pavojingojo objekto įrenginys – žemės lygyje ar po žeme esantis pavojingojo objekto techninis vienetas, kuriame gaminamos, naudojamos, tvarkomos ar laikomos pavojingosios medžiagos, įskaitant visą įrangą, struktūras, vamzdynus, mašinas, įrankius, atskiras geležinkelio atšakas, dokus, įrenginiams veikti reikalingas krovos krantines, dambas, sandėlius ir kitas sausumoje ar vandenyje esančias struktūras, būtinas pavojingojo objekto įrenginio veiklai.
+26. Neatidėliotini darbai – veiksmai, užtikrinantys gelbėjimo, paieškos darbų vykdymą, turto išsaugojimą, sanitarinį švarinimą ir būtiniausių gyvenimo (veiklos) sąlygų atkūrimą įvykių, ekstremaliųjų įvykių, ypatingų įvykių ar ekstremaliųjų situacijų metu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-30. Perspėjimo sistema – visuma organizacinių ir techninių priemonių, kuriomis perspėjami gyventojai, valstybės ir savivaldybių institucijos ir įstaigos, kitos įstaigos, ūkio subjektai ir veiklos vykdytojai apie įvykį, ekstremalųjį įvykį, gresiančią ar susidariusią krizę ar ekstremaliąją situaciją ir išplatinama valstybės ir savivaldybių institucijų ir įstaigų turima arba joms skirta informacija, kuri leistų imtis priemonių, siekiant išvengti galimos žalos arba ją sušvelninti. 
+27. Paieškos darbai – veiksmai, kuriais siekiama surasti įvykių, ekstremaliųjų įvykių, ypatingų įvykių ar ekstremaliųjų situacijų metu dingusius, pasiklydusius ar nukentėjusius gyventojus, patyrusius avariją laivus ir orlaivius.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-31. Priedanga – statinys, patalpa, inžinerinis įrenginys ar kitas objektas, galintis sudaryti sąlygas gyventojams trumpą laiko tarpą išvengti gyvybei ar sveikatai pavojingų veiksnių oro pavojaus atveju, taip pat apsaugoti nuo netiesioginio apšaudymo ir (ar) kitų kinetinių grėsmių karinės agresijos metu (atakų iš orlaivių, raketų, artilerijos ugnies sukeltų sprogimo smūgio bangų, skeveldrų, nuolaužų ar atsitiktinių kulkų).
+28. Pavojingasis objektas – visa veiklos vykdytojo kontroliuojama teritorija, kurios bent viename įrenginyje, įskaitant įprastą ir susijusią infrastruktūrą, kuriame vykdoma įprastinė ir susijusi veikla, yra pavojingųjų medžiagų. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-32. Slėptuvė – specialiosios paskirties statinys arba specialiai įrengta patalpa gyventojams, kurie užtikrina valstybės ir savivaldybių institucijų ir įstaigų veiklą ekstremaliųjų situacijų ar karo metu arba turi priskirtų būtinų užduočių, apsaugoti nuo atsiradusių gyvybei ar sveikatai pavojingų veiksnių.
+29. Pavojingoji medžiaga – cheminė medžiaga arba cheminis mišinys, nurodyti Vyriausybės tvirtinamame pavojingųjų medžiagų ir mišinių sąraše arba atitinkantys Vyriausybės nustatytus kriterijus; pavojingosios medžiagos gali būti žaliavos, produktai, šalutiniai produktai, liekanos ar tarpiniai produktai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-33. Ūkio subjektas – Lietuvos Respublikoje įregistruotas ir gamybinę, komercinę, finansinę ar kitokią ūkinę veiklą vykdantis asmuo, užsienio juridinio asmens filialas ar atstovybė.
+30. Pavojingojo objekto įrenginys – žemės lygyje ar po žeme esantis pavojingojo objekto techninis vienetas, kuriame gaminamos, naudojamos, tvarkomos ar laikomos pavojingosios medžiagos, įskaitant visą įrangą, struktūras, vamzdynus, mašinas, įrankius, atskiras geležinkelio atšakas, dokus, įrenginiams veikti reikalingas krovos krantines, dambas, sandėlius ir kitas sausumoje ar vandenyje esančias struktūras, būtinas pavojingojo objekto įrenginio veiklai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-34. Veiklos vykdytojas – fizinis ar juridinis asmuo, kita organizacija ar jų padalinys, kurie eksploatuoja ar valdo pavojingąjį objektą ar pavojingojo objekto įrenginį arba kurie kitu teisiniu pagrindu turi suteiktus įgaliojimus priimti ekonominius sprendimus ar sprendimus pavojingojo objekto ar pavojingojo objekto įrenginio veikimo techniniais klausimais. 
+31. Perspėjimo sistema – visuma organizacinių ir techninių priemonių, kuriomis perspėjami gyventojai, valstybės ir savivaldybių institucijos ir įstaigos, kitos įstaigos, ūkio subjektai ir veiklos vykdytojai apie įvykį, ekstremalųjį įvykį, gresiančią ar susidariusią krizę ar ekstremaliąją situaciją ir išplatinama valstybės ir savivaldybių institucijų ir įstaigų turima arba joms skirta informacija, kuri leistų imtis priemonių, siekiant išvengti galimos žalos arba ją sušvelninti. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-35. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos nacionalinio saugumo pagrindų įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos valstybės rezervo įstatyme, Lietuvos Respublikos valstybės tarnybos įstatyme, Lietuvos Respublikos vandens įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme, Lietuvos Respublikos Vyriausybės įstatyme.
+32. Priedanga – statinys, patalpa, inžinerinis įrenginys ar kitas objektas, galintis sudaryti sąlygas gyventojams trumpą laiko tarpą išvengti gyvybei ar sveikatai pavojingų veiksnių oro pavojaus atveju, taip pat apsaugoti nuo netiesioginio apšaudymo ir (ar) kitų kinetinių grėsmių karinės agresijos metu (atakų iš orlaivių, raketų, artilerijos ugnies sukeltų sprogimo smūgio bangų, skeveldrų, nuolaužų ar atsitiktinių kulkų).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+321. Rizika – gamtinio, techninio, socialinio ir (ar) kitokio pobūdžio veiksniai, dėl kurių gali kilti įvykis, ekstremalusis įvykis, ypatingas įvykis, ekstremalioji situacija ar krizė ir dėl to sutrikti arba nutrūkti būtinųjų paslaugų teikimas ir kurių įvertis išreiškiamas padarinių masto ir tikimybės jiems kilti santykiu. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+322. Rizikos vertinimas – rizikos identifikavimo, analizės, jos masto ir įtakos gyvybiškai svarbioms valstybės funkcijoms atlikti įvertinimo procesas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+33. Slėptuvė – specialiosios paskirties statinys arba specialiai įrengta patalpa gyventojams, kurie užtikrina valstybės ir savivaldybių institucijų ir įstaigų veiklą ekstremaliųjų situacijų ar karo metu arba turi priskirtų būtinų užduočių, apsaugoti nuo atsiradusių gyvybei ar sveikatai pavojingų veiksnių.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+34. Strateginė komunikacija – visuma bendrų ir koordinuotų veiksmų, kuriais, pasitelkiant visuomenės informavimo ir kitas priemones, siekiama užtikrinti rizikos veiksnių, pavojų ir grėsmių Lietuvos Respublikos nacionalinio saugumo interesams prevenciją, krizių ir ekstremaliųjų situacijų valdymą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+35. Ūkio subjektas – Lietuvos Respublikoje įregistruotas ir gamybinę, komercinę, finansinę ar kitokią ūkinę veiklą vykdantis asmuo, užsienio juridinio asmens filialas ar atstovybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+36. Veiklos vykdytojas – fizinis ar juridinis asmuo, kita organizacija ar jų padalinys, kurie eksploatuoja ar valdo pavojingąjį objektą ar pavojingojo objekto įrenginį arba kurie kitu teisiniu pagrindu turi suteiktus įgaliojimus priimti ekonominius sprendimus ar sprendimus pavojingojo objekto ar pavojingojo objekto įrenginio veikimo techniniais klausimais. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+37. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos nacionalinio saugumo pagrindų įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos valstybės rezervo įstatyme, Lietuvos Respublikos valstybės tarnybos įstatyme, Lietuvos Respublikos vandens įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme, Lietuvos Respublikos Vyriausybės įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
  
 
 
@@ -550,7 +722,34 @@ Nr. XIV-2377, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25629
 
 
 
-27) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
+27) tvirtina ypatingos svarbos subjektų atsparumo stiprinimo gaires; 
+Papildyta straipsnio punktu:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+28) tvirtina ypatingos svarbos subjektų sąrašą;
+Papildyta straipsnio punktu:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+29) tvirtina strateginės komunikacijos tvarkos aprašą; 
+Papildyta straipsnio punktu:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+30) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
+ 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
  
 
 
@@ -637,7 +836,18 @@ Vyriausybės sudaroma Nacionalinio saugumo komisija:
 
 
 
-5) krizės metu:
+5) koordinuoja strateginę komunikaciją; 
+Papildyta straipsnio punktu:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+6) krizės metu:
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 a) renka informaciją apie krizę, rengia jos raidos prognozes, planuoja krizės valdymo priemones ir teikia Nacionalinio saugumo komisijai pasiūlymus dėl krizės valdymo prioritetų; 
@@ -657,7 +867,10 @@ c) vertina papildomų materialinių ir žmogiškųjų išteklių, reikalingų kr
 
 
 
-6) gresiant ar susidarius valstybės lygio ekstremaliajai situacijai, taip pat ją paskelbus: 
+7) gresiant ar susidarius valstybės lygio ekstremaliajai situacijai, taip pat ją paskelbus: 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 a) vertina valstybės lygio ekstremaliosios situacijos grėsmę ir prireikus siūlo Vyriausybei skelbti valstybės lygio ekstremaliąją situaciją; 
@@ -717,62 +930,106 @@ k) šio įstatymo 40 straipsnyje nustatyta tvarka rengia pasiūlymus Vyriausybei
 
 
 
-7) koordinuoja krizių ir ekstremaliųjų situacijų prevenciją ir pasirengimą valdyti krizes ir valstybės lygio ekstremaliąsias situacijas;
+8) koordinuoja krizių ir ekstremaliųjų situacijų prevenciją ir pasirengimą valdyti krizes ir valstybės lygio ekstremaliąsias situacijas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-8) teikia Nacionalinio saugumo komisijai pasiūlymus dėl krizių valdymo ir civilinės saugos sistemos pasirengimo krizėms ir ekstremaliosioms situacijoms gerinimo;
+9) teikia Nacionalinio saugumo komisijai pasiūlymus dėl krizių valdymo ir civilinės saugos sistemos pasirengimo krizėms ir ekstremaliosioms situacijoms gerinimo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-9) vertina ministerijų ir kitų valstybės institucijų ir įstaigų pasiūlymus dėl valstybinių pasirengimo krizėms ir ekstremaliosioms situacijoms, krizių ir ekstremaliųjų situacijų prevencijos, reagavimo į krizes ir ekstremaliąsias situacijas ir jų padarinių šalinimo užduočių skyrimo ministerijoms, kitoms valstybės ir savivaldybių institucijoms ir įstaigoms ir parengtus šių užduočių projektus teikia svarstyti Nacionalinio saugumo komisijai;
+10) vertina ministerijų ir kitų valstybės institucijų ir įstaigų pasiūlymus dėl valstybinių pasirengimo krizėms ir ekstremaliosioms situacijoms, krizių ir ekstremaliųjų situacijų prevencijos, reagavimo į krizes ir ekstremaliąsias situacijas ir jų padarinių šalinimo užduočių skyrimo ministerijoms, kitoms valstybės ir savivaldybių institucijoms ir įstaigoms ir parengtus šių užduočių projektus teikia svarstyti Nacionalinio saugumo komisijai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-10) ne rečiau kaip kartą per metus rengia ataskaitą apie Lietuvos Respublikos nacionalinio saugumo būklę ir plėtrą ir teikia ją Nacionalinio saugumo komisijai;
+11) ne rečiau kaip kartą per metus rengia ataskaitą apie Lietuvos Respublikos nacionalinio saugumo būklę ir plėtrą ir teikia ją Nacionalinio saugumo komisijai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-11) koordinuoja NVO, savanorių pajėgų pasitelkimą valstybės mastu;
+12) koordinuoja NVO, savanorių pajėgų pasitelkimą valstybės mastu;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-12) organizuoja valstybės ir tarptautinio lygio krizių valdymo pratybas;
+13) organizuoja valstybės ir tarptautinio lygio krizių valdymo pratybas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-13) koordinuoja valstybinių krizių ir ekstremaliųjų situacijų valdymo planų rengimą;
+14) koordinuoja valstybinių krizių ir ekstremaliųjų situacijų valdymo planų rengimą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-14) koordinuoja tarptautinį bendradarbiavimą krizių valdymo srityje;
+15) koordinuoja tarptautinį bendradarbiavimą krizių valdymo srityje ir keitimąsi informacija, susijusia su ypatingos svarbos subjektų atsparumu, su Europos Sąjungos valstybėmis narėmis (toliau – valstybės narės), kitomis užsienio valstybėmis ir Europos Komisija; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-15) vykdo nacionalinių krizių valdymo procedūrų atitikties Šiaurės Atlanto Sutarties Organizacijos (toliau – NATO) ir Europos Sąjungos institucijų nustatytoms procedūroms priežiūrą;
+16) vykdo nacionalinių krizių valdymo procedūrų atitikties Šiaurės Atlanto Sutarties Organizacijos (toliau – NATO) ir Europos Sąjungos institucijų nustatytoms procedūroms priežiūrą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-16) dalyvauja rengiant krizių valdymo ir civilinės saugos srities įstatymų ir kitų teisės aktų projektus; 
+17) dalyvauja rengiant krizių valdymo ir civilinės saugos srities įstatymų ir kitų teisės aktų projektus; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-17) aptarnauja Nacionalinio saugumo komisijos veiklą;
+18) aptarnauja Nacionalinio saugumo komisijos veiklą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
 
-18) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
+19) deleguoja savo atstovą (-us) į Ypatingos svarbos subjektų atsparumo klausimų grupę, kuri veikia kaip Europos Komisijos ekspertų grupė, ir dalyvauja jos veikloje; 
+Papildyta straipsnio punktu:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+20) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
@@ -949,7 +1206,34 @@ k) šio įstatymo 40 straipsnyje nustatyta tvarka rengia pasiūlymus Vyriausybei
 
 
 
-11) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
+11) teikia Vyriausybei pasiūlymus dėl ministro valdymo sričiai priskirtų juridinių asmenų, kitų organizacijų ar jų padalinių įtraukimo į ypatingos svarbos subjektų sąrašą; 
+Papildyta straipsnio punktu:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+12) koordinuoja reikalavimų, nustatytų ministro valdymo sričiai priskirtiems ypatingos svarbos subjektams, įgyvendinimą;
+Papildyta straipsnio punktu:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+13) organizuoja reikalavimų, nustatytų ministro valdymo sričiai priskirtiems ypatingos svarbos subjektams, laikymosi audito atlikimą; 
+Papildyta straipsnio punktu:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+14) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
@@ -974,7 +1258,18 @@ k) šio įstatymo 40 straipsnyje nustatyta tvarka rengia pasiūlymus Vyriausybei
 
 
 
-3) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
+3) tvirtina asmenų, dirbančių ministerijai vadovaujančio ministro valdymo sričiai priskirtame ypatingos svarbos subjekte ir (ar) vykdančių funkcijas, susijusias su ypatingos svarbos subjekto atsparumo užtikrinimu, taip pat asmenų, kuriems dėl jiems priskirtų funkcijų ar pavesto darbo būtų suteikta teisė be palydos patekti prie ypatingos svarbos infrastruktūros ar priimti sprendimus dėl jos funkcionavimo, einamų pareigų sąrašą; 
+Papildyta straipsnio punktu:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+4) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
+ 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
  
 
 
@@ -1055,7 +1350,9 @@ Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 
 
-3. Priešgaisrinės apsaugos ir gelbėjimo departamento direktorius ar jo įgaliotas asmuo turi teisę Vyriausybės nustatyta tvarka duoti privalomus nurodymus valstybės ir savivaldybių institucijoms ir įstaigoms ir veiklos vykdytojams gerinti pasirengimą krizėms ir ekstremaliosioms situacijoms.
+3. Priešgaisrinės apsaugos ir gelbėjimo departamento direktorius ar jo įgaliotas asmuo turi teisę Vyriausybės nustatyta tvarka duoti privalomus nurodymus valstybės ir savivaldybių institucijoms ir įstaigoms ir veiklos vykdytojams gerinti pasirengimą krizėms ir ekstremaliosioms situacijoms, įskaitant privalomus nurodymus ypatingos svarbos subjektams dėl jų atsparumo stiprinimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
  
 
 
@@ -1121,7 +1418,10 @@ Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 
 
-2. Meras ar jo įgaliotas asmuo turi teisę Vyriausybės nustatyta tvarka duoti privalomus nurodymus savivaldybės teritorijoje esančioms kitoms įstaigoms ir ūkio subjektams gerinti pasirengimą ekstremaliosioms situacijoms.
+2. Meras ar jo įgaliotas asmuo turi teisę Vyriausybės nustatyta tvarka duoti privalomus nurodymus savivaldybės teritorijoje esančioms kitoms įstaigoms ir ūkio subjektams gerinti pasirengimą ekstremaliosioms situacijoms, įskaitant privalomus nurodymus ypatingos svarbos subjektams, kurių valdoma ypatingos svarbos infrastruktūra yra mero vadovaujamos savivaldybės teritorijoje, dėl jų atsparumo stiprinimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
@@ -1515,23 +1815,40 @@ Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 
 
-18 straipsnis. Krizių valdymo ir civilinės saugos sistemos subjektų teisė gauti informaciją ir duomenų valdymas
+18 straipsnis. Krizių valdymo ir civilinės saugos sistemos subjektų teisė gauti duomenis, duomenų valdymas ir tvarkymas, duomenų subjektų teisių ribojimai
 
 
-1. Krizių valdymo ir civilinės saugos sistemos subjektai, išskyrus kitas įstaigas, ūkio subjektus ir veiklos vykdytojus, turi teisę neatlygintinai gauti iš valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų, veiklos vykdytojų ir kitų asmenų informaciją, kurios reikia su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusioms funkcijoms atlikti.
-
-
-
-
-2. Su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susiję duomenys (įskaitant asmens duomenis), tarp jų ir specialių kategorijų asmens duomenys, tvarkomi Valstybės duomenų valdysenos informacinėje sistemoje.
+1. Krizių valdymo ir civilinės saugos sistemos subjektai, išskyrus kitas įstaigas, ūkio subjektus ir veiklos vykdytojus, turi teisę neatlygintinai gauti iš valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų, veiklos vykdytojų ir kitų asmenų duomenis (įskaitant asmens duomenis ir specialių kategorijų asmens duomenis), kurių reikia su šio įstatymo 3 straipsnyje nurodytų krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusioms funkcijoms atlikti.
 
 
 
 
-3. Registrų ir informacinių sistemų valdytojai ir (ar) tvarkytojai privalo užtikrinti reikalingų duomenų iš registrų ir informacinių sistemų teikimą Valstybės duomenų valdysenos informacinei sistemai šio straipsnio 2 dalyje nurodytais tikslais.
+2. Su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susiję duomenys (įskaitant asmens duomenis ir specialių kategorijų asmens duomenis) naudojant informacines sistemas, informacinių technologijų platformas ir kitas informacinių technologijų priemones yra tvarkomi šia tvarka:
+
+
+1) su šio įstatymo 3 straipsnio 1 punkte nurodytų krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susiję duomenys yra Vyriausybės nustatyta tvarka tvarkomi nacionalinio saugumo tikslais naudojant Vyriausybės nustatytą informacinių technologijų platformą ir kitas informacinių technologijų priemones;
+
+
+
+
+2) su šio įstatymo 3 straipsnio 2–5 punktuose nurodytų krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susiję duomenys yra tvarkomi Vyriausybės įgaliotos institucijos valdomoje valstybės informacinėje sistemoje jos nuostatuose nustatyta tvarka.
+
+
+
+
+
+
+3. Tvarkant su šio įstatymo 3 straipsnio 1 punkte nurodytų krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusius asmens duomenis, Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymo (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje ir 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, taip pat Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 12 straipsnyje nustatyta duomenų subjektų teisė susipažinti su asmens duomenimis bei 14 straipsnio 1, 2 ir 3 dalyse nustatytos duomenų subjektų teisės reikalauti ištaisyti, ištrinti asmens duomenis arba apriboti jų tvarkymą gali būti apribotos visiškai ar iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ar įgyvendinus šioje dalyje nurodytas jo teises gali būti atskleisti su šio įstatymo 3 straipsnio 1 punkte nurodytų krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusių institucijų veiklos metodai, priemonės, taktika ir (ar) padaryta žala šių institucijų veiklai. Kiekvienu konkrečiu atveju vertinama, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai ar iš dalies apribotos, fiksuojant raštu (įskaitant elektroninę formą) faktines ar teisines priežastis, kuriomis grindžiamas sprendimas šias teises apriboti. Šioje dalyje nurodyta informacija duomenų subjektams neteikiama ir šioje dalyje nurodytos duomenų subjektų teisės visiškai ribojamos karo, nepaprastosios padėties, mobilizacijos ir valstybės lygio ekstremaliosios situacijos, kai kyla grėsmė Lietuvos Respublikos nacionalinio saugumo interesams ar gyvybiškai svarbių valstybės funkcijų atlikimui, metu.
+
+
+
+
+4. Informacinių sistemų valdytojai ir (ar) tvarkytojai užtikrina savo valdomų ir (ar) tvarkomų informacinių sistemų duomenų, reikalingų šio straipsnio 2 dalies 1 punkte nurodytai informacinių technologijų platformai, kad būtų įgyvendinti šio įstatymo 3 straipsnio 1 punkte nustatyti uždaviniai, ir duomenų, reikalingų šio straipsnio 2 dalies 2 punkte nurodytai valstybės informacinei sistemai, kad būtų įgyvendinti šio įstatymo 3 straipsnio 2–5 punktuose nustatyti uždaviniai, teikimą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
  
-
-
 
 
 
@@ -1644,7 +1961,10 @@ Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 21 straipsnis. Pasirengimo krizėms ir ekstremaliosioms situacijoms bendrosios nuostatos
 
 
-1. Krizėms ir ekstremaliosioms situacijoms rengiamasi siekiant užtikrinti įvykių, ekstremaliųjų įvykių likvidavimo, krizių ir ekstremaliųjų situacijų valdymo ir padarinių šalinimo, paieškos, gelbėjimo ir neatidėliotinus darbus ir gyvybiškai svarbių valstybės funkcijų atlikimą krizių ir ekstremaliųjų situacijų metu.
+1. Krizėms ir ekstremaliosioms situacijoms rengiamasi siekiant užtikrinti atsparumą, įvykių, ekstremaliųjų įvykių likvidavimo, krizių ir ekstremaliųjų situacijų valdymo ir padarinių šalinimo, paieškos, gelbėjimo ir neatidėliotinus darbus ir gyvybiškai svarbių valstybės funkcijų atlikimą krizių ir ekstremaliųjų situacijų metu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
@@ -1755,7 +2075,10 @@ Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 
 
-2. Ministerijos koordinuoja savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų ir veiklos vykdytojų pasirengimą ekstremaliosioms situacijoms ministrams pavestose valdymo srityse. 
+2. Ministerijos koordinuoja savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų ir veiklos vykdytojų pasirengimą ekstremaliosioms situacijoms ministrams pavestose valdymo srityse, įskaitant ministro valdymo sričiai priskirtų ypatingos svarbos subjektų atsparumo stiprinimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
@@ -1765,9 +2088,10 @@ Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 
 
-4. Valstybės ir savivaldybių institucijų ir įstaigų, išskyrus žvalgybos institucijas, ir veiklos vykdytojų pasirengimą krizėms ir ekstremaliosioms situacijoms Vyriausybės nustatyta tvarka vertina Priešgaisrinės apsaugos ir gelbėjimo departamentas, o savivaldybės teritorijoje esančių kitų įstaigų ir ūkio subjektų pasirengimą ekstremaliosioms situacijoms Vyriausybės nustatyta tvarka vertina meras.
+4. Valstybės ir savivaldybių institucijų ir įstaigų, išskyrus žvalgybos institucijas, ir veiklos vykdytojų pasirengimą krizėms ir ekstremaliosioms situacijoms, įskaitant ypatingos svarbos subjektų pasirengimą užtikrinti atsparumą, Vyriausybės nustatyta tvarka vertina Priešgaisrinės apsaugos ir gelbėjimo departamentas, o savivaldybės teritorijoje esančių kitų įstaigų ir ūkio subjektų pasirengimą ekstremaliosioms situacijoms, įskaitant ypatingos svarbos subjektų, kurių valdoma ypatingos svarbos infrastruktūra yra mero vadovaujamos savivaldybės teritorijoje, pasirengimą užtikrinti atsparumą Vyriausybės nustatyta tvarka vertina meras.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
  
 
 
@@ -1836,7 +2160,10 @@ Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 
 
-7. Asmens sveikatos priežiūros įstaigos ar visuomenės sveikatos priežiūros įstaigos vadovas sveikatos apsaugos ministro nustatyta tvarka organizuoja asmens sveikatos priežiūros įstaigos ar visuomenės sveikatos priežiūros įstaigos ekstremaliųjų situacijų valdymo plano rengimą ir tvirtina šį planą.
+7. Asmens sveikatos priežiūros įstaigos ar visuomenės sveikatos priežiūros įstaigos vadovas sveikatos apsaugos ministro nustatyta tvarka organizuoja asmens sveikatos priežiūros įstaigos ar visuomenės sveikatos priežiūros įstaigos ekstremaliųjų situacijų valdymo plano, kurio projektas derinamas su Lietuvos Respublikos sveikatos apsaugos ministerija ar sveikatos apsaugos ministro įgaliota institucija, rengimą ir tvirtina šį planą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
@@ -1846,7 +2173,9 @@ Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 
 
-9. Nacionalinis krizių valdymo centras pagal kompetenciją koordinuoja valstybinių krizių ir ekstremaliųjų situacijų valdymo planų rengimą, taip pat vertina valstybės institucijų ir įstaigų krizių ir ekstremaliųjų situacijų valdymo planų atitiktį valstybiniams krizių ir ekstremaliųjų situacijų valdymo planams. Ministrui pavestoms valdymo sritims priskirtų valstybės institucijų ir įstaigų krizių ir ekstremaliųjų situacijų valdymo planų projektai derinami su šio ministro vadovaujama ministerija. Savivaldybių, kitų įstaigų, ūkio subjektų ir veiklos vykdytojų ekstremaliųjų situacijų valdymo planų projektai derinami su Vidaus reikalų ministerija ar vidaus reikalų ministro įgaliota institucija.
+9. Nacionalinis krizių valdymo centras pagal kompetenciją koordinuoja valstybinių krizių ir ekstremaliųjų situacijų valdymo planų rengimą, taip pat vertina valstybės institucijų ir įstaigų krizių ir ekstremaliųjų situacijų valdymo planų atitiktį valstybiniams krizių ir ekstremaliųjų situacijų valdymo planams. Ministrui pavestoms valdymo sritims priskirtų valstybės institucijų ir įstaigų krizių ir ekstremaliųjų situacijų valdymo planų projektai derinami su šio ministro vadovaujama ministerija. Savivaldybių, kitų įstaigų, ūkio subjektų ir veiklos vykdytojų ekstremaliųjų situacijų valdymo planų projektai, išskyrus šio straipsnio 7 dalyje nurodytą atvejį, derinami su Vidaus reikalų ministerija ar vidaus reikalų ministro įgaliota institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
  
 
 
@@ -2018,7 +2347,10 @@ Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 
 
-4. Statant naują visuomenės poreikiams naudojamą pastatą (išskyrus religinės paskirties), kuriame vienu metu gali būti daugiau kaip 100 žmonių, arba aukštybinį (daugiau kaip 5 aukštų) daugiabutį gyvenamąjį namą, jame ar jo priklausinyje (-iuose) turi būti suprojektuota (-os) ir įrengta (-os) šio įstatymo 2 straipsnio 31 dalyje nurodytus reikalavimus atitinkanti (-ios) patalpa (‑os).
+4. Statant naują visuomenės poreikiams naudojamą pastatą (išskyrus religinės paskirties), kuriame vienu metu gali būti daugiau kaip 100 žmonių, arba aukštybinį (daugiau kaip 5 aukštų) daugiabutį gyvenamąjį namą, jame ar jo priklausinyje (-iuose) turi būti suprojektuota (-os) ir įrengta (-os) šio įstatymo 2 straipsnio 32 dalyje nurodytus reikalavimus atitinkanti (-ios) patalpa (-os).
+Straipsnio dalies pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
@@ -2678,7 +3010,10 @@ Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 
 
-2. Ūkio subjektas, atitinkantis 23 straipsnio 5 dalyje nurodytus Vyriausybės nustatytus kriterijus, ir veiklos vykdytojo vadovas nedelsdami (iš karto) perspėja gyventojus, valstybės ir savivaldybių institucijas ir įstaigas, kitas įstaigas ir ūkio subjektus, patenkančius į galimos taršos ar pavojaus zoną, apie ekstremalųjį įvykį, gresiančią ar susidariusią ekstremaliąją situaciją.
+2. Ūkio subjektas, atitinkantis šio įstatymo 23 straipsnio 5 dalyje nurodytus Vyriausybės nustatytus kriterijus, ir veiklos vykdytojo vadovas nedelsdami (iš karto, suderinę su Nacionaliniu krizių valdymo centru) perspėja gyventojus, valstybės ir savivaldybių institucijas ir įstaigas, kitas įstaigas ir ūkio subjektus, patenkančius į galimos taršos ar pavojaus zoną, apie ekstremalųjį įvykį, gresiančią ar susidariusią ekstremaliąją situaciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
@@ -2693,7 +3028,9 @@ Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 
 
-5. Paskelbus savivaldybės lygio ekstremaliąją situaciją arba valstybės lygio ekstremaliąją situaciją, gyventojų informavimą koordinuoja atitinkamai savivaldybės operacijų centras arba Nacionalinis krizių valdymo centras.
+5. Paskelbus savivaldybės lygio ekstremaliąją situaciją arba valstybės lygio ekstremaliąją situaciją, gyventojų informavimą koordinuoja atitinkamai savivaldybės operacijų centras, derindamas su Nacionaliniu krizių valdymo centru, arba Nacionalinis krizių valdymo centras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
  
 
 
@@ -3184,6 +3521,259 @@ Vyriausybės nustatyta tvarka valstybės parama gali būti teikiama gyventojams,
 
 
 
+VI1 SKYRIUS
+YPATINGOS SVARBOS SUBJEKTŲ ATSPARUMO UŽTIKRINIMAS 
+ 
+
+
+491 straipsnis. Ypatingos svarbos subjektų nustatymas
+
+
+1. Ministerija, kuriai vadovaujančio ministro valdymo sričiai priskirtas juridinis asmuo, kita organizacija ar jų padalinys, identifikuoja ypatingos svarbos subjektus atsižvelgdama į Vyriausybės tvirtinamas ypatingos svarbos subjektų atsparumo stiprinimo gaires, nacionalinį galimų pavojų ir ekstremaliųjų situacijų rizikos vertinimą ir visas šias sąlygas:
+
+
+1) juridinis asmuo, kita organizacija ar jų padalinys teikia vieną ar daugiau būtinųjų paslaugų Lietuvos Respublikoje;
+
+
+
+
+2) juridinis asmuo, kita organizacija ar jų padalinys valdo ypatingos svarbos infrastruktūrą, kuri yra Lietuvos Respublikos teritorijoje;
+
+
+
+
+3) įvykis, ekstremalusis įvykis, ypatingas įvykis, ekstremalioji situacija ar krizė, įvertinus šio straipsnio 2 dalyje nurodytus kriterijus, turi didelį trikdomąjį poveikį vienos ar daugiau būtinųjų paslaugų teikimui arba kitos (-ų) būtinosios (-ųjų) paslaugos (-ų) teikimui šio įstatymo 1 priede nurodytuose sektoriuose, kurie yra priklausomi nuo tos (tų) būtinosios (-ųjų) paslaugos  (-ų).
+
+
+
+
+
+
+2. Didelis trikdomasis poveikis nustatomas įvertinus šiuos kriterijus, kurie detalizuojami Vyriausybės tvirtinamose ypatingos svarbos subjektų atsparumo stiprinimo gairėse:
+
+
+1) vartotojų, kurie priklauso nuo juridinio asmens, kitos organizacijos ar jų padalinio teikiamos būtinosios paslaugos, skaičių;
+
+
+
+
+2) šio įstatymo 1 priede nurodytų kitų sektorių ir subsektorių priklausomybę nuo atitinkamos būtinosios paslaugos;
+
+
+
+
+3) poveikį, kurį įvykis, ekstremalusis įvykis, ypatingas įvykis, ekstremalioji situacija ar krizė dėl savo masto ir trukmės galėtų padaryti gyventojų gyvybei ar sveikatai, jų būtiniausioms gyvenimo (veiklos) sąlygoms, turtui, aplinkai, gyvybiškai svarbių valstybės funkcijų atlikimui, viešajai tvarkai; 
+
+
+
+
+4) juridinio asmens, kitos organizacijos ar jų padalinio rinkos dalį būtinųjų paslaugų rinkoje;
+
+
+
+
+5) teritoriją, kurioje įvykis, ekstremalusis įvykis, ypatingas įvykis, ekstremalioji situacija ar krizė galėtų daryti poveikį, įskaitant bet kokius tarpvalstybinius padarinius;
+
+
+
+
+6) juridinio asmens, kitos organizacijos ar jų padalinio svarbą pakankamam būtinosios paslaugos lygiui užtikrinti atsižvelgiant į būtinosios paslaugos teikimo alternatyvas.
+
+
+
+
+
+
+3. Ministerija, kuriai vadovaujančio ministro valdymo sričiai priskirtas juridinis asmuo, kita organizacija ar jų padalinys, pasiūlo Vyriausybei atitinkamą juridinį asmenį, kitą organizaciją ar jų padalinį įtraukti į Vyriausybės tvirtinamą ypatingos svarbos subjektų sąrašą, kartu apie tai informuodama ir tą juridinį asmenį, kitą organizaciją ar jų padalinį.
+
+
+
+
+4. Vyriausybei priėmus sprendimą dėl juridinio asmens, kitos organizacijos ar jų padalinio įtraukimo į ypatingos svarbos subjektų sąrašą ar išbraukimo iš jo, Nacionalinis krizių valdymo centras:
+
+
+1) ne vėliau kaip per 5 darbo dienas nuo juridinio asmens, kitos organizacijos ar jų padalinio įtraukimo į ypatingos svarbos subjektų sąrašą ar išbraukimo iš jo dienos apie tai informuoja: 
+
+
+a) Lietuvos Respublikos kibernetinio saugumo įstatyme numatytą kompetentingą instituciją, kartu pranešdamas apie ypatingos svarbos subjektus, kurie priskirti šio įstatymo 1 priede nurodytiems bankininkystės, finansų rinkų infrastruktūros ir skaitmeninės infrastruktūros sektoriams, ir jiems taikomas šio įstatymo išimtis;
+
+
+
+
+b) ypatingos svarbos subjektą apie jam taikomus (išbraukimo iš ypatingos svarbos subjektų sąrašo atveju – nebetaikomus) šio įstatymo 492 straipsnyje nustatytus reikalavimus ir datą, nuo kurios šie reikalavimai taikomi (nebetaikomi), o ypatingos svarbos subjektą, kuris priskirtas šio įstatymo 1 priede nurodytam bankininkystės, finansų rinkų infrastruktūros ar skaitmeninės infrastruktūros sektoriui, – apie jam taikomas šio įstatymo išimtis;
+
+
+
+
+
+
+2) nedelsdamas, bet ne vėliau kaip per 5 darbo dienas nuo juridinio asmens, kitos organizacijos ar jų padalinio įtraukimo į ypatingos svarbos subjektų sąrašą dienos, Europos Komisijai pateikia šią informaciją:
+
+
+a) papildomų būtinųjų paslaugų, negu nurodytos 2023 m. liepos 25 d. Komisijos reglamente (ES) 2023/2450, kuriuo papildoma Europos Parlamento ir Tarybos direktyva (ES) 2022/2557, nustatant esminių paslaugų sąrašą, Lietuvos Respublikoje sąrašą;
+
+
+
+
+b) ypatingos svarbos subjektų, teikiančių būtinąsias paslaugas ir atitinkančių šio įstatymo 1 priede nurodytą tam tikrą sektorių ir subsektorių, skaičių.
+
+
+
+
+
+
+
+
+5. Ypatingos svarbos subjektų sąrašas sudaromas, taip pat ne rečiau kaip kas ketverius metus peržiūrimas ir atnaujinamas Vyriausybės tvirtinamose ypatingos svarbos subjektų atsparumo stiprinimo gairėse nustatyta tvarka.
+
+
+
+
+6. Nacionalinį saugumą užtikrinančios institucijos, teisėsaugos institucijos ir teismai ypatingos svarbos subjektams nepriskiriami.
+ 
+
+
+
+
+
+
+492 straipsnis. Reikalavimai ypatingos svarbos subjektams
+
+
+Ypatingos svarbos subjektas privalo:
+
+
+1) šio įstatymo 491 straipsnio 4 dalies 1 punkto b papunktyje nurodytu atveju ne vėliau kaip per 9 mėnesius nuo informacijos gavimo dienos, o vėliau – prireikus, bet ne rečiau kaip kas ketverius metus, Vyriausybės tvirtinamose ypatingos svarbos subjektų atsparumo stiprinimo gairėse nustatyta tvarka atlikti ypatingos svarbos subjekto rizikos vertinimą;
+
+
+
+
+2) atsižvelgdamas į nacionalinį galimų pavojų ir ekstremaliųjų situacijų rizikos vertinimą ir ypatingos svarbos subjekto rizikos vertinimą imtis tinkamų ir proporcingų priemonių, kuriomis būtų užtikrintas jo atsparumas (toliau – atsparumo užtikrinimo priemonės);
+
+
+
+
+3) parengti ir patvirtinti ypatingos svarbos subjekto atsparumo stiprinimo planą, kuriame būtų numatytos šios dalies 2 punkte nurodytos ypatingos svarbos subjekto atsparumo užtikrinimo priemonės; atsparumo užtikrinimo priemonės gali būti numatytos nacionaliniam saugumui užtikrinti svarbių įmonių saugumo planuose arba ekstremaliųjų situacijų valdymo planuose, jeigu tokie privalo būti rengiami;
+
+
+
+
+4) paskirti kontaktinį asmenį ryšiams su ministerija, kuriai vadovaujančio ministro valdymo sričiai jis priskirtas, Nacionaliniu krizių valdymo centru ir kitomis institucijomis palaikyti;
+
+
+
+
+5) ministerijos, kuriai vadovaujančio ministro valdymo sričiai priskirtas ypatingos svarbos subjektas, ir (ar) šio įstatymo 22 straipsnio 4 dalyje nurodytos priežiūros institucijos prašymu ir per jų nurodytą terminą, kuris negali būti trumpesnis kaip 5 darbo dienos, pateikti informaciją, reikalingą ypatingos svarbos subjekto atsparumui įvertinti;
+
+
+
+
+6) auditoriaus, atliekančio ypatingos svarbos subjekto jam nustatytų reikalavimų laikymosi auditą, prašymu suteikti prieigą prie su būtinųjų paslaugų teikimu susijusios informacijos ir ypatingos svarbos infrastruktūros, per jo nurodytą terminą pašalinti nustatytus trūkumus ir ne vėliau kaip per 5 darbo dienas nuo tokių trūkumų pašalinimo dienos apie tai informuoti auditorių ir ministeriją, kuriai vadovaujančio ministro valdymo sričiai priskirtas ypatingos svarbos subjektas; 
+
+
+
+
+7) per šio įstatymo 22 straipsnio 4 dalyje nurodytos priežiūros institucijos nurodytą terminą pašalinti ypatingos svarbos subjekto atsparumo įvertinimo metu nustatytus trūkumus ir ne vėliau kaip per 5 darbo dienas nuo tokių trūkumų pašalinimo dienos apie tai informuoti priežiūros instituciją ir ministeriją, kuriai vadovaujančio ministro valdymo sričiai priskirtas ypatingos svarbos subjektas;
+
+
+
+
+8) Vyriausybės nustatyta tvarka pranešti ministerijai, kuriai vadovaujančio ministro valdymo sričiai jis priskirtas, ir Nacionaliniam krizių valdymo centrui apie įvykį, ekstremalųjį įvykį, ypatingą įvykį, ekstremaliąją situaciją ar krizę, kurie sutrikdo arba gali sutrikdyti būtinosios paslaugos teikimą, nurodydamas numanomą to priežastį ir galimus padarinius bei visą informaciją, reikalingą tarpvalstybiniam poveikiui nustatyti;
+
+
+
+
+9) ne vėliau kaip per 30 dienų nuo įvykio, ekstremaliojo įvykio, ypatingo įvykio, ekstremaliosios situacijos ar krizės, nurodytų šios dalies 8 punkte, likvidavimo ar padarinių pašalinimo dienos pateikti ataskaitą ministerijai, kuriai vadovaujančio ministro valdymo sričiai jis priskirtas, ir Nacionaliniam krizių valdymo centrui;
+
+
+
+
+10) keistis su krizių valdymo ir civilinės saugos sistemos subjektais su ypatingos svarbos subjektų atsparumo užtikrinimu susijusia informacija tokiu būdu, kuris užtikrintų su ypatingos svarbos subjektų atsparumo užtikrinimu susijusios įslaptintos ir neįslaptintos informacijos apsaugą.
+ 
+
+
+
+
+
+
+
+
+493 straipsnis. Asmenų, pretenduojančių eiti ar einančių pareigas ypatingos svarbos subjektuose, patikra
+
+
+1. Ministerija, kuriai vadovaujančio ministro valdymo sričiai priskirtas ypatingos svarbos subjektas (išskyrus ypatingos svarbos subjektus, priskiriamus nacionaliniam saugumui užtikrinti svarbioms įmonėms pagal Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymą), nustato asmenų, dirbančių ypatingos svarbos subjekte ir (ar) vykdančių funkcijas, susijusias su ypatingos svarbos subjekto atsparumo užtikrinimu, taip pat asmenų, kuriems dėl jiems priskirtų funkcijų ar pavesto darbo būtų suteikta teisė be palydos patekti prie ypatingos svarbos infrastruktūros ar priimti sprendimus dėl jos funkcionavimo, einamų pareigų sąrašą (toliau – pareigų sąrašas), kuriame nurodo pareigas, į kurias skiriami ar paskirti asmenys turi atitikti šio straipsnio 2 dalyje nustatytus kriterijus. 
+
+
+
+
+2. Į pareigų sąraše nurodytas pareigas skiriamas arba paskirtas asmuo negali eiti pareigų sąraše nurodytų pareigų, jeigu jis įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, visuomenės saugumui ar dėl bet kurio iš šių nusikaltimų atitinkančios nusikalstamos veikos pagal kitų valstybių baudžiamuosius įstatymus ir turi neišnykusį ar nepanaikintą teistumą. 
+
+
+
+
+3. Šio straipsnio 1 dalyje nurodytų asmenų patikrai mutatis mutandis taikoma Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 17 straipsnio 3–7 dalyse nustatyta tvarka.
+
+
+
+
+4. Valstybės institucijos, vykdydamos asmenų, pretenduojančių eiti pareigas ypatingos svarbos subjektuose, tikrinimą, renkamus asmens duomenis tvarko nacionalinio saugumo ar gynybos tikslais Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatyme ir šiame įstatyme nustatyta tvarka.
+ 
+
+
+
+
+
+
+494 straipsnis. Europos mastu ypač reikšmingų ypatingos svarbos subjektų nustatymas ir jiems taikomi reikalavimai
+
+
+1. Ypatingos svarbos subjektas, gavęs šio įstatymo 491 straipsnio 4 dalies 1 punkto b papunktyje nurodytą pranešimą, ne vėliau kaip per 10 darbo dienų privalo informuoti ministeriją, kuriai vadovaujančio ministro valdymo sričiai jis priskirtas, ir Nacionalinį krizių valdymo centrą apie tai, kad jis teikia tas pačias arba panašias būtinąsias paslaugas bent šešioms valstybėms narėms arba šešiose ar daugiau valstybių narių, nurodydamas, kokias būtinąsias paslaugas jis teikia ir kokioms (-iose) valstybėms (-ėse) narėms (-ėse).
+
+
+
+
+2. Nacionalinis krizių valdymo centras privalo:
+
+
+1) nedelsdamas, bet ne vėliau kaip per 5 darbo dienas nuo šio straipsnio 1 dalyje nurodytos informacijos gavimo dienos, ją pateikti Europos Komisijai kartu su konkrečių ypatingos svarbos subjektų sąrašu;
+
+
+
+
+2) nedelsdamas, bet ne vėliau kaip per 5 darbo dienas nuo Europos Komisijos pranešimo, kad ypatingos svarbos subjektas laikomas Europos mastu ypač reikšmingu ypatingos svarbos subjektu, gavimo dienos, šią informaciją pateikti ypatingos svarbos subjektui, informuodamas apie jam taikomus šio straipsnio 3 dalyje nustatytus reikalavimus;
+
+
+
+
+3) konsultacijų su Europos Komisija metu Europos Komisijai pranešti, jeigu paslaugas, kurias ypatingos svarbos subjektas teikia Lietuvos Respublikai ar jos teritorijoje, Nacionalinis krizių valdymo centras laiko būtinosiomis paslaugomis;
+
+
+
+
+4) Europos Komisijos arba vienos iš valstybių narių, kurioms ar kuriose teikiama būtinoji paslauga, prašymu pateikti informaciją, susijusią su ypatingos svarbos subjekto rizikos vertinimu, atsparumo užtikrinimo priemonių sąrašą, informaciją apie priežiūros veiksmus, kurių imtasi siekiant užtikrinti ypatingos svarbos subjektui nustatytų reikalavimų laikymąsi, bei atsakomybės už reikalavimų, susijusių su ypatingos svarbos subjektų atsparumo užtikrinimu, nevykdymą taikymą;
+
+
+
+
+5) Europos Komisijos nustatyta tvarka, atsižvelgdamas į Europos Komisijos organizuojamų patariamųjų misijų specifiką, pateikti Europos Komisijai patariamųjų misijų dalyvių kandidatūras.
+
+
+
+
+
+
+3. Europos mastu ypač reikšmingas ypatingos svarbos subjektas Europos Komisijos organizuojamų patariamųjų misijų metu jų dalyviams privalo suteikti prieigą prie su būtinųjų paslaugų teikimu susijusios informacijos ir ypatingos svarbos infrastruktūros.
+
+
+
+
+Papildyta skyriumi:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
 VII skyrius
 Tarptautinis bendradarbiavimas 
  
@@ -3244,7 +3834,10 @@ Tarptautinis bendradarbiavimas
 52 straipsnis. Informacijos teikimas 
 
 
-1. Kilus krizei, gresiant ar susidarius ekstremaliajai situacijai, dėl kurių gali kilti pavojus kaimyninių valstybių gyventojams ir aplinkai, Nacionalinis krizių valdymo centras kaimyninėms valstybėms teikia informaciją apie krizę, gresiančią ar susidariusią ekstremaliąją situaciją ir dėl jų kilusius pavojus, jeigu kiti įstatymai, Lietuvos Respublikos tarptautinės sutartys ar tarptautiniai susitarimai nenustato kitaip. 
+1. Kilus krizei, gresiant ar susidarius ekstremaliajai situacijai, dėl kurių gali kilti pavojus užsienio valstybių gyventojams ir aplinkai, Nacionalinis krizių valdymo centras užsienio valstybių reagavimo į nelaimes koordinaciniams centrams ir Europos Komisijai teikia informaciją apie krizę, gresiančią ar susidariusią ekstremaliąją situaciją ir dėl jų kilusius pavojus, jeigu kiti įstatymai, Lietuvos Respublikos tarptautinės sutartys ar tarptautiniai susitarimai nenustato kitaip.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
@@ -3292,11 +3885,228 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-Lietuvos Respublikos 
-krizių valdymo ir 
+Lietuvos Respublikos
+krizių valdymo ir
 civilinės saugos įstatymo
-priedas
+1 priedas
+ 
+SEKTORIAI, SUBSEKTORIAI IR SUBJEKTŲ KATEGORIJOS
+ 
+
+
+
+ Sektorius 
+ Subsektorius 
+ Subjektų kategorijos 
+
+
+
+
+ 1. Energetika 
+ 1.1. Elektra 
+ 1.1.1. Elektros energetikos įmonės, atliekančios elektros energijos tiekimo funkciją 
+
+
+ 1.1.2. Elektros energijos skirstomųjų tinklų operatorius 
+
+
+ 1.1.3. Elektros energijos perdavimo sistemos operatorius 
+
+
+ 1.1.4. Elektros energijos gamintojas 
+
+
+ 1.1.5. Paskirtieji elektros energijos rinkos operatoriai, kaip apibrėžiama 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/943 dėl elektros energijos vidaus rinkos 2 straipsnio 8 punkte 
+
+
+ 1.1.6. Elektros energijos rinkos dalyviai, kaip apibrėžiama Reglamento (ES) 2019/943 2 straipsnio 25 punkte, teikiantys elektros energijos paklausos telkimo, energijos kaupimo paslaugas ir elektros energijos reguliavimo apkrovos paslaugas 
+
+
+ 1.2. Centralizuotas šilumos ir vėsumos tiekimas 
+ 1.2.1. Centralizuoto šilumos ar vėsumos energijos tiekimo operatoriai 
+
+
+ 1.3. Nafta 
+ 1.3.1. Naftotiekį valdanti įmonė 
+
+
+ 1.3.2. Naftos gamybos įmonė Naftos perdirbimo įmonė Naftą importuojanti įmonė, naftą įvežanti įmonė, naftos atsargas kaupianti įmonė, naftos atsargas tvarkanti įmonė 
+
+
+ 1.3.3. Centrinė naftos produktus ir naftos atsargas kaupianti ir tvarkanti organizacija 
+
+
+ 1.4. Dujos 
+ 1.4.1. Gamtinių dujų tiekimo įmonė 
+
+
+ 1.4.2. Gamtinių dujų skirstymo sistemos operatorius 
+
+
+ 1.4.3. Gamtinių dujų perdavimo sistemos operatorius 
+
+
+ 1.4.4. Gamtinių dujų laikymo sistemos operatorius 
+
+
+ 1.4.5. Suskystintų gamtinių dujų sistemos operatorius 
+
+
+ 1.4.6. Gamtinių dujų įmonė 
+
+
+ 1.4.7. Gamtinių dujų perdirbimo ir apdorojimo įrenginių operatoriai 
+
+
+ 1.5. Vandenilis 
+ 1.5.1. Vandenilio gamybos, laikymo ir perdavimo operatoriai 
+
+
+ 2. Transportas 
+ 2.1. Oro transportas 
+ 2.1.1. Oro vežėjai, kaip apibrėžiama 2008 m. kovo 11 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 300/2008 dėl civilinės aviacijos saugumo bendrųjų taisyklių ir panaikinančio Reglamentą (EB) Nr. 2320/2002 3 straipsnio 4 punkte, naudojami komerciniais tikslais 
+
+
+ 2.1.2. Oro uostas, įskaitant 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1315/2013 dėl Sąjungos transeuropinio transporto tinklo plėtros gairių, kuriuo panaikinamas Sprendimas Nr. 661/2010/ES, II priedo 2 skirsnyje išvardytus pagrindinius oro uostus, ir oro uostą valdančios įmonės vadovas Subjektai, eksploatuojantys oro uostuose esančius pagalbinius įrenginius 
+
+
+ 2.1.3. Skrydžių valdymo operatoriai, teikiantys skrydžių valdymo paslaugas, kaip apibrėžiama 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 549/2004, nustatančio bendro Europos dangaus sukūrimo pagrindą, 2 straipsnio 1 punkte 
+
+
+ 2.2. Geležinkelių transportas 
+ 2.2.1. Geležinkelių infrastruktūros valdytojas 
+
+
+ 2.2.2. Geležinkelių įmonė (vežėjas) 
+
+
+ 2.2.3. Geležinkelių paslaugų įrenginių operatorius 
+
+
+ 2.3. Vandens transportas 
+ 2.3.1. Vidaus vandenų, jūrų ir priekrantės keleivinio ir krovininio vandens transporto bendrovės, kaip apibrėžiama jūrų transporto atžvilgiu 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 725/2004 dėl laivų ir uostų įrenginių apsaugos stiprinimo I priede, neįskaitant tų bendrovių eksploatuojamų atskirų laivų 
+
+
+ 2.3.2. Uostus, įskaitant jų uosto įrenginius, kaip apibrėžiama Reglamento (EB) Nr. 725/2004 2 straipsnio 11 punkte, valdančios įmonės ir subjektai, vykdantys uostuose esančių įrenginių eksploatavimą, valdymą ir techninę priežiūrą 
+
+
+ 2.3.3. Laivų eismo tarnybų operatoriai 
+
+
+ 2.4. Kelių transportas 
+ 2.4.1. Kelių direkcijos, kaip apibrėžiama 2014 m. gruodžio 18 d. Komisijos deleguotojo reglamento (ES) Nr. 2015/962, kuriuo papildomos Europos Parlamento ir Tarybos direktyvos 2010/40/ES nuostatos, susijusios su visoje Europos Sąjungoje teikiamomis tikralaikės eismo informacijos paslaugomis, 2 straipsnio 12 punkte, atsakingos už eismo valdymo kontrolę, išskyrus viešuosius subjektus, kuriems eismo valdymo arba intelektinių transporto sistemų operatoriaus veikla yra tik neesminė jų bendrosios veiklos dalis 
+
+
+ 2.4.2. Intelektinių transporto sistemų operatoriai 
+
+
+   
+ 2.5. Viešasis transportas 
+ 2.5.1. Viešųjų paslaugų operatoriai, kaip apibrėžiama Europos Parlamento ir Tarybos reglamento (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinančio Tarybos reglamentus (EEB) Nr. 1191/69 ir Nr. 1107/70 2 straipsnio d punkte 
+
+
+ 3. Bankininkystė 
+   
+ 3.1.1. Kredito įstaigos, kaip apibrėžiama 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012, 4 straipsnio 1 punkte 
+
+
+ 4. Finansų rinkų infrastruktūros 
+   
+ 4.1.1. Prekybos vietų operatoriai 
+
+
+ 4.1.2. Pagrindinės sandorio šalys, kaip apibrėžiama 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų 2 straipsnio 1 punkte 
+
+
+ 5. Sveikata 
+   
+ 5.1.1. Asmens sveikatos priežiūros įstaigos 
+
+
+ 5.1.2. Europos Sąjungos etaloninės laboratorijos, nurodytos 2022 m. lapkričio 23 d. Europos Parlamento ir Tarybos reglamento (ES) 2022/2371 dėl didelių tarpvalstybinio pobūdžio grėsmių sveikatai, kuriuo panaikinamas Sprendimas Nr. 1082/2013/ES, 15 straipsnyje 
+
+
+ 5.1.3. Subjektai, vykdantys vaistų (vaistinių preparatų) mokslinius tyrimus ir eksperimentinę plėtrą  
+
+
+ 5.1.4. Subjektai, gaminantys pagrindinius farmacijos produktus ir farmacijos preparatus, nurodytus Ekonominės veiklos rūšių klasifikatoriaus (2 redakcija) C skirsnio 21 skyriuje 
+
+
+ 5.1.5. Subjektai, gaminantys medicinos priemones, kurios laikomos ypatingos svarbos ekstremaliosios visuomenės sveikatos situacijos atveju (ypatingos svarbos medicinos priemonių ekstremaliosios visuomenės sveikatos situacijos atveju sąrašas), kaip tai suprantama pagal 2022 m. sausio 25 d. Europos Parlamento ir Tarybos reglamento (ES) 2022/123 dėl didesnio Europos vaistų agentūros vaidmens pasirengimo vaistų ir medicinos priemonių krizei ir jos valdymo srityje 22 straipsnį 
+
+
+ 5.1.6. Subjektai, turintys didmeninio platinimo licenciją 
+
+
+ 6. Geriamasis vanduo 
+   
+ 6.1.1. Žmonėms vartoti skirto vandens tiekėjai ir skirstytojai, išskyrus skirstytojus, kuriems žmonėms vartoti skirto vandens skirstymas yra neesminė jų bendrosios kitų prekių ir produktų paskirstymo veiklos dalis 
+
+
+ 7. Nuotekos 
+   
+ 7.1.1. Nuotekas renkančios, šalinančios ar valančios įmonės, išskyrus įmones, kurioms miesto nuotekų, buitinių nuotekų ar pramoninių nuotekų rinkimas, šalinimas ar valymas yra neesminė jų bendrosios veiklos dalis 
+
+
+ 8. Skaitmeninė infrastruktūra 
+   
+ 8.1.1. Interneto duomenų srautų mainų taško teikėjai 
+
+
+ 8.1.2. Domenų vardų sistemos paslaugų teikėjai 
+
+
+ 8.1.3. Aukščiausio lygio domenų vardų registravimo paslaugas teikiantys subjektai 
+
+
+ 8.1.4. Debesijos paslaugų teikėjai 
+
+
+ 8.1.5. Duomenų centrų paslaugų teikėjai 
+
+
+ 8.1.6. Paskirstytojo turinio teikimo tinklo teikėjai 
+
+
+ 8.1.7. Patikimumo užtikrinimo paslaugų teikėjai  
+
+
+ 8.1.8. Viešųjų elektroninių ryšių tinklų teikėjai 
+
+
+ 8.1.9. Viešųjų elektroninių ryšių paslaugų teikėjai 
+
+
+ 9. Viešasis administravimas 
+   
+ 9.1.1. Valstybinio administravimo subjektai 
+
+
+ 10. Kosmosas 
+   
+ 10.1.1. Lietuvos Respublikos įsteigtos arba privatiems subjektams priklausančios, jų valdomos ir eksploatuojamos antžeminės infrastruktūros operatoriai, kurie remia kosminių paslaugų teikimą, išskyrus viešųjų elektroninių ryšių tinklų teikėjus 
+
+
+ 11. Maisto produktų gamyba, maisto perdirbimas ir platinimas 
+   
+ 11.1.1. Maisto verslo įmonės, kaip apibrėžiama 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002, nustatančio maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiančio Europos maisto saugos tarnybą ir nustatančio su maisto saugos klausimais susijusias procedūras, 3 straipsnio 2 punkte, užsiimančios tik logistika ir didmeniniu platinimu, didelio masto pramonine gamyba bei perdirbimu 
+
+
+
+_______________
+ 
+ 
+Papildyta priedu:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
+
+
+
+
+„Lietuvos Respublikos
+krizių valdymo ir
+civilinės saugos įstatymo
+2 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
@@ -3310,11 +4120,16 @@ priedas
 2. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/18/ES dėl didelių, su pavojingomis cheminėmis medžiagomis susijusių avarijų pavojaus kontrolės, iš dalies keičianti ir vėliau panaikinanti Tarybos direktyvą 96/82/EB.
 
 
-–––––––––––––––––––––
 
 
+3. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2557 dėl ypatingos svarbos subjektų atsparumo, kuria panaikinama Tarybos direktyva 2008/114/EB.
+_______________“.
+ 
 
 
+Priedo pakeitimai:
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+ 
 
 
 
@@ -3420,3 +4235,8 @@ Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2377, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25629
 Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 5, 7, 34 ir 40 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
+Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 1, 2, 7, 9, 11, 12, 13, 18, 21, 22, 23, 28, 36, 52 straipsnių, priedo pakeitimo ir Įstatymo papildymo VI-1 skyriumi ir nauju 1 priedu įstatymas
