@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b1eee4909be911ea9515f752ff221ec9"
 
 # Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-11-18
+Suvestinė redakcija nuo 2024-11-19
  
 Įstatymas paskelbtas: TAR 2020-05-22, i. k. 2020-10869
  
@@ -940,7 +940,16 @@ Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
 
 
 
-2) iki 2021 m. sausio 1 d. buvo išduotas statybą leidžiantis dokumentas ir pasikeitus esminiams statinio projekto sprendiniams reikia gauti naują statybą leidžiantį dokumentą, tačiau pastato (pastatų) bendrasis plotas (kvadratiniais metrais) ir (ar) inžinerinio statinio, kuris nepriklauso savivaldybės infrastruktūrai ir jo naudojimui reikalinga savivaldybės infrastruktūra, užstatytas plotas (kvadratiniais metrais) nedidėja. Jeigu šiame punkte nurodytu atveju pastato (pastatų) bendrasis plotas (kvadratiniais metrais) ir (ar) inžinerinio statinio, kuris nepriklauso savivaldybės infrastruktūrai ir jo naudojimui reikalinga savivaldybės infrastruktūra, užstatytas plotas (kvadratiniais metrais) didėja – savivaldybės infrastruktūros plėtros įmoka apskaičiuojama ir mokama tik už padidėjusį pastato (pastatų) bendrą plotą ir (ar) inžinerinio statinio užstatytą plotą.
+2) iki 2021 m. sausio 1 d. buvo išduotas statybą leidžiantis dokumentas ir pasikeitus esminiams statinio projekto sprendiniams reikia gauti naują statybą leidžiantį dokumentą, tačiau pastato (pastatų) bendrasis plotas (kvadratiniais metrais) ir (ar) inžinerinio statinio, kuris nepriklauso savivaldybės infrastruktūrai ir jo naudojimui reikalinga savivaldybės infrastruktūra, užstatytas plotas (kvadratiniais metrais) nedidėja. Jeigu šiame punkte nurodytu atveju pastato (pastatų) bendrasis plotas (kvadratiniais metrais) ir (ar) inžinerinio statinio, kuris nepriklauso savivaldybės infrastruktūrai ir jo naudojimui reikalinga savivaldybės infrastruktūra, užstatytas plotas (kvadratiniais metrais) didėja – savivaldybės infrastruktūros plėtros įmoka apskaičiuojama ir mokama tik už padidėjusį pastato (pastatų) bendrą plotą ir (ar) inžinerinio statinio užstatytą plotą;
+
+
+
+
+3) pastatas (pastatai) ir (ar) inžinerinis statinys (statiniai), statomi vietoj sugriuvusio, sunaikinto, nugriauto pastato (pastatų) ir (ar) inžinerinio statinio (statinių), kurių statybos užbaigimo procedūra atlikta, kai ji, vadovaujantis Statybos įstatymu, privaloma, arba statyba užbaigta (100 proc. baigtumas), kai statybos užbaigimo procedūra neprivaloma, ir statomo naujo pastato (pastatų) ir (ar) inžinerinio statinio (statinių), kurių bendrasis plotas ir (ar) užstatytas plotas (kvadratiniais metrais) yra ne didesnis už sugriuvusio, sunaikinto ar nugriauto pastato (pastatų) bendrąjį plotą (ir) ar statinio (statinių) užstatytą plotą (kvadratiniais metrais). Jeigu šiame punkte nurodytu atveju statomo naujo pastato (pastatų) bendrasis plotas (kvadratiniais metrais) arba inžinerinio statinio (statinių), kuris (kurie) nepriklauso savivaldybės infrastruktūrai ir jam (jiems) naudoti reikalinga savivaldybės infrastruktūra, užstatytas plotas (kvadratiniais metrais) didėja – savivaldybės infrastruktūros plėtros įmoka apskaičiuojama ir mokama tik už padidėjusį pastato (pastatų) bendrąjį plotą ir (ar) inžinerinio statinio (statinių) užstatytą plotą. Šis punktas taikomas, kai statiniams griauti ir naujiems statyti rengiamas vienas statinio projektas ir statybai (statiniams griauti ir naujiems statyti) vykdyti išduodamas vienas statybą leidžiantis dokumentas, kai statinio projektas ir (ar) statybą leidžiantis dokumentas, vadovaujantis Statybos įstatymu, privalomas.
+TAR pastaba. 2024-11-07 įstatymo Nr. XIV-3086 nuostatos taikomos tais atvejais, kai prašymas apskaičiuoti savivaldybės infrastruktūros plėtros įmoką pateikiamas įsigaliojus 2024-11-07 įstatymui Nr. XIV-3086 (2024-11-19).  
+Papildyta straipsnio punktu:
+Nr. XIV-3086, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20024
+ 
 
 
 
@@ -1062,3 +1071,8 @@ Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymo Nr. XIII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2689, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11167
 Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymo Nr. XIII-2895 12 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3086, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20024
+Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymo Nr. XIII-2895 15 straipsnio pakeitimo įstatymas
