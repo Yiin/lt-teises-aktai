@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.26F6C7869872"
 
 # Lietuvos Respublikos įstatymas dėl Berno konvencijos dėl literatūros ir meno kūrinių apsaugos ratifikavimo
 
+Suvestinė redakcija nuo 2024-11-20
+ 
+Įstatymas paskelbtas: Žin. 1996, Nr. 55-1291, i. k. 0961010ISTA00I-1351
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS DĖL BERNO KONVENCIJOS DĖL LITERATŪROS IR MENO KŪRINIŲ APSAUGOS RATIFIKAVIMO
 Į S T A T Y M A S
@@ -33,18 +37,26 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 
 
-2 straipsnis. Lietuvos Respublikos pareiškimas
-
-
-Lietuvos Respublikos Seimas pareiškia, kad lieka galioti Lietuvos Respublikos prisijungimo dokumentuose išdėstytas pareiškimas, pagal kurį, vadovaudamasi Konvencijos 33 straipsnio 2 dalimi, Lietuvos Respublika nelaiko savęs susaistyta Konvencijos 33 straipsnio 1 dalies nuostatomis, kuriomis remiantis bet koks dviejų arba kelių Berno Sąjungoje dalyvaujančių valstybių ginčas dėl Konvencijos aiškinimo ar taikymo, neišspręstas derybomis, vienos iš ginčo šalių prašymu perduodamas Tarptautiniam Teismui.
- 
+2 straipsnis. Neteko galios nuo 2024-11-20
+Straipsnio naikinimas:
+Nr. XIV-3101, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20120
  
 
 
 
 
-
-
+ 
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3101, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20120
+Lietuvos Respublikos įstatymo „Dėl Berno konvencijos dėl literatūros ir meno kūrinių apsaugos ratifikavimo“ Nr. I-1351 2 straipsnio pripažinimo netekusiu galios įstatymas
