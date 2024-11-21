@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2024-10-25 iki 2024-11-20
+Suvestinė redakcija nuo 2024-11-21
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -4313,10 +4313,11 @@ Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
 
 
 
-4. Komisiją sudaro 11 narių: du narius skiria Respublikos Prezidentas, tris narius (vieną – iš opozicinių frakcijų) – Seimas Kultūros komiteto teikimu, tris narius – Lietuvos meno kūrėjų asociacija, vieną narį – Lietuvos katalikų bažnyčios Vyskupų konferencija, vieną narį – Lietuvos žurnalistų sąjunga, vieną narį – Lietuvos žurnalistų draugija. Komisijos nariu gali būti skiriamas tik nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį išsilavinimą ir ne mažesnę kaip penkerių metų patirtį audiovizualinės politikos, viešosios informacijos rengėjo ar skleidėjo veiklos srityse, profesinės ar akademinės patirties visuomenės informavimo, švietimo, kultūros, mokslo ar žmogaus teisių srityse. Komisijos nariui taikomi tokie patys kaip ir valstybės tarnautojams Valstybės tarnybos įstatyme nustatyti kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos. Komisijos nariu negali būti skiriamas asmuo, kuris mažiau kaip prieš vienus metus ėjo pareigas reguliuojamų sektorių įmonių ar organizacijų valdymo organuose ir (ar) gali tose įmonėse ar organizacijose turėti interesų. Komisijos nariai skiriami ketverių metų kadencijai ir jais gali būti ne ilgiau kaip dvi kadencijas iš eilės. Likus ne mažiau kaip 60 dienų iki Komisijos kadencijos pabaigos, Komisija kreipiasi į Komisijos narius skiriančias institucijas ar organizacijas dėl naujų narių skyrimo. Komisijos nario darbo Komisijoje teisinis pagrindas yra jį paskyrusios institucijos (institucijų) ar organizacijos (organizacijų) priimtas sprendimas. Komisijos pirmininkui, pirmininko pavaduotojui ir nariams taikomos Viešųjų ir privačių interesų derinimo įstatymo nuostatos. Kai Komisijos narys dirba ne visą darbo dieną, už darbą atliekant Komisijos nario pareigas jam apmokama atsižvelgiant į faktiškai dirbtą darbo laiką. 
+4. Komisiją sudaro 11 narių: du narius skiria Respublikos Prezidentas, tris narius (vieną – iš opozicinių frakcijų) – Seimas Seimo Kultūros komiteto teikimu, tris narius – Lietuvos meno kūrėjų asociacija, vieną narį – Lietuvos katalikų bažnyčios Vyskupų konferencija, vieną narį – Lietuvos žurnalistų sąjunga, vieną narį – Lietuvos žurnalistų draugija. Komisijos nariu gali būti skiriamas tik nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį išsilavinimą ir ne mažesnę kaip penkerių metų patirtį audiovizualinės politikos, viešosios informacijos rengėjo ar skleidėjo veiklos srityse, profesinės ar akademinės patirties visuomenės informavimo, švietimo, kultūros, mokslo ar žmogaus teisių srityse. Komisijos nariu negali būti skiriamas asmuo, kuris mažiau kaip prieš vienus metus ėjo pareigas reguliuojamų sektorių įmonių ar organizacijų valdymo organuose ir (ar) gali tose įmonėse ar organizacijose turėti interesų. Komisijos nariai skiriami ketverių metų kadencijai ir jais gali būti ne ilgiau kaip dvi kadencijas iš eilės. Likus ne mažiau kaip 60 dienų iki Komisijos kadencijos pabaigos, Komisija kreipiasi į Komisijos narius skiriančias institucijas ar organizacijas dėl naujų narių skyrimo. Komisijos nario darbo Komisijoje teisinis pagrindas yra jį paskyrusios institucijos (institucijų) ar organizacijos (organizacijų) priimtas sprendimas. Komisijos pirmininkui, pirmininko pavaduotojui ir Komisijos nariams taikomos Viešųjų ir privačių interesų derinimo įstatymo nuostatos. Kai Komisijos narys dirba ne visą darbo dieną, už darbą atliekant Komisijos nario pareigas jam apmokama atsižvelgiant į faktiškai dirbtą darbo laiką. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
 Nr. XIV-1989, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11560
+Nr. XIV-3120, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20204
  
 
 
@@ -4382,16 +4383,20 @@ Nr. XIV-1989, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11560
 
 
 
-8. Komisijos nario įgaliojimai nutrūksta pasibaigus jo kadencijai. 
+8. Komisijos nario įgaliojimai nutrūksta pasibaigus jo kadencijai. Jeigu pasibaigus Komisijos pirmininko, jo pavaduotojo kadencijai jie nėra paskiriami antrai kadencijai ir per 2 mėnesių terminą nepradeda eiti valstybės pareigūno ar valstybės tarnautojo pareigų, jiems išmokama 2 mėnesių darbo užmokesčio dydžio išeitinė išmoka. Komisijos pirmininkui ar jo pavaduotojui, atleidžiamiems iš pareigų, kai jie nebegali eiti šių pareigų dėl sveikatos būklės, išmokama 3 mėnesių darbo užmokesčio dydžio išeitinė išmoka. Komisijos pirmininkui ar jo pavaduotojui mirus, jo šeimos nariams išmokama 3 mėnesių darbo užmokesčio dydžio išmoka. Šios išmokos mokamos iš Komisijai skirtų valstybės biudžeto asignavimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3120, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20204
+ 
 
 
 
 
-9. Komisijos nariais negali būti Seimo, Vyriausybės nariai, LRT tarybos nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, Komisijos administracijos darbuotojai, asmenys, einantys pareigas Komisijos prižiūrimų ūkio subjektų, nurodytų šio straipsnio 1 dalyje, valdymo organuose ar esantys šių ūkio subjektų dalyviai. Komisijos nariai negali būti susiję darbo santykiais, autorinėmis sutartimis su Komisijos prižiūrimais ūkio subjektais ar teikti jiems paslaugas pagal kitą sutartį, išskyrus atvejus, kai jie šiuose subjektuose dirba mokslinį ar pedagoginį darbą. Komisijos nariu negali būti asmuo, kurio artimi asmenys, kaip jie apibrėžti Viešųjų ir privačių interesų derinimo įstatyme, yra susiję darbo santykiais, autorinėmis sutartimis su Komisijos prižiūrimais ūkio subjektais ar teikia jiems paslaugas pagal kitą sutartį arba eina pareigas Komisijos prižiūrimų ūkio subjektų valdymo organuose, arba yra šių subjektų dalyviai, išskyrus atvejus, kai jie šiuose subjektuose dirba mokslinį ar pedagoginį darbą. Komisijos pirmininkas, jo pavaduotojas gali dirbti tik Komisijoje, joje eiti tik šias pareigas ir negali verstis jokia kita veikla, išskyrus atvejus, kai Komisijos pirmininkas, jo pavaduotojas dirba mokslinį ar pedagoginį darbą ir (arba) gauna autorinį atlyginimą už kūrybinę veiklą, jei tokia veikla nesukelia viešųjų ir privačių interesų konflikto. Politinių partijų nariai, paskirti į Komisiją, sustabdo savo narystę politinėje partijoje ir dalyvavimą jos veikloje iki savo kadencijos Komisijoje pabaigos.
+9. Komisijos nariais negali būti Seimo, Vyriausybės nariai, LRT tarybos nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, Komisijos administracijos darbuotojai, asmenys, einantys pareigas Komisijos prižiūrimų ūkio subjektų, nurodytų šio straipsnio 1 dalyje, valdymo organuose ar esantys šių ūkio subjektų dalyviai. Komisijos nariai negali būti susiję darbo santykiais, autorių teisių sutartimis su Komisijos prižiūrimais ūkio subjektais ar teikti jiems paslaugas pagal kitą sutartį, išskyrus atvejus, kai jie šiuose subjektuose dirba mokslinį ar pedagoginį darbą. Komisijos nariu negali būti asmuo, kurio artimi asmenys, kaip jie apibrėžti Viešųjų ir privačių interesų derinimo įstatyme, yra susiję darbo santykiais, autorių teisių sutartimis su Komisijos prižiūrimais ūkio subjektais ar teikia jiems paslaugas pagal kitą sutartį arba eina pareigas Komisijos prižiūrimų ūkio subjektų valdymo organuose, arba yra šių subjektų dalyviai, išskyrus atvejus, kai jie šiuose subjektuose dirba mokslinį ar pedagoginį darbą. Komisijos pirmininkas, jo pavaduotojas gali dirbti tik Komisijoje, joje eiti tik šias pareigas ir negali verstis jokia kita veikla, išskyrus atvejus, kai Komisijos pirmininkas, jo pavaduotojas dirba mokslinį ar pedagoginį darbą ir (arba) gauna autorinį atlyginimą už kūrybinę veiklą, jeigu tokia veikla nesukelia viešųjų ir privačių interesų konflikto, taip pat jeigu gauna užmokestį už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose arba Lietuvos vystomojo bendradarbiavimo projektuose, kuriuose vykdoma su žmogaus teisių apsauga, sklaida ar Komisijos veiklos tobulinimu susijusi pedagoginė ar kūrybinė veikla. Politinių partijų nariai, paskirti į Komisiją, sustabdo savo narystę politinėje partijoje ir dalyvavimą jos veikloje iki savo kadencijos Komisijoje pabaigos.
 Straipsnio dalies pakeitimai:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
 Nr. XIV-1079, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11314
+Nr. XIV-3120, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20204
  
 
 
@@ -4925,10 +4930,11 @@ Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
 
 
 
-3. Inspektoriumi skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį išsilavinimą ir pareigoms atlikti būtiną kompetenciją bei atitinkantis Reglamento (ES) 2016/679 53 straipsnio 2 dalies reikalavimus. Nepriekaištingos reputacijos reikalavimai taikomi tokie, kokie valstybės tarnautojams nustatyti Valstybės tarnybos įstatyme. 
+3. Inspektoriumi skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį išsilavinimą ir pareigoms atlikti būtiną kompetenciją bei atitinkantis Reglamento (ES) 2016/679 53 straipsnio 2 dalies reikalavimus. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
 Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
+Nr. XIV-3120, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20204
  
 
 
@@ -4949,9 +4955,10 @@ Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
 
 
 
-7. Inspektorius negali eiti jokių kitų renkamų ar skiriamų pareigų, taip pat gauti jokio kito atlyginimo, išskyrus inspektoriaus darbo užmokestį ir užmokestį už pedagoginę ar kūrybinę veiklą. 
+7. Inspektorius negali eiti jokių kitų renkamų ar skiriamų pareigų, taip pat gauti jokio kito atlyginimo, išskyrus inspektoriaus darbo užmokestį ir užmokestį už pedagoginę ar kūrybinę veiklą, taip pat užmokestį už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose arba Lietuvos vystomojo bendradarbiavimo projektuose, kuriuose vykdoma su žmogaus teisių apsauga, sklaida ar ombudsmenų institucijų veiklos tobulinimu susijusi pedagoginė ar kūrybinė veikla. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1989, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11560
+Nr. XIV-3120, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20204
  
 
 
@@ -4975,11 +4982,27 @@ Nr. XIV-1989, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11560
 
 
 
-4) nebeatitinka šio straipsnio 3 ir 4 dalyse jam keliamų reikalavimų. 
+4) nebeatitinka šio straipsnio 3 ir 4 dalyse jam keliamų reikalavimų; 
+
+
+
+
+5) pagal sveikatos priežiūros įstaigos išvadą jis nebegali eiti šių pareigų. 
+Papildyta straipsnio punktu:
+Nr. XIV-3120, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20204
+ 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
+ 
+
+
+
+
+81. Jeigu pasibaigus inspektoriaus kadencijai jis nėra paskiriamas antrai kadencijai ir per 2 mėnesių terminą nepradeda eiti valstybės pareigūno ar valstybės tarnautojo pareigų, jam išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Inspektoriui, atleidžiamam iš šių pareigų, kai jis pagal sveikatos priežiūros įstaigos išvadą nebegali eiti savo pareigų, išmokama 3 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Inspektoriui mirus, jo šeimos nariams išmokama 3 mėnesių jo vidutinio darbo užmokesčio dydžio išmoka. Šioje dalyje nurodytos išmokos mokamos iš Žurnalistų etikos inspektoriaus tarnybai skirtų valstybės biudžeto lėšų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3120, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20204
  
 
 
@@ -6025,3 +6048,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 34-1 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3029, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18428
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2 ir 39 straipsnių pakeitimo įstatymas
+ 
+39.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3120, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20204
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 47 ir 49 straipsnių pakeitimo įstatymas
