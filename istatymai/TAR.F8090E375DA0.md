@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.02.25)
 
 
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-11-20
+Suvestinė redakcija nuo 2024-11-21 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
  
@@ -1800,17 +1800,26 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 
 
 
-4) juridinio asmens ar užsienio juridinio asmens filialo vadovai nėra (nebuvo) juridinio asmens ar užsienio juridinio asmens filialo vadovai ar kiti darbuotojai, jeigu jie veikė juridinio asmens ar užsienio juridinio asmens filialo vardu ar dėl jo interesų tuo metu, kai juridiniam asmeniui ar užsienio juridinio asmens filialui buvo panaikintas licencijos galiojimas šio straipsnio 15 dalies 3 punkte, 16 dalies 4 punkte ar šio Įstatymo 26 straipsnio 5 dalyje nustatytais pagrindais, o jeigu licencijos galiojimas buvo panaikintas, – nuo šio straipsnio 2 dalies 3 punkte nurodyto nuosprendžio, nutarties ar nutarimo įsiteisėjimo dienos yra praėję ne mažiau kaip penkeri metai;
+4) juridinio asmens ar užsienio juridinio asmens filialo vadovai nėra (nebuvo) juridinio asmens ar užsienio juridinio asmens filialo vadovai ar kiti darbuotojai, jeigu jie veikė juridinio asmens ar užsienio juridinio asmens filialo vardu ar dėl jo interesų tuo metu, kai juridiniam asmeniui ar užsienio juridinio asmens filialui buvo panaikintas licencijos galiojimas šio straipsnio 15 dalies 3 punkte, 16 dalies 4 punkte ar šio Įstatymo 26 straipsnio 5, 7 ar 8 dalyje nustatytais pagrindais, o jeigu licencijos galiojimas buvo panaikintas, – nuo šio straipsnio 2 dalies 3 punkte nurodyto nuosprendžio, nutarties ar nutarimo įsiteisėjimo dienos yra praėję ne mažiau kaip penkeri metai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
+ 
 
 
 
 
-5) per pastaruosius penkerius metus juridiniam asmeniui ar užsienio juridinio asmens filialui nebuvo panaikintas licencijos galiojimas šio straipsnio 15 dalies 3 punkte, 16 dalies 4 punkte ar šio Įstatymo 26 straipsnio 5 dalyje nustatytais pagrindais;
+5) per pastaruosius penkerius metus juridiniam asmeniui ar užsienio juridinio asmens filialui nebuvo panaikintas licencijos galiojimas šio straipsnio 15 dalies 3 punkte, 16 dalies 4 punkte ar šio Įstatymo 26 straipsnio 5, 7 ar 8 dalyje nustatytais pagrindais; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
+ 
 
 
 
 
-6) per pastaruosius vienus metus juridiniam asmeniui ar užsienio juridinio asmens filialui nebuvo panaikintas licencijos galiojimas šio straipsnio 15 dalies 5 punkte, 16 dalies 6 punkte ar šio Įstatymo 26 straipsnio 8 dalyje nustatytais pagrindais;
+6) per pastaruosius vienus metus juridiniam asmeniui ar užsienio juridinio asmens filialui nebuvo panaikintas licencijos galiojimas šio straipsnio 15 dalies 5 punkte ar 16 dalies 6 punkte nustatytais pagrindais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
+ 
 
 
 
@@ -2890,7 +2899,10 @@ Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
 
 
 
-11. Už šio Įstatymo 92 straipsnio, 93 straipsnio 1 ir 2 dalyse, 94, 95 ir 97 straipsniuose nustatytų elektroninių cigarečių sudėties, kokybės ir ženklinimo reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo penkių šimtų iki vieno tūkstančio eurų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio iki dviejų tūkstančių eurų bauda.
+11. Už šio Įstatymo 92 straipsnyje, 93 straipsnio 1 ir 2 dalyse, 94, 95 ir 97 straipsniuose nustatytų elektroninių cigarečių sudėties, kokybės ir ženklinimo reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio penkių šimtų eurų iki trijų tūkstančių eurų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo keturių tūkstančių eurų iki aštuonių tūkstančių eurų bauda. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
+ 
 
 
 
@@ -2924,9 +2936,10 @@ Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
 
 
 
-5. Už šio Įstatymo 14 straipsnio 3 dalies 1, 2, 3 ar 4 punktuose nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako pardavimo, laikymo ar gabenimo draudimų, išskyrus šio straipsnio 6 dalyje nustatytą atvejį, pažeidimą, už šio Įstatymo 141 straipsnio 1, 2, 3, 4 dalyse nustatytų su tabako gaminių atsekamumu susijusių reikalavimų pažeidimą, jeigu tai neužtraukia baudžiamosios atsakomybės, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų iki aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų bauda ir panaikinamas licencijos galiojimas. 
+5. Už šio Įstatymo 14 straipsnio 3 dalies 1 ar 4 punktuose nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako pardavimo, laikymo ar gabenimo draudimų, išskyrus šio straipsnio 6 dalyje nustatytą atvejį, pažeidimą, už šio Įstatymo 141 straipsnio 1, 2, 3, 4 dalyse nustatytų su tabako gaminių atsekamumu susijusių reikalavimų pažeidimą, jeigu tai neužtraukia baudžiamosios atsakomybės, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo  dvidešimt tūkstančių eurų iki keturiasdešimt tūkstančių eurų bauda ir panaikinamas licencijos galiojimas. Už šio Įstatymo 14 straipsnio 3 dalies 2 ar 3 punktuose nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako pardavimo, laikymo ar gabenimo draudimų pažeidimą, jeigu tai neužtraukia baudžiamosios atsakomybės, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dvidešimt tūkstančių eurų iki keturiasdešimt tūkstančių eurų bauda ir panaikinamas visų turimų licencijų verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba, didmenine ir mažmenine prekyba galiojimas, taip pat visų turimų licencijų verstis neapdoroto tabako didmenine prekyba galiojimas. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
+Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
  
 
 
@@ -2940,12 +2953,18 @@ Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
 
 
 
-7. Už šio Įstatymo 87 straipsnyje ir 14 straipsnio 5 dalies 1 ar 2 punkte nustatytų reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda, už šių draudimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. Už šio Įstatymo 14 straipsnio 5 dalies 3 punkte nustatyto tabako gaminių, su tabako gaminiais susijusių gaminių pardavimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda, už šio draudimo pažeidimą, padarytą toje pačioje mažmeninės prekybos vietoje pakartotinai per trejus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų iki penkių tūkstančių septynių šimtų devyniasdešimt dviejų eurų bauda ir panaikinamas licencijos galiojimas toje pačioje mažmeninės prekybos vietoje, kurioje nustatytas pakartotinis pažeidimas per trejus metus nuo baudos paskyrimo. Už šio Įstatymo 41 straipsnyje nustatytų tabako gaminių pateikimo rinkai draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. Už šio Įstatymo 99 straipsnyje nustatytų rūkomųjų žolinių gaminių ženklinimo reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda.
+7. Už šio Įstatymo 87 straipsnyje ir 14 straipsnio 5 dalies 1 ar 2 punkte nustatytų reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda, už šių draudimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. Už šio Įstatymo 14 straipsnio 5 dalies 3 punkte nustatyto tabako gaminių, rūkomųjų žolinių gaminių, su tabako gaminiais susijusių gaminių pardavimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo keturių tūkstančių eurų iki šešių tūkstančių eurų bauda. Už šio draudimo pažeidimą, padarytą pakartotinai per trejus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo šešių tūkstančių eurų iki dešimt tūkstančių eurų bauda ir panaikinamas tik tos rūšies licencijos verstis mažmenine prekyba, pagal kurią verčiantis šia prekyba padarytas pažeidimas, galiojimas toje pačioje mažmeninės prekybos vietoje, kurioje nustatytas pakartotinis pažeidimas per trejus metus nuo baudos paskyrimo. Už šio Įstatymo 41 straipsnyje nustatytų tabako gaminių pateikimo rinkai draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. Už šio Įstatymo 99 straipsnyje nustatytų rūkomųjų žolinių gaminių ženklinimo reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
+ 
 
 
 
 
-8. Už šio Įstatymo 15 straipsnio 1 dalies 1, 2 punktuose nustatytų prekybos tabako gaminiais, su tabako gaminiais susijusiais gaminiais draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų bauda. Už šių draudimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų iki septyniolikos tūkstančių trijų šimtų septyniasdešimt dviejų eurų bauda ir panaikinamas visų turimų licencijų verstis mažmenine prekyba tabako gaminiais ir (ar) licencijų verstis mažmenine prekyba su tabako gaminiais susijusiais gaminiais galiojimas. Už šio Įstatymo 15 straipsnio 1 dalies 3, 4, 5 punktuose nustatytų prekybos tabako gaminiais, su tabako gaminiais susijusių gaminių draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda. Už šių draudimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. Už šio Įstatymo 16 straipsnyje nustatyto prekių, skirtų tabako gaminiams rūkyti ar pasiruošti rūkyti, pardavimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda.
+8. Už šio Įstatymo 15 straipsnio 1 dalies 1, 2 punktuose nustatytų prekybos tabako gaminiais, su tabako gaminiais susijusiais gaminiais draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo keturių tūkstančių eurų iki dvylikos tūkstančių eurų bauda. Už šių draudimų pažeidimą, padarytą pakartotinai per trejus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dvylikos tūkstančių eurų iki trisdešimt tūkstančių eurų bauda ir panaikinamas visų turimų licencijų verstis mažmenine prekyba tabako gaminiais ir (ar) licencijų verstis mažmenine prekyba su tabako gaminiais susijusiais gaminiais galiojimas. Už šio Įstatymo 15 straipsnio 1 dalies 3, 4, 5 punktuose nustatytų prekybos tabako gaminiais, su tabako gaminiais susijusių gaminių draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda. Už šių draudimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. Už šio Įstatymo 16 straipsnyje nustatyto prekių, skirtų tabako gaminiams rūkyti ar pasiruošti rūkyti, pardavimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
+ 
 
 
 
@@ -3753,3 +3772,8 @@ Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kont
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2435, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26023
 Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 9-2 straipsnio pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 11 ir 26 straipsnių pakeitimo įstatymas
