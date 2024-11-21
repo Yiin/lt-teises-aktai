@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/398a02704a6f11e6b5d09300a16a686c"
 
 # Lietuvos Respublikos tikslinių kompensacijų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-11-20
+Suvestinė redakcija nuo 2024-11-21
  
 Įstatymas paskelbtas: TAR 2016-07-15, i. k. 2016-20644
  
@@ -461,7 +461,10 @@ LENGVOJO AUTOMOBILIO IR (AR) JO TECHNINIO PRITAIKYMO IŠLAIDŲ KOMPENSACIJA
 
 
 
-2. Teisę gauti šio straipsnio 1 dalyje nurodytą lengvojo automobilio ir (ar) jo techninio pritaikymo išlaidų kompensaciją joje numatytomis sąlygomis turi sutuoktiniai arba neįregistravę santuokos bendrą ūkį tvarkantys asmenys, artimieji giminaičiai, įtėviai (įmotės), vaiko, kuriam nustatyta nuolatinė globa (rūpyba), globėjai (rūpintojai) (toliau – šeima), auginantys vaiką (įvaikį, globotinį, rūpintinį) su negalia (toliau – vaikas su negalia), kuriam nustatytas pirmo arba antro lygio individualios pagalbos teikimo išlaidų kompensacijos poreikis (specialusis nuolatinės slaugos poreikis).
+2. Teisę gauti šio straipsnio 1 dalyje nurodytą lengvojo automobilio ir (ar) jo techninio pritaikymo išlaidų kompensaciją joje numatytomis sąlygomis turi sutuoktiniai arba neįregistravę santuokos bendrą ūkį tvarkantys asmenys, artimieji giminaičiai, įtėviai (įmotės), vaiko, kuriam nustatyta nuolatinė globa (rūpyba), globėjai (rūpintojai) (toliau – šeima), auginantys vaiką (įvaikį, globotinį, rūpintinį) su negalia (toliau – vaikas su negalia), kuriam nustatytas pirmo arba antro lygio individualios pagalbos teikimo išlaidų kompensacijos poreikis (specialusis nuolatinės slaugos poreikis). Jeigu šeima augina du ar daugiau vaikų su negalia, kuriems nustatytas pirmo arba antro lygio individualios pagalbos teikimo išlaidų kompensacijos poreikis (specialusis nuolatinės slaugos poreikis), ji turi teisę šio straipsnio 1 dalyje nurodytą lengvojo automobilio ir (ar) jo techninio pritaikymo išlaidų kompensaciją gauti už kiekvieną vaiką su negalia ir įsigyti lengvąjį (-uosius) automobilį (-ius) ir (ar) jį (juos) techniškai pritaikyti pagal kiekvieno vaiko su negalia poreikius.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3161, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20217
+ 
 
 
 
@@ -665,3 +668,8 @@ Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1855, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05761
 Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 pakeitimo įstatymo Nr. XIV-1723 1 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3161, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20217
+Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 11 straipsnio pakeitimo įstatymas
