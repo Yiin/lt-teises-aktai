@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9390A9F9A815"
 
 # Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2024-11-22
+Suvestinė redakcija nuo 2024-11-23
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 33-1250, i. k. 1021010ISTA00IX-816
  
@@ -64,7 +64,10 @@ Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikal�
 
 
 
-3. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Vidaus tarnybos statute, Lietuvos Respublikos policijos įstatyme ir Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme.
+3. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Vidaus tarnybos statute, Lietuvos Respublikos policijos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme ir Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3139, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20377
+ 
 
 
 Straipsnio pakeitimai:
@@ -557,7 +560,10 @@ Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
 15 straipsnis. Prievartos naudojimo sąlygos
 
 
-1. Tarnybos pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Tarnybos pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba kai bet koks delsimas kelia pavojų Tarnybos pareigūno ar kito asmens gyvybei ar sveikatai.
+1. Tarnybos pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Tarnybos pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą, individualias pažeidėjo savybes ir (ar) pavojų keliančio objekto savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba neįmanoma arba kai bet koks delsimas kelia pavojų Tarnybos pareigūno ar kito asmens gyvybei, sveikatai ar turtui arba aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems Tarnybos pareigūno saugomiems objektams. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3139, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20377
+ 
 
 
 
@@ -567,7 +573,10 @@ Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
 
 
 
-3. Psichinę prievartą Tarnybos pareigūnas turi teisę panaudoti šio straipsnio 6, 7 dalyse arba šio Įstatymo 17 straipsnio 2 dalyje nurodytais atvejais.
+3. Psichinę prievartą Tarnybos pareigūnas turi teisę panaudoti šio straipsnio 4, 5 dalyse arba šio Įstatymo 17 straipsnio 2 dalyje nurodytais atvejais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3139, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20377
+ 
 
 
 
@@ -575,7 +584,10 @@ Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
 4. Fizinę prievartą Tarnybos pareigūnas turi teisę panaudoti šiais atvejais:
 
 
-1) saugodamasis ar siekdamas apsaugoti kitus asmenis nuo gresiančio pavojaus gyvybei ar sveikatai;
+1) saugodamasis ar siekdamas apsaugoti kitus asmenis nuo gresiančio pavojaus gyvybei, sveikatai ar turtui; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3139, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20377
+ 
 
 
 
@@ -600,12 +612,23 @@ Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
 
 
 
-6) stabdydamas transporto priemonę, laivą ar orlaivį (tarnybinio būtinumo atvejais);
+6) stabdydamas transporto priemonę, laivą, orlaivį, autonomiškai arba nuotoliniu būdu valdomą objektą, judantį oru, žemės, vandens paviršiumi arba po vandeniu, (tarnybinio būtinumo atvejais); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3139, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20377
+ 
 
 
 
 
-7) užkirsdamas kelią administraciniams nusižengimams ar nusikalstamoms veikoms.
+7) užkirsdamas kelią administraciniams nusižengimams ar nusikalstamoms veikoms;
+
+
+
+
+8) kai būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams. 
+Papildyta straipsnio punktu:
+Nr. XIV-3139, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20377
+ 
 
 
 
@@ -655,7 +678,10 @@ Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
 
 
 
-4) prieš nepilnamečius asmenis, jei jų išvaizda atitinka amžių.
+4) prieš nepilnamečius asmenis, jeigu Tarnybos pareigūnui žinomas jų amžius arba jų išvaizda atitinka amžių.
+Straipsnio punkto pakeitimai:
+Nr. XIV-3139, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20377
+ 
 
 
 
@@ -693,7 +719,10 @@ Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
 17 straipsnis. Šaunamojo ginklo naudojimas
 
 
-1. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiamai būtina ir kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
+1. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiamai būtina ir kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei, sveikatai arba aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui, kitiems Tarnybos pareigūno saugomiems objektams arba nusikalstamų veikų užkardymui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3139, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20377
+ 
 
 
 
@@ -731,7 +760,20 @@ Nr. XIII-998, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01010
 
 
 
-3. Tarnybos pareigūnas, nekeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, jei kyla neišvengiamas pavojus Tarnybos pareigūno arba kitų asmenų gyvybei ar sveikatai.
+3. Tarnybos pareigūnas, nekeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą arba transporto priemonę, kai kyla neišvengiamas pavojus Tarnybos pareigūno arba kitų asmenų gyvybei ar sveikatai. Tarnybos pareigūnas, nekeldamas tiesioginio pavojaus asmens gyvybei, taip pat turi teisę panaudoti šaunamąjį ginklą prieš orlaivį, autonomiškai arba nuotoliniu būdu valdomą objektą, judantį oru, žemės, vandens paviršiumi arba po vandeniu, šiais atvejais:
+
+
+1) kai kyla neišvengiamas pavojus Tarnybos pareigūno ar kitų asmenų gyvybei ar sveikatai;
+
+
+
+
+2) užkirsdamas kelią nusikalstamoms veikoms, taip pat kai būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-3139, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20377
+ 
 
 
 
@@ -999,3 +1041,8 @@ Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-8
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-998, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01010
 Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 17 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3139, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20377
+Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 3, 15 ir 17 straipsnių pakeitimo įstatymas
