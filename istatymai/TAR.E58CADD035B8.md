@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e58cadd035b811edb4cae1b158f98ea5"
 
 # Lietuvos Respublikos politinių organizacijų įstatymas
 
-Suvestinė redakcija nuo 2022-09-30 iki 2024-11-22
+Suvestinė redakcija nuo 2024-11-23 iki 2026-03-31
  
 Įstatymas paskelbtas: TAR 2022-09-16, i. k. 2022-19004
  
@@ -64,7 +64,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Auditoriaus ataskaita dėl pastebėtų faktų – šio įstatymo nustatyta tvarka, vadovaujantis tarptautiniais susijusių paslaugų standartais ir pagal Lietuvos Respublikos vyriausiosios rinkimų komisijos patvirtintą techninę užduotį, kurioje nustatytas auditoriui pavedamo atlikti darbo mastas, parengtas dokumentas, kuriame auditorius pateikia politinės organizacijos ar analitinio centro nepriklausomo patikrinimo rezultatus.
+3. Neteko galios nuo 2024-11-23
+Straipsnio dalies naikinimas:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
 
 
 
@@ -144,6 +147,14 @@ BENDROSIOS NUOSTATOS
 
 
 
+151. Sutartų procedūrų ataskaita – šio įstatymo nustatyta tvarka, vadovaujantis tarptautiniais susijusių paslaugų standartais, pagal Lietuvos Respublikos vyriausiosios rinkimų komisijos su Lietuvos auditorių rūmais suderintą ir šios komisijos patvirtintą techninę užduotį auditoriaus rengiamas dokumentas, kuriame pateikiami politinės organizacijos ar analitinio centro nepriklausomo patikrinimo rezultatai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
+
+
+
+
 16. Už politinės organizacijos apskaitą atsakingas asmuo – politinės organizacijos finansinę apskaitą tvarkantis asmuo arba pagal sutartį apskaitos paslaugas teikianti įmonė, arba politinės organizacijos paskirtas asmuo, atsakingas už politinės organizacijos finansinės apskaitos tvarkymą pagal Lietuvos Respublikos įstatymus.
  
 
@@ -176,7 +187,10 @@ Teisę laisvai jungtis į politines organizacijas, dalyvauti jų veikloje ir iš
 
 
 
-3. Draudžiama steigtis ir veikti politinėms organizacijoms, kurių steigimo ar programiniuose dokumentuose propaguojama ar veikloje praktikuojama rasinė, tautinė, religinė, socialinė nelygybė ir neapykanta, autoritarinio ar totalitarinio valdymo, valstybės valdžios užgrobimo prievarta metodai, karo ir smurto propaganda, žmogaus teisių ir laisvių, viešosios tvarkos pažeidimai, kitokios idėjos ir veiksmai, prieštaraujantys Konstitucijai, Lietuvos Respublikos įstatymams ir nesuderinami su visuotinai pripažintomis tarptautinės teisės normomis.
+3. Draudžiama steigtis ir veikti politinėms organizacijoms, kurių steigimo ar programiniuose dokumentuose propaguojama ar kurių veikloje praktikuojama rasinė, tautinė, religinė, socialinė nelygybė ir neapykanta, autoritarinio ar totalitarinio valdymo, valstybės valdžios užgrobimo metodai, karo ir smurto propaganda, pavojų ar grėsmę Lietuvos valstybės saugumui ir interesams sukelti galintys, Konstitucijai, Lietuvos Respublikos įstatymams prieštaraujantys ir su visuotinai pripažintomis tarptautinės teisės normomis nesuderinami žmogaus teisių ir laisvių, viešosios tvarkos pažeidimai, kitokios idėjos ir veiksmai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
 
 
 
@@ -204,7 +218,10 @@ POLITINIŲ ORGANIZACIJŲ STEIGIMAS, REGISTRAVIMAS IR PABAIGA
 
 
 
-2. Politinės organizacijos steigėjai nuo politinės organizacijos įregistravimo Juridinių asmenų registre tampa šios politinės organizacijos nariais. Tuo pačiu metu Lietuvos Respublikos pilietis ar Lietuvos Respublikoje gyvenantis Europos Sąjungos valstybės narės pilietis gali būti tik vienos Lietuvos Respublikoje įregistruotos politinės organizacijos nariu. 
+2. Politinės organizacijos steigėjai nuo politinės organizacijos įregistravimo Juridinių asmenų registro informacinėje sistemoje dienos tampa šios politinės organizacijos nariais. Tuo pačiu metu Lietuvos Respublikos pilietis ar Lietuvos Respublikoje gyvenantis Europos Sąjungos valstybės narės pilietis gali būti tik vienos Lietuvos Respublikoje įregistruotos politinės organizacijos nariu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
 
 
 
@@ -283,6 +300,14 @@ POLITINIŲ ORGANIZACIJŲ STEIGIMAS, REGISTRAVIMAS IR PABAIGA
 
 
 
+81) sprendimų dėl analitinio centro steigimo priėmimo tvarka;
+Papildyta straipsnio punktu:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
+
+
+
+
 9) politinės organizacijos suvažiavimo (susirinkimo, konferencijos) kompetencija, periodiškumas, sušaukimo ir sprendimų priėmimo tvarka; 
 
 
@@ -348,18 +373,20 @@ POLITINIŲ ORGANIZACIJŲ STEIGIMAS, REGISTRAVIMAS IR PABAIGA
 
 
 
-7 straipsnis. Politinių partijų padaliniai
+7 straipsnis. Politinių organizacijų padaliniai
 
 
-1. Politinės partijos gali steigti filialus, atstovybes ir kitus struktūrinius padalinius. Politinės partijos filialai, atstovybės ir kiti struktūriniai padaliniai nėra juridiniai asmenys. Politinės partijos filialai ir atstovybės veikia pagal politinės partijos patvirtintus nuostatus. Politinė partija, įsteigusi filialą ar atstovybę, per 30 dienų nuo filialo ar atstovybės įsteigimo privalo pateikti nustatytos formos prašymą įregistruoti filialą ar atstovybę Juridinių asmenų registre Lietuvos Respublikos Vyriausybės tvirtinamuose juridinių asmenų registro nuostatuose nustatyta tvarka. Kitų politinės partijos struktūrinių padalinių steigimo, likvidavimo tvarka ir funkcijos nustatomos politinės partijos įstatuose.
+1. Politinės partijos gali steigti filialus, atstovybes ir kitus struktūrinius padalinius. Politinės partijos filialai, atstovybės ir kiti struktūriniai padaliniai nėra juridiniai asmenys. Politinės partijos filialai ir atstovybės veikia pagal politinės partijos patvirtintus jų nuostatus. Politinė partija, įsteigusi filialą ar atstovybę, per 30 dienų nuo filialo ar atstovybės įsteigimo dienos privalo pateikti nustatytos formos prašymą įregistruoti filialą ar atstovybę Juridinių asmenų registro informacinėje sistemoje Lietuvos Respublikos Vyriausybės tvirtinamuose juridinių asmenų registro informacinės sistemos nuostatuose nustatyta tvarka. Kitų politinės partijos struktūrinių padalinių steigimo bei likvidavimo tvarka ir funkcijos nustatomos politinės partijos įstatuose.
 
 
 
 
 2. Politiniai komitetai negali steigti filialų, atstovybių ir kitų struktūrinių padalinių.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
  
-
-
 
 
 
@@ -367,55 +394,57 @@ POLITINIŲ ORGANIZACIJŲ STEIGIMAS, REGISTRAVIMAS IR PABAIGA
 8 straipsnis. Politinių organizacijų registravimas
 
 
-1. Politinės organizacijos registruojamos Juridinių asmenų registre.
+1. Politinės organizacijos registruojamos Juridinių asmenų registro informacinėje sistemoje.
 
 
 
 
-2. Ne pagal šį įstatymą registruoti juridiniai asmenys negali būti pertvarkomi ir Juridinių asmenų registre registruojami kaip politinės organizacijos.
+2. Ne pagal šį įstatymą registruoti juridiniai asmenys negali būti pertvarkomi ir Juridinių asmenų registro informacinėje sistemoje registruojami kaip politinės organizacijos.
 
 
 
 
-3. Politinėms organizacijoms įregistruoti ir išregistruoti būtini pateikti dokumentai, politinių organizacijų registravimo, išregistravimo ir politinių organizacijų duomenų ir įstatų pakeitimų registravimo tvarka nustatomi Juridinių asmenų registro nuostatuose.
+3. Politinėms organizacijoms įregistruoti ir išregistruoti būtini pateikti dokumentai, politinių organizacijų registravimo, išregistravimo ir politinių organizacijų duomenų ir įstatų pakeitimų registravimo tvarka nustatomi Juridinių asmenų registro informacinės sistemos nuostatuose.
 
 
 
 
-4. Politinių organizacijų Juridinių asmenų registrui pateikiamų duomenų tikrumą, įstatų, programos ar jų pakeitimų, pavadinimo atitiktį įstatymų nustatytiems reikalavimams patvirtina ir dokumentus, patvirtinančius, kad politinę organizaciją galima registruoti, nes šio įstatymo nustatyti reikalavimai įvykdyti ir atsirado šiame įstatyme numatytos aplinkybės, per 30 dienų nuo visų Juridinių asmenų registro nuostatuose nurodytų dokumentų ir duomenų gavimo dienos surašo Lietuvos Respublikos teisingumo ministerija.  
+4. Politinių organizacijų Juridinių asmenų registro informacinei sistemai pateikiamų duomenų tikrumas, įstatų, programos ar jų pakeitimų, politinės organizacijos pavadinimo atitiktis įstatymų nustatytiems reikalavimams patvirtinami ir dokumentai, patvirtinantys, kad politinę organizaciją galima registruoti, nes šio įstatymo nustatyti reikalavimai įvykdyti ir atsirado šiame įstatyme numatytos aplinkybės, per 20 darbo dienų nuo visų Juridinių asmenų registro informacinės sistemos nuostatuose nurodytų dokumentų ir duomenų gavimo dienos surašomi teisingumo ministro nustatyta tvarka.
 
 
 
 
-5. Jeigu pateikti ne visi Juridinių asmenų registro nuostatuose nurodyti dokumentai ir duomenys, Teisingumo ministerija ne vėliau kaip per 15 dienų nuo jų gavimo dienos apie tai raštu praneša politinės organizacijos steigėjų įgaliotam atstovui, nurodydama, kokie trūkumai turi būti ištaisyti. Kai yra pateikti visi trūkstami dokumentai ir duomenys, nuo šių dokumentų ir duomenų pateikimo dienos 30 dienų terminas skaičiuojamas iš naujo. 
+5. Jeigu pateikti ne visi Juridinių asmenų registro informacinės sistemos nuostatuose nurodyti dokumentai ir duomenys, Lietuvos Respublikos teisingumo ministerija ne vėliau kaip per 10 darbo dienų nuo jų gavimo dienos apie tai raštu praneša politinės organizacijos steigėjų įgaliotam atstovui, nurodydama, kokie trūkumai turi būti ištaisyti, ir nustatydama ne trumpesnį kaip 5 darbo dienų terminą trūkumams pašalinti. Jeigu per šį terminą trūkstami dokumentai ir duomenys nepateikiami, politinės organizacijos pateiktų dokumentų nagrinėjimas nutraukiamas. Kai yra pateikti visi trūkstami dokumentai ir duomenys, nuo šių dokumentų ir duomenų pateikimo dienos 20 darbo dienų terminas skaičiuojamas iš naujo.
 
 
 
 
-6. Teisingumo ministerija atsisako patvirtinti politinės organizacijos pateiktų duomenų tikrumą ir įstatų, programos, jų pakeitimų atitiktį įstatymų nustatytiems reikalavimams, jeigu politinės organizacijos įstatuose, programoje ar jų pakeitimuose nurodyti politinės organizacijos tikslai ar uždaviniai, veiklos būdai prieštarauja Konstitucijai, Civiliniam kodeksui, šiam ar kitiems įstatymams arba pateikti duomenys neatitinka tikrovės. Teisingumo ministerija, tikrindama pateikiamų duomenų tikrumą ar tvirtindama politinės organizacijos įstatų, programos, jų pakeitimų atitiktį įstatymų nustatytiems reikalavimams, turi teisę kreiptis į kitas valstybės institucijas ir gauti iš jų išvadas.
+6. Teisingumo ministerija atsisako patvirtinti politinės organizacijos pateiktų duomenų tikrumą ir įstatų, programos ar jų pakeitimų atitiktį įstatymų nustatytiems reikalavimams, jeigu yra šio įstatymo 4 straipsnio 3 dalyje nurodytos aplinkybės, politinės organizacijos įstatai, programa ar pakeitimai prieštarauja Civiliniam kodeksui, šiam ar kitiems įstatymams arba pateikti duomenys neatitinka tikrovės. Teisingumo ministerija, gavusi prašymą patvirtinti politinės organizacijos pateiktų duomenų tikrumą ir įstatų, programos ar jų pakeitimų atitiktį įstatymų nustatytiems reikalavimams, turi teisę kreiptis į Lietuvos Respublikos valstybės saugumo departamentą, Policijos departamentą prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos Respublikos generalinę prokuratūrą, o nusprendusi – ir į kitas institucijas su prašymu nurodyti, ar jos, atsižvelgdamos į šio įstatymo 4 straipsnio 3 dalyje nurodytus pagrindus, kuriems esant politinėms organizacijoms draudžiama steigtis ir veikti, pagal kompetenciją turi teiktinos informacijos apie šią politinę organizaciją ir jos valdymo organų narius. Šioje dalyje nurodytos institucijos informaciją Teisingumo ministerijai pateikia ne vėliau kaip per 10 darbo dienų nuo prašymo pateikti šią informaciją gavimo institucijoje dienos. Teisingumo ministerija įvertina pateiktą informaciją ir priima sprendimą dėl politinės organizacijos duomenų tikrumo, įstatų, programos, jų pakeitimų ir pavadinimo atitikties įstatymų nustatytiems reikalavimams patvirtinimo arba atsisakymo juos patvirtinti.
 
 
 
 
-7. Teisingumo ministerijos atsisakymas patvirtinti politinės organizacijos pateikiamų duomenų tikrumą, įstatų, programos, jų pakeitimų ir pavadinimo atitiktį įstatymų nustatytiems reikalavimams gali būti skundžiamas teismui įstatymų nustatyta tvarka.
+7. Teisingumo ministerijos atsisakymas patvirtinti politinės organizacijos pateikiamų duomenų tikrumą, įstatų, programos, jų pakeitimų ir pavadinimo atitiktį įstatymų nustatytiems reikalavimams per vieną mėnesį nuo atsisakymo gavimo dienos gali būti skundžiamas administraciniam teismui įstatymų nustatyta tvarka.
 
 
 
 
-8. Politinės organizacijos laikomos įsteigtomis nuo jų įregistravimo Juridinių asmenų registre.
+8. Politinės organizacijos laikomos įsteigtomis nuo jų įregistravimo Juridinių asmenų registro informacinėje sistemoje dienos.
 
 
 
 
-9. Politinė organizacija privalo kiekvienais metais, ne vėliau kaip iki kovo 1 dienos ir ne vėliau kaip iki spalio 1 dienos, Vyriausybės įgaliotos institucijos nustatyta tvarka pateikti Teisingumo ministerijai savo narių sąrašą. Siekiant nustatyti, ar politinės organizacijos nariai atitinka šio įstatymo 5 straipsnio 1 ir 2 dalyse nustatytus reikalavimus, Teisingumo ministerijai teikiamame politinės organizacijos narių sąraše turi būti nurodyta politinės organizacijos nario vardas, pavardė, asmens kodas, gyvenamosios vietos adresas, o jeigu politinės organizacijos narys yra Lietuvos Respublikoje gyvenantis Europos Sąjungos valstybės narės pilietis, – ir pilietybė. Šie duomenys turi būti patvirtinti politinės organizacijos vadovo arba jo įgalioto asmens parašu. Teisingumo ministerija patikrina politinių organizacijų narių sąrašus ir ne vėliau kaip iki kiekvienų metų kovo 10 dienos ir iki spalio 10 dienos praneša Vyriausiajai rinkimų komisijai, ar politinės organizacijos narių skaičius atitinka šio įstatymo reikalavimus. 
+9. Politinė organizacija privalo kiekvienais metais, ne vėliau kaip iki kovo 1 dienos ir ne vėliau kaip iki spalio 1 dienos Vyriausybės įgaliotos institucijos nustatyta tvarka pateikti Teisingumo ministerijai savo narių sąrašą. Siekiant nustatyti, ar politinės organizacijos nariai atitinka šio įstatymo 5 straipsnio 1, 3, 4 ir 5 dalyse nustatytus reikalavimus, Teisingumo ministerijai teikiamame politinės organizacijos narių sąraše turi būti nurodyta politinės organizacijos nario vardas, pavardė, asmens kodas, gyvenamosios vietos adresas, o jeigu politinės organizacijos narys yra Lietuvos Respublikoje gyvenantis Europos Sąjungos valstybės narės pilietis, – ir pilietybė. Šie duomenys turi būti patvirtinti politinės organizacijos vadovo arba jo įgalioto asmens parašu. Teisingumo ministerija patikrina politinių organizacijų narių sąrašus ir ne vėliau kaip iki kiekvienų metų kovo 10 dienos ir iki spalio 10 dienos praneša Vyriausiajai rinkimų komisijai, ar politinės organizacijos narių skaičius atitinka šio įstatymo reikalavimus.
 
 
 
 
-10. Jeigu politinė organizacija šio straipsnio 9 dalyje nustatyta tvarka vienus metus nepateikia savo narių sąrašų, Teisingumo ministerija apie tai praneša Juridinių asmenų registro tvarkytojui ir šis inicijuoja politinės organizacijos likvidavimą Civilinio kodekso nustatyta tvarka.
+10. Jeigu politinė organizacija šio straipsnio 9 dalyje nustatyta tvarka vienus metus nepateikia savo narių sąrašų, Teisingumo ministerija apie tai praneša Juridinių asmenų registro duomenų tvarkytojui ir šis inicijuoja politinės organizacijos likvidavimą Civilinio kodekso nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
  
-
-
 
 
 
@@ -428,7 +457,10 @@ POLITINIŲ ORGANIZACIJŲ STEIGIMAS, REGISTRAVIMAS IR PABAIGA
 
 
 
-2. Sprendimą reorganizuoti ar likviduoti politinę organizaciją priima politinės organizacijos suvažiavimas (susirinkimas, konferencija) arba įstatymų nustatytais atvejais teismas. Kai yra Civiliniame kodekse numatytos aplinkybės, politinė organizacija gali būti likviduojama Juridinių asmenų registro tvarkytojo sprendimu.
+2. Sprendimą reorganizuoti ar likviduoti politinę organizaciją priima politinės organizacijos suvažiavimas (susirinkimas, konferencija) arba įstatymų nustatytais atvejais teismas. Kai yra Civiliniame kodekse numatytos aplinkybės, politinė organizacija gali būti likviduojama Juridinių asmenų registro duomenų tvarkytojo sprendimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
 
 
 
@@ -443,12 +475,17 @@ POLITINIŲ ORGANIZACIJŲ STEIGIMAS, REGISTRAVIMAS IR PABAIGA
 
 
 
-5. Jeigu politinėje organizacijoje liko mažiau narių negu jai įsteigti reikalaujamas steigėjų skaičius, per 30 dienų apie tokį narių  skaičiaus sumažėjimą politinė organizacija arba Teisingumo ministerija, šio įstatymo 8 straipsnio 9 dalyje nustatyta tvarka nustačiusi, kad politinės organizacijos narių skaičius neatitinka šio įstatymo reikalavimų, turi pranešti Juridinių asmenų registro tvarkytojui Juridinių asmenų registro nuostatuose nustatyta tvarka. Politinė organizacija likviduojama Civilinio kodekso nustatyta tvarka, jeigu per šešis mėnesius po narių skaičiaus sumažėjimo politinės organizacijos nariai nenusprendžia politinės organizacijos reorganizuoti ar pertvarkyti.
+5. Jeigu politinėje organizacijoje lieka mažiau narių, negu jai įsteigti reikalaujamas steigėjų skaičius, per 30 dienų nuo šių aplinkybių atsiradimo dienos apie tokį narių skaičiaus sumažėjimą politinė organizacija arba Teisingumo ministerija, šio įstatymo 8 straipsnio 9 dalyje nustatyta tvarka nustačiusi, kad politinės organizacijos narių skaičius neatitinka šio įstatymo reikalavimų, turi pranešti Juridinių asmenų registro duomenų tvarkytojui Juridinių asmenų registro informacinės sistemos nuostatuose nustatyta tvarka. Politinė organizacija likviduojama Civilinio kodekso nustatyta tvarka, jeigu per 6 mėnesius nuo šioje dalyje nurodytų aplinkybių, susijusių su politinės organizacijos narių skaičiaus sumažėjimu, atsiradimo dienos šios politinės organizacijos suvažiavimas (susirinkimas, konferencija) nepriima sprendimo ją reorganizuoti ar pertvarkyti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
 
 
 
 
-6. Įstatymų nustatyta tvarka patenkinus visus likviduojamos politinės organizacijos kreditorių reikalavimus likusios politinės organizacijos lėšos pervedamos į valstybės biudžetą, o turtas perduodamas valstybei iki politinės organizacijos išregistravimo iš Juridinių asmenų registro.
+6. Įstatymų nustatyta tvarka patenkinus visus likviduojamos politinės organizacijos kreditorių reikalavimus likusios politinės organizacijos lėšos pervedamos į valstybės biudžetą, o turtas perduodamas valstybei iki politinės organizacijos išregistravimo iš Juridinių asmenų registro informacinės sistemos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
  
 
 
@@ -463,13 +500,15 @@ POLITINIŲ ORGANIZACIJŲ VEIKLOS GARANTIJOS
  
 
 
-10 straipsnis. Politinių organizacijų veiklos laisvė 
+10 straipsnis. Politinių organizacijų veiklos laisvė
 
 
-Visos politinės organizacijos Lietuvos Respublikos teritorijoje veikia laisvai ir savarankiškai. Valstybės ir savivaldybių institucijoms ir įstaigoms, jų pareigūnams, kitiems juridiniams ir fiziniams asmenims kištis į politinių organizacijų vidaus reikalus draudžiama. 
+Visos politinės organizacijos Lietuvos Respublikos teritorijoje veikia laisvai ir savarankiškai. Politinės organizacijos gali priimti sprendimus dėl analitinio centro steigimo, jei toks šių organizacijų veiklos tikslas nustatytas jų įstatuose. Valstybės ir savivaldybių institucijoms ir įstaigoms, jų pareigūnams, kitiems juridiniams ir fiziniams asmenims kištis į politinių organizacijų vidaus reikalus draudžiama. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
  
-
-
 
 
 
@@ -819,7 +858,11 @@ POLITINIŲ ORGANIZACIJŲ FINANSAVIMO ŠALTINIAI
 21 straipsnis. Valstybės biudžeto asignavimų politinių partijų veiklai finansuoti dydžio apskaičiavimo, jų paskirstymo ir mokėjimo tvarka
 
 
-1. Politinės partijos, kurios įstatymų nustatyta tvarka įregistruotos Juridinių asmenų registre ir atitinka įstatymų reikalavimus dėl politinės partijos narių skaičiaus ir kurioms nėra pradėta pertvarkymo arba likvidavimo procedūra, turi teisę į valstybės biudžeto asignavimus politinių partijų veiklai finansuoti.
+1. Politinės partijos, kurios įstatymų nustatyta tvarka įregistruotos Juridinių asmenų registro informacinėje sistemoje ir atitinka įstatymų reikalavimus dėl politinės partijos narių skaičiaus ir kurioms nėra pradėta pertvarkymo arba likvidavimo procedūra, turi teisę į valstybės biudžeto asignavimus politinių partijų veiklai finansuoti.
+TAR pastaba. Įstatymo 21 straipsnio 1 dalyje nustatytus kriterijus atitinkanti politinė partija, kuri iki 2024-11-12 įstatymo Nr. XIV-3145 įsigaliojimo dienos (2024-11-23), vadovaujantis Lietuvos Respublikos politinių partijų įstatymu, buvo parlamentinė partija, įregistruota po 2020 metų Lietuvos Respublikos Seimo rinkimų, ir turėjo teisę gauti valstybės biudžeto asignavimus, teisę į šiuos asignavimus turi iki pirmų po šio įstatymo įsigaliojimo dienos vyksiančių eilinių Seimo rinkimų rezultatų oficialaus paskelbimo dienos, bet ne ilgiau kaip iki 2025 m. sausio 1 d., jeigu ji neįgyja teisės gauti valstybės biudžeto asignavimų pagal šį įstatymą. Valstybės biudžeto asignavimai perskaičiuojami po kiekvienų rinkimų ir jų dydis lygus mažiausiems politinei partijai, turinčiai frakciją Seime, praėjusiais kalendoriniais metais skirtiems valstybės biudžeto asignavimams, padaugintiems iš politinės partijos, kuri įsteigta po 2020 metų Seimo rinkimų, ir mažiausiai finansuojamos politinės partijos, turinčios frakciją Seime, frakcijų narių skaičiaus santykio. Valstybės biudžeto asignavimų mokėjimas nutraukiamas, jeigu juos gaunanti politinė partija tais pačiais kalendoriniais metais, kuriais jai buvo skirti valstybės biudžeto asignavimai, yra reorganizuojama susijungimo su kita politine partija, kuriai valstybės biudžeto asignavimai yra skiriami šio įstatymo 21 straipsnio 1–5 dalyse nustatyta tvarka, būdu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
 
 
 
@@ -958,7 +1001,10 @@ FINANSINĖ APSKAITA IR KONTROLĖ
 
 
 
-5. Politinės organizacijos kiekvienais metais, ne vėliau kaip iki kovo 15 dienos, pateikia Vyriausiajai rinkimų komisijai patvirtintą praėjusių kalendorinių metų politinės organizacijos metinį finansinių ataskaitų rinkinį, šio straipsnio 2 dalyje nurodytus jo priedus, auditoriaus ataskaitą dėl pastebėtų faktų, jeigu ji privaloma, ir politinės organizacijos narių mokesčių registracijos žurnalą. Prireikus Vyriausioji rinkimų komisija turi teisę susipažinti su politinės organizacijos metinio finansinių ataskaitų rinkinio duomenis pagrindžiančiais dokumentais.
+5. Politinės organizacijos kiekvienais metais, ne vėliau kaip iki kovo 15 dienos pateikia Vyriausiajai rinkimų komisijai patvirtintą praėjusių kalendorinių metų politinės organizacijos metinį finansinių ataskaitų rinkinį, šio straipsnio 2 dalyje nurodytus jo priedus, sutartų procedūrų ataskaitą, jeigu ji privaloma, ir politinės organizacijos narių mokesčių registracijos žurnalą. Prireikus Vyriausioji rinkimų komisija turi teisę susipažinti su politinės organizacijos metinio finansinių ataskaitų rinkinio duomenis pagrindžiančiais dokumentais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
 
 
 
@@ -1019,7 +1065,10 @@ FINANSINĖ APSKAITA IR KONTROLĖ
 
 
 
- 3. Vyriausioji rinkimų komisija yra atsakinga už nuolatinį informacijos apie politinių organizacijų finansavimo pažeidimus teikimą laiku Lietuvos Respublikos specialiųjų tyrimų tarnybai, Lietuvos Respublikos generalinei prokuratūrai.
+3. Vyriausioji rinkimų komisija yra atsakinga už nuolatinį informacijos apie politinių organizacijų finansavimo pažeidimus teikimą laiku Lietuvos Respublikos specialiųjų tyrimų tarnybai ir Generalinei prokuratūrai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
 
 
 
@@ -1081,12 +1130,18 @@ FINANSINĖ APSKAITA IR KONTROLĖ
 26 straipsnis. Finansavimo viešumas
 
 
-1. Viešumo ir skaidrumo tikslais politinių organizacijų metiniai finansinių ataskaitų rinkiniai su šio įstatymo 23 straipsnio 2 dalyje nurodytais jų priedais ir auditorių ataskaitos dėl pastebėtų faktų, politinių organizacijų narių, per kalendorinius metus sumokėjusių daugiau negu 360 eurų nario mokesčių, sąrašai yra vieši ir skelbiami neribotą laiką.
+1. Viešumo ir skaidrumo tikslais politinių organizacijų metiniai finansinių ataskaitų rinkiniai su šio įstatymo 23 straipsnio 2 dalyje nurodytais jų priedais, sutartų procedūrų ataskaitos ir politinių organizacijų narių, per kalendorinius metus sumokėjusių daugiau negu 360 eurų nario mokesčių, sąrašai yra vieši ir skelbiami neribotą laiką. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
 
 
 
 
-2. Analitinių centrų metiniai finansinių ataskaitų rinkiniai su šio įstatymo 35 straipsnio 2 dalyje nurodytais jų priedais, mėnesinės ataskaitos apie gautas lėšas ir auditorių ataskaitos dėl pastebėtų faktų yra vieši ir skelbiami neribotą laiką.
+2. Analitinių centrų metiniai finansinių ataskaitų rinkiniai su šio įstatymo 35 straipsnio 2 dalyje nurodytais jų priedais, mėnesinės ataskaitos apie gautas lėšas ir sutartų procedūrų ataskaitos yra vieši ir skelbiami neribotą laiką.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
 
 
 
@@ -1412,7 +1467,10 @@ ANALITINIAI CENTRAI
 
 
 
-3. Vyriausioji rinkimų komisija, gavusi prašymą įtraukti politinį fondą į Patikimų politinių fondų sąrašą, kreipiasi į Lietuvos Respublikos valstybės saugumo departamentą, Finansinių nusikaltimų tyrimų tarnybą prie Lietuvos Respublikos vidaus reikalų ministerijos, Policijos departamentą prie Lietuvos Respublikos vidaus reikalų ministerijos, Generalinę prokuratūrą, Specialiųjų tyrimų tarnybą, Valstybinę mokesčių inspekciją prie Lietuvos Respublikos finansų ministerijos, Antrąjį operatyvinių tarnybų departamentą prie Lietuvos Respublikos krašto apsaugos ministerijos, o nusprendusi – ir į kitas institucijas (toliau – atsakingos institucijos), ar jos pagal kompetenciją turi informacijos apie tai, kad politinis fondas nėra patikimas. 
+3. Vyriausioji rinkimų komisija, gavusi prašymą įtraukti politinį fondą į Patikimų politinių fondų sąrašą, kreipiasi į Valstybės saugumo departamentą, Finansinių nusikaltimų tyrimų tarnybą prie Lietuvos Respublikos vidaus reikalų ministerijos, Policijos departamentą prie Lietuvos Respublikos vidaus reikalų ministerijos, Generalinę prokuratūrą, Specialiųjų tyrimų tarnybą, Valstybinę mokesčių inspekciją prie Lietuvos Respublikos finansų ministerijos, Antrąjį operatyvinių tarnybų departamentą prie Krašto apsaugos ministerijos, o nusprendusi – ir į kitas institucijas (toliau – atsakingos institucijos) su prašymu nurodyti, ar jos pagal kompetenciją turi informacijos apie tai, kad politinis fondas nėra patikimas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
 
 
 
@@ -1619,7 +1677,10 @@ ANALITINIAI CENTRAI
 
 
 
-3. Analitiniai centrai kiekvienais metais, ne vėliau kaip iki kovo 15 dienos, pateikia Vyriausiajai rinkimų komisijai patvirtintą praėjusių kalendorinių metų savo metinį finansinių ataskaitų rinkinį su šio straipsnio 2 dalyje nurodytais priedais, veiklos ataskaitą, auditoriaus ataskaitą (jeigu ji privaloma pagal Viešųjų įstaigų įstatymą). Prireikus Vyriausioji rinkimų komisija turi teisę susipažinti su analitinio centro metinio finansinių ataskaitų rinkinio duomenis pagrindžiančiais dokumentais.
+3. Analitiniai centrai kiekvienais metais, ne vėliau kaip iki kovo 15 dienos pateikia Vyriausiajai rinkimų komisijai patvirtintą praėjusių kalendorinių metų savo metinį finansinių ataskaitų rinkinį su šio straipsnio 2 dalyje nurodytais priedais, veiklos ataskaitą ir sutartų procedūrų ataskaitą (jeigu ją privaloma pateikti pagal šį įstatymą). Prireikus Vyriausioji rinkimų komisija turi teisę susipažinti su analitinio centro metinio finansinių ataskaitų rinkinio duomenis pagrindžiančiais dokumentais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
 
 
 
@@ -1661,107 +1722,76 @@ Pripažinti netekusiu galios Lietuvos Respublikos politinių partijų įstatymą
 
 
 
-38 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+38 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 
-1. Neteko galios nuo 2022-09-30
-Straipsnio dalies naikinimas:
-Nr. XIV-1429, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19809
- 
+1. 2026 m. balandžio 1 d. netenka galios šio įstatymo 8 straipsnio 9 dalis.
 
 
 
 
-2. Iki šio įstatymo įsigaliojimo įsteigtos politinės partijos per 12 mėnesių nuo šio įstatymo įsigaliojimo suderina savo įstatus su šio įstatymo nuostatomis ir įstatų pakeitimus įregistruoja Juridinių asmenų registre.
+2. 2026 m. balandžio 1 d. netenka galios šio įstatymo 8 straipsnio 10 dalis.
 
 
 
 
-3. Vyriausybė iki 2022 m. rugsėjo 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1429, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19809
- 
+3. 2026 m. balandžio 1 d. šis įstatymas papildomas 81 straipsniu:
 
 
 
 
-4. Šio įstatymo 13 straipsnio 4 dalies nuostata netaikoma organizuojant 2023 metų savivaldybių tarybų ir merų rinkimus. 2023 metų savivaldybių tarybų ir merų rinkimuose gali dalyvauti ne vėliau kaip prieš 85 dienas iki šių rinkimų dienos  įregistruotos politinės organizacijos. Politinių komitetų, ketinančių dalyvauti 2023 metų savivaldybių tarybų ir merų rinkimuose, steigėjai Teisingumo ministerijai turi pateikti pažymą apie gyvenamosios vietos deklaravimą, patvirtinančią, kad steigiamo komiteto nariai ne trumpiau negu pusę metų gyvena konkrečioje savivaldybėje.
+„81 straipsnis. Politinių organizacijų narių registras 
 
 
+1. Politinių organizacijų narių registras – tai Politinių organizacijų narių registro informacinėje sistemoje tvarkomas duomenų apie politinių organizacijų narius rinkinys.
 
 
-5. Šio įstatymo 21 straipsnio 1 dalyje nustatytus kriterijus atitinkanti politinė partija, kuri iki šio įstatymo įsigaliojimo, vadovaujantis Lietuvos Respublikos politinių partijų įstatymu, buvo parlamentinė partija, įregistruota po 2020 m. Seimo rinkimų, ir turėjo teisę gauti valstybės biudžeto asignavimus, teisę į šiuos asignavimus turi iki pirmų po šio įstatymo įsigaliojimo vyksiančių eilinių Seimo rinkimų rezultatų oficialaus paskelbimo dienos, bet ne ilgiau kaip iki 2025 m. sausio 1 d., jeigu ji neįgyja teisės gauti valstybės biudžeto asignavimų pagal šį įstatymą. Valstybės biudžeto asignavimai perskaičiuojami po kiekvienų rinkimų ir jų dydis lygus mažiausiems politinei partijai, turinčiai frakciją Seime, praėjusiais kalendoriniais metais skirtiems valstybės biudžeto asignavimams, padaugintiems iš politinės partijos, kuri įsteigta po 2020 metų Seimo rinkimų, ir mažiausiai finansuojamos politinės partijos, turinčios frakciją Seime, frakcijų narių skaičiaus santykio. Valstybės biudžeto asignavimų mokėjimas nutraukiamas, jeigu juos gaunanti politinė partija tais pačiais kalendoriniais metais, kuriais jai buvo skirti valstybės biudžeto asignavimai, yra reorganizuojama susijungimo būdu su kita politine partija, kuriai valstybės biudžeto asignavimai yra skiriami šio įstatymo 21 straipsnio 1–5 dalyse nustatyta tvarka.
 
 
+2. Politinių organizacijų narių registro informacinės sistemos objektas – politinių organizacijų nariai. Šioje informacinėje sistemoje tvarkomi šie politinės organizacijos narių duomenys: vardas, pavardė, asmens kodas, deklaruotos gyvenamosios vietos adresas, pilietybė, duomenys apie neveiksnumą politinės veiklos srityje arba civilinio veiksnumo politinės veiklos srityje apribojimą, narystės politinėje organizacijoje pradžios ir pabaigos datos.
 
 
-6. 2025 m. sausio 1 d. netenka galios šio įstatymo 8 straipsnio 9 dalis. 
 
 
+3. Politinių organizacijų narių registro informacinės sistemos paskirtis – registruoti šio straipsnio 2 dalyje nurodytus objektus, rinkti, kaupti, apdoroti, sisteminti, saugoti Politinių organizacijų narių registro duomenis ir teikti juos valstybės ir savivaldybių institucijoms ir įstaigoms, kitiems valstybės registrams ir valstybės informacinėms sistemoms, įstatymų nustatytas funkcijas atliekantiems valstybės įgaliotiems asmenims, taip pat fiziniams ir juridiniams asmenims įstatymų ir kitų teisės aktų nustatyta tvarka.
 
 
-7. 2025 m. sausio 1 d. netenka galios šio įstatymo 8 straipsnio 10 dalis.
 
 
+4. Politinių organizacijų narių registro informacinės sistemos, jos duomenų ir šioje informacinėje sistemoje tvarkomų asmens duomenų valdytoja yra Teisingumo ministerija.
 
 
-8. 2025 m. sausio 1 d. šis įstatymas papildomas 81 straipsniu:
 
 
+5. Politinių organizacijų narių registro informacinės sistemos tvarkytojas ir registro duomenų tvarkytojas paskiriami teisingumo ministro įsakymu, kuriuo tvirtinami Politinių organizacijų narių registro informacinės sistemos nuostatai.
 
 
-„81 straipsnis. Politinių organizacijų narių registras
 
 
-1. Politinių organizacijų narių registras yra valstybės registras.
+6. Politinių organizacijų narių įregistravimo Politinių organizacijų narių registro informacinėje sistemoje ir išregistravimo iš jos tvarka nustatoma šios informacinės sistemos nuostatuose.
 
 
 
 
-2. Politinių organizacijų narių registro objektas – politinių organizacijų nariai. Šiame registre tvarkomi šie politinės organizacijos narių duomenys: vardas, pavardė, asmens kodas, gyvenamosios vietos adresas, pilietybė, narystės politinėje organizacijoje pradžios ir pabaigos datos.
+7. Asmuo tampa politinės organizacijos nariu nuo jo duomenų įregistravimo Politinių organizacijų narių registro informacinėje sistemoje dienos. Asmens narystė politinėje organizacijoje pasibaigia jo duomenų išregistravimo iš šios informacinės sistemos dieną.
 
 
 
 
-3. Politinių organizacijų narių registro paskirtis – registruoti šio straipsnio 2 dalyje nurodytus objektus, rinkti, kaupti, apdoroti, sisteminti, saugoti Politinių organizacijų narių registro duomenis ir teikti juos valstybės ir savivaldybių institucijoms ir įstaigoms, kitiems valstybės registrams ir valstybės informacinėms sistemoms, įstatymų nustatytas funkcijas atliekantiems valstybės įgaliotiems asmenims, taip pat fiziniams ir juridiniams asmenims įstatymų ir kitų teisės aktų nustatyta tvarka. 
+8. Politinei organizacijai įstatuose nustatyta tvarka priėmus sprendimą priimti asmenį į politinę organizaciją arba gavus politinės organizacijos nario prašymą nutraukti narystę politinėje organizacijoje, politinės organizacijos vadovas arba jo įgaliotas asmuo naujo politinės organizacijos nario arba narystę nutraukusio asmens duomenis Politinių organizacijų narių registro duomenų tvarkytojui pateikia ne vėliau kaip per 5 darbo dienas nuo sprendimo priimti narį į politinę organizaciją priėmimo dienos arba nuo politinės organizacijos nario prašymo nutraukti narystę gavimo dienos. Įsteigta politinė organizacija savo narių sąrašą Politinių organizacijų narių registro duomenų tvarkytojui pateikia ne vėliau kaip per 5 darbo dienas nuo politinės organizacijos įregistravimo Juridinių asmenų registro informacinėje sistemoje dienos.
 
 
 
 
-4. Politinių organizacijų narių registro ir šiame registre tvarkomų asmens duomenų valdytoja yra Teisingumo ministerija.
+9. Politinės organizacijos narys narystę politinėje organizacijoje gali nutraukti politinės organizacijos įstatuose nustatyta tvarka arba pateikdamas prašymą Politinių organizacijų narių registro duomenų tvarkytojui. Kai politinės organizacijos vadovas arba jo įgaliotas asmuo per šio straipsnio 8 dalyje nustatytą terminą Politinių organizacijų narių registro duomenų tvarkytojui nepateikia duomenų dėl narystės politinėje organizacijoje nutraukimo, politinės organizacijos narys, Politinių organizacijų narių registro informacinės sistemos nuostatuose nustatyta tvarka gavęs patvirtinimą dėl savo narystės, prašymą nutraukti narystę politinėje organizacijoje gali pateikti Politinių organizacijų narių registro duomenų tvarkytojui šios informacinės sistemos nuostatuose nustatyta tvarka.
 
 
 
 
-5. Politinių organizacijų narių registro tvarkytojas paskiriamas Vyriausybės nutarimu, kuriuo tvirtinami Politinių organizacijų narių registro nuostatai.
+10. Politinių organizacijų narių registro duomenų tvarkytojas gali atsisakyti įregistruoti Politinių organizacijų narių registro informacinės sistemos objektą tik šiais atvejais:
 
 
-
-
-6. Politinių organizacijų narių įregistravimo Politinių organizacijų narių registre ir išregistravimo iš jo tvarka nustatoma šio registro nuostatuose.
-
-
-
-
-7. Asmuo tampa politinės organizacijos nariu nuo jo duomenų įregistravimo Politinių organizacijų narių registre dienos. Asmens narystė politinėje organizacijoje pasibaigia jo duomenų išregistravimo iš Politinių organizacijų narių registro dieną. 
-
-
-
-
-8. Politinei organizacijai įstatuose nustatyta tvarka priėmus sprendimą priimti asmenį į politinę organizaciją arba gavus politinės organizacijos nario prašymą nutraukti narystę politinėje organizacijoje, politinės organizacijos vadovas arba jo įgaliotas asmuo naujo politinės organizacijos nario arba narystę nutraukusio asmens duomenis Politinių organizacijų narių registro tvarkytojui pateikia ne vėliau kaip per 5 darbo dienas nuo sprendimo priimti narį į politinę organizaciją priėmimo dienos arba nuo politinės organizacijos nario prašymo nutraukti narystę gavimo dienos. Įsteigta politinė organizacija savo narių sąrašą Politinių organizacijų narių registro tvarkytojui pateikia ne vėliau kaip per 5 darbo dienas nuo politinės organizacijos įregistravimo Juridinių asmenų registre dienos. 
-
-
-
-
-9. Politinės organizacijos narys narystę politinėje organizacijoje gali nutraukti politinės organizacijos įstatuose nustatyta tvarka arba pateikdamas prašymą Politinių organizacijų narių registro tvarkytojui. Tuo atveju, kai politinės organizacijos vadovas arba jo įgaliotas asmuo per šio straipsnio 8 dalyje nustatytą terminą Politinių organizacijų narių registro tvarkytojui nepateikia duomenų dėl narystės politinėje organizacijoje nutraukimo, politinės organizacijos narys, Politinių organizacijų narių registro nuostatuose nustatyta tvarka gavęs patvirtinimą dėl savo narystės, prašymą nutraukti narystę politinėje organizacijoje gali pateikti Politinių organizacijų narių registro tvarkytojui šio registro nuostatuose nustatyta tvarka. 
-
-
-
-
-10. Politinių organizacijų narių registro tvarkytojas gali atsisakyti įregistruoti šio registro objektą tik šiais atvejais:
-
-
-1) politinės organizacijos vadovas arba jo įgaliotas asmuo pateikė prašymą įregistruoti šio registro objektą arba pakeisti registro duomenis neturėdamas tokios teisės;
+1) politinės organizacijos vadovas arba jo įgaliotas asmuo pateikė prašymą įregistruoti šios informacinės sistemos objektą arba pakeisti šio objekto duomenis neturėdamas tokios teisės;
 
 
 
@@ -1781,12 +1811,12 @@ Nr. XIV-1429, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19809
 
 
 
-5) asmuo neatitinka šio įstatymo 5 straipsnyje nustatytų reikalavimų;
+5) asmuo neatitinka šio įstatymo 5 straipsnyje nustatytų reikalavimų; 
 
 
 
 
-6) apribotas asmens veiksnumas dalyvauti politinėje veikloje;
+6) asmuo pripažintas neveiksniu politinės veiklos srityje arba apribotas jo veiksnumas dalyvauti politinėje veikloje;
 
 
 
@@ -1798,22 +1828,27 @@ Nr. XIV-1429, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19809
 
 
 
-11. Atsisakymas įregistruoti Politinių organizacijų narių registro objektą, keisti jo duomenis, išregistruoti šio registro objektą gali būti skundžiamas teismui įstatymų nustatyta tvarka.
+11. Atsisakymas įregistruoti Politinių organizacijų narių registro informacinės sistemos objektą, keisti jo duomenis ar išregistruoti šį objektą gali būti skundžiamas teismui įstatymų nustatyta tvarka.
 
 
 
 
-12. Politinių organizacijų narių registro duomenys turi prima facie galią ir tvarkomi bei saugomi vadovaujantis šiuo įstatymu, Politinių organizacijų narių registro nuostatais ir kitais teisės aktais. Bet kokie duomenų pakeitimai įsigalioja tik nuo jų įregistravimo Politinių organizacijų narių registre dienos.
+12. Politinių organizacijų narių registro informacinėje sistemoje tvarkomi duomenys turi prima facie galią ir tvarkomi bei saugomi vadovaujantis šiuo įstatymu, Politinių organizacijų narių registro informacinės sistemos nuostatais ir kitais teisės aktais. Bet kokie duomenų pakeitimai įsigalioja tik nuo jų įregistravimo šioje informacinėje sistemoje dienos.
 
 
 
 
-13. Politinių organizacijų narių registro objektai įregistruojami Politinių organizacijų narių registre ir išregistruojami iš šio registro, taip pat registro duomenys įrašomi ir keičiami neatlygintinai.
+13. Politinių organizacijų narių registro informacinės sistemos objektai įregistruojami Politinių organizacijų narių registro informacinėje sistemoje ir išregistruojami iš šios informacinės sistemos, taip pat registro informacinės sistemos duomenys įrašomi ir keičiami neatlygintinai.
 
 
 
 
-14. Politinių organizacijų narių registro duomenys, informacija, šiam registrui pateikti dokumentai ir (ar) jų kopijos teikiami už atlyginimą, išskyrus Lietuvos Respublikos valstybės informacinių išteklių įstatyme, Europos Sąjungos teisės aktuose ir Politinių organizacijų narių registro nuostatuose nustatytas išimtis.“
+14. Politinių organizacijų narių registro informacinėje sistemoje tvarkomi duomenys, informacija, šiai informacinei sistemai pateikti dokumentai ir (ar) jų kopijos teikiami už atlyginimą, išskyrus Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Europos Sąjungos teisės aktuose ir Politinių organizacijų narių registro informacinės sistemos nuostatuose nustatytas išimtis.
+
+
+
+
+15. Žurnalistai Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis iš Politinių organizacijų narių registro informacinės sistemos turi teisę gauti esamus ir buvusius politinių organizacijų narių duomenis, išskyrus fizinio asmens asmens kodą, deklaruotos gyvenamosios vietos adresą ir duomenis apie fizinio asmens neveiksnumą politinės veiklos srityje arba civilinio veiksnumo apribojimą politinės veiklos srityje.“
 
 
 
@@ -1824,19 +1859,26 @@ Nr. XIV-1429, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19809
 
 
 
-9. 2025 m. sausio 1 d. įsigalioja tokia šio įstatymo 9 straipsnio 5 dalies redakcija:
+4. 2026 m. balandžio 1 d. įsigalioja tokia šio įstatymo 9 straipsnio 5 dalies redakcija:
 
 
 
 
-„5. Jeigu politinėje organizacijoje liko mažiau narių negu jai įsteigti reikalaujamas steigėjų skaičius ir šios politinės organizacijos nariai per vienus metus nuo tokio narių skaičiaus sumažėjimo nenutaria politinės organizacijos reorganizuoti, pertvarkyti ar likviduoti, Juridinių asmenų registro tvarkytojas inicijuoja politinės organizacijos likvidavimą Civilinio kodekso 2.70 straipsnyje nustatyta tvarka.“
+„5. Jeigu politinėje organizacijoje ilgiau kaip 6 mėnesius yra mažiau narių, negu jai įsteigti būtinas steigėjų skaičius, ir šios politinės organizacijos suvažiavimas (susirinkimas, konferencija) per 6 mėnesius nuo šių aplinkybių atsiradimo dienos nepriima sprendimo reorganizuoti, pertvarkyti ar likviduoti politinę organizaciją, Juridinių asmenų registro duomenų tvarkytojas inicijuoja politinės organizacijos likvidavimą Civilinio kodekso 2.70 straipsnyje nustatyta tvarka.“ 
+
+
+
+
+
+
+
+
+5. Šio įstatymo 21 straipsnio 1 dalyje nustatytus kriterijus atitinkanti politinė partija, kuri iki šio įstatymo įsigaliojimo dienos, vadovaujantis Lietuvos Respublikos politinių partijų įstatymu, buvo parlamentinė partija, įregistruota po 2020 metų Lietuvos Respublikos Seimo rinkimų, ir turėjo teisę gauti valstybės biudžeto asignavimus, teisę į šiuos asignavimus turi iki pirmų po šio įstatymo įsigaliojimo dienos vyksiančių eilinių Seimo rinkimų rezultatų oficialaus paskelbimo dienos, bet ne ilgiau kaip iki 2025 m. sausio 1 d., jeigu ji neįgyja teisės gauti valstybės biudžeto asignavimų pagal šį įstatymą. Valstybės biudžeto asignavimai perskaičiuojami po kiekvienų rinkimų ir jų dydis lygus mažiausiems politinei partijai, turinčiai frakciją Seime, praėjusiais kalendoriniais metais skirtiems valstybės biudžeto asignavimams, padaugintiems iš politinės partijos, kuri įsteigta po 2020 metų Seimo rinkimų, ir mažiausiai finansuojamos politinės partijos, turinčios frakciją Seime, frakcijų narių skaičiaus santykio. Valstybės biudžeto asignavimų mokėjimas nutraukiamas, jeigu juos gaunanti politinė partija tais pačiais kalendoriniais metais, kuriais jai buvo skirti valstybės biudžeto asignavimai, yra reorganizuojama susijungimo su kita politine partija, kuriai valstybės biudžeto asignavimai yra skiriami šio įstatymo 21 straipsnio 1–5 dalyse nustatyta tvarka, būdu.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
  
-
-
-
-
-
-
 
 
 
@@ -1858,3 +1900,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1429, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19809
 Lietuvos Respublikos politinių organizacijų įstatymo Nr. XIV-1415 38 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+Lietuvos Respublikos politinių organizacijų įstatymo Nr. XIV-1415 2, 4, 5, 6, 7, 8, 9, 10, 21, 23, 24, 26, 33, 35 ir 38 straipsnių pakeitimo įstatymas
