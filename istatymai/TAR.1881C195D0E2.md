@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-11-22
+Suvestinė redakcija nuo 2024-11-23
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
  
@@ -150,6 +150,14 @@ Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 16. Žvalgybos užduotis – rašytinis dokumentas, kuriame nustatomi pavedimai gauti ir pateikti žvalgybos informaciją įgaliotiems ją žinoti asmenims ir kuriuo vadovaujantis vykdoma žvalgyba ir kontržvalgyba. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+ 
+
+
+
+
+17. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-3143, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20385
  
 
 
@@ -2435,7 +2443,10 @@ Nr. XIII-674, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16704
 48 straipsnis. Prievartos priemonės ir jų naudojimo sąlygos
 
 
-1. Žvalgybos pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Žvalgybos pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba kai bet koks delsimas kelia pavojų žvalgybos pareigūno ar kito asmens gyvybei ar sveikatai.
+1. Žvalgybos pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Žvalgybos pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą, individualias pažeidėjo savybes ir (ar) pavojų keliančio objekto savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba neįmanoma arba kai bet koks delsimas kelia pavojų žvalgybos pareigūno ar kito asmens gyvybei, sveikatai ar turtui arba aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui, kitiems žvalgybos pareigūno saugomiems objektams arba nusikalstamų veikų užkardymui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3143, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20385
+ 
 
 
 
@@ -2443,7 +2454,10 @@ Nr. XIII-674, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16704
 2. Žvalgybos pareigūnas turi teisę panaudoti prievartą šiais atvejais:
 
 
-1) apsisaugodamas ar apsaugodamas kitus asmenis nuo gresiančio pavojaus gyvybei ar sveikatai;
+1) apsisaugodamas ar apsaugodamas kitus asmenis nuo gresiančio pavojaus gyvybei, sveikatai ar turtui; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3143, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20385
+ 
 
 
 
@@ -2463,7 +2477,18 @@ Nr. XIII-674, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16704
 
 
 
-5) stabdydamas transporto priemonę, laivą ar orlaivį (tarnybinio būtinumo atvejais).
+5) stabdydamas transporto priemonę, laivą, orlaivį, autonomiškai arba nuotoliniu būdu valdomą objektą, judantį oru, žemės, vandens paviršiumi arba po vandeniu, (tarnybinio būtinumo atvejais); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3143, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20385
+ 
+
+
+
+
+6) užkirsdamas kelią nusikalstamoms veikoms, taip pat kai būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams. 
+Papildyta straipsnio punktu:
+Nr. XIV-3143, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20385
+ 
 
 
 
@@ -2496,7 +2521,10 @@ Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 
 
 
-3) prieš nepilnamečius asmenis, jeigu jų išvaizda atitinka amžių.
+3) prieš nepilnamečius asmenis, jeigu žvalgybos pareigūnui žinomas jų amžius arba jų išvaizda atitinka amžių.
+Straipsnio punkto pakeitimai:
+Nr. XIV-3143, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20385
+ 
 
 
 
@@ -2526,7 +2554,10 @@ Nr. XIII-674, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16704
 49 straipsnis. Tarnybinių šaunamųjų ginklų naudojimas
 
 
-1. Tarnybinis šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiamai būtina, ir tada, kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
+1. Tarnybinis šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiamai būtina ir tada, kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei, sveikatai arba aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbioms įmonėms, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui, kitiems žvalgybos pareigūno saugomiems objektams arba nusikalstamų veikų užkardymui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3143, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20385
+ 
 
 
 
@@ -2556,9 +2587,25 @@ Nr. XIII-674, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16704
 
 
 
-3. Žvalgybos pareigūnas, nesukeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti tarnybinį šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, jeigu kyla neišvengiamas pavojus žvalgybos pareigūno ar kitų asmenų gyvybei ar sveikatai, taip pat prieš bepilotį orlaivį, jeigu jo skrydis vykdomas nepaisant šio įstatymo 5 straipsnio 3 dalyje nustatyto draudimo.
+3. Žvalgybos pareigūnas, nesukeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti tarnybinį šaunamąjį ginklą prieš gyvūną, laivą arba transporto priemonę, kai kyla neišvengiamas pavojus žvalgybos pareigūno ar kitų asmenų gyvybei ar sveikatai. Žvalgybos pareigūnas, nesukeldamas tiesioginio pavojaus asmens gyvybei, taip pat turi teisę panaudoti tarnybinį šaunamąjį ginklą prieš orlaivį, autonomiškai arba nuotoliniu būdu valdomą objektą, judantį oru, žemės, vandens paviršiumi arba po vandeniu, šiais atvejais:
+
+
+1) kai kyla neišvengiamas pavojus žvalgybos pareigūno ar kitų asmenų gyvybei ar sveikatai;
+
+
+
+
+2) kai bepiločio orlaivio skrydis vykdomas nepaisant šio įstatymo 5 straipsnio 3 dalyje nustatyto draudimo;
+
+
+
+
+3) užkirsdamas kelią nusikalstamoms veikoms, taip pat kai būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbioms įmonėms, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams.
+
+
 Straipsnio dalies pakeitimai:
 Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
+Nr. XIV-3143, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20385
  
 
 
@@ -4636,3 +4683,8 @@ Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 28, 30, 37, 46, 50, 62, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2392, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25906
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 2, 5, 9, 10, 11, 12, 13, 15, 16, 18, 21, 24, 26, 29, 31, 32, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 53, 54, 58, 59, 60, 62, 64, 65, 68, 69, 70 straipsnių ir 1 priedo pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3143, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20385
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 2, 48 ir 49 straipsnių pakeitimo įstatymas
