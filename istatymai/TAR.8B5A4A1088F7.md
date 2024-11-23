@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/8b5a4a1088f711e8af589337bf1eb893"
 
 # Lietuvos Respublikos bausmių vykdymo sistemos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-11-22
+Suvestinė redakcija nuo 2024-11-23
  
 Įstatymas paskelbtas: TAR 2018-07-16, i. k. 2018-12055
  
@@ -64,7 +64,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aviacijos įstatyme, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos probacijos įstatyme, Lietuvos Respublikos profesinio mokymo įstatyme, Lietuvos Respublikos policijos įstatyme, Lietuvos Respublikos saugios laivybos įstatyme ir Lietuvos Respublikos vidaus tarnybos statute.
+4. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aviacijos įstatyme, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos probacijos įstatyme, Lietuvos Respublikos profesinio mokymo įstatyme, Lietuvos Respublikos policijos įstatyme, Lietuvos Respublikos saugios laivybos įstatyme ir Lietuvos Respublikos vidaus tarnybos statute.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3138, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20376
  
 
 
@@ -416,7 +418,10 @@ PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 13 straipsnis. Prievartos naudojimo sąlygos
 
 
-1. Prievarta gali būti naudojama tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms atlikti. Bausmių vykdymo sistemos pareigūnai naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdami į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes.
+1. Prievarta gali būti naudojama tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms atlikti. Bausmių vykdymo sistemos pareigūnai naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdami į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą, individualias pažeidėjo savybes ir (ar) pavojų keliančio objekto savybes. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3138, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20376
+ 
 
 
 
@@ -429,7 +434,10 @@ PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 3. Prievartą bausmių vykdymo sistemos pareigūnai turi teisę naudoti šiais atvejais:
 
 
-1) saugodamiesi ar siekdami apsaugoti asmenis nuo gresiančio pavojaus gyvybei ar sveikatai;
+1) saugodamiesi ar siekdami apsaugoti asmenis nuo gresiančio pavojaus gyvybei, sveikatai ar turtui; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3138, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20376
+ 
 
 
 
@@ -459,7 +467,15 @@ PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 
 
 
-7) ypatingomis situacijomis (nuteistųjų ar suimtųjų riaušių, grupinio pasipriešinimo laisvės atėmimo vietų įstaigos administracijai ar neteisėtų grupinių veiksmų, pažeidžiančių laisvės atėmimo vietų įstaigos vidaus tvarką, įkaitų grobimo atvejais).
+7) ypatingomis situacijomis (nuteistųjų ar suimtųjų riaušių, grupinio pasipriešinimo laisvės atėmimo vietų įstaigos administracijai ar neteisėtų grupinių veiksmų, pažeidžiančių laisvės atėmimo vietų įstaigos vidaus tvarką, įkaitų grobimo atvejais);
+
+
+
+
+8) jeigu būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams. 
+Papildyta straipsnio punktu:
+Nr. XIV-3138, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20376
+ 
 
 
 
@@ -481,7 +497,10 @@ PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 
 
 
-5. Fizinė prievarta naudojama tik tais atvejais, kai psichinė prievarta buvo neveiksminga arba kai bet koks delsimas kelia pavojų bausmių vykdymo sistemos pareigūno ar kito asmens gyvybei ar sveikatai.
+5. Fizinė prievarta naudojama tik tais atvejais, kai psichinė prievarta buvo neveiksminga arba neįmanoma arba kai bet koks delsimas kelia pavojų bausmių vykdymo sistemos pareigūno ar kito asmens gyvybei, sveikatai ar turtui arba aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems bausmių vykdymo sistemos pareigūno saugomiems objektams.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3138, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20376
+ 
 
 
 
@@ -563,12 +582,28 @@ PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 
 
 
-2. Bausmių vykdymo sistemos pareigūnai, nekeldami tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, kai kyla neišvengiamas pavojus bausmių vykdymo sistemos pareigūno arba kitų asmenų gyvybei ar sveikatai.
+2. Bausmių vykdymo sistemos pareigūnai, nekeldami tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą arba transporto priemonę, kai kyla neišvengiamas pavojus bausmių vykdymo sistemos pareigūno arba kitų asmenų gyvybei ar sveikatai. Bausmių vykdymo sistemos pareigūnai, nekeldami tiesioginio pavojaus asmens gyvybei, taip pat turi teisę panaudoti šaunamąjį ginklą prieš orlaivį, autonomiškai arba nuotoliniu būdu valdomą objektą, judantį oru, žemės, vandens paviršiumi arba po vandeniu, šiais atvejais:
+
+
+1) kai kyla neišvengiamas pavojus bausmių vykdymo sistemos pareigūno ar kitų asmenų gyvybei ar sveikatai;
 
 
 
 
-3. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiama, ir tik kai psichinė ir fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
+2) užkirsdami kelią nusikalstamoms veikoms, taip pat kai būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-3138, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20376
+ 
+
+
+
+
+3. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiama ir tik kai psichinė ir fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei, sveikatai arba aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui, kitiems bausmių vykdymo sistemos pareigūno saugomiems objektams arba nusikalstamų veikų užkardymui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3138, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20376
+ 
 
 
 
@@ -673,3 +708,8 @@ Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1197, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15553
 Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3138, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20376
+Lietuvos Respublikos bausmių vykdymo sistemos įstatymo Nr. XIII-1387 2, 13 ir 14 straipsnių pakeitimo įstatymas
