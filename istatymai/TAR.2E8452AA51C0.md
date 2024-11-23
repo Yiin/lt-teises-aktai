@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E8452AA51C0"
 
 # Lietuvos Respublikos viešojo saugumo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-11-22
+Suvestinė redakcija nuo 2024-11-23
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 102-3935, i. k. 1061010ISTA000X-813
  
@@ -550,7 +550,10 @@ V SKYRIUS
 12 straipsnis. Prievartos naudojimo sąlygos
 
 
-1. Tarnybos pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Tarnybos pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba kai bet koks delsimas kelia pavojų Tarnybos pareigūno ar kito asmens gyvybei ar sveikatai.
+1. Tarnybos pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Tarnybos pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą, individualias pažeidėjo savybes ir (ar) pavojų keliančio objekto savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba neįmanoma arba kai bet koks delsimas kelia pavojų Tarnybos pareigūno ar kito asmens gyvybei, sveikatai ar turtui arba aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems Tarnybos pareigūno saugomiems objektams. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3135, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20372
+ 
 
 
 
@@ -563,7 +566,10 @@ V SKYRIUS
 3. Fizinę prievartą Tarnybos pareigūnas turi teisę panaudoti šiais atvejais:
 
 
-1) saugodamasis ar siekdamas apsaugoti kitus asmenis nuo gresiančio pavojaus gyvybei ar sveikatai;
+1) saugodamasis ar siekdamas apsaugoti kitus asmenis nuo gresiančio pavojaus gyvybei, sveikatai ar turtui; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3135, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20372
+ 
 
 
 
@@ -593,12 +599,23 @@ V SKYRIUS
 
 
 
-7) stabdydamas transporto priemonę, laivą ar orlaivį (tarnybinio būtinumo atvejais);
+7) stabdydamas transporto priemonę, laivą, orlaivį, autonomiškai arba nuotoliniu būdu valdomą objektą, judantį oru, žemės, vandens paviršiumi arba po vandeniu, (tarnybinio būtinumo atvejais); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3135, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20372
+ 
 
 
 
 
-8) užkirsdamas kelią administraciniams nusižengimams ar nusikalstamoms veikoms.
+8) užkirsdamas kelią administraciniams nusižengimams ar nusikalstamoms veikoms;
+
+
+
+
+9) kai būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams. 
+Papildyta straipsnio punktu:
+Nr. XIV-3135, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20372
+ 
 
 
 
@@ -648,7 +665,10 @@ V SKYRIUS
 
 
 
-4) prieš nepilnamečius asmenis, jei jų išvaizda atitinka amžių.
+4) prieš nepilnamečius asmenis, jeigu Tarnybos pareigūnui žinomas jų amžius arba jų išvaizda atitinka amžių.
+Straipsnio punkto pakeitimai:
+Nr. XIV-3135, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20372
+ 
 
 
 
@@ -686,7 +706,10 @@ Nr. XII-2371, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14174
 14 straipsnis. Šaunamųjų ginklų ir sprogmenų naudojimas
 
 
-1. Šaunamieji ginklai ar sprogmenys gali būti panaudoti tik išimtiniais atvejais, kai tai neišvengiamai būtina ir kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai. 
+1. Šaunamieji ginklai ar sprogmenys gali būti panaudoti tik išimtiniais atvejais, kai tai neišvengiamai būtina ir kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei, sveikatai arba aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui, kitiems Tarnybos pareigūno saugomiems objektams arba nusikalstamų veikų užkardymui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3135, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20372
+ 
 
 
 
@@ -729,7 +752,20 @@ Nr. XIII-1014, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01027
 
 
 
-3. Tarnybos pareigūnas, nekeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, kai kyla neišvengiamas pavojus Tarnybos pareigūno arba kitų asmenų gyvybei ar sveikatai.
+3. Tarnybos pareigūnas, nekeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą arba transporto priemonę, kai kyla neišvengiamas pavojus Tarnybos pareigūno arba kitų asmenų gyvybei ar sveikatai. Tarnybos pareigūnas, nekeldamas tiesioginio pavojaus asmens gyvybei, taip pat turi teisę panaudoti šaunamąjį ginklą prieš orlaivį, autonomiškai arba nuotoliniu būdu valdomą objektą, judantį oru, žemės, vandens paviršiumi arba po vandeniu, šiais atvejais:
+
+
+1) kai kyla neišvengiamas pavojus Tarnybos pareigūno ar kitų asmenų gyvybei ar sveikatai;
+
+
+
+
+2) užkirsdamas kelią nusikalstamoms veikoms, taip pat kai būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-3135, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20372
+ 
 
 
 
@@ -1035,3 +1071,8 @@ Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 6 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1207, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15571
 Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 2, 7 ir 10 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3135, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20372
+Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 12 ir 14 straipsnių pakeitimo įstatymas
