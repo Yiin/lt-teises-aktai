@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F8C601D8592"
 
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-11-22
+Suvestinė redakcija nuo 2024-11-23
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 42-1192, i. k. 1001010ISTAIII-1666
  
@@ -215,10 +215,11 @@ Nr. XIV-1891, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08044
 
 
 
-26. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatyme (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas), Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos aviacijos įstatyme, Lietuvos Respublikos cheminių medžiagų ir preparatų įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, Lietuvos Respublikos jūros aplinkos apsaugos įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatyme, Lietuvos Respublikos nuodingųjų medžiagų priežiūros įstatyme, Lietuvos Respublikos policijos įstatyme, Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme, Lietuvos Respublikos saugios laivybos įstatyme, Lietuvos Respublikos vidaus tarnybos statute, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme ir Reglamente (ES) Nr. 2016/399, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), 1951 m. Konvencijoje dėl pabėgėlių statuso, 1982 m. Jungtinių Tautų jūrų teisės konvencijoje. 
+26. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatyme (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas), Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos aviacijos įstatyme, Lietuvos Respublikos cheminių medžiagų ir preparatų įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, Lietuvos Respublikos jūros aplinkos apsaugos įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatyme, Lietuvos Respublikos nuodingųjų medžiagų priežiūros įstatyme, Lietuvos Respublikos policijos įstatyme, Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme, Lietuvos Respublikos saugios laivybos įstatyme, Lietuvos Respublikos vidaus tarnybos statute, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme ir Reglamente (ES) Nr. 2016/399, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente), 1951 m. Konvencijoje dėl pabėgėlių statuso, 1982 m. Jungtinių Tautų jūrų teisės konvencijoje.
 Straipsnio dalies pakeitimai:
 Nr. XIV-891, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00748
 Nr. XIV-1891, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08044
+Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
  
 
 
@@ -2055,7 +2056,10 @@ PRIEVARTOS NAUDOJIMAS
 28 straipsnis. Prievartos naudojimo sąlygos
 
 
-1. Valstybės sienos apsaugos tarnybos pareigūnas, eidamas pareigas, šio įstatymo nustatytais atvejais ir tvarka gali panaudoti prievartą. Valstybės sienos apsaugos tarnybos pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atveju ir tik tiek, kiek to reikia tarnybinei pareigai atlikti. Valstybės sienos apsaugos tarnybos pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba kai bet koks delsimas kelia pavojų pareigūno ar kito asmens gyvybei ar sveikatai.
+1. Valstybės sienos apsaugos tarnybos pareigūnas, eidamas pareigas, šio įstatymo nustatytais atvejais ir tvarka gali panaudoti prievartą. Valstybės sienos apsaugos tarnybos pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atveju ir tik tiek, kiek to reikia tarnybinei pareigai atlikti. Valstybės sienos apsaugos tarnybos pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą, individualias pažeidėjo savybes ir (ar) pavojų keliančio objekto savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba neįmanoma arba kai bet koks delsimas kelia pavojų Valstybės sienos apsaugos tarnybos pareigūno ar kito asmens gyvybei, sveikatai ar turtui arba aviacijos saugumui, valstybės sienos apsaugai, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbioms įmonėms, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems Valstybės sienos apsaugos tarnybos pareigūno saugomiems objektams. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
+ 
 
 
 
@@ -2068,7 +2072,10 @@ PRIEVARTOS NAUDOJIMAS
 3. Fizinę prievartą Valstybės sienos apsaugos tarnybos pareigūnas turi teisę panaudoti šiais atvejais:
 
 
-1) apsisaugodamas ar apsaugodamas kitus asmenis nuo gresiančio pavojaus gyvybei ar sveikatai;
+1) apsisaugodamas ar apsaugodamas kitus asmenis nuo gresiančio pavojaus gyvybei, sveikatai ar turtui; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
+ 
 
 
 
@@ -2093,12 +2100,23 @@ PRIEVARTOS NAUDOJIMAS
 
 
 
-6) stabdydamas transporto priemonę, laivą ar orlaivį;
+6) stabdydamas transporto priemonę, laivą, orlaivį, autonomiškai arba nuotoliniu būdu valdomą objektą, judantį oru, žemės, vandens paviršiumi arba po vandeniu; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
+ 
 
 
 
 
-7) užkirsdamas kelią nusikalstamoms veikoms ar administraciniams nusižengimams.
+7) užkirsdamas kelią nusikalstamoms veikoms ar administraciniams nusižengimams;
+
+
+
+
+8) kai būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, valstybės sienos apsaugai, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbioms įmonėms, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams. 
+Papildyta straipsnio punktu:
+Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
+ 
 
 
 
@@ -2138,7 +2156,10 @@ PRIEVARTOS NAUDOJIMAS
 
 
 
-2) prieš asmenis, turinčius neliečiamybės teisę;
+2) prieš asmenis, jeigu Valstybės sienos apsaugos tarnybos pareigūnui žinoma, kad jie turi neliečiamybės teisę; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
+ 
 
 
 
@@ -2148,14 +2169,20 @@ PRIEVARTOS NAUDOJIMAS
 
 
 
-4) prieš nepilnamečius asmenis, jeigu jų išvaizda atitinka amžių.
+4) prieš nepilnamečius asmenis, jeigu Valstybės sienos apsaugos tarnybos pareigūnui žinomas jų amžius arba jų išvaizda atitinka amžių. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
+ 
 
 
 
 
 
 
-8. Valstybės sienos apsaugos tarnybos pareigūnas, panaudojęs psichinę ar fizinę prievartą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, asmeniui turi suteikti reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie Valstybės sienos apsaugos tarnybos pareigūno panaudotą psichinę ar fizinę prievartą, jeigu tai lėmė asmens mirtį arba gyvybei pavojingą kūno sužalojimą, nedelsiant pranešama prokurorui.
+8. Valstybės sienos apsaugos tarnybos pareigūnas, panaudojęs psichinę ar fizinę prievartą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, asmeniui turi suteikti reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie Valstybės sienos apsaugos tarnybos pareigūno panaudotą psichinę ar fizinę prievartą, jeigu tai lėmė asmens mirtį arba gyvybei pavojingą sveikatos sutrikdymą, nedelsiant pranešama prokurorui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
+ 
 
 
 
@@ -2176,7 +2203,10 @@ PRIEVARTOS NAUDOJIMAS
 29 straipsnis. Šaunamųjų ginklų ir sprogmenų naudojimas
 
 
-1. Šaunamieji ginklai ir sprogmenys gali būti panaudoti tik išimtiniais atvejais, kai tai neišvengiamai būtina, ir tada, kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
+1. Šaunamieji ginklai ir sprogmenys gali būti panaudoti tik išimtiniais atvejais, kai tai neišvengiamai būtina ir tada, kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai arba aviacijos saugumui, valstybės sienos apsaugai, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbioms įmonėms, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui, kitiems Valstybės sienos apsaugos tarnybos pareigūno saugomiems objektams arba nusikalstamų veikų užkardymui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
+ 
 
 
 
@@ -2219,7 +2249,20 @@ Nr. XIII-1016, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01029
 
 
 
-3. Valstybės sienos apsaugos tarnybos pareigūnas, nesukeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, jeigu kyla neišvengiamas pavojus Valstybės sienos apsaugos tarnybos pareigūno ar kitų asmenų gyvybei ar sveikatai.
+3. Valstybės sienos apsaugos tarnybos pareigūnas, nesukeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą arba transporto priemonę, kai kyla neišvengiamas pavojus Valstybės sienos apsaugos tarnybos pareigūno ar kitų asmenų gyvybei ar sveikatai. Valstybės sienos apsaugos tarnybos pareigūnas, nesukeldamas tiesioginio pavojaus asmens gyvybei, taip pat turi teisę panaudoti šaunamąjį ginklą prieš orlaivį, autonomiškai arba nuotoliniu būdu valdomą objektą, judantį oru, žemės, vandens paviršiumi arba po vandeniu, šiais atvejais:
+
+
+1) kai kyla neišvengiamas pavojus Valstybės sienos apsaugos tarnybos pareigūno ar kitų asmenų gyvybei ar sveikatai;
+
+
+
+
+2) užkirsdamas kelią nusikalstamoms veikoms, taip pat kai būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, valstybės sienos apsaugai, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbioms įmonėms, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
+ 
 
 
 
@@ -2254,12 +2297,18 @@ Nr. XIII-1016, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01029
 
 
 
-8. Valstybės sienos apsaugos tarnybos pareigūnas, panaudojęs šaunamąjį ginklą ar sprogmenis ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, asmeniui turi suteikti reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie Valstybės sienos apsaugos tarnybos pareigūno panaudotą šaunamąjį ginklą ar sprogmenis, jeigu tai lėmė asmens mirtį arba kūno sužalojimą, tuoj pat, ne vėliau kaip per 24 valandas, pranešama prokurorui.
+8. Valstybės sienos apsaugos tarnybos pareigūnas, panaudojęs šaunamąjį ginklą ar sprogmenis ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, asmeniui turi suteikti reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų reikalingų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie Valstybės sienos apsaugos tarnybos pareigūno panaudotą šaunamąjį ginklą ar sprogmenis, jeigu tai lėmė asmens mirtį arba sveikatos sutrikdymą, nedelsiant pranešama prokurorui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
+ 
 
 
 
 
-9. Valstybės sienos apsaugos tarnybos pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie geba veikti situacijomis, susijusiomis su šaunamojo ginklo ar sprogmenų panaudojimu. 
+9. Valstybės sienos apsaugos tarnybos pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie geba veikti situacijomis, susijusiomis su šaunamojo ginklo ar sprogmenų panaudojimu. Valstybės sienos apsaugos tarnybos pareigūnų parengimo ir tikrinimo tvarką nustato Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
+ 
 
 
 
@@ -2819,3 +2868,8 @@ Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1891, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08044
 Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr.VIII-1666 1, 2, 4, 10, 11, 14, 15, 16, 18, 23, 26 straipsnių pakeitimo ir Įstatymo papildymo 23-1 straipsniu ir nauju IX skyriumi įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 2, 28 ir 29 straipsnių pakeitimo įstatymas
