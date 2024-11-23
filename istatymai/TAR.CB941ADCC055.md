@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-11-22
+Suvestinė redakcija nuo 2024-11-23
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
  
@@ -105,9 +105,10 @@ Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 
 
-10. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos arba vartojamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos jūros aplinkos apsaugos įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos cheminių medžiagų ir preparatų įstatyme, Lietuvos Respublikos policijos įstatyme, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme ir Lietuvos Respublikos medžioklės įstatyme. 
+10. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos arba vartojamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos jūros aplinkos apsaugos įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos cheminių medžiagų ir preparatų įstatyme, Lietuvos Respublikos policijos įstatyme, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme ir Lietuvos Respublikos medžioklės įstatyme.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
+Nr. XIV-3137, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20375
  
 
 
@@ -1731,7 +1732,10 @@ Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
 41 straipsnis. Prievartos naudojimo sąlygos
 
 
-1. Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Aplinkos apsaugos valstybinės kontrolės pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba kai bet koks delsimas kelia pavojų aplinkos apsaugos valstybinės kontrolės pareigūno ar kito asmens gyvybei ar sveikatai.
+1. Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Aplinkos apsaugos valstybinės kontrolės pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą, individualias pažeidėjo savybes ir (ar) pavojų keliančio objekto savybes. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba neįmanoma arba kai bet koks delsimas kelia pavojų aplinkos apsaugos valstybinės kontrolės pareigūno ar kito asmens gyvybei, sveikatai ar turtui arba aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems aplinkos apsaugos valstybinės kontrolės pareigūno saugomiems objektams. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3137, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20375
+ 
 
 
 
@@ -1754,7 +1758,10 @@ Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
 5. Fizinę prievartą aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę panaudoti šiais atvejais:
 
 
-1) saugodamasis ar siekdamas apsaugoti kitus asmenis nuo gresiančio pavojaus gyvybei ar sveikatai;
+1) saugodamasis ar siekdamas apsaugoti kitus asmenis nuo gresiančio pavojaus gyvybei, sveikatai ar turtui; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3137, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20375
+ 
 
 
 
@@ -1779,12 +1786,23 @@ Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
 
 
 
-6) stabdydamas transporto priemonę, laivą ar orlaivį (tarnybinio būtinumo atvejais);
+6) stabdydamas transporto priemonę, laivą, orlaivį, autonomiškai arba nuotoliniu būdu valdomą objektą, judantį oru, žemės, vandens paviršiumi arba po vandeniu, (tarnybinio būtinumo atvejais); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3137, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20375
+ 
 
 
 
 
-7) užkirsdamas kelią administraciniams nusižengimams ar nusikalstamoms veikoms.
+7) užkirsdamas kelią administraciniams nusižengimams ar nusikalstamoms veikoms;
+
+
+
+
+8) kai būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams. 
+Papildyta straipsnio punktu:
+Nr. XIV-3137, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20375
+ 
 
 
 
@@ -1834,7 +1852,10 @@ Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
 
 
 
-4) prieš nepilnamečius asmenis, jeigu jų išvaizda atitinka amžių.
+4) prieš nepilnamečius asmenis, jeigu aplinkos apsaugos valstybinės kontrolės pareigūnui žinomas jų amžius arba jų išvaizda atitinka amžių.
+Straipsnio punkto pakeitimai:
+Nr. XIV-3137, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20375
+ 
 
 
 
@@ -1874,7 +1895,10 @@ Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
 43 straipsnis. Šaunamojo ginklo naudojimas
 
 
-1. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiamai būtina ir kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
+1. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiamai būtina ir kai psichinė ar fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei, sveikatai arba aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui, kitiems aplinkos apsaugos valstybinės kontrolės pareigūno saugomiems objektams arba nusikalstamų veikų užkardymui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3137, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20375
+ 
 
 
 
@@ -1899,7 +1923,20 @@ Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
 
 
 
-3. Aplinkos apsaugos valstybinės kontrolės pareigūnas, nekeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, jeigu kyla neišvengiamas pavojus aplinkos apsaugos valstybinės kontrolės pareigūno arba kitų asmenų gyvybei ar sveikatai.
+3. Aplinkos apsaugos valstybinės kontrolės pareigūnas, nekeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą arba transporto priemonę, kai kyla neišvengiamas pavojus aplinkos apsaugos valstybinės kontrolės pareigūno arba kitų asmenų gyvybei ar sveikatai. Aplinkos apsaugos valstybinės kontrolės pareigūnas, nekeldamas tiesioginio pavojaus asmens gyvybei, taip pat turi teisę panaudoti šaunamąjį ginklą prieš orlaivį, autonomiškai arba nuotoliniu būdu valdomą objektą, judantį oru, žemės, vandens paviršiumi arba po vandeniu, šiais atvejais:
+
+
+1) kai kyla neišvengiamas pavojus aplinkos apsaugos valstybinės kontrolės pareigūno ar kitų asmenų gyvybei ar sveikatai;
+
+
+
+
+2) užkirsdamas kelią nusikalstamoms veikoms, taip pat kai būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-3137, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20375
+ 
 
 
 
@@ -2518,3 +2555,8 @@ Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2212, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21808
 Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 6-1 ir 12 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3137, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20375
+Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 2, 41 ir 43 straipsnių pakeitimo įstatymas
