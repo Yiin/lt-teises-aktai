@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-11-22
+Suvestinė redakcija nuo 2024-11-23 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 86-2045, i. k. 0961010ISTA00I-1508
  
@@ -195,7 +195,9 @@ Vilnius
 
 
 
-30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos finansinių ataskaitų audito įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos turizmo įstatyme, Lietuvos Respublikos juridinių asmenų nemokumo įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme. 
+30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos turizmo įstatyme, Lietuvos Respublikos juridinių asmenų nemokumo įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3097, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20356
  
 
 
@@ -371,7 +373,9 @@ Vilnius
 
 
 
-13. Valstybės skolininkai arba valstybės garantuojami skolininkai, išskyrus Lietuvos Respublikos ir užsienio valstybių kredito įstaigas, Mokslo ir studijų įstatyme nurodytos valstybės remiamos paskolos gavėjus ir savivaldybes, iki nėra visiškai įvykdyti turtiniai įsipareigojimai, be Finansų ministerijos arba centralizuotai valdomo valstybės turto valdytojo, kai šis valdytojas administruoja Finansų ministerijos perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, rašytinio leidimo ir nesuderinę šių veiksmų atlikimo sąlygų neturi teisės:
+13. Valstybės skolininkai arba valstybės garantuojami skolininkai, išskyrus Lietuvos Respublikos ir užsienio valstybių kredito įstaigas, Mokslo ir studijų įstatyme nurodytos valstybės remiamos paskolos gavėjus, garantijų institucijas ir savivaldybes, iki nėra visiškai įvykdyti turtiniai įsipareigojimai, be Finansų ministerijos arba centralizuotai valdomo valstybės turto valdytojo, kai šis valdytojas administruoja Finansų ministerijos perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, rašytinio leidimo ir nesuderinę šių veiksmų atlikimo sąlygų neturi teisės: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3097, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20356
 
 
 1) reorganizuoti juridinio asmens;
@@ -447,7 +451,6 @@ Vilnius
 
 
 19. Valdžios sektoriui priskiriamų subjektų priskyrimą prie centrinės valdžios, vietos valdžios ir socialinės apsaugos fondų sektorių bei klasifikavimą pagal sektorius nustato Vyriausybė arba jos įgaliota institucija, atsižvelgdama į Europos Sąjungos teisės aktus, reglamentuojančius subjektų priskyrimą prie sektorių ir jų klasifikavimą.
- 
 
 
 
@@ -495,7 +498,7 @@ Vilnius
 
 
 
-8) Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme nustatytiems tikslams ir kitiems tikslams, kai dėl to yra priimtas atskiras įstatymas.
+8) Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme nustatytiems tikslams ir kitiems tikslams, kai dėl to yra priimtas atskiras įstatymas;
 
 
 
@@ -530,7 +533,15 @@ Vilnius
 
 
 
-6) paskolų ir ne nuosavybės vertybinių popierių, naudojamų ekstremaliųjų situacijų paveiktos ekonomikos skatinimo tikslams įgyvendinti ir verslo finansiniam likvidumui didinti.
+6) paskolų ir ne nuosavybės vertybinių popierių, naudojamų ekstremaliųjų situacijų paveiktos ekonomikos skatinimo tikslams įgyvendinti ir verslo finansiniam likvidumui didinti;
+
+
+
+
+7) paskolų ar ne nuosavybės vertybinių popierių, kurių lėšos skiriamos investicijoms į Lietuvos Respublikoje kuriamą gynybos ir saugumo pramonę. 
+Papildyta straipsnio punktu:
+Nr. XIV-3097, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20356
+ 
 
 
 
@@ -1058,3 +1069,13 @@ Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2709, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11293
 Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2773, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12077
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3 ir 4 straipsnių pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3097, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20356
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 3, 4 ir 7 straipsnių pakeitimo įstatymas
