@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-11-22
+Suvestinė redakcija nuo 2024-11-23 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
  
@@ -915,9 +915,10 @@ Nr. XIV-2103, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14031
 
 
 
-6) asmenys, kuriems nustatytas sunkaus neįgalumo lygis arba 0–25 procentų dalyvumo lygis, arba sukakę Lietuvos Respublikos socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių asmenys, kuriems teisės aktų nustatyta tvarka yra nustatytas 15 procentų dalyvumo lygis, taip pat šiame punkte nurodytų asmenų globėjai (rūpintojai), kai valstybės garantuojama teisinė pagalba reikalinga globotinio (rūpintinio) teisėms ir interesams atstovauti bei ginti; 
+6) asmenys, kuriems nustatytas sunkaus neįgalumo lygis arba 0–25 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. 0–25 proc. darbingumo lygis arba didelių specialiųjų poreikių lygis), taip pat šiame punkte nurodytų asmenų globėjai (rūpintojai), kai valstybės garantuojama teisinė pagalba reikalinga globotinio (rūpintinio) teisėms ir interesams atstovauti bei ginti;
 Straipsnio punkto pakeitimai:
 Nr. XIV-2103, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14031
+Nr. XIV-3110, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20358
  
 
 
@@ -1055,9 +1056,10 @@ Nr. XIV-2103, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14031
 
 
 
-6. Šio įstatymo 12 straipsnio 6 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo asmens su negalia pažymėjimas (iki 2023 m. gruodžio 31 d. išduotas neįgaliojo pažymėjimas), patvirtinantis nustatytą asmens neįgalumo lygį arba dalyvumo lygį. 
+6. Šio įstatymo 12 straipsnio 6 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo asmens su negalia pažymėjimas (iki 2023 m. gruodžio 31 d. išduotas neįgaliojo pažymėjimas), patvirtinantis nustatytą asmens neįgalumo lygį arba dalyvumo lygį (iki 2023 m. gruodžio 31 d. – darbingumo lygį arba specialiųjų poreikių lygį).
 Straipsnio dalies pakeitimai:
 Nr. XIV-2103, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14031
+Nr. XIV-3110, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20358
  
 
 
@@ -2587,3 +2589,13 @@ Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. V
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2103, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14031
 Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 29, 31, 32 straipsnių ir priedo pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2674, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10551
+Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 1 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3110, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20358
+Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 12 ir 13 straipsnių pakeitimo įstatymas
