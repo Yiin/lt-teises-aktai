@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2294490FE9DD"
 
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-11-22
+Suvestinė redakcija nuo 2024-11-23
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2517, i. k. 1041010ISTA0IX-2183
  
@@ -102,9 +102,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (ES) Nr. 952/2013, Reglamente (ES) 2015/2446 su paskutiniais pakeitimais, padarytais Reglamentu (ES) 2016/341 (toliau – Reglamentas (ES) 2015/2446), Reglamente (ES) 2015/2447, Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos vidaus tarnybos statute, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme ir Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme.
+7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) Nr. 952/2013, Reglamente (ES) 2015/2446 su paskutiniais pakeitimais, padarytais Reglamentu (ES) 2016/341, (toliau – Reglamentas (ES) 2015/2446), Reglamente (ES) 2015/2447, Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos vidaus tarnybos statute, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme ir Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
+Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
  
 
 
@@ -990,7 +991,10 @@ PRIEVARTOS NAUDOJIMAS
 22 straipsnis. Prievartos priemonės ir jų naudojimo sąlygos
 
 
-1. Muitinės pareigūnas šio įstatymo nustatytais atvejais ir tvarka vykdydamas pareigas gali panaudoti prievartą. Muitinės pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Muitinės pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes. 
+1. Muitinės pareigūnas šio įstatymo nustatytais atvejais ir tvarka vykdydamas pareigas gali panaudoti prievartą. Muitinės pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms įvykdyti. Muitinės pareigūnas naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą, individualias pažeidėjo savybes ir (ar) pavojų keliančio objekto savybes. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
+ 
 
 
 
@@ -1000,7 +1004,10 @@ PRIEVARTOS NAUDOJIMAS
 
 
 
-3. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba kai bet koks delsimas kelia pavojų pareigūno ar kito asmens gyvybei ar sveikatai.
+3. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba neįmanoma arba kai bet koks delsimas kelia pavojų muitinės pareigūno ar kito asmens gyvybei, sveikatai ar turtui arba aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems muitinės pareigūno saugomiems objektams. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
+ 
 
 
 
@@ -1008,7 +1015,10 @@ PRIEVARTOS NAUDOJIMAS
 4. Fizinę prievartą muitinės pareigūnas turi teisę panaudoti šiais atvejais:
 
 
-1) saugodamasis ar siekdamas apsaugoti kitus asmenis nuo gresiančio pavojaus gyvybei ar sveikatai;
+1) saugodamasis ar siekdamas apsaugoti kitus asmenis nuo gresiančio pavojaus gyvybei, sveikatai ar turtui; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
+ 
 
 
 
@@ -1028,7 +1038,10 @@ PRIEVARTOS NAUDOJIMAS
 
 
 
-5) stabdydamas transporto priemonę, laivą ar orlaivį (esant tarnybiniam būtinumui);
+5) stabdydamas transporto priemonę, laivą, orlaivį, autonomiškai arba nuotoliniu būdu valdomą objektą, judantį oru, žemės, vandens paviršiumi arba po vandeniu, (esant tarnybiniam būtinumui); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
+ 
 
 
 
@@ -1038,7 +1051,15 @@ PRIEVARTOS NAUDOJIMAS
 
 
 
-7) atremdamas statinių (įskaitant patalpas), transporto priemonių ar kito turto, teritorijų užpuolimus.
+7) atremdamas statinių (įskaitant patalpas), transporto priemonių ar kito turto, teritorijų užpuolimus;
+
+
+
+
+8) kai būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams. 
+Papildyta straipsnio punktu:
+Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
+ 
 
 
 
@@ -1088,7 +1109,10 @@ PRIEVARTOS NAUDOJIMAS
 
 
 
-4) prieš nepilnamečius asmenis, jeigu jų išvaizda atitinka amžių.
+4) prieš nepilnamečius asmenis, jeigu muitinės pareigūnui žinomas jų amžius arba jų išvaizda atitinka amžių.
+Straipsnio punkto pakeitimai:
+Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
+ 
 
 
 
@@ -1116,7 +1140,10 @@ PRIEVARTOS NAUDOJIMAS
 23 straipsnis. Šaunamojo ginklo naudojimas
 
 
-1. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiamai būtina ir tada, kai psichinė ir fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
+1. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiamai būtina ir tada, kai psichinė ir fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei, sveikatai arba aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui, kitiems muitinės pareigūno saugomiems objektams arba nusikalstamų veikų užkardymui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
+ 
 
 
 
@@ -1141,7 +1168,20 @@ PRIEVARTOS NAUDOJIMAS
 
 
 
-3. Muitinės pareigūnas, nesukeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, jeigu kyla neišvengiamas pavojus muitinės pareigūno ar kitų asmenų gyvybei ar sveikatai.
+3. Muitinės pareigūnas, nesukeldamas tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą arba transporto priemonę, kai kyla neišvengiamas pavojus muitinės pareigūno ar kitų asmenų gyvybei ar sveikatai. Muitinės pareigūnas, nesukeldamas tiesioginio pavojaus asmens gyvybei, taip pat turi teisę panaudoti šaunamąjį ginklą prieš orlaivį, autonomiškai arba nuotoliniu būdu valdomą objektą, judantį oru, žemės, vandens paviršiumi arba po vandeniu, šiais atvejais:
+
+
+1) kai kyla neišvengiamas pavojus muitinės pareigūno ar kitų asmenų gyvybei ar sveikatai;
+
+
+
+
+2) užkirsdamas kelią nusikalstamoms veikoms, taip pat kai būtina pašalinti orlaivio, autonomiškai arba nuotoliniu būdu valdomo objekto, judančio oru, žemės, vandens paviršiumi arba po vandeniu, keliamą pavojų aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems jo saugomiems objektams.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
+ 
 
 
 
@@ -2308,3 +2348,8 @@ Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 24 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2407, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25920
 Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 16 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
+Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 3, 22 ir 23 straipsnių pakeitimo įstatymas
