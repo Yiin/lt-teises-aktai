@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-11-30
+Suvestinė redakcija nuo 2024-12-01 iki 2025-04-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
  
@@ -33,14 +33,20 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo tikslas ir paskirtis
 
 
-Šis įstatymas nustato azartinių lošimų ir žaidimų žaidimo automatais organizavimo sąlygas ir tvarką Lietuvos Respublikoje. 
+1. Šio įstatymo tikslas – mažinti azartinių lošimų prieinamumą, patrauklumą ir jų galimą (daromą) žalą asmens sveikatai.
+
+
+
+
+2. Šio įstatymo paskirtis – nustatyti azartinių lošimų ir žaidimų žaidimo automatais organizavimo sąlygas ir tvarką Lietuvos Respublikoje.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1886, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00021
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
@@ -307,6 +313,29 @@ Straipsnio pakeitimai:
 Nr. IX-995, 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
 Nr. IX-1271, 2002-12-10, Žin., 2002, Nr. 123-5553 (2002-12-24)
 Nr. X-800, 2006-07-19, Žin., 2006, Nr. 87-3410 (2006-08-08)
+ 
+
+
+
+
+21 straipsnis. Valstybės politikos lošimų kontrolės srityje principai
+
+
+Valstybės politika lošimų kontrolės srityje grindžiama šiais principais:
+
+
+1) lošimų prieinamumo mažinimo, tai yra, siekiant valdyti neigiamą lošimų poveikį lošėjo sveikatai ir gyvenamajai aplinkai, viešajai tvarkai, švietimui, kultūrai, teisinio reguliavimo priemonėmis reguliuojamas lošimų pasiūlos pasiekiamumas;
+
+
+
+
+2) lošimų patrauklumo mažinimo, tai yra, siekiant visuomenę informuoti apie azartinių lošimų poveikį lošėjo sveikatai ir gyvenamajai aplinkai, viešajai tvarkai, švietimui, kultūrai, naudojamos švietimo ir visuomenės informavimo priemonės, kurias įgyvendinant galėtų dalyvauti visi suinteresuoti asmenys, įskaitant lošimų organizatorius.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
@@ -3688,3 +3717,8 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 20-7 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
 Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 6, 7-1, 7-2, 7-3, 11, 22, 29-2 straipsnių pakeitimo ir Įstatymo papildymo 7-4 straipsniu įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 1, 2, 7-3, 10, 10-1, 16, 20, 20-1, 20-3, 21, 22, 23, 26, 28, 29-1, 29-2 straipsnių ir trečiojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 2-1, 10-4, 15-1, 16-1 straipsniais ir 20-4, 20-6 straipsnių pripažinimo netekusiais galios įstatymas
