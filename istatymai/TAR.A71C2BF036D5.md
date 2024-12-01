@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a71c2bf036d511efbdaea558de59136c"
 
 # Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymas
 
+Suvestinė redakcija nuo 2024-12-01
+ 
+Įstatymas paskelbtas: TAR 2024-06-30, i. k. 2024-12134
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ĮMONIŲ IR ĮMONIŲ GRUPIŲ ATSKAITOMYBĖS
 ĮSTATYMAS
@@ -330,7 +337,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-36. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 1997 m. Konvencijoje dėl kovos su užsienio pareigūnų papirkimu sudarant tarptautinius verslo sandorius, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos finansinės atskaitomybės standartuose, Europos tvarumo atskaitomybės standartuose.
+36. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos 1997 m. Konvencijoje dėl kovos su užsienio pareigūnų papirkimu sudarant tarptautinius verslo sandorius, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos finansinės atskaitomybės standartuose, Europos tvarumo atskaitomybės standartuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3012, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17777
  
 
 
@@ -1530,7 +1539,10 @@ c) informacija, kad įmonė atitinka sąlygas neteikti šio įstatymo 19 straips
 
 
 
-12) įmonės vadovo, valdymo ir priežiūros organų narių išrinkimui taikomos įvairovės politikos, susijusios su lytimi, kitais aspektais, tokiais kaip amžius, negalia, išsilavinimas, profesinė patirtis, aprašymas, šios politikos tikslai, jos įgyvendinimo būdai ir rezultatai ataskaitiniu laikotarpiu. Jeigu įvairovės politika netaikoma, paaiškinamos netaikymo priežastys;
+12) renkant įmonės vadovą, valdymo ir priežiūros organų narius taikomos įvairovės politikos, susijusios su lytimi, kitais aspektais, tokiais kaip amžius, negalia, išsilavinimas, profesinė patirtis, aprašymas, šios politikos tikslai, jos įgyvendinimo būdai ir rezultatai ataskaitiniu laikotarpiu. Jeigu įvairovės politika netaikoma, paaiškinamos netaikymo priežastys. Įmonių, kuriose sudaromos valdybos ir (ar) stebėtojų tarybos, vadovybės ataskaitos dalyje, skirtoje informacijai apie bendrovių valdyseną, turi būti pateikiama ir statistinė informacija apie lyčių atstovavimą įmonės valdymo ir priežiūros organuose (atstovavimo procentai pagal lytį), priemonės, kurių įmonė jau ėmėsi arba ketina imtis tam, kad įmonės valdymo ir priežiūros organuose nepakankamai atstovaujamos lyties asmenys užimtų ne mažiau kaip 33 proc. (bet ne daugiau kaip 49 proc.) įmonės vadovo, valdybos narių, stebėtojų tarybos narių pozicijų, ir priežastys, jeigu šios proporcijos nepavyksta pasiekti;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3012, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17777
+ 
 
 
 
@@ -2344,7 +2356,6 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
- 
 Respublikos Prezidentas                                                                                          Gitanas Nausėda 
  
 
@@ -2387,4 +2398,22 @@ priedas
 
 
 
+6. 2022 m. lapkričio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2381 dėl biržinių bendrovių direktorių pareigas einančių asmenų lyčių pusiausvyros gerinimo ir susijusių priemonių.
+Papildyta straipsnio dalimi:
+Nr. XIV-3012, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17777
+ 
+
+
+
+
 _____________________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3012, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17777
+Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymo Nr. XIV-2811 3, 24 straipsnių ir priedo pakeitimo įstatymas
