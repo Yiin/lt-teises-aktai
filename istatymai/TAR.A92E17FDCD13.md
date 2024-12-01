@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A92E17FDCD13"
 
 # Lietuvos Respublikos medžioklės įstatymas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-11-30
+Suvestinė redakcija nuo 2024-12-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2634; Žin. 2002, Nr.112-0, i. k. 1021010ISTA00IX-966
  
@@ -590,9 +590,17 @@ Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. 1131010IST
 
 
 
-5) kai šio įstatymo 13 straipsnio 3 dalyje nurodytu atveju pateikiamas šio straipsnio 3 dalyje nurodytai komisijai prašymas sudaryti naują medžioklės plotų vienetą. 
+5) kai šio įstatymo 13 straipsnio 3 dalyje nurodytu atveju pateikiamas šio straipsnio 3 dalyje nurodytai komisijai prašymas sudaryti naują medžioklės plotų vienetą;
 Papildyta straipsnio punktu:
 Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
+ 
+
+
+
+
+6) atlikus žemės paėmimo visuomenės poreikiams procedūras, įgyvendinant ypatingos valstybinės svarbos krašto apsaugos srities projektus.
+Papildyta straipsnio punktu:
+Nr. XIV-3052, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20013
  
 
 
@@ -790,9 +798,17 @@ Nr. XIII-2637, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20659
 
 
 
-4) leidimas naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete išduodamas medžiotojui ar grupės medžiotojų įsteigtam juridiniam asmeniui šio Įstatymo 13 straipsnio 3 dalyje numatytu naujo medžioklės plotų vieneto sudarymo atveju. 
+4) leidimas naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete išduodamas medžiotojui ar grupės medžiotojų įsteigtam juridiniam asmeniui šio Įstatymo 13 straipsnio 3 dalyje numatytu naujo medžioklės plotų vieneto sudarymo atveju; 
 Papildyta straipsnio punktu:
 Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
+ 
+
+
+
+
+5) medžioklės plotų naudotojas netenka dalies ar viso medžioklės plotų vieneto įgyvendinant ypatingos valstybinės svarbos krašto apsaugos srities projektus ir kaip kompensacija jam skiriami naudotojo neturintys medžioklės plotai. Ypatingos valstybinės svarbos krašto apsaugos srities projektą įgyvendinanti institucija apie įgyvendinamą ypatingos valstybinės svarbos krašto apsaugos srities projektą, dėl kurio medžioklės plotų naudotojas netenka dalies ar viso medžioklės plotų vieneto, informuoja institucijas, šio Įstatymo nustatyta tvarka sudarančias medžioklės plotų vienetus ir išduodančias leidimus naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete. Kaip kompensacija skiriami medžioklės plotai negali skirtis daugiau kaip 20 procentų nuo medžioklės plotų naudotojo netektos dalies ar viso medžioklės plotų vieneto, atsižvelgiant į jų dydį ir kokybę, išreiškiamą apskaičiuotu mokėtinu mokesčiu už medžiojamųjų gyvūnų išteklių naudojimą.
+Papildyta straipsnio punktu:
+Nr. XIV-3052, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20013
  
 
 
@@ -1784,3 +1800,8 @@ Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4 ir 5 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2483, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04797
 Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 5 straipsnio pakeitimo ir Įstatymo papildymo 15-1, 15-2 straipsniais ir priedu įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3052, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20013
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 8 ir 10 straipsnių pakeitimo įstatymas
