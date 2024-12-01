@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 
 # Lietuvos Respublikos koncesijų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-11-30
+Suvestinė redakcija nuo 2024-12-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
  
@@ -336,7 +336,10 @@ KONCESIJOS VERTĖ
 
 
 
-2. Koncesijos vertė apskaičiuojama iki šio įstatymo 14 straipsnio 9 ir 10 dalyse nurodytų sprendimų priėmimo dienos ir gali būti tikslinama iki koncesijos suteikimo procedūros pradžios.
+2. Koncesijos vertė apskaičiuojama iki šio įstatymo 14 straipsnio 11 dalyje nurodytų sprendimų priėmimo dienos ir gali būti tikslinama iki koncesijos suteikimo procedūros pradžios.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
+ 
 
 
 
@@ -883,73 +886,110 @@ BENDROSIOS KONCESIJŲ SUTEIKIMO TAISYKLĖS
  
 
 
-14 straipsnis. Pagrindiniai koncesijos suteikimo principai ir tikslai 
+14 straipsnis. Pagrindiniai koncesijos suteikimo principai ir tikslai
 
 
-1. Suteikiančioji institucija turi teisę laisvai atlikti koncesijos suteikimo procedūrą, laikydamasi šio įstatymo ir kitų teisės aktų. 
+1. Suteikiančioji institucija turi teisę laisvai atlikti koncesijos suteikimo procedūrą, laikydamasi šio įstatymo, Lietuvos Respublikos investicijų įstatymo ir jų įgyvendinamųjų teisės aktų. 
 
 
 
 
-2. Koncesijos suteikiamos šio įstatymo III skyriuje nurodytais koncesijų suteikimo būdais.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+2. Koncesijos suteikiamos šio įstatymo III skyriuje nurodytais koncesijos suteikimo būdais.
+
+
+
+
+3. Koncesijos planuojamos strateginio valdymo sistemą reglamentuojančių teisės aktų nustatyta tvarka. Jeigu šių teisės aktų nustatyta tvarka rengiamas investicijų projektas, kurį planuojama įgyvendinti suteikiant koncesiją, suteikiančioji institucija Lietuvos Respublikos Vyriausybės nustatyta viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo tvarka rengia koncesijos projektą. 
+
+
+
+
+4. Koncesijų projektai gali būti konsoliduojami, jeigu įvertinus koncesijų projektų konsolidavimo poreikį ir galimybes nustatoma, kad planavimo dokumentuose nustatytiems tikslams pasiekti ir uždaviniams įvykdyti konsoliduojant koncesijų projektus pasiekiama didesnė koncesijos taikymo socialinė ir ekonominė nauda negu įgyvendinant pavienius koncesijų projektus. Iki priimant šio straipsnio 11 dalyje nurodytus sprendimus konsolidavimo procese dalyvaujančios suteikiančiosios institucijos turi pasirašyti bendradarbiavimo sutartį, kurioje turi būti nurodoma: 
+
+
+1) suteikiančioji institucija, kuri bus atsakinga už konsoliduoto koncesijos projekto ir (ar) koncesijos dokumentų rengimą ir koncesijos suteikimo procedūros įvykdymą;
+
+
+
+
+2) sprendimų, susijusių su koncesijos projekto parengimu ir įgyvendinimu, priėmimo tvarka, jeigu reikalingas bendras suteikiančiųjų institucijų ar jų atstovų sprendimas;
+
+
+
+
+3) sprendimų dėl koncesijos projekto įgyvendinimo derinimo tvarka, jeigu reikalingas individualus kiekvienos suteikiančiosios institucijos sprendimas; 
+
+
+
+
+4) koncesijos suteikimo komisijos sudarymo, jos sprendimų derinimo ir priėmimo tvarka;
+
+
+
+
+5) suteikiančiųjų institucijų teisės ir pareigos vykdant koncesijos sutartį;
+
+
+
+
+6) ginčų sprendimo tvarka;
+
+
+
+
+7) bendradarbiavimo sutarties pabaiga.
+
+
+
+
+
+
+5. Suteikiančioji institucija užtikrina, kad, atliekant koncesijos suteikimo procedūras, nustatant laimėtoją ir vykdant koncesijos sutartį, būtų laikomasi lygiateisiškumo, nediskriminavimo, abipusio pripažinimo, proporcingumo, skaidrumo, efektyvumo principų. 
+
+
+
+
+6. Koncesijos suteikimo procedūra negali būti vykdoma taip, kad tam tikriems ekonominės veiklos vykdytojams arba tam tikriems darbams, prekėms ar paslaugoms būtų sudaromos palankesnės arba nepalankesnės sąlygos.
+
+
+
+
+7. Vykdydami koncesijos sutartis, koncesininkai ir jų subrangovai ar subtiekėjai (toliau – subrangovai) turi laikytis aplinkos apsaugos, socialinės ir darbo teisės įsipareigojimų, nustatytų Europos Sąjungos, nacionalinėje teisėje, kolektyvinėse sutartyse ir šio įstatymo 5 priede nurodytose tarptautinėse socialinėse ir aplinkos apsaugos konvencijose. 
+
+
+
+
+8. Ekonominės veiklos vykdytojas privalo užtikrinti, kad jo pasitelkti subrangovai, vykdydami koncesijos sutartį, laikytųsi šiame straipsnyje nustatytų reikalavimų.
+
+
+
+
+9. Ekonominės veiklos vykdytojui turi būti perduota ekonominio pobūdžio vykdymo rizika, įskaitant riziką nesusigrąžinti investicijų ir darbų vykdymo ar paslaugų teikimo sąnaudų, neatsižvelgiant į tai, kad dalis rizikos gali tekti suteikiančiajai institucijai. Perduota rizikos dalis turi apimti realią atvirumo rinkos pokyčiams riziką (bet koks nuostolis, kurį gali patirti koncesininkas, nebūtų tik nominalus ar nedidelis). Ekonominio pobūdžio vykdymo rizika turi būti suprantama kaip atvirumo rinkos pokyčiams rizika ir gali apimti pasiūlos riziką arba paklausos riziką, arba abi šias rizikas kartu.
+
+
+
+
+10. Koncesijos sutartyje gali būti nustatyta, kad koncesininkas už suteiktą koncesiją suteikiančiajai institucijai moka koncesijos mokestį. 
+
+
+
+
+11. Sprendimus dėl koncesijos projekto įgyvendinimo tikslingumo Vyriausybės nustatyta viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo tvarka priima Vyriausybė, kai koncesijos projektą įgyvendina Vyriausybės įgaliota suteikiančioji institucija, arba savivaldybės taryba, kai koncesijos projektą įgyvendina savivaldybės tarybos įgaliota suteikiančioji institucija. 
+
+
+
+
+12. Suteikiančioji institucija Vyriausybės nustatyta viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo tvarka privalo gauti Investicijų įstatymo 15² straipsnio 1 dalies 4 punkte nurodyto Vyriausybės įgalioto viešojo juridinio asmens išvadas dėl koncesijos taikymo tikslingumo ir koncesininko atrankos dokumentų atitikties reikalavimams, nustatytiems šio viešojo juridinio asmens patvirtintuose viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo metodiniuose dokumentuose, taip pat Vyriausybės įgaliotos institucijos išvadą dėl koncesijos sutarties poveikio valdžios sektoriaus deficitui ir skolai.
+
+
+
+
+13. Mobilizacijos, karo, nepaprastosios padėties atveju ar kai Vyriausybė, įvertinusi riziką, kad veiksniai, dėl kurių buvo ar gali būti paskelbta mobilizacija, įvesta karo ar nepaprastoji padėtis, kelia grėsmę nacionaliniam saugumui, yra priėmusi sprendimą dėl Viešųjų pirkimų įstatymo 45 straipsnio 21 dalies nuostatos taikymo, suteikiančioji institucija vertindama paraišką ar pasiūlymą ir nutraukdama sutartį mutatis mutandis gali taikyti Viešųjų pirkimų įstatymo 45 straipsnio 21 dalies ir 90 straipsnio 1 dalies 4 punkto nuostatas.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
  
-
-
-
-
-3. Suteikiančioji institucija užtikrina, kad, atliekant koncesijos suteikimo procedūras, nustatant laimėtoją ir vykdant koncesijos sutartį, būtų laikomasi lygiateisiškumo, nediskriminavimo, abipusio pripažinimo, proporcingumo, skaidrumo, efektyvumo principų. 
-
-
-
-
-4. Koncesijos suteikimo procedūra negali būti vykdoma taip, kad būtų sudaromos palankesnės arba nepalankesnės sąlygos tam tikriems ekonominės veiklos vykdytojams arba tam tikriems darbams, prekėms ar paslaugoms.
-
-
-
-
-5. Vykdydami koncesijos sutartis, koncesininkai ir jų subrangovai ar subtiekėjai (toliau – subrangovai) turi laikytis aplinkos apsaugos, socialinės ir darbo teisės įsipareigojimų, nustatytų Europos Sąjungos, nacionalinėje teisėje, kolektyvinėse sutartyse ir šio įstatymo 5 priede nurodytose tarptautinėse socialinėse ir aplinkos apsaugos konvencijose. 
-
-
-
-
-6. Ekonominės veiklos vykdytojas privalo užtikrinti, kad jo pasitelkti subrangovai, vykdydami koncesijos sutartį, laikytųsi šiame straipsnyje nustatytų reikalavimų.
-
-
-
-
-7. Ekonominės veiklos vykdytojui turi būti perduota ekonominio pobūdžio vykdymo rizika, įskaitant tai, kad jis gali nesusigrąžinti investicijų ir darbų vykdymo ar paslaugų teikimo sąnaudų, neatsižvelgiant į tai, kad dalis rizikos gali tekti suteikiančiajai institucijai. Perduota rizikos dalis turi apimti realią atvirumo rinkos pokyčiams riziką (bet koks nuostolis, kurį gali patirti koncesininkas, nebūtų tik nominalus ar nedidelis). Ekonominio pobūdžio vykdymo rizika turi būti suprantama kaip atvirumo rinkos pokyčiams rizika ir gali apimti pasiūlos riziką arba paklausos riziką, arba abi šias rizikas kartu.
-
-
-
-
-8. Koncesijos sutartyje gali būti nustatyta, kad koncesininkas už suteiktą koncesiją suteikiančiajai institucijai moka koncesijos mokestį. 
-
-
-
-
-9. Sprendimus dėl koncesijos suteikimo tikslingumo, išskyrus sprendimus, nurodytus šio straipsnio 10 dalyje, priima Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė), kai koncesija suteikiama valstybės vardu, arba savivaldybės taryba, kai koncesija suteikiama atitinkamos savivaldybės vardu.
-
-
-
-
-10. Lietuvos Respublikos Seimas (toliau – Seimas) Vyriausybės siūlymu priima sprendimus dėl valstybės vardu suteikiamų koncesijų, pagal kurias Lietuvos Respublika prisiima esminius valstybės turtinius įsipareigojimus (įskaitant galimą civilinę atsakomybę, atsirandančią pagal koncesijos sutartį), viršijančius 58 000 000 (penkiasdešimt aštuoni milijonai) eurų. 
-
-
-
-
-11. Suteikiančioji institucija Vyriausybės nustatyta tvarka privalo gauti viešosios įstaigos Centrinės projektų valdymo agentūros (toliau – Centrinė projektų valdymo agentūra) išvadą, nurodytą šio įstatymo 66 straipsnio 2 dalies 1 punkte, ir Lietuvos Respublikos finansų ministerijos (toliau – Finansų ministerija) išvadą dėl koncesijos sutarties projekto finansinių sąlygų vertinimo fiskalinės drausmės reikalavimų požiūriu. 
-
-
-
-
-12. Mobilizacijos, karo, nepaprastosios padėties atveju ar kai Vyriausybė, įvertinusi riziką, kad veiksniai, dėl kurių buvo ar gali būti paskelbta mobilizacija, įvesta karo ar nepaprastoji padėtis, kelia grėsmę nacionaliniam saugumui, yra priėmusi sprendimą dėl Viešųjų pirkimų įstatymo 45 straipsnio 21 dalies nuostatos taikymo, suteikiančioji institucija paraiškos ar pasiūlymo vertinimui ir sutarties nutraukimui mutatis mutandis gali taikyti Viešųjų pirkimų įstatymo 45 straipsnio 21 dalies ir 90 straipsnio 1 dalies 4 punkto nuostatas.
-Papildyta straipsnio dalimi:
-Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
- 
-
-
 
 
 
@@ -1048,7 +1088,10 @@ b) asmenis, kuriems specialiosios arba išimtinės teisės suteiktos laikantis p
 16 straipsnis. Koncesijos sutartims įgyvendinti reikalingo valstybei, savivaldybei arba suteikiančiajai institucijai nuosavybės teise priklausančio turto ir žemės perdavimas koncesininkui
 
 
-1. Koncesininkui koncesijos sutarties galiojimo laikotarpiu be atskiro konkurso gali būti perduotas valdyti, naudoti ir juo disponuoti patikėjimo teise, panaudos pagrindais arba nuomos teisėmis valstybei, savivaldybei ir (ar) suteikiančiajai institucijai nuosavybės teise priklausantis turtas, reikalingas koncesijos sutarčiai įgyvendinti, įskaitant turtą, kuris pagal Lietuvos Respublikos Konstituciją išimtine nuosavybės teise priklauso valstybei. Koncesijos sutarčiai įgyvendinti koncesininkui gali būti suteiktos teisės naudotis kontinentiniu šelfu ir (ar) išskirtine ekonomine zona Baltijos jūroje, į kuriuos valstybė turi išimtines teises, taip pat Lietuvos Respublikos žemės gelmių įstatyme nustatytais žemės gelmių ištekliais (įskaitant naudingąsias iškasenas), žemės gelmių ertmėmis ir kitais gamtos ištekliais.
+1. Valstybei, savivaldybei ir (ar) suteikiančiajai institucijai nuosavybės teise priklausantis turtas, reikalingas koncesijos sutarčiai įgyvendinti, įskaitant turtą, kuris pagal Lietuvos Respublikos Konstituciją išimtine nuosavybės teise priklauso valstybei, koncesininkui koncesijos sutarties galiojimo laikotarpiu be atskiro konkurso gali būti perduotas valdyti, naudoti ir juo disponuoti patikėjimo teise pagal patikėjimo sutartį arba nuomos teisėmis. Koncesijos sutarčiai įgyvendinti koncesininkui gali būti suteiktos teisės naudotis kontinentiniu šelfu ir (ar) išskirtine ekonomine zona Baltijos jūroje, į kuriuos valstybė turi išimtines teises, taip pat Lietuvos Respublikos žemės gelmių įstatyme nustatytais žemės gelmių ištekliais (įskaitant naudingąsias iškasenas), žemės gelmių ertmėmis ir kitais gamtos ištekliais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
+ 
 
 
 
@@ -1058,7 +1101,10 @@ b) asmenis, kuriems specialiosios arba išimtinės teisės suteiktos laikantis p
 
 
 
-3. Valstybei, savivaldybei ir (ar) suteikiančiajai institucijai nuosavybės teise priklausančio turto, kuris koncesijos sutarties galiojimo laikotarpiui yra perduotas koncesininkui patikėjimo, panaudos ar nuomos teisėmis, išskyrus trumpalaikį ir ilgalaikį kilnojamąjį valstybei, savivaldybei ir (ar) suteikiančiajai institucijai nuosavybės teise priklausantį turtą, kuris per koncesijos sutarties galiojimo laikotarpį bus visiškai nudėvėtas ir gali būti parduodamas koncesininkui už likutinę vertę, koncesininkas negali parduoti ar kitaip perleisti kitų asmenų nuosavybėn, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą. Koncesininkui negali būti perduodama nuosavybės teisė į valstybės, savivaldybės ar suteikiančiosios institucijos turtą. 
+3. Valstybei, savivaldybei ir (ar) suteikiančiajai institucijai nuosavybės teise priklausančio turto, kuris koncesijos sutarties galiojimo laikotarpiui yra perduotas koncesininkui patikėjimo teise pagal patikėjimo sutartį ar nuomos teisėmis, išskyrus trumpalaikį ir ilgalaikį kilnojamąjį valstybei, savivaldybei ir (ar) suteikiančiajai institucijai nuosavybės teise priklausantį turtą, kuris per koncesijos sutarties galiojimo laikotarpį bus visiškai nudėvėtas ir gali būti parduodamas koncesininkui už likutinę vertę, koncesininkas negali parduoti ar kitaip perleisti kitų asmenų nuosavybėn, jo įkeisti ar kitaip suvaržyti daiktinių teisių į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymo. Koncesininkui negali būti perduodama nuosavybės teisė į valstybės, savivaldybės ar suteikiančiosios institucijos turtą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
+ 
 
 
 
@@ -1068,7 +1114,10 @@ b) asmenis, kuriems specialiosios arba išimtinės teisės suteiktos laikantis p
 
 
 
-5. Sprendimą dėl valstybei ar savivaldybei nuosavybės teise priklausančio turto perdavimo koncesininkui patikėjimo teise, panaudos pagrindais arba nuomos teisėmis priima Vyriausybė ar savivaldybės taryba teisės aktų, reglamentuojančių valstybės ir savivaldybės turto valdymą, naudojimą ir disponavimą juo, nustatyta tvarka. Valstybei arba savivaldybei nuosavybės teise priklausantis turtas, perduodamas koncesininkui, ir koncesininko teisės į tokį perduodamą turtą nustatomi Vyriausybės ir (ar) savivaldybės tarybos sprendime dėl koncesijos tikslingumo. Tais atvejais, kai koncesininkui perduodamas suteikiančiajai institucijai nuosavybės teise priklausantis turtas, iki šioje dalyje nurodyto Vyriausybės ar savivaldybės tarybos sprendimo turi būti priimtas suteikiančiosios institucijos sprendimas dėl dalyvavimo įgyvendinant koncesiją ir suteikiančiajai institucijai nuosavybės teise priklausančio turto perdavimo koncesininkui. 
+5. Sprendimą dėl valstybei ar savivaldybei nuosavybės teise priklausančio turto perdavimo koncesininkui patikėjimo teise pagal patikėjimo sutartį arba nuomos teisėmis priima Vyriausybė ar savivaldybės taryba teisės aktų, reglamentuojančių valstybės ir savivaldybės turto valdymą, naudojimą ir disponavimą juo, nustatyta tvarka. Valstybei arba savivaldybei nuosavybės teise priklausantis turtas, perduodamas koncesininkui, ir koncesininko teisės į tokį perduodamą turtą nustatomi atitinkamai Vyriausybės arba savivaldybės tarybos sprendime dėl koncesijos projekto įgyvendinimo tikslingumo. Tais atvejais, kai koncesininkui perduodamas suteikiančiajai institucijai nuosavybės teise priklausantis turtas, iki šioje dalyje nurodyto Vyriausybės ar savivaldybės tarybos sprendimo priėmimo dienos turi būti priimtas suteikiančiosios institucijos sprendimas dėl dalyvavimo įgyvendinant koncesiją ir suteikiančiajai institucijai nuosavybės teise priklausančio turto perdavimo koncesininkui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
+ 
 
 
 
@@ -1078,7 +1127,10 @@ b) asmenis, kuriems specialiosios arba išimtinės teisės suteiktos laikantis p
 
 
 
-7. Koncesininko perimtas valdyti ir (ar) naudoti valstybei, savivaldybei arba suteikiančiajai institucijai nuosavybės teise priklausantis turtas, išskyrus žemę ar kitą turtą, kuris pagal galiojančius įstatymus nėra turto draudimo objektas, turi būti apdraustas visam koncesijos sutarties galiojimo laikotarpiui nuo visų galimų drausti draudžiamųjų įvykių koncesijos sutartyje nustatytomis sąlygomis.
+7. Koncesininko perimtas valdyti ir (ar) naudoti valstybei, savivaldybei arba suteikiančiajai institucijai nuosavybės teise priklausantis turtas, išskyrus žemę ar kitą turtą, kuris nėra turto draudimo objektas, turi būti apdraustas visą koncesijos sutarties galiojimo laikotarpį nuo visų galimų drausti draudžiamųjų įvykių koncesijos sutartyje nustatytomis sąlygomis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
+ 
 
 
 
@@ -1625,7 +1677,10 @@ c) yra padaręs draudimo sudaryti draudžiamus susitarimus, įtvirtinto Lietuvos
 6. Suteikiančioji institucija gali pašalinti dalyvį iš koncesijos suteikimo procedūros, jeigu jis:
 
 
-1) yra pažeidęs bent vieną iš šio įstatymo 14 straipsnio 5 dalyje nurodytų aplinkos apsaugos, socialinės ir darbo teisės įpareigojimų, kurį suteikiančioji institucija gali įrodyti bet kokiomis tinkamomis priemonėmis. Šiuo pagrindu suteikiančioji institucija gali pašalinti dalyvį iš koncesijos suteikimo procedūros, jeigu nuo pažeidimo padarymo dienos praėjo mažiau kaip vieni metai;
+1) yra pažeidęs bent vieną iš šio įstatymo 14 straipsnio 7 dalyje nurodytų aplinkos apsaugos, socialinės ir darbo teisės įpareigojimų, ir tai suteikiančioji institucija gali įrodyti bet kokiomis tinkamomis priemonėmis. Šiuo pagrindu suteikiančioji institucija gali pašalinti dalyvį iš koncesijos suteikimo procedūros, jeigu nuo pažeidimo padarymo dienos praėjo mažiau kaip vieni metai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
+ 
 
 
 
@@ -1960,7 +2015,10 @@ Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 
 
 
-6) informacija, kad suteikiančioji institucija gali nuspręsti nesudaryti koncesijos sutarties su ekonomiškai naudingiausią pasiūlymą pateikusiu dalyviu, jeigu paaiškėja, kad pasiūlymas neatitinka šio įstatymo 14 straipsnio 5 dalyje nustatytų reikalavimų;
+6) informacija, kad suteikiančioji institucija gali nuspręsti nesudaryti koncesijos sutarties su ekonomiškai naudingiausią pasiūlymą pateikusiu dalyviu, jeigu paaiškėja, kad pasiūlymas neatitinka šio įstatymo 14 straipsnio 7 dalyje nustatytų reikalavimų;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
+ 
 
 
 
@@ -3349,7 +3407,10 @@ Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 
 
 
-2. Suteikiančioji institucija gali nesudaryti koncesijos sutarties su ekonomiškai naudingiausią pasiūlymą pateikusiu ekonominės veiklos vykdytoju, jeigu paaiškėja, kad pasiūlymas neatitinka šio įstatymo 14 straipsnio 5 dalyje nustatytų reikalavimų.
+2. Suteikiančioji institucija gali nesudaryti koncesijos sutarties su ekonomiškai naudingiausią pasiūlymą pateikusiu ekonominės veiklos vykdytoju, jeigu paaiškėja, kad pasiūlymas neatitinka šio įstatymo 14 straipsnio 7 dalyje nustatytų reikalavimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
+ 
 
 
 
@@ -3372,7 +3433,7 @@ Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 
 
 
-6. Koncesijos sutartyje turi būti nustatyta:
+6. Koncesijos sutartyje turi būti nustatyta: 
 
 
 1) koncesininko atliekamų darbų ir (ar) teikiamų paslaugų pobūdis ir mastas bei kitos sąlygos, apibūdinančios koncesijos sutarties dalyką; 
@@ -3380,97 +3441,137 @@ Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 
 
 
-2) išankstinės koncesijos sutarties įsigaliojimo sąlygos;
+2) išankstinės koncesijos sutarties įsigaliojimo sąlygos, jeigu tokių yra;
 
 
 
 
-3) koncesijos sutarties šalių teisės ir pareigos bei atsakomybė;
+3) koncesijos sutarties šalių teisės, pareigos bei atsakomybė;
 
 
 
 
-4) koncesijos sutarties įvykdymo terminai, laikantis šio įstatymo 17 straipsnyje nustatytų sąlygų;
+4) investicijų dydis, investicijų ir suteikiančiosios institucijos įsipareigojimų finansavimo šaltiniai;
 
 
 
 
-5) rizikos, susijusios su koncesijos sutartyje nustatytais šalių įsipareigojimais, pasidalijimas tarp koncesijos sutarties šalių;
+5) koncesijos sutarties terminas, laikantis šio įstatymo 17 straipsnyje nustatytų sąlygų, ir jo pratęsimo sąlygos, jeigu dėl jų buvo susitarta;
 
 
 
 
-6) koncesininkui suteikiamos išimtinės teisės, jeigu tokios teisės yra numatytos Lietuvos Respublikos įstatymuose;
+6) rizikos, susijusios su koncesijos sutartyje nustatytais šalių įsipareigojimais, pasidalijimas tarp koncesijos sutarties šalių;
 
 
 
 
-7) šalių teisės į turtą, kuris bus sukuriamas, naudojamas, keičiamas, valdomas, prižiūrimas ar perduodamas arba kuriuo bus naudojamasi teikiant paslaugas ar atliekant darbus pagal koncesijos sutartį, ir dėl to atsirandančios pareigos;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+7) teisių, pareigų ir rizikos pasidalijimas, kai koncesijų projektai yra konsoliduoti;
+
+
+
+
+8) koncesininkui suteikiamos išimtinės teisės, jeigu tokios teisės yra numatytos Lietuvos Respublikos įstatymuose;
+
+
+
+
+9) šalių teisės į turtą, kuris bus sukuriamas, naudojamas, keičiamas, valdomas, prižiūrimas ar perduodamas arba kuriuo bus naudojamasi teikiant paslaugas ar atliekant darbus pagal koncesijos sutartį, ir dėl to atsirandančios pareigos;
+
+
+
+
+10) koncesijos sutartyje nurodomiems turtui ir teikiamoms paslaugoms taikomi kokybiniai ir kiekybiniai (tinkamumo) reikalavimai;
+
+
+
+
+11) apribojimai ar sąlygos, taikomi keičiantis kontrolę, kaip apibrėžta Konkurencijos įstatyme, suteikiančios koncesininko kapitalo dalies savininkams (ar kitaip keičiantis koncesininką kontroliuojantiems asmenims);
+
+
+
+
+12) koncesijos mokesčio, koncesininko mokamo suteikiančiajai institucijai ir (ar) suteikiančiosios institucijos mokamo atlygio koncesininkui tvarka, jeigu taikoma;
+
+
+
+
+13) stebėsenos, baudų ir išskaitų mechanizmas, jeigu tai numatoma, ataskaitų teikimo tvarka;
+
+
+
+
+14) prievolių įvykdymo terminai;
+
+
+
+
+15) prievolių įvykdymo užtikrinimo būdai;
+
+
+
+
+16) reikalavimas koncesininkui sudaryti jam perduoto valdyti ir naudoti valstybei, savivaldybei ar suteikiančiajai institucijai nuosavybės teise priklausančio turto arba naujai sukurto turto draudimo sutartis;
+
+
+
+
+17) koncesininko atsakomybė už trečiųjų asmenų prievolių įvykdymą, jeigu koncesininkas įsipareigojimams pagal koncesijos sutartį vykdyti pasitelkia trečiuosius asmenis;
+
+
+
+
+18) koncesijos sutarties peržiūros sąlygos ar pasirinkimo galimybės, jeigu tai numatoma;
+
+
+
+
+19) aplinkybės, kuriomis suteikiančioji institucija ar trečiasis asmuo gali (laikinai ar kitaip) perimti bet kurios koncesininko pareigos įgyvendinimą, siekiant užtikrinti efektyvų ir nenutrūkstamą paslaugų teikimą tuo atveju, kai koncesininkas padaro esminį savo prievolių pagal koncesijos sutartį pažeidimą, jeigu tai numatoma;
+
+
+
+
+20) ginčų sprendimo tvarka;
+
+
+
+
+21) kas yra laikoma esminiais sutarties pažeidimais;
+
+
+
+
+22) koncesijos sutarties nutraukimo tvarka, pagrindai, įskaitant pagrindus, numatytus šio įstatymo 63 straipsnyje, ir koncesijos sutarties nutraukimo pasekmės;
+
+
+
+
+23) subrangovai, jeigu vykdant koncesijos sutartį jie pasitelkiami, ir jų keitimo tvarka;
+
+
+
+
+24) reikalavimas koncesininkui įsteigti juridinį asmenį koncesijos sutartiniams įsipareigojimams įvykdyti, jeigu tai numatoma koncesininko atrankos dokumentuose;
+
+
+
+
+25) reikalavimas koncesininkui kartu su suteikiančiąja institucija įsteigti koncesininko kontroliuojamą juridinį asmenį koncesijos sutartiniams įsipareigojimams įvykdyti, jeigu, atsižvelgus į koncesijos sutarties dalyką, numatomą investicijų dydį ir rizikos pasidalijimą tarp koncesijos sutarties šalių, tai numatoma koncesijos dokumentuose. Šiame punkte nurodyta juridinio asmens kontrolė suprantama taip, kaip ji apibrėžiama šio įstatymo 15 straipsnio 2 dalyje;
+
+
+
+
+26) informacijos apie koncesijos sutarties sudarymą ir vykdymą viešinimo tvarka;
+
+
+
+
+27) kitos šiame įstatyme nurodytos sąlygos. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
  
-
-
-
-
-8) apribojimai ar sąlygos, taikomi keičiantis kontrolę, kaip apibrėžta Konkurencijos įstatyme, suteikiančios koncesininko kapitalo dalies savininkams (ar kitaip keičiantis koncesininką kontroliuojantiems asmenims);
-
-
-
-
-9) koncesijos mokesčio, koncesininko mokamo suteikiančiajai institucijai ir (ar) suteikiančiosios institucijos mokamo atlygio koncesininkui tvarka, jeigu taikoma;
-
-
-
-
-10) stebėsenos ir išskaitų mechanizmas, jeigu tai numatoma;
-
-
-
-
-11) prievolių įvykdymo terminai;
-
-
-
-
-12) prievolių įvykdymo užtikrinimas;
-
-
-
-
-13) koncesijos sutarties peržiūros sąlygos ar pasirinkimo galimybės;
-
-
-
-
-14) aplinkybės, kuriomis suteikiančioji institucija ar tretysis asmuo gali (laikinai ar kitaip) perimti bet kurios koncesininko pareigos įgyvendinimą, siekiant užtikrinti efektyvų ir nenutrūkstamą paslaugų teikimą tuo atveju, kai koncesininkas padaro esminį savo prievolių pagal koncesijos sutartį pažeidimą, jeigu tai numatoma;
-
-
-
-
-15) ginčų sprendimo tvarka;
-
-
-
-
-16) kas yra laikoma esminiais sutarties pažeidimais;
-
-
-
-
-17) koncesijos sutarties nutraukimo tvarka, pagrindai, įskaitant pagrindus, numatytus šio įstatymo 63 straipsnyje, ir koncesijos sutarties nutraukimo pasekmės;
-
-
-
-
-18) subrangovai, jeigu, vykdant koncesijos sutartį, jie pasitelkiami, ir jų keitimo tvarka;
-
-
-
-
-19) kitos šiame įstatyme nurodytos sąlygos. 
-
-
 
 
 
@@ -3763,12 +3864,18 @@ Nr. XIV-2250, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22981
 
 
 
-4. Už koncesijos sutarties sudarymą ir jos sąlygų vykdymą atsakinga suteikiančioji institucija. Ši institucija Vyriausybės nustatyta tvarka privalo pateikti Finansų ministerijai informaciją apie koncesijos sutarčių įgyvendinimą.
+4. Už koncesijos sutarties sudarymą ir jos sąlygų vykdymą atsakinga suteikiančioji institucija, kuri informaciją apie koncesijos projektus ir koncesijos sutarčių vykdymą privalo pateikti Investicijų įstatymo 15² straipsnio 1 dalies 4 punkte nurodytam Vyriausybės įgaliotam viešajam juridiniam asmeniui finansų ministro nustatyta viešojo ir privataus sektorių partnerystės projektų įgyvendinimo ir viešojo ir privataus sektorių partnerystės sutarčių vykdymo ataskaitų rengimo tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
+ 
 
 
 
 
-5. Finansų ministerija sistemina, kaupia ir saugo duomenis apie valstybės ir savivaldybės vardu suteiktų koncesijų įgyvendinimą, teikia Vyriausybei sudarytų koncesijos sutarčių ir jų įgyvendinimo ataskaitą.
+5. Neteko galios nuo 2024-12-01
+Straipsnio dalies naikinimas:
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
+ 
 
 
 
@@ -3811,7 +3918,10 @@ Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 
 
 
-66 straipsnis. Viešųjų pirkimų tarnybos ir Centrinės projektų valdymo agentūros funkcijos
+66 straipsnis. Viešųjų pirkimų tarnybos funkcijos 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
+ 
 
 
 1. Viešųjų pirkimų tarnyba, be kitų šiame įstatyme nustatytų funkcijų:
@@ -3902,17 +4012,10 @@ Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 
 
 
-2. Viešoji įstaiga Centrinė projektų valdymo agentūra:
-
-
-1) Vyriausybės nustatyta tvarka teikia išvadą suteikiančiosioms institucijoms dėl koncesijos projekto socialinės ir ekonominės naudos; 
-
-
-
-
-2) konsultuoja suteikiančiąsias institucijas planuojant koncesijas, rengiant investicijų projektus, koncesininko atrankos dokumentus, vykdant koncesininko atranką ir vykdant koncesijos sutarčių priežiūrą, rengia metodines rekomendacijas koncesijų planavimo ir koncesijos sutarčių įgyvendinimo klausimais. Šioje dalyje nustatyta veikla yra finansuojama iš Finansų ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų.
-
-
+2. Neteko galios nuo 2024-12-01
+Straipsnio dalies naikinimas:
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
+ 
 
 
 
@@ -4892,7 +4995,10 @@ Lietuvos Respublikos
 koncesijų įstatymo
 5 priedas
  
-LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMO 14 STRAIPSNIO 5 DALYJE NURODYTŲ TARPTAUTINIŲ SOCIALINIŲ IR APLINKOS APSAUGOS KONVENCIJŲ SĄRAŠAS 
+LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMO 14 STRAIPSNIO 7 DALYJE NURODYTŲ TARPTAUTINIŲ SOCIALINIŲ IR APLINKOS APSAUGOS KONVENCIJŲ SĄRAŠAS 
+ 
+Pakeistas priedo pavadinimas:
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
  
 
 
@@ -5064,3 +5170,8 @@ Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2250, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22981
 Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 58, 62 ir 65 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
+Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 5, 14, 16, 26, 31, 60, 65, 66 straipsnių ir 5 priedo pakeitimo įstatymas
