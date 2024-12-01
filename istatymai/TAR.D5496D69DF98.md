@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-11-30
+Suvestinė redakcija nuo 2024-12-01
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
+ 
+TAR pastaba. Koncesijos sutartims, sudarytoms vadovaujantis iki 2024-10-17  įstatymo Nr. XIV-3044 įsigaliojimo dienos (2024-12-01) galiojusiomis Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 14 straipsnio nuostatomis, įgyvendinti perduoto valstybės ir savivaldybių turto panaudos sutartys galioja ir joms taikomos iki 2024-10-17 įstatymo Nr. XIV-3044 įsigaliojimo dienos (2024-12-01) galiojusios Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 14 straipsnio nuostatos.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3044, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18469
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 2, 14, 20 ir 22 straipsnių pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2014-10-01:
 Nr. XII-802, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04025
@@ -61,7 +66,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Institucinė viešojo ir privataus sektorių partnerystė – viešojo ir privataus sektorių partnerystės būdas, kai valstybės ar savivaldybės institucijos funkcijoms priskirtą veiklą pagal valdžios ir privataus subjektų partnerystės ar koncesijų sutartis vykdo akcinė bendrovė ar uždaroji akcinė bendrovė (privatus subjektas, jeigu vykdoma valdžios ir privataus subjektų partnerystės sutartis, arba koncesininkas, jeigu vykdoma koncesijų sutartis), kurios akcijų dalis priklauso valstybei ar savivaldybei.
+3. Neteko galios nuo 2024-12-01
+Straipsnio dalies naikinimas:
+Nr. XIV-3044, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18469
+ 
 
 
 
@@ -768,9 +776,10 @@ Teisė naudoti Lietuvos valstybės vardą ir teisė naudotis Lietuvos Respubliko
 
 
 
-8) kitiems subjektams, jeigu tokio perdavimo tvarka ir sąlygos nustatytos Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos šeimynų įstatyme, Lietuvos Respublikos Lietuvos šaulių sąjungos įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos koncesijų įstatyme, Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatyme, Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, Lietuvos Respublikos tarptautinėse sutartyse ar tarptautiniuose susitarimuose.
+8) kitiems subjektams, jeigu tokio perdavimo tvarka ir sąlygos nustatytos Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos šeimynų įstatyme, Lietuvos Respublikos Lietuvos šaulių sąjungos įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatyme, Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, Lietuvos Respublikos tarptautinėse sutartyse ar tarptautiniuose susitarimuose. 
 Straipsnio punkto pakeitimai:
 Nr. XIV-1683, 2022-12-15, paskelbta TAR 2022-12-30, i. k. 2022-27545
+Nr. XIV-3044, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18469
  
 
 
@@ -795,15 +804,19 @@ Nr. XIII-3295, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20890
 
 
 
-3) užtikrinti neįgaliųjų ar kitų socialinę atskirtį patiriančių asmenų grupių (prekybos žmonėmis aukų, asmenų, turinčių psichikos ir elgesio sutrikimų dėl psichoaktyviųjų medžiagų vartojimo, nuteistųjų ir asmenų, paleistų iš laisvės atėmimo vietų įstaigos, bei kitoms socialinę atskirtį patiriančių asmenų grupėms priklausančių asmenų) ir užsieniečių socialinę integraciją;
+3) užtikrinti asmenų su negalia ar kitų socialinę atskirtį patiriančių asmenų grupių (prekybos žmonėmis aukų, asmenų, turinčių psichikos ir elgesio sutrikimų dėl psichoaktyviųjų medžiagų vartojimo, nuteistųjų ir asmenų, paleistų iš laisvės atėmimo vietų įstaigos, bei kitoms socialinę atskirtį patiriančių asmenų grupėms priklausančių asmenų) ir užsieniečių socialinę integraciją; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-1235, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15601
+Nr. XIV-3044, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18469
  
 
 
 
 
-4) teikti pagalbą ir (arba) socialines paslaugas asmenims, dėl amžiaus, neįgalumo ar kitų socialinių problemų negalintiems pasirūpinti savo asmeniniu gyvenimu ir dalyvauti visuomenės gyvenime ar patiriantiems skurdą ir socialinę atskirtį;
+4) teikti pagalbą ir (arba) socialines paslaugas asmenims, dėl amžiaus, negalios ar kitų socialinių problemų negalintiems pasirūpinti savo asmeniniu gyvenimu ir dalyvauti visuomenės gyvenime ar patiriantiems skurdą ir socialinę atskirtį;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3044, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18469
+ 
 
 
 
@@ -1407,23 +1420,28 @@ Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 
 
-6. Valstybės kilnojamasis ir nekilnojamasis materialusis turtas, įsigytas vykdant Lietuvos Respublikos įsipareigojimus, atsirandančius dėl Lietuvos Respublikos narystės Šiaurės Atlanto Sutarties Organizacijoje, Europos Sąjungoje, Jungtinių Tautų Organizacijoje, arba skirtas vykdyti iš tarptautinių sutarčių atsirandantiems įsipareigojimams, kolektyvinės gynybos operacijoms, karinėms operacijoms, tarptautinėms karinėms pratyboms ar karinio bendradarbiavimo renginiams, civilinėms misijoms, gali būti neatlygintinai perduodamas ar parduodamas tarptautinėms organizacijoms, kitų valstybių valstybinėms ar savivaldybių institucijoms, kitų valstybių viešiesiems juridiniams asmenims, jeigu toks neatlygintinas perdavimas ar pardavimas atitinka Lietuvos Respublikos tarptautinius įsipareigojimus arba Seimo patvirtintą Nacionalinio saugumo strategiją. Sprendimą dėl šioje dalyje nurodyto turto neatlygintino perdavimo arba pardavimo be konkurso priima turto valdytojas, jeigu perduodamas ar parduodamas trumpalaikis materialusis turtas, išskyrus pinigines lėšas, ar kilnojamasis ilgalaikis materialusis turtas, kurio likutinė vertė ne didesnė negu trisdešimt tūkstančių eurų, arba Vyriausybė, jeigu perduodamas ar parduodamas nekilnojamasis turtas ar kilnojamasis ilgalaikis materialusis turtas, kurio likutinė vertė didesnė negu trisdešimt tūkstančių eurų. Vyriausybės arba turto valdytojo sprendime turi būti nurodyta valstybės institucija ar įstaiga, sudaranti turto perdavimo arba pardavimo sandorį, perduodamas ar parduodamas turtas, jo naudojimo sąlygos ir tvarka. 
+6. Valstybės ilgalaikis materialusis, trumpalaikis materialusis ir nematerialusis turtas, įsigytas vykdant Lietuvos Respublikos įsipareigojimus, atsirandančius dėl Lietuvos Respublikos narystės Šiaurės Atlanto Sutarties Organizacijoje, Europos Sąjungoje, Jungtinių Tautų Organizacijoje, arba skirtas iš tarptautinių sutarčių arba tarptautinių susitarimų atsirandantiems įsipareigojimams, kolektyvinės gynybos operacijoms, karinėms operacijoms, tarptautinėms karinėms pratyboms ar kitiems karinio bendradarbiavimo renginiams, civilinėms misijoms vykdyti, taip pat skirtas paramai pagal tarptautinius susitarimus vykdomam bendradarbiavimui gynybos srityje arba paramai valstybėms, kurioms Seimo priimtu teisės aktu reiškiama parama dėl prieš jas vykdomos karinės agresijos ar į jas vykdomos karinės invazijos, teikti, gali būti neatlygintinai perduodamas nuosavybėn tarptautinėms organizacijoms, kitų valstybių valstybinėms ar savivaldybių institucijoms, kitų valstybių viešiesiems juridiniams asmenims, jeigu toks neatlygintinas perdavimas atitinka tarptautinius įsipareigojimus, Seimo patvirtintą Nacionalinio saugumo strategiją arba Seimo priimtą teisės aktą dėl reiškiamos paramos šioje dalyje nurodytoms valstybėms. Sprendimą dėl valstybės turto neatlygintino perdavimo šioje dalyje nurodytų subjektų nuosavybėn priima Vyriausybė arba turto valdytojas Vyriausybės nustatyta tvarka. Vyriausybė paskiria už šios tvarkos įgyvendinimo priežiūrą atsakingą instituciją. Vyriausybės sprendime turi būti nurodyta valstybės turtą perduodantis turto valdytojas, šioje dalyje nurodytas subjektas, su kuriuo turto valdytojas sudarys turto perdavimo sandorį, perduodamas turtas, jo naudojimo sąlygos. Turto valdytojo sprendime turi būti nurodytas perduodamas turtas, jo naudojimo sąlygos ir šioje dalyje nurodytas subjektas, su kuriuo sudaromas turto perdavimo sandoris. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1199, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14278
+Nr. XIV-3044, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18469
  
 
 
 
 
-7. Valstybės nekilnojamasis turtas ar kilnojamasis ilgalaikis materialusis turtas, kurio likutinė vertė didesnė negu trisdešimt tūkstančių eurų ir kuris skirtas vystomojo bendradarbiavimo veiklai vykdyti arba humanitarinei pagalbai teikti, gali būti neatlygintinai perduodamas tarptautinių organizacijų, kitų valstybių valstybinių ar savivaldybių institucijų, kitų valstybių viešųjų juridinių asmenų nuosavybėn Vyriausybės sprendimu, o valstybės trumpalaikis materialusis turtas, išskyrus pinigines lėšas, ir kilnojamasis ilgalaikis materialusis turtas, kurio likutinė vertė ne didesnė negu trisdešimt tūkstančių eurų ir kuris skirtas vystomojo bendradarbiavimo veiklai vykdyti arba humanitarinei pagalbai teikti, – turto valdytojo sprendimu. Savivaldybės kilnojamasis ir nekilnojamasis materialusis turtas, skirtas vystomojo bendradarbiavimo veiklai vykdyti arba humanitarinei pagalbai teikti, gali būti neatlygintinai perduodamas tarptautinių organizacijų, kitų valstybių valstybinių ar savivaldybių institucijų, kitų valstybių viešųjų juridinių asmenų nuosavybėn savivaldybės tarybos sprendimu.
+7. Valstybės ir savivaldybių ilgalaikis materialusis, trumpalaikis materialusis ir nematerialusis turtas, skirtas vystomojo bendradarbiavimo veiklai vykdyti arba humanitarinei pagalbai teikti, gali būti neatlygintinai perduodamas tarptautinių organizacijų, kitų valstybių valstybinių ar savivaldybių institucijų, kitų valstybių viešųjų juridinių asmenų nuosavybėn. Sprendimą dėl šioje dalyje nurodyto savivaldybės turto neatlygintino perdavimo priima savivaldybės taryba, o dėl valstybės turto neatlygintino perdavimo – Vyriausybė arba turto valdytojas Vyriausybės nustatyta tvarka. Vyriausybė paskiria už šioje dalyje nurodytos tvarkos įgyvendinimo priežiūrą atsakingą instituciją. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1199, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14278
+Nr. XIV-3044, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18469
  
 
 
 
 
-8. Šio straipsnio 6 ir 7 dalyse nurodyto valstybės turto neatlygintino perdavimo arba pardavimo be konkurso tvarką nustato Vyriausybė ir paskiria už šios tvarkos įgyvendinimo priežiūrą atsakingą instituciją. 
+8. Neteko galios nuo 2024-12-01
+Straipsnio dalies naikinimas:
+Nr. XIV-3044, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18469
+ 
 
 
 
@@ -1696,7 +1714,10 @@ Nr. XIII-1012, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01025
 
 
 
-4. Valstybė ar savivaldybė gali turtą investuoti įsigydama steigiamos arba įstatinį kapitalą didinančios akcinės bendrovės ar uždarosios akcinės bendrovės akcijų, kurios visuotiniame akcininkų susirinkime valstybei ar savivaldybei (savivaldybėms) arba joms kartu suteikia daugiau negu 50 procentų balsų.
+4. Valstybė ar savivaldybė gali turtą investuoti įsigydama steigiamos arba įstatinį kapitalą didinančios akcinės bendrovės ar uždarosios akcinės bendrovės akcijų, kurios visuotiniame akcininkų susirinkime valstybei ar savivaldybei (savivaldybėms) arba joms kartu suteikia daugiau negu 50 procentų balsų, išskyrus Koncesijų įstatymo 60 straipsnio 2 dalies 25 punkte nustatytą atvejį. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3044, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18469
+ 
 
 
 
@@ -1741,7 +1762,9 @@ Nr. XIII-1012, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01025
 
 
 
-7. Šio straipsnio 6 dalis netaikoma, kai steigiama akcinė bendrovė ar uždaroji akcinė bendrovė institucinei viešojo ir privataus sektorių partnerystei įgyvendinti. Tokiu atveju informacija apie akcinės bendrovės ar uždarosios akcinės bendrovės steigimą institucinei viešojo ir privataus sektorių partnerystei įgyvendinti turi būti nurodyta konkurso koncesijai suteikti ar viešojo pirkimo, organizuojamo valdžios ir privataus subjekto partnerystei įgyvendinti, sąlygų apraše. Šiame sąlygų apraše ir akcinės bendrovės ar uždarosios akcinės bendrovės steigimo institucinei viešojo ir privataus sektorių partnerystei įgyvendinti sutartyje, be kituose įstatymuose nustatytų reikalavimų, turi būti nurodytas akcinės bendrovės ar uždarosios akcinės bendrovės veiklos laikotarpis, kuris negali būti ilgesnis negu koncesijos arba valdžios ir privataus subjekto partnerystės sutarties laikotarpis, ir akcinės bendrovės ar uždarosios akcinės bendrovės veiklos tęstinumo sąlygos, tarp kurių turi būti nustatytos valstybės ar savivaldybės, kaip akcininkės, dalyvavimo bendrovės veikloje sąlygos.
+7. Šio straipsnio 6 dalis netaikoma, kai steigiama akcinė bendrovė ar uždaroji akcinė bendrovė, kurios akcijų dalis nuosavybės teise priklauso valstybei arba savivaldybei, koncesijai įgyvendinti. Tokiu atveju informacija apie akcinės bendrovės ar uždarosios akcinės bendrovės, kurios akcijų dalis nuosavybės teise priklauso valstybei arba savivaldybei, steigimą koncesijai įgyvendinti turi būti nurodyta koncesijos dokumentuose. Šiuose dokumentuose ir akcinės bendrovės ar uždarosios akcinės bendrovės, kurios akcijų dalis nuosavybės teise priklauso valstybei arba savivaldybei, steigimo koncesijai įgyvendinti sutartyje, be kituose įstatymuose nustatytų reikalavimų, turi būti nurodytas akcinės bendrovės ar uždarosios akcinės bendrovės, kurios akcijų dalis nuosavybės teise priklauso valstybei arba savivaldybei, veiklos laikotarpis, kuris negali būti ilgesnis negu koncesijos sutarties laikotarpis, ir akcinės bendrovės ar uždarosios akcinės bendrovės veiklos tęstinumo sąlygos, tarp kurių turi būti nustatytos valstybės ar savivaldybės, kaip akcininkių, dalyvavimo bendrovės veikloje sąlygos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3044, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18469
  
 
 
@@ -2532,3 +2555,8 @@ Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir dis
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2261, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22995
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 22 straipsnio pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3044, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18469
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 2, 14, 20 ir 22 straipsnių pakeitimo įstatymas
