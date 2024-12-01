@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2024-10-10 iki 2024-11-30
+Suvestinė redakcija nuo 2024-12-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -4227,7 +4227,10 @@ Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 
 
 
-4) rengia ir savivaldybės tarybai teikia išvadas dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo ir pritarimo galutinėms viešojo ir privataus sektorių partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų;
+4) rengia ir savivaldybės tarybai teikia išvadą dėl vadovaujantis Lietuvos Respublikos investicijų įstatymu ir (ar) Koncesijų įstatymu parengto viešojo ir privataus sektorių partnerystės projekto įgyvendinimo tikslingumo, šioje išvadoje įvertina savivaldybės galimybes prisiimti ilgalaikius finansinius įsipareigojimus pagal viešojo ir privataus sektorių partnerystės projektą, teisines galimybes privačiam subjektui perduoti viešojo subjekto funkcijoms priskirtos veiklos ir (ar) ekonominės veiklos vykdymą ir šioms veikloms vykdyti reikalingą savivaldybės ir (arba) savivaldybės kontroliuojamų juridinių asmenų turtą, viešojo ir privataus sektorių partnerystės projektų konsolidavimo (jeigu toks konsolidavimas numatomas) sąlygas, taip pat teikia išvadą dėl pritarimo galutinėms viešojo ir privataus sektorių partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projekto įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3043, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18467
+ 
 
 
 
@@ -5640,3 +5643,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 9, 12, 15, 17, 18,
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT80-N11/2024, 2024-10-10, paskelbta TAR 2024-10-10, i. k. 2024-17806
 Dėl Lietuvos Respublikos vietos savivaldos įstatymo 55 straipsnio 3 dalies (2023 m. birželio 29 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
+ 
+84.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3043, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18467
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 67 straipsnio pakeitimo įstatymas
