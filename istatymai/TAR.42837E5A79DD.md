@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2024-11-15 iki 2024-11-30
+Suvestinė redakcija nuo 2024-12-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -81,11 +81,12 @@ Nr. XIII-2078, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07317
 
 
 
-7. Šio Įstatymo normos, reglamentuojančios leidimus dirbti ir leidimus gyventi Lietuvos Respublikoje, teisiniams santykiams, susijusiems su investicijų sutarčių, sudarytų Lietuvos Respublikos investicijų įstatymo 131 straipsnyje nustatyta tvarka, ar stambaus projekto investicijų sutarčių, sudarytų Investicijų įstatymo 155 straipsnyje nustatyta tvarka, įgyvendinimu, taikomos tiek, kiek jų nereglamentuoja Investicijų įstatymas.
+7. Šio Įstatymo normos, reglamentuojančios leidimus dirbti ir leidimus gyventi Lietuvos Respublikoje, teisiniams santykiams, susijusiems su investicijų sutarčių, sudarytų Lietuvos Respublikos investicijų įstatymo 131 straipsnyje nustatyta tvarka, ar stambaus projekto investicijų sutarčių, sudarytų Investicijų įstatymo 157 straipsnyje nustatyta tvarka, įgyvendinimu, taikomos tiek, kiek jų nereglamentuoja Investicijų įstatymas.
 Papildyta straipsnio dalimi:
 Nr. XIII-3162, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15493
 Straipsnio dalies pakeitimai:
 Nr. XIV-378, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13520
+Nr. XIV-3159, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20394
  
 
 
@@ -3260,7 +3261,10 @@ c) Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ir darbo min
 
 
 
-10. Šio straipsnio 8 dalies nuostatos netaikomos darbdaviui, su kuriuo sudaryta investicijų sutartis Investicijų įstatymo 131 straipsnyje nustatyta tvarka ar stambaus projekto investicijų sutartis Investicijų įstatymo 155 straipsnyje nustatyta tvarka.
+10. Šio straipsnio 8 dalies nuostatos netaikomos darbdaviui, su kuriuo sudaryta investicijų sutartis Investicijų įstatymo 131 straipsnyje nustatyta tvarka ar stambaus projekto investicijų sutartis Investicijų įstatymo 157  straipsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3159, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20394
+ 
 
 
 Straipsnio pakeitimai:
@@ -11096,3 +11100,8 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3065, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19823
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 62, 63 ir 94 straipsnių pakeitimo įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3159, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20394
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 1 ir 44 straipsnių pakeitimo įstatymas
