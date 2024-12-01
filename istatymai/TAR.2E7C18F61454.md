@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2024-07-03 iki 2024-11-30
+Suvestinė redakcija nuo 2024-12-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -19870,9 +19870,35 @@ Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 
 
-4. Jeigu mirusio skolininko turtą paveldi valstybė, išskyrus atvejus, kai vykdomas išieškojimas iš įkeisto turto, sustabdydamas vykdomąją bylą, antstolis privalo panaikinti skolininko turto areštą. 
+4. Antstolis, iš Užimtumo tarnybos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos gavęs duomenis apie skolininką, kuris paskutinius 6 mėnesius nedirbo pagal darbo sutartį arba darbo santykiams prilygintų teisinių santykių pagrindu ir pradėjo dirbti pagal darbo sutartį arba darbo santykiams prilygintų teisinių santykių pagrindu, esant rašytiniam skolininko prašymui, privalo sustabdyti išieškojimą iš skolininko darbo užmokesčio ir jam prilygintų išmokų bei davinių. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2652, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09690
+ 
+
+
+
+
+5. Šio straipsnio 4 dalyje nurodytu atveju išieškojimas stabdomas 6 mėnesių terminui, kuris pradedamas skaičiuoti nuo skolininko darbo pradžios, kai šis skolininkas prašymą stabdyti išieškojimą antstoliui pateikia savo darbo pradžios dieną. Šis terminas yra nepertraukiamas, nenutrūksta ir nėra pratęsiamas, įskaitant atvejus, kai keičiasi skolininko darbdavys, bet jais neapsiribojant. Jeigu skolininkas prašymą stabdyti išieškojimą antstoliui pateikia vėliau nei nuo savo darbo pradžios, išieškojimas stabdomas tik likusiam terminui po šio skolininko prašymo pateikimo antstoliui dienos. Išieškojimas iš skolininko darbo užmokesčio ir jam prilygintų išmokų bei davinių gali būti stabdomas tik esant šio straipsnio 4 dalyje nustatytoms sąlygoms, iš viso ne daugiau kaip du kartus per penkerius metus. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2652, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09690
+ 
+
+
+
+
+6. Šio straipsnio 4 ir 5 dalių nuostatos taikomos skolininko darbo užmokesčiui ir jam prilygintoms išmokoms ir daviniams, kuriuos skolininko darbdavys jam išmoka po šio skolininko prašymo stabdyti išieškojimą pateikimo antstoliui dienos, tačiau netaikomos išieškant iš šio Kodekso 737 straipsnyje nurodytų skolininko pajamų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2652, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09690
+ 
+
+
+
+
+7. Jeigu mirusio skolininko turtą paveldi valstybė, išskyrus atvejus, kai vykdomas išieškojimas iš įkeisto turto, sustabdydamas vykdomąją bylą, antstolis privalo panaikinti skolininko turto areštą. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2652, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09690
  
 
 
