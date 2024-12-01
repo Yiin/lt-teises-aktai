@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2024-07-25 iki 2024-11-30
+Suvestinė redakcija nuo 2024-12-01 iki 2024-12-31
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -913,6 +913,24 @@ Nr. XIII-2370, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12450
 
 Papildyta straipsniu:
 Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
+ 
+
+
+
+
+122 straipsnis. Duomenų teikimas į Antstolių informacinę sistemą ir jų gavimas iš šios sistemos
+
+
+1. Užimtumo tarnyboje registruotam asmeniui, kuris paskutinius 6 mėnesius nedirbo pagal darbo sutartį arba darbo santykiams prilygintų teisinių santykių pagrindu, pradėjus dirbti pagal darbo sutartį arba darbo santykiams prilygintų teisinių santykių pagrindu, Užimtumo tarnyba Antstolių informacinėje sistemoje patikrina, ar asmens įsidarbinimo dieną antstoliai vykdė vykdomąsias bylas, kuriose šis asmuo yra skolininkas. Užimtumo tarnyba, nustačiusi, kad vykdomosios bylos buvo vykdomos, į Antstolių informacinę sistemą pateikia duomenis apie šio asmens įsidarbinimą.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytu atveju asmens rašytiniu prašymu Užimtumo tarnyba pateikia jam Antstolių informacinės sistemos duomenis apie jo atžvilgiu vykdomas vykdomąsias bylas.
+
+
+Papildyta straipsniu:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
@@ -2163,7 +2181,10 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-6. Darbdavys, teikiantis įsipareigojimą įdarbinti trečiosios šalies pilietį, arba visi trečiosios šalies piliečio darbdaviai tuo atveju, kai su trečiosios šalies piliečiu ketinama sudaryti darbo keliems darbdaviams sutartį, turi atitikti įstatymo „Dėl užsieniečių teisinės padėties“ 44 straipsnio 8 dalyje nustatytas sąlygas, išskyrus atvejus, kai su darbdaviu sudaryta investicijų sutartis Investicijų įstatymo 131 straipsnyje nustatyta tvarka ar stambaus projekto investicijų sutartis Investicijų įstatymo 155 straipsnyje nustatyta tvarka.
+6. Darbdavys, teikiantis įsipareigojimą įdarbinti trečiosios šalies pilietį, arba visi trečiosios šalies piliečio darbdaviai tuo atveju, kai su trečiosios šalies piliečiu ketinama sudaryti darbo keliems darbdaviams sutartį, turi atitikti įstatymo „Dėl užsieniečių teisinės padėties“ 44 straipsnio 8 dalyje nustatytas sąlygas, išskyrus atvejus, kai su darbdaviu sudaryta investicijų sutartis Investicijų įstatymo 131 straipsnyje nustatyta tvarka ar stambaus projekto investicijų sutartis Investicijų įstatymo 157 straipsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3158, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20393
+ 
 
 
 Straipsnio pakeitimai:
@@ -5037,3 +5058,13 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 6 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2901, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13509
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 4 straipsnio pakeitimo įstatymas
+ 
+41.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3036, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18433
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 56 straipsnio pakeitimo įstatymas
+ 
+42.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3158, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20393
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 30-1 straipsnio pakeitimo įstatymas
