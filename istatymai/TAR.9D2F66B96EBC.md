@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2024-11-23 iki 2024-11-30
+Suvestinė redakcija nuo 2024-12-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -880,9 +880,10 @@ Civilinių aerodromų naudojimo valstybės orlaivių reikmėms ir karinių aerod
 
 
 
-16 straipsnis. Valstybės orlaivių registravimas ir eksploatavimas, valstybės bepiločių orlaivių naudojimas 
+16 straipsnis. Valstybės orlaivių registravimas ir eksploatavimas, valstybės bepiločių orlaivių ir karinei įrangai priskiriamų Lietuvos šaulių sąjungos bepiločių orlaivių naudojimas 
 Pakeistas straipsnio pavadinimas:
 Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
+Nr. XIV-2984, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17423
  
 
 
@@ -937,9 +938,11 @@ Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
 
 
 
-10. Valstybės bepiločių orlaivių, kuriuos naudoja krašto apsaugos sistemos institucijos, naudojimo tvarką nustato kariuomenės vadas. 
+10. Valstybės bepiločių orlaivių, kuriuos naudoja krašto apsaugos sistemos institucijos, taip pat karinei įrangai priskiriamų Lietuvos šaulių sąjungos naudojamų bepiločių orlaivių naudojimo tvarką nustato kariuomenės vadas.
 Papildyta straipsnio dalimi:
 Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
+Straipsnio dalies pakeitimai:
+Nr. XIV-2984, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17423
  
 
 
