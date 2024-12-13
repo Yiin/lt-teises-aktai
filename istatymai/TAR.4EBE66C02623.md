@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2024-11-15 iki 2024-12-12
+Suvestinė redakcija nuo 2024-12-13 iki 2024-12-23
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -6152,11 +6152,12 @@ Biudžeto asignavimų paskirstymo ir (ar) panaudojimo tvarkos pažeidimas
 
 
 
-užtraukia baudą biudžeto asignavimų valdytojų vadovams, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina valstybės biudžeto asignavimų valdytojai arba savivaldybių merai, išskyrus tas biudžetinės įstaigos savininko teises ir pareigas, kurios yra priskirtos savivaldybės tarybos išimtinei ir paprastajai kompetencijai (jeigu savivaldybės tarybos paprastosios kompetencijos įgyvendinimo savivaldybės taryba nėra perdavusi savivaldybės merui), ir (arba) kurios yra atskaitingos valstybės biudžeto asignavimų valdytojams, vadovams, ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdytojo programas, vadovams, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina ministrų valdymo sričių įstaigos, vadovams ir kitų subjektų, kuriems asignavimų valdytojai yra skyrę biudžeto lėšų, vadovams nuo šešių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
+užtraukia baudą biudžeto asignavimų valdytojų vadovams ar jų įgaliotiems asmenims, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina valstybės biudžeto asignavimų valdytojai arba savivaldybių merai, išskyrus tas biudžetinės įstaigos savininko teises ir pareigas, kurios yra priskirtos savivaldybės tarybos išimtinei ir paprastajai kompetencijai (jeigu savivaldybės tarybos paprastosios kompetencijos įgyvendinimo savivaldybės taryba nėra perdavusi savivaldybės merui), ir (arba) kurios yra atskaitingos valstybės biudžeto asignavimų valdytojams, vadovams, ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdytojo programas, vadovams, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina ministrų valdymo sričių įstaigos, vadovams ir kitų subjektų, kuriems asignavimų valdytojai yra skyrę biudžeto lėšų, vadovams nuo šešių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-2329, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25316
+Nr. XV-30, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22082
  
 
 
@@ -28874,3 +28875,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 72 ir 589 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818
 Lietuvos Respublikos administracinių nusižengimų kodekso 12, 526, 589 straipsnių ir priedo pakeitimo įstatymas
+ 
+248.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-30, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22082
+Lietuvos Respublikos administracinių nusižengimų kodekso 186 straipsnio pakeitimo įstatymas
