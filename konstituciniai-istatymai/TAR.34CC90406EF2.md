@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/34cc90406ef211e484b9c12b550436a3"
 
 # Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinis įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-12-12
+Suvestinė redakcija nuo 2024-12-13
  
 Konstitucinis įstatymas paskelbtas: TAR 2014-11-18, i. k. 2014-17028
  
@@ -361,6 +361,14 @@ Vidutinio laikotarpio tikslas turi būti nustatomas taip pat kaip ir Tarybos reg
 
 
 4. Vyriausybė, kitos institucijos ir įstaigos iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus.
+
+
+
+
+5. Šio įstatymo 3 ir 6 straipsniai netaikomi rengiant Lietuvos Respublikos 2025–2027 metų biudžeto patvirtinimo įstatymo projektą, jį priimant, įgyvendinant priimtą įstatymą, vertinant ir kontroliuojant jo įgyvendinimą.
+ 
+Papildyta straipsnio dalimi:
+Nr. XV-31, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22083
  
 
 
@@ -372,9 +380,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
- 
 Respublikos Prezidentė                                                                             Dalia Grybauskaitė
- 
 
 
 
@@ -392,7 +398,6 @@ priedas
 
 1. 2011 m. lapkričio 8 d. Tarybos direktyva 2011/85/ES dėl reikalavimų valstybių narių biudžeto sistemoms.
 _______________
- 
 
 
 Papildyta priedu:
@@ -406,3 +411,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Konstitucinis įstatymas
 Nr. XIV-1760, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27575
 Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo Nr. XII-1289 1, 4 straipsnių pakeitimo ir Įstatymo papildymo priedu konstitucinis įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XV-31, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22083
+Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstitucinio įstatymo Nr. XII-1289 10 straipsnio pakeitimo konstitucinis įstatymas
