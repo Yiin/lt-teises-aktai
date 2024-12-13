@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2024-06-01 iki 2024-12-12
+Suvestinė redakcija nuo 2024-12-13 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
  
@@ -1379,3 +1379,18 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 17 straipsnio pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2663, 2024-05-16, paskelbta TAR 2024-05-29, i. k. 2024-09622
 Lietuvos Respublikos kelių įstatymo Nr. I-891 8 straipsnio pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3155, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20213
+Lietuvos Respublikos kelių įstatymo Nr. I-891 20 straipsnio pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3153, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20211
+Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 13 straipsnių pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-34, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22106
+Lietuvos Respublikos kelių įstatymo Nr. I-891 17 straipsnio pakeitimo įstatymo Nr. XIII-3421 2 straipsnio pakeitimo įstatymas
