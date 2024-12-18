@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.817CC58C1A54"
 
 # Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymas
 
-Suvestinė redakcija nuo 2021-02-01 iki 2024-12-17
+Suvestinė redakcija nuo 2024-12-18
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3890; Žin. 2002, Nr.93-0; Žin. 2009, Nr.86-3637, i. k. 1021010ISTA0IX-1067
  
@@ -222,6 +222,10 @@ Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010IST
 
 
 16) kuria niekinamos šeimos vertybės, skatinama kitokia, negu Lietuvos Respublikos Konstitucijoje ir Lietuvos Respublikos civiliniame kodekse įtvirtinta, santuokos sudarymo ir šeimos kūrimo samprata;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo 4 straipsnio 2 dalies (2009 m. gruodžio 22 d. redakcija; Žin., 2009, Nr. 154‑6959) 16 punktas prieštarauja Lietuvos Respublikos Konstitucijos 25 straipsnio 1, 2, 3 dalims, 38 straipsnio 1, 2 dalims, konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+Nr. KT101-N15/2024, 2024-12-18, paskelbta TAR 2024-12-18, i. k. 2024-22435
+ 
 
 
 
@@ -696,3 +700,8 @@ Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-181, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01353
 Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo Nr. IX-1067 2, 5, 6, 7, 8, 9, 10 straipsnių ir priedo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT101-N15/2024, 2024-12-18, paskelbta TAR 2024-12-18, i. k. 2024-22435
+Dėl Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo 4 straipsnio 2 dalies (2009 m. gruodžio 22 d. redakcija) 16 punkto atitikties Lietuvos Respublikos Konstitucijai
