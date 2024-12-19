@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2024-09-01 iki 2024-12-18
+Suvestinė redakcija nuo 2024-12-19
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2319; Žin. 1996, Nr.103-0, i. k. 0961010ISTA00I-1571
  
@@ -147,7 +147,10 @@ Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
 
 
 
-6. Paslaugas, kurių reikia LRT radijo ir televizijos tinklams teikti ir eksploatuoti, ir paslaugas, skirtas radijo ir televizijos programų signalams elektroninių ryšių tinklais perduoti visuomenei, teikia AB Lietuvos radijo ir televizijos centras. Šių paslaugų teikimo, kompensavimo už jas tvarką ir sąlygas nustato Vyriausybė ar jos įgaliota institucija.
+6. Paslaugas, kurių reikia LRT radijo ir televizijos tinklams teikti ir eksploatuoti, ir paslaugas, skirtas radijo ir televizijos programų signalams elektroninių ryšių tinklais perduoti visuomenei, teikia AB Lietuvos radijo ir televizijos centras. Šių paslaugų kainos, atsižvelgiant į protingumo kriterijų atitinkančią investicijų grąžą, turi būti pagrįstos AB Lietuvos radijo ir televizijos centro patirtomis paslaugų teikimo sąnaudomis. Šių paslaugų teikimo, kompensavimo už jas tvarką ir sąlygas, taip pat paslaugų teikimo terminą, vadovaudamasi 2011 m. gruodžio 20 d. Europos Komisijos sprendimo 2012/21/ES dėl Sutarties dėl Europos Sąjungos veikimo 106 straipsnio 2 dalies taikymo valstybės pagalbai, kompensacijos už viešąją paslaugą forma skiriamai tam tikroms įmonėms, kurioms pavesta teikti visuotinės ekonominės svarbos paslaugas, nuostatomis, nustato Vyriausybė ar jos įgaliota institucija. Šių paslaugų kainų pagrįstumą, vadovaudamasi šioje dalyje nurodyta Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir sąlygomis, tikrina Lietuvos Respublikos ryšių reguliavimo tarnyba.
+Straipsnio dalies pakeitimai:
+Nr. XV-40, 2024-12-05, paskelbta TAR 2024-12-18, i. k. 2024-22442
+ 
 
 
 
@@ -1251,3 +1254,8 @@ Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
 Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 5, 10, 13 ir 15 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-40, 2024-12-05, paskelbta TAR 2024-12-18, i. k. 2024-22442
+Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 5 straipsnio pakeitimo įstatymas
