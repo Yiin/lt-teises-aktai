@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1A98CE535B1C"
 
 # Lietuvos Respublikos aplinkos monitoringo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-12-23
+Suvestinė redakcija nuo 2024-12-24
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 112-2824, i. k. 0971010ISTAVIII-529
  
@@ -420,10 +420,11 @@ Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
 
 
 2. Laboratorijos, atliekančios taršos šaltinių išmetamų į aplinką teršalų ir teršalų aplinkos elementuose (ore, vandenyje, dirvožemyje) matavimus ir tyrimus ir (ar) imančios ėminius laboratoriniams tyrimams atlikti, turi turėti leidimus vykdyti šią veiklą arba būti akredituotos kaip atitinkančios standartą LST EN ISO/IEC 17025 konkretiems teršalams tirti, matuoti, imti ėminius laboratoriniams tyrimams atlikti. 
-2 dalies redakcija nuo 2025-01-01:
-2. Labaratorijos, atliekančios taršos šaltinių išmetamų į aplinką teršalų ir teršalų aplinkos elementuose (ore, vandenyje, dirvožemyje) matavimus ir tyrimus ir (ar) imančios ėminius tyrimams atlikti, išskyrus laboratorijas, atliekančias ūkio subjektų aplinkos monitoringo programoje nurodytus matavimus ir tyrimus ir (ar) imančias ėminius šiems tyrimams atlikti, turi turėti leidimus vykdyti šią veiklą arba būti akredituotos kaip atitinkančios standartą LST EN ISO/IEC 17025 konkretiems teršalams tirti, matuoti, imti ėminius laboratoriniams tyrimams atlikti. Ūkio subjektų aplinkos monitoringo programoje numatytų į aplinką išmetamų ir (arba) išleidžiamų teršalų ir teršalų aplinkos elementuose (ore, vandenyje, dirvožemyje) laboratorinius tyrimus ir (ar) matavimus atliekančios ir (ar) ėminius laboratoriniams tyrimams atlikti imančios laboratorijos turi būti akredituotos kaip atitinkančios standartą LST EN ISO/IEC 17025 konkretiems teršalams tirti, matuoti, imti ėminius laboratoriniams tyrimams atlikti. 
+2 dalies redakcija nuo 2026-01-01:
+2. Laboratorijos, atliekančios taršos šaltinių išmetamų į aplinką teršalų ir teršalų aplinkos elementuose (ore, vandenyje, dirvožemyje) matavimus ir tyrimus ir (ar) imančios ėminius tyrimams atlikti, išskyrus laboratorijas, atliekančias ūkio subjektų aplinkos monitoringo programoje nurodytus matavimus ir tyrimus ir (ar) imančias ėminius šiems tyrimams atlikti, turi turėti leidimus vykdyti šią veiklą arba būti akredituotos kaip atitinkančios standartą LST EN ISO/IEC 17025 konkretiems teršalams tirti, matuoti, imti ėminius laboratoriniams tyrimams atlikti. Ūkio subjektų aplinkos monitoringo programoje numatytų į aplinką išmetamų ir (arba) išleidžiamų teršalų ir teršalų aplinkos elementuose (ore, vandenyje, dirvožemyje) laboratorinius tyrimus ir (ar) matavimus atliekančios ir (ar) ėminius laboratoriniams tyrimams atlikti imančios laboratorijos turi būti akredituotos kaip atitinkančios standartą LST EN ISO/IEC 17025 konkretiems teršalams tirti, matuoti, imti ėminius laboratoriniams tyrimams atlikti. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2797, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02848
+Nr. XV-87, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23082
  
 
 
@@ -730,3 +731,8 @@ Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 2, 5, 7, 8, 9, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1266, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14922
 Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 8 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-87, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23082
+Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 2, 8, 9, 11 straipsnių pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymo Nr. XIII-2797 6 straipsnio pakeitimo įstatymas
