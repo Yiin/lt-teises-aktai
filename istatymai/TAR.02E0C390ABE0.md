@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/02e0c390abe011eab9d9cd0c85e0b745"
 
 # Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-12-23
+Suvestinė redakcija nuo 2024-12-24
  
 Įstatymas paskelbtas: TAR 2020-06-11, i. k. 2020-12819
  
@@ -1992,7 +1992,10 @@ Nr. XIII-3329, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22474
 
 
 
-10. Vyriausybė, ministerijos ar savivaldybės institucijos peržiūri joms pavaldžioms ar atskaitingoms biudžetinėms įstaigoms, viešosioms įstaigoms, valstybės ar savivaldybės įmonėms iki šio įstatymo įsigaliojimo suteiktus viešojo administravimo įgaliojimus ir iki 2025 m. sausio 1 d. parengia reikiamų teisės aktų pakeitimus, kuriais iki šio įstatymo įsigaliojimo vykdyti viešojo administravimo įgaliojimai būtų perduoti laikantis šiame įstatyme nustatytos tvarkos ir reikalavimų. Iki įsigalios viešojo administravimo įgaliojimų perdavimą reglamentuojančių teisės aktų pakeitimai, viešojo administravimo įgaliojimai vykdomi vadovaujantis iki šio įstatymo įsigaliojimo nustatyta tvarka.
+10. Vyriausybė, ministerijos ar savivaldybės institucijos peržiūri sau pavaldžioms ar atskaitingoms biudžetinėms įstaigoms, viešosioms įstaigoms, valstybės ar savivaldybės įmonėms iki šio įstatymo įsigaliojimo suteiktus viešojo administravimo įgaliojimus ir iki 2026 m. sausio 1 d. parengia reikiamų teisės aktų pakeitimus, kuriais iki šio įstatymo įsigaliojimo vykdyti viešojo administravimo įgaliojimai būtų perduoti laikantis šiame įstatyme nustatytos tvarkos ir reikalavimų. Kol įsigalios viešojo administravimo įgaliojimų perdavimą reglamentuojančių teisės aktų pakeitimai, viešojo administravimo įgaliojimai vykdomi vadovaujantis iki šio įstatymo įsigaliojimo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XV-88, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23083
+ 
 
 
 
@@ -2032,4 +2035,9 @@ Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo �
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2008, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11586
+Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo įstatymo Nr. XIII-2987 2 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-88, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23083
 Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo įstatymo Nr. XIII-2987 2 straipsnio pakeitimo įstatymas
