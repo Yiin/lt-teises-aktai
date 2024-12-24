@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-12-23
+Suvestinė redakcija nuo 2024-12-24 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -7594,3 +7594,8 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 10, 10-1, 11, 13, 21, 36, 47, 60, 63, 64, 65 ir 68 straipsnių pakeitimo įstatymas
+ 
+52.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-78, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23071
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 pakeitimo įstatymo Nr. XIV-2368 36 straipsnio pakeitimo įstatymas
