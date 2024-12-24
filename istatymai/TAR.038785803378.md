@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/03878580337811efbdaea558de59136c"
 
 # Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2024-12-24
+ 
+Įstatymas paskelbtas: TAR 2024-06-26, i. k. 2024-11565
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 KARO PRIEVOLĖS ĮSTATYMO NR. I-1593 PAKEITIMO
 ĮSTATYMAS
@@ -977,7 +984,15 @@ b) yra įgijusios aukštąjį išsilavinimą baigus medicinos ar slaugos ir aku�
 
 
 
-7) alternatyviosios tarnybos prievolininkai.
+7) alternatyviosios tarnybos prievolininkai;
+
+
+
+
+8) asmenys, kurie, be Lietuvos Respublikos pilietybės, turi ir į Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 36 straipsnio 121 dalyje nurodytą sąrašą įtrauktų valstybių pilietybę.
+Papildyta straipsnio punktu:
+Nr. XV-77, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23070
+ 
 
 
 
@@ -1309,7 +1324,10 @@ b) nuo 90 iki 120 dienų pagal Lietuvos kariuomenės vado patvirtintas kitas mok
 3. Privalomąją pradinę karo tarnybą atliekantis karys paleidžiamas iš tarnybos pirma šio įstatymo 5 straipsnio 3 dalyje nustatyto laiko, kai:
 
 
-1) jis netenka Lietuvos Respublikos pilietybės;
+1) jis netenka Lietuvos Respublikos pilietybės arba kai jis, be Lietuvos Respublikos pilietybės, įgyja į Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 36 straipsnio 121 dalyje nurodytą sąrašą įtrauktų valstybių pilietybę ar paaiškėja, kad turi tokios valstybės pilietybę;
+Straipsnio punkto pakeitimai:
+Nr. XV-77, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23070
+ 
 
 
 
@@ -1843,7 +1861,10 @@ TARNYBA REZERVE
 17 straipsnis. Kitos tarnybos rezerve atlikimo sąlygos ir šaukimo į šią tarnybą tvarka 
 
 
-1. Į kitą tarnybą rezerve gali būti šaukiami karo prievolininkai dalyvauti mokymuose ar pratybose iki 10 dienų per metus vykdyti Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies 1 ir 2 punktuose nustatytų ir Karinės jėgos naudojimo statuto 9 straipsnio 1 dalyje nustatytų užduočių bei atlikti karo tarnybą mobilizacijos ir karo padėties metu. Karo prievolininkai pagrindiniam kariniam parengtumui įgyti su jų sutikimu gali būti siunčiami į kitos, negu numatyta šioje dalyje, trukmės mokymus ar pratybas. Mokymų ir pratybų programas, trukmę ir periodiškumą nustato Lietuvos kariuomenės vadas.
+1. Į kitą tarnybą rezerve gali būti šaukiami karo prievolininkai dalyvauti mokymuose ar pratybose iki 14 dienų per metus, vykdyti Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies 1 ir 2 punktuose nustatytų ir Karinės jėgos naudojimo statuto 9 straipsnio 1 dalyje nustatytų užduočių bei atlikti karo tarnybos mobilizacijos ir karo padėties metu. Karo prievolininkai pagrindiniam kariniam parengtumui įgyti su jų sutikimu gali būti siunčiami į kitos, negu numatyta šioje dalyje, trukmės mokymus ar pratybas. Mokymų ir pratybų programas, trukmę ir periodiškumą nustato Lietuvos kariuomenės vadas. 
+Straipsnio dalies pakeitimai:
+Nr. XV-77, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23070
+ 
 
 
 
@@ -1891,7 +1912,10 @@ TARNYBA REZERVE
 
 
 
-4) jie netenka Lietuvos Respublikos pilietybės;
+4) jis netenka Lietuvos Respublikos pilietybės arba kai jis, be Lietuvos Respublikos pilietybės, įgyja į Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 36 straipsnio 121 dalyje nurodytą sąrašą įtrauktų valstybių pilietybę ar paaiškėja, kad turi tokios valstybės pilietybę;
+Straipsnio punkto pakeitimai:
+Nr. XV-77, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23070
+ 
 
 
 
@@ -1947,7 +1971,10 @@ TARNYBA REZERVE
 
 
 
-3) jie netenka Lietuvos Respublikos pilietybės;
+3) jis netenka Lietuvos Respublikos pilietybės arba kai jis, be Lietuvos Respublikos pilietybės, įgyja į Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 36 straipsnio 121 dalyje nurodytą sąrašą įtrauktų valstybių pilietybę ar paaiškėja, kad turi tokios valstybės pilietybę;
+Straipsnio punkto pakeitimai:
+Nr. XV-77, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23070
+ 
 
 
 
@@ -2108,7 +2135,10 @@ KARO PRIEVOLININKŲ TARNYBA PASKELBUS MOBILIZACIJĄ
 1. Iš tarnybos paskelbus mobilizaciją anksčiau, negu paskelbiama demobilizacija, karo prievolininkas paleidžiamas, kai:
 
 
-1) jis netenka Lietuvos Respublikos pilietybės;
+1) jis netenka Lietuvos Respublikos pilietybės arba kai jis, be Lietuvos Respublikos pilietybės, įgyja į Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 36 straipsnio 121 dalyje nurodytą sąrašą įtrauktų valstybių pilietybę ar paaiškėja, kad turi tokios valstybės pilietybę;
+Straipsnio punkto pakeitimai:
+Nr. XV-77, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23070
+ 
 
 
 
@@ -2948,3 +2978,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                               Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-77, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23070
+Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 pakeitimo įstatymo Nr. XIV-2729 21 straipsnio pakeitimo įstatymas
