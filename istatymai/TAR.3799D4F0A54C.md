@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/3799d4f0a54c11eea5a28c81c82193a8"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2024-12-24
+ 
+Įstatymas paskelbtas: TAR 2023-12-28, i. k. 2023-25621
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO NR. VIII-723 PAKEITIMO
 ĮSTATYMAS
@@ -1701,7 +1708,10 @@ _____________________“.
 
 
 
-2. Šio įstatymo 1 straipsnio 2 dalis, 2 straipsnio 2 dalis, 3, 5, 8, 22 straipsniai, 23 straipsnio 1, 2 dalys, 24 straipsnio 1 dalis, 29 straipsnio 2 dalis ir 32 straipsnio 2, 3 dalys įsigalioja 2025 m. sausio 1 d.
+2. Šio įstatymo 1 straipsnio 2 dalis, 2 straipsnio 2 dalis, 3, 5, 8, 22 straipsniai, 23 straipsnio 1, 2 dalys, 24 straipsnio 1 dalis, 29 straipsnio 2 dalis ir 32 straipsnio 2, 3 dalys įsigalioja 2026 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XV-78, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23071
+ 
 
 
 
@@ -1754,3 +1764,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-78, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23071
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 pakeitimo įstatymo Nr. XIV-2368 36 straipsnio pakeitimo įstatymas
