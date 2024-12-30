@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-29
+Suvestinė redakcija nuo 2024-12-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 59-1916; Žin. 1999, Nr.60-0, i. k. 0991010ISTAIII-1227
  
@@ -367,7 +367,15 @@ c) 15 milijonų eurų įsipareigojimų elektroninių pinigų, įskaitant elektro
 
 
 
-9) valstybės įmonė ar savivaldybės įmonė, kurių ne mažiau kaip 2 rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymo 4 straipsnio 3 dalyje, akcinė bendrovė ar uždaroji akcinė bendrovė, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ir (arba) vienai ar kelioms savivaldybėms ir kurių ne mažiau kaip 2 rodikliai arba, jeigu ji yra patronuojančioji įmonė, konsoliduoti įmonių grupės rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus Įmonių ir įmonių grupių atskaitomybės įstatymo 4 straipsnio 3 dalyje.
+9) valstybės įmonė ar savivaldybės įmonė, kurių ne mažiau kaip 2 rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymo 4 straipsnio 3 dalyje, akcinė bendrovė ar uždaroji akcinė bendrovė, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ir (arba) vienai ar kelioms savivaldybėms ir kurių ne mažiau kaip 2 rodikliai arba, jeigu ji yra patronuojančioji įmonė, konsoliduoti įmonių grupės rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus Įmonių ir įmonių grupių atskaitomybės įstatymo 4 straipsnio 3 dalyje;
+
+
+
+
+10) kriptoturto paslaugų teikėjai, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 15 punkte, kurių pajamos paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija 2 milijonus eurų. 
+Papildyta straipsnio punktu:
+Nr. XIV-2812, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12135
+ 
 
 
 
@@ -3211,7 +3219,10 @@ VIEŠOJO INTERESO ĮMONIŲ, JŲ AUDITORIŲ IR AUDITO ĮMONIŲ PAREIGOS
 57 straipsnis. Viešojo intereso įmonių pareigos
 
 
-1. Viešojo intereso įmonėse, išskyrus šio įstatymo 2 straipsnio 39 dalies 4–8 punktuose nustatytas viešojo intereso įmones, sudaromas audito komitetas. Viešojo intereso įmonės, kurios yra įmonių grupės patronuojamosios įmonės, gali nesudaryti audito komiteto, jeigu įmonių grupės lygmeniu yra sudaromas audito komitetas arba organas, kuris atlieka audito komiteto funkcijoms prilygstančias funkcijas, ir yra laikomasi Audito reglamento 11 straipsnio 1 ir 2 dalyse bei 16 straipsnio 5 dalyje nustatytų reikalavimų.
+1. Viešojo intereso įmonėse, išskyrus šio įstatymo 2 straipsnio 39 dalies 4–8 ir 10 punktuose nustatytas viešojo intereso įmones, sudaromas audito komitetas. Viešojo intereso įmonės, kurios yra įmonių grupės patronuojamosios įmonės, gali nesudaryti audito komiteto, jeigu įmonių grupės lygmeniu yra sudaromas audito komitetas arba organas, kuris atlieka audito komiteto funkcijoms prilygstančias funkcijas, ir yra laikomasi Audito reglamento 11 straipsnio 1 ir 2 dalyse bei 16 straipsnio 5 dalyje nustatytų reikalavimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2812, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12135
+ 
 
 
 
