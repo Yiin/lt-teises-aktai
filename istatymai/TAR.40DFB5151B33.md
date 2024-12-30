@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-29
+Suvestinė redakcija nuo 2024-12-30 iki 2025-04-08
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7759, i. k. 1111010ISTA0XI-1868
  
@@ -422,7 +422,15 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 
-6) leisti elektroninių pinigų žetonus, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 7 punkte, Reglamento (ES) 2023/1114 IV antraštinėje dalyje nustatyta apimtimi ir tvarka. 
+6) leisti elektroninių pinigų žetonus, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 7 punkte, Reglamento (ES) 2023/1114 IV antraštinėje dalyje nustatyta apimtimi ir tvarka;
+Papildyta straipsnio punktu:
+Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
+ 
+
+
+
+
+7) teikti kriptoturto paslaugas, kaip jos apibrėžtos Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 16 punkte, Reglamento (ES) 2023/1114 60 straipsnyje nustatyta apimtimi ir tvarka.
 Papildyta straipsnio punktu:
 Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
  
