@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-29
+Suvestinė redakcija nuo 2024-12-30 iki 2025-04-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
  
@@ -668,7 +668,15 @@ Nr. XIV-2892, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13501
 
 
 
-i) elektroninių pinigų įstaigos, leidžiančios reikšmingus elektroninių pinigų žetonus, kaip tai suprantama pagal Reglamento (ES) 2023/1114 56 ir 57 straipsnius. 
+i) elektroninių pinigų įstaigos, leidžiančios reikšmingus elektroninių pinigų žetonus, kaip tai suprantama pagal Reglamento (ES) 2023/1114 56 ir 57 straipsnius;
+Papildyta papunkčiu:
+Nr. XIV-2892, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13501
+ 
+
+
+
+
+j) kriptoturto paslaugų teikėjai, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 15 punkte.
 Papildyta papunkčiu:
 Nr. XIV-2892, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13501
  
