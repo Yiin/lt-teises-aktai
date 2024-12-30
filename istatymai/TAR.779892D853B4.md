@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2024-07-25 iki 2024-12-29
+Suvestinė redakcija nuo 2024-12-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -746,7 +746,15 @@ Nr. XII-2772, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26973
 
 
 
-23) su turtu susietų žetonų, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 6 punkte, leidimas. 
+23) su turtu susietų žetonų, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 6 punkte, leidimas;
+Papildyta straipsnio punktu:
+Nr. XIV-2882, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13488
+ 
+
+
+
+
+24) kriptoturto paslaugos, kaip jos apibrėžtos Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 16 punkte.
 Papildyta straipsnio punktu:
 Nr. XIV-2882, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13488
  
