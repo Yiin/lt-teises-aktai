@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e68da860903411e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymas
 
-Suvestinė redakcija nuo 2024-07-25 iki 2024-12-29
+Suvestinė redakcija nuo 2024-12-30
  
 Įstatymas paskelbtas: TAR 2014-12-30, i. k. 2014-21092
  
@@ -507,6 +507,14 @@ VALDYMO ĮMONĖS IR JŲ FUNKCIJOS
 
 
 2. Valdymo įmonė turi teisę užsiimti suderintųjų kolektyvinio investavimo subjektų valdymo veikla, jeigu ji turi licenciją pagal Kolektyvinio investavimo subjektų įstatymą. 
+
+
+
+
+21. Valdymo įmonė turi teisę teikti kriptoturto paslaugas, kaip jos apibrėžtos 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 16 punkte, Reglamento (ES) 2023/1114 60 straipsnyje nustatyta apimtimi ir tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIV-2890, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13499
+ 
 
 
 
