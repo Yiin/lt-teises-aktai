@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2024-09-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -47,7 +47,10 @@ BENDROSIOS NUOSTATOS
 3. Šis įstatymas, išskyrus 17 straipsnyje nurodytus asmenis, taikomas gyvenantiems Lietuvos Respublikoje ir deklaravusiems gyvenamąją vietą arba įtrauktiems į gyvenamosios vietos nedeklaravusių asmenų apskaitą Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka:
 
 
-1) Lietuvos Respublikos piliečiams;
+1) Lietuvos Respublikos piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys ar suteikiantys teisę gyventi Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžiami Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2760, 2024-06-18, paskelbta TAR 2024-06-27, i. k. 2024-11773
+ 
 
 
 
@@ -194,22 +197,24 @@ Teisę gauti šalpos negalios pensiją turi:
 
 
 
-4) tėvai (įtėviai), globėjai ar rūpintojai, kurie yra pripažinti netekusiais 60 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) ir kurie ne trumpiau kaip 15 metų slaugė namuose asmenis, kuriems nustatytas individualios pagalbos teikimo išlaidų kompensacijos poreikis (iki 2023 m. gruodžio 31 d. – specialusis nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikis);
+4) tėvai (įtėviai), globėjai ar rūpintojai, kurie yra pripažinti netekusiais 45 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) ir kurie ne trumpiau kaip 15 metų slaugė namuose asmenis, kuriems nustatytas individualios pagalbos teikimo išlaidų kompensacijos poreikis (iki 2023 m. gruodžio 31 d. – specialusis nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikis);
 
 
 
 
-5) tėvai (įtėviai), išauginę penkis ar daugiau vaikų (įvaikių) (vaikų (įvaikių) mirties atveju – ne mažiau kaip iki 8 metų) ir pripažinti netekusiais 60 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo);
+5) tėvai (įtėviai), išauginę penkis ar daugiau vaikų (įvaikių) (vaikų (įvaikių) mirties atveju – ne mažiau kaip iki 8 metų) ir pripažinti netekusiais 45 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo);
 
 
 
 
-6) asmenys, pripažinti netekusiais 60 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), išskyrus asmenis, nurodytus šio straipsnio 2–5 punktuose.
+6) asmenys, pripažinti netekusiais 45 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), išskyrus asmenis, nurodytus šio straipsnio 2–5 punktuose.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2760, 2024-06-18, paskelbta TAR 2024-06-27, i. k. 2024-11773
  
-
-
-
-
 
 
 
@@ -289,7 +294,7 @@ Teisę gauti šalpos senatvės pensiją turi:
 
 
 
-2. Šalpos negalios pensijos šio įstatymo 5 straipsnio 2 ir 3 punktuose nurodytiems asmenims yra šių dydžių:
+2. Šalpos negalios pensijos šio įstatymo 5 straipsnio 2–5 punktuose nurodytiems asmenims yra šių dydžių:
 
 
 1) asmenims, netekusiems 100 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 2,25 šalpos pensijų bazės dydžio;
@@ -332,74 +337,29 @@ Teisę gauti šalpos senatvės pensiją turi:
 
 
 
-9) asmenims, netekusiems 60 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,43 šalpos pensijų bazės dydžio;
+9) asmenims, netekusiems 60 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,56 šalpos pensijų bazės dydžio;
 
 
 
 
-10) asmenims, netekusiems 55 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,2 šalpos pensijų bazės dydžio;
+10) asmenims, netekusiems 55 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,47 šalpos pensijų bazės dydžio;
 
 
 
 
-11) asmenims, netekusiems 45–50 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1 šalpos pensijų bazės dydžio.
+11) asmenims, netekusiems 50 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,38 šalpos pensijų bazės dydžio;
 
 
 
 
-
-
-3. Šalpos negalios pensijos šio įstatymo 5 straipsnio 4 ir 5 punktuose nurodytiems asmenims yra šių dydžių:
-
-
-1) asmenims, netekusiems 100 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 2 šalpos pensijų bazių dydžio;
-
-
-
-
-2) asmenims, netekusiems 95 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,87 šalpos pensijų bazės dydžio;
-
-
-
-
-3) asmenims, netekusiems 90 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,75 šalpos pensijų bazės dydžio;
-
-
-
-
-4) asmenims, netekusiems 85 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,62 šalpos pensijų bazės dydžio;
-
-
-
-
-5) asmenims, netekusiems 80 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,5 šalpos pensijų bazės dydžio;
-
-
-
-
-6) asmenims, netekusiems 75 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,37 šalpos pensijų bazės dydžio;
-
-
-
-
-7) asmenims, netekusiems 70 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,25 šalpos pensijų bazės dydžio;
-
-
-
-
-8) asmenims, netekusiems 65 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,12 šalpos pensijų bazės dydžio;
-
-
-
-
-9) asmenims, netekusiems 60 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1 šalpos pensijų bazės dydžio.
+12) asmenims, netekusiems 45 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,29 šalpos pensijų bazės dydžio.
 
 
 
 
 
 
-4. Šalpos negalios pensijos šio įstatymo 5 straipsnio 6 punkte nurodytiems asmenims yra šių dydžių:
+3. Šalpos negalios pensijos šio įstatymo 5 straipsnio 6 punkte nurodytiems asmenims yra šių dydžių:
 
 
 1) asmenims, netekusiems 100 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 2 šalpos pensijų bazių dydžio;
@@ -407,39 +367,64 @@ Teisę gauti šalpos senatvės pensiją turi:
 
 
 
-2) asmenims, netekusiems 95 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,83 šalpos pensijų bazės dydžio;
+2) asmenims, netekusiems 95 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,91 šalpos pensijų bazės dydžio;
 
 
 
 
-3) asmenims, netekusiems 90 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,66 šalpos pensijų bazės dydžio;
+3) asmenims, netekusiems 90 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,82 šalpos pensijų bazės dydžio;
 
 
 
 
-4) asmenims, netekusiems 85 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,5 šalpos pensijų bazės dydžio;
+4) asmenims, netekusiems 85 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,73 šalpos pensijų bazės dydžio;
 
 
 
 
-5) asmenims, netekusiems 80 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,33 šalpos pensijų bazės dydžio;
+5) asmenims, netekusiems 80 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,64 šalpos pensijų bazės dydžio;
 
 
 
 
-6) asmenims, netekusiems 75 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,17 šalpos pensijų bazės dydžio;
+6) asmenims, netekusiems 75 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,55 šalpos pensijų bazės dydžio;
 
 
 
 
-7) asmenims, netekusiems 60–70 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1 šalpos pensijų bazės dydžio.
+7) asmenims, netekusiems 70 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,46 šalpos pensijų bazės dydžio;
+
+
+
+
+8) asmenims, netekusiems 65 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,37 šalpos pensijų bazės dydžio;
+
+
+
+
+9) asmenims, netekusiems 60 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,28 šalpos pensijų bazės dydžio;
+
+
+
+
+10) asmenims, netekusiems 55 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,19 šalpos pensijų bazės dydžio;
+
+
+
+
+11) asmenims, netekusiems 50 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1,1 šalpos pensijų bazės dydžio;
+
+
+
+
+12) asmenims, netekusiems 45 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo), – 1 šalpos pensijų bazės dydžio.
 
 
 
 
 
 
-5. Šalpos senatvės pensijos yra šių dydžių:
+4. Šalpos senatvės pensijos yra šių dydžių:
 
 
 1) šio įstatymo 6 straipsnio 1 ir 2 punktuose nurodytiems asmenims – 1,5 šalpos pensijų bazės dydžio;
@@ -447,12 +432,14 @@ Teisę gauti šalpos senatvės pensiją turi:
 
 
 
-2) šio įstatymo 6 straipsnio 3 punkte nurodytiems asmenims – 1 šalpos pensijų bazės dydžio.
+ 2) šio įstatymo 6 straipsnio 3 punkte nurodytiems asmenims – 1 šalpos pensijų bazės dydžio.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2760, 2024-06-18, paskelbta TAR 2024-06-27, i. k. 2024-11773
  
-
-
-
-
 
 
 
@@ -647,7 +634,10 @@ V SKYRIUS
 
 
 
-7. Asmenims, tuo pačiu metu turintiems teisę gauti kelias šalpos išmokas, mokama didesnio dydžio šalpos išmoka arba asmenų, nurodytų šio straipsnio 3 dalyje, prašymu – tik viena iš šių šalpos išmokų, išskyrus toliau šioje dalyje ir šio įstatymo 9 straipsnio 2 dalyje nustatytus atvejus. Kartu su asmeniui priklausančia šalpos negalios pensija, šalpos senatvės pensija arba šalpos kompensacija gali būti mokama šalpos našlaičių pensija. Kai šalpos išmokos gavėjas kreipiasi dėl vienos iš šalpos išmokų, kurią jis turi teisę gauti, mokėjimo sustabdymo arba atnaujinimo, šios šalpos išmokos mokėjimas atitinkamai sustabdomas arba atnaujinamas nuo kito mėnesio pirmos dienos po to, kai asmuo pateikė prašymą atitinkamai sustabdyti arba atnaujinti šios šalpos išmokos mokėjimą, arba nuo ankstesnio asmens prašyme nurodyto mėnesio pirmos dienos, jeigu ši šalpos išmoka už tą mėnesį dar neišmokėta.
+7. Asmenims, tuo pačiu metu turintiems teisę gauti kelias šalpos išmokas, mokama didesnio dydžio šalpos išmoka arba asmenų, nurodytų šio straipsnio 3 dalyje, prašymu – tik viena iš šių šalpos išmokų, išskyrus toliau šioje dalyje ir šio įstatymo 9 straipsnio 2 dalyje nustatytus atvejus. Kartu su asmeniui priklausančia šalpos negalios pensija, šalpos senatvės pensija arba šalpos kompensacija gali būti mokama šalpos našlaičių pensija. Kai šio įstatymo 5 straipsnio 4 ir 5 punktuose nurodyti asmenys, pripažinti netekusiais 45–55 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) ir gaunantys šalpos negalios pensiją, sukanka senatvės pensijos amžių, be atskiro jų prašymo jiems skiriama ir mokama šio įstatymo 8 straipsnio 4 dalies 1 punkte nurodyto dydžio šalpos senatvės pensija. Kai šalpos išmokos gavėjas kreipiasi dėl vienos iš šalpos išmokų, kurią jis turi teisę gauti, mokėjimo sustabdymo arba atnaujinimo, šios šalpos išmokos mokėjimas atitinkamai sustabdomas arba atnaujinamas nuo kito mėnesio pirmos dienos po to, kai asmuo pateikė prašymą atitinkamai sustabdyti arba atnaujinti šios šalpos išmokos mokėjimą, arba nuo ankstesnio asmens prašyme nurodyto mėnesio pirmos dienos, jeigu ši šalpos išmoka už tą mėnesį dar neišmokėta. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2760, 2024-06-18, paskelbta TAR 2024-06-27, i. k. 2024-11773
+ 
 
 
 
@@ -702,12 +692,18 @@ V SKYRIUS
 
 
 
-15. Asmeniui, kuriam paskirta šalpos išmoka, įgijus teisę gauti pensiją ar pensijų išmoką (šalpos našlaičių pensijos gavėjui – šio įstatymo 10 straipsnio 1 dalyje nurodytą pensiją ar pensijų išmoką), kuri (jeigu asmuo įgijo teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra didesnė arba tokio paties dydžio kaip šalpos išmoka, išskyrus šio įstatymo 7 straipsnio 2 dalyje nustatytą atvejį, šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio, einančio po mėnesio, kurį jam paskirta pensija ar pensijų išmoka (šalpos našlaičių pensijos gavėjui – šio įstatymo 10 straipsnio 1 dalyje nurodyta išmoka), kuri (jeigu asmeniui paskirta daugiau negu viena pensija ar pensijų išmoka – bendra jų suma) yra didesnė arba tokio paties dydžio kaip šalpos išmoka, pirmos dienos, išskyrus šio straipsnio 19 dalies 1 punkte nustatytą atvejį, kai šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio, einančio po mėnesio, kurį gauta informacija ir (ar) duomenys apie užsienio valstybių pensijas ir pensijų išmokas. Asmeniui, gaunančiam pensiją ar pensijų išmoką (šalpos našlaičių pensijos gavėjui – šio įstatymo 10 straipsnio 1 dalyje nurodytą išmoką), kuri (jeigu asmuo gauna daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra mažesnė už šalpos negalios, šalpos senatvės pensiją, šalpos našlaičių pensiją ar šalpos kompensaciją arba bendrą jų sumą, jeigu asmuo gauna daugiau negu vieną iš šių šalpos išmokų, šios šalpos išmokos skiriamos ir mokamos nuo tos dienos, nuo kurios buvo nutrauktas pensijos ar pensijų išmokos mokėjimas, išskyrus šio straipsnio 16 dalyje nustatytą atvejį.
+15. Asmeniui, kuriam paskirta šalpos išmoka, įgijus teisę gauti pensiją ar pensijų išmoką (šalpos našlaičių pensijos gavėjui – šio įstatymo 10 straipsnio 1 dalyje nurodytą pensiją ar pensijų išmoką), kuri (jeigu asmuo įgijo teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra didesnė arba tokio paties dydžio kaip šalpos išmoka, išskyrus šio įstatymo 7 straipsnio 2 dalyje ir 13 straipsnio 2 dalyje nustatytus atvejus, šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio, einančio po mėnesio, kurį jam paskirta pensija ar pensijų išmoka (šalpos našlaičių pensijos gavėjui – šio įstatymo 10 straipsnio 1 dalyje nurodyta išmoka), kuri (jeigu asmeniui paskirta daugiau negu viena pensija ar pensijų išmoka – bendra jų suma) yra didesnė arba tokio paties dydžio kaip šalpos išmoka, pirmos dienos, išskyrus šio straipsnio 19 dalies 1 punkte nustatytą atvejį, kai šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio, einančio po mėnesio, kurį gauta informacija ir (ar) duomenys apie užsienio valstybių pensijas ir pensijų išmokas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2760, 2024-06-18, paskelbta TAR 2024-06-27, i. k. 2024-11773
+ 
 
 
 
 
-16. Asmenims, nurodytiems šio įstatymo 5 straipsnio 6 punkte ir 6 straipsnyje, turintiems teisę į pensiją ar pensijų išmoką, išskyrus asmenis, turinčius teisę į socialinio draudimo našlių pensiją ar vienišo asmens išmoką, kuri (jeigu asmuo turi teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) kartu su pensijos priemoka yra mažesnė už šalpos pensiją, mokamas šalpos pensijos ir pensijos ar pensijų išmokos (jeigu asmuo turi teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendros jų sumos) kartu su pensijos priemoka skirtumas.
+16. Asmenims, turintiems teisę į pensiją ar pensijų išmoką, išskyrus šio įstatymo 7 straipsnio 2 dalyje ir 13 straipsnio 2 dalyje nurodytas pensijas ar pensijų išmokas, kurios mokamos kartu su atitinkama šalpos išmoka, kuri (jeigu asmuo turi teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) kartu su pensijos priemoka yra mažesnė už šalpos negalios pensiją, šalpos senatvės pensiją arba šalpos kompensaciją, mokamas šalpos negalios pensijos, šalpos senatvės pensijos arba šalpos kompensacijos ir pensijos ar pensijų išmokos (jeigu asmuo turi teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendros jų sumos) kartu su pensijos priemoka skirtumas. Asmenims, turintiems teisę į šio įstatymo 10 straipsnio 1 dalyje nurodytą pensiją ar pensijų išmoką, kuri yra mažesnė už šalpos našlaičių pensiją, mokamas šalpos našlaičių pensijos ir šio įstatymo 10 straipsnio 1 dalyje nurodytos pensijos ar pensijų išmokos skirtumas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2760, 2024-06-18, paskelbta TAR 2024-06-27, i. k. 2024-11773
+ 
 
 
 
