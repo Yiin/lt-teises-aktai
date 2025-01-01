@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2024-12-24 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
  
@@ -41,7 +41,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo 3 priede.
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo 4 priede. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+ 
 
 
 
@@ -59,9 +62,10 @@ Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 
 
 
-5. Apmokestinant akcizais gamtines dujas, taikomos tik šio įstatymo 20, 21, 22, 43 straipsnių ir II skyriaus šeštojo skirsnio nuostatos.
+5. Apmokestinant akcizais gamtines dujas, taikomos tik šio įstatymo 20, 21, 22 straipsnių, 43 straipsnio 1 ir 2 dalių ir II skyriaus šeštojo skirsnio nuostatos. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
  
 
 
@@ -137,7 +141,10 @@ Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
 
 
 
-6) energiniai produktai;
+6) energiniai produktai ir jų išskiriamo anglies dioksido (CO2) kiekis; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+ 
 
 
 
@@ -229,6 +236,14 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 
 8. Alus – Kombinuotosios nomenklatūros (toliau – KN) 2203 pozicijoje klasifikuojamas alkoholinis gėrimas, kurio faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 0,5 procento, taip pat bet koks gėrimas, kuris yra pagamintas maišant alų su nealkoholiniais gėrimais, klasifikuojamas KN 2206 pozicijoje ir kurio faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 0,5 procento.
+
+
+
+
+81. Anglies dioksido dedamoji (toliau – CO2 dedamoji) – eurais išreiškiama akcizų tarifo dalis, taikoma akcizais apmokestinamam energiniam produktui. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+ 
 
 
 
@@ -1970,13 +1985,14 @@ ETILO ALKOHOLIS IR ALKOHOLINIAI GĖRIMAI
 23 straipsnis. Alui taikomi akcizų tarifai 
 
 
-1. Alui taikomas 9,46 euro už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą.
+1. Alui taikomas 10,97 euro už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
 Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
+Nr. XIV-2769, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12068
  
 
 
@@ -2003,31 +2019,29 @@ Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 
 
 
-24 straipsnis. Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi akcizų tarifai 
+24 straipsnis. Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi akcizų tarifai
 
 
 Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi akcizų tarifai:
 
 
-1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 109 eurai už produkto hektolitrą;
+1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 127 eurai už produkto hektolitrą;
 
 
 
 
-2) šio straipsnio 1 punkte nenurodytiems gėrimams – 219 eurų už produkto hektolitrą.
+2) šio straipsnio 1 punkte nenurodytiems gėrimams – 254 eurai už produkto hektolitrą.
 
 
 
 
-Straipsnio pakeitimai:
-Nr. XI-1633, 2011-11-08, Žin., 2011, Nr. 141-6614 (2011-11-22)
-Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 Straipsnio pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
 Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
+Nr. XIV-2769, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12068
  
 
 
@@ -2039,25 +2053,23 @@ Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 Tarpiniams produktams taikomi tokie akcizų tarifai:
 
 
-1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 234 eurai už produkto hektolitrą; 
+1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 292 eurai už produkto hektolitrą;
 
 
 
 
-2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 333 eurai už produkto hektolitrą.
+2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 370 eurų už produkto hektolitrą.
 
 
 
 
-Straipsnio pakeitimai:
-Nr. XI-1633, 2011-11-08, Žin., 2011, Nr. 141-6614 (2011-11-22)
-Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 Straipsnio pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
 Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
 Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
+Nr. XIV-2769, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12068
  
 
 
@@ -2066,7 +2078,7 @@ Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 26 straipsnis. Etilo alkoholiui taikomi akcizų tarifai
 
 
-1. Etilo alkoholiui taikomas 2 467 eurų už gryno etilo alkoholio hektolitrą akcizų tarifas.
+1. Etilo alkoholiui taikomas 2 778 eurų už gryno etilo alkoholio hektolitrą akcizų tarifas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
@@ -2075,6 +2087,7 @@ Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
 Nr. XIII-1709, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20967
 Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
+Nr. XIV-2769, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12068
  
 
 
@@ -2238,7 +2251,7 @@ APDOROTAS TABAKAS
 2. Cigaretėms taikomas toks akcizų tarifas:
 
 
-1) specifinis elementas – 85,3 euro;
+1) specifinis elementas – 92,6 euro; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
@@ -2246,6 +2259,7 @@ Nr. XIII-86, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29274
 Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
 Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
 Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
+Nr. XIV-2769, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12068
  
 
 
@@ -2258,7 +2272,7 @@ Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 
 
-3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 138 eurai už 1 000 cigarečių.
+3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 149,7 euro už 1 000 cigarečių. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
@@ -2266,6 +2280,7 @@ Nr. XIII-86, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29274
 Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
 Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
 Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
+Nr. XIV-2769, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12068
  
 
 
@@ -2294,22 +2309,18 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 31 straipsnis. Kitam apdorotam tabakui taikomi akcizų tarifai
 
 
-1. Cigarams ir cigarilėms taikomas 95 eurų už kilogramą produkto akcizų tarifas.
+1. Cigarams ir cigarilėms taikomas 109,7 euro už kilogramą produkto akcizų tarifas.
 
 
 
 
-2. Rūkomajam tabakui taikomas 112,8 euro už kilogramą produkto akcizų tarifas.
+2. Rūkomajam tabakui taikomas 123,5 euro už kilogramą produkto akcizų tarifas.
 
 
-Straipsnio pakeitimai:
-Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
-Nr. XI-1740, 2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
-Nr. XII-80, 2012-12-20, Žin., 2012, Nr. 153-7830 (2012-12-29)
-Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 Straipsnio pakeitimai:
 Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
 Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
+Nr. XIV-2769, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12068
  
 
 
@@ -2372,24 +2383,39 @@ ENERGINIAI PRODUKTAI
 Variklių benzinui taikomi tokie akcizų tarifai:
 
 
-1) bešviniam benzinui – 466 eurai už 1 000 litrų produkto;
-Straipsnio punkto pakeitimai:
-Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
-Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
-Nr. XIV-724, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25842
- 
+1) bešviniam benzinui akcizų tarifas, susidedantis iš:
+
+
+a) pastoviosios dalies – 466 eurų už 1 000 litrų produkto; 
 
 
 
 
-2) benzinui, turinčiam švino, – 579,24 euro už 1 000 litrų produkto.
- 
+b) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede;
+
+
+
+
+
+
+2) benzinui, turinčiam švino, akcizų tarifas, susidedantis iš:
+
+
+a) pastoviosios dalies – 579,24 euro už 1 000 litrų produkto;
+
+
+
+
+b) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede. 
+
+
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
  
 
 
@@ -2398,12 +2424,22 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 36 straipsnis. Žibalui taikomi akcizų tarifai
 
 
-Žibalui taikomas 330,17 euro už 1 000 litrų produkto akcizų tarifas.
- 
+Žibalui taikomas akcizų tarifas, susidedantis iš:
+
+
+1) pastoviosios dalies – 330,17 euro už 1 000 litrų produkto;
+
+
+
+
+2) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede. 
+
+
 
 
 Straipsnio pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
  
 
 
@@ -2412,20 +2448,52 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 37 straipsnis. Gazoliams taikomi akcizų tarifai
 
 
-1. Gazoliams taikomas 410 eurų už 1 000 litrų produkto akcizų tarifas, jeigu šiame straipsnyje nenustatyta kitaip.
+1. Gazoliams, jeigu šiame straipsnyje nenustatyta kitaip, taikomas akcizų tarifas, susidedantis iš:
+
+
+1) pastoviosios dalies – 466 eurų už 1 000 litrų produkto;
 
 
 
 
-2. Šildymui skirtiems gazoliams (buitiniam krosnių kurui), pažymėtiems šio įstatymo 44 straipsnyje nustatyta tvarka, taikomas 60 eurų už 1 000 litrų produkto akcizų tarifas.
+2) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede.
 
 
 
 
-3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai, taikomas 60 eurų už 1 000 litrų produkto akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių. Šioje dalyje gazolių kiekis nurodytas esant jų 15 ℃ temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
-Straipsnio dalies pakeitimai:
-Nr. XIV-2473, 2024-02-15, paskelbta TAR 2024-02-20, i. k. 2024-03206
- 
+
+
+2. Šildymui skirtiems gazoliams (buitiniam krosnių kurui), pažymėtiems šio įstatymo 44 straipsnyje nustatyta tvarka, taikomas akcizų tarifas, susidedantis iš:
+
+
+1) pastoviosios dalies – 60 eurų už 1 000 litrų produkto;
+
+
+
+
+2) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede.
+
+
+
+
+
+
+3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai, kaip tai apibrėžta Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme, taikomas akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių, esant jų 15 ℃ temperatūrai, susidedantis iš:
+
+
+1) pastoviosios dalies – 60 eurų už 1 000 litrų produkto;
+
+
+
+
+2) kintamosios dalies – saugumo dedamosios – eurais išreiškiamos akcizų tarifo dalies, taikomos šioje dalyje nurodytiems gazoliams ir nurodytos šio įstatymo 3 priede.
+
+
+
+
+
+
+4. Šio straipsnio 3 dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 
 Straipsnio pakeitimai:
@@ -2433,6 +2501,7 @@ Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
 Nr. XIV-724, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25842
 Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
  
 
 
@@ -2459,9 +2528,20 @@ Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 38 straipsnis. Skystajam kurui (mazutams), orimulsijai taikomi akcizų tarifai
 
 
-1. Skystajam kurui (mazutams), atitinkančiam Vyriausybės ar jos įgaliotos institucijos nustatytus požymius, orimulsijai taikomas 15,06 euro už toną produkto akcizų tarifas.
+1. Skystajam kurui (mazutams), atitinkančiam Vyriausybės ar jos įgaliotos institucijos nustatytus požymius, orimulsijai taikomas akcizų tarifas, susidedantis iš:
+
+
+1) pastoviosios dalies – 15,06 euro už toną produkto;
+
+
+
+
+2) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede. 
+
+
 Straipsnio dalies pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
  
 
 
@@ -2478,17 +2558,37 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 39 straipsnis. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas) taikomi akcizų tarifai
 
 
-1. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas), jeigu šiame straipsnyje nenustatyta kitaip, taikomas 304,10 euro už toną produkto akcizų tarifas.
+1. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas), jeigu šiame straipsnyje nenustatyta kitaip, taikomas akcizų tarifas, susidedantis iš:
+
+
+1) pastoviosios dalies – 304,10 euro už toną produkto;
 
 
 
 
-2. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas), naudojamiems kaip šildymui skirtas kuras, išskyrus šio straipsnio 3 dalyje nurodytą atvejį, taip pat šildymui skirtoms naftos dujoms ir dujiniams angliavandeniliams, išpilstytiems į dujų balionus, taikomas 13 eurų už toną produkto akcizų tarifas.
+2) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede.
 
 
 
 
-3. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas), naudojamiems kaip šildymui skirtas kuras verslo reikmėms, taikomas 13 eurų už toną produkto akcizų tarifas. Šiame įstatyme naftos dujų ir dujinių angliavandenilių (išskyrus gamtines dujas) kaip šildymui skirto kuro naudojimas verslo reikmėms suprantamas kaip šių produktų naudojimas ekonominę veiklą, apibrėžtą Pridėtinės vertės mokesčio įstatyme, vykdančio asmens.
+
+
+2. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas), kai jie naudojami kaip šildymui skirtas kuras, išskyrus šio straipsnio 3 dalyje nurodytą atvejį, taip pat šildymui skirtoms naftos dujoms ir dujiniams angliavandeniliams, išpilstytiems į buitinius dujų balionus, taikomas 13 eurų už toną produkto akcizų tarifas.
+
+
+
+
+3. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas), kai jie naudojami kaip šildymui skirtas kuras verslo reikmėms (šiame įstatyme naftos dujų ir dujinių angliavandenilių (išskyrus gamtines dujas) kaip šildymui skirto kuro naudojimas verslo reikmėms suprantamas kaip jų naudojimas asmens, kuris vykdo ekonominę veiklą, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme), taikomas akcizų tarifas, susidedantis iš:
+
+
+1) pastoviosios dalies – 13 eurų už toną produkto;
+
+
+
+
+2) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede.
+
+
 
 
 
@@ -2499,6 +2599,8 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Straipsnio pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XIV-2473, 2024-02-15, paskelbta TAR 2024-02-20, i. k. 2024-03206
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
  
 
 
@@ -2579,9 +2681,47 @@ Nr. XV-83, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23078
 
 
 
+11. CO2 dedamoji netaikoma energiniams produktams, kurie naudojami kaip šildymui skirtas kuras arba kaip variklių degalai stacionarioje įrangoje ar įrangoje, kuri naudojama statyboje, kai tenkinamos visos šios sąlygos:
+
+
+1) energinius produktus naudoja daug energijos suvartojantis juridinis asmuo;
+
+
+
+
+2) energiniai produktai naudojami įrenginiuose arba jų dalyse, kurie naudojami vykdant Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo 1 priede nurodytą veiklą
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
+ 
+
+
+
+
+12. Šiame straipsnyje daug energijos suvartojančiu juridiniu asmeniu laikomas juridinis asmuo, kuris atitinka vieną iš šių sąlygų:
+
+
+1) energinių produktų ir elektros energijos, naudojamų šio straipsnio 11 dalyje nurodytais atvejais, pirkimo kaina ar gamybos savikaina (išskyrus atskaitomą pridėtinės vertės mokesčio sumą) sudaro ne mažiau kaip 3 procentus gamybos vertės (kuri apskaičiuojama prie pajamų (išskyrus pridėtinės vertės mokestį), įskaitant bet kokias subsidijas ar dotacijas, turinčias įtakos galutinei prekės arba paslaugos kainai, kaip jos apibrėžtos Pridėtinės vertės mokesčio įstatyme, pridėjus pagamintos produkcijos, nebaigtos gamybos ir įsigytų prekių ir (ar) paslaugų, skirtų perparduoti, pokyčių sumą, atėmus prekių ir (ar) paslaugų, skirtų perparduoti, pirkimo sumą (išskyrus atskaitomą pridėtinės vertės mokesčio sumą)) per kalendorinius metus;
+
+
+
+
+2) mokėtina akcizų suma už energinius produktus ir elektros energiją, naudojamus šio straipsnio 11 dalyje nurodytais atvejais, sudaro ne mažiau kaip 0,5 procento skirtumo tarp visų pridėtinės vertės mokesčiu apmokestinamų pardavimų, įskaitant eksportą, sumų (išskyrus pridėtinės vertės mokestį) ir pridėtinės vertės mokesčiu apmokestinamų pirkimų, įskaitant importą, sumų (išskyrus atskaitomą pridėtinės vertės mokesčio sumą) per kalendorinius metus. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
+ 
+
+
+
+
 2. Šio straipsnio 11 ir 12 dalyse nustatytos lengvatos taikomos tiesiogiai arba grąžinant CO2 dedamąją. Šio straipsnio 1 dalies 1–5 punktuose, 11 ir 12 dalyse nurodytų lengvatų taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija. Šio straipsnio 1 dalies 6 punkte nurodytos lengvatos taikymo tvarką nustato centrinis mokesčių administratorius.
 TAR pastaba. 2024-12-19 įstatymo Nr. XV-83 nuostatos  įsigalioja 2025 m. liepos 1 d., jeigu Europos Komisijos pritarimas pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gaunamas iki 2025 m. liepos 1 d., arba praėjus 2 mėnesiams po Europos Komisijos pritarimo gavimo dienos, jeigu Europos Komisijos pritarimas pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gaunamas po 2025 m. liepos 1 d. Lietuvos Respublikos aplinkos ministerija nedelsdama informuoja Teisės aktų registro tvarkytoją apie šio įstatymo įsigaliojimo datą po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gavimo dienos.
 Straipsnio dalies pakeitimai:
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
 Nr. XV-83, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23078
  
 
@@ -2850,20 +2990,52 @@ Akcizų už akmens anglis, koksą, lignitą ir (arba) šildymui skirtas durpes m
 53 straipsnis. Akmens anglims, koksui, lignitui ir šildymui skirtoms durpėms taikomi akcizų tarifai
 
 
-1. Akmens anglims taikomas 7,53 euro už toną produkto akcizų tarifas.
+1. Akmens anglims taikomas akcizų tarifas, susidedantis iš:
+
+
+1) pastoviosios dalies – 15 eurų už toną produkto;
 
 
 
 
-2. Koksui ir lignitui taikomas 8,98 euro už toną produkto akcizų tarifas.
+2) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede.
 
 
 
 
-3. Šildymui skirtoms durpėms taikomas 10 eurų už toną produkto akcizų tarifas.
+
+
+2. Koksui ir lignitui taikomas akcizų tarifas, susidedantis iš:
+
+
+1) pastoviosios dalies – 15 eurų už toną produkto;
+
+
+
+
+2) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede.
+
+
+
+
+
+
+3. Šildymui skirtoms durpėms taikomas akcizų tarifas, susidedantis iš:
+
+
+1) pastoviosios dalies – 20 eurų už toną produkto;
+
+
+
+
+2) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
  
-
-
 
 
 
@@ -3322,16 +3494,17 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 65 straipsnis. Kaitinamojo tabako produktams ir elektroninių cigarečių skysčiui taikomi akcizų tarifai
 
 
-1. Kaitinamojo tabako produktams taikomas 79,5 euro už 1 000 vienetų kaitinamojo tabako produktų akcizų tarifas.
+1. Kaitinamojo tabako produktams taikomas 89,4 euro už 1 000 vienetų kaitinamojo tabako produktų akcizų tarifas.
 
 
 
 
-2. Elektroninių cigarečių skysčiui taikomas 0,25 euro už mililitrą skysčio akcizų tarifas.
+2. Elektroninių cigarečių skysčiui taikomas 0,63 euro už mililitrą skysčio akcizų tarifas.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
+Nr. XIV-2769, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12068
  
 
 
@@ -3617,9 +3790,15 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 
 
-74 straipsnis. Neapdorotam tabakui taikomas akcizų tarifas 
+74 straipsnis. Neapdorotam tabakui taikomas akcizų tarifas
+
+
+Neapdorotam tabakui taikomas 123,5 euro už kilogramą neapdoroto tabako akcizų tarifas.
+
+
 Straipsnio pakeitimai:
 Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
+Nr. XIV-2769, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12068
  
 
 
@@ -3784,6 +3963,140 @@ Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 
 
+Lietuvos Respublikos
+akcizų įstatymo
+3 priedas
+ 
+ANGLIES DIOKSIDO DEDAMOJI 2025–2030 METAIS
+ 
+
+
+
+ Energiniai produktai 
+ 2025 m. 
+ 2026 m. 
+ 2027 m. 
+ 2028 m. 
+ 2029 m. 
+ 2030 m. 
+
+
+
+
+ Benzinas, Eur/1 000 l 
+ 47 
+ 96 
+ 120 
+ 144 
+ 144 
+ 144 
+
+
+ Žibalas, Eur/1 000 l 
+ 53,6 
+ 108,4 
+ 135,5 
+ 162,6 
+ 162,6 
+ 162,6 
+
+
+ Lietuvos Respublikos akcizų įstatymo 37 straipsnio 1 ir 2 dalyse nurodyti gazoliai, KN  2710 19 91‒2710 19 99 subpozicijose klasifikuojami energiniai produktai, Akcizų įstatymo 38 straipsnio 2 dalyje nurodytas skystasis kuras (mazutai), Eur/1 000 l 
+ 53,6 
+ 104,8 
+ 131 
+ 157,2 
+ 157,2 
+ 157,2 
+
+
+ Akcizų įstatymo 38 straipsnio 1 dalyje nurodytas skystasis kuras (mazutai, orimulsija), Eur/t 
+ 68,6 
+ 124,8 
+ 156 
+ 187,2 
+ 187,2 
+ 187,2 
+
+
+ Naftos dujos ir dujiniai angliavandeniliai (išskyrus gamtines dujas), Eur/t 
+ 66,8 
+ 122,4 
+ 153 
+ 183,6 
+ 183,6 
+ 183,6 
+
+
+ Akmens anglys, Eur/t 
+ 40,4 
+ 87,2 
+ 109 
+ 130,8 
+ 130,8 
+ 130,8 
+
+
+ Koksas ir lignitas, Eur/t 
+ 71 
+ 128 
+ 160 
+ 192 
+ 192 
+ 192 
+
+
+ Šildymui skirtos durpės, Eur/t 
+ 24,8 
+ 66,4 
+ 83 
+ 99,6 
+ 99,6 
+ 99,6 
+
+
+
+ 
+
+
+SAUGUMO DEDAMOJI 2025–2030 METAIS
+ 
+
+
+
+ Energiniai produktai 
+ 2025 m. 
+ 2026 m. 
+ 2027 m. 
+ 2028 m. 
+ 2029 m. 
+ 2030 m. 
+
+
+
+
+ Akcizų įstatymo 37 straipsnio 3 dalyje nurodyti gazoliai, Eur/1 000 l 
+ 25 
+ 50 
+ 50 
+ 50 
+ 50 
+ 50 
+
+
+
+_________________
+
+
+Papildyta priedu:
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+Priedo pakeitimai:
+Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
+ 
+
+
+
+
  
 Lietuvos Respublikos 
 akcizų įstatymo 
@@ -3791,11 +4104,72 @@ akcizų įstatymo
  
 ĮGYVENDINAMI Europos Sąjungos teisės aktai
  
+
+
+1. 1992 m. spalio 19 d. Tarybos direktyva 92/83/EEB dėl akcizų už alkoholį ir alkoholinius gėrimus struktūrų suderinimo su paskutiniais pakeitimais, padarytais 2020 m. liepos 29 d. Tarybos direktyva (ES) 2020/1151.
+
+
+
+
+2. 1992 m. spalio 19 d. Tarybos direktyva 92/84/EEB dėl alkoholiui ir alkoholiniams gėrimams taikomų akcizo tarifų suderinimo.
+
+
+
+
+3. 1992 m. gruodžio 17 d. Komisijos reglamentas (EEB) 3649/92 dėl supaprastinto administracinio lydraščio, skirto Bendrijos viduje judantiems akcizu apmokestinamiems produktams, kurie išleisti vartojimui išsiuntimo valstybėje narėje.
+
+
+
+
+4. 1993 m. lapkričio 22 d. Komisijos reglamentas (EB) Nr. 3199/93 dėl visiško etilo alkoholio denatūravimo procedūrų tarpusavio pripažinimo atleidimo nuo akcizų tikslais su paskutiniais pakeitimais, padarytais 2018 m. lapkričio 30 d. Komisijos įgyvendinimo reglamentu (ES) 2018/1880.
+
+
+
+
+5. 2003 m. spalio 27 d. Tarybos direktyva 2003/96/EB, pakeičianti Bendrijos energetikos produktų ir elektros energijos mokesčių struktūrą, su paskutiniais pakeitimais, padarytais 2018 m. balandžio 6 d. Komisijos įgyvendinimo sprendimu (ES) 2018/552.
+
+
+
+
+6. Neteko galios nuo 2023-02-13.
+
+
+
+
+7. 2009 m. liepos 24 d. Komisijos reglamentas (EB) Nr. 684/2009, kuriuo įgyvendinamos Tarybos direktyvos 2008/118/EB nuostatos, susijusios su akcizais apmokestinamų prekių, kurioms pritaikytas akcizų mokėjimo laikino atidėjimo režimas, gabenimo kompiuterinėmis procedūromis, su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 1 d. Komisijos įgyvendinimo reglamentu (ES) 2020/1811.
+
+
+
+
+8. 2011 m. birželio 21 d. Tarybos direktyva 2011/64/ES dėl akcizų, taikomų apdorotam tabakui, struktūros ir tarifų.
+
+
+
+
+9. 2012 m. balandžio 20 d. Komisijos įgyvendinimo sprendimas Nr. 2012/209/ES dėl Tarybos direktyvos 2008/118/EB kontrolės ir judėjimo nuostatų taikymo tam tikriems priedams, vadovaujantis Tarybos direktyvos 2003/96/EB 20 straipsnio 2 dalimi.
+
+
+
+
+10. 2014 m. birželio 17 d. Komisijos reglamentas (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius, su paskutiniais pakeitimais, padarytais 2021 m. kovo 15 d. Komisijos reglamentu (ES) 2021/452.
+
+
+
+
+11. 2014 m. gruodžio 16 d. Komisijos reglamentas (ES) Nr. 1388/2014, kuriuo tam tikrų kategorijų pagalba įmonėms, kurios verčiasi žvejybos ir akvakultūros produktų gamyba, perdirbimu ir prekyba, skelbiama suderinama su vidaus rinka taikant Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnius, su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 8 d. Komisijos reglamentu (ES) 2020/2008.
+
+
+
+
+12. 2019 m. gruodžio 19 d. Tarybos direktyva (ES) 2020/262, kuria nustatoma bendroji akcizų tvarka (nauja redakcija).
+
+
 3 priedo pakeitimai:
 Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 Nr. XI-1740, 2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
 Priedo pakeitimai:
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
  
 
 
