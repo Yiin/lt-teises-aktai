@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8EEC6870083A"
 
 # Lietuvos Respublikos Valstybinės kultūros paveldo komisijos įstatymas
 
-Suvestinė redakcija nuo 2017-10-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 153-5572, i. k. 1041010ISTA0IX-2453
  
@@ -116,7 +116,17 @@ Vilnius
 
 
 
-6. Paveldo komisijos pirmininkas ir (ar) jo pavaduotojas gali būti atšaukti iš pareigų, jeigu jie atsisako jas eiti, arba Paveldo komisijos narių motyvuotu sprendimu, jeigu už jį balsavo dauguma Paveldo komisijos narių.
+6. Paveldo komisijos pirmininkas ir (ar) jo pavaduotojas gali būti atšaukti iš pareigų, jeigu jie atsisako jas eiti ar pagal sveikatos priežiūros įstaigos išvadą nebegali eiti šių pareigų arba Paveldo komisijos narių motyvuotu sprendimu, jeigu už jį balsavo dauguma Paveldo komisijos narių. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3119, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20203
+ 
+
+
+
+
+7. Jeigu pasibaigus Paveldo komisijos pirmininko kadencijai jis nėra paskiriamas kitai kadencijai ir per 2 mėnesių terminą nepradeda eiti valstybės pareigūno ar valstybės tarnautojo pareigų, jam išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Paveldo komisijos pirmininko įgaliojimams nutrūkus, kai jis pagal sveikatos priežiūros įstaigos išvadą nebegali eiti savo pareigų, jam išmokama 3 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Paveldo komisijos pirmininkui mirus, jo šeimos nariams (sutuoktiniui, partneriui, sugyventiniui, nepilnamečiams vaikams (įvaikiams)) išmokama 3 mėnesių jo vidutinio darbo užmokesčio dydžio išmoka. Šioje dalyje nurodytos išmokos mokamos iš Paveldo komisijai skirtų valstybės biudžeto lėšų.
+Papildyta straipsnio dalimi:
+Nr. XIV-3119, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20203
  
 
 
@@ -385,7 +395,9 @@ Vilnius
 
 
 
-2. Paveldo komisijos pirmininkas negali dirbti verslo, komercijos ar kitose įstaigose, įmonėse ar organizacijose, negali gauti jokio kito atlyginimo, išskyrus darbo užmokestį, nustatytą pagal einamas pareigas, užmokestį už mokslinį bei pedagoginį darbą ir autorinį atlyginimą už kūrybinę veiklą.
+2. Paveldo komisijos pirmininkas negali dirbti verslo, komercijos ar kitose įstaigose, įmonėse ar organizacijose, negali gauti jokio kito atlyginimo, išskyrus darbo užmokestį, nustatytą pagal einamas pareigas, užmokestį už mokslinį bei pedagoginį darbą ir autorinį atlyginimą už kūrybinę veiklą, taip pat užmokestį už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose arba Lietuvos vystomojo bendradarbiavimo projektuose, kuriuose vykdoma pedagoginė ar kūrybinė veikla.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3119, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20203
  
 
 
@@ -499,3 +511,8 @@ Lietuvos Respublikos Valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-581, 2017-06-30, paskelbta TAR 2017-07-13, i. k. 2017-12166
 Lietuvos Respublikos Valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2453 pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3119, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20203
+Lietuvos Respublikos Valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2453 4 ir 8 straipsnių pakeitimo įstatymas
