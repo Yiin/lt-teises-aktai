@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas
 
-Suvestinė redakcija nuo 2023-10-04 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 47-1469, i. k. 0991010ISTAIII-1183
  
@@ -367,7 +367,11 @@ Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 
 
-4. Mokesčio mokėtojai atleidžiami nuo mokesčio už aplinkos teršimą gaminių ir (ar) pakuočių atliekomis už tą gaminių ar pripildytų pakuočių kiekį, kuris proporcingas įvykdytos gaminių ir (ar) pakuočių atliekų naudojimo ir (ar) perdirbimo užduoties daliai. Norėdami pasinaudoti šia mokesčio lengvata, mokesčio mokėtojai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi turėti dokumentus, patvirtinančius gaminių ir (ar) pakuočių atliekų naudojimo ir (ar) perdirbimo užduoties įvykdymą.
+4. Mokesčio mokėtojai atleidžiami nuo mokesčio už aplinkos teršimą gaminių ir (ar) pakuočių atliekomis už tą gaminių ir (ar) pripildytų pakuočių, išskyrus kombinuotas, plastikines ir polietileno tereftalato (toliau – PET) pakuotes, kiekį, kuris proporcingas įvykdytos gaminių ir (ar) pakuočių atliekų naudojimo ir (ar) perdirbimo užduoties daliai. Mokesčio mokėtojai atleidžiami nuo mokesčio už aplinkos teršimą kombinuotų, plastikinių, PET pakuočių atliekomis už tą pripildytų kombinuotų, plastikinių, PET pakuočių kiekį, kuris buvo perdirbtas. Norėdami pasinaudoti šia mokesčio lengvata, mokesčio mokėtojai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi turėti dokumentus, patvirtinančius gaminių ir (ar) pakuočių atliekų naudojimo ir (ar) perdirbimo užduoties įvykdymą, kombinuotų, plastikinių, PET pakuočių atliekų perdirbimą.
+TAR pastaba: 6 straipsnio 4 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2025 metų ir vėlesnių mokestinių laikotarpių mokestį už aplinkos teršimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2173, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19344
+ 
 
 
 
@@ -638,7 +642,11 @@ Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 
 
-6) Lietuvos Respublikos vidaus rinkai tiektą pripildytų pakuočių kiekį, kuris mažinamas proporcingai įvykdytai pakuočių atliekų naudojimo ir (ar) perdirbimo užduoties daliai, dauginant iš tarifo, nurodyto šio įstatymo 4 priede, ir indeksavimo koeficiento;
+6) Lietuvos Respublikos vidaus rinkai tiektą pripildytų pakuočių kiekį, kuris mažinamas proporcingai įvykdytai pakuočių, išskyrus kombinuotas, plastikines ir PET pakuotes, atliekų naudojimo ir (ar) perdirbimo užduoties daliai, perdirbtam kombinuotų, plastikinių, PET pakuočių atliekų kiekiui, dauginant iš tarifo, nurodyto šio įstatymo 4 priede, ir indeksavimo koeficiento;
+TAR pastaba: 9 straipsnio 3 dalies 6 punkto  nuostatos taikomos apskaičiuojant ir deklaruojant 2025 metų ir vėlesnių mokestinių laikotarpių mokestį už aplinkos teršimą.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2173, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19344
+ 
 
 
 
@@ -1334,7 +1342,6 @@ Pastaba. Prie kodo nurodomas raidžių junginys ex reiškia, kad apmokestinami t
 
 
 
- 
 Lietuvos Respublikos
 mokesčio už aplinkos teršimą įstatymo
 4 priedas
@@ -1344,65 +1351,87 @@ PAKUOČIŲ SĄRAŠAS IR MOKESČIO UŽ APLINKOS TERŠIMĄ TARIFAI
 
 
 
+ Eil. Nr. 
  Pakuotės rūšis 
- Pakuotės tarifas, Eur/t   
+   Pakuotės tarifas, Eur/t   
  Daugkartinės pakuotės ir perdirbamosios vienkartinės pakuotės tarifas, Eur/t   
- Neperdir-bamosios vienkarti-nės pakuotės tarifas, Eur/t   
+ Neperdir-bamosios vienkartinės pakuotės tarifas, Eur/t   
 
 
  2021 m. 
- nuo 2022 m. 
+ 2022–2024 m. 
+ Nuo 2025 m. 
+ Nuo 2022 m. 
 
 
+ 1. 
  Stiklinė pakuotė 
  225 
+ 279 
  279 
  395 
 
 
+ 2. 
  Plastikinė pakuotė 
  618 
  618 
+ 520 
  875 
 
 
- PET (polietileno tereftalatas) pakuotė 
+ 3. 
+ PET pakuotė 
  618 
  618 
+ 520 
  875 
 
 
+ 4. 
  Kombinuota pakuotė 
  900 
  900 
+ 520 
  1 200 
 
 
+ 5. 
  Metalinė (įskaitant aliumininę) pakuotė 
+ 186 
  186 
  186 
  263 
 
 
+ 6. 
  Popierinė ir kartoninė pakuotė 
  125 
+ 133 
  133 
  188 
 
 
+ 7. 
  Medinė pakuotė 
  159 
+ 189 
  189 
  225 
 
 
+ 8. 
  Kita pakuotė 
+ 299 
  299 
  299 
  423 
 
 
 
+_________________
+Priedo pakeitimai:
+Nr. XIV-2173, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19344
  
 
 
@@ -1857,3 +1886,8 @@ Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2174, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19346
 Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 pakeitimo įstatymo Nr. XIII-3158 2 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2173, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19344
+Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 6, 9 straipsnių ir 4 priedo pakeitimo įstatymas
