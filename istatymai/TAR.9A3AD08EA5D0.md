@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-09-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -5004,7 +5004,10 @@ Nr. XII-398, 2013-06-20, Žin., 2013, Nr. 73-3655 (2013-07-09)
 
 
 
-68 straipsnis. Mokyklų vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų, mokytojų (išskyrus trenerius), pagalbos mokiniui specialistų darbo apmokėjimas
+68 straipsnis. Mokyklų vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų, mokytojų (išskyrus aukšto meistriškumo sporto trenerius), pagalbos mokiniui specialistų darbo apmokėjimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2864, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12649
+ 
 
 
 1. Valstybinės ar savivaldybės mokyklos (išskyrus aukštąsias mokyklas) vadovo, jo pavaduotojo ugdymui darbo užmokestis priklauso nuo mokykloje ugdomų mokinių skaičiaus, pedagoginio darbo stažo ir veiklos sudėtingumo.
@@ -5017,7 +5020,10 @@ Nr. XII-398, 2013-06-20, Žin., 2013, Nr. 73-3655 (2013-07-09)
 
 
 
-3. Valstybinės (išskyrus aukštąsias mokyklas) ir savivaldybės mokyklos mokytojo (išskyrus trenerius), pagalbos mokiniui specialisto darbo užmokestis priklauso nuo pedagoginio darbo stažo, kvalifikacinės kategorijos ir veiklos sudėtingumo.
+3. Valstybinės (išskyrus aukštąsias mokyklas) ir savivaldybės mokyklos mokytojo (išskyrus aukšto meistriškumo sporto trenerius (toliau – treneriai)), pagalbos mokiniui specialisto darbo užmokestis priklauso nuo pedagoginio darbo stažo, kvalifikacinės kategorijos ir veiklos sudėtingumo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2864, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12649
+ 
 
 
 
