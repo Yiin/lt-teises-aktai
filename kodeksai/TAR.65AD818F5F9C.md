@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2024-05-06 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-03-31
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
  
@@ -646,7 +646,10 @@ Nr. XIV-1167, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15210
 
 
 
-5. Leidimai išduodami arba motyvuotai atsisakoma juos išduoti ne vėliau kaip per 10 darbo dienų nuo Transporto saugos administracijos nustatytos formos prašymo ir dokumentų, įrodančių subjekto, siekiančio gauti leidimą, atitiktį šio straipsnio 2 dalyje nurodytiems reikalavimams, gavimo Transporto saugos administracijoje dienos. Leidimas neišduodamas, jeigu nustatoma subjekto, siekiančio gauti leidimą, neatitiktis bent vienam iš šio straipsnio 2 dalyje nurodytų reikalavimų arba jeigu išduoto leidimo galiojimas buvo panaikintas pagal šio straipsnio 12 dalies 4, 5 ir 8 punktus ir nuo jo galiojimo panaikinimo dienos nepraėjo 12 mėnesių. Administracinis sprendimas dėl leidimo išdavimo priimamas ir išduoto leidimo duomenys skelbiami Licencijų informacinėje sistemoje (toliau – LIS). Apie priimtą sprendimą subjektas informuojamas per 3 darbo dienas.
+5. Leidimai išduodami arba motyvuotai atsisakoma juos išduoti ne vėliau kaip per 5 darbo dienas nuo Transporto saugos administracijos nustatytos formos prašymo ir dokumentų, įrodančių subjekto, siekiančio gauti leidimą, atitiktį šio straipsnio 2 dalyje nurodytiems reikalavimams, gavimo Transporto saugos administracijoje dienos. Leidimas neišduodamas, jeigu nustatoma subjekto, siekiančio gauti leidimą, neatitiktis bent vienam iš šio straipsnio 2 dalyje nurodytų reikalavimų arba jeigu išduoto leidimo galiojimas buvo panaikintas pagal šio straipsnio 12 dalies 4, 5 ir 8 punktus ir nuo jo galiojimo panaikinimo dienos nepraėjo 12 mėnesių. Administracinis sprendimas dėl leidimo išdavimo priimamas ir išduoto leidimo duomenys skelbiami Licencijų informacinėje sistemoje (toliau – LIS). Apie priimtą sprendimą subjektas informuojamas per 3 darbo dienas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2571, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08212
+ 
 
 
 
