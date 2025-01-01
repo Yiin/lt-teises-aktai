@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2024-12-30 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-04-08
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
  
@@ -247,6 +247,14 @@ BENDROSIOS NUOSTATOS
 
 
 40. Mokėtojas – fizinis arba juridinis asmuo, kita organizacija arba jos padalinys, kurie turi mokėjimo sąskaitas ir leidžia vykdyti mokėjimo nurodymus iš tų mokėjimo sąskaitų arba, kai nėra mokėjimo sąskaitos, kurie pateikia mokėjimo nurodymus.
+
+
+
+
+401. Momentinis kredito pervedimas – kredito pervedimas, kuris bet kurią dieną ir bet kuriuo paros metu įvykdomas nedelsiant.
+Papildyta straipsnio dalimi:
+Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
+ 
 
 
 
@@ -1156,6 +1164,14 @@ Esant sutartiniams santykiams, mokėjimo paslaugų vartotojas turi teisę bet ka
 
 
 
+11. Mokėjimo paslaugų teikėjas, keisdamas vartotojams teikiamų su mokėjimo sąskaita susijusių paslaugų komisinių atlyginimų dydžius, vartotojui kartu su pateikiama informacija apie pakeitimus, kaip nurodyta šio straipsnio 1 dalyje, taip pat turi pateikti informaciją apie galimybę taikomą mokėjimo paslaugų kainodaros būdą pakeisti į kitą mokėjimo paslaugų teikėjo siūlomą būdą, o kai mokėjimo paslaugų teikėjas yra Lietuvos Respublikos teritorijoje veikianti kredito įstaiga, kuri teikia pagrindinės mokėjimo sąskaitos paslaugą, kaip nurodyta šio įstatymo 71 straipsnio 2 dalyje, papildomai lengvai suprantamais žodžiais, aiškia ir suprantama forma informuoja apie galimybę pasinaudoti pagrindinės mokėjimo sąskaitos paslauga.
+Papildyta straipsnio dalimi:
+Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
+ 
+
+
+
+
 2. Palūkanų normos ar valiutos keitimo kurso pakeitimai taikomi nedelsiant ir be atskiro įspėjimo, jeigu taip numatyta bendrojoje sutartyje ir jeigu pakeitimai yra susiję su sutarta pagrindine palūkanų norma ar pagrindiniu valiutos keitimo kursu. Mokėjimo paslaugų vartotojas informuojamas raštu popieriuje arba naudojant kitą patvariąją laikmeną apie bet kokį palūkanų normos pakeitimą kaip įmanoma greičiau, išskyrus atvejus, kai mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas susitaria dėl konkretaus informacijos pateikimo ar sąlygų su ja susipažinti sudarymo būdo ar dažnumo. Palūkanų normos ar valiutos keitimo kurso pakeitimai, kurie yra palankesni mokėjimo paslaugų vartotojui, gali būti taikomi be įspėjimo.
 
 
@@ -1590,6 +1606,64 @@ Kilus ginčui, mokėjimo paslaugų teikėjas turi įrodyti, kad jis įvykdė ši
  
 
 
+
+
+
+
+281 straipsnis. Lyginamoji interneto svetainė, skirta mažoms ir labai mažoms įmonėms 
+
+
+1. Priežiūros institucija administruoja mažoms ir labai mažoms įmonėms, kaip jos suprantamos pagal Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 3 straipsnio 2 ir 3 dalis, (toliau – mažos ir labai mažos įmonės) skirtą lyginamąją interneto svetainę, kuria galima naudotis nemokamai ir kurioje skelbiama vieša informacija apie komisinius atlyginimus, kuriuos mokėjimo paslaugų teikėjai taiko už mokėjimo paslaugas, aktualias mažoms ir labai mažoms įmonėms, ir kita su mokėjimo paslaugomis susijusi informacija, (toliau šiame straipsnyje – lyginamoji svetainė).
+
+
+
+
+2. Lyginamojoje svetainėje mokėjimo paslaugų teikėjai neturi būti diskriminuojami dėl paieškos rezultatų ir šioje svetainėje privalo būti:
+
+
+1) nurodytas lyginamosios svetainės savininkas;
+
+
+
+
+2) nurodyti objektyvūs ir aiškūs kriterijai, kuriais remiantis bus lyginamas komisinis atlyginimas;
+
+
+
+
+3) pateikta informacija paprasta ir nedviprasmiška kalba;
+
+
+
+
+4) pateikta tiksli ir naujausia informacija ir nurodyta, kada lyginamoji svetainė paskutinį kartą atnaujinta;
+
+
+
+
+5) pateikta informacija apie siūlomas mokėjimo paslaugas, siekiant apimti didelę rinkos dalį. Kai pateikiama informacija ne apie visų mokėjimo paslaugų teikėjų teikiamas mokėjimo paslaugas, tai turi būti nurodoma prieš ją pateikiant; 
+
+
+
+
+6) suteikta galimybė mokėjimo paslaugų teikėjams pranešti apie paskelbtą neteisingą informaciją.
+
+
+
+
+
+
+3. Mokėjimo paslaugų teikėjai privalo priežiūros institucijai pateikti informaciją apie taikomus komisinius atlyginimus už savo teikiamas mokėjimo paslaugas, aktualias mažoms ir labai mažoms įmonėms.
+
+
+
+
+4. Priežiūros institucija nustato mažoms ir labai mažoms įmonėms aktualių mokėjimo paslaugų sąrašą, detalius informacijos skelbimo lyginamojoje svetainėje reikalavimus ir mokėjimo paslaugų teikėjams taikomus detalius reikalavimus dėl informacijos teikimo priežiūros institucijai.
+
+
+Papildyta straipsniu:
+Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
+ 
 
 
 
@@ -2839,12 +2913,18 @@ TAR pastaba: 63 straipsnis įsigalioja praėjus 9 mėnesiams nuo Europos Komisij
 
 
 
-6) pateikiama informacija apie siūlomą platų mokėjimo sąskaitų pasirinkimą, apimantį didelę rinkos dalį, ir, kai pateikta informacija nėra išsami rinkos apžvalga, tai yra aiškiai nurodoma prieš pateikiant rezultatus; 
+6) pateikiama informacija apie siūlomą platų mokėjimo sąskaitų pasirinkimą, siekiant apimti didelę rinkos dalį. Kai pateikiama informacija ne apie visų mokėjimo paslaugų teikėjų teikiamas mokėjimo paslaugas, tai yra aiškiai nurodoma prieš ją pateikiant; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
+ 
 
 
 
 
-7) numatoma pranešimo dėl neteisingos informacijos apie paskelbtą komisinį atlyginimą procedūra.
+7) suteikiama galimybė mokėjimo paslaugų teikėjams pranešti apie paskelbtą neteisingą informaciją.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
+ 
 
 
 
@@ -3180,7 +3260,10 @@ PAGRINDINĖ MOKĖJIMO SĄSKAITA
 
 
 
-2. Pagrindinės mokėjimo sąskaitos paslaugą privalo teikti įstaigos, teikiančios šio įstatymo 72 straipsnio 1 dalies 1–6 punktuose nurodytas paslaugas vartotojams. Priežiūros institucija sudaro ir tvarko įstaigų, teikiančių pagrindinės mokėjimo sąskaitos paslaugą, sąrašą ir jį skelbia savo interneto svetainėje. Įstaigos įrašomos į pagrindinės mokėjimo sąskaitos paslaugos teikėjų sąrašą, išbraukiamos iš šio sąrašo ir šis sąrašas tvarkomas priežiūros institucijos nustatyta tvarka.
+2. Pagrindinės mokėjimo sąskaitos paslaugą privalo teikti įstaigos, teikiančios visas šio įstatymo 72 straipsnio 1 dalies 1, 2 ir 4–7 punktuose nurodytas paslaugas vartotojams. Priežiūros institucija sudaro ir tvarko įstaigų, teikiančių pagrindinės mokėjimo sąskaitos paslaugą, sąrašą ir jį skelbia savo interneto svetainėje. Įstaigos įrašomos į pagrindinės mokėjimo sąskaitos paslaugos teikėjų sąrašą, išbraukiamos iš šio sąrašo ir šis sąrašas tvarkomas priežiūros institucijos nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
+ 
 
 
 
@@ -3208,7 +3291,10 @@ PAGRINDINĖ MOKĖJIMO SĄSKAITA
 7. Įstaiga, įtraukta į šio straipsnio 2 dalyje nurodytą sąrašą, privalo atidaryti pagrindinę mokėjimo sąskaitą. Įstaiga turi teisę neatidaryti pagrindinės mokėjimo sąskaitos šiais atvejais:
 
 
-1) Lietuvos Respublikoje veikiančioje įstaigoje vartotojas jau turi mokėjimo sąskaitą, suteikiančią galimybę naudotis šio įstatymo 72 straipsnio 1 dalyje nurodytomis paslaugomis, išskyrus atvejį, kai vartotojas informuoja, kad jis yra gavęs pranešimą, kad jo mokėjimo sąskaita bus uždaryta. Šiuo atveju įstaiga turi teisę remtis vartotojo pasirašytu patvirtinimo dokumentu arba vartotojo sutikimu tikrinti, ar vartotojas Lietuvos Respublikoje veikiančioje įstaigoje turi mokėjimo sąskaitą, suteikiančią galimybę naudotis šio įstatymo 72 straipsnio 1 dalyje nurodytomis paslaugomis;
+1) Lietuvos Respublikoje veikiančioje įstaigoje vartotojas jau turi mokėjimo sąskaitą, suteikiančią galimybę naudotis šio įstatymo 72 straipsnio 1 dalyje nurodytomis paslaugomis, išskyrus atvejį, kai vartotojas informuoja, kad jis yra gavęs pranešimą, kad jo mokėjimo sąskaita bus uždaryta. Įstaiga turi teisę remtis vartotojo pasirašytu patvirtinimo dokumentu arba vartotojo sutikimu ir nepagrįstai neapsunkindama vartotojo tikrinti, ar vartotojas Lietuvos Respublikoje veikiančioje įstaigoje turi mokėjimo sąskaitą, suteikiančią galimybę naudotis šio įstatymo 72 straipsnio 1 dalyje nurodytomis paslaugomis;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
+ 
 
 
 
@@ -3239,44 +3325,49 @@ PAGRINDINĖ MOKĖJIMO SĄSKAITA
 1. Pagrindinės mokėjimo sąskaitos paslaugą sudarančios mokėjimo paslaugos ir mokėjimo operacijos: 
 
 
-1) mokėjimo sąskaitos atidarymas, tvarkymas ir uždarymas, taip pat šioms operacijoms vykdyti reikalingos paslaugos; 
+1) mokėjimo sąskaitos atidarymas, tvarkymas ir uždarymas, taip pat šiems veiksmams vykdyti reikalingos paslaugos; 
 
 
 
 
-2) lėšų įmokėjimas ir gaunamų mokėjimų įskaitymas į mokėjimo sąskaitą, taip pat šioms mokėjimo operacijoms vykdyti reikalingos paslaugos; 
+2) gaunamų mokėjimų įskaitymas į mokėjimo sąskaitą; 
 
 
 
 
-3) grynųjų pinigų išėmimas iš mokėjimo sąskaitos valstybėse narėse klientų aptarnavimo vietose arba iš bankomatų įstaigos darbo arba ne darbo laiku, taip pat šiai mokėjimo operacijai vykdyti reikalingos paslaugos; 
+3) grynųjų pinigų įmokėjimas į mokėjimo sąskaitą valstybėse narėse klientų aptarnavimo vietose įstaigos darbo laiku arba į bankomatus įstaigos darbo ir ne darbo laiku;
 
 
 
 
-4) mokėjimo operacijos naudojant mokėjimo kortelę, įskaitant mokėjimus internetu;
+4) grynųjų pinigų išėmimas iš mokėjimo sąskaitos valstybėse narėse klientų aptarnavimo vietose įstaigos darbo laiku arba iš bankomatų įstaigos darbo ir ne darbo laiku; 
 
 
 
 
-5) klientų aptarnavimo vietose ir (arba) įstaigos internetinėmis priemonėmis atliekamų kredito pervedimų, įskaitant periodinio pervedimo nurodymus, vykdymas valstybėse narėse;
+5) mokėjimo priemonių – mokėjimo kortelės arba kitos mokėjimo priemonės, sudarančios galimybę atsiskaityti fizinėse prekybos ir (arba) paslaugų teikimo vietose, – išdavimas;
 
 
 
 
-6) mokėjimo priemonių, įskaitant mokėjimo kortelę, išdavimas;
+6) mokėjimo operacijos, įskaitant mokėjimus internetu, naudojant šios dalies 5 punkte nurodytas mokėjimo priemones;
 
 
 
 
-7) tiesioginio debeto operacijos.
+7) klientų aptarnavimo vietose ir (arba) elektroninėmis priemonėmis atliekamų kredito pervedimų, įskaitant periodinio pervedimo nurodymus ir momentinius kredito pervedimus, vykdymas valstybėse narėse;
+
+
+
+
+8) tiesioginio debeto operacijos.
 
 
 
 
 
 
-2. Įstaiga pagrindinę mokėjimo sąskaitą atidaro eurais, nebent su vartotoju susitaria dėl kitos valiutos.
+2. Įstaiga pagrindinę mokėjimo sąskaitą atidaro eurais.
 
 
 
@@ -3286,40 +3377,77 @@ PAGRINDINĖ MOKĖJIMO SĄSKAITA
 
 
 
-4. Priežiūros institucija, atsižvelgdama į vartotojų mokėjimo įpročius ir mokėjimų rinkos tendencijas, nustato pagrindinės mokėjimo sąskaitos paslaugą sudarančių paslaugų ir mokėjimo operacijų minimalų skaičių per mėnesį ir šio straipsnio 1 dalies 3 punkte nurodytos mokėjimo operacijos minimalią lėšų sumą per mėnesį, už kuriuos įstaiga gali imti ne didesnį, negu šio įstatymo 73 straipsnyje nustatyta, komisinį atlyginimą, taip, kad būtų tenkinami šie kriterijai:
+4. Priežiūros institucija nustato pagrindinės mokėjimo sąskaitos paslaugą sudarančių mokėjimo paslaugų ir mokėjimo operacijų, už kurias įstaiga gali imti ne didesnį negu pagal šio įstatymo 73 straipsnį nustatytą komisinį atlyginimą, sąrašą taip, kad būtų tenkinamos šios sąlygos:
 
 
-1) šio straipsnio 1 dalies 1, 2, 3 ir 4 punktuose nurodytų paslaugų ir operacijų, išskyrus mokėjimo operacijas naudojant kredito kortelę, skaičius turi būti neribotas;
-
-
-
-
-2) minimali šio straipsnio 1 dalies 3 punkte nurodytos mokėjimo operacijos lėšų suma per mėnesį turi būti pakankama, kad būtų galima patenkinti įprastus vartotojo mokėjimo poreikius. Konkretus grynųjų pinigų išmokėjimo būdas, nurodytas šio straipsnio 1 dalies 3 punkte, nustatomas atsižvelgiant į įstaigos veiklos pobūdį ir jos naudojamus grynųjų pinigų išmokėjimo būdus; 
+1) įstaiga sudaro galimybę naudotis bent viena mokėjimo sąskaita; 
 
 
 
 
-3) minimalus šio straipsnio 1 dalies 5 ir 7 punktuose nurodytų mokėjimo operacijų skaičius per mėnesį turi būti pakankamas, kad būtų galima patenkinti įprastus vartotojo mokėjimo poreikius.
+2) šio straipsnio 1 dalies 2, 3, 4 ir 6 punktuose nurodytų mokėjimo operacijų skaičius turi būti neribotas;
+
+
+
+
+3) šio straipsnio 1 dalies 2, 3, 6, 7 ir 8 punktuose nurodytų mokėjimo operacijų vertė turi būti neribota;
+
+
+
+
+4) minimali iš sąskaitos išimama grynųjų pinigų suma per mėnesį, kaip nurodyta šio straipsnio 1 dalies 4 punkte, nustatoma taip, kad tenkintų ne mažiau kaip 90 procentų Lietuvos Respublikoje gyvenančių fizinių asmenų, turinčių mokėjimo sąskaitą, poreikius išsiimti grynųjų pinigų Lietuvos Respublikoje;
+
+
+
+
+5) minimalus šio straipsnio 1 dalies 7 ir 8 punktuose nurodytų mokėjimo operacijų, inicijuojamų elektroninėmis priemonėmis, išskyrus šio straipsnio 1 dalies 5 punkte nurodyta mokėjimo priemone inicijuotas mokėjimo operacijas, skaičius per mėnesį nustatomas taip, kad tenkintų ne mažiau kaip 90 procentų Lietuvos Respublikoje gyvenančių fizinių asmenų, turinčių mokėjimo sąskaitą, poreikius atlikti kredito pervedimus Lietuvos Respublikoje;
+
+
+
+
+6) įstaiga suteikia bent vieną šio straipsnio 1 dalies 5 punkte nurodytą mokėjimo priemonę, kuria būtų galimybė atsiskaityti daugelyje fizinių prekybos ir (arba) paslaugų teikimo vietų;
+
+
+
+
+7) šio straipsnio 1 dalies 3 ir 4 punktuose nurodytos grynųjų pinigų įmokėjimo ir išėmimo paslaugos teikiamos Lietuvos Respublikoje įstaigų valdomuose ar naudojamuose bankomatuose arba jų dalyje, kuri nustatoma atsižvelgiant į bankomatų tinklo struktūrą šalyje ir įstaigų veiklos modelius;
+
+
+
+
+8) mokėjimo operacijos vykdomos eurais Europos ekonominėje erdvėje;
+
+
+
+
+9) įstaiga suteikia priemonę valdyti mokėjimo sąskaitą ir inicijuoti mokėjimo operacijas elektroniniu būdu;
+
+
+
+
+10) sudarant mokėjimo paslaugų sąrašą atsižvelgiama į vartotojų mokėjimo įpročius ir dažniausiai naudojamas mokėjimo paslaugas ir mokėjimo priemones.
 
 
 
 
 
 
-5. Priežiūros institucija, jeigu yra reikšmingų vartotojų mokėjimo elgsenos arba mokėjimų rinkos pokyčių, peržiūri ir prireikus atnaujina pagal šio straipsnio 4 dalyje nustatytus kriterijus pagrindinės mokėjimo sąskaitos paslaugą sudarančių paslaugų ir mokėjimo operacijų skaičių ir šio straipsnio 1 dalies 3 punkte nurodytos mokėjimo operacijos lėšų sumą.
+5. Priežiūros institucija, atsižvelgdama į mokėjimo rinkos pokyčius, kas 3 metus atnaujina šio straipsnio 4 dalies 4 ir 5 punktuose nurodytų mokėjimo paslaugų apimtį. 
 
 
 
 
-6. Šio straipsnio 1 dalyje nurodytas paslaugas įstaiga privalo teikti tomis pačiomis sąlygomis, kokiomis jos yra teikiamos kitas mokėjimo sąskaitas turintiems vartotojams, ir neribodama paslaugų ir operacijų, viršijančių priežiūros institucijos nustatytą pagrindinės mokėjimo sąskaitos paslaugą sudarančių paslaugų ir mokėjimo operacijų skaičių, apimties.
+6. Šio straipsnio 1 dalyje nurodytas mokėjimo paslaugas įstaigos turi teikti kaip pagrindinės mokėjimo sąskaitos paslaugos dalį, jeigu jas teikia vartotojams, turintiems mokėjimo sąskaitų, kurios nėra pagrindinės mokėjimo sąskaitos. Šias mokėjimo paslaugas įstaiga privalo teikti tomis pačiomis sąlygomis, kokiomis jos yra teikiamos kitas mokėjimo sąskaitas turintiems vartotojams, ir neribodama mokėjimo paslaugų ir mokėjimo operacijų, viršijančių priežiūros institucijos nustatytą pagrindinės mokėjimo sąskaitos paslaugą sudarančių mokėjimo paslaugų ir mokėjimo operacijų skaičių, apimties. Įstaiga turi teisę nustatyti naudojimosi mokėjimo paslaugomis limitus, susijusius su mokėjimų saugumo ir pinigų plovimo bei teroristų finansavimo prevencijos tikslais, jeigu tokie pat limitai nustatyti vartotojams, kurie nesinaudoja pagrindinės mokėjimo sąskaitos paslauga.
 
 
 
 
-7. Laikydamasi Vartojimo kredito įstatyme nustatytų reikalavimų, įstaiga turi teisę vartotojo prašymu sudaryti sąskaitos kreditavimo sutartį dėl pagrindinės mokėjimo sąskaitos arba papildomai išduoti kredito kortelę. Galimybė naudotis pagrindine mokėjimo sąskaita negali būti suteikiama reikalaujant įsigyti šią paslaugą ar siejama su šios paslaugos teikimu. 
+7. Laikydamasi Vartojimo kredito įstatyme nustatytų reikalavimų, įstaiga turi teisę vartotojo prašymu sudaryti sąskaitos kreditavimo sutartį dėl pagrindinės mokėjimo sąskaitos arba papildomai išduoti kredito kortelę. Galimybė naudotis pagrindine mokėjimo sąskaita negali būti suteikiama reikalaujant įsigyti šią paslaugą ar siejama su šios paslaugos teikimu.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
  
-
-
 
 
 
@@ -3327,17 +3455,20 @@ PAGRINDINĖ MOKĖJIMO SĄSKAITA
 73 straipsnis. Su pagrindine mokėjimo sąskaita susijęs komisinis atlyginimas
 
 
-1. Įstaiga už pagrindinės mokėjimo sąskaitos paslaugą, kaip nustatyta priežiūros institucijos pagal šio įstatymo 72 straipsnio 4 dalį, turi teisę imti komisinį atlyginimą, kurio maksimalų dydį per mėnesį kiekvienais metais nustato priežiūros institucija. Maksimalus komisinio atlyginimo dydis turi būti pagrįstas šiais kriterijais:
+1. Įstaiga už pagrindinės mokėjimo sąskaitos paslaugą, kaip nustatyta priežiūros institucijos pagal šio įstatymo 72 straipsnio 4 dalį, turi teisę imti komisinį atlyginimą, kurio maksimalų dydį per mėnesį kas 3 metus apskaičiuoja priežiūros institucija, užtikrindama, kad maksimalus komisinis atlyginimas būtų lygus mažiausiam iš šių dydžių:
 
 
-1) nacionaliniu pajamų lygiu;
+1) 0,108 procento minimaliosios mėnesinės algos, kuri galioja metų, einančių prieš apskaičiuojamo maksimalaus komisinio atlyginimo įsigaliojimą, liepos 1 dieną;
 
 
 
 
-2) vidutiniais per vienus metus įstaigų imamais komisiniais atlyginimais, taikomais už su mokėjimo sąskaita susijusias paslaugas.
+2) iki apskaičiuojamo naujo maksimalaus komisinio atlyginimo nustatymo galiojantis maksimalus komisinis atlyginimas, padaugintas iš santykio, parodančio šio įstatymo 72 straipsnio 4 dalies 4 ir 5 punktuose nurodytų mokėjimo paslaugų apimties pokyčius, lyginant apskaičiuotą naują mokėjimo paslaugų apimtį su iki perskaičiavimo galiojančia mokėjimo paslaugų apimtimi. Šis santykis apskaičiuojamas taikant tokias proporcijas: grynųjų pinigų išėmimo sumos pokytis atitinka 2/3 dalis, o mokėjimo operacijų, nurodytų šio įstatymo 72 straipsnio 4 dalies 5 punkte, skaičiaus pokytis – 1/3 dalį. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
+ 
 
 
 
@@ -3352,7 +3483,10 @@ PAGRINDINĖ MOKĖJIMO SĄSKAITA
 
 
 
-4. Komisinis atlyginimas už paslaugas ir mokėjimo operacijas, viršijančias priežiūros institucijos nustatytą pagrindinės mokėjimo sąskaitos paslaugą sudarančių paslaugų ir mokėjimo operacijų skaičių ir šio įstatymo 72 straipsnio 1 dalies 3 punkte nurodytos mokėjimo operacijos lėšų sumą, už kuriuos įstaiga gali taikyti ne didesnį, negu šiame straipsnyje nustatyta, komisinį atlyginimą, negali būti didesnis, negu įprastai įstaigos taikomas komisinis atlyginimas už su mokėjimo sąskaita susijusias paslaugas.
+4. Komisinis atlyginimas už mokėjimo paslaugas ir mokėjimo operacijas, viršijančias priežiūros institucijos nustatytame pagrindinės mokėjimo sąskaitos paslaugą sudarančių mokėjimo paslaugų ir mokėjimo operacijų sąraše, nurodytame šio įstatymo 72 straipsnio 4 dalyje, nurodytą mokėjimo paslaugų apimtį, negali būti didesnis negu įprastai įstaigos taikomas komisinis atlyginimas už su mokėjimo sąskaita susijusias paslaugas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
+ 
 
 
 
@@ -3372,7 +3506,9 @@ PAGRINDINĖ MOKĖJIMO SĄSKAITA
 
 
 
-8. Nustatydama maksimalaus komisinio atlyginimo apskaičiavimo tvarką, priežiūros institucija konsultuojasi su visuomene.
+8. Neteko galios nuo 2025-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
  
 
 
@@ -3444,7 +3580,9 @@ PAGRINDINĖ MOKĖJIMO SĄSKAITA
 
 
 
-2. Įstaiga vartotojams nemokamai teikia prieinamą informaciją apie pagrindinei mokėjimo sąskaitai būdingas savybes, su ja susijusius komisinius atlyginimus, jos naudojimo sąlygas ir su tuo susijusią pagalbą. Teikdama šią informaciją, įstaiga aiškiai nurodo, kad norint naudotis pagrindine mokėjimo sąskaita neprivaloma pirkti papildomų paslaugų.
+2. Įstaiga vartotojams nemokamai teikia prieinamą informaciją apie pagrindinei mokėjimo sąskaitai būdingas savybes, su ja susijusius komisinius atlyginimus, jos naudojimo sąlygas ir su tuo susijusią pagalbą. Įstaiga į vartotojams teikiamą pasiūlymą dėl bendrosios sutarties sudarymo turi įtraukti ir pagrindinės mokėjimo sąskaitos paslaugos alternatyvą. Teikdama šią informaciją, įstaiga aiškiai nurodo, kad norint naudotis pagrindine mokėjimo sąskaita neprivaloma pirkti papildomų paslaugų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
  
 
 
@@ -4106,3 +4244,8 @@ Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 3, 76 straipsnių ir pri
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2891, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13500
 Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 priedo pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 2, 15, 64, 71, 72, 73, 75 straipsnių pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas
