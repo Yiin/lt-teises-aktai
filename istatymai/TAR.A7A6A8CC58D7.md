@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7A6A8CC58D7"
 
 # Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1496, i. k. 1011010ISTA00IX-326
  
@@ -115,11 +115,11 @@ Nr. XIV-799, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27377
 
 
 
-2. Organizuojant lošimus lošimo automatais, stalo lošimus, bingą, totalizatorių, lažybas ir nuotolinius lošimus, loterijų ir lošimų mokesčio bazei taikomas 20 procentų mokesčio tarifas. 
-TAR pastaba. Nuostata, kad Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo 5 straipsnio (2019 m. gruodžio 10 d. redakcija) 2, 2-1, 3 dalys įsigaliojo 2020 m. sausio 1 d., prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
+2. Organizuojant lošimus lošimo automatais, stalo lošimus, bingą, totalizatorių, lažybas ir nuotolinius lošimus, loterijų ir lošimų mokesčio bazei taikomas 22 procentų mokesčio tarifas.
 Straipsnio dalies pakeitimai:
 Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
 Nr. XIV-799, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27377
+Nr. XIV-2804, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12620
  
 
 
@@ -353,3 +353,8 @@ Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisini
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-799, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27377
 Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 4, 5, 6 straipsnių ir trečiojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2804, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12620
+Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 5 straipsnio pakeitimo įstatymas
