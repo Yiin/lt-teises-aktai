@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF"
 
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas
 
-Suvestinė redakcija nuo 2024-10-18 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 105-3019, i. k. 0991010ISTAIII-1443
  
@@ -1203,9 +1203,10 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 16 straipsnis. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“
 
 
-1. Paslapčių subjekto darbuotojams teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikia paslapčių subjekto vadovas ar jo įgaliotas asmuo, šauliams – krašto apsaugos ministras ar jo įgaliotas asmuo. Paslapčių subjekto vadovui teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikia paslapčių subjekto vadovą į pareigas skiriantis asmuo ar jo įgaliotas asmuo. Ši teisė suteikiama iki darbo (tarnybos) santykių nutraukimo arba iki renkamų ar skiriamų į pareigas asmenų įgaliojimų laiko pasibaigimo. 
+1. Paslapčių subjekto darbuotojams teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikia paslapčių subjekto vadovas ar jo įgaliotas asmuo, šauliams – krašto apsaugos ministras ar jo įgaliotas asmuo. Paslapčių subjekto vadovui teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikia paslapčių subjekto vadovą į pareigas skiriantis asmuo ar jo įgaliotas asmuo, kai vadovą į pareigas skiria kolegialus subjektas, teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikia kolegialaus subjekto vadovas ar jo įgaliotas asmuo. Ši teisė suteikiama iki darbo (tarnybos) santykių nutraukimo arba iki renkamų ar skiriamų į pareigas asmenų įgaliojimų laiko pasibaigimo. Išleistam į atsargą ir į tarnybą aktyviajame kariuomenės personalo rezerve paskirtam kariui iki jo išleidimo į atsargą ir paskyrimo į tarnybą aktyviajame kariuomenės personalo rezerve suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, lieka galioti iki jo atleidimo iš tarnybos aktyviajame kariuomenės personalo rezerve dienos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
  
 
 
@@ -1252,10 +1253,27 @@ Nr. XIII-1922, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00855
 
 
 
-3. Informaciją, ar asmuo atitinka šio straipsnio 2 dalyje nustatytas sąlygas, surenka paslapčių subjekto vadovas ar jo įgaliotas asmuo arba krašto apsaugos ministras ar jo įgaliotas asmuo, jeigu tikrinamas asmuo yra šaulys, iš valstybės registrų (kadastrų), klasifikatorių ir kitų duomenų bankų arba kreipdamasis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, tvarkančias atitinkamą informaciją, o šios turimą informaciją privalo pateikti ne vėliau kaip per 15 darbo dienų nuo prašymo gavimo dienos. Paslapčių subjekto vadovas ar jo įgaliotas asmuo arba krašto apsaugos ministras ar jo įgaliotas asmuo, jeigu tikrinamas asmuo yra šaulys, gali tikrinamo asmens paprašyti pateikti tikrinimui reikalingą informaciją ar dokumentus. 
+21. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, nesuteikiama, jeigu paslapčių subjekto darbuotojui ar šauliui buvo panaikinta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, vadovaujantis šio straipsnio 22 dalimi arba panaikintas leidimas dirbti ar susipažinti su įslaptinta informacija vadovaujantis šio įstatymo 20 straipsnio 1 dalies 5 punktu ir nuo tokio sprendimo priėmimo dienos nepraėjo 3 metai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
+
+
+
+
+22. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, panaikinama, jeigu paslapčių subjekto darbuotojas ar šaulys pažeidė apribojimą, nurodytą šio įstatymo 211 straipsnyje. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
+
+
+
+
+3. Informaciją, ar asmuo atitinka šio straipsnio 2, 21 ir 22 dalyse nustatytas sąlygas, surenka paslapčių subjekto vadovas ar jo įgaliotas asmuo arba krašto apsaugos ministras ar jo įgaliotas asmuo, jeigu tikrinamas asmuo yra šaulys, arba kolegialaus subjekto vadovas ar jo įgaliotas asmuo, jeigu tikrinamas kolegialaus subjekto į pareigas skiriamas paslapčių subjekto vadovas, iš valstybės informacinių išteklių arba kreipdamasis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, tvarkančias atitinkamą informaciją, o šios turimą informaciją privalo pateikti ne vėliau kaip per 15 darbo dienų nuo prašymo gavimo dienos. Paslapčių subjekto vadovas ar jo įgaliotas asmuo arba krašto apsaugos ministras ar jo įgaliotas asmuo, jeigu tikrinamas asmuo yra šaulys, gali tikrinamo asmens paprašyti pateikti tikrinimui reikalingą informaciją ar dokumentus. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
  
 
 
@@ -1274,10 +1292,11 @@ Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 
 
-6. Jeigu leidimas dirbti ar susipažinti su įslaptinta informacija arba teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, neteko galios nutraukus asmens darbo (tarnybos) santykius arba pasibaigus renkamų ar skiriamų į pareigas asmenų įgaliojimų laikui, arba šio įstatymo 35 straipsnio 7 dalyje nustatytu atveju, teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, asmeniui iš naujo suteikiama be tikrinimo, jeigu nuo dienos, kurią leidimas dirbti ar susipažinti su įslaptinta informacija arba teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, neteko galios, nepraėjo 12 mėnesių ir nuo paskutinio asmens tikrinimo dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo arba teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo nepraėjo 10 metų. 
+6. Jeigu leidimas dirbti ar susipažinti su įslaptinta informacija arba teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, neteko galios nutraukus asmens darbo (tarnybos) santykius, atleidus iš tarnybos aktyviajame kariuomenės personalo rezerve arba pasibaigus renkamų ar skiriamų į pareigas asmenų įgaliojimų laikui, arba šio įstatymo 35 straipsnio 7 dalyje nustatytu atveju, teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, asmeniui iš naujo suteikiama be tikrinimo, jeigu nuo dienos, kurią leidimas dirbti ar susipažinti su įslaptinta informacija arba teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, neteko galios, nepraėjo 12 mėnesių ir nuo paskutinio asmens tikrinimo dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo arba teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo nepraėjo 10 metų.
 Straipsnio dalies pakeitimai:
 Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
  
 
 
@@ -1296,7 +1315,10 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 
 
 
-2) asmuo pateikia užpildytą nustatytos formos klausimyną;
+2) asmuo pateikia užpildytą Vyriausybės nustatytos formos klausimyną; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
 
 
 
@@ -1376,6 +1398,14 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 
 
 
+121) paslapčių subjekto darbuotojui ar šauliui buvo panaikinta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, vadovaujantis šio įstatymo 16 straipsnio 22 dalimi arba panaikintas leidimas dirbti ar susipažinti su įslaptinta informacija vadovaujantis šio įstatymo 20 straipsnio 1 dalies 5 punktu ir nuo tokio sprendimo priėmimo dienos nepraėjo 3 metai; 
+Papildyta straipsnio punktu:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
+
+
+
+
 13) asmuo buvo atleistas iš pareigų dėl priesaikos ar pasižadėjimo sulaužymo, pareigūno vardo pažeminimo, profesinės etikos pažeidimo ir nuo atleidimo iš pareigų dienos nepraėjo 3 metai;
 
 
@@ -1443,7 +1473,18 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 
 
 
-8. Asmuo papildomai tikrinamas nesibaigus šio straipsnio 5 dalyje nustatytiems terminams, jeigu gauta duomenų, kad galėjo atsirasti šio straipsnio 2 dalyje numatytų aplinkybių. Tokiu atveju patikrinimo metu paslapčių subjekto vadovo ar jo įgalioto asmens sprendimu asmeniui uždraudžiama dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Konfidencialiai“ ir aukštesne žyma ar jos atitikmenimis. Patikrinimas negali trukti ilgiau, negu nustatyta šio įstatymo 18 straipsnio 8 dalyje. Jeigu paslapčių subjekto vadovas ar jo įgaliotas asmuo nusprendžia, kad asmuo, kuriam uždrausta dirbti ar susipažinti su įslaptinta informacija, negali atlikti pavestų funkcijų nesinaudodamas įslaptinta informacija, toks asmuo perkeliamas į kitas pareigas, kurioms nenustatytas leidimo dirbti ar susipažinti su įslaptinta informacija reikalavimas, o jeigu nėra pareigų, į kurias šis asmuo galėtų būti perkeltas, – jis nušalinamas nuo pareigų. Asmuo į kitas pareigas perkeliamas arba nušalinamas nuo pareigų ne ilgesniam kaip šio įstatymo 18 straipsnio 8 dalyje nustatytam asmens tikrinimo terminui.
+8. Asmuo papildomai tikrinamas nesibaigus šio straipsnio 5 dalyje nustatytiems terminams, jeigu gauta duomenų, kad galėjo atsirasti šio straipsnio 2 dalyje ir šio įstatymo 20 straipsnio 1 dalies 5 punkte numatytų aplinkybių. Tokiu atveju patikrinimo metu paslapčių subjekto vadovo ar jo įgalioto asmens arba kolegialaus subjekto vadovo ar jo įgalioto asmens, jeigu tikrinamas kolegialaus subjekto į pareigas skiriamas paslapčių subjekto vadovas, sprendimu asmeniui uždraudžiama dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Konfidencialiai“ ar aukštesne slaptumo žyma ar jos atitikmenimis. Patikrinimas negali trukti ilgiau, negu nustatyta šio įstatymo 18 straipsnio 8 dalyje. Jeigu paslapčių subjekto vadovas ar jo įgaliotas asmuo arba kolegialaus subjekto vadovas ar jo įgaliotas asmuo, jeigu tikrinamas kolegialaus subjekto į pareigas skiriamas paslapčių subjekto vadovas, nusprendžia, kad asmuo, kuriam uždrausta dirbti ar susipažinti su įslaptinta informacija, negali atlikti pavestų funkcijų nesinaudodamas įslaptinta informacija, toks asmuo perkeliamas į kitas pareigas, kurioms nenustatytas leidimo dirbti ar susipažinti su įslaptinta informacija reikalavimas, o jeigu nėra pareigų, į kurias šis asmuo galėtų būti perkeltas, jis nušalinamas nuo pareigų. Asmuo į kitas pareigas perkeliamas arba nušalinamas nuo pareigų ne ilgesniam kaip šio įstatymo 18 straipsnio 8 dalyje nustatytam asmens tikrinimo terminui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
+
+
+
+
+81. Jeigu į pratybas, mokymus ar vykdyti tarnybos užduočių šaukiamam aktyviojo kariuomenės personalo rezervo kariui, turinčiam galiojantį leidimą dirbti ar susipažinti su įslaptinta informacija, pratybų, mokymų ar tarnybos užduočių vykdymo metu reikės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Konfidencialiai“ ar aukštesne slaptumo žyma, karys į šias pratybas, mokymus ar vykdyti tarnybos užduočių kviečiamas tik patikrinus, ar neatsirado šio straipsnio 2 dalyje numatytų aplinkybių. Aktyviojo kariuomenės personalo rezervo karys, turintis galiojantį leidimą dirbti ar susipažinti su įslaptinta informacija, netikrinamas, jeigu nuo jo paskyrimo į aktyvųjį kariuomenės personalo rezervą dienos ar prieš tai atlikto aktyviojo kariuomenės personalo rezervo kario tikrinimo dienos nepraėjo 12 mėnesių.
+Papildyta straipsnio dalimi:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
 
 
 
@@ -1466,9 +1507,10 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 
 
 
-2. Asmens tikrinimas dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo pradedamas gavus tinkamai užpildytą nustatyto pavyzdžio klausimyną. 
+2. Asmens tikrinimas dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo ar šio įstatymo 17 straipsnio 81 dalyje numatytas tikrinimas pradedamas gavus užpildytą Vyriausybės nustatytos formos klausimyną. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
  
 
 
@@ -1530,6 +1572,14 @@ Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 
 
+81. Šio įstatymo 17 straipsnio 81 dalyje numatytą tikrinimą Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos privalo atlikti ne vėliau kaip per 40 darbo dienų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
+
+
+
+
 9. Jeigu negauta iš institucijų ar specialistų tikrinimui atlikti reikalingos informacijos ar išvadų, asmuo tiriamas poligrafu, tikrinimo metu reikia įvertinti didelį kiekį ar sudėtingos informacijos, taip pat dėl kitų objektyvių priežasčių šio straipsnio 8 dalyje nurodytas 40 darbo dienų tikrinimo terminas pratęsiamas tikrinančiosios institucijos vadovo ar jo įgalioto asmens sprendimu, bet ne ilgiau kaip 40 darbo dienų. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
@@ -1538,9 +1588,10 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 
 
 
-10. Asmens tikrinimą atliekančios institucijos, vertindamos, ar nėra šio įstatymo 17 straipsnio 2 dalyje nurodytų aplinkybių, turi teisę neatlygintinai gauti duomenis apie tikrinamą asmenį iš valstybės registrų (kadastrų), klasifikatorių ir kitų duomenų bankų, taip pat kitą informaciją apie tikrinamą asmenį iš visų valstybės, savivaldybių institucijų, antstolių, notarų, finansų ir kredito įstaigų (įskaitant banko paslaptį sudarančią informaciją), sveikatos priežiūros įstaigų (įskaitant konfidencialią informaciją apie pacientą), kitų įmonių, įstaigų, organizacijų, juridinių ar fizinių asmenų. Šie subjektai, gavę asmens tikrinimą atliekančios institucijos prašymą pateikti informaciją apie tikrinamą asmenį, šią informaciją privalo pateikti ne vėliau kaip per 15 darbo dienų nuo prašymo gavimo dienos. 
+10. Asmens tikrinimą atliekančios institucijos, vertindamos, ar nėra šio įstatymo 17 straipsnio 2 dalyje nurodytų aplinkybių, turi teisę neatlygintinai gauti duomenis apie tikrinamą asmenį iš valstybės informacinių išteklių, taip pat kitą informaciją apie tikrinamą asmenį iš visų valstybės, savivaldybių institucijų, antstolių, notarų, finansų ir kredito įstaigų (įskaitant banko paslaptį sudarančią informaciją), sveikatos priežiūros įstaigų (įskaitant konfidencialią informaciją apie pacientą), kitų įmonių, įstaigų, organizacijų, juridinių ar fizinių asmenų. Šie subjektai, gavę asmens tikrinimą atliekančios institucijos prašymą pateikti informaciją apie tikrinamą asmenį, informaciją privalo pateikti ne vėliau kaip per 15 darbo dienų nuo prašymo gavimo dienos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
  
 
 
@@ -1621,16 +1672,29 @@ Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 
 
-4) atlikus pakartotinį ar papildomą asmens tikrinimą nustatoma kuri nors iš aplinkybių, nurodytų šio įstatymo 17 straipsnio 2 dalyje.
+4) atlikus pakartotinį, papildomą ar šio įstatymo 17 straipsnio 81 dalyje numatytą asmens tikrinimą nustatoma kuri nors iš aplinkybių, nurodytų šio įstatymo 17 straipsnio 2 dalyje; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
+
+
+
+
+5) paslapčių subjekto darbuotojas ar šaulys pažeidė apribojimą, nurodytą šio įstatymo 211 straipsnyje. 
+Papildyta straipsnio punktu:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
 
 
 
 
 
 
-11. Jeigu su paslapčių subjektu ar tiekėju nutraukiami darbo (tarnybos) santykiai, pasibaigia renkamų arba skiriamų į pareigas asmenų įgaliojimų laikas arba asmuo išbraukiamas iš žvalgybos pareigūnų rezervo, sprendimas panaikinti asmeniui išduotą leidimą dirbti ar susipažinti su įslaptinta informacija nepriimamas – leidimas dirbti ar susipažinti su įslaptinta informacija netenka galios nuo darbo (tarnybos) santykių su paslapčių subjektu ar tiekėju nutraukimo, renkamų arba skiriamų į pareigas asmenų įgaliojimų laiko pabaigos arba asmens išbraukimo iš žvalgybos pareigūnų rezervo dienos. 
+11. Jeigu su paslapčių subjektu ar tiekėju nutraukiami darbo (tarnybos) santykiai, pasibaigia renkamų arba skiriamų į pareigas asmenų įgaliojimų laikas arba asmuo išbraukiamas iš žvalgybos pareigūnų rezervo, sprendimas panaikinti asmeniui išduotą leidimą dirbti ar susipažinti su įslaptinta informacija nepriimamas – leidimas dirbti ar susipažinti su įslaptinta informacija netenka galios nuo darbo (tarnybos) santykių su paslapčių subjektu ar tiekėju nutraukimo, renkamų arba skiriamų į pareigas asmenų įgaliojimų laiko pabaigos arba asmens išbraukimo iš žvalgybos pareigūnų rezervo dienos. Išleistam į atsargą ir į tarnybą aktyviajame kariuomenės personalo rezerve paskirtam kariui išduotas leidimas dirbti ar susipažinti su įslaptinta informacija netenka galios nuo kario atleidimo iš tarnybos aktyviajame kariuomenės personalo rezerve dienos.
 Papildyta straipsnio dalimi:
 Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
+Straipsnio dalies pakeitimai:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
  
 
 
@@ -1721,12 +1785,28 @@ Asmuo, kuriam yra išduotas leidimas dirbti ar susipažinti su įslaptinta infor
 
 
 
-10) iki šio įstatymo 17 straipsnio 6 dalyje nurodyto pakartotinio asmens tikrinimo pradžios, taip pat asmens tikrinimą atliekančioms institucijoms atliekant papildomą patikrinimą pateikti už įslaptintos informacijos apsaugą atsakingam asmeniui reikiamus dokumentus tikrinimui atlikti.
+10) iki šio įstatymo 17 straipsnio 6 dalyje nurodyto pakartotinio asmens tikrinimo ir šio įstatymo 17 straipsnio 81 dalyje nurodyto tikrinimo pradžios, taip pat asmens tikrinimą atliekančioms institucijoms atliekant papildomą patikrinimą pateikti už įslaptintos informacijos apsaugą atsakingam asmeniui reikiamus dokumentus tikrinimui atlikti.
+Straipsnio punkto pakeitimai:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
  
 
 
 
 
+
+
+
+
+211 straipsnis. Vykimo į užsienio valstybes ar teritorijas apribojimai
+
+
+Paslapčių subjekto darbuotojui ar šauliui, kuriam yra išduotas leidimas dirbti ar susipažinti su įslaptinta informacija arba suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, ne tarnybos ar ne darbo tikslais draudžiama vykti į užsienio valstybes ar teritorijas, kurių sąrašą, įvertinusi Lietuvos Respublikos Seimo tvirtinamoje Nacionalinio saugumo strategijoje ir kituose planavimo dokumentuose apibrėžiamus rizikos veiksnius, pavojus ir grėsmes nacionaliniam saugumui, taip pat kitų nacionalinio saugumo užtikrinimo subjektų šiuo tikslu priimtus sprendimus ar suteiktą informaciją, tvirtina Vyriausybė. Atsižvelgdama į rizikos veiksnių, pavojų ir grėsmių nacionaliniam saugumui raidą ir pokyčius, Vyriausybė turi teisę nustatyti atvejus (įskaitant išimtinius atvejus dėl asmeninių aplinkybių) ir tvarką, pagal kurią paslapčių subjekto darbuotojų ar šaulių vykimas į šiame sąraše esančias užsienio valstybes ar teritorijas būtų galimas tik turint leidimą arba deklaravus informaciją apie išvykimą.
+TAR pastaba: atvykusiems į Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 211 straipsnyje nurodytą valstybę ar teritoriją iki 2024-10-03 įstatymo Nr. XIV-3006 įsigaliojimo dienos (2025-01-01), Valstybės ir tarnybos paslapčių įstatymo 16 straipsnio 22 dalies ir Valstybės ir tarnybos paslapčių įstatymo 20 straipsnio 1 dalies 5 punkto nuostatos netaikomos.  
+
+
+Papildyta straipsniu:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
 
 
 
@@ -1757,7 +1837,10 @@ Už įslaptintos informacijos apsaugą atsakingas asmuo:
 
 
 
-5) paima iš asmenų, kuriems išduodami leidimai dirbti ar susipažinti su įslaptinta informacija arba suteikiama teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, nustatyto pavyzdžio rašytinius pasižadėjimus saugoti įslaptintą informaciją;
+5) paima iš asmenų, kuriems išduodami leidimai dirbti ar susipažinti su įslaptinta informacija arba suteikiama teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, Vyriausybės nustatyto pavyzdžio rašytinius pasižadėjimus saugoti įslaptintą informaciją;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
 
 
 
@@ -2552,17 +2635,19 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 
 
 
-2) tiekėjo užpildytą įslaptintų sandorių saugumo klausimyną; 
+2) tiekėjo užpildytą Vyriausybės nustatytos formos įslaptintų sandorių saugumo klausimyną; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
  
 
 
 
 
-3) tiekėjo administracijos vadovo, vyriausiojo buhalterio arba buhalterinę apskaitą tvarkančio padalinio vadovo ar tikrinamo tiekėjo buhalterinę apskaitą tvarkančio kito asmens, už įslaptintos informacijos apsaugą atsakingų asmenų, juos pavaduojančių asmenų ir darbuotojų ar įgaliotų asmenų, kurie dalyvaus rengiant ir teikiant komercinius pasiūlymus paslapčių subjektams dėl įslaptintų sandorių sudarymo, užpildytus klausimynus; 
+3) tiekėjo administracijos vadovo, vyriausiojo buhalterio arba buhalterinę apskaitą tvarkančio padalinio vadovo ar tikrinamo tiekėjo buhalterinę apskaitą tvarkančio kito asmens, už įslaptintos informacijos apsaugą atsakingų asmenų, juos pavaduojančių asmenų ir darbuotojų ar įgaliotų asmenų, kurie dalyvaus rengiant ir teikiant komercinius pasiūlymus paslapčių subjektams dėl įslaptintų sandorių sudarymo, užpildytus Vyriausybės nustatytos formos klausimynus;
 Straipsnio punkto pakeitimai:
 Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
  
 
 
@@ -2710,7 +2795,9 @@ Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 
 
-7. Įslaptintų sandorių saugumą užtikrinanti institucija, atlikdama tiekėjo patikimumo ar atitikties įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimams vertinimą, turi teisę neatlygintinai gauti visą informaciją, susijusią su tiekėjo ir jo darbuotojų patikimumo įvertinimu, iš valstybės registrų (kadastrų), klasifikatorių ir kitų duomenų bankų, valstybės, savivaldybės institucijų, kitų įmonių, įstaigų, organizacijų, juridinių ir fizinių asmenų.
+7. Įslaptintų sandorių saugumą užtikrinanti institucija, atlikdama tiekėjo patikimumo ar atitikties įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimams vertinimą, turi teisę neatlygintinai gauti visą informaciją, susijusią su tiekėjo ir jo darbuotojų patikimumo įvertinimu, iš valstybės informacinių išteklių, valstybės, savivaldybės institucijų, kitų įmonių, įstaigų, organizacijų, juridinių ir fizinių asmenų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
  
 
 
@@ -3042,7 +3129,10 @@ AŠTUNTASIS SKIRSNIS
 
 
 
-2. ĮIRIS perduodant įslaptintą informaciją, jos slaptumas turi būti užtikrintas įgyvendinant telekomunikacijų apsaugos reikalavimus ir naudojant Nacionalinės komunikacijų apsaugos tarnybos patvirtintus kriptografinius metodus ir (ar) produktus.
+2. ĮIRIS perduodant įslaptintą informaciją, jos slaptumas turi būti užtikrintas įgyvendinant telekomunikacijų apsaugos reikalavimus ir naudojant Nacionalinės komunikacijų apsaugos tarnybos savo nustatyta tvarka patvirtintus kriptografinius metodus ir (ar) produktus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
+ 
 
 
 
