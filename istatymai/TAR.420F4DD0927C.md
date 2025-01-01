@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/420f4dd0927c11e9ae2e9d61b1f977b3"
 
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-01-31
  
 Įstatymas paskelbtas: TAR 2019-06-19, i. k. 2019-09862
  
@@ -707,10 +707,17 @@ Nr. XIV-2323, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25082
 10 straipsnis. Specialiųjų žemės naudojimo sąlygų taikymas
 
 
-Specialiosios žemės naudojimo sąlygos taikomos nuo nustatytų šiame įstatyme nurodytų teritorijų įregistravimo Nekilnojamojo turto registre dienos.
+1. Specialiosios žemės naudojimo sąlygos taikomos nuo nustatytų šiame įstatyme nurodytų teritorijų įregistravimo Nekilnojamojo turto registre dienos.
+
+
+
+
+2. Ūkinė ir (ar) kitokia veikla, dėl kurios turi būti nustatytos šiame įstatyme nurodytos teritorijos, gali būti vykdoma, jeigu šios teritorijos nustatytos ir įregistruotos Nekilnojamojo turto registre.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2166, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09862
  
-
-
 
 
 
