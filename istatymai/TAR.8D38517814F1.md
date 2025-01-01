@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -2956,8 +2956,6 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 
 
 10. Komunalinių atliekų tvarkymas turi būti organizuojamas taip, kad skatintų atliekas paruošti naudoti pakartotinai ir perdirbti. Visiems komunalinių atliekų turėtojams, neimant papildomo mokesčio, išskyrus nustatytą vietinę rinkliavą už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą (toliau – rinkliava) ar kitą įmoką už komunalinių atliekų surinkimą iš atliekų turėtojų ir komunalinių atliekų tvarkymą, turi būti:
-Straipsnio dalies pakeitimai:
-Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 
 
 1) užtikrintas aprūpinimas mišrių komunalinių atliekų surinkimo priemonėmis;
@@ -2970,7 +2968,7 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 
 
 
-3) užtikrintas aprūpinimas antrinių žaliavų (popieriaus ir kartono, stiklo, plastiko, metalų, įskaitant pakuočių atliekas) rūšiavimo jų susidarymo vietose priemonėmis;
+3) užtikrintas aprūpinimas antrinių žaliavų (popieriaus ir kartono, stiklo, plastiko, metalų, įskaitant pakuočių atliekas), tekstilės atliekų rūšiavimo jų susidarymo vietose priemonėmis;
 
 
 
@@ -2985,7 +2983,7 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 
 
 
-6) užtikrinta galimybė atiduoti buityje susidarančias pavojingąsias atliekas (išskyrus baterijų ir akumuliatorių atliekas). Pavojingosios atliekos turi būti tvarkomos pagal šio Įstatymo 3 ir 41 straipsnių reikalavimus, siekiant, kad pavojingosiomis atliekomis nebūtų užterštos kitos komunalinės atliekos. 
+6) užtikrinta galimybė atiduoti buityje susidarančias pavojingąsias atliekas (išskyrus baterijų ir akumuliatorių atliekas). Pavojingosios atliekos turi būti tvarkomos pagal šio Įstatymo 3 ir 41 straipsnių reikalavimus, siekiant, kad pavojingosiomis atliekomis nebūtų užterštos kitos komunalinės atliekos.
 
 
 Straipsnio dalies pakeitimai:
@@ -3084,6 +3082,14 @@ Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 
 
 21) užtikrinti biologiškai skaidžių atliekų rūšiavimo galimybę ir priemones visiems komunalinių atliekų turėtojams; 
+Papildyta straipsnio punktu:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
+
+
+
+
+22) užtikrinti tekstilės atliekų rūšiavimo galimybę ir priemones visiems komunalinių atliekų turėtojams; 
 Papildyta straipsnio punktu:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
  
@@ -3330,7 +3336,10 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 
 
 
-11. Šio straipsnio 10 dalyje nustatyta tvarka tvirtinant rinkliavos ar įmokos dydžius į komunalinių atliekų tvarkymo regiono savivaldybių skaičiuojamą rinkliavos ar įmokos dalį gali būti įtrauktos regioninės kainos būtinosios sąnaudos (su kitų buityje susidarančių atliekų tvarkymu susijusios sąnaudos, reikalingos reguliuojamajai veiklai vykdyti, ilgalaikiam kitoms buityje susidarančioms atliekoms tvarkyti skirtų regioninių komunalinių atliekų tvarkymo įrenginių eksploatavimui, jų atnaujinimui, plėtrai užtikrinti, priimtinos komunalinių atliekų tvarkymo paslaugos teikimo užtikrinimui ir aplinkos taršos mažinimui, regioninio atliekų tvarkymo centro įgyvendinamų atliekų prevencijai skirtų priemonių, numatytų Vyriausybės tvirtinamame valstybiniame atliekų prevencijos ir tvarkymo plane, regioniniuose atliekų prevencijos ir tvarkymo planuose, savivaldybių atliekų prevencijos ir tvarkymo planuose, įgyvendinimo sąnaudos, gaminių, pakuočių, kurių gamintojams ir (ar) importuotojams taikomas gamintojo atsakomybės principas, atliekų tvarkymo savivaldybės pavedimu regioninių atliekų tvarkymo centrų valdomose didelių gabaritų atliekų surinkimo aikštelėse ir (ar) kompostavimo aikštelėse sąnaudos tokia apimtimi, kiek jų neįpareigoti finansuoti gamintojai ir (ar) importuotojai ir (arba) jų organizacijos pagal šio Įstatymo aštuntąjį1 – aštuntąjį6 ir aštuntąjį11 skirsnius ir (ar) Pakuočių ir pakuočių atliekų tvarkymo įstatymą, sąnaudos), kurios nebuvo įtrauktos pirmą kartą nustatant regioninę kainą. 
+11. Neteko galios nuo 2025-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
+ 
 
 
 
