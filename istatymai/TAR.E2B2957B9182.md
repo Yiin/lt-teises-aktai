@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -1929,7 +1929,7 @@ YPATYBĖS
 
 
 
-3. Valstybinį visuomenės sveikatos stiprinimo fondą administruoja Sveikatos apsaugos ministerija, vadovaudamasi Valstybinio visuomenės sveikatos stiprinimo fondo nuostatais. Valstybinio visuomenės sveikatos stiprinimo fondo administravimo išlaidos negali viršyti 4 procentų metinio Valstybinio visuomenės sveikatos stiprinimo fondo biudžeto.
+3. Valstybinį visuomenės sveikatos stiprinimo fondą administruoja sveikatos apsaugos ministro įgaliota įstaiga, vadovaudamasi Valstybinio visuomenės sveikatos stiprinimo fondo nuostatais. Valstybinio visuomenės sveikatos stiprinimo fondo administravimo išlaidos negali viršyti 4 procentų metinio Valstybinio visuomenės sveikatos stiprinimo fondo biudžeto.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
  
