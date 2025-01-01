@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
  
@@ -311,7 +311,15 @@ Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
 
 
 
-6) moterys, išskyrus tas, kurios raštu pareiškė norą tapti karo prievolininkėmis ir (ar) yra baigusios aukštojoje mokykloje medicinos, slaugos ar akušerijos studijų programas.
+6) moterys, išskyrus tas, kurios raštu pareiškė norą tapti karo prievolininkėmis ir (ar) yra baigusios aukštojoje mokykloje medicinos, slaugos ar akušerijos studijų programas;
+
+
+
+
+7) asmenys, kurie, be Lietuvos Respublikos pilietybės, turi ir į Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 36 straipsnio 121 dalyje nurodytą sąrašą įtrauktų valstybių pilietybę.
+Papildyta straipsnio punktu:
+Nr. XV-76, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23069
+ 
 
 
 
@@ -432,7 +440,9 @@ Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
 
 
 
-4. Nuolatinę privalomąją pradinę karo tarnybą atliekantys karo prievolininkai Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo (toliau – Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas) nustatyta tvarka aprūpinami apranga, maistu ir tarnybine gyvenamąja patalpa, jiems mokamos privalomosios pradinės karo tarnybos kariams nustatytos išmokos buitinėms išlaidoms ir premijos, taikomos socialinės garantijos.
+4. Nuolatinę privalomąją pradinę karo tarnybą atliekantys karo prievolininkai Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka aprūpinami apranga, maistu ir tarnybine gyvenamąja patalpa, jiems mokamos privalomosios pradinės karo tarnybos kariams nustatytos išmokos buitinėms išlaidoms ir premijos, taikomos socialinės garantijos.
+Straipsnio dalies pakeitimai:
+Nr. XV-76, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23069
  
 
 
@@ -649,7 +659,10 @@ Nr. XIII-586, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11956
 2. Nuolatinę privalomąją pradinę karo tarnybą atliekantis karys paleidžiamas iš tarnybos pirma šio įstatymo 5 straipsnio 3 dalyje nustatyto laiko, kai:
 
 
-1) jis netenka Lietuvos Respublikos pilietybės;
+1) jis netenka Lietuvos Respublikos pilietybės arba kai jis, be Lietuvos Respublikos pilietybės, įgyja į Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 36 straipsnio 121 dalyje nurodytą sąrašą įtrauktų valstybių pilietybę ar paaiškėja, kad turi tokios valstybės pilietybę;
+Straipsnio punkto pakeitimai:
+Nr. XV-76, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23069
+ 
 
 
 
@@ -793,7 +806,10 @@ Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 2. Karys iš jaunesniųjų karininkų vadų mokymų paleidžiamas nesibaigus Lietuvos kariuomenės vado nustatytam mokymų laikui ir neįgyja pagrindinio karinio parengtumo, kai:
 
 
-1) jis netenka Lietuvos Respublikos pilietybės;
+1)  jis netenka Lietuvos Respublikos pilietybės arba kai jis, be Lietuvos Respublikos pilietybės, įgyja į Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 36 straipsnio 121 dalyje nurodytą sąrašą įtrauktų valstybių pilietybę ar paaiškėja, kad turi tokios valstybės pilietybę;
+Straipsnio punkto pakeitimai:
+Nr. XV-76, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23069
+ 
 
 
 
@@ -1229,7 +1245,10 @@ Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 23 straipsnis. Tarnybos aktyviajame rezerve atlikimo ypatumai 
 
 
-1. Aktyviojo rezervo kario atliekamos tarnybos aktyviajame rezerve trukmė – 10 metų nuo skyrimo į aktyvųjį rezervą.
+1. Aktyviojo rezervo kario atliekamos tarnybos aktyviajame rezerve trukmė – 15 metų nuo skyrimo į aktyvųjį rezervą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
+ 
 
 
 
@@ -1252,7 +1271,10 @@ Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 231 straipsnis. Kitos tarnybos rezerve atlikimo sąlygos ir šaukimo į šią tarnybą tvarka 
 
 
-1. Į kitą tarnybą rezerve gali būti šaukiami karo prievolininkai dalyvauti mokymuose ar pratybose iki 10 dienų per metus, vykdyti Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies 1 ir 2 punktuose ir Lietuvos Respublikos karinės jėgos naudojimo statuto 9 straipsnio 1 dalyje nustatytų užduočių bei atlikti karo tarnybą mobilizacijos ir karo padėties metu. Karo prievolininkai pagrindiniam kariniam parengtumui įgyti su jų sutikimu gali būti siunčiami į kitos, negu numatyta šioje dalyje, trukmės mokymus ar pratybas. Mokymų ir pratybų programas, trukmę ir periodiškumą nustato Lietuvos kariuomenės vadas.
+1. Į kitą tarnybą rezerve gali būti šaukiami karo prievolininkai dalyvauti mokymuose ar pratybose iki 14 dienų per metus, vykdyti Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies 1 ir 2 punktuose ir Lietuvos Respublikos karinės jėgos naudojimo statuto 9 straipsnio 1 dalyje nustatytų užduočių bei atlikti karo tarnybos mobilizacijos ir karo padėties metu. Karo prievolininkai pagrindiniam kariniam parengtumui įgyti su jų sutikimu gali būti siunčiami į kitos, negu numatyta šioje dalyje, trukmės mokymus ar pratybas. Mokymų ir pratybų programas, trukmę ir periodiškumą nustato Lietuvos kariuomenės vadas. 
+Straipsnio dalies pakeitimai:
+Nr. XV-76, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23069
+ 
 
 
 
@@ -1300,7 +1322,10 @@ Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 
 
 
-4) jie netenka Lietuvos Respublikos pilietybės;
+4) jis netenka Lietuvos Respublikos pilietybės arba kai jis, be Lietuvos Respublikos pilietybės, įgyja į Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 36 straipsnio 121 dalyje nurodytą sąrašą įtrauktų valstybių pilietybę ar paaiškėja, kad turi tokios valstybės pilietybę;
+Straipsnio punkto pakeitimai:
+Nr. XV-76, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23069
+ 
 
 
 
@@ -1363,7 +1388,10 @@ Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
 
 
 
-3) netenka Lietuvos Respublikos pilietybės;
+3) jis netenka Lietuvos Respublikos pilietybės arba kai jis, be Lietuvos Respublikos pilietybės, įgyja į Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 36 straipsnio 121 dalyje nurodytą sąrašą įtrauktų valstybių pilietybę ar paaiškėja, kad turi tokios valstybės pilietybę;
+Straipsnio punkto pakeitimai:
+Nr. XV-76, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23069
+ 
 
 
 
@@ -1543,7 +1571,10 @@ Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 1. Iš tarnybos paskelbus mobilizaciją anksčiau, negu paskelbiama demobilizacija, karo prievolininkas paleidžiamas, kai:
 
 
-1) jis netenka Lietuvos Respublikos pilietybės;
+1) jis netenka Lietuvos Respublikos pilietybės arba kai jis, be Lietuvos Respublikos pilietybės, įgyja į Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 36 straipsnio 121 dalyje nurodytą sąrašą įtrauktų valstybių pilietybę ar paaiškėja, kad turi tokios valstybės pilietybę;
+Straipsnio punkto pakeitimai:
+Nr. XV-76, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23069
+ 
 
 
 
@@ -1706,6 +1737,14 @@ Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 
 
 
+51) organizuoti asmenų, sukakusių 17 metų, kurie, jiems sukakus 18 metų, įgis pareigą atlikti karo prievolę, (toliau – asmenys, sukakę 17 metų) sveikatos patikrinimą;
+Papildyta straipsnio punktu:
+Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
+ 
+
+
+
+
 6) tinkamus karo prievolininkus skirti į privalomąją karo tarnybą ar alternatyviąją krašto apsaugos tarnybą ir pasiųsti į tarnybos atlikimo vietą;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
@@ -1747,12 +1786,12 @@ Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 32 straipsnis. Karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymų įteikimas ir asmenų ir kitų organizacijų ir jų padalinių pareigos administruojant karo prievolę
 
 
-1. Karo prievolininkams, įrašytiems į kalendorinių metų karo prievolininkų sąrašą, karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymai dėl šio įstatymo 6 straipsnio 51 dalies 4 punkte nurodytų dokumentų ir duomenų pateikimo, taip pat sveikatos patikrinimo skelbiami kalendorinių metų karo prievolininkų sąraše šio įstatymo 6 straipsnio 51 ir 52 dalyse nustatyta tvarka. Kiti karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymai karo prievolininkams įteikiami asmeniškai.
+1. Karo prievolininkams, įrašytiems į kalendorinių metų karo prievolininkų sąrašą, karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymai dėl šio įstatymo 6 straipsnio 51 dalies 4 punkte nurodytų dokumentų ir duomenų pateikimo, taip pat sveikatos patikrinimo skelbiami kalendorinių metų karo prievolininkų sąraše šio įstatymo 6 straipsnio 51 ir 52 dalyse nustatyta tvarka. Kiti karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymai karo prievolininkams siunčiami elektroninio pašto adresu, kurį karo prievolininkas nurodė registrų informacinėse sistemose ar kitose valstybės informacinėse sistemose, kurios naudojamos elektroniniu būdu teikiamoms paslaugoms gauti ar prievolėms įvykdyti. Asmenims, sukakusiems 17 metų, nurodymas pasitikrinti sveikatą, taip pat kiti nurodymai siunčiami jo elektroniniu paštu arba paštu deklaruotos ar faktinės gyvenamosios vietos adresu. Taip pat nurodymai, skirti asmeniui, sukakusiam 17 metų, gali būti siunčiami jo atstovui pagal įstatymą elektroninio pašto adresu, kurį atstovas pagal įstatymą nurodė registrų informacinėse sistemose ar kitose valstybės informacinėse sistemose, kurios naudojamos elektroniniu būdu teikiamoms paslaugoms gauti ar prievolėms įvykdyti.
 
 
 
 
-2. Jeigu dėl objektyvių priežasčių karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymo įteikti asmeniškai karo prievolininkui negali, šis nurodymas, sutikus jį priimti, pasirašytinai įteikiamas kartu su karo prievolininku gyvenantiems pilnamečiams šeimos nariams ar fiziniams ir juridiniams asmenims ir kitoms organizacijoms, ir jų padaliniams, kurie susiję su karo prievolininku darbo, mokslo ir studijų teisiniais santykiais, ar valstybės ir savivaldybių institucijoms, teikiančioms karo prievolininkui socialinio draudimo, užimtumo rėmimo ar kitas viešąsias paslaugas, kurie nedelsdami šį nurodymą privalo perduoti karo prievolininkui.
+2. Jeigu dėl objektyvių priežasčių karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymo įteikti asmeniškai karo prievolininkui ar asmeniui, sukakusiam 17 metų, negali, šis nurodymas, sutikus jį priimti, pasirašytinai įteikiamas kartu su karo prievolininku ar asmeniu, sukakusiu 17 metų, gyvenantiems pilnamečiams šeimos nariams ar fiziniams ir juridiniams asmenims ir kitoms organizacijoms, ir jų padaliniams, kurie susiję su karo prievolininku ar asmeniu, sukakusiu 17 metų, darbo, mokslo ir studijų teisiniais santykiais, ar valstybės ir savivaldybių institucijoms, teikiančioms karo prievolininkui ar asmeniui, sukakusiam 17 metų, socialinio draudimo, užimtumo rėmimo ar kitas viešąsias paslaugas, kurie nedelsdami šį nurodymą privalo perduoti karo prievolininkui.
 
 
 
@@ -1763,6 +1802,7 @@ Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 Straipsnio pakeitimai:
 Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 Nr. XII-2724, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26837
+Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
  
 
 
@@ -1797,7 +1837,10 @@ Nr. XII-2523, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20281
 
 
 
-3) gauti iš karo prievolininkų papildomą, dokumentais pagrįstą informaciją, būtiną karinei įskaitai tvarkyti;
+3) gauti iš karo prievolininkų ir asmenų, sukakusių 17 metų, papildomą, dokumentais pagrįstą informaciją, būtiną karinei įskaitai tvarkyti; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
+ 
 
 
 
@@ -1807,9 +1850,11 @@ Nr. XII-2523, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20281
 
 
 
-5) nurodyti karo prievolininkams pateikti karo prievolę administruojančiai krašto apsaugos sistemos institucijai reikalingus dokumentus; 
+5) nurodyti karo prievolininkams ir asmenims, sukakusiems 17 metų, pateikti karo prievolę administruojančiai krašto apsaugos sistemos institucijai reikalingus dokumentus; 
 Papildyta straipsnio punktu:
 Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+Straipsnio punkto pakeitimai:
+Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
  
 
 
@@ -1851,17 +1896,27 @@ Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
 
 
 
-10) kreiptis į Lietuvos Respublikos diplomatines atstovybes ir konsulines įstaigas su prašymu paraginti užsienyje gyvenančius karo prievolininkus vykdyti šiame įstatyme nustatytas pareigas;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+10) skirti asmenims, sukakusiems 17 metų, sveikatos patikrinimą ir nurodyti nustatytu laiku atvykti pasitikrinti sveikatos. Asmenų, sukakusių 17 metų, siuntimo pasitikrinti sveikatos tvarką nustato krašto apsaugos ministras; 
+Papildyta straipsnio punktu:
+Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
  
 
 
 
 
-11) kitas įstatymų ir kitų teisės aktų nustatytas teises.
+11) kreiptis į Lietuvos Respublikos diplomatines atstovybes ir konsulines įstaigas su prašymu paraginti užsienyje gyvenančius karo prievolininkus vykdyti šiame įstatyme nustatytas pareigas;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
+ 
+
+
+
+
+12) kitas įstatymų ir kitų teisės aktų nustatytas teises.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
  
 
 
@@ -1874,9 +1929,10 @@ Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
 35 straipsnis. Karinė įskaita
 
 
-1. Karinei įskaitai tvarkyti Vyriausybė steigia Lietuvos Respublikos karo prievolininkų registrą, kuriame nacionalinio saugumo ir gynybos tikslais yra tvarkomi karo prievolininkų asmens duomenys. Šiame registre gali būti tvarkomi karo prievolininkų specialių kategorijų asmens duomenys, taip pat duomenys apie įtariamojo ar kaltinamojo statusą baudžiamajame procese, padarytą nusikalstamą veiką, paskirtą baudžiamojo poveikio priemonę ar bausmę už padarytą nusikalstamą veiką ir jos vykdymą.
+1. Karinei įskaitai tvarkyti Vyriausybė steigia Lietuvos Respublikos karo prievolininkų registrą, kuriame nacionalinio saugumo ir gynybos tikslais yra tvarkomi karo prievolininkų asmens duomenys. Šiame registre gali būti tvarkomi karo prievolininkų specialių kategorijų asmens duomenys, taip pat duomenys apie įtariamojo ar kaltinamojo statusą baudžiamajame procese, padarytą nusikalstamą veiką, paskirtą baudžiamojo poveikio priemonę ar bausmę už padarytą nusikalstamą veiką ir jos vykdymą. Karo prievolininkų registre taip pat tvarkomi asmenų, sukakusių 17 metų, asmens duomenys, specialių kategorijų asmens duomenys, duomenys apie įtariamojo ar kaltinamojo statusą baudžiamajame procese, padarytą nusikalstamą veiką, paskirtą baudžiamojo poveikio priemonę ar bausmę už padarytą nusikalstamą veiką ir jos vykdymą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3252, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15767
+Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
  
 
 
@@ -1905,29 +1961,30 @@ Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 351 straipsnis. Asmens duomenų tvarkymas
 
 
-1. Administruojant karo prievolę, Karo prievolininkų registre karo prievolininkų asmens duomenys tvarkomi nacionalinio saugumo ir gynybos tikslais, vadovaujantis Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) ir šiuo įstatymu.
+1. Administruojant karo prievolę, Karo prievolininkų registre karo prievolininkų ir asmenų, sukakusių 17 metų, asmens duomenys tvarkomi nacionalinio saugumo ir gynybos tikslais, vadovaujantis Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) ir šiuo įstatymu. 
 
 
 
 
-2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams (karo prievolininkams) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 12 straipsnyje, 14 straipsnio 1, 2 ir 3 dalyse nustatytos duomenų subjektų (karo prievolininkų) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (arba) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma arba gali būti sukliudyta atlikti šaukimą į privalomąją karo tarnybą, organizuoti karo prievolininkų atranką į privalomąją karo tarnybą, nustatyti jų tinkamumą privalomajai karo tarnybai ar alternatyviajai krašto apsaugos tarnybai, skirti juos į privalomąją karo tarnybą ar alternatyviąją krašto apsaugos tarnybą ir (arba) užtikrinti privalomosios karo tarnybos atlikimą. Karo prievolę administruojanti krašto apsaugos sistemos institucija turi kiekvienu konkrečiu atveju krašto apsaugos ministro ar jo įgalioto asmens nustatyta tvarka įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu.
+2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams (karo prievolininkams ir asmenims, sukakusiems 17 metų) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 12 straipsnyje, 14 straipsnio 1, 2 ir 3 dalyse nustatytos duomenų subjektų (karo prievolininkų ir asmenų, sukakusių 17 metų) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (arba) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma arba gali būti sukliudyta atlikti šaukimą į privalomąją karo tarnybą, organizuoti karo prievolininkų atranką į privalomąją karo tarnybą, nustatyti jų tinkamumą privalomajai karo tarnybai ar alternatyviajai krašto apsaugos tarnybai, skirti juos į privalomąją karo tarnybą ar alternatyviąją krašto apsaugos tarnybą ir (arba) užtikrinti privalomosios karo tarnybos atlikimą. Karo prievolę administruojanti krašto apsaugos sistemos institucija turi kiekvienu konkrečiu atveju krašto apsaugos ministro ar jo įgalioto asmens nustatyta tvarka įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu.
 
 
-Papildyta straipsniu:
-Nr. XIII-3252, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15767
+Straipsnio pakeitimai:
+Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
  
 
 
 
 
-36 straipsnis. Karo prievolininkų sveikatos tikrinimas
+36 straipsnis. Karo prievolininkų ir asmenų, sukakusių 17 metų, sveikatos tikrinimas
 
 
-Vyriausybės nustatyta tvarka ir periodiškumu karo prievolininkų sveikatą tikrina krašto apsaugos sistemos sveikatos priežiūros įstaigos, kurios naudojasi ir kitų, krašto apsaugos sistemai nepriklausančių, sveikatos priežiūros įstaigų teikiamomis paslaugomis. Mobilizacijos metu Vyriausybės nustatyta tvarka karo prievolininkų sveikatą tikrina ir kitos sveikatos priežiūros įstaigos. 
+Vyriausybės nustatyta tvarka ir periodiškumu karo prievolininkų ir asmenų, sukakusių 17 metų, sveikatą tikrina krašto apsaugos sistemos sveikatos priežiūros įstaigos, kurios naudojasi ir kitų, krašto apsaugos sistemai nepriklausančių, sveikatos priežiūros įstaigų teikiamomis paslaugomis, taip pat krašto apsaugos ministro sprendimu – kitose krašto apsaugos sistemai nepriklausančiose sveikatos priežiūros įstaigose. Asmenų, sukakusių 17 metų, siuntimo pasitikrinti sveikatos tvarką nustato krašto apsaugos ministras. Mobilizacijos metu Vyriausybės nustatyta tvarka karo prievolininkų sveikatą tikrina ir kitos sveikatos priežiūros įstaigos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
  
 
 
@@ -2027,73 +2084,131 @@ Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 
 
 
-38 straipsnis. Karo prievolininko teisė skųsti karo prievolę administruojančios krašto apsaugos sistemos institucijos sprendimus
+371 straipsnis. Asmenų, sukakusių 17 metų, pareigos, iki jie įstatymų nustatyta tvarka įgyja karo prievolininko statusą
 
 
-1. Karo prievolininkas turi teisę skųsti karo prievolę administruojančios krašto apsaugos sistemos institucijos sprendimą krašto apsaugos ministrui per 10 dienų nuo sprendimo gavimo dienos.
+1. Asmenys, sukakę 17 metų, privalo:
 
 
-
-
-2. Šio straipsnio 1 dalyje nurodytas skundas krašto apsaugos ministro nustatyta tvarka išnagrinėjamas per 14 dienų nuo jo gavimo. Išnagrinėjus skundą, priimamas krašto apsaugos ministro ar jo įgalioto asmens sprendimas palikti karo prievolę administruojančios krašto apsaugos sistemos institucijos sprendimą nepakeistą, jį pakeisti arba panaikinti.
-
-
-
-
-3. Karo prievolininkas krašto apsaugos ministro ar jo įgalioto asmens priimtą sprendimą per 10 dienų nuo jo gavimo dienos gali skųsti administraciniam teismui.
+1) ne vėliau kaip per vieną mėnesį po to, kai sukako 17 metų, krašto apsaugos ministro nustatyta tvarka susisiekti su karo prievolę administruojančia krašto apsaugos sistemos institucija ir pateikti duomenis ryšiams palaikyti (el. pašto adresą, faktinės gyvenamosios vietos adresą ir telefono numerį), taip pat pagal karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymą pateikti karo prievolę administruojančiai krašto apsaugos sistemos institucijai reikalingus dokumentus ir duomenis, atvykti pasitikrinti sveikatos; 
 
 
 
 
-4. Karo prievolininko skundo pateikimas nestabdo karo prievolę administruojančios krašto apsaugos sistemos institucijos sprendimo vykdymo.
+2) neįvykdę šios dalies 1 punkte nurodytos pareigos, karo prievolę administruojančios krašto apsaugos sistemos institucijos prašymu pateikti šio straipsnio 3 dalyje nurodytų aplinkybių įrodymus;
+
+
+
+
+3) vykdyti kitus teisėtus karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymus.
+
+
+
+
+
+
+2. Asmenys, sukakę 17 metų, šio straipsnio 1 dalies 1 punkte nurodytus dokumentus ir duomenis karo prievolę administruojančiai krašto apsaugos sistemos institucijai gali pateikti atvykę į instituciją, elektroninio ryšio priemonėmis arba atsiųsti registruotąja pašto siunta.
+
+
+
+
+3. Asmenų, sukakusių 17 metų, šio straipsnio 1 dalies 1 punkte nurodytų pareigų neįvykdymą laiku pateisinančios priežastys yra šios:
+
+
+1) karo prievolę administruojančiai krašto apsaugos sistemos institucijai adresuota sveikatos apsaugos ministro nustatytos formos pažyma patvirtinta liga, dėl kurios asmuo negali atvykti;
+
+
+
+
+2) asmens, sukakusio 17 metų, šeimos nario ar jo artimojo giminaičio mirtis;
+
+
+
+
+3) stichinė nelaimė;
+
+
+
+
+4) Lietuvos Respublikos teritorijos okupacija ar blokada;
+
+
+
+
+5) kitos teisės aktuose nustatytos aplinkybės, dėl kurių apribotos asmenų, sukakusių 17 metų, judėjimo galimybės.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
  
 
 
 
 
+38 straipsnis. Karo prievolininko ir asmens, sukakusio 17 metų, teisė skųsti karo prievolę administruojančios krašto apsaugos sistemos institucijos sprendimus
 
 
-39 straipsnis. Karo prievolininkų aprūpinimas, iki jie įstatymų nustatyta tvarka įgyja kario statusą
+1. Karo prievolininkas ir asmuo, sukakęs 17 metų, turi teisę skųsti karo prievolę administruojančios krašto apsaugos sistemos institucijos sprendimą krašto apsaugos ministrui per 10 dienų nuo sprendimo gavimo dienos.
 
 
-1. Už kiekvieną tinkamumo privalomajai karo tarnybai tikrinimo dieną karo prievolininkams mokami 0,2 Vyriausybės nustatytos bazinės socialinės išmokos dydžio dienpinigiai. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
+
+
+2. Šio straipsnio 1 dalyje nurodytas skundas krašto apsaugos ministro nustatyta tvarka išnagrinėjamas per 14 dienų nuo jo gavimo dienos. Išnagrinėjus skundą, priimamas krašto apsaugos ministro ar jo įgalioto asmens sprendimas palikti karo prievolę administruojančios krašto apsaugos sistemos institucijos sprendimą nepakeistą, jį pakeisti arba panaikinti.
+
+
+
+
+3. Karo prievolininkas ir asmuo, sukakęs 17 metų, krašto apsaugos ministro ar jo įgalioto asmens priimtą sprendimą per 10 dienų nuo jo gavimo dienos gali skųsti Regionų administraciniam teismui.
+
+
+
+
+4. Karo prievolininko ir asmens, sukakusio 17 metų, skundo pateikimas nestabdo karo prievolę administruojančios krašto apsaugos sistemos institucijos sprendimo vykdymo.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
  
 
 
 
 
-2. Karo prievolininkams apmokamos kelionių iš gyvenamosios vietos į karo prievolę administruojančią krašto apsaugos sistemos instituciją, iš karo prievolę administruojančios krašto apsaugos sistemos institucijos atgal į gyvenamąją vietą, iš gyvenamosios vietos į šaukimo punktą, iš šaukimo punkto atgal į gyvenamąją vietą, iš gyvenamosios vietos pasitikrinti sveikatos, pasitikrinus sveikatą atgal į gyvenamąją vietą, iš gyvenamosios vietos į paskirtą privalomosios karo tarnybos vietą išlaidos pagal pateiktus keleivinio transporto (išskyrus taksi) bilietus, o tokių bilietų nepateikus, – pagal krašto apsaugos ministro nustatytus vieno kilometro važiavimo nuosavu transportu kompensuojamus dydžius. Karo prievolininkui apmokamų kiekvienos iš šioje dalyje nurodytų kelionių išlaidų dydis negali viršyti dydžio, kurį nustato Vyriausybė, atsižvelgdama į karo prievolininko gyvenamąją vietą. Kelionės išlaidos nekompensuojamos, kai karo prievolininkas vežamas karo prievolę administruojančios krašto apsaugos sistemos institucijos transportu arba jis šio transporto atsisako. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
- 
+39 straipsnis. Karo prievolininkų ir asmenų, sukakusių 17 metų, aprūpinimas, iki jie įstatymų nustatyta tvarka įgyja kario statusą
+
+
+1. Už kiekvieną tinkamumo privalomajai karo tarnybai tikrinimo dieną karo prievolininkams ir asmenims, sukakusiems 17 metų, mokami 0,2 Vyriausybės nustatytos bazinės socialinės išmokos dydžio dienpinigiai. 
 
 
 
 
-3. Karo prievolininkai jų tinkamumo karo tarnybai tikrinimo dienomis aprūpinami maistu pagal Vyriausybės ar jos įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems išmokama Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė kompensacija.
+2. Karo prievolininkams ir asmenims, sukakusiems 17 metų, apmokamos kelionių iš gyvenamosios vietos į karo prievolę administruojančią krašto apsaugos sistemos instituciją, iš karo prievolę administruojančios krašto apsaugos sistemos institucijos atgal į gyvenamąją vietą, iš gyvenamosios vietos į šaukimo punktą, iš šaukimo punkto atgal į gyvenamąją vietą, iš gyvenamosios vietos pasitikrinti sveikatos, pasitikrinus sveikatą atgal į gyvenamąją vietą, iš gyvenamosios vietos į paskirtą privalomosios karo tarnybos vietą išlaidos pagal pateiktus keleivinio transporto (išskyrus taksi) bilietus, o tokių bilietų nepateikus, – pagal krašto apsaugos ministro nustatytus vieno kilometro važiavimo nuosavu transportu kompensuojamus dydžius. Karo prievolininkui ir asmeniui, sukakusiam 17 metų, apmokamų kiekvienos iš šioje dalyje nurodytų kelionių išlaidų dydis negali viršyti dydžio, kurį nustato Vyriausybė, atsižvelgdama į karo prievolininko gyvenamąją vietą. Kelionės išlaidos nekompensuojamos, kai karo prievolininkas vežamas karo prievolę administruojančios krašto apsaugos sistemos institucijos transportu arba jis šio transporto atsisako. 
+
+
+
+
+3. Karo prievolininkai ir asmenys, sukakę 17 metų, jų tinkamumo karo tarnybai tikrinimo dienomis aprūpinami maistu pagal Vyriausybės ar jos įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems išmokama Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė kompensacija.
 
 
 
 
 4. Jeigu karo prievolininko tinkamumo privalomajai karo tarnybai tikrinimas trunka ilgiau kaip vieną darbo dieną, prireikus karo prievolininkui suteikiama nakvynė karo prievolę administruojančioje krašto apsaugos sistemos institucijoje arba karinio vieneto patalpose.
-Straipsnio dalies pakeitimai:
-Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
- 
 
 
 
 
-5. Šiame straipsnyje nurodytas aprūpinimas karo prievolininkui neteikiamas, jeigu jis nevykdo teisėtų karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymų.
+5. Šiame straipsnyje nurodytas aprūpinimas karo prievolininkui ir asmeniui, sukakusiam 17 metų, neteikiamas, jeigu jis nevykdo teisėtų karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymų.
 
 
 
 
 6. Šiame straipsnyje nurodytos išlaidos apmokamos iš Lietuvos Respublikos krašto apsaugos ministerijai tam tikslui skirtų valstybės biudžeto asignavimų krašto apsaugos ministro nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
  
-
-
 
 
 
@@ -2213,14 +2328,15 @@ Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
 
 
 
-42 straipsnis. Karo prievolės administravimo ir karo prievolininkų aprūpinimo ir skatinimo išlaidos
+42 straipsnis. Karo prievolės administravimo ir karo prievolininkų ir asmenų, sukakusių 17 metų, aprūpinimo ir skatinimo išlaidos
 
 
-Karo prievolės administravimo ir šiame įstatyme nustatyto karo prievolininkų aprūpinimo ir skatinimo išlaidos finansuojamos iš Lietuvos Respublikos krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų.
+Karo prievolės administravimo ir šiame įstatyme nustatyto karo prievolininkų ir asmenų, sukakusių 17 metų, aprūpinimo ir karo prievolininkų skatinimo išlaidos finansuojamos iš Lietuvos Respublikos krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų.
 
 
 Straipsnio pakeitimai:
 Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
+Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
  
 
 
@@ -2422,3 +2538,8 @@ Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 3, 15, 26, 29 ir 31 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2729, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11565
 Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-76, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23069
+Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 3, 5, 7, 13, 23-1, 24 ir 28 straipsnių pakeitimo įstatymas
