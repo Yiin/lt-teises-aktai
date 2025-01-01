@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2024-12-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -227,6 +227,14 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 
 
+113. Laikino apgyvendinimo vieta – pagal šį Įstatymą apgyvendinamiems užsieniečiams tam tikrą laiką gyventi skirta vieta, kurią valdo, administruoja arba parenka priėmimą užtikrinanti įstaiga. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
+
+
+
+
 12. Neteko galios nuo 2015-12-01.
 Straipsnio dalies pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
@@ -326,7 +334,9 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-171. Pabėgėlių priėmimo centras – biudžetinė įstaiga, teikianti socialines, apgyvendinimo ir kitas priėmimo sąlygas užtikrinančias paslaugas prieglobsčio prašytojams, užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje, nelydimiems nepilnamečiams užsieniečiams, užsieniečiams, esantiems ar buvusiems su prekyba žmonėmis susijusių nusikaltimų aukomis, užsieniečiams, kurie yra pažeidžiami asmenys, kol jie laukia sprendimo dėl grąžinimo ar išsiuntimo įgyvendinimo, užsieniečiams, perkeltiems į Lietuvos Respublikos teritoriją Lietuvos Respublikos Vyriausybės sprendimu. Pabėgėlių priėmimo centro savininko teises ir pareigas įgyvendina Lietuvos Respublikos socialinės apsaugos ir darbo ministerija. 
+171. Neteko galios nuo 2025-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 Papildyta straipsnio dalimi:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 Straipsnio dalies pakeitimai:
@@ -420,25 +430,39 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-231. Priėmimo sąlygos – prieglobsčio prašytojams Lietuvos Respublikoje teikiamų garantijų visuma. 
+231. Priėmimą užtikrinanti įstaiga – Lietuvos Respublikos Vyriausybės paskirta biudžetinė įstaiga, teikianti socialines, apgyvendinimo ir kitas priėmimo sąlygas užtikrinančias paslaugas prieglobsčio prašytojams, užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje, jų šeimos nariams šeimos susijungimo atvejais, nelydimiems nepilnamečiams užsieniečiams, užsieniečiams, esantiems ar buvusiems su prekyba žmonėmis susijusių nusikaltimų aukomis, užsieniečiams, sprendimo dėl jų grąžinimo į užsienio valstybę ar išsiuntimo iš Lietuvos Respublikos priėmimo ar įgyvendinimo laikotarpiu, užsieniečiams, perkeltiems į Lietuvos Respublikos teritoriją Lietuvos Respublikos Vyriausybės sprendimu, ir kitiems užsieniečiams, kuriems pagal šį ar kitus įstatymus ar Lietuvos Respublikos Vyriausybės sprendimu turi būti teikiamos priėmimo sąlygas užtikrinančios paslaugos ar dalis jų. Priėmimą užtikrinančios įstaigos savininko teises ir pareigas įgyvendina Lietuvos Respublikos socialinės apsaugos ir darbo ministerija. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
+
+
+
+
+232. Priėmimo sąlygos – prieglobsčio prašytojams Lietuvos Respublikoje teikiamų garantijų visuma. 
 Papildyta straipsnio dalimi:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
 
 
 
 
-232. Priimančioji įmonė – užsienio valstybėje, kuri nėra Europos Sąjungos valstybė narė, įsteigtos įmonės atstovybė, filialas ar tai pačiai įmonių grupei, kaip ji apibrėžiama Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme, priklausanti įmonė, jos atstovybė ar filialas (toliau – tai pačiai įmonių grupei priklausanti įmonė), kurie įsteigti Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje ir į kuriuos užsienietis perkeliamas įmonės viduje.
+233. Priimančioji įmonė – užsienio valstybėje, kuri nėra Europos Sąjungos valstybė narė, įsteigtos įmonės atstovybė, filialas ar tai pačiai įmonių grupei, kaip ji apibrėžiama Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme, priklausanti įmonė, jos atstovybė ar filialas (toliau – tai pačiai įmonių grupei priklausanti įmonė), kurie įsteigti Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje ir į kuriuos užsienietis perkeliamas įmonės viduje.
 Papildyta straipsnio dalimi:
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
 
 
 
 
-233. Priimantysis subjektas – Lietuvos mokslo ir studijų institucija (toliau – mokslo ir studijų institucija), savanoriškos veiklos organizatorius ar kita įmonė, įstaiga ar organizacija, priimantys užsienietį studijų, mokslinių tyrimų ir eksperimentinės plėtros darbų, stažuotės ar savanoriškos veiklos tikslu. 
+234. Priimantysis subjektas – Lietuvos mokslo ir studijų institucija (toliau – mokslo ir studijų institucija), savanoriškos veiklos organizatorius ar kita įmonė, įstaiga ar organizacija, priimantys užsienietį studijų, mokslinių tyrimų ir eksperimentinės plėtros darbų, stažuotės ar savanoriškos veiklos tikslu. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
 
 
@@ -575,9 +599,10 @@ Nr. XIII-2582, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20018
 
 
 
-31. Užsieniečio sulaikymas – užsieniečio laikinas apgyvendinimas Valstybės sienos apsaugos tarnyboje prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), apribojant jo judėjimo laisvę šio Įstatymo nustatytais pagrindais ir terminais. 
+31. Užsieniečio sulaikymas – laikinas užsieniečio judėjimo laisvės apribojimas šio Įstatymo nustatytais pagrindais ir terminais teisėsaugos institucijos pareigūno ar teismo sprendimu ir jo laikymas Valstybės sienos apsaugos tarnyboje prie Lietuvos Respublikos vidaus reikalų ministerijos ar kitoje teisėsaugos įstaigoje. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
 
 
@@ -650,7 +675,18 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 
 
-2) vidaus reikalų ministro nustatyta tvarka naudotis valstybės garantuojama teisine pagalba teikimo sulaikyti užsienietį arba skirti jam alternatyvią sulaikymui priemonę nagrinėjimo teisme metu;
+11) gyvendami laikino apgyvendinimo vietose susisiekti ir (ar) susitikti su Lietuvos Respublikos nevyriausybinių ar tarptautinių organizacijų atstovais; ši teisė sulaikytiems teismo sprendimu užsieniečiams užtikrinama vidaus reikalų ministro nustatyta tvarka; 
+Papildyta straipsnio punktu:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
+
+
+
+
+2) socialinės apsaugos ir darbo ministro nustatyta tvarka naudotis valstybės garantuojama teisine pagalba teikimo sulaikyti užsienietį arba skirti jam alternatyvią sulaikymui priemonę nagrinėjimo teisme metu; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 
@@ -665,17 +701,39 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 
 
-5) naudotis materialinėmis priėmimo sąlygomis, išskyrus teisę gauti piniginę pašalpą, o pažeidžiami asmenys – teisę naudotis jų specialiuosius poreikius atitinkančiomis priėmimo sąlygomis. Ši nuostata taikoma užsieniečiams, sulaikytiems arba apgyvendintiems Lietuvos Respublikos institucijų paskirtose vietose;
+5) naudotis materialinėmis priėmimo sąlygomis, išskyrus teisę gauti piniginę pašalpą, o pažeidžiami asmenys – teisę naudotis jų specialiuosius poreikius atitinkančiomis priėmimo sąlygomis. Ši nuostata taikoma sulaikytiems užsieniečiams ir kitiems užsieniečiams, apgyvendintiems laikino apgyvendinimo vietose; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 
 
-6) gauti 60 procentų valstybės remiamų pajamų dydžio pašalpą maistui, jeigu maitinimo paslauga nėra teikiama, socialinės apsaugos ir darbo ministro nustatyta tvarka tol, kol jie gyvena Pabėgėlių priėmimo centre;
+6) gauti 60 procentų valstybės remiamų pajamų dydžio pašalpą maistui, jeigu maitinimo paslauga nėra teikiama, socialinės apsaugos ir darbo ministro nustatyta tvarka tol, kol jie gyvena laikino apgyvendinimo vietoje; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 
 
 7) kitų teisių, jiems garantuojamų pagal Lietuvos Respublikos tarptautines sutartis, įstatymus ir kitus teisės aktus. 
+
+
+
+
+6. Tvarką, reglamentuojančią šio straipsnio 5 dalies 5 punkte nurodytų užsieniečių pažeidžiamumo nustatymą, nustato socialinės apsaugos ir darbo ministras. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
+
+
+
+
+7. Užsieniečiams, gavusiems prieglobstį, užsieniečiams, kuriems išduotas leidimas laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 8 ar 10 punkte nustatytu pagrindu, ir pažeidžiamiems užsieniečiams, kurių išsiuntimo iš Lietuvos Respublikos vykdymas sustabdytas dėl šio Įstatymo 128 straipsnio 2 dalies 2, 3 ir 4 punktuose nurodytų aplinkybių, savo lėšomis, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais, tvarka ir sąlygomis gali būti leista laikinai apsigyventi laikino apgyvendinimo vietose, jeigu jose yra laisvų vietų. Apmokėjimo už gyvenimą laikino apgyvendinimo vietose tvarką nustato socialinės apsaugos ir darbo ministras. Lietuvos Respublikos Vyriausybės nustatytais atvejais Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka šioje dalyje nurodytiems užsieniečiams leidžiama laikinai apsigyventi laikino apgyvendinimo vietose neatlygintinai. Tokiu atveju Lietuvos Respublikos valstybės biudžeto lėšos naudojamos tiek, kiek apgyvendinimo sąnaudos nedengiamos Europos Sąjungos struktūrinių fondų ir Lietuvos Respublikos fizinių ir juridinių asmenų įsteigtų humanitarinės pagalbos fondų lėšomis.
+Papildyta straipsnio dalimi:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 Papildyta straipsnio dalimi:
@@ -849,15 +907,19 @@ Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 
 
 
-6. Valstybės sienos apsaugos tarnyba prieglobsčio prašytojus, pateikusius prašymus suteikti prieglobstį pasienio kontrolės punktuose, tranzito zonose ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo, iki priimamas sprendimas įleisti juos į Lietuvos Respubliką, laikinai apgyvendina pasienio kontrolės punktuose, tranzito zonose ar Valstybės sienos apsaugos tarnyboje. 
+6. Prieglobsčio prašytojai, pateikę prašymus suteikti prieglobstį pasienio kontrolės punktuose, tranzito zonose ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo, iki priimamas sprendimas įleisti juos į Lietuvos Respubliką, apgyvendinami laikino apgyvendinimo vietose. Šių prieglobsčio prašytojų apgyvendinimo sąlygas ir tvarką nustato socialinės apsaugos ir darbo ministras. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
 
 
 
 
-7. Šio straipsnio 6 dalyje nurodytų prieglobsčio prašytojų laikino apgyvendinimo toje pačioje dalyje nurodytose laikino apgyvendinimo vietose sąlygas ir tvarką nustato vidaus reikalų ministras.
+7. Neteko galios nuo 2025-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 
@@ -1530,7 +1592,10 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 Ne vėliau kaip per 7 dienas informuoti Migracijos departamentą apie užsienietį privalo:
 
 
-1) darbdavys – apie darbo sutarties su užsieniečiu, turinčiu nacionalinę vizą, nutraukimą, apie užsieniečio neatvykimą ar neįdarbinimą, jeigu nuo darbdavio nurodytos dienos, kai užsienietis turėjo atvykti į Lietuvos Respubliką, praėjo daugiau kaip 10 dienų;
+1) darbdavys – apie užsieniečio, turinčio nacionalinę vizą, neatvykimą ar neįdarbinimą, jeigu nuo darbdavio nurodytos dienos, kai užsienietis turėjo atvykti į Lietuvos Respubliką, praėjo daugiau kaip 10 dienų;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -2083,7 +2148,10 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-8. Nelydimi nepilnamečiai užsieniečiai, kurie nėra prieglobsčio prašytojai, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos sprendimu apgyvendinami socialinės apsaugos ir darbo ministro, vidaus reikalų ministro ir sveikatos apsaugos ministro nustatyta tvarka.
+8. Nelydimi nepilnamečiai užsieniečiai, kurie nėra prieglobsčio prašytojai, apgyvendinami Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos sprendimu. Nelydimų nepilnamečių užsieniečių, kurie nėra prieglobsčio prašytojai, apgyvendinimo, amžiaus nustatymo, šeimos narių ar kitų teisėtų atstovų paieškos, teisinės padėties nustatymo ir kitų su jais susijusių procedūrinių veiksmų atlikimo tvarką nustato socialinės apsaugos ir darbo ministras, vidaus reikalų ministras ir sveikatos apsaugos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 Straipsnio pakeitimai:
@@ -2410,6 +2478,14 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 d) yra likviduojami, bankrutuojantys arba nevykdo ekonominės veiklos; 
 
 
+
+
+e) laikinojo įdarbinimo įmonė nėra įrašyta į Lietuvos Respublikos valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinė darbo inspekcija) sudaromą ir jos interneto svetainėje skelbiamą laikinojo įdarbinimo įmonių sąrašą, kai darbdavys užsienietį ketina įdarbinti pagal laikinojo darbo sutartį; 
+Papildyta papunkčiu:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
+
+
 Straipsnio punkto pakeitimai:
 Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
@@ -2446,6 +2522,22 @@ Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 
 
 
+20) yra išnaudota kvota, nustatyta vadovaujantis šio Įstatymo 571 straipsniu;
+Papildyta straipsnio punktu:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
+
+
+
+
+21) nustatoma, kad pas darbdavį, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba vieną iš darbdavių, kuris įsipareigoja įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, kai dėl leidimo laikinai gyventi kreipiamasi pagal šio Įstatymo 40 straipsnio 1 dalies 4 punktą, ilgiau negu 90 dienų per pastarųjų 180 dienų laikotarpį buvo nustatytas nedraudžiamasis laikotarpis bent dviem įdarbintiems užsieniečiams, išskyrus atvejus, kai užsienietis nedirbo dėl nėštumo, gimdymo, tėvystės atostogų ir (arba) atostogų vaikui prižiūrėti, ligos ar nelaimingo atsitikimo arba kai darbdavys pateikia dokumentą, patvirtinantį, kad tokiam užsieniečiui buvo taikomi ne Lietuvos Respublikos teisės aktai, reglamentuojantys socialinio draudimo sritį. 
+Papildyta straipsnio punktu:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
+
+
+
+
 
 
 11. Sprendimą dėl atsisakymo išduoti ar pakeisti leidimą laikinai gyventi šio straipsnio 1 dalies 18 punkte nustatytu pagrindu užsieniečiui, kuris yra surinkęs mažiau kaip 40 studijų kreditų per pastaruosius vienerius studijų metus, Migracijos departamentas gali priimti tik po konsultacijų su mokslo ir studijų institucija, kurioje šis užsienietis studijuoja. Mokslo ir studijų institucija per 10 darbo dienų nuo Migracijos departamento paklausimo pateikia informaciją Migracijos departamentui apie pateisinamas priežastis, dėl kurių užsienietis yra surinkęs mažiau kaip 40 studijų kreditų per pastaruosius vienerius studijų metus, ir kitą su užsieniečio studijomis susijusią reikšmingą informaciją. 
@@ -2456,7 +2548,7 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
 
 
-2. Užsienietis, kuriam atsisakyta išduoti ar pakeisti leidimą gyventi, gali pateikti prašymą išduoti leidimą gyventi praėjus ne mažiau kaip vieniems metams nuo sprendimo atsisakyti išduoti ar pakeisti leidimą gyventi priėmimo. Šis apribojimas netaikomas, kai leidimą laikinai gyventi atsisakyta išduoti ar pakeisti šio straipsnio 1 dalies 11, 16 ar 19 punkte nustatytais pagrindais arba kai dėl leidimo laikinai gyventi išdavimo kitu pagrindu kreipiasi nepilnametis užsienietis, kuriam atsisakyta išduoti leidimą laikinai gyventi, arba užsieniečio, kuriam suteiktas prieglobstis Lietuvos Respublikoje, šeimos narys, kuriam atsisakyta išduoti leidimą laikinai gyventi. 
+2. Užsienietis, kuriam atsisakyta išduoti ar pakeisti leidimą gyventi, gali pateikti prašymą išduoti leidimą gyventi praėjus ne mažiau kaip vieniems metams nuo sprendimo atsisakyti išduoti ar pakeisti leidimą gyventi priėmimo. Šis apribojimas netaikomas, kai leidimą laikinai gyventi atsisakyta išduoti ar pakeisti šio straipsnio 1 dalies 11, 16, 19, 20 ar 21 punkte nustatytais pagrindais arba kai dėl leidimo laikinai gyventi išdavimo kitu pagrindu kreipiasi nepilnametis užsienietis, kuriam atsisakyta išduoti leidimą laikinai gyventi, arba užsieniečio, kuriam suteiktas prieglobstis Lietuvos Respublikoje, šeimos narys, kuriam atsisakyta išduoti leidimą laikinai gyventi.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
@@ -2557,10 +2649,11 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 3. Ne vėliau kaip per 7 dienas informuoti Migracijos departamentą apie užsienietį privalo:
 
 
-1) darbdavys – apie darbo sutarties su užsieniečiu, turinčiu leidimą laikinai gyventi, nutraukimą, apie užsieniečio neatvykimą ar neįdarbinimą, jeigu nuo darbdavio nurodytos dienos, kai užsienietis turėjo atvykti į Lietuvos Respubliką, praėjo daugiau kaip 10 dienų, arba apie užsieniečio, priimto dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, darbo užmokesčio dydžio sumažėjimą, jeigu darbo užmokesčio dydis tampa mažesnis, negu nustatytas šio Įstatymo 441 straipsnio 1 dalies 1 punkte, arba darbo funkcijos keitimą; 
+1) darbdavys – apie užsieniečio, turinčio leidimą laikinai gyventi, neatvykimą ar neįdarbinimą, jeigu nuo darbdavio nurodytos dienos, kai užsienietis turėjo atvykti į Lietuvos Respubliką, praėjo daugiau kaip 10 dienų, arba apie užsieniečio, priimto dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, darbo užmokesčio dydžio sumažėjimą, jeigu darbo užmokesčio dydis tampa mažesnis, negu nustatytas šio Įstatymo 441 straipsnio 1 dalies 1 punkte, arba darbo funkcijos keitimą;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -3177,7 +3270,10 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 2) atitinka šias sąlygas:
 
 
-a) pateikiamas darbdavio įsipareigojimas įdarbinti užsienietį pagal darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui ir nustatyti visą darbo laiko normą. Jeigu užsienietis bus įdarbinamas pagal laikinojo darbo sutartį, pateikiamas laikinojo įdarbinimo įmonės, įrašytos į Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinė darbo inspekcija) sudaromą ir jos interneto svetainėje skelbiamą laikinojo įdarbinimo įmonių sąrašą, įsipareigojimas įdarbinti užsienietį pagal laikinojo darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui ir nustatyti visą darbo laiko normą bei darbo Lietuvos Respublikoje metu mokėti užsieniečiui mėnesinį darbo užmokestį, ne mažesnį negu Valstybės duomenų agentūros paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis bruto darbo užmokesčio šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) (toliau – paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU) dydis, o laikotarpiais tarp siuntimų – ne mažesnį negu Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga;
+a) pateikiamas darbdavio įsipareigojimas įdarbinti užsienietį pagal darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui ir nustatyti visą darbo laiko normą. Jeigu užsienietis bus įdarbinamas pagal laikinojo darbo sutartį, pateikiamas laikinojo įdarbinimo įmonės, įrašytos į Valstybinės darbo inspekcijos sudaromą ir jos interneto svetainėje skelbiamą laikinojo įdarbinimo įmonių sąrašą, įsipareigojimas įdarbinti užsienietį pagal laikinojo darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui ir nustatyti visą darbo laiko normą bei darbo Lietuvos Respublikoje metu mokėti užsieniečiui mėnesinį darbo užmokestį, ne mažesnį negu Valstybės duomenų agentūros paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis bruto darbo užmokesčio šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) (toliau – paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU) dydis, o laikotarpiais tarp siuntimų – ne mažesnį negu Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga; 
+Papunkčio pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -3187,7 +3283,10 @@ b) pateikiama darbdavio informacija arba apie užsieniečio turimą kvalifikacij
 
 
 
-c) Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) socialinės apsaugos ir darbo ministro nustatyta tvarka priima sprendimą dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams, išskyrus šio straipsnio 2 dalyje nurodytus atvejus.
+c) Neteko galios nuo 2025-01-01
+Papunkčio naikinimas:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -3196,7 +3295,34 @@ c) Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ir darbo min
 
 
 
-2. Šio straipsnio 1 dalies 2 punkto b ir c papunkčiuose nurodytos sąlygos netaikomos užsieniečiui, kuris, Lietuvos Respublikoje pabaigęs studijas ar mokymąsi pagal formaliojo profesinio mokymo programą, ketina dirbti ir kreipiasi dėl leidimo laikinai gyventi išdavimo arba keitimo šio Įstatymo 40 straipsnio 1 dalies 4 punkte nustatytu pagrindu nepraėjus 10 metų nuo studijų ar mokymosi pagal formaliojo profesinio mokymo programą baigimo. Šio straipsnio 1 dalies 2 punkto c papunktyje nurodyta sąlyga taip pat netaikoma užsieniečiui, kurio profesija yra įtraukta į Užimtumo tarnybos direktoriaus patvirtintą profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis (toliau – Profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašas pagal ekonominės veiklos rūšis) ir nėra išnaudota kvota, nustatoma pagal šio Įstatymo 571 straipsnį, ir užsieniečiui, kuriam buvo suteikta laikinoji apsauga ir kuriam leidimas laikinai gyventi šio straipsnio 1 dalies 2 punkte nustatytu pagrindu išduodamas pirmą kartą arba keičiamas, kai užsieniečio darbdavys nepasikeitė. Ši dalis netaikoma užsieniečiui, kuris ketina dirbti pagal laikinojo darbo sutartį.
+11. Užsieniečių, kuriems leidimai laikinai gyventi išduodami pagal šio straipsnio 1 dalies 2 punktą, skaičius nustatomas šio Įstatymo 571 straipsnyje nustatyta tvarka (toliau – kvota). 
+Papildyta straipsnio dalimi:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
+
+
+
+
+2. Šio straipsnio 1 dalies 2 punkto b papunktyje nurodytos sąlygos netaikomos užsieniečiui, kuris, Lietuvos Respublikoje pabaigęs studijas ar mokymąsi pagal formaliojo profesinio mokymo programą, ketina dirbti ir kreipiasi dėl leidimo laikinai gyventi išdavimo arba keitimo šio Įstatymo 40 straipsnio 1 dalies 4 punkte nustatytu pagrindu nepraėjus 10 metų nuo studijų ar mokymosi pagal formaliojo profesinio mokymo programą baigimo, užsieniečiui, kuriam suteikta laikinoji apsauga, ir užsieniečiui, kuriam leidimas laikinai gyventi išduotas šio Įstatymo 40 straipsnio 1 dalies 8 punkte nustatytu pagrindu dėl šio Įstatymo 1301 straipsnio 2 dalyje nurodytų aplinkybių. Ši dalis netaikoma užsieniečiui, kuris ketina dirbti pagal laikinojo darbo sutartį. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
+
+
+
+
+21. Šio straipsnio 1 dalies 2 punkto c papunktis netaikomas užsieniečiui, kuris pabaigė studijas ar mokymąsi pagal formaliojo profesinio mokymo programą Lietuvos Respublikoje ir ketina dirbti arba kuriam buvo suteikta laikinoji apsauga, arba kuriam leidimas laikinai gyventi išduotas šio Įstatymo 40 straipsnio 1 dalies 8 punkte nustatytu pagrindu dėl šio Įstatymo 1301 straipsnio 2 dalyje nurodytų aplinkybių. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
+
+
+
+
+22. Išnaudojus kvotą pagal šio Įstatymo 571 straipsnio 3 dalį, leidimas laikinai gyventi šio straipsnio 1 dalies 2 punkto pagrindu gali būti išduotas tik užsieniečiui, dėl kurio pateikiama darbdavio informacija apie numatomą užsieniečiui mokėti mėnesinį darbo užmokestį, ne mažesnį negu 1,2 paskutinio paskelbto kalendorinių metų vidutinio mėnesinio BDU dydžio, arba užsieniečiui, kuris ketina dirbti pagal profesiją, kuri yra įtraukta į Aukštą pridėtinę vertę kuriančių profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą, patvirtintą ekonomikos ir inovacijų ministro pagal Užimtumo įstatymo 481 straipsnio 7 dalį, dėl kurio pateikiama darbdavio informacija apie numatomą mokėti mėnesinį darbo užmokestį, ne mažesnį negu vieno paskutinio paskelbto kalendorinių metų vidutinio mėnesinio BDU dydžio. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -3216,7 +3342,10 @@ c) Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ir darbo min
 
 
 
-6. Jeigu užsienietis, kuriam leidimas laikinai gyventi išduotas pagal šio straipsnio 1 dalies 2 punktą, pageidauja pakeisti darbdavį arba darbo funkciją pas tą patį darbdavį, jis turi pateikti Migracijos departamentui prašymą leisti pakeisti darbdavį ar prašymą leisti pakeisti darbo funkciją. Patikrinęs, ar užsienietis atitinka šio straipsnio 1 dalies 2 punkte nustatytas sąlygas, o tais atvejais, kai turi būti priimtas šio straipsnio 1 dalies 2 punkto c papunktyje nurodytas Užimtumo tarnybos sprendimas, patikrinęs, ar šis sprendimas priimtas, Migracijos departamentas priima sprendimą dėl leidimo pakeisti darbdavį ar darbo funkciją ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo dienos. Jeigu kyla pagrįstų įtarimų dėl užsieniečio keliamos grėsmės valstybės saugumui, Migracijos departamentas gali kreiptis į Valstybės saugumo departamentą dėl grėsmės valstybės saugumui įvertinimo. Tokiu atveju Migracijos departamentas sustabdo sprendimo dėl leidimo pakeisti darbdavį ar darbo funkciją priėmimo terminą, kol bus gauta Valstybės saugumo departamento išvada dėl grėsmės valstybės saugumui, bet ne ilgiau kaip 2 mėnesiams. Apie sprendimo priėmimo termino sustabdymą užsienietis informuojamas raštu ne vėliau kaip per 2 darbo dienas nuo sprendimo priėmimo termino sustabdymo dienos. Migracijos departamento sprendimas dėl leidimo pakeisti darbdavį ar darbo funkciją galioja vieną mėnesį nuo jo priėmimo dienos. Prašymą leisti pakeisti darbdavį užsienietis gali pateikti praėjus ne mažiau kaip 6 mėnesiams nuo leidimo laikinai gyventi išdavimo dienos, išskyrus šio Įstatymo 50 straipsnio 21 dalyje nurodytus atvejus. 
+6. Jeigu užsienietis, kuriam leidimas laikinai gyventi išduotas pagal šio straipsnio 1 dalies 2 punktą, pageidauja pakeisti darbdavį arba darbo funkciją pas tą patį darbdavį, jis turi pateikti Migracijos departamentui prašymą leisti pakeisti darbdavį ar prašymą leisti pakeisti darbo funkciją. Patikrinęs, ar užsienietis atitinka šio straipsnio 1 dalies 2 punkte nustatytas sąlygas, Migracijos departamentas priima sprendimą dėl leidimo pakeisti darbdavį ar darbo funkciją ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo dienos. Jeigu kyla pagrįstų įtarimų dėl užsieniečio keliamos grėsmės valstybės saugumui, Migracijos departamentas gali kreiptis į Valstybės saugumo departamentą dėl grėsmės valstybės saugumui įvertinimo. Tokiu atveju Migracijos departamentas sustabdo sprendimo dėl leidimo pakeisti darbdavį ar darbo funkciją priėmimo terminą, kol bus gauta Valstybės saugumo departamento išvada dėl grėsmės valstybės saugumui, bet ne ilgiau kaip 2 mėnesiams. Apie sprendimo priėmimo termino sustabdymą užsienietis informuojamas raštu ne vėliau kaip per 2 darbo dienas nuo sprendimo priėmimo termino sustabdymo dienos. Migracijos departamento sprendimas dėl leidimo pakeisti darbdavį ar darbo funkciją galioja vieną mėnesį nuo jo priėmimo dienos. Prašymą leisti pakeisti darbdavį užsienietis gali pateikti praėjus ne mažiau kaip 6 mėnesiams nuo leidimo laikinai gyventi išdavimo dienos, išskyrus šio Įstatymo 50 straipsnio 21 dalyje nurodytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -3520,10 +3649,11 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-3) yra sportininkas, dalyvaujantis aukšto meistriškumo sporte, arba treneris, kaip jie apibrėžiami Lietuvos Respublikos sporto įstatyme, atvykstantys į Lietuvos Respubliką užsiimti sporto veikla;
+3) yra sportininkas, dalyvaujantis aukšto meistriškumo sporte, arba aukšto meistriškumo sporto treneris, kaip jie apibrėžiami Lietuvos Respublikos sporto įstatyme, atvykstantys į Lietuvos Respubliką užsiimti aukšto meistriškumo sporto veikla;
 Straipsnio punkto pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Nr. XIII-1557, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17473
+Nr. XIV-2866, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12651
  
 
 
@@ -4064,7 +4194,10 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
 
 
-2) paaiškėja, kad yra šio Įstatymo 35 straipsnio 1 dalyje nustatyti pagrindai; 
+2) paaiškėja, kad yra šio Įstatymo 35 straipsnio 1 dalies 1–19 punktuose nustatyti pagrindai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -4079,7 +4212,9 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
 
 
-5) panaikinamas sprendimas dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams; 
+5) Neteko galios nuo 2025-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 Straipsnio punkto pakeitimai:
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
  
@@ -4237,6 +4372,14 @@ Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
+
+
+f) yra išbrauktas iš Valstybinės darbo inspekcijos sudaromo ir jos interneto svetainėje skelbiamo laikinojo įdarbinimo įmonių sąrašo, kai užsieniečio darbdavys yra laikinojo įdarbinimo įmonė. 
+Papildyta papunkčiu:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
+
+
 Straipsnio punkto pakeitimai:
 Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
  
@@ -4277,7 +4420,7 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
 
 
-21. Migracijos departamentas, nustatęs, kad yra šio straipsnio 1 dalies 2 punkte nustatytas leidimo laikinai gyventi panaikinimo pagrindas, kai fizinis ar juridinis asmuo, kviečiantis užsienietį, pateikė tikrovės neatitinkančius duomenis arba pateikė neteisėtai įgytus ar suklastotus dokumentus, arba šio straipsnio 1 dalies 5 punkte nustatytas leidimo laikinai gyventi panaikinimo pagrindas, kai užsienietį įdarbinusi laikinojo įdarbinimo įmonė yra išbraukta iš Valstybinės darbo inspekcijos sudaromo ir jos interneto svetainėje skelbiamo laikinojo įdarbinimo įmonių sąrašo, taip pat šio straipsnio 1 dalies 19 punkte nustatyti leidimo laikinai gyventi panaikinimo pagrindai, informuoja užsienietį apie tai, kad jam leidimas laikinai gyventi bus panaikintas, jeigu per 3 mėnesius jis nepateiks prašymo leisti pakeisti darbdavį šio Įstatymo 44 straipsnio 7 dalyje ar 441 straipsnio 5 dalyje nustatyta tvarka arba jeigu jis nepakeis darbdavio per 6 mėnesius, kai užsienietis, turintis leidimą laikinai gyventi šio Įstatymo 441 straipsnyje nustatytu pagrindu, dirba Lietuvos Respublikoje ilgiau negu vienus metus. Jeigu užsienietis per 3 mėnesius nuo Migracijos departamento pranešimo išsiuntimo nepateikė prašymo leisti pakeisti darbdavį arba jeigu Migracijos departamentas, išnagrinėjęs užsieniečio pateiktą prašymą, priėmė sprendimą neleisti pakeisti darbdavio, arba jeigu užsienietis per 6 mėnesius neinformavo Migracijos departamento apie darbdavio keitimą, Migracijos departamentas priima sprendimą dėl leidimo laikinai gyventi panaikinimo šio straipsnio 1 dalies 2, 5 arba 19 punkte nustatytais pagrindais. 
+21. Migracijos departamentas, nustatęs, kad yra šio straipsnio 1 dalies 2 punkte nustatytas leidimo laikinai gyventi panaikinimo pagrindas, kai fizinis ar juridinis asmuo, kviečiantis užsienietį, pateikė tikrovės neatitinkančius duomenis arba pateikė neteisėtai įgytus ar suklastotus dokumentus, taip pat šio straipsnio 1 dalies 19 punkte nustatyti leidimo laikinai gyventi panaikinimo pagrindai, informuoja užsienietį apie tai, kad jam leidimas laikinai gyventi bus panaikintas, jeigu per 3 mėnesius jis nepateiks prašymo leisti pakeisti darbdavį šio Įstatymo 44 straipsnio 7 dalyje ar 441 straipsnio 5 dalyje nustatyta tvarka arba jeigu jis nepakeis darbdavio per 6 mėnesius, kai užsienietis, turintis leidimą laikinai gyventi šio Įstatymo 441 straipsnyje nustatytu pagrindu, dirba Lietuvos Respublikoje ilgiau negu vienus metus. Jeigu užsienietis per 3 mėnesius nuo Migracijos departamento pranešimo išsiuntimo nepateikė prašymo leisti pakeisti darbdavį arba jeigu Migracijos departamentas, išnagrinėjęs užsieniečio pateiktą prašymą, priėmė sprendimą neleisti pakeisti darbdavio, arba jeigu užsienietis per 6 mėnesius neinformavo Migracijos departamento apie darbdavio keitimą, Migracijos departamentas priima sprendimą dėl leidimo laikinai gyventi panaikinimo šio straipsnio 1 dalies 2 arba 19 punkte nustatytais pagrindais.
 Papildyta straipsnio dalimi:
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 Straipsnio dalies pakeitimai:
@@ -4791,7 +4934,10 @@ UŽSIENIEČIŲ DARBAS LIETUVOS RESPUBLIKOJE
 
 
 
-3. Leidimą dirbti (prireikus jo dublikatą) užsieniečiui išduoda ir panaikina, leidimo dirbti galiojimo laiką pratęsia Užimtumo tarnyba.
+3. Leidimą dirbti (prireikus jo dublikatą) užsieniečiui išduoda ir panaikina, leidimo dirbti galiojimo laiką pratęsia Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba).
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 Straipsnio pakeitimai:
@@ -4805,45 +4951,31 @@ Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 571 straipsnis. Kvotos nustatymas ir naudojimas
 
 
-1. Kvota nustatoma užsieniečiams, kurie atvyksta į Lietuvos Respubliką dirbti pagal profesiją, kuri įtraukta į Profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis, kurie atleidžiami nuo pareigos įsigyti leidimą dirbti ir dėl kurių darbo atitikties Lietuvos darbo rinkos poreikiams Užimtumo tarnyba neturi priimti sprendimo (toliau – kvota). 
+1. Remdamasis Užimtumo tarnybos atliekama darbo rinkos stebėsena, padėties darbo rinkoje vertinimu ir jos pokyčių prognoze Užimtumo tarnybos direktorius socialinės apsaugos ir darbo ministrui teikia siūlymą dėl kvotos nustatymo.
 
 
 
 
-2. Remdamasis Užimtumo tarnybos atliekama darbo rinkos stebėsena, padėties darbo rinkoje vertinimu ir jos pokyčių prognoze Užimtumo tarnybos direktorius tvirtina Profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis kalendoriniams metams ir socialinės apsaugos ir darbo ministrui teikia siūlymą dėl kvotos nustatymo ar jos patikslinimo. Profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašas pagal ekonominės veiklos rūšis gali būti patikslintas vieną kartą per metus.  
+2. Įvertinęs šio straipsnio 1 dalyje nurodytą siūlymą dėl kvotos nustatymo, kvotą kalendoriniams metams tvirtina socialinės apsaugos ir darbo ministras, suderinęs su vidaus reikalų ministru. Nustatomas kvotos dydis kalendoriniams metams negali būti didesnis negu 1,4 procento Valstybės duomenų agentūros praėjusių kalendorinių metų liepos 1 dieną paskelbto Lietuvos nuolatinių gyventojų skaičiaus dydžio.
 
 
 
 
-3. Atsižvelgdamas į šio straipsnio 2 dalyje nurodytą siūlymą dėl kvotos nustatymo, kvotą kalendoriniams metams tvirtina socialinės apsaugos ir darbo ministras, suderinęs su vidaus reikalų ministru. Kvotos dydis gali būti patikslintas vieną kartą per metus. Kvotos nustatymo kalendoriniams metams tvarką nustato socialinės apsaugos ir darbo ministras, suderinęs su vidaus reikalų ministru. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
- 
+3. Kvota laikoma išnaudota, jeigu užsieniečių, kuriems tais metais buvo išduoti leidimai laikinai gyventi šio Įstatymo 44 straipsnio 1 dalies 2 punkte nustatytu pagrindu, skaičius pasiekia kalendoriniams metams nustatytą kvotą.
 
 
 
 
-4. Kvota laikoma išnaudota, jeigu užsieniečiams, kurie atvyksta dirbti pagal profesiją, kuri įtraukta į Profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis, Lietuvos Respublikos diplomatinių atstovybių ar konsulinių įstaigų užsienyje išduotų nacionalinių vizų, Migracijos departamento išduotų leidimų laikinai gyventi skaičius ir šio Įstatymo 62 straipsnio 2 dalyje nurodytų užsieniečių, apie kurių įdarbinimą pagal tokią profesiją pranešta Užimtumo tarnybai, skaičius bendrai pasiekia kalendoriniams metams nustatytą kvotą. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
- 
+4. Kvotos nustatymo kalendoriniams metams ir papildomos kvotos nustatymo tvarką nustato socialinės apsaugos ir darbo ministras, suderinęs su vidaus reikalų ministru.
 
 
 
 
-5. Migracijos departamentas skaičiuoja kvotos išnaudojimą ir apie išnaudotą kvotą skelbia viešai. Užimtumo tarnyba teikia Migracijos departamentui informaciją apie šio Įstatymo 62 straipsnio 2 dalyje nurodytų užsieniečių įdarbinimą ne vėliau kaip kitą darbo dieną nuo informacijos apie užsieniečio įdarbinimą gavimo šio Įstatymo 62 straipsnio 8 dalyje nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
- 
+5. Migracijos departamentas skaičiuoja kvotos išnaudojimą ir apie išnaudotą kvotą skelbia viešai.
 
 
-
-
-6. Išnaudojus kvotą, šio straipsnio 1 dalyje nurodyti užsieniečiai, kurie ketina dirbti Lietuvos Respublikoje, privalo įsigyti leidimą dirbti.
-
-
-Papildyta straipsniu:
-Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+Straipsnio pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -5094,117 +5226,9 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-611 straipsnis. Sprendimas dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams
-
-
-1. Užimtumo tarnyba socialinės apsaugos ir darbo ministro nustatyta tvarka priima sprendimą dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams įvertinusi, ar užsieniečio, kuris ketina kreiptis arba kreipiasi dėl leidimo laikinai gyventi išdavimo pagal šio Įstatymo 44 straipsnio 1 dalies 2 punktą, darbas atitinka Lietuvos Respublikos darbo rinkos poreikius.
-
-
-
-
-2. Užimtumo tarnyba atsisako priimti šio Įstatymo 44 straipsnio 1 dalies 2 punkto c papunktyje nurodytą sprendimą dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams, jeigu:
-
-
-1) užsieniečio įdarbinimas neatitinka Lietuvos Respublikos darbo rinkos poreikių;
-
-
-
-
-2) užsienietis neatitinka leidimo laikinai gyventi išdavimo sąlygų, nustatytų šio Įstatymo 44 straipsnio 1 dalies 2 punkte;
-
-
-
-
-3) užsieniečio darbo užmokestis neatitinka šio Įstatymo 62 straipsnio 5 dalyje nurodyto dydžio, kai vertinama užsieniečio kvalifikacija arba darbo patirtis;
-
-
-
-
-4) darbdavys, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba bent vienas iš darbdavių, kuris įsipareigoja įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, yra bausti už leidimą dirbti nelegalų darbą ar nedeklaruotą darbą, ar užsieniečių įdarbinimo tvarkos pažeidimus pagal Užimtumo įstatymo nuostatas ir nuo dienos, kurią skirta nuobauda baigta vykdyti, praėjo mažiau kaip vieneri metai arba per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbo, arba darbdavio, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba bent vieno iš darbdavių, kuris įsipareigoja įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, vadovas ar vadovo įgaliotas asmuo buvo bausti už leidimą dirbti nelegalų darbą, nedeklaruotą darbą ar užsieniečių įdarbinimo tvarkos pažeidimus pagal Užimtumo įstatymo nuostatas ir (arba) buvo skirta administracinė nuobauda pagal Administracinių nusižengimų kodeksą už nelegalų darbą, ir nuo dienos, kurią skirta bauda sumokėta ar įpareigojimas įvykdytas, praėjo mažiau kaip vieneri metai;
-
-
-
-
-5) darbdavys, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba bent vienas iš darbdavių, kuris įsipareigoja įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, yra likviduojamas, bankrutuojantis arba nevykdo ekonominės veiklos;
-
-
-
-
-6) darbdavys, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba bent vienas iš darbdavių, kuris įsipareigoja įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, turi didesnę negu vieno bazinės socialinės išmokos dydžio mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar Valstybinio socialinio draudimo fondo biudžetui (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas);
-
-
-
-
-7) pateikti suklastoti dokumentai arba juose yra tikrovės neatitinkančių duomenų;
-
-
-
-
-8) pateikti ne visi reikalingi dokumentai;
-
-
-
-
-9) nustatoma, kad pas darbdavį, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba pas bent vieną iš darbdavių, kuris ketina įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, ilgiau negu 90 dienų per pastarųjų 180 dienų laikotarpį buvo nustatytas nedraudžiamasis laikotarpis nors vienam įdarbintam užsieniečiui, išskyrus atvejus, kai užsienietis nedirbo dėl nėštumo, gimdymo, tėvystės atostogų ir (arba) atostogų vaikui prižiūrėti, ligos ar nelaimingo atsitikimo arba kai darbdavys pateikia dokumentą, patvirtinantį, kad tokiam užsieniečiui buvo taikomi ne Lietuvos Respublikos teisės aktai, reglamentuojantys socialinio draudimo sritį;
-
-
-
-
-10) laikinojo įdarbinimo įmonė nėra įtraukta į Valstybinės darbo inspekcijos sudaromą ir jos interneto svetainėje skelbiamą laikinojo įdarbinimo įmonių sąrašą.
-
-
-
-
-
-
-3. Sprendimas dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams panaikinamas, jeigu:
-
-
-1) darbo sutartis nutraukta;
-
-
-
-
-2) darbdavys, kuris įsipareigojo įdarbinti užsienietį pagal darbo sutartį, arba bent vienas iš darbdavių, kuris įsipareigojo įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, yra likviduojamas ar buvo likviduotas arba nevykdo jokios ekonominės veiklos;
-
-
-
-
-3) paaiškėja, kad pateikti suklastoti dokumentai arba juose yra tikrovės neatitinkančių duomenų;
-
-
-
-
-4) darbdavys, kuris įsipareigojo įdarbinti užsienietį pagal darbo sutartį, arba bent vienas iš darbdavių, kuris įsipareigojo įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, yra bausti už leidimą dirbti nelegalų darbą ar nedeklaruotą darbą, ar užsieniečių įdarbinimo tvarkos pažeidimus pagal Užimtumo įstatymo nuostatas ir nuo dienos, kurią skirta nuobauda baigta vykdyti, praėjo mažiau kaip vieneri metai arba per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbo, arba darbdavio, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba bent vieno iš darbdavių, kurie įsipareigojo įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, vadovas ar vadovo įgaliotas asmuo buvo bausti už leidimą dirbti nelegalų darbą, nedeklaruotą darbą ar užsieniečių įdarbinimo tvarkos pažeidimus pagal Užimtumo įstatymo nuostatas ir (arba) buvo skirta administracinė nuobauda pagal Administracinių nusižengimų kodeksą už nelegalų darbą, ir nuo dienos, kurią skirta bauda sumokėta ar įpareigojimas įvykdytas, praėjo mažiau kaip vieneri metai;
-
-
-
-
-5) pateiktas arba darbdavio, arba pirmojo darbdavio, arba užsieniečio prašymas panaikinti sprendimą;
-
-
-
-
-6) panaikinamas užsieniečio leidimas laikinai gyventi;
-
-
-
-
-7) laikinojo įdarbinimo įmonė yra išbraukta iš Valstybinės darbo inspekcijos sudaromo ir jos interneto svetainėje skelbiamo laikinojo įdarbinimo įmonių sąrašo.
-
-
-
-
-
-
-4. Sprendimas dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams pripažįstamas netekusiu galios, jeigu užsienietis, laikydamasis šio Įstatymo 44 straipsnio 6 dalyje nustatytų reikalavimų, pakeičia darbdavį ir naujasis darbdavys pateikė informaciją apie užsieniečio įdarbinimą šio Įstatymo 62 straipsnio 8 dalyje nustatyta tvarka.
-
-
-
-
-5. Nustačius, kad yra šio straipsnio 3 dalies 2, 4 ar 7 punkte nustatyti sprendimo dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams panaikinimo pagrindai, Užimtumo tarnyba informuoja Migracijos departamentą ir sprendimas dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams nepanaikinamas 3 mėnesius nuo užsieniečio informavimo dienos, išskyrus šio straipsnio 4 dalyje nurodytą atvejį, kai naujasis užsieniečio darbdavys pateikia informaciją apie užsieniečio įdarbinimą šio Įstatymo 62 straipsnio 8 dalyje nustatyta tvarka. 
-
-
+611 straipsnis. Neteko galios nuo 2025-01-01
+Straipsnio naikinimas:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 Straipsnio pakeitimai:
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
@@ -5261,12 +5285,17 @@ Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 
 
 
-8. Darbdavys, įmonė, į kurią užsienietis komandiruojamas laikinai dirbti, arba fizinis asmuo, pas kurį užsienietis komandiruojamas laikinai dirbti, informaciją apie įdarbintą arba komandiruotą laikinai dirbti į Lietuvos Respubliką užsienietį teikia Valstybinei darbo inspekcijai prie Socialinės apsaugos ir darbo ministerijos ir Užimtumo tarnybai per Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos informacinę sistemą Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktoriaus, Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus ir Užimtumo tarnybos direktoriaus nustatyta tvarka.
+8. Darbdavys, įdarbinęs užsienietį, įmonė, į kurią užsienietis komandiruojamas laikinai dirbti, arba fizinis asmuo, pas kurį užsienietis komandiruojamas laikinai dirbti, informaciją apie įdarbintą arba komandiruotą laikinai dirbti į Lietuvos Respubliką užsienietį, taip pat apie darbo sutarties nutraukimą teikia Migracijos departamentui, Valstybinei darbo inspekcijai ir Užimtumo tarnybai per Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos informacinę sistemą Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktoriaus, Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus ir Užimtumo tarnybos direktoriaus nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
 
-9. Kai užsieniečiui atsisakoma išduoti leidimą dirbti šio Įstatymo 63 straipsnio 1 dalies 7 ar 9 punkte nustatytu pagrindu arba priimti sprendimą dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams šio Įstatymo 611 straipsnio 2 dalies 7 ar 9 punkte nustatytu pagrindu, darbdavys, kuris buvo įsipareigojęs užsienietį įdarbinti, gali pateikti prašymą išduoti leidimą dirbti arba priimti sprendimą dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams praėjus ne mažiau kaip 6 mėnesiams nuo sprendimo atsisakyti išduoti leidimą dirbti ar priimti sprendimą dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams priėmimo dienos.
+9. Kai užsieniečiui atsisakoma išduoti leidimą dirbti šio Įstatymo 63 straipsnio 1 dalies 7 ar 9 punkte nustatytu pagrindu, darbdavys, kuris buvo įsipareigojęs užsienietį įdarbinti, gali pateikti prašymą išduoti leidimą dirbti praėjus ne mažiau kaip 6 mėnesiams nuo sprendimo atsisakyti išduoti leidimą dirbti priėmimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -5620,9 +5649,18 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
 
 
-6. Tvarką, reglamentuojančią užsieniečių prašymų suteikti prieglobstį pateikimą ir nagrinėjimą, nustatymą, ar prieglobsčio prašytojas yra pažeidžiamas asmuo, sprendimų priėmimą ir jų vykdymą, nustato vidaus reikalų ministras. 
+51. Tvarką, reglamentuojančią užsieniečių prašymų suteikti prieglobstį pateikimą ir nagrinėjimą, sprendimų priėmimą ir jų vykdymą, nustato vidaus reikalų ministras. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
+
+
+
+
+6. Tvarką, reglamentuojančią prieglobsčio prašytojų pažeidžiamumo nustatymą, nustato socialinės apsaugos ir darbo ministras.
 Straipsnio dalies pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
 
 
@@ -5709,7 +5747,10 @@ Prieglobsčio prašytojui, neteisėtai atvykusiam į Lietuvos Respublikos terito
 1. Prieglobsčio prašytojas Lietuvos Respublikoje turi šias teises:
 
 
-1) gyvendamas Lietuvos Respublikos institucijų paskirtose apgyvendinimo vietose, sulaikymo vietose, pasienio kontrolės punktuose, tranzito zonose arba Valstybės sienos apsaugos tarnyboje, naudotis materialinėmis priėmimo sąlygomis; 
+1) gyvendamas laikino apgyvendinimo vietoje ar pasirinktoje gyvenamojoje vietoje, laikomas sulaikytas Valstybės sienos apsaugos tarnyboje, naudotis materialinėmis priėmimo sąlygomis; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 
@@ -5724,7 +5765,10 @@ Prieglobsčio prašytojui, neteisėtai atvykusiam į Lietuvos Respublikos terito
 
 
 
-4) vidaus reikalų ministro nustatyta tvarka naudotis valstybės garantuojama teisine pagalba tiek, kiek tai susiję su prašymo suteikti prieglobstį nagrinėjimu;
+4) socialinės apsaugos ir darbo ministro nustatyta tvarka naudotis valstybės garantuojama teisine pagalba tiek, kiek tai susiję su užsieniečio sulaikymu arba alternatyvios sulaikymui priemonės skyrimu ar pratęsimu ir skundžiant pirmosios instancijos teismui sprendimus, susijusius su prašymu suteikti prieglobstį; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 
@@ -5739,9 +5783,10 @@ Prieglobsčio prašytojui, neteisėtai atvykusiam į Lietuvos Respublikos terito
 
 
 
-7) nemokamai gauti būtinąją medicinos pagalbą, psichologinę pagalbą ir socialines paslaugas Valstybės sienos apsaugos tarnyboje, Pabėgėlių priėmimo centre ar kitoje apgyvendinimo vietoje, taip pat kitą Sveikatos sistemos įstatyme nurodytą valstybės laiduojamą (nemokamą) sveikatos priežiūrą; 
+7) nemokamai gauti būtinąją medicinos pagalbą, psichologinę pagalbą ir socialines paslaugas laikino apgyvendinimo vietoje ar kitoje gyvenamojoje vietoje, o sulaikytas prieglobsčio prašytojas – Valstybės sienos apsaugos tarnyboje, taip pat kitą Sveikatos sistemos įstatyme nurodytą valstybės laiduojamą (nemokamą) sveikatos priežiūrą; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
 
 
@@ -5790,17 +5835,20 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-21. Prieglobsčio prašytojai, laikinai gyvendami Pabėgėlių priėmimo centre, socialinės apsaugos ir darbo ministro nustatyta tvarka turi teisę gauti 60 procentų valstybės remiamų pajamų dydžio pašalpą maistui, jeigu maitinimo paslauga nėra teikiama. 
+21. Prieglobsčio prašytojai, laikinai gyvendami laikino apgyvendinimo vietoje ar jų pasirinktoje gyvenamojoje vietoje, socialinės apsaugos ir darbo ministro nustatyta tvarka turi teisę gauti 60 procentų valstybės remiamų pajamų dydžio pašalpą maistui, jeigu maitinimo paslauga nėra teikiama. 
 Papildyta straipsnio dalimi:
 Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
+Straipsnio dalies pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
 
 
 
 
-3. Prieglobsčio prašytojams, išskyrus prieglobsčio prašytojus, dėl kurių priimamas Migracijos departamento sprendimas įleisti į Lietuvos Respubliką ir šis sprendimas dar nėra priimtas, gyvenantiems Lietuvos Respublikos institucijų paskirtose laikino apgyvendinimo arba sulaikymo vietose, socialinės apsaugos ir darbo ministro ir vidaus reikalų ministro nustatyta tvarka kas mėnesį mokama 10 procentų valstybės remiamų pajamų dydžio piniginė pašalpa. Ši pašalpa mokama nuo prašymo gauti piniginę pašalpą socialinės apsaugos ir darbo ministro ir vidaus reikalų ministro nustatyta tvarka pateikimo dienos. 
+3. Prieglobsčio prašytojams, išskyrus prieglobsčio prašytojus, dėl kurių priimamas Migracijos departamento sprendimas įleisti į Lietuvos Respubliką ir šis sprendimas dar nėra priimtas, gyvenantiems laikino apgyvendinimo vietoje ar jų pasirinktoje gyvenamojoje vietoje arba laikomiems sulaikytiems Valstybės sienos apsaugos tarnyboje, socialinės apsaugos ir darbo ministro nustatyta tvarka kas mėnesį mokama 10 procentų valstybės remiamų pajamų dydžio piniginė pašalpa. Ši pašalpa mokama nuo prašymo gauti piniginę pašalpą pateikimo dienos. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
 
 
@@ -5862,7 +5910,10 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-6. Paaiškėjus, kad prieglobsčio prašytojas turėjo lėšų apmokėti už šio straipsnio 1 dalies  1–5 punktuose nustatytų teisių įgyvendinimą ir naudojosi šiomis teisėmis nemokamai ir (arba) turėjo lėšų ir gavo šio straipsnio 3 dalyje nurodytą piniginę pašalpą, taip pat paaiškėjus, kad prieglobsčio prašytojo finansinė būklė pagerėjo, arba jis, deklaruodamas lėšas, pateikė klaidinančią informaciją arba nedeklaravo gautų lėšų, jis privalo padengti valstybės turėtas išlaidas. Tvarką, reglamentuojančią valstybės išlaidų apskaičiavimą ir turėtų išlaidų padengimą, nustato vidaus reikalų ministras.
+6. Paaiškėjus, kad prieglobsčio prašytojas turėjo lėšų apmokėti už šio straipsnio 1 dalies 1–5 punktuose nustatytų teisių įgyvendinimą ir naudojosi šiomis teisėmis nemokamai ir (arba) turėjo lėšų ir gavo šio straipsnio 3 dalyje nurodytą piniginę pašalpą, taip pat paaiškėjus, kad prieglobsčio prašytojo finansinė būklė pagerėjo, arba jis, deklaruodamas lėšas, pateikė klaidinančią informaciją arba nedeklaravo gautų lėšų, jis privalo visiškai arba iš dalies atlyginti valstybės patirtas išlaidas. Tvarką, reglamentuojančią šioje dalyje nurodytų teisių įgyvendinimą prieglobsčio prašytojo lėšomis, valstybės išlaidų apskaičiavimą ir patirtų išlaidų atlyginimą, nustato socialinės apsaugos ir darbo ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 
@@ -5872,7 +5923,10 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-8. Teisę likti Lietuvos Respublikos teritorijoje turinčiam prieglobsčio prašytojui, gyvenančiam Lietuvos Respublikos institucijų paskirtoje apgyvendinimo arba sulaikymo vietoje, nevykdančiam pareigų, išvardytų šio straipsnio 4 dalies 4, 5 ir 6 punktuose, ir (ar) nesilaikančiam apgyvendinimo Lietuvos Respublikos institucijų paskirtose apgyvendinimo vietose tvarkos, socialinės apsaugos ir darbo ministro ir vidaus reikalų ministro nustatyta tvarka gali būti apribotas arba nutrauktas, o nustačius šio straipsnio 6 dalyje nurodytas aplinkybes, – turi būti nutrauktas šio straipsnio 3 dalyje numatytos piniginės pašalpos mokėjimas.
+8. Teisę likti Lietuvos Respublikos teritorijoje turinčiam prieglobsčio prašytojui, gyvenančiam laikino apgyvendinimo vietoje arba laikomam sulaikytam Valstybės sienos apsaugos tarnyboje, nevykdančiam pareigų, išvardytų šio straipsnio 4 dalies 4 ir 5 punktuose, ir (ar) nesilaikančiam laikino apgyvendinimo vietose ar Valstybės sienos apsaugos tarnyboje nustatytos tvarkos, o prieglobsčio prašytojui, gyvenančiam savo pasirinktoje gyvenamojoje vietoje, nevykdančiam pareigų, išvardytų šio straipsnio 4 dalies 4–6 punktuose, socialinės apsaugos ir darbo ministro nustatyta tvarka gali būti apribotas arba nutrauktas, o nustačius šio straipsnio 6 dalyje nurodytas aplinkybes, turi būti nutrauktas šio straipsnio 3 dalyje numatytos piniginės pašalpos mokėjimas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 
@@ -6130,62 +6184,32 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 79 straipsnis. Prieglobsčio prašytojo apgyvendinimas Lietuvos Respublikoje
 
 
-1. Migracijos departamentas priima sprendimą dėl prieglobsčio prašytojo apgyvendinimo, išskyrus atvejus, kai prieglobsčio prašytojas yra sulaikytas arba jam skirta alternatyvi sulaikymui priemonė Lietuvos Respublikos įstatymų nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
-Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
- 
+1. Prieglobsčio prašytojai, išskyrus šio straipsnio 2 ir 5 dalyse nurodytus atvejus ir prieglobsčio prašytojus, kurie yra sulaikyti, apgyvendinami laikino apgyvendinimo vietose. 
 
 
 
 
-2. Prieglobsčio prašytojai, išskyrus nurodytus šio Įstatymo 5 straipsnio 6 dalyje, laikinai apgyvendinami Valstybės sienos apsaugos tarnyboje arba Pabėgėlių priėmimo centre. Prieglobsčio prašytojai gali būti apgyvendinami ir kitose apgyvendinimo vietose. Prieglobsčio prašytojui pateikus prašymą, Migracijos departamento sprendimu jam gali būti leista apsigyventi jo pasirinktoje gyvenamojoje vietoje.
-Straipsnio dalies pakeitimai:
-Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
-Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
-Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
-Nr. XIV-2427, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25931
- 
+2. Prieglobsčio prašytojui pateikus prašymą, Migracijos departamento sprendimu jam gali būti leista apsigyventi jo pasirinktoje gyvenamojoje vietoje. 
 
 
 
 
-3. Prieglobsčio prašytojų laikino apgyvendinimo Valstybės sienos apsaugos tarnyboje sąlygas ir tvarką nustato vidaus reikalų ministras, o laikino apgyvendinimo Pabėgėlių priėmimo centre sąlygas ir tvarką nustato socialinės apsaugos ir darbo ministras. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
-Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
- 
+3. Prieglobsčio prašytojų apgyvendinimo laikino apgyvendinimo vietose sąlygas ir tvarką nustato socialinės apsaugos ir darbo ministras. 
 
 
 
 
-4. Nelydimas nepilnametis prieglobsčio prašytojas vidaus reikalų ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka apgyvendinamas pas pilnamečius giminaičius, atstovą arba Pabėgėlių priėmimo centre, jeigu jo atstovas tam neprieštarauja. Sprendžiant dėl nelydimo nepilnamečio apgyvendinimo, atsižvelgiama į nepilnamečio nuomonę pagal jo amžių ir brandą. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
-Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
- 
+4. Nelydimas nepilnametis prieglobsčio prašytojas apgyvendinamas pas atstovą arba laikino apgyvendinimo vietoje, jeigu jo atstovas tam neprieštarauja, vadovaujantis šio Įstatymo 32 straipsnio 8 dalyje nurodyta socialinės apsaugos ir darbo ministro, vidaus reikalų ministro ir sveikatos apsaugos ministro nustatyta tvarka. Sprendžiant dėl nelydimo nepilnamečio apgyvendinimo, atsižvelgiama į nepilnamečio nuomonę pagal jo amžių ir brandą. 
 
 
 
 
-5. Pažeidžiami asmenys ir jų šeimos nariai gali būti apgyvendinti kitose apgyvendinimo vietose, atitinkančiose jų specialiuosius poreikius. Pažeidžiamiems asmenims Migracijos departamento sprendimu, kai tai įmanoma, leidžiama apsigyventi su teisėtai Lietuvos Respublikos teritorijoje esančiu pilnamečiu artimuoju giminaičiu arba atstovu. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
- 
+5. Pažeidžiami asmenys ir jų šeimos nariai apgyvendinami jų specialiuosius poreikius atitinkančioje laikino apgyvendinimo vietoje. Pažeidžiamiems asmenims Migracijos departamento sprendimu, kai tai įmanoma, leidžiama apsigyventi su teisėtai Lietuvos Respublikos teritorijoje esančiu pilnamečiu artimuoju giminaičiu, atstovu arba kitose jų specialiuosius poreikius atitinkančiose apgyvendinimo vietose.
 
 
-
-
-6. Prieglobsčio prašytojų apgyvendinimo kitose apgyvendinimo vietose tvarką, reikalavimus tokioms apgyvendinimo vietoms ir prieglobsčio prašytojų priėmimo jose sąlygas, įskaitant materialinėms priėmimo sąlygoms užtikrinti skiriamų lėšų dydžius, nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
-Papildyta straipsnio dalimi:
-Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
- 
-
-
-Straipsnio pakeitimas:
-Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
 Straipsnio pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
 
 
@@ -6344,7 +6368,10 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 1. Prieglobsčio prašytojo prašymo suteikti prieglobstį nagrinėjimas nutraukiamas, jeigu:
 
 
-1) prieglobsčio prašytojas raštu pareiškia norą nutraukti prašymo nagrinėjimą;
+2) prieglobsčio prašytojas be leidimo išvyko iš laikino apgyvendinimo vietos ar kitos jam paskirtos apgyvendinimo vietos arba negrįžo į šias apgyvendinimo vietas ilgiau kaip 72 valandas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 
@@ -6905,9 +6932,10 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-5) pateikę prašymą išduoti arba pakeisti leidimą laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 4 ar 10 punkte nurodytu pagrindu, – dirbti (taip pat ir pagal laikinojo darbo sutartį) ir yra atleidžiami nuo pareigos įsigyti leidimą dirbti, gauti Užimtumo tarnybos sprendimą dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams, taip pat vykdyti savarankišką veiklą; 
+5) pateikę prašymą išduoti arba pakeisti leidimą laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 4 ar 10 punkte nurodytu pagrindu, – dirbti (taip pat ir pagal laikinojo darbo sutartį) ir vykdyti savarankišką veiklą;
 Straipsnio punkto pakeitimai:
 Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -7847,7 +7875,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 1. Užsieniečiai, gavę prieglobstį Lietuvos Respublikoje, Lietuvos valstybės paramos integracijai laikotarpiu iš integracijai įgyvendinti skiriamų lėšų turi šias teises: 
 
 
-1) gyvendami Pabėgėlių priėmimo centre gauti mėnesinę pašalpą maistui ir smulkioms išlaidoms;
+1) gyvendami laikino apgyvendinimo vietoje gauti mėnesinę pašalpą maistui ir smulkioms išlaidoms;
 
 
 
@@ -7862,22 +7890,22 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-4) gyvendami Pabėgėlių priėmimo centre ir gyvenamojoje vietoje savivaldybės teritorijoje gauti vienkartinę pašalpą vaiko, kuris mokosi pagal ikimokyklinio, priešmokyklinio ar bendrojo ugdymo programą, būtiniausiems mokymo reikmenims įsigyti;
+4) gyvendami laikino apgyvendinimo vietoje ar gyvenamojoje vietoje savivaldybės teritorijoje gauti vienkartinę pašalpą vaiko, kuris mokosi pagal ikimokyklinio, priešmokyklinio ar bendrojo ugdymo programą, būtiniausiems mokymo reikmenims įsigyti;
 
 
 
 
-5) gyvendami Pabėgėlių priėmimo centre ir gyvenamojoje vietoje savivaldybės teritorijoje gauti mėnesinę kompensaciją atlyginimui švietimo teikėjui už vaiko, ugdomo pagal ikimokyklinio ar priešmokyklinio ugdymo programas, išlaikymą apmokėti; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+5) gyvendami laikino apgyvendinimo vietoje ar gyvenamojoje vietoje savivaldybės teritorijoje gauti mėnesinę kompensaciją atlyginimui švietimo teikėjui už vaiko, ugdomo pagal ikimokyklinio ar priešmokyklinio ugdymo programas, išlaikymą apmokėti;
+
+
+
+
+6) naudotis kitomis paslaugomis laikino apgyvendinimo vietoje ar gyvenamojoje vietoje savivaldybės teritorijoje, kurios Lietuvos valstybės paramos integracijai laikotarpiu teikiamos paramos integracijai srityse pagal šio Įstatymo 109 straipsnio 3 dalyje nurodytos Lietuvos valstybės paramos teikimą integracijai įgyvendinančios institucijos ar įstaigos su užsieniečiu, gavusiu prieglobstį Lietuvos Respublikoje, sudarytą sutartį dėl Lietuvos valstybės paramos integracijai teikimo.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
-
-
-
-
-6) naudotis kitomis paslaugomis Pabėgėlių priėmimo centre ir gyvenamojoje vietoje savivaldybės teritorijoje, kurios Lietuvos valstybės paramos integracijai laikotarpiu teikiamos paramos integracijai srityse pagal šio Įstatymo 109 straipsnio 3 dalyje nurodytos Lietuvos valstybės paramos teikimą integracijai įgyvendinančios institucijos ar įstaigos su užsieniečiu, gavusiu prieglobstį Lietuvos Respublikoje, sudarytą sutartį dėl Lietuvos valstybės paramos integracijai teikimo.
-
-
 
 
 
@@ -8188,9 +8216,10 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 
 
-7) užsienietis, apgyvendintas Valstybės sienos apsaugos tarnyboje, pažeidė laikino išvykimo iš Valstybės sienos apsaugos tarnybos tvarką;
+7) užsienietis, apgyvendintas laikino apgyvendinimo vietoje, pažeidė laikino išvykimo iš laikino apgyvendinimo vietos tvarką;
 Straipsnio punkto pakeitimai:
 Nr. XIV-2427, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25931
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
 
 
@@ -8300,7 +8329,7 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 2. Alternatyvios sulaikymui priemonės yra:
 
 
-1) užsienietis nustatytu laiku periodiškai turi atvykti į Migracijos departamentą arba Valstybės sienos apsaugos tarnybą;
+1) užsienietis nustatytu laiku periodiškai turi atvykti į Migracijos departamentą arba Valstybės sienos apsaugos tarnybą; 
 
 
 
@@ -8310,19 +8339,30 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-3) patikėti prižiūrėti užsienietį Lietuvos Respublikos piliečiui arba Lietuvos Respublikoje teisėtai gyvenančiam užsieniečiui, jei šis asmuo įsipareigojo rūpintis juo ir jį išlaikyti;
+3) patikėti prižiūrėti užsienietį Lietuvos Respublikos piliečiui arba Lietuvos Respublikoje teisėtai gyvenančiam užsieniečiui, jeigu šis asmuo įsipareigojo rūpintis juo ir jį išlaikyti;
 
 
 
 
-4) apgyvendinti užsienietį Valstybės sienos apsaugos tarnyboje netaikant judėjimo laisvės apribojimų;
+4) apgyvendinti užsienietį laikino apgyvendinimo vietoje netaikant judėjimo laisvės apribojimų;
 
 
 
 
+5) apgyvendinti užsienietį laikino apgyvendinimo vietoje nustatant pareigą neišvykti iš laikino apgyvendinimo vietai priklausančios teritorijos be laikino apgyvendinimo vietos vadovo ar jo įgalioto asmens leidimo. 
 
 
-3. Jeigu nevykdomos teismo sprendimu paskirtos šio straipsnio 2 dalyje išvardytos alternatyvios sulaikymui priemonės, Valstybės sienos apsaugos tarnyba kreipiasi į teismą su teikimu sulaikyti užsienietį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
+
+
+
+
+3. Jeigu nevykdomos ar pažeidžiamos teismo sprendimu paskirtos šio straipsnio 2 dalyje išvardytos alternatyvios sulaikymui priemonės, Migracijos departamento ar priėmimą užtikrinančios įstaigos prašymu arba savo iniciatyva Valstybės sienos apsaugos tarnyba kreipiasi į teismą su teikimu sulaikyti užsienietį. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 
@@ -8340,9 +8380,11 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
 
 
-6. Jeigu užsieniečiui skirta šio straipsnio 2 dalies 5 punkte nurodyta alternatyvi sulaikymui priemonė, jam apgyvendinimo vietos vadovo ar jo įgalioto asmens leidimu gali būti leista laikinai išvykti iš apgyvendinimo vietos, kai yra valdoma pasišalinimo iš apgyvendinimo vietos rizika.
+6. Jeigu užsieniečiui skirta šio straipsnio 2 dalies 5 punkte nurodyta alternatyvi sulaikymui priemonė, jam laikino apgyvendinimo vietos vadovo ar jo įgalioto asmens leidimu gali būti leista laikinai išvykti iš laikino apgyvendinimo vietos, kai yra valdoma pasišalinimo iš laikino apgyvendinimo vietos rizika.
 Papildyta straipsnio dalimi:
 Nr. XIV-2427, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25931
+Straipsnio dalies pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
 
 
@@ -8353,14 +8395,19 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 
 
-1151 straipsnis. Sulaikytų užsieniečių arba užsieniečių, kuriems skirta alternatyvi sulaikymui priemonė, laikinas apgyvendinimas 
+1151 straipsnis. Sulaikytų užsieniečių laikymas arba užsieniečių, kuriems skirta alternatyvi sulaikymui priemonė, apgyvendinimas 
 
 
-Užsieniečių, sulaikytų ilgiau kaip 48 valandoms, arba užsieniečių, kuriems skirta alternatyvi sulaikymui priemonė, laikino apgyvendinimo Valstybės sienos apsaugos tarnyboje sąlygas ir tvarką nustato vidaus reikalų ministras. 
+1. Užsieniečių, sulaikytų ilgiau kaip 48 valandoms ir laikomų Valstybės sienos apsaugos tarnyboje, laikymo sąlygas ir tvarką nustato vidaus reikalų ministras, o priėmimo sąlygų, kurias sulaikytiems užsieniečiams užtikrina priėmimą užtikrinanti įstaiga, apimtį ir tvarką nustato socialinės apsaugos ir darbo ministras ir vidaus reikalų ministras.
 
 
-Papildyta straipsniu:
-Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+
+
+2. Užsieniečių, kuriems skirta alternatyvi sulaikymui priemonė, apgyvendinimo laikino apgyvendinimo vietose sąlygas ir tvarką nustato socialinės apsaugos ir darbo ministras.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
 
 
@@ -8572,7 +8619,10 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 123 straipsnis. Amžiaus nustatymo tyrimas
 
 
-1. Amžiaus nustatymo tyrimas atliekamas, kai yra pagrįstų abejonių dėl užsieniečio nurodyto amžiaus. Nelydimų nepilnamečių užsieniečių amžiaus nustatymo tyrimas atliekamas socialinės apsaugos ir darbo ministro, vidaus reikalų ministro ir sveikatos apsaugos ministro nustatyta tvarka, o prieglobsčio prašytojų – vidaus reikalų ministro nustatyta tvarka.
+1. Amžiaus nustatymo tyrimas atliekamas, kai yra pagrįstų abejonių dėl užsieniečio nurodyto amžiaus, socialinės apsaugos ir darbo ministro, vidaus reikalų ministro ir sveikatos apsaugos ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 
@@ -9791,7 +9841,10 @@ UŽSIENIEČIŲ ATVYKIMAS IR PRIEGLOBSČIO LIETUVOS RESPUBLIKOJE SUTEIKIMAS
 
 
 
-3. Migracijos departamentas, nustatęs, kad yra šio Įstatymo 76 straipsnio 4 dalyje arba 77 straipsnio 1 dalyje nurodytų aplinkybių ir nėra individualių aplinkybių, susijusių su prieglobsčio prašytojo amžiumi, sveikatos būkle, šeimine padėtimi ar kitų individualių aplinkybių, dėl kurių negalėtų būti ribojama prieglobsčio prašytojo teisė laisvai judėti Lietuvos Respublikos teritorijoje, priima sprendimą laikinai apgyvendinti prieglobsčio prašytoją, pateikusį prašymą suteikti prieglobstį pasienio kontrolės punkte, tranzito zonoje ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo, pasienio kontrolės punkte, tranzito zonoje, Valstybės sienos apsaugos tarnyboje, Pabėgėlių priėmimo centre ar kitoje apgyvendinimo vietoje, patalpoje, laikiname būste ar kitoje tam pritaikytoje vietoje, nesuteikiant jam teisės laisvai judėti Lietuvos Respublikos teritorijoje, iki priimamas sprendimas jį įleisti į Lietuvos Respubliką. Šis teisės laisvai judėti Lietuvos Respublikos teritorijoje ribojimas negali būti taikomas ilgiau kaip 5 mėnesius, o nelydimam nepilnamečiam prieglobsčio prašytojui, kai yra pagrįstų abejonių dėl užsieniečio nurodyto amžiaus, – iki bus nustatytas jo amžius, bet ne ilgiau kaip 28 dienas nuo prieglobsčio prašytojo užregistravimo Lietuvos migracijos informacinėje sistemoje dienos. Jeigu pasikeičia su prieglobsčio prašytoju susijusios aplinkybės ir Migracijos departamentas jas įvertinęs nustato, kad nėra šio Įstatymo 76 straipsnio 4 dalyje arba 77 straipsnio 1 dalyje nurodytų aplinkybių ir (ar) atsirado individualių aplinkybių, dėl kurių negalėtų būti ribojama prieglobsčio prašytojo teisė laisvai judėti Lietuvos Respublikos teritorijoje, Migracijos departamentas priima šio straipsnio 2 dalyje nurodytą sprendimą.
+3. Migracijos departamentas, nustatęs, kad yra šio Įstatymo 76 straipsnio 4 dalyje arba 77 straipsnio 1 dalyje nurodytų aplinkybių ir nėra individualių aplinkybių, susijusių su prieglobsčio prašytojo amžiumi, sveikatos būkle, šeimine padėtimi ar kitų individualių aplinkybių, dėl kurių negalėtų būti ribojama prieglobsčio prašytojo teisė laisvai judėti Lietuvos Respublikos teritorijoje, priima sprendimą laikinai apgyvendinti prieglobsčio prašytoją, pateikusį prašymą suteikti prieglobstį pasienio kontrolės punkte, tranzito zonoje ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo, priėmimą užtikrinančios įstaigos paskirtoje laikino apgyvendinimo vietoje, nesuteikiant jam teisės laisvai judėti Lietuvos Respublikos teritorijoje, iki priimamas sprendimas jį įleisti į Lietuvos Respubliką. Šis teisės laisvai judėti Lietuvos Respublikos teritorijoje ribojimas negali būti taikomas ilgiau kaip 5 mėnesius, o nelydimam nepilnamečiam prieglobsčio prašytojui, kai yra pagrįstų abejonių dėl užsieniečio nurodyto amžiaus, – iki bus nustatytas jo amžius, bet ne ilgiau kaip 28 dienas nuo prieglobsčio prašytojo užregistravimo Lietuvos migracijos informacinėje sistemoje dienos. Jeigu pasikeičia su prieglobsčio prašytoju susijusios aplinkybės ir Migracijos departamentas jas įvertinęs nustato, kad nėra šio Įstatymo 76 straipsnio 4 dalyje arba 77 straipsnio 1 dalyje nurodytų aplinkybių ir (ar) atsirado individualių aplinkybių, dėl kurių negalėtų būti ribojama prieglobsčio prašytojo teisė laisvai judėti Lietuvos Respublikos teritorijoje, Migracijos departamentas priima šio straipsnio 2 dalyje nurodytą sprendimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 
@@ -9806,17 +9859,26 @@ UŽSIENIEČIŲ ATVYKIMAS IR PRIEGLOBSČIO LIETUVOS RESPUBLIKOJE SUTEIKIMAS
 
 
 
-6. Pabėgėlių priėmimo centre pirmiausia apgyvendinami šio straipsnio 3 ir 4 dalyse nurodyti prieglobsčio prašytojai ir užsieniečiai, kurie yra pažeidžiami asmenys. Jeigu šio straipsnio 3 ir 4 dalyse nurodytiems prieglobsčio prašytojams ir užsieniečiams laikino apgyvendinimo vietose neteikiamos medicinos, socialinės, švietimo, maitinimo ir (ar) kitos paslaugos, psichologinė pagalba, prieglobsčio prašytojams ir užsieniečiams laikino apgyvendinimo vietos vadovo ar jo įgalioto asmens leidimu gali būti leidžiama laikinai išvykti iš laikino apgyvendinimo vietų, kad gautų šias paslaugas ar įsigytų maisto produktų, kai yra valdoma pasišalinimo iš laikino apgyvendinimo vietų rizika. Teikiant šioje dalyje nurodytas paslaugas nepilnamečiams, prioritetas teikiamas paslaugų suteikimui už laikino apgyvendinimo vietos ribų, kai yra valdoma pasišalinimo iš laikino apgyvendinimo vietos rizika.
+6. Jeigu šio straipsnio 3 ir 4 dalyse nurodytiems prieglobsčio prašytojams ir užsieniečiams laikino apgyvendinimo vietose neteikiamos medicinos, socialinės, švietimo, maitinimo ir (ar) kitos paslaugos, psichologinė pagalba, prieglobsčio prašytojams ir užsieniečiams laikino apgyvendinimo vietos vadovo ar jo įgalioto asmens leidimu gali būti leidžiama laikinai išvykti iš laikino apgyvendinimo vietos, kad gautų šias paslaugas ar įsigytų maisto produktų, kai yra valdoma pasišalinimo iš laikino apgyvendinimo vietų rizika. Teikiant šioje dalyje nurodytas paslaugas nepilnamečiams, prioritetas teikiamas paslaugų suteikimui už laikino apgyvendinimo vietos ribų, kai yra valdoma pasišalinimo iš laikino apgyvendinimo vietos rizika. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 
 
-7. Šio straipsnio 3 ir 4 dalyse nurodytų prieglobsčio prašytojų ir užsieniečių laikino apgyvendinimo šio straipsnio 3 dalyje nurodytose laikino apgyvendinimo vietose, išskyrus Pabėgėlių priėmimo centrą, sąlygas bei tvarką ir laikino išvykimo iš laikino apgyvendinimo vietų tvarką nustato vidaus reikalų ministras. Šio straipsnio 3 ir 4 dalyse nurodytų prieglobsčio prašytojų ir užsieniečių laikino apgyvendinimo Pabėgėlių priėmimo centre sąlygas bei tvarką ir laikino išvykimo tvarką nustato socialinės apsaugos ir darbo ministras.
+7. Šio straipsnio 3 ir 4 dalyse nurodytų prieglobsčio prašytojų ir užsieniečių laikino apgyvendinimo šio straipsnio 3 dalyje nurodytose laikino apgyvendinimo vietose sąlygas bei tvarką ir laikino išvykimo iš laikino apgyvendinimo vietų tvarką nustato socialinės apsaugos ir darbo ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 
 
-8. Jeigu per įvestos karo padėties, nepaprastosios padėties, taip pat paskelbtos ekstremaliosios situacijos dėl masinio užsieniečių antplūdžio laikotarpį ir 28 dienas jam pasibaigus, tačiau ne ilgiau kaip per 5 mėnesius nuo užsieniečio užregistravimo Lietuvos migracijos informacinėje sistemoje dienos, nebuvo priimtas galutinis sprendimas dėl prieglobsčio prašytojo, laikinai apgyvendinto šio straipsnio 3 dalyje nurodytose laikino apgyvendinimo vietose, teisinės padėties, Migracijos departamentas priima sprendimą įleisti tokį prieglobsčio prašytoją į Lietuvos Respubliką ir apgyvendinti jį šio Įstatymo 79 ir 14016 straipsniuose nustatyta tvarka šio straipsnio 3 dalyje nurodytose laikino apgyvendinimo vietose, išskyrus pasienio kontrolės punktus ir tranzito zonas, neribojant jo teisės laisvai judėti Lietuvos Respublikos teritorijoje. Prieglobsčio prašytojui pateikus prašymą, Migracijos departamento sprendimu jam gali būti leista apsigyventi jo pasirinktoje gyvenamojoje vietoje. 
+8. Jeigu per įvestos karo padėties, nepaprastosios padėties, taip pat paskelbtos ekstremaliosios situacijos dėl masinio užsieniečių antplūdžio laikotarpį ir 28 dienas jam pasibaigus, tačiau ne ilgiau kaip per 5 mėnesius nuo užsieniečio užregistravimo Lietuvos migracijos informacinėje sistemoje dienos, nebuvo priimtas galutinis sprendimas dėl prieglobsčio prašytojo, laikinai apgyvendinto šio straipsnio 3 dalyje nurodytose laikino apgyvendinimo vietose, teisinės padėties, Migracijos departamentas priima sprendimą įleisti tokį prieglobsčio prašytoją į Lietuvos Respubliką ir apgyvendinti jį šio Įstatymo 79 ir 14016 straipsniuose nustatyta tvarka šio straipsnio 3 dalyje nurodytose laikino apgyvendinimo vietose, neribojant jo teisės laisvai judėti Lietuvos Respublikos teritorijoje. Prieglobsčio prašytojui pateikus prašymą, Migracijos departamento sprendimu jam gali būti leista apsigyventi jo pasirinktoje gyvenamojoje vietoje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+ 
 
 
 
@@ -10075,13 +10137,10 @@ Vertinant aplinkybes, dėl kurių prašymas suteikti prieglobstį nenagrinėjama
 
 
 
-14016 straipsnis. Prieglobsčio prašytojo apgyvendinimas Lietuvos Respublikoje
-
-
-Nelydimas nepilnametis prieglobsčio prašytojas apgyvendinamas šio Įstatymo 79 straipsnio 4 dalyje nurodytose ar kitose nepilnamečiams gyventi tinkamose apgyvendinimo vietose, jeigu jo atstovas tam neprieštarauja.
+14016 straipsnis. Neteko galios nuo 2025-01-01
+Straipsnio naikinimas:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
-
-
 
 
 
@@ -10112,41 +10171,10 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-14019 straipsnis. Alternatyvios sulaikymui priemonės
-
-
-1. Alternatyvios sulaikymui priemonės yra:
-
-
-1) nurodytos šio Įstatymo 115 straipsnio 2 dalies 1, 2 ir 3 punktuose;
-
-
-
-
-2) užsieniečio apgyvendinimas Valstybės sienos apsaugos tarnyboje ar kitoje tam pritaikytoje vietoje netaikant judėjimo laisvės apribojimų; 
-
-
-
-
-3) užsieniečio apgyvendinimas Valstybės sienos apsaugos tarnyboje ar kitoje tam pritaikytoje vietoje nustatant pareigą neišvykti iš apgyvendinimo vietai priklausančios teritorijos be apgyvendinimo vietos vadovo ar jo įgalioto asmens leidimo. 
-Straipsnio punkto pakeitimai:
-Nr. XIV-2427, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25931
+14019 straipsnis. Neteko galios nuo 2025-01-01
+Straipsnio naikinimas:
+Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
  
-
-
-
-
-
-
-2. Šio straipsnio 1 dalies 2 punkte nurodyta alternatyvi sulaikymui priemonė gali būti skirta tik prieglobsčio prašytojams ir užsieniečiams, dėl kurių prašymų suteikti prieglobstį priimtas galutinis sprendimas ir kurie yra grąžinami į užsienio valstybę.
-
-
-
-
-3. Šio Įstatymo 115 straipsnio 5 dalies nuostatos dėl alternatyvios sulaikymui priemonės skyrimo netaikomos.
- 
-
-
 
 
 
