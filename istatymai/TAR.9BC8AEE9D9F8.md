@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2022-07-16 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 3-37, i. k. 0941010ISTA000I-733
  
@@ -180,7 +180,10 @@ Nr. XIV-540, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20299
 
 
 
-13. Kultūros paveldas – karta iš kartos paveldimos, perimamos, sukurtos ir perduodamos kultūros vertybės, svarbios etniniu, istoriniu, estetiniu ar moksliniu požiūriu.
+13. Neteko galios nuo 2025-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2764, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11411
+ 
 
 
 
@@ -334,9 +337,11 @@ Nr. XIII-2318, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12113
 
 
 
-42. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos želdynų įstatyme, Lietuvos Respublikos žemės įstatyme.
+42. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos kultūros politikos pagrindų įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos želdynų įstatyme, Lietuvos Respublikos žemės įstatyme.
 Papildyta straipsnio dalimi:
 Nr. XIII-2182, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09964
+Straipsnio dalies pakeitimai:
+Nr. XIV-2764, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11411
  
 
 
@@ -3316,3 +3321,8 @@ Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-73
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1368, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15669
 Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 25, 30 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 30-2, 30-3, 30-4, 30-5 straipsniais įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2764, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11411
+Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 2 straipsnio pakeitimo įstatymas
