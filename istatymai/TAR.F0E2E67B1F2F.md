@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 
 # Lietuvos Respublikos turizmo įstatymas
 
-Suvestinė redakcija nuo 2024-05-06 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
  
@@ -217,7 +217,9 @@ Nr. XIV-2572, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08213
 
 
 
-29. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos įmonių atskaitomybės įstatyme, Lietuvos Respublikos juridinių asmenų nemokumo įstatyme, Lietuvos Respublikos paslaugų įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme, Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos vartotojų teisių apsaugos įstatyme, Lietuvos Respublikos civilinės saugos įstatyme, Lietuvos Respublikos karo padėties įstatyme, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatyme ir Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme.
+29. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos juridinių asmenų nemokumo įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos paslaugų įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme, Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos vartotojų teisių apsaugos įstatyme, Lietuvos Respublikos karo padėties įstatyme, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatyme, Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“ ir Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3014, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17779
  
 
 
@@ -1846,13 +1848,13 @@ APGYVENDINIMO PASLAUGOS
 
 
 
-32 straipsnis. Apgyvendinimo paslaugų teikimo bendrieji reikalavimai
+32 straipsnis. Bendrieji apgyvendinimo paslaugų teikimo reikalavimai
 
 
-Apgyvendinimo paslaugų teikėjas privalo:
+1. Apgyvendinimo paslaugų teikėjas privalo:
 
 
-1) teikti apgyvendinamiems asmenims tikslią ir teisingą informaciją apie apgyvendinimo paslaugų teikimo vietą, žvaigždučių skaičių (išskyrus neklasifikuojamųjų apgyvendinimo paslaugų teikėjus), teikiamas paslaugas ir apgyvendinimo paslaugų kainą; 
+1) teikti apgyvendinamiems asmenims tikslią ir teisingą informaciją apie apgyvendinimo paslaugų teikimo vietą, žvaigždučių skaičių (išskyrus neklasifikuojamųjų apgyvendinimo paslaugų teikėjus), teikiamas paslaugas ir apgyvendinimo paslaugų kainą;
 
 
 
@@ -1862,7 +1864,7 @@ Apgyvendinimo paslaugų teikėjas privalo:
 
 
 
-3) užtikrinti, kad apgyvendinami asmenys, išskyrus kartu su jais atvykusius nepilnamečius vaikus, patvirtintų savo tapatybę – pateiktų apgyvendinimo paslaugos teikėjui galiojantį asmens tapatybę patvirtinantį dokumentą. Apgyvendinimo paslaugų teikėjas ne vėliau kaip per 24 valandas nuo asmens apgyvendinimo dienos informuoja apie apgyvendintus asmenis, išskyrus kartu su jais atvykusius nepilnamečius vaikus, – elektroniniu būdu pateikia reikiamus asmens tapatybę patvirtinančiuose dokumentuose esančius duomenis ekonomikos ir inovacijų ministro nustatyta tvarka ir priemonėmis. Asmens duomenys tvarkomi keliautojų ir turistų apskaitos ir 1990 m. birželio 19 d. Konvencijos dėl Šengeno susitarimo, 1985 m. birželio 14 d. sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo 45 straipsnio 1 dalies b punkte nurodytais tikslais;
+3) užtikrinti, kad apgyvendinami asmenys, išskyrus kartu su jais atvykusius nepilnamečius vaikus, patvirtintų savo tapatybę – pateiktų apgyvendinimo paslaugos teikėjui, išskyrus apgyvendinimo paslaugų teikėją, teikiantį kaimo turizmo paslaugas, galiojantį asmens tapatybę patvirtinantį dokumentą. Apgyvendinimo paslaugų teikėjas, išskyrus apgyvendinimo paslaugų teikėją, teikiantį kaimo turizmo paslaugas, ne vėliau kaip per 24 valandas nuo asmens apgyvendinimo dienos informuoja apie apgyvendintus asmenis, išskyrus kartu su jais atvykusius nepilnamečius vaikus, ekonomikos ir inovacijų ministro nustatyta tvarka elektroniniu būdu Nacionalinei turizmo informacinei sistemai pateikia reikiamus asmens tapatybę patvirtinančiuose dokumentuose esančius duomenis. Asmens duomenys tvarkomi keliautojų ir turistų apskaitos ir 1990 m. birželio 19 d. Konvencijos dėl Šengeno susitarimo, 1985 m. birželio 14 d. sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo 45 straipsnio 1 dalies b punkte nurodytais tikslais;
 
 
 
@@ -1872,7 +1874,7 @@ Apgyvendinimo paslaugų teikėjas privalo:
 
 
 
-5) nutraukęs apgyvendinimo paslaugų teikimą, per 10 darbo dienų nuo apgyvendinimo paslaugų teikimo nutraukimo dienos apie tai informuoti Vyriausybės įgaliotą instituciją; 
+5) nutraukęs apgyvendinimo paslaugų teikimą, per 10 darbo dienų nuo apgyvendinimo paslaugų teikimo nutraukimo dienos apie tai informuoti Vyriausybės įgaliotą instituciją;
 
 
 
@@ -1882,8 +1884,14 @@ Apgyvendinimo paslaugų teikėjas privalo:
 
 
 
+
+
+2. Apgyvendinimo paslaugų teikėjas, teikiantis kaimo turizmo paslaugas, privalo užtikrinti, kad apgyvendinami užsieniečiai, išskyrus kartu su jais atvykusius nepilnamečius vaikus, patvirtintų savo tapatybę – pateiktų apgyvendinimo paslaugos teikėjui, teikiančiam kaimo turizmo paslaugas, galiojantį asmens tapatybę patvirtinantį dokumentą. Apgyvendinimo paslaugų teikėjas, teikiantis kaimo turizmo paslaugas, ne rečiau kaip kartą per mėnesį nuo asmens apgyvendinimo dienos ekonomikos ir inovacijų ministro nustatyta tvarka elektroniniu būdu Nacionalinei turizmo informacinei sistemai pateikia reikiamus asmens tapatybę patvirtinančiuose dokumentuose esančius duomenis apie apgyvendintus užsieniečius, išskyrus kartu su jais atvykusius nepilnamečius vaikus, ir duomenis apie apgyvendintų Lietuvos Respublikos piliečių skaičių ir jų nakvynių skaičių. Asmens duomenys tvarkomi keliautojų ir turistų apskaitos ir 1990 m. birželio 19 d. Konvencijos dėl Šengeno susitarimo, 1985 m. birželio 14 d. sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo 45 straipsnio 1 dalies b punkte nurodytais tikslais.
+
+
 Straipsnio pakeitimai:
 Nr. XIV-1464, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22574
+Nr. XIV-3014, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17779
  
 
 
@@ -2513,3 +2521,8 @@ Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2572, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08213
 Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 1 straipsnio pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3014, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17779
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2 ir 32 straipsnių pakeitimo įstatymas
