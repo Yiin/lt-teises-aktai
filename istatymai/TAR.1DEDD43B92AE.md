@@ -20,14 +20,9 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2023-04-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
- 
-TAR pastaba. Įstatymo Nr. XIV-1842  nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos išmokų vaikams įstatymo nuostatos.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1842, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05738
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 17, 20, 21 ir 24 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2018-01-01:
 Nr. XIII-822, 2017-12-05, paskelbta TAR 2017-12-18, i. k. 2017-20326
@@ -220,40 +215,62 @@ Nustatomos šios išmokų rūšys:
 
 
 
-6) vienkartinė išmoka nėščiai moteriai;
+6) vaiko priežiūros kompensacinė išmoka; 
+TAR pastaba: jeigu vaiko tėvai (įtėviai) ar globėjai ir fizinis asmuo, vykdantis vaikų dienos priežiūrą Lietuvos Respublikoje pagal individualios veiklos vykdymo pažymą ar darbo sutartį, vaiko priežiūros sutartį pasirašė ir vaikas buvo prižiūrimas pagal šią sutartį iki įstatymo Nr. XIV-2448 įsigaliojimo dienos (2025-01-01), įstatymo 3 straipsnio 6 punkte nurodyta vaiko priežiūros kompensacinė išmoka skiriama ir mokama nuo įstatymo  Nr. XIV-2448 įsigaliojimo dienos (2025-01-01), jeigu vaikas, vaiko tėvai (įtėviai) ar globėjai ir vaiko priežiūros veiklą vykdantis fizinis asmuo atitinka Išmokų vaikams įstatymo 91 straipsnyje nustatytus reikalavimus. 
+Papildyta straipsnio punktu:
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
+ 
 
 
 
 
-7) globos (rūpybos) išmoka; 
+7) vienkartinė išmoka nėščiai moteriai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
+ 
 
 
 
 
-8) globos (rūpybos) išmokos tikslinis priedas;
+8) globos (rūpybos) išmoka; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
+ 
 
 
 
 
-9) vaiko laikinosios priežiūros išmoka; 
+9) globos (rūpybos) išmokos tikslinis priedas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
+ 
+
+
+
+
+10) vaiko laikinosios priežiūros išmoka; 
 Papildyta straipsnio punktu:
 Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
  
 
 
 
 
-10) vienkartinė išmoka įsikurti;
+11) vienkartinė išmoka įsikurti;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
  
 
 
 
 
-11) išmoka įvaikinus vaiką.
+12) išmoka įvaikinus vaiką.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
  
 
 
@@ -292,7 +309,10 @@ Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
 
 
 II SKYRIUS
-VIENKARTINĖ IŠMOKA VAIKUI, IŠMOKA VAIKUI, IŠMOKA GIMUS VIENU METU DAUGIAU KAIP VIENAM VAIKUI, IŠMOKA PRIVALOMOSIOS PRADINĖS KARO TARNYBOS KARIO VAIKUI, IŠMOKA BESIMOKANČIO AR STUDIJUOJANČIO ASMENS VAIKO PRIEŽIŪRAI IR VIENKARTINĖ IŠMOKA NĖŠČIAI MOTERIAI
+VIENKARTINĖ IŠMOKA VAIKUI, IŠMOKA VAIKUI, IŠMOKA GIMUS VIENU METU DAUGIAU KAIP VIENAM VAIKUI, IŠMOKA PRIVALOMOSIOS PRADINĖS KARO TARNYBOS KARIO VAIKUI, IŠMOKA BESIMOKANČIO AR STUDIJUOJANČIO ASMENS VAIKO PRIEŽIŪRAI, VAIKO PRIEŽIŪROS KOMPENSACINĖ IŠMOKA IR VIENKARTINĖ IŠMOKA NĖŠČIAI MOTERIAI 
+ 
+Pakeistas skyriaus pavadinimas:
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
  
 
 
@@ -528,6 +548,39 @@ Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
 
 Straipsnio pakeitimai:
 Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
+ 
+
+
+
+
+91 straipsnis. Vaiko priežiūros kompensacinė išmoka
+
+
+1. Vaiko priežiūros kompensacinė išmoka – 5,2 bazinės socialinės išmokos dydžio per mėnesį – skiriama ir mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar globėjui, kai vaiko globa nustatyta šeimoje, už kiekvieną vaiką, kuris nėra ugdomas pagal ikimokyklinio ugdymo programą valstybinėse ar savivaldybių, ar nevalstybinėse įstaigose, vykdančiose ikimokyklinio ugdymo programas, ir pagal vaiko priežiūros sutartį su vaiko tėvu (įtėviu) ar globėju (toliau – vaiko priežiūros sutartis) už atlyginimą yra prižiūrimas fizinio asmens, vykdančio vaikų dienos priežiūrą Lietuvos Respublikoje pagal individualios veiklos vykdymo pažymą ar darbo sutartį (toliau – vaiko priežiūrą vykdantis fizinis asmuo), jeigu bendrai gyvenantys asmenys arba globėjas ir su juo bendrai gyvenantys asmenys, kurie augina ir (ar) globoja vaiką, dirba pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu arba yra savarankiškai dirbantys asmenys, išskyrus darbingo amžiaus asmenis, kuriems nustatytas 0–25 procentų dalyvumo lygis.
+
+
+
+
+2. Už tą patį vaiką ir laikotarpį gali būti skiriama ir mokama tik viena vaiko priežiūros kompensacinė išmoka.
+
+
+
+
+3. Vaiko priežiūros kompensacinė išmoka neskiriama:
+
+
+1) jeigu vaiko priežiūrą vykdantis fizinis asmuo prižiūri savo ar bendrai gyvenančio asmens auginamą ir (ar) globojamą vaiką;
+
+
+
+
+2) už vaiką, kai, Socialinės paramos šeimai informacinės sistemos duomenimis, laikotarpiu, už kurį vienas iš šio vaiko tėvų (įtėvių) ar globėjų kreipiasi dėl vaiko priežiūros kompensacinės išmokos skyrimo, ši išmoka paskirta už to paties fizinio asmens, vykdančio vaiko priežiūrą, kitus 5 prižiūrimus vaikus, išskyrus atvejus, kai jie visi yra vienos bendrai gyvenančių asmenų grupės auginami ir (ar) globojami vaikai.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
  
 
 
@@ -967,7 +1020,10 @@ Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 
 
 
-5. Dėl išmokos vaikui, išmokos gimus vienu metu daugiau kaip vienam vaikui, išmokos privalomosios pradinės karo tarnybos kario vaikui, išmokos besimokančio ar studijuojančio asmens vaiko priežiūrai, globos (rūpybos) išmokos, globos (rūpybos) išmokos tikslinio priedo ir išmokos įvaikinus vaiką asmuo turi teisę kreiptis nuo teisės gauti išmoką atsiradimo dienos.
+5. Dėl išmokos vaikui, išmokos gimus vienu metu daugiau kaip vienam vaikui, išmokos privalomosios pradinės karo tarnybos kario vaikui, išmokos besimokančio ar studijuojančio asmens vaiko priežiūrai, vaiko priežiūros kompensacinės išmokos, globos (rūpybos) išmokos, globos (rūpybos) išmokos tikslinio priedo ir išmokos įvaikinus vaiką asmuo turi teisę kreiptis nuo teisės gauti išmoką atsiradimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
+ 
 
 
 
@@ -1002,10 +1058,11 @@ Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
 
 
 
-3. Vienkartinės išmokos vaikui, vienkartinės išmokos nėščiai moteriai ir vienkartinės išmokos įsikurti dydis apskaičiuojamas pagal teisės į išmoką atsiradimo dieną galiojusius išmokos ir bazinės socialinės išmokos dydžius. Išmokos vaikui, išmokos gimus vienu metu daugiau kaip vienam vaikui, išmokos privalomosios pradinės karo tarnybos kario vaikui, išmokos besimokančio ar studijuojančio asmens vaiko priežiūrai, globos (rūpybos) išmokos, globos (rūpybos) išmokos tikslinio priedo, vaiko laikinosios priežiūros išmokos ir išmokos įvaikinus vaiką dydis apskaičiuojamas pagal tą mėnesį, už kurį išmoka mokama, galiojančius išmokos ir bazinės socialinės išmokos dydžius.
+3. Vienkartinės išmokos vaikui, vienkartinės išmokos nėščiai moteriai ir vienkartinės išmokos įsikurti dydis apskaičiuojamas pagal teisės į išmoką atsiradimo dieną galiojusius išmokos ir bazinės socialinės išmokos dydžius. Išmokos vaikui, išmokos gimus vienu metu daugiau kaip vienam vaikui, išmokos privalomosios pradinės karo tarnybos kario vaikui, išmokos besimokančio ar studijuojančio asmens vaiko priežiūrai, vaiko priežiūros kompensacinės išmokos, globos (rūpybos) išmokos, globos (rūpybos) išmokos tikslinio priedo, vaiko laikinosios priežiūros išmokos ir išmokos įvaikinus vaiką dydis apskaičiuojamas pagal tą mėnesį, už kurį išmoka mokama, galiojančius išmokos ir bazinės socialinės išmokos dydžius.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
 Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
  
 
 
@@ -1083,7 +1140,10 @@ Nr. XIII-3376, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23943
 
 
 
-2. Išmoka vaikui, išmoka gimus vienu metu daugiau kaip vienam vaikui, išmoka privalomosios pradinės karo tarnybos kario vaikui, išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai, globos (rūpybos) išmoka, globos (rūpybos) išmokos tikslinis priedas ir išmoka įvaikinus vaiką skiriami ir mokami nuo teisės gauti išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 praėjusių mėnesių nuo prašymo ir visų reikiamų dokumentų išmokai skirti pateikimo savivaldybės administracijai dienos.
+2. Išmoka vaikui, išmoka gimus vienu metu daugiau kaip vienam vaikui, išmoka privalomosios pradinės karo tarnybos kario vaikui, išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai, vaiko priežiūros kompensacinė išmoka, globos (rūpybos) išmoka, globos (rūpybos) išmokos tikslinis priedas ir išmoka įvaikinus vaiką skiriami ir mokami nuo teisės gauti išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 praėjusių mėnesių nuo prašymo ir visų reikiamų dokumentų išmokai skirti pateikimo savivaldybės administracijai dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
+ 
 
 
 
@@ -1226,7 +1286,10 @@ Nr. XIV-1842, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05738
 1. Savivaldybės administracija nutraukia išmokų mokėjimą, jeigu atsiranda nors viena iš nurodytų aplinkybių:
 
 
-1) vaikas ir (ar) asmuo neatitinka šio įstatymo 6 straipsnio 3 dalyje ar 7 straipsnio 3 dalyje, ar 8 straipsnio 2 dalyje, ar 9 straipsnio 2 dalyje, ar 11 straipsnio 4 dalyje, ar 12 straipsnio 4 dalyje, ar 14 straipsnio 3 dalyje nurodytų sąlygų – nuo faktinių aplinkybių atsiradimo dienos;
+1) vaikas ir (ar) asmuo neatitinka šio įstatymo nors viename 1 straipsnio 2 dalies punkte, kai paskirta šio įstatymo 91 straipsnyje nustatyta išmoka, ar 6 straipsnio 3 dalyje, ar 7 straipsnio 3 dalyje, ar 8 straipsnio 2 dalyje, ar 9 straipsnio 2 dalyje, ar 11 straipsnio 4 dalyje, ar 12 straipsnio 4 dalyje, ar 14 straipsnio 3 dalyje nurodytų sąlygų – nuo faktinių aplinkybių atsiradimo dienos; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
+ 
 
 
 
@@ -1316,7 +1379,39 @@ Nr. XIV-1842, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05738
 
 
 
-19) vaikui (asmeniui), kuriam išmoka paskirta, pakeitus gyvenamąją vietą ir persikėlus gyventi pas kitą iš tėvų (įtėvių) ar globėją (rūpintoją), – nuo kito mėnesio, kurį vaikas (asmuo) persikėlė nuolat gyventi pas kitą iš tėvų (įtėvių) ar globėją (rūpintoją), pirmos dienos.
+19) vaikui (asmeniui), kuriam išmoka paskirta, pakeitus gyvenamąją vietą ir persikėlus gyventi pas kitą iš tėvų (įtėvių) ar globėją (rūpintoją), – nuo kito mėnesio, kurį vaikas (asmuo) persikėlė nuolat gyventi pas kitą iš tėvų (įtėvių) ar globėją (rūpintoją), pirmos dienos;
+
+
+
+
+20) asmuo, kuriam paskirta šio įstatymo 91 straipsnyje nustatyta išmoka, nutraukia vaiko priežiūros sutartį su vaiko priežiūra vykdančiu fiziniu asmeniu – nuo vaiko priežiūros sutarties nutraukimo dienos; 
+Papildyta straipsnio punktu:
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
+ 
+
+
+
+
+21) pagal vaiko priežiūros sutartį už atlyginimą vaiko priežiūrą vykdantis fizinis asmuo nebevykdo vaikų dienos priežiūros Lietuvos Respublikoje pagal individualios veiklos vykdymo pažymą ar darbo sutartį  – nuo individualios veiklos ar darbo sutarties nutraukimo dienos; 
+Papildyta straipsnio punktu:
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
+ 
+
+
+
+
+22) vaikas, už kurį paskirta šio įstatymo 91 straipsnyje nustatyta išmoka, pradedamas ugdyti pagal ikimokyklinio ugdymo programą valstybinėse ar savivaldybių, ar nevalstybinėse įstaigose, kurios vykdo ikimokyklinio ugdymo programą, arba jam pradedamas teikti priešmokyklinis ugdymas – nuo ugdymo pagal ikimokyklinio ugdymo programą arba nuo pradedamo teikti priešmokyklinio ugdymo pirmos dienos; 
+Papildyta straipsnio punktu:
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
+ 
+
+
+
+
+23) asmuo, kuriam paskirta šio įstatymo 91 straipsnyje nustatyta išmoka, ir (ar) su juo bendrai gyvenantys asmenys, kurie augina ir (ar) globoja vaiką, nedirba pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu arba nėra savarankiškai dirbantys asmenys, išskyrus darbingo amžiaus asmenis, kuriems nustatytas 0–25 procentų dalyvumo lygis, – nuo darbo sutarties ar darbo santykiams prilygintų teisinių santykių pagrindu arba savarankiškos veiklos nutraukimo dienos. 
+Papildyta straipsnio punktu:
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
+ 
 
 
 
@@ -1331,7 +1426,16 @@ Nr. XIV-1842, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05738
 
 
 
-2) vaikas laikinai apgyvendinamas pas fizinius ar juridinius asmenis Vaiko teisių apsaugos pagrindų įstatymo nustatyta tvarka – nuo Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgalioto teritorinio skyriaus sprendime dėl vaiko laikino apgyvendinimo nurodytos dienos iki vaikas grąžinamas tėvams ar kitiems vaiko atstovams pagal įstatymą arba iki teismo nutarties leisti paimti vaiką iš jo atstovų pagal įstatymą įsiteisėjimo dienos, arba iki teismo nutarties atleisti globėją (rūpintoją) iš globėjo (rūpintojo) pareigų ar nušalinti nuo jų įsiteisėjimo dienos, arba iki teismo nutartyje ar savivaldybės mero sprendime atleisti globėją (rūpintoją) iš globėjo (rūpintojo) pareigų arba nušalinti nuo jų nurodytos datos.
+2) vaikas laikinai apgyvendinamas pas fizinius ar juridinius asmenis Vaiko teisių apsaugos pagrindų įstatymo nustatyta tvarka – nuo Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgalioto teritorinio skyriaus sprendime dėl vaiko laikino apgyvendinimo nurodytos dienos iki vaikas grąžinamas tėvams ar kitiems vaiko atstovams pagal įstatymą arba iki teismo nutarties leisti paimti vaiką iš jo atstovų pagal įstatymą įsiteisėjimo dienos, arba iki teismo nutarties atleisti globėją (rūpintoją) iš globėjo (rūpintojo) pareigų ar nušalinti nuo jų įsiteisėjimo dienos, arba iki teismo nutartyje ar savivaldybės mero sprendime atleisti globėją (rūpintoją) iš globėjo (rūpintojo) pareigų arba nušalinti nuo jų nurodytos datos;
+
+
+
+
+3) vaikas, už kurį paskirta šio įstatymo 91 straipsnyje nustatyta išmoka, laikinai neprižiūrimas pagal vaiko priežiūros sutartį vaiko priežiūrą vykdančio fizinio asmens, nenutraukiant šios sutarties – nuo asmens, kuriam paskirta šio įstatymo 91 straipsnyje nustatyta išmoka, raštu ar elektroninių ryšių priemonėmis pateikto pranešimo apie laikinai sustabdytą pagal vaiko priežiūros sutartį už atlyginimą vykdomą vaiko priežiūrą gavimo savivaldybės administracijoje dienos iki pranešimo apie tęsiamą pagal vaiko priežiūros sutartį už atlyginimą vykdomą vaiko priežiūrą gavimo savivaldybės administracijoje dienos.
+ 
+Papildyta straipsnio punktu:
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
+ 
 
 
 
@@ -1780,3 +1884,8 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1 straipsnio ir priedo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1842, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05738
 Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 17, 20, 21 ir 24 straipsnių pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 3, 16, 17, 18, 21 straipsnių, II skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
