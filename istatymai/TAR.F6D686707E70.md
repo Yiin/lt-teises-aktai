@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2024-10-25 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -1072,7 +1072,9 @@ Nr. XIII-1430, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11737
 
 
 
-2. Smurtas ir priekabiavimas, įskaitant psichologinį smurtą, smurtą ir priekabiavimą dėl lyties (smurtas ir priekabiavimas nukreiptas prieš asmenis dėl jų lyties arba neproporcingai paveikiantis tam tikros lyties asmenis, įskaitant seksualinį priekabiavimą), – bet koks nepriimtinas elgesys ar jo grėsmė, nesvarbu, ar nepriimtinu elgesiu vieną kartą ar pakartotinai siekiama padaryti fizinį, psichologinį, seksualinį ar ekonominį poveikį, ar nepriimtinu elgesiu šis poveikis padaromas arba gali būti padarytas, ar tokiu elgesiu įžeidžiamas asmens orumas arba sukuriama bauginanti, priešiška, žeminanti ar įžeidžianti aplinka ar (ir) atsirado arba gali atsirasti fizinė, turtinė ir (ar) neturtinė žala. Smurtas ir priekabiavimas draudžiamas:
+2. Smurtas ir priekabiavimas, įskaitant psichologinį smurtą, smurtą ir priekabiavimą dėl lyties (smurtas ir priekabiavimas nukreiptas prieš asmenis dėl jų lyties arba neproporcingai paveikiantis tam tikros lyties asmenis, įskaitant seksualinį priekabiavimą), – bet koks nepriimtinas darbdavio (fizinio asmens ar juridinio asmens vadovo) ar kitų darbuotojų taikomas elgesys ar jo grėsmė, nesvarbu, ar nepriimtinu elgesiu vieną kartą ar pakartotinai siekiama padaryti fizinį, psichologinį, seksualinį ar ekonominį poveikį, ar nepriimtinu elgesiu šis poveikis padaromas arba gali būti padarytas, ar tokiu elgesiu įžeidžiamas asmens orumas arba sukuriama bauginanti, priešiška, žeminanti ar įžeidžianti aplinka ar (ir) atsirado arba gali atsirasti fizinė, turtinė ir (ar) neturtinė žala. Smurtas ir priekabiavimas draudžiamas: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
 
 
 1) darbo vietose, įskaitant viešąsias ir privačias vietas, kai darbuotojas yra darbdavio žinioje ar atlieka pareigas pagal darbo sutartį; 
@@ -1127,12 +1129,26 @@ Nr. XIII-1430, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11737
 
 
 
-4. Darbdavys, kurio vidutinis darbuotojų skaičius yra daugiau kaip penkiasdešimt, šio kodekso nustatyta tvarka įvykdęs informavimo ir konsultavimo procedūras, privalo patvirtinti smurto ir priekabiavimo prevencijos politiką, įprastais darbovietėje būdais ją paskelbti ir įgyvendinti. Smurto ir priekabiavimo prevencijos politikoje turi būti nustatyta: smurto ir priekabiavimo atpažinimo būdai, galimos smurto ir priekabiavimo formos, supažindinimo su smurto ir priekabiavimo prevencijos priemonėmis tvarka, pranešimų apie smurtą ir priekabiavimą teikimo ir nagrinėjimo tvarka, apie smurtą ir priekabiavimą pranešusių asmenų ir nukentėjusių asmenų apsaugos priemonės ir jiems teikiama pagalba, darbuotojų elgesio (darbo etikos) taisyklės ir kita informacija, susijusi su smurto ir priekabiavimo prevencija. 
+4. Šio straipsnio 3 dalies 1 punkte nurodytų būtinų priemonių aprašą tvirtina ir šio straipsnio 3 dalies 3 punkte nurodytų mokymų periodiškumo tvarką nustato Lietuvos Respublikos vyriausiasis valstybinis darbo inspektorius. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
 
-5. Darbdavys atnaujina smurto ir priekabiavimo prevencijos politiką, atsižvelgdamas į gautus pranešimus apie smurtą ir priekabiavimą, nustatytus smurto ir priekabiavimo atvejus, pasikeitus galimiems jų pavojams ar atsiradus naujų arba pareikalavus Lietuvos Respublikos valstybinės darbo inspekcijos darbo inspektoriui.
+5. Darbdavys, kurio vidutinis darbuotojų skaičius yra daugiau kaip penkiasdešimt, šio kodekso nustatyta tvarka įvykdęs informavimo ir konsultavimo procedūras, privalo patvirtinti smurto ir priekabiavimo prevencijos politiką, įprastais darbovietėje būdais ją paskelbti ir įgyvendinti. Smurto ir priekabiavimo prevencijos politikoje turi būti nustatyta: smurto ir priekabiavimo atpažinimo būdai, galimos smurto ir priekabiavimo formos, supažindinimo su smurto ir priekabiavimo prevencijos priemonėmis tvarka, pranešimų apie smurtą ir priekabiavimą teikimo ir nagrinėjimo tvarka, apie smurtą ir priekabiavimą pranešusių asmenų ir nukentėjusių asmenų apsaugos priemonės ir jiems teikiama pagalba, darbuotojų elgesio (darbo etikos) taisyklės ir kita informacija, susijusi su smurto ir priekabiavimo prevencija. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
+
+
+
+
+6. Darbdavys atnaujina smurto ir priekabiavimo prevencijos politiką, atsižvelgdamas į gautus pranešimus apie smurtą ir priekabiavimą, nustatytus smurto ir priekabiavimo atvejus, pasikeitus galimiems jų pavojams ar atsiradus naujų arba pareikalavus Lietuvos Respublikos valstybinės darbo inspekcijos darbo inspektoriui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 Straipsnio pakeitimai:
@@ -1300,7 +1316,11 @@ PAPILDOMOS DARBO SUTARTIES SĄLYGOS
 
 
 
-4. Susitarime dėl papildomo darbo turi būti nurodyta, kuriuo metu bus atliekama papildoma darbo funkcija, jos apimtis darbo valandomis, darbo užmokestis ar priemoka už papildomą darbą ar kita. 
+4. Susitarime dėl papildomo darbo turi būti nurodyta, kuriuo metu bus atliekama papildoma darbo funkcija, jos apimtis darbo valandomis, darbo užmokestis ar priemoka už papildomą darbą ir papildomų teisių ar pareigų suteikimo tvarka. 
+TAR pastaba: 35 straipsnio 4 dalies nuostata dėl papildomų teisių ar pareigų suteikimo tvarkos taikoma 2025 m. sausio 1 d. ir vėliau sudaromiems susitarimams dėl papildomo darbo. Šalys gali susitarti ir pakeisti iki 2024 m. gruodžio 31 d. sudarytus susitarimus dėl papildomo darbo pagal nuo 2025 m. sausio 1 d. galiosiančias Darbo kodekso 35 straipsnio 4 dalies nuostatas.  
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -1315,7 +1335,9 @@ PAPILDOMOS DARBO SUTARTIES SĄLYGOS
 
 
 
-7. Jeigu atlikdamas susitarime dėl darbo funkcijų jungimo numatytą papildomą darbo funkciją darbuotojas dėl to įgyja teisę naudotis šiame kodekse ar kitose darbo teisės normose nustatytomis papildomomis teisėmis ar pareigomis (ilgesniu poilsio laiku, trumpesniu darbo laiku, atostogomis ir kita), jos šiam darbuotojui taikomos tik tada, kai atliekama papildoma funkcija, ir tik tiek, kiek ji atliekama.
+7. Jeigu atlikdamas susitarime dėl papildomo darbo numatytą papildomą darbo funkciją darbuotojas dėl to įgyja teisę naudotis šiame kodekse ar kitose darbo teisės normose nustatytomis papildomomis teisėmis ar pareigomis (ilgesniu poilsio laiku, trumpesniu darbo laiku, atostogomis ir kita), jos šiam darbuotojui taikomos tik tada, kai atliekama papildoma funkcija, ir tik tiek, kiek ji atliekama.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -1537,7 +1559,10 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 
 
 
-2. Apie darbo sutarties sudarymą ir darbuotojo priėmimą į darbą nustatyta tvarka privaloma pranešti Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) teritoriniam skyriui mažiausiai prieš vieną darbo dieną iki numatytos darbo pradžios. Šis reikalavimas netaikomas tais atvejais, jeigu asmuo priimamas į darbą pagal darbo sutartį, kurioje nurodyta, kad asmens darbo vieta yra ne Lietuvos Respublikoje, ir kai pagal Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentus arba Lietuvos Respublikos tarptautines sutartis šiam asmeniui yra taikomi ne Lietuvos Respublikos teisės aktai socialinio draudimo srityje.
+2. Apie darbo sutarties sudarymą ir darbuotojo priėmimą į darbą nustatyta tvarka privaloma pranešti Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) teritoriniam skyriui mažiausiai prieš vieną darbo dieną iki numatytos darbo pradžios. Šis reikalavimas netaikomas, jeigu asmuo priimamas į darbą pagal darbo sutartį, kurioje nurodyta, kad asmens darbo vieta yra ne Lietuvos Respublikoje, ir kai pagal Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentus arba Lietuvos Respublikos tarptautines sutartis šiam asmeniui yra taikomi ne Lietuvos Respublikos teisės aktai socialinio draudimo srityje. Apie darbo sutarties sudarymą ir juridinio asmens vienasmenio valdymo organo priėmimą į darbą nustatyta tvarka privaloma pranešti Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui mažiausiai prieš vieną darbo valandą iki numatytos darbo pradžios.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -2553,12 +2578,23 @@ Nr. XIII-2680, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21321
 
 
 
-3. Atleidžiant darbuotojus dėl darbdavio bankroto šio kodekso 57 straipsnio 7 dalies ir 64 straipsnio 4 dalies nuostatos dėl įspėjimo apie darbo sutarties nutraukimą terminų taikymo ir šio kodekso nustatyti darbo sutarties nutraukimo apribojimai netaikomi.
+3. Atleidžiant darbuotojus dėl darbdavio bankroto šio kodekso 64 straipsnio 4 dalies nuostatos ir šio kodekso nustatyti darbo sutarties nutraukimo apribojimai netaikomi. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
 
 4. Šio straipsnio 2 dalyje numatytu atveju atleidžiamiems darbuotojams išmokama dviejų jų vidutinių darbo užmokesčių dydžio išeitinė išmoka, o jeigu jų darbo santykiai tęsiasi trumpiau negu vienus metus, – pusės jų vidutinio darbo užmokesčio dydžio išeitinė išmoka. 
+
+
+
+
+5. Atleidžiamam darbuotojui įstatymo nustatyta tvarka papildomai išmokama ilgalaikio darbo išmoka, atsižvelgiant į to darbuotojo nepertraukiamą darbo stažą pas tą darbdavį.
+Papildyta straipsnio dalimi:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 Straipsnio pakeitimai:
@@ -2980,7 +3016,7 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 721 straipsnis. Kriterijai, kuriuos turi atitikti laikinojo įdarbinimo įmonė, ir laikinojo įdarbinimo įmonės įrašymas į laikinojo įdarbinimo įmonių sąrašą
 
 
-1. Kriterijai, kuriuos turi atitikti laikinojo įdarbinimo įmonė, kaip laikinojo darbo sutarties šalis, darbdavė (toliau šiame straipsnyje – Kriterijai):
+1. Kriterijai, kuriuos turi atitikti laikinojo įdarbinimo įmonė, kaip laikinojo darbo sutarties šalis, darbdavė (toliau šiame straipsnyje – kriterijai):
 
 
 1) nėra sustabdyta ar apribota jos vykdoma veikla;
@@ -3001,34 +3037,29 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 4) darbdavio vadovui ar kitam atsakingam asmeniui per paskutinius vienus metus:
 
 
-a) nebuvo paskirta administracinė nuobauda pagal Lietuvos Respublikos administracinių nusižengimų kodeksą už nelegalų darbą;
+a) buvo paskirta (jeigu buvo paskirta) ne daugiau negu viena administracinė nuobauda pagal Lietuvos Respublikos administracinių nusižengimų kodeksą už nelegalų darbą, už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimus, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus;
 
 
 
 
-b) buvo paskirta (jeigu buvo paskirta) ne daugiau negu viena administracinė nuobauda pagal Lietuvos Respublikos administracinių nusižengimų kodeksą už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimus, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus;
-
-
-
-
-c) buvo paskirtos (jeigu buvo paskirtos) ne daugiau negu dvi administracinės nuobaudos už darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos pažeidimus;
+b) buvo paskirtos (jeigu buvo paskirtos) ne daugiau negu dvi administracinės nuobaudos už darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos pažeidimus;
 
 
 
 
 
 
-5) darbdavio vadovas ar jo įgaliotas asmuo nėra pripažintas kaltu, padariusiu tokius nusikaltimus, kaip darbuotojų saugos ir sveikatos reikalavimų pažeidimas, prekyba žmonėmis, išnaudojimas priverstiniam darbui ar paslaugoms, naudojimasis asmens priverstiniu darbu ar paslaugomis, ir neturi neišnykusio ar nepanaikinto teistumo. Darbdavio vadovas ar jo įgaliotas asmuo nėra pripažintas kaltu, padariusiu tokius baudžiamuosius nusižengimus kaip darbuotojų saugos ir sveikatos reikalavimų pažeidimas, išnaudojimas priverstiniam darbui ar paslaugoms, naudojimasis asmens priverstiniu darbu ar paslaugomis ir nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nėra praėję treji metai;
+5) darbdavio vadovas ar jo įgaliotas asmuo nėra pripažintas kaltu, padariusiu tokius nusikaltimus kaip darbuotojų saugos ir sveikatos reikalavimų pažeidimas, prekyba žmonėmis, išnaudojimas priverstiniam darbui ar paslaugoms, naudojimasis asmens priverstiniu darbu ar paslaugomis ir neturi neišnykusio ar nepanaikinto teistumo. Darbdavio vadovas ar jo įgaliotas asmuo nėra pripažintas kaltu, padariusiu tokius baudžiamuosius nusižengimus kaip darbuotojų saugos ir sveikatos reikalavimų pažeidimas, išnaudojimas priverstiniam darbui ar paslaugoms, naudojimasis asmens priverstiniu darbu ar paslaugomis arba nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos yra praėję treji metai;
 
 
 
 
-6) ji neturi neatidėtų įsiskolinimų Lietuvos Respublikos valstybės biudžetui ar Valstybinio socialinio draudimo fondo biudžetui, nesumokėtų per vieną mėnesį nuo dienos, kurią paaiškėjo laikinojo įdarbinimo įmonės įsiskolinimai Lietuvos Respublikos valstybės biudžetui ar Valstybinio socialinio draudimo fondo biudžetui, taip pat neturi darbo užmokesčio įsiskolinimų darbuotojams;
+6) ji neturi neatidėtų įsiskolinimų Lietuvos Respublikos valstybės biudžetui ar valstybės socialinių fondų biudžetui, taip pat neturi darbo užmokesčio įsiskolinimų darbuotojams;
 
 
 
 
-7) ji nustatyta tvarka pateikė Valstybinei darbo inspekcijai šio kodekso 79 straipsnio 6 dalyje nurodytą informaciją;
+7) ji nustatyta tvarka teikia Valstybinei darbo inspekcijai šio kodekso 79 straipsnio 6 dalyje nurodytą informaciją;
 
 
 
@@ -3040,32 +3071,38 @@ c) buvo paskirtos (jeigu buvo paskirtos) ne daugiau negu dvi administracinės nu
 
 
 
-2. Darbdavys, ketinantis vykdyti laikinojo įdarbinimo veiklą, pateikia Valstybinei darbo inspekcijai prašymą patvirtinti, kad jis atitinka Kriterijus, nurodytus šio straipsnio 1 dalies  1–6 punktuose. Valstybinė darbo inspekcija per 10 darbo dienų nuo šio prašymo gavimo dienos priima vieną iš šių sprendimų ir ne vėliau kaip per 2 darbo dienas nuo sprendimo priėmimo dienos praneša darbdaviui, kad:
+2. Darbdavys, ketinantis vykdyti laikinojo įdarbinimo veiklą, pateikia Valstybinei darbo inspekcijai prašymą patvirtinti, kad jis atitinka šio straipsnio 1 dalies 1–6 punktuose nurodytus kriterijus. Valstybinė darbo inspekcija per 10 darbo dienų nuo šio prašymo gavimo dienos priima vieną iš šių sprendimų ir ne vėliau kaip per 2 darbo dienas nuo sprendimo priėmimo dienos praneša darbdaviui, kad:
 
 
-1) darbdavys atitinka Kriterijus, nurodytus šio straipsnio 1 dalies 1–6 punktuose, ir jis bus įrašytas į laikinojo įdarbinimo įmonių sąrašą;
-
-
-
-
-2) darbdavys neatitinka Kriterijų, nurodytų šio straipsnio 1 dalies 1–6 punktuose, ir jis nebus įrašytas į laikinojo įdarbinimo įmonių sąrašą.
+1) darbdavys atitinka šio straipsnio 1 dalies 1–6 punktuose nurodytus kriterijus ir bus įrašytas į laikinojo įdarbinimo įmonių sąrašą;
 
 
 
 
-
-
-3. Jeigu Valstybinė darbo inspekcija iš darbdavio, kuris yra įrašytas į laikinojo įdarbinimo įmonių sąrašą, šio kodekso 79 straipsnio 6 dalyje nustatyta tvarka negauna informacijos apie įdarbinimą per laikinojo įdarbinimo įmones ir laikinųjų darbuotojų skaičių, Valstybinė darbo inspekcija darbdaviui nustato 3 darbo dienų terminą šiai informacijai pateikti, skaičiuojamą nuo pranešimo dėl informacijos pateikimo gavimo dienos. Pasibaigus šiam terminui, jeigu per jį darbdavys nepateikė informacijos, Valstybinė darbo inspekcija per 5 darbo dienas priima sprendimą, kad darbdavys neatitinka Kriterijaus, nurodyto šio straipsnio 1 dalies 7 punkte, ir šį darbdavį išbraukia iš laikinojo įdarbinimo įmonių sąrašo. Jeigu darbdavys, vykdydamas šio kodekso 79 straipsnio 6 dalyje nustatytus reikalavimus, Valstybinei darbo inspekcijai nurodo, kad daugiau negu tris paeiliui einančius kalendorinius mėnesius neturi laikinųjų darbuotojų, Valstybinė darbo inspekcija per 5 darbo dienas priima sprendimą, kad darbdavys neatitinka Kriterijaus, nurodyto šio straipsnio 1 dalies 8 punkte, ir šį darbdavį išbraukia iš laikinojo įdarbinimo įmonių sąrašo.
-
+2) darbdavys neatitinka šio straipsnio 1 dalies 1–6 punktuose nurodytų kriterijų ir nebus įrašytas į laikinojo įdarbinimo įmonių sąrašą.
 
 
 
-4. Darbdavio atitiktį Kriterijams nustato, darbdavį įrašo į laikinojo įdarbinimo įmonių sąrašą ir išbraukia iš šio sąrašo Valstybinė darbo inspekcija Lietuvos Respublikos Vyriausybės nustatyta tvarka.
-TAR pastaba: įstatymo Nr. XIV-1189 išdėstyto Darbo kodekso 721 straipsnio 3 dalies nuostata dėl darbdavio išbraukimo iš laikinojo įdarbinimo įmonių sąrašo taikoma, jei informacija nepateikta pagal Darbo kodekso 79 straipsnio 6 dalį už 2022 m. rugpjūčio mėnesį ir vėlesnius mėnesius. Įstatymo Nr. XIV-1189 išdėstytuose Darbo kodekso 721 straipsnio 1 dalies 8 punkte ir 3 dalyje nustatytas laikotarpis, kuriuo reikia turėti laikinųjų darbuotojų, skaičiuojamas nuo 2022 m. rugpjūčio 1 d.
+
+
+
+3. Jeigu Valstybinė darbo inspekcija iš darbdavio, kuris yra įrašytas į laikinojo įdarbinimo įmonių sąrašą, šio kodekso 79 straipsnio 6 dalyje nustatyta tvarka negauna informacijos apie įdarbinimą per laikinojo įdarbinimo įmones ir laikinųjų darbuotojų skaičių, Valstybinė darbo inspekcija darbdaviui nustato trijų darbo dienų terminą šiai informacijai pateikti, skaičiuojamą nuo pranešimo dėl informacijos pateikimo gavimo dienos. Pasibaigus šiam terminui, jeigu per jį darbdavys nepateikia informacijos, Valstybinė darbo inspekcija per penkias darbo dienas priima sprendimą, kad darbdavys neatitinka šio straipsnio 1 dalies 7 punkte nurodyto kriterijaus ir šį darbdavį išbraukia iš laikinojo įdarbinimo įmonių sąrašo. Jeigu darbdavys, vykdydamas šio kodekso 79 straipsnio 6 dalyje nustatytus reikalavimus, Valstybinei darbo inspekcijai nurodo, kad daugiau negu tris paeiliui einančius kalendorinius mėnesius neturi laikinųjų darbuotojų, Valstybinė darbo inspekcija per penkias darbo dienas priima sprendimą, kad darbdavys neatitinka šio straipsnio 1 dalies 8 punkte nurodyto kriterijaus, ir šį darbdavį išbraukia iš laikinojo įdarbinimo įmonių sąrašo. Jeigu Valstybinė darbo inspekcija nustato, kad laikinojo įdarbinimo įmonė nebeatitinka šio straipsnio 1 dalies 1–6 punktuose nurodytų kriterijų, Valstybinė darbo inspekcija per penkias darbo dienas nuo šio nustatymo dienos priima sprendimą, kad darbdavys neatitinka šio straipsnio 1 dalies 1–6 punktuose nurodytų kriterijų, ir šį darbdavį išbraukia iš laikinojo įdarbinimo įmonių sąrašo.
+
+
+
+
+4. Darbdavio atitiktį kriterijams nustato, darbdavį į laikinojo įdarbinimo įmonių sąrašą įrašo ir iš šio sąrašo išbraukia Valstybinė darbo inspekcija Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+
+
+
+5. Darbdavys, Valstybinei darbo inspekcijai išbraukus jį iš laikinojo įdarbinimo įmonių sąrašo, iš naujo teikti prašymą patvirtinti, kad jis atitinka šio straipsnio 1 dalies 1–6 punktuose nurodytus kriterijus, gali ne anksčiau kaip po šešių mėnesių nuo sprendimo išbraukti įmonę iš laikinojo įdarbinimo įmonių sąrašo priėmimo dienos.
+TAR pastaba: Laikinojo įdarbinimo įmonės, įrašytos į laikinojo įdarbinimo įmonių sąrašą iki 2024 m. gruodžio 31 d., 2025 m. sausio 1 d. išbraukiamos iš laikinojo įdarbinimo įmonių sąrašo, jeigu jos neatitinka kriterijų, nurodytų Darbo kodekso 721 straipsnio 1 dalies 1–6 punktuose. 
 
 
 Straipsnio pakeitimai:
 Nr. XIV-1189, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15178
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -4628,7 +4665,9 @@ Nr. XIV-2704, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11228
 
 
 
-2. Darbdavys viršvalandinius darbus gali nurodyti dirbti tik su darbuotojo sutikimu, išskyrus tokius išimtinius atvejus, kai:
+2. Darbdavys viršvalandinius darbus gali nurodyti dirbti tik su darbuotojo rašytiniu sutikimu, išskyrus tokius išimtinius atvejus, kai: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
 
 
 1) dirbami visuomenei būtini nenumatyti darbai ar siekiama užkirsti kelią nelaimėms, pavojams, avarijoms ar gaivalinėms nelaimėms ar likviduoti jų skubiai šalintinas pasekmes;
@@ -5352,17 +5391,26 @@ Nr. XIV-1189, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15178
 134 straipsnis. Atostogos vaikui prižiūrėti 
 
 
-1. Pagal šeimos pasirinkimą, išskyrus šio straipsnio 3 dalyje nurodytos trukmės atostogų vaikui prižiūrėti dalį, motinai (įmotei), tėvui (įtėviui), senelei, seneliui arba kitiems giminaičiams, faktiškai auginantiems vaiką, taip pat darbuotojui, paskirtam vaiko globėju, suteikiamos atostogos vaikui prižiūrėti, iki vaikui sukanka treji metai. Šias atostogas galima imti visas iš karto, dalimis ar pakaitomis. 
+1. Pagal šeimos pasirinkimą, išskyrus šio straipsnio 3 dalyje nurodytos trukmės atostogų vaikui prižiūrėti dalį, motinai (įmotei), tėvui (įtėviui), senelei, seneliui arba kitiems giminaičiams, faktiškai auginantiems vaiką, taip pat darbuotojui, paskirtam vaiko globėju, ar buvusiam vienam iš vaiko tėvų nuolatinių globėjų (rūpintojų), išskyrus atvejus, kai nuolatinis globėjas (rūpintojas) buvo teismo nutartimi nušalintas nuo nuolatinio globėjo (rūpintojo) pareigų, suteikiamos atostogos vaikui prižiūrėti, iki vaikui sukanka treji metai. Šias atostogas galima imti visas iš karto, dalimis ar pakaitomis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2628, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09144
+ 
 
 
 
 
-2. Per tris mėnesius nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus vykdymo atveju – per vieną mėnesį nuo sprendimo vykdymo pradžios) dienos pagal šeimos pasirinkimą, išskyrus šio straipsnio 3 dalyje nurodytos trukmės atostogų vaikui prižiūrėti dalį, įmotei ar įtėviui, išskyrus atvejus, kai įvaikintas sutuoktinio vaikas arba kai įmotei (įtėviui) tam pačiam vaikui prižiūrėti jau buvo suteiktos atostogos pagal šio straipsnio 1 dalį, suteikiamos dvidešimt keturių mėnesių trukmės atostogos vaikui prižiūrėti. Darbuotojui, kuris tuo pačiu metu tam pačiam vaikui prižiūrėti turi teisę į atostogas tiek pagal šio straipsnio 1 dalį, tiek pagal šią dalį, suteikiamos atitinkamos atostogos jo pasirinkimu. Darbuotojai, turintys teisę gauti šias atostogas, gali jas imti pakaitomis. 
+2. Per tris mėnesius nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus vykdymo atveju – per tris mėnesius nuo sprendimo vykdymo pradžios) dienos pagal šeimos pasirinkimą, išskyrus šio straipsnio 3 dalyje nurodytos trukmės atostogų vaikui prižiūrėti dalį, įmotei ar įtėviui, išskyrus atvejus, kai įvaikintas sutuoktinio vaikas arba kai įmotei (įtėviui) tam pačiam vaikui prižiūrėti jau buvo suteiktos atostogos pagal šio straipsnio 1 dalį, suteikiamos dvidešimt keturių mėnesių trukmės atostogos vaikui prižiūrėti. Darbuotojui, kuris tuo pačiu metu tam pačiam vaikui prižiūrėti turi teisę į atostogas tiek pagal šio straipsnio 1 dalį, tiek pagal šią dalį, suteikiamos atitinkamos atostogos jo pasirinkimu. Darbuotojai, turintys teisę gauti šias atostogas, gali jas imti pakaitomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
 
-3. Kiekvienas iš tėvų (įtėvių, globėjų), imdamas atostogas vaikui prižiūrėti, bet kuriuo metu, iki vaikui sukaks aštuoniolika ar dvidešimt keturi mėnesiai, pirmiausia turi teisę pasinaudoti dviejų mėnesių trukmės atostogų vaikui prižiūrėti dalimi, kuri niekam negali būti perleista. Neperleidžiamų dviejų mėnesių trukmės atostogų vaikui prižiūrėti dalį kiekvienas iš tėvų (įtėvių, globėjų) gali imti visą iš karto arba dalimis, pakaitomis su kitu iš tėvų (įtėvių, globėjų). Neperleidžiamų dviejų mėnesių trukmės atostogų vaikui prižiūrėti dalies abu tėvai (įtėviai, globėjai) negali imti tuo pačiu metu. 
+3. Kiekvienas iš tėvų (įtėvių, globėjų), imdamas atostogas vaikui prižiūrėti, bet kuriuo metu, iki vaikui sukaks aštuoniolika ar dvidešimt keturi mėnesiai, pirmiausia turi teisę pasinaudoti neperleidžiamų dviejų mėnesių trukmės atostogų vaikui prižiūrėti dalimi, kuri niekam negali būti perleista. Neperleidžiamų dviejų mėnesių trukmės atostogų vaikui prižiūrėti dalį sudaro 62 kalendorinės dienos, kurias kiekvienas iš tėvų (įtėvių, globėjų) gali imti visą iš karto arba dalimis, pakaitomis su kitu iš tėvų (įtėvių, globėjų). Neperleidžiamų dviejų mėnesių trukmės atostogų vaikui prižiūrėti dalies abu tėvai (įtėviai, globėjai) negali imti tuo pačiu metu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -5796,7 +5844,10 @@ Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
 
 
 
-4. Už viršvalandinį darbą mokamas ne mažesnis kaip pusantro darbuotojo darbo užmokesčio dydžio užmokestis. Už viršvalandinį darbą poilsio dieną, kuri nenustatyta pagal darbo (pamainos) grafiką, ar viršvalandinį darbą naktį mokamas ne mažesnis kaip dvigubas darbuotojo darbo užmokestis, o už viršvalandinį darbą švenčių dieną – ne mažesnis kaip du su puse darbuotojo darbo užmokesčio dydžio užmokestis.
+4. Už viršvalandinį darbą mokamas ne mažesnis kaip pusantro darbuotojo darbo užmokesčio dydžio užmokestis. Už viršvalandinį darbą poilsio dieną, kuri nenustatyta pagal darbo (pamainos) grafiką, ar viršvalandinį darbą naktį mokamas ne mažesnis kaip dvigubas darbuotojo darbo užmokestis, o už viršvalandinį darbą švenčių dieną ir (arba) viršvalandinį darbą švenčių naktį – ne mažesnis kaip du su puse darbuotojo darbo užmokesčio dydžio užmokestis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -5811,7 +5862,10 @@ Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
 
 
 
-7. Už darbą, kai yra nukrypimų nuo normalių darbo sąlygų, taip pat kai padidinamas darbuotojo darbo mastas, mokamas padidintas, palyginti su normaliomis darbo sąlygomis, darbo užmokestis, nurodytas šio kodekso 139 straipsnio 4 dalyje. Konkretūs apmokėjimo dydžiai nustatomi kolektyvinėse ir darbo sutartyse.
+7. Už darbą, kai yra nukrypimų nuo normalių darbo sąlygų, taip pat kai padidinamas darbuotojo darbo mastas, mokamas padidintas, palyginti su normaliomis darbo sąlygomis, darbo užmokestis, nurodytas šio kodekso 139 straipsnio 2 dalies 1–5 punktuose. Konkretūs apmokėjimo dydžiai nustatomi kolektyvinėse ir darbo sutartyse.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -8872,7 +8926,7 @@ Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
 223 straipsnis. Prašymas išnagrinėti darbo ginčą dėl teisės
 
 
-1. Darbo ginčo šalis darbo ginčų komisijai privalo raštu ar elektroniniu paštu, pasirašiusi elektroniniu parašu, pateikti prašymą išnagrinėti darbo ginčą dėl teisės.
+1. Darbo ginčo šalis darbo ginčų komisijai Valstybinės darbo inspekcijos adresu privalo raštu ar elektroniniu paštu, pasirašiusi elektroniniu parašu ar suformulavusi prašymą tokiu būdu, kuris leidžia prašymą teikiantį asmenį identifikuoti arba patikrinti prašymo autentiškumą, pateikti prašymą išnagrinėti darbo ginčą dėl teisės.
 
 
 
@@ -8880,12 +8934,12 @@ Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
 2. Prašyme išnagrinėti darbo ginčą dėl teisės turi būti nurodyta:
 
 
-1) darbo ginčą inicijuojančios šalies (ieškovo) vardas, pavardė, asmens kodas, o jei jo nėra, − gimimo data, gyvenamosios vietos adresas (jeigu darbo ginčą inicijuojanti šalis (ieškovas) prašo dokumentus gauti elektroniniu paštu, turi būti nurodytas elektroninio pašto adresas), telefono ryšio numeris;
+1) darbo ginčą inicijuojančios šalies (ieškovo) vardas, pavardė, asmens kodas, o jeigu jo nėra, − gimimo data, gyvenamosios vietos adresas (jeigu darbo ginčą inicijuojanti šalis (ieškovas) prašo dokumentus gauti elektroniniu paštu, turi būti nurodytas elektroninio pašto adresas), ryšio numeris, mokėjimo sąskaitos numeris;
 
 
 
 
-2) kitos šalies (atsakovo) pavadinimas, juridinio asmens kodas, buveinės adresas arba fizinio asmens vardas, pavardė, asmens kodas, o jei jo nėra, − gimimo data ir gyvenamosios vietos adresas, telefono ryšio numeris;
+2) kitos šalies (atsakovo) pavadinimas, juridinio asmens kodas, buveinės adresas arba fizinio asmens vardas, pavardė, asmens kodas, o jeigu jo nėra, − gimimo data ir gyvenamosios vietos adresas, ryšio numeris;
 
 
 
@@ -8922,26 +8976,22 @@ Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
 
 
 
-3. Prašymas išnagrinėti darbo ginčą dėl teisės teikiamas darbo ginčų komisijai prie Valstybinės darbo inspekcijos teritorinio skyriaus, kurio teritorijoje yra darbuotojo darbovietė.
+3. Vieną prašymą išnagrinėti darbo ginčą dėl teisės gali pateikti ir kelių to paties darbdavio darbuotojų grupė, jeigu darbo ginčas dėl teisės kyla tuo pačiu teisiniu pagrindu.
 
 
 
 
-4. Vieną prašymą išnagrinėti darbo ginčą dėl teisės gali pateikti ir kelių to paties darbdavio darbuotojų grupė, jeigu darbo ginčas dėl teisės kyla tuo pačiu teisiniu pagrindu. 
+4. Jeigu prašymas išnagrinėti darbo ginčą dėl teisės neatitinka šio straipsnio 1 ir 2 dalyse nustatytų reikalavimų, darbo ginčų komisija apie tai praneša ieškovui ir nustato penkių darbo dienų terminą pranešime išvardytiems trūkumams pašalinti. Šis terminas skaičiuojamas nuo pranešimo apie nustatytus trūkumus gavimo dienos. Jeigu trūkumai per nustatytą terminą nepašalinami, prašymas išnagrinėti darbo ginčą dėl teisės laikomas nepateiktu ir grąžinamas ieškovui.
 
 
 
 
-5. Jeigu prašymas išnagrinėti darbo ginčą dėl teisės neatitinka šio straipsnio 1 ir 2 dalyse nustatytų reikalavimų, darbo ginčų komisija apie tai praneša ieškovui ir nustato 5 darbo dienų terminą pranešime išvardytiems trūkumams pašalinti. Šis terminas skaičiuojamas nuo pranešimo apie nustatytus trūkumus gavimo dienos. Jeigu trūkumai per nustatytą terminą nepašalinami, prašymas išnagrinėti darbo ginčą dėl teisės laikomas nepateiktu ir grąžinamas ieškovui.
-
-
-
-
-6. Jeigu ieškovas iki darbo ginčų komisijos posėdžio raštu ar elektroniniu paštu, pasirašęs elektroniniu parašu, pateikė prašymą nenagrinėti jo pateikto prašymo išnagrinėti darbo ginčą dėl teisės, prašymas išnagrinėti darbo ginčą dėl teisės laikomas nepateiktu ir grąžinamas ieškovui. Prašyme nenagrinėti pateikto prašymo išnagrinėti darbo ginčą dėl teisės nurodomas ieškovo vardas, pavardė, asmens kodas, o jei ieškovas jo neturi, − gimimo data. Jeigu ieškovas prašyme nenagrinėti jo pateikto prašymo išnagrinėti darbo ginčą dėl teisės nepateikė šioje dalyje nurodytų duomenų, darbo ginčų komisija praneša ieškovui apie nustatytus trūkumus ir jų pašalinimo galimybę šio straipsnio 5 dalyje nustatyta tvarka.
+5. Jeigu ieškovas iki darbo ginčų komisijos posėdžio šio straipsnio 1 dalyje nustatytu būdu pateikė prašymą nenagrinėti jo pateikto prašymo išnagrinėti darbo ginčą dėl teisės, prašymas išnagrinėti darbo ginčą dėl teisės laikomas nepateiktu ir grąžinamas ieškovui. Prašyme nenagrinėti pateikto prašymo išnagrinėti darbo ginčą dėl teisės nurodomas ieškovo vardas, pavardė, asmens kodas, o jeigu ieškovas jo neturi, – gimimo data. Jeigu ieškovas prašyme nenagrinėti jo pateikto prašymo išnagrinėti darbo ginčą dėl teisės nepateikė šioje dalyje nurodytų duomenų, darbo ginčų komisija praneša ieškovui apie nustatytus trūkumus ir jų pašalinimo galimybę šio straipsnio 4 dalyje nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -9014,9 +9064,10 @@ Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
 
 
 
-2. Darbo ginčų komisijos pirmininkas ne vėliau kaip per penkias darbo dienas nuo prašymo gavimo dienos nustato posėdžio datą, laiką ir terminą, per kurį atsakovas privalo raštu ar elektroniniu paštu, pasirašęs elektroniniu parašu, pranešti darbo ginčų komisijai, ar jis pripažįsta ieškovo reikalavimus, pateikti reikalaujamus dokumentus ir kitus įrodymus. Nurodytas terminas negali būti trumpesnis kaip penkios darbo dienos nuo ieškovo prašymo kopijos įteikimo atsakovui dienos. 
+2. Darbo ginčų komisijos pirmininkas ne vėliau kaip per penkias darbo dienas nuo prašymo gavimo dienos arba trūkumų pašalinimo dienos, jeigu buvo taikoma šio kodekso 223 straipsnio 4 dalis, nustato posėdžio datą, laiką ir terminą, per kurį atsakovas privalo šio kodekso 223 straipsnio 1 dalyje nustatytu būdu pranešti darbo ginčų komisijai, ar jis pripažįsta ieškovo reikalavimus, pateikti reikalaujamus dokumentus ir kitus įrodymus. Nurodytas terminas negali būti trumpesnis kaip penkios darbo dienos nuo ieškovo prašymo kopijos įteikimo atsakovui dienos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
  
 
 
@@ -9042,7 +9093,10 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 
 
 
-4. Jeigu yra abiejų šalių raštu ar elektroniniu paštu pateiktas elektroniniu parašu pasirašytas prašymas dėl darbo ginčo nagrinėjimo naudojant informacines ir elektroninių ryšių technologijas, šalių dalyvavimas darbo ginčų komisijos posėdžiuose ir liudytojų apklausa jų buvimo vietoje gali būti užtikrinami naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip).
+4. Jeigu yra abiejų šalių šio kodekso 223 straipsnio 1 dalyje nustatytu būdu pateiktas pasirašytas prašymas dėl darbo ginčo nagrinėjimo taikant informacines ir elektroninių ryšių technologijas, šalių dalyvavimas darbo ginčų komisijos posėdžiuose ir liudytojų apklausa jų buvimo vietoje gali būti užtikrinami taikant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip).
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
@@ -9129,7 +9183,10 @@ Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
 228 straipsnis. Darbo ginčų komisijos sprendimo priėmimas
 
 
-1. Darbo ginčų komisija privalo išnagrinėti prašymą ne vėliau kaip per vieną mėnesį nuo prašymo gavimo dienos. Darbo ginčų komisijos pirmininko motyvuotu sprendimu prašymo nagrinėjimo terminas gali būti pratęstas, bet ne ilgiau kaip vienam mėnesiui.
+1. Darbo ginčų komisija privalo išnagrinėti prašymą ne vėliau kaip per vieną mėnesį nuo prašymo gavimo dienos arba trūkumų pašalinimo dienos, jeigu buvo taikoma šio kodekso 223 straipsnio 4 dalis. Darbo ginčų komisijos pirmininko motyvuotu sprendimu prašymo nagrinėjimo terminas gali būti pratęstas, bet ne ilgiau kaip vienam mėnesiui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3034, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18430
+ 
 
 
 
