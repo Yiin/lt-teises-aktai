@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2024-09-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-08-31
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
  
@@ -38,7 +38,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šis įstatymas nustato biudžetinių įstaigų darbuotojų, dirbančių pagal darbo sutartis (toliau – darbuotojai), darbo apmokėjimo sąlygas ir dydžius, darbuotojų pareigybių lygius ir grupes, kasmetinį veiklos vertinimą, skatinimą, materialines pašalpas, taip pat įstatymų pagrindais sudarytų komisijų (grupių, tarybų, Teisėjų garbės teismo, darbo arbitražo, Lietuvos mokslo tarybos valdybos ir ekspertų komitetų), finansuojamų iš valstybės ir savivaldybių biudžetų (toliau kartu – komisijos), pirmininkų, pirmininkų pavaduotojų ir narių (toliau – komisijų nariai) atlygį už darbą.
+1. Šis įstatymas nustato biudžetinių įstaigų darbuotojų, dirbančių pagal darbo sutartis, (toliau – darbuotojai) darbo apmokėjimo sąlygas ir dydžius, darbuotojų pareigybių lygius ir grupes, veiklos vertinimą, skatinimą, materialines pašalpas, taip pat įstatymų pagrindais sudarytų komisijų (grupių, tarybų, Teisėjų garbės teismo, darbo arbitražo, Lietuvos mokslo tarybos valdybos ir ekspertų komitetų), finansuojamų iš valstybės ir savivaldybių biudžetų, (toliau kartu – komisijos) pirmininkų, pirmininkų pavaduotojų ir narių (toliau – komisijų nariai) atlygį už darbą.
+Straipsnio dalies pakeitimai:
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
+ 
 
 
 
@@ -300,9 +303,10 @@ DARBO UŽMOKESTIS, DARBUOTOJŲ VERTINIMAS IR SKATINIMAS BEI MATERIALINĖS PAŠAL
 
 
 
-5) kintamoji dalis, jeigu ji numatyta darbo apmokėjimo sistemoje ir skiriama darbuotojui šio įstatymo ir darbo apmokėjimo sistemos nustatyta tvarka, atsižvelgiant į jo praėjusių metų veiklos vertinimą, taip pat kitais darbo apmokėjimo sistemoje numatytais atvejais.
+5) kintamoji dalis, jeigu ji numatyta darbo apmokėjimo sistemoje ir skiriama darbuotojui šio įstatymo ir darbo apmokėjimo sistemos nustatyta tvarka, atsižvelgiant į jo veiklos vertinimą, taip pat kitais darbo apmokėjimo sistemoje numatytais atvejais. 
 Straipsnio punkto pakeitimai:
 Nr. XIV-2836, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12631
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
  
 
 
@@ -315,7 +319,10 @@ Nr. XIV-2836, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12631
 
 
 
-3. Kintamoji dalis, atsižvelgiant į praėjusių metų veiklos vertinimą, gali siekti iki 40 procentų pareiginės algos, o nacionalinių ir valstybinių kultūros ir meno įstaigų darbuotojams, kurie viešo spektaklio, koncerto ar kito renginio metu atlieka profesionaliojo scenos meno kūrinius ir kurių pareigybių sąrašą tvirtina kultūros ministras (toliau – nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjai), – iki 160 procentų pareiginės algos.
+3. Kintamoji dalis gali siekti iki 40 procentų pareiginės algos, o nacionalinių ir valstybinių kultūros ir meno įstaigų darbuotojams, kurie viešo spektaklio, koncerto ar kito renginio metu atlieka profesionaliojo scenos meno kūrinius ir kurių pareigybių sąrašą tvirtina kultūros ministras, (toliau – nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjai) – iki 160 procentų pareiginės algos.
+Straipsnio dalies pakeitimai:
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
+ 
 
 
 
@@ -336,9 +343,10 @@ Nr. XIV-2836, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12631
 6 straipsnis. Pareiginė alga
 
 
-1. Biudžetinių įstaigų darbuotojų, išskyrus biudžetinių įstaigų vadovus, mokyklų vadovų pavaduotojus ugdymui, švietimo pagalbos įstaigų vadovų pavaduotojus, kurių darbas laikomas pedagoginiu, mokyklų ugdymą organizuojančių skyrių vedėjus, švietimo pagalbos įstaigų skyrių vedėjus, kurių darbas laikomas pedagoginiu, mokytojus (išskyrus trenerius), taip pat specialiuosius pedagogus, logopedus, surdopedagogus, tiflopedagogus, judesio korekcijos specialistus, karjeros specialistus, psichologų asistentus, psichologus, socialinius pedagogus, auklėtojus, koncertmeisterius, akompaniatorius (toliau – pagalbos mokiniui specialistai), pareiginė alga nustatoma iš darbo apmokėjimo sistemoje pareigybei nustatyto pareiginės algos koeficientų intervalo, kurio minimalūs pareiginės algos koeficientų dydžiai negali būti mažesni negu šio įstatymo 1 priede nustatyti koeficientų dydžiai ir mažesni negu 1,1 Vyriausybės patvirtintos minimaliosios mėnesinės algos (toliau – MMA), išskyrus darbininkus. Biudžetinių įstaigų vadovų, išskyrus mokyklų vadovus ir švietimo pagalbos įstaigų vadovus, pareiginė alga nustatoma iš šio įstatymo 1 priede nustatyto pareigybės pareiginės algos koeficientų intervalo, atsižvelgiant į savininko teises ir pareigas įgyvendinančios institucijos nustatytoje savo valdymo sričiai priskirtų biudžetinių įstaigų vadovų darbo apmokėjimo sistemoje numatytus pareiginės algos nustatymo kriterijus. Biudžetinės įstaigos darbuotojo pareiginės algos maksimalaus koeficiento dydis negali viršyti biudžetinės įstaigos vadovo pareiginės algos maksimalaus koeficiento dydžio, nustatyto šio įstatymo 1 priede arba kituose įstatymuose, išskyrus šio straipsnio 6 dalyje nustatytus atvejus.
+1. Biudžetinių įstaigų darbuotojų, išskyrus biudžetinių įstaigų vadovus, mokyklų vadovų pavaduotojus ugdymui, švietimo pagalbos įstaigų vadovų pavaduotojus, kurių darbas laikomas pedagoginiu, mokyklų ugdymą organizuojančių skyrių vedėjus, švietimo pagalbos įstaigų skyrių vedėjus, kurių darbas laikomas pedagoginiu, mokytojus (išskyrus aukšto meistriškumo sporto trenerius (toliau – treneriai)), taip pat specialiuosius pedagogus, logopedus, surdopedagogus, tiflopedagogus, judesio korekcijos specialistus, karjeros specialistus, psichologų asistentus, psichologus, socialinius pedagogus, auklėtojus, koncertmeisterius, akompaniatorius (toliau – pagalbos mokiniui specialistai), pareiginė alga nustatoma iš darbo apmokėjimo sistemoje pareigybei nustatyto pareiginės algos koeficientų intervalo, kurio minimalūs pareiginės algos koeficientų dydžiai negali būti mažesni negu šio įstatymo 1 priede nustatyti koeficientų dydžiai ir mažesni negu 1,1 Vyriausybės patvirtintos minimaliosios mėnesinės algos (toliau – MMA), išskyrus darbininkus. Biudžetinių įstaigų vadovų, išskyrus mokyklų vadovus ir švietimo pagalbos įstaigų vadovus, pareiginė alga nustatoma iš šio įstatymo 1 priede nustatyto pareigybės pareiginės algos koeficientų intervalo, atsižvelgiant į savininko teises ir pareigas įgyvendinančios institucijos nustatytoje savo valdymo sričiai priskirtų biudžetinių įstaigų vadovų darbo apmokėjimo sistemoje numatytus pareiginės algos nustatymo kriterijus. Biudžetinės įstaigos darbuotojo pareiginės algos maksimalaus koeficiento dydis negali viršyti biudžetinės įstaigos vadovo pareiginės algos maksimalaus koeficiento dydžio, nustatyto šio įstatymo 1 priede arba kituose įstatymuose, išskyrus šio straipsnio 6 dalyje nustatytus atvejus.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2836, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12631
+Nr. XIV-2865, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12650
  
 
 
@@ -354,7 +362,10 @@ Nr. XIV-2836, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12631
 
 
 
-4. A1 lygio pareigybių pareiginės algos koeficientai darbo apmokėjimo sistemoje didinami 20 procentų, palyginti su to paties lygmens (pakopos) pareigybėmis, kurioms nebūtinas magistro kvalifikacinis laipsnis (išskyrus biudžetinių įstaigų vadovus).
+4. A1 lygio pareigybių pareiginės algos koeficientai darbo apmokėjimo sistemoje didinami 20 procentų, palyginti su to paties lygmens (pakopos) pareigybėmis, kurių pagal pareigybės aprašymą priskirtoms funkcijoms atlikti magistro kvalifikacinio laipsnio nereikalaujama (išskyrus biudžetinių įstaigų vadovus).
+Straipsnio dalies pakeitimai:
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
+ 
 
 
 
@@ -451,7 +462,10 @@ Nr. XIV-2836, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12631
 
 
 
-2. Kiekviena priemoka, nurodyta šio straipsnio 1 dalyje, negali būti mažesnė kaip 10 procentų pareiginės algos, o jų suma negali viršyti 80 procentų pareiginės algos.
+2. Kiekviena priemoka, nurodyta šio straipsnio 1 dalyje, negali būti mažesnė kaip 10 procentų pareiginės algos, o jų suma negali viršyti 80 procentų pareiginės algos. Šios dalies nuostatos netaikomos mokytojams ir pagalbos mokiniui specialistams.
+Straipsnio dalies pakeitimai:
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
+ 
 
 
 
@@ -540,7 +554,10 @@ Nr. XIV-2836, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12631
 
 
 
-3) biudžetinės įstaigos darbuotojas (išskyrus biudžetinės įstaigos vadovą) gali būti perkeliamas į aukštesnes biudžetinės įstaigos darbuotojo pareigas toje pačioje biudžetinėje įstaigoje, jeigu jis atitinka šiai pareigybei keliamus reikalavimus ir jeigu toks perkėlimas neprieštarauja Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo 23 straipsniui (biudžetinės įstaigos darbuotojas gali būti perkeliamas į pareigas, dėl kurių turi būti rengiamas konkursas, tik jeigu tai atitinka Vyriausybės tvirtinamame pareigybių, dėl kurių rengiamas konkursas, sąraše nurodytas sąlygas) arba
+3) biudžetinės įstaigos darbuotojas (išskyrus biudžetinės įstaigos vadovą) gali būti perkeliamas į toje pačioje biudžetinėje įstaigoje esančias aukštesnes biudžetinės įstaigos darbuotojo pareigas, kurios įstaigos darbo apmokėjimo sistemoje priskirtos aukštesniam pareigybių lygmeniui (pakopai), jeigu jis atitinka šiai pareigybei keliamus reikalavimus ir jeigu toks perkėlimas neprieštarauja Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo 23 straipsniui (biudžetinės įstaigos darbuotojas gali būti perkeliamas į pareigas, dėl kurių turi būti rengiamas konkursas, tik jeigu tai atitinka Vyriausybės tvirtinamame pareigybių, dėl kurių rengiamas konkursas, sąraše nurodytas sąlygas), arba 
+Straipsnio punkto pakeitimai:
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
+ 
 
 
 
@@ -565,7 +582,10 @@ Nr. XIV-2836, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12631
 
 
 
-2) biudžetinės įstaigos vadovas ar darbuotojas gali būti perkeliamas į žemesnes pareigas toje pačioje biudžetinėje įstaigoje, jeigu tai neprieštarauja Viešųjų ir privačių interesų derinimo įstatymo 23 straipsniui (biudžetinės įstaigos darbuotojas gali būti perkeliamas į pareigas, dėl kurių turi būti rengiamas konkursas, tik jeigu tai atitinka Vyriausybės tvirtinamame pareigybių, dėl kurių rengiamas konkursas, sąraše nurodytas sąlygas) arba
+2) biudžetinės įstaigos vadovas ar darbuotojas gali būti perkeliamas į toje pačioje biudžetinėje įstaigoje esančias žemesnes pareigas, kurios įstaigos darbo apmokėjimo sistemoje priskirtos žemesniam pareigybių lygmeniui (pakopai), jeigu tai neprieštarauja Viešųjų ir privačių interesų derinimo įstatymo 23 straipsniui (biudžetinės įstaigos darbuotojas gali būti perkeliamas į pareigas, dėl kurių turi būti rengiamas konkursas, tik jeigu tai atitinka Vyriausybės tvirtinamame pareigybių, dėl kurių rengiamas konkursas, sąraše nurodytas sąlygas), arba 
+Straipsnio punkto pakeitimai:
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
+ 
 
 
 
@@ -590,7 +610,10 @@ Nr. XIV-2836, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12631
 
 
 
-3) biudžetinės įstaigos darbuotojo prašymu perkelti jį į aukštesnes (išskyrus biudžetinės įstaigos vadovo ar jo pavaduotojo) pareigas;
+3) biudžetinės įstaigos darbuotojo prašymu perkelti jį į toje pačioje biudžetinėje įstaigoje esančias aukštesnes (išskyrus biudžetinės įstaigos vadovo ar jo pavaduotojo) pareigas, kurios įstaigos darbo apmokėjimo sistemoje priskirtos aukštesniam pareigybių lygmeniui (pakopai);
+Straipsnio punkto pakeitimai:
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
+ 
 
 
 
@@ -813,17 +836,17 @@ IR DARBUOTOJŲ minimalūs PAREIGINĖS ALGOS KOEFICIENTAI
  5. 
  Specialistas 
  A 
- 0,67 
+ 0,7 
 
 
  B 
- 0,62 
+ 0,67 
 
 
  6. 
  Kvalifikuotas darbuotojas 
  C 
- 0,57 
+ 0,64 
 
 
 
@@ -833,6 +856,9 @@ IR DARBUOTOJŲ minimalūs PAREIGINĖS ALGOS KOEFICIENTAI
 ____________________
 
 
+Priedo pakeitimai:
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
+ 
 
 
 
@@ -2556,3 +2582,13 @@ Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2836, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12631
 Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 5 ir 6 straipsnių pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2865, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12650
+Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 6 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
+Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 1, 5, 6, 8, 9 straipsnių ir 1 ir 2 priedų pakeitimo įstatymas
