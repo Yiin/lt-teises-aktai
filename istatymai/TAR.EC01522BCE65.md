@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
  
@@ -36,10 +36,17 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato Lietuvos Respublikos Seimo kontrolierių (toliau – Seimo kontrolieriai) veiklos teisinius pagrindus ir įgaliojimus, taip pat Lietuvos Respublikos Seimo kontrolierių įstaigos (toliau – Seimo kontrolierių įstaiga) organizacinę struktūrą.
+1. Šis įstatymas nustato Lietuvos Respublikos Seimo kontrolierių veiklos teisinius pagrindus ir įgaliojimus, taip pat Lietuvos Respublikos Seimo kontrolierių įstaigos organizacinę struktūrą.
+
+
+
+
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-3081, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20023
  
-
-
 
 
 
@@ -86,7 +93,15 @@ Seimo kontrolierių veiklos tikslai:
 
 
 
-3) vykdyti nacionalinę kankinimų prevenciją laisvės apribojimo vietose pagal Konvencijos prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ar baudimą fakultatyvų protokolą. 
+3) vykdyti nacionalinę kankinimų prevenciją laisvės apribojimo vietose pagal Konvencijos prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ar baudimą fakultatyvų protokolą; 
+
+
+
+
+4) atlikti kovos su prekyba žmonėmis stebėseną, vykdant nacionalinio pranešėjo kovos su prekyba žmonėmis klausimais (toliau – nacionalinis pranešėjas) funkciją.
+Papildyta straipsnio punktu:
+Nr. XIV-3081, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20023
+ 
 
 
 
@@ -125,7 +140,10 @@ Seimo kontrolieriai savo veikloje vadovaujasi šiais principais:
 
 
 
-5) nešališkumo ir teisingumo. Seimo kontrolieriai vienodai (lygiai teisingai) gina visus žmones, nepaisant jų tautybės, rasės, lyties, kalbos, kilmės, socialinės padėties, religinių įsitikinimų ar politinių pažiūrų. Seimo kontrolieriai savo veikloje yra objektyvūs ir teisingi;
+5) nešališkumo ir teisingumo. Seimo kontrolieriai vienodai (lygiai teisingai) gina visus žmones, nepaisydami jų lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos ar kitų požymių. Seimo kontrolieriai savo veikloje yra objektyvūs ir teisingi;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3081, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20023
+ 
 
 
 
@@ -380,7 +398,10 @@ Nr. XI-2291, 2012-10-17, Žin., 2012, Nr. 129-6465 (2012-11-08), i. k. 1121010IS
 
 
 III SKIRSNIS
-SKUNDŲ PRIĖMIMAS IR TYRIMAS
+SEIMO KONTROLIERIŲ ĮGALIOJIMAI 
+ 
+Pakeistas skirsnio pavadinimas:
+Nr. XIV-3081, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20023
  
 
 
@@ -928,6 +949,64 @@ Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
 
 
 
+193 straipsnis. Institucija, vykdanti nacionalinio pranešėjo funkciją
+
+
+1. Seimo kontrolierių įstaiga yra institucija, vykdanti nacionalinio pranešėjo funkciją.
+
+
+
+
+2. Seimo kontrolieriai, atlikdami kovos su prekyba žmonėmis stebėseną, atlieka šias funkcijas:
+
+
+1) analizuoja ir vertina prekybos žmonėmis tendencijas ir kovos su prekyba žmonėmis rezultatus;
+
+
+
+
+2) renka vidaus reikalų ministro nustatyta tvarka Seimo kontrolieriams teikiamus statistinius duomenis ir kitą informaciją apie prekybos žmonėmis padėtį ir kovos su prekyba žmonėmis priemones bei veiksmus bendradarbiaudami su šioje srityje veikiančiomis valstybės ir savivaldybių institucijomis ir įstaigomis, nevyriausybinėmis organizacijomis;
+
+
+
+
+3) rengia metinę kovos su prekyba žmonėmis padėties Lietuvos Respublikoje apžvalgą, teikia informaciją apie kovos su prekyba žmonėmis padėtį Lietuvos Respublikoje Europos Sąjungos kovos su prekyba žmonėmis koordinatoriui, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms organizacijoms;
+
+
+
+
+4) dalyvauja Europos Sąjungos nacionalinių pranešėjų arba lygiaverčių mechanizmų prekybos žmonėmis klausimais tinkle. 
+
+
+
+
+
+
+3. Seimo kontrolieriai, atlikdami kovos su prekyba žmonėmis stebėseną, turi teisę:
+
+
+1) teikti pasiūlymus dėl Lietuvos Respublikos pažangos kovojant su prekyba žmonėmis Seimui, Vyriausybei ir jos sudaromai Kovos su prekyba žmonėmis koordinavimo komisijai;
+
+
+
+
+2) gauti iš valstybės ir savivaldybių institucijų ir įstaigų, kitų organizacijų informaciją, būtiną kovos su prekyba žmonėmis stebėsenai atlikti.
+
+
+
+
+
+
+4. Metinė kovos su prekyba žmonėmis padėties Lietuvos Respublikoje apžvalga skelbiama Seimo kontrolierių įstaigos interneto svetainėje.
+
+
+Papildyta straipsniu:
+Nr. XIV-3081, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20023
+ 
+
+
+
+
 20 straipsnis. Seimo kontrolierių reikalavimų privalomumas
 
 
@@ -1031,10 +1110,12 @@ SEIMO KONTROLIERIŲ ĮSTAIGA
 24 straipsnis. Seimo kontrolierių įstaiga
 
 
-Seimo kontrolierių įstaiga – valstybės biudžetinė įstaiga. Seimo kontrolierių įstaiga – juridinis asmuo, turintis atsiskaitomąją sąskaitą banke ir antspaudą su Lietuvos valstybės herbu bei pavadinimu „Lietuvos Respublikos Seimo kontrolierių įstaiga“ ir finansuojamas iš valstybės biudžeto. Už Seimo kontrolierių įstaigos antspaudo naudojimą ir saugojimą atsako Seimo kontrolierių įstaigos vadovas. 
+Seimo kontrolierių įstaiga – valstybės biudžetinė įstaiga. Seimo kontrolierių įstaiga – juridinis asmuo, turintis savo tvarkomą sąskaitą valstybės ižde ir antspaudą su Lietuvos valstybės herbu bei pavadinimu „Lietuvos Respublikos Seimo kontrolierių įstaiga“ ir finansuojamas iš valstybės biudžeto. Už Seimo kontrolierių įstaigos antspaudo naudojimą ir saugojimą atsako Seimo kontrolierių įstaigos vadovas.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-3081, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20023
  
-
-
 
 
 
@@ -1180,9 +1261,25 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 
+ 
+
+
+
+
+ 
+Lietuvos Respublikos 
+Seimo kontrolierių įstatymo 
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR.
+__________________
+Papildyta priedu:
+Nr. XIV-3081, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20023
  
  
  
@@ -1287,3 +1384,8 @@ Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 19-1 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
 Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 6, 7, 9, 10, 19, 22, 25, 28 straipsnių ir V skirsnio pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3081, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20023
+Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 1, 3, 4, 24 straipsnių, III skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 19-3 straipsniu ir priedu įstatymas
