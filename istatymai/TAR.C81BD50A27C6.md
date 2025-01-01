@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -504,7 +504,9 @@ Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
 
 
 
-2) ne ilgiau kaip trims mėnesiams, kai paaiškėja, kad asmens sveikatos priežiūros įstaiga pažeidžia šio straipsnio 4 dalyje nurodytus reikalavimus (išskyrus atvejus, kai paslaugų teikimas stabdomas šio įstatymo 54 straipsnyje nustatyta tvarka) ir (arba) nevykdo šio įstatymo 45 straipsnio 1 dalies 41 ir (arba) 6 punktuose nustatytų pareigų, ir yra bent viena iš šių sąlygų:
+2) ne ilgiau kaip trims mėnesiams, kai paaiškėja, kad asmens sveikatos priežiūros įstaiga pažeidžia šio straipsnio 4 dalyje nurodytus reikalavimus (išskyrus atvejus, kai paslaugų teikimas stabdomas šio įstatymo 54 straipsnyje nustatyta tvarka) ir (arba) nevykdo šio įstatymo 45 straipsnio 1 dalies 41, 6 ir (arba) 17 punktuose nustatytų pareigų, ir yra bent viena iš šių sąlygų: 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3030, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18429
 
 
 a) yra realus pavojus pacientų sveikatai ar gyvybei;
@@ -526,11 +528,12 @@ Nr. XIV-793, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27369
 
 
 
-111. Asmens sveikatos priežiūros veiklos licencijos ar jos dalies galiojimas stabdomas tik toms asmens sveikatos priežiūros paslaugoms, kurias teikiant nustatyti pažeidimai. Jeigu asmens sveikatos priežiūros įstaiga nevykdo šio įstatymo 45 straipsnio 1 dalies 41 punkte nustatytos pareigos Sveikatos apsaugos ministerijos valdomos Elektroninės sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinės sistemos (toliau – ESPBI IS) veiklą reguliuojančių teisės aktų nustatyta tvarka sudaryti sutartį dėl naudojimosi ESPBI IS ir (arba) šio įstatymo 45 straipsnio 1 dalies 6 punkte nustatytos pareigos, asmens sveikatos priežiūros veiklos licencijos galiojimas stabdomas visoms asmens sveikatos priežiūros paslaugoms.
+111. Asmens sveikatos priežiūros veiklos licencijos ar jos dalies galiojimas stabdomas tik dėl tų asmens sveikatos priežiūros paslaugų, kurias teikiant nustatyta pažeidimų. Jeigu asmens sveikatos priežiūros įstaiga nevykdo šio įstatymo 45 straipsnio 1 dalies 41 punkte nustatytos pareigos Sveikatos apsaugos ministerijos valdomos Elektroninės sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinės sistemos (toliau – ESPBI IS) veiklą reguliuojančių teisės aktų nustatyta tvarka sudaryti sutartį dėl naudojimosi ESPBI IS ir (arba) šio įstatymo 45 straipsnio 1 dalies 6 ir (arba) 17 punktuose nustatytų pareigų, asmens sveikatos priežiūros veiklos licencijos galiojimas stabdomas dėl visų asmens sveikatos priežiūros paslaugų. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
 Straipsnio dalies pakeitimai:
 Nr. XIV-793, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27369
+Nr. XIV-3030, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18429
  
 
 
@@ -1100,7 +1103,10 @@ Nr. XI-1770, 2011-12-01, Žin., 2011, Nr. 154-7261 (2011-12-17)
 
 
 
-2. LNSS viešųjų įstaigų, teikiančių Privalomojo sveikatos draudimo fondo lėšomis apmokamas asmens sveikatos priežiūros paslaugas, vadovų mėnesinio darbo užmokesčio pastoviosios dalies dydis nustatomas praėjusių kalendorinių metų jų vadovaujamos įstaigos vieno etato gydytojų ir slaugytojų vidutinio mėnesinio darbo užmokesčio svertinį vidurkį dauginant iš koeficiento, kuris yra apskaičiuotas atsižvelgus į šiuos kriterijus: LNSS viešųjų įstaigų praėjusiais kalendoriniais metais iš Privalomojo sveikatos draudimo fondo biudžeto gautų pajamų dydį ir praėjusiais kalendoriniais metais gydytojų (įskaitant gydytojus odontologus) ir slaugytojų (įskaitant akušerius) faktiškai užimtų etatų skaičių.
+2. LNSS viešųjų įstaigų, teikiančių Privalomojo sveikatos draudimo fondo lėšomis apmokamas asmens sveikatos priežiūros paslaugas, vadovų mėnesinio darbo užmokesčio pastoviosios dalies dydis nustatomas kiekvienais metais nuo gegužės 1 d. iki kitų kalendorinių metų balandžio 30 d., praėjusių kalendorinių metų jų vadovaujamos įstaigos vieno etato gydytojų ir slaugytojų vidutinio mėnesinio darbo užmokesčio svertinį vidurkį dauginant iš koeficiento, kuris yra apskaičiuotas atsižvelgus į šiuos kriterijus: LNSS viešųjų įstaigų praėjusiais kalendoriniais metais iš Privalomojo sveikatos draudimo fondo biudžeto gautų pajamų dydį ir praėjusiais kalendoriniais metais gydytojų (įskaitant gydytojus odontologus) ir slaugytojų (įskaitant akušerius) faktiškai užimtų etatų skaičių. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2453, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25944
+ 
 
 
 
@@ -1288,7 +1294,10 @@ Nr. XIV-1278, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15195
 
 
 
-10. LNSS viešųjų įstaigų vadovaujančiųjų darbuotojų mėnesinio darbo užmokesčio kintamosios dalies dydis priklauso nuo praėjusių kalendorinių metų jų vadovaujamos įstaigos veiklos rezultatų ir nustatomas vieniems metams. LNSS viešųjų įstaigų veiklos rezultatų vertinimo kiekybinių ir kokybinių rodiklių ir vadovaujančiųjų darbuotojų mėnesinio darbo užmokesčio kintamosios dalies nustatymo tvarkos aprašą tvirtina sveikatos apsaugos ministras. Visais atvejais mėnesinio darbo užmokesčio kintamosios dalies dydis negali viršyti 20 procentų vadovaujančiajam darbuotojui nustatyto mėnesinio darbo užmokesčio pastoviosios dalies dydžio. Mėnesinio darbo užmokesčio kintamoji dalis negali būti nustatoma, jeigu praėjusių kalendorinių metų įstaigos veiklos finansiniai rezultatai yra neigiami, išskyrus atvejus, kai neigiami finansiniai rezultatai atsirado dėl sumažinto finansavimo ir (ar) dėl kitų aplinkybių, kurių LNSS viešųjų įstaigų vadovaujantieji darbuotojai negalėjo kontroliuoti, numatyti ir užkirsti kelio šių aplinkybių ar jų pasekmių atsiradimui.
+10. LNSS viešųjų įstaigų vadovaujančiųjų darbuotojų mėnesinio darbo užmokesčio kintamosios dalies dydis nustatomas kiekvienais metais nuo gegužės 1 d. iki kitų kalendorinių metų balandžio 30 d. atsižvelgiant į pasiektas vadovaujantis šio įstatymo 152 straipsniu sveikatos apsaugos ministro patvirtintas LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, veiklos rezultatų vertinimo rodiklių siektinas reikšmes. LNSS viešosios įstaigos vadovaujančiajam darbuotojui nuo jo darbo einant atitinkamas LNSS viešosios įstaigos vadovaujančiojo darbuotojo pareigas pradžios, taip pat jam grįžus iš atostogų vaikui prižiūrėti iki kitų kalendorinių metų balandžio 30 d., o jeigu jis pradėjo eiti atitinkamas pareigas arba iš atostogų vaikui prižiūrėti grįžo einamųjų metų spalio 1 d. ar vėliau, iki metų, einančių po kitų kalendorinių metų, balandžio 30 d., mėnesinio darbo užmokesčio kintamoji dalis nustatoma atsižvelgiant į LNSS viešosios įstaigos vadovaujančiojo darbuotojo profesinę kvalifikaciją ir (arba) numatomą šioje dalyje nurodyto laikotarpio LNSS viešosios įstaigos veiklos ir (ar) jos pokyčių mastą ir sudėtingumą. Visais atvejais mėnesinio darbo užmokesčio kintamosios dalies dydis negali viršyti 20 procentų vadovaujančiajam darbuotojui nustatyto mėnesinio darbo užmokesčio pastoviosios dalies dydžio.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2796, 2024-06-25, paskelbta TAR 2024-06-27, i. k. 2024-11790
+ 
 
 
 
@@ -1321,180 +1330,42 @@ Nr. XIII-1762, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21108
 152 straipsnis. LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, veiklos rezultatų vertinimas
 
 
-1. LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, veiklos finansinių rezultatų vertinimo rodikliai yra:
+1. Sveikatos apsaugos ministras kiekvienais metais iki gegužės 1 d. tvirtina LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, veiklos rezultatų vertinimo rodiklius (toliau šiame straipsnyje – rodikliai) ir jų siektinas reikšmes, taikomas šio ministro nustatytoms įstaigų grupėms. LNSS viešosios įstaigos ir LNSS biudžetinės įstaigos į grupes skirstomos pagal teikiamų asmens sveikatos priežiūros paslaugų lygį ir pobūdį.
 
 
-1) įstaigos praėjusių metų veiklos rezultatų ataskaitoje nurodytas pajamų ir sąnaudų skirtumas (grynasis perviršis ar deficitas);
 
 
+2. LNSS viešosios įstaigos ir LNSS biudžetinės įstaigos, teikiančios asmens sveikatos priežiūros paslaugas, viešai skelbiamose veiklos ataskaitose sveikatos apsaugos ministro nustatyta tvarka pateikia informaciją apie per ataskaitinį laikotarpį įstaigoje taikytas priemones, kuriomis buvo siekiama rodiklių siektinų reikšmių.
 
 
-2) įstaigos sąnaudų darbo užmokesčiui dalis;
 
 
+3. Pasiektos metinės rodiklių reikšmės nuolat skelbiamos viešai Sveikatos apsaugos ministerijos, LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, interneto svetainėse ir šių įstaigų skelbimų lentose pacientams suprantamu būdu. Skelbiami duomenys turi būti išsamūs, struktūruoti, be registracijos nemokamai prieinami didžiausiai įmanomai vartotojų grupei, teikiami atvira ir nepatentuota forma.
 
 
-3) įstaigos sąnaudų valdymo išlaidoms dalis;
 
 
+4. LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, pasiektų metinių rodiklių reikšmių palyginimą atlieka Sveikatos apsaugos ministerija.
 
 
-4) įstaigos finansinių įsipareigojimų dalis nuo metinio įstaigos biudžeto;
 
 
+5. Tais atvejais, kai LNSS viešosios įstaigos ar LNSS biudžetinės įstaigos ne mažiau kaip 20 procentų rodiklių praėjusių kalendorinių metų reikšmės yra geresnės, negu sveikatos apsaugos ministro patvirtintos siektinos įstaigų grupei, kuriai priskiriama įstaiga, reikšmės, ir ši įstaiga asmens sveikatos priežiūros paslaugų, kurių išlaidos yra apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, per praėjusius kalendorinius metus suteikė už didesnę sumą, negu numatyta teritorinių ligonių kasų ir asmens sveikatos priežiūros įstaigos asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis sutartyje, šios įstaigos viršytos asmens sveikatos priežiūros paslaugų išlaidos apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų pirmumo tvarka. Kitų LNSS viešųjų ir biudžetinių įstaigų viršytos asmens sveikatos priežiūros paslaugų išlaidos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamos, jeigu, apmokėjus šioje dalyje pirmiau nurodytų įstaigų viršytas asmens sveikatos priežiūros paslaugų išlaidas, lieka Privalomojo sveikatos draudimo fondo biudžeto lėšų šių įstaigų viršytoms asmens sveikatos priežiūros paslaugų išlaidoms apmokėti. Šioje dalyje nurodytų LNSS viešųjų ir biudžetinių įstaigų viršytų asmens sveikatos priežiūros paslaugų išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis tvarką nustato sveikatos apsaugos ministras.
 
 
-5) papildomų finansavimo šaltinių pritraukimas.
 
 
+6. LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, ataskaitiniu laikotarpiu pasiektos rodiklių reikšmės įstaigos visuotiniam dalininkų susirinkimui ar savininko teises ir pareigas įgyvendinančiai institucijai pateikiamos kiekvienais metais iki kovo 1 dienos. Tuo atveju, kai ne mažiau kaip 30 procentų rodiklių reikšmių nesiekia įstaigų grupei, kuriai priskiriama įstaiga, sveikatos apsaugos ministro patvirtintų rodiklių siektinų reikšmių, visuotinis dalininkų susirinkimas ar savininko teises ir pareigas įgyvendinanti institucija kartu su įstaigos vadovu privalo iki einamųjų metų birželio 15 dienos sudaryti įstaigos veiklos gerinimo priemonių planą, kuris turi būti įgyvendintas iki einamųjų metų gruodžio 31 dienos. LNSS viešosios įstaigos ir LNSS biudžetinės įstaigos, teikiančios asmens sveikatos priežiūros paslaugas, veiklos gerinimo priemonių planą tvirtina visuotinis dalininkų susirinkimas ar savininko teises ir pareigas įgyvendinanti institucija.
 
 
 
 
-2. LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, veiklos rezultatų vertinimo rodikliai yra:
-
-
-1) pacientų pasitenkinimo įstaigos teikiamomis asmens sveikatos priežiūros paslaugomis lygis, tai yra pacientų teigiamai įvertintų įstaigoje suteiktų paslaugų skaičiaus dalis nuo visų per metus įstaigoje suteiktų asmens sveikatos priežiūros paslaugų skaičiaus pagal sveikatos apsaugos ministro nustatytas paslaugų grupes;
-
-
-
-
-2) įstaigoje gautų pacientų skundų dėl įstaigoje suteiktų asmens sveikatos priežiūros paslaugų skaičius per metus ir pagrįstų skundų dalis;
-
-
-
-
-3) įstaigoje gautų pagrįstų skundų dalis nuo visų įstaigoje suteiktų asmens sveikatos priežiūros paslaugų skaičiaus per metus pagal sveikatos apsaugos ministro nustatytas paslaugų grupes;
-
-
-
-
-4) įstaigoje taikomos kovos su korupcija priemonės, numatytos sveikatos apsaugos ministro tvirtinamoje Sveikatos priežiūros srities korupcijos prevencijos programoje;
-
-
-
-
-5) informacinių technologijų diegimo ir plėtros lygis (pacientų elektroninės registracijos sistema, įstaigos interneto svetainės išsamumas, darbuotojų darbo krūvio apskaita, įstaigos dalyvavimo elektroninėje sveikatos sistemoje mastas);
-
-
-
-
-6) įstaigoje suteiktų asmens sveikatos priežiūros paslaugų skaičius per ketvirtį ir per metus pagal sveikatos apsaugos ministro nustatytas paslaugų grupes;
-
-
-
-
-7) vidutinis laikas nuo paciento kreipimosi į įstaigą dėl asmens sveikatos priežiūros paslaugos suteikimo momento iki paskirto paslaugos gavimo laiko pagal sveikatos apsaugos ministro nustatytas paslaugų grupes;
-
-
-
-
-8) įstaigoje dirbančių darbuotojų ir etatų skaičius ir įstaigoje suteiktų asmens sveikatos priežiūros paslaugų skaičius per metus;
-
-
-
-
-9) vidutinė hospitalizuotų pacientų gydymo trukmė įstaigoje pagal sveikatos apsaugos ministro nustatytas paslaugų grupes (taikoma tik antrinio ir tretinio lygio asmens sveikatos priežiūros paslaugas teikiančioms įstaigoms);
-
-
-
-
-10) lovos užimtumo rodiklis įstaigoje pagal sveikatos apsaugos ministro nustatytas paslaugų grupes (taikoma tik antrinio ir tretinio lygio asmens sveikatos priežiūros paslaugas teikiančioms įstaigoms);
-
-
-
-
-11) įstaigoje iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokėtų brangiųjų tyrimų ir procedūrų, kurių stebėsena atliekama, skaičius, medicinos priemonių, kuriomis atlikti brangieji tyrimai ir procedūros, panaudojimo efektyvumas (taikoma tik antrinio ir tretinio lygio asmens sveikatos priežiūros paslaugas teikiančioms įstaigoms);
-
-
-
-
-12) papildomi sveikatos apsaugos ministro nustatyti įstaigų veiklos rezultatų vertinimo rodikliai.
-
-
-
-
-
-
-3. Sveikatos apsaugos ministras kiekvienais metais tvirtina šio straipsnio 1 ir 2 dalyse nurodytų rodiklių siektinas reikšmes, taikomas šio straipsnio 8 dalyje nurodytoms įstaigų grupėms. Sveikatos apsaugos ministro nustatytos rodiklių siektinos reikšmės taip pat taikomos ir apskaičiuojant LNSS viešųjų įstaigų vadovaujančiųjų darbuotojų mėnesinio darbo užmokesčio kintamosios dalies dydį šio įstatymo 151 straipsnio 10 dalyje nurodytu pagrindu. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1762, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21108
- 
-
-
-
-
-4. Šio straipsnio 1 ir 2 dalyse nurodytų rodiklių reikšmės atnaujinamos kartą per metus ir viešinamos vadovaujantis šio straipsnio 6, 7 ir 8 dalyse nustatytais reikalavimais, nurodant metines rodiklių reikšmes. 
-
-
-
-
-5. LNSS viešosios įstaigos ir LNSS biudžetinės įstaigos, teikiančios asmens sveikatos priežiūros paslaugas, viešai skelbiamose veiklos ataskaitose sveikatos apsaugos ministro nustatyta tvarka pateikia informaciją apie per ataskaitinį laikotarpį įstaigoje taikytas priemones, kuriomis buvo siekiama šio straipsnio 4 dalyje nurodytų rodiklių reikšmių.
-
-
-
-
-6. Šio straipsnio 1 ir 2 dalyse nurodytų rodiklių reikšmės nuolat skelbiamos viešai Sveikatos apsaugos ministerijos, LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, interneto svetainėse ir šių įstaigų skelbimų lentose pacientams suprantamu būdu. 
-
-
-
-
-7. Šio straipsnio 6 dalyje nurodytu būdu skelbiami duomenys turi būti išsamūs, struktūruoti, be registracijos nemokamai prieinami didžiausiai įmanomai vartotojų grupei, teikiami atvira ir nepatentuota forma.
-
-
-
-
-8. Šio straipsnio 1 ir 2 dalyse nurodytų įstaigų veiklos finansinių ir veiklos rezultatų rodiklių reikšmės palyginamos pagal šias įstaigų grupes (lyginant tarpusavyje tik tos grupės įstaigas):
-
-
-1) rajonų ir regionų lygmens LNSS viešąsias įstaigas; 
-
-
-
-
-2) universiteto ligonines, respublikos lygmens LNSS viešąsias įstaigas ir stacionarines asmens sveikatos priežiūros paslaugas teikiančias LNSS biudžetines įstaigas, nepriskiriamas šio įstatymo 25 straipsnyje nurodytoms įstaigoms;
-
-
-
-
-3) antrinio ir tretinio lygio asmens sveikatos priežiūros paslaugas teikiančias LNSS viešąsias įstaigas, nepriskiriamas šios dalies 1 ir 2 punktuose nurodytoms įstaigų grupėms;
-
-
-
-
-4) pirminio lygio asmens sveikatos priežiūros paslaugas teikiančias LNSS viešąsias įstaigas, nepriskiriamas šios dalies 1, 2 ir 3 punktuose nurodytoms įstaigų grupėms.
-
-
-
-
-
-
-9. Šio straipsnio 8 dalyje nurodytų LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, grupavimą ir rodiklių reikšmių palyginimą atlieka Sveikatos apsaugos ministerija.
-
-
-
-
-10. Tais atvejais, kai LNSS viešosios įstaigos ar LNSS biudžetinės įstaigos rodiklių, nustatytų šio straipsnio 2 dalies 7, 10 ir 11 punktuose, praėjusių kalendorinių metų reikšmės yra geresnės negu sveikatos apsaugos ministro patvirtintos siektinos šio straipsnio 8 dalies 1–4 punktuose nurodytai įstaigų grupei, kuriai priskiriama įstaiga, nustatytos reikšmės ir ši įstaiga asmens sveikatos priežiūros paslaugų, kurių išlaidos yra apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, per praėjusius kalendorinius metus suteikė už didesnę sumą, negu numatyta teritorinių ligonių kasų ir asmens sveikatos priežiūros įstaigos asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis sutartyje, šios įstaigos viršytos asmens sveikatos priežiūros paslaugų išlaidos apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų pirmumo tvarka. Kitų LNSS viešųjų ir biudžetinių įstaigų viršytos asmens sveikatos priežiūros paslaugų išlaidos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamos, jeigu, apmokėjus šioje dalyje pirmiau nurodytų įstaigų viršytas asmens sveikatos priežiūros paslaugų išlaidas, lieka Privalomojo sveikatos draudimo fondo biudžeto lėšų šių įstaigų viršytoms asmens sveikatos priežiūros paslaugų išlaidoms apmokėti. Šioje dalyje nurodytų LNSS viešųjų ir biudžetinių įstaigų viršytų asmens sveikatos priežiūros paslaugų išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis tvarką nustato sveikatos apsaugos ministras.
-
-
-
-
-11. LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, ataskaitiniu laikotarpiu pasiektos šio straipsnio 1 dalyje ir šio straipsnio 2 dalies 1–11 punktuose nurodytų veiklos finansinių ir veiklos rezultatų vertinimo rodiklių reikšmės įstaigos steigėjui (dalininkui) (steigėjams (dalininkams) ar savininko teises ir pareigas įgyvendinančiai institucijai pateikiamos kiekvienais metais iki kovo 1 dienos. Tuo atveju, kai ne mažiau kaip penkių LNSS viešosios įstaigos ir LNSS biudžetinės įstaigos, teikiančios asmens sveikatos priežiūros paslaugas, veiklos finansinių ir (ar) veiklos rezultatų rodiklių reikšmės nesiekia šio straipsnio 8 dalies 1–4 punktuose nurodytos įstaigų grupės, kuriai priskiriama įstaiga, sveikatos apsaugos ministro patvirtintų siektinų reikšmių, steigėjas (dalininkas) (steigėjai (dalininkai) ar savininko teises ir pareigas įgyvendinanti institucija kartu su įstaigos vadovu privalo iki einamųjų metų birželio 15 dienos sudaryti įstaigos veiklos finansinių ir veiklos rezultatų gerinimo priemonių planą, kuris turi būti įgyvendintas iki einamųjų metų gruodžio 31 dienos. LNSS viešosios įstaigos ir LNSS biudžetinės įstaigos, teikiančios asmens sveikatos priežiūros paslaugas, veiklos finansinių ir veiklos rezultatų gerinimo priemonių planą tvirtina steigėjas (dalininkas) (steigėjai (dalininkai) ar savininko teises ir pareigas įgyvendinanti institucija.
-
-
-
-
-12. Jeigu įgyvendinus įstaigos veiklos finansinių ir veiklos rezultatų gerinimo priemonių plane numatytas priemones bent trys įstaigos veiklos finansinių ir (ar) veiklos rezultatų rodiklių reikšmės, dėl kurių buvo sudarytas ir įgyvendinamas šio straipsnio 11 dalyje nurodytas įstaigos veiklos finansinių ir veiklos rezultatų gerinimo priemonių planas, ir toliau nesiekia šio straipsnio 8 dalies 1–4 punktuose nurodytos įstaigų grupės, kuriai priskiriama įstaiga, sveikatos apsaugos ministro patvirtintų siektinų reikšmių, įstaigos steigėjas (dalininkas) (steigėjai (dalininkai) ar savininko teises ir pareigas įgyvendinanti institucija privalo pagal kompetenciją priimti Biudžetinių įstaigų įstatymo 5 straipsnio 3 dalyje nurodytus savininko teises ir pareigas įgyvendinančiai institucijai priskirtus sprendimus ar Viešųjų įstaigų įstatymo 10 straipsnio 1 dalyje visuotiniam dalininkų susirinkimui priskirtus sprendimus.
- 
-TAR pastaba: 152 straipsnio 12 dalies redakcija įsigaliosianti 204-05-01:
-12. Jeigu įgyvendinus įstaigos veiklos finansinių ir veiklos rezultatų gerinimo priemonių plane numatytas priemones bent trys įstaigos veiklos finansinių ir (ar) veiklos rezultatų rodiklių reikšmės, dėl kurių buvo sudarytas ir įgyvendinamas šio straipsnio 11 dalyje nurodytas įstaigos veiklos finansinių ir veiklos rezultatų gerinimo priemonių planas, ir toliau nesiekia šio straipsnio 8 dalies 1–4 punktuose nurodytos įstaigų grupės, kuriai priskiriama įstaiga, sveikatos apsaugos ministro patvirtintų siektinų reikšmių, įstaigos steigėjas (dalininkas) (steigėjai (dalininkai) ar savininko teises ir pareigas įgyvendinanti institucija privalo pagal kompetenciją priimti Biudžetinių įstaigų įstatymo 5 straipsnio 3 dalyje nurodytus savininko teises ir pareigas įgyvendinančiai institucijai priskirtus sprendimus ar Viešųjų įstaigų įstatymo 12 straipsnio 1 dalyje visuotiniam dalininkų susirinkimui priskirtus sprendimus.
-Straipsnio dalies pakeitimai:
-Nr. XIV-2247, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22977
- 
+7. Jeigu įgyvendinus įstaigos veiklos gerinimo priemonių plane numatytas priemones bent 60 procentų įstaigos rodiklių reikšmių, dėl kurių buvo sudarytas ir įgyvendinamas įstaigos veiklos gerinimo priemonių planas, ir toliau nesiekia įstaigų grupei, kuriai priskiriama įstaiga, sveikatos apsaugos ministro patvirtintų rodiklių siektinų reikšmių, įstaigos visuotinis dalininkų susirinkimas ar savininko teises ir pareigas įgyvendinanti institucija privalo pagal kompetenciją priimti Biudžetinių įstaigų įstatymo 5 straipsnio 3 dalyje nurodytus savininko teises ir pareigas įgyvendinančiai institucijai priskirtus sprendimus ar Viešųjų įstaigų įstatymo 12 straipsnio 1 dalyje visuotiniam dalininkų susirinkimui priskirtus sprendimus.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-903, 2017-12-19, paskelbta TAR 2017-12-27, i. k. 2017-21326
+Nr. XIV-2796, 2024-06-25, paskelbta TAR 2024-06-27, i. k. 2024-11790
  
 
 
@@ -1511,7 +1382,10 @@ Nr. XIII-903, 2017-12-19, paskelbta TAR 2017-12-27, i. k. 2017-21326
 2. Asmens sveikatos priežiūros paslaugas teikianti LNSS įstaiga privalo apdraustam privalomuoju sveikatos draudimu pacientui (toliau – apdraustasis pacientas) suteikti iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamą asmens sveikatos priežiūros paslaugą per šios dalies 1–5 punktuose nurodytą terminą, skaičiuojamą nuo apdraustojo paciento kreipimosi į asmens sveikatos priežiūros įstaigą momento iki paskirto paslaugos gavimo laiko:
 
 
-1) pirminės ambulatorinės sveikatos priežiūros paslaugą sveikatos apsaugos ministro nustatytų ūmių būklių atveju – ne vėliau kaip per 24 valandas;
+1) pirminės ambulatorinės sveikatos priežiūros paslaugą sveikatos apsaugos ministro nustatytų ūmių būklių atveju (toliau – skubi ambulatorinė paslauga) – ne vėliau kaip per 24 valandas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2453, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25944
+ 
 
 
 
@@ -2841,7 +2715,10 @@ Sveikatos priežiūros įstaigų teises nustato Sveikatos sistemos įstatymas, �
 
 
 
-11) jeigu ji priklauso LNSS ir teikia pirminės ambulatorinės asmens sveikatos priežiūros paslaugas, užtikrinti nepertraukiamą (visomis dienomis ištisą parą) pirminės ambulatorinės asmens sveikatos priežiūros paslaugų (išskyrus pirminės ambulatorinės psichikos sveikatos ir odontologijos priežiūros paslaugas) teikimą sveikatos apsaugos ministro nustatyta tvarka;
+11) jeigu ji priklauso LNSS ir teikia pirminės ambulatorinės asmens sveikatos priežiūros paslaugas, sveikatos apsaugos ministro nustatyta tvarka užtikrinti pirminės ambulatorinės asmens sveikatos priežiūros paslaugų (išskyrus pirminės ambulatorinės psichikos sveikatos ir odontologijos priežiūros paslaugas) teikimą ne mažiau kaip po 12 valandų per dieną 5 darbo dienas per savaitę; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2453, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25944
+ 
 
 
 
@@ -2866,7 +2743,15 @@ Sveikatos priežiūros įstaigų teises nustato Sveikatos sistemos įstatymas, �
 
 
 
-16) pasiūlyti pacientui artimiausią objektyviai įmanomą asmens sveikatos priežiūros paslaugos suteikimo datą ir laiką ir registruoti visus pacientus jų kreipimosi į asmens sveikatos priežiūros įstaigą momentu, neribojant registravimosi terminų, sveikatos apsaugos ministro nustatyta tvarka.
+16) pasiūlyti pacientui artimiausią objektyviai įmanomą asmens sveikatos priežiūros paslaugos suteikimo datą ir laiką ir registruoti visus pacientus jų kreipimosi į asmens sveikatos priežiūros įstaigą momentu, neribojant registravimosi terminų, sveikatos apsaugos ministro nustatyta tvarka;
+
+
+
+
+17) teikti į valstybės informacinę sistemą, skirtą sveikatos priežiūros, kitos sveikatinimo veiklos bei farmacijos specialistų profesinės kompetencijos įgijimo ir tobulinimo bei profesinės veiklos duomenims kaupti, šios sistemos veiklą reguliuojančiuose teisės aktuose nustatytus duomenis, susijusius su asmens sveikatos priežiūros įstaigos darbuotojų ir kitais pagrindais įstaigoje veiklą vykdančių asmenų, nurodytų šios sistemos veiklą reguliuojančiuose teisės aktuose, profesine kvalifikacija ir darbo santykiais arba veiklos vykdymu, šiuose teisės aktuose nustatyta tvarka; 
+Papildyta straipsnio punktu:
+Nr. XIV-3030, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18429
+ 
 
 
 
@@ -2879,6 +2764,14 @@ Sveikatos priežiūros įstaigų teises nustato Sveikatos sistemos įstatymas, �
 
 
 3. Už šio straipsnio 2 dalyje nurodytas paslaugas jas suteikusioms savivaldybių asmens sveikatos priežiūros įstaigoms laisvės atėmimo vietų įstaiga sumoka pagal sveikatos apsaugos ministro ir teisingumo ministro nustatytus paslaugų įkainius ir mokėjimo tvarką.
+
+
+
+
+4. Kitu, negu šio straipsnio 1 dalies 11 punkte nurodytu, darbo dienos laiku ir likusiu savaitės laiku šio straipsnio 1 dalies 11 punkte nurodytos LNSS įstaigos pacientams skubi ambulatorinė paslauga teikiama ir apmokama sveikatos apsaugos ministro nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIV-2796, 2024-06-25, paskelbta TAR 2024-06-27, i. k. 2024-11790
+ 
 
 
 Straipsnio pakeitimai:
@@ -2948,7 +2841,7 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 
 
 
-10) paciento turimų dirbinių iš brangiųjų metalų, brangių protezų ir pinigų registravimo bei saugojimo tvarka.
+10) paciento turimų dirbinių iš brangiųjų metalų, brangių protezų ir pinigų registravimo bei saugojimo tvarka;
 
 
 
@@ -4119,3 +4012,18 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 10 ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2453, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25944
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1, 15-2, 15-3, 36 ir 45 straipsnių pakeitimo įstatymas
+ 
+43.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2796, 2024-06-25, paskelbta TAR 2024-06-27, i. k. 2024-11790
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1, 15-2, 15-3, 36 ir 45 straipsnių pakeitimo įstatymo Nr. XIV-2453 1, 2, 5 ir 6 straipsnių pakeitimo įstatymas
+ 
+44.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2791, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12734
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 3, 13, 15-2, 15-3, 46 ir 52 straipsnių pakeitimo įstatymas
+ 
+45.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3030, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18429
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5 ir 45 straipsnių pakeitimo įstatymas
