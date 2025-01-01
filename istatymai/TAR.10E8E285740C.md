@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.10E8E285740C"
 
 # Lietuvos Respublikos medicinos praktikos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2313, i. k. 0961010ISTA00I-1555
  
@@ -842,7 +842,10 @@ GYDYTOJO PROFESINĖS TEISĖS, PAREIGOS IR ATSAKOMYBĖ. MEDICINOS PRAKTIKOS KONTR
 
 
 
-4) atsisakyti teikti sveikatos priežiūros paslaugas, jei tai prieštarauja gydytojo profesinės etikos principams arba gali sukelti realų pavojų paciento ar gydytojo gyvybei, išskyrus atvejus, kai teikiama būtinoji medicinos pagalba;
+4) atsisakyti teikti sveikatos priežiūros paslaugas arba nutraukti šių paslaugų teikimą, jeigu šių paslaugų teikimas prieštarauja gydytojo profesinės etikos principams arba gali sukelti realų pavojų paciento ar gydytojo sveikatai ar gyvybei, išskyrus atvejus, kai teikiama būtinoji medicinos pagalba, taip pat kitais Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme nustatytais atvejais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2615, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08907
+ 
 
 
 
@@ -1224,3 +1227,8 @@ Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 1, 2 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1509, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23357
 Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 1, 2, 3, 4 straipsnių ir priedo pakeitimo, Įstatymo papildymo nauju 1 priedu ir 2 priedu įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2615, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08907
+Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 9 straipsnio pakeitimo įstatymas
