@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-03-31
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
  
@@ -1440,6 +1440,14 @@ Nr. XIV-913, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01357
 21. Jeigu šio straipsnio 11 dalyje nurodytos vidaus vandenų transporto priemonės yra eksploatuojamos tik Lietuvos Respublikos vidaus vandenų keliuose, kurie yra nesujungti su kitų Europos Sąjungos valstybių narių vidaus vandenų keliais, joms neprivaloma turėti Europos Sąjungos vidaus vandenų laivybos sertifikato. Tinkamas saugos lygis užtikrinamas atliekant vidaus vandenų transporto priemonių technines apžiūras ir jų atitiktį techniniams reikalavimams patvirtinant vidaus vandenų transporto priemonės tinkamumo plaukioti liudijimu. 
 
 
+
+
+22. Šio straipsnio 61 dalyje ir 8 dalies 5 punkte bei šio kodekso 271, 57 ir 71 straipsniuose nurodyta avarija suprantama kaip vienas ar keli įvykiai eksploatuojant vidaus vandenų transporto priemonę, sukeliantys bet kurį iš šių padarinių: mirtiną ar sunkų asmens sužalojimą; asmens dingimą iš vidaus vandenų transporto priemonės; vidaus vandenų transporto priemonės žūtį, numanomą žūtį arba jos palikimą; žalą vidaus vandenų transporto priemonei; vidaus vandenų transporto priemonės užplaukimą ant seklumos, jos valdymo praradimą arba susidūrimą; kranto ar vidaus vandenų kelio infrastruktūros pažeidimus, dėl kurių gali kilti pavojus pažeidimus sukėlusiai ar kitai vidaus vandenų transporto priemonei arba asmenims; didelę žalą aplinkai arba realią galimybę šiai žalai atsirasti dėl vidaus vandenų transporto priemonės pažeidimų.
+Papildyta straipsnio dalimi:
+Nr. XIV-3072, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20016
+ 
+
+
 Papildyta straipsniu:
 Nr. XIII-2295, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12123
  
@@ -2215,197 +2223,9 @@ Nr. XIII-2295, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12123
 
 
 
-27 straipsnis. Vidaus vandenų transporto priemonių avarijų saugos tyrimo tikslai ir tvarka
-
-
-1. Vidaus vandenų transporto priemonės avarija – vienas ar keli įvykiai eksploatuojant vidaus vandenų transporto priemonę, sukeliantys bet kurį iš šių padarinių: 
-
-
-1) žmogaus mirtį ar sunkų sužalojimą; 
-
-
-
-
-2) žmogaus dingimą iš vidaus vandenų transporto priemonės; 
-
-
-
-
-3) vidaus vandenų transporto priemonės žūtį, numanomą žūtį arba jos palikimą; 
-
-
-
-
-4) žalą vidaus vandenų transporto priemonei; 
-
-
-
-
-5) vidaus vandenų transporto priemonės užplaukimą ant seklumos, neveiksnumą arba susidūrimą; 
-
-
-
-
-6) kranto ar vidaus vandenų kelio infrastruktūros pažeidimus, dėl kurių gali kilti pavojus pažeidimus sukėlusiai ar kitai vidaus vandenų transporto priemonei arba asmenims; 
-
-
-
-
-7) didelę žalą aplinkai arba realią galimybę šiai žalai atsirasti dėl vidaus vandenų transporto priemonės pažeidimų. 
-
-
-
-
-
-
-2. Vidaus vandenų transporto priemonės avarija nelaikoma tyčinė veika ar neveikimas siekiant sukelti pavojų vidaus vandenų transporto priemonės saugai, asmeniui ar aplinkai.
-
-
-
-
-3. Vidaus vandenų transporto priemonių avarijų saugos tyrimo tikslas – nustatyti vidaus vandenų transporto priemonės avarijos aplinkybes, priežastis ir padarinius, pateikti išvadas dėl prevencinių veiksmų taikymo, kad ateityje būtų išvengta vidaus vandenų transporto priemonių avarijų. Vidaus vandenų transporto priemonių avarijų saugos tyrimais nesiekiama nustatyti kieno nors atsakomybės ar kaltės, tokių tyrimų nestabdo ikiteisminiai arba kiti lygiagretūs tyrimai, kuriais siekiama nustatyti atsakomybę arba kaltę. Vidaus vandenų transporto priemonių avarijų saugos tyrimai yra nepriklausomi nuo ikiteisminių arba kitų lygiagrečių tyrimų.
-
-
-
-
-4. Šis straipsnis taikomas vidaus vandenų transporto priemonių avarijoms, kurios:
-
-
-1) yra susijusios su Vidaus vandenų laivų registre įregistruotomis vidaus vandenų transporto priemonėmis, nepriklausomai nuo avarijos vietos;
-
-
-
-
-2) yra įvykusios Lietuvos Respublikos teritorinėje jūroje ar vidaus vandenyse.
-
-
-
-
-
-
-5. Šiame straipsnyje nustatyti reikalavimai netaikomi vidaus vandenų transporto priemonių avarijoms, kurios yra susijusios tik su:
-
-
-1) karo laivais, taip pat su karinio jūrų laivyno vėliava plaukiojančiais laivais ir kitais Lietuvos Respublikai priklausančiais ar jos valdomais laivais, kurie naudojami tik Vyriausybės nekomerciniais tikslais;
-
-
-
-
-2) neeksploatuojamomis, statomomis ir rekonstruojamomis laivų statyklose ir laivų remonto įmonėse vidaus vandenų transporto priemonėmis; 
-
-
-
-
-3) per sporto renginius ar varžybas įvykusiais įvykiais;
-
-
-
-
-4) laivais, kuriems taikomos Lietuvos Respublikos saugios laivybos įstatymo nuostatos dėl laivų avarijų ir incidentų tyrimo tikslų ir tvarkos.
-
-
-
-
-
-
-6. Vidaus vandenų transporto priemonių avarijas tiria Transporto saugos administracija.
-
-
-
-
-7. Įvykus įvykiui eksploatuojant vidaus vandenų transporto priemonę Transporto saugos administracija privalo atlikti preliminarų vertinimą, kuriuo įvertinama situacija ir priimamas sprendimas dėl vidaus vandenų transporto priemonės avarijos saugos tyrimo atlikimo. Priimant šį sprendimą atsižvelgiama į įvykio padarinius arba galimus padarinius, nurodytus šio straipsnio 1 dalyje, su įvykiu susijusios vidaus vandenų transporto priemonės tipą ir (arba) krovinio rūšį, taip pat į galimybes, atsižvelgiant į tyrimo rezultatus, išvengti panašių įvykių ateityje. Nusprendus, kad įvykis laikytinas vidaus vandenų transporto priemonės avarija ir turi būti atliekamas šios avarijos saugos tyrimas, jis turi būti pradėtas iš karto, kai tik tai įmanoma, tačiau ne vėliau kaip po 2 mėnesių nuo vidaus vandenų transporto priemonės avarijos dienos.
-
-
-
-
-8. Žala aplinkai laikoma didele, kai vadovaujantis Lietuvos Respublikos aplinkos apsaugos įstatymu nustatoma, kad aplinkai padarytas reikšmingas neigiamas poveikis.  
-
-
-
-
-9. Transporto saugos administracijos darbuotojas, atlikdamas vidaus vandenų transporto priemonės avarijos saugos tyrimą, turi šias teises: 
-
-
-1) laisvai patekti į vidaus vandenų transporto priemonės avarijos vietą, visas su šia avarija susijusias teritorijas ir į visas vidaus vandenų transporto priemones, jų nuolaužas arba konstrukcijas, taip pat apžiūrėti krovinį, įrangą arba jų liekanas; 
-
-
-
-
-2) imtis reikiamų priemonių, kad nedelsiant būtų surinkti įrodymai ir būtų atlikta nuolaužų, liekanų arba sudedamųjų dalių ar medžiagų paieška ir surinkimas, siekiant jas apžiūrėti arba ištirti; 
-
-
-
-
-3) reikalauti, kad būtų apžiūrėti arba ištirti šios dalies 2 punkte nurodyti daiktai, ir laisvai susipažinti su tokios apžiūros arba tyrimo rezultatais; 
-
-
-
-
-4) laisvai susipažinti su visa su vidaus vandenų transporto priemonės avarija susijusia informacija ir registruotais duomenimis, tarp jų su reiso duomenų registravimo sistemos duomenimis apie vidaus vandenų transporto priemonę, reisą, krovinį, įgulą, visus kitus asmenis, objektus, sąlygas ir aplinkybes, juos kopijuoti ir jais naudotis;
-
-
-
-
-5) laisvai susipažinti su aukų kūnų apžiūros rezultatais ir (ar) iš aukų kūnų paimtų mėginių tyrimų rezultatais; 
-
-
-
-
-6) reikalauti žmonių, dalyvavusių valdant vidaus vandenų transporto priemonę, arba visų kitų su vidaus vandenų transporto priemonės avarija susijusių asmenų apžiūros rezultatų ir (ar) iš tokių asmenų paimtų mėginių tyrimų rezultatų ir laisvai susipažinti su šiais rezultatais; 
-
-
-
-
-7) apklausti liudytojus nedalyvaujant asmeniui, susijusiam su vidaus vandenų transporto priemonės avarija, jeigu galima daryti prielaidą, kad to asmens interesai kertasi su vidaus vandenų transporto priemonės avarijos tyrimu;
-
-
-
-
-8) gauti vidaus vandenų transporto priemonės vėliavos valstybės, savininkų, įgaliotųjų laivų klasifikavimo bendrovių arba visų kitų susijusių šalių, jeigu jos arba jų atstovai yra įsisteigę Europos Sąjungos valstybėje narėje, turimus vidaus vandenų transporto priemonės avarijos saugos tyrimo dokumentus ir susijusią informaciją; 
-
-
-
-
-9) prašyti atitinkamų valstybių su vidaus vandenų transporto priemonės avarijų tyrimu susijusių valdžios institucijų, tarp jų laivybos inspektorių, pakrantės pareigūnų, laivų eismo tarnybos operatorių, paieškos ir gelbėjimo komandų, laivavedžių arba kito uoste ar jūroje dirbančio personalo, pagalbos;
-
-
-
-
-10) rinkti ir analizuoti saugios laivybos ir su ja susijusius duomenis, ypač prevenciniais tikslais;
-
-
-
-
-11) rengti ir teikti saugos rekomendacijas tinkamiausioms imtis taisomųjų priemonių organizacijoms ar asmenims;
-
-
-
-
-12) reikalauti iš organizacijų ar asmenų, kuriems skirtos saugos rekomendacijos, pateikti informaciją apie tai, kaip įgyvendinamos saugos rekomendacijos, arba apie priimtą sprendimą neįgyvendinti šių rekomendacijų;
-
-
-
-
-13) kviesti Lietuvos Respublikos ir užsienio valstybių ekspertus ir specialistus, turinčius tinkamą išsilavinimą, kvalifikaciją ir darbo šioje srityje patirties, taip pat atlikti laboratorinius tyrimus. 
-
-
-
-
-
-
-10. Visi per vidaus vandenų transporto priemonės avarijos saugos tyrimą paimti ar gauti liudytojų parodymai, pareiškimai, pasakojimai ir užrašai, dokumentai, kuriais atskleidžiama asmenų, davusių parodymus tyrimo tikslu, tapatybė, taip pat informacija apie per vidaus vandenų transporto priemonės avariją nukentėjusius asmenis, kuri yra neskelbtina arba asmeninio pobūdžio, įskaitant informaciją apie jų sveikatą, turi būti naudojami tik šio straipsnio 3 dalyje nurodytu tikslu.
-
-
-
-
-11. Vidaus vandenų transporto priemonių avarijų saugos tyrimų, jų ataskaitų ir saugos rekomendacijų rengimo ir teikimo tvarką nustato susisiekimo ministras. Organizacijos ar asmenys, kuriems skirtos saugos rekomendacijos, privalo įvertinti šias rekomendacijas ir prireikus imtis veiksmų joms įgyvendinti.
-
-
- Straipsnio pakeitimai:
-Nr. VIII-1900, 00.08.29, Žin., 2000, Nr.75-2267 (00.09.07)
-Nr. VIII-1964, 00.09.26, Žin., 2000, Nr.85-2585 (00.10.11)
-Nr. X-1790, 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
-Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
+27 straipsnis. Neteko galios nuo 2025-01-01
+Straipsnio naikinimas:
+Nr. XIV-3072, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20016
 Straipsnio pakeitimai:
 Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
 Nr. XIV-913, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01357
@@ -3778,3 +3598,8 @@ Lietuvos Respublikos vidaus vandenų transporto kodekso 16-2 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2870, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12655
 Lietuvos Respublikos vidaus vandenų transporto kodekso papildymo 29-1 straipsniu įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3072, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20016
+Lietuvos Respublikos vidaus vandenų transporto kodekso 16-1 straipsnio pakeitimo ir 27 straipsnio pripažinimo netekusiu galios įstatymas
