@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BA283DF0FB41"
 
 # Lietuvos Respublikos želdynų įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3215, i. k. 1071010ISTA00X-1241
  
@@ -572,7 +572,10 @@ Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
 
 
 
-3. Priklausomųjų želdynų minimalų privalomą santykinį plotą žemės sklype, skirtą išimtinai tik želdiniams augti (toliau – priklausomųjų želdynų norma), jo apskaičiavimo tvarką ir teritorijas, kurioms priklausomųjų želdynų norma nenustatoma, tvirtina aplinkos ministras. Priklausomųjų želdynų norma nustatoma atsižvelgiant į teritoriją, kuriai rengiamas teritorijų planavimo dokumentas, esamą ar numatomą žemės sklypo naudojimo būdą (būdus), žemės sklype esančių ir projektuojamų pastatų paskirtį. Priklausomųjų želdynų norma gali būti kompensuojama vertikaliuoju pastatų apželdinimu, su žemės sklypu besiribojančių ar ne didesniu kaip 200 metrų atstumu nuo žemės sklypo ribos esančių ar numatytų įveisti atskirųjų želdynų arba rekreacijai pritaikytų miškų plotais – didžiausius leidžiamus kompensuoti priklausomųjų želdynų normų dydžius ir jų apskaičiavimo tvarką nustato aplinkos ministras. Priklausomųjų želdynų norma privaloma rengiant teritorijų planavimo dokumentus. 
+3. Priklausomųjų želdynų minimalų privalomą santykinį plotą žemės sklype, skirtą išimtinai tik želdiniams augti, (toliau – priklausomųjų želdynų norma), jo apskaičiavimo tvarką ir teritorijas, kurioms priklausomųjų želdynų norma nenustatoma, nustato aplinkos ministras. Priklausomųjų želdynų norma nustatoma atsižvelgiant į teritorijų planavimo dokumentus, esamą ar numatomą žemės sklypo naudojimo būdą (būdus), žemės sklype esančių ir projektuojamų pastatų paskirtį. Priklausomųjų želdynų norma gali būti kompensuojama su žemės sklypu besiribojančių ar ne didesniu kaip 200 metrų atstumu nuo žemės sklypo ribos esančių ar  planuojamų įveisti atskirųjų želdynų arba rekreacijai pritaikytų miškų plotais – didžiausius leidžiamus kompensuoti priklausomųjų želdynų normų dydžius ir jų apskaičiavimo tvarką nustato aplinkos ministras. Priklausomųjų želdynų norma privaloma rengiant teritorijų planavimo dokumentus, o rengiant statinių ir (ar) įrenginių projektus, – kai tai numatoma aplinkos ministro tvirtinamose priklausomųjų želdynų normose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
@@ -898,7 +901,10 @@ Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
 
 
 
-9. Saugotinų želdinių kirtimo, kitokio pašalinimo iš augimo vietos ar intensyvaus genėjimo leidimų išdavimo ir prašymų dėl želdinių atkuriamosios vertės kompensacijos dydžio perskaičiavimo nagrinėjimo ir sumokėtos želdinių atkuriamosios vertės kompensacijos grąžinimo tvarką nustato savivaldybių atstovaujamosios institucijos. 
+9. Saugotinų želdinių kirtimo, kitokio pašalinimo iš augimo vietos ar intensyvaus genėjimo leidimų išdavimo ir prašymų dėl želdinių atkuriamosios vertės kompensacijos dydžio perskaičiavimo nagrinėjimo bei sumokėtos želdinių atkuriamosios vertės kompensacijos grąžinimo tvarką nustato savivaldybių atstovaujamosios institucijos. Želdinių atkuriamosios vertės kompensacijų lėšos naudojamos viešųjų želdynų ir želdinių apsaugai, priežiūrai ir tvarkymui, želdynų ir želdinių būklės stebėsenai, viešųjų želdynų kūrimui ir želdinių veisimui, želdynų ir želdinių inventorizavimui, atskirųjų želdynų žemės sklypų formavimui, šių sklypų kadastro duomenų nustatymui ir jų įrašymui į Nekilnojamojo turto kadastrą, viešųjų želdynų ir želdinių būklės ekspertizėms atlikti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2877, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13533
+ 
 
 
 
