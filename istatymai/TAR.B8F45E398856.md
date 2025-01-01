@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8F45E398856"
 
 # Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-02-28
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 35-855, i. k. 0961010ISTA00I-1246
  
@@ -145,7 +145,10 @@ Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
 
 
 
-12. Licencijas išduodanti institucija – Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos.
+12. Licencijas išduodanti institucija – Lietuvos Respublikos odontologų rūmai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2396, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25912
+ 
 
 
 
@@ -339,7 +342,10 @@ Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
 
 
 
-4. Licenciją odontologui ar burnos priežiūros specialistui išduoda, atsisako ją išduoti, tikslina licencijos duomenis, vykdo jos sąlygų laikymosi priežiūrą – tikrina, ar nėra šio įstatymo 8 straipsnio 1 dalyje ir 9 straipsnio 1 dalyje nurodytų aplinkybių, sustabdo licencijos galiojimą, panaikina jos galiojimo sustabdymą, atsisako panaikinti licencijos galiojimo sustabdymą, licencijos galiojimą panaikina – licencijas išduodanti institucija, vadovaudamasi šiuo įstatymu ir sveikatos apsaugos ministro patvirtintomis Odontologijos praktikos ir burnos priežiūros praktikos licencijavimo taisyklėmis (toliau – licencijavimo taisyklės). Licencijas išduodanti institucija, siekdama patikrinti, ar yra įvykdytos licencijos išdavimo sąlygos, ar licencijos turėtojas laikosi šio įstatymo 12 straipsnyje nurodytų pareigų, ar yra pagrindas sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą, patikslinti licencijos duomenis, turi teisę iš valstybės ir savivaldybių institucijų ir įstaigų, kitų juridinių ir fizinių asmenų, kurių veikla susijusi su šiuo įstatymu reglamentuojama odontologijos ir burnos priežiūros praktikos veikla, neatlygintinai gauti duomenis apie odontologo ir burnos priežiūros specialisto atitiktį šio straipsnio 6 dalyje nurodytoms licencijos išdavimo sąlygoms, šio įstatymo 12 straipsnyje nurodytų pareigų vykdymą, juridinių faktų, nurodytų šio įstatymo 8 straipsnio 1 dalyje ir 9 straipsnio 1 dalyje, buvimą, papildomą profesinės kvalifikacijos tobulinimą šio įstatymo 8 straipsnio 5 dalyje nurodytu atveju. Valstybės ir savivaldybių institucijos ir įstaigos, kiti juridiniai ir fiziniai asmenys, tvarkantys duomenis, susijusius su šiuo įstatymu reglamentuojama odontologijos ir (ar) burnos priežiūros praktika, privalo pateikti šioje dalyje nurodytus duomenis licencijas išduodančiai institucijai per jos nurodytą terminą, kuris negali būti trumpesnis kaip 15 dienų.
+14. Už odontologijos praktikos ir burnos priežiūros praktikos licencijos išdavimą imama licencijas išduodančios institucijos nustatyta tvarka patvirtinto dydžio įmoka; šios įmokos dydis negali būti didesnis už valstybės rinkliavos, mokamos už pateikus analogiškus paraiškos dokumentus ir atlikus analogiškus procedūrinius veiksmus išduodamas medicinos praktikos licencijas, dydį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2396, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25912
+ 
 
 
 
@@ -777,7 +783,10 @@ ODONTOLOGO IR BURNOS PRIEŽIŪROS SPECIALISTO PROFESINĖS TEISĖS IR PAREIGOS, V
 
 
 
-3) atsisakyti teikti odontologinės priežiūros (pagalbos) paslaugas ar burnos priežiūros paslaugas, jeigu tai prieštarauja odontologo ar burnos priežiūros specialisto profesinės etikos principams arba gali sukelti realų pavojų paciento, odontologo ar burnos priežiūros specialisto gyvybei, išskyrus atvejus, kai teikiama būtinoji medicinos pagalba;
+3) atsisakyti teikti odontologinės priežiūros (pagalbos) paslaugas ar burnos priežiūros paslaugas arba nutraukti šių paslaugų teikimą, jeigu šių paslaugų teikimas prieštarauja odontologo ar burnos priežiūros specialisto profesinės etikos principams arba gali sukelti realų pavojų paciento, odontologo ar burnos priežiūros specialisto sveikatai ar gyvybei, išskyrus atvejus, kai teikiama būtinoji medicinos pagalba, taip pat kitais Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme nustatytais atvejais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2616, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08908
+ 
 
 
 
@@ -858,7 +867,18 @@ Odontologas ir burnos priežiūros specialistas privalo:
 
 
 
-12) atlikti kitas Lietuvos Respublikos teisės aktų, reglamentuojančių odontologijos praktiką ir burnos priežiūros praktiką, nustatytas pareigas.
+12) tapti Odontologų rūmų nariu teisės aktų nustatyta tvarka; 
+Papildyta straipsnio punktu:
+Nr. XIV-2396, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25912
+ 
+
+
+
+
+13) atlikti kitas Lietuvos Respublikos teisės aktų, reglamentuojančių odontologijos praktiką ir burnos priežiūros praktiką, nustatytas pareigas.
+ 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2396, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25912
  
 
 
@@ -871,7 +891,10 @@ Odontologas ir burnos priežiūros specialistas privalo:
 13 straipsnis. Odontologų ir burnos priežiūros specialistų veiklos vertinimas 
 
 
-1. Jeigu teismas, licencijas išduodanti institucija ar darbdavys nustatė odontologo ar burnos priežiūros specialisto veiklos trūkumų ar veiksmų, galėjusių lemti ar lėmusių žalą ar pavojų pacientų sveikatai, juos, vadovaudamasi sveikatos apsaugos ministro patvirtintu Sveikatos priežiūros specialistų profesinės kompetencijos patikrinimo tvarkos aprašu, vertina Profesinės kompetencijos vertinimo komisija. Profesinės kompetencijos vertinimo komisija sudaroma iš 5 narių, iš jų 2 yra Sveikatos apsaugos ministerijos atstovai ir 3 – odontologus ir burnos priežiūros specialistus vienijančių asociacijų atstovai, turintys galiojančias licencijas. Profesinės kompetencijos vertinimo komisiją kiekvienam konkrečiam atvejui išnagrinėti sudaro sveikatos apsaugos ministras.
+1. Jeigu teismas, licencijas išduodanti institucija ar darbdavys nustatė odontologo ar burnos priežiūros specialisto veiklos trūkumų ar veiksmų, galėjusių lemti ar lėmusių žalą ar pavojų pacientų sveikatai, juos, vadovaudamasi sveikatos apsaugos ministro patvirtintu Sveikatos priežiūros specialistų profesinės kompetencijos patikrinimo tvarkos aprašu, vertina Profesinės kompetencijos vertinimo komisija. Profesinės kompetencijos vertinimo komisija sudaroma iš 5 narių, iš jų 2 yra Sveikatos apsaugos ministerijos atstovai ir 3 – Odontologų rūmų ar kitų odontologus ir burnos priežiūros specialistus vienijančių asociacijų atstovai, turintys galiojančias licencijas. Profesinės kompetencijos vertinimo komisiją kiekvienam konkrečiam atvejui išnagrinėti sudaro sveikatos apsaugos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2396, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25912
+ 
 
 
 
@@ -1070,3 +1093,13 @@ Lietuvos Respublikos odontologijos praktikos įstatymo Nr. I-1246 pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
 Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo Nr. I-1246 2, 3, 5, 10 straipsnių pakeitimo ir Įstatymo papildymo 1, 2 priedais įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2396, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25912
+Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo Nr. I-1246 2, 5, 12 ir 13 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2616, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08908
+Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo Nr. I-1246 11 straipsnio pakeitimo įstatymas
