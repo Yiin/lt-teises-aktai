@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e463dc90f32611ed9978886e85107ab2"
 
 # Lietuvos Respublikos laikinojo solidarumo įnašo įstatymas
 
+Suvestinė redakcija nuo 2025-01-01
+ 
+Įstatymas paskelbtas: TAR 2023-05-15, i. k. 2023-09152
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 LAIKINOJO SOLIDARUMO ĮNAŠO 
 ĮSTATYMAS
@@ -117,10 +124,12 @@ BENDROSIOS NUOSTATOS
 5 straipsnis. Įnašo mokėjimo laikotarpis
 
 
-Įnašo mokėjimo laikotarpis (toliau – mokėjimo laikotarpis), taikomas įnašą apskaičiuojant už 2023 metus, yra laikotarpis nuo šio įstatymo įsigaliojimo dienos iki 2023 m. gruodžio 31 d., o mokėjimo laikotarpis, taikomas įnašą apskaičiuojant už 2024 metus, – kalendoriniai metai, kurie baigiasi 2024 m. gruodžio 31 d.
+Įnašo mokėjimo laikotarpis (toliau – mokėjimo laikotarpis), taikomas įnašą apskaičiuojant už 2023 metus, yra laikotarpis nuo šio įstatymo įsigaliojimo dienos iki 2023 m. gruodžio 31 d., mokėjimo laikotarpis, taikomas įnašą apskaičiuojant už 2024 metus, – kalendoriniai metai, kurie baigiasi 2024 m. gruodžio 31 d., o mokėjimo laikotarpis, taikomas įnašą apskaičiuojant už 2025 metus, – kalendoriniai metai, kurie baigiasi 2025 m. gruodžio 31 d.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2761, 2024-06-18, paskelbta TAR 2024-06-27, i. k. 2024-11774
  
-
-
 
 
 
@@ -135,7 +144,10 @@ II SKYRIUS
 6 straipsnis. Įnašo bazės apskaičiavimas
 
 
-1. 2023 metų mokėjimo laikotarpio įnašo bazė apskaičiuojama nuo einamojo mokėjimo laikotarpio įnašo mokėtojo finansinėse ataskaitose, sudaromose pagal jo veiklą reglamentuojančius teisės aktus, pateikiamų grynųjų palūkanų pajamų, padaugintų iš įnašo bazės skaičiavimo koeficiento (toliau – koeficientas), kurios daugiau kaip 50 procentų viršija vidutines 4 finansinių metų, prasidėjusių 2018 m. sausio 1 d. ir pasibaigusių 2021 m. gruodžio 31 d., grynųjų palūkanų pajamas, padaugintas iš koeficiento. 2024 metų mokėjimo laikotarpio įnašo bazė apskaičiuojama nuo einamojo mokėjimo laikotarpio įnašo mokėtojo finansinėse ataskaitose, sudaromose pagal jo veiklą reglamentuojančius teisės aktus, pateikiamų grynųjų palūkanų pajamų, padaugintų iš koeficiento, kurios daugiau kaip 50 procentų viršija vidutines 4 finansinių metų, prasidėjusių 2019 m. sausio 1 d. ir pasibaigusių 2022 m. gruodžio 31 d., grynųjų palūkanų pajamas, padaugintas iš koeficiento.
+1. 2023 metų mokėjimo laikotarpio įnašo bazė apskaičiuojama nuo einamojo mokėjimo laikotarpio įnašo mokėtojo finansinėse ataskaitose, sudaromose pagal jo veiklą reglamentuojančius teisės aktus, pateikiamų grynųjų palūkanų pajamų, padaugintų iš įnašo bazės skaičiavimo koeficiento (toliau – koeficientas), kurios daugiau kaip 50 procentų viršija vidutines 4 finansinių metų, prasidėjusių 2018 m. sausio 1 d. ir pasibaigusių 2021 m. gruodžio 31 d., grynųjų palūkanų pajamas, padaugintas iš koeficiento. 2024 ir 2025 metų mokėjimo laikotarpių įnašo bazės apskaičiuojamos nuo atitinkamo einamojo mokėjimo laikotarpio įnašo mokėtojo finansinėse ataskaitose, sudaromose pagal jo veiklą reglamentuojančius teisės aktus, pateikiamų grynųjų palūkanų pajamų, padaugintų iš koeficiento, kurios daugiau kaip 50 procentų viršija vidutines 4 finansinių metų, prasidėjusių 2019 m. sausio 1 d. ir pasibaigusių 2022 m. gruodžio 31 d., grynųjų palūkanų pajamas, padaugintas iš koeficiento.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2761, 2024-06-18, paskelbta TAR 2024-06-27, i. k. 2024-11774
+ 
 
 
 
@@ -202,7 +214,10 @@ Apskaičiuojant įnašą, įnašo bazei taikomas 60 procentų tarifas.
 8 straipsnis. Įnašo apskaičiavimo, deklaravimo ir sumokėjimo tvarka
 
 
-1. Įnašo mokėtojai moka avansinį įnašą. Avansinis įnašas mokamas už mokėjimo laikotarpio ketvirtį. Avansinis įnašas apskaičiuojamas nuo einamojo mokėjimo laikotarpio ketvirčio įnašo mokėtojo grynųjų palūkanų pajamų, kurios, šias grynųjų palūkanų pajamas padauginus iš koeficiento, daugiau kaip 50 procentų viršija 4 finansinių metų, prasidėjusių 2018 m. sausio 1 d. ir pasibaigusių 2021 m. gruodžio 31 d., kai avansinis įnašas mokamas už 2023 metų mokėjimo laikotarpį, arba 4 finansinių metų, prasidėjusių 2019 m. sausio 1 d. ir pasibaigusių 2022 m. gruodžio 31 d., kai avansinis įnašas mokamas už 2024 metų mokėjimo laikotarpį, grynųjų palūkanų pajamų, šias grynųjų palūkanų pajamas padauginus iš koeficiento, ketvirčių vidurkį, taikant šio įstatymo 7 straipsnyje nustatytą tarifą ir mutatis mutandis taikant šio įstatymo 6 straipsnio 8 dalį. Avansinis įnašas gali būti Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko nustatyta tvarka ir dydžiais mažinamas šio įstatymo 6 straipsnio 7 dalyje nurodytomis įmokomis ir įnašais, padaugintais iš koeficiento. Avansinio įnašo deklaracija pateikiama Valstybinei mokesčių inspekcijai ir avansinis įnašas sumokamas į valstybės biudžetą pasibaigus mokėjimo laikotarpio ketvirčiui, iki kito ketvirčio antro mėnesio paskutinės dienos. 
+1. Įnašo mokėtojai moka avansinį įnašą. Avansinis įnašas mokamas už mokėjimo laikotarpio ketvirtį. Avansinis įnašas apskaičiuojamas nuo einamojo mokėjimo laikotarpio ketvirčio įnašo mokėtojo grynųjų palūkanų pajamų, kurios, šias grynųjų palūkanų pajamas padauginus iš koeficiento, daugiau kaip 50 procentų viršija 4 finansinių metų, prasidėjusių 2018 m. sausio 1 d. ir pasibaigusių 2021 m. gruodžio 31 d., kai avansinis įnašas mokamas už 2023 metų mokėjimo laikotarpį, arba 4 finansinių metų, prasidėjusių 2019 m. sausio 1 d. ir pasibaigusių 2022 m. gruodžio 31 d., kai avansinis įnašas mokamas už 2024 ir 2025 metų mokėjimo laikotarpius, grynųjų palūkanų pajamų, šias grynųjų palūkanų pajamas padauginus iš koeficiento, ketvirčių vidurkį, taikant šio įstatymo 7 straipsnyje nustatytą tarifą ir mutatis mutandis taikant šio įstatymo 6 straipsnio 8 dalį. Avansinis įnašas gali būti Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko nustatyta tvarka ir dydžiais mažinamas šio įstatymo 6 straipsnio 7 dalyje nurodytomis įmokomis ir įnašais, padaugintais iš koeficiento. Avansinio įnašo deklaracija pateikiama Valstybinei mokesčių inspekcijai ir avansinis įnašas sumokamas į valstybės biudžetą pasibaigus mokėjimo laikotarpio ketvirčiui, iki kito ketvirčio antro mėnesio paskutinės dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2761, 2024-06-18, paskelbta TAR 2024-06-27, i. k. 2024-11774
+ 
 
 
 
@@ -257,7 +272,10 @@ Ginčai dėl šio įstatymo taikymo nagrinėjami Lietuvos Respublikos administra
 11 straipsnis. Įstatymo galiojimas, įgyvendinimas ir taikymas
 
 
-1. Šis įstatymas galioja iki 2025 m. birželio 17 d.
+1. Šis įstatymas galioja iki 2026 m. birželio 16 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2761, 2024-06-18, paskelbta TAR 2024-06-27, i. k. 2024-11774
+ 
 
 
 
@@ -267,7 +285,10 @@ Ginčai dėl šio įstatymo taikymo nagrinėjami Lietuvos Respublikos administra
 
 
 
-3. Šis įstatymas taikomas apskaičiuojant, deklaruojant ir mokant įnašą už mokėjimo laikotarpius, kurie baigiasi atitinkamai 2023 m. gruodžio 31 d. ir 2024 m. gruodžio 31 d.
+3. Šis įstatymas taikomas apskaičiuojant, deklaruojant ir mokant įnašą už mokėjimo laikotarpius, kurie baigiasi atitinkamai 2023 m. gruodžio 31 d., 2024 m. gruodžio 31 d. ir 2025 m. gruodžio 31 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2761, 2024-06-18, paskelbta TAR 2024-06-27, i. k. 2024-11774
+ 
 
 
 
@@ -292,3 +313,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2761, 2024-06-18, paskelbta TAR 2024-06-27, i. k. 2024-11774
+Lietuvos Respublikos laikinojo solidarumo įnašo įstatymo Nr. XIV-1936 5, 6, 8 ir 11 straipsnių pakeitimo įstatymas
