@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2024-11-23 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
  
@@ -603,7 +603,7 @@ SKYRIMAS Į TARNYBĄ (DARBĄ) SPECIALIŲJŲ TYRIMŲ TARNYBOJE
 
 
 
-8) iš Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Vyriausybės įgaliotos įstaigos pateiktos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, iš asmens, pareiškusio norą tarnauti Specialiųjų tyrimų tarnyboje, pateiktos informacijos ar kitų duomenų Specialiųjų tyrimų tarnybos direktorius padaro išvadą, kad asmuo neatitinka nepriekaištingos reputacijos reikalavimų; 
+8) iš Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Viešojo sektoriaus darbuotojų registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, iš asmens, pareiškusio norą tarnauti Specialiųjų tyrimų tarnyboje, pateiktos informacijos ar kitų duomenų Specialiųjų tyrimų tarnybos direktorius padaro išvadą, kad asmuo neatitinka nepriekaištingos reputacijos reikalavimų;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
  
