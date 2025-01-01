@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2024-11-15 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-01-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -7075,8 +7075,11 @@ Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
 1821 straipsnis. Manipuliavimas sporto varžybomis
 
 
-1. Tas, kas neteisėtai paveikė sąžiningą profesionalių sporto varžybų eigą arba rezultatą,
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
+1. Tas, kas neteisėtai paveikė sąžiningą aukšto meistriškumo sporto varžybų eigą arba rezultatą, 
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2853, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12639
+ 
 
 
 
