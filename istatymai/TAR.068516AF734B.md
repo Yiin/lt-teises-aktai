@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
  
@@ -1219,7 +1219,9 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 22 straipsnis. Teisė gauti vaiko priežiūros išmoką
 
 
-1. Teisę gauti vaiko priežiūros išmoką turi vienas iš tėvų (įtėvių) ar globėjas, ar šio straipsnio 6 dalyje nustatytas sąlygas atitinkantis vienas iš vaiko senelių, kuris:
+1. Teisę gauti vaiko priežiūros išmoką turi vienas iš tėvų (įtėvių) ar globėjas, ar šio straipsnio 6 dalyje nustatytas sąlygas atitinkantis vienas iš vaiko senelių arba buvęs vienas iš vaiko tėvų nuolatinių globėjų (rūpintojų), išskyrus atvejus, kai šis nuolatinis globėjas (rūpintojas) buvo teismo nutartimi nušalintas nuo nuolatinio globėjo (rūpintojo) pareigų, (toliau – buvęs vienas iš vaiko tėvų nuolatinių globėjų (rūpintojų)), kuris: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
 
 
 1) yra apdraustas motinystės socialiniu draudimu, išskyrus atvejus, numatytus šio straipsnio 10, 11 ir 12 dalyse;
@@ -1304,7 +1306,9 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-6. Vienas iš vaiko senelių turi teisę gauti vaiko priežiūros išmoką, išskyrus vaiko priežiūros išmoką, skiriamą ir mokamą vadovaujantis šio straipsnio 2 ir 3 dalimis, jeigu jis (ji) atitinka visas šias sąlygas:
+6. Vienas iš vaiko senelių ar buvęs vienas iš vaiko tėvų nuolatinių globėjų (rūpintojų) turi teisę gauti vaiko priežiūros išmoką, išskyrus vaiko priežiūros išmoką, skiriamą ir mokamą vadovaujantis šio straipsnio 2 ir 3 dalimis, jeigu jis (ji) atitinka visas šias sąlygas: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
 
 
 1) jis (ji) atitinka šio straipsnio 1 dalyje nustatytas sąlygas;
@@ -1334,17 +1338,19 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-10. Vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, gaunančiam vaiko priežiūros išmoką, tapusiam neapdraustu asmeniu (pasibaigus darbo sutarčiai, jį atleidus iš tarnybos, jam nutraukus individualią ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį, taip pat Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalies antrajame sakinyje nurodytiems asmenims sustabdžius veiklą ir apie tai informavus mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka ar įgijus likviduojamo ar bankrutuojančio asmens statusą), vaiko priežiūros išmoka mokama šio įstatymo 23 ir 24 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu. 
+10. Vaiko priežiūros išmoką gaunančiam vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, ar buvusiam vienam iš vaiko tėvų nuolatinių globėjų (rūpintojų), tapusiam neapdraustu asmeniu (pasibaigus darbo sutarčiai, jį atleidus iš tarnybos, jam nutraukus individualią ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį, taip pat Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalies antrajame sakinyje nurodytiems asmenims sustabdžius veiklą ir apie tai informavus mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka ar įgijus likviduojamo ar bankrutuojančio asmens statusą), vaiko priežiūros išmoka mokama šio įstatymo 23 ir 24 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-2230, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22375
+Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
  
 
 
 
 
-11. Vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, turinčiam šio straipsnio 1 dalies 3 punkte nurodytą motinystės socialinio draudimo stažą, per 24 mėnesius iki pirmosios vaiko priežiūros atostogų dienos tapusiam neapdraustu asmeniu (pasibaigus darbo sutarčiai, jį atleidus iš tarnybos, jam nutraukus individualią veiklą ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį, taip pat Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalies antrajame sakinyje nurodytiems asmenims sustabdžius veiklą ir apie tai informavus mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka ar įgijus likviduojamo ar bankrutuojančio asmens statusą) ir dėl to negavusiam vaiko priežiūros atostogų, vaiko priežiūros išmoka mokama šio įstatymo 23 ir 24 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
+11. Šio straipsnio 1 dalies 3 punkte nurodytą motinystės socialinio draudimo stažą turinčiam vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, ar buvusiam vienam iš vaiko tėvų nuolatinių globėjų (rūpintojų), per 24 mėnesius iki pirmosios vaiko priežiūros atostogų dienos tapusiam neapdraustu asmeniu (pasibaigus darbo sutarčiai, jį atleidus iš tarnybos, jam nutraukus individualią veiklą ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį, taip pat Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalies antrajame sakinyje nurodytiems asmenims sustabdžius veiklą ir apie tai informavus mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka ar įgijus likviduojamo ar bankrutuojančio asmens statusą) ir dėl to negavusiam vaiko priežiūros atostogų, vaiko priežiūros išmoka mokama šio įstatymo 23 ir 24 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2230, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22375
+Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
  
 
 
@@ -2210,3 +2216,8 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2358, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25607
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 10, 11 ir 11-1 straipsnių pakeitimo įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 22 straipsnio pakeitimo įstatymas
