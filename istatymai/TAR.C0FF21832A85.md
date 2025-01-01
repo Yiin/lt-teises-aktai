@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2024-12-24 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -330,6 +330,14 @@ Nr. XIV-1389, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15860
  
 
 
+
+
+
+
+11. Paramos dalyko, nurodyto šio įstatymo 4 straipsnio 2 dalies 2 punkte, gavėjais gali būti šie juridiniai asmenys: nevyriausybinės organizacijos, kaip jos apibrėžtos Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatyme, profesinės sąjungos arba profesinių sąjungų susivienijimai.
+Papildyta straipsnio dalimi:
+Nr. XIV-1129, 2022-06-07, paskelbta TAR 2022-06-17, i. k. 2022-13117
+ 
 
 
 
