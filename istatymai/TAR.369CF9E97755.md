@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.369CF9E97755"
 
 # Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymas
 
-Suvestinė redakcija nuo 2024-02-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2224, i. k. 1011010ISTA00IX-413
  
@@ -732,7 +732,10 @@ Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 
 
 
-2) atsisakyti teikti slaugos paslaugas, jeigu darbo sąlygos kelia realų pavojų paciento, bendrosios praktikos slaugytojo sveikatai ar gyvybei, išskyrus atvejus, kai teikiama būtinoji medicinos pagalba;
+2) atsisakyti teikti slaugos paslaugas arba nutraukti šių paslaugų teikimą, jeigu šių paslaugų teikimas prieštarauja bendrosios praktikos slaugytojo profesinės etikos principams arba gali sukelti realų pavojų paciento, bendrosios praktikos slaugytojo sveikatai ar gyvybei, išskyrus atvejus, kai teikiama būtinoji medicinos pagalba, taip pat kitais Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme nustatytais atvejais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2617, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08909
+ 
 
 
 
@@ -841,7 +844,10 @@ Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA
 
 
 
-2) atsisakyti teikti akušerijos paslaugas, jeigu darbo sąlygos kelia realų pavojų paciento arba akušerio sveikatai ar gyvybei, išskyrus atvejus, kai teikiama būtinoji medicinos pagalba;
+2) atsisakyti teikti akušerijos paslaugas arba nutraukti šių paslaugų teikimą, jeigu šių paslaugų teikimas prieštarauja akušerio profesinės etikos principams arba gali sukelti realų pavojų paciento arba akušerio sveikatai ar gyvybei, išskyrus atvejus, kai teikiama būtinoji medicinos pagalba, taip pat kitais Pacientų teisių ir žalos sveikatai atlyginimo įstatyme nustatytais atvejais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2617, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08909
+ 
 
 
 
@@ -1210,3 +1216,8 @@ Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2452, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25943
 Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 3 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2617, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08909
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 11 ir 12 straipsnių pakeitimo įstatymas
