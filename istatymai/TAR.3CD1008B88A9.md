@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
 
-Suvestinė redakcija nuo 2024-09-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
  
@@ -70,12 +70,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Civilinė mobilizacijos institucija – valstybės, savivaldybės institucija ar įstaiga, išskyrus krašto apsaugos sistemos instituciją, dalyvaujančią formuojant valstybės mobilizacijos ir priimančiosios šalies paramos politiką (toliau – Institucija, dalyvaujanti formuojant mobilizacijos politiką), ir Lietuvos kariuomenę, kuriai yra paskirta valstybinė mobilizacinė ir (ar) priimančiosios šalies paramos teikimo užduotis.
+3. Civilinė mobilizacijos institucija – valstybės, savivaldybės institucija ar įstaiga, išskyrus krašto apsaugos sistemos instituciją, dalyvaujančią formuojant valstybės mobilizacijos ir priimančiosios šalies paramos politiką, (toliau – Institucija, dalyvaujanti formuojant mobilizacijos politiką), Lietuvos kariuomenę ir kitas ginkluotąsias pajėgas sudarančias institucijas, kuriai yra paskirta valstybinė mobilizacinė ir (ar) priimančiosios šalies paramos teikimo užduotis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
+ 
 
 
 
 
-4. Civilinei mobilizacijos institucijai pavaldus subjektas – viešasis ar privatusis juridinis asmuo, kuriame civilinė mobilizacijos institucija įgyvendina valstybės ar savivaldybės, kaip juridinio asmens savininkės, teises ir pareigas arba valstybės ar savivaldybės, kaip juridinio asmens dalyvės, turinčios daugiau kaip pusę šio juridinio asmens dalyvių balsavimo teisių, teises ir pareigas.
+4. Civilinei mobilizacijos institucijai pavaldus subjektas – viešasis ar privatusis juridinis asmuo, kuriame civilinė mobilizacijos institucija įgyvendina valstybės ar savivaldybės, kaip juridinio asmens savininkės, teises ir pareigas arba kurio kontroliuojantis asmuo yra civilinė mobilizacijos institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
+ 
 
 
 
@@ -155,7 +161,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-20. Mobilizacinio užsakymo sutartis – su mobilizaciniu ūkio subjektu sudaryta sutartis, kuria užtikrinamas mobilizacijos planuose numatytų veiksmų ir priemonių, reikalingų rengiantis mobilizacijai ir (ar) ją vykdant, vykdymas.
+20. Mobilizacinio užsakymo sutartis – civilinės mobilizacijos institucijos mobilizacijos plane nurodyta sutartis dėl prekių, paslaugų ar darbų, reikalingų šiame plane numatytiems veiksmams ir priemonėms vykdyti, įsigijimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
+ 
 
 
 
@@ -190,7 +199,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos karo prievolės įstatyme, Lietuvos Respublikos karo padėties įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos valstybės rezervo įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos civilinės saugos įstatyme.
+27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos karo prievolės įstatyme, Lietuvos Respublikos karo padėties įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos valstybės rezervo įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, Lietuvos Respublikos viešųjų pirkimų įstatyme, Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
  
 
 
@@ -596,6 +607,14 @@ Nr. XIV-2010, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11588
 
 
 
+31) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka sudaro ir tvarko savo civilinio mobilizacinio personalo rezervą; 
+Papildyta straipsnio punktu:
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
+ 
+
+
+
+
 4) nustato mobilizacinių išteklių poreikį skirtoms valstybinėms mobilizacinėms ir (ar) priimančiosios šalies paramos teikimo užduotims atlikti, tvarko turimų mobilizacinių išteklių apskaitą ir planuoja trūkstamų mobilizacinių išteklių sutelkimą, koordinuoja ir kontroliuoja civilinei mobilizacijos institucijai pavaldžių subjektų mobilizacinių išteklių sutelkimą;
 
 
@@ -651,7 +670,10 @@ Nr. XIV-2010, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11588
 
 
 
-3) turi teisę organizuoti pratybas, kurių metu imituojamas civilinės mobilizacijos institucijos mobilizacijos plano įgyvendinimas, vertinamas pasirengimas vykdyti šiame plane numatytus veiksmus ir priemones;
+3) turi teisę organizuoti pratybas, kurių metu imituojamas civilinės mobilizacijos institucijos mobilizacijos plano įgyvendinimas, vertinamas pasirengimas vykdyti šiame plane numatytus veiksmus ir priemones, į šias pratybas įtraukti nevyriausybines organizacijas, su kuriomis sudarytos pagalbos sutartys; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
+ 
 
 
 
@@ -717,7 +739,10 @@ Nr. XIV-2010, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11588
 
 
 
-4) sudaro mobilizacinių užsakymų ir (ar) priimančiosios šalies paramos teikimo sutartis ir vykdo jose nustatytus įsipareigojimus;
+4) sudaro mobilizacinių užsakymų ir (ar) priimančiosios šalies paramos teikimo sutartis, ne vėliau kaip per 15 darbo dienų (mobilizacijos metu – nedelsdamas, ne vėliau kaip per vieną darbo dieną) nuo sutarties sudarymo dienos apie tai praneša civilinei mobilizacijos institucijai ir vykdo šiose sutartyse nustatytus įsipareigojimus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
+ 
 
 
 
@@ -892,32 +917,17 @@ PASIRENGIMAS MOBILIZACIJAI IR PRIIMANČIOSIOS ŠALIES PARAMAI TEIKTI
 
 
 
-2. Į civilinio mobilizacinio personalo rezervą įrašomi Lietuvos Respublikos piliečiai, paskirti (priimti) į ministro, viceministro, ministerijos kanclerio, savivaldybės administracijos direktoriaus, kitas mobilizacijos sistemos subjektų vadovų pareigas, išskyrus Lietuvos kariuomenės vado pareigas, taip pat deleguoti į Valstybės mobilizacijos operacijų centrą ir civilinių mobilizacijos institucijų mobilizacijos valdymo grupes.
+2. Į civilinio mobilizacinio personalo rezervą įrašomi Lietuvos Respublikos piliečiai, paskirti (priimti) į ministro, viceministro, ministerijos kanclerio, savivaldybės administracijos direktoriaus, kitas mobilizacijos sistemos subjektų vadovų pareigas, išskyrus Lietuvos kariuomenės vado pareigas, deleguoti į Valstybės mobilizacijos operacijų centrą ir civilinių mobilizacijos institucijų mobilizacijos valdymo grupes, taip pat civilinės mobilizacijos institucijos vadovo sprendimu – kiti civilinėje mobilizacijos institucijoje dirbantys ar tarnaujantys Lietuvos Respublikos piliečiai, kurių atliekamos funkcijos būtinos civilinės mobilizacijos institucijos mobilizacijos plane numatytiems veiksmams ir (ar) priemonėms įgyvendinti, į civilinės mobilizacijos institucijos mobilizacijos planą įtraukto civilinei mobilizacijos institucijai pavaldaus subjekto vadovo sprendimu – kiti civilinei mobilizacijos institucijai pavaldžiame subjekte dirbantys ar tarnaujantys Lietuvos Respublikos piliečiai, kurių atliekamos funkcijos būtinos civilinės mobilizacijos institucijos mobilizacijos plane numatytiems veiksmams ir (ar) priemonėms įgyvendinti, ar mobilizacinio ūkio subjekto vadovo sprendimu – kiti mobilizaciniame ūkio subjekte dirbantys Lietuvos Respublikos piliečiai, kurių atliekamos funkcijos būtinos mobilizacinio ūkio subjekto sudarytoje mobilizacinio užsakymo ir (ar) priimančiosios šalies paramos teikimo sutartyje nustatytiems mobilizacijos metu vykdytiniems įsipareigojimams užtikrinti.
 
 
 
 
-3. Kitus, negu šio straipsnio 2 dalyje nurodyta, Lietuvos Respublikos piliečius, kurių atliekamos funkcijos būtinos mobilizacijos planuose numatytiems veiksmams ir (ar) priemonėms įgyvendinti, į civilinio mobilizacinio personalo rezervą įrašo mobilizacijos sistemos subjekto vadovas.
+3. Į civilinio mobilizacinio personalo rezervą įrašomi asmenys su savo funkcijomis, atliekamomis mobilizacijos metu ir (ar) teikiant priimančiosios šalies paramą, supažindinami pasirašytinai.
 
 
 
 
-4. Šio straipsnio 2 dalyje nurodytus asmenis į civilinio mobilizacinio personalo rezervą įrašo ir iš jo išbraukia Institucija, dalyvaujanti formuojant mobilizacijos politiką, gavusi informaciją apie šių asmenų paskyrimą (priėmimą) į šio straipsnio 2 dalyje nurodytas pareigas ar delegavimą į Valstybės mobilizacijos operacijų centrą ar civilinės mobilizacijos institucijos mobilizacijos valdymo grupę.
-
-
-
-
-5. Mobilizacijos sistemos subjektai, kuriuose į civilinio mobilizacinio personalo rezervą įrašomi asmenys eina pareigas, išskyrus Valstybės saugumo departamentą, informaciją apie šio straipsnio 2 ir 3 dalyse nurodytus asmenis ir šio straipsnio 8 dalyje nurodytus jų asmens duomenis bei jų pasikeitimus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pateikia Institucijai, dalyvaujančiai formuojant mobilizacijos politiką.
-
-
-
-
-6. Į civilinio mobilizacinio personalo rezervą įrašomi asmenys su jų funkcijomis, atliekamomis mobilizacijos metu ir (ar) teikiant priimančiosios šalies paramą, supažindinami pasirašytinai.
-
-
-
-
-7. Iš civilinio mobilizacinio personalo rezervo išbraukiami asmenys, kai jie:
+4. Iš civilinio mobilizacinio personalo rezervo asmenys išbraukiami, kai jie:
 
 
 1) miršta;
@@ -940,14 +950,19 @@ PASIRENGIMAS MOBILIZACIJAI IR PRIIMANČIOSIOS ŠALIES PARAMAI TEIKTI
 
 
 
-5) atšaukiami iš Valstybės mobilizacijos operacijų centro ar civilinės mobilizacijos institucijos mobilizacijos valdymo grupės ir neina kitų pareigų, dėl kurių buvo įrašyti į civilinio mobilizacinio personalo rezervą.
+5) nebeatlieka funkcijų, dėl kurių buvo įrašyti į civilinio mobilizacinio personalo rezervą;
+
+
+
+
+6) atšaukiami iš Valstybės mobilizacijos operacijų centro ar civilinės mobilizacijos institucijos mobilizacijos valdymo grupės ir neina kitų pareigų, dėl kurių buvo įrašyti į civilinio mobilizacinio personalo rezervą.
 
 
 
 
 
 
-8. Šiame įstatyme ir kituose teisės aktuose, reglamentuojančiuose civilinio mobilizacinio personalo rezervo sudarymą ir apskaitą, asmens duomenų tvarkymą, nustatyta tvarka tvarkomi šie į civilinio mobilizacinio personalo rezervą įrašytų asmenų duomenys:
+5. Šiame įstatyme ir kituose teisės aktuose, reglamentuojančiuose civilinio mobilizacinio personalo rezervo sudarymą ir apskaitą, asmens duomenų tvarkymą, nustatyta tvarka tvarkomi šie į civilinio mobilizacinio personalo rezervą įrašytų asmenų duomenys:
 
 
 1) vardas, pavardė;
@@ -960,12 +975,12 @@ PASIRENGIMAS MOBILIZACIJAI IR PRIIMANČIOSIOS ŠALIES PARAMAI TEIKTI
 
 
 
-3) darbovietė ir einamos pareigos;
+3) draudėjas, darbovietė ir einamos pareigos;
 
 
 
 
-4) kontaktinis telefono numeris;
+4) telefono ryšio numeris;
 
 
 
@@ -977,20 +992,22 @@ PASIRENGIMAS MOBILIZACIJAI IR PRIIMANČIOSIOS ŠALIES PARAMAI TEIKTI
 
 
 
-9. Šio straipsnio 2 ir 3 dalyse nurodytų asmenų apskaitą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir jų asmens duomenis pasirengimo mobilizacijai ir mobilizacijos vykdymo tikslais, siekiant užtikrinti nacionalinį saugumą ir gynybą, tvarko Institucija, dalyvaujanti formuojant mobilizacijos politiką, kuri yra į civilinio mobilizacinio personalo rezervą įrašytų asmenų asmens duomenų tvarkytoja, o Krašto apsaugos ministerija yra šių duomenų valdytoja.
+6. Šio straipsnio 2 dalyje nurodytų asmenų apskaitą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir jų asmens duomenis nacionalinio saugumo ir gynybos tikslais, siekdami užtikrinti pasirengimą mobilizacijai ir mobilizacijos vykdymą, tvarko mobilizacijos sistemos subjektai, išskyrus Vyriausybę, karo prievolę administruojanti krašto apsaugos sistemos institucija, Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) ir kitos Vyriausybės ar jos įgaliotos institucijos nustatytos institucijos. Mobilizacijos sistemos subjektai, išskyrus Vyriausybę ir Valstybės saugumo departamentą, į civilinio mobilizacinio personalo rezervą įrašomų ar iš jo išbraukiamų asmenų duomenis, nurodytus šio straipsnio 5 dalyje, į Krašto apsaugos ministerijos informacinę sistemą teikia ir šiuos duomenis atnaujina per Valstybinio socialinio draudimo fondo valdybos informacinę sistemą (toliau – FV IS). Valstybinio socialinio draudimo fondo valdyba į Krašto apsaugos ministerijos informacinę sistemą automatiniu būdu taip pat teikia šio straipsnio 4 dalies 4 punkte nustatytam reikalavimui įvykdyti reikalingus duomenis apie asmens, įtraukto į civilinio mobilizacinio personalo rezervą, ir jo draudėjo, kuris šiame straipsnyje nustatyta tvarka pateikė apie asmenį duomenis per FV IS, socialinio draudimo santykių pabaigą. Valstybės saugumo departamento civilinio mobilizacinio personalo rezerve esančių asmenų duomenys tvarkomi Valstybės saugumo departamento informacinėje sistemoje.
 
 
 
 
-10. Institucija, dalyvaujanti formuojant mobilizacijos politiką, turi teisę gauti iš visų valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų bei jų padalinių, taip pat registrų, informacinių sistemų informaciją, dokumentus, duomenis, įskaitant asmens duomenis, reikalingus šio straipsnio 2 ir 3 dalyse nurodytų asmenų apskaitai tvarkyti, o šioje dalyje nurodyti asmenys privalo Institucijos, dalyvaujančios formuojant mobilizacijos politiką, prašymu tokią informaciją, dokumentus, duomenis, įskaitant asmens duomenis, pateikti.
+7. Mobilizacijos sistemos subjektai, karo prievolę administruojanti krašto apsaugos sistemos institucija, Valstybinio socialinio draudimo fondo valdyba ir kitos Vyriausybės ar jos įgaliotos institucijos nustatytos institucijos turi teisę gauti iš visų valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų bei jų padalinių, taip pat registrų informacinių sistemų, valstybės informacinių sistemų informaciją, dokumentus, duomenis, įskaitant asmens duomenis, reikalingus šio straipsnio 2 dalyje nurodytų asmenų apskaitai tvarkyti, o šioje dalyje nurodyti asmenys, išskyrus Valstybės saugumo departamentą, privalo mobilizacijos sistemos subjekto, karo prievolę administruojančios krašto apsaugos sistemos institucijos ir kitų Vyriausybės ar jos įgaliotos institucijos nustatytų institucijų prašymu tokią informaciją, dokumentus, duomenis, įskaitant asmens duomenis, jiems pateikti.
 
 
 
 
-11. Institucijai, dalyvaujančiai formuojant mobilizacijos politiką, tvarkant šio straipsnio 2 ir 3 dalyse nurodytų asmenų asmens duomenis šio straipsnio 9 dalyje nurodytais tikslais taikomas Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymas, kurio 11 straipsnio 2 dalyje ir 30 straipsnio 1 dalyje nurodyta informacija duomenų subjektams neteikiama, duomenų subjekto teisė susipažinti su savo asmens duomenimis, teisė reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą visiškai apribojama paskelbus mobilizaciją, iki bus paskelbta demobilizacija.
+8. Mobilizacijos sistemos subjektui, karo prievolę administruojančiai krašto apsaugos sistemos institucijai, Valstybinio socialinio draudimo fondo valdybai ir kitoms Vyriausybės ar jos įgaliotos institucijos nustatytoms institucijoms, išskyrus privačius juridinius asmenis, tvarkant šio straipsnio 2 dalyje nurodytų asmenų asmens duomenis šio straipsnio 6 dalyje nurodytais tikslais, taikomas Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymas, kurio 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje ir 30 straipsnio 1 dalyje nurodyta informacija duomenų subjektams neteikiama ir 12 straipsnyje nustatyta duomenų subjektų teisė susipažinti su asmens duomenimis visiškai apribojama, siekiant užtikrinti visuomenės saugumą, nacionalinį saugumą bei apsaugoti kitų asmenų teises ir laisves,  paskelbus mobilizaciją, iki bus paskelbta demobilizacija. Privatūs juridiniai asmenys savo į civilinio mobilizacinio personalo rezervą įrašytų darbuotojų asmens duomenis tvarko vadovaudamiesi  šiuo įstatymu ir jo įgyvendinamaisiais teisės aktais, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
  
-
-
 
 
 
@@ -1055,7 +1072,10 @@ PASIRENGIMAS MOBILIZACIJAI IR PRIIMANČIOSIOS ŠALIES PARAMAI TEIKTI
 17 straipsnis. Mobilizacinio užsakymo ir (ar) priimančiosios šalies paramos teikimo sutarčių sudarymas ir administravimas
 
 
-1. Mobilizacinio užsakymo ir (ar) priimančiosios šalies paramos teikimo sutartis Lietuvos Respublikos civilinio kodekso ir viešuosius pirkimus reglamentuojančių teisės aktų nustatyta tvarka sudaro Lietuvos kariuomenės, civilinės mobilizacijos institucijos ar jos vadovo įgalioto civilinei mobilizacijos institucijai pavaldaus subjekto ir ūkio subjekto vadovai arba jų įgalioti asmenys.
+1. Mobilizacinio užsakymo ir (ar) priimančiosios šalies paramos teikimo sutartis sutarčių sudarymą reglamentuojančių teisės aktų nustatyta tvarka sudaro Lietuvos kariuomenės, civilinės mobilizacijos institucijos, civilinei mobilizacijos institucijai pavaldaus subjekto ir ūkio subjekto vadovai arba jų įgalioti asmenys. Civilinės mobilizacijos institucijos sudaro savo ir sau pavaldžių subjektų sudarytų mobilizacinio užsakymo ir (ar) priimančiosios šalies paramos teikimo sutarčių sąrašus ir juos įtraukia į savo mobilizacijos planus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
+ 
 
 
 
@@ -1068,15 +1088,49 @@ PASIRENGIMAS MOBILIZACIJAI IR PRIIMANČIOSIOS ŠALIES PARAMAI TEIKTI
 
 
 
+171 straipsnis. Pagalbos sutarčių su nevyriausybinėmis organizacijomis sudarymas
+
+
+1.  Civilinė mobilizacijos institucija ar civilinei mobilizacijos institucijai pavaldus subjektas su nevyriausybinėmis organizacijomis gali sudaryti pagalbos sutartis, pagal kurias  nevyriausybinės organizacijos padeda civilinėms mobilizacijos institucijoms ar civilinėms mobilizacijos institucijoms pavaldiems subjektams užtikrinti gyvybiškai svarbių valstybės funkcijų ir valstybinių mobilizacinių užduočių atlikimą. 
+
+
+
+
+2. Civilinė mobilizacijos institucija ar civilinei mobilizacijos institucijai pavaldus subjektas nevyriausybines organizacijas, su kuriomis sudaromos pagalbos sutartys, atrenka vadovaudamiesi Vyriausybės nustatytais kriterijais ir tvarka. 
+
+
+
+
+3. Vykdant pagalbos sutartis patirtos veiklos išlaidos nevyriausybinėms organizacijoms kompensuojamos Vyriausybės nustatytomis sąlygomis ir tvarka.
+
+
+
+
+4. Pagalbos sutartį su civiline mobilizacijos institucija ar civilinei mobilizacijos institucijai pavaldžiu subjektu sudariusi nevyriausybinė organizacija turi teisę dalyvauti šiame įstatyme nurodytuose mobilizaciniuose ir (ar) priimančiosios šalies paramos mokymuose ir civilinės mobilizacijos institucijos organizuojamose pratybose. 
+
+
+Papildyta straipsniu:
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
+ 
+
+
+
+
 18 straipsnis. Mobilizaciniai, priimančiosios šalies paramos ir kiti mokymai
 
 
-1. Mobilizacinių ir priimančiosios šalies paramos mokymų į civilinio mobilizacinio personalo rezervą įrašytiems asmenims organizavimo, planavimo ir vykdymo tvarką nustato, mokymų programas ir mokymų planus tvirtina Institucijos, dalyvaujančios formuojant mobilizacijos politiką, vadovas.
+1. Mobilizacinių ir priimančiosios šalies paramos mokymų į civilinio mobilizacinio personalo rezervą įrašytiems asmenims ir nevyriausybinių organizacijų, su kuriomis civilinės mobilizacijos institucijos ar civilinėms mobilizacijos institucijoms pavaldūs subjektai yra sudarę pagalbos sutartis, darbuotojams organizavimo, planavimo ir vykdymo tvarką nustato, mokymų programas ir mokymų planus tvirtina Institucijos, dalyvaujančios formuojant mobilizacijos politiką, vadovas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
+ 
 
 
 
 
-2. Mobilizacinius ir priimančiosios šalies paramos mokymus į civilinio mobilizacinio personalo rezervą įrašytiems asmenims organizuoja ir vykdo Institucija, dalyvaujanti formuojant mobilizacijos politiką. 
+2. Mobilizacinius ir priimančiosios šalies paramos mokymus į civilinio mobilizacinio personalo rezervą įrašytiems asmenims ir nevyriausybinių organizacijų, su kuriomis civilinės mobilizacijos institucijos ar civilinėms mobilizacijos institucijoms pavaldūs subjektai yra sudarę pagalbos sutartis, darbuotojams organizuoja ir vykdo Institucija, dalyvaujanti formuojant mobilizacijos politiką. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
+ 
 
 
 
@@ -1185,7 +1239,10 @@ MOBILIZACIJOS IR DEMOBILIZACIJOS SKELBIMAS, VYKDYMAS IR MOBILIZACIJOS VALDYMAS
 
 
 
-2. Paskelbus visuotinę mobilizaciją, mobilizacijos sistemos subjektai, išskyrus mobilizacinius ūkio subjektus, vykdo mobilizacijos planuose numatytus veiksmus ir priemones bei mobilizacinius nurodymus. Mobilizaciniai ūkio subjektai ir su jais mobilizacinių užsakymų ir (ar) priimančiosios šalies paramos teikimo sutartis sudarę mobilizacijos sistemos subjektai vykdo mobilizacinių užsakymų ir (ar) priimančiosios šalies paramos teikimo sutartyse nustatytus įsipareigojimus.
+2. Paskelbus visuotinę mobilizaciją, mobilizacijos sistemos subjektai, išskyrus mobilizacinius ūkio subjektus, vykdo mobilizacijos planuose numatytus veiksmus ir priemones bei mobilizacinius nurodymus. Mobilizaciniai ūkio subjektai ir su jais mobilizacinių užsakymų ir (ar) priimančiosios šalies paramos teikimo sutartis sudarę mobilizacijos sistemos subjektai vykdo mobilizacinių užsakymų ir (ar) priimančiosios šalies paramos teikimo sutartyse nustatytus įsipareigojimus. Nevyriausybinės organizacijos vykdo su civilinėmis mobilizacijos institucijomis ar su civilinėms mobilizacijos institucijoms pavaldžiais subjektais sudarytose pagalbos sutartyse nustatytus įsipareigojimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
+ 
 
 
 
