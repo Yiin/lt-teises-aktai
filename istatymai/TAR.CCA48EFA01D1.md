@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CCA48EFA01D1"
 
 # Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo
 
-Suvestinė redakcija nuo 2018-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 50-932, i. k. 0941010ISTA000I-497
  
@@ -179,7 +179,10 @@ Nustatomos šios apygardų teismų veiklos teritorijos:
 
 
 
-3) Klaipėdos apygardos teismo veiklos teritorija apima: Klaipėdos apylinkės teismo, Plungės apylinkės teismo ir Tauragės apylinkės teismo veiklos teritorijas; 
+3) Klaipėdos apygardos teismo veiklos teritorija apima: Klaipėdos apylinkės teismo ir Tauragės apylinkės teismo veiklos teritorijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2938, 2024-07-16, paskelbta TAR 2024-07-19, i. k. 2024-13320
+ 
 
 
 
@@ -286,3 +289,8 @@ Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos a
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2477, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17974
 Lietuvos Respublikos įstatymo „Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo“ Nr. I-497 pavadinimo, 6 straipsnio pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2938, 2024-07-16, paskelbta TAR 2024-07-19, i. k. 2024-13320
+Lietuvos Respublikos įstatymo „Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo“ Nr. I-497 6 straipsnio pakeitimo įstatymas
