@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9116a35030a011e78397ae072f58c508"
 
 # Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas
 
-Suvestinė redakcija nuo 2024-10-18 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: TAR 2017-05-04, i. k. 2017-07551
  
@@ -3632,7 +3632,15 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
-5) perkančioji organizacija turi kompetentingų institucijų informacijos, kad šios dalies 1 ir 2 punktuose nurodyti subjektai turi interesų, galinčių kelti grėsmę nacionaliniam saugumui. 
+5) perkančioji organizacija turi kompetentingų institucijų informacijos, kad šios dalies 1 ir 2 punktuose nurodyti subjektai turi interesų, galinčių kelti grėsmę nacionaliniam saugumui;
+
+
+
+
+6) tiekėjas, jo subtiekėjas, ūkio subjektas, kurio pajėgumais remiamasi, vykdo veiklą Viešųjų pirkimų įstatymo 92 straipsnio 15 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose arba yra ūkio subjektų grupės, kurios bet kuris narys vykdo veiklą Viešųjų pirkimų įstatymo 92 straipsnio 15 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose, narys arba jos vadovas, kitas valdymo ar priežiūros organo narys ar kitas (kiti) asmuo (asmenys), turintis (turintys) teisę atstovauti tiekėjui, subtiekėjui, ūkio subjektui, kurio pajėgumais remiamasi, ar jį kontroliuoti, jo vardu priimti sprendimą, sudaryti sandorį, ir tokiu būdu dalyvauja tokių ūkio subjektų grupių ir (ar) ūkio subjektų veikloje. 
+Papildyta straipsnio punktu:
+Nr. XIV-3084, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19837
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -3642,11 +3650,12 @@ Nr. XIV-1672, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27262
 
 
 
-42. Perkantysis subjektas, tikrindamas paraiškos ar pasiūlymo atitiktį šio straipsnio 41 dalies 1, 2, 3 punktų reikalavimams, iš tiekėjo reikalauja pateikti laisvos formos atitikties deklaraciją. Jeigu perkančiajam subjektui kyla abejonių dėl tiekėjo nurodytos informacijos, įrodančios šio straipsnio 41 dalies 1, 2, 3 punktų reikalavimus, teisingumo, jis privalo paprašyti ekonomiškai naudingiausią pasiūlymą pateikusio tiekėjo pateikti informaciją patvirtinančius Viešųjų pirkimų įstatymo 51 straipsnio 12 dalyje nurodytus (vieną ar kelis) ar kitus perkančiajam subjektui priimtinus dokumentus. Perkantysis subjektas šių dokumentų gali paprašyti ir iš kandidatų ar dalyvių bet kuriuo pirkimo procedūros metu, jeigu tai būtina siekiant užtikrinti tinkamą pirkimo procedūros atlikimą. 
+42. Perkantysis subjektas, tikrindamas paraiškos ar pasiūlymo atitiktį šio straipsnio 41 dalies 1, 2, 3 ir 6 punktuose nurodytiems reikalavimams, iš tiekėjo reikalauja pateikti laisvos formos atitikties deklaraciją. Jeigu perkančiajam subjektui kyla abejonių dėl tiekėjo nurodytos informacijos, įrodančios šio straipsnio 41 dalies 1, 2, 3 ir 6 punktuose nurodytų reikalavimų atitiktį, teisingumo, jis privalo paprašyti ekonomiškai naudingiausią pasiūlymą pateikusio tiekėjo pateikti informaciją patvirtinančius Viešųjų pirkimų įstatymo 51 straipsnio 12 dalyje nurodytus (vieną ar kelis) ar kitus perkančiajam subjektui priimtinus dokumentus ir (ar) paaiškinimus. Perkantysis subjektas šių dokumentų ir (ar) paaiškinimų gali paprašyti ir iš kandidatų ar dalyvių bet kuriuo pirkimo procedūros metu, jeigu tai būtina siekiant užtikrinti tinkamą pirkimo procedūros atlikimą.
 Papildyta straipsnio dalimi:
 Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
 Straipsnio dalies pakeitimai:
 Nr. XIV-1672, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27262
+Nr. XIV-3084, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19837
  
 
 
@@ -8185,3 +8194,8 @@ Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2910, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13545
 Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 2, 29, 50 ir 95 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3084, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19837
+Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 58 straipsnio pakeitimo įstatymas
