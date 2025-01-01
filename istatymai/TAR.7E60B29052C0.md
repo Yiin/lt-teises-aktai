@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2271, i. k. 1001010ISTAIII-1904
  
@@ -131,6 +131,14 @@ Nr. XIV-2345, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25600
 
 
 17) Lietuvos kultūros tarybos pirmininkui;
+
+
+
+
+171) Lietuvos gyventojų genocido ir rezistencijos tyrimo centro generaliniam direktoriui;
+Papildyta straipsnio punktu:
+Nr. XIV-3040, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18437
+ 
 
 
 
@@ -370,6 +378,11 @@ VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS KOEFICIENTAI
  2,4 
 
 
+ 201. 
+ Lietuvos gyventojų genocido ir rezistencijos tyrimo centro generalinis direktorius 
+ 3,5 
+
+
  21. 
  Kiti Lietuvos Respublikos Seimo, Lietuvos Respublikos Prezidento, Lietuvos Respublikos Vyriausybės paskirti institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovai (išskyrus centrinių statutinių įstaigų vadovus, Lietuvos Respublikos vadovybės apsaugos tarnybos direktorių, Lietuvos Respublikos valstybės saugumo departamento direktorių ir Lietuvos Respublikos specialiųjų tyrimų tarnybos direktorių) ir Seimo, Respublikos Prezidento, kiti pagal specialius įstatymus paskirti valstybinių (nuolatinių) komisijų ir tarybų pirmininkai (išskyrus Valstybinės energetikos reguliavimo tarybos pirmininką, Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos pirmininką) 
  2,0 
@@ -397,6 +410,7 @@ ______________________
 Priedo pakeitimai:
 Nr. XIV-2345, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25600
 Nr. XIV-2411, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25929
+Nr. XIV-3040, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18437
  
 
 
@@ -811,3 +825,8 @@ Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmok�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2411, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25929
 Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 pakeitimo įstatymo Nr. XIV-2012 1 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3040, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18437
+Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymo Nr. VIII-1904 2 straipsnio ir priedo pakeitimo įstatymas
