@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A92E17FDCD13"
 
 # Lietuvos Respublikos medžioklės įstatymas
 
-Suvestinė redakcija nuo 2024-12-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2634; Žin. 2002, Nr.112-0, i. k. 1021010ISTA00IX-966
  
@@ -806,9 +806,17 @@ Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
 
 
 
-5) medžioklės plotų naudotojas netenka dalies ar viso medžioklės plotų vieneto įgyvendinant ypatingos valstybinės svarbos krašto apsaugos srities projektus ir kaip kompensacija jam skiriami naudotojo neturintys medžioklės plotai. Ypatingos valstybinės svarbos krašto apsaugos srities projektą įgyvendinanti institucija apie įgyvendinamą ypatingos valstybinės svarbos krašto apsaugos srities projektą, dėl kurio medžioklės plotų naudotojas netenka dalies ar viso medžioklės plotų vieneto, informuoja institucijas, šio Įstatymo nustatyta tvarka sudarančias medžioklės plotų vienetus ir išduodančias leidimus naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete. Kaip kompensacija skiriami medžioklės plotai negali skirtis daugiau kaip 20 procentų nuo medžioklės plotų naudotojo netektos dalies ar viso medžioklės plotų vieneto, atsižvelgiant į jų dydį ir kokybę, išreiškiamą apskaičiuotu mokėtinu mokesčiu už medžiojamųjų gyvūnų išteklių naudojimą.
+5) medžioklės plotų naudotojas netenka dalies ar viso medžioklės plotų vieneto įgyvendinant ypatingos valstybinės svarbos krašto apsaugos srities projektus ir kaip kompensacija jam skiriami naudotojo neturintys medžioklės plotai. Ypatingos valstybinės svarbos krašto apsaugos srities projektą įgyvendinanti institucija apie įgyvendinamą ypatingos valstybinės svarbos krašto apsaugos srities projektą, dėl kurio medžioklės plotų naudotojas netenka dalies ar viso medžioklės plotų vieneto, informuoja institucijas, šio Įstatymo nustatyta tvarka sudarančias medžioklės plotų vienetus ir išduodančias leidimus naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete. Kaip kompensacija skiriami medžioklės plotai negali skirtis daugiau kaip 20 procentų nuo medžioklės plotų naudotojo netektos dalies ar viso medžioklės plotų vieneto, atsižvelgiant į jų dydį ir kokybę, išreiškiamą apskaičiuotu mokėtinu mokesčiu už medžiojamųjų gyvūnų išteklių naudojimą;
 Papildyta straipsnio punktu:
 Nr. XIV-3052, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20013
+ 
+
+
+
+
+6) leidimas naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete išduodamas mirusio medžioklės plotų naudotojo, turėjusio leidimą naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete, įpėdiniams. 
+Papildyta straipsnio punktu:
+Nr. XIV-3053, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19822
  
 
 
@@ -850,6 +858,14 @@ Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
 
 
 5. Pasibaigus leidimo naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete laikotarpiui, kuriam jis buvo išduotas, jeigu šio leidimo gavėjas tinkamai vykdė visas jame nustatytas sąlygas ir pasibaigus šio leidimo galiojimui per 2 mėnesius pateikė prašymą pratęsti jo galiojimo laiką, šis leidimas pratęsiamas.
+
+
+
+
+6. Mirus fiziniam asmeniui, kuriam buvo išduotas leidimas naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete, jo įpėdiniui kreipiantis dėl šio leidimo pratęsimo ir sumokėjus už praleistą laikotarpį mokesčius už medžiojamųjų gyvūnų išteklių naudojimą medžioklės plotų vienete, leidimas pratęsiamas iki buvusio leidimo galiojimo pabaigos arba iki kitos datos. Įpėdiniui per 3 mėnesius nuo palikimo atsiradimo dienos nepateikus prašymo išduoti leidimą naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete arba prašymą pateikus įpėdiniui, kuris neatitinka šio straipsnio 1 dalyje nustatytų reikalavimų, leidimas naudoti medžiojamųjų gyvūnų išteklius šiame medžioklės plotų vienete išduodamas organizuojant konkursą.
+TAR pastaba. Kai įpėdinio teisė į palikimą atsirado iki 2024-11-07 įstatymo Nr. XIV-3053 įsigaliojimo dienos (2025-01-01), šio įstatymo nustatytas 3 mėnesių terminas pateikti prašymą išduoti leidimą naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete yra taikomas nuo 2024-11-07 įstatymo Nr. XIV-3053 įsigaliojimo dienos (2025-01-01).  
+Papildyta straipsnio dalimi:
+Nr. XIV-3053, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19822
  
 
 
@@ -868,7 +884,11 @@ Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
 
 
 
-2) mirus fiziniam asmeniui arba likvidavus juridinį asmenį, kuriam buvo išduotas leidimas;
+2) mirus fiziniam asmeniui, jeigu dėl medžiojamųjų gyvūnų išteklių medžioklės plotų vienete mirusiojo įpėdinis nesikreipia dėl leidimo pratęsimo (perėmimo) per 3 mėnesius nuo palikimo atsiradimo dienos arba likvidavus juridinį asmenį, kuriam išduotas leidimas.
+ 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3053, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19822
+ 
 
 
 
@@ -1805,3 +1825,8 @@ Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 5 straipsnio pakeitimo ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3052, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20013
 Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 8 ir 10 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3053, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19822
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 10 ir 11 straipsnių pakeitimo įstatymas
