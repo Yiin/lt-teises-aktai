@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2024-12-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -2301,25 +2301,22 @@ Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
 
 
 
-SEPTINTASIS skirsnis
-ORLAIVIŲ AVARIJOS IR INCIDENTAI
+SEPTINTASIS SKIRSNIS
+PRANEŠIMAI APIE ORLAIVIŲ AVARIJAS IR INCIDENTUS
  
 
 
-42 straipsnis. Orlaivių avarijų ir incidentų tyrimas
+42 straipsnis. Pranešimai apie orlaivių avarijas ir incidentus
 
 
-1. Pranešimų apie orlaivių avarijas ir incidentus teikimo tvarką nustato susisiekimo ministras. Orlaivių avarijų ir incidentų tyrimo tvarką nustato teisingumo ministras.
+Pranešimų apie orlaivių avarijas ir incidentus teikimo tvarką nustato susisiekimo ministras. 
 
 
 
 
-2. Orlaivių avarijas ir incidentus tiria teisingumo ministro paskirtas orlaivių avarijų ir incidentų tyrimų vadovas (vadovai).
+Skirsnio pakeitimai:
+Nr. XIV-3073, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20017
  
-
-
-
-
 
 
 
@@ -3401,7 +3398,10 @@ aviacijos įstatymo
 
 
 
-13. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 996/2010 dėl civilinės aviacijos avarijų ir incidentų tyrimo ir prevencijos, kuriuo panaikinama Direktyva 94/56/EB, su paskutiniais pakeitimais, padarytais 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1139.
+13. Neteko galios nuo 2025-01-01
+Punkto naikinimas:
+Nr. XIV-3073, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20017
+ 
 
 
 
