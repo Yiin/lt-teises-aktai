@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5"
 
 # Lietuvos Respublikos rinkimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo konstitucinis įstatymas
 
-Suvestinė redakcija nuo 2024-05-14 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Konstitucinis įstatymas paskelbtas: TAR 2022-07-20, i. k. 2022-15851
  
@@ -3951,25 +3951,25 @@ Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
 
 
 
-78 straipsnis. Pareiškinių dokumentų pateikimas 
+78 straipsnis. Pareiškinių dokumentų pateikimas
 
 
-1. Seimo rinkimuose politinė partija savo ir keliamų kandidatų pareiškinius dokumentus teikia Vyriausiajai rinkimų komisijai, o asmuo, keliantis save kandidatu, – apygardos rinkimų komisijai. Pareiškinių dokumentų pateikimas pradedamas likus 83 dienoms ir baigiamas 17 val. likus 65 dienoms iki rinkimų dienos. 
-
-
-
-
-2. Respublikos Prezidento rinkimuose pareiškiniai dokumentai teikiami Vyriausiajai rinkimų komisijai. Pareiškinių dokumentų pateikimas pradedamas likus 83 dienoms ir baigiamas 17 val. likus 65 dienoms iki rinkimų dienos.
+1. Seimo rinkimuose politinė partija savo ir keliamų kandidatų pareiškinius dokumentus, asmuo, keliantis save kandidatu, pareiškinius dokumentus teikia Vyriausiajai rinkimų komisijai. Pareiškinių dokumentų pateikimas pradedamas likus 130 dienų ir baigiamas 17 val. likus 80 dienų iki rinkimų dienos.
 
 
 
 
-3. Savivaldybių tarybų ir merų rinkimuose pareiškinių dokumentų pateikimas pradedamas likus 83 dienoms iki rinkimų dienos. Politinė partija savo pareiškinius dokumentus pateikia Vyriausiajai rinkimų komisijai ne vėliau kaip iki 17 val. likus 70 dienų iki rinkimų dienos. Vyriausiajai rinkimų komisijai priėmus sprendimą (ne vėliau kaip per 3 dienas gavus dokumentus) dėl politinės partijos dalyvavimo šiuose rinkimuose, šios partijos keliamų kandidatų pareiškiniai dokumentai pateikiami savivaldybės rinkimų komisijai ne vėliau kaip iki 17 val. likus 65 dienoms iki rinkimų dienos. Politinio komiteto, asmens, keliančio save kandidatu į merus, pareiškiniai dokumentai pateikiami savivaldybės rinkimų komisijai ne vėliau kaip iki 17 val. likus 65 dienoms iki rinkimų dienos.
+2. Respublikos Prezidento rinkimuose pareiškiniai dokumentai teikiami Vyriausiajai rinkimų komisijai. Pareiškinių dokumentų pateikimas pradedamas likus 130 dienų ir baigiamas 17 val. likus 80 dienų iki rinkimų dienos.
 
 
 
 
-4. Rinkimuose į Europos Parlamentą politinė partija, politinis komitetas savo bei keliamų kandidatų pareiškinius dokumentus teikia Vyriausiajai rinkimų komisijai. Pareiškinių dokumentų pateikimas pradedamas likus 83 dienoms ir baigiamas 17 val. likus 65 dienoms iki rinkimų dienos.
+3. Savivaldybių tarybų ir merų rinkimuose pareiškinių dokumentų pateikimas pradedamas likus 130 dienų iki rinkimų dienos. Politinė partija savo pareiškinius dokumentus pateikia Vyriausiajai rinkimų komisijai ne vėliau kaip iki 17 val. likus 90 dienų iki rinkimų dienos. Vyriausiajai rinkimų komisijai priėmus sprendimą (ne vėliau kaip per 5 darbo dienas gavus dokumentus) dėl politinės partijos dalyvavimo šiuose rinkimuose, šios partijos keliamų kandidatų pareiškiniai dokumentai pateikiami savivaldybės rinkimų komisijai arba Vyriausiajai rinkimų komisijai, jeigu dokumentų pateikimo dieną savivaldybių rinkimų komisijos dar nesudarytos, ne vėliau kaip iki 17 val. likus 80 dienų iki rinkimų dienos. Politinio komiteto, asmens, keliančio save kandidatu į merus, pareiškiniai dokumentai pateikiami savivaldybės rinkimų komisijai arba Vyriausiajai rinkimų komisijai, jeigu dokumentų pateikimo dieną savivaldybių rinkimų komisijos dar nesudarytos, ne vėliau kaip iki 17 val. likus 80 dienų iki rinkimų dienos.
+
+
+
+
+4. Rinkimuose į Europos Parlamentą politinė partija, politinis komitetas savo ir keliamų kandidatų pareiškinius dokumentus teikia Vyriausiajai rinkimų komisijai. Pareiškinių dokumentų pateikimas pradedamas likus 130 dienų ir baigiamas 17 val. likus 80 dienų iki rinkimų dienos.
 
 
 
@@ -3984,10 +3984,12 @@ Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
 
 
 
-7. Pareiškiniai dokumentai Vyriausiosios rinkimų komisijos nustatyta tvarka teikiami elektroniniu būdu ir nuolat saugomi šios komisijos informacinėje sistemoje. 
+7. Pareiškiniai dokumentai Vyriausiosios rinkimų komisijos nustatyta tvarka teikiami elektroniniu būdu ir nuolat saugomi šios komisijos informacinėje sistemoje. Vyriausiosios rinkimų komisijos nustatyta tvarka užtikrinama, kad informacinė sistema nedelsiant informuotų pareiškinius dokumentus teikiantį asmenį apie formalius pareiškinių dokumentų trūkumus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
  
-
-
 
 
 
@@ -3995,7 +3997,10 @@ Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
 79 straipsnis. Rinkėjų parašų rinkimas 
 
 
-1. Šio kodekso nustatytais atvejais Vyriausioji rinkimų komisija, apygardos, savivaldybės rinkimų komisija, gavusios pareiškinius dokumentus, ne vėliau kaip per 3 dienas išduoda politinei partijai, politiniam komitetui, asmeniui, siekiančiam tapti kandidatu, arba jų atstovui rinkimams rinkėjų parašų rinkimo lapus arba priima motyvuotą sprendimą atsisakyti juos išduoti. 
+1. Šio kodekso nustatytais atvejais Vyriausioji rinkimų komisija, apygardos, savivaldybės rinkimų komisija, gavusios pareiškinius dokumentus, ne vėliau kaip per 5 dienas išduoda politinei partijai, politiniam komitetui, asmeniui, siekiančiam tapti kandidatu, arba jų atstovui rinkimams rinkėjų parašų rinkimo lapus arba priima motyvuotą sprendimą atsisakyti juos išduoti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -4045,7 +4050,9 @@ Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
 
 
 
-11. Rinkėjų parašų rinkimo lapus politinė partija, politinis komitetas, asmuo, siekiantis tapti kandidatu, arba jų atstovas rinkimams turi grąžinti juos išdavusiai rinkimų komisijai ne vėliau kaip likus 45 dienoms iki rinkimų dienos. Rinkėjų parašų rinkimo lapai grąžinami ir nesurinkus šiame kodekse nustatyto rinkėjų parašų skaičiaus.
+11. Rinkėjų parašų rinkimo lapus politinė partija, politinis komitetas, asmuo, siekiantis tapti kandidatu, arba jų atstovas rinkimams turi grąžinti tos rinkimų apygardos, kurioje ketinama dalyvauti rinkimuose, rinkimų komisijai ne vėliau kaip likus 51 dienai iki rinkimų dienos. Rinkėjų parašų rinkimo lapai grąžinami ir nesurinkus šiame kodekse nustatyto rinkėjų parašų skaičiaus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
  
 
 
@@ -4056,12 +4063,18 @@ Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
 80 straipsnis. Pareiškinių dokumentų ir rinkėjų parašų rinkimo lapų tikrinimas
 
 
-1. Tikrindama kandidato užpildytus pareiškinius dokumentus, Vyriausioji rinkimų komisija nustato, ar kandidatas atitinka šio kodekso nustatytus reikalavimus. Prireikus Vyriausioji rinkimų komisija gali savo iniciatyva ar savivaldybės, apygardos rinkimų komisijos prašymu kreiptis pagalbos į Užsienio reikalų ministeriją, Lietuvos Respublikos vidaus reikalų ministeriją, Lietuvos Respublikos teisingumo ministeriją, Juridinių asmenų registro tvarkytoją ar į kitas valstybės institucijas, kad šios praneštų kandidatui registruoti reikšmingus duomenis. Toks Vyriausiosios rinkimų komisijos prašymas turi būti nagrinėjamas ypatingos skubos tvarka, o rašytinis atsakymas turi būti duodamas per 7 dienas, bet ne vėliau kaip iki rinkimų likus 32 dienoms.
+1. Tikrindama kandidato užpildytus pareiškinius dokumentus, Vyriausioji rinkimų komisija nustato, ar kandidatas atitinka šio kodekso nustatytus reikalavimus. Prireikus Vyriausioji rinkimų komisija gali savo iniciatyva ar savivaldybės, apygardos rinkimų komisijos prašymu kreiptis pagalbos į Užsienio reikalų ministeriją, Lietuvos Respublikos vidaus reikalų ministeriją, Lietuvos Respublikos teisingumo ministeriją, Juridinių asmenų registro tvarkytoją ar į kitas valstybės institucijas, kad šios praneštų kandidatui registruoti reikšmingus duomenis. Toks Vyriausiosios rinkimų komisijos prašymas turi būti nagrinėjamas ypatingos skubos tvarka, o rašytinis atsakymas turi būti duodamas per 7 dienas, bet ne vėliau kaip iki rinkimų likus 40 dienų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-2. Rinkėjų parašų rinkimo lapų, įskaitant ir rinkėjų parašų, gautų elektroniniu būdu, tikrinimo tvarką nustato Vyriausioji rinkimų komisija. Rinkėjų parašų rinkimo lapai turi būti patikrinti per 10 dienų nuo jų gavimo dienos, bet ne vėliau kaip likus 32 dienoms iki rinkimų dienos. Rinkėjų parašų rinkimo lapus tikrinanti rinkimų komisija suskaičiuoja šio kodekso nustatytus reikalavimus atitinkančius rinkėjų, parėmusių kandidatą ar kandidatų sąrašą, parašus.
+2. Rinkėjų parašų rinkimo lapų, įskaitant ir rinkėjų parašų, gautų elektroniniu būdu, tikrinimo tvarką nustato Vyriausioji rinkimų komisija. Rinkėjų parašų rinkimo lapai turi būti patikrinti per 10 dienų nuo jų gavimo dienos, bet ne vėliau kaip likus 40 dienų iki rinkimų dienos. Rinkėjų parašų rinkimo lapus tikrinanti rinkimų komisija suskaičiuoja šio kodekso nustatytus reikalavimus atitinkančius rinkėjų, parėmusių kandidatą ar kandidatų sąrašą, parašus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -4106,7 +4119,10 @@ Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
 
 
 
-5. Jeigu pateikti ne visi šiame kodekse nurodyti pareiškiniai dokumentai ar juose yra trūkumų, Vyriausioji rinkimų komisija apie tai turi nedelsdama pranešti atstovui rinkimams ir nustatyti ne vėlesnį kaip 65 dienos iki rinkimų dienos terminą trūkumams pašalinti. 
+5. Jeigu pateikti ne visi šiame kodekse nurodyti pareiškiniai dokumentai ar juose yra trūkumų, Vyriausioji rinkimų komisija apie tai turi nedelsdama pranešti atstovui rinkimams ir nustatyti ne vėlesnį kaip 70 dienų iki rinkimų dienos terminą trūkumams pašalinti. Pasibaigus šiam terminui, pareiškiniai dokumentai netaisomi ir nekeičiami.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -4403,7 +4419,10 @@ Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
 87 straipsnis. Teisė atšaukti pareiškinius dokumentus 
 
 
-1. Ne vėliau kaip likus 40 dienų iki rinkimų dienos politinė organizacija, šių organizacijų koalicija turi teisę savo pareiškimu Vyriausiajai rinkimų komisijai atšaukti savo ir iškelto kandidato pareiškinius dokumentus, išsikėlęs ar keliamas kandidatas turi teisę notaro patvirtintu ar kvalifikuotu elektroniniu parašu pasirašytu pareiškimu atšaukti savo pareiškinius dokumentus.
+1. Ne vėliau kaip likus 55 dienoms iki rinkimų dienos politinė organizacija, šių organizacijų koalicija turi teisę savo pareiškimu Vyriausiajai rinkimų komisijai atšaukti savo ir iškelto kandidato pareiškinius dokumentus, išsikėlęs ar keliamas kandidatas turi teisę notaro patvirtintu ar kvalifikuotu elektroniniu parašu pasirašytu pareiškimu atšaukti savo pareiškinius dokumentus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
