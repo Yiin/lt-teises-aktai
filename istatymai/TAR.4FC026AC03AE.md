@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
  
@@ -825,7 +825,9 @@ e) už kitų nei šio punkto d papunktyje nurodytų neatsargių nusikalstamų ve
 
 
 
-4. Skyrimo į pareigūnų pareigas tvarką, pareigūno tarnybos bylos aprašą, suderinęs su teisingumo ir finansų ministrais, tvirtina vidaus reikalų ministras. Pareigūno tarnybinio pažymėjimo privalomosios formos aprašą ir pareigūnų tarnybinių pažymėjimų išdavimo, keitimo, grąžinimo, naikinimo ir paskelbimo negaliojančiais tvarką nustato ministras.
+4. Skyrimo į pareigūnų pareigas tvarką, pareigūno tarnybos bylos aprašą, suderinęs su teisingumo ir finansų ministrais, tvirtina vidaus reikalų ministras. Pareigūno tarnybinio pažymėjimo privalomosios formos aprašą ir pareigūnų tarnybinių pažymėjimų išdavimo, keitimo, grąžinimo, naikinimo ir paskelbimo negaliojančiais tvarką, suderinęs su teisingumo ir finansų ministrais, nustato vidaus reikalų ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2404, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25916
  
 
 
@@ -4295,14 +4297,12 @@ VIDAUS TARNYBOS VALDYMAS
 
 
 
-2. Vidaus reikalų ministerijoje yra sudaromas Vidaus reikalų pareigūnų registras. Šio registro valdytoja yra Vidaus reikalų ministerija. Vidaus reikalų pareigūnų registro objektai yra vidaus reikalų ministro valdymo srities statutinės įstaigos, jų struktūriniai padaliniai, pareigūnų pareigybės (išskyrus įslaptintas pareigybes), pareigūnai (išskyrus įslaptintus pareigūnus). Vidaus reikalų pareigūnų registro tvarkytojus skiria Vyriausybė. Šio registro pagrindu išduodami vidaus reikalų ministro valdymo srities statutinių įstaigų pareigūnų tarnybiniai pažymėjimai, teikiama informacija vidaus tarnybos valdymo, analizės, vidaus reikalų ministro valdymo srities statutinių įstaigų statistinės personalo apskaitos, pareigybių komplektavimo ir poreikio nustatymo tikslais.
+2. Viešojo sektoriaus darbuotojų registro duomenys naudojami statutinių įstaigų personalui valdyti. Pareigūnų tarnybiniai pažymėjimai išduodami vadovaujantis Viešojo sektoriaus darbuotojų registro duomenimis. 
 
 
-
-
-3. Vidaus reikalų pareigūnų registras steigiamas ir tvarkomas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento), Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo nustatyta tvarka. Vidaus reikalų pareigūnų registro nuostatus tvirtina Vyriausybė.
-
-
+Straipsnio pakeitimai:
+Nr. XIV-2404, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25916
+ 
 
 
 
