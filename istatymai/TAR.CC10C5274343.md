@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 
 
-Suvestinė redakcija nuo 2024-11-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
  
@@ -572,7 +572,7 @@ Valstybinė žemė
 
 
 
-10. Valstybinės žemės sklypo, perduodamo patikėjimo teise šio straipsnio 2 ir 6 dalyse nurodytiems subjektams, priėmimo–perdavimo aktą parengia ir pasirašo Nacionalinės žemės tarnybos vadovas arba jo įgaliotas viešojo administravimo funkcijas vykdančiame Nacionalinės žemės tarnybos padalinyje vadovaujamas pareigas einantis valstybės tarnautojas. Kai valstybinės žemės sklypas perduodamas šio straipsnio 1 dalies 2 punkte, 3 ir 5 dalyse nurodytiems subjektams, priėmimo–perdavimo aktą parengia Vyriausybė ir jį pasirašo Vyriausybės įgaliotas asmuo. Jeigu valstybinės žemės patikėtinis per 3 mėnesius nuo priėmimo–perdavimo akto pasirašymo dienos neįregistruoja patikėjimo teisės į valstybinės žemės sklypus Nekilnojamojo turto registre, Nacionalinės žemės tarnybos vadovas priima sprendimą arba Vyriausybė priima nutarimą dėl šio patikėtinio patikėjimo teisės pasibaigimo dėl konkretaus žemės sklypo ir nuo šio Nacionalinės žemės tarnybos vadovo sprendimo arba Vyriausybės nutarimo įsigaliojimo dienos valstybinės žemės sklypo patikėtiniu laikoma Nacionalinė žemės tarnyba.
+10. Valstybinės žemės sklypo, perduodamo patikėjimo teise šio straipsnio 2 ir 6 dalyse nurodytiems subjektams, priėmimo–perdavimo aktą parengia ir pasirašo Nacionalinės žemės tarnybos vadovas arba jo įgaliotas viešojo administravimo funkcijas vykdančiame Nacionalinės žemės tarnybos padalinyje vadovaujamas pareigas einantis valstybės tarnautojas. Kai valstybinės žemės sklypas perduodamas šio straipsnio 1 dalies 2 punkte, 3 ir 5 dalyse nurodytiems subjektams, priėmimo–perdavimo aktą parengia Vyriausybė ir jį pasirašo Vyriausybės įgaliotas asmuo. Jeigu valstybinės žemės patikėtinis per 3 mėnesius nuo priėmimo–perdavimo akto pasirašymo dienos neįregistruoja patikėjimo teisės į valstybinės žemės sklypus Nekilnojamojo turto registre, Nacionalinės žemės tarnybos vadovas priima sprendimą arba Vyriausybė priima nutarimą dėl šio patikėtinio patikėjimo teisės pasibaigimo dėl konkretaus žemės sklypo ir nuo šio Nacionalinės žemės tarnybos vadovo sprendimo arba Vyriausybės nutarimo įsigaliojimo dienos valstybinės žemės sklypo patikėtiniu laikoma Nacionalinė žemės tarnyba.
 
 
 
@@ -582,7 +582,7 @@ Valstybinė žemė
 
 
 
-12. Kai valstybinė žemė reikalinga Vyriausybės nutarimu valstybei svarbiais pripažintiems projektams ar kitiems teisės aktų nustatyta tvarka valstybei svarbiais pripažintiems projektams, regioninės svarbos projektams, kuriuos tokiais projektais pripažįsta regiono plėtros taryba, vadovaudamasi Lietuvos Respublikos regioninės plėtros įstatymu, taip pat Lietuvos Respublikos investicijų įstatyme nustatytais atvejais, kai jos reikia stambiems projektams įgyvendinti arba šio įstatymo 45 straipsnio 1 dalies 1–9 punktuose nurodytoms reikmėms ar kitoms valstybės reikmėms, savivaldybei patikėjimo teise perduota valstybinė žemė patikėjimo teise valdyti perduodama Nacionalinei žemės tarnybai. Tokiais atvejais priimant Vyriausybės nutarimą ar kitą atitinkamą sprendimą dėl žemės paėmimo visuomenės poreikiams ir (ar) Nacionalinės žemės tarnybos sprendimą dėl valstybinės žemės suteikimo regioninės svarbos ar stambiems projektams įgyvendinti, kai žemės paimti visuomenės poreikiams nereikia, Vyriausybės nutarime ar kitame atitinkamame sprendime turi būti nurodoma, kad savivaldybės kaip atitinkamos valstybinės žemės patikėtinio teisės pasibaigia, ir nurodomas naujas subjektas, kuris tokią žemę valdys patikėjimo teise. Nacionalinė žemės tarnyba per 10 darbo dienų nuo Vyriausybės nutarimo ar kito atitinkamo sprendimo priėmimo apie tai raštu informuoja savivaldybę. Valstybinės žemės patikėjimo teisės perdavimo tvarką nustato Vyriausybė.
+12. Kai valstybinė žemė reikalinga Vyriausybės nutarimu valstybei svarbiais pripažintiems projektams ar kitiems teisės aktų nustatyta tvarka valstybei svarbiais pripažintiems projektams, regioninės svarbos projektams, kuriuos tokiais projektais pripažįsta regiono plėtros taryba, vadovaudamasi Lietuvos Respublikos regioninės plėtros įstatymu, taip pat Lietuvos Respublikos investicijų įstatyme nustatytais atvejais, kai jos reikia stambiems projektams įgyvendinti arba šio įstatymo 45 straipsnio 1 dalies 1–9 punktuose nurodytoms reikmėms ar kitoms valstybės reikmėms, savivaldybei patikėjimo teise perduota valstybinė žemė patikėjimo teise valdyti perduodama Nacionalinei žemės tarnybai. Tokiais atvejais priimant Vyriausybės nutarimą ar kitą atitinkamą sprendimą dėl žemės paėmimo visuomenės poreikiams ir (ar) Nacionalinės žemės tarnybos sprendimą dėl valstybinės žemės suteikimo regioninės svarbos ar stambiems projektams įgyvendinti, kai žemės paimti visuomenės poreikiams nereikia, aptariamas ir patikėjimo teisės pasibaigimo klausimas. Nacionalinė žemės tarnyba per 10 darbo dienų nuo Vyriausybės nutarimo ar kito atitinkamo sprendimo priėmimo apie tai raštu informuoja savivaldybę. Valstybinės žemės patikėjimo teisės perdavimo tvarką nustato Vyriausybė.
 
 
 
@@ -597,7 +597,12 @@ Valstybinė žemė
 
 
 
-15. Savivaldybėms miestų ir miestelių teritorijų ribose patikėjimo teise valdyti neperduodama valstybinė žemė, kuri:
+15. Valstybinės žemės patikėtiniai žemės valdymo, administravimo ir naudojimo funkcijas atlieka naudodamiesi šio įstatymo 34 straipsnyje nurodyta Žemės informacine sistema.
+
+
+
+
+16. Savivaldybėms miestų ir miestelių teritorijų ribose patikėjimo teise valdyti neperduodama valstybinė žemė, kuri:
 
 
 1) suteikta kitiems patikėtiniams;
@@ -632,7 +637,7 @@ Valstybinė žemė
 
 
 
-16. Nekilnojamojo turto registre įregistruotiems statiniams ir (ar) įrenginiams, kurie vadovaujantis teritorijų planavimo dokumentų sprendiniais turi būti griaunami, eksploatuoti valstybinės žemės sklypai neformuojami. Šie statiniai ir (ar) įrenginiai išperkami iš teisėtų jų savininkų Vyriausybės nustatyta tvarka, atlyginant jų rinkos vertę, apskaičiuotą taikant Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, atsižvelgiant tik į esamą statinių ir įrenginių būklę. 
+17. Nekilnojamojo turto registre įregistruotiems statiniams ir (ar) įrenginiams, kurie vadovaujantis teritorijų planavimo dokumentų sprendiniais turi būti griaunami, eksploatuoti valstybinės žemės sklypai neformuojami. Šie statiniai ir (ar) įrenginiai išperkami Nacionalinės žemės tarnybos nustatyta tvarka, atlyginant jų rinkos vertę, apskaičiuotą taikant Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, atsižvelgiant tik į esamą statinių ir įrenginių būklę.
 
 
 Straipsnio pakeitimai:
@@ -1284,7 +1289,10 @@ Nr. XIV-2114, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14307
 
 
 
-2. Laisvos valstybinės žemės fondo žemė perleidžiama nuosavybėn, perduodama naudotis ar išnuomojama atlikus būtinus teritorijų planavimo, žemės tvarkymo darbus, nustačius žemės sklypų pagrindinę žemės naudojimo paskirtį, naudojimo būdą, nurodžius Specialiųjų žemės naudojimo sąlygų įstatyme nurodytas teritorijas, į kurias patenka šie žemės sklypai, ir suformuotus žemės sklypus įregistravus Nekilnojamojo turto registre Civilinio kodekso, šio ir kitų įstatymų nustatyta tvarka.
+2. Informacija apie laisvus valstybinės žemės sklypus ir (ar) valstybinių žemės sklypų nuomos ir (ar) panaudos sutarčių pasibaigimą Vyriausybės arba jos įgaliotų institucijų nustatyta tvarka gaunama naudojantis Žemės informacine sistema.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2444, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25937
+ 
 
 
 
@@ -1905,12 +1913,18 @@ Nr. XIV-2333, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25087
 
 
 
-13. Prie servitutų nustatymo sandorių turi būti pridedami žemės sklypų planai, kuriuose pagal Nekilnojamojo turto kadastro nuostatų reikalavimus bus pažymėti juose nustatomi servitutai.
+13. Prie servitutų nustatymo sandorių turi būti pridedami žemės sklypų planai, kuriuose pagal aplinkos ministro nustatyta tvarka nurodytus reikalavimus bus pažymėti juose nustatomi servitutai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2993, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17763
+ 
 
 
 
 
-14. Jeigu atlikus žemės sklypo, kuriam nustatytas servitutas, kadastrinius matavimus kartu su šio žemės sklypo riba keičiasi ir servituto padėtis vietovėje, nekilnojamojo daikto kadastro duomenis nustatantis asmuo apie nustatytus servituto padėties pasikeitimus Nekilnojamojo turto kadastro nuostatuose nustatyta tvarka informuoja viešpataujančiojo daikto savininką.
+14. Jeigu atlikus žemės sklypo, kuriam nustatytas servitutas, kadastrinius matavimus kartu su šio žemės sklypo riba keičiasi ir servituto padėtis vietovėje, nekilnojamojo daikto kadastro duomenis nustatantis asmuo apie nustatytus servituto padėties pasikeitimus aplinkos ministro nustatyta tvarka informuoja viešpataujančiojo daikto savininką.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2993, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17763
+ 
 
 
 Straipsnio pakeitimai:
