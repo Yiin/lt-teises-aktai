@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7083DB116A2E"
 
 # Lietuvos Respublikos radiacinės saugos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 11-239, i. k. 0991010ISTAIII-1019
  
@@ -2017,7 +2017,12 @@ ASMENŲ ATESTAVIMAS IR PRIPAŽINIMAS
 
 
 
-4) turintiems kitos valstybės narės reguliuojančiosios institucijos išduotą dokumentą, įrodantį, kad jie turi teisę atlikti matavimus ir (ar) apšvitos dozių įvertinimą. 
+4) turintiems kitos valstybės narės reguliuojančiosios institucijos išduotą dokumentą, įrodantį, kad jie turi teisę atlikti matavimus ir (ar) apšvitos dozių įvertinimą;
+
+
+
+
+5) atliekantiems aplinkos tyrimus tik branduolinės energetikos objektuose. 
 
 
 Straipsnio dalies pakeitimai:
