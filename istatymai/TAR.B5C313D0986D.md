@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b5c313d0986d11eb9fecb5ecd3bd711c"
 
 # Lietuvos Respublikos alternatyviųjų degalų įstatymas
 
-Suvestinė redakcija nuo 2024-05-31 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-01-31
  
 Įstatymas paskelbtas: TAR 2021-04-08, i. k. 2021-07413
  
@@ -42,7 +42,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šio įstatymo tikslas – mažinti transporto sektoriaus poveikį klimato kaitai ir aplinkos oro taršai, siekiant, kad 2030 metais atsinaujinančių energijos išteklių dalis transporto sektoriuje, palyginti su bendruoju galutiniu energijos suvartojimu transporto sektoriuje, sudarytų ne mažiau kaip 15 procentų. 
+2. Šio įstatymo tikslas – mažinti transporto sektoriaus poveikį klimato kaitai ir aplinkos oro taršai, siekiant, kad 2030 metais atsinaujinančių energijos išteklių dalis transporto sektoriuje, palyginti su bendruoju galutiniu energijos suvartojimu transporto sektoriuje, sudarytų ne mažiau kaip 15 procentų. Šiuo įstatymu taip pat siekiama, kad, nesukeliant ekosistemų degradacijos pavojaus, iki 2030 metų naftos degalų suvartojimas kelių transporte, palyginti su naftos degalų suvartojimu 2021 metais, sumažėtų ne mažiau kaip 39 procentais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2966, 2024-08-13, paskelbta TAR 2024-08-23, i. k. 2024-14756
+ 
 
 
 
@@ -249,7 +252,9 @@ Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
 
 
 
-38. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Akcizų įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos muitinės įstatyme, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos vidaus vandenų transporto kodekse ir kituose teisės aktuose, reglamentuojančiuose transporto ir energetikos sektorių veiklą. 
+38. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Akcizų įstatyme, Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos muitinės įstatyme, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos vidaus vandenų transporto kodekse ir kituose teisės aktuose, reglamentuojančiuose transporto ir energetikos sektorių veiklą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2966, 2024-08-13, paskelbta TAR 2024-08-23, i. k. 2024-14756
  
 
 
@@ -2335,3 +2340,8 @@ Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 6, 23 ir 35 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2668, 2024-05-21, paskelbta TAR 2024-05-30, i. k. 2024-09708
 Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 4, 5 ir 35 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2966, 2024-08-13, paskelbta TAR 2024-08-23, i. k. 2024-14756
+Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 1 ir 2 straipsnių pakeitimo įstatymas
