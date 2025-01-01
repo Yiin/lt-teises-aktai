@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
  
@@ -552,6 +552,29 @@ Juridiniai ir fiziniai asmenys privalo vykdyti priežiūros institucijos reikala
  
 
 
+
+
+
+
+141 straipsnis. Viešas priežiūros institucijos sprendimų skelbimas
+
+
+1. Priežiūros institucija, siekdama didinti visuomenės informuotumą apie su asmens duomenų tvarkymu susijusias taisykles, apsaugos priemones, teises ir pavojus bei jų supratimą, savo sprendimus, priimtus atlikus tyrimą ir (ar) patikrinimą ir (ar) išnagrinėjus skundą, išskyrus sprendimus, priimtus pagal šio įstatymo 27 ir 29 straipsnius, ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos paskelbia viešai savo interneto svetainėje, nepažeisdama asmens duomenų apsaugos, valstybės, tarnybos, profesinės, komercinės paslapties, kitos įstatymų saugomą paslaptį sudarančios ar kitos įstatymų saugomos informacijos apsaugos reikalavimų. Kai priežiūros institucija, atlikusi tyrimą ir (ar) patikrinimą ir (ar) išnagrinėjusi skundą, nenustato Reglamento (ES) 2016/679, kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, šio įstatymo ir (ar) kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, pažeidimų, skelbdama savo sprendimą neatskleidžia duomenų valdytojo ir (ar) duomenų tvarkytojo, kurio atžvilgiu priimtas šis sprendimas, tapatybės.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodyti sprendimai skelbiami 10 metų nuo jų paskelbimo dienos.
+
+
+
+
+3. Sprendimų skelbimo tvarką nustato priežiūros institucija.
+
+
+Papildyta straipsniu:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+ 
 
 
 
