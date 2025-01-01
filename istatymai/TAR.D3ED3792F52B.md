@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -569,7 +569,10 @@ PRIĖMIMAS Į VALSTYBĖS TARNAUTOJŲ PAREIGAS
 3. Į valstybės tarnautojo pareigas negali būti priimtas asmuo:
 
 
-1) jeigu iš Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš šio įstatymo 39 straipsnyje nurodyto registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, iš asmens, siekiančio tapti valstybės tarnautoju, užpildytos deklaracijos ar kitų duomenų, gautų šio įstatymo 5 straipsnio 5 dalyje nustatyta tvarka, paaiškėja, kad jis neatitinka nepriekaištingos reputacijos reikalavimų;
+1) jeigu iš Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Viešojo sektoriaus darbuotojų registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, iš asmens, siekiančio tapti valstybės tarnautoju, užpildytos deklaracijos ar kitų duomenų, gautų šio įstatymo 5 straipsnio 5 dalyje nustatyta tvarka, paaiškėja, kad jis neatitinka nepriekaištingos reputacijos reikalavimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1985, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11556
+ 
 
 
 
@@ -1541,14 +1544,17 @@ Valstybės tarnautojas ar valstybės tarnautojo pareigas ėjęs asmuo, dėl kuri
 2. Tarnybinio nusižengimo tyrimas, gavus oficialią informaciją apie galimą valstybės tarnautojo tarnybinį nusižengimą, pradedamas, o pradėtas tarnybinio nusižengimo tyrimas tęsiamas ir sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo priimamas taip pat:
 
 
-1) kai valstybės tarnautojas, dėl kurio galimo tarnybinio nusižengimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinio nusižengimo tyrimas, perkeliamas į valstybės tarnautojo pareigas kitoje valstybės ar savivaldybės institucijoje ar įstaigoje. Šiuo atveju asmuo, pradėjęs tarnybinio nusižengimo tyrimą, motyvuotą išvadą apie tyrimo rezultatus, kurioje konstatuojama, kad valstybės tarnautojas padarė tarnybinį nusižengimą, ir siūloma jam skirti tarnybinę nuobaudą, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perduoda valstybės ar savivaldybės institucijos ar įstaigos, į kurią perkeltas valstybės tarnautojas, vadovui, dėl savivaldybės kontrolieriaus – savivaldybės tarybai, šio įstatymo 39 straipsnyje nurodytam registrui ir valstybės tarnautojui, kuris pripažintas padariusiu tarnybinį nusižengimą. Sprendimą dėl tarnybinės nuobaudos skyrimo valstybės tarnautojui priima valstybės ar savivaldybės institucijos ar įstaigos, į kurią valstybės tarnautojas yra perkeltas, vadovas, dėl savivaldybės kontrolieriaus – savivaldybės taryba, atsižvelgdami į šio straipsnio 1 dalyje nustatytus reikalavimus;
+1) kai valstybės tarnautojas, dėl kurio galimo tarnybinio nusižengimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinio nusižengimo tyrimas, perkeliamas į valstybės tarnautojo pareigas kitoje valstybės ar savivaldybės institucijoje ar įstaigoje. Šiuo atveju asmuo, pradėjęs tarnybinio nusižengimo tyrimą, motyvuotą išvadą apie tyrimo rezultatus, kurioje konstatuojama, kad valstybės tarnautojas padarė tarnybinį nusižengimą, ir siūloma jam skirti tarnybinę nuobaudą, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perduoda valstybės ar savivaldybės institucijos ar įstaigos, į kurią perkeltas valstybės tarnautojas, vadovui, Viešojo sektoriaus darbuotojų registrui ir valstybės tarnautojui, kuris pripažintas padariusiu tarnybinį nusižengimą. Sprendimą dėl tarnybinės nuobaudos skyrimo valstybės tarnautojui priima valstybės ar savivaldybės institucijos ar įstaigos, į kurią valstybės tarnautojas yra perkeltas, vadovas, atsižvelgdamas į šio straipsnio 1 dalyje nustatytus reikalavimus;
 
 
 
 
-2) kai valstybės tarnautojas, dėl kurio galimo tarnybinio nusižengimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinio nusižengimo tyrimas, atleidžiamas iš valstybės tarnautojo pareigų. Sprendimą dėl asmens, ėjusio valstybės tarnautojo pareigas, pripažinimo padariusiu tarnybinį nusižengimą ir tarnybinės nuobaudos, kuri turėtų būti jam skirta, priima tarnybinio nusižengimo tyrimą pradėjęs asmuo, atsižvelgdamas į šio straipsnio 1 dalyje nustatytus reikalavimus. Šis sprendimas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perduodamas šio įstatymo 39 straipsnyje nurodytam registrui ir asmeniui, ėjusiam valstybės tarnautojo pareigas. 
+2) kai valstybės tarnautojas, dėl kurio galimo tarnybinio nusižengimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinio nusižengimo tyrimas, atleidžiamas iš valstybės tarnautojo pareigų. Sprendimą dėl asmens, ėjusio valstybės tarnautojo pareigas, pripažinimo padariusiu tarnybinį nusižengimą ir tarnybinės nuobaudos, kuri turėtų būti jam skirta, priima tarnybinio nusižengimo tyrimą pradėjęs asmuo, atsižvelgdamas į šio straipsnio 1 dalyje nustatytus reikalavimus. Šis sprendimas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perduodamas Viešojo sektoriaus darbuotojų registrui ir asmeniui, ėjusiam valstybės tarnautojo pareigas. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1985, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11556
+ 
 
 
 
@@ -2150,7 +2156,10 @@ VALSTYBĖS TARNAUTOJŲ ATLEIDIMAS IŠ PAREIGŲ
 
 
 
-18) iš Korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš šio įstatymo 39 straipsnyje nurodyto registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, iš kitų duomenų, gautų šio įstatymo 5 straipsnio 5 dalyje nustatyta tvarka, paaiškėja, kad valstybės tarnautojas neatitinka nepriekaištingos reputacijos reikalavimų;
+18) iš Korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Viešojo sektoriaus darbuotojų registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, iš kitų duomenų, gautų šio įstatymo 5 straipsnio 5 dalyje nustatyta tvarka, paaiškėja, kad valstybės tarnautojas neatitinka nepriekaištingos reputacijos reikalavimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1985, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11556
+ 
 
 
 
@@ -2340,74 +2349,18 @@ VALSTYBĖS TARNYBOS POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 
 
-39 straipsnis. Valstybės tarnautojų registras
-
-
-1. Valstybės tarnautojų registre kaupiami duomenys apie: 
-
-
-1) valstybės ir savivaldybių institucijų ir įstaigų struktūrą, laisvas ir užimtas valstybės tarnautojų pareigybes, teisingumo ministro valdymo srities ir finansų ministro valdymo srities vidaus tarnybos sistemos pareigūnų pareigybes ir darbuotojų, gaunančių darbo užmokestį iš valstybės, savivaldybių biudžetų ir valstybės pinigų fondų, pareigybes;
-
-
-
-
-2) valstybės tarnautojus, teisingumo ministro ir finansų ministro valdymo sričių vidaus tarnybos sistemos pareigūnus ir jų darbo užmokestį;
-
-
-
-
-3) asmenis, atleistus iš valstybės tarnautojo, vidaus tarnybos sistemos pareigūno ar diplomato pareigų už šiurkštų tarnybinį nusižengimą ar už pareigūno vardo pažeminimą;
-
-
-
-
-4) asmenis, kurie įstatymų numatytais atvejais pripažinti padariusiais tarnybinį nusižengimą, už kurį yra pagrindas skirti tarnybinę nuobaudą – atleidimą iš pareigų;
-
-
-
-
-5) valstybės ir savivaldybių institucijų ir įstaigų darbuotojus;
-
-
-
-
-6) valstybės politikus, valstybės pareigūnus ir profesinės karo tarnybos karius – tiek, kiek reikalinga jų tarnybiniams pažymėjimams ar kitoms elektroniniu parašu pasirašyti skirtoms priemonėms pagaminti arba jiems pavaldžių valstybės tarnautojų tarnybinės veiklos vertinimui atlikti ir pareigybėms aprašyti ir vertinti;
-
-
-
-
-7) biudžetinių įstaigų, kurių savininkė yra valstybė, ir viešųjų įstaigų, kurių savininkė ar viena iš dalininkų yra valstybė ar savivaldybė, struktūrą, laisvas ir užimtas pareigybes ir darbuotojus – tiek, kiek reikia biudžetinių įstaigų personalo administravimo ir finansinės apskaitos tvarkymo funkcijoms centralizuotai atlikti Vyriausybės nustatyta tvarka, ir tiek, kiek reikia Dokumentų valdymo bendrosios informacinės sistemos tvarkytojų darbuotojams identifikuoti;
-
-
-
-
-8) vidaus reikalų ministro valdymo srities vidaus tarnybos sistemos pareigūnus, kurių duomenys tvarkomi Vidaus reikalų pareigūnų registre, – tiek, kiek reikia jiems pavaldžių valstybės tarnautojų tarnybinės veiklos vertinimui atlikti, pareigybėms aprašyti ir vertinti, ir tiek, kiek reikia Dokumentų valdymo bendrosios informacinės sistemos tvarkytojų darbuotojams identifikuoti.
-
-
-
-
-
-
-2. Šio straipsnio 1 dalyje nurodyto valstybės registro valdytoja yra Vidaus reikalų ministerija.
-
-
-
-
-3. Šio straipsnio 1 dalyje nurodytam valstybės registrui duomenys neteikiami, jeigu jie priskirtini valstybės ar tarnybos paslapties kategorijai.
+39 straipsnis. Neteko galios nuo 2025-01-01
+Straipsnio naikinimas:
+Nr. XIV-1985, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11556
  
 
 
 
 
-
-
-40 straipsnis. Valstybės tarnybos valdymo informacinė sistema
-
-
-Valstybės tarnybos valdymo informacinė sistema skirta valstybės tarnybos, valstybės ir savivaldybių institucijų ir įstaigų, biudžetinių įstaigų, kurių personalo administravimo ir finansinės apskaitos tvarkymo funkcijos centralizuotai atliekamos Vyriausybės nustatyta tvarka, personalo valdymo ir (ar) administravimo sprendimams priimti, kitoms šiame įstatyme ir su juo susijusiuose teisės aktuose nurodytoms funkcijoms įgyvendinti. 
+40 straipsnis. Neteko galios nuo 2025-01-01
+Straipsnio naikinimas:
+Nr. XIV-1985, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11556
  
-
-
 
 
 
@@ -2420,7 +2373,10 @@ Valstybės tarnybos valdymo informacinė sistema skirta valstybės tarnybos, val
 
 
 
-2. Valstybės tarnautojo pažymėjimai išduodami vadovaujantis šio įstatymo 39 straipsnyje nurodyto registro duomenimis.
+2. Valstybės tarnautojo pažymėjimai išduodami vadovaujantis Viešojo sektoriaus darbuotojų registro duomenimis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1985, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11556
+ 
 
 
 
@@ -2498,24 +2454,27 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ GRUPĖS IR minimalūs PA
  7. 
  vyriausiasis specialistas, specialiojo atašė pavaduotojas, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo kanceliarijoje) 
  savivaldybės tarybos posėdžių sekretorius, savivaldybės mero patarėjas, Respublikos Prezidento referentas, Seimo Pirmininko padėjėjas, Ministro Pirmininko padėjėjas, Seimo frakcijos referentas 
- 0,66 
+ 0,7 
 
 
  8. 
  vyresnysis specialistas 
  Seimo nario patarėjas, Seimo nario padėjėjas, ministro padėjėjas, savivaldybės mero padėjėjas 
- 0,60 
+ 0,67 
 
 
  9. 
  specialistas, teismo administracijos sekretorius, teismo posėdžių sekretorius 
    
- 0,57 
+ 0,64 
 
 
 
 Pastaba. Jeigu savivaldybės teritorijoje yra kurortinė teritorija, vicemerui šio įstatymo 1 priedo 3 punkte nustatytas minimalus pareiginės algos koeficientas didinamas 4 procentais, o jeigu savivaldybės teritorijoje yra kurortas, – 5 procentais.
 ____________________
+Priedo pakeitimai:
+Nr. XV-35, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22107
+ 
 
 
 
@@ -3395,3 +3354,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2450, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25942
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymo Nr. XIV-1985 1 straipsnio pakeitimo įstatymas
+ 
+50.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-35, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22107
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1 priedo pakeitimo įstatymas
