@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2024-12-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-04-14
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -390,12 +390,18 @@ Nr. XIV-1730, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00145
 
 
 
-12) socialinių paslaugų teikimo užtikrinimas planuojant ir organizuojant socialines paslaugas, kontroliuojant bendrųjų socialinių paslaugų ir socialinės priežiūros kokybę, taip pat socialinių paslaugų įstaigų steigimas ir išlaikymas;
+12) socialinių paslaugų teikimo užtikrinimas, jas planuojant ir organizuojant, vertinant prevencinių, bendrųjų socialinių paslaugų, socialinės priežiūros ir laikino atokvėpio paslaugos kokybę, taip pat socialinių paslaugų įstaigų steigimas ir išlaikymas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2360, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25611
+ 
 
 
 
 
-13) gyventojų bendrosios kultūros ugdymas ir etnokultūros puoselėjimas (dalyvavimas kultūros plėtros projektuose, muziejų, teatrų, kultūros centrų ir kitų kultūros įstaigų steigimas, reorganizavimas, pertvarkymas, likvidavimas ir jų veiklos priežiūra, savivaldybių viešųjų bibliotekų steigimas, reorganizavimas, pertvarkymas ir jų veiklos priežiūra);
+13) gyventojų kultūros ugdymas ir etninės kultūros puoselėjimas (dalyvavimas kultūros projektuose ir (ar) jų finansavimas, kultūros įstaigų steigimas, reorganizavimas, pertvarkymas, likvidavimas ir jų veiklos priežiūra);
+Straipsnio punkto pakeitimai:
+Nr. XIV-2763, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11410
+ 
 
 
 
@@ -4439,7 +4445,17 @@ Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 
 
 
-13. Savivaldybių kontrolės ir audito tarnybos gali jungtis į asociacijas.
+13. Savivaldybės kontrolės ir audito tarnybos vidaus auditas savivaldybės tarybos iniciatyva atliekamas ne rečiau kaip kartą per 5 metus, nepriklausomo vidaus audito paslaugas įsigyjant Viešųjų pirkimų įstatymo nustatyta tvarka iš savivaldybės kontrolės ir audito tarnybai skirtų asignavimų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
+
+
+
+
+14. Savivaldybių kontrolės ir audito tarnybos gali jungtis į asociacijas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
  
 
 
@@ -5648,3 +5664,8 @@ Dėl Lietuvos Respublikos vietos savivaldos įstatymo 55 straipsnio 3 dalies (2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3043, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18467
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 67 straipsnio pakeitimo įstatymas
+ 
+85.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2763, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11410
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 straipsnio pakeitimo įstatymas
