@@ -21,7 +21,7 @@ SRITYJE, ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2024-05-31 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-01-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 85-4135, i. k. 1111010ISTA0XI-1491
  
@@ -2742,7 +2742,15 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 
 
 
-5) perkančioji organizacija turi kompetentingų institucijų informacijos, kad šios dalies 1 ir 2 punktuose nurodyti subjektai turi interesų, galinčių kelti grėsmę nacionaliniam saugumui. 
+5) perkančioji organizacija turi kompetentingų institucijų informacijos, kad šios dalies 1 ir 2 punktuose nurodyti subjektai turi interesų, galinčių kelti grėsmę nacionaliniam saugumui;
+
+
+
+
+6) tiekėjas, jo subtiekėjas, ūkio subjektas, kurio pajėgumais remiamasi, vykdo veiklą Viešųjų pirkimų įstatymo 92 straipsnio 15 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose arba yra ūkio subjektų grupės, kurios bet kuris narys vykdo veiklą Viešųjų pirkimų įstatymo 92 straipsnio 15 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose, narys arba jos vadovas, kitas valdymo ar priežiūros organo narys ar kitas (kiti) asmuo (asmenys), turintis (turintys) teisę atstovauti tiekėjui, subtiekėjui, ūkio subjektui, kurio pajėgumais remiamasi, ar jį kontroliuoti, jo vardu priimti sprendimą, sudaryti sandorį, ir tokiu būdu dalyvauja tokių ūkio subjektų grupių ir (ar) ūkio subjektų veikloje. 
+Papildyta straipsnio punktu:
+Nr. XIV-3083, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19836
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -2752,11 +2760,12 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 
 
 
-10. Perkančioji organizacija, tikrindama paraiškos ar pasiūlymo atitiktį šio įstatymo 33 straipsnio 9 dalies 1, 2, 3 punktų reikalavimams, iš tiekėjo reikalauja pateikti laisvos formos atitikties deklaraciją. Jeigu perkančiajai organizacijai kyla abejonių dėl tiekėjo nurodytos informacijos, įrodančios šio įstatymo 33 straipsnio 9 dalies 1, 2, 3 punktų reikalavimus, teisingumo, ji privalo paprašyti tiekėjo, kurio pasiūlymas yra pirmas eilėje, prieš nustatydama jo pasiūlymą laimėjusiu, pateikti informaciją patvirtinančius Viešųjų pirkimų įstatymo 51 straipsnio 12 dalyje nurodytus (vieną ar kelis) ar kitus perkančiajai organizacijai priimtinus dokumentus. Perkančioji organizacija šių dokumentų gali paprašyti ir iš kandidatų ar dalyvių bet kuriuo pirkimo procedūros metu, jeigu tai būtina siekiant užtikrinti tinkamą pirkimo procedūros atlikimą. 
+10. Perkančioji organizacija, tikrindama paraiškos ar pasiūlymo atitiktį šio straipsnio 9 dalies 1, 2, 3 ir 6 punktuose nurodytiems reikalavimams, iš tiekėjo reikalauja pateikti laisvos formos atitikties deklaraciją. Jeigu perkančiajai organizacijai kyla abejonių dėl tiekėjo nurodytos informacijos, įrodančios šio straipsnio 9 dalies 1, 2, 3 ir 6 punktuose nurodytų reikalavimų atitiktį, teisingumo, ji privalo paprašyti tiekėjo, kurio pasiūlymas yra pirmas eilėje, prieš nustatydama jo pasiūlymą laimėjusiu, pateikti informaciją patvirtinančius Viešųjų pirkimų įstatymo 51 straipsnio 12 dalyje nurodytus (vieną ar kelis) ar kitus perkančiajai organizacijai priimtinus dokumentus ir (ar) paaiškinimus. Perkančioji organizacija šių dokumentų ir (ar) paaiškinimų gali paprašyti ir iš kandidatų ar dalyvių bet kuriuo pirkimo procedūros metu, jeigu tai būtina siekiant užtikrinti tinkamą pirkimo procedūros atlikimą.
 Papildyta straipsnio dalimi:
 Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
 Straipsnio dalies pakeitimai:
 Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
+Nr. XIV-3083, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19836
  
 
 
@@ -5134,3 +5143,8 @@ Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2648, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09686
 Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 1 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3083, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19836
+Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 33 straipsnio pakeitimo įstatymas
