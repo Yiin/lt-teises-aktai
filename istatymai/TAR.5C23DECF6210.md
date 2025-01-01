@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2024-11-23 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-03-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 86-2045, i. k. 0961010ISTA00I-1508
  
@@ -455,6 +455,14 @@ Nr. XIV-3097, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20356
 
 
 
+20. Vyriausybės skolinimosi valstybės vardu šio įstatymo 4 straipsnio 1 dalies 9 punkte nurodytam tikslui priemonių metinis pelningumas turi būti ne didesnis kaip 2 procentai.
+Papildyta straipsnio dalimi:
+Nr. XIV-2773, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12077
+ 
+
+
+
+
 
 
 4 straipsnis. Vyriausybės skolinimosi valstybės vardu ir valstybės garantijų suteikimo tikslai
@@ -499,6 +507,14 @@ Nr. XIV-3097, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20356
 
 
 8) Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme nustatytiems tikslams ir kitiems tikslams, kai dėl to yra priimtas atskiras įstatymas;
+
+
+
+
+9) Lietuvos Respublikos krašto apsaugos ministerijos įgyvendinamiems projektams, susijusiems su valstybės saugumu ir gynyba, finansuoti.
+Papildyta straipsnio punktu:
+Nr. XIV-2773, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12077
+ 
 
 
 
