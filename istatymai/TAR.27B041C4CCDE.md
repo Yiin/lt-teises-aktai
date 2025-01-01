@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.27B041C4CCDE"
 
 # Lietuvos Respublikos mediacijos įstatymas
 
-Suvestinė redakcija nuo 2024-09-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 87-3462, i. k. 1081010ISTA00X-1702
  
@@ -172,7 +172,15 @@ BENDROSIOS NUOSTATOS
 
 
 
-4) Lietuvos administracinių ginčų komisijos pirmininkas.
+4) Lietuvos administracinių ginčų komisijos pirmininkas;
+
+
+
+
+5) Lietuvos mediatorių rūmai. 
+Papildyta straipsnio punktu:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
 
 
 
@@ -247,7 +255,10 @@ BENDROSIOS NUOSTATOS
 4. Valstybės garantuojamos teisinės pagalbos tarnyba:
 
 
-1) sudaro ir tvarko Lietuvos Respublikos mediatorių sąrašą;
+1) Neteko galios nuo 2025-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
 
 
 
@@ -257,7 +268,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3) organizuoja mediatorių kvalifikacinį egzaminą;
+3) Neteko galios nuo 2025-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
 
 
 
@@ -294,17 +308,79 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Teisingumo ministerijai pavestų funkcijų mediacijos srityje įgyvendinimą padeda užtikrinti mediacijos koordinavimo taryba (toliau – koordinavimo taryba). Koordinavimo taryba yra kolegiali patariamoji visuomeniniais pagrindais veikianti institucija.
+6. Lietuvos mediatorių rūmai:
+
+
+1) sudaro ir tvarko Lietuvos Respublikos mediatorių sąrašą;
 
 
 
 
-7. Koordinavimo tarybą sudaro Teisingumo ministerijos, Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos, Lietuvos advokatūros, Lietuvos antstolių rūmų, Lietuvos notarų rūmų, Lietuvos administracinių ginčų komisijos, Teisėjų tarybos, mokslo ir studijų institucijų, kitų institucijų ir asociacijų, vienijančių mediatorius, atstovai. Koordinavimo tarybos nuostatus ir sudėtį tvirtina teisingumo ministras.
+2) organizuoja mediatorių kvalifikacinį egzaminą;
 
 
 
 
-8. Koordinavimo taryba:
+3) organizuoja ir įgyvendina mediatorių kvalifikacijos tobulinimą, atlieka šio tobulinimo priežiūrą ir tvarko duomenis apie mediatorių kvalifikacijos tobulinimą;
+
+
+
+
+4) tvarko metinių mediatorių veiklos ataskaitų apie įvykdytas mediacijas duomenis;
+
+
+
+
+5) organizuoja ir įgyvendina mediatorių veiklos vertinimą;
+
+
+
+
+6) imasi mediatorių veiklos praktikos vienodinimo priemonių;
+
+
+
+
+7) atstovauja mediatorių, kurie yra Lietuvos mediatorių rūmų nariai, interesams ir juos gina valstybinės valdžios, valdymo ir užsienio valstybių institucijose, tarptautinėse ir kitose organizacijose; 
+
+
+
+
+8) šviečia visuomenę mediacijos klausimais;
+
+
+
+
+9) atlieka kitas šiame įstatyme, kituose teisės aktuose ir Lietuvos mediatorių rūmų įstatuose nustatytas funkcijas mediacijos srityje. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
+
+
+
+
+7. Teisingumo ministerijai pavestų funkcijų mediacijos srityje įgyvendinimą padeda užtikrinti mediacijos koordinavimo taryba (toliau – koordinavimo taryba). Koordinavimo taryba yra kolegiali patariamoji visuomeniniais pagrindais veikianti institucija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
+
+
+
+
+8. Koordinavimo tarybą sudaro Teisingumo ministerijos, Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos, Lietuvos advokatūros, Lietuvos antstolių rūmų, Lietuvos notarų rūmų, Lietuvos mediatorių rūmų, Lietuvos administracinių ginčų komisijos, Teisėjų tarybos, mokslo ir studijų institucijų, kitų institucijų ir asociacijų, vienijančių mediatorius, atstovai. Koordinavimo tarybos nuostatus ir sudėtį tvirtina teisingumo ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
+
+
+
+
+9. Koordinavimo taryba:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
 
 
 1) teikia pasiūlymus dėl mediacijos teisinio reguliavimo ir praktinio taikymo tobulinimo;
@@ -323,11 +399,43 @@ BENDROSIOS NUOSTATOS
 
 
 4) teikia pasiūlymus dėl iš valstybės biudžeto lėšų finansuojamo užmokesčio už mediaciją.
+
+
+
+
+
+
+
+
+31 straipsnis. Mediatorių savivalda
+
+
+1. Mediatorių savivaldą įgyvendina Lietuvos mediatorių rūmai. Lietuvos mediatorių rūmai yra ribotos civilinės atsakomybės viešasis juridinis asmuo, jo teisinė forma – asociacija.
+
+
+
+
+2. Lietuvos mediatorių rūmų veiklą reglamentuoja šis įstatymas, Lietuvos Respublikos asociacijų įstatymas ir Lietuvos mediatorių rūmų įstatai.
+
+
+
+
+3. Lietuvos mediatorių rūmai atlieka šio įstatymo 3 straipsnio 6 dalyje nustatytas funkcijas.
+
+
+
+
+4. Kiekvienas mediatorius, įrašytas į Lietuvos Respublikos mediatorių sąrašą, išskyrus mediatorius, kurie yra teisėjai, yra Lietuvos mediatorių rūmų narys. Mediatoriaus narystė Lietuvos mediatorių rūmuose sustabdoma mediatoriui laikinai sustabdžius mediatoriaus veiklą šio įstatymo 10 straipsnyje nustatytais atvejais ir tvarka.
+
+
+
+
+5. Lietuvos mediatorių rūmai, atlikdami šio įstatymo 3 straipsnio 6 dalyje nustatytas funkcijas, turi teisę gauti iš kitų mediacijos valdymo subjektų šioms funkcijoms atlikti reikalingą informaciją, duomenis, dokumentus ar dokumentų nuorašus.
+
+
+Papildyta straipsniu:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
  
-
-
-
-
 
 
 
@@ -380,7 +488,17 @@ Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 
 
-8. Šio straipsnio 7 dalyje nurodyti asmenys, prieš pradėdami laikinai teikti mediacijos paslaugas Lietuvos Respublikoje, privalo raštu informuoti Valstybės garantuojamos teisinės pagalbos tarnybą apie ketinimą laikinai teikti mediacijos paslaugas Lietuvos Respublikoje. Šie asmenys, laikinai teikdami mediacijos paslaugas Lietuvos Respublikoje, privalo informuoti ginčo šalis, kad laikinai teikia mediacijos paslaugas savo valstybės suteiktu mediatoriaus vardu, ir nurodyti, kokie šio įstatymo reikalavimai jiems netaikomi. Šio straipsnio 7 dalyje nurodyti asmenys, baigę laikinai teikti mediacijos paslaugas Lietuvos Respublikoje, privalo nedelsdami raštu informuoti Valstybės garantuojamos teisinės pagalbos tarnybą, kad baigė laikinai teikti mediacijos paslaugas Lietuvos Respublikoje.
+8. Šio straipsnio 7 dalyje nurodyti asmenys, prieš pradėdami laikinai teikti mediacijos paslaugas Lietuvos Respublikoje, privalo raštu informuoti Lietuvos mediatorių rūmus apie ketinimą laikinai teikti mediacijos paslaugas Lietuvos Respublikoje. Šie asmenys, laikinai teikdami mediacijos paslaugas Lietuvos Respublikoje, privalo informuoti ginčo šalis, kad laikinai teikia mediacijos paslaugas savo valstybės suteiktu mediatoriaus vardu, ir nurodyti, kokie šio įstatymo reikalavimai jiems netaikomi. Šio straipsnio 7 dalyje nurodyti asmenys, baigę laikinai teikti mediacijos paslaugas Lietuvos Respublikoje, privalo nedelsdami raštu informuoti Lietuvos mediatorių rūmus, kad baigė laikinai teikti mediacijos paslaugas Lietuvos Respublikoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
+
+
+
+
+9. Mediatorius, įrašytas į Lietuvos Respublikos mediatorių sąrašą, kasmet iki kovo 1 dienos privalo pateikti metinę mediatoriaus veiklos ataskaitą apie praėjusiais kalendoriniais metais įvykdytas mediacijas, nurodydamas jų rūšį ir skaičių. Pranešimą apie mediatorių, nepateikusį metinės mediatoriaus veiklos ataskaitos, Lietuvos mediatorių rūmai perduoda mediatorių veiklos vertinimo komisijai. Lietuvos mediatorių rūmai kasmet iki balandžio 1 dienos Lietuvos mediatorių rūmų interneto svetainėje paskelbia apibendrintą ataskaitą apie praėjusiais kalendoriniais metais mediatorių įvykdytas mediacijas. Metinės mediatoriaus veiklos ataskaitos teikimo tvarką nustato teisingumo ministras, suderinęs su Lietuvos mediatorių rūmais. Šioje dalyje nustatytas reikalavimas netaikomas mediatoriams, kurie yra teisėjai.
+Papildyta straipsnio dalimi:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
  
 
 
@@ -391,37 +509,37 @@ Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 5 straipsnis. Lietuvos Respublikos mediatorių sąrašas
 
 
-1. Lietuvos Respublikos mediatorių sąrašą sudaro ir tvarko Valstybės garantuojamos teisinės pagalbos tarnyba.
+1. Lietuvos Respublikos mediatorių sąrašą sudaro ir tvarko Lietuvos mediatorių rūmai.
 
 
 
 
-2. Teisėjų, kuriems suteiktas mediatoriaus statusas, sąrašą Teisėjų tarybos nustatyta tvarka tvarko Nacionalinė teismų administracija. Nacionalinė teismų administracija Teisėjų tarybos nustatyta tvarka teikia Valstybės garantuojamos teisinės pagalbos tarnybai šio straipsnio 4 dalyje nurodytus duomenis apie mediatorius, kurie yra teisėjai. Nacionalinė teismų administracija pateikia duomenis apie teisėjus, kuriems suteiktas ar panaikintas mediatoriaus statusas, Valstybės garantuojamos teisinės pagalbos tarnybai ne vėliau kaip per tris darbo dienas nuo atitinkamo sprendimo priėmimo dienos. Mediatoriai, kurie yra teisėjai, įrašomi į Lietuvos Respublikos mediatorių sąrašą. 
+2. Teisėjų, kuriems suteiktas mediatoriaus statusas, sąrašą Teisėjų tarybos nustatyta tvarka tvarko Nacionalinė teismų administracija. Nacionalinė teismų administracija Teisėjų tarybos nustatyta tvarka teikia Lietuvos mediatorių rūmams šio straipsnio 4 dalyje nurodytus duomenis apie mediatorius, kurie yra teisėjai. Nacionalinė teismų administracija pateikia duomenis apie teisėjus, kuriems suteiktas ar panaikintas mediatoriaus statusas, Lietuvos mediatorių rūmams ne vėliau kaip per tris darbo dienas nuo atitinkamo sprendimo priėmimo dienos. Mediatoriai, kurie yra teisėjai, įrašomi į Lietuvos Respublikos mediatorių sąrašą.
 
 
 
 
-3. Mediatorius turi pranešti Valstybės garantuojamos teisinės pagalbos tarnybai apie savo duomenų, nurodytų Lietuvos Respublikos mediatorių sąraše, pasikeitimą per penkias darbo dienas nuo duomenų pasikeitimo dienos. Mediatorius, kuris yra teisėjas, apie savo duomenų, nurodytų Lietuvos Respublikos mediatorių sąraše, pasikeitimą Teisėjų tarybos nustatyta tvarka praneša Nacionalinei teismų administracijai. Nacionalinė teismų administracija šio straipsnio 2 dalyje nustatyta tvarka informuoja Valstybės garantuojamos teisinės pagalbos tarnybą apie mediatorių, kurie yra teisėjai, duomenų pasikeitimą. 
+3. Mediatorius turi pranešti Lietuvos mediatorių rūmams apie savo duomenų, nurodytų Lietuvos Respublikos mediatorių sąraše, pasikeitimą per penkias darbo dienas nuo duomenų pasikeitimo dienos. Mediatorius, kuris yra teisėjas, apie savo duomenų, nurodytų Lietuvos Respublikos mediatorių sąraše, pasikeitimą Teisėjų tarybos nustatyta tvarka praneša Nacionalinei teismų administracijai. Nacionalinė teismų administracija šio straipsnio 2 dalyje nustatyta tvarka informuoja Lietuvos mediatorių rūmus apie mediatorių, kurie yra teisėjai, duomenų pasikeitimą.
 
 
 
 
-4. Lietuvos Respublikos mediatorių sąraše turi būti nurodyta: mediatoriaus vardas, pavardė, profesinė kvalifikacija, adresas korespondencijai, telefono numeris, elektroninio pašto adresas ir (ar) kiti kontaktiniai duomenys, mediatoriaus specializacija (specializacijos), veiklos teritorija (teritorijos), mediatoriaus gyvenimo aprašymas.
+4. Lietuvos Respublikos mediatorių sąraše turi būti nurodyta: mediatoriaus vardas, pavardė, profesinė kvalifikacija, adresas korespondencijai, telefono numeris, elektroninio pašto adresas ir (ar) kiti kontaktiniai duomenys, mediatoriaus specializacija (specializacijos), veiklos teritorija (teritorijos) ir mediatoriaus darbo kalba (kalbos).
 
 
 
 
-5. Lietuvos Respublikos mediatorių sąrašas, taip pat informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje, sudaromi ir tvarkomi teisingumo ministro nustatyta tvarka. Siekdama sudaryti ir tvarkyti Lietuvos Respublikos mediatorių sąrašą, taip pat informaciją apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje, šio įstatymo nustatyta tvarka iš Lietuvos Respublikos mediatorių sąrašo parinkti ir skirti mediatorių, Valstybės garantuojamos teisinės pagalbos tarnyba turi teisę tvarkyti šio straipsnio 4 dalyje nurodytus mediatorių duomenis, šio straipsnio 6 dalyje nurodytus laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančių asmenų duomenis ir duomenis apie šio įstatymo 29 straipsnyje nustatyta tvarka mediatoriams ir laikinai mediacijos paslaugas Lietuvos Respublikoje teikiantiems asmenims, nurodytiems šio įstatymo 4 straipsnio 7 dalyje, pareikštus viešus įspėjimus.
+5. Lietuvos Respublikos mediatorių sąrašas, taip pat informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje, sudaromi ir tvarkomi teisingumo ministro nustatyta tvarka, suderinta su Lietuvos mediatorių rūmais. Lietuvos mediatorių rūmai, siekdami sudaryti ir tvarkyti Lietuvos Respublikos mediatorių sąrašą, taip pat informaciją apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje, ir Valstybės garantuojamos teisinės pagalbos tarnyba, siekdama šio įstatymo nustatyta tvarka iš Lietuvos Respublikos mediatorių sąrašo parinkti ir skirti mediatorių, turi teisę tvarkyti šio straipsnio 4 dalyje nurodytus mediatorių duomenis, šio straipsnio 6 dalyje nurodytus laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančių asmenų duomenis ir duomenis apie šio įstatymo 29 straipsnyje nustatyta tvarka mediatoriams ir laikinai mediacijos paslaugas Lietuvos Respublikoje teikiantiems asmenims, nurodytiems šio įstatymo 4 straipsnio 7 dalyje, pareikštus viešus įspėjimus.
 
 
 
 
-6. Visuomenės informavimo tikslais Lietuvos Respublikos mediatorių sąrašas skelbiamas Valstybės garantuojamos teisinės pagalbos tarnybos interneto svetainėje ir Teisinės pagalbos paslaugų informacinėje sistemoje. Tais pačiais tikslais Valstybės garantuojamos teisinės pagalbos tarnybos interneto svetainėje ir Teisinės pagalbos paslaugų informacinėje sistemoje taip pat skelbiama ši informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje: asmens vardas, pavardė, profesinė kvalifikacija, adresas korespondencijai, telefono numeris, elektroninio pašto adresas ir (ar) kiti kontaktiniai duomenys, Europos Sąjungos valstybė narė, Europos ekonominės erdvės valstybė ar kita užsienio valstybė, kurios kompetentinga institucija yra suteikusi asmeniui teisę teikti mediacijos paslaugas. Šio straipsnio 4 dalyje nurodyti mediatoriaus duomenys skelbiami tol, kol mediatorius šio įstatymo 9 straipsnyje nustatyta tvarka išbraukiamas iš Lietuvos Respublikos mediatorių sąrašo. Informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje, skelbiama tol, kol šie asmenys šio įstatymo 4 straipsnio 8 dalyje nustatyta tvarka informuoja Valstybės garantuojamos teisinės pagalbos tarnybą, kad baigė laikinai teikti mediacijos paslaugas Lietuvos Respublikoje.
-Straipsnio dalies pakeitimai:
-Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
+6. Visuomenės informavimo tikslais Lietuvos Respublikos mediatorių sąrašas skelbiamas Lietuvos mediatorių rūmų interneto svetainėje ir Teisinės pagalbos paslaugų informacinėje sistemoje. Tais pačiais tikslais Lietuvos mediatorių rūmų interneto svetainėje ir Teisinės pagalbos paslaugų informacinėje sistemoje taip pat skelbiama ši informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje: asmens vardas, pavardė, profesinė kvalifikacija, adresas korespondencijai, telefono numeris, elektroninio pašto adresas ir (ar) kiti kontaktiniai duomenys, darbo kalba (kalbos), Europos Sąjungos valstybė narė, Europos ekonominės erdvės valstybė ar kita užsienio valstybė, kurios kompetentinga institucija yra suteikusi asmeniui teisę teikti mediacijos paslaugas. Šio straipsnio 4 dalyje nurodyti mediatoriaus duomenys skelbiami tol, kol mediatorius šio įstatymo 9 straipsnyje nustatyta tvarka išbraukiamas iš Lietuvos Respublikos mediatorių sąrašo. Informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje, skelbiama tol, kol šie asmenys šio įstatymo 4 straipsnio 8 dalyje nustatyta tvarka informuoja Lietuvos mediatorių rūmus, kad baigė laikinai teikti mediacijos paslaugas Lietuvos Respublikoje.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
  
-
-
 
 
 
@@ -437,12 +555,12 @@ Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 
 
-2) būti išklausę ne trumpesnius kaip 40 akademinių valandų mokymus mediacijos tema ne anksčiau kaip prieš penkerius metus iki kreipimosi dėl įrašymo į Lietuvos Respublikos mediatorių sąrašą dienos;
+2) būti išklausę ne trumpesnius kaip 48 akademinių valandų mokymus mediacijos tema ne anksčiau kaip prieš penkerius metus iki kreipimosi dėl įrašymo į Lietuvos Respublikos mediatorių sąrašą dienos;
 
 
 
 
-3) išlaikyti mediatorių kvalifikacinį egzaminą; 
+3) išlaikyti mediatorių kvalifikacinį egzaminą;
 
 
 
@@ -459,10 +577,10 @@ Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 
 
-3. Asmuo, siekiantis būti įrašytas į Lietuvos Respublikos mediatorių sąrašą, Valstybės garantuojamos teisinės pagalbos tarnybai pateikia:
+3. Asmuo, siekiantis būti įrašytas į Lietuvos Respublikos mediatorių sąrašą, Lietuvos mediatorių rūmams pateikia:
 
 
-1) prašymą įrašyti į Lietuvos Respublikos mediatorių sąrašą ir jame nurodo savo vardą, pavardę, profesinę kvalifikaciją, adresą korespondencijai, telefono numerį, elektroninio pašto adresą ir (ar) kitus kontaktinius duomenis, specializaciją (specializacijas), veiklos teritoriją (teritorijas);
+1) prašymą įrašyti į Lietuvos Respublikos mediatorių sąrašą ir jame nurodo savo vardą, pavardę, profesinę kvalifikaciją, adresą korespondencijai, telefono numerį, elektroninio pašto adresą ir (ar) kitus kontaktinius duomenis, specializaciją (specializacijas), veiklos teritoriją (teritorijas) ir darbo kalbą (kalbas);
 
 
 
@@ -472,47 +590,44 @@ Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 
 
-3) gyvenimo aprašymą; 
-
-
-
-
-4) savo pasirašytą patvirtinimą, kad jis atitinka nepriekaištingos reputacijos reikalavimą.
+3) savo pasirašytą patvirtinimą, kad jis atitinka nepriekaištingos reputacijos reikalavimą.
 
 
 
 
 
 
-4. Į Lietuvos Respublikos mediatorių sąrašą asmenys įrašomi Valstybės garantuojamos teisinės pagalbos tarnybos sprendimu. Valstybės garantuojamos teisinės pagalbos tarnyba priima sprendimą įrašyti asmenį į Lietuvos Respublikos mediatorių sąrašą ir įrašo asmenį į Lietuvos Respublikos mediatorių sąrašą ne vėliau kaip per penkiolika darbo dienų nuo prašymo įrašyti į Lietuvos Respublikos mediatorių sąrašą ir kitų teisės aktų reikalavimus atitinkančių dokumentų, įrodančių, kad asmuo atitinka šiame straipsnyje nustatytus reikalavimus, gavimo dienos. Valstybės garantuojamos teisinės pagalbos tarnyba priima sprendimą neįrašyti asmens į Lietuvos Respublikos mediatorių sąrašą, kai asmuo neatitinka šio straipsnio 1 dalyje nurodytų reikalavimų ir nėra šio straipsnio 2 dalyje nurodytų aplinkybių. Apie sprendimą įrašyti asmenį į Lietuvos Respublikos mediatorių sąrašą ir asmens įrašymą į Lietuvos Respublikos mediatorių sąrašą arba apie sprendimą neįrašyti asmens į Lietuvos Respublikos mediatorių sąrašą Valstybės garantuojamos teisinės pagalbos tarnyba asmeniui praneša raštu ne vėliau kaip per tris darbo dienas nuo atitinkamo sprendimo priėmimo dienos. Valstybės garantuojamos teisinės pagalbos tarnyba apie šioje dalyje nurodytus sprendimus asmeniui praneša tokiu būdu, kokiu asmuo pateikė prašymą arba kokį asmuo nurodė prašyme. Asmeniui, kuris į Valstybės garantuojamos teisinės pagalbos tarnybą kreipėsi tiesiogiai, šioje dalyje nurodytas Valstybės garantuojamos teisinės pagalbos tarnybos pranešimas siunčiamas paštu ar kitu jo prašyme nurodytu būdu arba pateikiamas tiesiogiai Valstybės garantuojamos teisinės pagalbos tarnyboje. 
+4. Į Lietuvos Respublikos mediatorių sąrašą asmenys įrašomi Lietuvos mediatorių rūmų sprendimu. Lietuvos mediatorių rūmai priima sprendimą įrašyti asmenį į Lietuvos Respublikos mediatorių sąrašą ir įrašo jį į šį sąrašą ne vėliau kaip per penkiolika darbo dienų nuo prašymo įrašyti į Lietuvos Respublikos mediatorių sąrašą ir kitų teisės aktų reikalavimus atitinkančių dokumentų, įrodančių, kad asmuo atitinka šiame straipsnyje nustatytus reikalavimus, gavimo dienos. Lietuvos mediatorių rūmai priima sprendimą neįrašyti asmens į Lietuvos Respublikos mediatorių sąrašą, kai asmuo neatitinka šio straipsnio 1 dalyje nurodytų reikalavimų ir nėra šio straipsnio 2 dalyje nurodytų aplinkybių. Apie sprendimą įrašyti asmenį į Lietuvos Respublikos mediatorių sąrašą ir asmens įrašymą į šį sąrašą arba apie sprendimą neįrašyti asmens į Lietuvos Respublikos mediatorių sąrašą Lietuvos mediatorių rūmai asmeniui praneša raštu ne vėliau kaip per tris darbo dienas nuo atitinkamo sprendimo priėmimo dienos. Lietuvos mediatorių rūmai apie šioje dalyje nurodytus sprendimus asmeniui praneša tokiu būdu, kokiu asmuo pateikė prašymą arba kokį nurodė prašyme. Asmeniui, kuris į Lietuvos mediatorių rūmus kreipėsi tiesiogiai, šioje dalyje nurodytas Lietuvos mediatorių rūmų pranešimas siunčiamas paštu ar kitu jo prašyme nurodytu būdu arba pateikiamas tiesiogiai Lietuvos mediatorių rūmuose. Mokėjimo už įrašymą į Lietuvos Respublikos mediatorių sąrašą dydį, įvertinęs įrašymo į Lietuvos Respublikos mediatorių sąrašą sąnaudas, ir tvarką nustato teisingumo ministras, suderinęs su Lietuvos mediatorių rūmais.
 
 
 
 
-5. Valstybės garantuojamos teisinės pagalbos tarnybos sprendimai dėl asmenų įrašymo į Lietuvos Respublikos mediatorių sąrašą gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
+5. Lietuvos mediatorių rūmų sprendimai dėl asmenų įrašymo į Lietuvos Respublikos mediatorių sąrašą gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 
 
-6. Šio straipsnio 3 ir 4 dalių nuostatos netaikomos teisėjams, pageidaujantiems vykdyti mediatorių veiklą. Teisėjams, atitinkantiems mediatoriams taikomus reikalavimus ir pageidaujantiems vykdyti mediatorių veiklą, mediatoriaus statusą Teisėjų tarybos nustatyta tvarka suteikia ir panaikina Teisėjų tarybos sudaryta teisminės mediacijos komisija. 
+6. Šio straipsnio 3 ir 4 dalių nuostatos netaikomos teisėjams, pageidaujantiems vykdyti mediatorių veiklą. Teisėjams, atitinkantiems mediatoriams taikomus reikalavimus ir pageidaujantiems vykdyti mediatorių veiklą, mediatoriaus statusą Teisėjų tarybos nustatyta tvarka suteikia ir panaikina Teisėjų tarybos sudaryta teisminės mediacijos komisija.
 
 
 
 
-7. Šio straipsnio 1 dalies 2 punkte nurodytų mokymų mediacijos tema minimalius reikalavimus nustato teisingumo ministras.
+7. Šio straipsnio 1 dalies 2 punkte nurodytų mokymų mediacijos tema minimalius reikalavimus nustato teisingumo ministras, suderinęs su Lietuvos mediatorių rūmais.
 
 
 
 
-8. Prašymus įrašyti į Lietuvos Respublikos mediatorių sąrašą ir kitus šio straipsnio 3 dalyje nurodytus dokumentus Valstybės garantuojamos teisinės pagalbos tarnybai asmenys gali pateikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą, kaip šis apibrėžtas Lietuvos Respublikos paslaugų įstatyme, arba kreipdamiesi tiesiogiai į Valstybės garantuojamos teisinės pagalbos tarnybą. Apie gautus dokumentus Valstybės garantuojamos teisinės pagalbos tarnyba asmenims praneša raštu ne vėliau kaip per tris darbo dienas nuo dokumentų gavimo dienos.
+8. Prašymus įrašyti į Lietuvos Respublikos mediatorių sąrašą ir kitus šio straipsnio 3 dalyje nurodytus dokumentus Lietuvos mediatorių rūmams asmenys gali pateikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą, kaip šis apibrėžtas Lietuvos Respublikos paslaugų įstatyme, elektroninėmis ryšių priemonėmis, jeigu yra galimybė nustatyti asmens tapatybę, arba kreipdamiesi tiesiogiai į Lietuvos mediatorių rūmus. Apie gautus dokumentus Lietuvos mediatorių rūmai asmenims praneša raštu ne vėliau kaip per tris darbo dienas nuo dokumentų gavimo dienos.
 
 
 
 
-9. Siekdama priimti sprendimus dėl asmenų įrašymo į Lietuvos Respublikos mediatorių sąrašą, Valstybės garantuojamos teisinės pagalbos tarnyba turi teisę tvarkyti šio straipsnio 3 dalyje nurodytus asmenų, siekiančių būti įrašytų į Lietuvos Respublikos mediatorių sąrašą, duomenis.
+9. Lietuvos mediatorių rūmai, siekdami priimti sprendimus dėl asmenų įrašymo į Lietuvos Respublikos mediatorių sąrašą, turi teisę tvarkyti šio straipsnio 3 dalyje nurodytus asmenų, siekiančių būti įrašytų į Lietuvos Respublikos mediatorių sąrašą, duomenis.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
  
-
-
 
 
 
@@ -555,7 +670,9 @@ Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 
 
-2. Valstybės garantuojamos teisinės pagalbos tarnyba, gavusi duomenų, keliančių pagrįstų abejonių dėl asmens atitikties nepriekaištingos reputacijos reikalavimams, ir siekdama išsiaiškinti, ar asmuo atitinka nepriekaištingos reputacijos reikalavimus, turi teisę motyvuotu rašytiniu prašymu kreiptis į Informatikos ir ryšių departamentą prie Lietuvos Respublikos vidaus reikalų ministerijos, Valstybės tarnybos departamentą, teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, kad šios pateiktų apie šį asmenį jų turimą informaciją. Šioje dalyje nurodytos institucijos, įstaigos ir įmonės prašomą informaciją turi pateikti ne vėliau kaip per penkias darbo dienas nuo prašymo pateikti informaciją gavimo dienos.
+2. Lietuvos mediatorių rūmai, gavę duomenų, keliančių pagrįstų abejonių dėl asmens atitikties nepriekaištingos reputacijos reikalavimams, ir siekdami išsiaiškinti, ar asmuo atitinka nepriekaištingos reputacijos reikalavimus, turi teisę motyvuotu rašytiniu prašymu kreiptis į Informatikos ir ryšių departamentą prie Lietuvos Respublikos vidaus reikalų ministerijos, Viešojo valdymo agentūrą, teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, kad šios pateiktų apie šį asmenį savo turimą informaciją. Šioje dalyje nurodytos institucijos, įstaigos ir įmonės prašomą informaciją turi pateikti ne vėliau kaip per penkias darbo dienas nuo prašymo pateikti informaciją gavimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
  
 
 
@@ -571,15 +688,17 @@ Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 
 
-2. Mediatoriai privalo kas penkeri metai pateikti Valstybės garantuojamos teisinės pagalbos tarnybai kvalifikacijos tobulinimą įrodančius dokumentus. 
+2. Mediatoriai privalo kas trejus metus pateikti Lietuvos mediatorių rūmams kvalifikacijos tobulinimą įrodančius dokumentus.
 
 
 
 
-3. Mediatorių kvalifikacijos tobulinimo tvarką nustato teisingumo ministras. Mediatorių, kurie yra teisėjai, kvalifikacijos tobulinimo tvarką nustato Teisėjų taryba.
+3. Mediatorių kvalifikacijos tobulinimo tvarką nustato teisingumo ministras, suderinęs su Lietuvos mediatorių rūmais. Mediatorių, kurie yra teisėjai, kvalifikacijos tobulinimo tvarką nustato Teisėjų taryba.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
  
-
-
 
 
 
@@ -587,7 +706,7 @@ Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 9 straipsnis. Išbraukimas iš Lietuvos Respublikos mediatorių sąrašo
 
 
-1. Valstybės garantuojamos teisinės pagalbos tarnybos sprendimu mediatorius išbraukiamas iš Lietuvos Respublikos mediatorių sąrašo šiais atvejais:
+1. Lietuvos mediatorių rūmų sprendimu mediatorius išbraukiamas iš Lietuvos Respublikos mediatorių sąrašo šiais atvejais:
 
 
 1) kai mediatorius miršta;
@@ -600,7 +719,7 @@ Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 
 
-3) kai mediatorius nesilaiko šio įstatymo 8 straipsnio 1 dalyje nustatyto reikalavimo nuolat tobulinti kvalifikaciją ar Valstybės garantuojamos teisinės pagalbos tarnybai nepateikia kvalifikacijos tobulinimą įrodančių dokumentų;
+3) kai mediatorius nesilaiko šio įstatymo 8 straipsnio 1 dalyje nustatyto reikalavimo nuolat tobulinti kvalifikaciją ar Lietuvos mediatorių rūmams nepateikia kvalifikacijos tobulinimą įrodančių dokumentų;
 
 
 
@@ -615,14 +734,20 @@ Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 
 
-6) kai mediatorius per šio įstatymo 10 straipsnio 1 dalies 1 punkte nurodytą terminą nepateikia prašymo įrašyti į Lietuvos Respublikos mediatorių sąrašą.
+6) kai mediatorius per šio įstatymo 10 straipsnio 1 dalies 1 punkte nurodytą terminą nepateikia prašymo įrašyti į Lietuvos Respublikos mediatorių sąrašą. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
 
 
 
 
-
-
-2. Apie šio straipsnio 1 dalyje nurodytą sprendimą išbraukti mediatorių iš Lietuvos Respublikos mediatorių sąrašo asmeniui pranešama raštu ne vėliau kaip per tris darbo dienas nuo sprendimo priėmimo dienos. Kai yra pagrindas išbraukti mediatorių iš Lietuvos Respublikos mediatorių sąrašo nors vienu iš šio straipsnio 1 dalies 3, 4 ir 6 punktuose nurodytų atvejų, mediatorius įspėjamas raštu ir nustatomas dešimt darbo dienų terminas mediatoriaus veiklos trūkumams pašalinti. Mediatorius, kuris per šį dešimt darbo dienų terminą nepašalina nurodytų veiklos trūkumų ar Valstybės garantuojamos teisinės pagalbos tarnybai nepateikia dokumentų, įrodančių, kad mediatoriaus veiklos trūkumai pašalinti, išbraukiamas iš Lietuvos Respublikos mediatorių sąrašo.
+2. Apie šio straipsnio 1 dalyje nurodytą sprendimą išbraukti mediatorių iš Lietuvos Respublikos mediatorių sąrašo asmeniui pranešama raštu ne vėliau kaip per tris darbo dienas nuo sprendimo priėmimo dienos. Kai yra pagrindas išbraukti mediatorių iš Lietuvos Respublikos mediatorių sąrašo nors vienu iš šio straipsnio 1 dalies 3, 4 ir 6 punktuose nurodytų atvejų, mediatorius įspėjamas raštu ir nustatomas trisdešimties dienų terminas mediatoriaus veiklos trūkumams pašalinti. Mediatorius, kuris per šį terminą nepašalina nurodytų veiklos trūkumų ar Lietuvos mediatorių rūmams nepateikia dokumentų, įrodančių, kad mediatoriaus veiklos trūkumai pašalinti, išbraukiamas iš Lietuvos Respublikos mediatorių sąrašo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
 
 
 
@@ -670,10 +795,10 @@ Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 
 
-10 straipsnis. Laikinas mediatoriaus veiklos sustabdymas 
+10 straipsnis. Laikinas mediatoriaus veiklos sustabdymas
 
 
-1. Valstybės garantuojamos teisinės pagalbos tarnybos sprendimu mediatoriaus veikla laikinai sustabdoma šiais atvejais:
+1. Lietuvos mediatorių rūmų sprendimu mediatoriaus veikla laikinai sustabdoma šiais atvejais:
 
 
 1) paties mediatoriaus prašymu; šiuo pagrindu mediatoriaus veikla gali būti laikinai sustabdyta ne ilgesniam negu penkerių metų laikotarpiui;
@@ -681,14 +806,14 @@ Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 
 
-2) kai mediatorius yra įtariamas ar kaltinamas nusikalstamos veikos, nurodytos šio įstatymo 7 straipsnio 1 dalies 1, 2, 3 punktuose, padarymu.
+2) kai mediatorius yra įtariamas ar kaltinamas nusikalstamos veikos, nurodytos šio įstatymo 7 straipsnio 1 dalies 1, 2 ir 3 punktuose, padarymu.
 
 
 
 
 
 
-2. Valstybės garantuojamos teisinės pagalbos tarnybos sprendimu mediatoriaus veikla atnaujinama:
+2. Lietuvos mediatorių rūmų sprendimu mediatoriaus veikla atnaujinama:
 
 
 1) paties mediatoriaus prašymu – kai mediatoriaus veikla buvo laikinai sustabdyta šio straipsnio 1 dalies 1 punkte nurodytu atveju;
@@ -703,7 +828,7 @@ Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 
 
-3. Šio straipsnio 1 dalyje nurodytais atvejais Valstybės garantuojamos teisinės pagalbos tarnybos sprendimas laikinai sustabdyti mediatoriaus veiklą priimamas ir apie mediatoriaus veiklos laikiną sustabdymą pažymima Lietuvos Respublikos mediatorių sąraše ne vėliau kaip kitą darbo dieną nuo šio straipsnio 1 dalies 1 punkte nurodyto mediatoriaus prašymo gavimo dienos ar šio straipsnio 1 dalies 2 punkte nurodytos informacijos gavimo dienos. Šio straipsnio 2 dalyje nurodytais atvejais Valstybės garantuojamos teisinės pagalbos tarnybos sprendimas atnaujinti mediatoriaus veiklą priimamas ir žyma apie mediatoriaus veiklos laikiną sustabdymą Lietuvos Respublikos mediatorių sąraše panaikinama ne vėliau kaip kitą darbo dieną nuo šio straipsnio 2 dalies 1 punkte nurodyto mediatoriaus prašymo gavimo dienos ar šio straipsnio 2 dalies 2 punkte nurodytos informacijos gavimo dienos.
+3. Šio straipsnio 1 dalyje nurodytais atvejais Lietuvos mediatorių rūmų sprendimas laikinai sustabdyti mediatoriaus veiklą priimamas ir apie mediatoriaus veiklos laikiną sustabdymą pažymima Lietuvos Respublikos mediatorių sąraše ne vėliau kaip kitą darbo dieną nuo šio straipsnio 1 dalies 1 punkte nurodyto mediatoriaus prašymo gavimo dienos ar šio straipsnio 1 dalies 2 punkte nurodytos informacijos gavimo dienos. Šio straipsnio 2 dalyje nurodytais atvejais Lietuvos mediatorių rūmų sprendimas atnaujinti mediatoriaus veiklą priimamas ir žyma apie mediatoriaus veiklos laikiną sustabdymą Lietuvos Respublikos mediatorių sąraše panaikinama ne vėliau kaip kitą darbo dieną nuo šio straipsnio 2 dalies 1 punkte nurodyto mediatoriaus prašymo gavimo dienos ar šio straipsnio 2 dalies 2 punkte nurodytos informacijos gavimo dienos.
 
 
 
@@ -714,9 +839,11 @@ Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 
 
 5. Sprendimas šio straipsnio 1 dalies 2 punkte nurodytu pagrindu laikinai sustabdyti mediatoriaus veiklą gali būti skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
  
-
-
 
 
 
@@ -724,30 +851,32 @@ Nr. XIV-2291, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23070
 11 straipsnis. Mediatorių kvalifikacinis egzaminas
 
 
-1. Mediatorių kvalifikacinį egzaminą organizuoja Valstybės garantuojamos teisinės pagalbos tarnyba.
+1. Mediatorių kvalifikacinį egzaminą organizuoja Lietuvos mediatorių rūmai.
 
 
 
 
-2. Kai yra gauta ne mažiau kaip dešimt prašymų laikyti mediatorių kvalifikacinį egzaminą, Valstybės garantuojamos teisinės pagalbos tarnyba ne vėliau kaip per vieną mėnesį nuo paskutinio iš šių prašymų gavimo dienos organizuoja mediatorių kvalifikacinį egzaminą. Kai yra gauta mažiau kaip dešimt prašymų laikyti mediatorių kvalifikacinį egzaminą, mediatorių kvalifikacinis egzaminas rengiamas ne rečiau kaip kartą per pusę metų.
+2. Kai yra gauta ne mažiau kaip dešimt prašymų laikyti mediatorių kvalifikacinį egzaminą, Lietuvos mediatorių rūmai ne vėliau kaip per vieną mėnesį nuo paskutinio iš šių prašymų gavimo dienos organizuoja mediatorių kvalifikacinį egzaminą. Kai yra gauta mažiau kaip dešimt prašymų laikyti mediatorių kvalifikacinį egzaminą, mediatorių kvalifikacinis egzaminas rengiamas ne rečiau kaip kartą per pusę metų.
 
 
 
 
-3. Mediatorių kvalifikacinio egzamino metu tikrinami asmenų, siekiančių būti įrašytų į Lietuvos Respublikos mediatorių sąrašą, pasirengimas teikti mediacijos paslaugas, gebėjimas teorines žinias ir įgūdžius taikyti praktiškai, taip pat mediatorių profesinės etikos žinios. 
+3. Mediatorių kvalifikacinio egzamino metu tikrinami asmenų, siekiančių būti įrašytų į Lietuvos Respublikos mediatorių sąrašą, pasirengimas teikti mediacijos paslaugas, gebėjimas teorines žinias ir įgūdžius taikyti praktiškai, taip pat mediatorių profesinės etikos žinios.
 
 
 
 
-4. Mediatorių kvalifikacinį egzaminą vykdo mediatorių kvalifikacinio egzamino komisija. Mediatorių kvalifikacinio egzamino komisijos nuostatus ir sudėtį tvirtina teisingumo ministras. Mediatorių kvalifikacinio egzamino komisijos narių darbas mediatorių kvalifikacinio egzamino komisijoje apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+4. Mediatorių kvalifikacinį egzaminą vykdo mediatorių kvalifikacinio egzamino komisija. Mediatorių kvalifikacinio egzamino komisijos nuostatus ir sudėtį tvirtina teisingumo ministras. Mediatorių kvalifikacinio egzamino komisijos narių darbas mediatorių kvalifikacinio egzamino komisijoje apmokamas Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
 
 
 
 
-5. Mediatorių kvalifikacinio egzamino programą tvirtina ir šio egzamino organizavimo ir vykdymo tvarką nustato teisingumo ministras. 
+5. Mediatorių kvalifikacinio egzamino programą tvirtina ir šio egzamino organizavimo, vykdymo ir mokėjimo už šį egzaminą dydį, įvertinęs mediatorių kvalifikacinio egzamino vykdymo sąnaudas, ir tvarką nustato teisingumo ministras, suderinęs su Lietuvos mediatorių rūmais.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
  
-
-
 
 
 
@@ -862,12 +991,18 @@ CIVILINIŲ GINČŲ MEDIACIJOS VYKDYMAS
 
 
 
-3. Mediatorius gali surengti pasitarimą su viena iš ginčo šalių nedalyvaujant kitai ginčo šaliai. Apie šį pasitarimą, neatskleisdamas pasitarimo turinio, mediatorius privalo pranešti kitai ginčo šaliai.
+3. Mediatorius gali surengti individualų susitikimą su viena iš ginčo šalių nedalyvaujant kitai ginčo šaliai. Apie šį susitikimą, neatskleisdamas jo turinio, mediatorius privalo pranešti kitai ginčo šaliai. Mediatorius, nusprendęs rengti individualius susitikimus, juos turi inicijuoti su abiem ginčo šalimis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
 
 
 
 
-4. Civilinio ginčo mediacijos metu gali dalyvauti tik ginčo šalys, jų atstovai ir mediatorius. Ginčo šalių prašymu arba sutikimu civilinio ginčo mediacijos metu gali dalyvauti ir kiti asmenys. Mediatorius, nustatęs, kad yra ir daugiau sprendžiamo ginčo šalių, pasiūlo šioje civilinių ginčų sprendimo procedūroje dalyvaujančioms ginčo šalims įtraukti kitas ginčo šalis į ginčo sprendimą mediacijos būdu. Kitas ginčo šalis į civilinio ginčo sprendimą mediacijos būdu bendru sutarimu įtraukia mediacijos procedūroje dalyvaujančios ginčo šalys arba mediacijos procedūroje dalyvaujančių ginčo šalių bendru sutikimu – mediatorius. Mediatorius, nustatęs, kad yra vaikų ar kitų asmenų, kurių interesai įstatymų nustatyta tvarka privalo būti apsaugoti sprendžiant civilinį ginčą, gali įtraukti vaikus ar kitus asmenis į civilinio ginčo sprendimą mediacijos būdu.
+4. Civilinio ginčo mediacijos metu dalyvauja ginčo šalys ir mediatorius. Kartu su ginčo šalimis gali dalyvauti ir jų atstovai. Ginčo šalių prašymu arba sutikimu civilinio ginčo mediacijos metu gali dalyvauti ir kiti asmenys. Mediatorius, nustatęs, kad yra ir daugiau sprendžiamo ginčo šalių, pasiūlo šioje civilinių ginčų sprendimo procedūroje dalyvaujančioms ginčo šalims įtraukti kitas ginčo šalis į ginčo sprendimą mediacijos būdu. Kitas ginčo šalis į civilinio ginčo sprendimą mediacijos būdu bendru sutarimu įtraukia mediacijos procedūroje dalyvaujančios ginčo šalys arba mediacijos procedūroje dalyvaujančių ginčo šalių bendru sutikimu – mediatorius. Mediatorius, nustatęs, kad yra vaikų ar kitų asmenų, kurių interesai įstatymų nustatyta tvarka privalo būti apsaugoti sprendžiant civilinį ginčą, gali įtraukti vaikus ar kitus asmenis į civilinio ginčo sprendimą mediacijos būdu. Vaikai į mediaciją įtraukiami jų tėvų ar kitų atstovų pagal įstatymą bendru sutikimu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
 
 
 
@@ -909,7 +1044,10 @@ CIVILINIŲ GINČŲ MEDIACIJOS VYKDYMAS
 17 straipsnis. Konfidencialumas
 
 
-1. Jeigu ginčo šalys nesusitarė kitaip, ginčo šalys, mediatoriai ir mediacijos paslaugų administratoriai turi laikyti paslaptyje visą civilinio ginčo mediacijos ir su ja susijusią informaciją, išskyrus informaciją, kurios reikia siekiant patvirtinti ar įvykdyti mediacijos metu sudarytą taikos sutartį, ir informaciją, kurios neatskleidimas prieštarautų viešajam interesui (ypač kai reikia užtikrinti vaiko interesus arba užkirsti kelią žalos fizinio asmens sveikatai ar gyvybei atsiradimui). Ši nuostata taip pat taikoma teismo, arbitražo ir kitoms civilinių ginčų sprendimo procedūroms, tiek susijusioms su civiliniu ginču, kuris buvo sprendžiamas mediacijos būdu, tiek nesusijusioms.
+1. Jeigu ginčo šalys nesusitarė kitaip, ginčo šalys, mediatoriai ir mediacijos paslaugų administratoriai turi laikyti paslaptyje visą civilinio ginčo mediacijos ir su ja susijusią informaciją, išskyrus informaciją, kurios reikia siekiant patvirtinti ar įvykdyti mediacijos metu sudarytą taikos sutartį, ir informaciją, kurios neatskleidimas prieštarautų viešajam interesui, kai reikia užtikrinti vaiko interesus arba užkirsti kelią žalos fizinio asmens sveikatai ar gyvybei atsiradimui, arba užkirsti kelią nusikalstamoms veikoms. Ši nuostata taip pat taikoma teismo, arbitražo ir kitoms civilinių ginčų sprendimo procedūroms, tiek susijusioms su civiliniu ginču, kuris buvo sprendžiamas mediacijos būdu, tiek nesusijusioms.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
 
 
 
@@ -997,7 +1135,10 @@ PRIVALOMOSIOS MEDIACIJOS YPATUMAI
 1. Privalomoji mediacija taikoma sprendžiant šiuos civilinius ginčus: 
 
 
-1) šeimos ginčus, nagrinėjamus ginčo teisena Civilinio proceso kodekso nustatyta tvarka, išskyrus atvejus, kai kreiptis į teismą dėl ginčo sprendimo siekia smurtą artimoje aplinkoje patyręs asmuo, o kita ginčo šalis yra galimas smurtautojas ir yra pradėtas ikiteisminis tyrimas, susijęs su smurtu artimoje aplinkoje, arba teisme nagrinėjama byla, susijusi su smurtu artimoje aplinkoje, arba yra priimtas apkaltinamasis teismo nuosprendis dėl smurto artimoje aplinkoje, arba yra pateikta įstatymų nustatyta tvarka įgalioto teikti specializuotą kompleksinę pagalbą subjekto pažyma apie specializuotos kompleksinės pagalbos teikimą asmeniui dėl galimai patirto smurto artimoje aplinkoje;
+1) šeimos ginčus, nagrinėjamus ginčo teisena Civilinio proceso kodekso nustatyta tvarka, išskyrus atvejus, kai kreiptis į teismą dėl ginčo sprendimo siekia smurtą artimoje aplinkoje patyręs asmuo, o kita ginčo šalis yra galimas smurtautojas ir jam yra skirtas apsaugos nuo smurto artimoje aplinkoje orderis arba yra pradėtas ikiteisminis tyrimas, susijęs su smurtu artimoje aplinkoje, arba teisme nagrinėjama byla, susijusi su smurtu artimoje aplinkoje, arba yra priimtas apkaltinamasis teismo nuosprendis dėl smurto artimoje aplinkoje, arba yra pateikta įstatymų nustatyta tvarka įgalioto teikti specializuotą kompleksinę pagalbą subjekto pažyma apie specializuotos kompleksinės pagalbos teikimą asmeniui dėl galimai patirto smurto artimoje aplinkoje; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
 
 
 
@@ -1294,7 +1435,7 @@ MEDIATORIŲ DRAUSMINĖ ATSAKOMYBĖ
  
 
 
-28 straipsnis. Skundų (pranešimų) dėl mediatorių veiklos teikimas
+28 straipsnis. Skundų (pranešimų) dėl mediatorių veiklos teikimas ir nagrinėjimas
 
 
 1. Dėl mediatorių, kurie pažeidė šio įstatymo, Europos mediatorių elgesio kodekso ar kitų teisės aktų, reglamentuojančių mediacijos paslaugų teikimą, reikalavimus, veiklos asmenys gali teikti skundus (pranešimus) mediatorių veiklos vertinimo komisijai.
@@ -1302,10 +1443,27 @@ MEDIATORIŲ DRAUSMINĖ ATSAKOMYBĖ
 
 
 
-2. Mediatorių veiklos vertinimo komisijos nuostatus ir sudėtį tvirtina teisingumo ministras.
+2. Mediatorių veiklos vertinimo komisijos nuostatus ir personalinę sudėtį tvirtina teisingumo ministras, suderinęs su Lietuvos mediatorių rūmais. Mediatorių veiklos vertinimo komisiją sudaro septyni nariai: penki Lietuvos mediatorių rūmų atstovai ir du teisingumo ministro deleguoti visuomenės atstovai. Šios komisijos pirmininką ir pirmininko pavaduotoją iš komisijos narių Lietuvos mediatorių rūmų siūlymu skiria teisingumo ministras.
+
+
+
+
+3. Šio straipsnio 1 dalyje nurodytas skundas (pranešimas) gali būti paduotas ne vėliau kaip per tris mėnesius nuo pažeidimo paaiškėjimo dienos, bet ne vėliau, kaip praėjus vieniems metams nuo pažeidimo padarymo dienos.
+
+
+
+
+4. Šio straipsnio 1 dalyje nurodytas skundas (pranešimas) turi būti išnagrinėtas ne vėliau kaip per šešiasdešimt dienų nuo šio straipsnio 1 dalyje nurodyto skundo (pranešimo) gavimo mediatorių veiklos vertinimo komisijoje dienos.
+
+
+
+
+5. Mediatorių veiklos vertinimo komisijos posėdyje turi teisę dalyvauti mediatorius, kurio veikla vertinama, ir šio straipsnio 1 dalyje nurodytą skundą (pranešimą) pateikęs subjektas. Prireikus komisija į posėdį gali pakviesti ir kitų asmenų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
  
-
-
 
 
 
@@ -1338,7 +1496,10 @@ MEDIATORIŲ DRAUSMINĖ ATSAKOMYBĖ
 
 
 
-3. Apie šio straipsnio 1 dalies 3 punkte nurodytą sprendimą mediatorių veiklos vertinimo komisija praneša Valstybės garantuojamos teisinės pagalbos tarnybai ne vėliau kaip per tris darbo dienas nuo sprendimo priėmimo dienos. Kai šio straipsnio 1 dalyje nurodyti sprendimai yra priimti dėl asmens, kuriam pagal Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teisės aktus tos valstybės kompetentinga institucija yra suteikusi teisę teikti mediacijos paslaugas, apie šiuos sprendimus mediatorių veiklos vertinimo komisija privalo pranešti Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės kompetentingai institucijai, kuri asmeniui yra suteikusi teisę teikti mediacijos paslaugas.
+3. Apie šio straipsnio 1 dalies 3 punkte nurodytą sprendimą mediatorių veiklos vertinimo komisija praneša Lietuvos mediatorių rūmams ne vėliau kaip per tris darbo dienas nuo sprendimo priėmimo dienos. Kai šio straipsnio 1 dalyje nurodyti sprendimai yra priimti dėl asmens, kuriam pagal Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teisės aktus tos valstybės kompetentinga institucija yra suteikusi teisę teikti mediacijos paslaugas, apie šiuos sprendimus mediatorių veiklos vertinimo komisija privalo pranešti Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės kompetentingai institucijai, kuri asmeniui yra suteikusi teisę teikti mediacijos paslaugas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
 
 
 
@@ -1356,7 +1517,10 @@ MEDIATORIŲ DRAUSMINĖ ATSAKOMYBĖ
 
 
 
-2) pareikšti viešą įspėjimą, apie kurį paskelbiama Valstybės garantuojamos teisinės pagalbos tarnybos interneto svetainėje ir Teisinės pagalbos paslaugų informacinėje sistemoje ne vėliau kaip per penkias darbo dienas nuo mediatorių veiklos vertinimo komisijos sprendimo priėmimo dienos. Visuomenės informavimo tikslais šis viešas įspėjimas skelbiamas vienus metus nuo viešo įspėjimo paskelbimo dienos;
+2) pareikšti viešą įspėjimą, apie kurį paskelbiama Lietuvos mediatorių rūmų interneto svetainėje ir Teisinės pagalbos paslaugų informacinėje sistemoje ne vėliau kaip per penkias darbo dienas nuo mediatorių veiklos vertinimo komisijos sprendimo priėmimo dienos. Visuomenės informavimo tikslais šis viešas įspėjimas skelbiamas vienus metus nuo viešo įspėjimo paskelbimo dienos;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2722, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11245
+ 
 
 
 
