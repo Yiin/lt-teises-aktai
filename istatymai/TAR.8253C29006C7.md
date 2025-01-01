@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/8253c29006c711ee9978886e85107ab2"
 
 # Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo įstatymas
 
-Suvestinė redakcija nuo 2024-03-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: TAR 2023-06-09, i. k. 2023-11589
  
@@ -154,8 +154,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
- 
- 
 
 
 
@@ -379,6 +377,10 @@ PAREIGYBIŲ GRUPIŲ IR PAREIGYBIŲ SĄRAŠAS
  Lietuvos kultūros tarybos pirmininkas 
 
 
+ 2.341. 
+ Lietuvos gyventojų genocido ir rezistencijos tyrimo centro generalinis direktorius 
+
+
  2.35. 
  Lietuvos Respublikos specialiųjų tyrimų tarnybos direktorius, direktoriaus pavaduotojas 
 
@@ -424,6 +426,7 @@ _______________________
  
 Priedo pakeitimai:
 Nr. XIV-2410, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25928
+Nr. XIV-3039, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18436
  
  
  
@@ -433,3 +436,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2410, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25928
 Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatymo Nr. XIV-2011 2, 4, 5 straipsnio ir priedo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3039, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18436
+Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatymo Nr. XIV-2011 priedo pakeitimo įstatymas
