@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
+ 
+TAR pastaba. Įsigaliojus 2024-12-19 įstatymui Nr. XV-74, Lietuvos šaulių sąjungos vado pavaduotojui, rinktinės vadui, rinktinės vado pavaduotojui, Lietuvos šaulių sąjungos mokymų centro viršininkui, dirbantiems pagal darbo sutartį, mokamos pareiginės algos dydį perskaičiuoja darbo sutartį su jais sudaręs juridinis asmuo, vadovaudamasis Lietuvos šaulių sąjungos vado nustatyta darbo apmokėjimo sistema. Perskaičiuotas pareiginės algos dydis negali būti mažesnis, nei nustatytas iki šio įstatymo įsigaliojimo dienos.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas
  
 Nauja redakcija nuo 2023-01-01:
 Nr. XIV-1506, 2022-11-08, paskelbta TAR 2022-11-21, i. k. 2022-23364
@@ -35,10 +40,12 @@ Lietuvos Respublikos Seimas,
 pažymėdamas istorinį Lietuvos šaulių sąjungos ir jos narių vaidmenį atkuriant Lietuvos valstybę, ginant jos laisvę nepriklausomybės kovose 1919–1920 metais, organizuojant ir vykdant Klaipėdos krašto sukilimą 1923 metais, ginklu priešinantis Sovietų Sąjungos okupacijai  1944–1953 metais ir ginant atkurtąją Lietuvos Respublikos nepriklausomybę 1991 metais;
 konstatuodamas, kad Lietuvos šaulių sąjunga tęsia 1919 m. birželio 27 d. įkurtos organizacijos veiklą;
 vertindamas Lietuvos šaulių sąjungos indėlį į šalies nacionalinio saugumo užtikrinimą, pagalbą užtikrinant gyvybiškai svarbių valstybės funkcijų atlikimą krizių, ekstremaliųjų situacijų, mobilizacijos ir karo metu;
-pabrėždamas būtinybę tobulinti Lietuvos šaulių sąjungos veiklos teisinius pagrindus atsižvelgiant į kintančius nacionalinio saugumo užtikrinimo poreikius, šalies narystę NATO ir Europos Sąjungoje, vis labiau kylančias nekarinio, hibridinio pobūdžio grėsmes;
+pabrėždamas būtinybę tobulinti Lietuvos šaulių sąjungos veiklos teisinius pagrindus atsižvelgiant į kintančius nacionalinio saugumo užtikrinimo poreikius, šalies narystę Šiaurės Atlanto sutarties organizacijoje ir Europos Sąjungoje, vis labiau kylančias nekarinio, hibridinio pobūdžio grėsmes;
 matydamas tarnybą Lietuvos šaulių sąjungoje kaip vieną iš būdų Lietuvos Respublikos piliečiams pasirengti vykdyti savo konstitucinę teisę ir pareigą ginti Tėvynę, įtvirtintą Lietuvos Respublikos Konstitucijos 139 straipsnio pirmojoje dalyje, taip pat pasirengti neginkluotam pilietiniam pasipriešinimui taikos metu;
-siekdamas stiprinti Lietuvos šaulių sąjungą kaip Lietuvos kariuomenės, ginkluotųjų pajėgų ir pilietinio pasipriešinimo agresijai jungiamąją grandį, pilietinio, patriotinio ir tautinio ugdymo subjektą bei kitų valstybės institucijų talkininkę,
+siekdamas stiprinti Lietuvos šaulių sąjungą kaip Lietuvos kariuomenės, ginkluotųjų pajėgų ir pilietinio pasipriešinimo agresijai jungiamąją grandį, pilietinio, patriotinio ir tautinio ugdymo subjektą bei kitų valstybės ir savivaldybių institucijų talkininkę,
 priima šį įstatymą.
+Preambulės pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
 
 
@@ -73,7 +80,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Komendantiniai Lietuvos šaulių sąjungos ginkluoto pasipriešinimo vienetai – Lietuvos šaulių sąjungos padaliniai, savanoriškumo pagrindu sudaromi iš pilnamečių šaulių, kurie yra tinkami tikrajai karo tarnybai, bet jos neatlieka ir netarnauja Lietuvos šaulių sąjungos koviniuose būriuose.
+3. Komendantiniai Lietuvos šaulių sąjungos ginkluoto pasipriešinimo vienetai – Lietuvos šaulių sąjungos padaliniai, savanoriškumo pagrindu sudaromi iš pilnamečių šaulių, kurie neatlieka tikrosios karo tarnybos, netarnauja Lietuvos šaulių sąjungos specializuotuose vienetuose ir Lietuvos šaulių sąjungos koviniuose būriuose.
 
 
 
@@ -83,50 +90,52 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Lietuvos šaulių sąjungos koviniai būriai – šaulių rinktinių padaliniai, savanoriškumo pagrindu sudaromi iš pilnamečių šaulių, kurie yra tinkami tikrajai karo tarnybai, bet jos neatlieka.
+5. Lietuvos šaulių sąjungos koviniai būriai – šaulių rinktinių padaliniai, savanoriškumo pagrindu sudaromi iš pilnamečių šaulių, kurie neatlieka tikrosios karo tarnybos.
 
 
 
 
-6. Lietuvos šaulių sąjungos rėmėjas – Lietuvos Respublikos pilietis ar Lietuvos Respublikoje nuolat gyvenantis kitos Europos Sąjungos valstybės narės pilietis, kuris nėra Lietuvos šaulių sąjungos narys ir tikrosios karo tarnybos karys, bet savo noru šio ir kitų įstatymų nustatyta tvarka aktyviais veiksmais padeda Lietuvos šaulių sąjungai atlikti funkcijas.
+6. Lietuvos šaulių sąjungos rėmėjas – Lietuvos Respublikos pilietis ar Lietuvos Respublikoje nuolat gyvenantis kitos Europos Sąjungos arba Šiaurės Atlanto sutarties organizacijos valstybės narės pilietis, kuris nėra Lietuvos šaulių sąjungos narys ir tikrosios karo tarnybos karys, bet savo noru šio ir kitų įstatymų nustatyta tvarka aktyviais veiksmais padeda Lietuvos šaulių sąjungai atlikti funkcijas.
 
 
 
 
-7. Neginkluoto pasipriešinimo šaulys – pilnametis šaulys, kuris netarnauja Lietuvos šaulių sąjungos koviniuose būriuose, komendantiniuose Lietuvos šaulių sąjungos ginkluoto pasipriešinimo vienetuose ir nėra tikrosios karo tarnybos karys, bet organizuoja ir vykdo neginkluotą pilietinį pasipriešinimą.
+7. Lietuvos šaulių sąjungos specializuoti vienetai – Lietuvos šaulių sąjungos padaliniai, sudaromi savanoriškumo pagrindu iš pilnamečių šaulių, kurie neatlieka tikrosios karo tarnybos, netarnauja Lietuvos šaulių sąjungos koviniuose būriuose ir komendantiniuose Lietuvos šaulių sąjungos ginkluoto pasipriešinimo vienetuose, logistikos, kibernetinio saugumo, komunikacijos, medicinos, ryšių organizavimo, žmonių paieškos, gelbėjimo, evakuacijos ir kitoms užduotims, susijusioms su Lietuvos šaulių sąjungai priskirtų funkcijų vykdymu, atlikti. 
 
 
 
 
-8. Šaulio specialioji tarnyba – šio įstatymo nustatytais atvejais ir tvarka atliekama šaulio tarnyba, apimanti pagalbos valstybės institucijoms teikimą, Lietuvos šaulių sąjungai priklausančių ar jos naudojamų objektų ir teritorijų, taip pat Lietuvos Respublikos Vyriausybės nutarimų ar sutarčių pagrindu Lietuvos šaulių sąjungai priskirtų saugoti objektų ir teritorijų saugojimą.
+8. Neginkluoto pasipriešinimo šaulys – pilnametis šaulys, kuris netarnauja Lietuvos šaulių sąjungos koviniuose būriuose, komendantiniuose Lietuvos šaulių sąjungos ginkluoto pasipriešinimo vienetuose, Lietuvos šaulių sąjungos specializuotuose vienetuose ir neatlieka tikrosios karo tarnybos, bet organizuoja ir vykdo neginkluotą pilietinį pasipriešinimą ir teikia neginkluotą pagalbą ginkluotosioms pajėgoms, valstybės ir savivaldybių institucijoms.
 
 
 
 
-9. Šaulio tarnyba – šio įstatymo, Lietuvos šaulių sąjungos statuto ir vidaus teisės aktų nustatytų šaulio teisių ir pareigų, mokymo ir tarnybos užduočių vykdymas įgyvendinant šio įstatymo nustatytus Lietuvos šaulių sąjungos tikslus, uždavinius, funkcijas ir teises.
+9. Šaulio specialioji tarnyba – šio įstatymo nustatytais atvejais ir tvarka atliekama šaulio tarnyba, apimanti pagalbos valstybės ir savivaldybių institucijoms teikimą, Lietuvos šaulių sąjungai priklausančių ar jos naudojamų objektų ir teritorijų, taip pat Lietuvos Respublikos Vyriausybės nutarimų ar sutarčių pagrindu Lietuvos šaulių sąjungai priskirtų saugoti objektų ir teritorijų saugojimą.
 
 
 
 
-10. Šaulys – Lietuvos šaulių sąjungos narys.
+10. Šaulio tarnyba – šio įstatymo, Lietuvos šaulių sąjungos statuto ir vidaus teisės aktų nustatytų šaulio teisių ir pareigų, mokymo ir tarnybos užduočių vykdymas įgyvendinant šio įstatymo nustatytus Lietuvos šaulių sąjungos tikslus, uždavinius, funkcijas ir teises.
 
 
 
 
-11. Šaulių rinktinė – Lietuvos šaulių sąjungos padalinys, jungiantis aukštesniųjų administracinių vienetų centruose ir (ar) kitose aukštesniųjų administracinių vienetų teritorijose veikiančius Lietuvos šaulių sąjungos padalinius.
+11. Šaulys – Lietuvos šaulių sąjungos narys.
 
 
 
 
-12. Karinė įranga suprantama taip, kaip ji apibrėžiama Lietuvos Respublikos strateginių prekių kontrolės įstatyme.
+12. Šaulių rinktinė – Lietuvos šaulių sąjungos padalinys, organizuojantis ir koordinuojantis Lietuvos šaulių sąjungos veiklą aukštesniųjų administracinių vienetų centruose ir (ar) kitose aukštesniųjų administracinių vienetų teritorijose.
 
 
 
 
-13. Prievarta suprantama taip, kaip ji apibrėžiama Lietuvos Respublikos policijos įstatyme ir Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme.
+13. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos karo padėties įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos policijos įstatyme, Lietuvos Respublikos strateginių prekių kontrolės įstatyme, Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatyme ir Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme.
+
+
+Straipsnio pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
-
-
 
 
 
@@ -144,7 +153,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Karo padėties ar ginkluotos gynybos nuo agresijos (karo) ir mokymų bei pratybų su Lietuvos kariuomenės vienetais metu LŠS koviniams būriams taikomi tarnybą kariuomenėje reglamentuojantys statutai.
+3. Karo padėties ar ginkluotos gynybos nuo agresijos (karo) ir mokymų bei pratybų su Lietuvos kariuomenės vienetais metu LŠS koviniams būriams, taip pat Karo padėties įstatyme nustatyta tvarka ir sąlygomis ginkluotosioms pajėgoms priskirtiems komendantiniams LŠS ginkluoto pasipriešinimo vienetams (toliau – LŠS ginkluoto pasipriešinimo vienetai) ir LŠS specializuotiems vienetams taikomi tarnybą kariuomenėje reglamentuojantys statutai.
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
 
 
@@ -301,7 +312,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. LŠS vadas LŠS Centro valdybos pritarimu gali įgalioti LŠS vado pavaduotojus ir rinktinių vadus pagal jų pareigas atstovauti LŠS, kaip viešajam juridiniam asmeniui, ir sudaryti sandorius LŠS vardu tokia apimtimi, kokios reikia LŠS centrinių institucijų ir rinktinių veiklai vykdyti.
+3. LŠS vadas gali įgalioti LŠS vado pavaduotojus ir rinktinių vadus pagal jų pareigas atstovauti LŠS, kaip viešajam juridiniam asmeniui, ir sudaryti sandorius LŠS vardu tokia apimtimi, kokios reikia LŠS centrinių institucijų ir rinktinių veiklai vykdyti.
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
 
 
@@ -420,7 +433,7 @@ Siekdama šio įstatymo 7 straipsnyje nustatytų tikslų, LŠS įgyvendina šiuo
 
 
 
-5) šio įstatymo nustatytais atvejais ir tvarka teikia pagalbą kariuomenei, policijai, Valstybės sienos apsaugos tarnybai prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), civilinės saugos pajėgoms ir švietimo įstaigoms;
+5) šio įstatymo nustatytais atvejais ir tvarka teikia pagalbą kariuomenei, policijai, Valstybės sienos apsaugos tarnybai prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), kitiems krizių valdymo ir civilinės saugos sistemos subjektams ir švietimo įstaigoms;
 
 
 
@@ -445,17 +458,24 @@ Siekdama šio įstatymo 7 straipsnyje nustatytų tikslų, LŠS įgyvendina šiuo
 
 
 
-2) LŠS vadas sudaro komendantinius LŠS ginkluoto pasipriešinimo vienetus (toliau – ginkluoto pasipriešinimo vienetai), kurie Lietuvos Respublikos karo padėties įstatyme nustatyta tvarka ir sąlygomis priskiriami ginkluotosioms pajėgoms ir vykdo ginkluotos gynybos plane numatytas užduotis.
+2) LŠS vado sudaryti LŠS ginkluoto pasipriešinimo vienetai ir LŠS specializuoti vienetai Karo padėties įstatyme nustatyta tvarka ir sąlygomis priskiriami ginkluotosioms pajėgoms ir vykdo ginkluotos gynybos plane numatytas užduotis.
 
 
 
 
 
 
-3. Neginkluoto pasipriešinimo šauliai šio įstatymo nustatytais atvejais ir tvarka teikia pagalbą savivaldybės administracijos direktoriui ar karo komendantui, taip pat organizuoja ir vykdo neginkluotą pilietinį pasipriešinimą.
+3. Neginkluoto pasipriešinimo šauliai šio įstatymo nustatytais atvejais ir tvarka teikia pagalbą valstybės ir savivaldybių institucijoms, savivaldybės administracijos direktoriui, karo komendantui, taip pat organizuoja ir vykdo neginkluotą pilietinį pasipriešinimą.
+
+
+
+
+4. Karo padėties ar ginkluotos gynybos nuo agresijos (karo) metu ginkluotosioms pajėgoms nepriskirti LŠS specializuoti vienetai ar šių vienetų šauliai, taip pat neginkluoto pasipriešinimo šauliai teikia pagalbą valstybės ir savivaldybių institucijoms prisidėdami užtikrinant gyvybiškai svarbių valstybės funkcijų vykdymą valstybės ar savivaldybių institucijų prašymu ir LŠS vado sprendimu, priimamu nedelsiant, bet ne vėliau kaip per 5 kalendorines dienas nuo prašymo gavimo dienos. Jei nėra galimybės pagalbos suteikti visoms prašymus pateikusioms institucijoms, pagalba teikiama LŠS vado sprendimu, atsižvelgiant į LŠS specializuotų vienetų kompetenciją ir Valstybės mobilizacijos operacijų centro sprendimus.
+
+
+Straipsnio pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
-
-
 
 
 
@@ -568,7 +588,10 @@ INSTITUCIJOMIS BEI ĮSTAIGOMIS
 12 straipsnis. LŠS santykiai su Vyriausybe
 
 
-1. Vyriausybė šio įstatymo nustatyta tvarka ir Ministro Pirmininko teikimu skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų LŠS vadą, LŠS vado teikimu skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų LŠS vado pavaduotojus, taip pat juos apdovanoja piniginėmis premijomis.
+1. Vyriausybė šio įstatymo nustatyta tvarka ir Ministro Pirmininko teikimu skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų LŠS vadą, skiria jam piniginę premiją, LŠS vado teikimu skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų LŠS vado pavaduotojus. 
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -591,7 +614,10 @@ INSTITUCIJOMIS BEI ĮSTAIGOMIS
 5. Taryba:
 
 
-1) svarsto LŠS veiklos krypčių ir prioritetų, finansavimo, sąveikos su valstybės institucijomis ir kitus strateginius klausimus, šiais klausimais teikia rekomendacijas ir pasiūlymus Vyriausybei, LŠS suvažiavimui ir LŠS vadui;
+1) svarsto LŠS veiklos krypčių ir prioritetų, finansavimo, sąveikos su valstybės, savivaldybių institucijomis ir kitus strateginius klausimus, šiais klausimais teikia rekomendacijas ir pasiūlymus Vyriausybei, LŠS suvažiavimui ir LŠS vadui; 
+Straipsnio punkto pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -603,7 +629,10 @@ INSTITUCIJOMIS BEI ĮSTAIGOMIS
 
 
 
-6. Vyriausybės įgaliotos institucijos skiria sąveikos pareigūnus, koordinuojančius šaulių pasirengimą atlikti funkcijas, susijusias su pagalbos teikimu kariuomenei, policijai, Valstybės sienos apsaugos tarnybai, civilinės saugos pajėgoms ir švietimo įstaigoms, užtikrinant gyvybiškai svarbių valstybės funkcijų atlikimą krizių, ekstremaliųjų situacijų, mobilizacijos ir karo metu (toliau – sąveikos pareigūnai).
+6. Vyriausybės įgaliotos institucijos skiria sąveikos pareigūnus, koordinuojančius šaulių pasirengimą atlikti funkcijas, susijusias su pagalbos teikimu kariuomenei, policijai, Valstybės sienos apsaugos tarnybai, kitiems krizių valdymo ir civilinės saugos sistemos subjektams ir švietimo įstaigoms, užtikrinant gyvybiškai svarbių valstybės funkcijų atlikimą krizių, ekstremaliųjų situacijų, mobilizacijos ir karo metu, (toliau – sąveikos pareigūnai).
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -629,17 +658,26 @@ INSTITUCIJOMIS BEI ĮSTAIGOMIS
 
 
 
-3. Jeigu LŠS vadas ar jo pavaduotojas nėra profesinės karo tarnybos karys, Lietuvos Respublikos darbo kodekso nustatyta tvarka jis sudaro terminuotą darbo sutartį su Krašto apsaugos ministerija.
+3. LŠS vado ir jo pavaduotojų pareigybių aprašymus tvirtina krašto apsaugos ministras. Jeigu LŠS vadas ar jo pavaduotojas nėra profesinės karo tarnybos karys, Lietuvos Respublikos darbo kodekso nustatyta tvarka jis sudaro terminuotą darbo sutartį su Krašto apsaugos ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-4. Pareiginė alga, piniginės premijos LŠS vadui, jo pavaduotojams, rinktinių vadams, rinktinių vadų pavaduotojams ir mokymų centro viršininkui, taip pat pareiginė alga, priemokos ir premijos kitas nuolatinės šaulio tarnybos pareigas, kurių sąrašą tvirtina Vyriausybė, einantiems šauliams mokamos iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti.
+4. Pareiginė alga LŠS vadui, darbo užmokestis LŠS vado pavaduotojams, rinktinių vadams, rinktinių vadų pavaduotojams, mokymų centro viršininkui, kitas nuolatinės šaulio tarnybos pareigas, kurių sąrašą tvirtina Vyriausybė, einantiems šauliams, taip pat piniginės premijos ir materialinės pašalpos LŠS vadui, jo pavaduotojams, rinktinių vadams, jų pavaduotojams, mokymų centro viršininkui, kitas nuolatinės šaulio tarnybos pareigas, kurių sąrašą tvirtina Vyriausybė, einantiems šauliams mokami iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti. 
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-5. Krašto apsaugos ministerija gali perduoti Krašto apsaugos ministerijos patikėjimo teise valdomą trumpalaikį materialųjį turtą LŠS valdyti, naudoti ir disponuoti juo patikėjimo teise, reikalingą LŠS vykdomai pilietinio, patriotinio ir tautinio ugdymo veiklai įgyvendinant pilietinio, patriotinio ir tautinio ugdymo neformaliojo švietimo programas, taip pat pilietinio ugdymo veiklai krašto gynybos srityje.
+5. Neteko galios nuo 2025-01-01
+Straipsnio dalies naikinimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -680,7 +718,10 @@ INSTITUCIJOMIS BEI ĮSTAIGOMIS
 
 
 
-2. Kariuomenės vadui priėmus sprendimą, kariuomenėje gali būti neatlygintinai saugoma LŠS priklausanti ir Vyriausybės sprendimu perduota karinė įranga. Sprendime nurodoma karinės įrangos saugojimo vieta, terminas, asmuo, įgaliotas pasirašyti pasaugos sutartį ir karinės įrangos priėmimo–perdavimo aktą.
+2. Kariuomenės vadui priėmus sprendimą, kariuomenėje gali būti neatlygintinai saugoma LŠS priklausanti karinė įranga. Sprendime nurodoma karinės įrangos saugojimo vieta, terminas, asmuo, įgaliotas pasirašyti pasaugos sutartį ir karinės įrangos priėmimo–perdavimo aktą. 
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -690,7 +731,9 @@ INSTITUCIJOMIS BEI ĮSTAIGOMIS
 
 
 
-4. LŠS veiklai vykdyti gali būti naudojamos kariuomenei priskirtos karinio mokymo teritorijos ir infrastruktūros objektai.
+4. LŠS veiklai vykdyti gali būti naudojamos kariuomenei priskirtos karinio mokymo teritorijos ir infrastruktūros objektai, taip pat kariuomenės patikėjimo teise valdomos mokymo priemonės, karinė įranga ir technika. Mokymų, pratybų ar kitų karinio bendradarbiavimo renginių metu šauliai kariuomenės vado nustatyta tvarka ir sąlygomis gali būti maitinami maitinimą organizuojančiuose kariuomenės padaliniuose, maitinimo išlaidas apmokant iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti. 
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
 
 
@@ -711,7 +754,10 @@ INSTITUCIJOMIS BEI ĮSTAIGOMIS
 
 
 
-3. Kai Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies 1 ir 5 punktuose nustatytais atvejais kariuomenė teikia pagalbą kitoms valstybės ar savivaldybių institucijoms ar įstaigoms, LŠS pagalba kariuomenei teikiama LŠS vado ar jo įgalioto rinktinės vado įsakymu, gavus kariuomenės vado ar jo įgalioto atitinkamoje apskrityje veikiančio kariuomenės dalinio, kuriam priklausantis karinis vienetas teikia pagalbą civilinės saugos pajėgoms ar policijai, vado prašymą.
+3. Kai Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies 1 ir 5 punktuose nustatytais atvejais kariuomenė teikia pagalbą kitoms valstybės ar savivaldybių institucijoms ar įstaigoms, LŠS pagalba kariuomenei teikiama LŠS vado ar jo įgalioto rinktinės vado įsakymu, gavus kariuomenės vado ar jo įgalioto atitinkamoje apskrityje veikiančio kariuomenės dalinio, kuriam priklausantis karinis vienetas teikia pagalbą krizių valdymo ir civilinės saugos sistemos subjektams ar policijai, vado prašymą.
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -729,13 +775,20 @@ INSTITUCIJOMIS BEI ĮSTAIGOMIS
 
 
 
-16 straipsnis. Vidaus reikalų statutinių įstaigų pagalba LŠS
+16 straipsnis. Vidaus reikalų sistemos statutinių įstaigų pagalba LŠS
 
 
-Policijos, Valstybės sienos apsaugos tarnybos, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos ir kitos vidaus reikalų statutinės įstaigos teikia pagalbą LŠS, kai šauliai mokomi atlikti šio įstatymo 9 straipsnio 1 dalies 5 punkte nustatytas LŠS funkcijas, susijusias su pagalba policijai, Valstybės sienos apsaugos tarnybai ir civilinės saugos pajėgoms, vykdant su tokiu mokymu susijusias veiklos programas, taip pat kitokią bendradarbiavimo su LŠS sutartyse numatytą pagalbą.
+1. Policijos, Valstybės sienos apsaugos tarnybos, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos ir kitos vidaus reikalų sistemos statutinės įstaigos teikia pagalbą LŠS, kai šauliai mokomi atlikti šio įstatymo 9 straipsnio 1 dalies 5 punkte nustatytas LŠS funkcijas, susijusias su pagalba policijai, Valstybės sienos apsaugos tarnybai ir kitiems krizių valdymo ir civilinės saugos sistemos subjektams, vykdant su tokiu mokymu susijusias veiklos programas, taip pat kitokią bendradarbiavimo su LŠS sutartyse numatytą pagalbą.
+
+
+
+
+2. Esant poreikiui ir galimybėms, LŠS turtas gali būti neatlygintinai saugomas vidaus reikalų sistemos statutinių įstaigų patikėjimo teise valdomuose nekilnojamojo turto objektuose statutinės įstaigos vadovui ar jo įgaliotam asmeniui priėmus sprendimą. Sprendime nurodomas saugoti priimamas turtas, turto saugojimo vieta, terminas, asmuo, įgaliotas pasirašyti pasaugos sutartį ir turto priėmimo–perdavimo aktą.
+
+
+Straipsnio pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
-
-
 
 
 
@@ -792,10 +845,10 @@ Policijos, Valstybės sienos apsaugos tarnybos, Priešgaisrinės apsaugos ir gel
 
 
 
-19 straipsnis. LŠS pagalba civilinės saugos pajėgoms
+19 straipsnis. LŠS pagalba krizių valdymo ir civilinės saugos sistemos subjektams
 
 
-1. LŠS gali padėti civilinės saugos pajėgoms:
+1. LŠS gali padėti krizių valdymo ir civilinės saugos sistemos subjektams:
 
 
 1) šalinti ekstremaliųjų įvykių padarinius ir teikti pagalbą nukentėjusiesiems, padėti patenkinti gyventojų būtinuosius poreikius, taip pat padėti vykdyti atskiras užduotis ekstremaliųjų įvykių ir ekstremaliųjų situacijų metu;
@@ -803,32 +856,44 @@ Policijos, Valstybės sienos apsaugos tarnybos, Priešgaisrinės apsaugos ir gel
 
 
 
-2) padėti vykdyti atskiras užduotis nepaprastosios padėties metu.
+2) padėti vykdyti atskiras užduotis nepaprastosios padėties metu;
+
+
+
+
+3) gresiant ar susidarius ekstremaliajai situacijai padėti vykdyti paieškos ir gelbėjimo, evakavimo ir kitus neatidėliotinus darbus; 
+
+
+
+
+4) įgyvendinti krizių valdymo ir civilinės saugos mokymą.
 
 
 
 
 
 
-2. Šio straipsnio 1 dalies 1 punkte nustatyta pagalba civilinės saugos pajėgoms teikiama apskrityje, kurios teritorijoje įvyko ar vyksta ekstremalusis įvykis ar susidarė ekstremalioji situacija, veikiančios rinktinės vado įsakymu, gavus ekstremaliosios situacijos operacijų vadovo rašytinį prašymą.
+2. Šio straipsnio 1 dalies 1 ir 3 punktuose nustatyta pagalba krizių valdymo ir civilinės saugos sistemos subjektams teikiama apskrityje, kurios teritorijoje įvyko ar vyksta ekstremalusis įvykis, gresia ar susidarė ekstremalioji situacija, veikiančios rinktinės vado įsakymu, gavus krizių valdymo ir civilinės saugos sistemos subjekto rašytinį prašymą.
 
 
 
 
-3. Šio straipsnio 1 dalies 2 punkte nustatyta pagalba civilinės saugos pajėgoms teikiama gavus institucijos, atsakingos už nepaprastosios padėties valdymą, rašytinį prašymą.
+3. Šio straipsnio 1 dalies 2 punkte nustatyta pagalba krizių valdymo ir civilinės saugos sistemos subjektams teikiama gavus institucijos, atsakingos už nepaprastosios padėties valdymą, rašytinį prašymą.
 
 
 
 
-4. Pagal šio straipsnio 1 dalies 1 punktą civilinės saugos pajėgoms padedantiems LŠS padaliniams vadovauja ekstremaliosios situacijos operacijų vadovas.
+4. Pagal šio straipsnio 1 dalies 1 ir 3 punktus krizių valdymo ir civilinės saugos sistemos subjektams padedantiems LŠS padaliniams vadovauja ekstremaliosios situacijos operacijų vadovas, o iki jį paskiriant – gelbėjimo darbų vadovas.
 
 
 
 
-5. Pagal šio straipsnio 1 dalies 2 punktą civilinės saugos pajėgoms padedantiems LŠS padaliniams vadovauja institucijos, atsakingos už nepaprastosios padėties valdymą, vadovas.
+5. Pagal šio straipsnio 1 dalies 2 punktą krizių valdymo ir civilinės saugos sistemos subjektams padedantiems LŠS padaliniams vadovauja institucijos, atsakingos už nepaprastosios padėties valdymą, vadovas.
+
+
+Straipsnio pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
-
-
 
 
 
@@ -858,11 +923,13 @@ LŠS padeda švietimo įstaigoms įgyvendinti pilietinio, patriotinio ir tautini
 22 straipsnis. Užsienio reikalų ministerijos pagalba LŠS
 
 
-Užsienio reikalų ministerija padeda LŠS kartu su išeivijos šauliais bei jų organizacijomis esant poreikiui telkti tarptautinės bendruomenės paramą valstybei.
- 
+Užsienio reikalų ministerija padeda LŠS kartu su išeivijos šauliais bei jų organizacijomis esant poreikiui telkti tarptautinės bendruomenės paramą valstybei bei užmegzti ir palaikyti ryšius su panašias funkcijas vykdančiomis užsienio valstybių organizacijomis.
  
 
 
+Straipsnio pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -886,10 +953,12 @@ Užsienio reikalų ministerija padeda LŠS kartu su išeivijos šauliais bei jų
 24 straipsnis. Šaulių pagalba savivaldybės administracijos direktoriui ar karo komendantui karo padėties metu
 
 
-Šauliai, išskyrus jaunuosius šaulius, šaulius, tarnaujančius LŠS koviniuose būriuose, LŠS vado sudarytuose LŠS ginkluoto pasipriešinimo vienetuose, Karo padėties įstatymo nustatyta tvarka ir sąlygomis priskirtuose ginkluotosioms pajėgoms, taip pat šaulius – tikrosios karo tarnybos karius, karo padėties metu padeda savivaldybės administracijos direktoriui ar karo komendantui Karo padėties įstatymo nustatytais atvejais atlikti nurodytame įstatyme savivaldybės administracijos direktoriui nustatytas funkcijas. Šauliai šiame straipsnyje nurodytą pagalbą teikia LŠS vado ar jo įgalioto asmens įsakymu, gavus savivaldybės administracijos direktoriaus ar karo komendanto prašymą.
+Šauliai, išskyrus jaunuosius šaulius, šaulius, tarnaujančius LŠS koviniuose būriuose, LŠS vado sudarytuose LŠS ginkluoto pasipriešinimo vienetuose, LŠS specializuotuose vienetuose, Karo padėties įstatymo nustatyta tvarka ir sąlygomis priskirtuose ginkluotosioms pajėgoms, taip pat šaulius – tikrosios karo tarnybos karius, karo padėties metu padeda savivaldybės administracijos direktoriui ar karo komendantui Karo padėties įstatymo nustatytais atvejais atlikti nurodytame įstatyme savivaldybės administracijos direktoriui nustatytas funkcijas. Šauliai šiame straipsnyje nurodytą pagalbą teikia LŠS vado ar jo įgalioto asmens įsakymu, gavus savivaldybės administracijos direktoriaus ar karo komendanto prašymą.
+
+
+Straipsnio pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
-
-
 
 
 
@@ -931,35 +1000,22 @@ LŠS STRUKTŪRA, CENTRINĖS INSTITUCIJOS IR MOKYMŲ CENTRAS
 27 straipsnis. LŠS struktūros organizavimo pagrindai
 
 
-1. LŠS sudaro LŠS centrinės institucijos, rinktinės ir jų padaliniai, taip pat mokymų centras.
+1. LŠS sudaro LŠS centrinės institucijos, rinktinės ir jų padaliniai, LŠS vadui tiesiogiai pavaldūs padaliniai, sudaromi LŠS veiklai koordinuoti iš nuolatinės šaulio tarnybos pareigų neatliekančių šaulių, taip pat mokymų centras.
 
 
 
 
-2. LŠS centrinės institucijos organizuoja, koordinuoja ir kontroliuoja LŠS veiklą visoje Lietuvos Respublikos teritorijoje.
+2. Rinktinės organizuoja, koordinuoja ir kontroliuoja LŠS veiklą aukštesniųjų administracinių vienetų centruose ir (ar) kitoje aukštesniųjų administracinių vienetų teritorijoje.
 
 
 
 
-3. Rinktinės organizuoja, koordinuoja ir kontroliuoja LŠS veiklą aukštesniųjų administracinių vienetų centruose ir (ar) kitoje aukštesniųjų administracinių vienetų teritorijoje.
+3. LŠS padaliniai savanoriškumo pagrindu sudaromi atsižvelgiant į pagrindines šaulių kategorijas: LŠS koviniai būriai, LŠS ginkluoto pasipriešinimo vienetai, LŠS specializuoti vienetai, neginkluoto pasipriešinimo šauliai, jaunieji šauliai.
 
 
-
-
-4. Rinktines sudaro pagal teritorijos administracinius vienetus įsteigti LŠS padaliniai (kuopos, atskiri būriai ir juos sudarantys mažesni padaliniai).
-
-
-
-
-5. LŠS padaliniai savanoriškumo pagrindu sudaromi atsižvelgiant į pagrindines šaulių kategorijas: LŠS koviniai būriai, LŠS ginkluoto pasipriešinimo vienetai, neginkluoto pasipriešinimo šauliai, jaunieji šauliai.
-
-
-
-
-6. Mokymų centre LŠS vykdo šaulių rengimą šaulio tarnybai, organizuoja kitus LŠS veiklos renginius.
+Straipsnio pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
-
-
 
 
 
@@ -997,7 +1053,9 @@ LŠS STRUKTŪRA, CENTRINĖS INSTITUCIJOS IR MOKYMŲ CENTRAS
 
 
 
-2. Šio straipsnio 1 dalyje nurodytos institucijos gali steigti jų patariamąsias ir pagalbines institucijas.
+2. Neteko galios nuo 2025-01-01
+Straipsnio dalies naikinimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
 
 
@@ -1008,7 +1066,10 @@ LŠS STRUKTŪRA, CENTRINĖS INSTITUCIJOS IR MOKYMŲ CENTRAS
 29 straipsnis. LŠS suvažiavimas
 
 
-1. LŠS suvažiavimas – aukščiausioji LŠS institucija, sudaroma iš suvažiavimo dalyvių: išrinktų rinktinių atstovų ir pagal pareigas suvažiavime dalyvaujančių šaulių. Kiekvienos rinktinės atstovų suvažiavime skaičių, proporcingą rinktinėse esančių šaulių skaičiui, iš anksto nustato LŠS Centro valdyba LŠS vado siūlymu. Pagal pareigas su balso teise LŠS suvažiavime dalyvauja LŠS vadas ir jo pavaduotojai, LŠS Centro valdybos nariai, LŠS Centro kontrolės komisijos pirmininkas, LŠS Garbės teismo pirmininkas ir rinktinių vadai.
+1. LŠS suvažiavimas – aukščiausioji LŠS institucija, sudaroma iš suvažiavimo dalyvių: išrinktų rinktinių, LŠS vadui tiesiogiai pavaldžių padalinių atstovų ir pagal pareigas suvažiavime dalyvaujančių šaulių. Kiekvienos rinktinės, LŠS vadui tiesiogiai pavaldaus padalinio atstovų suvažiavime skaičių, proporcingą rinktinėse, LŠS vadui tiesiogiai pavaldžiuose padaliniuose esančių šaulių skaičiui, iš anksto nustato LŠS Centro valdyba LŠS vado siūlymu. Pagal pareigas su balso teise LŠS suvažiavime dalyvauja LŠS vadas ir jo pavaduotojai, LŠS Centro valdybos nariai, LŠS Centro kontrolės komisijos pirmininkas, LŠS Garbės teismo pirmininkas ir rinktinių vadai. 
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -1036,42 +1097,74 @@ LŠS STRUKTŪRA, CENTRINĖS INSTITUCIJOS IR MOKYMŲ CENTRAS
 
 
 
-2) LŠS Garbės teismo pirmininko teikimu svarstomas, priimamas ir keičiamas Šaulių etikos kodeksas ir LŠS Garbės teismo reglamentas;
+2) LŠS vado teikimu, suderintu su Taryba, pritarus krašto apsaugos ministrui svarstomas ir tvirtinamas rinktinių skaičius ir rinktinių pavadinimai; 
+Papildyta straipsnio punktu:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-3) LŠS statuto nustatytais atvejais svarstomi ir priimami kiti LŠS veiklą reglamentuojantys LŠS vidaus teisės aktai;
+3) LŠS Garbės teismo pirmininko teikimu svarstomas, priimamas ir keičiamas Šaulių etikos kodeksas ir LŠS Garbės teismo reglamentas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-4) LŠS vado teikimu svarstoma, tvirtinama ir keičiama LŠS veiklos strategija;
+4) LŠS statuto nustatytais atvejais svarstomi ir priimami kiti LŠS veiklą reglamentuojantys LŠS vidaus teisės aktai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-5) Ministro Pirmininko teikimu pritariama arba nepritariama LŠS vado skyrimui, taip pat pareiškus nepasitikėjimą LŠS vadu teikiamas siūlymas Vyriausybei atleisti LŠS vadą iš pareigų nepasibaigus jo įgaliojimų terminui;
+5) LŠS vado teikimu svarstoma, tvirtinama ir keičiama LŠS veiklos strategija;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-6) LŠS vado siūlymu svarstomas ir tvirtinamas LŠS vado pavaduotojų skaičius;
+6) Ministro Pirmininko teikimu pritariama arba nepritariama LŠS vado skyrimui, taip pat pareiškus nepasitikėjimą LŠS vadu teikiamas siūlymas Vyriausybei atleisti LŠS vadą iš pareigų nepasibaigus jo įgaliojimų terminui;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-7) LŠS statuto nustatyta tvarka renkami ir atleidžiami LŠS Centro valdybos, LŠS Centro kontrolės komisijos ir LŠS Garbės teismo nariai ir jų pavaduotojai;
+7) LŠS vado siūlymu svarstomas ir tvirtinamas LŠS vado pavaduotojų skaičius;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-8) svarstomi LŠS vado, LŠS Centro kontrolės komisijos ir LŠS Garbės teismo ataskaitos ir pranešimai;
+8) LŠS statuto nustatyta tvarka renkami ir atleidžiami LŠS Centro valdybos, LŠS Centro kontrolės komisijos ir LŠS Garbės teismo nariai ir jų pavaduotojai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-9) svarstomi kiti LŠS aktualūs klausimai ir dėl jų priimami pareiškimai, rezoliucijos ir kiti dokumentai.
+9) svarstomi LŠS vado, LŠS Centro kontrolės komisijos ir LŠS Garbės teismo ataskaitos ir pranešimai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
+
+
+
+
+10) svarstomi kiti LŠS aktualūs klausimai ir dėl jų priimami sprendimai, pareiškimai, rezoliucijos ir kiti dokumentai.
+Straipsnio punkto pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -1173,7 +1266,10 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-4) mokymų centro viršininko teikimu, suderinęs su Vyriausybės įgaliotų institucijų paskirtais sąveikos pareigūnais, tvirtina šaulių kompetencijų ir įgūdžių reikalavimus, susijusius su pagalbos teikimu kariuomenei, policijai, Valstybės sienos apsaugos tarnybai, civilinės saugos pajėgoms ir švietimo įstaigoms šio įstatymo nustatytais atvejais ir tvarka, ir kompetencijų ir įgūdžių vertinimo tvarkos aprašą;
+4) mokymų centro viršininko teikimu, suderinęs su Vyriausybės įgaliotų institucijų paskirtais sąveikos pareigūnais, tvirtina šaulių kompetencijų ir įgūdžių reikalavimus, susijusius su pagalbos teikimu kariuomenei, policijai, Valstybės sienos apsaugos tarnybai, kitiems krizių valdymo ir civilinės saugos sistemos subjektams ir švietimo įstaigoms šio įstatymo nustatytais atvejais ir tvarka, ir kompetencijų ir įgūdžių vertinimo tvarkos aprašą; 
+Straipsnio punkto pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -1193,47 +1289,90 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-8) skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų rinktinių vadų pavaduotojus, o LŠS statute numatytais atvejais – ir kitus šaulius;
+8) LŠS Centro valdybos pritarimu tvirtina LŠS vadui tiesiogiai pavaldžių padalinių skaičių ir jų pavadinimus; 
+Papildyta straipsnio punktu:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-9) LŠS statute nustatytais atvejais ir tvarka skatina šaulius ir skiria jiems drausmines nuobaudas, taip pat šio įstatymo nustatyta tvarka apdovanoja piniginėmis premijomis rinktinių vadus, jų pavaduotojus ir mokymų centro viršininką;
+9) LŠS Centro valdybos pritarimu steigia mokymų centro padalinius; 
+Papildyta straipsnio punktu:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-10) vadovauja LŠS štabo veiklai, šaukia LŠS Centro valdybos posėdžius ir jiems pirmininkauja;
+10) skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų rinktinių vadų pavaduotojus, o LŠS statute numatytais atvejais – ir kitus šaulius;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-11) vykdo LŠS Garbės teismo sprendimus;
+11) LŠS statute nustatytais atvejais ir tvarka skatina šaulius ir skiria jiems drausmines nuobaudas, taip pat šio įstatymo nustatyta tvarka apdovanoja piniginėmis premijomis LŠS vado pavaduotojus, rinktinių vadus, jų pavaduotojus ir mokymų centro viršininką;
+Straipsnio punkto pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-12) kontroliuoja rinktinių vadų, mokymų centro viršininko ir kitų jam tiesiogiai pavaldžių šaulių veiklą, svarsto rinktinių vadų, mokymų centro viršininko teikiamas veiklos ataskaitas;
+12) vadovauja LŠS štabo veiklai, šaukia LŠS Centro valdybos posėdžius ir jiems pirmininkauja;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-13) LŠS Centro valdybos teikimu tvirtina metinį LŠS biudžetą, taip pat teikia LŠS Centro valdybai tvirtinti LŠS metų finansines ataskaitas;
+13) vykdo LŠS Garbės teismo sprendimus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-14) teikia krašto apsaugos ministrui siūlymus dėl valstybės biudžeto asignavimų LŠS veiklai finansuoti;
+14) kontroliuoja rinktinių vadų, mokymų centro viršininko ir kitų jam tiesiogiai pavaldžių šaulių veiklą, svarsto rinktinių vadų, mokymų centro viršininko teikiamas veiklos ataskaitas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-15) įgyvendina LŠS Centro kontrolės komisijos, vidaus ir atestuotų auditorių rekomendacijas;
+15) LŠS Centro valdybos teikimu tvirtina metinį LŠS biudžetą, taip pat teikia LŠS Centro valdybai tvirtinti LŠS metų finansines ataskaitas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
 
-16) atlieka kitas šiame įstatyme ir LŠS statute nustatytas funkcijas.
+16) teikia krašto apsaugos ministrui siūlymus dėl valstybės biudžeto asignavimų LŠS veiklai finansuoti;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
+
+
+
+
+17) įgyvendina LŠS Centro kontrolės komisijos, vidaus ir atestuotų auditorių rekomendacijas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
+
+
+
+
+18) atlieka kitas šiame įstatyme ir LŠS statute nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -1271,7 +1410,7 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-2. LŠS Centro valdyba sudaroma 3 metams. Į LŠS Centro valdybą pagal pareigas įeina LŠS vadas ir jo pavaduotojai. Kitus 9 LŠS Centro valdybos narius ir jų pavaduotojus renka LŠS suvažiavimas slaptu balsavimu. Jie negali būti skiriami rinktinių vadais ir jų pavaduotojais.
+2. LŠS Centro valdyba sudaroma 3 metams. Į LŠS Centro valdybą pagal pareigas įeina LŠS vadas ir jo pavaduotojai. Kitus 10 LŠS Centro valdybos narių ir jų pavaduotojus renka LŠS suvažiavimas slaptu balsavimu. Jie negali būti skiriami rinktinių vadais ir jų pavaduotojais.
 
 
 
@@ -1281,7 +1420,7 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-4. LŠS Centro valdybos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip 2/3 LŠS Centro valdybos narių. LŠS Centro valdybos sprendimai priimami posėdyje dalyvaujančių jos narių balsų dauguma. Jeigu šis įstatymas ir LŠS statutas nenustato kitaip, LŠS Centro valdybos sprendimai LŠS vadui yra rekomendaciniai. Šio straipsnio 5 dalies 2, 5, 6 ir 7 punktuose nurodytais klausimais priimami LŠS Centro valdybos sprendimai yra privalomi.
+4. LŠS Centro valdybos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip 2/3 LŠS Centro valdybos narių. LŠS Centro valdybos sprendimai priimami posėdyje dalyvaujančių jos narių balsų dauguma. Jeigu šis įstatymas ir LŠS statutas nenustato kitaip, LŠS Centro valdybos sprendimai LŠS vadui yra rekomendaciniai. Šio straipsnio 5 dalies 3, 6, 7, 8, 9 ir 10 punktuose nurodytais klausimais priimami LŠS Centro valdybos sprendimai yra privalomi.
 
 
 
@@ -1289,47 +1428,64 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 5. LŠS Centro valdyba:
 
 
-1) svarsto LŠS veiklos strategijos, metinių LŠS veiklos ir rinktinių veiklos planų, LŠS vidaus teisės aktų, LŠS metų biudžeto, siūlymų dėl valstybės biudžeto asignavimų LŠS veiklai finansuoti projektus;
+1) svarsto LŠS veiklos strategijos, metinių LŠS veiklos ir rinktinių veiklos planų, LŠS vidaus teisės aktų, LŠS metų biudžeto, siūlymų dėl valstybės biudžeto asignavimų LŠS veiklai finansuoti projektus ir teikia dėl jų rekomendacijas LŠS vadui;
 
 
 
 
-2) tvirtina LŠS metų finansinių ataskaitų rinkinius;
+2) teikia įstatymų leidybos iniciatyvos teisę turintiems subjektams pasiūlymus dėl LŠS veiklą reglamentuojančių teisės aktų tobulinimo bei išvadas dėl LŠS veiklą reglamentuojančių teisės aktų, išskyrus LŠS statutą, projektų;
 
 
 
 
-3) svarsto LŠS Centro kontrolės komisijos, vidaus ir atestuotų auditorių patikrinimų rezultatus, išvadas ir pasiūlymus;
+3) tvirtina LŠS metų finansinių ataskaitų rinkinius;
 
 
 
 
-4) svarsto ir vertina rinktinių ir jų valdymo institucijų veiklą;
+4) svarsto LŠS Centro kontrolės komisijos, vidaus ir atestuotų auditorių patikrinimų rezultatus, išvadas ir pasiūlymus ir teikia rekomendacijas LŠS vadui dėl jų įgyvendinimo;
 
 
 
 
-5) nustato stojamojo ir LŠS nario mokesčio dydį, taip pat tikslinių įmokų nustatymo tvarką;
+5) svarsto ir vertina rinktinių ir jų valdymo institucijų veiklą;
 
 
 
 
-6) pritaria arba nepritaria krašto apsaugos ministro teikiamoms rinktinių vadų ir mokymų centro viršininko, kurie yra profesinės karo tarnybos kariai, kandidatūroms;
+6) nustato stojamojo ir LŠS nario mokesčių dydį, taip pat tikslinių įmokų nustatymo tvarką;
 
 
 
 
-7) pritaria arba nepritaria LŠS vado teikiamoms rinktinių vadų ir mokymų centro viršininko, kurie nėra profesinės karo tarnybos kariai, kandidatūroms;
+7) pritaria arba nepritaria krašto apsaugos ministro teikiamoms rinktinių vadų ir mokymų centro viršininko, kurie yra profesinės karo tarnybos kariai, kandidatūroms;
 
 
 
 
-8) atlieka kitas šiame įstatyme ir LŠS statute nustatytas funkcijas.
+8) pritaria arba nepritaria LŠS vado teikiamoms rinktinių vadų ir mokymų centro viršininko, kurie nėra profesinės karo tarnybos kariai, kandidatūroms;
+
+
+
+
+9) pritaria arba nepritaria LŠS vadui dėl jam tiesiogiai pavaldžių padalinių skaičiaus ir jų pavadinimų tvirtinimo;
+
+
+
+
+10) pritaria arba nepritaria LŠS vadui dėl mokymų centro padalinių steigimo;
+
+
+
+
+11) atlieka kitas šiame įstatyme ir LŠS statute nustatytas funkcijas.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
-
-
-
-
 
 
 
@@ -1497,7 +1653,10 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-3) moko šaulius atlikti funkcijas, susijusias su pagalbos teikimu kariuomenei, policijai, Valstybės sienos apsaugos tarnybai, civilinės saugos pajėgoms ir švietimo įstaigoms, užtikrinant gyvybiškai svarbių valstybės funkcijų atlikimą krizių, ekstremaliųjų situacijų, mobilizacijos ir karo metu;
+3) moko šaulius atlikti funkcijas, susijusias su pagalbos teikimu kariuomenei, policijai, Valstybės sienos apsaugos tarnybai, kitiems krizių valdymo ir civilinės saugos sistemos subjektams ir švietimo įstaigoms, užtikrinant gyvybiškai svarbių valstybės funkcijų atlikimą krizių, ekstremaliųjų situacijų, mobilizacijos ir karo metu; 
+Straipsnio punkto pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -1564,7 +1723,9 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-5. Atsižvelgiant į rinktinių poreikius, mokymų centras gali būti decentralizuotas ir turėti savo filialus su tiesiogiai pavaldžiais centro darbuotojais prie rinktinių. Mokymų centro filialų mokymų programos turi būti suderintos su bendra mokymų centro šaulių kompetencijų ir įgūdžių ugdymo programa. Mokymų centro filialų steigimo tvarką nustato LŠS vadas.
+5. Atsižvelgiant į rinktinių poreikius, mokymų centras gali būti decentralizuotas ir turėti savo padalinius. Mokymų centro padalinių mokymų programos turi būti suderintos su bendra mokymų centro šaulių kompetencijų ir įgūdžių ugdymo programa.
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
 
 
@@ -1582,7 +1743,7 @@ PENKTASIS SKIRSNIS
 35 straipsnis. Narystė LŠS
 
 
-1. Šauliais gali būti tik nepriekaištingos reputacijos Lietuvos Respublikos piliečiai, mokantys valstybinę kalbą. Asmenys negali būti laikomi nepriekaištingos reputacijos, jeigu yra nustatyta bent viena iš šio straipsnio 3 dalies 3, 4, 5, 6 ar 7 punkte nurodytų sąlygų.
+1. Šauliais gali būti tik nepriekaištingos reputacijos Lietuvos Respublikos piliečiai, mokantys valstybinę kalbą. Asmenys negali būti laikomi nepriekaištingos reputacijos, jeigu yra nustatyta bent viena iš šio straipsnio 3 dalies 3–8 punktuose nurodytų sąlygų.
 
 
 
@@ -1615,29 +1776,34 @@ PENKTASIS SKIRSNIS
 
 
 
-5) per paskutinius 5 metus dėl priesaikos, kuri numatyta Konstitucijoje ar įstatymuose, sulaužymo pašalinti iš valstybės politiko, teisėjo, valstybės pareigūno pareigų ar atleisti iš tikrosios karo tarnybos ar statutinės valstybės tarnybos arba pašalinti iš karo mokymo įstaigos;
+5) per pastaruosius 5 metus dėl priesaikos, kuri numatyta Konstitucijoje ar įstatymuose, sulaužymo pašalinti iš valstybės politiko, teisėjo, valstybės pareigūno pareigų ar atleisti iš tikrosios karo tarnybos ar statutinės valstybės tarnybos arba pašalinti iš karo mokymo įstaigos;
 
 
 
 
-6) per paskutinius 10 metų pašalinti iš LŠS už šiurkščius drausminius nusižengimus;
+6) per pastaruosius 10 metų pašalinti iš LŠS už šiurkščius drausminius nusižengimus;
 
 
 
 
-7) Lietuvos Respublikos baudžiamojo kodekso, Lietuvos Respublikos administracinių nusižengimų kodekso ar šio įstatymo nustatyta tvarka pripažinti padarę teisės pažeidimą, kuris gali diskredituoti LŠS ar žeminti šaulio vardą, jeigu nuo administracinės nuobaudos, administracinio poveikio priemonės ar drausminės nuobaudos skyrimo už tokį pažeidimą arba bausmės už baudžiamąjį nusižengimą skyrimo nepraėjo vieni metai, arba įsiteisėjusiu teismo nuosprendžiu pripažinti padarę nusikaltimą ir turi neišnykusį ar nepanaikintą teistumą.
+7) Lietuvos Respublikos baudžiamojo kodekso, Lietuvos Respublikos administracinių nusižengimų kodekso ar šio įstatymo nustatyta tvarka pripažinti padarę teisės pažeidimą, kuris gali diskredituoti LŠS ar žeminti šaulio vardą, jeigu nuo administracinės nuobaudos, administracinio poveikio priemonės ar drausminės nuobaudos skyrimo už tokį pažeidimą arba bausmės už baudžiamąjį nusižengimą skyrimo nėra praėję vieni metai, arba įsiteisėjusiu teismo nuosprendžiu pripažinti padarę nusikaltimą ir turintys neišnykusį ar nepanaikintą teistumą;
+
+
+
+
+8) įgiję užsienio valstybių, kurių sąrašą, įvertinusi Nacionalinio saugumo strategijoje ir kituose planavimo dokumentuose apibrėžtus rizikos veiksnius, pavojus ir grėsmes nacionaliniam saugumui, taip pat kitų nacionalinio saugumo užtikrinimo subjektų šiuo tikslu priimtus sprendimus ar suteiktą informaciją, tvirtina Vyriausybė, pilietybę.
 
 
 
 
 
 
-4. Asmuo į LŠS priimamas LŠS vado ar jo įgalioto rinktinės vado įsakymu.
+4. Asmuo į LŠS priimamas, pašalinamas iš LŠS ir iš LŠS išstoja LŠS vado ar jo įgalioto rinktinės vado įsakymu.
 
 
 
 
-5. Asmuo, nepriimtas į LŠS, turi teisę LŠS vado ar jo įgalioto rinktinės vado įsakymą apskųsti LŠS Garbės teismui, o LŠS Garbės teismo sprendimą asmuo turi teisę apskųsti administraciniam teismui per 20 dienų nuo sprendimo gavimo dienos. LŠS Garbės teismas ar administracinis teismas, nustatęs, kad asmuo į LŠS nepriimtas nepagrįstai, įpareigoja ar LŠS vadą, ar jo įgaliotą rinktinės vadą priimti asmenį į LŠS.
+5. Asmuo, nepriimtas į LŠS, turi teisę LŠS vado ar jo įgalioto rinktinės vado įsakymą apskųsti LŠS Garbės teismui, o LŠS Garbės teismo sprendimą asmuo turi teisę apskųsti administraciniam teismui per 20 dienų nuo sprendimo gavimo dienos. LŠS Garbės teismas ar administracinis teismas, nustatęs, kad asmuo į LŠS nepriimtas nepagrįstai, įpareigoja arba LŠS vadą, arba jo įgaliotą rinktinės vadą priimti asmenį į LŠS.
 
 
 
@@ -1650,12 +1816,12 @@ PENKTASIS SKIRSNIS
 7. Asmuo šalinamas iš LŠS:
 
 
-1) netekus Lietuvos Respublikos pilietybės;
+1) kai netenka Lietuvos Respublikos pilietybės;
 
 
 
 
-2) atsiradus arba paaiškėjus bet kuriai iš šio straipsnio 3 dalies 2–7 punktuose nustatytų aplinkybių;
+2) atsiradus arba paaiškėjus bet kuriai iš šio straipsnio 3 dalies 2–8 punktuose nustatytų aplinkybių;
 
 
 
@@ -1670,32 +1836,34 @@ PENKTASIS SKIRSNIS
 
 
 
-5) LŠS vadas, jo pavaduotojai – Vyriausybės nutarimu, rinktinių vadai ir mokymų centro viršininkas – LŠS vado įsakymu pašalinti iš LŠS už šiurkštų drausminį nusižengimą, taip pat LŠS vadas ar jo pavaduotojas, kuris yra profesinės karo tarnybos karys, – Vyriausybės nutarimu patvirtinus krašto apsaugos generalinio inspektoriaus išvadą, kad asmuo, eidamas LŠS vado ar jo pavaduotojo pareigas, sulaužė šaulio priesaiką, rinktinės vadas ar mokymų centro viršininkas, kuris yra profesinės karo tarnybos karys, – krašto apsaugos ministro įsakymu, patvirtinus krašto apsaugos generalinio inspektoriaus išvadą, kad asmuo, eidamas rinktinės vado ar mokymų centro viršininko pareigas, sulaužė šaulio priesaiką;
+5) LŠS vadas, jo pavaduotojai – Vyriausybės nutarimu, rinktinių vadai ir mokymų centro viršininkas – LŠS vado įsakymu pašalinti iš LŠS už šiurkštų drausminį nusižengimą, taip pat LŠS vadas ar jo pavaduotojas, kuris yra profesinės karo tarnybos karys, – Vyriausybės nutarimu, patvirtinus krašto apsaugos generalinio inspektoriaus išvadą, kad asmuo, eidamas LŠS vado ar jo pavaduotojo pareigas, sulaužė šaulio priesaiką, rinktinės vadas ar mokymų centro viršininkas, kuris yra profesinės karo tarnybos karys, – krašto apsaugos ministro įsakymu, patvirtinus krašto apsaugos generalinio inspektoriaus išvadą, kad asmuo, eidamas rinktinės vado ar mokymų centro viršininko pareigas, sulaužė šaulio priesaiką;
 
 
 
 
-6) nesumokėjus nario mokesčio už daugiau kaip vienų metų laikotarpį;
+6) kai nesumoka nario mokesčio už daugiau kaip vienų metų laikotarpį;
 
 
 
 
-7) šio įstatymo nustatyta tvarka pripažinus padariusiu drausminį nusižengimą, diskredituojantį LŠS arba žeminantį šaulio vardą.
+7) kai šio įstatymo nustatyta tvarka yra pripažįstamas padaręs drausminį nusižengimą, diskredituojantį LŠS arba žeminantį šaulio vardą.
 
 
 
 
 
 
-8. LŠS turi teisę gauti iš visų valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų bei jų padalinių, valstybės registrų, informacinių sistemų turimą informaciją, dokumentus, duomenis, įskaitant asmens duomenis, reikalingus patikrinti, ar asmuo atitinka šio straipsnio 3 dalyje nustatytus reikalavimus, taip pat ar nėra šio straipsnio 7 dalyje nurodytų aplinkybių, o šioje dalyje nurodyti duomenų teikėjai LŠS prašymu privalo tokią informaciją, dokumentus, duomenis, įskaitant asmens duomenis, pateikti.
+8. LŠS turi teisę gauti iš visų valstybės ir savivaldybių institucijų ir įstaigų, juridinių ir fizinių asmenų, kurie įstatymais dėl savo veiklos pobūdžio yra įpareigoti kaupti atitinkamą informaciją ir pateikti ją kompetentingoms valstybės institucijoms, bei jų padalinių, valstybės registrų, informacinių sistemų turimą informaciją, dokumentus, duomenis, įskaitant asmens duomenis, reikalingus patikrinti, ar asmuo atitinka šio straipsnio 3 dalies 1–8 punktuose nustatytus reikalavimus, taip pat ar nėra šio straipsnio 7 dalyje nurodytų aplinkybių, o šioje dalyje nurodyti duomenų teikėjai LŠS prašymu privalo tokią informaciją, dokumentus, duomenis, įskaitant asmens duomenis, pateikti. 
 
 
 
 
-9. Šio įstatymo 51 straipsnyje nenurodytų šaulių asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu.
+9. Šiam įstatymui įgyvendinti reikalingus šaulių asmens duomenis LŠS tvarko LŠS informacinėje sistemoje LŠS vado patvirtintuose šios sistemos nuostatuose nustatyta tvarka ir juos teikia į Krašto apsaugos ministerijos informacinę sistemą ar įslaptintos informacijos ryšių ir informacinę sistemą. LŠS informacinės sistemos, naudojamos šaulių asmens duomenims tvarkyti, steigimo, kūrimo, atnaujinimo, pertvarkymo ir likvidavimo tvarką bei duomenų teikimo iš LŠS informacinės sistemos į Krašto apsaugos ministerijos informacinę sistemą ar įslaptintos informacijos ryšių ir informacinę sistemą reikalavimus nustato krašto apsaugos ministras.
+
+
+Straipsnio pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
-
-
 
 
 
@@ -1842,7 +2010,10 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-4) nėra įtraukti į civilinį mobilizacinį personalo rezervą;
+4) nėra įtraukti į civilinio mobilizacinio personalo rezervą; 
+Straipsnio punkto pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -1884,7 +2055,9 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-8. Šauliai, siekiantys tarnauti LŠS koviniame būryje, bet neįgiję pagrindinio karinio parengtumo, nebaigę kariuomenės vado ar jo įgalioto asmens patvirtintos bazinio kario savanorio įgūdžių kurso programos ar bazinio šaulio įgūdžių kurso programos, kreipiasi į rinktinės vadą, prašydami siųsti juos į bazinį šaulio įgūdžių kursą. Rinktinės vadas per vienus metus nuo prašymo gavimo dienos turi nusiųsti šaulį į bazinį šaulio įgūdžių kursą, kurį organizuoja LŠS vadas. Bazinio šaulio įgūdžių kurso programą, suderinęs su kariuomenės vadu arba jo įgaliotu asmeniu, tvirtina LŠS vadas.
+8. Šauliai, siekiantys tarnauti LŠS koviniame būryje, bet neįgiję pagrindinio karinio parengtumo, nebaigę kariuomenės vado ar jo įgalioto asmens patvirtintos bazinio kario savanorio įgūdžių kurso programos ar bazinio šaulio įgūdžių kurso programos, kreipiasi į rinktinės vadą, prašydami siųsti juos į bazinį šaulio įgūdžių kursą. Rinktinės vadas per vienus metus nuo prašymo gavimo dienos turi nusiųsti šaulį į bazinį šaulio įgūdžių kursą, kurį organizuoja LŠS. Bazinio šaulio įgūdžių kurso programą, suderinęs su kariuomenės vadu arba jo įgaliotu asmeniu, tvirtina LŠS vadas.
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
 
 
@@ -1892,10 +2065,10 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-40 straipsnis. Šaulio tarnyba LŠS ginkluoto pasipriešinimo vienetuose
+40 straipsnis. Šaulio tarnyba LŠS ginkluoto pasipriešinimo ir LŠS specializuotuose vienetuose
 
 
-1. LŠS ginkluoto pasipriešinimo vienetų šauliais gali būti šauliai, kurie:
+1. LŠS ginkluoto pasipriešinimo ir LŠS specializuotų vienetų šauliais gali būti šauliai, kurie:
 
 
 1) yra įgiję pagrindinį karinį parengtumą arba baigę bazinį šaulio įgūdžių kursą;
@@ -1903,7 +2076,7 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-2) pagal sveikatos būklę pateikia galiojančią medicininę patikrinimo išvadą, patvirtinančią, kad neserga ligomis ar neturi fizinių trūkumų, dėl kurių negali turėti ginklo, ir yra tinkami šaulio tarnybai LŠS ginkluoto pasipriešinimo vienete;
+2) pateikia galiojančią medicininę sveikatos patikrinimo išvadą, patvirtinančią, kad neserga ligomis ar neturi fizinių trūkumų, dėl kurių negali turėti ginklo, ir yra tinkami šaulio tarnybai LŠS ginkluoto pasipriešinimo ar LŠS specializuotame vienete;
 
 
 
@@ -1913,7 +2086,7 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-4) nėra įtraukti į civilinį mobilizacinį personalo rezervą;
+4) nėra įtraukti į civilinio mobilizacinio personalo rezervą;
 
 
 
@@ -1925,35 +2098,37 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-2. LŠS ginkluoto pasipriešinimo vienetai sudaromi laikantis atitinkamo dydžio karinių vienetų struktūrai nustatytų reikalavimų. Sudarius LŠS ginkluoto pasipriešinimo vienetą, LŠS vadas apie tai informuoja kariuomenės vadą. 
+2. LŠS ginkluoto pasipriešinimo ir LŠS specializuoti vienetai sudaromi laikantis atitinkamo dydžio karinių vienetų struktūrai nustatytų reikalavimų. Apie sudarytą LŠS ginkluoto pasipriešinimo ar LŠS specializuotą vienetą LŠS vadas informuoja kariuomenės vadą.
 
 
 
 
-3. LŠS ginkluoto pasipriešinimo vieneto šauliai rengiami pagal karinio vieneto, LŠS vado patvirtintą karinio rengimo planą. Prireikus kariuomenės vado nustatyta tvarka LŠS ginkluoto pasipriešinimo vienetai gali būti rengiami kariuomenei priskirtose karinėse teritorijose.
+3. LŠS ginkluoto pasipriešinimo ir LŠS specializuoto vieneto šauliai rengiami pagal karinio vieneto, LŠS vado patvirtintą karinio rengimo planą. Prireikus LŠS ginkluoto pasipriešinimo ir LŠS specializuoti vienetai kariuomenės vado nustatyta tvarka gali būti rengiami kariuomenei priskirtose karinėse teritorijose.
 
 
 
 
-4. Kariuomenės vado nustatyta tvarka gali būti organizuojamos karinio vieneto ir LŠS ginkluoto pasipriešinimo vieneto bendros pratybos.
+4. Kariuomenės vado nustatyta tvarka gali būti organizuojamos karinio vieneto ir LŠS ginkluoto pasipriešinimo ar LŠS specializuoto vieneto bendros pratybos.
 
 
 
 
-5. LŠS ginkluoto pasipriešinimo vienetams taikomus karinio rengimo reikalavimus ir detalią jų sąveikos su kariuomenės kariniais vienetais tvarką nustato kariuomenės vadas ar jo įgaliotas asmuo.
+5. LŠS ginkluoto pasipriešinimo ir LŠS specializuotiems vienetams taikomus karinio rengimo reikalavimus ir detalią jų sąveikos su kariuomenės kariniais vienetais tvarką nustato kariuomenės vadas ar jo įgaliotas asmuo.
 
 
 
 
-6. LŠS ginkluoto pasipriešinimo vieneto šauliai į pratybas ir mokymus šaukiami LŠS vado arba jo įgalioto rinktinės vado įsakymu.
+6. LŠS ginkluoto pasipriešinimo ir LŠS specializuoto vieneto šauliai į pratybas ir mokymus šaukiami LŠS vado arba jo įgalioto rinktinės vado įsakymu.
 
 
 
 
-7. Šauliai, siekiantys tarnauti LŠS ginkluoto pasipriešinimo vienete, bet neįgiję pagrindinio karinio parengtumo, nebaigę bazinio šaulio įgūdžių kurso programos, kreipiasi į rinktinės vadą, prašydami siųsti juos į bazinį šaulio įgūdžių kursą. Rinktinės vadas per vienus metus nuo prašymo gavimo dienos turi nusiųsti šaulį į bazinį šaulio įgūdžių kursą, kurį organizuoja LŠS vadas ar rinktinės vadas. Bazinio šaulio įgūdžių kurso programą, suderinęs su kariuomenės vadu arba jo įgaliotu asmeniu, tvirtina LŠS vadas.
+7. Šauliai, siekiantys tarnauti LŠS ginkluoto pasipriešinimo ar LŠS specializuotame vienete, bet neįgiję pagrindinio karinio parengtumo, nebaigę bazinio šaulio įgūdžių kurso programos, kreipiasi į rinktinės vadą, prašydami siųsti juos į bazinį šaulio įgūdžių kursą. Rinktinės vadas per vienus metus nuo prašymo gavimo dienos turi nusiųsti šaulį į bazinį šaulio įgūdžių kursą, kurį organizuoja LŠS. Bazinio šaulio įgūdžių kurso programą, suderinęs su kariuomenės vadu arba jo įgaliotu asmeniu, tvirtina LŠS vadas.
+
+
+Straipsnio pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
-
-
 
 
 
@@ -1990,10 +2165,15 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-42 straipsnis. Šaulių teisės ir pareigos, kai LŠS teikia pagalbą policijai, Valstybės sienos apsaugos tarnybai bei civilinės saugos pajėgoms
+42 straipsnis. Šaulių teisės ir pareigos, kai LŠS teikia pagalbą policijai, Valstybės sienos apsaugos tarnybai bei kitiems krizių valdymo ir civilinės saugos sistemos subjektams 
+Pakeistas straipsnio pavadinimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
-1. Kai LŠS teikia šio įstatymo 17 straipsnio 1 dalyje nustatytą pagalbą policijai, 18 straipsnio 1 dalyje nustatytą pagalbą Valstybės sienos apsaugos tarnybai ar 19 straipsnio 1 dalyje nustatytą pagalbą civilinės saugos pajėgoms, šauliai turi šias teises:
+1. Kai LŠS teikia šio įstatymo 17 straipsnio 1 dalyje nustatytą pagalbą policijai, 18 straipsnio 1 dalyje nustatytą pagalbą Valstybės sienos apsaugos tarnybai ar 19 straipsnio 1 dalyje nustatytą pagalbą krizių valdymo ir civilinės saugos sistemos subjektams, šauliai turi šias teises: 
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
 
 
 1) įstatymų ir kitų teisės aktų nustatyta tvarka kartu su policijos ir Valstybės sienos apsaugos tarnybos pareigūnais panaudoti prievartą, specialiąsias priemones ir šaunamuosius ginklus;
@@ -2023,7 +2203,9 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-2. Kai LŠS teikia šio įstatymo 17 straipsnio 1 dalyje nustatytą pagalbą policijai, 18 straipsnio 1 dalyje nustatytą pagalbą Valstybės sienos apsaugos tarnybai ar 19 straipsnio 1 dalyje nustatytą pagalbą civilinės saugos pajėgoms, šauliai privalo:
+2. Kai LŠS teikia šio įstatymo 17 straipsnio 1 dalyje nustatytą pagalbą policijai, 18 straipsnio 1 dalyje nustatytą pagalbą Valstybės sienos apsaugos tarnybai ar 19 straipsnio 1 dalyje nustatytą pagalbą krizių valdymo ir civilinės saugos sistemos subjektams, šauliai privalo: 
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
 
 
 1) gerbti žmogaus teises ir laisves;
@@ -2512,7 +2694,15 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-11) piktnaudžiavimas tarnyba, tai yra tyčinis pasinaudojimas tarnybine padėtimi savanaudiškais, priešingais LŠS interesams tikslais.
+11) piktnaudžiavimas tarnyba, tai yra tyčinis pasinaudojimas tarnybine padėtimi savanaudiškais, priešingais LŠS interesams tikslais;
+
+
+
+
+12) Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 211 straipsnyje nurodyto apribojimo pažeidimas.
+Papildyta straipsnio punktu:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -2765,7 +2955,10 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-4. Šauliai, kurie dalyvauja bendrose karinių vienetų ir LŠS padalinių pratybose, karinių vienetų kovinio parengimo pratybose, aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas karių fiziologines mitybos normas.
+4. Šauliai, kurie dalyvauja bendrose karinių vienetų ir LŠS padalinių pratybose, karinių vienetų kovinio parengimo pratybose, aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas karių fiziologines mitybos normas, maitinimo išlaidas apmokant iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti. 
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -2790,7 +2983,18 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-9. Šio straipsnio 1, 2 ir 3 dalyse nustatytos garantijos netaikomos LŠS vadui ir šauliams, einantiems šio įstatymo 50 straipsnyje nurodytas pareigas.
+9. Šauliams, kurių materialinė būklė sunki dėl jų pačių ligos, artimųjų giminaičių, įtėvių, įvaikių, įbrolių, įseserių, sutuoktinio, partnerio, sugyventinio, taip pat sutuoktinio, partnerio, sugyventinio tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių) bei išlaikytinių, kurių globėju ar rūpintoju yra paskirtas šaulys, ligos ar mirties, stichinės nelaimės ar turto netekimo, jų rašytiniu prašymu gali būti skiriama iki 5 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių pašalpa. LŠS vadui pašalpa skiriama krašto apsaugos ministro sprendimu, kitiems šauliams – LŠS vado sprendimu. LŠS vadui, LŠS vado pavaduotojams, rinktinių vadams, rinktinių vadų pavaduotojams ir mokymų centro viršininkui, kitas nuolatinės šaulio tarnybos pareigas, kurių sąrašą tvirtina Vyriausybė, einantiems šauliams pašalpos mokamos iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti, kitiems šauliams – iš kitų LŠS lėšų. Pašalpa šauliui nemokama, jeigu jis turi teisę gauti materialinę pašalpą kitų teisės aktų, reglamentuojančių tokios pat paskirties pašalpų ar materialinės pagalbos skyrimą, nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
+
+
+
+
+10. Šio straipsnio 1, 2 ir 3 dalyse nustatytos garantijos netaikomos LŠS vadui ir šauliams, einantiems šio įstatymo 50 straipsnyje nurodytas pareigas.
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
 
 
@@ -2813,17 +3017,17 @@ AŠTUNTASIS SKIRSNIS
 
 
 
-2. LŠS vado pavaduotojais 3 metams skiriami turintys aukštąjį išsilavinimą ir ne žemesnio kaip majoro (komandoro leitenanto) laipsnio profesinės karo tarnybos kariai, kurie ne mažiau kaip 6 mėnesius iki jų kandidatūros teikimo yra LŠS nariai, o rinktinių vadais 3 metams skiriami turintys aukštąjį išsilavinimą šauliai, kurie yra ne žemesnio kaip kapitono (kapitono leitenanto) laipsnio profesinės karo tarnybos kariai. LŠS vado pavaduotojais ir rinktinių vadais gali būti skiriami šauliai, kurie turi šiame straipsnyje nustatytą išsilavinimą, nustatytą laiką iki jų kandidatūros teikimo yra LŠS nariai ir yra įgiję pagrindinį karinį parengtumą, bet nėra profesinės karo tarnybos kariai. Jeigu LŠS vadas turi 3 ar mažiau pavaduotojų, bent vienas iš jų turi būti ne žemesnio kaip majoro (komandoro leitenanto) laipsnio profesinės karo tarnybos karys, o jeigu daugiau kaip 3, bent 2 iš jų turi būti ne žemesnio kaip majoro (komandoro leitenanto) laipsnio profesinės karo tarnybos kariai. Mokymų centro viršininku 3 metams skiriamas įgijęs magistro kvalifikacinį laipsnį arba kvalifikaciją, įgyjamą baigus vientisąsias studijas, turintis ne mažesnę kaip 5 metų patirtį vykdant veiklą, susijusią su nacionaliniu saugumu ir gynyba, viešuoju saugumu ar civiline sauga, ne žemesnio kaip kapitono (kapitono leitenanto) laipsnio profesinės karo tarnybos karys. Mokymų centro viršininku gali būti skiriamas šioje dalyje nustatytą išsilavinimą įgijęs ir veiklos patirtį turintis šaulys bei įgijęs pagrindinį karinį parengtumą šaulys, kuris nėra profesinės karo tarnybos karys. LŠS vado pavaduotoju, rinktinės vadu ar mokymų centro viršininku paskirtas asmuo privalo sustabdyti savo narystę ir veiklą politinėse partijose iki savo kadencijos pabaigos, nutraukti narystę ir veiklą politiniuose komitetuose. Rinktinės vado pavaduotojais 3 metams skiriami šauliai, turintys ne žemesnį kaip aukštąjį koleginį, iki 2009 metų įgytą aukštesnįjį arba iki 1995 metų įgytą specialųjį vidurinį išsilavinimą.
+2. LŠS vado pavaduotojais 3 metams skiriami aukštąjį išsilavinimą turintys ir ne žemesnio kaip majoro (komandoro leitenanto) laipsnio profesinės karo tarnybos kariai, kurie ne trumpiau kaip 6 mėnesius iki jų kandidatūros teikimo yra LŠS nariai, o rinktinių vadais 3 metams skiriami aukštąjį išsilavinimą turintys šauliai, kurie yra ne žemesnio kaip kapitono (kapitono leitenanto) laipsnio profesinės karo tarnybos kariai. LŠS vado pavaduotojais ir rinktinių vadais gali būti skiriami šauliai, kurie turi šiame straipsnyje nustatytą išsilavinimą, nustatytą laiką iki jų kandidatūros teikimo yra LŠS nariai ir yra įgiję pagrindinį karinį parengtumą arba baigę bazinį šaulio įgūdžių kursą, bet nėra profesinės karo tarnybos kariai. Bazinio šaulio įgūdžio kurso baigimo reikalavimas gali būti taikomas tik tiems LŠS vado pavaduotojams ir rinktinių vadams, kurių funkcija yra koordinuoti jaunųjų šaulių veiklą. Jeigu LŠS vadas turi 3 ar mažiau pavaduotojų, bent vienas iš jų turi būti ne žemesnio kaip majoro (komandoro leitenanto) laipsnio profesinės karo tarnybos karys, o jeigu daugiau kaip 3, bent 2 iš jų turi būti ne žemesnio kaip majoro (komandoro leitenanto) laipsnio profesinės karo tarnybos kariai. Mokymų centro viršininku 3 metams skiriamas aukštąjį universitetinį išsilavinimą ir ne trumpesnę kaip 5 metų patirtį vykdant veiklą, susijusią su nacionaliniu saugumu ir gynyba, viešuoju saugumu ar civiline sauga, turintis, ne žemesnio kaip kapitono (kapitono leitenanto) laipsnio profesinės karo tarnybos karys. Mokymų centro viršininku gali būti skiriamas šioje dalyje nustatytą išsilavinimą įgijęs ir veiklos patirtį turintis šaulys bei įgijęs pagrindinį karinį parengtumą arba baigęs bazinį šaulio įgūdžių kursą šaulys, kuris nėra profesinės karo tarnybos karys. LŠS vado pavaduotoju, rinktinės vadu ar mokymų centro viršininku paskirtas asmuo privalo iki savo kadencijos pabaigos sustabdyti savo narystę ir veiklą politinėse partijose, nutraukti narystę ir veiklą politiniuose komitetuose. Rinktinės vado pavaduotojais 3 metams skiriami šauliai, turintys ne žemesnį kaip aukštąjį koleginį, iki 2009 m. įgytą aukštesnįjį arba iki 1995 m. įgytą specialųjį vidurinį išsilavinimą. LŠS vado pavaduotojo, rinktinės vado ir mokymų centro viršininko, kurie nėra profesinės karo tarnybos kariai, kadencijų skaičius neribojamas.
 
 
 
 
-3. Jeigu į LŠS vado pavaduotojo, rinktinės vado ar mokymų centro viršininko pareigas skiriamas šaulys yra profesinės karo tarnybos karys, jis perkeliamas į šias pareigas ir pasibaigus įgaliojimų terminui atleidžiamas iš jų Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka. Pasibaigus įgaliojimų laikui, LŠS vado pavaduotojas, rinktinės vadas ar mokymų centro viršininkas, kuris yra profesinės karo tarnybos karys, atleidžiamas iš pareigų ir Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka perkeliamas į kitas profesinės karo tarnybos kario pareigas ar laikinąjį profesinės karo tarnybos personalo rezervą. Nepasibaigus įgaliojimų terminui, LŠS vado pavaduotojas, rinktinės vadas ar mokymų centro viršininkas, kuris yra profesinės karo tarnybos karys, atleidžiamas iš pareigų nutraukus su juo profesinės karo tarnybos sutartį Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytais pagrindais, taip pat jam išstojus iš LŠS, pašalinus jį iš LŠS ar praradus LŠS vado pasitikėjimą. Jeigu LŠS vado pavaduotojas, rinktinės vadas ar mokymų centro viršininkas, kuris yra profesinės karo tarnybos karys, atleidžiamas iš pareigų nepasibaigus jo įgaliojimų terminui, bet jo profesinės karo tarnybos sutartis nenutraukiama, jis Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka perkeliamas į kitas profesinės karo tarnybos kario pareigas ar laikinąjį profesinės karo tarnybos personalo rezervą.
+3. Jeigu į LŠS vado pavaduotojo, rinktinės vado ar mokymų centro viršininko pareigas skiriamas šaulys yra profesinės karo tarnybos karys, jis perkeliamas į šias pareigas ir pasibaigus įgaliojimų terminui atleidžiamas iš jų Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka. Pasibaigus įgaliojimų laikui, LŠS vado pavaduotojas, rinktinės vadas ar mokymų centro viršininkas, kuris yra profesinės karo tarnybos karys, atleidžiamas iš pareigų ir Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka perkeliamas į kitas profesinės karo tarnybos kario pareigas ar laikinąjį profesinės karo tarnybos personalo rezervą. Nepasibaigus įgaliojimų terminui, LŠS vado pavaduotojas, rinktinės vadas ar mokymų centro viršininkas, kuris yra profesinės karo tarnybos karys, atleidžiamas iš pareigų nutraukus su juo profesinės karo tarnybos sutartį Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytais pagrindais, taip pat kai jis išstoja iš LŠS, pašalinamas iš LŠS ar praranda LŠS vado pasitikėjimą. Jeigu LŠS vado pavaduotojas, rinktinės vadas ar mokymų centro viršininkas, kuris yra profesinės karo tarnybos karys, atleidžiamas iš pareigų nepasibaigus jo įgaliojimų terminui, bet jo profesinės karo tarnybos sutartis nenutraukiama, jis Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka perkeliamas į kitas profesinės karo tarnybos kario pareigas ar laikinąjį profesinės karo tarnybos personalo rezervą.
 
 
 
 
-4. Šaulys, kuris nėra profesinės karo tarnybos karys, paskirtas į LŠS vado pavaduotojo pareigas, įgaliojimų terminui sudaro darbo sutartį su Krašto apsaugos ministerija, o paskirtas į rinktinės vado ar mokymų centro viršininko pareigas – su LŠS. Pasibaigus įgaliojimų terminui, darbo sutartis su LŠS vado pavaduotoju, rinktinės vadu ar mokymų centro viršininku nutraukiama ir jis atleidžiamas iš pareigų. Nepasibaigus įgaliojimų terminui, LŠS vado pavaduotojas atleidžiamas iš pareigų Krašto apsaugos ministerijai nutraukus su juo darbo sutartį Darbo kodekse nustatytais pagrindais. Nepasibaigus įgaliojimų terminui, rinktinės vadas ar mokymų centro viršininkas atleidžiamas iš pareigų LŠS nutraukus su juo darbo sutartį. LŠS vado pavaduotojas taip pat atleidžiamas iš pareigų ir Krašto apsaugos ministerija nutraukia su juo darbo sutartį nesibaigus įgaliojimų terminui jam išstojus iš LŠS, pašalinus jį iš LŠS ar praradus LŠS vado pasitikėjimą. Rinktinės vadas ar mokymų centro viršininkas taip pat atleidžiamas iš pareigų ir LŠS nutraukia su juo darbo sutartį nesibaigus įgaliojimų terminui jam išstojus iš LŠS, pašalinus jį iš LŠS ar praradus LŠS vado pasitikėjimą.
+4. Šaulys, kuris nėra profesinės karo tarnybos karys, paskirtas į LŠS vado pavaduotojo pareigas, įgaliojimų terminui sudaro darbo sutartį su Krašto apsaugos ministerija, o paskirtas į rinktinės vado ar mokymų centro viršininko pareigas – su LŠS. Pasibaigus įgaliojimų terminui, darbo sutartis su LŠS vado pavaduotoju, rinktinės vadu ar mokymų centro viršininku nutraukiama ir jis atleidžiamas iš pareigų. Nepasibaigus įgaliojimų terminui, LŠS vado pavaduotojas atleidžiamas iš pareigų Krašto apsaugos ministerijai nutraukus su juo darbo sutartį Darbo kodekse nustatytais pagrindais. Nepasibaigus įgaliojimų terminui, rinktinės vadas ar mokymų centro viršininkas atleidžiamas iš pareigų LŠS nutraukus su juo darbo sutartį. LŠS vado pavaduotojas taip pat atleidžiamas iš pareigų ir Krašto apsaugos ministerija nutraukia su juo darbo sutartį nesibaigus įgaliojimų terminui, kai jis išstoja iš LŠS, pašalinamas iš LŠS ar praranda LŠS vado pasitikėjimą. Rinktinės vadas ar mokymų centro viršininkas taip pat atleidžiamas iš pareigų ir LŠS nutraukia su juo darbo sutartį nesibaigus įgaliojimų terminui, kai jis išstoja iš LŠS, pašalinamas iš LŠS ar praranda LŠS vado pasitikėjimą.
 
 
 
@@ -2833,46 +3037,37 @@ AŠTUNTASIS SKIRSNIS
 
 
 
-6. LŠS vado pavaduotojui mokamos pareiginės algos dydis yra lygus pulkininko leitenanto (komandoro) laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais ir vėlesniais tarnybos metais priklausančiam tarnybiniam atlyginimui atitinkamai pagal einant šias pareigas dirbtus metus. Rinktinės vadui, mokymų centro viršininkui mokamos pareiginės algos dydis yra lygus majoro (komandoro leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais ir vėlesniais tarnybos metais priklausančiam tarnybiniam atlyginimui atitinkamai pagal einant šias pareigas dirbtus metus. Antrą ir kitus kartus į LŠS vado pavaduotojo ar rinktinės vado, mokymų centro viršininko pareigas paskirtam asmeniui mokamos pareiginės algos dydis yra lygus atitinkamai pulkininko leitenanto (komandoro) ar majoro (komandoro leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui atitinkamai pagal šiuos laipsnius ištarnautus metus priklausančiam tarnybiniam atlyginimui.
+6. Šaulys į rinktinės vado pavaduotojo pareigas skiriamas LŠS vado įsakymu, LŠS su juo sudaro darbo sutartį, jo pareigybės aprašymą tvirtina LŠS vadas LŠS Centro valdybos pritarimu. Rinktinės vado pavaduotojo kadencijų skaičius neribojamas.
 
 
 
 
-7. Šaulys eiti rinktinės vado pavaduotojo pareigas skiriamas LŠS vado įsakymu, LŠS su juo sudaro darbo sutartį. Rinktinės vado pavaduotojui mokamos pareiginės algos dydis yra lygus kapitono (kapitono leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais ir vėlesniais tarnybos metais priklausančiam tarnybiniam atlyginimui atitinkamai pagal einant šias pareigas dirbtus metus. Antrą ir kitus kartus į rinktinės vado pavaduotojo pareigas paskirtam asmeniui mokamos pareiginės algos dydis yra lygus kapitono (kapitono leitenanto) laipsnį turinčiam profesinės karo tarnybos kariui atitinkamai pagal šį laipsnį ištarnautus metus priklausančiam tarnybiniam atlyginimui.
+7. LŠS vadas už labai gerą tarnybos įvertinimą piniginėmis premijomis gali apdovanoti savo pavaduotojus, rinktinių vadus, jų pavaduotojus ir mokymų centro viršininką. LŠS vado pavaduotojams, rinktinių vadams, jų pavaduotojams ir mokymų centro viršininkui, kurie yra profesinės karo tarnybos kariai, piniginė premija gali būti skiriama už labai gerą ir puikų tarnybos įvertinimą. Premija gali būti skiriama ne daugiau kaip kartą per metus ir negali viršyti apdovanojamam asmeniui nustatytos pareiginės algos dydžio. LŠS vado pavaduotojų, rinktinių vadų, rinktinių vadų pavaduotojų ir mokymų centro viršininko tarnybos vertinimo tvarką nustato Vyriausybė.
 
 
 
 
-8. Vyriausybė LŠS vado teikimu gali apdovanoti piniginėmis premijomis už labai gerą tarnybos įvertinimą LŠS vado pavaduotojus, LŠS vadas – rinktinių vadus, jų pavaduotojus ir mokymų centro viršininką. LŠS vado pavaduotojams, rinktinių vadams, jų pavaduotojams ir mokymų centro viršininkui, kurie yra profesinės karo tarnybos kariai, piniginė premija gali būti skiriama už labai gerą ir puikų tarnybos įvertinimą. Premija gali būti skiriama ne daugiau kaip kartą per metus ir negali viršyti apdovanojamam asmeniui nustatytos pareiginės algos dydžio. LŠS vado pavaduotojų, rinktinių vadų, rinktinių vadų pavaduotojų ir mokymų centro viršininko tarnybos vertinimo tvarką nustato Vyriausybė. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
- 
+8. LŠS vadas už asmeninį išskirtinį indėlį įgyvendinant LŠS tikslus arba už pasiektus rezultatus ir įgyvendintus uždavinius piniginėmis premijomis gali apdovanoti kitas nuolatinės šaulio tarnybos pareigas, kurių sąrašą tvirtina Vyriausybė, einančius šaulius. Premija gali būti skiriama ne daugiau kaip kartą per metus, premijos dydis negali viršyti apdovanojamam asmeniui nustatytos pareiginės algos dydžio.
 
 
 
 
-9. LŠS vado pavaduotojai, rinktinių vadai ir mokymų centro viršininkas yra tiesiogiai pavaldūs LŠS vadui, taip pat LŠS vado pavaduotojai atskaitingi LŠS vadui ir Vyriausybei, rinktinių vadai ir mokymų centro viršininkas – LŠS vadui ir LŠS Centro valdybai.
+9. LŠS vado pavaduotojai, rinktinių vadai ir mokymų centro viršininkas yra tiesiogiai pavaldūs LŠS vadui, LŠS vado pavaduotojai atskaitingi LŠS vadui ir Vyriausybei, rinktinių vadai ir mokymų centro viršininkas – LŠS vadui ir LŠS Centro valdybai. LŠS rinktinių vadų ir mokymų centro viršininko pareigybių aprašymus tvirtina LŠS vadas LŠS Centro valdybos pritarimu.
 
 
 
 
-10. Eiti kitas, ne LŠS vado pavaduotojo, rinktinės vado, rinktinės vado pavaduotojo ar mokymų centro viršininko, nuolatinės šaulio tarnybos pareigas šauliai gali būti skiriami LŠS vado įsakymu, LŠS su jais sudaro darbo sutartis. Kitų, ne LŠS vado pavaduotojo, rinktinės vado ar rinktinės vado pavaduotojo, nuolatinės šaulio tarnybos pareigų, kurias einantiems šauliams darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti, sąrašą LŠS Centro valdybos pritarimu LŠS vado teikimu tvirtina Vyriausybė, o šias pareigas einančių šaulių pareigybių aprašymus tvirtina, darbo apmokėjimo sistemą nustato LŠS vadas LŠS Centro valdybos pritarimu, suderinęs su krašto apsaugos ministru, mutatis mutandis vadovaudamasis Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nuostatomis, taikomomis biudžetinių įstaigų darbuotojų pareigybių aprašymams ir darbo apmokėjimo sistemai nustatyti. Kitų nuolatinės šaulio tarnybos pareigų, kurias einantiems šauliams darbo užmokestis mokamas ne iš valstybės biudžeto asignavimų, sąrašą LŠS Centro valdybos pritarimu nustato LŠS vadas. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
- 
+10. Eiti kitas, ne LŠS vado pavaduotojo, rinktinės vado, rinktinės vado pavaduotojo ar mokymų centro viršininko, nuolatinės šaulio tarnybos pareigas šauliai gali būti skiriami LŠS vado įsakymu, LŠS su jais sudaro darbo sutartis. Kitų, ne LŠS vado pavaduotojo, rinktinės vado ar rinktinės vado pavaduotojo, nuolatinės šaulio tarnybos pareigų, kurias einantiems šauliams darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti, sąrašą LŠS Centro valdybos pritarimu LŠS vado teikimu, suderintu su krašto apsaugos ministru, tvirtina Vyriausybė, o šias pareigas einančių šaulių pareigybių aprašymus tvirtina LŠS vadas LŠS Centro valdybos pritarimu. LŠS vado pavaduotojų, rinktinių vadų, rinktinių vadų pavaduotojų, mokymų centro viršininko ir kitas nuolatinės šaulio tarnybos pareigas, kurių sąrašą tvirtina Vyriausybė, einančių šaulių darbo apmokėjimo sistemą nustato LŠS vadas LŠS Centro valdybos pritarimu, suderinęs su krašto apsaugos ministru, mutatis mutandis vadovaudamasis Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nuostatomis, taikomomis biudžetinių įstaigų darbuotojų pareigybių aprašymams ir darbo apmokėjimo sistemai nustatyti. Kitų nuolatinės šaulio tarnybos pareigų, kurias einantiems šauliams darbo užmokestis mokamas ne iš valstybės biudžeto asignavimų, sąrašą LŠS Centro valdybos pritarimu nustato LŠS vadas.
 
 
 
 
-11. Kitas, ne LŠS vado pavaduotojo, rinktinės vado, rinktinės vado pavaduotojo ar mokymų centro viršininko, nuolatinės šaulio tarnybos pareigas einančių šaulių, kuriems darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti, kasmetinės veiklos vertinimas atliekamas mutatis mutandis vadovaujantis Vyriausybės ar jos įgaliotos institucijos nustatyta biudžetinių įstaigų darbuotojų, dirbančių pagal darbo sutartis, veiklos vertinimo tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
- 
+11. Kitas, ne LŠS vado pavaduotojo, rinktinės vado, rinktinės vado pavaduotojo ar mokymų centro viršininko, nuolatinės šaulio tarnybos pareigas einančių šaulių, kuriems darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti, kasmetinės veiklos vertinimas atliekamas mutatis mutandis vadovaujantis Vyriausybės ar jos įgaliotos institucijos nustatyta biudžetinių įstaigų darbuotojų, dirbančių pagal darbo sutartį, veiklos vertinimo tvarka.
 
 
 
 
-12. Kai tai būtina LŠS pratyboms, mokymams ar kitiems renginiams organizuoti ar jiems vadovauti, kasdienė LŠS vado pavaduotojų, rinktinių vadų, rinktinių vadų pavaduotojų, mokymų centro viršininko, taip pat pagal darbo sutartis su LŠS dirbančių šaulių darbo laiko trukmė gali viršyti 8 darbo valandas, nepažeidžiant Darbo kodekse nustatytų maksimaliojo darbo laiko reikalavimų.
+12. Kai tai būtina LŠS pratyboms, mokymams ar kitiems renginiams organizuoti ar jiems vadovauti, kasdienė LŠS vado pavaduotojų, rinktinių vadų, rinktinių vadų pavaduotojų, mokymų centro viršininko, taip pat pagal darbo sutartį su LŠS dirbančių šaulių darbo laiko trukmė gali viršyti 8 darbo valandas, nepažeidžiant Darbo kodekse nustatytų maksimaliojo darbo laiko reikalavimų.
 
 
 
@@ -2885,17 +3080,19 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-2) jiems išstojus iš LŠS;
+2) kai jie išstoja iš LŠS;
 
 
 
 
-3) juos pašalinus iš LŠS.
+3) kai jie pašalinami iš LŠS.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
-
-
-
-
 
 
 
@@ -2916,34 +3113,28 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-52 straipsnis. Šaulių, skiriamų į LŠS kovinius būrius ir tarnaujančių šiuose būriuose, asmens duomenų tvarkymas
+52 straipsnis. Šaulių asmens duomenų tvarkymas
 
 
-1. LŠS, kariuomenė, taip pat Krašto apsaugos ministerija, administruodamos LŠS kovinius būrius, asmenų, skiriamų į LŠS kovinius būrius ir tarnaujančių šiuose būriuose, asmens duomenis tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) ir šiuo įstatymu. Šiais tikslais LŠS, kariuomenė, taip pat Krašto apsaugos ministerija turi teisę tvarkyti ir specialių kategorijų asmens duomenis.
+1. LŠS, kariuomenė, taip pat Krašto apsaugos ministerija, įgyvendindamos šį įstatymą, šaulių asmens duomenis tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) ir šiuo įstatymu. Šiais tikslais LŠS, kariuomenė, taip pat Krašto apsaugos ministerija turi teisę tvarkyti ir specialių kategorijų asmens duomenis.
 
 
 
 
-2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams (asmenims, skiriamiems į LŠS kovinius būrius ir tarnaujantiems šiuose būriuose) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 12 straipsnyje, 14 straipsnio 1, 2 ir 3 dalyse nustatytos duomenų subjektų (asmenų, skiriamų į LŠS kovinius būrius ir tarnaujančių šiuose būriuose) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (ar) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma arba gali būti sukliudyta planuoti, organizuoti ir (ar) vykdyti LŠS koviniams būriams nustatytas užduotis. LŠS kovinius būrius administruojanti LŠS ar jos padalinys LŠS vado nustatyta tvarka ir LŠS kovinius būrius administruojančios krašto apsaugos sistemos institucijos krašto apsaugos ministro ar jo įgalioto asmens nustatyta tvarka turi kiekvienu konkrečiu atveju įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, šių prašymu.
+2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams (šauliams) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 12 straipsnyje, 14 straipsnio 1, 2 ir 3 dalyse nustatytos duomenų subjektų (šaulių) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui (šauliui) pateikus informaciją ir (ar) įgyvendinus šioje dalyje nurodytą duomenų subjekto (šaulio) teisę gali būti neįmanoma arba sukliudyta planuoti, organizuoti ir (ar) vykdyti šiame įstatyme LŠS nustatytas užduotis ir funkcijas. LŠS savo vado nustatyta tvarka, kariuomenė, taip pat Krašto apsaugos ministerija krašto apsaugos ministro ar jo įgalioto asmens nustatyta tvarka turi kiekvienu atveju įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis grindžiamas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu.
+
+
+Straipsnio pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
 
 
 
 
-
-
-53 straipsnis. Šaulių, skiriamų į LŠS ginkluoto pasipriešinimo vienetus ir tarnaujančių šiuose vienetuose, asmens duomenų tvarkymas
-
-
-1. LŠS, kariuomenė, taip pat Krašto apsaugos ministerija, administruodamos LŠS ginkluoto pasipriešinimo vienetų, asmenų, skiriamų į LŠS ginkluoto pasipriešinimo vienetus ir tarnaujančių šiuose vienetuose, asmens duomenis tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymu ir šiuo įstatymu. Šiais tikslais LŠS, kariuomenė, taip pat Krašto apsaugos ministerija turi teisę tvarkyti ir specialių kategorijų asmens duomenis.
-
-
-
-
-2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams (asmenims, skiriamiems į LŠS ginkluoto pasipriešinimo vienetus ir tarnaujantiems šiuose vienetuose) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 12 straipsnyje, 14 straipsnio 1, 2 ir 3 dalyse nustatytos duomenų subjektų (asmenų, skiriamų į LŠS ginkluoto pasipriešinimo vienetus ir tarnaujančių šiuose vienetuose) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (ar) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma arba gali būti sukliudyta planuoti, organizuoti ir (ar) vykdyti LŠS ginkluoto pasipriešinimo vienetams nustatytas užduotis. LŠS ginkluoto pasipriešinimo vienetus administruojanti LŠS ar jos padalinys LŠS vado nustatyta tvarka ir LŠS ginkluoto pasipriešinimo vienetus administruojančios krašto apsaugos sistemos institucijos krašto apsaugos ministro ar jo įgalioto asmens nustatyta tvarka turi kiekvienu konkrečiu atveju įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, šių prašymu.
+53 straipsnis. Neteko galios nuo 2025-01-01
+Straipsnio naikinimas:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
-
-
 
 
 
@@ -2951,7 +3142,10 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 54 straipsnis. Jaunųjų šaulių šaulio tarnybos apribojimai
 
 
-1. Jaunieji šauliai negali būti skiriami atlikti šaulio tarnybos į LŠS kovinius būrius.
+1. Jaunieji šauliai negali būti skiriami atlikti šaulio tarnybos į LŠS kovinius būrius, komendantinius LŠS ginkluoto pasipriešinimo vienetus ir LŠS specializuotus vienetus.
+Straipsnio dalies pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+ 
 
 
 
@@ -3094,7 +3288,7 @@ LŠS turtą sudaro:
 
 
 
-58 straipsnis. Valstybės turto perdavimas LŠS
+58 straipsnis. Valstybės ir savivaldybių turto perdavimas LŠS
 
 
 1. Perduodant valstybės ar savivaldybių turtą LŠS valdyti, naudoti ar disponuoti juo patikėjimo teise ar panaudos pagrindais, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas taikomas tiek, kiek šio turto perdavimo LŠS nereglamentuoja šis įstatymas.
@@ -3102,40 +3296,37 @@ LŠS turtą sudaro:
 
 
 
-2. Šio įstatymo 13 straipsnio 4 dalyje nurodytu atveju sprendimą perduoti Krašto apsaugos ministerijos patikėjimo teise valdomą trumpalaikį materialųjį turtą LŠS valdyti, naudoti ir disponuoti juo patikėjimo teise priima krašto apsaugos ministras.
+2. Vyriausybės nustatyta tvarka valstybės turtas, reikalingas šio įstatymo 8 straipsnyje numatytiems LŠS uždaviniams įgyvendinti, gali būti perduodamas turto valdytojų sprendimu LŠS valdyti, naudoti ir disponuoti juo patikėjimo teise.
 
 
 
 
-3. Vyriausybės sprendimu valstybės institucijų patikėjimo teise valdomas trumpalaikis ir ilgalaikis materialusis turtas, reikalingas šio įstatymo 8 straipsnyje numatytiems LŠS uždaviniams įgyvendinti, gali būti perduotas LŠS valdyti, naudoti ir disponuoti juo patikėjimo teise.
+3. Šio įstatymo 8 straipsnyje numatytiems LŠS uždaviniams įgyvendinti LŠS laikinai neatlygintinai valdyti ir naudotis panaudos pagrindais turto valdytojų sprendimu Vyriausybės nustatyta tvarka gali būti perduodamas valstybės turtas, savivaldybės tarybos ar jos įgaliotos institucijos sprendimu savivaldybės tarybos nustatyta tvarka – savivaldybės turtas.
 
 
 
 
-4. Šio įstatymo 8 straipsnyje numatytiems LŠS uždaviniams įgyvendinti LŠS laikinai neatlygintinai valdyti ir naudotis panaudos pagrindais Vyriausybės ar jos įgaliotų turto valdytojų sprendimu Vyriausybės nustatyta tvarka gali būti perduodamas valstybės turtas, savivaldybės tarybos ar jos įgaliotų institucijų sprendimu savivaldybės tarybos nustatyta tvarka – savivaldybės turtas.
+4. Turto valdytojui priėmus sprendimą perduoti turtą šio straipsnio 2 dalyje nurodytu atveju, turtas perduodamas pagal turto perdavimo–priėmimo aktą.
 
 
 
 
-5. Vyriausybei ar krašto apsaugos ministrui priėmus sprendimą perduoti turtą šio straipsnio 2 ir 3 dalyse nurodytais atvejais, turtas perduodamas pagal turto perdavimo–priėmimo aktą.
+5. LŠS gautą valstybės ar savivaldybių turtą privalo naudoti pagal paskirtį ir tik šio įstatymo 8 straipsnyje numatytiems LŠS uždaviniams įgyvendinti, taip pat laikytis šiam turtui nustatytų gaisrinės saugos, sandėliavimo, sanitarinių ir kitų turto valdymo srities taisyklių.
 
 
 
 
-6. LŠS gautą valstybės turtą privalo naudoti pagal paskirtį ir tik šio įstatymo 8 straipsnyje numatytiems LŠS uždaviniams įgyvendinti, taip pat laikytis šiam turtui nustatytų gaisrinės saugos, sandėliavimo, sanitarinių ir kitų turto valdymo srities taisyklių.
+6. LŠS šiame straipsnyje nurodyto valstybės ar savivaldybių turto negali perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą, jo išnuomoti, suteikti panaudos pagrindais ar jo perduoti kitiems asmenims naudotis kitu būdu.
 
 
 
 
-7. LŠS šio straipsnio 2 ir 3 dalyse nurodytais atvejais valstybės turto negali perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą, jo išnuomoti, suteikti panaudos pagrindais ar perduoti jį kitiems asmenims naudotis kitu būdu.
+7. LŠS patikėjimo teise valdomas valstybės turtas pripažįstamas nereikalingu arba netinkamu (negalimu) naudoti mutatis mutandis Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatyta tvarka.
 
 
-
-
-8. LŠS patikėjimo teise valdomas valstybės turtas pripažįstamas nereikalingu arba netinkamu (negalimu) naudoti mutatis mutandis Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
  
-
-
 
 
 
@@ -3277,3 +3468,8 @@ Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 30, 37, 48 ir 50 straipsnių pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas
