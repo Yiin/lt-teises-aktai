@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
  
@@ -842,7 +842,7 @@ Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 3. Į diplomato pareigas negali būti priimtas asmuo:
 
 
-1) jeigu iš Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Valstybės tarnybos įstatymo 39 straipsnyje nurodyto registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar su kuriais diplomato tarnybos sutartis ar terminuota tarnybos sutartis buvo nutraukta dėl šių priežasčių, ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų ar diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas, iš asmens, siekiančio tapti diplomatu, užpildytos deklaracijos ar kitų duomenų, gautų šio įstatymo 6 straipsnio 4 dalyje nustatyta tvarka, paaiškėja, kad jis neatitinka nepriekaištingos reputacijos reikalavimų; 
+1) jeigu iš Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Viešojo sektoriaus darbuotojų registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar su kuriais diplomato tarnybos sutartis ar terminuota tarnybos sutartis buvo nutraukta dėl šių priežasčių, ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų ar diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas, iš asmens, siekiančio tapti diplomatu, užpildytos deklaracijos ar kitų duomenų, gautų šio įstatymo 6 straipsnio 4 dalyje nustatyta tvarka, paaiškėja, kad jis neatitinka nepriekaištingos reputacijos reikalavimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
  
@@ -2858,7 +2858,10 @@ Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
 
 
 
-2. Tarnybinio nusižengimo tyrimas, gavus oficialią informaciją apie galimą diplomato tarnybinį nusižengimą, pradedamas, o pradėtas tarnybinio nusižengimo tyrimas tęsiamas ir atitinkamas sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo priimamas taip pat kai su diplomatu, dėl kurio galimo tarnybinio nusižengimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinio nusižengimo tyrimas, nutraukiama diplomato tarnybos sutartis arba terminuota diplomato tarnybos sutartis (netenkama diplomato statuso). Šis sprendimas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perduodamas Valstybės tarnybos įstatymo 39 straipsnyje nurodytam registrui ir asmeniui, ėjusiam diplomato pareigas.
+2. Tarnybinio nusižengimo tyrimas, gavus oficialią informaciją apie galimą diplomato tarnybinį nusižengimą, pradedamas, o pradėtas tarnybinio nusižengimo tyrimas tęsiamas ir atitinkamas sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo priimamas taip pat kai su diplomatu, dėl kurio galimo tarnybinio nusižengimo gauta oficiali informacija arba dėl kurio pradėtas tarnybinio nusižengimo tyrimas, nutraukiama diplomato tarnybos sutartis arba terminuota diplomato tarnybos sutartis (netenkama diplomato statuso). Šis sprendimas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perduodamas Viešojo sektoriaus darbuotojų registrui ir asmeniui, ėjusiam diplomato pareigas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+ 
 
 
 
@@ -3711,8 +3714,10 @@ Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 
 
-13) iš Korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Valstybės tarnybos įstatymo 39 straipsnyje nurodyto registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar su kuriais diplomato tarnybos sutartis ar terminuota tarnybos sutartis buvo nutraukta dėl šių priežasčių, ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų ar diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas, ar kitų duomenų, gautų šio įstatymo 6 straipsnio 4 dalyje nustatyta tvarka, paaiškėja, kad diplomatas neatitinka nepriekaištingos reputacijos reikalavimų; 
+13) iš Korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Viešojo sektoriaus darbuotojų registro gautos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar su kuriais diplomato tarnybos sutartis ar terminuota tarnybos sutartis buvo nutraukta dėl šių priežasčių, ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų ar diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas, ar kitų duomenų, gautų šio įstatymo 6 straipsnio 4 dalyje nustatyta tvarka, paaiškėja, kad diplomatas neatitinka nepriekaištingos reputacijos reikalavimų; 
 Papildyta straipsnio punktu:
+Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
+Straipsnio punkto pakeitimai:
 Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
  
 
