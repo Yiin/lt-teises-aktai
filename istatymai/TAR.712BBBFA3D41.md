@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-12-13 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -532,6 +532,14 @@ Nr. XV-29, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22080
 
 
 
+7) orlaivių avarijų, labai sunkių laivų avarijų, sunkių geležinkelių avarijų ir sunkių lynų kelio įrenginių avarijų saugos tyrimų išlaidoms padengti.
+Papildyta straipsnio punktu:
+Nr. XIV-3074, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20018
+ 
+
+
+
+
 
 
 3. Vyriausybės rezervo lėšų skyrimo ir naudojimo tvarką nustato Vyriausybė.
@@ -755,10 +763,8 @@ VIDUTINĖS TRUKMĖS KONSOLIDUOTASIS BIUDŽETAS
 
 
 
-4. Nepaskirstyta agreguoto asignavimų limito dalis antraisiais biudžetiniais metais sudaro ne mažiau kaip 2 procentus, o trečiaisiais biudžetiniais metais – ne mažiau kaip 3 procentus tais metais nustatyto agreguoto asignavimų limito. Rengiant tam tikrų metų biudžeto patvirtinimo įstatymo projektą ir peržiūrint ankstesnių metų biudžeto patvirtinimo įstatymu nustatytų antrųjų ir trečiųjų biudžetinių metų konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytas agreguotų asignavimų limitų dalis, nepaskirstyta agreguoto asignavimų limito dalis gali būti paskirstoma konsoliduotąjį biudžetą sudarantiems biudžetams šio straipsnio 6 dalyje nustatytais atvejais. Kai tam tikrais metais kyla rizika dėl fiskalinės drausmės taisyklių nesilaikymo, tais metais nepaskirstyta agreguoto asignavimų limito dalis gali būti nenaudojama.
- 
-TAR pastaba: 18 straipsnio 4 dalies redakcija, įsigaliosianti  2025-01-01, taikoma rengiant Lietuvos Respublikos 2026–2028 ir vėlesnių metų biudžeto patvirtinimo įstatymų projektus:
-4. Nepaskirstyta agreguoto asignavimų limito dalis pirmaisiais biudžetiniais metais sudaro ne mažiau kaip 0,5 procento ir ne daugiau kaip 1 procentą tais metais nustatyto agreguoto asignavimų limito ir naudojama šio įstatymo 28 straipsnio 1 dalyje nustatytų atvejų poveikiui amortizuoti, antraisiais biudžetiniais metais sudaro ne mažiau kaip 2 procentus, o trečiaisiais biudžetiniais metais – ne mažiau kaip 3 procentus tais metais nustatytų agreguotų asignavimų limitų. Rengiant tam tikrų metų biudžeto patvirtinimo įstatymo projektą ir peržiūrint ankstesnių metų biudžeto patvirtinimo įstatymu nustatytų antrųjų ir trečiųjų biudžetinių metų konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytas agreguotų asignavimų limitų dalis, nepaskirstyta agreguoto asignavimų limito dalis gali būti paskirstoma konsoliduotąjį biudžetą sudarantiems biudžetams šio straipsnio 6 dalyje nustatytais atvejais. Kai tam tikrais metais kyla rizika dėl fiskalinės drausmės taisyklių nesilaikymo, tais metais nepaskirstyta agreguoto asignavimų limito dalis gali būti nenaudojama
+4. Nepaskirstyta agreguoto asignavimų limito dalis pirmaisiais biudžetiniais metais sudaro ne mažiau kaip 0,5 procento ir ne daugiau kaip 1 procentą tais metais nustatyto agreguoto asignavimų limito ir naudojama šio įstatymo 28 straipsnio 1 dalyje nustatytų atvejų poveikiui amortizuoti, antraisiais biudžetiniais metais sudaro ne mažiau kaip 2 procentus, o trečiaisiais biudžetiniais metais – ne mažiau kaip 3 procentus tais metais nustatytų agreguotų asignavimų limitų. Rengiant tam tikrų metų biudžeto patvirtinimo įstatymo projektą ir peržiūrint ankstesnių metų biudžeto patvirtinimo įstatymu nustatytų antrųjų ir trečiųjų biudžetinių metų konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytas agreguotų asignavimų limitų dalis, nepaskirstyta agreguoto asignavimų limito dalis gali būti paskirstoma konsoliduotąjį biudžetą sudarantiems biudžetams šio straipsnio 6 dalyje nustatytais atvejais. Kai tam tikrais metais kyla rizika dėl fiskalinės drausmės taisyklių nesilaikymo, tais metais nepaskirstyta agreguoto asignavimų limito dalis gali būti nenaudojama.
+TAR pastaba. 18 straipsnio 4 dalies redakcija taikoma rengiant Lietuvos Respublikos 2026–2028 ir vėlesnių metų biudžeto patvirtinimo įstatymų projektus.
 
 
 
