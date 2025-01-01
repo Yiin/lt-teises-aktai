@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/613244607e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23708
  
@@ -37,11 +37,12 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šio įstatymo paskirtis – šio įstatymo nustatyta tvarka užtikrinti minimalų darbuotojų apsaugos lygį jų darbdaviui tapus nemokiam, nustatyti ilgą nepertraukiamo darbo stažą turinčių darbuotojų papildomas finansines garantijas juos atleidus, užtikrinti sankcijų taikymo išmokas atleistiems darbuotojams, kurių darbdaviams pritaikytos Europos Sąjungos sankcijos pagal 2006 m. gegužės 18 d. Tarybos reglamentą (EB) Nr. 765/2006 dėl Baltarusijai taikomų ribojamųjų priemonių (toliau – Europos Sąjungos sankcijos), taip pat nustatyti išmokų Lietuvos Respublikos Vyriausybei paskelbus ekstremaliąją situaciją ar karantiną kompensavimo bei Lietuvos Respublikos užimtumo įstatyme nurodytų aktyvios darbo rinkos politikos priemonių finansavimo galimybes.
+1. Šio įstatymo paskirtis – šio įstatymo nustatyta tvarka užtikrinti minimalų darbuotojų apsaugos lygį jų darbdaviui tapus nemokiam, nustatyti ilgą nepertraukiamo darbo stažą turinčių darbuotojų papildomas finansines garantijas juos atleidus, taip pat nustatyti išmokų Lietuvos Respublikos Vyriausybei paskelbus ekstremaliąją situaciją ar karantiną kompensavimo galimybes bei Lietuvos Respublikos užimtumo įstatyme nurodytų aktyvios darbo rinkos politikos priemonių finansavimo galimybes. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
 Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
 Nr. XIV-2657, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09698
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
  
 
 
@@ -91,7 +92,9 @@ Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
 
 
 
-61. Sankcijų taikymo išmoka – atleistiems darbuotojams, kurių darbdaviams pritaikytos Europos Sąjungos sankcijos, mokama išmoka. 
+61. Neteko galios nuo 2025-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
 Papildyta straipsnio dalimi:
 Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
  
@@ -228,7 +231,9 @@ Nr. XIV-2657, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09698
 
 
 
-4. Garantinio fondo nuostatus tvirtina Vyriausybė.
+4. Garantinio fondo nuostatus tvirtina socialinės apsaugos ir darbo ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
  
 
 
@@ -423,16 +428,20 @@ Nr. XIV-1818, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05486
 
 
 III SKYRIUS
-PAPILDOMOS FINANSINĖS GARANTIJOS ILGALAIKIO DARBO IR SANKCIJŲ TAIKYMO ATVEJU 
+PAPILDOMOS FINANSINĖS GARANTIJOS ILGALAIKIO DARBO ATVEJU 
 Pakeistas skyriaus pavadinimas:
 Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
  
 
 
 9 straipsnis. Ilgalaikio darbo išmoka
 
 
-1. Teisę į ilgalaikio darbo išmoką turi asmuo, kurio darbo santykiai pagal nutraukiamą darbo sutartį su Lietuvos Respublikos jurisdikcijoje esančiu darbdaviu atleidimo iš darbo dieną nepertraukiamai tęsėsi daugiau negu penkerius metus ir kuris yra atleistas iš darbo Darbo kodekso 57 straipsnyje nurodytu pagrindu.
+1. Teisę į ilgalaikio darbo išmoką turi asmuo, kurio darbo santykiai pagal nutraukiamą darbo sutartį su Lietuvos Respublikos jurisdikcijoje esančiu darbdaviu atleidimo iš darbo dieną nepertraukiamai tęsėsi daugiau negu 5 metus ir kuris yra atleistas iš darbo Lietuvos Respublikos darbo kodekso 57 arba 62 straipsnyje nurodytu pagrindu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
+ 
 
 
 
@@ -445,19 +454,9 @@ Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
 
 
 
-91 straipsnis. Sankcijų taikymo išmoka
-
-
-1. Teisę į sankcijų taikymo išmoką turi asmuo, atleistas iš Lietuvos Respublikos jurisdikcijoje registruoto darbdavio, kuriam pritaikytos Europos Sąjungos sankcijos, arba asmuo, kurio darbdaviui pritaikytos Europos Sąjungos sankcijos ir kuriam Fondo valdybos nustatyta tvarka Registre įrašyta valstybinio socialinio draudimo pabaigos data.
-
-
-
-
-2. Sankcijų taikymo išmoka šio straipsnio 1 dalyje nurodytiems asmenims mokama iš Ilgalaikio darbo išmokų fondo ne ilgiau kaip iki 2021 m. gruodžio 31 d. 
-
-
-Papildyta straipsniu:
-Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
+91 straipsnis. Neteko galios nuo 2025-01-01
+Straipsnio naikinimas:
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
  
 
 
@@ -481,124 +480,98 @@ Nr. XIV-2657, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09698
 
 
 
-10 straipsnis. Ilgalaikio darbo išmokos ir sankcijų taikymo išmokos apskaičiavimo tvarka
+10 straipsnis. Ilgalaikio darbo išmokos apskaičiavimo tvarka
 
 
-1. Teisę į ilgalaikio darbo išmoką turinčiam darbuotojui, jį atleidus iš darbo ir kai tarp jo ir darbdavio per trijų mėnesių laikotarpį po atleidimo nesudaroma nauja darbo sutartis, iš Ilgalaikio darbo išmokų fondo skiriama:
+1. Teisę į ilgalaikio darbo išmoką turinčiam darbuotojui, jį atleidus iš darbo ir kai tarp jo ir darbdavio per 3 mėnesių laikotarpį po atleidimo nesudaroma nauja darbo sutartis, iš Ilgalaikio darbo išmokų fondo skiriama:
 
 
-1) 77,58 procento jo vidutinio mėnesinio darbo užmokesčio dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo dieną tęsėsi nuo penkerių iki dešimt metų;
-
-
-
-
-2) 77,58 procento dviejų jo vidutinių mėnesinių darbo užmokesčių dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo dieną tęsėsi nuo dešimt iki dvidešimt metų;
+1) 77,58 procento jo vidutinio mėnesinio darbo užmokesčio dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo dieną tęsėsi nuo 5 iki 10 metų;
 
 
 
 
-3) 77,58 procento trijų jo vidutinių mėnesinių darbo užmokesčių dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo dieną tęsėsi dvidešimt ir daugiau metų. 
+2) 77,58 procento 2 jo vidutinių mėnesinių darbo užmokesčių dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo dieną tęsėsi nuo 10 iki 20 metų;
+
+
+
+
+3) 77,58 procento 3 jo vidutinių mėnesinių darbo užmokesčių dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo dieną tęsėsi 20 ir daugiau metų.
 
 
 
 
 
 
-2. Teisę į sankcijų taikymo išmoką turinčiam darbuotojui iš Ilgalaikio darbo išmokų fondo skiriama 77,58 procento dviejų jo vidutinių mėnesinių darbo užmokesčių dydžio sankcijų taikymo išmoka, bet ne daugiau kaip dviejų Valstybės duomenų agentūros paskelbto šalies ūkio vidutinių mėnesinių bruto darbo užmokesčių (įtraukiant ir individualiųjų įmonių darbo užmokesčio duomenis) dydžio, galiojusio užpraeitą kalendorinį ketvirtį nuo atleidimo iš darbo dienos.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1818, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05486
- 
-
-
-
-
-3. Nustatant šio straipsnio 1 dalyje nurodytą ilgalaikio darbo ar šio straipsnio 2 dalyje nurodytą sankcijų taikymo išmokos dydį, darbuotojo mėnesinio darbo užmokesčio dydis apskaičiuojamas remiantis Registro duomenimis pagal tam darbuotojui šioje darbovietėje priskaičiuotų su darbo santykiais susijusių pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, vidurkį. Šis vidurkis apskaičiuojamas pagal paskutinių dvylikos mėnesių darbuotojo gautas su darbo santykiais susijusias pajamas Ilgalaikio darbo išmokų fondo nuostatuose nustatyta tvarka. 
-
-
-
-
-4. Jeigu, nustatant sankcijų taikymo išmokos dydį, darbuotojas nėra išdirbęs dvylikos mėnesių pas darbdavį,  asmens vidutinis darbo užmokestis, nustatant sankcijų taikymo išmokos dydį, apskaičiuojamas kaip vidurkis pagal paskutinį šioje darbovietėje darbuotojo dirbtą laikotarpį gautas su darbo santykiais susijusias pajamas. 
+2. Nustatant šio straipsnio 1 dalyje nurodytą ilgalaikio darbo išmokos dydį, darbuotojo vidutinio mėnesinio darbo užmokesčio dydis apskaičiuojamas remiantis Registro duomenimis pagal tam darbuotojui darbovietėje, iš kurios jis buvo atleistas pagal Darbo kodekso 57 arba 62 straipsnį, priskaičiuotų su darbo santykiais susijusių pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, (toliau šioje dalyje – su darbo santykiais susijusios pajamos) vidurkį. Kai darbuotojas darbovietėje, iš kurios buvo atleistas, per paskutinius 12 mėnesių bent 1 mėnesį neturėjo su darbo santykiais susijusių pajamų, už trūkstamą laikotarpį įskaitomos ir darbuotojo ankstesnėje darbovietėje, iš kurios jis buvo perkeltas į jį atleidusią darbovietę, užtikrinant jo darbo santykių tęstinumą, turėtos su darbo santykiais susijusios pajamos, jeigu jos patenka į 12 mėnesių laikotarpį iki darbuotojo atleidimo iš darbo pagal Darbo kodekso 57 ar 62 straipsnį. Šis vidurkis apskaičiuojamas pagal paskutinių 12 mėnesių, kuriais darbuotojas turėjo su darbo santykiais susijusių pajamų, darbuotojo gautas su darbo santykiais susijusias pajamas Ilgalaikio darbo išmokų fondo nuostatuose (toliau – IDIF nuostatai) nustatyta tvarka. Jeigu su darbo santykiais susijusių pajamų darbuotojas bent vieną mėnesį gavo ir jį pagal Darbo kodekso 57 arba 62 straipsnį atleidusioje darbovietėje, ir ankstesnėje darbovietėje, iš kurios jis buvo perkeltas į jį atleidusią darbovietę, užtikrinant jo darbo santykių tęstinumą, apskaičiuojant jo su darbo santykiais susijusių pajamų vidurkį, už sutampančius laikotarpius įskaitomos tik darbuotoją atleidusioje darbovietėje atitinkamą mėnesį darbuotojo gautos su darbo santykiais susijusios pajamos.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
  
 
 
 
 
-11 straipsnis. Ilgalaikio darbo išmokų ir sankcijų taikymo išmokų skyrimo ir mokėjimo tvarka
+11 straipsnis. Ilgalaikio darbo išmokų skyrimo ir mokėjimo tvarka
 
 
-1. Ilgalaikio darbo išmokos skiriamos ne anksčiau kaip praėjus trims mėnesiams nuo darbuotojo atleidimo iš darbo dienos. Ilgalaikio darbo išmokos iš Ilgalaikio darbo išmokų fondo skiriamos be asmens prašymo, jeigu to asmens duomenys yra Registre. Jeigu asmens duomenų nėra Registre, ilgalaikio darbo išmokos iš Ilgalaikio darbo išmokų fondo skiriamos, jeigu asmuo ne vėliau kaip per 12 mėnesių nuo atleidimo iš darbo dienos Ilgalaikio darbo išmokų fondo nuostatuose (toliau – IDIF nuostatai) nustatyta tvarka yra pateikęs administratoriui prašymą skirti išmoką. Ilgalaikio darbo išmokos iš biudžetinių įstaigų ir Lietuvos banko atleistiems darbuotojams darbdavio skiriamos ir mokamos mutatis mutandis šiame įstatyme ir IDIF nuostatuose nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-1818, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05486
- 
+1. Ilgalaikio darbo išmokos skiriamos ne anksčiau kaip praėjus 3 mėnesiams nuo darbuotojo atleidimo iš darbo dienos. Ilgalaikio darbo išmokos iš Ilgalaikio darbo išmokų fondo skiriamos be asmens prašymo, jeigu to asmens duomenys yra Registre. Jeigu asmens duomenų nėra Registre, ilgalaikio darbo išmokos iš Ilgalaikio darbo išmokų fondo skiriamos, jeigu asmuo ne vėliau kaip per 12 mėnesių nuo atleidimo iš darbo dienos IDIF nuostatuose nustatyta tvarka yra pateikęs administratoriui prašymą skirti išmoką. Ilgalaikio darbo išmokos iš biudžetinių įstaigų ir Lietuvos banko atleistiems darbuotojams darbdavio skiriamos ir mokamos mutatis mutandis šiame įstatyme ir IDIF nuostatuose nustatyta tvarka. 
 
 
 
 
-2. Sankcijų taikymo išmokos atleistiems asmenims skiriamos ir išmokamos ne vėliau kaip per dvidešimt darbo dienų nuo atleidimo dienos.
+2. Ilgalaikio darbo išmokos skiriamos darbuotoją atleidus iš darbo, jeigu tarp jo ir darbdavio per 3 mėnesius po atleidimo iš darbo dienos nesudaroma nauja darbo sutartis. Po ilgalaikio darbo išmokos paskyrimo nustačius, kad tarp darbuotojo ir darbdavio per 3 mėnesius po atleidimo iš darbo dienos buvo sudaryta nauja darbo sutartis, darbuotojui skirtos ilgalaikio darbo išmokos grąžinamos į Ilgalaikio darbo išmokų fondą IDIF nuostatuose nustatyta tvarka.
 
 
 
 
-3. Ilgalaikio darbo išmokos skiriamos darbuotoją atleidus iš darbo, tai yra tuo atveju, kai tarp jo ir darbdavio per tris mėnesius po atleidimo iš darbo nesudaroma nauja darbo sutartis. Po ilgalaikio darbo išmokos paskyrimo nustačius, kad tarp darbuotojo ir darbdavio per tris mėnesius po atleidimo iš darbo buvo sudaryta nauja darbo sutartis, darbuotojui skirtos ilgalaikio darbo išmokos grąžinamos į Ilgalaikio darbo išmokų fondą IDIF nuostatuose nustatyta tvarka.
+3. Ilgalaikio darbo išmokoms skirti reikalingi duomenys tikrinami naudojantis Registru ir kitomis reikalingomis duomenų bazėmis bei kita informacija.
 
 
 
 
-4. Po sankcijų taikymo išmokos paskyrimo nustačius, kad tarp darbuotojo ir darbdavio per tris mėnesius po atleidimo iš darbo buvo sudaryta nauja darbo sutartis, darbuotojui skirtos sankcijų taikymo išmokos grąžinamos į Ilgalaikio darbo išmokų fondą IDIF nuostatuose nustatyta tvarka.
+4. Ilgalaikio darbo išmokų skyrimo ir mokėjimo tvarka nustatoma IDIF nuostatuose. 
 
 
 
 
-5. Ilgalaikio darbo išmokoms ir sankcijų taikymo išmokoms skirti reikalingi duomenys tikrinami naudojantis Registru ir kitomis reikalingomis duomenų bazėmis bei kita informacija.
-
-
-
-
-6. Ilgalaikio darbo išmokų ir sankcijų taikymo išmokų skyrimo ir mokėjimo tvarka nustatoma IDIF nuostatuose. 
-
-
-
-
-7. Ilgalaikio darbo išmokos, kurios priklausė šio įstatymo 9 straipsnio 1 dalyje nurodytam darbuotojui ir kurių jis dėl savo mirties negavo, IDIF nuostatuose nustatyta tvarka išmokamos šio mirusio asmens įpėdiniams, kuriems paveldėjimo tvarka yra perėjęs jo turtas.
-Papildyta straipsnio dalimi:
-Nr. XIV-1818, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05486
- 
+5. Ilgalaikio darbo išmokos, kurios priklausė šio įstatymo 9 straipsnio 1 dalyje nurodytam darbuotojui ir kurių jis dėl savo mirties negavo, IDIF nuostatuose nustatyta tvarka išmokamos šio mirusio asmens įpėdiniams, kuriems paveldėjimo tvarka yra perėjęs jo turtas.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
  
 
 
 
 
-12 straipsnis. Ilgalaikio darbo išmokų ir sankcijų taikymo išmokų grąžinimas
+12 straipsnis. Ilgalaikio darbo išmokų grąžinimas
 
 
-Ilgalaikio darbo išmoka ir sankcijų taikymo išmoka IDIF nuostatuose nustatyta tvarka yra grąžinamos į Ilgalaikio darbo išmokų fondą, kai: 
+Ilgalaikio darbo išmoka IDIF nuostatuose nustatyta tvarka yra grąžinama į Ilgalaikio darbo išmokų fondą, kai:
 
 
-1) buvo pateikti neteisingi duomenys; 
-
-
-
-
-2) tarp darbuotojo ir darbdavio per tris mėnesius po atleidimo iš darbo buvo sudaryta nauja darbo sutartis; 
+1) buvo pateikti neteisingi duomenys, reikalingi ilgalaikio darbo išmokai skirti;
 
 
 
 
-3) darbo ginčą nagrinėjančio organo įsiteisėjusiu sprendimu atleidimas iš darbo buvo pripažintas neteisėtu. 
+2) tarp darbuotojo ir darbdavio per 3 mėnesius po atleidimo iš darbo dienos buvo sudaryta nauja darbo sutartis;
+
+
+
+
+3) darbo ginčą nagrinėjančio organo įsiteisėjusiu sprendimu atleidimas iš darbo buvo pripažintas neteisėtu.
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
  
 
 
@@ -607,9 +580,10 @@ Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
 13 straipsnis. Ilgalaikio darbo išmokų fondo paskirtis ir administravimas
 
 
-1. Ilgalaikio darbo išmokų fondas yra valstybės išteklių fondas, skirtas šio įstatymo 9 straipsnio 1 dalyje ir 91 straipsnio 1 dalyje nurodytų asmenų papildomoms finansinėms garantijoms užtikrinti. 
+1. Ilgalaikio darbo išmokų fondas yra valstybės išteklių fondas, skirtas šio įstatymo 9 straipsnio 1 dalyje nurodytų asmenų papildomoms finansinėms garantijoms užtikrinti. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
  
 
 
@@ -625,7 +599,9 @@ Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
 
 
 
-4. Ilgalaikio darbo išmokų fondo nuostatus tvirtina Vyriausybė.
+4. IDIF nuostatus tvirtina socialinės apsaugos ir darbo ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
  
 
 
@@ -756,7 +732,9 @@ GARANTINIO FONDO IR ILGALAIKIO DARBO IŠMOKŲ FONDO LĖŠŲ ADMINISTRAVIMAS IR F
 Administratorius atlieka šias funkcijas:
 
 
-1) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nagrinėja paraiškas, priima sprendimus dėl Garantinio fondo lėšų skyrimo; 
+1) Neteko galios nuo 2025-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
 Straipsnio punkto pakeitimai:
 Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
  
@@ -764,7 +742,10 @@ Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
 
 
 
-2) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka savo interneto svetainėje skelbia informaciją apie paraiškų nagrinėjimo eigą;
+2) Neteko galios nuo 2025-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
+ 
 
 
 
@@ -777,9 +758,10 @@ Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
 
 
 
-4) IDIF nuostatuose nustatyta tvarka priima sprendimus dėl ilgalaikio darbo išmokų ir sankcijų taikymo išmokų skyrimo ir mokėjimo; 
+4) IDIF nuostatuose nustatyta tvarka priima sprendimus dėl ilgalaikio darbo išmokų skyrimo, mokėjimo ir grąžinimo;
 Straipsnio punkto pakeitimai:
 Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
  
 
 
@@ -1116,3 +1098,8 @@ Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir il
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2657, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09698
 Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 1, 3-1 straipsnių pakeitimo ir Įstatymo papildymo 9-2 straipsniu įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 1, 2, 4, 9, 10, 11, 12, 13, 19 straipsnių, III skyriaus pavadinimo pakeitimo ir 9-1 straipsnio pripažinimo netekusiu galios įstatymas
