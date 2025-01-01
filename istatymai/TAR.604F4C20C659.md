@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/604f4c20c65911ea997c9ee767e856b4"
 
 # Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: TAR 2020-07-15, i. k. 2020-15758
  
@@ -824,7 +824,10 @@ ASMENS SVEIKATOS PRIEŽIŪROS SPECIALISTO PROFESINĖS TEISĖS IR PAREIGOS, VEIKL
 11 straipsnis. Asmens sveikatos priežiūros specialisto profesinės teisės 
 
 
-1. Asmens sveikatos priežiūros specialistas turi teisę atsisakyti teikti asmens sveikatos priežiūros paslaugas, jeigu tai prieštarauja asmens sveikatos priežiūros specialisto profesinės etikos principams arba gali sukelti realų pavojų paciento, asmens sveikatos priežiūros specialisto gyvybei, išskyrus atvejus, kai teikiama būtinoji medicinos pagalba.
+1. Asmens sveikatos priežiūros specialistas turi teisę atsisakyti teikti asmens sveikatos priežiūros paslaugas arba nutraukti šių paslaugų teikimą, jeigu šių paslaugų teikimas prieštarauja asmens sveikatos priežiūros specialisto profesinės etikos principams arba gali sukelti realų pavojų paciento, asmens sveikatos priežiūros specialisto sveikatai ar gyvybei, išskyrus atvejus, kai teikiama būtinoji medicinos pagalba, taip pat kitais Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme nustatytais atvejais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2618, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08910
+ 
 
 
 
@@ -1041,3 +1044,8 @@ Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2043, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12408
 Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 3 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2618, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08910
+Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 11 straipsnio pakeitimo įstatymas
