@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.72C31F8DD98E"
 
 # Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 58-1704, i. k. 1001010ISTAIII-1764
  
@@ -1717,10 +1717,19 @@ Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
 
 
-12) nustatytų teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, ribos valstybinėje koordinačių sistemoje. 
-TAR pastaba: 17 straipsnio 2 dalies 12 punktas galioja iki 2024-12-31.
+12) nustatytų servitutų ribos valstybinėje koordinačių sistemoje;
 Papildyta straipsnio punktu:
 Nr. XIV-2425, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25648
+Straipsnio punkto pakeitimai:
+Nr. XIV-2128, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14317
+ 
+
+
+
+
+13) nustatytų teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, ribos valstybinėje koordinačių sistemoje. 
+Papildyta straipsnio punktu:
+Nr. XIV-2128, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14317
  
 
 
