@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -369,9 +369,19 @@ Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 
 
-241. Lietuvai taikoma vaistinio preparato ar medicinos pagalbos priemonės kaina – vaistinio preparato ar medicinos pagalbos priemonės kaina, kuria jie siūlomi parduoti Lietuvos Respublikos rinkoje. 
+241. Labai reta sveikatos būklė (toliau – labai reta būklė) – ne daugiau kaip vienam iš 200 000 Lietuvos gyventojų per metus naujai nustatoma sveikatos būklė, sukeliama sveikatos sutrikimo (-ų), kuris (-ie) kelia grėsmę gyvybei ir (ar) sukelia negalią ir kuriam (-iems) gali būti taikomas efektyvus etiologinį ar patogenezinį veiksnį veikiantis gydymo būdas, siekiant pailginti paciento išgyvenamumą ir (ar) sumažinti negalią ar neleisti jai didėti. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2583, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08304
+ 
+
+
+
+
+242. Lietuvai taikoma vaistinio preparato ar medicinos pagalbos priemonės kaina – vaistinio preparato ar medicinos pagalbos priemonės kaina, kuria jie siūlomi parduoti Lietuvos Respublikos rinkoje. 
 Papildyta straipsnio dalimi:
 Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2583, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08304
  
 
 
@@ -615,11 +625,20 @@ Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
 
 
 
-412. Sudėtinis vaistinis preparatas – vaistinis preparatas, į kurio sudėtį įeina dvi ar daugiau veikliųjų medžiagų, kurios atskirai (po vieną) gali įeiti į kitų vaistinių preparatų sudėtį. 
+412. Skubus atvejis – atvejis, kai paciento, kurio labai retos sveikatos būklės gydymo išlaidas prašoma kompensuoti šio įstatymo nustatyta tvarka, organizmo gyvybinės funkcijos gali būti pažeidžiamos greičiau nei per 10 parų nuo būklės nustatymo ir komplikacijų gali kilti staiga ir dėl to pacientą būtina gydyti nedelsiant. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2583, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08304
+ 
+
+
+
+
+413. Sudėtinis vaistinis preparatas – vaistinis preparatas, į kurio sudėtį įeina dvi ar daugiau veikliųjų medžiagų, kurios atskirai (po vieną) gali įeiti į kitų vaistinių preparatų sudėtį. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1639, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26102
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+Nr. XIV-2583, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08304
  
 
 
@@ -638,7 +657,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-44. Sunkius padarinius sukėlusi nepageidaujama reakcija – nepageidaujama reakcija, dėl kurios asmenį ištiko mirtis, kilo pavojus jo gyvybei, teko jį hospitalizuoti ar pailginti jo stacionarinio gydymo trukmę, jam išsivystė ilgalaikis ar reikšmingas neįgalumas, nedarbingumas arba apsigimimas. Kitos reakcijos laikomos nesunkius padarinius sukėlusiomis nepageidaujamomis reakcijomis.
+44. Sunkius padarinius sukėlusi nepageidaujama reakcija – nepageidaujama reakcija, dėl kurios asmenį ištiko mirtis, kilo pavojus jo gyvybei, teko jį hospitalizuoti ar pailginti jo stacionarinio gydymo trukmę, jam išsivystė ilgalaikė ar reikšminga negalia arba apsigimimas. Kitos reakcijos laikomos nesunkius padarinius sukėlusiomis nepageidaujamomis reakcijomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2583, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08304
+ 
 
 
 
@@ -651,9 +673,11 @@ Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 
 
-451. Šiurkšti farmacijos praktikos klaida – vaistininko arba vaistininko padėjėjo (farmakotechniko) neteisėta veika, kai dėl jo kaltės pacientą ištinka mirtis ar nustatomas neįgalumas ar daugiau kaip 30 procentų sumažėjęs darbingumo lygis. 
+451. Šiurkšti farmacijos praktikos klaida – vaistininko arba vaistininko padėjėjo (farmakotechniko) neteisėta veika, kai dėl jo kaltės pacientą ištinka mirtis ar nustatomas neįgalumo lygis ar daugiau kaip 30 procentų sumažėjęs dalyvumo lygis.
 Papildyta straipsnio dalimi:
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
+Straipsnio dalies pakeitimai:
+Nr. XIV-2583, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08304
  
 
 
@@ -829,7 +853,9 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-63. Vaistinio preparato registracijos pažymėjimo sąlygų keitimas (toliau – registracijos pažymėjimo sąlygų keitimas) – keitimas, kaip nurodyta 2008 m. lapkričio 24 d. Europos Komisijos reglamento (EB) Nr. 1234/2008 dėl žmonėms skirtų vaistų ir veterinarinių vaistų rinkodaros pažymėjimų sąlygų keitimo nagrinėjimo su paskutiniais pakeitimais (toliau – Reglamentas (EB) Nr. 1234/2008) 2 straipsnio 1 dalyje (toliau – reglamentinis registracijos pažymėjimo sąlygų keitimas, reglamentinis keitimas), arba prie šio keitimo nepriskiriamas registracijos pažymėjimo sąlygų keitimas, nustatytas sveikatos apsaugos ministro. 
+63. Neteko galios nuo 2025-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-3128, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20362
 Straipsnio dalies pakeitimai:
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
  
@@ -837,7 +863,9 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-64. Vaistinio preparato registracijos pažymėjimo sąlygų papildymas (toliau –registracijos pažymėjimo sąlygų papildymas) – reglamentinis keitimas, kaip nurodyta Reglamento (EB) Nr. 1234/2008 2 straipsnio 4 dalyje. 
+64. Neteko galios nuo 2025-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-3128, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20362
 Straipsnio dalies pakeitimai:
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
  
@@ -1878,7 +1906,10 @@ Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
 31. Skiriant ir (ar) išrašant EEE valstybėje ir trečiojoje šalyje neregistruotą vardinį vaistinį preparatą turi būti laikomasi šių reikalavimų:
 
 
-1) šis vaistinis preparatas gali būti skiriamas tik sunkia sekinančia arba gresiančia gyvybei liga arba liga, dėl kurios gali išsivystyti ilgalaikis ar reikšmingas neįgalumas, sergantiems pacientams, kurie negali būti efektyviai gydomi registruotais vaistiniais preparatais arba vardiniais vaistiniais preparatais, kurie nėra EEE valstybėje ir trečiojoje šalyje neregistruoti vardiniai vaistiniai preparatai. EEE valstybėje ir trečiojoje šalyje neregistruoti vardiniai vaistiniai preparatai gali būti skiriami tik pacientams, kurie nedalyvauja klinikiniame šio vaistinio preparato tyrime ir negali būti į jį įtraukti;
+1) šis vaistinis preparatas gali būti skiriamas tik sunkia sekinančia arba gresiančia gyvybei liga arba liga, dėl kurios gali išsivystyti ilgalaikė ar reikšminga negalia, sergantiems pacientams, kurie negali būti efektyviai gydomi registruotais vaistiniais preparatais arba vardiniais vaistiniais preparatais, kurie nėra EEE valstybėje ir trečiojoje šalyje neregistruoti vardiniai vaistiniai preparatai. EEE valstybėje ir trečiojoje šalyje neregistruoti vardiniai vaistiniai preparatai gali būti skiriami tik pacientams, kurie nedalyvauja klinikiniame šio vaistinio preparato tyrime ir negali būti į jį įtraukti;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2583, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08304
+ 
 
 
 
@@ -2339,7 +2370,10 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 
 
 
-2. Lietuvos Respublikoje vaistinių preparatų registracijos pažymėjimus išduoda, vaistinius preparatus registruoja ir perregistruoja, pažymėjimų sąlygų keitimus nagrinėja ir tvirtina, pažymėjimų galiojimą sustabdo, pažymėjimų galiojimo sustabdymą ar pažymėjimų galiojimą panaikina ir Lietuvos Respublikos vaistinių preparatų registrą sveikatos apsaugos ministro nustatyta tvarka tvarko Valstybinė vaistų kontrolės tarnyba. Reglamentiniai registracijos pažymėjimo sąlygų keitimai nagrinėjami ir tvirtinami Reglamento (EB) Nr. 1234/2008 nustatyta tvarka.
+2. Lietuvos Respublikoje vaistinių preparatų registracijos pažymėjimus išduoda, vaistinius preparatus registruoja ir perregistruoja, pažymėjimų sąlygų keitimus nagrinėja ir tvirtina, pažymėjimų galiojimą sustabdo, pažymėjimų galiojimo sustabdymą ar pažymėjimų galiojimą panaikina ir Lietuvos Respublikos vaistinių preparatų registrą tvarko Valstybinė vaistų kontrolės tarnyba sveikatos apsaugos ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3128, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20362
+ 
 
 
 
@@ -5291,9 +5325,17 @@ Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
 
 
 
-11) įtarus ar nustačius, kad gauti ar siūlomi įsigyti vaistiniai preparatai yra falsifikuoti, nedelsdamas, bet ne vėliau kaip kitą darbo dieną, apie tai informuoti Valstybinę vaistų kontrolės tarnybą ir vaistinio preparato, kuris yra falsifikuojamas arba įtariama, kad jis yra falsifikuojamas, registruotoją. 
+11) įtarus ar nustačius, kad gauti ar siūlomi įsigyti vaistiniai preparatai yra falsifikuoti, nedelsdamas, bet ne vėliau kaip kitą darbo dieną, apie tai informuoti Valstybinę vaistų kontrolės tarnybą ir vaistinio preparato, kuris yra falsifikuojamas arba įtariama, kad jis yra falsifikuojamas, registruotoją; 
 Papildyta straipsnio punktu:
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+ 
+
+
+
+
+12) teikti į valstybės informacinę sistemą, skirtą sveikatos priežiūros, kitos sveikatinimo veiklos bei farmacijos specialistų profesinės kompetencijos įgijimo ir tobulinimo bei profesinės veiklos duomenims kaupti, šios sistemos veiklą reguliuojančiuose teisės aktuose nustatytus duomenis, susijusius su vaistinėje dirbančių vaistininkų ir vaistininko padėjėjų (farmakotechnikų) profesine kvalifikacija ir darbo santykiais, šiuose teisės aktuose nustatyta tvarka.
+Papildyta straipsnio punktu:
+Nr. XIV-3020, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17782
  
 
 
@@ -6700,7 +6742,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-4. Registracijos pažymėjimo galiojimo sustabdymo ar panaikinimo arba registracijos pažymėjimo sąlygų pakeitimo tvarką nustato sveikatos apsaugos ministras.
+4. Neteko galios nuo 2025-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-3128, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20362
+ 
 
 
 Straipsnio pakeitimai:
@@ -7311,15 +7356,23 @@ Nr. XI-664, 2010-01-20, Žin., 2010, Nr. 13-624 (2010-02-02)
 
 
 
-592 straipsnis. Vaistinių preparatų, medicinos pagalbos priemonių ir (ar) asmens sveikatos priežiūros paslaugų, skirtų labai retoms žmogaus sveikatos būklėms gydyti, įsigijimo išlaidų kompensavimas
+592 straipsnis. Vaistinių preparatų, medicinos pagalbos priemonių ir (ar) asmens sveikatos priežiūros paslaugų, skirtų labai retoms būklėms gydyti, įsigijimo išlaidų kompensavimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2583, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08304
+ 
 
 
-1. Labai reta (ne daugiau kaip vienas naujai diagnozuotas atvejis 200 000 Lietuvos Respublikos gyventojų per metus) žmogaus sveikatos būkle (toliau – labai reta būklė) laikoma gyvybei gresiantis ir (ar) žymų nuolatinį neįgalumą sukeliantis sveikatos sutrikimas, kuriam gali būti taikomas efektyvus etiologinį veiksnį (veiksnys, lemiantis ligos atsiradimą) ar patogenezinį veiksnį (veiksnys, lemiantis klinikinę ligos eigą) veikiantis gydymo būdas, kurio išlaidos šiai labai retai būklei gydyti kitais būdais nekompensuojamos, galintis pailginti paciento išgyvenamumą ir (ar) sumažinti neįgalumą (ar neleisti neįgalumui didėti). Labai retos būklės atvejų skaičius nustatomas remiantis Lietuvos Respublikos teisės aktuose numatytų registrų ir (ar) elektroninių stebėsenos sistemų duomenimis, o tais atvejais, kai tokių duomenų nėra ar jie netikslūs, vadovaujantis tarptautine moksline literatūra, kiek tai įmanoma atsižvelgiant į Lietuvos ypatumus. Labai retos būklės atvejų skaičiaus įvertinimo tvarką nustato sveikatos apsaugos ministras. Nustatant konkrečios labai retos būklės atvejų skaičių, atsižvelgiama į Lietuvos Respublikos atitinkamos srities sveikatos priežiūros specialistus vienijančios organizacijos nuomonę.
+1. Labai retos būklės atvejų skaičius nustatomas remiantis Lietuvos Respublikos teisės aktuose numatytų registrų ir (ar) elektroninių stebėsenos sistemų duomenimis, o tais atvejais, kai tokių duomenų nėra ar jie netikslūs, vadovaujantis tarptautine moksline literatūra, kiek tai įmanoma atsižvelgiant į Lietuvos ypatumus. Labai retos būklės atvejų skaičiaus įvertinimo tvarką nustato sveikatos apsaugos ministras. Nustatant konkrečios labai retos būklės atvejų skaičių, atsižvelgiama į Lietuvos Respublikos atitinkamos srities sveikatos priežiūros specialistus vienijančios organizacijos nuomonę. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2583, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08304
+ 
 
 
 
 
-2. Vaistinio preparato, medicinos pagalbos priemonės ir (ar) asmens sveikatos priežiūros paslaugos išlaidos kompensuojamos šiame straipsnyje nustatyta tvarka, kai:
+2. Vaistinio preparato, medicinos pagalbos priemonės ir (ar) asmens sveikatos priežiūros paslaugos išlaidos, kurios nekompensuojamos kitais būdais, kompensuojamos šiame straipsnyje nustatyta tvarka, kai: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2583, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08304
 
 
 1) labai retoms būklėms gydyti išlaidų kompensavimo komisija (toliau – Komisija) priima sprendimą konkrečiam pacientui kompensuoti vaistinio preparato, medicinos pagalbos priemonės ir (ar) asmens sveikatos priežiūros paslaugos išlaidas;
@@ -7334,14 +7387,18 @@ Nr. XI-664, 2010-01-20, Žin., 2010, Nr. 13-624 (2010-02-02)
 
 
 
-3. Komisija sudaroma sveikatos apsaugos ministro įsakymu. Komisiją sudaro 5 asmenys, iš jų bent 2 asmenys turi būti praktikuojantys universiteto ligoninės asmens sveikatos priežiūros specialistai. Komisijos sudėties, komisijos narių kvalifikacijos, patirties reikalavimus ir veiklos reglamentą nustato sveikatos apsaugos ministras. Komisijos posėdžiai vyksta ne rečiau kaip kartą per mėnesį. Skubiais atvejais, kai pacientą būtina nedelsiant gydyti, Komisija į posėdį renkasi nedelsdama, gavusi prašymą.
+3. Komisija sudaroma sveikatos apsaugos ministro įsakymu. Komisiją sudaro 9 asmenys, iš jų bent 4 asmenys turi būti praktikuojantys universiteto ligoninės asmens sveikatos priežiūros specialistai ir 2 asmenys, atstovaujantys pacientų nevyriausybinėms organizacijoms. Komisijos sudėties, komisijos narių kvalifikacijos, patirties reikalavimus ir veiklos reglamentą nustato sveikatos apsaugos ministras. Komisijos posėdžiai vyksta ne rečiau kaip kartą per mėnesį. Skubiais atvejais Komisija į posėdį renkasi nedelsdama, gavusi prašymą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2583, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08304
+ 
 
 
 
 
-4. Priimdama sprendimą kompensuoti gydymo išlaidas konkrečiam pacientui ar teikti labai retai būklei gydyti skirtą vaistinį preparatą, medicinos pagalbos priemonę ir (ar) asmens sveikatos priežiūros paslaugą įtraukti į išlaidų kompensavimo sąrašus ir (ar) apmokėjimo tvarkos aprašus, Komisija remiasi tik jų terapine nauda, naujoviškumu ir įtaka Privalomojo sveikatos draudimo fondo biudžetui. Terapinė nauda ir naujoviškumas nustatomi remiantis Lietuvos Respublikos vaistinių preparatų registro arba Sąjungos vaistinių preparatų registro informacija, klinikinių tyrimų duomenimis, nepriklausomų institucijų vertinimu, atitinkamos srities asmens sveikatos priežiūros specialistus vienijančių organizacijų rekomendacijomis ir kita reikšminga medicinine informacija. Komisija atsižvelgia į Lietuvos Respublikos atitinkamos srities sveikatos priežiūros specialistus vienijančios organizacijos atliktą terapinės naudos ir naujoviškumo įvertinimą. Prireikus į Komisijos posėdžius kviečiami atitinkamos srities sveikatos priežiūros specialistai ekspertai. Komisijos sprendimas turi būti išsamiai argumentuotas. Terapinės naudos, naujoviškumo ir įtakos Privalomojo sveikatos draudimo fondo biudžetui nustatymo bei sprendimų priėmimo tvarką nustato sveikatos apsaugos ministras.
+4. Priimdama sprendimą kompensuoti gydymo išlaidas konkrečiam pacientui ar teikti labai retai būklei gydyti skirtą vaistinį preparatą, medicinos pagalbos priemonę ir (ar) asmens sveikatos priežiūros paslaugą įtraukti į išlaidų kompensavimo sąrašus ir (ar) apmokėjimo tvarkos aprašus, Komisija remiasi tik jų terapine nauda ir visų tam tikra labai reta būkle sergančių pacientų gydymo įtaka Privalomojo sveikatos draudimo fondo biudžetui. Terapinė nauda nustatoma remiantis Lietuvos Respublikos vaistinių preparatų registro arba Bendrijos vaistinių preparatų registro informacija, klinikinių tyrimų duomenimis, nepriklausomų institucijų vertinimu, atitinkamos srities asmens sveikatos priežiūros specialistus vienijančių organizacijų rekomendacijomis ir kita reikšminga medicinine informacija. Komisija atsižvelgia į Lietuvos Respublikos atitinkamos srities sveikatos priežiūros specialistus vienijančios organizacijos atliktą terapinės naudos įvertinimą. Prireikus į Komisijos posėdžius kviečiami atitinkamos srities sveikatos priežiūros specialistai ekspertai. Komisijos posėdyje, prieš priimant sprendimą, sveikatos apsaugos ministro nustatyta tvarka turi būti sudarytos galimybės dalyvauti ir pateikti savo paaiškinimus pacientą gydančiam atitinkamos srities sveikatos priežiūros specialistui. Komisijos sprendimas turi būti išsamiai argumentuotas. Terapinės naudos ir įtakos Privalomojo sveikatos draudimo fondo biudžetui nustatymo bei sprendimų priėmimo tvarką nustato sveikatos apsaugos ministras. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+Nr. XIV-2583, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08304
  
 
 
@@ -7367,10 +7424,10 @@ Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
 
 
 
-7. Prašymą dėl konkretaus paciento, kuriam nustatyta labai reta būklė, gydymo išlaidų kompensavimo Komisijai pateikia pacientą gydanti atitinkamos srities tretinės asmens sveikatos priežiūros paslaugas teikianti asmens sveikatos priežiūros įstaiga. Komisija sprendimą dėl konkretaus paciento gydymo išlaidų kompensavimo priima ne vėliau kaip per 10 darbo dienų, o skubiais atvejais, kai pacientą būtina nedelsiant gydyti, – ne vėliau kaip kitą darbo dieną nuo prašymo pateikimo dienos. Kai trūksta duomenų sprendimui priimti, Komisija skiria ekspertizę ir sprendimą priima ne vėliau kaip per 30 darbo dienų nuo prašymo pateikimo dienos (bet ne vėliau, negu leidžia paciento būklė). Priėmusi sprendimą, Komisija per 3 darbo dienas nuo jo priėmimo:
+7. Prašymą dėl konkretaus paciento labai retos būklės gydymo išlaidų kompensavimo Komisijai pateikia pacientą gydanti atitinkamos srities tretinės asmens sveikatos priežiūros paslaugas teikianti asmens sveikatos priežiūros įstaiga arba šios įstaigos įgaliotas pacientą gydantis atitinkamos srities sveikatos priežiūros specialistas. Komisija sprendimą dėl konkretaus paciento gydymo išlaidų kompensavimo priima ne vėliau kaip per 10 darbo dienų, o skubiais atvejais, kai pacientą būtina nedelsiant gydyti, – ne vėliau kaip kitą darbo dieną nuo prašymo pateikimo dienos. Kai trūksta duomenų sprendimui priimti, Komisija skiria ekspertizę ir sprendimą priima ne vėliau kaip per 30 darbo dienų nuo prašymo pateikimo dienos (bet ne vėliau, negu leidžia paciento būklė). Priėmusi sprendimą, Komisija per 3 darbo dienas nuo jo priėmimo:
 
 
-1) raštu pateikia argumentuotą sprendimą prašymą pateikusiai asmens sveikatos priežiūros įstaigai. Skubiais atvejais argumentuotas sprendimas pateikiamas ne vėliau kaip kitą darbo dieną;
+1) raštu pateikia argumentuotą sprendimą prašymą pateikusiai asmens sveikatos priežiūros įstaigai ir pacientui, kurio labai retos būklės gydymo išlaidas prašoma kompensuoti. Skubiais atvejais argumentuotas sprendimas pateikiamas ne vėliau kaip kitą darbo dieną;
 
 
 
@@ -7380,9 +7437,12 @@ Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
 
 
 
-3) nurodo Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos (toliau – Valstybinė ligonių kasa) išduoti garantinį raštą visiškai ar iš dalies (nurodydama kompensuojamą išlaidų dalį) kompensuoti vaistinio preparato,  medicinos pagalbos priemonės ir (ar) asmens sveikatos priežiūros paslaugos suteikimo išlaidas. Skubiais atvejais nurodymas pateikiamas ne vėliau kaip kitą darbo dieną. Valstybinė ligonių kasa per 3 darbo dienas, o skubiais atvejais – ne vėliau kaip kitą darbo dieną nuo Komisijos sprendimo išsiuntimo dienos asmens sveikatos priežiūros įstaigai išduoda garantinį raštą.
+3) nurodo Valstybinei ligonių kasai prie Sveikatos apsaugos ministerijos (toliau – Valstybinė ligonių kasa) išduoti garantinį raštą visiškai ar iš dalies (nurodydama kompensuojamą išlaidų dalį) kompensuoti vaistinio preparato, medicinos pagalbos priemonės ir (ar) asmens sveikatos priežiūros paslaugos suteikimo išlaidas. Skubiais atvejais nurodymas pateikiamas ne vėliau kaip kitą darbo dieną. Valstybinė ligonių kasa per 3 darbo dienas, o skubiais atvejais – ne vėliau kaip kitą darbo dieną nuo Komisijos sprendimo išsiuntimo dienos asmens sveikatos priežiūros įstaigai išduoda garantinį raštą. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2583, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08304
+ 
 
 
 
@@ -7407,7 +7467,10 @@ Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
 
 
 
-10. Apeliacinės komisijos sprendimai gali būti skundžiami  apygardos administraciniam teismui. Apeliacinės komisijos sprendimų apskundimui ir nagrinėjimui mutatis mutandis taikomos Administracinių bylų teisenos įstatymo nuostatos dėl išankstinio ginčų nagrinėjimo ne teismo tvarka institucijų priimtų sprendimų apskundimo ir nagrinėjimo.
+10. Apeliacinės komisijos sprendimai ir Komisijos sprendimai, priimti įvertinus Apeliacinės komisijos sprendimą pagal šio straipsnio 9 dalies 1 punktą, pareiškėjo arba paciento gali būti skundžiami Regionų administraciniam teismui. Apeliacinės komisijos sprendimų ir Komisijos sprendimų, priimtų įvertinus Apeliacinės komisijos sprendimą pagal šio straipsnio 9 dalies 1 punktą, apskundimui ir nagrinėjimui mutatis mutandis taikomos Lietuvos Respublikos administracinių bylų teisenos įstatymo nuostatos dėl išankstinio ginčų nagrinėjimo ne teismo tvarka institucijų priimtų sprendimų apskundimo ir nagrinėjimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2583, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08304
+ 
 
 
 
@@ -8407,7 +8470,10 @@ Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 
 
-9. 2008 m. lapkričio 24 d. Europos Komisijos reglamentas (EB) Nr. 1234/2008 dėl žmonėms skirtų vaistų ir veterinarinių vaistų rinkodaros pažymėjimų sąlygų keitimo nagrinėjimo (tekstas svarbus EEE) (OL 2008 L 334, p. 7) su paskutiniais pakeitimais.
+9. 2008 m. lapkričio 24 d. Komisijos reglamentas (EB) Nr. 1234/2008 dėl žmonėms skirtų vaistų rinkodaros leidimų sąlygų keitimo nagrinėjimo su paskutiniais pakeitimais, padarytais 2024 m. kovo 11 d. Komisijos deleguotuoju reglamentu (ES) 2024/1701.
+Punkto pakeitimai:
+Nr. XIV-3128, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20362
+ 
 
 
 
@@ -8742,3 +8808,18 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 35 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 11, 15, 17, 24, 28, 30, 33, 39, 55-1, 57, 59, 59-2 ir 61 straipsnių pakeitimo įstatymas
+ 
+41.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2583, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08304
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8 ir 59-2 straipsnių pakeitimo įstatymas
+ 
+42.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3020, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17782
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 39 straipsnio pakeitimo įstatymas
+ 
+43.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3128, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20362
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 9, 56 straipsnių ir priedo pakeitimo įstatymas
