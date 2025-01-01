@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2023-10-04 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01 iki 2025-04-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
  
@@ -855,7 +855,10 @@ Nr. XII-2242, 2015-12-23, paskelbta TAR 2016-01-05, i. k. 2016-00088
 
 
 
-7. Pakuočių pardavėjai, prekybos vietose parduodami gaminius, už kurių pakuotes nustatytas užstatas, turi teikti rašytinę informaciją (ne mažesniame kaip A3 formato  (420 x 297 mm) plakate) apie tai, kaip pakuočių vartotojai gali grąžinti daugkartines pakuotes ir vienkartinių pakuočių atliekas.
+7. Pakuočių pardavėjai, prekybos vietose parduodami gaminius, už kurių pakuotes nustatytas užstatas, turi teikti rašytinę informaciją (ne mažesniame kaip A3 formato (420 x 297 mm) plakate) apie tai, kaip pakuočių vartotojai gali grąžinti daugkartines pakuotes ir vienkartinių pakuočių, įskaitant jų kamštelius ir dangtelius, atliekas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
+ 
 
 
 Straipsnio pakeitimai:
@@ -1131,22 +1134,25 @@ Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
 
 
 
-2. Gamintojai ir importuotojai privalo imti užstatą iš pakuočių platintojų ar pakuočių pardavėjų ir jį grąžinti pakuočių pardavėjams, kai šie grąžina pakuočių atliekas, jeigu tiekia Lietuvos Respublikos vidaus rinkai alų, alaus kokteilius, sidrą, kriaušių sidrą, vaisių vyną, vaisių vyno kokteilius, vaisių vyno gėrimus, kitus fermentuotus gėrimus, alkoholinius kokteilius ir nealkoholinius gėrimus (gaiviuosius gėrimus, stalo vandenį, girą), natūralų mineralinį vandenį, šaltinio vandenį, fasuotą geriamąjį vandenį, sultis, nektarą, supakuotus į šią prekinę vienkartinę pakuotę, kurios talpa didesnė negu viena dešimtoji litro, bet mažesnė negu trys litrai:
+2. Gamintojai ir importuotojai privalo imti užstatą iš pakuočių platintojų ar pakuočių pardavėjų ir jį grąžinti pakuočių pardavėjams, kai šie grąžina pakuočių atliekas, jeigu tiekia Lietuvos Respublikos vidaus rinkai alų, alaus kokteilius, sidrą, kriaušių sidrą, vaisių vyną, vaisių vyno kokteilius, vaisių vyno gėrimus, kitus fermentuotus gėrimus, alkoholinius kokteilius ir nealkoholinius gėrimus (gaiviuosius gėrimus, stalo vandenį, girą), natūralų mineralinį vandenį, šaltinio vandenį, fasuotą geriamąjį vandenį, sultis, nektarą, supakuotus į šią prekinę vienkartinę pakuotę, kurios talpa didesnė negu viena dešimtoji litro, bet ne didesnė negu trys litrai:
 
 
-1) stiklinę (išskyrus į stiklinę vienkartinę pakuotę supakuotus vaisių vyną, vaisių vyno gėrimus ir vaisių vyno kokteilius);
-
-
-
-
-2) PET (polietileno tereftalatas);
+1) stiklinę (išskyrus į stiklinę vienkartinę pakuotę supakuotus vaisių vyną, vaisių vyno gėrimus ir vaisių vyno kokteilius ir pakuotę, kurios talpa trys litrai);
 
 
 
 
-3) metalinę.
+2) PET;
 
 
+
+
+3) metalinę (išskyrus pakuotę, kurios talpa trys litrai).
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
+ 
 
 
 
@@ -1164,7 +1170,10 @@ Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
 
 
 
-3) vienkartinės pakuotės talpa mažesnė negu viena dešimtoji litro arba lygi trims litrams ir didesnė negu trys litrai;
+3) vienkartinės pakuotės talpa mažesnė negu viena dešimtoji litro arba didesnė negu trys litrai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
+ 
 
 
 
