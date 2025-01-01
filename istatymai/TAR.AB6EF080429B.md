@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ab6ef080429b11ea829bc2bea81c1194"
 
 # Lietuvos Respublikos papildomosios ir alternatyviosios sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: TAR 2020-01-29, i. k. 2020-02006
  
@@ -535,7 +535,10 @@ Nr. XIV-1983, 2023-05-23, paskelbta TAR 2023-05-31, i. k. 2023-10702
 
 
 
-4) fizinis asmuo, siekiantis gauti šio įstatymo 9 straipsnio 2 dalies 5 punkte nurodytą PA sveikatos priežiūros specialisto licenciją, turi turėti aukštąjį išsilavinimą arba jam lygiavertę aukštojo mokslo kvalifikaciją, įgytą baigus medicinos arba reabilitacijos, arba odontologijos, arba burnos priežiūros, arba visuomenės sveikatos, arba mitybos, arba farmacijos, arba biologijos, arba genetikos, arba mikrobiologijos, arba molekulinės biologijos, arba biofizikos, arba biochemijos, arba veterinarijos, arba socialinio darbo, arba psichologijos, arba sociologijos, arba antropologijos, arba pedagogikos, arba edukologijos, arba andragogikos studijų krypties studijas, ir sveikatos apsaugos ministro nustatyta tvarka būti baigęs mokymus. Reikalavimas būti baigusiam šiame punkte nurodytus mokymus netaikomas asmeniui, turinčiam aukštąjį išsilavinimą arba jam lygiavertę aukštojo mokslo kvalifikaciją, įgytą baigus studijų programą pagal PA sveikatos priežiūros natūraliosios ir liaudies medicinos srities psichosocialinio poveikio paslaugų grupę, arba asmeniui, turinčiam užsienio valstybėje įgytą ir teisės aktų nustatyta tvarka Lietuvos Respublikoje pripažintą aukštąjį išsilavinimą arba jam lygiavertę aukštojo mokslo kvalifikaciją, įgytą baigus studijų programą pagal PA sveikatos priežiūros natūraliosios ir liaudies medicinos srities psichosocialinio poveikio paslaugų grupę;
+4) fizinis asmuo, siekiantis gauti šio įstatymo 9 straipsnio 2 dalies 5 punkte nurodytą PA sveikatos priežiūros specialisto licenciją, turi turėti aukštąjį išsilavinimą arba jam lygiavertę aukštojo mokslo kvalifikaciją, įgytą baigus medicinos arba reabilitacijos, arba odontologijos, arba burnos priežiūros, arba visuomenės sveikatos, arba mitybos, arba farmacijos, arba biologijos, arba genetikos, arba mikrobiologijos, arba molekulinės biologijos, arba biofizikos, arba biochemijos, arba veterinarijos, arba socialinio darbo, arba psichologijos, arba sociologijos, arba antropologijos, arba pedagogikos, arba edukologijos, arba andragogikos studijų krypties studijas, arba gyvūnų mokslų studijų krypties studijas pagal gyvūno ir žmogaus sąveikos studijų programą, ir sveikatos apsaugos ministro nustatyta tvarka būti baigęs mokymus. Reikalavimas būti baigusiam šiame punkte nurodytus mokymus netaikomas asmeniui, turinčiam aukštąjį išsilavinimą arba jam lygiavertę aukštojo mokslo kvalifikaciją, įgytą baigus studijų programą pagal PA sveikatos priežiūros natūraliosios ir liaudies medicinos srities psichosocialinio poveikio paslaugų grupę, arba asmeniui, turinčiam užsienio valstybėje įgytą ir teisės aktų nustatyta tvarka Lietuvos Respublikoje pripažintą aukštąjį išsilavinimą arba jam lygiavertę aukštojo mokslo kvalifikaciją, įgytą baigus studijų programą pagal PA sveikatos priežiūros natūraliosios ir liaudies medicinos srities psichosocialinio poveikio paslaugų grupę;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3129, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20367
+ 
 
 
 
@@ -1211,4 +1214,9 @@ Lietuvos Respublikos papildomosios ir alternatyviosios sveikatos priežiūros į
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1983, 2023-05-23, paskelbta TAR 2023-05-31, i. k. 2023-10702
+Lietuvos Respublikos papildomosios ir alternatyviosios sveikatos priežiūros įstatymo Nr. XIII-2771 10 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3129, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20367
 Lietuvos Respublikos papildomosios ir alternatyviosios sveikatos priežiūros įstatymo Nr. XIII-2771 10 straipsnio pakeitimo įstatymas
