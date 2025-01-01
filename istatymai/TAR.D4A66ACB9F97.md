@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-05-31 iki 2024-12-31
+Suvestinė redakcija nuo 2025-01-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 50-1197, i. k. 0961010ISTA00I-1338
  
@@ -335,7 +335,7 @@ Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
 
 
 
-4. Vyriausybės įgaliota įstaiga iki kalendorinių metų vasario 1 dienos turi pateikti centriniam mokesčio administratoriui gyventojų, kalendoriniais metais, einančiais prieš kalendorinius metus, kuriais pateikiamas šis sąrašas, ėjusių valstybės tarnautojo pareigas, taip pat kandidatavusių į šias pareigas gyventojų vardinį sąrašą. 
+4. Vyriausybės įgaliota įstaiga iki kalendorinių metų vasario 1 dienos turi pateikti centriniam mokesčio administratoriui gyventojų, paskutiniais praėjusiais kalendoriniais metais ėjusių šio straipsnio 1 dalyje nurodytas pareigas, taip pat kandidatavusių, priimtų, išrinktų ar paskirtų į šias pareigas gyventojų, kurių duomenys yra tvarkomi Viešojo sektoriaus darbuotojų registre, vardinį sąrašą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2041, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18855
 Nr. XIV-1991, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11561
@@ -344,7 +344,7 @@ Nr. XIV-1991, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11561
 
 
 
-5. Įmonės, įstaigos ir organizacijos, įgaliotos tvarkyti šio straipsnio 1 dalies 5–16, 23, 29, 30, 33 punktuose nurodytų gyventojų duomenis, jeigu šie duomenys nėra pateikti Vyriausybės įgaliotai įstaigai, turi pateikti centriniam mokesčio administratoriui gyventojų, paskutiniais praėjusiais kalendoriniais metais ėjusių šio straipsnio 1 dalies 5–16, 23, 29, 30, 33 punktuose nurodytas pareigas, taip pat kandidatavusių, priimtų, išrinktų ar paskirtų į šias pareigas gyventojų vardinius sąrašus. 
+5. Įmonės, įstaigos ir organizacijos, įgaliotos tvarkyti šio straipsnio 1 dalies 5–16, 23, 29, 30, 33 punktuose nurodytų gyventojų duomenis, jeigu šie duomenys nėra tvarkomi Viešojo sektoriaus darbuotojų registre, turi pateikti centriniam mokesčio administratoriui gyventojų, paskutiniais praėjusiais kalendoriniais metais ėjusių šio straipsnio 1 dalies 5–16, 23, 29, 30, 33 punktuose nurodytas pareigas, taip pat kandidatavusių, priimtų, išrinktų ar paskirtų į šias pareigas gyventojų vardinius sąrašus.
 Papildyta straipsnio dalimi:
 Nr. XII-2041, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18855
 Straipsnio dalies pakeitimai:
