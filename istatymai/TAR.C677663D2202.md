@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-01-01
+Suvestinė redakcija nuo 2025-01-02
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
  
@@ -427,11 +427,12 @@ Nr. XV-81, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23074
 
 
 
-39. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos baudžiamajame kodekse, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme ir Lietuvos Respublikos sporto įstatyme, kiek tai neprieštarauja šiam Įstatymui (išskyrus Civilinio kodekso įsakmiai nurodytus atvejus).
+39. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos mokesčių administravimo įstatyme, Pelno mokesčio įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos baudžiamajame kodekse, finansų rinkas ir finansines paslaugas reglamentuojančiuose Lietuvos Respublikos įstatymuose bei Lietuvos Respublikos valstybinio socialinio draudimo įstatyme ir Lietuvos Respublikos sporto įstatyme, kiek tai neprieštarauja šiam Įstatymui (išskyrus Civilinio kodekso įsakmiai nurodytus atvejus).
 Papildyta straipsnio dalimi:
 Nr. XIV-2803, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12619
 Straipsnio dalies pakeitimai:
 Nr. XIV-2863, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12648
+Nr. XV-81, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23074
  
 
 
