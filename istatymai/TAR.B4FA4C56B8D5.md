@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2024-09-01 iki 2025-01-14
+Suvestinė redakcija nuo 2025-01-15 iki 2025-06-30
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
  
@@ -655,7 +655,10 @@ Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
 
 
 
-16) savivaldybių institucijų norminiai teisės aktai, taip pat savivaldybių merų priimami teisės aktai, kuriuos skelbti Teisės aktų registre privaloma pagal teisės aktus;
+16) savivaldybių institucijų norminiai teisės aktai, savivaldybių privatizavimo komisijų sprendimai, taip pat savivaldybių institucijų priimami teisės taikymo aktai, kuriuos skelbti Teisės aktų registre privaloma pagal teisės aktus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2634, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09670
+ 
 
 
 
