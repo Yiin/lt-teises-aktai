@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2024-11-23 iki 2025-01-14
+Suvestinė redakcija nuo 2025-01-15 iki 2025-02-28
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
  
@@ -587,12 +587,18 @@ VIEŠOSIOS ĮSTAIGOS STEIGIMAS
 9 straipsnis. Viešosios įstaigos registravimas ir Juridinių asmenų registro duomenys
 
 
-1. Viešajai įstaigai įregistruoti Juridinių asmenų registrui pateikiama viešosios įstaigos steigimo sutartis, jos įstatai ir kiti viešajai įstaigai įregistruoti reikalingi Civilinio kodekso 2.64 straipsnio 2 dalyje nurodyti dokumentai.
+1. Viešajai įstaigai įregistruoti Juridinių asmenų registrui pateikiama viešosios įstaigos steigimo sutartis, jos įstatai ir kiti viešajai įstaigai įregistruoti reikalingi Civilinio kodekso 2.64 straipsnio 2 dalyje nurodyti dokumentai. Kai viešosios įstaigos steigėja (-os) yra tik valstybė ir (ar) savivaldybė (-ės), viešajai įstaigai įregistruoti Juridinių asmenų registrui pateikiama steigimo sutartis, teisės akto, kuriuo tvirtinami steigiamos viešosios įstaigos įstatai, identifikacinis kodas Teisės aktų registre ir kiti viešajai įstaigai įregistruoti reikalingi Civilinio kodekso 2.64 straipsnio 2 dalyje nurodyti dokumentai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2636, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09672
+ 
 
 
 
 
-2. Įregistruojant viešąją įstaigą, įregistruojami ir jos steigimo dokumentai.
+2. Neteko galios nuo 2025-01-15
+Straipsnio dalies naikinimas:
+Nr. XIV-2636, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09672
+ 
 
 
 
@@ -1676,7 +1682,9 @@ Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
 
 
 
-10. Viešosios įstaigos reorganizavimas laikomas baigtu, kai į Juridinių asmenų registrą įregistruojami po reorganizavimo sukurti nauji juridiniai asmenys ir jų įstatai ar įregistruojami pakeisti veiklą tęsiančių viešųjų įstaigų įstatai. Jeigu viešosios įstaigos įstatai šio straipsnio 7 dalyje nustatytu atveju nekeičiami, Juridinių asmenų registrui pateikiamas pranešimas, kad visos reorganizavimo sąlygų apraše nustatytos prievolės yra įvykdytos ir atsirado įstatymuose ar reorganizavimo sąlygų apraše nurodytos aplinkybės.
+10. Viešosios įstaigos reorganizavimas laikomas baigtu nuo po reorganizavimo veiksiančių juridinių asmenų įstatų arba duomenų įregistravimo Juridinių asmenų registre dienos. Jeigu viešosios įstaigos įstatai nekeičiami, Juridinių asmenų registrui pateikiamas pranešimas, kad visos reorganizavimo sąlygų apraše nustatytos prievolės yra įvykdytos ir atsirado įstatymuose ar reorganizavimo sąlygų apraše nurodytos aplinkybės.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2636, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09672
  
 
 
@@ -1767,7 +1775,9 @@ Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
 
 
 
-13. Viešosios įstaigos pertvarkymas laikomas baigtu nuo po pertvarkymo veiksiančio juridinio asmens steigimo dokumentų įregistravimo Juridinių asmenų registre.
+13. Viešosios įstaigos pertvarkymas laikomas baigtu nuo po pertvarkymo veiksiančio juridinio asmens steigimo dokumentų arba duomenų įregistravimo Juridinių asmenų registre dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2636, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09672
  
 
 
