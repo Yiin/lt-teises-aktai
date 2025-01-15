@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2025-01-14
+Suvestinė redakcija nuo 2025-01-15 iki 2025-04-16
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -5700,7 +5700,7 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 2.46 straipsnis. Juridinių asmenų steigimo dokumentai
 
 
-1. Juridiniai asmenys veikia pagal savo steigimo dokumentus: įstatus, steigimo sandorį arba įstatymų numatytais atvejais – bendruosius nuostatus. Pagal šį kodeksą įstatams prilygsta juridinių asmenų nuostatai, statutai ar kiti jų steigimo dokumentai.
+1. Juridiniai asmenys veikia pagal savo steigimo dokumentus: įstatus arba steigimo sandorį. Pagal šį kodeksą įstatams prilygsta juridinių asmenų nuostatai, statutai ar kiti jų steigimo dokumentai.
 
 
 
@@ -5710,24 +5710,31 @@ Juridinio asmens dalyvis (akcininkas, narys, dalininkas ir pan.) yra asmuo, kuri
 
 
 
-3. Viešieji juridiniai asmenys gali veikti pagal įstatymus ar, jei įstatymai numato, pagal valstybės ar savivaldybių institucijos priimtą teisės aktą dėl viešojo juridinio asmens steigimo, jei toks teisės aktas nenumato, kad viešasis juridinis asmuo veikia pagal valstybės ar savivaldybių institucijos patvirtintus įstatus.
+3. Viešieji juridiniai asmenys gali veikti pagal įstatymus ar, jei įstatymai numato, pagal valstybės ar savivaldybės institucijos priimtą teisės aktą dėl viešojo juridinio asmens steigimo, jei toks teisės aktas nenumato, kad viešasis juridinis asmuo veikia pagal valstybės ar savivaldybės institucijos patvirtintus steigimo dokumentus. 
 
 
 
 
-4. Juridinio asmens steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per šešis mėnesius nuo steigimo dokumentų sudarymo, jeigu kiti įstatymai nenustato kitokio termino. Šio straipsnio 3 dalyje nurodyti teisės aktai privalo būti pateikti juridinių asmenų registrui per šiuose aktuose nustatytą terminą.
-Straipsnio dalies pakeitimai:
-Nr. XII-2398, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15659
- 
+4. Valstybės ar savivaldybių institucijų teisės aktai, kuriais tvirtinami, keičiami ar pripažįstami netekusiais galios viešojo juridinio asmens steigimo dokumentai, taip pat šio straipsnio 3 dalyje nurodyti teisės aktai skelbiami Teisės aktų registre. Šioje dalyje nurodytų teisės aktų identifikaciniai kodai Teisės aktų registre privalo būti pateikti juridinių asmenų registrui.
 
 
 
 
-5. Juridinio asmens steigimo dokumentus pasirašiusių fizinių asmenų parašų dokumentuose tikrumą liudija notaras, išskyrus įstatymų nustatytas išimtis.
+5. Juridinio asmens steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per šešis mėnesius nuo steigimo dokumentų sudarymo dienos, jeigu kiti įstatymai nenustato kitokio termino. Šio straipsnio 4 dalyje nurodytų teisės aktų identifikaciniai kodai Teisės aktų registre privalo būti pateikti juridinių asmenų registrui per šiuose aktuose nustatytą terminą. 
+
+
+
+
+6. Juridinio asmens steigimo dokumentus pasirašiusių fizinių asmenų parašų dokumentuose tikrumą liudija notaras, išskyrus įstatymų nustatytas išimtis.
+
+
+
+
+7. Vienu valstybės ar savivaldybės institucijos teisės aktu gali būti tvirtinami, keičiami tik vieno viešojo juridinio asmens steigimo dokumentai. 
 
 
 Straipsnio pakeitimai:
-Nr. XII-1064, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10462
+Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665
  
 
 
@@ -6213,7 +6220,9 @@ Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
 
 
 
-2. Įstatymas ar įstatymų numatytais atvejais kitas teisės aktas, kuriuo yra įsteigtas viešasis juridinis asmuo, gali nustatyti, kad juridinis asmuo laikomas įsteigtu nuo teisės akto dėl jo įsteigimo įsigaliojimo. Tokiu atveju tame teisės akte turi būti pateikti šio kodekso 2.66 straipsnyje nurodyti duomenys, o toks teisės aktas privalo būti viešai paskelbtas bei perduotas juridinių asmenų registrui.
+2. Įstatymas ar įstatymų numatytais atvejais kitas teisės aktas, kuriuo yra įsteigtas viešasis juridinis asmuo, gali nustatyti, kad juridinis asmuo laikomas įsteigtu nuo teisės akto dėl jo įsteigimo įsigaliojimo dienos. Tokiu atveju tame teisės akte turi būti pateikti šio kodekso 2.66 straipsnyje nurodyti duomenys, o toks teisės aktas privalo būti viešai paskelbtas Teisės aktų registre ir jo identifikacinis kodas Teisės aktų registre turi būti perduotas juridinių asmenų registrui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665
  
 
 
@@ -6229,7 +6238,9 @@ Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
 
 
 
-2. Juridiniam asmeniui įregistruoti juridinių asmenų registre turi būti pateikti šie dokumentai:
+2. Juridiniam asmeniui įregistruoti juridinių asmenų registre turi būti pateikta: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665
 
 
 1) nustatytos formos prašymas įregistruoti juridinį asmenį;
@@ -6237,7 +6248,10 @@ Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
 
 
 
-2) juridinio asmens steigimo dokumentai;
+2) juridinio asmens steigimo dokumentai arba Teisės aktų registro objekto identifikacinis kodas, jeigu viešasis juridinis asmuo veikia pagal įstatymą ar valstybės ar savivaldybės institucijos priimtą teisės aktą dėl viešojo juridinio asmens steigimo arba pagal Teisės aktų registre skelbiamus steigimo dokumentus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665
+ 
 
 
 
@@ -6381,7 +6395,18 @@ Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
 
 
 
-15) kiti įstatymų numatyti duomenys.
+15) Teisės aktų registro objekto identifikacinis kodas, jeigu viešasis juridinis asmuo veikia pagal įstatymą ar valstybės ar savivaldybės institucijos priimtą teisės aktą dėl viešojo juridinio asmens steigimo arba pagal Teisės aktų registre skelbiamus steigimo dokumentus; 
+Papildyta straipsnio punktu:
+Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665
+ 
+
+
+
+
+16) kiti įstatymų numatyti duomenys.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665
+ 
 
 
 
@@ -6393,7 +6418,10 @@ Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
 
 
 
-3. Kai pasikeičia šio straipsnio 1 ir 2 dalyse nurodyti duomenys, taip pat kai pakeičiami steigimo dokumentai, juridinis asmuo privalo (išskyrus šio straipsnio 5 dalyje nurodytus atvejus, kai teismo procesinius dokumentus pateikia teismas) pateikti nustatytos formos prašymą įregistruoti pakeitimus juridinių asmenų registre per trisdešimt dienų nuo pakeitimų padarymo dienos. Kartu su prašymu įregistruoti pakeitimą turi būti pateikti dokumentai, nurodyti šio kodekso 2.64 straipsnio 2 dalies 4 punkte, ir visas pakeisto dokumento tekstas, jei dokumentas keičiamas.
+3. Kai pasikeičia šio straipsnio 1 ir 2 dalyse nurodyti duomenys, taip pat kai pakeičiami steigimo dokumentai, juridinis asmuo privalo (išskyrus šio straipsnio 5 dalyje nurodytus atvejus, kai teismo procesinius dokumentus pateikia teismas) pateikti nustatytos formos prašymą įregistruoti pakeitimus juridinių asmenų registre per trisdešimt dienų nuo pakeitimų padarymo dienos. Kartu su prašymu įregistruoti pakeitimą turi būti pateikti dokumentai, nurodyti šio kodekso 2.64 straipsnio 2 dalies 4 punkte, ir visas pakeisto dokumento tekstas, jei dokumentas keičiamas. Jei viešojo juridinio asmens pakeisti steigimo dokumentai ar jų pakeitimai paskelbti Teisės aktų registre, prašymo įregistruoti pakeitimus juridinių asmenų registre pateikti nereikia. Kai iki pakeitimo steigimo dokumentai Teisės aktų registre neturėjo būti paskelbti ar šio kodekso 2.46 straipsnio 4 dalyje nurodytas teisės aktas pripažįstamas netekusiu galios ir priimamas naujas teisės aktas, juridinių asmenų registrui turi būti pateiktas teisės akto, kuriuo keičiami ar tvirtinami viešojo juridinio asmens steigimo dokumentai, identifikacinis kodas Teisės aktų registre. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665
+ 
 
 
 
@@ -6451,7 +6479,10 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 
 
 
-2) praleisti šio kodekso 2.46 straipsnio 4 dalyje nurodyti terminai;
+2) praleisti šio kodekso 2.46 straipsnio 5 dalyje nurodyti terminai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665
+ 
 
 
 
