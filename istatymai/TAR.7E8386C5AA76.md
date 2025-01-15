@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76"
 
 # Lietuvos Respublikos regioninės plėtros įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2025-01-14
+Suvestinė redakcija nuo 2025-01-15
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1987, i. k. 1001010ISTAIII-1889
  
@@ -1025,12 +1025,17 @@ REGIONO PLĖTROS TARYBOS STATUSAS, STEIGIMAS, VALDYMAS, VEIKLA, FINANSAVIMAS, PA
 
 
 
-4. Regiono plėtros tarybos nuostatus turi pasirašyti visų steigėjų įgalioti asmenys. Pakeistus regiono plėtros tarybos nuostatus pasirašo regiono plėtros tarybos visuotinio dalyvių susirinkimo, priėmusio sprendimą pakeisti nuostatus, įgaliotas asmuo.
+4. Neteko galios nuo 2025-01-15
+Straipsnio dalies naikinimas:
+Nr. XIV-2633, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09668
+ 
 
 
 
 
-5. Regiono plėtros tarybos nuostatus pasirašiusių asmenų parašų tikrumo notaras neliudija.
+5. Neteko galios nuo 2025-01-15
+Straipsnio dalies naikinimas:
+Nr. XIV-2633, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09668
  
 
 
@@ -2204,3 +2209,8 @@ Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 12 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2000, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11574
 Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 26, 27 straipsnių ir priedo pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2633, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09668
+Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 18 straipsnio pakeitimo įstatymas
