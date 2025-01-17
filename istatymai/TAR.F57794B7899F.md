@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2025-01-16
+Suvestinė redakcija nuo 2025-01-17 iki 2025-04-25
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -621,6 +621,14 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 101. Su dažnio reguliavimu nesusijusios papildomos paslaugos – perdavimo sistemos operatoriaus įsigyjamos paslaugos, kuriomis jis naudojasi nuostoviosios būsenos įtampai reguliuoti, greitam reaktyviosios srovės tiekimui, vietos tinklo stabilumo inercijai, trumpojo jungimo srovei, paleidimo po totalios elektros energetikos sistemos avarijos galimybei ir izoliuoto elektros energetikos sistemos darbo galimybei užtikrinti.
+
+
+
+
+1011. Susijusi įmonė – bet kokios teisinės formos įmonė, kurią su elektros energetikos įmone sieja bendri dalyviai (dalyvavimas), kontrolė (kai turima 20 procentų ar daugiau akcijų arba balsavimo teisė, arba teisė skirti valdymo organų narius) ar vadovai, taip pat įmonė, priklausanti tiems patiems akcininkams.
+Papildyta straipsnio dalimi:
+Nr. XV-93, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23085
+ 
 
 
 
@@ -2263,22 +2271,6 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 8) kurie turi leidimą modernizuoti iš atsinaujinančių išteklių elektros energiją gaminančią elektrinę ar elektros energijos gamybos įrenginį, kai leidimo turėtojas įvykdė šios dalies 1–5 punktuose nurodytus reikalavimus; 
-
-
-
-
-9) jeigu juridiniam asmeniui nėra pradėta bankroto, restruktūrizavimo ir (ar) likvidavimo procedūra, o fiziniam asmeniui nėra pradėta fizinio asmens bankroto procedūra;
-Papildyta straipsnio punktu:
-Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
- 
-
-
-
-
-10) kurie neturi skolų, kurių bendra suma viršija 10 000 eurų, viešuosius interesus atitinkančių paslaugų elektros energetikos sektoriuje lėšų biudžetui, administruojamam viešuosius interesus atitinkančių paslaugų elektros energetikos sektoriuje lėšų administratoriaus. Jeigu šiame punkte nurodytų skolų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo neturi šiame punkte nurodytų skolų. 
-Papildyta straipsnio punktu:
-Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
- 
 
 
 Straipsnio dalies pakeitimai:
@@ -6087,7 +6079,9 @@ ENERGIJOS KAUPIMAS
 
 
 
-5. Energijos kaupimo įrenginio savininkui, perdavimo sistemos operatoriui teikiančiam izoliuoto darbo rezervo paslaugą, šio straipsnio nuostatos taikomos tiek, kiek jos neprieštarauja Elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymo nuostatoms.
+5. Vyriausybės paskirtam elektros energijos kaupimo įrenginių sistemos operatoriui šio straipsnio nuostatos taikomos tiek, kiek jos neprieštarauja Elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymo nuostatoms.
+Straipsnio dalies pakeitimai:
+Nr. XV-93, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23085
  
 
 
@@ -6367,7 +6361,9 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-2. Pagal perdavimo sistemos operatoriaus pagrįstą Tarybos nustatyta tvarka teikiamą prašymą Taryba leidžia perdavimo sistemos operatoriui turėti nuosavybės teise, plėtoti, valdyti arba eksploatuoti energijos kaupimo įrenginius, jeigu Taryba patvirtina, kad tie energijos kaupimo įrenginiai yra integruotieji elektros tinklo komponentai. Be to, Taryba leidžia perdavimo sistemos operatoriui turėti nuosavybės teise energijos kaupimo įrenginių, juos plėtoti, valdyti arba eksploatuoti, jeigu Taryba nustato, kad yra įvykdytos visos šios sąlygos:
+2. Pagal perdavimo sistemos operatoriaus ir (ar) su perdavimo sistemos operatoriumi susijusios įmonės pagrįstą Tarybos nustatyta tvarka teikiamą prašymą Taryba leidžia perdavimo sistemos operatoriui ir (ar) su perdavimo sistemos operatoriumi susijusiai įmonei turėti nuosavybės teise, plėtoti, valdyti arba eksploatuoti energijos kaupimo įrenginius, jeigu Taryba patvirtina, kad tie energijos kaupimo įrenginiai yra integruotieji elektros tinklo komponentai. Be to, Taryba leidžia perdavimo sistemos operatoriui ir (ar) su perdavimo sistemos operatoriumi susijusiai įmonei turėti nuosavybės teise energijos kaupimo įrenginių, juos plėtoti, valdyti arba eksploatuoti, jeigu Taryba nustato, kad yra įvykdytos visos šios sąlygos: 
+Straipsnio dalies pakeitimai:
+Nr. XV-93, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23085
 
 
 1) po perdavimo sistemos operatoriaus įvykdyto atviro, skaidraus ir nediskriminacinio konkurso, kurio sąlygas derina ir rezultatus tvirtina Taryba, kitiems asmenims nebuvo suteikta teisė turėti nuosavybės teise, plėtoti, valdyti arba eksploatuoti tokių energijos kaupimo įrenginių arba jie negalėjo tų paslaugų suteikti pagrįstomis kainomis ir laiku;
@@ -6385,6 +6381,22 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 21. Šio straipsnio 1 dalis netaikoma ir perdavimo tinklų operatorius neprivalo Tarybai teikti prašymo leisti turėti nuosavybės teise, plėtoti, valdyti arba eksploatuoti šio įstatymo 2 straipsnio 63 dalyje nurodytus įrenginius, kai šie įrenginiai yra kondensatoriai ir yra naudojami tik elektros tinklų įtampos parametrams gerinti, reaktyvios ir aktyvios galios balansui tinkle užtikrinti, įtampos kokybės ar kitoms tinklo stabilumą užtikrinančioms funkcijoms atlikti, o ne energijai kaupti. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
+ 
+
+
+
+
+22. Šio straipsnio 1 ir 2 dalys netaikomos perdavimo sistemos operatoriui ir (ar) su perdavimo sistemos operatoriumi susijusioms įmonėms, teikiantiems balansavimo paslaugas ne ilgiau kaip 3 metus nuo Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu momento. Šis laikotarpis, suderinus su Europos Komisija, gali būti pratęstas ne ilgiau kaip 5 metams, jeigu būtina užtikrinti elektros energijos tiekimo saugumą. 
+Papildyta straipsnio dalimi:
+Nr. XV-93, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23085
+ 
+
+
+
+
+23. Šio straipsnio 22 dalyje nurodyto paslaugų teikėjo (-ų) patiriamų sąnaudų, įskaitant investicijų grąžą, tinkamumas pripažįstamas Tarybos nustatyta tvarka ir, jeigu sąnaudos pripažįstamos ekonomiškai pagrįstomis šių paslaugų teikėjo (-ų) sąnaudomis, jos įtraukiamos į reguliuojamų paslaugų kainas (papildomų paslaugų įsigijimo dedamąją prie perdavimo paslaugos kainos ir (ar) kitas kainas). Nustatydama kainodaros tvarką ir (ar) principus Taryba atsižvelgia ir į šio įstatymo 67 straipsnio 1 dalį.
+Papildyta straipsnio dalimi:
+Nr. XV-93, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23085
  
 
 
@@ -7654,7 +7666,10 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-5. Balansavimo energija prekiaujama ir atsiskaitymai už disbalansą vykdomi balansavimo paslaugų rinkoje sutarčių tarp rinkos dalyvių pagrindu šiame įstatyme, Reglamente (ES) 2017/2195 ir Elektros energijos rinkos taisyklėse nustatyta tvarka ir sąlygomis. Perdavimo sistemos operatorius rengia balansavimo paslaugų teikimo sutarties (balansavimo paslaugų teikėjams taikomų nuostatų ir sąlygų) ir atsiskaitymo už disbalansą sutarties (už balansą atsakingoms šalims taikomų nuostatų ir sąlygų) standartines sąlygas, teikia jas tvirtinti Tarybai ir, Tarybai patvirtinus, paskelbia savo interneto svetainėje.
+5. Balansavimo energija prekiaujama ir atsiskaitymai už disbalansą vykdomi balansavimo paslaugų rinkoje sutarčių tarp rinkos dalyvių pagrindu šiame įstatyme, Reglamente (ES) 2017/2195 ir Elektros energijos rinkos taisyklėse nustatyta tvarka ir sąlygomis, išskyrus šio įstatymo 481 straipsnio 5 dalyje ir 483 straipsnio 22 dalyje nustatytus atvejus. Perdavimo sistemos operatorius rengia balansavimo paslaugų teikimo sutarties (balansavimo paslaugų teikėjams taikomų nuostatų ir sąlygų) ir atsiskaitymo už disbalansą sutarties (už balansą atsakingoms šalims taikomų nuostatų ir sąlygų) standartines sąlygas, teikia jas tvirtinti Tarybai ir, Tarybai patvirtinus, paskelbia savo interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XV-93, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23085
+ 
 
 
 
@@ -10798,7 +10813,10 @@ priedas
 
 
 
-21. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/944 dėl elektros energijos vidaus rinkos bendrųjų taisyklių, kuria iš dalies keičiama Direktyva 2012/27/ES.
+21. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/944 dėl elektros energijos vidaus rinkos bendrųjų taisyklių, kuria iš dalies keičiama Direktyva 2012/27/ES su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1711.
+Punkto pakeitimai:
+Nr. XV-93, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23085
+ 
 
 
 Priedo pakeitimai:
@@ -11108,3 +11126,13 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 44, 45 ir 46 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2839, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12634
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 16, 31, 39, 69, 73, 75 straipsnių pakeitimo ir Įstatymo papildymo 57-1 straipsniu įstatymas
+ 
+61.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3092, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20110
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 16, 22 ir 48-2 straipsnių pakeitimo ir Įstatymo papildymo 73-3 straipsniu įstatymas
+ 
+62.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-93, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23085
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 48-1, 48-3, 59 straipsnių ir priedo pakeitimo įstatymas
