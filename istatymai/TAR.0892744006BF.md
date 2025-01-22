@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/0892744006bf11ee9978886e85107ab2"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2025-01-21
+Suvestinė redakcija nuo 2025-01-22
  
 Įstatymas paskelbtas: TAR 2023-06-09, i. k. 2023-11556
  
@@ -2654,9 +2654,10 @@ ____________________“.
 
 
 
-8. Įsigaliojus šiam įstatymui, valstybės ir savivaldybių institucijose ir įstaigose sudarytos komisijos, vadovaudamosi Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo įstatymo Nr. XIII-2987 2 straipsnio 11 dalimi, peržiūri institucijos ar įstaigos pareigybių sąraše esančias valstybės tarnautojų pareigybes ir jų sąrašą teikia tvirtinti institucijos ar įstaigos vadovui. Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos valstybės tarnybos įstatymo 3 straipsnio 11 dalyje apibrėžtos valstybės tarnautojo sąvokos neatitinkančios valstybės tarnautojų pareigybės iki 2025 m. sausio 1 d. turi būti panaikintos arba vietoj jų įsteigtos darbuotojų, dirbančių pagal darbo sutartis, pareigybės. Naikinant šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos valstybės tarnybos įstatymo 3 straipsnio 11 dalyje apibrėžtos valstybės tarnautojo sąvokos neatitinkančią valstybės tarnautojo pareigybę, su asmeniu, ėjusiu šias pareigas, su jo sutikimu, nesurengus konkurso, sudaroma darbo sutartis dėl darbo toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje, jeigu vietoj naikinamos valstybės tarnautojo pareigybės steigiama darbuotojo, dirbančio pagal darbo sutartį, pareigybė. Asmeniui, pasinaudojusiam šia teise ir tęsiančiam darbo santykius toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje, išeitinė išmoka pagal šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos valstybės tarnybos įstatymo 32 straipsnio 4 dalį ir kompensacija už nepanaudotas kasmetines atostogas nemokamos, bet išsaugoma jo teisė į nepanaudotas kasmetines atostogas (ne daugiau kaip už trejus tarnybos metus nuo teisės į kasmetines atostogas įgijimo dienos, išskyrus atvejus, kai jis faktiškai negalėjo jomis pasinaudoti), kurios suteikiamos Lietuvos Respublikos darbo kodekso nustatyta tvarka. Darbuotojui, pradėjusiam dirbti pagal darbo sutartį, kasmetinės atostogos suteikiamos Lietuvos Respublikos darbo kodekso nustatyta tvarka, išsaugant iki tol įgytą darbo stažą toje valstybės ar savivaldybės institucijoje ar įstaigoje.
+8. Įsigaliojus šiam įstatymui, valstybės ir savivaldybių institucijose ir įstaigose sudarytos komisijos, vadovaudamosi Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo įstatymo Nr. XIII-2987 2 straipsnio 11 dalimi, peržiūri institucijos ar įstaigos pareigybių sąraše esančias valstybės tarnautojų pareigybes ir jų sąrašą teikia tvirtinti institucijos ar įstaigos vadovui. Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos valstybės tarnybos įstatymo 3 straipsnio 11 dalyje apibrėžtos valstybės tarnautojo sąvokos neatitinkančios valstybės tarnautojų pareigybės iki 2026 m. sausio 1 d. turi būti panaikintos arba vietoj jų įsteigtos darbuotojų, dirbančių pagal darbo sutartis, pareigybės. Naikinant šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos valstybės tarnybos įstatymo 3 straipsnio 11 dalyje apibrėžtos valstybės tarnautojo sąvokos neatitinkančią valstybės tarnautojo pareigybę, su asmeniu, ėjusiu šias pareigas, su jo sutikimu, nesurengus konkurso, sudaroma darbo sutartis dėl darbo toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje, jeigu vietoj naikinamos valstybės tarnautojo pareigybės steigiama darbuotojo, dirbančio pagal darbo sutartį, pareigybė. Asmeniui, pasinaudojusiam šia teise ir tęsiančiam darbo santykius toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje, išeitinė išmoka pagal šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos valstybės tarnybos įstatymo 32 straipsnio 4 dalį ir kompensacija už nepanaudotas kasmetines atostogas nemokamos, bet išsaugoma jo teisė į nepanaudotas kasmetines atostogas (ne daugiau kaip už trejus tarnybos metus nuo teisės į kasmetines atostogas įgijimo dienos, išskyrus atvejus, kai jis faktiškai negalėjo jomis pasinaudoti), kurios suteikiamos Lietuvos Respublikos darbo kodekso nustatyta tvarka. Darbuotojui, pradėjusiam dirbti pagal darbo sutartį, kasmetinės atostogos suteikiamos Lietuvos Respublikos darbo kodekso nustatyta tvarka, išsaugant iki tol įgytą darbo stažą toje valstybės ar savivaldybės institucijoje ar įstaigoje.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2347, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25603
+Nr. XV-110, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00693
  
 
 
@@ -2786,3 +2787,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2450, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25942
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymo Nr. XIV-1985 1 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-110, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00693
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymo Nr. XIV-1985 2 straipsnio pakeitimo įstatymas
