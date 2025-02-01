@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-01-31
+Suvestinė redakcija nuo 2025-02-01 iki 2025-07-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -1055,12 +1055,13 @@ Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
 
 
 
-99. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme, Lietuvos Respublikos aplinkos oro apsaugos įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos strateginių prekių kontrolės įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme.
+99. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme, Lietuvos Respublikos aplinkos oro apsaugos įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos reklamos įstatyme, Lietuvos Respublikos strateginių prekių kontrolės įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme.
 Papildyta straipsnio dalimi:
 Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 Straipsnio dalies pakeitimai:
 Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
 Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
+Nr. XIV-3154, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20212
  
 
 
@@ -2236,7 +2237,10 @@ Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
 
 
 
-6. Reklamos įrengimo keliuose, virš kelių, kelių juostose ir jų apsaugos zonose, taip pat gatvėse ar prie jų, reikalavimus ir ribojimus nustato Reklamos įstatymas. Reklama, įrengta pažeidžiant nustatytus reikalavimus, turi būti nuimta, nugriauta ar išardyta jos savininko arba įrengusių asmenų lėšomis, neatlyginant nuostolių.
+6. Išorinės reklamos įrengimo keliuose, virš kelių, kelių juostose ir kelių apsaugos zonose reikalavimus ir ribojimus nustato Reklamos įstatymas ir Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas. Išorinė reklama, įrengta pažeidžiant nustatytus reikalavimus, turi būti nuimta, nugriauta ar išardyta jos savininko arba įrengusių asmenų lėšomis, neatlyginant nuostolių.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3154, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20212
+ 
 
 
 
@@ -5163,6 +5167,11 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3156, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20216
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 10 straipsnio pakeitimo įstatymas
+ 
+46.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3154, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20212
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir 11 straipsnio pakeitimo įstatymas
  
  
 
