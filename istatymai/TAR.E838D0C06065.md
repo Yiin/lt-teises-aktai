@@ -21,7 +21,7 @@ SRITYJE, ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-01-31
+Suvestinė redakcija nuo 2025-02-01
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 85-4135, i. k. 1111010ISTA0XI-1491
  
@@ -2819,6 +2819,14 @@ f) kitose valstybėse padarytą nusikaltimą, apibrėžtą kitų valstybių baud
 
 
 
+21) dėl tiekėjo (juridinio asmens), kuris yra neatlikęs jam paskirtos baudžiamojo poveikio priemonės – uždraudimo juridiniam asmeniui dalyvauti viešuosiuose pirkimuose;
+Papildyta straipsnio punktu:
+Nr. XIV-3148, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20206
+ 
+
+
+
+
 3) perkančioji organizacija bet kokiomis tinkamomis priemonėmis gali įrodyti, kad tiekėjas yra padaręs rimtą profesinį pažeidimą, dėl kurio perkančioji organizacija abejoja tiekėjo sąžiningumu, kai jis:
 
 
@@ -5148,3 +5156,8 @@ Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3083, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19836
 Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 33 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3148, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20206
+Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 34 straipsnio pakeitimo įstatymas
