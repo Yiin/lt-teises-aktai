@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7A932101FADA"
 
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-01-31
+Suvestinė redakcija nuo 2025-02-01 iki 2025-06-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 15-600, i. k. 1031010ISTA0IX-1314
- 
-TAR pastaba. Iki 2025 m. sausio 1 d. pradėtos įsiterpusių žemės sklypų pardavimo juos laikinai naudojantiems besiribojančių žemės sklypų savininkams procedūros tęsiamos ir baigiamos pagal iki 2025 m. sausio 1 d. galiojusią tvarką ir sąlygas.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-2123, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14311
-Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 pakeitimo įstatymas
  
 Nauja redakcija nuo 2024-01-01:
 Nr. XIV-2123, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14311
@@ -231,7 +226,11 @@ Nr. XIV-2123, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14311
 
 
 
-3) asmuo, nuosavybės teise turintis žemės ūkio paskirties žemės sklypą, kuris ribojasi su parduodamu žemės ūkio paskirties žemės sklypu, atitinkančiu įsiterpusiam žemės plotui nustatytus kriterijus, nurodytus Žemės įstatyme.
+3) asmuo, nuosavybės teise turintis žemės ūkio paskirties žemės sklypą, kuris ribojasi su parduodamu žemės ūkio paskirties žemės sklypu, – jeigu jis, būdamas fizinis asmuo, Ūkininko ūkio įstatymo nustatyta tvarka yra įregistravęs ūkininko ūkį arba jo, būnant juridiniu asmeniu, įplaukos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų;
+TAR pastaba. Iki 2025 m. sausio 31 d. pradėtos įsiterpusio privataus žemės ūkio paskirties žemės sklypo pardavimo procedūros užbaigiamos pagal iki 2025 m. sausio 31 d. galiojusias Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo nuostatas. Pardavimo procedūra laikoma pradėta, jeigu privataus žemės ūkio paskirties žemės sklypo savininkas apie sprendimą parduoti žemės ūkio paskirties žemės sklypą yra pranešęs pasirinktam notarui arba Nacionalinei žemės tarnybai prie Aplinkos ministerijos.  
+Straipsnio punkto pakeitimai:
+Nr. XV-95, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23088
+ 
 
 
 
@@ -506,3 +505,13 @@ Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. I
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2123, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14311
 Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3117, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20201
+Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 4 ir 5 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-95, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23088
+Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 5 straipsnio pakeitimo įstatymas
