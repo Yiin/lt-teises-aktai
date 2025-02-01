@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 
 # Lietuvos Respublikos reklamos įstatymas
 
-Suvestinė redakcija nuo 2023-08-01 iki 2025-01-31
+Suvestinė redakcija nuo 2025-02-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
  
@@ -189,7 +189,9 @@ Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
 
 
 
-19. Šiame įstatyme vartojamos sąvokos „komercinės veiklos subjektas“, „komercinis pasiūlymas“, „sprendimas dėl sandorio“, „vartotojas“, „vidutinis vartotojas“ suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme (toliau – Nesąžiningos komercinės veiklos vartotojams draudimo įstatymas).
+19. Šiame įstatyme vartojama sąvoka „gyvenvietė“ suprantama taip, kaip apibrėžiama Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, sąvokos „komercinės veiklos subjektas“, „komercinis pasiūlymas“, „sprendimas dėl sandorio“, „vartotojas“, „vidutinis vartotojas“ suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3152, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20210
  
 
 
@@ -537,7 +539,10 @@ Rodant filmus kino teatruose ir videosalėse, reklama gali būti pateikiama tik 
 1. Draudžiama įrengti išorinę reklamą:
 
 
-1) keliuose, virš kelių, kelių juostose ir apsaugos zonose. Išorinę reklamą įrengti taip pat draudžiama gatvėse ir prie jų, jeigu ji gali užstoti technines eismo reguliavimo priemones, pabloginti matomumą, akinti eismo dalyvius, kelti pavojų eismo dalyviams. Draudžiama naudoti išorinę reklamą, imituojančią kelio ženklus ir (ar) naudojančią kelio ženklų simboliką;
+1) keliuose, virš kelių, kelių juostose. Išorinę reklamą įrengti taip pat draudžiama kelių apsaugos zonose, išskyrus atvejus, nustatytus Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme. Kelių apsaugos zonose gyvenvietėse įrengti išorinę reklamą draudžiama, jeigu ji gali užstoti technines eismo reguliavimo priemones, pabloginti matomumą, akinti eismo dalyvius, kelti pavojų eismo dalyviams. Draudžiama naudoti išorinę reklamą, imituojančią kelio ženklus ir (ar) naudojančią kelio ženklų simboliką;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3152, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20210
+ 
 
 
 
@@ -1623,3 +1628,8 @@ Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 15 straipsnio ir priedo pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2106, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13999
 Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 12 ir 19 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3152, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20210
+Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2 ir 12 straipsnių pakeitimo įstatymas
