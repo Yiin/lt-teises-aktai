@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2024-10-18 iki 2025-01-31
+Suvestinė redakcija nuo 2025-02-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
  
@@ -3455,6 +3455,14 @@ Nr. XIV-2254, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22985
 
 
 
+21. Perkančioji organizacija pašalina tiekėją iš pirkimo procedūros, jeigu tiekėjas yra neatlikęs jam paskirtos baudžiamojo poveikio priemonės – uždraudimo juridiniam asmeniui dalyvauti viešuosiuose pirkimuose. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3149, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20208
+ 
+
+
+
+
 3. Už įsipareigojimų, susijusių su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, nevykdymą pagal šalies, kurioje registruotas tiekėjas, ar šalies, kurioje yra perkančioji organizacija, reikalavimus tiekėjas iš pirkimo procedūros pašalinamas, jeigu perkančioji organizacija sužino, kad tiekėjas už tai nuteistas, kaip apibrėžta šio straipsnio 2 dalies 1 ir 3 punktuose, arba turi kitų įrodymų apie šių įsipareigojimų nevykdymą. Ši nuostata netaikoma, jeigu:
 
 
@@ -3605,7 +3613,10 @@ c) ėmėsi techninių, organizacinių, personalo valdymo priemonių, skirtų tol
 
 
 
-12. Kai priimtu ir įsiteisėjusiu teismo sprendimu tiekėjui yra nustatytas šio straipsnio 1, 2, 4 ir 6 dalyse nurodytų pašalinimo pagrindų laikotarpis, perkančioji organizacija tiekėją iš pirkimo procedūros šalina teismo sprendime nurodytą laikotarpį. 
+12. Kai priimtu ir įsiteisėjusiu teismo sprendimu tiekėjui yra nustatytas šio straipsnio 1, 2, 21, 4 ir 6 dalyse nurodytų pašalinimo pagrindų laikotarpis, perkančioji organizacija tiekėją iš pirkimo procedūros šalina teismo sprendime nurodytą laikotarpį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3149, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20208
+ 
 
 
 Straipsnio pakeitimai:
@@ -9431,3 +9442,8 @@ Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 45 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2909, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13544
 Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2, 17, 37, 47 ir 87 straipsnių pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3149, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20208
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 46 straipsnio pakeitimo įstatymas
