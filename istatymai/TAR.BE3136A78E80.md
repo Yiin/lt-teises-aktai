@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.09)
 
 
 
-Suvestinė redakcija nuo 2024-08-01 iki 2025-02-28
+Suvestinė redakcija nuo 2025-03-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
  
@@ -87,7 +87,7 @@ Notarai į pareigas skiriami viešo konkurso būdu.
 
 
 
-Notaru gali būti fizinis asmuo, jeigu jis: 
+Notaru gali būti fizinis asmuo, jeigu jis:
 
 
 1) yra Europos Sąjungos valstybės narės ar kitos Europos ekonominės erdvės susitarimo dalyvės, ar Šveicarijos Konfederacijos pilietis;
@@ -100,18 +100,12 @@ Notaru gali būti fizinis asmuo, jeigu jis:
 
 
 
-3) turi teisės bakalauro ir teisės magistro kvalifikacinius laipsnius arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą); 
-Straipsnio punkto pakeitimai:
-Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
- 
+3) turi aukštojo mokslo kvalifikaciją, įgytą baigus universitetines teisės studijų krypties pirmosios ir antrosios studijų pakopų ar vientisąsias studijas, arba jai lygiavertę aukštojo mokslo kvalifikaciją; 
 
 
 
 
-4) ne mažiau kaip dvejus metus buvo kandidatu į notarus (asesoriumi) ir išlaikė notaro kvalifikacinį egzaminą arba yra teisės krypties socialinių mokslų daktaras ar habilituotas daktaras, turi ne mažesnį kaip penkerių metų pedagoginio ar mokslinio darbo stažą ir atliko ne trumpesnę kaip šešių mėnesių notaro praktiką, arba turi ne mažesnį kaip penkerių metų teisinio darbo stažą, išlaikė notaro kvalifikacinį egzaminą ir atliko ne trumpesnę kaip šešių mėnesių notaro praktiką. Teisiniu darbu laikoma veikla, nurodyta Lietuvos Respublikos Vyriausybės patvirtintame teisinių pareigybių sąraše. Teisinio darbo stažas skaičiuojamas nuo tada, kai asmuo įgijo teisininko kvalifikaciją ir pradėjo dirbti teisinį darbą. Notaro kvalifikacinio egzamino rezultatai galioja penkerius metus nuo egzamino išlaikymo dienos. Jeigu per penkerius metus nuo notaro kvalifikacinio egzamino išlaikymo dienos asmuo pradeda eiti notaro pareigas, jo rezultatų galiojimo terminas pratęsiamas tol, kol jis eina notaro pareigas. Notarai, kurie dalyvauja viešame konkurse eiti notaro pareigas kitoje savivaldybėje, nuo notaro kvalifikacinio egzamino atleidžiami, jeigu jie jau buvo išlaikę notaro kvalifikacinį egzaminą. Notaro kvalifikacinio egzamino nuostatus ir Notaro praktikos atlikimo tvarkos aprašą tvirtina Lietuvos Respublikos teisingumo ministras; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
- 
+4) ne mažiau kaip dvejus metus buvo kandidatu į notarus (asesoriumi) ir išlaikė notaro kvalifikacinį egzaminą arba turi socialinių mokslų srities teisės krypties mokslo daktaro laipsnį, ne mažesnį kaip penkerių metų pedagoginio ar mokslinio darbo stažą ir atliko ne trumpesnę kaip šešių mėnesių notaro praktiką, arba turi ne mažesnį kaip penkerių metų teisinio darbo stažą, išlaikė notaro kvalifikacinį egzaminą ir atliko ne trumpesnę kaip šešių mėnesių notaro praktiką. Teisiniu darbu laikoma veikla, nurodyta Lietuvos Respublikos Vyriausybės tvirtinamame teisinių pareigybių sąraše. Teisinio darbo stažas skaičiuojamas nuo tada, kai asmuo įgijo teisininko kvalifikaciją ir pradėjo dirbti teisinį darbą. Notaro kvalifikacinio egzamino rezultatai galioja penkerius metus nuo egzamino išlaikymo dienos. Jeigu per penkerius metus nuo notaro kvalifikacinio egzamino išlaikymo dienos asmuo pradeda eiti notaro pareigas, jo rezultatų galiojimo terminas pratęsiamas tol, kol jis eina notaro pareigas. Notarai, kurie dalyvauja viešame konkurse eiti notaro pareigas kitoje savivaldybėje, nuo notaro kvalifikacinio egzamino atleidžiami, jeigu jie jau buvo išlaikę notaro kvalifikacinį egzaminą. Notaro kvalifikacinio egzamino nuostatus ir Notaro praktikos atlikimo tvarkos aprašą tvirtina Lietuvos Respublikos teisingumo ministras;
 
 
 
@@ -126,19 +120,7 @@ Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 
 
 
-7) laimėjo viešą konkursą eiti notaro pareigas. Notaras ar viešą konkursą eiti notaro pareigas laimėjęs ir nepradėjęs vykdyti notaro veiklos asmuo dalyvauti viešame konkurse eiti notaro pareigas gali ne anksčiau kaip po penkerių metų nuo laimėto konkurso eiti notaro pareigas dienos. Viešo konkurso eiti notaro pareigas nuostatus tvirtina Lietuvos Respublikos teisingumo ministras;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
- 
-
-
-
-
-8) neteko galio nuo 2022-01-01;
-Straipsnio punkto pakeitimai:
-Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
-Nr. XIV-613, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23535
- 
+7) laimėjo viešą konkursą eiti notaro pareigas. Notaras ar viešą konkursą eiti notaro pareigas laimėjęs ir nepradėjęs vykdyti notaro veiklos asmuo dalyvauti viešame konkurse eiti notaro pareigas gali ne anksčiau kaip po penkerių metų nuo laimėto konkurso eiti notaro pareigas dienos. Viešo konkurso eiti notaro pareigas nuostatus tvirtina Lietuvos Respublikos teisingumo ministras.
 
 
 
@@ -148,55 +130,109 @@ Nr. XIV-613, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23535
 Asmuo negali būti laikomas nepriekaištingos reputacijos ir skiriamas notaru, jeigu:
 
 
-1) jis buvo nuteistas už nusikaltimą, kol teistumas neišnykęs arba nepanaikintas ir nepraėjo ne mažiau kaip penkeri metai nuo bausmės atlikimo ar atleidimo nuo bausmės atlikimo dienos; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3215, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15752
- 
+1) yra padaręs labai sunkų nusikaltimą ir:
+
+
+a) yra nuteistas ir nuo bausmės atlikimo arba atleidimo nuo bausmės atlikimo dienos nėra praėję dvylika metų; 
 
 
 
 
-2) jis buvo nuteistas už baudžiamąjį nusižengimą, jeigu nuo apkaltinamojo nuosprendžio įsiteisėjimo ar atleidimo nuo bausmės dienos nepraėjo penkeri metai;
+b) yra atleistas nuo baudžiamosios atsakomybės Lietuvos Respublikos baudžiamojo kodekso 36 straipsnyje nurodytu atveju, bet nuo atleidimo dienos nėra praėję penkeri metai arba yra atleistas Baudžiamojo kodekso 391 straipsnyje nurodytu atveju, bet nuo atleidimo dienos nėra praėję dešimt metų;
 
 
 
 
-3) jis buvo pripažintas kaltu dėl  nusikalstamos veikos padarymo, bet nuo baudžiamosios atsakomybės atleistas, ir nuo nuosprendžio įsiteisėjimo dienos nepraėjo penkeri metai;
+
+
+2) yra padaręs sunkų nusikaltimą ir: 
+
+
+a) yra nuteistas ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nėra praėję dešimt metų; 
 
 
 
 
-4) jis buvo atleistas iš darbo, pareigų ar neteko teisės verstis tam tikra veikla dėl to, kad neatitiko įstatymuose keliamo nepriekaištingos reputacijos reikalavimo, arba buvo pašalintas ar atleistas iš teisėjo, prokuroro, advokato, advokato padėjėjo, notaro, kandidato į notarus (asesoriaus), notaro atstovo ar antstolio, antstolio atstovo, antstolio padėjėjo pareigų arba iš valstybės tarnybos už profesinės ar tarnybinės veiklos pažeidimus ir nuo atleidimo dienos nepraėjo penkeri metai; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3215, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15752
- 
+b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 straipsnyje nurodytu atveju, bet nuo atleidimo dienos nėra praėję ketveri metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję aštuoneri metai;
 
 
 
 
-5) jis piktnaudžiauja alkoholiu, psichotropinėmis, narkotinėmis ar kitomis psichiką veikiančiomis medžiagomis; 
+
+
+3) yra padaręs apysunkį nusikaltimą ir: 
+
+
+a) yra nuteistas ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nėra praėję aštuoneri metai; 
 
 
 
 
-6) jo elgesys ar veikla nesuderinama su Lietuvos Respublikos notarų etikos kodekso reikalavimais. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
- 
+b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 ar 37 straipsnyje nurodytais atvejais, bet nuo atleidimo dienos nėra praėję treji metai arba atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję šešeri metai; 
 
 
 
 
-Lietuvos Respublikos teisingumo ministerija turi teisę gauti iš visų teisėsaugos institucijų, valstybės ir savivaldybių institucijų, valstybės registrų ir informacinių sistemų informaciją, dokumentus ar duomenis (įskaitant asmens duomenis), reikalingus įsitikinti, kad asmuo atitinka šio straipsnio antrojoje ir trečiojoje dalyse nustatytus reikalavimus.
-Papildyta straipsnio dalimi:
-Nr. XIII-3215, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15752
-Straipsnio dalies pakeitimai:
-Nr. XIV-613, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23535
- 
 
 
+4) yra padaręs nesunkų nusikaltimą ir: 
+
+
+a) yra nuteistas ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nėra praėję penkeri metai;
+
+
+
+
+b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 ar 37 straipsnyje nurodytais atvejais, bet nuo atleidimo dienos nėra praėję dveji metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję treji metai;
+
+
+
+
+
+
+5) yra padaręs tyčinį baudžiamąjį nusižengimą ir: 
+
+
+a) yra nuteistas ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nėra praėję treji metai; 
+
+
+
+
+b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 ar 37 straipsnyje nurodytais atvejais, bet nuo atleidimo dienos nėra praėję vieni metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję dveji metai;
+
+
+
+
+
+
+6) yra atleistas iš darbo, pareigų ar yra netekęs teisės verstis tam tikra veikla dėl to, kad neatitinka įstatymuose keliamų nepriekaištingos reputacijos reikalavimų, arba yra pašalintas ar atleistas iš teisėjo, prokuroro, advokato, advokato padėjėjo, notaro, kandidato į notarus (asesoriaus), notaro atstovo ar antstolio, antstolio atstovo, antstolio padėjėjo pareigų už profesinės ar tarnybinės veiklos pažeidimus ar iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą, arba yra pripažintas padaręs tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, arba yra atleistas iš darbo už šiurkštų darbo pareigų pažeidimą ir nuo atleidimo iš darbo, pareigų ar teisės verstis tam tikra veikla netekimo arba pripažinimo padarius tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, ir nuo atleidimo dienos nėra praėję treji metai;
+
+
+
+
+7) yra atleistas arba pašalintas iš skiriamų ar renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo arba pareigūno vardo pažeminimo ir nuo atleidimo arba pašalinimo iš pareigų dienos nėra praėję treji metai;
+
+
+
+
+8) piktnaudžiauja alkoholiu, vartoja psichotropines, narkotines ar kitas psichiką veikiančias medžiagas ne medicinos tikslais; 
+
+
+
+
+9) jo elgesys ar veikla nesuderinama su Lietuvos Respublikos notarų etikos kodekso reikalavimais.
+
+
+
+
+
+
+Jeigu asmuo padaro korupcinio pobūdžio nusikalstamą veiką, kuri suprantama taip, kaip apibrėžiama Lietuvos Respublikos korupcijos prevencijos įstatyme, šio straipsnio trečiojoje dalyje nurodyti terminai, kai asmuo nelaikomas esąs nepriekaištingos reputacijos, ilginami vienu trečdaliu.
+
+
+
+
+Lietuvos Respublikos teisingumo ministerija ir Notarų rūmai turi teisę gauti iš visų teisėsaugos institucijų, valstybės ir savivaldybių institucijų ir informacinių sistemų, kurios suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, (toliau – informacinės sistemos) informaciją, dokumentus ar duomenis (įskaitant asmens duomenis), reikalingus įsitikinti, kad asmuo atitinka šio straipsnio antrojoje, trečiojoje ir ketvirtojoje dalyse nustatytus reikalavimus.
 Straipsnio pakeitimai:
 Nr. I-597, 94.09.22, Žin., 1994, Nr. 78-1463 (94.10.07)
 Nr. VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
@@ -207,6 +243,10 @@ Nr. IX-1458, 2003-04-03, Žin., 2003, Nr. 38-1703 (2003-04-24)
 Nr. X-1164, 2007-06-05, Žin., 2007, Nr. 68-2651 (2007-06-21)
 Nr. XI-1916, 2011-12-23, Žin., 2012, Nr. 4-114 (2012-01-06)
 Nr. XI-1979, 2012-04-19, Žin., 2012, Nr. 50-2444 (2012-04-28)
+
+
+Straipsnio pakeitimai:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
  
 
 
@@ -229,9 +269,10 @@ Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
 
 
 
-Eilinė notaro atestacija vykdoma praėjus vieniems metams nuo notaro profesinės veiklos pradžios, o vėliau – periodiškai, ne rečiau kaip kas penkeri metai. Notaras, grįžęs iš vaiko priežiūros atostogų, atestuojamas ne anksčiau kaip po vienų metų profesinės veiklos. Neeilinė notaro atestacija gali būti vykdoma, kai yra teismo sprendimas, kuriuo atliktas notarinis veiksmas pripažintas neteisėtu dėl notaro profesinės veiklos pažeidimų, kai esama abejonių, ar notaras tinkamai laikosi Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo reikalavimų, taip pat kitais pagrindais, kurie leidžia pagrįstai abejoti notaro kvalifikacija. Neeilinė notaro atestacija vykdoma motyvuotai pareikalavus Lietuvos Respublikos teisingumo ministrui, Notarų rūmų prezidiumui, Notarų garbės teismui. 
+Eilinė notaro atestacija vykdoma praėjus vieniems metams nuo notaro profesinės veiklos pradžios, o vėliau – kas penkeri metai. Notaras, grįžęs iš vaiko priežiūros atostogų, atestuojamas ne anksčiau kaip po vienų metų profesinės veiklos. Neeilinė notaro atestacija gali būti vykdoma, kai yra teismo sprendimas, kuriuo atliktas notarinis veiksmas pripažintas neteisėtu dėl notaro profesinės veiklos pažeidimų, kai esama abejonių, ar notaras tinkamai laikosi Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo reikalavimų, taip pat kitais pagrindais, kurie leidžia pagrįstai abejoti notaro kvalifikacija. Neeilinė notaro atestacija vykdoma motyvuotai pareikalavus Lietuvos Respublikos teisingumo ministrui, Notarų rūmų prezidiumui ar Notarų garbės teismui.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2549, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07553
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
  
 
 
@@ -340,12 +381,18 @@ Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
 
 
 
-Notaro darbo vieta yra notaro biuras. Notaro biuras nėra civilinių teisinių santykių, įskaitant komercinę ūkinę veiklą, subjektas. Notarų biurai steigiami Lietuvos Respublikos teisingumo ministro įsakymu. Vienas notaras gali turėti vieną notaro biurą. Du ir daugiau notarų, einančių notaro pareigas toje pačioje savivaldybėje ar savivaldybėse, kurių centras yra tame pačiame mieste, gali turėti vieną bendrą notarų biurą. Dėl bendro notarų biuro darbo organizavimo ir veiklos notarai sudaro sutartį. Kiekvienas notaras, dirbantis bendrame notarų biure, notarinius veiksmus atlieka savo vardu ir asmeniškai atsako už savo pareigų atlikimą.
+Notaro darbo vieta yra notaro biuras. Notaro biuras nėra civilinių teisinių santykių, įskaitant komercinę ūkinę veiklą, subjektas. Notarų biurai steigiami Notarų rūmų prezidiumo nutarimu. Vienas notaras gali turėti vieną notaro biurą. Du ir daugiau notarų, einančių notaro pareigas toje pačioje savivaldybėje ar savivaldybėse, kurių centras yra tame pačiame mieste, gali turėti vieną bendrą notarų biurą. Dėl bendro notarų biuro darbo organizavimo ir veiklos notarai sudaro sutartį. Kiekvienas notaras, dirbantis bendrame notarų biure, notarinius veiksmus atlieka savo vardu ir asmeniškai atsako už savo pareigų atlikimą. Notarų rūmų prezidiumo nutarimas dėl notaro biuro steigimo gali būti skundžiamas Lietuvos Respublikos teisingumo ministrui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
+ 
 
 
 
 
-Reikalavimus, keliamus notarų biurams ir notarų darbo laikui, nustato Lietuvos Respublikos teisingumo ministras, atsižvelgdamas į tai, kad notaro biuro patalpose turi būti sudarytos sąlygos kultūringai aptarnauti gyventojus ir užtikrinti notarinių veiksmų paslapties išsaugojimą. 
+Reikalavimus, keliamus notarų biurams ir notarų darbo laikui, nustato Lietuvos Respublikos teisingumo ministras, atsižvelgdamas į tai, kad notaro biuro patalpose turi būti sudarytos tinkamos sąlygos aptarnauti asmenis ir užtikrinti notarinių veiksmų paslapties išsaugojimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
+ 
 
 
 
@@ -453,12 +500,23 @@ Lietuvos Respublikos teisingumo ministerija analizuoja notarinių veiksmų ir no
 
 
 
-Kaip notarai laikosi notarų biurams ir notarų darbo laikui keliamų reikalavimų, organizuoja asmenų priėmimą, laikosi notarinio registro, tvirtinamųjų įrašų ir notarinių liudijimų formų pildymo taisyklių, rengia, tvarko, saugo ir naudoja savo veikloje sudarytus dokumentus, laikosi kitų Lietuvos Respublikos teisingumo ministro patvirtintuose teisės aktuose nustatytų notarų profesinės veiklos reikalavimų, pagal kompetenciją Lietuvos Respublikos teisingumo ministro nustatyta tvarka kontroliuoja Lietuvos Respublikos teisingumo ministerija ir Notarų rūmai. Į notarų veiklos tarnybinę priežiūrą neįeina notarų atliekamų notarinių veiksmų teisėtumo priežiūra.
+Lietuvos Respublikos teisingumo ministerija ir Notarų rūmai pagal kompetenciją Lietuvos Respublikos teisingumo ministro nustatyta tvarka kontroliuoja, kaip notarai laikosi notarų biurams ir notarų darbo laikui keliamų reikalavimų, notarinio registro, tvirtinamųjų įrašų ir notarinių liudijimų formų pildymo taisyklių, organizuoja asmenų priėmimą, rengia, tvarko, saugo ir naudoja savo veikloje sudarytus dokumentus, taip pat kaip laikosi Lietuvos Respublikos Vyriausybės priimtų teisės aktų, reglamentuojančių notarų atlyginimo už notarinių veiksmų atlikimą, sandorių projektų parengimą, konsultacijas ir technines paslaugas dydžių (įkainių) nustatymo bei atleidimo nuo šio atlyginimo mokėjimo tvarką, ir kitų Lietuvos Respublikos teisingumo ministro tvirtinamuose teisės aktuose nustatytų notarų profesinės veiklos reikalavimų. Į notarų veiklos tarnybinę priežiūrą neįeina notarų atliekamų notarinių veiksmų teisėtumo priežiūra. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
+ 
 
 
 
 
 Lietuvos Respublikos teisingumo ministerija ir Notarų rūmai, atlikdami notarų veiklos tarnybinę priežiūrą, turi teisę reikalauti iš notarų pasiaiškinti dėl pažeidimų ir trūkumų, susijusių su šio straipsnio antrojoje dalyje nurodyta notarų profesine veikla.
+
+
+
+
+Notarų rūmai, vykdydami šio įstatymo 67 straipsnio pirmosios dalies 6 punkte numatytą kontrolės funkciją, turi teisę atlikti šio įstatymo 72 straipsnyje nurodytą kontrolinį patikrinimą neatskleisdami jį atliekančio asmens tapatybės (toliau – kontrolinis patikrinimas). 
+Papildyta straipsnio dalimi:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
+ 
 
 
 
@@ -485,6 +543,69 @@ Nr. XIV-1715, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27560
 71 straipsnis. Neteko galios nuo 2016-01-01
 Straipsnio naikinimas:
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
+ 
+
+
+
+
+72 straipsnis. Kontrolinis patikrinimas
+
+
+Kontrolinio patikrinimo pagrindas gali būti tokie nesąžiningos profesinės veiklos veiksmai, kurių patikrinti kitomis kontrolės priemonėmis nėra galimybės arba tai padaryti ypač sudėtinga:
+
+
+1)    išankstinis, klientų teisę laisvai pasirinkti notarą pažeidžiantis notaro susitarimas su fiziniu arba juridiniu asmeniu dėl klientų siuntimo pas tam tikrą notarą;
+
+
+
+
+2) Lietuvos Respublikos Vyriausybės nustatytų įkainių dydžių neatitinkančių įkainių taikymas klientams ar klientų pritraukimas dovanomis;
+
+
+
+
+3) bet kokios formos atlyginimas fiziniam ar juridiniam asmeniui, kuris atsiunčia pas notarą klientų.
+
+
+
+
+
+
+Gavus informacijos apie notaro ar notaro atstovo nesąžiningos profesinės veiklos veiksmus, sprendimą dėl kontrolinio patikrinimo atlikimo priima Notarų rūmų prezidiumas nutarimu. Jeigu gaunama šio straipsnio pirmojoje dalyje nurodyta informacija apie šio prezidiumo nario nesąžiningos profesinės veiklos veiksmus, dėl kontrolinio patikrinimo sprendžiama tam Notarų rūmų prezidiumo nariui nedalyvaujant.
+
+
+
+
+Informacija apie kontrolinį patikrinimą negali būti teikiama tikrinamam notarui, notaro atstovui ir su patikrinimu nesusijusiems asmenims, kol toks patikrinimas nėra baigtas, išskyrus įstatymuose nustatytus atvejus, kai šią informaciją privaloma pateikti. 
+
+
+
+
+Atliekant kontrolinį patikrinimą gali būti daromas vaizdo ir (ar) garso įrašas. Nutarimo dėl kontrolinio patikrinimo kopija tikrintam notarui ar notaro atstovui pateikiama iš karto atlikus šį patikrinimą.
+
+
+
+
+Kontrolinį patikrinimą atliekančiam asmeniui draudžiama provokuoti notarą ar notaro atstovą atlikti veiksmus, prieštaraujančius teisės aktų reikalavimams.
+
+
+
+
+Atliekant kontrolinį patikrinimą nustačius galimus nesąžiningos profesinės veiklos veiksmus, šio patikrinimo medžiaga perduodama Lietuvos Respublikos teisingumo ministrui, o šis priima sprendimą dėl drausmės bylos iškėlimo notarui ar notaro atstovui.
+
+
+
+
+Atliekant kontrolinį patikrinimą nustačius kitų, nei šiame straipsnyje numatyti, galimų notaro profesinės veiklos pažeidimų, šio patikrinimo medžiaga perduodama Notarų rūmų prezidiumui, o šis, įvertinęs šią medžiagą, sprendžia, ar yra pagrindas notarui inicijuoti drausmės bylos iškėlimą ar neeilinės atestacijos vykdymą.
+
+
+
+
+Kontrolinio patikrinimo tvarką, suderinęs su Notarų rūmais, nustato Lietuvos Respublikos teisingumo ministras. 
+
+
+Papildyta straipsniu:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
  
 
 
@@ -573,22 +694,22 @@ Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
 101 straipsnis. Drausmės bylos iškėlimas ir nagrinėjimas
 
 
-Notarui, kandidatui į notarus (asesoriui) drausmės byla gali būti keliama už šio įstatymo, Lietuvos Respublikos teisingumo ministro priimtų ir (ar) kitų teisės aktų, reglamentuojančių notarų veiklą, ir Lietuvos Respublikos notarų etikos kodekso pažeidimus (toliau – pažeidimas).
+Notarui, notaro atstovui ar kandidatui į notarus (asesoriui) drausmės byla gali būti keliama už šio įstatymo, Lietuvos Respublikos teisingumo ministro priimtų ir (ar) kitų teisės aktų, reglamentuojančių notarų veiklą, ir Lietuvos Respublikos notarų etikos kodekso pažeidimus (toliau – pažeidimas).
 
 
 
 
-Iškelti notarui, kandidatui į notarus (asesoriui) drausmės bylą turi teisę Lietuvos Respublikos teisingumo ministras arba Notarų rūmų prezidiumas. Drausmės byla notarui, kandidatui į notarus (asesoriui) gali būti keliama ne vėliau kaip per tris mėnesius nuo pažeidimo paaiškėjimo dienos. Į šį terminą neįskaitomas laikas, kurį notaras, kandidatas į notarus (asesorius) dėl ligos, atostogų ar kitų priežasčių negalėjo eiti notaro, kandidato į notarus (asesoriaus) pareigų, taip pat notaro veiklos patikrinimo laikas. Drausmės byla notarui, kandidatui į notarus (asesoriui) negali būti keliama, jeigu nuo pažeidimo padarymo dienos praėjo daugiau kaip vieni metai.
+Teisę iškelti notarui, notaro atstovui ar kandidatui į notarus (asesoriui) drausmės bylą turi Lietuvos Respublikos teisingumo ministras arba Notarų rūmų prezidiumas. Drausmės byla notarui, notaro atstovui ar kandidatui į notarus (asesoriui) gali būti keliama ne vėliau kaip per tris mėnesius nuo pažeidimo paaiškėjimo dienos. Į šį terminą neįskaitomas laikas, kurį notaras, notaro atstovas ar kandidatas į notarus (asesorius) dėl ligos, atostogų ar kitų priežasčių negalėjo eiti savo pareigų, taip pat notaro veiklos patikrinimo laikas. Drausmės byla notarui, notaro atstovui ar kandidatui į notarus (asesoriui) negali būti keliama, jeigu nuo pažeidimo padarymo dienos praėjo daugiau kaip vieni metai.
 
 
 
 
-Drausmės bylos notarams, kandidatams į notarus (asesoriams) keliamos ir nagrinėjamos vadovaujantis Lietuvos Respublikos teisingumo ministro tvirtinamais Notarų garbės teismo nuostatais. Notarų, kandidatų į notarus (asesorių) drausmės bylas nagrinėja Notarų garbės teismas.
+Drausmės bylos notarams, notaro atstovams ir kandidatams į notarus (asesoriams) keliamos ir nagrinėjamos vadovaujantis Lietuvos Respublikos teisingumo ministro tvirtinamais Notarų garbės teismo nuostatais. Notarų, notarų atstovų ir kandidatų į notarus (asesorių) drausmės bylas nagrinėja Notarų garbės teismas.
 
 
 
 
-Subjektas, turintis teisę iškelti notarui, kandidatui į notarus (asesoriui) drausmės bylą, prieš ją keldamas, Notarų garbės teismo nuostatuose nustatyta tvarka privalo pasiūlyti notarui, kandidatui į notarus (asesoriui) pateikti paaiškinimus, susijusius su veiksmais ar neveikimu, dėl kurių gali būti keliama drausmės byla, ir pateikti turimus dokumentus.
+Subjektas, turintis teisę iškelti notarui, notaro atstovui ar kandidatui į notarus (asesoriui) drausmės bylą, prieš ją keldamas, Notarų garbės teismo nuostatuose nustatyta tvarka privalo pasiūlyti jam pateikti paaiškinimus, susijusius su veiksmais ar neveikimu, dėl kurių gali būti keliama drausmės byla, ir pateikti turimus dokumentus.
 
 
 
@@ -598,20 +719,21 @@ Drausmės byla turi būti išnagrinėta ne vėliau kaip per trisdešimt dienų n
 
 
 
-Notarų garbės teismui nagrinėjant drausmės bylą, turi dalyvauti notaras, kandidatas į notarus (asesorius), kurio drausmės byla nagrinėjama. Jeigu notaras, kandidatas į notarus (asesorius) neatvyksta į posėdį, kuriame nagrinėjama drausmės byla, drausmės byla gali būti nagrinėjama jam nedalyvaujant, išskyrus atvejus, kai Notarų garbės teismas nusprendžia, kad notaro, kandidato į notarus (asesoriaus) dalyvavimas yra būtinas. Nagrinėjant drausmės bylą, taip pat gali dalyvauti notaro, kandidato į notarus (asesoriaus), kurio drausmės byla nagrinėjama, atstovas, asmuo, kuris kreipėsi dėl drausmės bylos iškėlimo, ir šio asmens atstovas.
+Notarų garbės teismui nagrinėjant drausmės bylą, turi dalyvauti notaras, notaro atstovas ar kandidatas į notarus (asesorius), kurio drausmės byla nagrinėjama. Jeigu notaras, notaro atstovas ar kandidatas į notarus (asesorius) neatvyksta į posėdį, kuriame nagrinėjama drausmės byla, drausmės byla gali būti nagrinėjama jam nedalyvaujant, išskyrus atvejus, kai Notarų garbės teismas nusprendžia, kad šio asmens dalyvavimas yra būtinas. Nagrinėjant drausmės bylą, taip pat gali dalyvauti notaro, notaro atstovo ar kandidato į notarus (asesoriaus), kurio drausmės byla nagrinėjama, atstovas, asmuo, kuris kreipėsi dėl drausmės bylos iškėlimo, ir šio asmens atstovas.
 
 
 
 
-Šio straipsnio šeštojoje dalyje nurodyti asmenys turi teisę susipažinti su medžiaga, kuri svarstoma sprendžiant dėl drausmės bylos iškėlimo, ir drausmės bylos medžiaga, teikti prašymus ir įrodymus, pareikšti nušalinimus Notarų garbės teismo nariams, kalbėti posėdyje, kuriame nagrinėjama drausmės byla, gauti sprendimų iškelti ar atsisakyti iškelti notarui, kandidatui į notarus (asesoriui) drausmės bylą, Notarų garbės teismo sprendimų nuorašus, apskųsti Notarų garbės teismo sprendimus.
-
-
+Šio straipsnio šeštojoje dalyje nurodyti asmenys turi teisę susipažinti su medžiaga, kuri svarstoma sprendžiant dėl drausmės bylos iškėlimo, ir drausmės bylos medžiaga, teikti prašymus ir įrodymus, pareikšti nušalinimus Notarų garbės teismo nariams, kalbėti posėdyje, kuriame nagrinėjama drausmės byla, gauti sprendimų iškelti ar atsisakyti iškelti notarui, notaro atstovui ar kandidatui į notarus (asesoriui) drausmės bylą, Notarų garbės teismo sprendimų nuorašus, apskųsti Notarų garbės teismo sprendimus.
 Įstatymas papildytas straipsniu:
 Nr. VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
+
+
 Straipsnio pakeitimai:
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 Nr. XIII-3215, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15752
 Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
  
 
 
@@ -631,29 +753,34 @@ Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
 Notarų garbės teismas, išnagrinėjęs drausmės bylą, sprendimu gali:
 
 
-1) nutraukti drausmės bylą, kai pažeidimo nenustato arba kai paaiškėja, kad praleistas šios bylos iškėlimo terminas;
+1) nutraukti drausmės bylą, kai pažeidimo nenustato arba paaiškėja, kad praleistas šios bylos iškėlimo terminas;
 
 
 
 
-2) atleisti notarą, kandidatą į notarus (asesorių) nuo drausminės atsakomybės dėl pažeidimo mažareikšmiškumo;
+2) atleisti notarą, notaro atstovą ar kandidatą į notarus (asesorių) nuo drausminės atsakomybės dėl pažeidimo mažareikšmiškumo;
 
 
 
 
-3) paskirti notarui, kandidatui į notarus (asesoriui) drausminę nuobaudą;
+3) paskirti notarui, notaro atstovui ar kandidatui į notarus (asesoriui) drausminę nuobaudą;
 
 
 
 
-4) teikti Lietuvos Respublikos teisingumo ministrui siūlymą atleisti notarą, kandidatą į notarus (asesorių) iš pareigų.
+4) teikti Lietuvos Respublikos teisingumo ministrui siūlymą atleisti notarą ar kandidatą į notarus (asesorių) iš pareigų;
+
+
+
+
+5) teikti Notarų rūmų prezidentui siūlymą atleisti notaro atstovą iš pareigų, jeigu notaro atstovu buvo paskirtas buvęs notaras, kurio įgaliojimai yra pasibaigę pagal šio įstatymo 23 straipsnio pirmosios dalies 3 punktą.
 
 
 
 
 
 
-Notarų garbės teismas, priimdamas sprendimą, atsižvelgia į pažeidimo pobūdį, jo padarymo aplinkybes, pažeidimo padarinius ir kitas reikšmingas aplinkybes, taip pat į galiojančias notarui, kandidatui į notarus (asesoriui) paskirtas drausmines nuobaudas. Pažeidimas laikomas mažareikšmiu, jeigu tai yra smulkus, formalus šio įstatymo, Lietuvos Respublikos teisingumo ministro priimtų ir (ar) kitų teisės aktų, reglamentuojančių notarų veiklą, ir Lietuvos Respublikos notarų etikos kodekso pažeidimas, kuriuo nepadaryta esminės žalos, ir notaras, kandidatas į notarus (asesorius) nutraukė pažeidimą.
+Notarų garbės teismas, priimdamas sprendimą, atsižvelgia į pažeidimo pobūdį, jo padarymo aplinkybes, pažeidimo padarinius ir kitas reikšmingas aplinkybes, taip pat į galiojančias notarui, notaro atstovui ar kandidatui į notarus (asesoriui) paskirtas drausmines nuobaudas. Pažeidimas laikomas mažareikšmiu, jeigu tai yra smulkus, formalus šio įstatymo, Lietuvos Respublikos teisingumo ministro priimtų ir (ar) kitų teisės aktų, reglamentuojančių notarų veiklą, ir Lietuvos Respublikos notarų etikos kodekso pažeidimas, kuriuo nepadaryta esminė žala, ir notaras, notaro atstovas ar kandidatas į notarus (asesorius) nutraukė pažeidimą.
 
 
 
@@ -663,25 +790,26 @@ Paaiškėjus, kad pažeidimas turi nusikalstamos veikos požymių, su pažeidimu
 
 
 
-Notarų garbės teismo sprendimai, išskyrus sprendimą teikti Lietuvos Respublikos teisingumo ministrui siūlymą atleisti notarą, kandidatą į notarus (asesorių) iš pareigų, įsiteisėja jų priėmimo dieną.
+Notarų garbės teismo sprendimai, išskyrus sprendimą teikti Lietuvos Respublikos teisingumo ministrui siūlymą atleisti notarą ar kandidatą į notarus (asesorių) iš pareigų arba sprendimą teikti Notarų rūmų prezidentui siūlymą atleisti notaro atstovą iš pareigų, įsiteisėja jų priėmimo dieną.
 
 
 
 
-Notarų garbės teismo sprendimas teikti Lietuvos Respublikos teisingumo ministrui siūlymą atleisti notarą, kandidatą į notarus (asesorių) iš pareigų įsiteisėja pasibaigus jo apskundimo terminui, o šį sprendimą apskundus, – įsiteisėjus teismo sprendimui, kuriuo Notarų garbės teismo sprendimas paliktas galioti.
+Notarų garbės teismo sprendimas teikti Lietuvos Respublikos teisingumo ministrui siūlymą atleisti notarą ar kandidatą į notarus (asesorių) iš pareigų arba sprendimas teikti Notarų rūmų prezidentui siūlymą atleisti notaro atstovą iš pareigų įsiteisėja pasibaigus jo apskundimo terminui, o šį sprendimą apskundus, – įsiteisėjus teismo sprendimui, kuriuo Notarų garbės teismo sprendimas paliktas galioti.
 
 
 
 
-Notarų garbės teismo sprendimas gali būti skundžiamas Vilniaus apygardos teismui per trisdešimt dienų nuo sprendimo priėmimo dienos. Notarų garbės teismo sprendimo apskundimas teismui nesustabdo sprendimo galiojimo, išskyrus atvejus, kai apskundžiamas Notarų garbės teismo sprendimas teikti Lietuvos Respublikos teisingumo ministrui siūlymą atleisti notarą, kandidatą į notarus (asesorių) iš pareigų.
-
-
+Notarų garbės teismo sprendimas gali būti skundžiamas Vilniaus apygardos teismui per trisdešimt dienų nuo sprendimo priėmimo dienos. Notarų garbės teismo sprendimo apskundimas teismui nesustabdo sprendimo galiojimo, išskyrus atvejus, kai apskundžiamas Notarų garbės teismo sprendimas teikti Lietuvos Respublikos teisingumo ministrui siūlymą atleisti notarą ar kandidatą į notarus (asesorių) iš pareigų arba sprendimas teikti Notarų rūmų prezidentui siūlymą atleisti notaro atstovą iš pareigų.
 Įstatymas papildytas straipsniu:
 Nr. VIII-737, 98.05.14, Žin., 1998, Nr.49-1329 (98.05.27)
+
+
 Straipsnio pakeitimai:
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 Nr. XIII-3215, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15752
 Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
  
 
 
@@ -710,7 +838,7 @@ Notarų garbės teismas gali skirti notarui vieną iš šių drausminių nuobaud
 
 
 
-Notarų garbės teismas gali skirti kandidatui į notarus (asesoriui) vieną iš šių drausminių nuobaudų:
+Notarų garbės teismas gali skirti notaro atstovui ar kandidatui į notarus (asesoriui) vieną iš šių drausminių nuobaudų:
 
 
 1) pareikšti pastabą;
@@ -725,7 +853,7 @@ Notarų garbės teismas gali skirti kandidatui į notarus (asesoriui) vieną iš
 
 
 
-Notarui, kandidatui į notarus (asesoriui) papildomai gali būti skiriamas įpareigojimas atsiprašyti asmens Notarų garbės teismo nustatyta tvarka.
+Notarui, notaro atstovui ar kandidatui į notarus (asesoriui) papildomai gali būti skiriamas įpareigojimas atsiprašyti asmens Notarų garbės teismo nustatyta tvarka.
 
 
 
@@ -735,11 +863,12 @@ Notarų garbės teismo paskirta drausminė nuobauda įsigalioja jos paskyrimo di
 
 
 
-Notarų garbės teismas notaro, kandidato į notarus (asesoriaus) prašymu gali panaikinti drausminę nuobaudą nesibaigus jos galiojimo terminui, bet ne anksčiau kaip po šešių mėnesių nuo drausminės nuobaudos paskyrimo. Sprendžiant dėl nuobaudos panaikinimo, atsižvelgiama į pažeidimo pobūdį, jo padarymo aplinkybes ir pažeidimo padarinius, kitas reikšmingas aplinkybes, taip pat į tai, ar notaras, kandidatas į notarus (asesorius) neturi daugiau galiojančių drausminių nuobaudų ir ar per drausminės nuobaudos galiojimo terminą notarui, kandidatui į notarus (asesoriui) nebuvo paskirta nauja drausminė nuobauda.
+Notarų garbės teismas notaro, notaro atstovo ar kandidato į notarus (asesoriaus) prašymu gali panaikinti drausminę nuobaudą nesibaigus jos galiojimo terminui, bet ne anksčiau kaip po šešių mėnesių nuo drausminės nuobaudos paskyrimo. Sprendžiant dėl nuobaudos panaikinimo, atsižvelgiama į pažeidimo pobūdį, jo padarymo aplinkybes ir pažeidimo padarinius, kitas reikšmingas aplinkybes, taip pat į tai, ar notaras, notaro atstovas ar kandidatas į notarus (asesorius) neturi daugiau galiojančių drausminių nuobaudų ir ar per drausminės nuobaudos galiojimo terminą jam nebuvo paskirta nauja drausminė nuobauda.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
  
 
 
@@ -1164,7 +1293,10 @@ Notaras, negalintis ilgiau kaip tris darbo dienas atlikti savo pareigų dėl lig
 
 
 
-Notaro atstovu gali būti kandidatas į notarus (asesorius), kuris yra atlikęs ne trumpesnę kaip dvejų metų notaro praktiką ir yra išlaikęs notaro kvalifikacinį egzaminą. Notaro atstovu taip pat gali būti skiriamas buvęs notaras, kurio įgaliojimai yra pasibaigę pagal šio įstatymo 23 straipsnio pirmosios dalies 3 punktą, tačiau ne ilgiau kaip iki jam sukaks 70 metų. Notaro atstovas skiriamas pagal atstovaujamo notaro ir asmens, kuris sutinka jam atstovauti, prašymus. Jeigu notaras, negalintis atlikti savo pareigų, neprašo skirti notaro atstovo ar pavaduojančio notaro, Notarų rūmų prezidentas, atsižvelgdamas į Notarų rūmų prezidiumo nuomonę, turi teisę paskirti notaro atstovą savo iniciatyva, kai yra būtina užtikrinti negalinčio atlikti notaro pareigų notaro biuro veiklą.
+Notaro atstovu gali būti kandidatas į notarus (asesorius), kuris yra atlikęs ne trumpesnę kaip dvejų metų notaro praktiką ir yra išlaikęs notaro kvalifikacinį egzaminą. Notaro atstovu taip pat gali būti skiriamas buvęs notaras, kuris atitinka šio įstatymo 3 straipsnio trečiojoje dalyje nustatytus nepriekaištingos reputacijos reikalavimus ir kurio įgaliojimai yra pasibaigę pagal šio įstatymo 23 straipsnio pirmosios dalies 3 punktą, tačiau ne ilgiau, kaip iki jam sukanka 70 metų. Notaro atstovas skiriamas pagal atstovaujamo notaro ir asmens, kuris sutinka jam atstovauti, prašymus. Jeigu notaras, negalintis atlikti savo pareigų, neprašo skirti notaro atstovo ar pavaduojančio notaro, Notarų rūmų prezidentas, atsižvelgdamas į Notarų rūmų prezidiumo nuomonę, turi teisę paskirti notaro atstovą savo iniciatyva, kai yra būtina užtikrinti negalinčio atlikti notaro pareigų notaro biuro veiklą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
+ 
 
 
 
@@ -1327,9 +1459,10 @@ Nr. XIV-613, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23535
 
 
 
-5) įsiteisėjus teismo nuosprendžiui, kuriuo notaras nuteistas už nusikalstamą veiką arba pripažintas kaltu dėl nusikalstamos veikos, bet nuo baudžiamosios atsakomybės atleistas; 
+5) jei jis neatitinka šio įstatymo 3 straipsnio trečiojoje dalyje nustatytų nepriekaištingos reputacijos reikalavimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3215, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15752
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
  
 
 
@@ -1368,9 +1501,17 @@ Nr. XIII-3215, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15752
 
 
 
-12) įsiteisėjus sprendimui, kuriuo notarui paskirta Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė – leidimo vykdyti veiklą panaikinimas. 
+12) įsiteisėjus sprendimui, kuriuo notarui paskirta Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte numatyta poveikio priemonė – leidimo vykdyti veiklą panaikinimas;
 Papildyta straipsnio punktu:
 Nr. XIII-570, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12070
+ 
+
+
+
+
+13) jei po paskyrimo notaru paaiškėja anksčiau buvę faktai, dėl kurių asmuo nebūtų paskirtas notaru.
+Papildyta straipsnio punktu:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
  
 
 
@@ -1646,6 +1787,14 @@ Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
 3) liudija parašo dokumentuose tikrumą.
 
 
+
+
+Seniūnų notarinių veiksmų atlikimo tvarką nustato Lietuvos Respublikos teisingumo ministras ir Lietuvos Respublikos vidaus reikalų ministras.
+Papildyta straipsnio dalimi:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
+ 
+
+
 Įstatymas papildytas straipsniu:
 Nr. IX-1311, 2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
  
@@ -1671,7 +1820,10 @@ Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
 
 
 
-Notariniai veiksmai atliekami notaro biure. Atlikti notarinius veiksmus ne notaro biuro patalpose galima tik tada, kai suinteresuotas asmuo dėl svarbios priežasties (liga, invalidumas ar kiti atvejai) negali atvykti į notaro biurą ir iškviečia notarą į namus, medicinos pagalbos ar kitą įstaigą, kai atliekant notarinį veiksmą dalyvauja daugiau nei dešimt asmenų arba kai notarinis veiksmas atliekamas iškilmingoje aplinkoje.
+Notariniai veiksmai atliekami notaro biure. Atlikti notarinius veiksmus ne notaro biuro patalpose galima tik tada, kai suinteresuotas asmuo dėl svarbios priežasties (liga, negalia ar kiti atvejai) negali atvykti į notaro biurą ir iškviečia notarą į namus, medicinos pagalbos ar kitą įstaigą, kai atliekant notarinį veiksmą dalyvauja daugiau nei dešimt asmenų arba kai notarinis veiksmas atliekamas iškilmingoje aplinkoje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
+ 
 
 
 
@@ -1723,7 +1875,10 @@ Notarai gali nuotoliniu būdu atlikti notarinius veiksmus, jeigu užtikrina, kad
 
 
 
-Notarai imasi priemonių, kad būtų užtikrinta notaro tvarkomos elektroninės informacijos sauga ir kibernetinis saugumas, naudojamos tinkamos techninės ir organizacinės asmens duomenų tvarkymo priemonės, sudarytos techninės galimybės tinkamai perduoti duomenis valstybės registrams ir informacinėms sistemoms. Šios priemonės užtikrinamos naudojantis bendra Notarų rūmų informacinių technologijų platforma. 
+Notarai imasi priemonių, kad būtų užtikrinta notaro tvarkomos elektroninės informacijos sauga ir kibernetinis saugumas, naudojamos tinkamos techninės ir organizacinės asmens duomenų tvarkymo priemonės, sudarytos techninės galimybės tinkamai perduoti duomenis informacinėms sistemoms. Šios priemonės užtikrinamos naudojantis bendra Notarų rūmų informacinių technologijų platforma.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
+ 
 
 
 Papildyta straipsniu:
@@ -1872,11 +2027,12 @@ Notaro dokumentai turi būti parašyti aiškiai ir tiksliai, su dokumento turini
 
 
 
-Notaras turi teisę gauti iš valstybės ir savivaldybių institucijų, valstybės kadastrų, registrų ir informacinių sistemų, bankų ir kitų finansų įstaigų, kitų fizinių ir juridinių asmenų informaciją, dokumentus ir duomenis, reikalingus notariniams veiksmams atlikti. Informacija, dokumentai ir duomenys turi būti pateikti per notaro nurodytą terminą.
+Notaras turi teisę gauti iš valstybės ir savivaldybių institucijų, informacinių sistemų, bankų ir kitų finansų įstaigų, kitų fizinių ir juridinių asmenų informaciją, dokumentus ir duomenis, reikalingus notariniams veiksmams atlikti. Informacija, dokumentai ir duomenys turi būti pateikti per notaro nurodytą terminą.
 Straipsnio dalies pakeitimai:
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 Nr. XIII-3215, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15752
 Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
  
 
 
@@ -2107,9 +2263,11 @@ Skundus dėl notaro veiksmų, nesusijusių su atliekamų notarinių veiksmų esm
 
 
 
-Lietuvos Respublikos teisingumo ministerija ir Notarų rūmai turi teisę gauti iš notarų, teisėsaugos institucijų, bankų ir kitų finansų įstaigų, valstybės registrų ir informacinių sistemų informaciją, dokumentus ar duomenis (įskaitant asmens duomenis), reikalingus šio straipsnio pirmojoje dalyje nurodytiems skundams nagrinėti ir šio įstatymo 7 straipsnyje nurodytai tarnybinei priežiūrai atlikti. Lietuvos Respublikos teisingumo ministerija ir Notarų rūmai turi teisę keistis šioje dalyje nurodyta informacija, dokumentais ar duomenimis. 
+Lietuvos Respublikos teisingumo ministerija ir Notarų rūmai turi teisę gauti iš notarų, teisėsaugos institucijų, bankų ir kitų finansų įstaigų, taip pat informacinių sistemų informaciją, dokumentus ar duomenis (įskaitant asmens duomenis), reikalingus šio straipsnio pirmojoje dalyje nurodytiems skundams nagrinėti ir šio įstatymo 7 straipsnyje nurodytai tarnybinei priežiūrai atlikti. Lietuvos Respublikos teisingumo ministerija ir Notarų rūmai turi teisę keistis šioje dalyje nurodyta informacija, dokumentais ar duomenimis.
 Papildyta straipsnio dalimi:
 Nr. XIII-3215, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15752
+Straipsnio dalies pakeitimai:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
  
 
 
@@ -2389,9 +2547,39 @@ Nuosavybės teisės liudijimą, mirus vienam sutuoktiniui, išduoda palikimo ats
 
 
 V SKYRIUS
-NOTARIATO ĮSTATYMO TAIKYMAS UŽSIENIEČIAMS.
-TARPTAUTINĖS SUTARTYS
+NOTARIATO ĮSTATYMO TAIKYMAS UŽSIENIEČIAMS. TARPTAUTINĖS SUTARTYS. TARPVALSTYBINIO POBŪDŽIO PAVELDĖJIMO BYLOS 
  
+Pakeistas skyriaus pavadinimas:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
+ 
+
+
+521 straipsnis. Paveldėjimo teisės liudijimo išdavimas pagal Europos paveldėjimo pažymėjimą
+
+
+Kai kitoje valstybėje išduotame Europos paveldėjimo pažymėjime nenurodyti turto identifikavimo duomenys, būtini įpėdinio turtinei teisei į Lietuvos Respublikoje esantį turtą įregistruoti valstybės registruose, notaras gali išduoti paveldėjimo teisės liudijimą ir (ar) nuosavybės teisės į dalį bendro sutuoktinių turto liudijimą, jei sutuoktinių turto teisiniam režimui taikoma Lietuvos teisė. 
+
+
+
+
+Šiame straipsnyje nurodytu atveju išduotas paveldėjimo teisės liudijimas ir (ar) nuosavybės teisės į dalį bendro sutuoktinių turto liudijimas gali būti naudojami tik kartu su Europos paveldėjimo pažymėjimu. 
+
+
+
+
+Paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės į dalį bendro sutuoktinių turto liudijimo išdavimas šiame straipsnyje nurodytu atveju nereiškia 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 650/2012 dėl jurisdikcijos, taikytinos teisės, teismo sprendimų paveldėjimo klausimais pripažinimo ir vykdymo bei autentiškų dokumentų paveldėjimo klausimais priėmimo ir vykdymo bei dėl Europos paveldėjimo pažymėjimo sukūrimo 71 straipsnyje nurodyto Europos paveldėjimo pažymėjimo ištaisymo, pakeitimo ar panaikinimo.
+
+
+
+
+Šiame straipsnyje nurodytas Europos paveldėjimo pažymėjimas suprantamas taip, kaip apibrėžiamas Reglamente Nr. 650/2012.
+
+
+Papildyta straipsniu:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
+ 
+
+
 
 
 53 straipsnis. Notarinių veiksmų atlikimas užsieniečiams ir užsienio juridiniams 
@@ -2677,7 +2865,9 @@ Notarų rūmų uždaviniai yra:
 
 
 
-Šio straipsnio pirmosios dalies 2 punkte nurodytam uždaviniui įgyvendinti Notarų rūmai turi teisę gauti iš valstybės ir savivaldybių institucijų ir įstaigų, valstybės registrų ir informacinių sistemų informaciją, dokumentus ir duomenis (įskaitant asmens duomenis), taip pat gali reikalauti iš notarų informacijos apie atliktus notarinius veiksmus.
+Šio straipsnio pirmosios dalies 2 punkte nurodytam uždaviniui įgyvendinti Notarų rūmai turi teisę gauti iš valstybės ir savivaldybių institucijų bei įstaigų ir informacinių sistemų informaciją, dokumentus ir duomenis (įskaitant asmens duomenis), taip pat gali reikalauti iš notarų informacijos apie atliktus notarinius veiksmus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
  
 
 
@@ -2969,27 +3159,22 @@ Atlikdamas savo funkcijas, Notarų rūmų prezidentas priima sprendimus.
 72 straipsnis. Notarų garbės teismas
 
 
-Notarų garbės teismo personalinę sudėtį tvirtina Lietuvos Respublikos teisingumo ministras.
-
-
-
-
 Notarų garbės teismas susideda iš septynių Notarų rūmų susirinkime išrinktų narių, iš kurių:
 
 
-1) penki nariai renkami iš notarų;
+1) šeši nariai renkami iš notarų;
 
 
 
 
-2) du nariai renkami iš šešių Lietuvos Respublikos teisingumo ministro pasiūlytų visuomenės atstovų – kandidatų į Notarų garbės teismo narius.
+2) vienas narys renkamas iš dviejų Lietuvos Respublikos teisingumo ministro pasiūlytų visuomenės atstovų – kandidatų į Notarų garbės teismo narius.
 
 
 
 
 
 
-Notarų garbės teismo nariu renkamas notaras turi turėti ne mažesnį kaip dešimties metų notaro profesinės veiklos stažą ir neturėti galiojančių drausminių nuobaudų. Notarų garbės teismo nariu renkamas visuomenės atstovas turi turėti aukštąjį universitetinį išsilavinimą (bakalauro ir magistro kvalifikacinius laipsnius arba vienpakopį universitetinį išsilavinimą) ir atitikti šiame įstatyme nustatytus nepriekaištingos reputacijos reikalavimus. Veikdami kaip Notarų garbės teismo nariai, visuomenės atstovai turi tokias pačias teises ir pareigas kaip ir notarai. Notarų garbės teismo nariu asmuo gali būti renkamas ne daugiau kaip dviem kadencijoms iš eilės.
+Notarų garbės teismo nariu renkamas notaras turi turėti ne mažesnį kaip dešimties metų notaro profesinės veiklos stažą ir neturėti galiojančių drausminių nuobaudų. Vienas iš Lietuvos Respublikos teisingumo ministro pasiūlytų visuomenės atstovų – kandidatų į Notarų garbės teismo narius turi turėti socialinių mokslų srities teisės krypties mokslo daktaro laipsnį, kitas – šio įstatymo 3 straipsnio antrosios dalies 3 punkte nurodytą išsilavinimą ir ne mažesnį kaip penkerių metų teisinio darbo stažą. Lietuvos Respublikos teisingumo ministro pasiūlyti visuomenės atstovai – kandidatai į Notarų garbės teismo narius turi atitikti šio įstatymo 3 straipsnio trečiojoje dalyje nustatytus nepriekaištingos reputacijos reikalavimus. Visuomenės atstovas, veikdamas kaip Notarų garbės teismo narys, turi tokias pačias teises ir pareigas kaip ir notaras. Notarų garbės teismo nariu asmuo gali būti renkamas ne daugiau kaip dviem kadencijoms iš eilės.
 
 
 
@@ -3004,15 +3189,17 @@ Notarų garbės teismo įgaliojimai trunka ketverius metus.
 
 
 
-Notarų garbės teismas gali nagrinėti bylas, kai posėdyje dalyvauja ne mažiau kaip trys Notarų garbės teismo nariai – notarai ir bent vienas narys – visuomenės atstovas. Notarų garbės teismo sprendimai priimami paprasta posėdyje dalyvaujančių Notarų garbės teismo narių balsų dauguma. Tais atvejais, kai balsai pasiskirsto po lygiai, priimtu laikomas sprendimas, už kurį balsavo Notarų garbės teismo pirmininkas.
+Notarų garbės teismas gali nagrinėti bylas, kai posėdyje dalyvauja ne mažiau kaip pusė šio teismo narių. Notarų garbės teismo sprendimai priimami paprasta posėdyje dalyvaujančių šio teismo narių balsų dauguma. Kai balsai pasiskirsto po lygiai, priimtu laikomas sprendimas, už kurį balsavo Notarų garbės teismo pirmininkas.
 
 
 
 
-Notarų garbės teismo nariai ir buvę nariai privalo laikyti paslaptyje su notaro profesine veikla ar asmens duomenimis susijusią informaciją, kurią sužinojo nagrinėdami drausmės bylas. Išrinktas Notarų garbės teismo narys ‒ visuomenės atstovas iki pirmo Notarų garbės teismo posėdžio turi pasirašyti konfidencialumo pasižadėjimą. Paaiškėjus, kad Notarų garbės teismo narys ‒ visuomenės atstovas nesilaikė konfidencialumo pasižadėjimo, Lietuvos Respublikos teisingumo ministras jį atšaukia iš Notarų garbės teismo narių kaip netekusį nepriekaištingos reputacijos ir šio įstatymo nustatyta tvarka pasiūlo tris naujas visuomenės atstovų kandidatūras.
+Notarų garbės teismo nariai ir buvę nariai privalo laikyti paslaptyje su notaro profesine veikla ar asmens duomenimis susijusią informaciją, kurią sužinojo nagrinėdami drausmės bylas. Išrinktas Notarų garbės teismo narys iki pirmojo šio teismo posėdžio turi pasirašyti konfidencialumo pasižadėjimą. Paaiškėjus, kad Notarų garbės teismo narys nesilaikė konfidencialumo pasižadėjimo ar nebeatitinka šio įstatymo 3 straipsnio trečiojoje dalyje nustatytų nepriekaištingos reputacijos reikalavimų, jis nebegali toliau dalyvauti Notarų garbės teismui nagrinėjant bylas. Notarų rūmų prezidiumas jį pašalina iš Notarų garbės teismo narių ir šio įstatymo nustatyta tvarka ne vėliau kaip per vienus metus išrenkamas naujas Notarų garbės teismo narys.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
  
-
-
 
 
 
@@ -3020,9 +3207,27 @@ Notarų garbės teismo nariai ir buvę nariai privalo laikyti paslaptyje su nota
 73 straipsnis. Notarų atestacijos komisija
 
 
-Notarų atestacijos komisija sudaroma Notarų rūmų prezidiumo nutarimu ketveriems metams iš penkių notarų. Notarų atestacijos komisijos nariais notarai gali būti ne ilgiau kaip dvi kadencijas paeiliui. Į Notarų atestacijos komisiją gali būti skiriami notarai, kurie notaro profesinę veiklą vykdė ne mažiau kaip penkerius metus ir neturi galiojančių drausminių nuobaudų. Notarų atestacijos komisijos pirmininką ir pirmininko pavaduotoją skiria Notarų rūmų prezidiumas. Notarų atestacijos komisijos nariu negali būti Notarų rūmų prezidiumo narys, Notarų garbės teismo narys. Notarų atestacijos komisijos posėdis laikomas teisėtu, kai jame dalyvauja ne mažiau kaip pusė komisijos narių, tarp jų Notarų atestacijos komisijos pirmininkas arba pirmininko pavaduotojas. 
+Notarų atestacijos komisija sudaroma Notarų rūmų prezidiumo nutarimu ketveriems metams iš septynių narių, iš kurių šešis narius – notarus skiria Notarų rūmai, vieną narį – visuomenės atstovą skiria Lietuvos Respublikos teisingumo ministras. 
 
 
+
+
+Į Notarų atestacijos komisiją gali būti skiriami notarai, kurie notaro profesinę veiklą vykdo ne mažiau kaip penkerius metus ir neturi galiojančių drausminių nuobaudų. Lietuvos Respublikos teisingumo ministro skiriamas narys – visuomenės atstovas turi turėti socialinių mokslų srities teisės krypties mokslo daktaro laipsnį, atitikti šio įstatymo 3 straipsnio trečiojoje dalyje nustatytus nepriekaištingos reputacijos reikalavimus ir turėti ne mažesnį kaip penkerių metų teisinio darbo stažą. Notarų atestacijos komisijos nariu asmuo gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės.
+
+
+
+
+Notarų atestacijos komisijos pirmininką skiria Notarų rūmų prezidiumas. Notarų atestacijos komisijos nariu negali būti Notarų rūmų prezidiumo ar Notarų garbės teismo narys. Šios komisijos posėdis laikomas teisėtu, kai jame dalyvauja ne mažiau kaip pusė komisijos narių.
+
+
+
+
+Notarų atestacijos komisijos nariai ir buvę nariai privalo laikyti paslaptyje su notaro profesine veikla ar asmens duomenimis susijusią informaciją, kurią sužinojo veikdami kaip šios komisijos nariai. Paskirtas Notarų atestacijos komisijos narys iki pirmojo šios komisijos posėdžio turi pasirašyti konfidencialumo pasižadėjimą. Paaiškėjus, kad Notarų atestacijos komisijos narys nesilaikė konfidencialumo pasižadėjimo ar nebeatitinka šio įstatymo 3 straipsnio trečiojoje dalyje nustatytų nepriekaištingos reputacijos reikalavimų, jis nebegali dalyvauti šios komisijos veikloje. Notarų rūmų prezidiumas pašalina šį Notarų atestacijos komisijos narį iš komisijos ir šio įstatymo nustatyta tvarka ne vėliau kaip per vienus metus nuo šio komisijos nario pašalinimo dienos paskiriamas naujas Notarų atestacijos komisijos narys.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
+ 
 
 
 Papildyta skyriumi:
@@ -3273,3 +3478,8 @@ Lietuvos Respublikos notariato įstatymo Nr. I-2882 4 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2549, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07553
 Lietuvos Respublikos notariato įstatymo Nr. I-2882 4 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3057, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19684
+Lietuvos Respublikos notariato įstatymo Nr. I-2882 3, 4, 6, 7, 10-1, 10-3, 10-4, 22, 23, 27-1, 28, 28-1, 34, 42, 66, 72, 73 straipsnių ir V skyriaus pavadinimo pakeitimo, Įstatymo papildymo 7-2 ir 52-1 straipsniais įstatymas
