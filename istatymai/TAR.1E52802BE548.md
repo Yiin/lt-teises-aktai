@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2025-01-15 iki 2025-02-28
+Suvestinė redakcija nuo 2025-03-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
  
@@ -127,7 +127,10 @@ Viešoji įstaiga − pagal šį ir kitus įstatymus įsteigtas pelno nesiekiant
 
 
 
-3) perduoti viešosios įstaigos turtą nuosavybėn, patikėjimo teise ar panaudos pagrindais viešosios įstaigos dalininkui ar su juo susijusiam asmeniui, išskyrus šio įstatymo 27 straipsnio 8 dalyje numatytą atvejį;
+3) perduoti viešosios įstaigos turtą jos dalininkui ar su juo susijusiam asmeniui nuosavybėn už kainą, mažesnę nei turto rinkos vertė, nustatyta pagal Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymą, taip pat patikėjimo teise ar panaudos pagrindais, išskyrus šio įstatymo 27 straipsnio 8 dalyje numatytą atvejį ir atvejus, kai turtas perduodamas viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, išskyrus atsinaujinančių išteklių energijos ar piliečių energetikos bendrijos statusą turinčias viešąsias įstaigas, kurių pagrindinė paskirtis – mažinti energijos nepriteklių ir (ar) teikti naudą pažeidžiamiems vartotojams, dalininkui – valstybei, savivaldybei arba su jomis susijusiam asmeniui. Viešųjų įstaigų, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, išskyrus atsinaujinančių išteklių energijos ar piliečių energetikos bendrijos statusą turinčias viešąsias įstaigas, kurių pagrindinė paskirtis – mažinti energijos nepriteklių ir (ar) teikti naudą pažeidžiamiems vartotojams, turtas dalininkui – valstybei, savivaldybei arba su jomis susijusiam asmeniui perduodamas Lietuvos Respublikos Vyriausybės nustatyta tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3150, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20391
+ 
 
 
 
