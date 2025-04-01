@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-03-31
+Suvestinė redakcija nuo 2025-04-01
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
  
@@ -2769,7 +2769,10 @@ Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
 
 
 
-3) nemokamai vežtis du iki 7 metų vaikus, jeigu jie neužima atskiros sėdimosios vietos, reguliarių reisų vietinio (miesto ir priemiestinio) susisiekimo maršrutų autobusais ir troleibusais bei tolimojo susisiekimo maršrutų autobusais;
+3) nemokamai vežtis vieną ar du vaikus iki 7 metų (imtinai), jeigu jie neužima atskiros sėdimosios vietos, reguliariųjų reisų vietinio (miesto ir priemiestinio) susisiekimo maršrutų autobusais ir troleibusais bei tolimojo susisiekimo maršrutų autobusais; 
+Straipsnio punkto pakeitimai:
+Nr. XV-120, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04414
+ 
 
 
 
@@ -2811,7 +2814,10 @@ Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
 
 
 
-3. Važiavimo keleiviniu transportu lengvatas ir jų kompensavimo tvarką nustato įstatymai. Lengvatomis naudotis turi teisę asmenys, pateikę valstybinę kelių transporto priežiūrą atliekantiems pareigūnams, vežėjams arba jų įgaliotiems juridiniams asmenims, vykdantiems kelių transporto kontrolę, šią teisę liudijančius dokumentus, išskyrus atvejus, kai nėra abejonių, kad asmuo yra jaunesnis kaip 7 metų. 
+3. Neteko galios nuo 2025-04-01
+Straipsnio dalies naikinimas:
+Nr. XV-120, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04414
+ 
 
 
 Straipsnio pakeitimai:
@@ -3990,3 +3996,8 @@ Lietuvos Respublikos kelių transporto kodekso 8, 8-1, 8-3 straipsnių ir priedo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2571, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08212
 Lietuvos Respublikos kelių transporto kodekso 8-2 ir 18-1 straipsnių pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-120, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04414
+Lietuvos Respublikos kelių transporto kodekso 21 straipsnio pakeitimo įstatymas
