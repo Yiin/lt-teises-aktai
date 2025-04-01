@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A719A97956F"
 
 # Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas
 
-Suvestinė redakcija nuo 2024-06-28 iki 2025-03-31
+Suvestinė redakcija nuo 2025-04-01
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 65-2380, i. k. 1061010ISTA000X-614
  
@@ -39,7 +39,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šis įstatymas nustato Lietuvos Respublikos ryšių reguliavimo tarnybos, Valstybinės duomenų apsaugos inspekcijos, Valstybinės vartotojų teisių apsaugos tarnybos, Žurnalistų etikos inspektoriaus tarnybos (toliau – kompetentingos institucijos) įgaliojimus užtikrinti Reglamento (ES) 2022/2065 vykdymą, Ryšių reguliavimo tarnybos įgaliojimus atlikti Reglamente (ES) 2022/2065 nustatytas skaitmeninių paslaugų koordinatoriaus funkcijas ir priežiūros institucijų įgaliojimus. 
+2. Šis įstatymas nustato Lietuvos Respublikos ryšių reguliavimo tarnybos, Valstybinės duomenų apsaugos inspekcijos, Valstybinės vartotojų teisių apsaugos tarnybos, Žurnalistų etikos inspektoriaus tarnybos (toliau – kompetentingos institucijos) įgaliojimus užtikrinti Reglamento (ES) 2022/2065 vykdymą, Ryšių reguliavimo tarnybos įgaliojimus atlikti Reglamente (ES) 2022/2065 nustatytas skaitmeninių paslaugų koordinatoriaus funkcijas, Reglamente (ES) 2024/1689 nustatytas nacionalinės kompetentingos institucijos – rinkos priežiūros institucijos – ir bendro kontaktinio punkto funkcijas, taip pat priežiūros institucijų įgaliojimus.
+Straipsnio dalies pakeitimai:
+Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
+ 
 
 
 
@@ -155,7 +158,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-12. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos dokumentų ir archyvų įstatyme, Elektroninių ryšių įstatyme, Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatyme ir Reglamente (ES) 2022/2065. 
+12. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) 2022/2065, Reglamente (ES) 2024/1689, Lietuvos Respublikos dokumentų ir archyvų įstatyme, Elektroninių ryšių įstatyme, Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
  
 
 
@@ -869,7 +874,22 @@ Ryšių reguliavimo tarnyba:
 
 
 
-11) rengia metinę veiklos ataskaitą dėl visų kompetentingų institucijų vykdomos veiklos pagal Reglamentą (ES) 2022/2065, ją skelbia viešai ir teikia Europos Komisijai ir Valdybai. 
+11) rengia metinę veiklos ataskaitą dėl visų kompetentingų institucijų vykdomos veiklos pagal Reglamentą (ES) 2022/2065, ją skelbia viešai ir teikia Europos Komisijai ir Valdybai;
+
+
+
+
+12) pagal Reglamento (ES) 2024/1689 70 straipsnio 1 dalį atlieka nacionalinės kompetentingos institucijos – rinkos priežiūros institucijos – funkcijas; 
+Papildyta straipsnio punktu:
+Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
+ 
+
+
+
+
+13) pagal Reglamento (ES) 2024/1689 70 straipsnio 2 dalį atlieka bendro kontaktinio punkto funkcijas.
+Papildyta straipsnio punktu:
+Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
  
 
 
@@ -1879,6 +1899,14 @@ priedas
 
 
 
+4. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1689, kuriuo nustatomos suderintos dirbtinio intelekto taisyklės ir iš dalies keičiami reglamentai (EB) Nr. 300/2008, (ES) Nr. 167/2013, (ES) Nr. 168/2013, (ES) 2018/858, (ES) 2018/1139 ir (ES) 2019/2144 ir direktyvos 2014/90/ES, (ES) 2016/797 ir (ES) 2020/1828 (Dirbtinio intelekto aktas).
+Papildyta straipsnio dalimi:
+Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
+ 
+
+
+
+
 ____________________
 
 
@@ -1924,3 +1952,8 @@ Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 20 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2702, 2024-06-13, paskelbta TAR 2024-06-27, i. k. 2024-11769
 Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
+Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 1, 2, 23 straipsnių ir priedo pakeitimo įstatymas
