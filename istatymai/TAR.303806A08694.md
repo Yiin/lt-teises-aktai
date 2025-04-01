@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/303806a0869411e8af589337bf1eb893"
 
 # Lietuvos Respublikos technologijų ir inovacijų įstatymas
 
-Suvestinė redakcija nuo 2022-03-31 iki 2025-03-31
+Suvestinė redakcija nuo 2025-04-01 iki 2025-08-01
  
 Įstatymas paskelbtas: TAR 2018-07-13, i. k. 2018-11954
  
@@ -46,6 +46,13 @@ BENDROSIOS NUOSTATOS
 
 
 2. Šis įstatymas nustato technologijų ir inovacijų sistemos sandarą, technologijų ir inovacijų politiką formuojančias ir įgyvendinančias institucijas, technologijų ir inovacijų veiklą vykdančius subjektus, technologijų ir inovacijų veiklos finansavimą ir skatinimą.
+
+
+
+
+3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu šio įstatymo priede.
+Papildyta straipsnio dalimi:
+Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
  
 
 
@@ -145,9 +152,10 @@ Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
 
 
 
-17. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, Lietuvos Respublikos konkurencijos įstatyme ir Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme.
+17. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) 2024/1689, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme.
 Straipsnio dalies pakeitimai:
 Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
+Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
  
 
 
@@ -452,9 +460,18 @@ Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
 
 
 
-7) atlieka kitas šiuo ir kitais įstatymais, Vyriausybės nutarimais jai pavestas funkcijas technologijų ir inovacijų srityse.
+7) nustato tvarką, kuria vadovaujantis vertinama, ar ūkio subjektų, siekiančių gauti valstybės paramą, vykdoma veikla turi didelį ir inovacijomis grindžiamą verslo plėtros potencialą; 
+Papildyta straipsnio punktu:
+Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
+ 
+
+
+
+
+8) atlieka kitas šiuo ir kitais įstatymais, Vyriausybės nutarimais jai pavestas funkcijas technologijų ir inovacijų srityse.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
+Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
  
 
 
@@ -541,13 +558,15 @@ technologijų ir Inovacijų politiką įgyvendinančios institucijos
  
 
 
-13 straipsnis. Technologijų ir inovacijų politiką įgyvendinančios institucijos
+13 straipsnis. Valstybės technologijų ir inovacijų politiką įgyvendinančios institucijos
 
 
-Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją įgyvendina šio įstatymo 14 straipsnyje nurodyta Vyriausybės įgaliota institucija, kitos Vyriausybės, valstybės technologijų ir inovacijų politiką formuojančios ministerijos ministro įgaliotos institucijos arba įstaigos, mokslo ir studijų institucijos.
+Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją įgyvendina Vyriausybės įgaliota institucija (toliau – valstybės technologijų ir inovacijų politiką įgyvendinanti institucija), kitos Vyriausybės, ekonomikos ir inovacijų ministro įgaliotos institucijos arba įstaigos, mokslo ir studijų institucijos.
+
+
+Straipsnio pakeitimai:
+Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
  
-
-
 
 
 
@@ -555,7 +574,10 @@ Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstaty
 14 straipsnis. Valstybės technologijų ir inovacijų politiką įgyvendinanti institucija
 
 
-1. Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstatymuose nustatytą kompetenciją įgyvendina viešoji įstaiga Inovacijų agentūra (toliau – valstybės technologijų ir inovacijų politiką įgyvendinanti institucija), kurios savininkė yra valstybė.
+1. Neteko galios nuo 2025-04-01
+Straipsnio dalies naikinimas:
+Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
+ 
 
 
 
@@ -598,7 +620,10 @@ Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstaty
 
 
 
-8) vadovaudamasi valstybės technologijų ir inovacijų politiką formuojančios ministerijos patvirtinta vykdomos eksperimentinės plėtros vertinimo metodika, organizuoja siekiančių gauti valstybės finansavimą eksperimentinei plėtrai subjektų vykdomos eksperimentinės plėtros vertinimą ir teikia siūlymus valstybės technologijų ir inovacijų politiką formuojančiai ministerijai dėl šios veiklos finansavimo principų, išskyrus Mokslo ir studijų įstatymo 15 straipsnio 2 dalyje nustatytus atvejus. Mokslo ir studijų įstatymo 15 straipsnio 2 dalyje nustatytais atvejais valstybės technologijų ir inovacijų politiką įgyvendinanti institucija šiame punkte nurodytą eksperimentinės plėtros vertinimą atlieka kartu su Mokslo ir studijų įstatymo 15 straipsnio 2 dalyje nurodyta institucija;
+8) vadovaudamasi ekonomikos ir inovacijų ministro patvirtinta vykdomos eksperimentinės plėtros vertinimo metodika, organizuoja siekiančių gauti valstybės finansavimą eksperimentinei plėtrai subjektų vykdomos eksperimentinės plėtros projektų vertinimą ir teikia siūlymus valstybės technologijų ir inovacijų politiką formuojančiai ministerijai dėl šios veiklos finansavimo principų, išskyrus siūlymus dėl vertinimų, kuriuos atlieka Lietuvos mokslo taryba; 
+Straipsnio punkto pakeitimai:
+Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
+ 
 
 
 
@@ -619,6 +644,14 @@ Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstaty
 
 
 12) įgyvendina ir koordinuoja projektus ir priemones, susijusias su užsienio startuolių pritraukimu į Lietuvos Respubliką;
+
+
+
+
+121) vadovaudamasi ekonomikos ir inovacijų ministro nustatyta tvarka, vertina, ar ūkio subjektų, siekiančių gauti valstybės paramą, vykdoma veikla turi didelį ir inovacijomis grindžiamą verslo plėtros potencialą, ir priima sprendimą šiuo klausimu; 
+Papildyta straipsnio punktu:
+Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
+ 
 
 
 
@@ -746,7 +779,10 @@ Nr. XIII-3102, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15308
 
 
 
-7. Šio įstatymo 14 straipsnyje nurodyta Vyriausybės įgaliota institucija atlieka mokslo ir technologijų parkų veiklos stebėseną ir vertinimą. Vertinimo rezultatai teikiami valstybės technologijų ir inovacijų politiką formuojančiai ministerijai. 
+7. Valstybės technologijų ir inovacijų politiką įgyvendinanti institucija atlieka mokslo ir technologijų parkų veiklos stebėseną ir vertinimą. Vertinimo rezultatai teikiami valstybės technologijų ir inovacijų politiką formuojančiai ministerijai.
+Straipsnio dalies pakeitimai:
+Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
+ 
 
 
 
@@ -897,10 +933,11 @@ EKPERIMENTINĖS PLĖTROS IR INOVACINĖS VEIKLOS finansavimas IR SKATINIMAS
 
 
 
-3. Nacionalinės mokslo ir technologijų programos – konkursinės programos, kuriomis, sutelkus Lietuvos mokslo, technologijų ir verslo potencialą bei kryptingai naudojant valstybės finansinius išteklius, inicijuojamas valstybės, verslo ir visuomenės poreikius tenkinančių naujų sprendinių kūrimas pasirinktose srityse. Nacionalinių mokslo ir technologijų programų projektus įgyvendina konkurso būdu atrinktos valstybės mokslo ir studijų institucijos ir ūkio subjektai. Kiekvienos nacionalinės mokslo ir technologijų programos nuostatus rengia valstybės technologijų ir inovacijų politiką formuojanti ministerija kartu su Švietimo, mokslo ir sporto ministerija, o tvirtina Vyriausybė. Nacionalinės mokslo ir technologijų programos gali būti finansuojamos iš valstybės technologijų ir inovacijų politiką formuojančiai  ministerijai, Švietimo, mokslo ir sporto ministerijai, kitoms ministerijoms, šio įstatymo 14 straipsnyje nurodytai Vyriausybės įgaliotai institucijai, Lietuvos mokslo tarybai skirtų valstybės biudžeto asignavimų ir kitų šaltinių. Nacionalines mokslo ir technologijų programas gali įgyvendinti šio įstatymo 14 straipsnyje nurodyta Vyriausybės įgaliota institucija ir Lietuvos mokslo taryba. Konkrečios nacionalinės mokslo ir technologijų programos finansavimo šaltinis arba šaltiniai ir programą įgyvendinanti institucija nurodomi tos programos nuostatuose.
+3. Nacionalinės mokslo ir technologijų programos – konkursinės programos, kuriomis, sutelkus Lietuvos mokslo, technologijų ir verslo potencialą bei kryptingai naudojant valstybės finansinius išteklius, inicijuojamas valstybės, verslo ir visuomenės poreikius tenkinančių naujų sprendinių kūrimas pasirinktose srityse. Nacionalinių mokslo ir technologijų programų projektus įgyvendina konkurso būdu atrinktos valstybės mokslo ir studijų institucijos ir ūkio subjektai. Kiekvienos nacionalinės mokslo ir technologijų programos nuostatus rengia valstybės technologijų ir inovacijų politiką formuojanti ministerija kartu su Švietimo, mokslo ir sporto ministerija, o tvirtina Vyriausybė. Nacionalinės mokslo ir technologijų programos gali būti finansuojamos iš valstybės technologijų ir inovacijų politiką formuojančiai ministerijai, Švietimo, mokslo ir sporto ministerijai, kitoms ministerijoms, valstybės technologijų ir inovacijų politiką įgyvendinančiai institucijai, Lietuvos mokslo tarybai skirtų valstybės biudžeto asignavimų ir kitų šaltinių. Nacionalines mokslo ir technologijų programas gali įgyvendinti valstybės technologijų ir inovacijų politiką įgyvendinanti institucija ir Lietuvos mokslo taryba. Konkrečios nacionalinės mokslo ir technologijų programos finansavimo šaltinis arba šaltiniai ir programą įgyvendinanti institucija nurodomi tos programos nuostatuose. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
 Nr. XIII-3168, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15501
+Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
  
 
 
@@ -921,7 +958,10 @@ Nr. XIII-3168, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15501
 
 
 
-7. Pagal konkursines technologijų programas teikiamą finansavimą įgyvendina šio įstatymo 14 straipsnyje nurodyta Vyriausybės įgaliota institucija ir (arba) Vyriausybės arba valstybės technologijų ir inovacijų politiką formuojančios ministerijos įgaliotos institucijos.
+7. Pagal konkursines technologijų programas teikiamą finansavimą įgyvendina valstybės technologijų ir inovacijų politiką įgyvendinanti institucija ir (arba) Vyriausybės arba valstybės technologijų ir inovacijų politiką formuojančios ministerijos įgaliotos institucijos.
+Straipsnio dalies pakeitimai:
+Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
+ 
 
 
 
@@ -1015,6 +1055,26 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
 
 
+
+
+
+
+ 
+Lietuvos Respublikos 
+technologijų ir inovacijų įstatymo 
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1689, kuriuo nustatomos suderintos dirbtinio intelekto taisyklės ir iš dalies keičiami reglamentai (EB) Nr. 300/2008, (ES) Nr. 167/2013, (ES) Nr. 168/2013, (ES) 2018/858, (ES) 2018/1139 ir (ES) 2019/2144 ir direktyvos 2014/90/ES, (ES) 2016/797 ir (ES) 2020/1828 (Dirbtinio intelekto aktas).
+________________________ 
+
+
+Papildyta priedu:
+Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
+ 
  
  
 Pakeitimai:
@@ -1038,3 +1098,8 @@ Lietuvos Respublikos technologijų ir inovacijų įstatymo Nr. XIII-1414 14, 21 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
 Lietuvos Respublikos technologijų ir inovacijų įstatymo Nr. XIII-1414 2, 6, 7, 10, 11, 14, 18, 19, 23 straipsnių pakeitimo ir 15, 25, 26, 27 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
+Lietuvos Respublikos technologijų ir inovacijų įstatymo Nr. XIII-1414 1, 2, 11, 13, 14, 17, 21 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
