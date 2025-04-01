@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2025-03-31
+Suvestinė redakcija nuo 2025-04-01 iki 2025-05-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
- 
-TAR pastaba. Procedūros, susijusios su valstybinės žemės, perduotos patikėjimo teise viešosios geležinkelių infrastruktūros valdytojui, valdymu ir naudojimu, ir kitos  įstatyme Nr. XIV-2134 numatytos procedūros, pradėtos, bet nebaigtos iki  įstatymo Nr. XIV-2134  įsigaliojimo dienos (2024-01-01), tęsiamos ir baigiamos iki  įstatymo Nr. XIV-2134 įsigaliojimo dienos (2024-01-01) galiojusia tvarka ir sąlygomis. Procedūros yra pradėtos, jeigu Nacionalinės žemės tarnybai prie Aplinkos ministerijos (toliau – Nacionalinė žemės tarnyba) pagal jos kompetenciją ar viešosios geležinkelių infrastruktūros valdytojui iki  įstatymo Nr. XIV-2134  įsigaliojimo dienos (2024-01-01) buvo pateiktas prašymas dėl administracinės paslaugos suteikimo ir ši paslauga nebuvo suteikta arba jeigu Nacionalinė žemės tarnyba ar viešosios geležinkelių infrastruktūros valdytojas iki įstatymo   Nr. XIV-2134  įsigaliojimo dienos (2024-01-01) savo iniciatyva pradėjo vykdyti procedūras, susijusias su viešosios geležinkelių infrastruktūros valdytojo patikėjimo teise valdoma valstybine žeme, ir jų nebaigė.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-2134, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14327
-Lietuvos Respublikos geležinkelių transporto kodekso 9, 23-1 ir 30-2 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS
 GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO
@@ -665,11 +660,12 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-52. Kitos šiame Kodekse vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos transporto lengvatų įstatyme, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos geležinkelių transporto eismo saugos įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos pavojingų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų transportu įstatyme, Reglamente (ES) Nr. 913/2010, Reglamente (ES) 2015/1100, Reglamente (ES) 2017/2177. 
+52. Kitos šiame Kodekse vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos geležinkelių transporto eismo saugos įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme, Lietuvos Respublikos pavojingų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų keliais įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos viešojo keleivinio transporto lengvatų įstatyme, Reglamente (ES) Nr. 913/2010, Reglamente (ES) 2015/1100, Reglamente (ES) 2017/2177.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 Nr. XIII-3419, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24575
 Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
+Nr. XV-121, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04415
  
 
 
@@ -4258,7 +4254,18 @@ Nr. XIII-2685, 2019-12-13, paskelbta TAR 2019-12-21, i. k. 2019-20999
 
 
 
-3. Keleivių važiavimo keleiviniais traukiniais lengvatos ir geležinkelio įmonių (vežėjų) patirtų išlaidų (negautų pajamų) dėl keleiviams taikytų važiavimo keleiviniais traukiniais lengvatų kompensavimo (atlyginimo) tvarka nustatytos Transporto lengvatų įstatyme. 
+3. Keleiviams, vykstantiems keleiviniais traukiniais, taikomas viešojo keleivinio transporto lengvatas ir geležinkelio įmonių (vežėjų) išlaidų (negautų pajamų), patirtų dėl šių lengvatų taikymo, kompensavimo (atlyginimo) tvarką nustato Viešojo keleivinio transporto lengvatų įstatymas. 
+Straipsnio dalies pakeitimai:
+Nr. XV-121, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04415
+ 
+
+
+
+
+4. Keleiviai turi teisę vietinio susisiekimo maršrutais nemokamai vežtis vieną arba du vaikus iki 7 metų (imtinai), jeigu jie neužima atskiros sėdimosios ar miegamosios vietos.
+Papildyta straipsnio dalimi:
+Nr. XV-121, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04415
+ 
 
 
 Straipsnio pakeitimai:
@@ -5349,3 +5356,8 @@ Lietuvos Respublikos geležinkelių transporto kodekso 9 ir 23-1 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2134, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14327
 Lietuvos Respublikos geležinkelių transporto kodekso 9, 23-1 ir 30-2 straipsnių pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-121, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04415
+Lietuvos Respublikos geležinkelių transporto kodekso 3 ir 34 straipsnių pakeitimo įstatymas
