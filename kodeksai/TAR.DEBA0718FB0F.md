@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-03-31
+Suvestinė redakcija nuo 2025-04-01
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
  
@@ -2351,7 +2351,10 @@ KELEIVIŲ IR BAGAŽO VEŽIMAS
 
 
 
-2) jaunesnius kaip vienų metų vaikus.
+2) vieną ar du vaikus iki 7 metų (imtinai). 
+Straipsnio punkto pakeitimai:
+Nr. XV-122, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04416
+ 
 
 
 
@@ -2408,7 +2411,9 @@ KELEIVIŲ IR BAGAŽO VEŽIMAS
 
 
 
-10. Keleivių važiavimo reguliariaisiais reisais lengvatas ir vežėjų patirtų išlaidų (negautų pajamų) dėl keleiviams taikytų važiavimo reguliariaisiais reisais lengvatų kompensavimo (atlyginimo) tvarką nustato Lietuvos Respublikos transporto lengvatų įstatymas.
+10. Keleiviams, vykstantiems reguliariaisiais reisais, taikomas viešojo keleivinio transporto lengvatas ir vežėjų išlaidų (negautų pajamų), patirtų dėl šių lengvatų taikymo, kompensavimo (atlyginimo) tvarką nustato Lietuvos Respublikos viešojo keleivinio transporto lengvatų įstatymas.
+Straipsnio dalies pakeitimai:
+Nr. XV-122, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04416
  
 
 
@@ -2535,12 +2540,26 @@ KELEIVIŲ IR BAGAŽO VEŽIMAS
 
 
 
-3) jeigu vidaus vandenų transporto priemonė dėl kokių nors priežasčių negali plaukti, su tuo pačiu keleivio bilietu plaukti kitomis to paties savininko (valdytojo) ar, jeigu yra sudarytas savininkų (valdytojų) susitarimas, kitų savininkų (valdytojų) vidaus vandenų transporto priemonėmis;
+3) reguliariaisiais reisais nemokamai vežtis vieną ar du vaikus iki 7 metų (imtinai), jeigu jie neužima atskiros sėdimosios vietos; 
+Papildyta straipsnio punktu:
+Nr. XV-122, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04416
+ 
 
 
 
 
-4) nutraukti keleivių vežimo sutartį ir atgauti sumokėtus pinigus arba jų dalį šio kodekso ir susisiekimo ministro tvirtinamose keleivių ir bagažo vežimo vidaus vandenų transporto priemonėmis taisyklėse nustatyta tvarka.
+4) jeigu vidaus vandenų transporto priemonė dėl kokių nors priežasčių negali plaukti, su tuo pačiu keleivio bilietu plaukti kitomis to paties savininko (valdytojo) ar, jeigu yra sudarytas savininkų (valdytojų) susitarimas, kitų savininkų (valdytojų) vidaus vandenų transporto priemonėmis;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-122, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04416
+ 
+
+
+
+
+5) nutraukti keleivių vežimo sutartį ir atgauti sumokėtus pinigus arba jų dalį šio kodekso ir susisiekimo ministro tvirtinamose keleivių ir bagažo vežimo vidaus vandenų transporto priemonėmis taisyklėse nustatyta tvarka.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-122, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04416
+ 
 
 
 
@@ -3603,3 +3622,8 @@ Lietuvos Respublikos vidaus vandenų transporto kodekso papildymo 29-1 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3072, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20016
 Lietuvos Respublikos vidaus vandenų transporto kodekso 16-1 straipsnio pakeitimo ir 27 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-122, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04416
+Lietuvos Respublikos vidaus vandenų transporto kodekso 30 ir 34 straipsnių pakeitimo įstatymas
