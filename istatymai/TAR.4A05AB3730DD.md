@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MOKĖJIMO ĮSTAIGŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2024-12-30 iki 2025-04-08
+Suvestinė redakcija nuo 2025-04-09
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 153-6887, i. k. 1091010ISTA00XI-549
  
@@ -1191,9 +1191,10 @@ MOKĖJIMO ĮSTAIGOS KAPITALO IR APSAUGOS REIKALAVIMAI
 1. Mokėjimo įstaiga, kuri teikia Mokėjimų įstatymo 5 straipsnio 1–6 punktuose nurodytas mokėjimo paslaugas, privalo apsaugoti tiesiogiai iš mokėjimo paslaugų vartotojų arba iš kito mokėjimo paslaugų teikėjo gautas mokėjimo paslaugų vartotojų lėšas mokėjimo operacijoms vykdyti vienu iš šių būdų:
 
 
-1) atskirdama šias lėšas nuo kitų fizinių arba juridinių asmenų, kurie nėra mokėjimo paslaugų vartotojai, lėšų. Jeigu gautas lėšas kitos darbo dienos pabaigoje vis dar turi mokėjimo įstaiga ir jos nėra perduotos gavėjui ar pervestos kitam mokėjimo paslaugų teikėjui, šios lėšos turi būti laikomos atskiroje sąskaitoje, atidarytoje Lietuvos Respublikos arba kitos valstybės narės kredito įstaigoje (įskaitant užsienio valstybės kredito įstaigos filialą, įsteigtą Lietuvos Respublikoje arba kitoje valstybėje narėje), Lietuvos banke arba kitos valstybės narės centriniame banke ar investuojamos į saugų, likvidų ir mažos rizikos turtą priežiūros institucijos teisės aktų nustatyta tvarka. Mokėjimo įstaiga, šiame punkte nustatytu būdu saugodama mokėjimo paslaugų vartotojų tiesiogiai arba iš kito mokėjimo paslaugų teikėjo gautas mokėjimo paslaugų vartotojų lėšas mokėjimo operacijoms vykdyti, privalo imtis priemonių, užtikrinančių mokėjimo paslaugų vartotojų nuosavybės teisių apsaugą, ypač jeigu ji yra nemoki. Mokėjimo paslaugų vartotojų lėšos, perduotos mokėjimo įstaigai mokėjimo paslaugoms vykdyti, yra jų nuosavybė ir į jas negali būti nukreiptas išieškojimas pagal mokėjimo įstaigos skolas;
+1) atskirdama šias lėšas nuo kitų fizinių arba juridinių asmenų, kurie nėra mokėjimo paslaugų vartotojai, lėšų. Jeigu gautas lėšas kitos darbo dienos pabaigoje vis dar turi mokėjimo įstaiga ir jos nėra perduotos gavėjui ar pervestos kitam mokėjimo paslaugų teikėjui, šios lėšos turi būti laikomos atskiroje sąskaitoje, atidarytoje Lietuvos Respublikos arba kitos valstybės narės kredito įstaigoje (įskaitant užsienio valstybės kredito įstaigos filialą, įsteigtą Lietuvos Respublikoje arba kitoje valstybėje narėje), Lietuvos banke arba kitos valstybės narės centriniame banke (jeigu centrinis bankas sudaro tokią galimybę), arba investuojamos į saugų, likvidų ir mažos rizikos turtą priežiūros institucijos teisės aktų nustatyta tvarka. Mokėjimo įstaiga, šiame punkte nustatytu būdu saugodama mokėjimo paslaugų vartotojų tiesiogiai arba iš kito mokėjimo paslaugų teikėjo gautas mokėjimo paslaugų vartotojų lėšas mokėjimo operacijoms vykdyti, privalo imtis priemonių, užtikrinančių mokėjimo paslaugų vartotojų nuosavybės teisių apsaugą, ypač jeigu ji yra nemoki. Mokėjimo paslaugų vartotojų lėšos, perduotos mokėjimo įstaigai mokėjimo paslaugoms vykdyti, yra jų nuosavybė ir į jas negali būti nukreiptas išieškojimas pagal mokėjimo įstaigos skolas;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1480, 2022-11-03, paskelbta TAR 2022-11-17, i. k. 2022-23199
+Nr. XIV-3095, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20116
  
 
 
@@ -1426,6 +1427,34 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
  
 
 
+
+
+
+
+211 straipsnis. Mokėjimo paslaugų teikimo veiklos nutraukimo planas
+
+
+1. Mokėjimo įstaiga turi turėti mokėjimo paslaugų teikimo veiklos nutraukimo planą, atitinkantį šio straipsnio 2 dalyje nustatytus reikalavimus.
+
+
+
+
+2. Mokėjimo paslaugų teikimo veiklos nutraukimo plane nustatomos priemonės sklandžiam atskirų mokėjimo paslaugų ir visos mokėjimo paslaugų teikimo veiklos nutraukimui užtikrinti. Priežiūros institucija nustato išsamius mokėjimo paslaugų teikimo veiklos nutraukimo plano reikalavimus.
+
+
+
+
+3. Mokėjimo įstaiga mokėjimo paslaugų teikimo veiklos nutraukimo planą turi parengti per 6 mėnesius nuo mokėjimo paslaugų teikimo veiklos vykdymo pradžios.
+
+
+
+
+4. Mokėjimo įstaiga mokėjimo paslaugų teikimo veiklos nutraukimo planą turi peržiūrėti bent kartą per metus ir prireikus jį atnaujinti. Mokėjimo įstaiga taip pat turi nedelsdama šį planą peržiūrėti ir prireikus atnaujinti, keisdama mokėjimo įstaigos organizacinę struktūrą, veiklą, pasikeitus mokėjimo įstaigos finansinei būklei ar kitoms aplinkybėms, galinčioms turėti reikšmingą poveikį mokėjimo paslaugų teikimo veiklos nutraukimui.
+
+
+Papildyta straipsniu:
+Nr. XIV-3095, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20116
+ 
 
 
 
@@ -2273,7 +2302,6 @@ RESPUBLIKOS PREZIDENTĖ                            �
 
 
 
- 
 Lietuvos Respublikos
 mokėjimo įstaigų įstatymo
 priedas
@@ -2282,9 +2310,17 @@ priedas
  
 
 
-1. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB (OL 2015 L 337, p. 35).
+1. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, su paskutiniais pakeitimais, padarytais 2024 m. kovo 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/886.
 
 
+
+
+_________________
+
+
+Priedo pakeitimai:
+Nr. XIV-3095, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20116
+ 
  
  
 Pakeitimai:
@@ -2348,3 +2384,8 @@ Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 8, 33 ir 37 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2886, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13495
 Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 5, 7, 18 ir 29 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3095, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20116
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 17 straipsnio ir priedo pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas
