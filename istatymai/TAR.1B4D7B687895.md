@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2024-12-30 iki 2025-04-11
+Suvestinė redakcija nuo 2025-04-12
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1014,20 +1014,20 @@ Lietuvos banko finansinių metų pelnas (nuostolis) skaičiuojamas iš pajamų a
 23 straipsnis. Lietuvos banko nuostolio padengimas ir pelno paskirstymas
 
 
-1. Šio įstatymo nustatyta tvarka patvirtinus paskutinių pasibaigusių finansinių metų finansinių ataskaitų rinkinį, tų metų pelnas (nuostolis) ir ankstesnių finansinių metų nepaskirstytasis pelnas priskiriami paskirstytinajam pelnui (nuostoliui) ir po to šis paskirstytinasis pelnas skirstomas ar nuostolis dengiamas šiame straipsnyje nustatyta tvarka. 
+1. Šio įstatymo nustatyta tvarka patvirtinus paskutinių pasibaigusių finansinių metų finansinių ataskaitų rinkinį, tų metų pelnas skirstomas ar nuostolis dengiamas šiame straipsnyje nustatyta tvarka.
 
 
 
 
-2. Paskirstytinasis nuostolis dengiamas turimu Lietuvos banko atsargos kapitalu. Kai atsargos kapitalo nepakanka šiam nuostoliui dengti, likęs nepadengtas nuostolis dengiamas paskesnių finansinių metų paskirstytinuoju pelnu. 
+2. Nuostolis dengiamas turimu Lietuvos banko atsargos kapitalu. Kai atsargos kapitalo nepakanka šiam nuostoliui dengti, likęs nepadengtas nuostolis dengiamas paskesnių finansinių metų pelnu.
 
 
 
 
-3. Paskirstytinasis pelnas skirstomas šia eilės tvarka:
+3. Pelnas skirstomas šia eilės tvarka:
 
 
-1) ankstesnių finansinių metų nepadengtiems nuostoliams dengti; 
+1) ankstesnių finansinių metų nepadengtiems nuostoliams dengti;
 
 
 
@@ -1042,21 +1042,14 @@ Lietuvos banko finansinių metų pelnas (nuostolis) skaičiuojamas iš pajamų a
 
 
 
-4) po paskirstymo pagal šios dalies 3 punkto nuostatas likusi suma ar jos dalis skiriama Lietuvos banko pelno įmokai į valstybės biudžetą. Ši įmoka neturi viršyti sumos, kuri lygi 70 procentų apskaičiuoto paskutinių trejų pasibaigusių finansinių metų Lietuvos banko pelno (nuostolio) vidurkio. 
+4) po paskirstymo pagal šios dalies 3 punkto nuostatas likusi suma skiriama Lietuvos banko pelno įmokai į valstybės biudžetą.
+TAR pastaba. 2025-04-10 įstatymu XV-153 keičiamas 23 straipsnis taikomas skirstant 2024 metų ir vėlesnių finansinių metų Lietuvos banko pelną ar dengiant nuostolį.  
 
 
-
-
-
-
-4. Paskirstytinojo pelno dalis, likusi po paskirstymo pagal šio straipsnio 3 dalies nuostatas, laikoma nepaskirstytuoju pelnu, kuris skirstomas šiame straipsnyje nustatyta tvarka paskesniais finansiniais metais.
 
 
 Straipsnio pakeitimai:
-Nr. IX-1352, 2003-03-04, Žin., 2003, Nr. 27-1079 (2003-03-19)
-Nr. IX-1998, 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
-Nr. XI-510, 2009-12-02, Žin., 2009, Nr. 147-6553 (2009-12-12)
-Nr. XI-1800, 2011-12-15, Žin., 2011, Nr. 160-7567 (2011-12-28)
+Nr. XV-153, 2025-04-10, paskelbta TAR 2025-04-11, i. k. 2025-06427
  
 
 
@@ -4259,3 +4252,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 43 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2721, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11244
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 43-3, 43-6, 43-7, 47-7 straipsnių pakeitimo ir Įstatymo papildymo 43-4 straipsniu įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-153, 2025-04-10, paskelbta TAR 2025-04-11, i. k. 2025-06427
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 23 straipsnio pakeitimo įstatymas
