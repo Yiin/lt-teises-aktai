@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/3be40b20353e11efbdaea558de59136c"
 
 # Lietuvos Respublikos valstybės gynybos fondo įstatymas
 
+Suvestinė redakcija nuo 2025-04-12
+ 
+Įstatymas paskelbtas: TAR 2024-06-28, i. k. 2024-12079
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS GYNYBOS FONDO
 ĮSTATYMAS
@@ -138,7 +145,16 @@ priima šį įstatymą.
 
 
 
-6) 25 milijonai eurų iš valstybės biudžeto pajamų, gautų iš gyventojų pajamų mokesčio, ta pačia suma sumažinus savivaldybių biudžetams tenkančią pastoviąją gyventojų pajamų mokesčio dalį (procentais) vadovaujantis Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo nuostatomis. Šios dalies sumažinimas apskaičiuojamas rengiant Lietuvos Respublikos 2025–2027 metų biudžeto patvirtinimo įstatymo projektą ir perskaičiuojamas kiekvienais vėlesniais metais rengiant Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymo projektą.
+6) 25 milijonai eurų iš valstybės biudžeto pajamų, gautų iš gyventojų pajamų mokesčio, ta pačia suma sumažinus savivaldybių biudžetams tenkančią pastoviąją gyventojų pajamų mokesčio dalį (procentais) vadovaujantis Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo nuostatomis. Šios dalies sumažinimas apskaičiuojamas rengiant Lietuvos Respublikos 2025–2027 metų biudžeto patvirtinimo įstatymo projektą ir perskaičiuojamas kiekvienais vėlesniais metais rengiant Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymo projektą;
+
+
+
+
+7) valstybės biudžeto pajamų, gautų iš Lietuvos banko pelno įmokos, dalis, viršijanti 14 milijonų eurų. 
+TAR pastaba. Įstatymo 4 straipsnio 1 dalies 7 punkte nurodytos Valstybės gynybos fondo lėšos 2025 metais naudojamos vadovaujantis Valstybės gynybos fondo įstatymo 5 straipsnio 3 dalimi. 
+Papildyta straipsnio punktu:
+Nr. XV-154, 2025-04-10, paskelbta TAR 2025-04-11, i. k. 2025-06428
+ 
 
 
 
@@ -150,7 +166,10 @@ priima šį įstatymą.
 
 
 
-3. Šio straipsnio 1 dalies 1, 3, 4–6 punktuose nurodytas lėšas į Valstybės gynybos fondo sąskaitą perveda Lietuvos Respublikos finansų ministerija finansų ministro nustatyta tvarka.
+3. Šio straipsnio 1 dalies 1, 3, 4–7 punktuose nurodytas lėšas į Valstybės gynybos fondo sąskaitą perveda Lietuvos Respublikos finansų ministerija finansų ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XV-154, 2025-04-10, paskelbta TAR 2025-04-11, i. k. 2025-06428
+ 
 
 
 
@@ -302,3 +321,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-154, 2025-04-10, paskelbta TAR 2025-04-11, i. k. 2025-06428
+Lietuvos Respublikos valstybės gynybos fondo įstatymo Nr. XIV-2775 4 straipsnio pakeitimo įstatymas
