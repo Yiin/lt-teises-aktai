@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-04-14
+Suvestinė redakcija nuo 2025-04-15
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -2152,9 +2152,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-5. Mero sprendimai įforminami potvarkiais. Mero potvarkiai skelbiami savivaldybės interneto svetainėje.
+5. Mero sprendimai įforminami potvarkiais. Mero potvarkiai skelbiami savivaldybės interneto svetainėje teisės aktų nustatyta tvarka, išskyrus potvarkius, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios arba su asmens duomenimis, kurių skelbimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusios informacijos.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+Nr. XV-145, 2025-04-08, paskelbta TAR 2025-04-14, i. k. 2025-06513
  
 
 
@@ -5669,3 +5670,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 67 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2763, 2024-06-18, paskelbta TAR 2024-06-21, i. k. 2024-11410
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 straipsnio pakeitimo įstatymas
+ 
+86.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-145, 2025-04-08, paskelbta TAR 2025-04-14, i. k. 2025-06513
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 25 straipsnio pakeitimo įstatymas
