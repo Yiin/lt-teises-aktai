@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2025-01-15 iki 2025-04-16
+Suvestinė redakcija nuo 2025-04-17 iki 2026-03-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -442,9 +442,12 @@ Civilinio kodekso trečiosios knygos XII skyriaus antrojo skirsnio normos dėl v
 
 
 Civilinio kodekso trečiosios knygos XV skyriaus normos dėl bendro gyvenimo neįregistravus santuokos įsigalioja nuo įstatymo, reglamentuojančio partnerystės įregistravimo tvarką, įsigaliojimo momento. 
+TAR pastaba. 28 straipsnis prieštarauja konstituciniams teisinės valstybės, atsakingo valdymo principams.
+
+
+Straipsnio pakeitimai:
+Nr. KT21-N5/2025, 2025-04-17, paskelbta TAR 2025-04-17, i. k. 2025-06803
  
-
-
 
 
 
@@ -15743,9 +15746,12 @@ BENDRAS GYVENIMAS NEĮREGISTRAVUS SANTUOKOS
 
 
 Šio skyriaus normos nustato turtinius santykius tarp vyro ir moters, kurie, įregistravę savo partnerystę įstatymų nustatyta tvarka, bendrai gyvena ne mažiau kaip vienerius metus neįregistravę santuokos (sugyventiniai), turėdami tikslą sukurti šeiminius santykius. 
+TAR pastaba. 3.229 straipsnis tiek, kiek pagal jį partnerystę galima sudaryti tik tarp vyro ir moters, prieštarauja Lietuvos Respublikos Konstitucijos 21 straipsnio 2, 3 dalims, 22 straipsnio 1, 4 dalims, 29 straipsniui, 38 straipsnio 1, 2 dalims, konstituciniam teisinės valstybės principui.
+
+
+Straipsnio pakeitimai:
+Nr. KT21-N5/2025, 2025-04-17, paskelbta TAR 2025-04-17, i. k. 2025-06803
  
-
-
 
 
 
@@ -51864,3 +51870,13 @@ Lietuvos Respublikos civilinio kodekso 6.476 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2624, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08914
 Lietuvos Respublikos civilinio kodekso 4.84 straipsnio pakeitimo įstatymas
+ 
+80.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3146, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20389
+Lietuvos Respublikos civilinio kodekso 2.70 straipsnio pakeitimo įstatymas
+ 
+81.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT21-N5/2025, 2025-04-17, paskelbta TAR 2025-04-17, i. k. 2025-06803
+Dėl Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo 28 straipsnio, Lietuvos Respublikos civilinio kodekso 3.229 straipsnio atitikties Lietuvos Respublikos Konstitucijai
