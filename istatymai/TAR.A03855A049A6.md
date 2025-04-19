@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a03855a049a611efbdaea558de59136c"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 19, 30, 36, 36-3, 36-4, 45 ir 50 straipsnių pakeitimo ir Įstatymo papildymo 36-6 straipsniu įstatymas
 
+Suvestinė redakcija nuo 2025-04-19
+ 
+Įstatymas paskelbtas: TAR 2024-07-24, i. k. 2024-13511
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VAIKO TEISIŲ APSAUGOS PAGRINDŲ ĮSTATYMO NR. I-1234 2, 19, 30, 36, 363, 364, 45 IR 50 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 366 STRAIPSNIU 
 ĮSTATYMAS
@@ -486,7 +493,9 @@ Pakeisti 45 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-4. Darbdaviai, priimančiosios organizacijos, taip pat juridiniai asmenys, pasitelkiantys asmenis teikti paslaugas ar priimantys asmenis atlikti praktiką, stažuotis, teisėto darbo su vaikais kodo galiojimą pirmą kartą turi patikrinti ne vėliau kaip iki 2025 m. balandžio 30 d.
+4. Darbdaviai, priimančiosios organizacijos, taip pat juridiniai asmenys, pasitelkiantys asmenis teikti paslaugas ar priimantys asmenis atlikti praktiką, stažuotis, teisėto darbo su vaikais kodo galiojimą pirmą kartą turi patikrinti ne vėliau kaip iki 2025 m. rugsėjo 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XV-163, 2025-04-15, paskelbta TAR 2025-04-18, i. k. 2025-06916
  
 
 
@@ -497,3 +506,13 @@ Pakeisti 45 straipsnio 2 dalį ir ją išdėstyti taip:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-163, 2025-04-15, paskelbta TAR 2025-04-18, i. k. 2025-06916
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 19, 30, 36, 36-3, 36-4, 45 ir 50 straipsnių pakeitimo ir Įstatymo papildymo 36-6 straipsniu įstatymo Nr. XIV-2915 10 straipsnio pakeitimo įstatymas
