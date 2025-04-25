@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b4c4374095ec11ea9515f752ff221ec9"
 
 # Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 38, 39, 40, 41, 42, 43, 44, 46, 47, 49, 51, 52, 59, 60, 61, 67 ir 68 straipsnių pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2022-10-15 iki 2025-04-24
+Suvestinė redakcija nuo 2025-04-25
  
 Įstatymas paskelbtas: TAR 2020-05-14, i. k. 2020-10395
  
@@ -802,9 +802,10 @@ Nr. XIV-605, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23527
 
 
 
-11. Energetikos įmonėms išduotų elektros energijos visuomeninio tiekimo licencijų galiojimas panaikinamas 2026 m. sausio 1 d. Lietuvos Respublikos energetikos įstatyme nustatyta tvarka.
+11. Energetikos įmonėms išduotų elektros energijos visuomeninio tiekimo veiklos licencijų galiojimas panaikinamas 2030 m. sausio 1 d.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1442, 2022-10-10, paskelbta TAR 2022-10-14, i. k. 2022-20973
+Nr. XV-168, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07429
  
 
 
@@ -836,4 +837,9 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 38, 3
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1442, 2022-10-10, paskelbta TAR 2022-10-14, i. k. 2022-20973
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 38, 39, 40, 41, 42, 43, 44, 46, 47, 49, 51, 52, 59, 60, 61, 67 ir 68 straipsnių pakeitimo įstatymo Nr. XIII-2900 22 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-168, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07429
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 38, 39, 40, 41, 42, 43, 44, 46, 47, 49, 51, 52, 59, 60, 61, 67 ir 68 straipsnių pakeitimo įstatymo Nr. XIII-2900 22 straipsnio pakeitimo įstatymas
