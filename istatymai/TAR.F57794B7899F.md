@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2025-01-17 iki 2025-04-25
+Suvestinė redakcija nuo 2025-04-26 iki 2025-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -11136,3 +11136,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 16, 22 ir 48-2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-93, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23085
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 48-1, 48-3, 59 straipsnių ir priedo pakeitimo įstatymas
+ 
+63.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-169, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07431
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įstatymo Nr. XIV-627 31 ir 64 straipsnių pakeitimo įstatymas
