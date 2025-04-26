@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2f22d6604dbe11ec862fdcbc8b3e3e05"
 
 # Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2022-12-22 iki 2025-04-25
+Suvestinė redakcija nuo 2025-04-26
  
 Įstatymas paskelbtas: TAR 2021-11-25, i. k. 2021-24219
  
@@ -3244,7 +3244,7 @@ Pakeisti 43 straipsnio 14 dalį ir ją išdėstyti taip:
 
 
 
-3) buitiniams vartotojams, kuriems užtikrinamas garantinis tiekimas, išskyrus pažeidžiamus vartotojus, taikoma garantinio tiekimo kaina, kuri apskaičiuojama vidutinę praėjusio ataskaitinio mėnesio elektros energijos biržos kainą, susiformavusią Lietuvos kainų zonoje kitos paros rinkoje, padauginus iš koeficiento 1,15. Vartotojams, išskyrus buitinius vartotojus, kuriems užtikrinamas garantinis tiekimas, taikoma garantinio tiekimo kaina, kuri apskaičiuojama vidutinę praėjusio ataskaitinio mėnesio elektros energijos biržos kainą, susiformavusią Lietuvos kainų zonoje kitos paros rinkoje, padauginus iš koeficiento 1,25. Šią kainą apskaičiuoja garantinis elektros energijos tiekėjas ir paskelbia savo interneto svetainėje. Garantinio tiekimo kainą pažeidžiamiems vartotojams nustato ir skelbia Taryba. Garantinio tiekimo kaina pažeidžiamiems vartotojams nustatoma kaip elektros energijos įsigijimo ir garantinio tiekimo pažeidžiamiems vartotojams paslaugos kainų, apskaičiuojamų Tarybos metodikoje nustatyta tvarka, suma. Skirtumas tarp faktinių ataskaitinio laikotarpio pajamų ir garantinio elektros energijos tiekėjo patirtų garantinio elektros energijos tiekimo veiklos sąnaudų, įskaitant elektros energijos įsigijimo sąnaudas, priskiriamas garantinio elektros energijos tiekėjo sąnaudoms ar pajamoms pagal šio įstatymo 9 straipsnio 3 dalies 4 punkte nurodytą metodiką. Garantinio elektros energijos tiekimo kaina apskaičiuojama šio įstatymo 67 straipsnio 4 dalyje nurodytu periodiškumu ir terminais. Kai yra esminių vieno ar kelių veiksnių, kuriais remiantis buvo nustatyta garantinio tiekimo pažeidžiamiems vartotojams kaina, pokyčių, įskaitant esminį paslaugų apimties, infliacijos, mokesčių, kitų objektyvių (nuo garantinio elektros energijos tiekėjo nepriklausančių) veiksnių pokytį, ši kaina koreguojama ne dažniau kaip du kartus per metus ir įsigalioja praėjus ne mažiau kaip vienam mėnesiui nuo jos paskelbimo.“
+3) buitiniams vartotojams, kuriems užtikrinamas garantinis tiekimas, išskyrus pažeidžiamus vartotojus, taikoma garantinio tiekimo kaina, kuri apskaičiuojama vidutinę einamojo ataskaitinio mėnesio elektros energijos biržos kainą, susiformavusią Lietuvos kainų zonoje kitos paros rinkoje, padauginus iš koeficiento 1,15. Vartotojams, išskyrus buitinius vartotojus, kuriems užtikrinamas garantinis tiekimas, taikoma garantinio tiekimo kaina, kuri apskaičiuojama vidutinę einamojo ataskaitinio mėnesio elektros energijos biržos kainą, susiformavusią Lietuvos kainų zonoje kitos paros rinkoje, padauginus iš koeficiento 1,25. Šią kainą apskaičiuoja garantinis elektros energijos tiekėjas ir paskelbia savo interneto svetainėje. Garantinio tiekimo kainą pažeidžiamiems vartotojams nustato ir skelbia Taryba. Garantinio tiekimo kaina pažeidžiamiems vartotojams nustatoma kaip elektros energijos įsigijimo ir garantinio tiekimo pažeidžiamiems vartotojams paslaugos kainų, apskaičiuojamų Tarybos metodikoje nustatyta tvarka, suma. Skirtumas tarp faktinių ataskaitinio laikotarpio pajamų ir garantinio elektros energijos tiekėjo patirtų garantinio elektros energijos tiekimo veiklos sąnaudų, įskaitant elektros energijos įsigijimo sąnaudas, priskiriamas garantinio elektros energijos tiekėjo sąnaudoms ar pajamoms pagal šio įstatymo 9 straipsnio 3 dalies 4 punkte nurodytą metodiką. Garantinio elektros energijos tiekimo kaina apskaičiuojama šio įstatymo 67 straipsnio 4 dalyje nurodytu periodiškumu ir terminais. Kai yra esminių vieno ar kelių veiksnių, kuriais remiantis buvo nustatyta garantinio tiekimo pažeidžiamiems vartotojams kaina, pokyčių, įskaitant esminį paslaugų apimties, infliacijos, mokesčių, kitų objektyvių (nuo garantinio elektros energijos tiekėjo nepriklausančių) veiksnių pokytį, ši kaina koreguojama ne dažniau kaip du kartus per metus ir įsigalioja praėjus ne mažiau kaip vienam mėnesiui nuo jos paskelbimo.“. 
 
 
 
@@ -3253,6 +3253,7 @@ Pakeisti 43 straipsnio 14 dalį ir ją išdėstyti taip:
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1668, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26106
+Nr. XV-169, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07431
  
 
 
@@ -3277,11 +3278,14 @@ Nr. XIV-1668, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26106
 
 
 
-„31. Šio straipsnio 3 dalyje nurodytais atvejais vartotojams, išskyrus pažeidžiamus vartotojus, užtikrinant garantinį tiekimą 3 savaites taikoma kaina, apskaičiuojama kaip vidutinės praėjusio ataskaitinio mėnesio elektros energijos biržos kainos, susiformavusios Lietuvos kainų zonoje kitos paros rinkoje, ir garantinio tiekimo pažeidžiamiems vartotojams paslaugos kainos, kurią nustato Taryba, suma.“
+„31. Šio straipsnio 3 dalyje nurodytais atvejais vartotojams, išskyrus pažeidžiamus vartotojus, užtikrinant garantinį tiekimą 3 savaites taikoma kaina, apskaičiuojama kaip vidutinės einamojo ataskaitinio mėnesio elektros energijos biržos kainos, susiformavusios Lietuvos kainų zonoje kitos paros rinkoje, ir garantinio tiekimo pažeidžiamiems vartotojams paslaugos kainos, kurią nustato Taryba, suma.“.
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XV-169, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07431
+ 
 
 
 
@@ -5233,9 +5237,11 @@ Nr. XIV-1443, 2022-10-10, paskelbta TAR 2022-10-14, i. k. 2022-20974
 
 
 
-31. Šio įstatymo 31 straipsnio 1 ir 3 dalys įsigalioja 2026 m. sausio 1 d.
+31. Šio įstatymo 31 straipsnio 1 ir 3 dalys įsigalioja 2030 m. sausio 1 d.
 Papildyta straipsnio dalimi:
 Nr. XIV-1443, 2022-10-10, paskelbta TAR 2022-10-14, i. k. 2022-20974
+Straipsnio dalies pakeitimai:
+Nr. XV-169, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07431
  
 
 
@@ -5329,3 +5335,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1668, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26106
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įstatymo Nr. XIV-627 31 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-169, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07431
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įstatymo Nr. XIV-627 31 ir 64 straipsnių pakeitimo įstatymas
