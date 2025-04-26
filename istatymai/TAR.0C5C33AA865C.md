@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2025-04-25
+Suvestinė redakcija nuo 2025-04-26 iki 2025-05-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -96,9 +96,11 @@ Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
 
 
 
-51. Gamtinių dujų biržos operatorius (toliau – biržos operatorius) – asmuo, šio įstatymo nustatyta tvarka organizuojantis prekybą gamtinėmis dujomis, administruojantis gamtinių dujų biržą ir turintis gamtinių dujų biržos operatoriaus licenciją. 
+51. Gamtinių dujų biržos operatorius (toliau – biržos operatorius) – asmuo, šio įstatymo nustatyta tvarka organizuojantis prekybą gamtinėmis dujomis gamtinių dujų biržoje. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+Straipsnio dalies pakeitimai:
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
  
 
 
@@ -404,7 +406,10 @@ Nr. XIV-2421, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25642
 
 
 
-54. Mažos apimties suskystintų gamtinių dujų pakartotinis dujinimas (toliau – mažos apimties SGD pakartotinis dujinimas) – procesas, kai SGD verčiamos į dujinę formą mažos apimties SGD pakartotinio dujinimo įrenginyje vėlesniam pateikimui į skirstymo sistemą.
+54. Mažos apimties suskystintų gamtinių dujų pakartotinis dujinimas (toliau – mažos apimties SGD pakartotinis dujinimas) – procesas, kai suskystintos gamtinės dujos verčiamos į dujinę formą mažos apimties suskystintų gamtinių dujų pakartotinio dujinimo įrenginyje. 
+Straipsnio dalies pakeitimai:
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
+ 
 
 
 
@@ -435,25 +440,38 @@ Nr. XIV-1644, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26588
 
 
 
-57. Prekyba gamtinėmis dujomis gamtinių dujų biržoje (toliau – prekyba gamtinių dujų biržoje) – gamtinių dujų įsigijimas ir (ar) pardavimas gamtinių dujų biržoje pagal biržos operatoriaus prekybos gamtinių dujų biržoje reglamento nustatytas taisykles ir sąlygas. 
+57. Prekyba gamtinėmis dujomis gamtinių dujų biržoje (toliau – prekyba gamtinių dujų biržoje) – gamtinių dujų įsigijimas ir (ar) pardavimas gamtinių dujų biržoje. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
  
 
 
 
 
-571. Regioninės gamtinių dujų rinkos zona (toliau – regioninės rinkos zona) –prekybos gamtinėmis dujomis zona, apimanti kelių valstybių narių perdavimo sistemų operatorių veiklos teritorijas ir turinti bendrą gamtinių dujų perdavimo sistemų balansavimo zoną, biržos operatorių, bendrus kainodaros elementus ir priežiūros sistemą. 
+571. Prijungimo prie gamtinių dujų sistemos taškas – vieta, kurioje vartotojo, biodujų gamintojo ar kito gamtinių dujų sistemos operatoriaus sistema prijungiama prie gamtinių dujų sistemos. 
 Papildyta straipsnio dalimi:
-Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
  
 
 
 
 
-572. Regioninės gamtinių dujų rinkos zonos operatorius (toliau – regioninės rinkos zonos operatorius) – šiame įstatyme nustatytus reikalavimus atitinkantis juridinis asmuo, įsteigtas regioninės rinkos zonos perdavimo sistemų balansavimo funkcijoms atlikti ir valdomas regioninės rinkos zonoje veikiančių perdavimo sistemos operatorių. 
+572. Regioninės gamtinių dujų rinkos zona (toliau – regioninės rinkos zona) –prekybos gamtinėmis dujomis zona, apimanti kelių valstybių narių perdavimo sistemų operatorių veiklos teritorijas ir turinti bendrą gamtinių dujų perdavimo sistemų balansavimo zoną, biržos operatorių, bendrus kainodaros elementus ir priežiūros sistemą. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
+ 
+
+
+
+
+573. Regioninės gamtinių dujų rinkos zonos operatorius (toliau – regioninės rinkos zonos operatorius) – šiame įstatyme nustatytus reikalavimus atitinkantis juridinis asmuo, įsteigtas regioninės rinkos zonos perdavimo sistemų balansavimo funkcijoms atlikti ir valdomas regioninės rinkos zonoje veikiančių perdavimo sistemos operatorių. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
  
 
 
@@ -514,10 +532,11 @@ Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
 
 
 
-69. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatyme, Lietuvos Respublikos statybos įstatyme.
+69. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos energijos išteklių rinkos įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos statybos įstatyme ir Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatyme.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1457, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11770
 Nr. XIV-1185, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15168
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
  
 
 
@@ -993,9 +1012,10 @@ GAMTINIŲ DUJŲ SEKTORIAUS TAISYKLĖS
 
 
 
-2. Gamtinių dujų sektoriuje nustatydama konkrečias paslaugų kainas, Taryba reguliuoja buitinių vartotojų prijungimo prie gamtinių dujų sistemos, SGD perkrovos paslaugų kainas ir tiekimo saugumo papildomos dedamosios prie gamtinių dujų perdavimo kainos dydį (toliau – papildoma dedamoji). 
+2. Gamtinių dujų sektoriuje nustatydama konkrečias paslaugų kainas, Taryba reguliuoja buitinių vartotojų sistemų prijungimo prie gamtinių dujų sistemos, SGD perkrovos paslaugų kainas ir tiekimo saugumo papildomos dedamosios prie gamtinių dujų perdavimo kainos dydį (toliau – papildoma dedamoji).
 Straipsnio dalies pakeitimai:
 Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
  
 
 
@@ -1323,7 +1343,10 @@ Nr. XIII-2175, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09949
 131 straipsnis. Mažo ir (ar) vidutinio slėgio dujotiekių projektavimas ir įrengimas
 
 
-1. Gamtinių dujų sistema, išskyrus šio straipsnio 2 dalyje nurodytus objektus, statoma Statybos įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka. Šio straipsnio 2 dalyje nurodyti objektai projektuojami, įrengiami ir informacija apie įrengtus objektus (techniniai ir buvimo vietos duomenys) skelbiama viešai Lietuvos Respublikos energetikos ministerijos nustatyta tvarka.
+1. Gamtinių dujų sistema, išskyrus šio straipsnio 2 dalyje nurodytus objektus, statoma Statybos įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka. Šio straipsnio 2 dalyje nurodyti objektai projektuojami, įrengiami ir informacija apie įrengtus objektus (techniniai ir buvimo vietos duomenys) skelbiama viešai energetikos ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
+ 
 
 
 
@@ -1680,7 +1703,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-5) galimybės panaudoti gamtinių dujų įmonių sistemas kitiems naujiems vartotojams prijungti įvertinimo;
+5) galimybės panaudoti gamtinių dujų įmonių sistemas naujų vartotojų sistemoms prijungti įvertinimo; 
+Straipsnio punkto pakeitimai:
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
+ 
 
 
 
@@ -1695,7 +1721,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-8) teisės aktų nustatytų lengvatų ir (ar) skatinimo priemonių, taikomų sistemos naudotojų prijungimui, įvertinimo. 
+8) teisės aktų nustatytų lengvatų ir (ar) skatinimo priemonių, taikomų sistemos naudotojų sistemų prijungimui, įvertinimo.
+Straipsnio punkto pakeitimai:
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -1893,6 +1922,14 @@ Straipsnio pakeitimai:
 Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 Straipsnio dalies pakeitimai:
 Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
+ 
+
+
+
+
+13. Šiame straipsnyje nustatyti reikalavimai ir reglamentavimas netaikomi biržos operatoriaus veiklą vykdančiam ūkio subjektui, turinčiam kitoje valstybėje narėje išduotą licenciją, suteikiančią teisę verstis biržos operatoriaus veikla. Biržos operatoriaus veiklą kitoje valstybėje narėje vykdantis ūkio subjektas, ketinantis vykdyti biržos operatoriaus veiklą Lietuvos Respublikoje, apie tai privalo raštu informuoti Tarybą ne vėliau kaip prieš 2 mėnesius iki biržos operatoriaus veiklos vykdymo Lietuvos Respublikoje pradžios ir pateikti Tarybai dokumentą, pagrindžiantį teisę verstis biržos operatoriaus veikla kitoje valstybėje narėje. Apie ketinimą nutraukti biržos operatoriaus veiklą biržos operatorius privalo raštu informuoti Tarybą ne vėliau kaip prieš 6 mėnesius iki numatomo biržos operatoriaus veiklos nutraukimo. Taryba savo interneto svetainėje skelbia informaciją apie biržos operatoriaus veiklą Lietuvos Respublikoje vykdančius ūkio subjektus.
+Papildyta straipsnio dalimi:
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
  
 
 
@@ -2736,7 +2773,10 @@ dujų biržoje reglamentą, suderintą su Taryba ir atitinkantį Prekybos gamtin
 
 
 
-3. Biržos operatorius pagal šio įstatymo 7 straipsnio 2 dalies 2 punkte nurodytose taisyklėse nustatytą tvarką bendradarbiauja su Taryba ir nedelsdamas Tarybai pateikia su įtartinais prekybos gamtinėmis dujomis sandoriais susijusią informaciją ir bet kurią kitą aktualią informaciją, kuri būtų reikalinga gamtinių dujų biržos priežiūrai vykdyti, ypač apie licencijų ir (ar) leidimų turėtojams nustatytų veiklos sąlygų galimus pažeidimus.
+3. Biržos operatorius bendradarbiauja su Taryba, vadovaudamasis Tarybos tvirtinamose Prekybos elektros energija ir gamtinėmis dujomis priežiūros taisyklėse nustatyta tvarka, ir nedelsdamas Tarybai pateikia su įtartinais prekybos gamtinėmis dujomis sandoriais susijusią informaciją ir bet kurią kitą aktualią informaciją, kuri būtų reikalinga gamtinių dujų biržos priežiūrai vykdyti, ypač apie licencijų ir (ar) leidimų turėtojams nustatytų veiklos sąlygų galimus pažeidimus. 
+Straipsnio dalies pakeitimai:
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
+ 
 
 
 
@@ -2744,6 +2784,14 @@ dujų biržoje reglamentą, suderintą su Taryba ir atitinkantį Prekybos gamtin
 4. Biržos operatorius yra atsakingas, kad gamtinių dujų biržoje sudarytų sandorių pagrindu parduotas ir įsigytas gamtinių dujų kiekis sutaptų, o už gamtinių dujų biržoje parduotų gamtinių dujų kiekių patiekimą į perdavimo sistemą ir nupirktų gamtinių dujų kiekių paėmimą iš perdavimo sistemos yra atsakingas gamtinių dujų biržos dalyvis. 
 Straipsnio pakeitimai:
 Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
+
+
+
+
+5. Šio straipsnio 1–4 dalyse nustatyti reikalavimai, šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytos prekybos gamtinėmis dujomis, biržos operatoriaus priežiūros taisyklės ir reikalavimai netaikomi, kai biržos operatoriaus veiklą vykdo kitoje valstybėje narėje išduotą biržos operatoriaus veiklos licenciją turintis ūkio subjektas. Taryba ūkio subjekto, turinčio kitoje valstybėje narėje išduotą licenciją, suteikiančią teisę verstis biržos operatoriaus veikla, veiklos priežiūrą vykdo pagal 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo nuostatas.
+Papildyta straipsnio dalimi:
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
+ 
 
 
 Straipsnio pakeitimai:
@@ -3458,7 +3506,10 @@ PRIEIGOS PRIE SISTEMOS ORGANIZAVIMAS
 
 
 
-3. Sistemų operatoriai, vadovaudamiesi Tarybos paskelbtais reikalavimais, patvirtina naudojimosi sistema taisykles. Ne vėliau kaip prieš vieną mėnesį iki naudojimosi sistema taisyklių įsigaliojimo momento šias taisykles ir jų pakeitimus savo interneto svetainėje paskelbia Taryba ir sistemų operatoriai. Teisė naudotis sistemomis turi būti suteikiama objektyviai, nediskriminuojant sistemos naudotojų.
+3. Sistemų operatoriai, vadovaudamiesi Tarybos paskelbtais reikalavimais, patvirtina naudojimosi sistema taisykles. Taryba ir sistemų operatoriai naudojimosi sistema taisykles skelbia savo interneto svetainėse. Teisė naudotis sistemomis turi būti suteikiama objektyviai, nediskriminuojant sistemos naudotojų.
+Straipsnio dalies pakeitimai:
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
+ 
 
 
 
@@ -4485,3 +4536,8 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2 ir 13-1 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2841, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12636
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 9 straipsnio pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 9, 13-1, 19, 20, 37, 38, 49 ir 57 straipsnių pakeitimo įstatymas
