@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2024-12-01 iki 2025-04-30
+Suvestinė redakcija nuo 2025-05-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -39,7 +39,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Valstybės ir savivaldybių investavimas reglamentuotas Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos regioninės plėtros įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos nacionalinių plėtros įstaigų įstatyme ir Lietuvos Respublikos vietos savivaldos įstatyme.
+2. Valstybės ir savivaldybių investavimas reglamentuojamas Lietuvos Respublikos nacionalinio plėtros banko įstatyme, Lietuvos Respublikos regioninės plėtros įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme ir Lietuvos Respublikos vietos savivaldos įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XV-136, 2025-03-27, paskelbta TAR 2025-04-02, i. k. 2025-05777
+ 
 
 
 
@@ -281,9 +284,11 @@ Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
 
 
 
-27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties 
+27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos karo padėties įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“.
 Papildyta straipsnio dalimi:
 Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
+Straipsnio dalies pakeitimai:
+Nr. XV-136, 2025-03-27, paskelbta TAR 2025-04-02, i. k. 2025-05777
  
 
 
@@ -751,7 +756,9 @@ Nr. IX-450, 2001-07-11, Žin., 2001, Nr. 64-2329 (2001-07-25), i. k. 1011010ISTA
 
 
 
-4. Užsienio valstybės turi teisę įsigyti nuosavybėn žemę Lietuvos Respublikos žemės sklypų įsigijimo ir nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų įstatymo nustatyta tvarka.
+4. Užsienio valstybės turi teisę įsigyti nuosavybėn žemę Žemės įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XV-136, 2025-03-27, paskelbta TAR 2025-04-02, i. k. 2025-05777
  
 
 
@@ -1567,9 +1574,10 @@ Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
  
 
 
-1. Paraiška dėl stambaus projekto investicijų sutarties sudarymo teikiama, šio straipsnio 3 dalyje nustatytų sąlygų pagrindimas ir šių sąlygų pagrindimo, taip pat šio straipsnio 5 dalyje nurodytų interesų vertinimas atliekamas, Lietuvos Respublikos Vyriausybės įgaliotos institucijos veiksmai užtikrinant stambaus projekto atitikties viešajai tvarkai, nacionaliniam saugumui, visuomenės saugumui ir (ar) sveikatos interesams vertinimą, rengiant, derinant, sudarant ar vykdant stambaus projekto investicijų sutartį, stambaus projekto investicijų sutarties vykdymo priežiūra atliekama, taip pat šio įstatymo 157 straipsnyje nustatytos specialios investavimo ir verslo sąlygos stambaus projekto investicijų sutartyje nurodytiems stambiems projektams įgyvendinti taikomos Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
+1. Paraiška dėl stambaus projekto investicijų sutarties sudarymo teikiama, šio straipsnio 3 dalyje nustatytų sąlygų pagrindimas ir šių sąlygų pagrindimo, taip pat šio straipsnio 5 dalyje nurodytų interesų vertinimas atliekamas, Lietuvos Respublikos Vyriausybės įgaliotos institucijos veiksmai užtikrinant stambaus projekto atitikties viešajai tvarkai, nacionaliniam saugumui, visuomenės saugumui ir (ar) sveikatos interesams vertinimą, rengiant, derinant, sudarant ar vykdant stambaus projekto investicijų sutartį, stambaus projekto investicijų sutarties vykdymo priežiūra atliekami, taip pat šio įstatymo 157 straipsnyje nustatytos specialios investavimo ir verslo sąlygos stambaus projekto investicijų sutartyje nurodytiems stambiems projektams įgyvendinti taikomos Lietuvos Respublikos Vyriausybės nustatyta tvarka. Investuotojo prašymai dėl stambaus projekto investicijų sutarčių keitimo, kai prašoma pratęsti šio įstatymo 2 straipsnio 25 dalyje nurodytą terminą, teikiami, nagrinėjami ir sprendimai priimami šio įstatymo 157 straipsnio 22 dalyje nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
+Nr. XV-136, 2025-03-27, paskelbta TAR 2025-04-02, i. k. 2025-05777
  
 
 
@@ -1716,6 +1724,39 @@ Nr. XIV-2446, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25939
 
 
 
+21. Šio įstatymo 2 straipsnio 25 dalyje nurodytas penkerių metų terminas išimtinėmis aplinkybėmis gali būti pratęstas iki dvejų metų. Išimtinėmis aplinkybėmis, investuotojui įrodžius, jog dėl jų buvimo jis negali laikytis pagal šio įstatymo 2 straipsnio 25 dalį prisiimtų įsipareigojimų ar pagal šio įstatymo 2 straipsnio 25 dalį prisiimtų įsipareigojimų vykdymas atsiradus šioms aplinkybėms tampa sudėtingesnis, laikoma:
+
+
+1) valstybės ar savivaldybės institucijų ar įstaigų nustatytų funkcijų dėl investuotojo nevykdymas laiku;
+
+
+
+
+2) embargas, nepaprastosios padėties ar karo padėties įvedimas, ekstremaliosios situacijos paskelbimas;
+
+
+
+
+3) kitos, negu numatytos šios dalies 1 punkte, aplinkybės, nepriklausančios nuo investuotojo valios ir atitinkančios Lietuvos Respublikos civilinio kodekso 6.204 straipsnio 2 dalyje nustatytus kriterijus. 
+TAR pastaba. 157 straipsnio nuostatos taikomos ir iki 2025 m. balandžio 30 d. sudarytoms stambaus projekto investicijų sutartims, jas pakeitus šalių susitarimu.
+
+
+Papildyta straipsnio dalimi:
+Nr. XV-136, 2025-03-27, paskelbta TAR 2025-04-02, i. k. 2025-05777
+ 
+
+
+
+
+22. Investuotojas, atsiradus šio straipsnio 21 dalies 1–3 punktuose nurodytoms išimtinėms aplinkybėms, ne vėliau kaip per 30 darbo dienų nuo šių aplinkybių atsiradimo dienos gali pateikti Lietuvos Respublikos Vyriausybės įgaliotai institucijai (toliau – koordinatorius) motyvuotą prašymą dėl šio įstatymo 2 straipsnio 25 dalyje nurodyto termino pratęsimo, kartu pateikdamas prašymą pagrindžiančius dokumentus, jeigu tokie dokumentai galimi. Koordinatorius ne vėliau kaip per 10 darbo dienų nuo prašymo ir jį pagrindžiančių dokumentų (jeigu tokie dokumentai galimi) gavimo dienos įvertinęs, kad investuotojas pateiktame prašyme pagrindė išimtinių aplinkybių buvimą, priima sprendimą dėl stambaus projekto investicijų sutarties keitimo ir konkretaus termino, kuris būtinas šio įstatymo 2 straipsnio 25 dalyje nurodytiems įsipareigojimams įgyvendinti, nustatymo.
+TAR pastaba. 157 straipsnio 22 dalyje nustatytas 30 darbo dienų terminas skaičiuojamas nuo šio įstatymo įsigaliojimo dienos. 157 straipsnio nuostatos taikomos ir iki 2025 m. balandžio 30 d. sudarytoms stambaus projekto investicijų sutartims, jas pakeitus šalių susitarimu.
+Papildyta straipsnio dalimi:
+Nr. XV-136, 2025-03-27, paskelbta TAR 2025-04-02, i. k. 2025-05777
+ 
+
+
+
+
 3. Viešojo administravimo subjektai stambiam projektui įgyvendinti arba laisvosios ekonominės zonos įmonei reikalingas administracines paslaugas (išskyrus administracinės procedūros atlikimą) suteikia ir individualius administracinius aktus priima prioriteto tvarka per kuo trumpesnį terminą, tačiau visais atvejais ne vėliau kaip per 3 darbo dienas nuo reikiamų dokumentų ir informacijos gavimo, nebent teisės aktuose yra nustatyti trumpesni terminai. Viešojo administravimo subjekto vadovo sprendimu šis terminas dėl svarbių priežasčių gali būti pratęstas iki 3 darbo dienų. Apie administracinės paslaugos suteikimą (išskyrus administracinės procedūros atlikimą) ar individualaus administracinio akto priėmimą investuotojas ir (ar) kiti asmenys, kuriems teisės aktų nustatytais atvejais teikiama ši informacija, informuojami nedelsiant, bet ne vėliau kaip per vieną darbo dieną. Šioje dalyje nustatytas sutrumpintas administracinių paslaugų suteikimo ir individualių administracinių aktų priėmimo terminas netaikomas:
 
 
@@ -1835,7 +1876,10 @@ Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
 
 
 
-2. Stambaus projekto įgyvendinimą koordinuoja Lietuvos Respublikos Vyriausybės įgaliota institucija (toliau – koordinatorius). 
+2. Stambaus projekto įgyvendinimą koordinuoja koordinatorius. 
+Straipsnio dalies pakeitimai:
+Nr. XV-136, 2025-03-27, paskelbta TAR 2025-04-02, i. k. 2025-05777
+ 
 
 
 
@@ -1843,9 +1887,10 @@ Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
 3. Koordinatorius atlieka šias funkcijas: 
 
 
-1) organizuoja šio įstatymo 156 straipsnio 3 dalyje ir 156 straipsnio 5 dalyje nurodytų sąlygų vertinimą, teikia informaciją ir konsultuoja investuotoją stambaus projekto investicijų sutarties sudarymo ir vykdymo klausimais; 
+1) organizuoja šio įstatymo 156 straipsnio 3 dalyje ir 156 straipsnio 5 dalyje nurodytų sąlygų vertinimą, teikia informaciją ir konsultuoja investuotoją stambaus projekto investicijų sutarties sudarymo ir vykdymo klausimais, nagrinėja prašymus ir priima sprendimus, nurodytus šio įstatymo 157 straipsnio 21 dalyje;
 Straipsnio punkto pakeitimai:
 Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
+Nr. XV-136, 2025-03-27, paskelbta TAR 2025-04-02, i. k. 2025-05777
  
 
 
@@ -2117,3 +2162,8 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-5 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 4, 13, 15-6, 15-8 straipsnių ir ketvirtojo-1 skirsnio pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-136, 2025-03-27, paskelbta TAR 2025-04-02, i. k. 2025-05777
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 10, 15-6, 15-7 ir 15-8 straipsnių pakeitimo įstatymas
