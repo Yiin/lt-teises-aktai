@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2024-12-30 iki 2025-04-30
+Suvestinė redakcija nuo 2025-05-01
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
  
@@ -466,7 +466,10 @@ APSKAITOS DOKUMENTAI IR APSKAITOS REGISTRAI
 
 
 
-5) ūkinės operacijos rezultatas pinigine ir (arba) kiekybine išraiška. Kai ūkinės operacijos rezultatas nurodomas kiekybine išraiška, turi būti nurodyti mato vienetai;
+5) ūkinės operacijos rezultatas pinigine ir (arba) kiekybine išraiška. Taikant Lietuvos Respublikos atsiskaitymų grynaisiais pinigais sumų apvalinimo įstatymą, apskaitos dokumentuose, išskyrus pridėtinės vertės mokesčio sąskaitas faktūras, be kitų rekvizitų, turi būti nurodoma apvalinimo suma, lygi bendros mokėtinos sumos už vienu metu grąžinamas (grąžinamą) prekes (prekę), įsigyjamas ar parduodamas prekes (paslaugas) ir bendros mokėtinos sumos, pritaikius apvalinimą, skirtumui, ir bendra mokėtina suma, pritaikius apvalinimą. Kai ūkinės operacijos rezultatas nurodomas kiekybine išraiška, turi būti nurodyti mato vienetai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2516, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06303
+ 
 
 
 
