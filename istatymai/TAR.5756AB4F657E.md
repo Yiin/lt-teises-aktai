@@ -21,7 +21,7 @@ PRIEŽIŪROS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2024-11-01 iki 2025-04-30
+Suvestinė redakcija nuo 2025-05-01
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 76-3848, i. k. 1131010ISTA0XII-459
  
@@ -2573,6 +2573,19 @@ BAIGIAMOSIOS NUOSTATOS
  
 
 
+
+
+
+
+341 straipsnis. Inspekcijos pareigūnų profesinės civilinės atsakomybės draudimas
+
+
+Inspekcijos pareigūnų profesinė civilinė atsakomybė už žalą, padarytą atliekant tarnybines funkcijas fiziniams ir (ar) juridiniams asmenims, draudžiama civilinės atsakomybės draudimu iš Inspekcijai skirtų asignavimų.
+
+
+Papildyta straipsniu:
+Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
+ 
 
 
 
