@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2024-12-01 iki 2025-04-30
+Suvestinė redakcija nuo 2025-05-01 iki 2025-06-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
  
@@ -303,9 +303,11 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 
 
 
-31. Šiame įstatyme vartojama sąvoka „kontroliuojantis asmuo“ suprantama taip, kaip Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme apibrėžiama sąvoka „naudos gavėjas“. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme.
+31. Šiame įstatyme vartojama sąvoka „kontroliuojantis asmuo“ suprantama taip, kaip Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme apibrėžiama sąvoka „naudos gavėjas“. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos mokėjimų įstatyme.
 Papildyta straipsnio dalimi:
 Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+Straipsnio dalies pakeitimai:
+Nr. XV-107, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00717
  
 
 
@@ -2321,44 +2323,55 @@ Nr. XII-2588, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20336
 
 
 
-207 straipsnis. Kovos su nelegalios nuotolinių lošimų veiklos vykdytojais priemonės
+207 straipsnis. Kovos su nelegalios nuotolinių lošimų veiklos vykdytojais priemonės ir atsiskaitymų už dalyvavimą nelegaliuose nuotoliniuose lošimuose ribojimo tvarka
 
 
-1. Priežiūros tarnyba, atlikusi tyrimą ir nustačiusi, kad nelegalios lošimų veiklos vykdytojas Lietuvos Respublikoje organizuoja nuotolinius lošimus, turi teisę:
+1. Priežiūros tarnyba, atlikusi tyrimą ir nustačiusi, kad nelegalios lošimų veiklos vykdytojas Lietuvos Respublikoje organizuoja nuotolinius lošimus, duoda vieną ar abu privalomuosius nurodymus:
 
 
-1) duoti privalomus nurodymus mokėjimo, kredito ar kitai finansų įstaigai iki 5 dienų sustabdyti mokėjimus ar kitas finansines operacijas, susijusias su nelegalią nuotolinių lošimų veiklą Lietuvos Respublikoje vykdančiu subjektu, įskaitant atsiskaitymus už dalyvavimą nelegalios lošimų veiklos vykdytojų organizuojamuose lošimuose, laimėjimų išmokėjimus, statomų sumų priėmimus nelegaliai lošimus organizuojančio subjekto naudai;
-
-
-
-
-2) duoti privalomus nurodymus mokėjimo, kredito ar kitai finansų įstaigai nutraukti mokėjimus ar kitas finansines operacijas, susijusias su nelegalią nuotolinių lošimų veiklą Lietuvos Respublikoje vykdančiu subjektu, įskaitant atsiskaitymus už dalyvavimą nelegalios lošimų veiklos vykdytojų organizuojamuose nuotoliniuose lošimuose, laimėjimų išmokėjimus, statomų sumų priėmimus nelegaliai lošimus organizuojančio subjekto naudai;
+1) mokėjimo paslaugų teikėjui nedelsiant, ne vėliau kaip per vieną darbo dieną nuo privalomojo nurodymo gavimo dienos, nutraukti visas mokėjimo operacijas su nelegalios lošimų veiklos vykdytoju;
 
 
 
 
-3) Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka duoti privalomus nurodymus pašalinti informaciją, kuri naudojama siekiant nelegaliai vykdyti nuotolinius lošimus, arba panaikinti galimybę šią informaciją pasiekti.
+2) Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka pašalinti informaciją, kuri naudojama siekiant nelegaliai vykdyti nuotolinius lošimus, arba panaikinti galimybę šią informaciją pasiekti.
 
 
 
 
 
 
-2. Priežiūros tarnyba, siekdama atlikti šio straipsnio 1 dalies 1 ir 2 punktuose nurodytus veiksmus, privalo pateikti prašymą išduoti leidimą atlikti veiksmus pirmosios instancijos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus turi būti nurodyta įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Pirmosios instancijos administracinis teismas prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus patenkinti arba atmesti. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 3 dienas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Priežiūros tarnyba nesutinka su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, ji turi teisę per 7 dienas nuo tokios nutarties priėmimo apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo nutarties atmesti prašymą išduoti leidimą atlikti veiksmus ne vėliau kaip per 7 dienas nuo Priežiūros tarnybos skundo priėmimo dienos. Priežiūros tarnybos atstovas turi teisę dalyvauti, kai skundas nagrinėjamas žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+2. Priežiūros tarnyba, siekdama duoti šio straipsnio 1 dalies 1 punkte nurodytą nurodymą, per 3 darbo dienas nuo nelegalios nuotolinių lošimų veiklos nustatymo dienos privalo pateikti prašymą išduoti leidimą taikyti privalomąjį nurodymą pirmosios instancijos administraciniam teismui. Prašyme išduoti leidimą taikyti privalomąjį nurodymą turi būti nurodyta įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Pirmosios instancijos administracinis teismas prašymą išduoti leidimą taikyti privalomąjį nurodymą išnagrinėja ir priima motyvuotą nutartį šį prašymą patenkinti arba atmesti. Prašymas išduoti leidimą taikyti privalomąjį nurodymą turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 3 darbo dienas nuo prašymo išduoti leidimą taikyti privalomąjį nurodymą pateikimo momento. Jeigu Priežiūros tarnyba nesutinka su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą išduoti leidimą taikyti privalomąjį nurodymą, ji turi teisę per 7 darbo dienas nuo tokios nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo nutarties atmesti prašymą išduoti leidimą taikyti privalomąjį nurodymą ne vėliau kaip per 7 darbo dienas nuo Priežiūros tarnybos skundo priėmimo dienos. Priežiūros tarnybos atstovas turi teisę dalyvauti, kai skundas nagrinėjamas žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo taikyti privalomąjį nurodymą išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
 
 
 
 
-3. Priežiūros tarnyba informaciją apie nustatytus nelegalios lošimų veiklos vykdytojus, kurie Lietuvos Respublikoje neteisėtai organizuoja nuotolinius lošimus, skelbia viešai ir praneša, kad nurodyta nuotolinio lošimo paslaugų teikimo veikla yra vykdoma nelegaliai.
+3. Priežiūros tarnyba informaciją apie nustatytus nelegalios lošimų veiklos vykdytojus, kurie Lietuvos Respublikoje neteisėtai organizuoja nuotolinius lošimus, tai yra šie vykdytojai neįtraukti į Priežiūros tarnybos sudaromą subjektų, turinčių teisę vykdyti nuotolinių lošimų veiklą Lietuvos Respublikoje, sąrašą (toliau šiame straipsnyje – Sąrašas), skelbia savo interneto svetainėje nedelsdama, ne vėliau kaip per 5 darbo dienas nuo nutarties patenkinti prašymą išduoti leidimą taikyti privalomąjį nurodymą priėmimo dienos, ir nurodo nelegalios lošimų veiklos vykdytojo – juridinio asmens pavadinimą arba fizinio asmens vardą ir pavardę, interneto domeno vardą, juridinio asmens kontaktinius duomenis (elektroninio pašto adresą, ryšio numerį), teismo, kuris priėmė nutartį patenkinti prašymą išduoti leidimą taikyti privalomąjį nurodymą, pavadinimą, nutarties priėmimo datą ir numerį. Informacija apie nustatytus nelegalios lošimų veiklos vykdytojus skelbiama, iki pažeidimas pašalinamas, tai yra nelegalios lošimų veiklos vykdytojas nebeorganizuoja nuotolinių lošimų Lietuvos Respublikoje.
 
 
 
 
-4. Atsiskaitymų už dalyvavimą nelegalios lošimų veiklos vykdytojų organizuojamuose nuotoliniuose lošimuose ir laimėjimų išmokėjimo per Lietuvos Respublikoje veikiančius bankus ar kitas finansų įstaigas ribojimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+4. Mokėjimo paslaugų teikėjas privalo vykdyti tik su į Sąrašą įtrauktais subjektais mokėjimo kortele inicijuojamas mokėjimo operacijas ir (ar) mokėjimo kortele inicijuojamas nuotolines mokėjimo operacijas, skirtas statomoms sumoms priimti ir (ar) laimėjimams išmokėti. Ši nuostata netaikoma, kai Lietuvos Respublikoje veikiantis mokėjimo paslaugų teikėjas vykdo kitose negu Lietuvos Respublikos jurisdikciją turinčiose teritorijose mokėjimo kortele inicijuotas mokėjimo operacijas ir (ar) mokėjimo kortele inicijuotas nuotolines mokėjimo operacijas, skirtas statomoms sumoms priimti ir (ar) laimėjimams išmokėti.
+
+
+
+
+5. Subjektas į Sąrašą įtraukiamas licencijos (leidimo) organizuoti nuotolinius lošimus išdavimo jam dieną, o iš Sąrašo išbraukiamas licencijos (leidimo) organizuoti nuotolinius lošimus panaikinimo dieną. Sąrašą, kuriame nurodomas juridinio asmens pavadinimas, kodas, sąskaitos numeris, mokėjimo kortelių schemose, kaip jos apibrėžiamos 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 2015/751 dėl tarpbankinių mokesčių už kortelėmis grindžiamas mokėjimo operacijas, priskirtas unikalus prekybininko identifikavimo numeris, savo interneto svetainėje skelbia Priežiūros tarnyba. Priežiūros tarnyba atnaujina Sąrašą tą pačią dieną, kurią subjektui išduodama arba panaikinama licencija (leidimas) organizuoti nuotolinius lošimus.
+
+
+
+
+6. Atsiskaitymų už dalyvavimą nelegalios lošimų veiklos vykdytojų organizuojamuose nuotoliniuose lošimuose per Lietuvos Respublikoje veikiančius mokėjimo paslaugų teikėjus ribojimo tvarką detalizuoja Priežiūros tarnyba, suderinusi šią tvarką su Lietuvos banku.
+
+
+
+
+7. Šio straipsnio 3 dalyje nurodytos informacijos skelbimo tikslas – užtikrinti viešąjį interesą ir visuomenės saugumą, kovojant su nelegalia nuotolinių lošimų veikla, įskaitant nelegalios nuotolinių lošimų veiklos prevenciją, bet tuo neapsiribojant, taip pat užtikrinti skaidrumą, visuomenę informuojant apie nelegalios lošimų veiklos vykdytojus, siekiant užkirsti kelią nelegaliai veiklai, kuri kelia finansines ir socialines grėsmes pažeidžiamoms visuomenės grupėms. 
 
 
 Straipsnio pakeitimai:
 Nr. XIV-2142, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14038
+Nr. XV-107, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00717
  
 
 
@@ -3241,10 +3254,15 @@ Priežiūros tarnyba, atlikdama jai pavestas funkcijas:
 
 
 
-8) valdo LAKIS. 
-Straipsnio pakeitimai:
-Nr. IX-1843, 2003-11-25, Žin., 2003, Nr. 116-5249 (2003-12-12)
-Nr. XI-1578, 2011-09-15, Žin., 2011, Nr. 119-5611 (2011-10-01)
+8) valdo LAKIS;
+
+
+
+
+9) sudaro ir tvarko subjektų, turinčių teisę vykdyti nuotolinių lošimų veiklą Lietuvos Respublikoje, sąrašą.
+Papildyta straipsnio punktu:
+Nr. XV-107, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00717
+ 
 
 
 
@@ -3722,3 +3740,8 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 6, 7-1, 7-2, 7-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 1, 2, 7-3, 10, 10-1, 16, 20, 20-1, 20-3, 21, 22, 23, 26, 28, 29-1, 29-2 straipsnių ir trečiojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 2-1, 10-4, 15-1, 16-1 straipsniais ir 20-4, 20-6 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-107, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00717
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 20-7 ir 29 straipsnių pakeitimo įstatymas
