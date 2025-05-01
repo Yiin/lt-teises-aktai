@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E90A0DD29952"
 
 # Lietuvos Respublikos loterijų įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2025-04-30
+Suvestinė redakcija nuo 2025-05-01
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3341, i. k. 1031010ISTA0IX-1661
  
@@ -768,6 +768,14 @@ Nr. XIV-2548, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07550
 
 
 
+31) pranešti priežiūros institucijai apie loterijų organizatoriaus pasirinktus loterijos, kurios bilietai platinami interneto ryšiu, bilietų platintojus per 5 darbo dienas nuo sutarties sudarymo dienos, bet ne vėliau kaip prieš vieną darbo dieną iki sutartyje su loterijos bilietų platintoju numatytos loterijos bilietų platinimo dienos;
+Papildyta straipsnio punktu:
+Nr. XV-108, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00695
+ 
+
+
+
+
 4) Neteko galios nuo 2022-07-01
 Straipsnio punkto naikinimas:
 Nr. XIV-601, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23522
@@ -1101,6 +1109,29 @@ Nr. XIV-1184, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15166
  
 
 
+
+
+
+
+281 straipsnis. Atsiskaitymai už dalyvavimą loterijose, kurių bilietai platinami interneto ryšiu 
+
+
+1. Mokėjimo paslaugų teikėjas privalo vykdyti tik su į subjektų, turinčių teisę vykdyti loterijų veiklą Lietuvos Respublikoje, ir (ar) jų pasirinktų loterijos bilietų platintojų sąrašą (toliau šiame straipsnyje – Sąrašas) įtrauktais subjektais mokėjimo kortele inicijuojamas mokėjimo operacijas ir (ar) mokėjimo kortele inicijuojamas nuotolines mokėjimo operacijas, skirtas laimėjimams išmokėti ir (ar) įmokoms už loterijos bilietų, kurie platinami interneto ryšiu, įsigijimą priimti. Ši nuostata netaikoma, kai Lietuvos Respublikoje veikiantis mokėjimo paslaugų teikėjas vykdo kitose negu Lietuvos Respublikos jurisdikciją turinčiose teritorijose mokėjimo kortele inicijuotas mokėjimo operacijas ir (ar) mokėjimo kortele inicijuotas nuotolines mokėjimo operacijas, skirtas laimėjimams išmokėti ir (ar) įmokoms už loterijos bilietų, kurie platinami interneto ryšiu, įsigijimą priimti.
+
+
+
+
+2. Subjektas į Sąrašą įtraukiamas licencijos išdavimo jam dieną, o iš Sąrašo išbraukiamas licencijos panaikinimo dieną. Sąrašą, kuriame nurodomas juridinio asmens pavadinimas, juridinio asmens kodas, sąskaitos numeris, mokėjimo kortelių schemose, kaip jos apibrėžiamos 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 2015/751 dėl tarpbankinių mokesčių už kortelėmis grindžiamas mokėjimo operacijas, priskirtas unikalus prekybininko identifikavimo numeris, sudaro ir savo interneto svetainėje skelbia priežiūros institucija. Priežiūros institucija atnaujina Sąrašą tą pačią dieną, kurią subjektui išduodama arba panaikinama licencija ir (ar) loterijos organizatorius apie pasikeitusį savo pasirinktą loterijos bilietų platintoją informuoja priežiūros instituciją.
+
+
+
+
+3. Atsiskaitymo už dalyvavimą loterijoje, kurios bilietai platinami interneto ryšiu, per Lietuvos Respublikoje veikiančius mokėjimo paslaugų teikėjus ribojimo tvarką detalizuoja priežiūros institucija, suderinusi šią tvarką su Lietuvos banku.
+
+
+Papildyta straipsniu:
+Nr. XV-108, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00695
+ 
 
 
 
@@ -1483,7 +1514,14 @@ Priežiūros institucija, įgyvendindama šio įstatymo nuostatas:
 
 
 
-4) kelia licencijų duomenis į Licencijų informacinę sistemą.
+4) kelia licencijų duomenis į Licencijų informacinę sistemą;
+
+
+
+
+5) sudaro ir tvarko subjektų, turinčių teisę vykdyti loterijų veiklą Lietuvos Respublikoje, ir (ar) jų pasirinktų loterijos bilietų platintojų sąrašą.
+Papildyta straipsnio punktu:
+Nr. XV-108, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00695
  
 
 
@@ -1608,3 +1646,8 @@ Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 28 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2548, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07550
 Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 2, 11, 16, 18, 28 ir 29 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-108, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00695
+Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 18 ir 37 straipsnių pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas
