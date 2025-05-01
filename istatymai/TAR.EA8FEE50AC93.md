@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea8fee50ac9311e6b844f0f29024f5ac"
 
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas
 
-Suvestinė redakcija nuo 2025-02-01 iki 2025-04-30
+Suvestinė redakcija nuo 2025-05-01 iki 2025-12-31
  
 Įstatymas paskelbtas: TAR 2016-11-17, i. k. 2016-26968
  
@@ -198,12 +198,18 @@ Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
 
 
 
-7. Fiksuotoji kredito palūkanų norma – kredito palūkanų norma, kuri nėra keičiama visą kredito sutarties galiojimo laikotarpį.
+7. Fiksuotoji kredito palūkanų norma – kredito davėjo ar paskolos davėjo ir kredito gavėjo susitarta viena kredito palūkanų norma, nustatyta visam kredito sutarties galiojimo laikotarpiui, arba viena ar kelios kredito palūkanų normos daliniams laikotarpiams, išimtinai taikant fiksuotą konkretų palūkanų procentinį dydį. Jeigu kredito sutartyje nustatytos ne visos kredito palūkanų normos, laikoma, kad kredito palūkanų norma yra fiksuota tik daliniams kredito sutarties laikotarpiams, kurių metu galioja konkretaus procentais išreikšto dydžio kredito palūkanų norma, dėl kurios susitarta sudarant kredito sutartį. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+ 
 
 
 
 
-8. Kintamoji kredito palūkanų norma – kredito palūkanų norma, kuri reguliariai arba pagal kredito sutartyje numatytas sąlygas ir terminus keičiama kredito sutarties galiojimo laikotarpiu.
+8. Neteko galios nuo 2025-05-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+ 
 
 
 
@@ -633,7 +639,34 @@ Kredito davėjas ir kredito tarpininkas, jeigu kredito sutartį siūlo sudaryti 
 
 
 
-4. Kredito davėjas ir (arba) kredito tarpininkas, pateikdami kredito gavėjui įpareigojantį pasiūlymą suteikti kreditą, kuris privalo būti pateikiamas raštu popieriuje ar kitoje patvariojoje laikmenoje, kartu turi pateikti standartinę informaciją apie kreditą, kai:
+4. Įgyvendindami šio straipsnio 1 dalyje nustatytą reikalavimą, kredito davėjas ir (arba) kredito tarpininkas privalo kredito gavėjui pateikti bent du pasiūlymus suteikti kreditą ir standartinę informaciją apie kreditą, kurio palūkanų norma yra kintamoji, ir standartinę informaciją apie kreditą, kurio palūkanų norma yra fiksuota bent penkerių metų laikotarpiui, o jeigu kredito davėjas dėl objektyvių priežasčių negali pateikti pasiūlymo suteikti kreditą, kurio palūkanų norma fiksuota bent penkerių metų laikotarpiui, kredito davėjas ir (arba) kredito tarpininkas, pateikdami pasiūlymą suteikti kreditą, kurio palūkanų norma yra kintamoji, privalo pasiūlyti kredito gavėjui priemonę, skirtą kintamosios kredito palūkanų normos svyravimo rizikai sumažinti ir (arba) jai valdyti bent penkerių metų laikotarpiu. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+ 
+
+
+
+
+5. Šio straipsnio 4 dalyje nustatyti reikalavimai taikomi tik šio įstatymo 2 straipsnio 1 dalies 1 punkte nurodytoms kredito sutartims ir tik tuo atveju, kai kredito davėjo visų suteiktų kreditų likusi nominalioji vertė kalendorinio ketvirčio pabaigoje yra lygi arba viršija 50 milijonų eurų 2 kalendorinius ketvirčius iš eilės. Kredito davėjas ir (arba) kredito tarpininkas privalo pradėti laikytis šių reikalavimų ne vėliau kaip per 6 mėnesius nuo tada, kai kredito davėjo veikla atitinka šioje dalyje nurodytą sąlygą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+ 
+
+
+
+
+6. Šio straipsnio 4 dalyje nustatyti reikalavimai nebetaikomi, jeigu kredito davėjo visų suteiktų kreditų likusi nominalioji vertė kalendorinio ketvirčio pabaigoje yra mažesnė negu 50 milijonų eurų 4 kalendorinius ketvirčius iš eilės. Šie reikalavimai kredito davėjui nebetaikomi nuo kito ketvirčio, einančio po 4 šioje dalyje nurodytų kalendorinių ketvirčių, pradžios. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+ 
+
+
+
+
+7. Kredito davėjas ir (arba) kredito tarpininkas, pateikdami kredito gavėjui įpareigojantį pasiūlymą suteikti kreditą, kuris privalo būti pateikiamas raštu popieriuje ar kitoje patvariojoje laikmenoje, kartu turi pateikti standartinę informaciją apie kreditą, kai:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+ 
 
 
 1) standartinė informacija apie kreditą kredito gavėjui nebuvo pateikta anksčiau arba
@@ -648,24 +681,35 @@ Kredito davėjas ir kredito tarpininkas, jeigu kredito sutartį siūlo sudaryti 
 
 
 
-5. Jeigu įpareigojančiame pasiūlyme suteikti kreditą nurodyta kredito palūkanų norma arba kitos su kredito sutartimi susijusios išlaidos yra nustatomos remiantis susijusių obligacijų arba kitų ilgalaikių finansavimo priemonių pardavimo rezultatais, pagal kredito sutartį taikoma kredito palūkanų norma arba kitos su kredito sutartimi susijusios išlaidos gali skirtis nuo nurodytųjų įpareigojančiame pasiūlyme, atsižvelgiant į susijusių obligacijų arba kitų ilgalaikių finansavimo priemonių vertę.
+8. Jeigu įpareigojančiame pasiūlyme suteikti kreditą nurodyta kredito palūkanų norma arba kitos su kredito sutartimi susijusios išlaidos yra nustatomos remiantis susijusių obligacijų arba kitų ilgalaikių finansavimo priemonių pardavimo rezultatais, pagal kredito sutartį taikoma kredito palūkanų norma arba kitos su kredito sutartimi susijusios išlaidos gali skirtis nuo nurodytųjų įpareigojančiame pasiūlyme, atsižvelgiant į susijusių obligacijų arba kitų ilgalaikių finansavimo priemonių vertę.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+ 
 
 
 
 
-6. Kai kredito sutartis sudaroma naudojant nuotolinio ryšio priemones, laikoma, kad reikalavimai dėl informacijos teikimo kredito gavėjui, nustatyti Lietuvos Respublikos vartotojų teisių apsaugos įstatymo 36 straipsnio 5–9 ir 15 dalyse, yra įvykdyti, jeigu iki kredito sutarties sudarymo kredito gavėjui buvo pateikta standartinė informacija apie kreditą pagal šio straipsnio nuostatas.
+9. Kai kredito sutartis sudaroma naudojant nuotolinio ryšio priemones, laikoma, kad reikalavimai dėl informacijos teikimo kredito gavėjui, nustatyti Lietuvos Respublikos vartotojų teisių apsaugos įstatymo 36 straipsnio 5–9 ir 15 dalyse, yra įvykdyti, jeigu iki kredito sutarties sudarymo kredito gavėjui buvo pateikta standartinė informacija apie kreditą pagal šio straipsnio nuostatas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+ 
 
 
 
 
-7. Jeigu su kredito gavėju bendraujama telefonu, kaip nustatyta Vartotojų teisių apsaugos įstatymo 36 straipsnio 12 ir 13 dalyse, jam būtinai turi būti pateikta bent informacija apie pagrindinius kredito ypatumus, kredito palūkanų normą ir kitas išlaidas, kredito įmokų mokėjimo periodiškumą ir skaičių bei kiekvienos kredito įmokos sumą. 
+10. Jeigu su kredito gavėju bendraujama telefonu, kaip nustatyta Vartotojų teisių apsaugos įstatymo 36 straipsnio 12 ir 13 dalyse, jam būtinai turi būti pateikta bent informacija apie pagrindinius kredito ypatumus, kredito palūkanų normą ir kitas išlaidas, kredito įmokų mokėjimo periodiškumą ir skaičių bei kiekvienos kredito įmokos sumą. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+ 
 
 
 
 
-8. Kredito davėjas ir (arba) kredito tarpininkas, pateikdami kredito gavėjui įpareigojantį pasiūlymą suteikti kreditą, informuoja kredito gavėją apie jo teisę gauti kredito sutarties projekto kopiją ir kredito gavėjo prašymu kartu neatlygintinai pateikia kredito sutarties projekto kopiją.
+11. Kredito davėjas ir (arba) kredito tarpininkas, pateikdami kredito gavėjui įpareigojantį pasiūlymą suteikti kreditą, informuoja kredito gavėją apie jo teisę gauti kredito sutarties projekto kopiją ir kredito gavėjo prašymu kartu neatlygintinai pateikia kredito sutarties projekto kopiją.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
  
 
 
@@ -1044,7 +1088,10 @@ KREDITO SUTARTIS
 
 
 
-5) kredito palūkanų normos rūšis, dydis, apskaičiavimo tvarka. Kai teikiamas kreditas, kurio palūkanų norma yra kintamoji, turi būti nurodytas kredito davėjo taikomos maržos dydis ir kintamoji palūkanų normos dalis;
+5) kredito palūkanų normos rūšis, dydis, apskaičiavimo tvarka. Kai teikiamas kreditas, kurio palūkanų norma yra kintamoji, turi būti nurodytas kredito davėjo taikomos maržos dydis ir kintamoji palūkanų normos dalis ir, jeigu taikytina, priemonė, skirta kintamosios kredito palūkanų normos svyravimo rizikai sumažinti ir (arba) jai valdyti. Kai teikiamas kreditas, kurio palūkanų norma fiksuota daliniam laikotarpiui, turi būti nurodyta ir kintamoji kredito palūkanų norma (kredito davėjo taikomos maržos dydis ir kintamoji palūkanų normos dalis), kuri bus taikoma pasibaigus laikotarpiui, kurio metu buvo taikoma fiksuotoji kredito palūkanų norma, jeigu kredito sutarties šalys iki šio laikotarpio pabaigos nesusitars dėl kitos fiksuotosios kredito palūkanų normos;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+ 
 
 
 
@@ -1217,7 +1264,10 @@ Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
 
 
 
-17 straipsnis. Informavimas apie kredito palūkanų normos pasikeitimus
+17 straipsnis. Informavimas apie kredito palūkanų normos pasikeitimus ir kita viešai skelbiama informacija ir duomenys 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+ 
 
 
 1. Kredito davėjas privalo raštu popieriuje ar kitoje patvariojoje laikmenoje pateikiamu pranešimu informuoti kredito gavėją apie kredito palūkanų normos pakeitimus. Šis pranešimas pateikiamas ne vėliau kaip likus 3 dienoms iki kredito palūkanų normos pakeitimo įsigaliojimo ir jame turi būti nurodytas kredito įmokos dydis įsigaliojus pakeistai kredito palūkanų normai ir, jeigu keičiasi kredito įmokų skaičius ir mokėjimo periodiškumas, pateikiami atitinkami duomenys apie tokį pakeitimą. 
@@ -1231,6 +1281,14 @@ Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
 
 
 3. Jeigu kredito palūkanų normos pakeitimai nustatomi aukcione kapitalo rinkose ir dėl to kredito davėjas negali informuoti kredito gavėjo apie kredito palūkanų normos pakeitimą iki pakeitimo įsigaliojimo, kredito davėjas likus pakankamai laiko iki aukciono raštu popieriuje ar kitoje patvariojoje laikmenoje pateikiamu pranešimu informuoja kredito gavėją apie būsimą procedūrą ir nurodo, kokį poveikį tai gali turėti kredito palūkanų normai.
+
+
+
+
+4. Pranešime apie kredito palūkanų normos pasikeitimus kredito davėjas privalo pateikti nuorodas į priežiūros institucijos interneto svetainėje viešai skelbiamus statistinius duomenis apie kredito sutartims taikomą kredito palūkanų normą, bendrą kredito kainą ir bendro pobūdžio informaciją apie kredito refinansavimą.
+Papildyta straipsnio dalimi:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+ 
 
 
 
@@ -1275,7 +1333,10 @@ Nr. XIV-2897, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13506
 
 
 
-18 straipsnis. Kintamoji kredito palūkanų norma
+18 straipsnis. Kintamoji kredito palūkanų norma ir fiksuotoji kredito palūkanų norma 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+ 
 
 
 1. Kai kredito sutartyje nustatyta kintamoji kredito palūkanų norma, kredito davėjas užtikrina, kad indeksas arba kitas rodiklis, taikomas apskaičiuojant kintamosios kredito palūkanų normos kintamąją dalį, būtų aiškus, prieinamas, objektyvus ir jį galėtų patikrinti kredito sutarties šalys ir priežiūros institucija.
@@ -1284,6 +1345,14 @@ Nr. XIV-2897, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13506
 
 
 2. Kredito davėjas privalo saugoti duomenis apie indeksus ar kitus rodiklius, kurie buvo naudojami apskaičiuojant kintamosios kredito palūkanų normos kintamąją dalį, iki įsipareigojimų pagal kredito sutartį įvykdymo dienos. 
+
+
+
+
+3. Fiksuotoji kredito palūkanų norma turi būti protingai, pagrįstai nustatyta ir turi atitikti sąžiningos verslo praktikos reikalavimus. Fiksuotoji kredito palūkanų norma neatitinka šioje dalyje nurodytų reikalavimų, jeigu yra didesnė negu kredito davėjo siūloma kintamoji kredito palūkanų norma daugiau, negu tai būtų pagrindžiama objektyviu kredito, kurio palūkanų norma yra kintamoji, ir kredito, kurio palūkanų norma yra fiksuotoji, finansavimo ir administravimo sąnaudų kredito davėjui skirtumu bei kredito rizikos ir palūkanų normų rizikos skirtumu. Fiksuotosios kredito palūkanų normos nustatymo kriterijai ir procedūra nustatomi kredito davėjo vidaus teisės aktuose. Šioje dalyje nurodyti reikalavimai mutatis mutandis taikomi ir priemonės, skirtos kintamosios kredito palūkanų normos svyravimo rizikai sumažinti ir (arba) jai valdyti, kainai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+ 
 
 
 
@@ -1339,7 +1408,10 @@ Nr. XIV-2897, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13506
 
 
 
-4. Šio straipsnio 3 dalyje nurodytos kompensacijos kredito davėjas ir paskolos davėjas negali reikalauti, kai kredito gavėjas kreditą ar jo dalį grąžina kintamosios kredito palūkanų normos keitimo dieną.
+4. Šio straipsnio 3 dalyje nurodytos kompensacijos kredito davėjas ir paskolos davėjas negali reikalauti, kai kredito gavėjas kreditą ar jo dalį grąžina kintamosios kredito palūkanų normos keitimo dieną ar daliniam laikotarpiui fiksuotos kredito palūkanų normos keitimo dieną.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+ 
 
 
 
