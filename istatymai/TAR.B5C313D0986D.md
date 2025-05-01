@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b5c313d0986d11eb9fecb5ecd3bd711c"
 
 # Lietuvos Respublikos alternatyviųjų degalų įstatymas
 
-Suvestinė redakcija nuo 2025-02-01 iki 2025-04-30
+Suvestinė redakcija nuo 2025-05-01
  
 Įstatymas paskelbtas: TAR 2021-04-08, i. k. 2021-07413
  
@@ -81,7 +81,10 @@ Nr. XIV-2966, 2024-08-13, paskelbta TAR 2024-08-23, i. k. 2024-14756
 
 
 
-5. Degalų iš atsinaujinančių energijos išteklių apskaitos vienetas (toliau – DAEI apskaitos vienetas) – apskaitos vienetas, kuris Degalų iš atsinaujinančių energijos išteklių apskaitos vienetų sistemoje skiriamas už vidaus rinkoje parduotus degalus iš atsinaujinančių energijos išteklių ir naudojamas degalų ir transporto sektoriaus gamtinių dujų tiekėjų įpareigojimų įvykdymui vertinti. 
+5. Degalų iš atsinaujinančių energijos išteklių apskaitos vienetas (toliau – DAEI apskaitos vienetas) – apskaitos vienetas, kuris Degalų iš atsinaujinančių energijos išteklių apskaitos vienetų sistemoje skiriamas už vidaus rinkoje parduotus degalus iš atsinaujinančių energijos išteklių ir (ar) už elektros energiją iš atsinaujinančių energijos išteklių, patiektą į transporto priemones, ir naudojamas degalų ir transporto sektoriaus gamtinių dujų tiekėjų įpareigojimų įvykdymui vertinti. 
+Straipsnio dalies pakeitimai:
+Nr. XV-123, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04417
+ 
 
 
 
@@ -91,7 +94,10 @@ Nr. XIV-2966, 2024-08-13, paskelbta TAR 2024-08-23, i. k. 2024-14756
 
 
 
-7. Degalų iš atsinaujinančių energijos išteklių apskaitos vienetų sistemos dalyvis (toliau – DAEI apskaitos vienetų sistemos dalyvis) – degalų tiekėjas ar transporto sektoriaus gamtinių dujų tiekėjas, kuriam šio įstatymo 16 straipsnyje nustatyta tvarka taikomas įpareigojimas, viešai prieinamos įkrovimo prieigos operatorius arba kitus degalus iš atsinaujinančių energijos išteklių tiekiantis subjektas.
+7. Degalų iš atsinaujinančių energijos išteklių apskaitos vienetų sistemos dalyvis (toliau – DAEI apskaitos vienetų sistemos dalyvis) – degalų ar transporto sektoriaus gamtinių dujų tiekėjas, kuriam taikomi šio įstatymo 16 straipsnyje nustatyti įpareigojimai, kitus degalus iš atsinaujinančių energijos išteklių tiekiantis subjektas, viešai prieinamos įkrovimo prieigos operatorius, keleivių ar krovinių vežėjas elektrinėmis transporto priemonėmis, geležinkelio įmonė (vežėjas). 
+Straipsnio dalies pakeitimai:
+Nr. XV-123, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04417
+ 
 
 
 
@@ -122,6 +128,22 @@ Nr. XIV-2966, 2024-08-13, paskelbta TAR 2024-08-23, i. k. 2024-14756
 
 
 13. Hibridinė transporto priemonė – transporto priemonė, kurioje energija mechaniniam judesiui atlikti tiekiama iš dviejų ar daugiau transporto priemonėje esančių sukauptos energijos šaltinių: sunaudojamų degalų ir elektros energijos kaupimo sistemos (baterijos, kondensatoriaus).
+
+
+
+
+131. Keleivių vežėjas elektrinėmis transporto priemonėmis – vežėjas, vykdantis profesinę keleivių vežimo veiklą elektrinėmis transporto priemonėmis ir turintis galiojančią licenciją, išduotą vadovaujantis Lietuvos Respublikos kelių transporto kodekso 8 straipsnio 2 dalies 1 arba 4 punktu. 
+Papildyta straipsnio dalimi:
+Nr. XV-123, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04417
+ 
+
+
+
+
+132. Krovinių vežėjas elektrinėmis transporto priemonėmis – vežėjas, vykdantis profesinę krovinių vežimo veiklą elektrinėmis transporto priemonėmis ir turintis galiojančią licenciją, išduotą vadovaujantis Kelių transporto kodekso 8 straipsnio 2 dalies 2, 3 arba 5 punktu.
+Papildyta straipsnio dalimi:
+Nr. XV-123, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04417
+ 
 
 
 
@@ -983,6 +1005,13 @@ KETVIRTASIS SKIRSNIS
 
 
 9. Už audito metu nustatytus trūkumus ir dėl šių trūkumų DAEI apskaitos vienetų panaikinimo pasekmes pagal šio įstatymo 32 straipsnio 1 dalies 1 punktą atsako DAEI apskaitos vienetų sistemos dalyviai, perleidę DAEI apskaitos vienetus arba patiekę degalus iš atsinaujinančių energijos išteklių, už kuriuos pirmą kartą buvo sugeneruoti DAEI apskaitos vienetai. 
+
+
+
+
+10. DAEI apskaitos vienetai viešai prieinamų įkrovimo prieigų operatoriams, keleivių ir krovinių vežėjams elektrinėmis transporto priemonėmis ir geležinkelio įmonėms (vežėjams) suteikiami už elektros energiją iš atsinaujinančių energijos išteklių, patiektą į elektrines transporto priemones, jeigu jie atitinka dalyvavimo DAEI apskaitos vienetų sistemoje ir elektros energijos, patiektos į elektrines transporto priemones, kiekio apskaičiavimo reikalavimus, nustatytus DAEI apskaitos vienetų sistemos administravimo tvarkos apraše. Viešai prieinamų įkrovimo prieigų operatoriams, keleivių ir krovinių vežėjams elektrinėmis transporto priemonėmis DAEI apskaitos vienetai suteikiami tik už elektros energiją iš atsinaujinančių energijos išteklių, patiektą į elektrines transporto priemones per jiems priklausančias įkrovimo prieigas.
+Papildyta straipsnio dalimi:
+Nr. XV-123, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04417
  
 
 
@@ -1079,10 +1108,11 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 
 
-6) gamtinių dujų transporto sektoriui tiekėjai ir viešai prieinamų įkrovimo prieigų operatoriai turi pateikti atsinaujinančių išteklių energijos kilmės garantijos, įrodančios degalų iš atsinaujinančių energijos išteklių patiekimą galutiniam vartotojui, kopiją; 
+6) transporto sektoriaus gamtinių dujų tiekėjai, viešai prieinamų įkrovimo prieigų operatoriai, keleivių ir krovinių vežėjai elektrinėmis transporto priemonėmis ir geležinkelių įmonės (vežėjai), siekdami, kad jų tiekiama energija būtų laikoma atsinaujinančių išteklių energija, turi panaudoti atsinaujinančių išteklių energijos kilmės garantijas, įrodančias degalų iš atsinaujinančių energijos išteklių patiekimą galutiniam vartotojui;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
 Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
+Nr. XV-123, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04417
  
 
 
@@ -2476,3 +2506,13 @@ Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 1 ir 2 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 2, 5, 9, 12, 15, 18, 22, 23, 24, 25, 26, 27, 28, 29, 31, 34, 35 straipsnių ir priedo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2755, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11260
+Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 2, 17 ir 18 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-123, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04417
+Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 2, 17 ir 18 straipsnių pakeitimo įstatymo Nr. XIV-2755 pakeitimo įstatymas
