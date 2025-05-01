@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-04-30
+Suvestinė redakcija nuo 2025-05-01
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
  
@@ -163,6 +163,14 @@ Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
 7. Neteko galios nuo 2021-07-01
 Straipsnio dalies naikinimas:
 Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
+
+
+
+
+71. Masinis renginys – kaip ši sąvoka apibrėžta Lietuvos Respublikos alkoholio kontrolės įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2951, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13618
  
 
 
@@ -336,6 +344,14 @@ Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
 
 
 29. Vienkartinė pakuotė – pakuotė, skirta naudoti pagal paskirtį vieną kartą.
+
+
+
+
+291. Viešojo maitinimo vieta – kaip ši sąvoka apibrėžta Lietuvos Respublikos alkoholio kontrolės įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-2951, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13618
+ 
 
 
 
@@ -912,6 +928,34 @@ Pakuočių pardavėjams ir platintojams draudžiama prekių ar produktų pardavi
 
 Straipsnio pakeitimai:
 Nr. XIV-1563, 2022-11-24, paskelbta TAR 2022-12-02, i. k. 2022-24643
+ 
+
+
+
+
+83 straipsnis. Vienkartinių plastikinių gaminių naudojimo mažinimo reikalavimai
+
+
+1. Viešojo maitinimo paslaugas teikiantiems fiziniams ir juridiniams asmenims, išskyrus nurodytus šio straipsnio 4 dalyje, draudžiama neatlygintinai vartotojams dalyti šio įstatymo 11 priedo 1 ir 4 punktuose nurodytus vienkartinius plastikinius gaminius, kai jie pardavimo metu pripildomi maisto produktų ar gėrimų viešojo maitinimo vietose. 
+
+
+
+
+2. Viešojo maitinimo vietose (patalpose ar lauko sąlygomis ne didesniu kaip 40 metrų atstumu nuo viešojo maitinimo vietos įrengtose aptarnavimo vietose (zonose)) kaip alternatyva šio straipsnio 1 dalyje nurodytiems vienkartiniams plastikiniams gaminiams turi būti pateikiamos daugkartinės pakuotės arba vienkartinės pakuotės, kurių sudėtyje nėra plastiko, arba stalo indai.  Alternatyvos pateikimas nėra privalomas vadovaujantis Lietuvos Respublikos paslaugų įstatymo reikalavimais Lietuvos Respublikoje laikinai paslaugas teikiantiems kitų valstybių narių paslaugų teikėjams. 
+
+
+
+
+3. Viešojo maitinimo paslaugas teikiantys fiziniai ir juridiniai asmenys, suteikdami galimybę pripildyti maisto produktų ar gėrimų vartotojo atsineštą pakuotę viešojo maitinimo vietose, privalo vartotojui pateikti informaciją apie sąlygas, kuriomis leidžiama įsigyti maisto produktų ar gėrimų vartotojo atsineštoje pakuotėje, kad būtų užtikrinti 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 852/2004 dėl maisto produktų higienos ir 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1935/2004 dėl žaliavų ir gaminių, skirtų liestis su maistu, ir panaikinančiame Direktyvas 80/590/EEB ir 89/109/EEB nurodyti saugos ir higienos reikalavimai.
+
+
+
+
+4. Viešojo maitinimo paslaugas teikiantiems fiziniams ir juridiniams asmenims draudžiama masiniuose renginiuose ir paplūdimiuose įrengtose viešojo maitinimo vietose vartotojams neatlygintinai dalyti ir (ar) parduoti šio įstatymo 11 priedo 1 ir 4 punktuose nurodytus vienkartinius plastikinius gaminius, kurie teikiant viešojo maitinimo paslaugą pripildomi maisto produktų ar gėrimų. Draudimas netaikomas, kai viešojo maitinimo paslaugas teikiantys fiziniai ir juridiniai asmenys, pripildydami maisto produktų ar gėrimų šio įstatymo 11 priedo 1 ir 4 punktuose nurodytus vienkartinius plastikinius gaminius, už juos taiko užstatą, kuris turi atitikti šio įstatymo 11 straipsnio 10 dalyje nustatytą reikalavimą.
+
+
+Papildyta straipsniu:
+Nr. XIV-2951, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13618
  
 
 
@@ -2017,3 +2061,8 @@ Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2176, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19351
 Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 7 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2951, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13618
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2 straipsnio pakeitimo ir Įstatymo papildymo 8-3 straipsniu įstatymas
