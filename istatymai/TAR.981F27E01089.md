@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.981F27E01089"
 
 # Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2025-04-30
+Suvestinė redakcija nuo 2025-05-01
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 81-3322, i. k. 1071010ISTA00X-1262
  
@@ -33,7 +33,9 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis ir taikymas  
+Straipsnio pakeitimai:
+Nr. XV-152, 2025-04-10, paskelbta TAR 2025-04-16, i. k. 2025-06624
 
 
 1. Šis įstatymas nustato asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas prioritetų tvirtinimą, delegavimo koordinavimą, pretendentų į pareigas, į kurias gali būti deleguojama, atrankos principus, delegavimo tvarką, delegavimo į rinkimų stebėjimo misijas rezervo sudarymą, deleguojamų asmenų darbo užmokesčio nustatymą ir socialinių garantijų deleguojamiems asmenims suteikimą.
@@ -41,10 +43,11 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šis įstatymas taikomas karjeros valstybės tarnautojams, statutiniams valstybės tarnautojams, įskaitant ir tuos atvejus, kai jie siunčiami dirbti į Europos išorės veiksmų tarnybą ar laikinai perkeliami į ją pagal Kitų Europos Sąjungos tarnautojų įdarbinimo sąlygų, nustatytų 1961 m. gruodžio 18 d. Tarybos reglamentu Nr. 31 (EEB), Nr. 11 (EAEB), nustatančiu Europos ekonominės bendrijos ir Europos atominės energijos bendrijos pareigūnų tarnybos nuostatus ir kitų tarnautojų įdarbinimo sąlygas, su visais pakeitimais, 2 straipsnio e punktą, taip pat valstybės pareigūnams, kuriems netaikomas Lietuvos Respublikos valstybės tarnybos įstatymas ir kurie pagal jų veiklą reglamentuojančius įstatymus ir šį įstatymą gali būti deleguojami (toliau – valstybės pareigūnai), viešosios įstaigos ar nacionalinės plėtros įstaigos, kurioms Lietuvos Respublikos įstatymų nustatyta tvarka pavesta administruoti Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamos paramos teikimo arba Lietuvos vystomojo bendradarbiavimo projektus arba vykdyti veiklą, skatinančią inovacijas, verslo plėtrą ir investicijų pritraukimą, darbuotojams (toliau – viešosios įstaigos ar nacionalinės plėtros įstaigos darbuotojai) ir kitiems asmenims. 
+2. Šis įstatymas taikomas karjeros valstybės tarnautojams, statutiniams valstybės tarnautojams, įskaitant ir tuos atvejus, kai šio straipsnio 31 dalyje nustatyta tvarka jie siunčiami dirbti į Europos išorės veiksmų tarnybą ar laikinai perkeliami į ją pagal Kitų Europos Sąjungos tarnautojų įdarbinimo sąlygų, nustatytų 1961 m. gruodžio 18 d. Tarybos reglamentu Nr. 31 (EEB), Nr. 11 (EAEB), nustatančiu Europos ekonominės bendrijos ir Europos atominės energijos bendrijos pareigūnų tarnybos nuostatus ir kitų tarnautojų įdarbinimo sąlygas, su visais pakeitimais (toliau – Kitų Europos Sąjungos tarnautojų įdarbinimo sąlygos), 2 straipsnio b ir e punktus, taip pat valstybės pareigūnams, kuriems netaikomas Lietuvos Respublikos valstybės tarnybos įstatymas ir kurie pagal jų veiklą reglamentuojančius įstatymus ir šį įstatymą gali būti deleguojami, (toliau – valstybės pareigūnai), viešosios įstaigos ar nacionalinės plėtros įstaigos, kurioms Lietuvos Respublikos įstatymų nustatyta tvarka pavesta administruoti Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamos paramos teikimo arba Lietuvos vystomojo bendradarbiavimo projektus arba vykdyti veiklą, skatinančią inovacijas, verslo plėtrą ir investicijų pritraukimą, darbuotojams (toliau – viešosios įstaigos ar nacionalinės plėtros įstaigos darbuotojai) ir kitiems asmenims. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1121, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12613
 Nr. XIV-2304, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24170
+Nr. XV-152, 2025-04-10, paskelbta TAR 2025-04-16, i. k. 2025-06624
  
 
 
@@ -58,12 +61,22 @@ Nr. XIV-2304, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24170
 
 
 
+31. Šio įstatymo 7 straipsnio ir III skyriaus nuostatos netaikomos karjeros valstybės tarnautojams ir statutiniams valstybės tarnautojams, siunčiamiems dirbti į pareigas Europos išorės veiksmų tarnyboje ar laikinai į jas perkeliamiems pagal Kitų Europos Sąjungos tarnautojų įdarbinimo sąlygų 2 straipsnio b ir e punktus; kitos šio įstatymo nuostatos jiems taikomos mutatis mutandis. Karjeros valstybės tarnautojo ar statutinio valstybės tarnautojo, dalyvaujančio Europos išorės veiksmų tarnybos atrankoje į šioje dalyje nurodytas pareigas, prašymu užsienio reikalų ministro nustatyta tvarka Užsienio reikalų ministerija išduoda Europos išorės veiksmų tarnybos reikalaujamą pažymą, patvirtinančią valstybės tarnautojo statusą ir kitas Europos išorės veiksmų tarnybos nurodytas aplinkybes, ir nurodo remianti atrankoje dalyvaujančio karjeros valstybės tarnautojo ar statutinio valstybės tarnautojo kandidatūrą. Tokia pažyma išduodama tik šio įstatymo 3 straipsnyje nurodytos institucijos, deleguojančios asmenis į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas, (toliau – deleguojančioji institucija), pritarimu.  
+Papildyta straipsnio dalimi:
+Nr. XV-152, 2025-04-10, paskelbta TAR 2025-04-16, i. k. 2025-06624
+ 
+
+
+
+
 4. Šis įstatymas netaikomas asmenims į Europos Sąjungos rinkimų stebėjimo misijas siųsti, išskyrus šio įstatymo 10 straipsnį, 11 straipsnio 1 ir 2 dalis, 12, 13, 14 straipsnius ir 16 straipsnio 2 dalį, kurie mutatis mutandis taikomi pretendentų vykti į šias misijas atrankai, ir 23 straipsnio 2 dalį.
 
 
 
 
-5. Šis įstatymas netaikomas asmenims į Lietuvos Respublikos užsienio reikalų ministro tvirtinamame sąraše nurodytas žemesnes negu misijos vadovo ar jo pavaduotojo pareigas Europos saugumo ir bendradarbiavimo organizacijos misijose, įskaitant jos išorinius biurus, siųsti, kai ši organizacija apmoka pragyvenimo ir apsirūpinimo gyvenamosiomis patalpomis išlaidas, išskyrus šio įstatymo 10 straipsnį, 11 straipsnio 1 ir 2 dalis ir 16 straipsnio 2 dalį, kurie mutatis mutandis taikomi pretendentų vykti į šias misijas, įskaitant jos išorinius biurus, atrankai, ir 23 straipsnio 2 dalį. 
+5. Šis įstatymas netaikomas asmenims į užsienio reikalų ministro tvirtinamame sąraše nurodytas žemesnes negu misijos vadovo ar jo pavaduotojo pareigas Europos saugumo ir bendradarbiavimo organizacijos misijose, įskaitant jos išorinius biurus, siųsti, kai ši organizacija apmoka pragyvenimo ir apsirūpinimo gyvenamosiomis patalpomis išlaidas, išskyrus šio įstatymo 10 straipsnį, 11 straipsnio 1 ir 2 dalis ir 16 straipsnio 2 dalį, kurie mutatis mutandis taikomi pretendentų vykti į šias misijas, įskaitant jos išorinius biurus, atrankai, ir 23 straipsnio 2 dalį. 
+Straipsnio dalies pakeitimai:
+Nr. XV-152, 2025-04-10, paskelbta TAR 2025-04-16, i. k. 2025-06624
  
 
 
@@ -124,39 +137,40 @@ Nr. XIV-2304, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24170
 
 
 
-3 straipsnis. Institucijos, deleguojančios asmenis į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas
+3 straipsnis. Deleguojančiosios institucijos
 
 
-Asmenis į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas deleguoja:
+Deleguojančiosios institucijos yra:
 
 
-1) karjeros valstybės tarnautojus ir statutinius valstybės tarnautojus, išskyrus vidaus tarnybos sistemos pareigūnus, valstybės pareigūnus, išskyrus prokurorus, – Lietuvos Respublikos valstybės ir savivaldybių institucijos ir įstaigos, kuriose šie asmenys eina pareigas;
-
-
-
-
-2) vidaus tarnybos sistemos pareigūnus – vidaus reikalų ministro arba finansų ministro valdymo srities centrinės statutinės įstaigos; 
+1) karjeros valstybės tarnautojų ir statutinių valstybės tarnautojų, išskyrus vidaus tarnybos sistemos pareigūnus, valstybės pareigūnų, išskyrus prokurorus, – Lietuvos Respublikos valstybės ir savivaldybių institucijos ir įstaigos, kuriose šie asmenys eina pareigas;
 
 
 
 
-3) prokurorus – Lietuvos Respublikos generalinė prokuratūra;
+2) vidaus tarnybos sistemos pareigūnų – vidaus reikalų ministro arba finansų ministro valdymo srities centrinės statutinės įstaigos;
 
 
 
 
-4) viešosios įstaigos ar nacionalinės plėtros įstaigos darbuotojus – viešosios ar nacionalinės plėtros įstaigos;
+3) prokurorų – Lietuvos Respublikos generalinė prokuratūra;
 
 
 
 
-5) kitus asmenis – Lietuvos Respublikos užsienio reikalų ministerija (toliau kartu – deleguojančiosios institucijos).
+4) viešosios įstaigos ar nacionalinės plėtros įstaigos darbuotojų – viešosios ar nacionalinės plėtros įstaigos;
+
+
+
+
+5) kitų asmenų – Užsienio reikalų ministerija.
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XIV-2304, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24170
+Nr. XV-152, 2025-04-10, paskelbta TAR 2025-04-16, i. k. 2025-06624
  
 
 
@@ -1024,3 +1038,8 @@ Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos ins
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2304, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24170
 Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-152, 2025-04-10, paskelbta TAR 2025-04-16, i. k. 2025-06624
+Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 1 ir 3 straipsnių pakeitimo įstatymas
