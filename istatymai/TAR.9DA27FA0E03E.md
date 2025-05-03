@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9da27fa0e03e11ed9978886e85107ab2"
 
 # Lietuvos Respublikos ribojamųjų priemonių dėl karinės agresijos prieš Ukrainą nustatymo įstatymas
 
-Suvestinė redakcija nuo 2024-06-03 iki 2025-05-02
+Suvestinė redakcija nuo 2025-05-03
  
 Įstatymas paskelbtas: TAR 2023-04-21, i. k. 2023-07804
  
@@ -210,26 +210,48 @@ Nr. XIV-2581, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08222
 
 
 
+9. Panaikinamas Rusijos Federacijos piliečiui išduotas leidimas laikinai gyventi Lietuvos Respublikoje, jeigu nustatoma, kad jis per pastaruosius 3 kalendorinius mėnesius daugiau kaip kartą vyko į Rusijos Federaciją ar Baltarusijos Respubliką, išskyrus atvejus, kai:
+
+
+1) Rusijos Federacijos piliečiai yra ekipažų ir įgulų nariai, dirbantys tarptautinius krovinių ir keleivių vežimus vykdančiose įmonėse ar vykdantys tarptautinius krovinių ir keleivių vežimus į Europos Sąjungos valstybes nares ar iš jų arba tranzitu per Lietuvos Respubliką;
+
+
+
+
+2) į Rusijos Federaciją ar Baltarusijos Respubliką buvo vykstama dėl nuo Rusijos Federacijos piliečio nepriklausančių objektyvių priežasčių. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XV-170, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07432
+ 
+
+
+
+
+10. Šio straipsnio 9 dalyje nurodytu atveju sprendimai dėl leidimų laikinai gyventi Lietuvos Respublikoje panaikinimo priimami ir skundžiami Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XV-170, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07432
+ 
+
+
+
+
 
 
 4 straipsnis. Ribojamųjų priemonių trukmė ir peržiūra
 
 
-1. Šio įstatymo 3 straipsnyje nurodytos ribojamosios priemonės, išskyrus šio įstatymo 3 straipsnio 8 dalyje nurodytą ribojamąją priemonę, taikomos nuo 2024 m. gegužės 3 d. iki 2025 m. gegužės 2 d.
+1. Šio įstatymo 3 straipsnyje nurodytos ribojamosios priemonės taikomos  nuo 2025 m. gegužės 3 d. iki 2026 m. gegužės 2 d.
 
 
 
 
-2. Šio įstatymo 3 straipsnio 8 dalyje nurodyta ribojamoji priemonė taikoma nuo 2024 m. birželio 3 d. iki 2025 m. gegužės 2 d.
-
-
-
-
-3. Nustačius poreikį pratęsti šiuo įstatymu nustatytų ribojamųjų priemonių galiojimo terminą, Lietuvos Respublikos Vyriausybė likus ne mažiau kaip 3 mėnesiams iki šiuo įstatymu nustatytų ribojamųjų priemonių galiojimo termino pabaigos teikia Lietuvos Respublikos Seimui šio įstatymo pakeitimo projektą.
+2. Nustačius poreikį pratęsti nustatytų ribojamųjų priemonių galiojimo terminą, Lietuvos Respublikos Vyriausybė likus ne mažiau kaip 3 mėnesiams iki šiuo įstatymu nustatytų ribojamųjų priemonių galiojimo termino pabaigos teikia Lietuvos Respublikos Seimui šio įstatymo pakeitimo įstatymo projektą.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-2581, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08222
+Nr. XV-170, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07432
  
 
 
@@ -238,11 +260,12 @@ Nr. XIV-2581, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08222
 5 straipsnis. Įstatymo galiojimas
 
 
-Šis įstatymas galioja iki 2025 m. gegužės 2 d.
+Šis įstatymas galioja iki 2026 m. gegužės 2 d.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-2581, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08222
+Nr. XV-170, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07432
  
 
 
@@ -262,4 +285,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2581, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08222
+Lietuvos Respublikos ribojamųjų priemonių dėl karinės agresijos prieš Ukrainą nustatymo įstatymo Nr. XIV-1888 3, 4 ir 5 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-170, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07432
 Lietuvos Respublikos ribojamųjų priemonių dėl karinės agresijos prieš Ukrainą nustatymo įstatymo Nr. XIV-1888 3, 4 ir 5 straipsnių pakeitimo įstatymas
