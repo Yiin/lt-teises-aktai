@@ -2596,8 +2596,13 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 18 straipsnis. Sandorių ar dalykinių santykių su klientu nutraukimas
 
+1. Jeigu klientas vengia arba atsisako finansų įstaigai ar kitam įpareigotajam subjektui jo prašymu ir terminais pateikti papildomą informaciją, finansų įstaigos ir kiti įpareigotieji subjektai, vadovaudamiesi vidaus politikos ir vidaus kontrolės procedūromis, gali atsisakyti vykdyti pinigines operacijas ar sandorį, nutraukti sandorius ar dalykinius santykius su klientu.
 
-Jeigu klientas vengia arba atsisako finansų įstaigai ar kitam įpareigotajam subjektui jo prašymu ir terminais pateikti papildomą informaciją, finansų įstaigos ir kiti įpareigotieji subjektai, vadovaudamiesi vidaus politikos ir vidaus kontrolės procedūromis, gali atsisakyti vykdyti pinigines operacijas ar sandorį, nutraukti sandorius ar dalykinius santykius su klientu.
+2. Šio įstatymo 1 straipsnio 1, 3, 10 dalys, 2 straipsnio 8 dalis, 3 straipsnio 3 dalis, 4 straipsnio 2, 3 ir 6 dalys, 6 straipsnio 2 ir 3 dalys, 7 straipsnio 2–4 dalys, 9, 11, 13 ir 15 straipsniai įsigalioja 2026 m. sausio 1 d.
+
+4. Lietuvos Respublikos Vyriausybė iki 2025 m. gruodžio 31 d. priima šio įstatymo 11 straipsnio nuostatų įgyvendinamuosius teisės aktus. Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Finansinių nusikaltimų tyrimo tarnyba) iki 2025 m. gruodžio 31 d. priima šio įstatymo 2 straipsnio 8 dalyje išdėstytos Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 4 straipsnio 9 dalies nuostatų įgyvendinamuosius teisės aktus.
+
+6. Juridinių asmenų registro tvarkytojas 2026 m. sausio 1 d. neatlyginamai išregistruoja duomenis apie tai, kad juridinis asmuo ar Europos Sąjungos valstybės narės arba užsienio valstybės juridinio asmens filialas vykdo virtualiųjų valiutų keityklos operatoriaus ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą.
  
 
 
