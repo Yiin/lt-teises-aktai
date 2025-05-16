@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/d7542830499b11efbdaea558de59136c"
 
 # Lietuvos Respublikos kriptoturto rinkų įstatymas
 
+Suvestinė redakcija nuo 2025-05-16
+ 
+Įstatymas paskelbtas: TAR 2024-07-24, i. k. 2024-13487
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 KRIPTOTURTO RINKŲ
 ĮSTATYMAS
@@ -1045,7 +1052,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-3. Į Juridinių asmenų registro tvarkomą sąrašą įrašyti virtualiųjų valiutų keityklos operatoriai ir depozitinių virtualiųjų valiutų piniginių operatoriai nuo 2025 m. birželio 1 d. netenka teisės vykdyti virtualiųjų valiutų keityklų operatoriaus ir depozitinių virtualiųjų valiutų piniginių operatoriaus veiklos, jeigu jie nėra gavę licencijos Reglamento (ES) 2023/1114 ir šio įstatymo nustatyta tvarka.
+3. Į Juridinių asmenų registro tvarkomą sąrašą įrašyti virtualiųjų valiutų keityklos operatoriai ir depozitinių virtualiųjų valiutų piniginių operatoriai nuo 2026 m. sausio 1 d. netenka teisės vykdyti virtualiųjų valiutų keityklų operatoriaus ir depozitinių virtualiųjų valiutų piniginių operatoriaus veiklos, jeigu jie nėra gavę licencijos Reglamento (ES) 2023/1114 ir šio įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XV-185, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08680
+ 
 
 
 
@@ -1081,3 +1091,12 @@ priedas
  
 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, su pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869.
 _______________________
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-185, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08680
+Lietuvos Respublikos kriptoturto rinkų įstatymo Nr. XIV-2879 22 straipsnio pakeitimo įstatymas
