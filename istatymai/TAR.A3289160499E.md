@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a3289160499e11efbdaea558de59136c"
 
 # Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 7, 9, 14, 19, 20, 22, 25, 29, 36, 49, 51 straipsnių, priedo pakeitimo, Įstatymo papildymo 36-1 straipsniu ir 25-1, 25-3 straipsnių pripažinimo netekusiais galios įstatymas
 
+Suvestinė redakcija nuo 2025-05-16
+ 
+Įstatymas paskelbtas: TAR 2024-07-24, i. k. 2024-13492
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PINIGŲ PLOVIMO IR TERORISTŲ FINANSAVIMO PREVENCIJOS ĮSTATYMO NR. VIII-275 2, 4, 7, 9, 14, 19, 20, 22, 25, 29, 36, 49, 51 STRAIPSNIŲ, PRIEDO PAKEITIMO, ĮSTATYMO PAPILDYMO 361 STRAIPSNIU IR 251, 253 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS 
 ĮSTATYMAS
@@ -891,7 +898,10 @@ Pakeisti 51 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-2. Šio įstatymo 1 straipsnio 1, 3, 10 dalys, 2 straipsnio 8 dalis, 3 straipsnio 3 dalis, 4 straipsnio 2, 3 ir 6 dalys, 6 straipsnio 2 ir 3 dalys, 7 straipsnio 2–4 dalys, 9, 11, 13 ir 15 straipsniai įsigalioja 2025 m. birželio 1 d. 
+2. Šio įstatymo 1 straipsnio 1, 3, 10 dalys, 2 straipsnio 8 dalis, 3 straipsnio 3 dalis, 4 straipsnio 2, 3 ir 6 dalys, 6 straipsnio 2 ir 3 dalys, 7 straipsnio 2–4 dalys, 9, 11, 13 ir 15 straipsniai įsigalioja 2026 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XV-186, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08682
+ 
 
 
 
@@ -901,7 +911,10 @@ Pakeisti 51 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-4. Lietuvos Respublikos Vyriausybė iki 2025 m. gegužės 31 d. priima šio įstatymo 11 straipsnio nuostatų įgyvendinamuosius teisės aktus. Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Finansinių nusikaltimų tyrimo tarnyba) iki 2025 m. gegužės 31 d. priima šio įstatymo 2 straipsnio 8 dalyje išdėstytos Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 4 straipsnio 9 dalies nuostatų įgyvendinamuosius teisės aktus.
+4. Lietuvos Respublikos Vyriausybė iki 2025 m. gruodžio 31 d. priima šio įstatymo 11 straipsnio nuostatų įgyvendinamuosius teisės aktus. Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Finansinių nusikaltimų tyrimo tarnyba) iki 2025 m. gruodžio 31 d. priima šio įstatymo 2 straipsnio 8 dalyje išdėstytos Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 4 straipsnio 9 dalies nuostatų įgyvendinamuosius teisės aktus. 
+Straipsnio dalies pakeitimai:
+Nr. XV-186, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08682
+ 
 
 
 
@@ -911,7 +924,9 @@ Pakeisti 51 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-6. Juridinių asmenų registro tvarkytojas 2025 m. birželio 1 d. neatlyginamai išregistruoja duomenis apie tai, kad juridinis asmuo ar Europos Sąjungos valstybės narės arba užsienio valstybės juridinio asmens filialas vykdo virtualiųjų valiutų keityklos operatoriaus ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą.
+6. Juridinių asmenų registro tvarkytojas 2026 m. sausio 1 d. neatlyginamai išregistruoja duomenis apie tai, kad juridinis asmuo ar Europos Sąjungos valstybės narės arba užsienio valstybės juridinio asmens filialas vykdo virtualiųjų valiutų keityklos operatoriaus ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą.
+Straipsnio dalies pakeitimai:
+Nr. XV-186, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08682
  
 
 
@@ -924,3 +939,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-186, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08682
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 7, 9, 14, 19, 20, 22, 25, 29, 36, 49, 51 straipsnių, priedo pakeitimo, Įstatymo papildymo 36-1 straipsniu ir 25-1, 25-3 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIV-2883 18 straipsnio pakeitimo įstatymas
