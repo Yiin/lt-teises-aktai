@@ -29012,3 +29012,5 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 373 ir 377 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-109, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00694
 Lietuvos Respublikos administracinių nusižengimų kodekso 188-4 ir 589 straipsnių pakeitimo įstatymas
+
+2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1226 dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama Direktyva (ES) 2018/1673.
