@@ -181,6 +181,10 @@ Vilnius
 
 10) pažeidimų, susijusių su vidaus rinka, kaip nurodyta Sutarties dėl Europos Sąjungos veikimo 26 straipsnio 2 dalyje, įskaitant Europos Sąjungos konkurencijos ir valstybės pagalbos taisyklių pažeidimus, taip pat su vidaus rinka susijusius pažeidimus dėl veiksmų, kuriais pažeidžiamos pelno mokesčio taisyklės, arba susitarimus, kuriais siekiama įgyti mokestinį pranašumą, kenkiantį taikytinos pelno mokesčio teisės dalykui arba tikslui;
 
+11) Lietuvos Respublikoje įgyvendinamų tarptautinių sankcijų arba Lietuvos Respublikos įstatymuose nustatytų ribojamųjų priemonių pažeidimo;
+
+12) kitų pažeidimų.jusių su vidaus rinka, kaip nurodyta Sutarties dėl Europos Sąjungos veikimo 26 straipsnio 2 dalyje, įskaitant Europos Sąjungos konkurencijos ir valstybės pagalbos taisyklių pažeidimus, taip pat su vidaus rinka susijusius pažeidimus dėl veiksmų, kuriais pažeidžiamos pelno mokesčio taisyklės, arba susitarimus, kuriais siekiama įgyti mokestinį pranašumą, kenkiantį taikytinos pelno mokesčio teisės dalykui arba tikslui;
+
 
 
 
@@ -976,15 +980,13 @@ Respublikos Prezidentė                            �
 
 
  
-Lietuvos Respublikos 
+Lietuvos Respublikos
 pranešėjų apsaugos įstatymo
 priedas
- 
-ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
- 
-
-
-2019 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1937 dėl asmenų, pranešančių apie Sąjungos teisės pažeidimus, apsaugos.
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+1. 2019 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1937 dėl asmenų, pranešančių apie Sąjungos teisės pažeidimus, apsaugos.
+2. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1226 dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama Direktyva (ES) 2018/1673.
+____________________
 
 
  
