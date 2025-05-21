@@ -573,7 +573,7 @@ KRIMINALINĖS ŽVALGYBOS TYRIMAS
 1. Kriminalinės žvalgybos tyrimas atliekamas, kai:
 
 
-1) turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 ir 3 dalyse, 1511, 153, 172, 173, 174, 175 ir 1751 straipsniuose, 178 straipsnio 2 ir 3 dalyse, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 182 straipsnio 2 dalyje, 1821 straipsnyje, 183 straipsnio 2 dalyje, 184 straipsnio 2 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 1 ir 2 dalyse, 1891 straipsnyje, 198 straipsnio 2 dalyje, 199 straipsnio 1 ir 2 dalyse, 1991 straipsnio 1 ir 2 dalyse, 1992 straipsnio 1 ir 2 dalyse, 200 straipsnio 1 ir 2 dalyse, 207 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 1 dalyje, 226 straipsnio 1 ir 2 dalyse, 227 straipsnio 1 ir 2 dalyse, 228 straipsnio 1 dalyje, 2281 ir 240 straipsniuose, 246 straipsnio 2 dalyje, 2501, 2503 ir 2506  straipsniuose, 251 straipsnio 1 dalyje, 253 straipsnio 1 dalyje, 2532 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 266 straipsnio 2 dalyje, 2661 straipsnio 1 dalyje, 2672 straipsnio 1 dalyje, 2764 straipsnio 1 dalyje, 300 straipsnio 2 ir 3 dalyse, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, 309 straipsnio 3 dalyje, arba apie šias veikas rengiančius, darančius ar padariusius asmenis;
+1) turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 123 straipsnyje, 123-1 straipsnio 1 dalyje, 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 dalyje, 151 straipsnio 1 dalyje, 151-1, 153, 172, 173, 174, 175 ir 175-1 straipsniuose, 178 straipsnio 2 ir 3 dalyse, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 182 straipsnio 2 dalyje, 182-1 straipsnyje, 183 straipsnio 2 dalyje, 184 straipsnio 2 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 1 ir 2 dalyse, 189-1 straipsnyje, 196 straipsnio 2 dalyje, 197 straipsnio 2 dalyje, 198 straipsnio 2 dalyje, 199 straipsnio 1 ir 2 dalyse, 199-1 straipsnio 1 ir 2 dalyse, 199-2 straipsnio 1 ir 2 dalyse, 200 straipsnio 1 ir 2 dalyse, 207 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 1 dalyje, 226 straipsnio 1 ir 2 dalyse, 227 straipsnio 1 ir 2 dalyse, 228 straipsnio 1 dalyje, 228-1 ir 240 straipsniuose, 246 straipsnio 2 dalyje, 250-1, 250-3 ir 250-6 straipsniuose, 251 straipsnio 1 dalyje, 253 straipsnio 1 dalyje, 253-2 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 266 straipsnio 2 dalyje, 266-1 straipsnio 1 dalyje, 267-2 straipsnio 1 dalyje, 276-4 straipsnio 1 dalyje, 300 straipsnio 2, 3 ir 4 dalyse, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, 308 straipsnio 1 dalyje, 309 straipsnio 3 dalyje, arba apie šias veikas rengiančius, darančius ar padariusius asmenis;
 Straipsnio punkto pakeitimai:
 Nr. XI-2394, 2012-11-08, Žin., 2012, Nr. 133-6760 (2012-11-17), i. k. 1121010ISTA0XI-2394
 Nr. XII-730, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00066
@@ -583,7 +583,7 @@ Nr. XIII-1837, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21860
 Nr. XIII-2564, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19873
 Nr. XIII-3352, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24237
 Nr. XIV-1928, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08478
- 
+ 
 
 
 
@@ -606,7 +606,7 @@ Nr. XIV-1928, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08478
 5) į organizuotų nusikalstamų grupių sąrašą įtrauktos organizuotos nusikalstamos grupės nariui ar su ja susijusiam asmeniui taikomos organizuoto nusikalstamumo prevencijos priemonės.
 Papildyta straipsnio punktu:
 Nr. XIII-3075, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14350
- 
+ 
 
 
 
@@ -618,20 +618,12 @@ Nr. XIII-3075, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14350
 
 
 
-3. Jeigu atliekant ar pabaigus kriminalinės žvalgybos tyrimą paaiškėja nusikalstamos veikos požymiai, tuojau pat pradedamas ikiteisminis tyrimas. Ikiteisminis tyrimas gali būti nepradėtas išimtiniais atvejais, kai gali kilti pavojus kriminalinės žvalgybos slaptųjų dalyvių saugumui ir (ar) kriminalinės žvalgybos subjekto teisėtiems interesams. Kriminalinės žvalgybos subjektas apie tai praneša prokurorui, kuris priima sprendimą dėl tolesnio kriminalinės žvalgybos tyrimo, vadovaudamasis Generalinės prokuratūros, suderinusios su kriminalinės žvalgybos pagrindinėmis institucijomis, nustatyta tvarka, iki nurodytas pavojus bus pašalintas.
+3. Jeigu atliekant ar pabaigus kriminalinės žvalgybos tyrimą paaiškėja nusikalstamos veikos požymiai, tuojau pat pradedamas ikiteisminis tyrimas. Ikiteisminis tyrimas gali būti nepradėtas išimtiniais atvejais, kai gali kilti pavojus kriminalinės žvalgybos slaptųjų dalyvių saugumui ir (ar) kriminalinės žvalgybos subjekto teisėtiems interesams. Kriminalinės žvalgybos subjektas apie tai praneša prokurorui, kuris priima sprendimą dėl tolesnio kriminalinės žvalgybos tyrimo, vadovaudamasis Generalinės prokuratūros, suderinusios su kriminalinės žvalgybos pagrindinėmis institucijomis, nustatyta tvarka, iki nurodytas pavojus bus pašalintas.
 
 
 
 
-4. Atlikdami kriminalinės žvalgybos tyrimą, kriminalinės žvalgybos subjektai tvarko bylas, kurių kategorijas nustato kriminalinės žvalgybos pagrindinės institucijos, suderinusios su generaliniu prokuroru.
- 
-
-
-
-
-
-
-9 straipsnis. Informacijos gavimas iš ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas, Lietuvos banko, finansų įmonių ir kredito įstaigų, taip pat iš kitų juridinių asmenų
+4. Atlikdami kriminalinės žvalgybos tyrimą, kriminalinės žvalgybos subjektai tvarko bylas, kurių kategorijas nustato kriminalinės žvalgybos pagrindinės institucijos, suderinusios su generaliniu prokuroru.9 straipsnis. Informacijos gavimas iš ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas, Lietuvos banko, finansų įmonių ir kredito įstaigų, taip pat iš kitų juridinių asmenų
 
 
 1. Kriminalinės žvalgybos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų motyvuotu teikimu apylinkės teismo pirmininkas ar jo įgaliotas teisėjas priima nutartį, kai prašoma:
@@ -1701,3 +1693,10 @@ Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2393, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25907
 Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 6 ir 7 straipsnių pakeitimo įstatymas
+
+Lietuvos Respublikos
+kriminalinės žvalgybos įstatymo
+priedas
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1226 dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama Direktyva (ES) 2018/1673.
+__________________
