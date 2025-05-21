@@ -5100,30 +5100,14 @@ baudžiamas laisvės atėmimu iki aštuonerių metų.
 
 
 
-1231 straipsnis. Tarptautinių sankcijų arba Lietuvos Respublikos įstatymuose nustatytų ribojamųjų priemonių pažeidimas
+123^1 straipsnis. Tarptautinių sankcijų arba Lietuvos Respublikos įstatymuose nustatytų ribojamųjų priemonių pažeidimas
 
+1. Tas, kas pažeidė Lietuvos Respublikoje įgyvendinamas tarptautines sankcijas arba Lietuvos Respublikos įstatymuose nustatytas ribojamąsias priemones ir dėl to buvo padaryta didelė žala, taip pat tas, kas pažeisdamas tarptautine sankcija ar ribojamąja priemone asmeniui nustatytą draudimą atvykti į valstybės narės teritoriją arba vykti tranzitu per valstybės narės teritoriją sudarė sąlygas tam asmeniui atvykti į Lietuvos Respubliką arba vykti tranzitu per jos teritoriją,
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki penkerių metų.
 
-1. Tas, kas pažeidė Lietuvos Respublikoje įgyvendinamas tarptautines sankcijas arba Lietuvos Respublikos įstatymuose nustatytas ribojamąsias priemones ir dėl to padarė didelės žalos Lietuvos Respublikos interesams, 
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
+2. Šio straipsnio 1 dalyje numatytos veikos yra nusikalstamos ir tais atvejais, kai jos padarytos dėl neatsargumo.
 
-
-
-
-2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
-
-
-Kodeksas papildytas straipsniu:
-Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)
-Straipsnio pakeitimai:
-Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
-Straipsnio pakeitimai:
-Nr. XIV-1866, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06473
- 
-
-
-
-
-124 straipsnis. Neteisėtas disponavimas informacija, kuri yra valstybės paslaptis
+3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.124 straipsnis. Neteisėtas disponavimas informacija, kuri yra valstybės paslaptis
 
 
 Tas, kas neteisėtai įgijo ar perleido informaciją, kuri yra Lietuvos Respublikos valstybės paslaptis, arba neteisėtai laikė materialius objektus, kurių turinys ar informacija apie juos yra Lietuvos Respublikos valstybės paslaptis, jeigu nebuvo šnipinėjimo požymių,
@@ -12998,3 +12982,5 @@ Lietuvos Respublikos baudžiamojo kodekso 9-1 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3050, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19821
 Lietuvos Respublikos baudžiamojo kodekso 285 straipsnio ir priedo pakeitimo įstatymas
+
+40. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1226 dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama Direktyva (ES) 2018/1673.
