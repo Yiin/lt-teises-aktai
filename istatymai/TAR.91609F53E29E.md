@@ -343,6 +343,11 @@ Gauti socialines paslaugas turi teisę:
 
 
 2. Socialinių paslaugų įstaigos ir socialines paslaugas teikiantys fiziniai asmenys šio straipsnio 1 dalyje nurodytais tikslais tvarko asmens duomenis, įskaitant specialių kategorijų asmens duomenis, susijusius su asmens sveikatos būkle (diagnozuotos ligos, gydymas, medikamentai, neįgalumo ar dalyvumo lygis), vadovaudamiesi Reglamentu (ES) 2016/679, Asmens duomenų teisinės apsaugos įstatymu ir kitais asmens duomenų apsaugą ir tvarkymą reglamentuojančiais teisės aktais. 
+
+
+
+
+15. Individualios priežiūros darbuotojais dirbantys asmenys, kurie socialinės apsaugos ir darbo ministro nustatyta tvarka išklausę 40 akademinių valandų įžanginius mokymus pradėjo dirbti iki 2024 m. birželio 30 d., išskyrus slaugytojo padėjėjo profesinę kvalifikaciją įgijusius asmenis, šio įstatymo 4 straipsnyje išdėstyto Socialinių paslaugų įstatymo 21 straipsnio 10 dalies 2 punkte nustatytus ne trumpesnius kaip 160 akademinių valandų mokymus turi išklausyti iki 2027 m. liepos 1 d. 
  
 
 
