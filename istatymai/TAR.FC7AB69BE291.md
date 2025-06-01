@@ -2252,7 +2252,7 @@ Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 
 
 
-9. Konkursas naudoti jūrinę teritoriją Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje nustatytose dalyse, plėtojant ne didesnės, negu šiame nutarime nustatytos, leistinos generuoti galios elektrines, sandorio kainai, kuri turi būti didesnė už žemiausią ribą ir mažesnė už Valstybinės energetikos reguliavimo tarybos patvirtintą didžiausią galimą sandorio kainą arba jai lygi, ir metiniam elektros energijos gamybos kiekiui, kuriam konkurso dalyvis pageidauja laimėti sandorio kainą, (toliau – skatinamas kiekis) organizuojamas vadovaujantis Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka. Šio straipsnio 1 dalyje numatytų tyrimų ir kitų veiksmų rezultatai bei šių tyrimų ir kitų veiksmų atlikimo išlaidos viešai paskelbiami per 5 kalendorines dienas nuo jų gavimo dienos, tačiau ne vėliau, negu skelbiama informacija apie planuojamą organizuoti konkursą. Konkurso dalyvių registracija trunka 90 kalendorinių dienų nuo informacijos apie planuojamą organizuoti konkursą paskelbimo dienos. Valstybinė energetikos reguliavimo taryba konkurso laimėtoją nustato per 60 kalendorinių dienų nuo konkurso dalyvių registracijos pabaigos. Šis terminas gali būti pratęstas 30 kalendorinių dienų motyvuotu konkurso komiteto, sudaryto Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka, prašymu. Į konkurso laimėtojo nustatymo terminus neįskaičiuojama šio straipsnio 19 dalyje numatytos patikros dėl atitikties nacionalinio saugumo interesams trukmė. Informacijos apie planuojamą organizuoti konkursą paskelbimo diena nurodoma Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje. Neįvykus konkursui šio straipsnio 10 dalyje numatytais atvejais, Vyriausybė nustato naują konkurso paskelbimo datą. 
+9. Konkursas naudoti jūrinę teritoriją Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje nustatytose dalyse, plėtojant ne didesnės, negu šiame nutarime nustatytos, leistinos generuoti galios elektrines, sandorio kainai, kuri turi būti didesnė už žemiausią ribą ir mažesnė už Valstybinės energetikos reguliavimo tarybos patvirtintą didžiausią galimą sandorio kainą arba jai lygi, ir metiniam elektros energijos gamybos kiekiui, kuriam konkurso dalyvis pageidauja laimėti sandorio kainą, (toliau – skatinamas kiekis) organizuojamas vadovaujantis Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka. Šio straipsnio 1 dalyje numatytų tyrimų ir kitų veiksmų rezultatai bei šių tyrimų ir kitų veiksmų atlikimo išlaidos viešai paskelbiami per 5 kalendorines dienas nuo jų gavimo dienos, tačiau ne vėliau, negu skelbiama informacija apie planuojamą organizuoti konkursą. Konkurso dalyvių registracija trunka 90 kalendorinių dienų nuo informacijos apie planuojamą organizuoti konkursą paskelbimo dienos. Valstybinė energetikos reguliavimo taryba konkurso laimėtoją nustato per 60 kalendorinių dienų nuo konkurso dalyvių registracijos pabaigos. Šis terminas gali būti pratęstas 30 kalendorinių dienų motyvuotu konkurso komiteto, sudaryto Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka, prašymu. Į konkurso laimėtojo nustatymo terminus neįskaičiuojama šio straipsnio 19 dalyje numatytos patikros dėl atitikties nacionalinio saugumo interesams trukmė. Informacijos apie planuojamą organizuoti konkursą paskelbimo diena nurodoma Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje. Neįvykus konkursui šio straipsnio 10 dalyje numatytais atvejais, Vyriausybė nustato naują konkurso paskelbimo datą.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
  
@@ -2262,25 +2262,13 @@ Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
 
 10. Konkursas laikomas neįvykusiu ir naują konkurso paskelbimo datą nustato Vyriausybė, kai:
 
-
 1) dalyvauti konkurse užsiregistruoja mažiau negu du dalyviai;
-
-
-
 
 2) į konkurso dalyvių sąrašą įrašyti mažiau negu du konkurso dalyviai;
 
-
-
-
 3) į potencialių konkurso laimėtojų sąrašą neįrašomas nė vienas konkurso dalyvis;
 
-
-
-
-4) potencialiu konkurso laimėtoju laikomas konkurso dalyvis, vadovaujantis Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymu, nustatomas kaip neatitinkantis nacionalinio saugumo interesų arba atsisaka būti konkurso laimėtoju ir potencialių konkurso laimėtojų sąraše nėra įrašyta daugiau konkurso dalyvių. 
-
-
+4) potencialiu konkurso laimėtoju laikomas konkurso dalyvis, vadovaujantis Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymu, nustatomas kaip neatitinkantis nacionalinio saugumo interesų arba atsisaka būti konkurso laimėtoju ir potencialių konkurso laimėtojų sąraše nėra įrašyta daugiau konkurso dalyvių.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
  
@@ -2614,21 +2602,11 @@ Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
 
 31. Leidimo plėtrai ir eksploatacijai galiojimą Valstybinė energetikos reguliavimo taryba sustabdo, jeigu:
 
-
 1) išdavus leidimą plėtrai ir eksploatacijai leidimo galiojimo laikotarpiu paaiškėja, kad konkursui pateiktuose dokumentuose pateikti netikslūs duomenys arba duomenys turi trūkumų;
-
-
-
 
 2) leidimo plėtrai ir eksploatacijai turėtojas pažeidė šio straipsnio 29 dalies 3 ir 4 punktuose, kai konkursas organizuotas vadovaujantis šiuo straipsniu, ar šio įstatymo 22^1 straipsnio 9 dalies 2 ir 3 punktuose, kai konkursas organizuotas vadovaujantis šio įstatymo 22^1 straipsniu, nustatytas reguliuojamos veiklos sąlygas, išskyrus atvejus, kai pastatoma mažesnės, negu nurodyta ketinimų protokole, leistinos generuoti galios ir (ar) įrengtosios galios elektrinė;
 
-
-
-
 3) leidimo plėtrai ir eksploatacijai turėtojas ilgiau negu vienus metus nevykdo įsipareigojimų, susijusių su mokesčių, įskaitant socialinio draudimo įmokas, taip pat, kai leidimas plėtrai ir eksploatacijai gautas šiame straipsnyje nustatyta tvarka, sandorio kainos ir vystymo mokesčio mokėjimu, išskyrus atvejus, kai neįvykdytų įsipareigojimų, susijusių su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, suma yra mažesnė kaip 50 eurų;
-
-
-
 
 4) leidimo plėtrai ir eksploatacijai turėtojas leidimo galiojimo laikotarpiu neatitinka šio straipsnio 26 dalyje nurodyto reikalavimo dėl atitikties europinės ir transatlantinės integracijos kriterijams.
 
@@ -2641,7 +2619,6 @@ Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
 
 
 33. Leidimo plėtrai ir eksploatacijai galiojimą Valstybinė energetikos reguliavimo taryba panaikina, jeigu:
-
 
 1) leidimo plėtrai ir eksploatacijai turėtojas, kurio leidimo galiojimas jau buvo sustabdytas, pakartotinai per 12 mėnesių nuo šio leidimo galiojimo sustabdymo dienos pažeidžia šio straipsnio 29 dalies 4 punkte nustatytas reguliuojamos veiklos sąlygas;
 
@@ -2703,21 +2680,11 @@ Nr. XIV-2937, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13610
 
 38. Leidimo plėtrai ir eksploatacijai turėtojas Vyriausybės nustatyta tvarka į atskirą valstybės iždo sąskaitą lėšas perveda šiais atvejais:
 
-
 1) kai nesilaiko pagal šio straipsnio 11 dalies 2 punktą prisiimtų veiklos sąlygų ir įsipareigojimų, išskyrus atvejus, kai prisiimta veiklos sąlyga ir įsipareigojimas įvykdyti vėluoja dėl valstybės, kitų asmenų veiksmų ar neveikimo arba nenugalimos jėgos aplinkybių, kitų aplinkybių, kurių leidimo plėtrai ir eksploatacijai turėtojas negalėjo kontroliuoti, protingai numatyti ir negalėjo užkirsti kelio šioms aplinkybėms ar jų pasekmėms atsirasti, ir kai nėra leidimo plėtrai ir eksploatacijai turėtojo kaltės. Šiuo atveju leidimo plėtrai ir eksploatacijai turėtojas sumoka baudą, lygią prisiimtiems įsipareigojimams;
-
-
-
 
 2) kai nesilaiko šio straipsnio 29 dalies 1 ir (ar) 2 punktuose, kai konkursas organizuotas vadovaujantis šiuo straipsniu, ar šio įstatymo 22^1 straipsnio 9 dalies 1 ir (ar) 1^1 punktuose, kai konkursas organizuotas vadovaujantis šio įstatymo 22^1 straipsniu, nustatytų veiklos sąlygų ir per nustatytą terminą nuo leidimo plėtrai ir eksploatacijai gavimo dienos nėra gavęs statybą leidžiančio dokumento ir (ar) su perdavimo sistemos operatoriumi pasirašęs atsinaujinančius išteklius naudojančių elektrinių prijungimo prie elektros tinklų paslaugos sutarties. Šiuo atveju leidimo plėtrai ir eksploatacijai turėtojas už kiekvieną pradelstą dieną sumoka baudą, apskaičiuojamą 0,0342 Eur/kW dauginant iš laikotarpio nuo dienos, kai leidimo plėtrai ir eksploatacijai turėtojas turėjo gauti statybą leidžiantį dokumentą ir (ar) su perdavimo sistemos operatoriumi pasirašyti atsinaujinančius išteklius naudojančių elektrinių prijungimo prie elektros tinklų paslaugos sutartį, iki dienos, kai šis dokumentas gaunamas arba leidimas plėtrai ir eksploatacijai panaikinamas šio straipsnio 33 dalyje numatytais pagrindais;
 
-
-
-
 3) kai nesilaiko šio straipsnio 29 dalies 7 punkte nustatytų veiklos sąlygų ir neteikia ataskaitų apie elektrinių plėtros jūrinėje teritorijoje projekto įgyvendinimo eigą ir kitus įsipareigojimus. Šiuo atveju leidimo plėtrai ir eksploatacijai turėtojas už kiekvieną pradelstą dieną sumoka baudą, apskaičiuojamą 0,0342 Eur/kW dauginant iš laikotarpio nuo dienos, kai leidimo plėtrai ir eksploatacijai turėtojas turėjo pateikti ataskaitą, iki dienos, kai ją pateikė;
-
-
-
 
 4) kai vykdant šio straipsnio 11 dalies 2 punkte nustatytus reikalavimus konkurso laimėtojas yra įpareigojamas pervesti lėšas į valstybės iždo sąskaitą.
 
