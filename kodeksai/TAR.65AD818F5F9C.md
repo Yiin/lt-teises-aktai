@@ -2725,15 +2725,7 @@ Nr. XIV-1827, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05727
 19 straipsnis. Keleivio vežimo sutartis
 
 
-Keleivio vežimo sutartyje vežėjas įsipareigoja keleivį nuvežti jo biliete arba tam tikrame užsakyme nurodyta transporto priemone, laiku ir maršrutu į paskirties punktą, o keleivis įsipareigoja už nuvežimą sumokėti nustatytą užmokestį.
- 
-
-
-
-
-
-
-20 straipsnis. Keleivio bilietas
+1. Geležinkelio keliams ir jų įrenginiams yra nustatomos apsaugos zonos, kurios skirstomos į viešosios geležinkelių infrastruktūros kelių ir jų įrenginių apsaugos, geležinkelių paslaugų įrenginiams priskiriamų geležinkelio kelių ir jų įrenginių apsaugos, privažiuojamųjų geležinkelio kelių ir jų įrenginių apsaugos, siaurųjų geležinkelių (600 mm ir 750 mm pločio vėžės) ir jų įrenginių apsaugos zonas. Geležinkelio želdiniams nustatomos geležinkelio želdinių apsaugos zonos.20 straipsnis. Keleivio bilietas
 
 
 1. Keleivio bilietas – dokumentas, kuriuo patvirtinama, kad yra sudaryta keleivių vežimo reguliariu reisu sutartis, arba skaitmeninėje duomenų bazėje saugomas įrašas, kuriuo patvirtinama, kad yra sumokėta už vežimo paslaugą. 
