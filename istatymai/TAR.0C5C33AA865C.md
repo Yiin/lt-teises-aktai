@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2025-04-26 iki 2025-05-31
+Suvestinė redakcija nuo 2025-06-01 iki 2026-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -2641,33 +2641,20 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 
 
 
-37 straipsnis. Perdavimo ir skirstymo sistemų operatorių vykdoma gamtinių dujų sistemų plėtra ir gamtinių dujų saugyklų, SGD sistemos ir naujų vartotojų prijungimas 
-Pakeistas straipsnio pavadinimas:
-Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
- 
+37 straipsnis. Perdavimo ir skirstymo sistemų operatorių vykdoma gamtinių dujų sistemų plėtra ir gamtinių dujų saugyklų, SGD sistemos ir naujų vartotojų sistemų prijungimas 
 
 
-1. Perdavimo ir skirstymo sistemų operatoriai nustato ir, gavę Tarybos patvirtinimą, viešai savo interneto svetainėse paskelbia saugyklų, SGD sistemos, skirstymo sistemos operatoriui nuosavybes teise nepriklausančių mažos apimties SGD pakartotinio dujinimo įrenginių ir vartotojų nediskriminacinio prijungimo prie perdavimo ir skirstymo sistemų skaidrias ir veiksmingas procedūras bei įkainius. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
-Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
- 
+1. Perdavimo ir skirstymo sistemų operatoriai nustato ir, gavę Tarybos patvirtinimą, viešai savo interneto svetainėse paskelbia saugyklų, SGD sistemos, skirstymo sistemos operatoriui nuosavybės teise nepriklausančių mažos apimties SGD pakartotinio dujinimo įrenginių ir vartotojų sistemų nediskriminacinio prijungimo prie perdavimo ir skirstymo sistemų skaidrias ir veiksmingas procedūras bei įkainius.
 
 
 
 
-2. Perdavimo sistemos operatorius neturi teisės atsisakyti prijungti naują saugyklą, SGD sistemą ar vartotoją, motyvuodamas turimų tinklo pajėgumų galimais apribojimais ateityje arba papildomomis išlaidomis, susijusiomis su būtinu pajėgumų didinimu. Perdavimo sistemos operatorius užtikrina naujos jungties pakankamą įeinamąjį ir išeinamąjį pajėgumą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
- 
+2. Perdavimo sistemos operatorius neturi teisės atsisakyti prijungti naują saugyklą, SGD sistemą ar vartotojo sistemą, motyvuodamas turimų tinklo pajėgumų galimais apribojimais ateityje arba papildomomis išlaidomis, susijusiomis su būtinu pajėgumų didinimu. Perdavimo sistemos operatorius užtikrina naujos jungties pakankamą įeinamąjį ir išeinamąjį pajėgumą.
 
 
 
 
-3. Naujas perdavimo ar skirstymo sistemas nedujofikuotoje teritorijoje turi teisę įrengti asmenys, įgiję šią teisę konkurso būdu. Konkurso metu asmenys Tarybai pateikia rinkos tyrimų, įvertinančių dujų naudojimo dešimties metų laikotarpiu prognozes nedujofikuotoje teritorijoje, rezultatus ir naujų perdavimo ar skirstymo sistemų nedujofikuotoje teritorijoje investicijų projektus. Konkurso metu geriausias pasiūlymas išrenkamas vadovaujantis šiais kriterijais: gamtinių dujų transportavimo kainos viršutinė riba nedujofikuotos teritorijos vartotojams; numatytu paskirstyti dujų kiekiu; investicijų mastu pagal numatomų pastatyti dujotiekio tinklų ilgį bei atsižvelgus į tiekimo patikimumo, reguliarumo, kokybės, vartotojų apsaugos reikalavimus. Sprendimą leisti įrengti naujas sistemas priima Taryba, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos patvirtintomis naujų sistemų nedujofikuotoje (naujai dujofikuojamoje) teritorijoje įrengimo tvarkos taisyklėmis. Tarybos sprendimas leisti įrengti naujas perdavimo ar skirstymo sistemas yra privaloma sąlyga išduodant leidimą statyti šiuos objektus Lietuvos Respublikos statybos įstatymo nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
- 
+3. Naujas perdavimo ar skirstymo sistemas nedujofikuotoje teritorijoje turi teisę įrengti asmenys, įgiję šią teisę konkurso būdu. Konkurso metu asmenys Tarybai pateikia rinkos tyrimų, įvertinančių dujų naudojimo dešimties metų laikotarpiu prognozes nedujofikuotoje teritorijoje, rezultatus ir naujų perdavimo ar skirstymo sistemų nedujofikuotoje teritorijoje investicijų projektus. Konkurso metu geriausias pasiūlymas išrenkamas vadovaujantis šiais kriterijais: gamtinių dujų transportavimo kainos viršutinė riba nedujofikuotos teritorijos vartotojams; numatytu paskirstyti dujų kiekiu; investicijų mastu pagal numatomų pastatyti dujotiekio tinklų ilgį bei atsižvelgus į tiekimo patikimumo, reguliarumo, kokybės, vartotojų apsaugos reikalavimus. Sprendimą leisti įrengti naujas sistemas priima Taryba, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos patvirtintomis naujų sistemų nedujofikuotoje (naujai dujofikuojamoje) teritorijoje įrengimo tvarkos taisyklėmis. Tarybos sprendimas leisti įrengti naujas perdavimo ar skirstymo sistemas yra privaloma sąlyga išduodant leidimą statyti šiuos objektus Statybos įstatymo nustatyta tvarka. 
 
 
 
@@ -2678,26 +2665,25 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
 
 5. Taryba parengia ir patvirtina prijungimo įkainių nustatymo metodiką. Taryba tvirtina naujų buitinių vartotojų sistemų prijungimo įkainius. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
- 
 
 
 
 
-6. Perdavimo ar skirstymo sistemos operatoriai padengia ekonomiškai pagrįstas sistemos plėtros ir prie perdavimo ar skirstymo sistemos prijungiamų vartotojų prijungimo išlaidas. Prie perdavimo ar skirstymo sistemos prijungiami vartotojai padengia ekonomiškai pagrįstas prijungimo išlaidas viršijančias išlaidas. Prie skirstymo sistemos prijungiamas nebuitinis vartotojas turi teisę, suderinęs su skirstymo sistemos operatoriumi, Energetikos ministerijos nustatyta tvarka savo lėšomis organizuoti skirstymo sistemos įrengimo darbus ir ją įrengti, jeigu įrengiamos skirstymo sistemos pajėgumas yra ne mažesnis kaip 40 MWh/val. Šiuo atveju nebuitinio vartotojo atlikti skirstymo sistemos įrengimo darbai laikomi nebuitinio vartotojo prijungimo prie skirstymo sistemos paslaugos dalimi ir ši nebuitinio vartotojo įrengta skirstymo sistema yra skirstymo sistemos operatoriaus nuosavybė. Prie šios skirstymo sistemos prijungiant kitus vartotojus, už jos įrengimą ir (ar) naudojimą įrengimą atlikusiam nebuitiniam vartotojui neatlyginama.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1457, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11770
- 
+6. Perdavimo ar skirstymo sistemos operatoriai padengia ekonomiškai pagrįstas sistemos plėtros ir prie perdavimo ar skirstymo sistemos prijungiamų vartotojų sistemų prijungimo išlaidas. Vartotojai, kurių sistemos prijungiamos prie perdavimo ar skirstymo sistemos, padengia ekonomiškai pagrįstas prijungimo išlaidas viršijančias išlaidas.
 
 
 
 
-7. Prijungimo prie esamų gamtinių dujų sistemų išlaidos negali būti pripažintos pagrįstomis, jeigu dėl jų padidėtų kainos esamiems sistemų naudotojams ir gamtinių dujų vartotojams. Naujai dujofikuojamoms teritorijoms atsipirkimo laikotarpiui gali būti nustatyta tokia gamtinių dujų perdavimo ir skirstymo kaina, kuri padengtų investicijas.
+7. Prijungimo prie esamų gamtinių dujų sistemų išlaidos negali būti pripažintos pagrįstomis, jeigu dėl jų padidėtų kainos esamiems sistemų naudotojams ir gamtinių dujų vartotojams. Naujai dujofikuojamoms teritorijoms atsipirkimo laikotarpiu gali būti nustatyta tokia gamtinių dujų perdavimo ir skirstymo kaina, kuri padengtų investicijas.
+
+
+
+
+8. Kai prie skirstymo sistemos prijungiama vartotojo sistema arba didinami skirstymo sistemos pajėgumai, išskyrus atvejus, kai prijungiant vartotojo sistemą arba didinant skirstymo sistemos pajėgumus prijungimo paslaugos kaina yra apskaičiuojama vadovaujantis Tarybos patvirtintais įkainiais, arba kai asmuo pageidauja perkelti, pertvarkyti (rekonstruoti) ar išmontuoti skirstymo sistemą, šis vartotojas ar kitas asmuo, pageidaujantis perkelti, pertvarkyti (rekonstruoti) ar išmontuoti skirstymo sistemą, turi teisę, suderinęs su skirstymo sistemos operatoriumi, energetikos ministro nustatyta tvarka savo lėšomis skirstymo sistemos operatoriaus vardu organizuoti ir vykdyti skirstymo sistemos projektavimą, įrengimą, įskaitant jos perkėlimą, pertvarkymą (rekonstravimą) ar išmontavimą, ir kitus darbus skirstymo sistemoje, jos objektuose ar atskirose jos dalyse. Šiuo atveju skirstymo sistema ir jos objektai ar atskiros jos dalys, kuriuos vartotojas ar kitas asmuo, pageidaujantis perkelti, pertvarkyti (rekonstruoti) ar išmontuoti skirstymo sistemą, įrengė, įskaitant jos perkėlimą, pertvarkymą (rekonstravimą) ar išmontavimą, ar kuriuose atliko kitus darbus, yra skirstymo sistemos operatoriaus nuosavybė. Kai prie šios skirstymo sistemos prijungiamos kitų vartotojų sistemos, už jų įrengimą ir (ar) naudojimą, įskaitant jų perkėlimą, pertvarkymą (rekonstravimą) ar išmontavimą, ar kitus darbus juos atlikusiam vartotojui ar kitam asmeniui nėra atlyginama.
 
 
 Straipsnio pakeitimai:
-Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
  
 
 
@@ -4038,7 +4024,10 @@ Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
 
 
 
-2) būtina atlikti remontą ar kitų vartotojų sistemų prijungimo darbus;
+2) būtina atlikti gamtinių dujų sistemos techninę priežiūrą, rekonstravimą, remontą ar gamtinių dujų sistemų prijungimo darbus, išskyrus darbus, nurodytus šio straipsnio 61 dalyje. Gavusi vartotojo sutikimą, šiame punkte nurodytais atvejais gamtinių dujų įmonė turi teisę taikyti trumpesnį įspėjimo terminą. Vartotojo sutikimas pateikiamas elektroninių ryšių priemonėmis, paštu, kreipiantis asmeniškai arba per vartotojo įgaliotą atstovą; 
+Straipsnio punkto pakeitimai:
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
+ 
 
 
 
@@ -4046,6 +4035,22 @@ Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
 3) vartotojas nesutinka įleisti perdavimo sistemos ar skirstomųjų sistemų operatoriaus į vartotojo teritoriją ir (ar) patalpas įrengti, prižiūrėti arba pakeisti gamtinių dujų apskaitos prietaisų ar fiksuoti jų rodmenis.
 
 
+
+
+
+
+61. Kai dėl gamtinių dujų apskaitos prietaisų įrengimo, keitimo, išmontavimo ar kitų gamtinių dujų apskaitos prietaisų techninės priežiūros darbų būtina ne ilgiau kaip vienai valandai buitiniams vartotojams nutraukti gamtinių dujų perdavimą, skirstymą ar tiekimą, gamtinių dujų įmonė turi teisę nutraukti gamtinių dujų perdavimą, skirstymą ar tiekimą, raštu arba trumpąja žinute (SMS) apie tai įspėjusi buitinius vartotojus ne vėliau kaip prieš valandą, ir nurodyti darbų atlikimo datą ir trukmę. 
+Papildyta straipsnio dalimi:
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
+ 
+
+
+
+
+62. Gamtinių dujų įmonė visais atvejais apie per artimiausias 10 dienų numatomus atlikti šio straipsnio 61 dalyje nurodytus darbus raštu informuoja buitinius vartotojus. 
+Papildyta straipsnio dalimi:
+Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
+ 
 
 
 
