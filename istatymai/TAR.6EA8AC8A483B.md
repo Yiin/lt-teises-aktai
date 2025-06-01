@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2025-04-01 iki 2025-05-31
+Suvestinė redakcija nuo 2025-06-01
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -1947,7 +1947,10 @@ Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
 19 straipsnis. Geležinkelio kelių ir jų įrenginių, geležinkelio želdinių apsaugos zonos
 
 
-1. Geležinkelio keliams ir jų įrenginiams yra nustatomos apsaugos zonos, kurios skirstomos į viešosios geležinkelių infrastruktūros kelių ir jų įrenginių apsaugos, privažiuojamųjų geležinkelio kelių ir jų įrenginių apsaugos, siaurųjų geležinkelių (600 mm ir 750 mm pločio vėžės) ir jų įrenginių apsaugos bei geležinkelio želdinių apsaugos zonas. 
+1. Geležinkelio keliams ir jų įrenginiams yra nustatomos apsaugos zonos, kurios skirstomos į viešosios geležinkelių infrastruktūros kelių ir jų įrenginių apsaugos, geležinkelių paslaugų įrenginiams priskiriamų geležinkelio kelių ir jų įrenginių apsaugos, privažiuojamųjų geležinkelio kelių ir jų įrenginių apsaugos, siaurųjų geležinkelių (600 mm ir 750 mm pločio vėžės) ir jų įrenginių apsaugos zonas. Geležinkelio želdiniams nustatomos geležinkelio želdinių apsaugos zonos. 
+Straipsnio dalies pakeitimai:
+Nr. XV-200, 2025-05-15, paskelbta TAR 2025-05-16, i. k. 2025-08775
+ 
 
 
 
@@ -5361,3 +5364,8 @@ Lietuvos Respublikos geležinkelių transporto kodekso 9, 23-1 ir 30-2 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-121, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04415
 Lietuvos Respublikos geležinkelių transporto kodekso 3 ir 34 straipsnių pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-200, 2025-05-15, paskelbta TAR 2025-05-16, i. k. 2025-08775
+Lietuvos Respublikos geležinkelių transporto kodekso 19 straipsnio pakeitimo įstatymas
