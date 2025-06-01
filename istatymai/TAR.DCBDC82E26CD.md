@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DCBDC82E26CD"
 
 # Lietuvos Respublikos gyventojų registro įstatymas
 
-Suvestinė redakcija nuo 2022-01-02 iki 2025-05-31
+Suvestinė redakcija nuo 2025-06-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 21-0; Žin. 1992, Nr.5-78, i. k. 0921010ISTA00I-2237
  
@@ -286,9 +286,10 @@ Nr. XII-2116, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19704
 
 
 
-19) asmens kontaktiniai duomenys (Nacionalinės elektroninių siuntų pristatymo, naudojant pašto tinklą, informacinės sistemos aktyvuotos elektroninio pristatymo dėžutės adresas; elektroninio pašto adresas ir fiksuotojo arba judriojo ryšio telefono numeris, kurie naudojami susisiekti su asmenimis teikiant jiems Gyventojų registro duomenis, dokumentus ar informaciją pagal pateiktus prašymus, informuojant asmenis apie jiems išduoto kvalifikuoto elektroninio parašo sertifikato galiojimo sustabdymą ar galiojimo atšaukimą). 
+19) asmens kontaktiniai duomenys (Nacionalinės elektroninių siuntų pristatymo naudojant pašto tinklą informacinės sistemos aktyvuotos elektroninio pristatymo dėžutės adresas; elektroninio pašto adresas ir fiksuotojo arba mobiliojo ryšio numeris, kurie naudojami susisiekti su asmenimis teikiant jiems Gyventojų registro duomenis, dokumentus ar informaciją pagal pateiktus prašymus bei šio įstatymo 11 straipsnio 8 dalyje nurodytais tikslais, taip pat informuojant asmenis apie jiems išduoto kvalifikuoto elektroninio parašo sertifikato galiojimo sustabdymą ar galiojimo atšaukimą.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2975, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12207
+Nr. XV-187, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08683
  
 
 
@@ -385,6 +386,13 @@ Nr. XIV-729, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25847
 
 
 7. Informacija apie asmens tautybę, neveiksnumą ir veiksnumo apribojimą kitiems asmenims ir institucijoms gali būti teikiama tik įstatymų ar kitų teisės aktų nustatytoms tiesioginėms funkcijoms atlikti. 
+
+
+
+
+8. Su okupacijų laikotarpiu žuvusiais, dingusiais be žinios, represuotais, persekiotais, nukentėjusiais Lietuvos gyventojais, pasipriešinimo okupacijoms dalyviais, laisvės kovotojais giminystės ir svainystės ryšiais susijusių asmenų elektroninio pašto adresas ir fiksuotojo arba mobiliojo ryšio numeris gali būti teikiami Lietuvos gyventojų genocido ir rezistencijos tyrimo centrui, kai to reikia organizuojant okupacijų laikotarpiu žuvusių, dingusių be žinios, represuotų, persekiotų, nukentėjusių Lietuvos gyventojų, pasipriešinimo okupacijoms dalyvių, laisvės kovotojų palaikų identifikavimą, ieškant jų giminaičių.
+Papildyta straipsnio dalimi:
+Nr. XV-187, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08683
  
 
 
@@ -575,3 +583,8 @@ Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 9, 10, 11, 13, 14 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-729, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25847
 Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 11 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-187, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08683
+Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 9 ir 11 straipsnių pakeitimo įstatymas
