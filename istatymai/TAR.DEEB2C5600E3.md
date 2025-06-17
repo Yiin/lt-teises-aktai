@@ -89,7 +89,7 @@ Konstitucinį Teismą sudaro 9 teisėjai, skiriami devyneriems metams ir tik vie
 
 
 
-Konstitucinis Teismas kas treji metai atnaujinamas vienu trečdaliu. Konstitucinio Teismo teisėjus, taip pat ir atnaujinant Teismo sudėtį, skiria Seimas po lygiai iš kandidatų, kuriuos pateikia Respublikos Prezidentas, Seimo Pirmininkas ir Aukščiausiojo Teismo pirmininkas. Teisėjų kadencijos pabaiga yra atitinkamų metų kovo mėnesio trečiasis ketvirtadienis. Valstybės pareigūnai, pagal Lietuvos Respublikos Konstituciją teikiantys Konstitucinio Teismo teisėjų kandidatūras, privalo ne vėliau kaip prieš tris mėnesius iki eilinės teisėjų kadencijos pabaigos pateikti Seimui naujų teisėjų kandidatūras. Naujai paskirti Konstitucinio Teismo teisėjai Seime prisiekia paskutinę iki jų kadencijos pradžios darbo dieną. Nustatytu laiku nepaskyrus naujo teisėjo, jo pareigas eina kadenciją baigęs teisėjas tol, kol bus paskirtas ir prisieks naujas teisėjas.
+Konstitucinis Teismas kas treji metai atnaujinamas vienu trečdaliu. Konstitucinio Teismo teisėjus, taip pat ir atnaujinant Teismo sudėtį, skiria Seimas po vieną iš kandidatų, kuriuos pateikia Respublikos Prezidentas, Seimo Pirmininkas ir Aukščiausiojo Teismo pirmininkas. Teisėjų kadencijos pabaiga yra atitinkamų metų kovo mėnesio trečiasis ketvirtadienis. Valstybės pareigūnai, pagal Lietuvos Respublikos Konstituciją teikiantys Konstitucinio Teismo teisėjų kandidatūras, privalo ne vėliau kaip prieš šešis mėnesius iki teisėjų kadencijos pabaigos pateikti Seimui naujų teisėjų kandidatūras. Naujai paskirti Konstitucinio Teismo teisėjai Seime prisiekia paskutinę iki jų kadencijos pradžios darbo dieną. Nustatytu laiku nepaskyrus naujo teisėjo, jo pareigas eina kadenciją baigęs teisėjas tol, kol bus paskirtas ir prisieks naujas teisėjas.
 
 
 
@@ -103,13 +103,7 @@ Konstitucinio Teismo pirmininką iš šio teismo teisėjų skiria Seimas Respubl
 
 
 Straipsnio pakeitimai: 
-Nr. I-1475, 96.07.11, Žin., 1996, Nr.73-1749 (96.07.31) 
- 
-
-
-
-
-5 straipsnis. Kandidatai į Konstitucinio Teismo teisėjus 
+Nr. I-1475, 96.07.11, Žin., 1996, Nr.73-1749 (96.07.31)5 straipsnis. Kandidatai į Konstitucinio Teismo teisėjus 
 
 
 Konstitucinio Teismo teisėju gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį teisinį išsilavinimą ir ne mažesnį kaip dešimties metų teisinio ar mokslinio pedagoginio darbo pagal teisininko specialybę stažą.
