@@ -4822,13 +4822,13 @@ Nr. XIV-182, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01354
 
 
 
-137 straipsnis. Neteisėtas stiprių alkoholinių gėrimų, brogos, nedenatūruoto ar denatūruoto etilo alkoholio, jų skiedinių (mišinių) gaminimas, įgijimas, laikymas, gabenimas arba naminių stiprių alkoholinių gėrimų gamybos įrangos gaminimas, laikymas, gabenimas ar realizavimas 
+137 straipsnis. Neteisėtas stiprių alkoholinių gėrimų, raugalo, nedenatūruoto ar denatūruoto etilo alkoholio, jų skiedinių (mišinių) gaminimas, įgijimas, laikymas, gabenimas arba naminių stiprių alkoholinių gėrimų gamybos įrangos gaminimas, laikymas, gabenimas ar realizavimas 
 Pakeistas straipsnio pavadinimas:
 Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
- 
+ 
 
 
-1. Gyvenamųjų ar kitų patalpų suteikimas naminiams stipriems alkoholiniams gėrimams, brogai, nedenatūruotam etilo alkoholiui, denatūruotam etilo alkoholiui ir jų skiediniams (mišiniams) gaminti ar laikyti
+1. Gyvenamųjų ar kitų patalpų suteikimas naminiams stipriems alkoholiniams gėrimams, raugalui, nedenatūruotam etilo alkoholiui, denatūruotam etilo alkoholiui ir jų skiediniams (mišiniams) gaminti ar laikyti
 užtraukia įspėjimą gyvenamųjų ar kitų patalpų savininkams.
 
 
@@ -4840,7 +4840,7 @@ užtraukia baudą nuo trijų šimtų devyniasdešimt iki septynių šimtų trisd
 
 
 
-3. Naminių stiprių alkoholinių gėrimų, brogos, nedenatūruoto etilo alkoholio, denatūruoto etilo alkoholio ir jų skiedinių (mišinių) gaminimas, įgijimas, laikymas, gabenimas 
+3. Naminių stiprių alkoholinių gėrimų, raugalo, nedenatūruoto etilo alkoholio, denatūruoto etilo alkoholio ir jų skiedinių (mišinių) gaminimas, įgijimas, laikymas, gabenimas
 užtraukia baudą nuo vieno šimto aštuoniasdešimt iki septynių šimtų aštuoniasdešimt eurų. 
 
 
@@ -4856,7 +4856,7 @@ užtraukia baudą nuo septynių šimtų dvidešimt iki vieno tūkstančio penki�
 užtraukia baudą nuo septynių šimtų iki vieno tūkstančio trijų šimtų eurų 
 Papildyta straipsnio dalimi:
 Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
- 
+ 
 
 
 
@@ -4865,25 +4865,19 @@ Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
 užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių trijų šimtų eurų. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
- 
+ 
 
 
 
 
-7. Už šio straipsnio 3, 4, 5, 6 dalyse numatytus administracinius nusižengimus privaloma skirti naminių stiprių alkoholinių gėrimų, brogos, nedenatūruoto etilo alkoholio, denatūruoto etilo alkoholio ir jų skiedinių (mišinių), taip pat jų gamybos įrangos konfiskavimą.
+7. Už šio straipsnio 3, 4, 5, 6 dalyse numatytus administracinius nusižengimus privaloma skirti naminių stiprių alkoholinių gėrimų, raugalo, nedenatūruoto etilo alkoholio, denatūruoto etilo alkoholio ir jų skiedinių (mišinių), taip pat jų gamybos įrangos konfiskavimą.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
- 
+ 
 
 
 Straipsnio pakeitimai:
-Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
- 
-
-
-
-
-138 straipsnis. Cigarų ir (ar) pypkių klubų įrengimo tvarkos aprašo pažeidimas
+Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857138 straipsnis. Cigarų ir (ar) pypkių klubų įrengimo tvarkos aprašo pažeidimas
 
 
 1. Cigarų ir (ar) pypkių klubų įrengimo tvarkos apraše nustatytų reikalavimų pažeidimas
@@ -4893,15 +4887,7 @@ užtraukia baudą juridinių asmenų, valdančių cigarų ir (ar) pypkių klubus
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo aštuonių šimtų dvidešimt iki vieno tūkstančio penkių šimtų eurų.
- 
-
-
-
-
-
-
-139 straipsnis. Prekių, paslaugų, žaliavų kokybės ir saugos reikalavimų pažeidimas
+užtraukia baudą nuo aštuonių šimtų dvidešimt iki vieno tūkstančio penkių šimtų eurų.139 straipsnis. Prekių, paslaugų, žaliavų kokybės ir saugos reikalavimų pažeidimas
 
 
 1. Prekių, paslaugų, žaliavų, kurių kokybė, eksploatacinės savybės, sudėtis, komplektiškumas ir pakuotė neatitinka technologinių normų, receptūrų, techninių specifikacijų (sąlygų), standartų ir kitų deklaruojamų dokumentų, teisės aktų nustatytų privalomų kokybės reikalavimų, įskaitant deklaruotų eksploatacinių savybių neatitinkančius statybos produktus, pateikimas rinkai, tiekimas rinkai, pardavimas, realizavimas, taip pat prekių pateikimas rinkai, tiekimas rinkai, pardavimas, paslaugų teikimas, žaliavų realizavimas be būtinų kokybę ir saugą patvirtinančių dokumentų, montavimo, instaliavimo, surinkimo ar naudojimo instrukcijų, šių dokumentų nesaugojimas ir nepateikimas rinkos priežiūrą vykdančiai institucijai teisės aktuose nustatytais terminais, išskyrus šio straipsnio 7 dalyje numatytus atvejus,
@@ -4941,15 +4927,7 @@ užtraukia baudą asmenims, kurie verčiasi individualia veikla, nuo šešiasde�
 
 
 7. Privalomų kokybės rodiklių, standartų, techninių sąlygų ar gamintojo nurodytų sąlygų neatitinkančių naftos produktų, išskyrus valstybės atsargas, pardavimas, tiekimas ar realizavimas
-užtraukia baudą įmonių vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
- 
-
-
-
-
-
-
-140 straipsnis. Metrologijos srities teisės aktų pažeidimas
+užtraukia baudą įmonių vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio vieno šimto penkiasdešimt eurų.140 straipsnis. Metrologijos srities teisės aktų pažeidimas
 
 
 1. Į Teisinio metrologinio reglamentavimo sritims priskirtų matavimo priemonių ir jų grupių sąrašą (toliau – Matavimo priemonių sąrašas) įtrauktų matavimo priemonių, kurių teisinis metrologinis patvirtinimas techninių reglamentų ar kitų metrologijos srities teisės aktų nustatyta tvarka neatliktas arba kurių patikros žymuo ar plomba yra pažeisti, pateikimas rinkai ar tiekimas rinkai arba naudojimas teisinio metrologinio reglamentavimo srityse, fasuotų prekių, kurių produkto kiekis nurodytas įraše ant pakuotės, ar matavimo indų, skirtų gėrimams ir kitiems skysčiams supilti bei matuoti, pateikimas rinkai ar tiekimas rinkai arba ženklinimas pažeidžiant metrologijos srities teisės aktų reikalavimus, į Matavimo priemonių sąrašą įtrauktų matavimo priemonių, kurių neatitiktis techniniams reglamentams ar kitiems metrologijos srities teisės aktams nustatyta teisinės metrologinės priežiūros metu, pateikimas rinkai ar tiekimas rinkai arba naudojimas teisinio metrologinio reglamentavimo srityse, parduodant sveriamų, skaičiuojamų, matuojamų arba dozuojamų prekių pateikimas rinkai ar tiekimas rinkai pažeidžiant metrologijos srities teisės aktų reikalavimus, į Matavimo priemonių sąrašą įtrauktų matavimo priemonių, nenurodytų ūkio subjekto tvirtinamame matavimo priemonių sąraše, naudojimas teisinio metrologinio reglamentavimo srityse, į Matavimo priemonių sąrašą įtrauktų matavimo priemonių naudojimas teisinio metrologinio reglamentavimo srityse nesilaikant gamintojo parengtų techninių matavimo priemonių aprašų
@@ -4959,7 +4937,7 @@ užtraukia baudą asmenims nuo penkiasdešimt penkių iki penkių šimtų penkia
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio eurų ir juridinių asmenų, jų filialų vadovams arba užsienio juridinių asmenų ir kitų organizacijų filialų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio iki  dviejų tūkstančių septynių šimtų eurų.
+užtraukia baudą asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio eurų ir juridinių asmenų, jų filialų vadovams arba užsienio juridinių asmenų ir kitų organizacijų filialų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio iki  dviejų tūkstančių septynių šimtų eurų.
 
 
 
@@ -4980,13 +4958,7 @@ užtraukia baudą asmenims nuo vieno tūkstančio iki dviejų tūkstančių sept
 
 
 Straipsnio pakeitimai:
-Nr. XIII-2523, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19117
- 
-
-
-
-
-141 straipsnis. Lietuvos Respublikos strateginių prekių kontrolės įstatymo ir kitų teisės aktų pažeidimas
+Nr. XIII-2523, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19117141 straipsnis. Lietuvos Respublikos strateginių prekių kontrolės įstatymo ir kitų teisės aktų pažeidimas
 
 
 Strateginių prekių eksporto, importo, tranzito ir tarpininkavimo licencijavimo arba kontrolės taisyklių pažeidimas
