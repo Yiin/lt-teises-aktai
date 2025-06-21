@@ -255,7 +255,7 @@ Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
 
 
 
-232. Raugalas – fermentuotas krakmolinių ar cukrinių etilo alkoholio gamybos žaliavų ar melasos pusgaminis, iš kurio distiliuojant išskiriamas alkoholis.
+23-2. Raugalas – fermentuotas krakmolinių ar cukrinių etilo alkoholio gamybos žaliavų ar melasos pusgaminis, iš kurio distiliuojant išskiriamas alkoholis.
 
 
 
@@ -299,7 +299,7 @@ Nr. XIV-1619, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25043
 
 
 
-272. Teikiamo sertifikuoti tradicinio alkoholinio gėrimo pavyzdys – nustatytas kiekis iki 65 procentų tūrinės etilo alkoholio koncentracijos alkoholinio gėrimo, teikiamo sertifikuoti kaip tautinio paveldo produktas, kaip ši sąvoka apibrėžiama Lietuvos Respublikos tautinio paveldo produktų įstatyme.
+27-2. Teikiamo sertifikuoti tradicinio alkoholinio gėrimo pavyzdys – nustatytas kiekis iki 65 procentų tūrinės etilo alkoholio koncentracijos alkoholinio gėrimo, teikiamo sertifikuoti kaip tautinio paveldo produktas, kaip ši sąvoka apibrėžiama Lietuvos Respublikos tautinio paveldo produktų įstatyme.
 
 
 
@@ -466,7 +466,7 @@ Nr. XIV-2974, 2024-09-03, paskelbta TAR 2024-09-10, i. k. 2024-15914
 
 
 
-10^1 straipsnis. Ūkininkų gaminamų tradicinių alkoholinių gėrimų gamybos valstybinis reglamentavimas
+10-1 straipsnis. Ūkininkų gaminamų tradicinių alkoholinių gėrimų gamybos valstybinis reglamentavimas
 
 1. Ūkininkams, apibrėžtiems Ūkininko ūkio įstatyme, nuosavybės teise priklausančioje kaimo turizmo sodyboje teikiantiems kaimo turizmo reikalavimus atitinkančias paslaugas, užtikrinantiems kaimo turizmo paslaugų prieinamumą asmenims su negalia, besiruošiantiems sertifikuoti tradicinius alkoholinius gėrimus, leidžiama pagaminti tik teikiamų sertifikuoti tradicinių alkoholinių gėrimų pavyzdžius, taip pat ūkininkams, Lietuvos Respublikos tautinio paveldo produktų įstatyme nustatyta tvarka sertifikavusiems savo gaminamus tradicinius alkoholinius gėrimus kaip tautinio paveldo produktus, (toliau – ūkininkas) leidžiama gaminti tradicinius alkoholinius gėrimus kaimo turizmo sodybose ne parduoti, o tik savo ar šeimos poreikiams tenkinti ir (arba) degustuoti vietoje.
 
@@ -562,7 +562,7 @@ Nr. XI-1406, 2011-05-24, Žin., 2011, Nr. 65-3049 (2011-05-28)
 
 
 
-2. Gaminti alkoholio produktus, išskyrus šio Įstatymo 10 straipsnyje nurodytus alkoholinius gėrimus ir šio Įstatymo 10^1 straipsnyje nurodytus ūkininkų teikiamus sertifikuoti tradicinių alkoholinių gėrimų pavyzdžius bei gaminamus tradicinius alkoholinius gėrimus, leidžiama tik įmonėms, turinčioms licenciją gaminti šiuos produktus. Licencijas išduoda, papildo, rekvizitus patikslina Narkotikų, tabako ir alkoholio kontrolės departamentas. Licencijos išduodamos neterminuotam laikui.
+2. Gaminti alkoholio produktus, išskyrus šio Įstatymo 10 straipsnyje nurodytus alkoholinius gėrimus ir šio Įstatymo 10-1 straipsnyje nurodytus ūkininkų teikiamus sertifikuoti tradicinių alkoholinių gėrimų pavyzdžius bei gaminamus tradicinius alkoholinius gėrimus, leidžiama tik įmonėms, turinčioms licenciją gaminti šiuos produktus. Licencijas išduoda, papildo, rekvizitus patikslina Narkotikų, tabako ir alkoholio kontrolės departamentas. Licencijos išduodamos neterminuotam laikui.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2974, 2024-09-03, paskelbta TAR 2024-09-10, i. k. 2024-15914
  
