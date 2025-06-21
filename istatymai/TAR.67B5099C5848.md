@@ -6546,16 +6546,16 @@ Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122158 straipsn
 1. Prašymą dėl proceso atnaujinimo surašo pareiškėjas arba jo atstovas, išskyrus šio straipsnio 2 dalyje nurodytus atvejus. Prašymas dėl proceso atnaujinimo pateikiamas raštu arba teisingumo ministro nustatyta tvarka elektronine forma elektroninių ryšių priemonėmis Lietuvos vyriausiajam administraciniam teismui.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1474, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22947
- 
+ 
 
 
 
 
-2. Jeigu prašymas dėl proceso atnaujinimo paduodamas vadovaujantis šio įstatymo 156 straipsnio 2 dalies 10 ir (ar) 12 punktuose nustatytais pagrindais, tokį prašymą surašo advokatas. Šioje dalyje nurodytais atvejais valstybės atstovo, kito juridinio asmens prašymą dėl proceso atnaujinimo taip pat gali surašyti juridinio asmens darbuotojai ar valstybės tarnautojai, turintys aukštąjį universitetinį teisinį išsilavinimą. Jeigu prašymą dėl proceso atnaujinimo šioje dalyje nurodytais atvejais paduoda fizinis asmuo, turintis aukštąjį universitetinį teisinį išsilavinimą, surašyti šį prašymą turi teisę jis pats. Be to, prašymą dėl proceso atnaujinimo šiais atvejais gali surašyti šio įstatymo 47 straipsnio 4 dalies 4 ir 7 punktuose nurodyti asmenys. Prašymą dėl proceso atnaujinimo pasirašo jį paduodantis asmuo ir prašymą surašęs asmuo. Prašymą paduodančio asmens parašas nėra būtinas, jeigu jį pasirašo jo įgaliotas prašymą surašęs asmuo.
+2. Jeigu prašymas dėl proceso atnaujinimo paduodamas vadovaujantis šio įstatymo 156 straipsnio 2 dalies 10 ir (ar) 12 punktuose nustatytais pagrindais, tokį prašymą surašo advokatas. Šioje dalyje nurodytais atvejais valstybės atstovo, kito juridinio asmens prašymą dėl proceso atnaujinimo taip pat gali surašyti juridinio asmens darbuotojai ar valstybės tarnautojai, turintys aukštąjį universitetinį teisinį išsilavinimą. Jeigu prašymą dėl proceso atnaujinimo šioje dalyje nurodytais atvejais paduoda fizinis asmuo, turintis aukštąjį universitetinį teisinį išsilavinimą, surašyti šį prašymą turi teisę jis pats. Be to, prašymą dėl proceso atnaujinimo šiais atvejais gali surašyti šio įstatymo 47 straipsnio 4 dalies 4 ir 7 punktuose nurodyti asmenys. Prašymą dėl proceso atnaujinimo pasirašo jį paduodantis asmuo ir prašymą surašęs asmuo. Prašymą paduodančio asmens parašas nėra būtinas, jeigu jį pasirašo jo įgaliotas prašymą surašęs asmuo.
 Straipsnio dalies pakeitimai:
 Nr. KT20-A-N1/2022, 2022-02-10, paskelbta TAR 2022-02-10, i. k. 2022-02427
 Nr. XIV-1474, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22947
- 
+ 
 
 
 
@@ -6570,15 +6570,7 @@ Nr. XIV-1474, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22947
 
 
 
-5. Pakartotinis prašymas atnaujinti procesą tuo pačiu pagrindu yra negalimas.
- 
-
-
-
-
-
-
-159 straipsnis. Prašymo dėl proceso atnaujinimo padavimo terminai
+5. Pakartotinis prašymas atnaujinti procesą tuo pačiu pagrindu yra negalimas.159 straipsnis. Prašymo dėl proceso atnaujinimo padavimo terminai
 
 
 1. Prašymas dėl proceso atnaujinimo gali būti paduodamas per tris mėnesius nuo tos dienos, kai jį padavęs subjektas sužinojo arba turėjo sužinoti apie aplinkybes, kurios yra proceso atnaujinimo pagrindas.
@@ -6591,20 +6583,12 @@ Nr. XIV-1474, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22947
 
 
 
-3. Prašymas dėl proceso atnaujinimo negali būti paduodamas, jeigu nuo sprendimo ar nutarties įsiteisėjimo praėjo daugiau kaip penkeri metai, išskyrus šio įstatymo 156 straipsnio 2 dalies 1 punkte nurodytą atvejį.
+3. Prašymas dėl proceso atnaujinimo negali būti paduodamas, jeigu nuo sprendimo ar nutarties įsiteisėjimo praėjo daugiau kaip penkeri metai, išskyrus šio įstatymo 156 straipsnio 2 dalies 1 punkte nurodytą atvejį.
 
 
 
 
-4. Pasibaigus terminui paduoti prašymą atnaujinti procesą, prašymas negali būti keičiamas ar pildomas.
- 
-
-
-
-
-
-
-160 straipsnis. Prašymo dėl proceso atnaujinimo turinys
+4. Pasibaigus terminui paduoti prašymą atnaujinti procesą, prašymas negali būti keičiamas ar pildomas.160 straipsnis. Prašymo dėl proceso atnaujinimo turinys
 
 
 1. Prašyme dėl proceso atnaujinimo nurodoma:
