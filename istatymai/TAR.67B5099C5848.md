@@ -6497,7 +6497,7 @@ PRAŠYMŲ DĖL PROCESO ATNAUJINIMO PADAVIMAS
 
 
 
-10) jeigu pateikiami akivaizdūs įrodymai, kad padarytas esminis materialiosios teisės normų pažeidimas jas taikant, galėjęs turėti įtakos priimti neteisėtą sprendimą ar nutartį;
+10) jeigu pateikiami akivaizdūs įrodymai, kad padarytas esminis materialiosios ar proceso teisės normų pažeidimas jas taikant, galėjęs turėti įtakos priimant neteisėtą sprendimą ar nutartį;
 
 
 
@@ -6513,25 +6513,24 @@ PRAŠYMŲ DĖL PROCESO ATNAUJINIMO PADAVIMAS
 
 
 13) Konstitucinis Teismas, nagrinėdamas Konstitucijos 106 straipsnio ketvirtojoje dalyje nurodyto asmens prašymą, pripažįsta, kad įstatymas ar kitas Seimo priimtas aktas, Respublikos Prezidento aktas ar Vyriausybės aktas (ar jų dalis), kurio (kurios) pagrindu priimtas asmens konstitucines teises ar laisves pažeidžiantis sprendimas, prieštarauja Konstitucijai.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos administracinių bylų teisenos įstatymo (2016 m. birželio 2 d. redakcija, TAR, 2016-06-15, Nr. 16849) 156 straipsnio 2 dalis (su 2020 m. birželio 30 d. pakeitimu, TAR, 2020-07-10, Nr. 15516) tiek, kiek joje nenustatyta galimybė atnaujinti bylos, užbaigtos įsiteisėjusiu teismo sprendimu ar nutartimi, proceso, kai byla išnagrinėta nesant nors vieno iš proceso dalyvių, kuriam nepranešta apie teismo posėdį ir nebėra galimybės apskųsti tokio sprendimo (nutarties), prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, 109 straipsnio 1 daliai, konstituciniams teisinės valstybės, teisingumo principams.
+
+
+
+
+14) kai byla išnagrinėta nesant nors vieno iš proceso dalyvių, kuriam nepranešta apie teismo posėdžio laiką ir vietą, ir nebėra galimybės apskųsti priimto sprendimo ar nutarties.
+
+
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos administracinių bylų teisenos įstatymo (2016 m. birželio 2 d. redakcija, TAR, 2016-06-15, Nr. 16849) 156 straipsnio 2 dalis (su 2020 m. birželio 30 d. pakeitimu, TAR, 2020-07-10, Nr. 15516) tiek, kiek joje nenustatyta galimybė atnaujinti bylos, užbaigtos įsiteisėjusiu teismo sprendimu ar nutartimi, proceso, kai byla išnagrinėta nesant nors vieno iš proceso dalyvių, kuriam nepranešta apie teismo posėdį ir nebėra galimybės apskųsti tokio sprendimo (nutarties), prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, 109 straipsnio 1 daliai, konstituciniams teisinės valstybės, teisingumo principams.
 
 
 Straipsnio dalies pakeitimai:
 Nr. KT85-N13/2024, 2024-11-07, paskelbta TAR 2024-11-07, i. k. 2024-19451
- 
+ 
 
 
 
 
-3. Prašymas atnaujinti procesą yra negalimas dėl šio įstatymo 21 straipsnio 3 dalyje nurodytų bylų.
- 
-
-
-
-
-
-
-157 straipsnis. Subjektai, turintys teisę paduoti prašymą atnaujinti procesą
+3. Prašymas atnaujinti procesą yra negalimas dėl šio įstatymo 21 straipsnio 3 dalyje nurodytų bylų.157 straipsnis. Subjektai, turintys teisę paduoti prašymą atnaujinti procesą
 
 
 1. Prašymą atnaujinti procesą turi teisę paduoti proceso šalys ir jų atstovai, neįtraukti į bylos nagrinėjimą asmenys, jeigu įsiteisėjęs sprendimas ar nutartis pažeidžia jų teises ar įstatymų saugomus interesus, taip pat prokuroras ir viešojo administravimo subjektai, kad būtų apgintas viešasis interesas ar apgintos valstybės ir asmenų teisės bei įstatymų saugomi interesai. Neįtraukti į bylos nagrinėjimą asmenys gali paduoti prašymus atnaujinti procesą tik šio įstatymo 156 straipsnio 2 dalies 7 punkte nurodytu pagrindu.
@@ -6541,15 +6540,7 @@ Nr. KT85-N13/2024, 2024-11-07, paskelbta TAR 2024-11-07, i. k. 2024-19451
 
 2. Regionų administracinio teismo pirmininko siūlymu arba gavęs informaciją apie tai, kad gali būti proceso administracinėje byloje atnaujinimo pagrindų, išimtiniais atvejais teikimą atnaujinti procesą turi teisę paduoti Lietuvos vyriausiojo administracinio teismo pirmininkas. Lietuvos vyriausiojo administracinio teismo pirmininko teikimą nagrinėja didžiausią teisėjo darbo stažą turinčio teisėjo skiriama teisėjų kolegija. Teikimu išreiškiamas tik informacinio pobūdžio siūlymas svarstyti, ar nėra proceso atnaujinimo pagrindų, ir teisėjų kolegijai jis nėra privalomas.
 Straipsnio dalies pakeitimai:
-Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
- 
-
-
-
-
-
-
-158 straipsnis. Prašymo dėl proceso atnaujinimo pateikimas
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122158 straipsnis. Prašymo dėl proceso atnaujinimo pateikimas
 
 
 1. Prašymą dėl proceso atnaujinimo surašo pareiškėjas arba jo atstovas, išskyrus šio straipsnio 2 dalyje nurodytus atvejus. Prašymas dėl proceso atnaujinimo pateikiamas raštu arba teisingumo ministro nustatyta tvarka elektronine forma elektroninių ryšių priemonėmis Lietuvos vyriausiajam administraciniam teismui.
