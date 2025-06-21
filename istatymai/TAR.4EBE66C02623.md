@@ -4702,8 +4702,7 @@ Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
  
 
 
-1. Gyvenamųjų ar kitų patalpų suteikimas naminiams stipriems alkoholiniams gėrimams, raugalui, nedenatūruotam etilo alkoholiui, denatūruotam etilo alkoholiui ir jų skiediniams (mišiniams) gaminti ar laikyti
-užtraukia įspėjimą gyvenamųjų ar kitų patalpų savininkams.
+1. Gyvenamųjų ar kitų patalpų suteikimas naminiams stipriems alkoholiniams gėrimams, raugalui, nedenatūruotam etilo alkoholiui, denatūruotam etilo alkoholiui ir jų skiediniams (mišiniams) gaminti ar laikyti užtraukia įspėjimą gyvenamųjų ar kitų patalpų savininkams.
 
 
 
@@ -4714,8 +4713,7 @@ užtraukia baudą nuo trijų šimtų devyniasdešimt iki septynių šimtų trisd
 
 
 
-3. Naminių stiprių alkoholinių gėrimų, raugalo, nedenatūruoto etilo alkoholio, denatūruoto etilo alkoholio ir jų skiedinių (mišinių) gaminimas, įgijimas, laikymas, gabenimas
-užtraukia baudą nuo vieno šimto aštuoniasdešimt iki septynių šimtų aštuoniasdešimt eurų. 
+3. Naminių stiprių alkoholinių gėrimų, raugalo, nedenatūruoto etilo alkoholio, denatūruoto etilo alkoholio ir jų skiedinių (mišinių) gaminimas, įgijimas, laikymas, gabenimas užtraukia baudą nuo vieno šimto aštuoniasdešimt iki septynių šimtų aštuoniasdešimt eurų. 
 
 
 
@@ -4745,110 +4743,14 @@ Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
 
 
 7. Už šio straipsnio 3, 4, 5, 6 dalyse numatytus administracinius nusižengimus privaloma skirti naminių stiprių alkoholinių gėrimų, raugalo, nedenatūruoto etilo alkoholio, denatūruoto etilo alkoholio ir jų skiedinių (mišinių), taip pat jų gamybos įrangos konfiskavimą.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
+
+Straipsnio pakeitimai:
+Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
  
 
 
-Straipsnio pakeitimai:
-Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857138 straipsnis. Cigarų ir (ar) pypkių klubų įrengimo tvarkos aprašo pažeidimas
 
-
-1. Cigarų ir (ar) pypkių klubų įrengimo tvarkos apraše nustatytų reikalavimų pažeidimas
-užtraukia baudą juridinių asmenų, valdančių cigarų ir (ar) pypkių klubus, vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
-
-
-
-
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo aštuonių šimtų dvidešimt iki vieno tūkstančio penkių šimtų eurų.139 straipsnis. Prekių, paslaugų, žaliavų kokybės ir saugos reikalavimų pažeidimas
-
-
-1. Prekių, paslaugų, žaliavų, kurių kokybė, eksploatacinės savybės, sudėtis, komplektiškumas ir pakuotė neatitinka technologinių normų, receptūrų, techninių specifikacijų (sąlygų), standartų ir kitų deklaruojamų dokumentų, teisės aktų nustatytų privalomų kokybės reikalavimų, įskaitant deklaruotų eksploatacinių savybių neatitinkančius statybos produktus, pateikimas rinkai, tiekimas rinkai, pardavimas, realizavimas, taip pat prekių pateikimas rinkai, tiekimas rinkai, pardavimas, paslaugų teikimas, žaliavų realizavimas be būtinų kokybę ir saugą patvirtinančių dokumentų, montavimo, instaliavimo, surinkimo ar naudojimo instrukcijų, šių dokumentų nesaugojimas ir nepateikimas rinkos priežiūrą vykdančiai institucijai teisės aktuose nustatytais terminais, išskyrus šio straipsnio 7 dalyje numatytus atvejus,
-užtraukia įspėjimą arba baudą juridinių asmenų darbuotojams, taip pat asmenims, kurie verčiasi individualia veikla, nuo trisdešimt iki vieno šimto keturiasdešimt eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
-
-
-
-
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą juridinių asmenų darbuotojams, taip pat asmenims, kurie verčiasi individualia veikla, nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
-
-
-
-
-3. Standartų, techninių specifikacijų (sąlygų) ar gamintojo nurodytų sąlygų nesilaikymas transportuojant, laikant, parduodant ar realizuojant prekes ar žaliavas ir naudojant žaliavas 
-užtraukia įspėjimą arba baudą asmenims, kurie verčiasi individualia veikla, nuo trisdešimt iki šešiasdešimt eurų baudą, įmonių darbuotojams – nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
-
-
-
-
-4. Prekių ar žaliavų kiekio, kokybės ir sudėties nustatymas pažeidžiant nustatytą tvarką arba neteisingas nustatymas, taip pat tokių prekių ar žaliavų realizavimas 
-užtraukia baudą asmenims, kurie verčiasi individualia veikla, nuo dvidešimt iki aštuoniasdešimt eurų, įmonių darbuotojams – nuo vieno šimto dvidešimt iki dviejų šimtų dvidešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų. 
-
-
-
-
-5. Tyčinis prekių ar žaliavų kokybės rodiklių pabloginimas 
-užtraukia baudą asmenims, kurie verčiasi individualia veikla, nuo trisdešimt iki vieno šimto dešimt eurų, įmonių darbuotojams – nuo vieno šimto keturiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų iki vieno tūkstančio vieno šimto keturiasdešimt eurų. 
-
-
-
-
-6. Šio straipsnio 3, 4, 5 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
-užtraukia baudą asmenims, kurie verčiasi individualia veikla, nuo šešiasdešimt iki trijų šimtų eurų, įmonių darbuotojams – nuo vieno šimto keturiasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų dvidešimt iki vieno tūkstančio keturių šimtų eurų.
-
-
-
-
-7. Privalomų kokybės rodiklių, standartų, techninių sąlygų ar gamintojo nurodytų sąlygų neatitinkančių naftos produktų, išskyrus valstybės atsargas, pardavimas, tiekimas ar realizavimas
-užtraukia baudą įmonių vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio vieno šimto penkiasdešimt eurų.140 straipsnis. Metrologijos srities teisės aktų pažeidimas
-
-
-1. Į Teisinio metrologinio reglamentavimo sritims priskirtų matavimo priemonių ir jų grupių sąrašą (toliau – Matavimo priemonių sąrašas) įtrauktų matavimo priemonių, kurių teisinis metrologinis patvirtinimas techninių reglamentų ar kitų metrologijos srities teisės aktų nustatyta tvarka neatliktas arba kurių patikros žymuo ar plomba yra pažeisti, pateikimas rinkai ar tiekimas rinkai arba naudojimas teisinio metrologinio reglamentavimo srityse, fasuotų prekių, kurių produkto kiekis nurodytas įraše ant pakuotės, ar matavimo indų, skirtų gėrimams ir kitiems skysčiams supilti bei matuoti, pateikimas rinkai ar tiekimas rinkai arba ženklinimas pažeidžiant metrologijos srities teisės aktų reikalavimus, į Matavimo priemonių sąrašą įtrauktų matavimo priemonių, kurių neatitiktis techniniams reglamentams ar kitiems metrologijos srities teisės aktams nustatyta teisinės metrologinės priežiūros metu, pateikimas rinkai ar tiekimas rinkai arba naudojimas teisinio metrologinio reglamentavimo srityse, parduodant sveriamų, skaičiuojamų, matuojamų arba dozuojamų prekių pateikimas rinkai ar tiekimas rinkai pažeidžiant metrologijos srities teisės aktų reikalavimus, į Matavimo priemonių sąrašą įtrauktų matavimo priemonių, nenurodytų ūkio subjekto tvirtinamame matavimo priemonių sąraše, naudojimas teisinio metrologinio reglamentavimo srityse, į Matavimo priemonių sąrašą įtrauktų matavimo priemonių naudojimas teisinio metrologinio reglamentavimo srityse nesilaikant gamintojo parengtų techninių matavimo priemonių aprašų
-užtraukia baudą asmenims nuo penkiasdešimt penkių iki penkių šimtų penkiasdešimt eurų ir juridinių asmenų, jų filialų vadovams arba užsienio juridinių asmenų ir kitų organizacijų filialų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto aštuoniasdešimt iki vieno tūkstančio eurų.
-
-
-
-
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio eurų ir juridinių asmenų, jų filialų vadovams arba užsienio juridinių asmenų ir kitų organizacijų filialų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio iki  dviejų tūkstančių septynių šimtų eurų.
-
-
-
-
-3. Į Matavimo priemonių sąrašą įtrauktų matavimo priemonių, naudojamų teisinio metrologinio reglamentavimo srityse, tyčinis gadinimas arba šių priemonių ar jų programinės įrangos rodmenų klastojimas
-užtraukia baudą asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio eurų ir juridinių asmenų, jų filialų vadovams arba užsienio juridinių asmenų ir kitų organizacijų filialų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio iki dviejų tūkstančių septynių šimtų eurų.
-
-
-
-
-4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą asmenims nuo vieno tūkstančio iki dviejų tūkstančių septynių šimtų eurų ir juridinių asmenų, jų filialų vadovams arba užsienio juridinių asmenų ir kitų organizacijų filialų vadovams ar kitiems atsakingiems asmenims – nuo dviejų tūkstančių septynių šimtų iki penkių tūkstančių trijų šimtų eurų.
-
-
-
-
-5. Už šio straipsnio 2, 3, 4 dalyse numatytus administracinius nusižengimus privaloma skirti matavimo priemonės konfiskavimą.
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2523, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19117141 straipsnis. Lietuvos Respublikos strateginių prekių kontrolės įstatymo ir kitų teisės aktų pažeidimas
-
-
-Strateginių prekių eksporto, importo, tranzito ir tarpininkavimo licencijavimo arba kontrolės taisyklių pažeidimas
-
-
-
-
-užtraukia baudą asmenims nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų ir juridinių asmenų arba užsienio juridinių asmenų ir kitų organizacijų filialų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
- 
-
-
-
-
-
-
-1411 straipsnis. Reglamente (ES) 2017/821 nustatytų prievolių dėl išsamaus tiekimo grandinės patikrinimo nevykdymas arba netinkamas vykdymas
+141 straipsnis. Reglamente (ES) 2017/821 nustatytų prievolių dėl išsamaus tiekimo grandinės patikrinimo nevykdymas arba netinkamas vykdymas
 
 
 Reglamente (ES) 2017/821 nustatytų prievolių dėl išsamaus tiekimo grandinės patikrinimo nevykdymas arba netinkamas vykdymas
@@ -4860,13 +4762,7 @@ užtraukia baudą asmenims nuo devyniasdešimt iki vieno šimto septyniasdešimt
 
 
 Papildyta straipsniu:
-Nr. XIII-3220, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15757
- 
-
-
-
-
-142 straipsnis. Nustatytos tvarkos verstis komercine ar ūkine veikla, susijusia su tauriaisiais metalais ir brangakmeniais bei jų gaminiais, pažeidimas
+Nr. XIII-3220, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15757142 straipsnis. Nustatytos tvarkos verstis komercine ar ūkine veikla, susijusia su tauriaisiais metalais ir brangakmeniais bei jų gaminiais, pažeidimas
 
 
 1. Nustatytos tvarkos verstis komercine ar ūkine veikla, susijusia su tauriaisiais metalais ir brangakmeniais bei jų gaminiais, pažeidimas
@@ -4875,15 +4771,7 @@ užtraukia baudą asmenims nuo trisdešimt iki penkių šimtų aštuoniasdešimt
 
 
 
-2. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą gali būti skiriamas tauriųjų metalų ir brangakmenių, jų gaminių, laužo ir atliekų konfiskavimas.
- 
-
-
-
-
-
-
-143 straipsnis. Netauriųjų metalų laužo ir atliekų, įtrauktų į draudžiamų supirkti netauriųjų metalų laužo ir atliekų sąrašą, supirkimas ar netauriųjų metalų laužo ir atliekų supirkimo, apskaitos ir saugojimo tvarkos pažeidimas
+2. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą gali būti skiriamas tauriųjų metalų ir brangakmenių, jų gaminių, laužo ir atliekų konfiskavimas.143 straipsnis. Netauriųjų metalų laužo ir atliekų, įtrauktų į draudžiamų supirkti netauriųjų metalų laužo ir atliekų sąrašą, supirkimas ar netauriųjų metalų laužo ir atliekų supirkimo, apskaitos ir saugojimo tvarkos pažeidimas
 
 
 1. Netauriųjų metalų laužo ir atliekų, įtrauktų į draudžiamų supirkti netauriųjų metalų laužo ir atliekų sąrašą, supirkimas ar netauriųjų metalų laužo ir atliekų supirkimo, apskaitos ir saugojimo tvarkos pažeidimas
@@ -4896,13 +4784,7 @@ užtraukia baudą nuo septynių šimtų dvidešimt iki vieno tūkstančio devyni
 
 
 Straipsnio pakeitimai:
-Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
- 
-
-
-
-
-144 straipsnis. Reklamos naudojimo reikalavimų ir draudimų nesilaikymas
+Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857144 straipsnis. Reklamos naudojimo reikalavimų ir draudimų nesilaikymas
 
 
 1. Išorinės reklamos įrengimo draudimų ir reikalavimų nesilaikymas
