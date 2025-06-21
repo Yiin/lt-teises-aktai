@@ -6639,29 +6639,19 @@ Nr. XIV-1474, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22947
 
 
 
-
-
 2. Prie prašymo atnaujinti procesą turi būti pridedami proceso atnaujinimo pagrindo buvimą pagrindžiantys įrodymai, taip pat įsiteisėjusio teismo sprendimo (nutarties) patvirtinta kopija (nuorašas).
 
 
 
 
 3. Kai prašymą atnaujinti procesą pateikia atstovas, prie prašymo turi būti pridedamas dokumentas, įrodantis atstovo įgaliojimus. Prie prašymo atnaujinti procesą turi būti pridedami įrodymai, patvirtinantys prašymą surašiusio asmens teisinę kvalifikaciją.
- 
-
-
-
-
+ 
 
 
 
 
 II SKYRIUS
-PRAŠYMŲ DĖL PROCESO ATNAUJINIMO NAGRINĖJIMAS
- 
-
-
-161 straipsnis. Prašymo dėl proceso atnaujinimo nagrinėjimo tvarka
+PRAŠYMŲ DĖL PROCESO ATNAUJINIMO NAGRINĖJIMAS161 straipsnis. Prašymo dėl proceso atnaujinimo nagrinėjimo tvarka
 
 
 1. Prašymo dėl proceso atnaujinimo priėmimo klausimą, taip pat priimtą nagrinėti prašymą dėl proceso atnaujinimo nagrinėja Lietuvos vyriausiojo administracinio teismo pirmininko sudaryta teisėjų kolegija. Nagrinėjant prašymo priėmimą, mutatis mutandis vadovaujamasi šio įstatymo 33 straipsniu. Taip pat patikrinama, ar prašymas atitinka šio įstatymo 157, 158, 159 ir 160 straipsniuose nustatytus reikalavimus. 
@@ -6677,20 +6667,12 @@ PRAŠYMŲ DĖL PROCESO ATNAUJINIMO NAGRINĖJIMAS
 3. Priimtą nagrinėti prašymą dėl proceso atnaujinimo teismas nagrinėja rašytinio proceso tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
- 
+ 
 
 
 
 
-4. Nagrinėdamas prašymą dėl proceso atnaujinimo, teismas patikrina, ar jis pagrįstas įstatymų nustatytais proceso atnaujinimo pagrindais. Prireikus teismas turi teisę pareikalauti iš prašymą padavusio asmens papildomų įrodymų minėtais klausimais.
- 
-
-
-
-
-
-
-162 straipsnis. Teismo nutartis dėl prašymo atnaujinti procesą
+4. Nagrinėdamas prašymą dėl proceso atnaujinimo, teismas patikrina, ar jis pagrįstas įstatymų nustatytais proceso atnaujinimo pagrindais. Prireikus teismas turi teisę pareikalauti iš prašymą padavusio asmens papildomų įrodymų minėtais klausimais.162 straipsnis. Teismo nutartis dėl prašymo atnaujinti procesą
 
 
 1. Tais atvejais, kai teismas konstatuoja, kad prašymas nepagrįstas įstatymo nustatytais proceso atnaujinimo pagrindais, teismas nutartimi atsisako atnaujinti procesą. Tokia teismo nutartis yra neskundžiama.
