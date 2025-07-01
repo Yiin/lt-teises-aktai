@@ -141,10 +141,10 @@ Nr. XIV-1453, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22564
 
 
 
-2. Ankstyvosios intervencijos priemonės – Lietuvos Respublikos bankų įstatymo 67 straipsnio 4 dalyje, Lietuvos Respublikos centrinių kredito unijų įstatymo 49 straipsnio 5 dalyje, Finansinių priemonių rinkų įstatymo 102 straipsnio 7 dalyje nurodyti priežiūros institucijos veiksmai. 
+2. Ankstyvosios intervencijos priemonės – Lietuvos Respublikos bankų įstatymo 67 straipsnio 4 dalyje, Lietuvos Respublikos centrinių kredito unijų įstatymo 49 straipsnio 5 dalyje, Finansinių priemonių rinkų įstatymo 102 straipsnio 7 dalyje nurodyti priežiūros institucijos veiksmai. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
- 
+ 
 
 
 
@@ -154,12 +154,12 @@ Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 
 
-4. Europos Sąjungos valstybės pagalbos sistema – sistema, nustatyta Sutarties dėl Europos Sąjungos veikimo 107, 108 bei 109 straipsniais ir Europos Sąjungos (toliau – ES) teisės aktais, įskaitant gaires, komunikatus ir pranešimus, priimtais pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 4 dalį arba 109 straipsnį.
+4. Europos Sąjungos valstybės pagalbos sistema – sistema, nustatyta Sutarties dėl Europos Sąjungos veikimo 107, 108 bei 109 straipsniais ir Europos Sąjungos (toliau – ES) teisės aktais, įskaitant gaires, komunikatus ir pranešimus, priimtus pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 4 dalį arba 109 straipsnį.
 
 
 
 
-5. Finansinės grupės pertvarkymo institucija (toliau – grupės pertvarkymo institucija) – finansų sektoriaus subjektų pertvarkymo institucija Europos ekonominės erdvės valstybėje narėje (toliau – valstybė narė), kurioje yra priežiūros institucija, atliekanti finansinės grupės jungtinę (konsoliduotą) priežiūrą.
+5. Finansinės grupės pertvarkymo institucija (toliau – grupės pertvarkymo institucija) – finansų sektoriaus subjektų pertvarkymo institucija Europos ekonominės erdvės valstybėje narėje (toliau – valstybė narė), kurioje yra priežiūros institucija, atliekanti finansinės grupės jungtinę (konsoliduotą) priežiūrą.
 
 
 
@@ -167,7 +167,7 @@ Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 6. Finansinės sutartys – sutartys ar susitarimai dėl vertybinio popieriaus, vertybinių popierių grupės arba indekso pirkimo, pardavimo, skolinimo, pasirinkimo, atpirkimo arba atvirkštinio atpirkimo, biržos prekės, biržos prekių grupės arba indekso pirkimo, pardavimo, skolinimo, numatant biržos prekę pateikti ateityje, pasirinkimo, atpirkimo arba atvirkštinio atpirkimo; išankstiniai sandoriai ir ateities sandoriai, išskyrus biržos prekių sutartis, dėl prekės, kito turto, paslaugos, teisės arba naudos už nustatytą kainą ateityje pirkimo, pardavimo arba perleidimo; apsikeitimo ir pasirinkimo sandoriai, susiję su palūkanų normomis, neatidėliotinais ar kitais užsienio valiutos susitarimais, valiuta, nuosavybės vertybinių popierių indeksu arba nuosavybės vertybiniais popieriais, skolos vertybinių popierių indeksu arba skolos vertybiniais popieriais, biržos prekių indeksais arba biržos prekėmis, oro sąlygomis, išmetamaisiais teršalais, infliacija; apsikeitimo grąžomis, kredito maržų arba kredito apsikeitimo sandoriai; kiti į pirmiau nurodytus apsikeitimo ar pasirinkimo sandorius panašūs susitarimai, kurie reguliariai sudaromi apsikeitimo sandorių arba išvestinių finansinių priemonių rinkose; tarpbankinio skolinimosi susitarimai, kai skolinimosi terminas yra ne ilgesnis negu trys mėnesiai; pagrindiniai susitarimai, susiję su pirmiau nurodytomis sutartimis arba susitarimais.
 Straipsnio dalies pakeitimai:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
- 
+ 
 
 
 
@@ -190,7 +190,7 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 91. Įsipareigojimai, kuriems gali būti taikoma gelbėjimo privačiomis lėšomis priemonė, – įstaigos ar šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodyto subjekto įsipareigojimai ir kapitalo priemonės, kurie nelaikomi bendro 1 lygio nuosavo kapitalo priemonėmis, papildomomis 1 lygio arba 2 lygio priemonėmis ir kuriems netaikoma gelbėjimo privačiomis lėšomis priemonės taikymo išimtis pagal šio įstatymo 77 straipsnio 1 dalį.
 Papildyta straipsnio dalimi:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
- 
+ 
 
 
 
@@ -198,7 +198,7 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 92. Įstaiga – bankas, centrinė kredito unija ar finansų maklerio įmonė, kuriai taikomas Finansinių priemonių rinkų įstatymo 14 straipsnio 2 dalyje nurodytas pradinio kapitalo reikalavimas (toliau bet kuris iš jų atskirai ar visi kartu – įstaiga). 
 Papildyta straipsnio dalimi:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
- 
+ 
 
 
 
@@ -231,7 +231,7 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 Papildyta straipsnio dalimi:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
- 
+ 
 
 
 
@@ -239,7 +239,7 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 102. Kredito įstaiga ‒ Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 1 punkte apibrėžta kredito įstaiga, išskyrus kredito unijas ir kitų valstybių narių teisės aktuose, perkeliančiuose Direktyvos 2013/36/ES 2 straipsnio 5 dalį, nurodytus subjektus. 
 Papildyta straipsnio dalimi:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
- 
+ 
 
 
 
@@ -254,10 +254,10 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 
 
-121. Likviduojamas subjektas – Europos Sąjungoje įsteigtas juridinis asmuo, kuriam pagal finansinės grupės pertvarkymo planą arba pagal pertvarkymo planą, kai šis juridinis asmuo nepriklauso finansinei grupei, numatoma, kad jis turi būti likviduojamas iškeliant bankroto bylą, arba pertvarkytinai finansinei grupei priklausantis subjektas, kuris pats nėra pertvarkytinas finansų sektoriaus subjektas ir kuriam pagal finansinės grupės pertvarkymo planą finansų sektoriaus subjektų pertvarkymo institucija nenumato pasinaudoti teisėmis pagal šio įstatymo 46 straipsnio 1 dalies 5–9 punktų ir 58 straipsnio 1 dalies nuostatas. 
+121. Likviduojamas subjektas – Europos Sąjungoje įsteigtas juridinis asmuo, kuriam pagal finansinės grupės pertvarkymo planą arba pagal pertvarkymo planą, kai šis juridinis asmuo nepriklauso finansinei grupei, numatoma, kad jis turi būti likviduojamas iškeliant bankroto bylą, arba pertvarkytinai finansinei grupei priklausantis subjektas, kuris pats nėra pertvarkytinas finansų sektoriaus subjektas ir kuriam pagal finansinės grupės pertvarkymo planą finansų sektoriaus subjektų pertvarkymo institucija nenumato pasinaudoti teisėmis pagal šio įstatymo 46 straipsnio 1 dalies 5–9 punktų ir 58 straipsnio 1 dalies nuostatas. 
 Papildyta straipsnio dalimi:
 Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
- 
+ 
 
 
 
@@ -267,10 +267,10 @@ Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
 
 
 
-131. Padengtoji obligacija – kaip apibrėžiama Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme arba iki 2022 m. liepos 7 d. išleista obligacija, atitinkanti Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo 80 straipsnio 6 dalyje nurodytas sąlygas.
+131. Padengtoji obligacija – kaip apibrėžiama Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme arba iki 2022 m. liepos 7 d. išleista obligacija, atitinkanti Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo 80 straipsnio 6 dalyje nurodytas sąlygas.
 Papildyta straipsnio dalimi:
 Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
- 
+ 
 
 
 
@@ -280,20 +280,20 @@ Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
 
 
 
-141. Papildomo kapitalo reikalavimas – pagal Lietuvos Respublikos bankų įstatymo 67 straipsnio 2 dalies 2 punktą arba pagal Lietuvos Respublikos centrinių kredito unijų įstatymo 49 straipsnio 2 dalies 2 punktą, arba pagal Lietuvos Respublikos finansinių priemonių rinkų įstatymo 15 straipsnį nustatytas kapitalo reikalavimas.
+141. Papildomo kapitalo reikalavimas – pagal Lietuvos Respublikos bankų įstatymo 67 straipsnio 2 dalies 2 punktą arba pagal Lietuvos Respublikos centrinių kredito unijų įstatymo 49 straipsnio 2 dalies 2 punktą, arba pagal Lietuvos Respublikos finansinių priemonių rinkų įstatymo 15 straipsnį nustatytas kapitalo reikalavimas.
 Papildyta straipsnio dalimi:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 Straipsnio dalies pakeitimai:
 Nr. XIV-2893, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13502
- 
+ 
 
 
 
 
-142. Patronuojamoji įmonė – kaip ji apibrėžta Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 16 punkte. Kai šio įstatymo 8, 9, 16, 17, 22, 23‒266, 28, 58‒60 ir 110 straipsnių nuostatos taikomos šio straipsnio 161 dalies 2 punkte nurodytoms pertvarkytinoms grupėms, patronuojamosiomis įmonėmis laikomos kredito įstaigos, kurias kontroliuoja centrinė įstaiga, pati centrinė įstaiga ir jų atitinkamos patronuojamosios įmonės, atsižvelgiant į tai, kokiu būdu tokios pertvarkytinos grupės laikosi šio įstatymo 26 straipsnio 3 dalies nuostatų. 
+142. Patronuojamoji įmonė – kaip ji apibrėžta Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 16 punkte. Kai šio įstatymo 8, 9, 16, 17, 22, 23‒266, 28, 58‒60 ir 110 straipsnių nuostatos taikomos šio straipsnio 161 dalies 2 punkte nurodytoms pertvarkytinoms grupėms, patronuojamosiomis įmonėmis laikomos kredito įstaigos, kurias kontroliuoja centrinė įstaiga, pati centrinė įstaiga ir jų atitinkamos patronuojamosios įmonės, atsižvelgiant į tai, kokiu būdu tokios pertvarkytinos grupės laikosi šio įstatymo 26 straipsnio 3 dalies nuostatų. 
 Papildyta straipsnio dalimi:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
- 
+ 
 
 
 
@@ -321,7 +321,7 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 Papildyta straipsnio dalimi:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
- 
+ 
 
 
 
@@ -339,7 +339,7 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 Papildyta straipsnio dalimi:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
- 
+ 
 
 
 
@@ -347,15 +347,15 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 17. Pertvarkomas finansų sektoriaus subjektas (toliau – pertvarkomas subjektas) – bankas, centrinė kredito unija, finansų maklerio įmonė, finansų įmonė, finansų kontroliuojančioji bendrovė, mišrios veiklos finansų kontroliuojančioji įmonė arba mišrios veiklos kontroliuojančioji bendrovė, kuriems taikomos pertvarkymo priemonės.
 Straipsnio dalies pakeitimai:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
- 
+ 
 
 
 
 
-18. Pirmenybinė kreditorių reikalavimų eilė – kreditorių reikalavimų eilė, nurodyta Bankų įstatymo 87 straipsnio 1−4 dalyse ir Centrinių kredito unijų įstatymo 70 straipsnio 1−4 dalyse.
+18. Pirmenybinė kreditorių reikalavimų eilė – kreditorių reikalavimų eilė, nurodyta Bankų įstatymo 87 straipsnio 1−4 dalyse ir Centrinių kredito unijų įstatymo 70 straipsnio 1−4 dalyse.
 Straipsnio dalies pakeitimai:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
- 
+ 
 
 
 
@@ -363,7 +363,7 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 181. Subordinuotosios tinkamos priemonės – priemonės, atitinkančios visas Reglamento (ES) Nr. 575/2013 72a straipsnyje nurodytas sąlygas, išskyrus sąlygas, nurodytas šio reglamento 72b straipsnio 3–5 dalyse.
 Papildyta straipsnio dalimi:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
- 
+ 
 
 
 
@@ -371,15 +371,15 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 182. Teisė nutraukti sutartį – teisė nutraukti, paankstinti, užbaigti, įskaityti sutarties įsipareigojimus arba vykdyti užskaitos susitarimą arba visos panašios nuostatos, kuriomis sustabdomas, keičiamas arba panaikinamas sutarties šalies įsipareigojimas, arba nuostata, dėl kurios neatsiranda pareiga pagal sutartį, nors kitomis aplinkybėmis ji atsirastų.
 Papildyta straipsnio dalimi:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
- 
+ 
 
 
 
 
-183. Tinkami įsipareigojimai – šio įstatymo 251 straipsnio ar 262 straipsnio 5 dalies 1 punkto sąlygas atitinkantys įsipareigojimai, kuriems gali būti taikoma gelbėjimo privačiomis lėšomis priemonė, ir 2 lygio priemonės, atitinkančios Reglamento (ES) Nr. 575/2013 72a straipsnio 1 dalies b punkto sąlygas. 
+183. Tinkami įsipareigojimai – šio įstatymo 251 straipsnio ar 262 straipsnio 5 dalies 1 punkto sąlygas atitinkantys įsipareigojimai, kuriems gali būti taikoma gelbėjimo privačiomis lėšomis priemonė, ir 2 lygio priemonės, atitinkančios Reglamento (ES) Nr. 575/2013 72a straipsnio 1 dalies b punkto sąlygas. 
 Papildyta straipsnio dalimi:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
- 
+ 
 
 
 
@@ -394,31 +394,23 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 
 
-21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Bankų įstatyme, Finansų įstaigų įstatyme, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme, Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 806/2014 ir Reglamente (ES) Nr. 648/2012.
+21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Bankų įstatyme, Finansų įstaigų įstatyme, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme, Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 806/2014, Reglamente (ES) Nr. 648/2012 ir 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamente (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011.
 Straipsnio dalies pakeitimai:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 Nr. XIV-1453, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22564
 Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
- 
-
-
-
-
+ 
 
 
 
 
 II SKYRIUS
 PASIRENGIMAS PERTVARKYMUI IR PREVENCIJA
- 
+ 
 
 
 PIRMASIS SKIRSNIS
-SUPAPRASTINTI REIKALAVIMAI
- 
-
-
-3 straipsnis. Supaprastinti reikalavimai tam tikroms įstaigoms
+SUPAPRASTINTI REIKALAVIMAI3 straipsnis. Supaprastinti reikalavimai tam tikroms įstaigoms
 
 
 1. Priežiūros ir pertvarkymo institucijos vertina, ar įstaigos žlugimas ar bankrotas sukeltų (nesukeltų) sunkių pasekmių finansų rinkoms, kitoms įstaigoms, finansavimo sąlygoms ir ekonomikai, atsižvelgdamos į įstaigos:
@@ -1045,7 +1037,7 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 
 
-3) įvertinimas, kaip teisiškai ir ekonomiškai būtų galima, kiek tai būtina, atskirti ypač svarbias funkcijas ir pagrindines verslo dalis nuo kitų įstaigos funkcijų, kad įstaigai žlungant būtų užtikrintas jų tęstinumas; 
+3) įvertinimas, kaip teisiškai ir ekonomiškai būtų galima, kiek tai būtina, atskirti ypač svarbias funkcijas ir pagrindines verslo dalis nuo kitų įstaigos funkcijų, kad įstaigai žlungant būtų užtikrintas jų tęstinumas ir skaitmeninės veiklos atsparumas; 
 
 
 
@@ -1103,7 +1095,7 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 14) informacija apie minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimą, nustatytą pagal šio įstatymo 26, 262 ir 28 straipsnius, ir terminas, iki kurio privalo būti pasiektas tas dydis vadovaujantis šio įstatymo 266 straipsniu;
 Straipsnio punkto pakeitimai:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
- 
+ 
 
 
 
@@ -1111,7 +1103,7 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 15) jeigu taikoma šio įstatymo 251 straipsnio 5–9 ar 11 dalis, pertvarkytinam subjektui taikomas reikalavimų tenkinimo tvarkaraštis pagal šio įstatymo 266 straipsnį;
 Straipsnio punkto pakeitimai:
 Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
- 
+ 
 
 
 
@@ -1121,14 +1113,12 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 
 
-17) svarbiausių operacijų ir sistemų, skirtų įstaigos veiklos procesų tęstinumui užtikrinti, aprašas;
+17) svarbiausių operacijų ir sistemų, skirtų įstaigos veiklos procesų tęstinumui užtikrinti, įskaitant tinklų ir informacines sistemas, kaip nurodyta Reglamente (ES) 2022/2554, aprašas;
 
 
 
 
 18) prireikus įstaigos nuomonė apie pertvarkymo planą.
-
-
 
 
 
@@ -1151,28 +1141,10 @@ Nr. XIV-762, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26903
 
 
 
+4. Pertvarkymo institucija, rengdama pertvarkymo planą, taip pat turi vadovautis taikytinais ES teisės aktais.14 straipsnis. Duomenų apie finansines sutartis saugojimas
 
 
-4. Pertvarkymo institucija, rengdama pertvarkymo planą, taip pat turi vadovautis taikytinais ES teisės aktais.
- 
-
-
-
-
-
-
-14 straipsnis. Duomenų apie finansines sutartis saugojimas
-
-
-Pertvarkymo ir priežiūros institucijos turi teisę reikalauti, kad įstaigos ir šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodyti subjektai registruotų išsamius duomenis apie savo sudarytas finansines sutartis, kai tokia informacija reikalinga pertvarkymo ar priežiūros funkcijoms vykdyti. Tokiu atveju pertvarkymo ir priežiūros institucijos nustato išsamų informacijos apie įstaigų ir šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodytų subjektų sudarytas finansines sutartis saugojimo bei pateikimo pertvarkymo ir priežiūros institucijoms tvarkos aprašą. Informacijos apie sudarytas finansines sutartis pateikimo terminas turi būti vienodas visoms įstaigoms, tačiau gali skirtis atsižvelgiant į finansinės sutarties rūšį. 
- 
-
-
-
-
-
-
-15 straipsnis. Informacijos teikimas ir bendradarbiavimas 
+Pertvarkymo ir priežiūros institucijos turi teisę reikalauti, kad įstaigos ir šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodyti subjektai registruotų išsamius duomenis apie savo sudarytas finansines sutartis, kai tokia informacija reikalinga pertvarkymo ar priežiūros funkcijoms vykdyti. Tokiu atveju pertvarkymo ir priežiūros institucijos nustato išsamų informacijos apie įstaigų ir šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodytų subjektų sudarytas finansines sutartis saugojimo bei pateikimo pertvarkymo ir priežiūros institucijoms tvarkos aprašą. Informacijos apie sudarytas finansines sutartis pateikimo terminas turi būti vienodas visoms įstaigoms, tačiau gali skirtis atsižvelgiant į finansinės sutarties rūšį.15 straipsnis. Informacijos teikimas ir bendradarbiavimas 
 
 
 1. Pertvarkymo institucija gali reikalauti, kad įstaiga:
@@ -7625,7 +7597,7 @@ Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 41) specialieji administratoriai, paskirti pagal Pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymą; 
 Papildyta straipsnio punktu:
 Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
- 
+ 
 
 
 
@@ -7635,7 +7607,7 @@ Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
 
 
 
-6) auditoriai, buhalteriai, teisės konsultantai, vertintojai ir kiti ekspertai ar konsultantai, kuriuos tiesiogiai ar netiesiogiai pasitelkė pertvarkymo institucija, priežiūros institucija arba potencialūs įsigyjantieji asmenys, nurodyti šios dalies 5 punkte; 
+6) auditoriai, finansinę apskaitą tvarkantys asmenys, teisės konsultantai, vertintojai ir kiti ekspertai ar konsultantai, kuriuos tiesiogiai ar netiesiogiai pasitelkė pertvarkymo institucija, priežiūros institucija arba potencialūs įsigyjantieji asmenys, nurodyti šios dalies 5 punkte; 
 
 
 
@@ -7643,7 +7615,7 @@ Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
 7) Vyriausybės paskirtas juridinis asmuo, įgyvendinantis valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
- 
+ 
 
 
 
@@ -7675,10 +7647,10 @@ Nr. XIV-1692, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27549
 
 
 
-4. Šio straipsnio 1 dalyje nustatytas reikalavimas netaikomas, jeigu informacijos, gautos šio įstatymo tikslais, atskleidimas yra būtinas šiame įstatyme nustatytoms funkcijoms tinkamai atlikti arba jeigu atskleidžiama informacija yra apibendrinta ir neįmanoma atpažinti atskirų įstaigų arba šio įstatymo 1 straipsnio 2 dalies 4, 41 ar 5 punkte nurodytų subjektų, arba jeigu gaunamas aiškus išankstinis informaciją pateikusios institucijos, įstaigos arba šio įstatymo 1 straipsnio 2 dalies 4, 41 ar 5 punkte nurodyto subjekto sutikimas.
+4. Šio straipsnio 1 dalyje nustatytas reikalavimas netaikomas, jeigu informacijos, gautos šio įstatymo tikslais, atskleidimas yra būtinas šiame įstatyme nustatytoms funkcijoms tinkamai atlikti arba jeigu atskleidžiama informacija yra apibendrinta ir neįmanoma atpažinti atskirų įstaigų arba šio įstatymo 1 straipsnio 2 dalies 4, 41 ar 5 punkte nurodytų subjektų, arba jeigu gaunamas aiškus išankstinis informaciją pateikusios institucijos, įstaigos arba šio įstatymo 1 straipsnio 2 dalies 4, 41 ar 5 punkte nurodyto subjekto sutikimas.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
- 
+ 
 
 
 
@@ -7698,15 +7670,7 @@ Nr. XIV-1335, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15400
 
 
 
-8. Vertinant žalos, atsiradusios nesilaikant šiame straipsnyje nustatytų reikalavimų, dydį, turi būti įvertintas poveikis, kurį informacijos, gautos šio įstatymo tikslais, atskleidimas galėtų turėti su finansų, pinigų ar ekonomikos politika susijusiam viešajam interesui, fizinių ir juridinių asmenų, komerciniams interesams, tikrinimų tikslui, tyrimams ir auditui. Vertinant tokios informacijos atskleidimo poveikį turi būti įvertintas ir šio įstatymo 5, 8, 13, 15 ir 16 straipsniuose nurodyto gaivinimo ir pertvarkymo plano turinio ir bet kurio pagal šio įstatymo 7, 10, 11 ir 20 straipsnius atlikto sėkmingo pertvarkymo vertinimo rezultatų atskleidimo poveikis.
- 
-
-
-
-
-
-
-100 straipsnis. Pertvarkymo institucijos ir jos darbuotojų neteisėtais veiksmais padarytos žalos atlyginimas ir kompensacija pertvarkymo institucijos darbuotojams dėl išlaidų, susijusių su jiems iškeltomis bylomis arba pareikštais ieškiniais
+8. Vertinant žalos, atsiradusios nesilaikant šiame straipsnyje nustatytų reikalavimų, dydį, turi būti įvertintas poveikis, kurį informacijos, gautos šio įstatymo tikslais, atskleidimas galėtų turėti su finansų, pinigų ar ekonomikos politika susijusiam viešajam interesui, fizinių ir juridinių asmenų, komerciniams interesams, tikrinimų tikslui, tyrimams ir auditui. Vertinant tokios informacijos atskleidimo poveikį turi būti įvertintas ir šio įstatymo 5, 8, 13, 15 ir 16 straipsniuose nurodyto gaivinimo ir pertvarkymo plano turinio ir bet kurio pagal šio įstatymo 7, 10, 11 ir 20 straipsnius atlikto sėkmingo pertvarkymo vertinimo rezultatų atskleidimo poveikis.100 straipsnis. Pertvarkymo institucijos ir jos darbuotojų neteisėtais veiksmais padarytos žalos atlyginimas ir kompensacija pertvarkymo institucijos darbuotojams dėl išlaidų, susijusių su jiems iškeltomis bylomis arba pareikštais ieškiniais
 
 
 Žalai, atsiradusiai dėl pertvarkymo institucijos arba jos darbuotojų neteisėtų veiksmų, susijusių su pertvarkymo vykdymu ar kitų pagal šį įstatymą priskirtų funkcijų atlikimu, atlyginti ir išlaidoms, susijusioms su pertvarkymo institucijos darbuotojams iškeltomis bylomis ar pareikštais ieškiniais, susijusiais su pertvarkymo vykdymu ar kitų pagal šį įstatymą priskirtų funkcijų atlikimu, kompensuoti mutatis mutandis taikomos Lietuvos Respublikos Lietuvos banko įstatymo 45 straipsnio nuostatos.
@@ -9945,3 +9909,5 @@ Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 21-1, 22, 23, 25
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-172, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07434
 Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 25, 25-4, 26-2 straipsnių ir priedo pakeitimo įstatymas
+
+2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo.
