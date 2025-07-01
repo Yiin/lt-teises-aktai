@@ -110,15 +110,7 @@ BENDROSIOS NUOSTATOS
 
 4. Buveinės valstybė narė – Europos Sąjungos valstybė, kurioje yra profesinių pensijų asociacijos ar jai analogiško subjekto buveinė ir jo pagrindinė administracija arba, jeigu šis subjektas neturi buveinės, jo pagrindinė administracija.
 
-
-
-
-5. Daugiašalė prekybos sistema – kaip ši sąvoka apibrėžta Lietuvos Respublikos finansinių priemonių rinkų įstatyme.
-
-
-
-
-6. Europos draudimo ir profesinių pensijų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48), įsteigta institucija.
+6. Europos draudimo ir profesinių pensijų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48), įsteigta institucija.
 
 
 
@@ -135,14 +127,6 @@ BENDROSIOS NUOSTATOS
 
 9. Gyvybės draudimo sutartis, pagal kurią kaupiamos profesinės pensijos – gyvybės draudimo įmonės, turinčios teisę vykdyti profesinių pensijų kaupimo veiklą, ir finansuojančio subjekto (draudėjo) sudaryta gyvybės draudimo sutartis, pagal kurią finansuojantis subjektas (draudėjas) įsipareigoja mokėti joje nustatytą profesinių pensijų įmoką, o finansuojančio subjekto darbuotojai (ar savarankiškai dirbantis asmuo, kai jis pats moka profesinės pensijos įmokas) draudimo sutarties ir šio įstatymo nustatyta tvarka ir sąlygomis įgyja teisę į profesinių pensijų išmokas. 
 
-
-
-
-10. Grynieji aktyvai – kaip ši sąvoka apibrėžta Papildomo savanoriško pensijų kaupimo įstatyme.
-
-
-
-
 11. Išvestinės finansinės priemonės – kaip ši sąvoka apibrėžta Finansinių priemonių rinkų įstatyme.
 
 
@@ -158,12 +142,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-14. Minimalus dalyvavimo profesinių pensijų fonde laikotarpis (toliau – minimalus dalyvavimo laikotarpis) – profesinių pensijų asociacijos įstatuose ar profesinių pensijų fondo (fondų) taisyklėse nustatytas ne ilgesnis kaip 2 metų dalyvavimo profesinių pensijų fonde (fonduose) laikotarpis, kurio neišbuvus, išskyrus šio įstatymo 29 straipsnio 7 dalyje, 32 straipsnio 2 dalyje ir 35 straipsnio 6 dalyje numatytas išimtis, laikoma, kad profesinių pensijų fondo dalyvis neįgijo nuosavybės teisių į jo vardu profesinių pensijų fonde sukauptą profesinės pensijos turto dalį. Sudarius gyvybės draudimo sutartį, pagal kurią kaupiamos profesinės pensijos, minimaliu dalyvavimo laikotarpiu laikomas ne ilgesnis kaip 2 metų draudimo taisyklėse nustatytas nuo profesinių pensijų fondo dalyvio apdraudimo dienos skaičiuojamas laikotarpis, kuriam pasibaigus finansuojantis subjektas praranda teisę būti naudos gavėju to dalyvio atžvilgiu ar atgauti išperkamąją sumą, sukauptą iš dalyvio vardu mokėtų profesinės pensijos įmokų. 
+14. Minimalus dalyvavimo profesinių pensijų fonde laikotarpis (toliau – minimalus dalyvavimo laikotarpis) – profesinių pensijų asociacijos įstatuose ar profesinių pensijų fondo (fondų) taisyklėse nustatytas ne ilgesnis kaip 2 metų dalyvavimo profesinių pensijų fonde (fonduose) laikotarpis, kurio neišbuvus, išskyrus šio įstatymo 29 straipsnio 7 dalyje, 32 straipsnio 2 dalyje ir 35 straipsnio 6 dalyje numatytas išimtis, laikoma, kad profesinių pensijų fondo dalyvis neįgijo nuosavybės teisių į jo vardu profesinių pensijų fonde sukauptą profesinės pensijos turto dalį. Sudarius gyvybės draudimo sutartį, pagal kurią kaupiamos profesinės pensijos, minimaliu dalyvavimo laikotarpiu laikomas ne ilgesnis kaip 2 metų draudimo taisyklėse nustatytas nuo profesinių pensijų fondo dalyvio apdraudimo dienos skaičiuojamas laikotarpis, kuriam pasibaigus finansuojantis subjektas praranda teisę būti naudos gavėju to dalyvio atžvilgiu ar atgauti išperkamąją sumą, sukauptą iš dalyvio vardu mokėtų profesinės pensijos įmokų. 
 
-
-
-
-15. Nepriekaištingos reputacijos asmenys – kaip ši sąvoka apibrėžta Finansinių priemonių rinkų įstatyme.
+16. Organizuotos prekybos sistema – kaip ši sąvoka apibrėžta Finansinių priemonių rinkų įstatyme.
 
 
 
@@ -175,20 +156,9 @@ BENDROSIOS NUOSTATOS
 
 17. Patvarioji laikmena – priemonė, kuria sudaroma galimybė profesinių pensijų fondo dalyviui ar profesinės pensijos išmokų gavėjui saugoti asmeniškai jam skirtą informaciją taip, kad ji būtų vėliau prieinama, prireikus atgaminama nepakitusi ir tokią galimybę jis turėtų tokį laikotarpį, kuris atitinka tos informacijos paskirtį.
 
+19. Perimančioji profesinių pensijų asociacija (toliau – perimančioji pensijų asociacija) – profesinių pensijų asociacija ar jai analogiškas subjektas, visus profesinių pensijų fondo įsipareigojimus, techninius atidėjinius ir kitas pareigas bei teises, taip pat juos atitinkantį turtą ar jo grynųjų pinigų ekvivalentą arba jų dalį perimantys iš kitoje valstybėje narėje registruotos ar leidimą gavusios profesinių pensijų asociacijos ar jai analogiško subjekto.
 
-
-
-18. Pensijų fondo vienetas – kaip ši sąvoka apibrėžta Papildomo savanoriško pensijų kaupimo įstatyme.
-
-
-
-
-19. Perimančioji profesinių pensijų asociacija (toliau – perimančioji pensijų asociacija) – profesinių pensijų asociacija ar jai analogiškas subjektas, visus profesinių pensijų fondo įsipareigojimus, techninius atidėjinius ir kitas pareigas bei teises, taip pat juos atitinkantį turtą ar jo grynųjų pinigų ekvivalentą arba jų dalį perimantys iš kitoje valstybėje narėje registruotos ar leidimą gavusios profesinių pensijų asociacijos ar jai analogiško subjekto.
-
-
-
-
-20. Periodinė ataskaita – kaip ši sąvoka apibrėžta Papildomo savanoriško pensijų kaupimo įstatyme.
+21. Perleidžiamieji vertybiniai popieriai – kaip ši sąvoka apibrėžta Papildomo savanoriško pensijų kaupimo įstatyme.
 
 
 
@@ -199,14 +169,6 @@ BENDROSIOS NUOSTATOS
 
 
 22. Perleidžiančioji profesinių pensijų asociacija (toliau – perleidžiančioji pensijų asociacija) – profesinių pensijų asociacija ar jai analogiškas subjektas, visus profesinių pensijų fondo įsipareigojimus, techninius atidėjinius ir kitas pareigas bei teises, taip pat juos atitinkantį turtą ar jo grynųjų pinigų ekvivalentą arba jų dalį perleidžiantys kitoje valstybėje narėje registruotai ar leidimą gavusiai profesinių pensijų asociacijai ar jai analogiškam subjektui.
-
-
-
-
-23. Pinigų rinkos priemonės – kaip ši sąvoka apibrėžta Kolektyvinio investavimo subjektų įstatyme.
-
-
-
 
 24. Priežiūros institucija – Lietuvos bankas, šio ir kitų įstatymų nustatyta tvarka atliekantis profesinių pensijų asociacijų registravimo ir veiklos priežiūros funkcijas, taip pat draudimo įmonių licencijavimo ir veiklos priežiūros funkcijas.
 
@@ -265,13 +227,9 @@ BENDROSIOS NUOSTATOS
 
 35. Profesinių pensijų fondo valdymas (toliau – pensijų fondo valdymas) – pensijų fondo:
 
-
 1) investicijų valdymas;
 
-
-
-
-2) administravimas, t. y. buhalterinės apskaitos tvarkymas, teisės aktų laikymosi vidaus kontrolė, grynųjų aktyvų skaičiavimas, pensijų fondo dalyvių sąrašo tvarkymas, profesinių pensijų sąskaitų atidarymas, tvarkymas ir uždarymas, profesinių pensijų įmokų priėmimas ir pensijų išmokų mokėjimas bei su tuo susijusių operacijų (išskyrus atliekamas pensijų fondo saugotojo) vykdymas, pinigų konvertavimas į pensijų fondo vienetus ir pensijų fondo vienetų konvertavimas į pinigus, pajamų paskirstymas, pensijų fondo vieneto vertės nustatymas, atsiskaitymas sandorių pagrindu, duomenų apie atliktas operacijas saugojimas;
+2) administravimas, t. y. finansinės apskaitos tvarkymas, teisės aktų laikymosi vidaus kontrolė, grynųjų aktyvų skaičiavimas, pensijų fondo dalyvių sąrašo tvarkymas, profesinių pensijų sąskaitų atidarymas, tvarkymas ir uždarymas, profesinių pensijų įmokų priėmimas ir pensijų išmokų mokėjimas bei su tuo susijusių operacijų (išskyrus atliekamas pensijų fondo saugotojo) vykdymas, pinigų konvertavimas į pensijų fondo vienetus ir pensijų fondo vienetų konvertavimas į pinigus, pajamų paskirstymas, pensijų fondo vieneto vertės nustatymas, atsiskaitymas sandorių pagrindu, duomenų apie atliktas operacijas saugojimas;
 
 
 
@@ -290,14 +248,6 @@ BENDROSIOS NUOSTATOS
 
 36. Profesinių pensijų turtas – už profesinių pensijų įmokas įsigyto turto (įskaitant laikinai neinvestuotą šių lėšų dalį) ir investicijų pajamų (sąnaudų), gautų iš šio turto (lėšų), suma.
 
-
-
-
-37. Reguliuojama rinka – kaip ši sąvoka apibrėžta Finansinių priemonių rinkų įstatyme.
-
-
-
-
 38. Savarankiškai dirbantys asmenys – kaip ši sąvoka apibrėžta Lietuvos Respublikos valstybinio socialinio draudimo įstatyme.
 
 
@@ -315,20 +265,10 @@ BENDROSIOS NUOSTATOS
 
 41. Valstybė narė – Europos Sąjungos valstybė narė arba Europos ekonominės erdvės valstybė.
 
-
-
-
-42. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Papildomo savanoriško pensijų kaupimo įstatyme, Kolektyvinio investavimo subjektų įstatyme, Pensijų kaupimo įstatyme, Lietuvos Respublikos finansinių ataskaitų audito įstatyme. 
- 
- 
- 
-
-
-
-
-
-
-
+42. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Papildomo savanoriško pensijų kaupimo įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Pensijų kaupimo įstatyme, Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme ir Reglamente (ES) 2022/2554.
+ 
+ 
+ 
 
 ANTRASIS SKIRSNIS
 PENSIJŲ ASOCIACIJOS VEIKLOS NUOSTATOS
@@ -689,33 +629,17 @@ PENSIJŲ ASOCIACIJOS VEIKLOS NUOSTATOS
 
 3. Vykdydama veiklą, pensijų asociacija privalo: 
 
-
 1) sąžiningai veikti narių ir rinkos patikimumo interesais;
-
-
-
 
 2) veikti rūpestingai, profesionaliai ir atsargiai;
 
-
-
-
 3) turėti ir taikyti reikiamas priemones ir procedūras;
-
-
-
 
 4) pensijų fondo dalyviams pakankamai ir tinkamai atskleisti su jų naryste pensijų asociacijoje, dalyvavimu pensijų fonde susijusią informaciją;
 
-
-
-
 5) stengtis išvengti interesų konfliktų, o kai jų išvengti neįmanoma, užtikrinti, kad su pensijų fondo dalyviais būtų elgiamasi sąžiningai;
 
-
-
-
-6) užtikrinti, kad pensijų asociacijos valdymo procedūros ir buhalterinių įrašų bei apskaitos sistemos būtų patikimos ir kad iš jų būtų galima sužinoti visų sandorių šalis, finansuojančius subjektus, įmokų dydžius, įmokų dalies pasiskirstymą tarp finansuojančio subjekto ir pensijų fondo dalyvio, sandorių turinį, laiką ir vietą, nustatyti, ar turtas investuojamas laikantis pensijų fondo taisyklėse, šiame įstatyme ir kituose profesinių pensijų turto investavimą reglamentuojančiuose teisės aktuose nustatytų reikalavimų;
+6) užtikrinti, kad pensijų asociacijos valdymo procedūros ir finansinės apskaitos įrašų bei apskaitos sistemos būtų patikimos ir kad iš jų būtų galima sužinoti visų sandorių šalis, finansuojančius subjektus, įmokų dydžius, įmokų dalies pasiskirstymą tarp finansuojančio subjekto ir pensijų fondo dalyvio, sandorių turinį, laiką ir vietą, nustatyti, ar turtas investuojamas laikantis pensijų fondo taisyklėse, šiame įstatyme ir kituose profesinių pensijų turto investavimą reglamentuojančiuose teisės aktuose nustatytų reikalavimų;
 
 
 
@@ -1122,7 +1046,7 @@ PENSIJŲ ASOCIACIJOS VALDYMO SISTEMA
 
 
 
-5. Pensijų asociacija, naudodama tinkamas ir proporcingas sistemas, išteklius ir taikydama procedūras, privalo užtikrinti nepertraukiamą veiklą, tam tikslui ji turi būti parengusi ir patvirtinusi veiklos tęstinumo planą bei užtikrinusi jo įgyvendinimą. 
+5. Pensijų asociacija, naudodama tinkamas ir proporcingas sistemas, išteklius ir taikydama procedūras, privalo užtikrinti nepertraukiamą veiklą, tam tikslui ji turi būti parengusi ir patvirtinusi veiklos tęstinumo planą bei užtikrinusi jo įgyvendinimą, taip pat įdiegti bei valdyti tinklų ir informacines sistemas pagal Reglamentą (ES) 2022/2554. 
 
 
 
@@ -3581,7 +3505,7 @@ Priežiūros institucija taiko šias poveikio priemones:
 
 
 
-11) pažeisti Reglamente (EB) Nr. 1060/2009, Reglamente (ES) 2019/2088 ar Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose nustatyti reikalavimai; 
+11) pažeisti Reglamente (EB) Nr. 1060/2009, Reglamente (ES) 2019/2088, Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose ar Reglamente (ES) 2022/2554 nustatyti reikalavimai; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
  
@@ -3991,7 +3915,11 @@ priedas
 
 
 
-8. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088.
+8. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088.
+
+9. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo.
+
+10. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011.
 Papildyta punktu:
 Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
  
