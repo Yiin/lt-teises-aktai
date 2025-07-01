@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2025-01-15 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -2060,7 +2060,10 @@ Nr. XII-1525, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21159
 
 
 
-2) sudaryti likvidavimo laikotarpio pradžios įmonės balansą;
+2) parengti įmonės likvidavimo pabaigos finansinę ataskaitą pagal paskutinės įmonės veiklos dienos iki likvidavimo pabaigos dienos duomenis; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2826, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12148
+ 
 
 
 
@@ -2090,7 +2093,9 @@ Nr. XII-1525, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21159
 
 
 
-8) pateikti juridinių asmenų registrui įmonės likvidavimo aktą bei kitus teisės aktų nustatytus dokumentus, reikalingus likviduotai įmonei išregistruoti.
+8) pateikti juridinių asmenų registro tvarkytojui įmonės likvidavimo aktą, likvidavimo pabaigos finansinę ataskaitą bei kitus teisės aktų nustatytus dokumentus, reikalingus likviduotai įmonei išregistruoti.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2826, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12148
  
 
 
