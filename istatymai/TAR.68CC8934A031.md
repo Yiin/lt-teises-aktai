@@ -54,7 +54,6 @@ SUTARTIES DĖL EUROPOS SĄJUNGOS VEIKIMO 280 IR 299 STRAIPSNIŲ ĮGYVENDINIMAS
 
 2 straipsnis. Vykdomųjų raštų išdavimas
 
-
 Vykdomuosius raštus dėl Europos Sąjungos Tarybos, Europos Komisijos, Europos Centrinio Banko ar Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucijos sprendimų, kuriais asmenims, išskyrus valstybes, skiriama piniginė prievolė, taip pat dėl Europos Sąjungos Teisingumo Teismo sprendimų suinteresuotos šalies prašymu nedelsdamas, bet ne vėliau kaip per penkias darbo dienas išduoda Lietuvos apeliacinis teismas.
 
 
@@ -1856,6 +1855,14 @@ Nr. XIV-1473, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23020
 
 
 14. 2022 m. liepos 12 d. Tarybos sprendimas (ES) 2022/1206 dėl Europos Sąjungos prisijungimo prie Konvencijos dėl užsienio teismų sprendimų civiliniais arba komerciniais klausimais pripažinimo ir vykdymo.
+Papildyta punktu:
+Nr. XIV-1962, 2023-05-18, paskelbta TAR 2023-05-25, i. k. 2023-09976
+ 
+
+15. 2024 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1620, kuriuo įsteigiama Kovos su pinigų plovimu ir teroristų finansavimu institucija ir iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 1094/2010 ir (ES) Nr. 1095/2010.
+
+
+Priedo pakeitimai:12 d. Tarybos sprendimas (ES) 2022/1206 dėl Europos Sąjungos prisijungimo prie Konvencijos dėl užsienio teismų sprendimų civiliniais arba komerciniais klausimais pripažinimo ir vykdymo.
 Papildyta punktu:
 Nr. XIV-1962, 2023-05-18, paskelbta TAR 2023-05-25, i. k. 2023-09976
  
