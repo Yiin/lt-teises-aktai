@@ -219,14 +219,12 @@ Nr. XI-1667, 2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
 4) skatina patvarų ir veiksmingą mokėjimo ir vertybinių popierių atsiskaitymo sistemų veikimą, įskaitant Lietuvos banko valdomų mokėjimo ir kitų mokėjimų infrastruktūrą sudarančių informacinių sistemų vystymą; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
- 
+ 
 
 
 
 
 5) renka Europos centrinių bankų sistemos uždaviniams vykdyti reikalingą statistinę informaciją iš valstybės ir savivaldybių institucijų ir ūkio subjektų.
-
-
 
 
 
@@ -237,16 +235,16 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 1) pagal susitarimus su Sutarties dėl Europos Sąjungos veikimo Protokolo dėl Europos centrinių bankų sistemos ir Europos centrinio banko statuto 21.1 straipsnyje nustatytais viešaisiais subjektais (toliau – viešieji subjektai) atlieka fiskalinio agento funkcijas; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-111, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28967
- 
+ 
 
 
 
 
-2) atlieka finansų rinkos priežiūrą, išskyrus atvejus, kai pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, nuostatas šias funkcijas atlieka Europos Centrinis Bankas, taip pat pagal Reglamentą (ES) Nr. 1024/2013 nacionalinei priežiūros institucijai priskirtas funkcijas;
+2) atlieka finansų rinkos priežiūrą, išskyrus atvejus, kai pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, nuostatas šias funkcijas atlieka Europos Centrinis Bankas ar pagal Reglamento (ES) 2024/1620 nuostatas priežiūrą atlieka Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucija, taip pat pagal Reglamentą (ES) Nr. 1024/2013 nacionalinei priežiūros institucijai priskirtas funkcijas;
 Straipsnio punkto pakeitimai:
 Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
- 
+ 
 
 
 
@@ -264,12 +262,12 @@ Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 5) savo nustatyta tvarka, sąlygomis ir terminais gali duoti paskolas, užtikrintas įkeičiamu Lietuvos bankui pakankamu turtu, Lietuvos Respublikoje įregistruotoms kredito ir kitoms finansų įstaigoms, draudimo ar perdraudimo veikla užsiimančioms įmonėms, jei tai neprieštarauja reikalavimams, atsirandantiems dėl Lietuvos banko dalyvavimo Europos centrinių bankų sistemoje, ypač reikalavimams, atsirandantiems dėl viešosios teisės subjektų vardu atliekamų operacijų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2836, 2020-03-31, paskelbta TAR 2020-04-03, i. k. 2020-06995
- 
+ 
 
 
 
 
-6) išleidžia monetas, laikydamasis Sutarties dėl Europos Sąjungos veikimo reikalavimų, ir vykdo kitą su tuo susijusią veiklą;
+6) išleidžia monetas, laikydamasi Sutarties dėl Europos Sąjungos veikimo reikalavimų, ir vykdo kitą su tuo susijusią veiklą;
 
 
 
@@ -279,15 +277,13 @@ Nr. XIII-2836, 2020-03-31, paskelbta TAR 2020-04-03, i. k. 2020-06995
 
 
 
-8) atlieka Lietuvos Respublikos įstatymais finansų sektoriaus subjektų pertvarkymo institucijai priskirtas funkcijas, išskyrus atvejus, kai pagal 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010 (su visais pakeitimais), nuostatas šias funkcijas atlieka Bendra pertvarkymo valdyba, taip pat pagal Reglamentą (ES) Nr. 806/2014 atlieka nacionalinei pertvarkymo institucijai priskirtas funkcijas, o pagal Reglamentą (ES) 2021/23 – pagrindinių sandorio šalių pertvarkymo institucijai priskirtas funkcijas. 
+8) atlieka Lietuvos Respublikos įstatymais finansų sektoriaus subjektų pertvarkymo institucijai priskirtas funkcijas, išskyrus atvejus, kai pagal 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010 (su visais pakeitimais), nuostatos šias funkcijas atlieka Bendra pertvarkymo valdyba, taip pat pagal Reglamentą (ES) Nr. 806/2014 atlieka nacionalinei pertvarkymo institucijai priskirtas funkcijas, o pagal Reglamentą (ES) 2021/23 – pagrindinių sandorio šalių pertvarkymo institucijai priskirtas funkcijas. 
 Papildyta straipsnio punktu:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 Straipsnio punkto pakeitimai:
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
- 
-
-
+ 
 
 
 
@@ -295,7 +291,7 @@ Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
 3. Lietuvos bankas vykdo veiklą, reikalingą šio straipsnio 1 ir 2 dalyse nurodytoms funkcijoms įgyvendinti ir tam reikalingai infrastruktūrai sukurti bei palaikyti. Už Lietuvos banko teikiamas paslaugas, išskyrus paslaugas, už kurias atlyginimas pagal Lietuvos Respublikos viešojo administravimo įstatymo 15 straipsnio 5 dalį negali būti nustatomas, Lietuvos bankas turi teisę gauti Lietuvos banko valdybos nutarimu nustatytą atlyginimą, jeigu Europos Sąjungos teisės aktai nenustato kitaip. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
- 
+ 
 
 
 
@@ -311,13 +307,7 @@ Nr. XI-556, 2009-12-10, Žin., 2009, Nr. 153-6894 (2009-12-28)
 Nr. XI-1667, 2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
 Nr. XII-1046, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10742
 Nr. XI-557, 2009-12-10, Žin., 2009, Nr. 153-6895 (2009-12-28)
-Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
- 
-
-
-
-
-9 straipsnis. Lietuvos banko teisės aktai
+Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)9 straipsnis. Lietuvos banko teisės aktai
 
 
 Lietuvos banko valdyba priima nutarimus, o Lietuvos banko valdybos pirmininkas išleidžia įsakymus pagal savo kompetenciją.
@@ -415,7 +405,7 @@ Nr. XI-1319, 2011-04-14, Žin., 2011, Nr. 46-2158 (2011-04-16)
 6) nustato finansų rinkos priežiūros politiką, išskyrus atvejus, kai pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai atlieka Europos centrinis bankas; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
- 
+ 
 
 
 
@@ -450,11 +440,11 @@ Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
 
 
 
-13) šio įstatymo 42 straipsnio 1 dalyje nurodytiems finansų rinkos dalyviams (toliau – prižiūrimi finansų rinkos dalyviai) ir kitiems asmenims taiko įstatymų ir Europos Sąjungos teisės aktų nustatytas poveikio priemones, finansų rinką reglamentuojančiuose teisės aktuose nustatytus privalomus nurodymus ir kitas kitiems asmenims privalomas vykdyti priemones, išskyrus atvejus, kai pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai atlieka Europos Centrinis Bankas; 
+13) šio įstatymo 42 straipsnio 1 dalyje nurodytiems finansų rinkos dalyviams (toliau – prižiūrimi finansų rinkos dalyviai) ir kitiems asmenims taiko įstatymų ir Europos Sąjungos teisės aktų nustatytas poveikio priemones, finansų rinką reglamentuojančiuose teisės aktuose nustatytus privalomus nurodymus ir kitas kitiems asmenims privalomas vykdyti priemones, išskyrus atvejus, kai pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai atlieka Europos Centrinis Bankas ar pagal Reglamento (ES) 2024/1620 nuostatas tai atlieka Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucija; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
- 
+ 
 
 
 
@@ -463,7 +453,7 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 Straipsnio punkto pakeitimai:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
- 
+ 
 
 
 
@@ -471,7 +461,7 @@ Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 141) vadovaudamasi Reglamento (ES) 2021/23, kitų taikytinų Europos Sąjungos ir Lietuvos Respublikos teisės aktų nuostatomis, priima sprendimus dėl pagrindinių sandorio šalių pertvarkymo ir kitus su pagrindinių sandorio šalių pertvarkymo institucijai priskirtų funkcijų atlikimu susijusius sprendimus; 
 Papildyta straipsnio punktu:
 Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
- 
+ 
 
 
 
@@ -494,7 +484,7 @@ Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
 18) sprendžia klausimus dėl finansų rinką reglamentuojančiuose įstatymuose ir Europos Sąjungos teisės aktuose nustatytų licencijų, leidimų, sutikimų, pritarimų, neprieštaravimų išdavimo, jų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir atšaukimo (galiojimo panaikinimo);
 Straipsnio punkto pakeitimai:
 Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
- 
+ 
 
 
 
@@ -507,7 +497,7 @@ Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 20) nustato makroprudencinės politikos priemones; 
 Papildyta straipsnio punktu:
 Nr. XII-1097, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12712
- 
+ 
 
 
 
@@ -515,7 +505,7 @@ Nr. XII-1097, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12712
 21) sprendžia dėl Lietuvos banko valdomų mokėjimo ir kitų mokėjimų infrastruktūrą sudarančių informacinių sistemų vystymo ir su tuo susijusių priemonių įgyvendinimo; 
 Papildyta straipsnio punktu:
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
- 
+ 
 
 
 
@@ -523,7 +513,7 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 22) tvirtina Lietuvos banko valdomų mokėjimo ir kitų mokėjimų infrastruktūrą sudarančių informacinių sistemų veikimo taisykles, jų dalyvių sąskaitų atidarymo ir tvarkymo Lietuvos banke taisykles, nustato Lietuvos banko valdomų mokėjimo ir kitų mokėjimų infrastruktūrą sudarančių informacinių sistemų paslaugų teikimo ir apmokėjimo tvarką; 
 Papildyta straipsnio punktu:
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
- 
+ 
 
 
 
@@ -532,9 +522,7 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1097, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12712
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
- 
-
-
+ 
 
 
 
@@ -542,15 +530,15 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 2. Lietuvos banko valdyba gali dalį savo funkcijų pavesti vykdyti valdybos pirmininkui, išskyrus šio straipsnio 1 dalies 4, 6, 7, 9, 10, 12, 13, 14, 15, 16, 18, 19, 20, 21 ir 22 punktuose nurodytas funkcijas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
- 
+ 
 
 
 
 
-3. Lietuvos banko valdyba gali visas ar dalį savo funkcijų, nustatytų šio straipsnio 1 dalies 13, 18 ir 19 punktuose, pavesti vykdyti Lietuvos banko struktūriniams padaliniams arba pagal šio įstatymo 171 straipsnio nuostatas – Lietuvos banko valdybos sudarytiems kolegialiems organams, jeigu įstatymai nenustato kitaip. 
+3. Lietuvos banko valdyba gali visas ar dalį savo funkcijų, nustatytų šio straipsnio 1 dalies 13, 18 ir 19 punktuose, pavesti vykdyti Lietuvos banko struktūriniams padaliniams arba pagal šio įstatymo 171 straipsnio nuostatas – Lietuvos banko valdybos sudarytiems kolegialiems organams, jeigu įstatymai nenustato kitaip. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
- 
+ 
 
 
 Straipsnio pakeitimai:
@@ -563,13 +551,7 @@ Nr. XII-1046, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10742
 Nr. XI-202, 2009-03-19, Žin., 2009, Nr. 38-1441 (2009-04-04)
 Nr. XI-557, 2009-12-10, Žin., 2009, Nr. 153-6895 (2009-12-28)
 Nr. XI-1319, 2011-04-14, Žin., 2011, Nr. 46-2158 (2011-04-16)
-Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
- 
-
-
-
-
-12 straipsnis. Lietuvos banko valdybos narių atleidimas iš pareigų
+Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)12 straipsnis. Lietuvos banko valdybos narių atleidimas iš pareigų
 
 
 1. Lietuvos banko valdybos pirmininkas, jo pavaduotojai ir valdybos nariai atleidžiami prieš terminą, tik kai jie neatitinka reikalavimų, kurie reikalingi šioms pareigoms atlikti, arba kai jie pripažįstami kaltais padarę sunkų nusižengimą.
@@ -1517,7 +1499,7 @@ Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
 
 
 
-3. Lietuvos bankas finansų rinkos priežiūrą atlieka tiek, kiek pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai nepavesta Europos Centriniam Bankui.
+3. Lietuvos bankas finansų rinkos priežiūrą atlieka tiek, kiek pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai nepavesta Europos Centriniam Bankui ar pagal Reglamento (ES) 2024/1620 nuostatas priežiūros neatlieka Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucija.
 
 
 
@@ -1715,9 +1697,7 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837421 straips
 
 
 
-8) teisės akto pažeidimas yra akivaizdus ir dėl to jo nagrinėjimas pagal šio įstatymo 432 ar 433 straipsnio nuostatas pradedamas be patikrinimo.
-
-
+8) teisės akto pažeidimas yra akivaizdus ir dėl to jo nagrinėjimas pagal šio įstatymo 432 ar 433 straipsnio nuostatas pradedamas be patikrinimo.
 
 
 
@@ -1790,8 +1770,6 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837421 straips
 
 
 
-
-
 6. Lietuvos bankas, pradėjęs patikrinimą ir turėdamas pagrindą įtarti finansų rinką reglamentuojančių teisės aktų pažeidimus arba finansų rinkos dalyvių veiklos trūkumus ir jeigu kyla grėsmė finansų sistemos stabilumui ar kitiems viešiesiems interesams, turi teisę įpareigoti nutraukti įtariamą neteisėtą veiklą, iki bus atliktas patikrinimas ir priimtas Lietuvos banko sprendimas dėl įtariamo pažeidimo. 
 
 
@@ -1802,15 +1780,15 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837421 straips
 
 
 
-8. Jeigu Lietuvos bankas priima sprendimą dėl veiksmų, kuriems atlikti reikalingas teismo leidimas, prašymas leisti atlikti šiuos veiksmus pateikiamas pirmosios instancijos administraciniam teismui. Prašyme turi būti nurodyta juridinio asmens pavadinimas, įtariamų finansų rinką reglamentuojančių teisės aktų pažeidimų pobūdis ir numatomi patikrinimo veiksmai. Prie prašymo turi būti pridėti įrodymai, kuriais patvirtinami įtariami pažeidimai, finansų rinkos dalyvių veiklos trūkumai arba grėsmė finansų sistemos stabilumui ar kitiems viešiesiems interesams. Prašymą išduoti teismo leidimą rašytinio proceso tvarka nagrinėja pirmosios instancijos administracinis teismas. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Lietuvos bankas, nesutinkantis su pirmosios instancijos administracinio teismo teisėjo sprendimu atmesti prašymą, turi teisę per 7 dienas apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas. Lietuvos banko atstovai turi teisę dalyvauti nagrinėjant skundą, kai skundas nagrinėjamas žodinio proceso tvarka. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+8. Jeigu Lietuvos bankas priima sprendimą dėl veiksmų, kuriems atlikti reikalingas teismo leidimas, prašymas leisti atlikti šiuos veiksmus pateikiamas pirmosios instancijos administraciniam teismui. Prašyme turi būti nurodyta juridinio asmens pavadinimas, įtariamų finansų rinką reglamentuojančių teisės aktų pažeidimų pobūdis ir numatomi patikrinimo veiksmai. Prie prašymo turi būti pridėti įrodymai, kuriais patvirtinami įtariami pažeidimai, finansų rinkos dalyvių veiklos trūkumai arba grėsmė finansų sistemos stabilumui ar kitiems viešiesiems interesams. Prašymą išduoti teismo leidimą rašytinio proceso tvarka nagrinėja pirmosios instancijos administracinis teismas. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Lietuvos bankas, nesutinkantis su pirmosios instancijos administracinio teismo teisėjo sprendimu atmesti prašymą, turi teisę per 7 dienas apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas. Lietuvos banko atstovai turi teisę dalyvauti nagrinėjant skundą, kai skundas nagrinėjamas žodinio proceso tvarka. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1597, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25171
- 
+ 
 
 
 
 
-9. Lietuvos banko tarnautojų reikalavimai atliekant šio straipsnio 5 dalyje, išskyrus 5 dalies 2 punktą, nurodytus veiksmus yra privalomi. Už šių reikalavimų nevykdymą taikomos finansų rinką reglamentuojančiuose įstatymuose nustatytos poveikio priemonės. 
+9. Lietuvos banko tarnautojų reikalavimai atliekant šio straipsnio 5 dalyje, išskyrus 5 dalies 2 punktą, nurodytus veiksmus yra privalomi. Už šių reikalavimų nevykdymą taikomos finansų rinką reglamentuojančiuose įstatymuose nustatytos poveikio priemonės. 
 
 
 
@@ -1819,13 +1797,7 @@ Nr. XIV-1597, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25171
 
 
 Papildyta straipsniu:
-Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
- 
-
-
-
-
-43 straipsnis. Finansų rinkos priežiūros tikslais gautos informacijos apsauga
+Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-0983743 straipsnis. Finansų rinkos priežiūros tikslais gautos informacijos apsauga
 
 
 1. Informacijai, kurią Lietuvos bankas gauna finansų rinkos priežiūros tikslais, apsaugoti taikomos šio straipsnio ir šio įstatymo 19 straipsnio nuostatos.
@@ -2624,41 +2596,26 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 46 straipsnis. Bendradarbiavimas su kitų valstybių finansų rinkos priežiūros institucijomis
 
 
-Lietuvos bankas turi teisę sudaryti sutartis su kitų valstybių finansų rinkos priežiūros institucijomis, Europos bankininkystės institucija, Europos draudimo ir profesinių pensijų institucija, Europos vertybinių popierių ir rinkų institucija ir kitomis Lietuvos Respublikos ir užsienio valstybių institucijomis dėl bendradarbiavimo finansų rinkos priežiūros srityje.
+Lietuva bankas turi teisę sudaryti sutartis su kitų valstybių finansų rinkos priežiūros institucijomis, Europos bankininkystės institucija, Europos draudimo ir profesinių pensijų institucija, Europos vertybinių popierių ir rinkų institucija, Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucija ir kitomis Lietuvos Respublikos ir užsienio valstybių institucijomis dėl bendradarbiavimo finansų rinkos priežiūros srityje.
 Straipsnio pakeitimai:
 Nr. IX-2069, 2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
 Nr. XI-557, 2009-12-10, Žin., 2009, Nr. 153-6895 (2009-12-28)
 Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
- 
-
-
-
-
-
-
+ 
+ 
 46(1) straipsnis. Neteko galios nuo 2012-01-01.
 Įstatymas papildytas straipsniu:
 Nr. IX-1998, 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
 Straipsnio pakeitimai:
 Nr. XI-557, 2009-12-10, Žin., 2009, Nr. 153-6895 (2009-12-28)
 Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
- 
- 
-
-
-
-
-
-
+ 
+ 
 SEPTINTASIS1 SKIRSNIS
 Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo
 ne teisme tvarka
 Įstatymas papildytas septintuoju1 skirsniu:
-Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01) 
- 
-
-
-47 straipsnis. Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimas ne teismo tvarka
+Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)47 straipsnis. Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimas ne teismo tvarka
 
 
 1. Lietuvos bankas nagrinėja šio straipsnio 5 dalyje nurodytų vartotojų (toliau – vartotojai) ginčus su šiais subjektais:
@@ -4252,3 +4209,5 @@ Nr. XV-153, 2025-04-10, paskelbta TAR 2025-04-11, i. k. 2025-06427
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 23 straipsnio pakeitimo įstatymas
 
 23^1. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011.
+
+2024 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1620, kuriuo įsteigiama Kovos su pinigų plovimu ir teroristų finansavimu institucija ir iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 1094/2010 ir (ES) Nr. 1095/2010.
