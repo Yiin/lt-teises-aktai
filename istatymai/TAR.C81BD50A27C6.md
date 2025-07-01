@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -86,7 +86,10 @@ Nr. XIII-2774, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02009
 
 
 
-3. LNSS veiklos užsakovai – valstybės valdymo ir savivaldos vykdomosios institucijos, taip pat Valstybinė ir teritorinės ligonių kasos. 
+3. LNSS veiklos užsakovai – Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos ir kitos LNSS ištekliais disponuojančios valstybės bei savivaldybių institucijos ir įstaigos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2791, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12734
+ 
 
 
 
@@ -233,7 +236,10 @@ Nr. XIII-2774, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02009
 
 
 
-4) kitos įmonės ir įstaigos, įstatymų nustatyta tvarka sudariusios sutartis su Valstybine ar teritorinėmis ligonių kasomis arba kitais LNSS veiklos užsakovais – šių sutarčių galiojimo laikotarpiu.
+4) kitos įmonės ir įstaigos, įstatymų nustatyta tvarka sudariusios sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos (toliau – Valstybinė ligonių kasa) arba kitais LNSS veiklos užsakovais – šių sutarčių galiojimo laikotarpiu ir tik dėl tų paslaugų, dėl kurių sudarytos šios sutartys.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2791, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12734
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -952,12 +958,18 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 13 straipsnis. Paslaugų kainų valstybinis reguliavimas
 
 
-1. LNSS įstaigų teikiamų paslaugų kainas nustato Sveikatos apsaugos ministerija.
+1. LNSS įstaigų teikiamų paslaugų kainos nustatomos Sveikatos sistemos įstatyme ir Sveikatos draudimo įstatyme nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2791, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12734
+ 
 
 
 
 
-2. LNSS nepriklausančių įstaigų teikiamų paslaugų kainas nustato jų valdymo organai ar savininkai šių įstaigų įstatuose nustatyta tvarka.
+2. LNSS nepriklausančių įstaigų ir įmonių teikiamų paslaugų kainos nustatomos šių įstaigų ir įmonių įstatuose nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2791, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12734
+ 
 
 
 
@@ -1350,7 +1362,10 @@ Nr. XIII-1762, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21108
 
 
 
-5. Tais atvejais, kai LNSS viešosios įstaigos ar LNSS biudžetinės įstaigos ne mažiau kaip 20 procentų rodiklių praėjusių kalendorinių metų reikšmės yra geresnės, negu sveikatos apsaugos ministro patvirtintos siektinos įstaigų grupei, kuriai priskiriama įstaiga, reikšmės, ir ši įstaiga asmens sveikatos priežiūros paslaugų, kurių išlaidos yra apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, per praėjusius kalendorinius metus suteikė už didesnę sumą, negu numatyta teritorinių ligonių kasų ir asmens sveikatos priežiūros įstaigos asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis sutartyje, šios įstaigos viršytos asmens sveikatos priežiūros paslaugų išlaidos apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų pirmumo tvarka. Kitų LNSS viešųjų ir biudžetinių įstaigų viršytos asmens sveikatos priežiūros paslaugų išlaidos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamos, jeigu, apmokėjus šioje dalyje pirmiau nurodytų įstaigų viršytas asmens sveikatos priežiūros paslaugų išlaidas, lieka Privalomojo sveikatos draudimo fondo biudžeto lėšų šių įstaigų viršytoms asmens sveikatos priežiūros paslaugų išlaidoms apmokėti. Šioje dalyje nurodytų LNSS viešųjų ir biudžetinių įstaigų viršytų asmens sveikatos priežiūros paslaugų išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis tvarką nustato sveikatos apsaugos ministras.
+5. Tais atvejais, kai LNSS viešosios įstaigos ar LNSS biudžetinės įstaigos ne mažiau kaip 20 procentų rodiklių praėjusių kalendorinių metų reikšmės yra geresnės, negu sveikatos apsaugos ministro patvirtintos siektinos įstaigų grupei, kuriai priskiriama įstaiga, reikšmės, ir ši įstaiga asmens sveikatos priežiūros paslaugų, kurių išlaidos yra apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, per praėjusius kalendorinius metus suteikė už didesnę sumą, negu numatyta Valstybinės ligonių kasos ir asmens sveikatos priežiūros įstaigos asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis sutartyje, šios įstaigos viršytos asmens sveikatos priežiūros paslaugų išlaidos apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų pirmumo tvarka. Kitų LNSS viešųjų ir biudžetinių įstaigų viršytos asmens sveikatos priežiūros paslaugų išlaidos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamos, jeigu, apmokėjus šioje dalyje pirmiau nurodytų įstaigų viršytas asmens sveikatos priežiūros paslaugų išlaidas, lieka Privalomojo sveikatos draudimo fondo biudžeto lėšų šių įstaigų viršytoms asmens sveikatos priežiūros paslaugų išlaidoms apmokėti. Šioje dalyje nurodytų LNSS viešųjų ir biudžetinių įstaigų viršytų asmens sveikatos priežiūros paslaugų išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis tvarką nustato sveikatos apsaugos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2791, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12734
+ 
 
 
 
@@ -1412,7 +1427,10 @@ Nr. XIV-2453, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25944
 
 
 
-3. Asmens sveikatos priežiūros įstaiga apdraustajam pacientui, kuris dėl asmens sveikatos priežiūros paslaugos suteikimo kreipiasi Sveikatos sistemos įstatymo 49 straipsnyje nustatyta tvarka, privalo suteikti asmens sveikatos priežiūros paslaugą, dėl kurios apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto ji yra sudariusi sutartį su teritorine ligonių kasa, išskyrus šio straipsnio 6 dalyje nurodytus atvejus. 
+3. Asmens sveikatos priežiūros įstaiga apdraustajam pacientui, kuris dėl asmens sveikatos priežiūros paslaugos suteikimo kreipiasi Sveikatos sistemos įstatymo 49 straipsnyje nustatyta tvarka, privalo suteikti asmens sveikatos priežiūros paslaugą, dėl kurios apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto ji yra sudariusi sutartį su Valstybine ligonių kasa, išskyrus šio straipsnio 6 dalyje nurodytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2791, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12734
+ 
 
 
 
@@ -2846,6 +2864,14 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 
 
 
+11) asmens sveikatos priežiūros įstaigoje teikiamos mokamos asmens sveikatos priežiūros paslaugos, jų kainos, informacija apie tai, kur galima susipažinti su šių kainų apskaičiavimo tvarka, taip pat mokamų asmens sveikatos priežiūros paslaugų teikimo tvarka. 
+Papildyta straipsnio punktu:
+Nr. XIV-2791, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12734
+ 
+
+
+
+
 
 
 3. Įstaigos darbuotojai privalo turėti pareigines instrukcijas.
@@ -3241,10 +3267,10 @@ III dalis
  
 
 
-52 straipsnis. Įstaigų teikiamų paslaugų valstybinė kontrolė
+52 straipsnis. Įstaigų teikiamų paslaugų valstybinė priežiūra
 
 
-Įstaigų, neatsižvelgiant į jų nuosavybės formą, teikiamų paslaugų valstybinę kontrolę atlieka:
+Įstaigų, neatsižvelgiant į jų nuosavybės formą, teikiamų paslaugų valstybinę priežiūrą atlieka:
 
 
 1) sveikatos apsaugos ministro paskirti pareigūnai;
@@ -3257,7 +3283,7 @@ III dalis
 
 
 
-3) Valstybinė ir teritorinė ligonių kasos – asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, kiekio ir kokybės kontrolę ir Privalomojo sveikatos draudimo fondo biudžeto lėšų naudojimo finansinę bei ekonominę analizę įstaigose, kurios sudariusios sutartis su teritorinėmis ligonių kasomis dėl paslaugų teikimo ir kompensavimo;
+3) Valstybinė ligonių kasa – asmens sveikatos priežiūros įstaigų, su kuriomis sudarė asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis sutartis, pagal šias sutartis teikiamų asmens sveikatos priežiūros paslaugų atitikties teisės aktų, reglamentuojančių Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų teikimą, reikalavimams ir jų apmokėjimo teisėtumo bei su tuo susijusios šiame punkte nurodytų asmens sveikatos priežiūros įstaigų veiklos valstybinę priežiūrą;
 
 
 
@@ -3267,17 +3293,14 @@ III dalis
 
 
 
-5) Nacionalinis visuomenės sveikatos centras – paslaugų, teikiamų asmens ir visuomenės sveikatos priežiūros, švietimo, socialinės globos ir slaugos įstaigose, prieinamumo, tinkamumo ir efektyvumo valstybinę kontrolę, Visuomenės sveikatos priežiūros įstatyme nurodytą valstybinę visuomenės sveikatos saugos kontrolę.
+5) Nacionalinis visuomenės sveikatos centras – valstybinę visuomenės sveikatos saugos kontrolę, licencijuojamos visuomenės sveikatos priežiūros veiklos priežiūrą.
 
 
-Straipsnio pakeitimai:
-Nr. VIII-1800, 2000.07.04, Žin., 2000, Nr.61-1811 (2000.07.26)
-Nr. XI-1758, 2011-12-01, Žin., 2011, Nr. 153-7195 (2011-12-15)
-Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
 
 
 Straipsnio pakeitimai:
 Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+Nr. XIV-2791, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12734
  
 
 
