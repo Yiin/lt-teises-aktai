@@ -72,7 +72,7 @@ BENDROSIOS NUOSTATOS
 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Fizinė prievarta – fizinės jėgos ar kovinių imtynių veiksmų ir (arba) specialiųjų muitinės priemonių naudojimas.
+1. Fizinė prievarta – fizinės jėgos ar kovinių imtynių veiksmų ir (arba) specialiųjų muitinės priemonių naudojimas.
 
 
 
@@ -92,7 +92,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Psichinė prievarta – įspėjimas (žodžiu arba veiksmu) apie ketinimą naudoti fizinę prievartą. Psichinei prievartai prilyginamas specialiosios muitinės priemonės (priemonių) parengimas prireikus naudoti, šaunamojo ginklo demonstravimas arba įspėjamieji šūviai. 
+5. Psichinė prievarta – įspėjimas (žodžiu arba veiksmu) apie ketinimą naudoti fizinę prievartą. Psichinei prievartai prilyginamas specialiosios muitinės priemonės (priemonių) parengimas prireikus naudoti, šaunamojo ginklo demonstravimas arba įspėjamieji šūviai. 
 
 
 
@@ -102,18 +102,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) Nr. 952/2013, Reglamente (ES) 2015/2446 su paskutiniais pakeitimais, padarytais Reglamentu (ES) 2016/341, (toliau – Reglamentas (ES) 2015/2446), Reglamente (ES) 2015/2447, Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos vidaus tarnybos statute, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme ir Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme.
+7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) Nr. 952/2013, Reglamente (ES) 2015/2446, Reglamente (ES) 2015/2447, Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos vidaus tarnybos statute, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme, Lietuvos Respublikos diplomatinės tarnybos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme ir Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
-Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
- 
-
-
-
-
-
-
-4 straipsnis. Muitinės įgyvendinami teisės aktai
+Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-203784 straipsnis. Muitinės įgyvendinami teisės aktai
 
 
 Muitinės įgyvendinami teisės aktai yra šie Europos Sąjungos (toliau – muitinės įgyvendinami Europos Sąjungos teisės aktai) ir Lietuvos Respublikos teisės aktai:
@@ -1726,7 +1718,7 @@ PREKIŲ ĮVEŽIMAS Į SĄJUNGOS MUITŲ TERITORIJĄ IR IŠVEŽIMAS IŠ JOS PER LI
 1. Muitinės priežiūra taikoma:
 
 
-1) į Sąjungos muitų teritoriją įvežamoms ir iš jos išvežamoms prekėms, kurių muitinės priežiūra numatyta Reglamento (ES) Nr. 952/2013 134 straipsnio 1 dalyje ir 267 straipsnio 1 dalyje;
+1) į Sąjungos muitų teritoriją įvežamoms ir iš jos išvežamoms prekėms, kurių muitinės priežiūra numatyta Reglamento (ES) Nr. 952/2013 134 straipsnio 1 dalyje ir 267 straipsnio 1 dalyje;
 
 
 
@@ -1742,8 +1734,6 @@ PREKIŲ ĮVEŽIMAS Į SĄJUNGOS MUITŲ TERITORIJĄ IR IŠVEŽIMAS IŠ JOS PER LI
 
 
 4) visoms transporto priemonėms, talpykloms ir pakuotėms, jeigu jose laikomos, gabenamos ar į jas perkraunamos arba gali būti laikomos ar gabenamos šios dalies 1–3 punktuose nurodytos prekės.
-
-
 
 
 
@@ -1771,17 +1761,12 @@ PREKIŲ ĮVEŽIMAS Į SĄJUNGOS MUITŲ TERITORIJĄ IR IŠVEŽIMAS IŠ JOS PER LI
 
 
 
-
-
-3. Iš šio straipsnio 2 dalyje nurodytų transporto priemonių Lietuvos Respublikos teritorijoje iškraunamoms prekėms muitinės priežiūra taikoma įprasta tvarka.
- 
+5) Lietuvos Respublikos diplomatiniam paštui.
 
 
 
 
-
-
-47 straipsnis. Prekių pristatymas į tinkamą vietą
+3. Iš šio straipsnio 2 dalies 1–4 punktuose nurodytų transporto priemonių Lietuvos Respublikos teritorijoje iškraunamoms prekėms muitinės priežiūra taikoma įprasta tvarka.47 straipsnis. Prekių pristatymas į tinkamą vietą
 
 
 1. Kai prekės įvežamos į Sąjungos muitų teritoriją per Lietuvos Respubliką, Reglamento (ES) Nr. 952/2013 135 straipsnio 1 dalyje nurodytomis į Sąjungos muitų teritoriją įvežamų prekių pristatymo vietomis laikomos arčiausiai prie prekių įvežimo į Lietuvos Respubliką vietos esančios ir atitinkamą kompetenciją turinčių muitinės įstaigų aptarnaujamos prekių pateikimo muitinei vietos, nurodytos šio įstatymo 48 straipsnyje.
@@ -1789,15 +1774,7 @@ PREKIŲ ĮVEŽIMAS Į SĄJUNGOS MUITŲ TERITORIJĄ IR IŠVEŽIMAS IŠ JOS PER LI
 
 
 
-2. Muitinės departamento generalinis direktorius turi teisę nustatyti Reglamento (ES) Nr. 952/2013 135 straipsnio 5 dalyje nurodytas specialias taisykles.
- 
-
-
-
-
-
-
-48 straipsnis. Prekių pateikimo muitinei vietos
+2. Muitinės departamento generalinis direktorius turi teisę nustatyti Reglamento (ES) Nr. 952/2013 135 straipsnio 5 dalyje nurodytas specialias taisykles.48 straipsnis. Prekių pateikimo muitinei vietos
 
 
 1. Lietuvos Respublikos teritorijoje prekės pateikiamos muitinei:
