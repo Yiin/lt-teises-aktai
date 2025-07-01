@@ -50,7 +50,7 @@ JŲ ĮGYVENDINIMAS IR FINANSAVIMAS
 #### 6 straipsnis. Sprendimų priėmimas
 Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, pagal kompetenciją priimdamos sprendimus, susijusius su Projekto įgyvendinimu, visapusiškai bendradarbiauja tarpusavyje ir su Projektą įgyvendinančiąja institucija, keičiasi reikalinga informacija ir užtikrina sprendimų priėmimą laiku, suteikiantį Projektą įgyvendinančiajai institucijai ir (ar) kitiems asmenims teisę vykdyti poligono statinių ir įrenginių projektavimo, statybos (įrengimo) ir kitus susijusius darbus poligono teritorijoje. Su Projekto įgyvendinimu susiję sprendimai turi būti priimami per kuo trumpesnius terminus.
 
-### TREČIASIS SKIRSNIS. POLIGONO ĮKŪRIMAS
+### TREČIASIS SKIRSNIS. POLIGONO ĮKŪRIMAS IR POLIGONO EFEKTYVŲ NAUDOJIMĄ UŽTIKRINANČIŲ INŽINERINIŲ STATINIŲ IR ĮRENGINIŲ STATYBA (ĮRENGIMAS) NE POLIGONO TERITORIJOJE
 
 #### 7 straipsnis. Poligono teritorija ir jos suformavimas
 1. Poligono teritorijos ribų schema pateikiama šio įstatymo 1 priede. Į poligono teritoriją patenkanti valstybinė žemė, kurioje yra atskirais žemės sklypais nesuformuotos valstybinės žemės, valstybinės žemės sklypai ir jų kadastro duomenys bei vertė nurodomi šio įstatymo 2 priede. Į poligono teritoriją patenkantys privačios žemės sklypai ir jų kadastro duomenys nurodomi šio įstatymo 3 priede.
