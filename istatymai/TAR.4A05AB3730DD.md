@@ -317,7 +317,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 
 
 
-17) auditą atliekančios (atliksiančios) audito įmonės ar atestuoto auditoriaus (toliau – auditorius), kuris audito veikla verčiasi savarankiškai (toliau, kai šiame įstatyme kalbama apie audito įmonę ir auditorių, kuris audito veikla verčiasi savarankiškai, kartu – audito įmonė), atitinkančių Finansų įstaigų įstatyme ir Lietuvos Respublikos finansinių ataskaitų audito įstatyme nustatytus reikalavimus, duomenis;
+17) auditą atliekančios (atliksiančios) audito įmonės ar atestuoto auditoriaus (toliau – auditorius), kuris audito veikla verčiasi savarankiškai, (toliau, kai šiame įstatyme kalbama apie audito įmonę ir auditorių, kuris audito veikla verčiasi savarankiškai, kartu – audito įmonė), atitinkančių Finansų įstaigų įstatyme ir Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme nustatytus reikalavimus, duomenis;
 
 
 
@@ -2030,6 +2030,10 @@ priedas
 
 
 1. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, su paskutiniais pakeitimais, padarytais 2024 m. kovo 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/886.
+
+2. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo.
+
+3. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011.
 
 
 
