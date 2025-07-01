@@ -208,295 +208,6 @@ BENDROSIOS NUOSTATOS
 
 
 13. Investicinei bendrovei-valdytojai, pagal šį įstatymą gavusiai investicinės bendrovės-valdytojos licenciją, mutatis mutandis taikomos šio įstatymo nuostatos, reglamentuojančios valdymo įmonėms taikomus reikalavimus, jų teises ir pareigas, veiklą ir joms tenkančią atsakomybę, išskyrus atvejus, kai šis įstatymas nustato kitaip. Tuo atveju, kai investicinė bendrovė-valdytoja yra tikroji ūkinė bendrija ar komanditinė ūkinė bendrija, Ūkinių bendrijų įstatymas taikomas tiek, kiek šis įstatymas nenustato kitaip, o atitinkamos nuostatos taikomos tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos tikriesiems nariams.
- 
-
-
-
-
-
-
-3 straipsnis. Pagrindinės šio įstatymo sąvokos
-
-
-1. Alternatyviojo kolektyvinio investavimo subjekto buveinės valstybė narė – valstybė narė, kurioje alternatyviajam kolektyvinio investavimo subjektui suteikta licencija arba kurioje jis yra įsteigtas šio įstatymo ar atitinkamų kitos valstybės narės teisės aktų nustatyta tvarka. Jeigu alternatyvusis kolektyvinio investavimo subjektas yra gavęs licenciją arba įsteigtas keliose valstybėse narėse, buveinės valstybe nare laikoma valstybė narė, kurioje alternatyvusis kolektyvinio investavimo subjektas pirmą kartą gavo licenciją arba buvo įsteigtas. Jeigu alternatyvusis kolektyvinio investavimo subjektas nėra gavęs licencijos arba nėra įsteigtas valstybėje narėje, buveinės valstybe nare laikoma valstybė narė, kurioje alternatyvusis kolektyvinio investavimo subjektas turi registruotą ir (arba) pagrindinę buveinę.
-
-
-
-
-2. Alternatyviojo kolektyvinio investavimo subjekto dalyvis – kolektyvinio investavimo subjekto investicinių vienetų ar akcijų įsigijęs arba į tikrąją ūkinę bendriją ar komanditinę ūkinę bendriją įnašą įnešęs asmuo – investicinio fondo investicinio vieneto savininkas, akcinės bendrovės, uždarosios akcinės bendrovės akcininkas, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos tikrasis narys ar komanditorius.
-
-
-
-
-21. Alternatyviojo kolektyvinio investavimo subjekto informacijos išankstinis platinimas (toliau – išankstinis platinimas) – tiesioginis ar netiesioginis informacijos apie alternatyviojo kolektyvinio investavimo subjekto valdymo įmonės valdomo ar dar neįsteigto alternatyviojo kolektyvinio investavimo subjekto investavimo strategiją arba idėjas teikimas arba komunikacija šio subjekto valdymo įmonės iniciatyva arba jos vardu Europos Sąjungoje ar Europos ekonominėje erdvėje gyvenantiems ar registruotas buveines turintiems potencialiems profesionaliesiems investuotojams, siekiant patikrinti jų susidomėjimą dar neįsteigtu alternatyviuoju kolektyvinio investavimo subjektu arba valdomu alternatyviuoju kolektyvinio investavimo subjektu, apie kurio ketinimą platinti investicinius vienetus ar akcijas dar nepranešta pagal kolektyvinių investavimo subjektų veiklą reglamentuojančiuose įstatymuose nustatytą tvarką valstybėje narėje, kurioje gyvena ar turi registruotas buveines potencialūs profesionalieji investuotojai, kai toks informacijos teikimas ar komunikacija nė vienu atveju neprilygsta pasiūlymui potencialiam profesionaliajam investuotojui investuoti į to alternatyviojo kolektyvinio investavimo subjekto investicinius vienetus ar akcijas arba investicinių vienetų ar akcijų platinimui, kaip nurodyta šio įstatymo 391 straipsnyje.
-Papildyta straipsnio dalimi:
-Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
- 
-
-
-
-
-3. Alternatyviojo kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimas – tiesioginis ar netiesioginis alternatyviojo kolektyvinio investavimo subjekto valdymo įmonės valdomo alternatyviojo kolektyvinio investavimo subjekto investicinių vienetų ar akcijų siūlymas šio subjekto valdymo įmonės iniciatyva arba jos vardu Europos Sąjungoje ar Europos ekonominėje erdvėje gyvenantiems ar registruotas buveines turintiems investuotojams.
-
-
-
-
-4. Alternatyviojo kolektyvinio investavimo subjekto steigimo dokumentai (toliau – steigimo dokumentai) – akcinės bendrovės ar uždarosios akcinės bendrovės įstatai, investicinio fondo taisyklės, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos veiklos sutartis ir, jei sudaryta, dalyvių sutartis.
-
-
-
-
-5. Alternatyviojo kolektyvinio investavimo subjekto valdymas – esminių alternatyviojo kolektyvinio investavimo subjekto valdymo funkcijų – investicinių priemonių portfelio valdymo, rizikos valdymo, investicinių vienetų ar akcijų platinimo – ir kitų Kolektyvinio investavimo subjektų įstatyme nustatytų veiklų, priskiriamų kolektyvinio investavimo subjekto valdymui, vykdymas. 
-
-
-
-
-6. Alternatyviojo kolektyvinio investavimo subjekto valdymo įmonė (toliau – valdymo įmonė) – akcinė bendrovė arba uždaroji akcinė bendrovė, kurios įprasta veikla yra vieno ar daugiau alternatyviųjų kolektyvinio investavimo subjektų valdymas. 
-
-
-
-
-7. Alternatyviojo kolektyvinio investavimo subjekto valdymo įmonės atlygio dalis – valdymo įmonei tenkanti atlygio dalis, gaunama už alternatyviojo kolektyvinio investavimo subjekto valdymą. Į šią atlygio dalį neįeina valdymo įmonės investicijų į alternatyvųjį kolektyvinio investavimo subjektą grąža.
-
-
-
-
-8. Alternatyviojo kolektyvinio investavimo subjekto valdymo įmonės buveinės valstybė narė – valstybė narė, kurioje valdymo įmonė turi registruotą buveinę. Kai valdymo įmonė įsteigta trečiojoje valstybėje, buveinės valstybė narė yra referencinė valstybė narė.
-
-
-
-
-9. Alternatyviojo kolektyvinio investavimo subjekto valdymo įmonės filialas – neturintis juridinio asmens statuso valdymo įmonės struktūrinis padalinys, vykdantis veiklą, kurią turi teisę vykdyti valdymo įmonė. Šiame įstatyme visi vienos valdymo įmonės Lietuvos Respublikoje įsteigti filialai laikomi vienu filialu.
-
-
-
-
-10. Alternatyviojo kolektyvinio investavimo subjekto valdymo įmonės kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis – tiesiogiai ar netiesiogiai valdoma valdymo įmonės įstatinio kapitalo ar balsavimo teisių dalis, sudaranti ne mažiau kaip 1/10 įstatinio kapitalo ar balsavimo teisių arba leidžianti daryti esminį poveikį valdymo įmonės valdymui. Skaičiuojant, ar valdymo įmonės įstatinio kapitalo ar balsavimo teisių dalis sudaro ne mažiau kaip 1/10 įstatinio kapitalo, vadovaujamasi Lietuvos Respublikos vertybinių popierių įstatyme nustatyta pareiga pranešti apie akcijų paketo įsigijimą ar jo netekimą ir asmens turimų balsų skaičiavimo tvarka.
-
-
-
-
-11. Alternatyviojo kolektyvinio investavimo subjekto valdymo įmonės priimančioji valstybė narė – valstybė narė, kurioje valdomi alternatyvieji kolektyvinio investavimo subjektai, platinami šių subjektų investiciniai vienetai ar akcijos arba teikiamos šio įstatymo 4 straipsnio 3 dalies 1–4 punktuose nurodytos paslaugos, bet kuri nėra valdymo įmonės buveinės valstybė narė, o tais atvejais, kai valdymo įmonė nėra įsteigta Europos Sąjungoje ar Europos ekonominėje erdvėje, – valstybė narė, kuri nėra referencinė valstybė narė.
-
-
-
-
-12. Alternatyviojo kolektyvinio investavimo subjekto valdymo įmonės vadovai – valdymo įmonės ar investicinės bendrovės vadovas, valdybos nariai, stebėtojų tarybos nariai ir tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos tikrieji nariai. 
-
-
-
-
-13. Alternatyvusis kolektyvinio investavimo subjektas – kolektyvinio investavimo subjektas – investicinis fondas ar investicinė bendrovė, įskaitant subfondus, – kuris: 
-
-
-1) pritraukia kapitalą iš keleto profesionaliųjų ir (arba) neprofesionaliųjų investuotojų, siekdamas jį investuoti tų investuotojų naudai pagal nustatytą investavimo politiką, ir 
-
-
-
-
-2) nėra suderintasis kolektyvinio investavimo subjektas, veikiantis pagal Kolektyvinio investavimo subjektų įstatymą. 
-
-
-
-
-
-
-14. Depozitoriumo priežiūros institucija:
-
-
-1) kredito įstaigas ir (ar) finansų maklerio įmones prižiūrinti Lietuvos Respublikos ar kitos valstybės narės priežiūros institucija;
-
-
-
-
-2) depozitoriumą, kuris trečiojoje valstybėje turi registruotą buveinę, prižiūrinti institucija, jeigu pagal šio įstatymo nuostatas depozitoriumas paskirtas trečiojoje valstybėje įsteigto alternatyviojo kolektyvinio investavimo subjekto depozitoriumu.
-
-
-
-
-
-
-15. Emitento kontrolė – poveikis emitentui, alternatyviajam kolektyvinio investavimo subjektui savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis įgijus balso teisę emitento visuotiniame akcininkų susirinkime suteikiančių vertybinių popierių, kurie kartu su alternatyviojo kolektyvinio investavimo subjekto turimu akcijų paketu arba kartu su kitų sutartinai veikiančių asmenų turimu akcijų paketu suteikia daugiau kaip 1/3 balsų emitento visuotiniame akcininkų susirinkime.
-
-
-
-
-16. Finansinė priemonė – kaip tai apibrėžta Lietuvos Respublikos finansinių priemonių rinkų įstatyme.
-
-
-
-
-17. Finansinis svertas – metodas, kuriuo valdymo įmonė didina savo valdomo alternatyviojo kolektyvinio investavimo subjekto poziciją, skolindamasi lėšų ar vertybinių popierių arba naudodamasi išvestinėmis finansinėmis priemonėmis ar kitomis finansų rinkose naudojamomis priemonėmis.
-
-
-
-
-18. Finansuojamasis alternatyvusis kolektyvinio investavimo subjektas – alternatyvusis kolektyvinio investavimo subjektas, į kurį investuoja ar kuriame poziciją turi finansuojantysis alternatyvusis kolektyvinio investavimo subjektas.
-
-
-
-
-19. Finansuojantysis alternatyvusis kolektyvinio investavimo subjektas – alternatyvusis kolektyvinio investavimo subjektas, kuris:
-
-
-1) investuoja ne mažiau kaip 85 procentus savo turto į kito alternatyviojo kolektyvinio investavimo subjekto (finansuojamojo alternatyviojo kolektyvinio investavimo subjekto) investicinius vienetus arba akcijas;
-
-
-
-
-2) investuoja ne mažiau kaip 85 procentus savo turto į daugiau kaip vieną finansuojamąjį alternatyvųjį kolektyvinio investavimo subjektą, kai šių finansuojamųjų alternatyviųjų kolektyvinio investavimo subjektų investavimo strategijos yra tapačios, arba
-
-
-
-
-3) kitu būdu įgyja bent 85 procentus savo turto atitinkančią poziciją tokio finansuojamojo alternatyviojo kolektyvinio investavimo subjekto atžvilgiu. 
-
-
-
-
-
-
-20. Glaudūs ryšiai – kaip tai apibrėžta Finansinių priemonių rinkų įstatyme. 
-
-
-
-
-21. Grynieji aktyvai – kaip tai apibrėžta Kolektyvinio investavimo subjektų įstatyme. 
-
-
-
-
-22. Į biržos prekybos sąrašus neįtraukta bendrovė – valstybėje narėje registruota bendrovė, kurios akcijos nėra įtrauktos į prekybą reguliuojamoje rinkoje.
-
-
-
-
-23. Į biržos prekybos sąrašus neįtrauktos bendrovės kontrolė – poveikis į biržos prekybos sąrašus neįtrauktai bendrovei, alternatyviajam kolektyvinio investavimo subjektui savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis įgijus balso teisę bendrovės visuotiniame akcininkų susirinkime suteikiančių vertybinių popierių, kurie kartu su alternatyviojo kolektyvinio investavimo subjekto arba su kitų sutartinai veikiančių asmenų turimu akcijų paketu suteikia daugiau kaip 50 procentų balsų tos bendrovės visuotiniame akcininkų susirinkime, įskaitant ir tuos vertybinius popierius, kurių suteikiama balsavimo teisė yra laikinai sustabdyta. Skaičiuojant balso teisę suteikiančius vertybinius popierius, įtraukiami vertybiniai popieriai, kuriuos yra įgijęs alternatyviojo kolektyvinio investavimo subjekto kontroliuojamas subjektas, taip pat fizinis ar juridinis asmuo, veikiantis savo vardu, tačiau alternatyviojo kolektyvinio investavimo subjekto ar jo kontroliuojamo subjekto naudai.
-
-
-
-
-24. Įmonės kontrolė (toliau – kontrolė) – tiesioginis ir (arba) netiesioginis lemiamas poveikis įmonei, kaip tai apibrėžta Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme.
-
-
-
-
-25. Investicinė bendrovė-valdytoja – alternatyvusis kolektyvinio investavimo subjektas – investicinė bendrovė, kurioje sudaryti valdymo organai ir valdymas neperduotas valdymo įmonei.
-
-
-
-
-26. Investicinis vienetas – kaip tai apibrėžta Kolektyvinio investavimo subjektų įstatyme.
-
-
-
-
-27. Kita valstybė narė – valstybė narė, išskyrus Lietuvos Respubliką.
-
-
-
-
-28. Kitoje valstybėje narėje įsteigtas alternatyvusis kolektyvinio investavimo subjektas – alternatyvusis kolektyvinio investavimo subjektas, turintis registruotą ir (arba) pagrindinę buveinę kitoje valstybėje narėje, taip pat alternatyvusis kolektyvinio investavimo subjektas, kuris yra licencijuotas kitoje valstybėje narėje.
-
-
-
-
-29. Kitos valstybės narės priežiūros institucija – kompetentinga kitos valstybės narės institucija, pagal toje valstybėje narėje galiojančias teisės aktų nuostatas atliekanti šiame įstatyme nustatytoms priežiūros institucijos funkcijoms analogiškas alternatyviųjų kolektyvinio investavimo subjektų ir jų valdymo įmonių licencijavimo, leidimų suteikimo ir veiklos priežiūros funkcijas toje kitoje valstybėje narėje.
-
-
-
-
-30. Kredito įstaiga – kaip tai apibrėžta Finansų įstaigų įstatyme. 
-
-
-
-
-31. Nepriekaištingos reputacijos asmenys – kaip tai apibrėžta Finansinių priemonių rinkų įstatyme.
-
-
-
-
-32. Neprofesionalusis investuotojas – neprofesionalusis klientas, kaip jis apibrėžtas Finansinių priemonių rinkų įstatyme. 
-
-
-
-
-33. Pagrindinis finansų tarpininkas – kredito įstaiga, finansų maklerio įmonė ar kitas subjektas, kuriems taikomi rizikos ribojimą reguliuojantys teisės aktai ir vykdoma nuolatinė jų veiklos priežiūra ir kurie teikia profesionaliesiems investuotojams vieną ar daugiau investicinių paslaugų, kuriomis pirmiausia siekiama kaip sandorio šaliai finansuoti arba vykdyti sandorius, susijusius su finansinėmis priemonėmis, taip pat kurie gali teikti sandorių tarpuskaitos ir atsiskaitymo, turto saugojimo ir administravimo, vertybinių popierių skolinimo, vartotojui pritaikytas technologinės ir veiklos užtikrinimo infrastruktūros paslaugas. 
-
-
-
-
-34. Pakeitimo vertybiniais popieriais subjektas – juridinis asmuo, kurio vienintelis tikslas – vykdyti pakeitimo vertybiniais popieriais veiklą, kaip tai apibrėžta 2008 m. gruodžio 19 d. Europos Centrinio Banko reglamente (EB) Nr. 24/2009 dėl finansinių priemonių korporacijų, sudarančių pakeitimo vertybiniais popieriais sandorius, turto ir įsipareigojimų statistikos  (OL 2009 L 15, p. 1).
-
-
-
-
-35. Patronuojamoji įmonė – kaip tai apibrėžta Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme.
-
-
-
-
-36. Patronuojančioji įmonė – kaip tai apibrėžta Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme. 
-
-
-
-
-37. Priežiūros institucija – Lietuvos bankas, šio ir kitų įstatymų bei Europos Sąjungos teisės aktų nustatyta tvarka atliekantis alternatyviųjų kolektyvinio investavimo subjektų ir jų valdymo įmonių licencijavimo, leidimų suteikimo ir veiklos priežiūros funkcijas.
-
-
-
-
-38. Profesionalusis investuotojas – profesionalusis klientas, kaip jis apibrėžtas Finansinių priemonių rinkų įstatyme.
-
-
-
-
-39. Referencinė valstybė narė – valstybė narė, trečiojoje valstybėje įsteigtai valdymo įmonei, siekiančiai valdyti ar platinti alternatyviųjų kolektyvinio investavimo subjektų investicinius vienetus ar akcijas toje valstybėje narėje, išdavusi veiklos licenciją valdyti alternatyviuosius kolektyvinio investavimo subjektus. Referencinė valstybė narė nustatoma vadovaujantis šio įstatymo 48 straipsniu.
-
-
-
-
-40. Trečioji valstybė – valstybė, kuri nėra valstybė narė. 
-
-
-
-
-41. Trečiosios valstybės priežiūros institucija – kompetentinga trečiosios valstybės institucija, pagal toje valstybėje galiojančias teisės aktų nuostatas atliekanti šiame įstatyme nustatytoms priežiūros institucijos funkcijoms analogiškas alternatyviųjų kolektyvinio investavimo subjektų ir jų valdymo įmonių licencijavimo, leidimų suteikimo ir veiklos priežiūros funkcijas savo valstybėje.
-
-
-
-
-42. Uždarojo tipo alternatyvusis kolektyvinio investavimo subjektas – alternatyvusis kolektyvinio investavimo subjektas, kurio investiciniai vienetai, akcijos nėra išperkami arba investuotojo įnašas į tikrąją ūkinę bendriją ar komanditinę ūkinę bendriją nėra grąžinamas investuotojo reikalavimu iki steigimo dokumentuose nustatyto jo veiklos laikotarpio pabaigos ar kol sueis kitas steigimo dokumentuose iš anksto nustatytas terminas, ar susidarys kitos įstatymų nustatytos aplinkybės, dėl kurių atsiranda pareiga išpirkti investicinius vienetus ar akcijas arba grąžinti įnašą.
-
-
-
-
-43. Valstybė narė – valstybė Europos Sąjungos narė, taip pat Europos ekonominės erdvės valstybė.
-
-
-
-
-44. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Finansinių priemonių rinkų įstatyme, Finansų įstaigų įstatyme, Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme, Akcinių bendrovių įstatyme, Ūkinių bendrijų įstatyme, Lietuvos Respublikos darbo kodekse, Kolektyvinio investavimo subjektų įstatyme, Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme, Vertybinių popierių įstatyme ir 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB (OL 2017 L 168, p. 12) (toliau – Reglamentas (ES) 2017/1129). 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2362, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11984
- 
-
-
-
-
-
-
-
-
-II SKYRIUS
-VALDYMO ĮMONIŲ VEIKLA 
- 
-
-
-PIRMASIS SKIRSNIS
-VALDYMO ĮMONĖS IR JŲ FUNKCIJOS
- 
-
 
 4 straipsnis. Valdymo įmonių veikla
 
@@ -511,10 +222,10 @@ VALDYMO ĮMONĖS IR JŲ FUNKCIJOS
 
 
 
-21. Valdymo įmonė turi teisę teikti kriptoturto paslaugas, kaip jos apibrėžtos 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 16 punkte, Reglamento (ES) 2023/1114 60 straipsnyje nustatyta apimtimi ir tvarka.
+21. Valdymo įmonė turi teisę teikti kriptoturto paslaugas, kaip jos apibrėžtos 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 16 punkte, Reglamento (ES) 2023/1114 60 straipsnyje nustatyta apimtimi ir tvarka.
 Papildyta straipsnio dalimi:
 Nr. XIV-2890, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13499
- 
+ 
 
 
 
@@ -542,7 +253,7 @@ Nr. XIV-2890, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13499
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
- 
+ 
 
 
 
@@ -550,7 +261,7 @@ Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
 4. Valdymo įmonė turi teisę atlikti ir kitas valdomo kolektyvinio investavimo subjekto valdymui priskiriamas funkcijas:
 
 
-1) administravimo: buhalterinės apskaitos tvarkymo, atsakymų į klientų klausimus teikimo, grynųjų aktyvų vertės skaičiavimo, atitikties teisės aktų reikalavimams kontrolės, investicinių vienetų savininkų ar akcininkų registro tvarkymo, pajamų paskirstymo, investicinių vienetų ar akcijų kainos nustatymo, jų išleidimo ir išpirkimo, atsiskaitymo sandorių pagrindu, duomenų apie atliktas operacijas saugojimo;
+1) administravimo: finansinės apskaitos tvarkymo, atsakymų į klientų klausimus teikimo, grynųjų aktyvų vertės skaičiavimo, atitikties teisės aktų reikalavimams kontrolės, investicinių vienetų savininkų ar akcininkų registro tvarkymo, pajamų paskirstymo, investicinių vienetų ar akcijų kainos nustatymo, jų išleidimo ir išpirkimo, atsiskaitymo sandorių pagrindu, duomenų apie atliktas operacijas saugojimo;
 
 
 
@@ -565,7 +276,7 @@ Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
- 
+ 
 
 
 
@@ -573,7 +284,7 @@ Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
 41. Valdymo įmonė gali atlikti jai pavestas kitų valdymo įmonių valdomų kolektyvinio investavimo subjektų valdymo funkcijas, jeigu valdymo įmonei išduota licencija suteikia jai teisę valdyti atitinkamos rūšies kolektyvinio investavimo subjektus. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
- 
+ 
 
 
 
@@ -581,20 +292,20 @@ Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
 5. Valdymo įmonė turi teisę savo veikloje, neperžengdama licencijoje jai nustatytų teisių, pasitelkti priklausomus tarpininkus ir šiuo tikslu mutatis mutandis turi vadovautis Finansinių priemonių rinkų įstatymo 16 straipsnio 1 dalies ir 36 straipsnio nuostatomis. Valdymo įmonei, teikiančiai šio straipsnio 3 dalies 1–4 punktuose nurodytas investicines paslaugas, mutatis mutandis taikomi Finansinių priemonių rinkų įstatymo 2 straipsnio 7 dalies, 13, 16 ir 28–31 straipsniuose nustatyti reikalavimai ir juos įgyvendinantys priežiūros institucijos teisės aktai.
 Straipsnio dalies pakeitimai:
 Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
- 
+ 
 
 
 
 
-51. Šio straipsnio 5 dalyje ir šio įstatymo 14 straipsnio 10 dalyje nurodyti priklausomi tarpininkai suprantami kaip fiziniai ar juridiniai asmenys, kurie, veikdami išimtinai vienos valdymo įmonės vardu ir šiai įmonei esant visapusiškai ir besąlygiškai atsakingai už jos priklausomo tarpininko veiksmus ar neveikimą, kiek tai susiję su priklausomo tarpininko veikla valdymo įmonės vardu, turi teisę teikti tik tas Finansinių priemonių rinkų įstatymo 36 straipsnio 1 dalyje nurodytas paslaugas, kurias turi teisę teikti ta valdymo įmonė pagal jai išduotą licenciją.
+51. Šio straipsnio 5 dalyje ir šio įstatymo 14 straipsnio 10 dalyje nurodyti priklausomi tarpininkai suprantami kaip fiziniai ar juridiniai asmenys, kurie, veikdami išimtinai vienos valdymo įmonės vardu ir šiai įmonei esant visapusiškai ir besąlygiškai atsakingai už jos priklausomo tarpininko veiksmus ar neveikimą, kiek tai susiję su priklausomo tarpininko veikla valdymo įmonės vardu, turi teisę teikti tik tas Finansinių priemonių rinkų įstatymo 36 straipsnio 1 dalyje nurodytas paslaugas, kurias turi teisę teikti ta valdymo įmonė pagal jai išduotą licenciją.
 Papildyta straipsnio dalimi:
 Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
- 
+ 
 
 
 
 
-6. Valdymo įmonė gali teikti šio straipsnio 3 dalies 2, 3 ir 4 punktuose nurodytas paslaugas tik tuo atveju, jeigu jai išduotoje licencijoje numatyta galimybė teikti šio straipsnio 3 dalies 1 punkte nurodytas paslaugas.
+6. Valdymo įmonė gali teikti šio straipsnio 3 dalies 2, 3 ir 4 punktuose nurodytas paslaugas tik tuo atveju, jeigu jai išduotoje licencijoje numatyta galimybė teikti šio straipsnio 3 dalies 1 punkte nurodytas paslaugas.
 
 
 
@@ -609,23 +320,7 @@ Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
 
 
 
-9. Kolektyvinio investavimo subjektas gali turėti tik vieną valdymo įmonę, užtikrinančią atitiktį šio įstatymo reikalavimams.
- 
- 
-
-
-
-
-
-
-
-
-ANTRASIS SKIRSNIS
-VALDYMO ĮMONĖS LICENCIJOS IŠDAVIMAS IR VALDYMO ĮMONĖS REGISTRAVIMASIS PRIEŽIŪROS INSTITUCIJOJE
- 
-
-
-5 straipsnis. Teisė verstis valdymo įmonės veikla
+9. Kolektyvinio investavimo subjektas gali turėti tik vieną valdymo įmonę, užtikrinančią atitiktį šio įstatymo reikalavimams.5 straipsnis. Teisė verstis valdymo įmonės veikla
 
 
 1. Verstis pagal šį įstatymą veikiančios valdymo įmonės veikla turi teisę tik uždaroji akcinė bendrovė ir akcinė bendrovė, turinčios priežiūros institucijos išduotą licenciją. Licencija gaunama, kai tenkinamos šio įstatymo 2 straipsnio 2 dalyje nurodytos sąlygos, įskaitant 2 straipsnio 7 dalyje nustatytą atvejį. Pagal šį įstatymą gauta valdymo įmonės licencija suteikia teisę valdyti specialiuosius kolektyvinio investavimo subjektus ir informuotiesiems investuotojams skirtus kolektyvinio investavimo subjektus, taip pat kitus kolektyvinio investavimo subjektus, laikantis šio įstatymo ir, kai taikoma, atitinkamai Kolektyvinio investavimo įstatymo arba Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo nustatytų reikalavimų.
@@ -1176,7 +871,7 @@ REIKALAVIMAI VALDYMO ĮMONIŲ VEIKLAI
 
 
 
-15) užtikrinti, kad administravimo ir apskaitos procedūros, elektroninių duomenų apdorojimo kontrolės ir apsaugos priemonės būtų patikimos ir kad iš jų būtų galima sužinoti visų sandorių šalis, sandorių turinį, laiką ir vietą, nustatyti, ar turtas investuojamas laikantis steigimo dokumentuose nurodytų sąlygų ir teisės aktų;
+15) užtikrinti, kad administravimo ir finansinės apskaitos procedūros, elektroninių duomenų apdorojimo kontrolės ir apsaugos priemonės, įskaitant tinklų ir informacines sistemas, įdiegtos ir valdomas pagal Reglamentą (ES) 2022/2554, bei vidaus kontrolės mechanizmas, įskaitant valdymo įmonės darbuotojų sudaromų asmeninių finansinių priemonių sandorių ir valdymo įmonės sąskaita sudaromų finansinių priemonių sandorių taisykles, būtų patikimi ir kad iš jų būtų galima sužinoti visų sandorių kilmę, šalis, sandorių turinį, laiką ir vietą, nustatyti, ar turtas investuojamas laikantis steigimo dokumentuose nurodytų sąlygų ir teisės aktuose, reglamentuojančiuose atitinkamos rūšies ir tipo kolektyvinio investavimo subjektų ar jų valdymo įmonių veiklą, nustatytų reikalavimų;
 
 
 
@@ -1236,8 +931,6 @@ REIKALAVIMAI VALDYMO ĮMONIŲ VEIKLAI
 
 
 
-
-
 6. Jeigu valdymo įmonė valdo pensijų fondus ir (arba) kitų asmenų finansinių priemonių portfelius, ji gali investuoti visas ar dalį kliento finansinių priemonių portfelio lėšų į savo valdomo kolektyvinio investavimo subjekto investicinius vienetus ar akcijas tik laikydamasi atitinkamą veiklą reglamentuojančiame įstatyme nustatytų reikalavimų ir gavusi išankstinį kliento sutikimą.
 
 
@@ -1248,7 +941,7 @@ REIKALAVIMAI VALDYMO ĮMONIŲ VEIKLAI
 
 
 
-8. Tais atvejais, kai valdymo įmonė negali užtikrinti, kad jos valdomas kolektyvinio investavimo subjektas arba kitas kolektyvinio investavimo subjekto vardu veikiantis subjektas laikytųsi šio įstatymo ir jo įgyvendinamųjų teisės aktų, ji nedelsdama, bet ne vėliau kaip per 3 darbo dienas, apie susidariusias aplinkybes raštu informuoja priežiūros instituciją ir, jeigu kolektyvinio investavimo subjektas registruotas kitoje valstybėje narėje, šios valstybės narės priežiūros instituciją. Priežiūros institucija reikalauja, kad valdymo įmonė nedelsdama imtųsi reikiamų veiksmų susidariusiai padėčiai ištaisyti. 
+8. Tais atvejais, kai valdymo įmonė negali užtikrinti, kad jos valdomas kolektyvinio investavimo subjektas arba kitas kolektyvinio investavimo subjekto vardu veikiantis subjektas laikytųsi šio įstatymo ir jo įgyvendinamųjų teisės aktų, ji nedelsdama, bet ne vėliau kaip per 3 darbo dienas, apie susidariusias aplinkybes raštu informuoja priežiūros instituciją ir, jeigu kolektyvinio investavimo subjektas registruotas kitoje valstybėje narėje, šios valstybės narės priežiūros instituciją. Priežiūros institucija reikalauja, kad valdymo įmonė nedelsdama imtųsi reikiamų veiksmų susidariusiai padėčiai ištaisyti. 
 
 
 
@@ -1273,15 +966,7 @@ REIKALAVIMAI VALDYMO ĮMONIŲ VEIKLAI
 
 
 
-13. Kai alternatyviojo kolektyvinio investavimo subjekto valdymo įmonė prisiima riziką, susijusią su pakeitimu vertybiniais popieriais, kuris nebeatitinka 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/2402, kuriuo nustatoma bendroji pakeitimo vertybiniais popieriais sistema ir sukuriama specialioji paprasto, skaidraus ir standartizuoto pakeitimo vertybiniais popieriais sistema, ir iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB ir 2011/61/ES bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 648/2012  (OL 2017 L 347, p. 35), numatytų reikalavimų, ji veikia ir prireikus imasi taisomųjų veiksmų kuo labiau atsižvelgdama į investuotojų interesus.
- 
-
-
-
-
-
-
-14 straipsnis. Valdymo įmonės teisė pavesti dalį valdymo funkcijų kitam fiziniam asmeniui ar įmonei
+13. Kai alternatyviojo kolektyvinio investavimo subjekto valdymo įmonė prisiima riziką, susijusią su pakeitimu vertybiniais popieriais, kuris nebeatitinka 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/2402, kuriuo nustatoma bendroji pakeitimo vertybiniais popieriais sistema ir sukuriama specialioji paprasto, skaidraus ir standartizuoto pakeitimo vertybiniais popieriais sistema, ir iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB ir 2011/61/ES bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 648/2012  (OL 2017 L 347, p. 35), numatytų reikalavimų, ji veikia ir prireikus imasi taisomųjų veiksmų kuo labiau atsižvelgdama į investuotojų interesus.14 straipsnis. Valdymo įmonės teisė pavesti dalį valdymo funkcijų kitam fiziniam asmeniui ar įmonei
 
 
 1. Valdymo įmonė turi teisę dalį valdymo funkcijų pavesti atlikti kitam fiziniam asmeniui ar įmonei, turinčiai teisę teikti atitinkamas paslaugas. Esminės valdymo funkcijos – investicinių priemonių portfelio valdymas, rizikos valdymas ir investicinių vienetų arba akcijų platinimas – gali būti pavestos atlikti tik kitai įmonei. Valdymo įmonė apie ketinimą dalį savo esminių valdymo funkcijų pavesti atlikti kitai įmonei prieš įsigaliojant šiam susitarimui privalo raštu pranešti priežiūros institucijai. Pranešime turi būti nurodomas šį pavedimą priimsiantis fizinis asmuo ar įmonė ir jiems ketinamų pavesti esminių valdymo funkcijų sąrašas.
@@ -1795,12 +1480,12 @@ VALDYMO ĮMONĖS IR KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ METŲ VEIKLOS ATASKAITOS 
 
 
 
-3. Valdymo įmonės buhalterinė apskaita tvarkoma ir finansinių ataskaitų rinkinys sudaromas vadovaujantis Lietuvos Respublikos įstatymais, kitais teisės aktais, reglamentuojančiais buhalterinę apskaitą ir finansinių ataskaitų rinkinio rengimą, ir tarptautiniais apskaitos standartais.
+3. Valdymo įmonės finansinė apskaita tvarkoma ir finansinių ataskaitų rinkinys sudaromas vadovaujantis Lietuvos Respublikos įstatymais, kitais teisės aktais, reglamentuojančiais finansinę apskaitą ir finansinių ataskaitų rinkinio rengimą, ir tarptautiniais finansinės atskaitomybės standartais.
 
 
 
 
-4. Kolektyvinio investavimo subjekto buhalterinė apskaita tvarkoma ir finansinių ataskaitų rinkinys sudaromas Lietuvos Respublikos įstatymuose ir kituose teisės aktuose, reglamentuojančiuose buhalterinę apskaitą ir finansinių ataskaitų rinkinio rengimą, nustatyta tvarka.
+4. Kolektyvinio investavimo subjekto finansinė apskaita tvarkoma ir finansinių ataskaitų rinkinys sudaromas Lietuvos Respublikos įstatymuose ir kituose teisės aktuose, reglamentuojančiuose finansinę apskaitą ir finansinių ataskaitų rinkinio rengimą, nustatyta tvarka.
 
 
 
@@ -1848,12 +1533,12 @@ VALDYMO ĮMONĖS IR KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ METŲ VEIKLOS ATASKAITOS 
 
 
 
-8) informaciją, nurodytą Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose;
+8) informaciją, nurodytą Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose;
 Papildyta straipsnio punktu:
 Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
 Straipsnio punkto pakeitimai:
 Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
- 
+ 
 
 
 
@@ -1861,22 +1546,12 @@ Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
 9) kita svarbi informacija, iš kurios investuotojai galėtų daryti pagrįstas išvadas dėl kolektyvinio investavimo subjekto ir jo veiklos rezultatų. 
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
- 
+ 
 
 
 
 
-
-
-7. Metų veiklos ataskaita turi būti parengta laikantis Reglamento (ES) Nr. 231/2013 nustatytų turinio ir formos reikalavimų.
- 
-
-
-
-
-
-
-23 straipsnis. Valdymo įmonės, jos valdomų kolektyvinio investavimo subjektų auditas
+7. Metų veiklos ataskaita turi būti parengta laikantis Reglamento (ES) Nr. 231/2013 nustatytų turinio ir formos reikalavimų.23 straipsnis. Valdymo įmonės, jos valdomų kolektyvinio investavimo subjektų auditas
 
 
 1. Valdymo įmonės finansinių ataskaitų rinkinio ir konsoliduotųjų finansinių ataskaitų rinkinio auditui taikomi Lietuvos Respublikos finansinių ataskaitų audito įstatyme, Finansų įstaigų įstatyme ir šiame straipsnyje nustatyti reikalavimai.
@@ -1885,22 +1560,10 @@ Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
 
 
 2. Kolektyvinio investavimo subjekto metinių finansinių ataskaitų rinkinys turi būti audituotas. Audito įmonė, atlikusi kolektyvinio investavimo subjekto metinių finansinių ataskaitų rinkinio auditą, turi pateikti auditoriaus išvadą dėl šių ataskaitų ir finansinių ataskaitų audito ataskaitą. Finansinių ataskaitų audito ataskaitoje auditorius turi pateikti informaciją, ar teisingai skaičiuojama grynųjų aktyvų vertė, ar turtas investuotas pagal steigimo dokumentus, ar įvertintas su kolektyvinio investavimo subjektu susijusių valdymo įmonės ar investicinės bendrovės-valdytojos patvirtintų esminių valdymo funkcijų atlikimo kontrolės ir investavimo rizikos valdymo priemonių veiksmingumas, taip pat nurodyti visus nustatytus šio įstatymo ir kitų teisės aktų, reglamentuojančių atitinkamos rūšies ir tipo kolektyvinio investavimo subjektų ir valdymo įmonių veiklą, pažeidimus.
- 
- 
-
-
-
-
-
-
-
-
+ 
+ 
 V SKYRIUS
-DEPOZITORIUMAS
- 
-
-
-24 straipsnis. Pareiga perduoti turtą depozitoriumui ir depozitoriumo veikla
+DEPOZITORIUMAS24 straipsnis. Pareiga perduoti turtą depozitoriumui ir depozitoriumo veikla
 
 
 1. Kolektyvinio investavimo subjekto valdymo įmonė privalo užtikrinti, kad jos valdomo kolektyvinio investavimo subjekto turtą saugotų vienas depozitoriumas, kurio paskyrimo faktas patvirtinamas rašytine sutartimi. Sutartyje, be kita ko, turi būti aptartas keitimasis informacija, reikalinga depozitoriumui jam pavestoms funkcijoms vykdyti.
@@ -2363,15 +2026,7 @@ Nr. XIII-2362, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11984
 
 
 
-2. Kai siekiama saugoti kitą turtą, įskaitant finansines priemones, kurios perduodamos depozitoriumui fiziškai, depozitoriumas patikrina kolektyvinio investavimo subjekto arba kolektyvinio investavimo subjekto vardu veikiančios valdymo įmonės nuosavybės teisę į tokį turtą ar šias finansines priemones ir įtraukia turtą į apskaitą. Vertinant, ar turtas yra kolektyvinio investavimo subjekto ar kolektyvinio investavimo subjekto dalyvių, vadovaujamasi kolektyvinio investavimo subjekto ar valdymo įmonės pateikta informacija, dokumentais ir, jeigu tai yra įmanoma ir reikalinga, kitais įrodymais. Visa ši informacija turi būti nuolat atnaujinama. 
- 
-
-
-
-
-
-
-29 straipsnis. Depozitoriumo teisė pavesti dalį savo funkcijų kitai įmonei 
+2. Kai siekiama saugoti kitą turtą, įskaitant finansines priemones, kurios perduodamos depozitoriumui fiziškai, depozitoriumas patikrina kolektyvinio investavimo subjekto arba kolektyvinio investavimo subjekto vardu veikiančios valdymo įmonės nuosavybės teisę į tokį turtą ar šias finansines priemones ir įtraukia turtą į finansinę apskaitą. Vertinant, ar turtas yra kolektyvinio investavimo subjekto ar kolektyvinio investavimo subjekto dalyvių, vadovaujamasi kolektyvinio investavimo subjekto ar valdymo įmonės pateikta informacija, dokumentais ir, jeigu tai yra įmanoma ir reikalinga, kitais įrodymais. Visa ši informacija turi būti nuolat atnaujinama.29 straipsnis. Depozitoriumo teisė pavesti dalį savo funkcijų kitai įmonei 
 
 
 1. Depozitoriumas gali pavesti kitoms įmonėms saugoti finansines priemones arba kitą kolektyvinio investavimo subjekto ar kolektyvinio investavimo subjekto vardu veikiančios valdymo įmonės turtą. Depozitoriumas negali pavesti kitai įmonei jokių kitų šiame įstatyme numatytų funkcijų. 
@@ -4279,26 +3934,24 @@ Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
 
 
 
-5) kitas šiame ir kituose Lietuvos Respublikos įstatymuose, Reglamente (ES) Nr. 345/2013, Reglamente (ES) Nr. 346/2013, Reglamente (ES) Nr. 2017/1131, Reglamente (ES) 2019/1156, Reglamente (ES) 2019/2088 ir Reglamente (ES) 2020/852 nustatytas funkcijas.
+5) kitas šiame ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, Reglamente (ES) Nr. 345/2013, Reglamente (ES) Nr. 346/2013, Reglamente (ES) Nr. 2017/1131, Reglamente (ES) 2019/1156, Reglamente (ES) 2019/2088 ir Reglamente (ES) 2020/852 nustatytas funkcijas.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
 Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
- 
+ 
 
 
 
 
+2. Be kitų Lietuvos banko įstatyje, šiame įstatyje ir kituose teisės aktuose nustatytų teisių, priežiūros institucija, atlikdama jai pavestas funkcijas, turi teisę: 
 
 
-2. Be kitų Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose nustatytų teisių, priežiūros institucija, atlikdama jai pavestas funkcijas, turi teisę: 
-
-
-1) reikalauti, kad depozitoriumas ir valdymo įmonė pateiktų šiame įstatyme nustatytoms priežiūros institucijos funkcijoms atlikti reikalingą informaciją dėl šių subjektų, įskaitant kitose valstybėse narėse ir trečiosiose valstybėse įsteigtų valdymo įmonių, kurios valdo Lietuvos Respublikoje įsteigtus kolektyvinio investavimo subjektus ir (arba) platina savo valdomų kolektyvinio investavimo subjektų investicinius vienetus ar akcijas Lietuvos Respublikoje;
+1) reikalauti, kad depozitoriumas ir valdymo įmonė pateiktų šiame įstatyje nustatytoms priežiūros institucijos funkcijoms atlikti reikalingą informaciją dėl šių subjektų, įskaitant kitose valstybėse narėse ir trečiosiose valstybėse įsteigtų valdymo įmonių, kurios valdo Lietuvos Respublikoje įsteigtus kolektyvinio investavimo subjektus ir (arba) platina savo valdomų kolektyvinio investavimo subjektų investicinius vienetus ar akcijas Lietuvos Respublikoje;
 
 
 
 
-2) imtis visų reikalingų teisės aktuose nustatytų priemonių, kad valdymo įmonės ir depozitoriumai visada laikytųsi šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų;
+2) imtis visų reikalingų teisės aktuose nustatytų priemonių, kad valdymo įmonės ir depozitoriumai visada laikytųsi šiame įstatyje ir kituose teisės aktuose nustatytų reikalavimų;
 
 
 
@@ -4308,20 +3961,10 @@ Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
 
 
 
-
-
-3. Priežiūros institucija, įgyvendindama Reglamento (ES) Nr. 345/2013, Reglamento (ES) Nr. 346/2013, Reglamento (ES) 2019/1156, Reglamento (ES) 2019/2088 ir Reglamento (ES) 2020/852 jai pavestas funkcijas, turi šio straipsnio 2 dalies 1 ir 2 punktuose, šio įstatymo 60 straipsnio 1 dalies 8, 9 punktuose, taip pat Lietuvos banko įstatymo 42 straipsnio 4 dalies 2, 3, 6, 7, 8, 9, 10, 11 punktuose ir 8, 9 dalyse nustatytas teises.
+3. Priežiūros institucija, įgyvendindama Reglamento (ES) Nr. 345/2013, Reglamento (ES) Nr. 346/2013, Reglamento (ES) 2019/1156, Reglamento (ES) 2019/2088 ir Reglamento (ES) 2020/852 jai pavestas funkcijas, turi šio straipsnio 2 dalies 1 ir 2 punktuose, šio įstatymo 60 straipsnio 1 dalies 8, 9 punktuose, taip pat Lietuvos banko įstatymo 42 straipsnio 4 dalies 2, 3, 6, 7, 8, 9, 10, 11 punktuose ir 8, 9 dalyse nustatytas teises.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
-Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
- 
-
-
-
-
-
-
-57 straipsnis. Priežiūros tikslu gautos informacijos apsauga
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-2738057 straipsnis. Priežiūros tikslu gautos informacijos apsauga
 
 
 Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugoti taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos.
@@ -4600,11 +4243,11 @@ Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
 
 
 
-5) pažeisti Reglamente (EB) Nr. 1060/2009, Reglamente (ES) Nr. 2017/1131, Reglamente (ES) 2019/1156, Reglamente (ES) 2019/2088 ar Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose nustatyti reikalavimai;
+5) pažeisti Reglamente (EB) Nr. 1060/2009, Reglamente (ES) Nr. 2017/1131, Reglamente (ES) 2019/1156, Reglamente (ES) 2019/2088, Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose ir Reglamente (ES) 2022/2554 nustatyti reikalavimai;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
 Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
- 
+ 
 
 
 
@@ -4614,7 +4257,7 @@ Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
 
 
 
-7) nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 58 straipsnį duoti privalomi nurodymai;
+7) nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 58 straipsnį duoti privalomi nurodymai;
 
 
 
@@ -4643,15 +4286,7 @@ Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
 
 3. Kolektyvinio investavimo subjekto, kurio investiciniai vienetai ar akcijos siūlomi viešai ar viešai siūloma įnešti įnašus pažeidžiant Vertybinių popierių įstatyme ir Reglamente (ES) 2017/1129 nustatytus prospekto rengimo, tvirtinimo ir paskelbimo reikalavimus (išskyrus Vertybinių popierių įstatyme ir Reglamente (ES) 2017/1129 numatytas prospektų skelbimo išimtis), valdymo įmonei poveikio priemones priežiūros institucija taiko vadovaudamasi Vertybinių popierių įstatymu ir Lietuvos banko įstatymu. 
 Straipsnio dalies pakeitimai:
-Nr. XIII-2362, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11984
- 
-
-
-
-
-
-
-62 straipsnis. Baudos 
+Nr. XIII-2362, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-1198462 straipsnis. Baudos 
 
 
 1. Priežiūros institucija skiria baudas:
@@ -4860,3 +4495,7 @@ Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdyto
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2890, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13499
 Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo Nr. XII-1467 4, 41 ir 41-1 straipsnių pakeitimo įstatymas
+
+13. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo.
+
+14. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011.
