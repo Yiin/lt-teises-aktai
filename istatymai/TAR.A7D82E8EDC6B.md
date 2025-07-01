@@ -25,76 +25,6 @@ KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO
 ĮSTATYMAS
  
 2000 m. spalio 12 d. Nr. VIII-2032 Vilnius
- 
- 
-
-
-1 straipsnis. Įstatymo paskirtis
-
-
-1. Šis įstatymas nustato kelių naudojimo apmokestinimo ir Kelių priežiūros ir plėtros programos (toliau – Programa) finansavimo tvarką.
-
-
-
-
-2. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo 5 priede. 
-
-
-
-
-3. Šio įstatymo tikslas – kaupti ir naudoti lėšas automobilių kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-812, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20006
- 
-
-
-
-
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
-
-
-1. Kelių naudotojas – asmuo, kuris tiesiogiai ar netiesiogiai naudojasi keliais ir jų statiniais.
-
-
-
-
-2. Kelių naudotojo mokestis – transporto priemonės valdytojo mokestis už naudojimąsi keliais ir jų statiniais.
-
-
-
-
-3. Programos finansavimo lėšos – valstybės biudžeto lėšos, fizinių, juridinių asmenų, kitų organizacijų, jų padalinių ir užsienio valstybių tikslinės lėšos, skirtos Programai finansuoti.
-Straipsnio dalies pakeitimai:
-Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
- 
-
-
-
-
-4. Stacionarioji Kelių eismo taisyklių pažeidimų fiksavimo įranga – tam tikrose vietose nejudamai įtvirtinta įranga (greičio matuokliai, vaizdo kameros su duomenų perdavimo įranga ir kt.), skirta Kelių eismo taisyklių pažeidimams fiksuoti.
-
-
-
-
-5. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos kelių transporto kodekse, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, Lietuvos Respublikos žemės ūkio, maisto ūkio, kaimo plėtros įstatyme, Lietuvos Respublikos alternatyviųjų degalų įstatyme.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1704, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27296
- 
-
-
-
-
-
-
-3 straipsnis. Neteko galios nuo 2022-01-01.
-Straipsnio pakeitimai:
-Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
- 
-
-
-
 
 4 straipsnis. Neteko galios nuo 2022-01-01.
 Straipsnio pakeitimai:
@@ -147,80 +77,8 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
 
 
-6 straipsnis. Kelių naudotojo mokestis
-
-
-1. M2, M3, N1, N2, N3 motorinių transporto priemonių valdytojai moka kelių naudotojo mokestį už naudojimąsi keliais. Už naudojimąsi vietinės reikšmės keliais kelių naudotojo mokestis nemokamas.
-
-
-
-
-2. Kelių naudotojo mokesčio dydžius, neviršydama šio įstatymo 2 priede nustatytų maksimalių dydžių, šio mokesčio mokėjimo, administravimo ir priežiūros tvarką nustato Vyriausybė. Nustatyti mokesčio dydžiai turi būti proporcingi naudojimosi keliais trukmei. Mėnesio tarifas turi būti ne didesnis kaip 10 procentų metų tarifo, savaitės tarifas turi būti ne didesnis kaip 5 procentai metų tarifo, o dienos tarifas turi būti ne didesnis kaip 2 procentai metų tarifo.
-
-
-
-
-3. Kelių naudotojo mokestis nemokamas už naudojimąsi magistraliniais keliais važiuojant:
-
-
-1) Vidaus reikalų ministerijos ir įstaigų prie šios ministerijos transporto priemonėmis, priskirtomis kovinei, kovos-mokomajai, mokomajai, rikiuotės ir transportavimo grupėms;
-
-
-
-
-2) savivaldybių priešgaisrinės tarnybos transporto priemonėmis;
-
-
-
-
-3) specialiai asmenims su negalia vežti ir (ar) vairuoti pritaikytomis transporto priemonėmis;
-
-
-
-
-4) sveikatos priežiūros įstaigų greitosios medicinos pagalbos ir reanimacijos automobiliais;
-
-
-
-
-5) švietimo įstaigų ir (ar) savivaldybių institucijų kontroliuojamų įmonių specialiai mokiniams (vaikams) vežti pritaikytomis transporto priemonėmis (mokykliniais autobusais), taip pat užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse narėse, įregistruotomis specialiai mokiniams (vaikams) vežti pritaikytomis transporto priemonėmis (mokykliniais autobusais);
-
-
-
-
-6) transporto priemonėmis, naudojamomis valstybinės reikšmės keliams prižiūrėti;
-
-
-
-
-7) užsienio šalyse įregistruotomis transporto priemonėmis, kai jomis vykstama likviduoti stichinių nelaimių ar eismo įvykių padarinių, kai jomis vežamos labdaros ir humanitarinės pagalbos siuntos;
-
-
-
-
-8) krašto apsaugos sistemos ir užsienio valstybių ginkluotųjų pajėgų transporto priemonėmis;
-
-
-
-
-9) vietinio (miesto ir priemiestinio) reguliaraus susisiekimo maršrutais (nurodytais leidimuose) važiuojančiomis keleivinėmis transporto priemonėmis;
-
-
-
-
-10) grynaisiais elektromobiliais ir vandenilio dujomis varomais automobiliais. 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. XIV-2037, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12399
- 
-
-
-
-
-7 straipsnis. Mokestis už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis 
+6 straipsnis. Įstatymo įsigaliojimas
+Šis įstatymas įsigalioja 2025 m. vasario 1 d.7 straipsnis. Mokestis už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis 
 
 
 1. Transporto priemonių ar jų junginių, kurių techniniai parametrai viršija didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio techninius parametrus, valdytojai moka mokestį už naudojimąsi valstybinės reikšmės ir vietinės reikšmės viešaisiais keliais bei rajoniniais keliais miestų ir miestelių teritorijose važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis. Mokesčio už naudojimąsi valstybinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis mokėjimo, administravimo, priežiūros tvarką ir dydžius, neviršydama šio įstatymo 3 priede nustatytų ribinių tarifų, nustato Vyriausybė. Mokesčio už naudojimąsi vietinės reikšmės viešaisiais keliais bei rajoniniais keliais miestų ir miestelių teritorijose važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis dydį, neviršydamos šio įstatymo 3 priede nustatytų ribinių tarifų, ir mokesčio mokėjimo, administravimo ir priežiūros tvarką nustato savivaldybių tarybos. Mokesčio už naudojimąsi valstybinės reikšmės ir vietinės reikšmės keliais bei rajoniniais keliais miestų ir miestelių teritorijose važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis tarifai indeksuojami kiekvienais metais, pasibaigus mokestiniam laikotarpiui, taikant indeksavimo koeficientą, kuris nustatomas Valstybės duomenų agentūros apskaičiuotą ir Oficialiosios statistikos portale paskelbtą mokestinių metų vartotojų kainų indeksą dalijant iš šimto. Mokestinių metų vartotojų kainų indeksas nustatomas kiekvienų mokestinių metų gruodžio mėnesio kainas palyginus su ankstesnių metų gruodžio mėnesio kainomis.
