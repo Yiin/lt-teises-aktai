@@ -102,10 +102,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) Nr. 952/2013, Reglamente (ES) 2015/2446, Reglamente (ES) 2015/2447, Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos vidaus tarnybos statute, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme, Lietuvos Respublikos diplomatinės tarnybos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme ir Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
-Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-203784 straipsnis. Muitinės įgyvendinami teisės aktai
+7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) Nr. 952/2013, Reglamente (ES) 2015/2446, Reglamente (ES) 2015/2447, Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos vidaus tarnybos statute, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme, Lietuvos Respublikos diplomatinės tarnybos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme ir Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme.4 straipsnis. Muitinės įgyvendinami teisės aktai
 
 
 Muitinės įgyvendinami teisės aktai yra šie Europos Sąjungos (toliau – muitinės įgyvendinami Europos Sąjungos teisės aktai) ir Lietuvos Respublikos teisės aktai:
