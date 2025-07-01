@@ -48,80 +48,11 @@ BENDROSIOS NUOSTATOS
 
 
 2. Šiuo įstatymu įgyvendinami Įstatymo priede nurodyti Europos Sąjungos teisės aktai.
- 
-
-
-
-
-
-
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
-
-
-1. Apyvartai proporcingos išmokos – išmokos kredito unijos nariams ir asocijuotiems nariams (toliau – nariai) iš pelno, mokamos proporcingai kredito unijos narių palūkanų apyvartai kredito unijoje.
-
-
-
-
-2. Centrinė kredito unija – kaip ši sąvoka apibrėžta Lietuvos Respublikos centrinių kredito unijų įstatyme.
-
-
-
-
-3. Klientas – kredito unijos narys ar kitas asmuo, kuriam pagal šį įstatymą kredito unija teikia finansines paslaugas.
-
-
-
-
-4. Kredito unija – kredito įstaiga, kuri turi licenciją verstis ir verčiasi indėlių ir kitų grąžintinų lėšų priėmimu iš šiame įstatyme nustatytų neprofesionalių rinkos dalyvių ir jų skolinimu, taip pat turi teisę verstis kitų šiame įstatyme nustatytų finansinių paslaugų teikimu šio įstatymo nustatytiems asmenims ir prisiima su tuo susijusią riziką bei atsakomybę.
-
-
-
-
-5. Kredito unijos licencija (toliau – licencija) – šio įstatymo nustatyta tvarka išduotas leidimas teikti licencines finansines paslaugas, nustatytas šiame įstatyme.
-
-
-
-
-6. Kredito unijos nario palūkanų apyvarta kredito unijoje (toliau – apyvarta) – finansiniais metais kredito unijos nario gautų iš kredito unijos palūkanų pajamų ir kredito unijai sumokėtų palūkanų išlaidų suma.
-
-
-
-
-7. Negrąžintinos lėšos – kredito unijos iš trečiųjų asmenų kaip dovana, parama ar auka gautos lėšos, kurios pereina kredito unijos nuosavybėn ir neatsispindi kredito unijos įsipareigojimuose.
-
-
-
-
-8. Pagrindinio pajaus vardinis dokumentas (toliau – pagrindinis pajus) – kredito unijos nario įsigytas pajaus vardinis dokumentas, kuriuo suteikiama teisė kredito unijos visuotiniame narių susirinkime turėti vieno balso teisę sprendžiant šio susirinkimo kompetencijai priskirtus klausimus ir gauti dividendus, taip pat kitos šiame įstatyme nustatytos teisės, išskyrus asocijuoto nario neturtines teises, apribotas pagal šį įstatymą.
-
-
-
-
-9. Pajinis įnašas – į kredito uniją asmens įmokėta pinigų suma, kuri naudojama kredito unijos pajiniam kapitalui sudaryti.
-
-
-
-
-10. Papildomo pajaus vardinis dokumentas (toliau – papildomas pajus) – kredito unijos nario, turinčio pagrindinį pajų, įsigytas pajaus vardinis dokumentas, kuriuo suteikiama teisė gauti dividendus, taip pat kitos šiame įstatyme nustatytos teisės, tačiau nesuteikiama balso teisė kredito unijos visuotiniame narių susirinkime.
-
-
-
-
-11. Kitos šio įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme ir Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatyme. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
- 
-
-
-
-
-
 
 3 straipsnis. Kredito unijos pavadinimas, teisinė forma, buveinė, veiklos tikslas, kredito unijos veiklą reglamentuojantys teisės aktai
 
 
-1. Žodžius „kredito unija“ ar kitokius šių žodžių junginius arba jų vedinius Lietuvos Respublikoje gali vartoti savo pavadinime, reklamoje ar kitais tikslais pagal šį įstatymą veikiančios kredito unijos, išskyrus atvejus, kai akivaizdu, kad šių žodžių vartojimas nesusijęs su licencinių finansinių paslaugų teikimu. Kredito unijos pavadinimui Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 3 straipsnio 4 dalies nuostata netaikoma.
+1. Žodžius „kredito unija" ar kitokius šių žodžių junginius arba jų vedinius Lietuvos Respublikoje gali vartoti savo pavadinime, reklamoje ar kitais tikslais pagal šį įstatymą veikiančios kredito unijos, išskyrus atvejus, kai akivaizdu, kad šių žodžių vartojimas nesusijęs su licencinių finansinių paslaugų teikimu. Kredito unijos pavadinimui Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 3 straipsnio 4 dalies nuostata netaikoma.
 
 
 
@@ -141,15 +72,12 @@ Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
 
 
 
-5. Kredito unijos savo veikloje vadovaujasi Lietuvos Respublikos civiliniu kodeksu, šiuo įstatymu, kitais įstatymais, priežiūros institucijos priimtais teisės aktais ir savo įstatais. Kredito unijos taip pat vadovaujasi Lietuvos Respublikos finansų įstaigų įstatymu, Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymu, jeigu šis įstatymas nenustato kitaip.
- 
+5. Kredito unijos savo veikloje vadovaujasi Lietuvos Respublikos civiliniu kodeksu, šiuo įstatymu, kitais įstatymais, priežiūros institucijos priimtais teisės aktais ir savo įstatais. Kredito unijos taip pat vadovaujasi Lietuvos Respublikos finansų įstaigų įstatymu, Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymu, jeigu šis įstatymas nenustata kitaip.
 
 
 
 
-
-
-4 straipsnis. Kredito unijos narystė centrinėje kredito unijoje
+6. Kredito unijoms, išskyrus kredito unijas, kurios paslaugoms teikti ar veiklai vykdyti valdo ir (ar) tvarko tinklų ir informacines sistemas nepriklausomai nuo centrinių kredito unijų, netaikomi Reglamente (ES) 2022/2554 nustatyti reikalavimai.4 straipsnis. Kredito unijos narystė centrinėje kredito unijoje
 
 
 1. Kredito unija privalo būti centrinės kredito unijos nare. Kredito unija gali būti tik vienos centrinės kredito unijos nare.
@@ -3085,11 +3013,12 @@ Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
 
 
 
+7-1) pažeidžiami kredito unijoms, kurios paslaugoms teikti ar veiklai vykdyti valdo ir (ar) tvarko tinklų ir informacines sistemas nepriklausomai nuo centrinių kredito unijų, taikomi Reglamente (ES) 2022/2554 nustatyti reikalavimai;
+
+
+
+
 8) padaromi kiti įstatymų, tarp jų Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo, kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai arba yra grėsmė, kad dėl kredito unijos veiklos arba dėl finansinės būklės būtų pažeisti visuomenės ir (arba) klientų interesai arba sutriktų Lietuvos Respublikos kredito unijų sistemos funkcionavimas.
-
-
-
-
 
 
 2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas.
@@ -3100,17 +3029,11 @@ Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
 3. Neteko galios nuo 2021-01-01
 Straipsnio dalies naikinimas:
 Nr. XIV-110, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28966
- 
+ 
 
 
 Straipsnio pakeitimai:
-Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
- 
-
-
-
-
-62 straipsnis. Baudos
+Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-0985962 straipsnis. Baudos
 
 
 1. Priežiūros institucija skiria baudas:
