@@ -107,7 +107,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-4. Europos priežiūros institucijos – Europos bankininkystės institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB, su visais pakeitimais, Europos draudimo ir profesinių pensijų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB, su visais pakeitimais, ir Europos vertybinių popierių ir rinkų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB, su visais pakeitimais.
+4. Europos priežiūros institucijos – Europos bankininkystės institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB, su visais pakeitimais, Europos draudimo ir profesinių pensijų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB, su visais pakeitimais, Europos vertybinių popierių ir rinkų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB, su visais pakeitimais, ir Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucija, įsteigta 2024 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/1620, kuriuo įsteigiama Kovos su pinigų plovimu ir teroristų finansavimu institucija ir iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 1094/2010 ir (ES) Nr. 1095/2010.
 Straipsnio dalies pakeitimai:
 Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
  
@@ -457,7 +457,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-8) savivaldybės įmonės, akcinės bendrovės, uždarosios akcinės bendrovės, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, priklauso savivaldybei nuosavybės teise ir kurios laikomos didelėmis įmonėmis pagal Lietuvos Respublikos įmonių atskaitomybės įstatymą, valdymo ar priežiūros organo narys;
+8) savivaldybės įmonės, akcinės bendrovės, uždarosios akcinės bendrovės, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, priklauso savivaldybei nuosavybės teise ir kurios laikomos didelėmis įmonėmis pagal Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymą, valdymo ar priežiūros organo narys;
 Straipsnio punkto pakeitimai:
 Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
  
@@ -567,7 +567,7 @@ Nr. XIV-334, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12773
 4 straipsnis. Už pinigų plovimo ir (ar) teroristų finansavimo prevenciją atsakingų institucijų pareigos
 
 
-1. Lietuvos bankas patvirtina kredito įstaigoms, elektroninių pinigų įstaigoms, mokėjimo įstaigoms, valiutos keityklos operatoriams, sutelktinio finansavimo paslaugų teikėjams, tarpusavio skolinimo platformų operatoriams, draudimo įmonėms, vykdančioms gyvybės draudimo veiklą, draudimo brokerių įmonėms, vykdančioms su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, finansų maklerio įmonėms, valdymo įmonėms, investicinėms bendrovėms, depozitoriumui ir užsienio valstybių šioje dalyje nurodytų subjektų filialams, įsteigtiems Lietuvos Respublikoje, taip pat elektroninių pinigų įstaigoms ir mokėjimo įstaigoms, kurių buveinė yra kitoje valstybėje narėje, teikiančioms paslaugas Lietuvos Respublikoje per tarpininkus, fizinius ar juridinius asmenis, skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri šių subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, konsultuoja šiuos subjektus šioje dalyje nurodytų nurodymų įgyvendinimo klausimais.
+1. Lietuvos bankas nustato kredito įstaigoms, elektroninių pinigų įstaigoms, mokėjimo įstaigoms, valiutos keityklos operatoriams, sutelktinio finansavimo paslaugų teikėjams, tarpusavio skolinimo platformų operatoriams, draudimo įmonėms, vykdančioms gyvybės draudimo veiklą, draudimo brokerių įmonėms, vykdančioms su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, finansų maklerio įmonėms, valdymo įmonėms, investicinėms bendrovėms, depozitoriumui ir užsienio valstybių šioje dalyje nurodytų subjektų filialams, įsteigtiems Lietuvos Respublikoje, taip pat elektroninių pinigų įstaigoms ir mokėjimo įstaigoms, kurių buveinė yra kitoje valstybėje narėje ir kurios teikia paslaugas Lietuvos Respublikoje per tarpininkus, fizinius ar juridinius asmenis, kriptoturto paslaugų teikėjams skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri šių subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, išskyrus atvejus, kai pagal Reglamentą (ES) 2024/1620 priežiūrą atlieka Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucija (toliau – Kovos su pinigų plovimu ir teroristų finansavimu institucija), konsultuoja šiuos subjektus šioje dalyje nurodytų nurodymų įgyvendinimo klausimais. Kriptoturto paslaugų teikėjams skirti nurodymai nustatomi suderinus su Finansinių nusikaltimų tyrimo tarnyba.
 Straipsnio dalies pakeitimai:
 Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
  
@@ -618,7 +618,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-10. Šio straipsnio 1–8 dalyse nurodytos institucijos privalo paskirti vadovaujančius darbuotojus, kurie organizuotų šiame įstatyme nustatytų pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimą ir palaikytų ryšius su Finansinių nusikaltimų tyrimo tarnyba.
+10. Šio straipsnio 1–8 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, privalo paskirti vadovaujančius darbuotojus, kurie organizuotų šiame įstatyme nustatytų pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimą ir palaikytų ryšius su Finansinių nusikaltimų tyrimo tarnyba.
 
 
 
@@ -670,7 +670,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-16. Šio straipsnio 1–9 dalyse nurodytos institucijos privalo įdiegti informaciją teikiančio asmens konfidencialumą užtikrinančias priemones, kuriomis naudodamiesi asmenys saugiais kanalais praneštų nurodytoms institucijoms apie šio įstatymo pažeidimus. 
+16. Šio straipsnio 1–9 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, privalo įdiegti informaciją teikiančio asmens konfidencialumą užtikrinančias priemones, kuriomis naudodamiesi asmenys saugiais kanalais praneštų nurodytoms institucijoms apie šio įstatymo pažeidimus. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
  
@@ -737,7 +737,8 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-10) pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją.
+10) pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją;
+11) pagal Reglamentą (ES) 2024/1620 bendradarbiauja su Kovos su pinigų plovimu ir teroristų finansavimu institucija ir teikia jos užduotims atlikti būtiną informaciją.
 Straipsnio punkto pakeitimai:
 Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
  
@@ -895,7 +896,7 @@ Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 Finansinių nusikaltimų tyrimo tarnyba turi teisę:
 
 
-1) gauti iš šio įstatymo 4 straipsnio 1–8 dalyse nurodytų institucijų, kitų valstybės institucijų (toliau šiame straipsnyje – institucijos), finansų įstaigų, kitų įpareigotųjų subjektų, išskyrus advokatus ar advokatų padėjėjus, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese ar dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo, reikalingus duomenis ir dokumentus apie pinigines operacijas ar operacijas virtualiąja valiuta ir sandorius, kitą informaciją, reikalingą šio įstatymo nustatytoms funkcijoms ir uždaviniams vykdyti; 
+1) gauti iš šio įstatymo 4 straipsnio 1–8 dalyse nurodytų institucijų, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, kitų valstybės institucijų (toliau šiame straipsnyje – institucijos), finansų įstaigų, kitų įpareigotųjų subjektų, išskyrus advokatus ar advokatų padėjėjus, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese ar dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo, reikalingus duomenis ir dokumentus apie pinigines operacijas ar sandorius, kriptoturto operacijas ar sandorius arba operacijas virtualiąja valiuta ar sandorius, kitą informaciją, reikalingą šio įstatymo nustatytoms funkcijoms ir uždaviniams vykdyti; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
@@ -1002,7 +1003,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-8 straipsnis. Valstybės institucijų bendradarbiavimas bei valstybės institucijų ir užsienio valstybių institucijų bendradarbiavimas 
+8 straipsnis. Valstybės institucijų bendradarbiavimas bei valstybės institucijų, užsienio valstybių ir Europos Sąjungos institucijų bendradarbiavimas 
 
 
 1. Valstybės institucijos, nevykdančios baudžiamojo persekiojimo, privalo pranešti Finansinių nusikaltimų tyrimo tarnybai, kai pastebi galimo pinigų plovimo ir (ar) teroristų finansavimo veikas, apie šio įstatymo pažeidimus ir priemones, kurių buvo imtasi prieš pažeidėjus. 
@@ -1010,7 +1011,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-2. Šio įstatymo 4 straipsnio 1–8 dalyse nurodytos institucijos bendradarbiauja ir keičiasi informacija su užsienio valstybių institucijomis, įgyvendinančiomis pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemones.
+2. Šio įstatymo 4 straipsnio 1–8 dalyse nurodytos institucijos bendradarbiauja ir keičiasi informacija su užsienio valstybių ir Europos Sąjungos institucijomis, įgyvendinančiomis pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemones.
 
 
 
@@ -1299,7 +1300,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-13. Finansų įstaigos ir kiti įpareigotieji subjektai kliento ir naudos gavėjo tapatybės nustatymo metu privalo iš jų reikalauti dokumentų ir kitų duomenų, kuriais remiantis finansų įstaigoms ir kitiems įpareigotiesiems subjektams būtų suprantama kliento, kuris yra juridinis asmuo, nuosavybės ir kontrolės struktūra ir veiklos pobūdis. 
+13. Finansų įstaigos ir kiti įpareigotieji subjektai kliento ir naudos gavėjo tapatybės nustatymo metu imasi pagrįstų priemonių, kad suprastų kliento, kuris yra juridinis asmuo, nuosavybės ir kontrolės struktūrą ir veiklos pobūdį.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
  
@@ -1495,8 +1496,8 @@ Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
 
 
 
-4. Finansų įstaigos ir kiti įpareigotieji subjektai turi teisę gauti šiame įstatyme nurodytus kliento ar naudos gavėjo tapatybei nustatyti reikalingus dokumentus, duomenis ar informaciją tiesiogiai iš Lietuvos Respublikos ir (ar) kitų valstybių informacinių sistemų ar registrų ir nereikalauti iš kliento, kad jis pats pateiktų šiuos dokumentus, duomenis ar informaciją, jeigu klientas finansų įstaigos ar kito įpareigotojo subjekto dokumentus, duomenis ar informaciją, gautus tiesiogiai iš valstybės informacinių sistemų ar registrų, patvirtina parašu (įskaitant pažangųjį elektroninį parašą arba kvalifikuotą elektroninį parašą). Finansų įstaigos ir kiti įpareigotieji subjektai turi teisę nereikalauti, kad klientas finansų įstaigos ar kito įpareigotojo subjekto tiesiogiai iš Lietuvos Respublikos ir (ar) kitų valstybių informacinių sistemų ar registrų gautus dokumentus, duomenis ar informaciją patvirtintų parašu, jeigu tokie dokumentai, duomenys ar informacija nesiskiria nuo anksčiau kliento parašu patvirtintų dokumentų, duomenų ar informacijos, taip pat jeigu tokie dokumentai, duomenys ar informacija gauti iš Lietuvos Respublikos ir (ar) kitų Europos Sąjungos valstybių narių informacinių sistemų ir (ar) registrų. Visais šioje dalyje nurodytais atvejais turi būti laikomasi šio straipsnio 1 dalyje nustatytų reikalavimų.
- 
+4. Finansų įstaigos ir kiti įpareigotieji subjektai turi teisę gauti šiame įstatyme nurodytus kliento ar naudos gavėjo tapatybei nustatyti reikalingus dokumentus, duomenis ar informaciją iš Lietuvos Respublikos ir (ar) kitų valstybių informacinių sistemų ar registrų, o tais atvejais, kai Europos Sąjungos valstybėje narėje atitinkami dokumentai, duomenys ar informacija nėra kaupiami valstybės informacinėse sistemose ar registruose, – ir iš kitų patikimų ir nepriklausomų duomenų bazių ar registrų ir nereikalauti iš kliento, kad jis pats pateiktų šiuos dokumentus, duomenis ar informaciją, jeigu klientas finansų įstaigos ar kito įpareigotojo subjekto dokumentus, duomenis ar informaciją, gautus tiesiogiai iš valstybės informacinių sistemų ar registrų arba kitų patikimų ir nepriklausomų duomenų bazių ar registrų, patvirtina parašu (įskaitant pažangųjį elektroninį parašą arba kvalifikuotą elektroninį parašą). Finansų įstaigos ir kiti įpareigotieji subjektai turi teisę nereikalauti, kad klientas finansų įstaigos ar kito įpareigotojo subjekto tiesiogiai iš Lietuvos Respublikos ir (ar) kitų valstybių informacinių sistemų ar registrų gautus dokumentus, duomenis ar informaciją patvirtintų parašu, jeigu tokie dokumentai, duomenys ar informacija nesiskiria nuo anksčiau kliento parašu patvirtintų dokumentų, duomenų ar informacijos, taip pat jeigu tokie dokumentai, duomenys ar informacija gauti iš Lietuvos Respublikos ir (ar) kitų Europos Sąjungos valstybių narių informacinių sistemų ir (ar) registrų, o tais atvejais, kai Europos Sąjungos valstybėje narėje atitinkami dokumentai, duomenys ar informacija nėra kaupiami valstybės informacinėse sistemose ar registruose, – ir iš kitų patikimų ir nepriklausomų duomenų bazių ar registrų. Visais šioje dalyje nurodytais atvejais turi būti laikomasi šio straipsnio 1 dalyje nustatytų reikalavimų.
+ 
 Papildyta straipsnio dalimi:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Straipsnio dalies pakeitimai:
@@ -1506,7 +1507,7 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
 
 
-5. Kai klientas yra juridinis asmuo, atstovaujamas fizinio asmens, arba klientui – fiziniam asmeniui atstovauja kitas fizinis asmuo, finansų įstaiga ar kitas įpareigotasis subjektas turi pareikalauti iš jo įgaliojimo ir patikrinti jo galiojimą (tai yra jį išdavusio asmens teisę išduoti tokį įgaliojimą), įgaliojimo galiojimo laiką, kokius veiksmus atlikti nurodyta įgaliojime (įgaliojimas turi atitikti Lietuvos Respublikos civilinio kodekso reikalavimus. Užsienyje išduotas įgaliojimas turi būti legalizuotas arba patvirtintas dokumentų tvirtinimo pažyma (apostille).
+5. Kai klientas yra juridinis asmuo, atstovaujamas fizinio asmens, arba klientui – fiziniam asmeniui atstovauja kitas fizinis asmuo, finansų įstaiga ar kitas įpareigotasis subjektas turi pareikalauti iš jo įgaliojimo ir patikrinti jo galiojimą (tai yra jį išdavusio asmens teisę išduoti tokį įgaliojimą), įgaliojimo galiojimo laiką, kokius veiksmus atlikti nurodyta įgaliojime (įgaliojimas turi atitikti Lietuvos Respublikos civilinio kodekso reikalavimus). Užsienyje išduotas įgaliojimas turi būti legalizuotas arba patvirtintas dokumentų tvirtinimo pažyma (apostille), išskyrus įgaliojimus, išduotus Europos Sąjungos valstybėse narėse.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
  
@@ -2976,7 +2977,14 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
 
 
-3. Šio įstatymo 4 straipsnio 1–8 dalyse nurodytoms institucijoms, jų darbuotojams, finansų įstaigoms ir jų darbuotojams, kitiems įpareigotiesiems subjektams ir jų darbuotojams draudžiama pranešti klientui ar kitiems asmenims, kad informacija apie kliento atliekamas pinigines operacijas arba sudaromus sandorius ar bet kokia kita informacija pateikta Finansinių nusikaltimų tyrimo tarnybai arba kitai priežiūros institucijai. Šioje dalyje nustatytas draudimas netaikomas notarams, notaro atstovams ar asmenis, turintiems teisę atlikti notarinius veiksmus, advokatams ir advokatų padėjėjams ir antstoliams ar antstolio atstovams, kai jie siekia įtikinti klientą neužsiimti neteisėta veikla.
+3. Šio įstatymo 4 straipsnio 1–8 dalyse nurodytoms institucijoms, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, jų darbuotojams, finansų įstaigoms ir jų darbuotojams, kitiems įpareigotiesiems subjektams ir jų darbuotojams draudžiama pranešti klientui ar kitiems asmenims, kad informacija apie kliento atliekamas pinigines operacijas arba sudaromus sandorius ar bet kokia kita informacija pateikta Finansinių nusikaltimų tyrimo tarnybai arba kitai priežiūros institucijai. Šioje dalyje nustatytas draudimas netaikomas notarams, notaro atstovams ar asmenims, turintiems teisę atlikti notarinius veiksmus, advokatams ir advokatų padėjėjams ir antstoliams ar antstolio atstovams, kai jie siekia įtikinti klientą neužsiimti neteisėta veikla.
+</search>
+
+<search>
+3. Į Nacionalinio pinigų plovimo ir teroristų finansavimo rizikos vertinimo rezultatus privalo atsižvelgti šio įstatymo 4 straipsnio 1–8 dalyse nurodytos institucijos, rengdamos finansų įstaigoms ir kitiems įpareigotiesiems subjektams skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui.
+</search>
+<replace>
+3. Į Nacionalinio pinigų plovimo ir teroristų finansavimo rizikos vertinimo rezultatus privalo atsižvelgti šio įstatymo 4 straipsnio 1–9 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, rengdamos finansų įstaigoms ir kitiems įpareigotiesiems subjektams skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui.
 
 
 
@@ -3442,7 +3450,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-2. Nacionaliniame pinigų plovimo ir teroristų finansavimo rizikos vertinime dalyvauja visos šio įstatymo 4 straipsnio 1–8 dalyse nurodytos institucijos ir pagal poreikį gali būti pasitelkiamos kitos valstybės ar užsienio valstybės institucijos, įstaigos, organizacijos, ekspertai, specialistai ir kiti asmenys. 
+2. Nacionaliniame pinigų plovimo ir teroristų finansavimo rizikos vertinime dalyvauja visos šio įstatymo 4 straipsnio 1–8 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, ir pagal poreikį gali būti pasitelkiamos kitos valstybės ar užsienio valstybės institucijos, įstaigos, organizacijos, ekspertai, specialistai ir kiti asmenys. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
  
@@ -3465,7 +3473,27 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-3. Nacionalinis pinigų plovimo ir teroristų finansavimo rizikos vertinimas atliekamas prieš tai šio įstatymo 4 straipsnio 1–8 dalyse nurodytoms institucijoms atlikus pinigų plovimo ir (ar) teroristų finansavimo rizikos atskiruose sektoriuose vertinimus.
+3. Nacionalinis pinigų plovimo ir teroristų finansavimo rizikos vertinimas atliekamas prieš tai šio įstatymo 4 straipsnio 1–8 dalyse nurodytoms institucijoms, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, atlikus pinigų plovimo ir (ar) teroristų finansavimo rizikos atskiruose sektoriuose vertinimus.
+</search>
+
+<search>
+4. Šio įstatymo 4 straipsnio 1–8 dalyse nurodytos institucijos sektoriaus pinigų plovimo ir (ar) teroristų finansavimo rizikos vertinimą atlieka per 8 mėnesius nuo Finansinių nusikaltimų tyrimo tarnybos pranešimo apie numatomą nacionalinį pinigų plovimo ir teroristų finansavimo rizikos vertinimą.
+</search>
+<replace>
+4. Šio įstatymo 4 straipsnio 1–8 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, sektoriaus pinigų plovimo ir (ar) teroristų finansavimo rizikos vertinimą atlieka per 8 mėnesius nuo Finansinių nusikaltimų tyrimo tarnybos pranešimo apie numatomą nacionalinį pinigų plovimo ir teroristų finansavimo rizikos vertinimą.
+</search>
+
+<search>
+5. Šio įstatymo 4 straipsnio 1–8 dalyse nurodytos institucijos sektoriaus pinigų plovimo ir (ar) teroristų finansavimo rizikos vertinimą atlieka per 8 mėnesius nuo Finansinių nusikaltimų tyrimo tarnybos pranešimo apie numatomą nacionalinį pinigų plovimo ir teroristų finansavimo rizikos vertinimą.
+
+5. Šio įstatymo 4 straipsnio 1–8 dalyse nurodytos institucijos šio straipsnio 3 dalyje nurodytu tikslu kaupia išsamią statistinę informaciją, susijusią su sektoriaus dydžiu ir svarba, įskaitant kiekvieno sektoriaus subjektų ir asmenų skaičių bei reikšmę ekonomikai; patikrinimų (įskaitant patikrinimų, prižiūrimų finansų įstaigų ir kitų įpareigotųjų subjektų, patalpose skaičių ir patikrinimų ne patalpose skaičių) ir už šio įstatymo pažeidimus taikytų poveikio priemonių skaičių per metus; žmogiškuosius ir finansinius išteklius, skirtus pinigų plovimo ir (ar) teroristų finansavimo prevencijai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+</search>
+<replace>
+5. Šio įstatymo 4 straipsnio 1–8 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, šio straipsnio 3 dalyje nurodytu tikslu kaupia išsamią statistinę informaciją, susijusią su sektoriaus dydžiu ir svarba, įskaitant kiekvieno sektoriaus subjektų ir asmenų skaičių bei reikšmę ekonomikai; patikrinimų (įskaitant patikrinimų, prižiūrimų finansų įstaigų ir kitų įpareigotųjų subjektų, patalpose skaičių ir patikrinimų ne patalpose skaičių) ir už šio įstatymo pažeidimus taikytų poveikio priemonių skaičių per metus; žmogiškuosius ir finansinius išteklius, skirtus pinigų plovimo ir (ar) teroristų finansavimo prevencijai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
@@ -4295,7 +4323,7 @@ Priežiūros institucija, svarstydama, ar taikyti šiame įstatyme nustatytas po
 
 
 
-3. Jeigu finansų įstaiga ar užsienio finansų įstaigos filialas yra patronuojančioji įstaiga arba priklauso patronuojančiajai grupės įstaigai ir rengia konsoliduotąsias finansines ataskaitas Lietuvos Respublikos įmonių grupių konsoliduotosios atskaitomybės įstatymo nustatyta tvarka, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra bendrosios metinės pajamos arba atitinkamos rūšies pajamos pagal apskaitą reglamentuojančius teisės aktus, remiantis naujausiomis turimomis konsoliduotosiomis finansinėmis ataskaitomis, patvirtintomis pagrindinės patronuojančiosios įstaigos valdymo organo.
+3. Jeigu finansų įstaiga ar užsienio finansų įstaigos filialas yra patronuojančioji įstaiga arba priklauso patronuojančiajai grupės įstaigai ir rengia konsoliduotąsias finansines ataskaitas Įmonių ir įmonių grupių atskaitomybės įstatymo nustatyta tvarka, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra bendrosios metinės pajamos arba atitinkamos rūšies pajamos pagal apskaitą reglamentuojančius teisės aktus, remiantis naujausiomis turimomis konsoliduotosiomis finansinėmis ataskaitomis, patvirtintomis pagrindinės patronuojančiosios įstaigos valdymo organo.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
  
@@ -4348,7 +4376,7 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
 
 
-3. Jeigu kiti įpareigotieji subjektai yra patronuojančioji įmonė arba priklauso patronuojančiajai grupės įmonei ir rengia konsoliduotąsias finansines ataskaitas Įmonių grupių konsoliduotosios atskaitomybės įstatymo nustatyta tvarka, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra bendrosios metinės pajamos arba atitinkamos rūšies pajamos pagal apskaitą reglamentuojančius teisės aktus, remiantis naujausiomis turimomis konsoliduotosiomis finansinėmis ataskaitomis, patvirtintomis pagrindinės patronuojančiosios įstaigos valdymo organo.
+3. Jeigu kiti įpareigotieji subjektai yra patronuojančioji įmonė arba priklauso patronuojančiajai grupės įmonei ir rengia konsoliduotąsias finansines ataskaitas Įmonių ir įmonių grupių atskaitomybės įstatymo nustatyta tvarka, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra bendrosios metinės pajamos arba atitinkamos rūšies pajamos pagal apskaitą reglamentuojančius teisės aktus, remiantis naujausiomis turimomis konsoliduotosiomis finansinėmis ataskaitomis, patvirtintomis pagrindinės patronuojančiosios įstaigos valdymo organo.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
  
@@ -4397,7 +4425,42 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
 
 
-3. Priežiūros institucijos sprendimas skirti baudą yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Priežiūros institucijos sprendimas gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos ar teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. 
+3. Priežiūros institucijos sprendimas skirti baudą yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka. Priežiūros institucijos sprendimas gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos ar teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. 
+</search>
+
+<search>
+7. 2018 m. gegužės 7 d. Europos Komisijos deleguotasis reglamentas (ES) 2018/1108, kuriuo Europos Parlamento ir Tarybos direktyva (ES) 2015/849 papildoma elektroninių pinigų išleidėjų ir mokėjimo paslaugų teikėjų pagrindinių kontaktinių punktų skyrimo kriterijų techniniais reguliavimo standartais ir jų funkcijas reglamentuojančiomis taisyklėmis.
+
+
+
+
+5. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1672 dėl į Sąjungą įvežamų arba iš jos išvežamų grynųjų pinigų kontrolės, kuriuo panaikinamas Reglamentas (EB) Nr. 1889/2005.
+
+
+
+
+6. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1153, kuria nustatomos taisyklės dėl paprastesnio finansinės ir kitos informacijos naudojimo tam tikrų nusikalstamų veikų prevencijos, nustatymo, tyrimo ir baudžiamojo persekiojimo už jas tikslais ir kuria panaikinamas Tarybos sprendimas 2000/642/TVR.
+Priedo pakeitimai:
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+</search>
+<replace>
+7. 2018 m. gegužės 7 d. Europos Komisijos deleguotasis reglamentas (ES) 2018/1108, kuriuo Europos Parlamento ir Tarybos direktyva (ES) 2015/849 papildoma elektroninių pinigų išleidėjų ir mokėjimo paslaugų teikėjų pagrindinių kontaktinių punktų skyrimo kriterijų techniniais reguliavimo standartais ir jų funkcijas reglamentuojančiomis taisyklėmis.
+
+
+
+
+5. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1672 dėl į Sąjungą įvežamų arba iš jos išvežamų grynųjų pinigų kontrolės, kuriuo panaikinamas Reglamentas (EB) Nr. 1889/2005.
+
+
+
+
+6. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1153, kuria nustatomos taisyklės dėl paprastesnio finansinės ir kitos informacijos naudojimo tam tikrų nusikalstamų veikų prevencijos, nustatymo, tyrimo ir baudžiamojo persekiojimo už jas tikslais ir kuria panaikinamas Tarybos sprendimas 2000/642/TVR.
+
+8. 2024 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1620, kuriuo įsteigiama Kovos su pinigų plovimu ir teroristų finansavimu institucija ir iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 1094/2010 ir (ES) Nr. 1095/2010.
+Priedo pakeitimai:
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759 
  
 
 
