@@ -3184,9 +3184,7 @@ Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
 
 
 
-63 straipsnis. Reikalavimai auditoriui ir audito įmonei, jų pareigos ir atsakomybė 
-
-
+63 straipsnis. Reikalavimai auditoriui ir audito įmonei, jų pareigos ir atsakomybė
 Reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Finansų įstaigų įstatymas, Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas. 
 
 
