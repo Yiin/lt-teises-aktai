@@ -7735,13 +7735,7 @@ Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
 
 9) valdymo įmonė pažeidžia Reglamente (ES) Nr. 2017/1131 nustatytus reikalavimus;
 
-
-
-
 9-1) valdymo įmonė pažeidžia Reglamente (ES) 2022/2554 nustatytus reikalavimus;
-
-
-
 
 10) valdymo įmonės arba investicinės bendrovės vadovais, investicinius sprendimus priimančiais asmenimis išrenkami arba vadovų, investicinius sprendimus priimančių asmenų pareigas eina vienas ar keli asmenys, neatitinkantys šio įstatymo 9 straipsnio 4 dalyje nustatytų reputacijos, kvalifikacijos ir darbo patirties reikalavimų; 
 Straipsnio punkto pakeitimai:
