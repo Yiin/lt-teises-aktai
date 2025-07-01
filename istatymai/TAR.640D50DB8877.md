@@ -193,7 +193,7 @@ Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
 
 
 
-17. Startuolis – didelį ir inovacijomis grindžiamą verslo plėtros potencialą turinti labai maža ar maža įmonė, Juridinių asmenų registre registruota ne ilgiau kaip 5 metus. 
+17. Startuolis – didelį ir inovacijomis grindžiamą verslo plėtros potencialą turinti labai maža ar maža įmonė, Juridinių asmenų registro informacinėje sistemoje registruota ne ilgiau kaip 5 metus arba, jeigu vykdo mokslinius tyrimus ir eksperimentinę plėtrą, – ne ilgiau kaip 10 metų. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
 Straipsnio dalies numeracijos pakeitimas:
@@ -398,7 +398,7 @@ Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
 
 
 
-6. Įmonės gali deklaruoti esančios vidutinės, mažos ar labai mažos įmonės nuo jų įregistravimo Juridinių asmenų registre. 
+6. Įmonės gali deklaruoti esančios vidutinės, mažos ar labai mažos įmonės nuo jų įregistravimo Juridinių asmenų registro informacinėje sistemoje. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
  
