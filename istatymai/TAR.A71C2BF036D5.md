@@ -2399,6 +2399,8 @@ priedas
 
 
 6. 2022 m. lapkričio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2381 dėl biržinių bendrovių direktorių pareigas einančių asmenų lyčių pusiausvyros gerinimo ir susijusių priemonių.
+
+7. 2025 m. balandžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2025/794, kuria iš dalies keičiamos direktyvos (ES) 2022/2464 ir (ES) 2024/1760, kiek tai susiję su datomis, nuo kurių valstybės narės turi taikyti tam tikrus įmonių informacijos apie tvarumą teikimo ir įmonių tvarumo išsamaus patikrinimo reikalavimus.
 Papildyta straipsnio dalimi:
 Nr. XIV-3012, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17777
  
