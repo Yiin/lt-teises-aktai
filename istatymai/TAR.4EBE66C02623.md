@@ -19514,23 +19514,19 @@ Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 
 486 straipsnis. Lindynių laikymas
 
-
-1. Azartinių lošimų, ištvirkavimo arba alkoholinių gėrimų vartojimo lindynių laikymas
-užtraukia baudą nuo trisdešimt iki šešiasdešimt eurų.
-
-
-
+1. Patalpų suteikimas azartiniams lošimams lošti, ištvirkauti arba alkoholiniams gėrimams vartoti
+užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
- 
+užtraukia baudą nuo vieno šimto dvidešimt iki dviejų šimtų aštuoniasdešimt eurų.
 
+3. Patalpų suteikimas narkotinėms, psichotropinėms ar kitoms psichiką veikiančioms medžiagoms vartoti
+užtraukia baudą nuo vieno šimto iki trijų šimtų eurų.
 
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo trijų šimtų iki septynių šimtų eurų.
 
-
-
-
-487 straipsnis. Vertimasis prostitucija, atlygintinis naudojimasis prostitucijos paslaugomis
+5. Už šio straipsnio 2 ir 4 dalyse numatytus administracinius nusižengimus gali būti taikoma administracinio poveikio priemonė – įpareigojimas dalyvauti alkoholizmo ir narkomanijos prevencijos, ankstyvosios intervencijos, sveikatos priežiūros, resocializacijos, bendravimo su vaikais tobulinimo, smurtinio elgesio keitimo ar kitose programose (kursuose).487 straipsnis. Vertimasis prostitucija, atlygintinis naudojimasis prostitucijos paslaugomis
 
 
 1. Vertimasis prostitucija, atlygintinis naudojimasis prostitucijos paslaugomis 
