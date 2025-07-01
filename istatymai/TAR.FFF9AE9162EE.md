@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 47-1469, i. k. 0991010ISTAIII-1183
  
@@ -668,7 +668,9 @@ Nr. XIV-2173, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19344
 
 
 
-5. Mokestis už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiuojamas ir sumokamas: 
+5. Mokestis už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiuojamas ir sumokamas šia tvarka:  
+Straipsnio dalies pakeitimai:
+Nr. XIV-3118, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20202
 
 
 1) mokestis už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiuojamas šio įstatymo 6 priede nustatytą tarifą dauginant iš tarifo koregavimo koeficiento, kai ne keliais judantis mechanizmas atitinka bent vieną iš šio įstatymo 7 priede nustatytų techninių ypatumų, ir iš indeksavimo koeficiento;
@@ -696,23 +698,27 @@ Nr. XIV-2173, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19344
 
 
 
-6) mokesčio už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiavimo ir sumokėjimo fakto patikrinimą vykdo valstybės įmonė Žemės ūkio duomenų centras;
+6) mokesčio už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiavimo ir sumokėjimo fakto patikrinimą vykdo akcinė bendrovė Žemės ūkio duomenų centras; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-1301, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15628
+Nr. XIV-3118, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20202
  
 
 
 
 
-7) Valstybinė mokesčių inspekcija ir valstybės įmonė Žemės ūkio duomenų centras keičiasi mokesčiui administruoti reikalinga informacija. Keitimosi mokesčiui administruoti reikalinga informacija tvarką nustato žemės ūkio ministras, suderinęs su Valstybine mokesčių inspekcija;
+7) akcinė bendrovė Žemės ūkio duomenų centras teikia Valstybinei mokesčių inspekcijai mokesčiui už aplinkos teršimą administruoti reikalingą informaciją. 
 Straipsnio punkto pakeitimai:
 Nr. XIV-1301, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15628
+Nr. XIV-3118, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20202
  
 
 
 
 
-8) valstybės įmonės Žemės ūkio duomenų centro sprendimai dėl mokesčio apskaičiavimo ir sumokėjimo privaloma ikiteismine tvarka nagrinėjami Mokestinių ginčų komisijoje prie Lietuvos Respublikos Vyriausybės. Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės sprendimai gali būti skundžiami teismui.
+8) Neteko galios nuo 2025-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-3118, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20202
 Straipsnio punkto pakeitimai:
 Nr. XIV-1301, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15628
  
@@ -1891,3 +1897,8 @@ Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2173, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19344
 Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 6, 9 straipsnių ir 4 priedo pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3118, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20202
+Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 9 straipsnio pakeitimo įstatymas
