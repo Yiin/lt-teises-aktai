@@ -84,10 +84,10 @@ Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 
 
 
-2. Elektroninių pinigų įstaiga – akcinė bendrovė arba uždaroji akcinė bendrovė, kuriai išduota elektroninių pinigų įstaigos licencija ar elektroninių pinigų įstaigos ribotos veiklos licencija, kuria suteikiama teisė leisti elektroninius pinigus, įskaitant elektroninių pinigų žetonus, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 7 punkte, Lietuvos Respublikoje ir (ar) kitose valstybėse narėse (toliau, kai šiame įstatyme kalbama apie elektroninių pinigų įstaigos licenciją ir elektroninių pinigų įstaigos ribotos veiklos licenciją kartu, vartojama sąvoka „licencija“).
+2. Elektroninių pinigų įstaiga – akcinė bendrovė arba uždaroji akcinė bendrovė, kuriai išduota elektroninių pinigų įstaigos licencija ar elektroninių pinigų įstaigos ribotos veiklos licencija, kuria suteikiama teisė leisti elektroninius pinigus, įskaitant elektroninių pinigų žetonus, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 7 punkte, Lietuvos Respublikoje ir (ar) kitose valstybėse narėse (toliau, kai šiame įstatyme kalbama apie elektroninių pinigų įstaigos licenciją ir elektroninių pinigų įstaigos ribotos veiklos licenciją kartu, vartojama sąvoka „licencija").
 Straipsnio dalies pakeitimai:
 Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
- 
+ 
 
 
 
@@ -97,7 +97,7 @@ Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 
 
 
-4. Elektroninių pinigų įstaigos nuosavas kapitalas – kaip apibrėžta 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) (toliau – Reglamentas (ES) Nr. 575/2013) 4 straipsnio 1 dalies 118 punkte.
+4. Elektroninių pinigų įstaigos nuosavas kapitalas – kaip apibrėžta 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) (toliau – Reglamentas (ES) Nr. 575/2013) 4 straipsnio 1 dalies 118 punkte.
 
 
 
@@ -117,7 +117,7 @@ Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 
 
 
-8. Glaudus ryšys – kaip apibrėžta Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 38 punkte.
+8. Glaudus ryšys – kaip apibrėžta Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 38 punkte.
 
 
 
@@ -152,15 +152,7 @@ Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 
 
 
-15. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos bankų įstatyme, Lietuvos Respublikos mokėjimų įstatyme ir Lietuvos Respublikos mokėjimo įstaigų įstatyme.
- 
-
-
-
-
-
-
-3 straipsnis. Įstatymo netaikymo sritis
+15. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos bankų įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos mokėjimo įstaigų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme ir Reglamente (ES) 2022/2554.3 straipsnis. Įstatymo netaikymo sritis
 
 
 Šis įstatymas netaikomas piniginei vertei, laikomai mokėjimo priemonėse, nurodytose Mokėjimų įstatymo 3 straipsnio 5 dalies 11 punkte, ir piniginei vertei, kuri naudojama atlikti mokėjimo operacijoms, nurodytoms Mokėjimų įstatymo 3 straipsnio 5 dalies 12 punkte. 
@@ -530,7 +522,7 @@ Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 
 
 
-6) taikomos (numatomos taikyti) valdymo tvarkos ir vidaus kontrolės sistemos, įskaitant administracines, rizikos valdymo ir apskaitos sistemas, aprašymą, kuriuo įrodoma, kad ta valdymo tvarka ir vidaus kontrolės sistema yra tinkamos, patikimos ir adekvačios prisiimamai rizikai;
+6) taikomos (numatomos taikyti) valdymo tvarkos ir vidaus kontrolės sistemos, įskaitant administracines, rizikos valdymo ir apskaitos sistemas bei susitarimus dėl informacinių ir ryšių technologijų paslaugų naudojimo pagal Reglamentą (ES) 2022/2554, aprašymą, kuriuo įrodoma, kad ta valdymo tvarka ir vidaus kontrolės sistema yra tinkamos, patikimos ir adekvačios prisiimamai rizikai;
 
 
 
@@ -538,12 +530,12 @@ Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 7) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos) siekiant atlikti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentą (ES) 2023/1113 dėl informacijos, teikiamos pervedant lėšas ir tam tikrą kriptoturtą, kuriuo iš dalies keičiama Direktyva (ES) 2015/849, aprašymą;
 Straipsnio punkto pakeitimai:
 Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
- 
+ 
 
 
 
 
-8) procedūros, pagal kurią stebimi operaciniai ir saugumo incidentai ir su saugumu susiję klientų skundai, į juos reaguojama ir imamasi tolesnių veiksmų, aprašymą, įskaitant pranešimo apie didelius operacinius ir saugumo incidentus mechanizmą, nustatytą pagal Mokėjimų įstatymo 57 straipsnyje nustatytus reikalavimus;
+8) procedūros, pagal kurią stebimi operaciniai ir saugumo incidentai ir su saugumi susiję klientų skundai, į juos reaguojama ir imamasi tolesnių veiksmų, įskaitant pranešimo apie didelius su mokėjimais susijusius operacinius ir saugumo incidentus mechanizmą, kurį taikant atsižvelgiama į Reglamento (ES) 2022/2554 III skyriuje nustatytas pareigas pranešti, aprašymą;
 
 
 
@@ -553,7 +545,7 @@ Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 
 
 
-10) veiklos tęstinumo procesų aprašymą, jame aiškiai nurodydamas ypatingos svarbos operacijas, veiksmingus veiklos tęstinumo planus ir reguliaraus tokių planų adekvatumo ir efektyvumo testavimo ir peržiūros procedūrą;
+10) veiklos tęstinumo procesų aprašymą, jame aiškiai nurodydamas ypatingos svarbos operacijas, veiksmingą informacinių ir ryšių technologijų veiklos tęstinumo politiką, planus bei informacinių ir ryšių technologijų reagavimo ir veiklos atkūrimo planus ir reguliaraus tokių planų adekvatumo ir efektyvumo testavimo ir peržiūros procedūrą pagal Reglamentą (ES) 2022/2554;
 
 
 
@@ -578,10 +570,10 @@ Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 
 
 
-15) vadovų tapatybės duomenis (asmens vardą, pavardę, asmens kodą (jeigu asmens kodo neturi, – gimimo datą ir vietą) ir dokumentus, kuriais patvirtinama, kad jie atitinka šio įstatymo 16 straipsnio 3 dalyje nustatytus nepriekaištingos reputacijos, kvalifikacijos ir patirties reikalavimus; 
+15) vadovų tapatybės duomenis (asmens vardą, pavardę, asmens kodą (jeigu asmens kodo neturi, – gimimo datą ir vietą) ir dokumentus, kuriais patvirtinama, kad jie atitinka šio įstatymo 16 straipsnio 3 dalyje nustatytus nepriekaištingos reputacijos, kvalifikacijos ir patirties reikalavimus; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
- 
+ 
 
 
 
@@ -591,19 +583,17 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 
-17) auditą atliekančios (atliksiančios) audito įmonės ar atestuoto auditoriaus (toliau – auditorius), kuris audito veikla verčiasi savarankiškai (toliau, kai šiame įstatyme kalbama apie audito įmonę ir auditorių, kuris audito veikla verčiasi savarankiškai, kartu – audito įmonė), atitinkančių Finansų įstaigų įstatyme ir Lietuvos Respublikos finansinių ataskaitų audito įstatyme nustatytus reikalavimus, duomenis;
+17) auditą atliekančios (atliksiančios) audito įmonės ar atestuoto auditoriaus (toliau – auditorius), kuris audito veikla verčiasi savarankiškai, (toliau, kai šiame įstatyme kalbama apie audito įmonę ir auditorių, kuris audito veikla verčiasi savarankiškai, kartu – audito įmonė), atitinkančių Finansų įstaigų įstatyme ir Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme nustatytus reikalavimus, duomenis;
 
 
 
 
-18) dokumentus ir duomenis, kuriais patvirtinama atitiktis Mokėjimo įstaigų įstatymo 20 straipsnyje nustatytiems reikalavimams ir pagrindžiamas profesinės civilinės atsakomybės draudimo arba kitos lygiavertės atsakomybės užtikrinimo priemonės sumos dydis, jeigu ketinama teikti mokėjimo inicijavimo ir (arba) sąskaitos informacijos paslaugą;
+18) dokumentus ir duomenis, kuriais patvirtinama atitiktis Mokėjimo įstaigų įstatymo 20 straipsnyje nustatytiems reikalavimams ir pagrindžiamas profesinės civilinės atsakomybės draudimo arba kitos lygiavertės atsakomybės užtikrinimo priemonės sumos dydis, jeigu ketinama teikti mokėjimo inicijavimo ir (arba) sąskaitos informacijos paslaugą;
 
 
 
 
 19) buveinės adresą.
-
-
 
 
 
@@ -626,7 +616,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 6. Priežiūros institucija privalo išnagrinėti pateiktus dokumentus, duomenis ir (arba) informaciją, priimti sprendimą dėl elektroninių pinigų įstaigos licencijos išdavimo ir apie tai raštu pranešti prašymą pateikusiam juridiniam asmeniui ne vėliau kaip per 3 mėnesius nuo prašymo gavimo dienos, atsižvelgdama į Lietuvos banko įstatymo 431 straipsnio nuostatas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
- 
+ 
 
 
 
@@ -664,8 +654,6 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 
-
-
 8. Kai prašymą pateikęs juridinis asmuo ketina leisti elektroninius pinigus ir tuo pačiu metu ketina vykdyti ar vykdo kitą šio įstatymo 12 straipsnio 1 dalies 4 punkte nurodytą veiklą, priežiūros institucija turi teisę atsisakyti išduoti elektroninių pinigų įstaigos licenciją, iki bus įsteigtas atskiras juridinis asmuo elektroninių pinigų leidimo veiklai vykdyti, jeigu prašymą pateikusio juridinio asmens ketinama vykdyti ar vykdoma kita negu elektroninių pinigų leidimo veikla turi ar gali turėti neigiamą įtaką jo finansiniam patikimumui ar priežiūros institucijos galimybei stebėti, ar vykdomi visi šiame įstatyme nustatyti reikalavimai.
 
 
@@ -681,153 +669,10 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 
-11. Detalią prašymo išduoti šiame straipsnyje nustatytą licenciją pateikimo, nagrinėjimo tvarką ir detalius šio straipsnio 2 dalyje nurodytų pateikiamų dokumentų turinio ir formos reikalavimus nustato priežiūros institucija.
- 
+11. Detalią prašymo išduoti šiame straipsnyje nustatytą licenciją pateikimo, nagrinėjimo tvarką ir detalius šio straipsnio 2 dalyje nurodytų pateikiamų dokumentų turinio ir formos reikalavimus nustato priežiūros institucija.15 straipsnis. Licencijos galiojimo panaikinimas ar galiojimo sustabdymas ir sustabdymo panaikinimas
 
 
-
-
-
-
-14 straipsnis. Elektroninių pinigų įstaigos ribotos veiklos licencija
-
-
-1. Elektroninių pinigų įstaigos ribotos veiklos licencija suteikia teisę leisti elektroninius pinigus ir teikti Mokėjimų įstatymo 5 straipsnio 1–6 punktuose nurodytas mokėjimo paslaugas, nustatytas priežiūros institucijos jai išduotoje licencijoje. Elektroninių pinigų įstaigos ribotos veiklos licencija galioja tik Lietuvos Respublikoje ir nesuteikia teisės kitose valstybėse narėse leisti elektroninių pinigų ir teikti mokėjimo paslaugų. Elektroninių pinigų įstaigos, kuriai išduota elektroninių pinigų įstaigos ribotos veiklos licencija, neapmokėtų elektroninių pinigų vidurkis (jeigu veikla nevykdoma, – verslo plane planuojamas vidurkis) neturi viršyti 900 000 eurų, išskyrus šio straipsnio 6 dalyje nustatytą atvejį. Elektroninių pinigų įstaigai, kuriai išduota elektroninių pinigų įstaigos ribotos veiklos licencija, netaikomos šio įstatymo 17, 22 ir 24 straipsnių nuostatos.
-
-
-
-
-2. Elektroninių pinigų įstaiga, kuriai išduota elektroninių pinigų įstaigos ribotos veiklos licencija ir kuri ketina teikti mokėjimo paslaugas, nesusijusias su elektroniniais pinigais, taip pat turi atitikti Mokėjimo įstaigų įstatymo 7 straipsnio 1 dalies nuostatas.
-
-
-
-
-3. Steigiamas ar veikiantis juridinis asmuo (toliau šiame straipsnyje – juridinis asmuo), norėdamas gauti elektroninių pinigų įstaigos ribotos veiklos licenciją, turi priežiūros institucijai pateikti prašymą ir šiuos dokumentus bei duomenis:
-
-
-1) įstatus (įstatų projektą);
-
-
-
-
-2) verslo planą, kuriame nurodomos šio straipsnio 1 dalyje nustatytos numatomos teikti paslaugos ir pateikiamas pirmųjų finansinių metų biudžeto projektas, kuriuo įrodoma, kad elektroninių pinigų įstaiga gali patikimai veikti ir taiko tam tinkamas vidaus kontrolės sistemas, procedūras ir išteklius;
-
-
-
-
-3) dokumentus, kuriais įrodoma, kad elektroninių pinigų įstaigos neapmokėtų elektroninių pinigų vidurkis (jeigu veikla nevykdoma, – verslo plane planuojamas vidurkis) neviršija (neviršys) 900 000 eurų, o jeigu elektroninių pinigų įstaiga ketina teikti mokėjimo paslaugas, nesusijusias su elektroninių pinigų leidimu, – ir dokumentus, nurodytus Mokėjimo įstaigų įstatymo 7 straipsnio 2 dalies 3 punkte;
-
-
-
-
-4) priemonių, kurių pagal šio įstatymo 25 straipsnio reikalavimus imtasi (bus imamasi) siekiant apsaugoti elektroninių pinigų turėtojų lėšas, aprašymą, o jeigu elektroninių pinigų įstaiga ketina teikti mokėjimo paslaugas, nesusijusias su elektroninių pinigų leidimu, – priemonių, kurių pagal Mokėjimo įstaigų įstatymo 17 straipsnio reikalavimus imtasi (bus imamasi) siekiant apsaugoti mokėjimo paslaugų vartotojų lėšas, aprašymą;
-
-
-
-
-5) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos) siekiant atlikti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir Reglamentą (ES) 2023/1113, aprašymą;
-Straipsnio punkto pakeitimai:
-Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
- 
-
-
-
-
-6) organizacinės struktūros, įskaitant numatomus filialus, tarpininkus, fizinius ar juridinius asmenis, per kuriuos elektroninių pinigų įstaiga platins ir išpirks elektroninius pinigus, ar kitus asmenis, kuriems bus perduodamas veiklos funkcijų vykdymas, aprašymą, taip pat įsipareigojimo vykdyti filialų, tarpininkų patikrinimus ne rečiau kaip kartą per metus aprašymą ir dalyvavimo mokėjimo sistemose aprašymą; 
-
-
-
-
-7) vadovų tapatybės duomenis (asmens vardą, pavardę, asmens kodą (jeigu asmens kodo neturi, – gimimo datą ir vietą) ir dokumentus, kuriais patvirtinama, kad jie atitinka šio įstatymo  16 straipsnio 4 dalyje nustatytus reikalavimus; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
- 
-
-
-
-
-8) filialo vadovo (vadovų) tapatybės duomenis (asmens vardą, pavardę, asmens kodą (jeigu asmens kodo neturi, – gimimo datą ir vietą);
-
-
-
-
-9) buveinės adresą.
-
-
-
-
-
-
-4. Elektroninių pinigų įstaigos ribotos veiklos licencija išduodama prašymą pateikusiam juridiniam asmeniui tik jeigu jis, atsižvelgdamas į poreikį užtikrinti patikimą ir riziką ribojančiais principais grindžiamą elektroninių pinigų įstaigos valdymą, turi nustatęs visapusę, adekvačią elektroninių pinigų įstaigos veiklos pobūdžiui, mastui ir sudėtingumui ir patikimą elektroninių pinigų leidimo veiklos valdymo tvarką, įskaitant suprantamą organizacinę struktūrą, leidžiančią užtikrinti funkcijų atskyrimą ir vertikalius bei horizontalius atsakomybės ryšius su aiškiai apibrėžtomis, skaidriomis ir nuosekliomis atsakomybės ribomis, ir vidaus kontrolės sistemą, įskaitant patikimas administracines priemones ir apskaitos metodus.
-
-
-
-
-5. Elektroninių pinigų įstaiga, kuriai išduota elektroninių pinigų įstaigos ribotos veiklos licencija, privalo priežiūros institucijai jos nustatyta tvarka teikti informaciją apie šio straipsnio 1 dalyje nustatytų reikalavimų vykdymą.
-
-
-
-
-6. Paaiškėjus, kad elektroninių pinigų įstaiga, kuriai išduota elektroninių pinigų įstaigos ribotos veiklos licencija, nebeatitinka šio straipsnio 1 dalyje ir (arba) Mokėjimo įstaigų įstatymo 7 straipsnio 1 dalyje nustatytų reikalavimų, ji privalo per 30 dienų kreiptis į priežiūros instituciją dėl elektroninių pinigų įstaigos licencijos išdavimo šio įstatymo 13 straipsnyje nustatyta tvarka. Jeigu per nurodytą terminą dėl elektroninių pinigų įstaigos licencijos išdavimo nesikreipta arba priežiūros institucija per šio įstatymo 13 straipsnyje nustatytus terminus elektroninių pinigų įstaigos licencijos neišduoda, elektroninių pinigų įstaigos ribotos veiklos licencijos galiojimas elektroninių pinigų įstaigai panaikinamas.
-
-
-
-
-7. Priežiūros institucija turi teisę atlikti prašymą pateikusio juridinio asmens pasirengimo leisti elektroninius pinigus patikrinimą vietoje. Pasirengimo leisti elektroninius pinigus patikrinimui vietoje mutatis mutandis taikomos šio įstatymo 35 straipsnio nuostatos.
-
-
-
-
-8. Priežiūros institucija privalo išnagrinėti pateiktus dokumentus, duomenis ir (arba) informaciją, priimti sprendimą dėl elektroninių pinigų įstaigos ribotos veiklos licencijos išdavimo ir apie tai raštu pranešti prašymą pateikusiam juridiniam asmeniui ne vėliau kaip per 2 mėnesius nuo prašymo gavimo dienos, atsižvelgdama į Lietuvos banko įstatymo 431 straipsnio nuostatas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
- 
-
-
-
-
-9. Priežiūros institucija motyvuotai atsisako išduoti elektroninių pinigų įstaigos ribotos veiklos licenciją, jeigu:
-
-
-1) kartu su prašymu pateikti dokumentai, duomenys ir (arba) informacija neatitinka šio įstatymo nustatytų reikalavimų ir jų taikymo tvarką reglamentuojančių priežiūros institucijos teisės aktų, prašymą pateikęs juridinis asmuo nepateikia šio straipsnio 3 dalyje nurodytų dokumentų, duomenų ir (arba) informacijos, priežiūros institucijai paprašius pateikti trūkstamus ir (ar) patikslintus dokumentus, duomenis ir (arba) informaciją, reikalingus sprendimui priimti, per jos nustatytą terminą arba pateikia ne visus papildomai pareikalautus dokumentus, duomenis ir (arba) informaciją ar jie yra neteisingi; 
-
-
-
-
-2) prašymą pateikęs juridinis asmuo neturi buveinės Lietuvos Respublikoje, jo teisinė forma, vadovai neatitinka šio įstatymo nustatytų reikalavimų ir jų taikymo tvarką reglamentuojančių priežiūros institucijos teisės aktų;
-
-
-
-
-3) prašymą pateikęs juridinis asmuo neatitinka šio straipsnio 1 ar 4 dalyje nustatytų reikalavimų.
-
-
-
-
-
-
-10. Kai prašymą pateikęs juridinis asmuo ketina leisti elektroninius pinigus ir tuo pačiu metu ketina vykdyti ar vykdo kitą šio įstatymo 12 straipsnio 1 dalies 4 punkte nurodytą veiklą, priežiūros institucija turi teisę atsisakyti išduoti elektroninių pinigų įstaigos ribotos veiklos licenciją, iki bus įsteigtas atskiras juridinis asmuo elektroninių pinigų leidimo veiklai vykdyti, jeigu elektroninių pinigų įstaigos vykdoma kita negu elektroninių pinigų leidimo veikla turi ar gali turėti neigiamą įtaką jos finansiniam patikimumui ar priežiūros institucijos galimybei stebėti, ar vykdomi visi šiame įstatyme nustatyti reikalavimai.
-
-
-
-
-11. Elektroninių pinigų įstaigos ribotos veiklos licenciją turinti elektroninių pinigų įstaiga visą savo veiklos laikotarpį turi atitikti šiame straipsnyje nustatytus elektroninių pinigų įstaigos ribotos veiklos licencijos išdavimo reikalavimus. Elektroninių pinigų įstaiga šio įstatymo įgyvendinamųjų priežiūros institucijos teisės aktų nustatyta tvarka ir terminais privalo pranešti priežiūros institucijai apie duomenų ir (arba) informacijos, kurie buvo pateikti elektroninių pinigų įstaigos ribotos veiklos licencijai gauti, pasikeitimus.
-
-
-
-
-12. Detalią prašymo išduoti šiame straipsnyje nustatytą licenciją pateikimo, nagrinėjimo tvarką ir detalius šio straipsnio 3 dalyje nurodytų pateikiamų dokumentų turinio ir formos reikalavimus nustato priežiūros institucija.
- 
-
-
-
-
-
-
-15 straipsnis. Licencijos galiojimo panaikinimas ar galiojimo sustabdymas ir sustabdymo panaikinimas
-
-
-1. Licencijos galiojimas panaikinamas Finansų įstaigų įstatymo 10 straipsnio 1 dalyje ir 2 dalies 1, 3–8 punktuose nustatytais atvejais. Šio įstatymo 14 straipsnio 6 dalyje nurodytu atveju licencijos galiojimas panaikinamas priežiūros institucijos sprendimu.
+1. Licencijos galiojimas panaikinamas Finansų įstaigų įstatymo 10 straipsnio 1 dalyje ir 2 dalies 1, 3–8 punktuose nustatytais atvejais. Šio įstatymo 14 straipsnio 6 dalyje nurodytu atveju licencijos galiojimas panaikinamas priežiūros institucijos sprendimu.
 
 
 
@@ -855,9 +700,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 
-
-
-3. Panaikinant licencijos galiojimą šio straipsnio 2 dalies 3 ar 4 punkte ar šio įstatymo 14 straipsnio 6 dalyje arba Finansų įstaigų įstatymo 10 straipsnio 2 dalies 8 punkte nustatytais pagrindais, priežiūros institucijos sprendime nurodomi sprendimo priėmimo motyvai ir apie priimtą sprendimą per 3 darbo dienas nuo sprendimo priėmimo dienos pranešama elektroninių pinigų įstaigai. Kitais atvejais licencijos galiojimas panaikinamas šio įstatymo 39 ir 40 straipsniuose nustatyta tvarka.
+3. Panaikinant licencijos galiojimą šio straipsnio 2 dalies 3 ar 4 punkte ar šio įstatymo 14 straipsnio 6 dalyje arba Finansų įstaigų įstatymo 10 straipsnio 2 dalies 8 punkte nustatytais pagrindais, priežiūros institucijos sprendime nurodomi sprendimo priėmimo motyvai ir apie priimtą sprendimą per 3 darbo dienas nuo sprendimo priėmimo dienos pranešama elektroninių pinigų įstaigai. Kitais atvejais licencijos galiojimas panaikinamas šio įstatymo 39 ir 40 straipsniuose nustatyta tvarka.
 
 
 
@@ -870,7 +713,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 5. Priežiūros institucija, priėmusi sprendimą sustabdyti licencijos galiojimą, per 3 darbo dienas nuo tokio sprendimo priėmimo dienos apie tai praneša elektroninių pinigų įstaigai, nurodo pažeidimą (pažeidimus) ir nustato ne trumpesnį kaip vieno mėnesio terminą, per kurį elektroninių pinigų įstaiga privalo nurodytą pažeidimą (pažeidimus) pašalinti.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2714, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11237
- 
+ 
 
 
 
@@ -890,24 +733,16 @@ Nr. XIV-2714, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11237
 
 
 
-9. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą priežiūros institucija skelbia savo interneto svetainėje. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą, įskaitant licencijos galiojimo panaikinimo ar sustabdymo priežastis, priežiūros institucija praneša Europos bankininkystės institucijai Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta Direktyvos (ES) 2015/2366 15 straipsnio 4 ir 5 dalyse, nustatyta tvarka.
+9. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą priežiūros institucija skelbia savo interneto svetainėje. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą, įskaitant licencijos galiojimo panaikinimo ar sustabdymo priežastis, priežiūros institucija praneša Europos bankininkystės institucijai Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta Direktyvos (ES) 2015/2366 15 straipsnio 4 ir 5 dalyse, nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2962, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11335
- 
-
-
-
-
+ 
 
 
 
 
 IV SKYRIUS
-ELEKTRONINIŲ PINIGŲ ĮSTAIGOS VALDYMAS
- 
-
-
-16 straipsnis. Elektroninių pinigų įstaigos organai ir vadovai bei jos tarpininkų vadovai 
+ELEKTRONINIŲ PINIGŲ ĮSTAIGOS VALDYMAS16 straipsnis. Elektroninių pinigų įstaigos organai ir vadovai bei jos tarpininkų vadovai 
 
 
 1. Elektroninių pinigų įstaigoje, turinčioje elektroninių pinigų įstaigos licenciją, turi būti šie organai: visuotinis akcininkų susirinkimas, valdyba ir vadovas. Elektroninių pinigų įstaigoje, turinčioje elektroninių pinigų įstaigos ribotos veiklos licenciją, turi būti šie organai: visuotinis akcininkų susirinkimas ir vadovas, o jeigu elektroninių pinigų įstaiga, turinti elektroninių pinigų įstaigos ribotos veiklos licenciją, yra akcinė bendrovė, – ir stebėtojų taryba arba valdyba. 
@@ -968,14 +803,12 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGOS VALDYMAS
 
 
 
-
-
 5. Tarpininko administracijos vadovai (vadovas ir jo pavaduotojas) ir asmenys, atsakingi už mokėjimo paslaugų teikimo veiklos valdymą (struktūrinių padalinių vadovai) (toliau, kai šiame įstatyme kalbama apie tarpininko administracijos vadovus (vadovą ir jo pavaduotoją) ir asmenis, atsakingus už mokėjimo paslaugų teikimo veiklos valdymą (struktūrinių padalinių vadovus), kartu – tarpininko vadovai), kai tarpininkas nėra mokėjimo paslaugų teikėjas, turi būti pasirengę ir tinkami eiti pareigas. Tarpininko vadovų, kai tarpininkas nėra mokėjimo paslaugų teikėjas, pasirengimas ir tinkamumas vertinami priežiūros institucijos teisės aktų nustatyta tvarka. Tarpininko vadovų, kai tarpininkas nėra mokėjimo paslaugų teikėjas, pasirengimas vertinamas atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos kėlimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Tarpininko vadovams, kai tarpininkas nėra mokėjimo paslaugų teikėjas, mutatis mutandis taikomi šio straipsnio 4 dalyje nustatyti tinkamumo reikalavimai.
 
 
 
 
-6. Elektroninių pinigų įstaiga priežiūros institucijai jos nustatyta tvarka privalo pranešti apie numatomus elektroninių pinigų įstaigos vadovų pasikeitimus, išskyrus šio straipsnio 9 dalyje nurodytus atvejus, kai pranešimas nėra reikalingas, ir kartu pateikti priežiūros institucijos nustatytą informaciją, reikalingą įvertinti, ar vadovai atitinka jiems šio straipsnio 3 ir 4 dalyse nustatytus reikalavimus. Iš naujo išrinkti (paskirti) elektroninių pinigų įstaigos vadovai gali pradėti eiti pareigas tik tuo atveju, jeigu priežiūros institucija neprieštarauja jų kandidatūroms. Priežiūros institucija turi teisę prieštarauti elektroninių pinigų įstaigos vadovų kandidatūroms, jeigu jie neatitinka šio straipsnio 3 ir 4 dalyse nustatytų reikalavimų.
+6. Elektroninių pinigų įstaiga priežiūros institucijai jos nustatyta tvarka privalo pranešti apie numatomus elektroninių pinigų įstaigos vadovų pasikeitimus, išskyrus šio straipsnio 9 dalyje nurodytus atvejus, kai pranešimas nėra reikalingas, ir kartu pateikti priežiūros institucijos nustatytą informaciją, reikalingą įvertinti, ar vadovai atitinka jiems šio straipsnio 3 ir 4 dalyse nustatytus reikalavimus. Iš naujo išrinkti (paskirti) elektroninių pinigų įstaigos vadovai gali pradėti eiti pareigas tik tuo atveju, jeigu priežiūros institucija neprieštarauja jų kandidatūroms. Priežiūros institucija turi teisę prieštarauti elektroninių pinigų įstaigos vadovų kandidatūroms, jeigu jie neatitinka šio straipsnio 3 ir 4 dalyse nustatytų reikalavimų.
 
 
 
@@ -1003,8 +836,6 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGOS VALDYMAS
 
 
 
-
-
 10. Elektroninių pinigų įstaiga, šio straipsnio 9 dalyje nurodytais atvejais paskyrusi arba išrinkusi vadovą, apie tai turi pranešti priežiūros institucijai jos nustatyta tvarka ir terminais.
 
 
@@ -1014,13 +845,7 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGOS VALDYMAS
 
 
 Straipsnio pakeitimai:
-Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
- 
-
-
-
-
-17 straipsnis. Elektroninių pinigų įstaigos kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis
+Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-1130817 straipsnis. Elektroninių pinigų įstaigos kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis
 
 
 Elektroninių pinigų įstaigos kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimui ir netekimui, įsigyjančio asmens turimų balsavimo teisių praradimui, siūlomo įsigijimo vertinimui mutatis mutandis taikomos Bankų įstatymo 24 ir 25 straipsnių nuostatos. 
@@ -1509,7 +1334,7 @@ KITI ELEKTRONINIŲ PINIGŲ ĮSTAIGAI KELIAMI REIKALAVIMAI
 
 
 
-2. Svarbios elektroninių pinigų leidimo veiklos funkcijos, įskaitant funkcijas, susijusias su informacinių technologijų sistemomis, negali būti perduotos kitam asmeniui, jeigu jas perdavus iš esmės pablogėtų elektroninių pinigų įstaigos vidaus kontrolės kokybė ir priežiūros institucijos galimybė stebėti, ar elektroninių pinigų įstaiga laikosi visų šio įstatymo nustatytų ir (ar) kitų jos veiklai taikomų priežiūros institucijos teisės aktų reikalavimų. Šiame įstatyme nurodytos svarbios veiklos funkcijos – tai funkcijos, dėl kurių nevykdymo ar netinkamo vykdymo elektroninių pinigų įstaiga nebeatitiktų nustatytų licencijos išdavimo reikalavimų ar kitų šio įstatymo ir (ar) elektroninių pinigų įstaigos veiklai taikomų priežiūros institucijos teisės aktų reikalavimų arba būtų pakenkta elektroninių pinigų įstaigos veiklos stabilumui ir patikimumui, jos vykdomos elektroninių pinigų leidimo veiklos tęstinumui.
+2. Svarbios elektroninių pinigų leidimo veiklos funkcijos, įskaitant funkcijas, susijusias su informacinių ir ryšių technologijų sistemomis, negali būti perduotos kitam asmeniui, jeigu jas perdavus iš esmės pablogėtų elektroninių pinigų įstaigos vidaus kontrolės kokybė ir priežiūros institucijos galimybė stebėti, ar elektroninių pinigų įstaiga laikosi visų šio įstatymo nustatytų ir (ar) kitų jos veiklai taikomų priežiūros institucijos teisės aktų reikalavimų. Šiame įstatyme nurodytos svarbios veiklos funkcijos – tai funkcijos, dėl kurių nevykdymo ar netinkamo vykdymo elektroninių pinigų įstaiga nebeatitiktų nustatytų licencijos išdavimo reikalavimų ar kitų šio įstatymo ir (ar) elektroninių pinigų įstaigos veiklai taikomų priežiūros institucijos teisės aktų reikalavimų arba būtų pakenkta elektroninių pinigų įstaigos veiklos stabilumui ir patikimumui, jos vykdomos elektroninių pinigų leidimo veiklos tęstinumui.
 
 
 
@@ -1532,22 +1357,12 @@ KITI ELEKTRONINIŲ PINIGŲ ĮSTAIGAI KELIAMI REIKALAVIMAI
 
 
 
-
-
 4. Elektroninių pinigų įstaiga privalo nedelsdama pranešti priežiūros institucijai apie visus pasikeitimus, susijusius su perduotomis elektroninių pinigų leidimo veiklos funkcijomis ir asmenimis, kuriems perduotas šių funkcijų vykdymas.
 
 
 
 
-5. Elektroninių pinigų įstaigos elektroninių pinigų leidimo veiklos funkcijų perdavimo tvarką nustato priežiūros institucija.
- 
-
-
-
-
-
-
-27 straipsnis. Papildomos elektroninių pinigų įstaigos pareigos
+5. Elektroninių pinigų įstaigos elektroninių pinigų leidimo veiklos funkcijų perdavimo tvarką nustato priežiūros institucija.27 straipsnis. Papildomos elektroninių pinigų įstaigos pareigos
 
 
 1. Elektroninių pinigų leidimo veikla įsteigus filialą ir visų ar dalies svarbių elektroninių pinigų leidimo veiklos funkcijų vykdymo perdavimas kitiems asmenims neatleidžia elektroninių pinigų įstaigos nuo šio įstatymo laikymosi.
@@ -1609,7 +1424,7 @@ Nr. XIV-3096, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20117
 28 straipsnis. Elektroninių pinigų įstaigos apskaita, finansinės ir kitos ataskaitos ir auditas
 
 
-1. Elektroninių pinigų įstaiga privalo tvarkyti buhalterinę apskaitą vadovaudamasi Lietuvos Respublikos buhalterinės apskaitos įstatymu.
+1. Elektroninių pinigų įstaiga privalo tvarkyti finansinę apskaitą vadovaudamasi Finansinės apskaitos įstatymu.
 
 
 
@@ -1629,28 +1444,20 @@ Nr. XIV-3096, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20117
 
 
 
-5. Reikalavimai, taikomi elektroninių pinigų įstaigos finansinių ataskaitų rinkinio audito atlikimui, auditoriui ir audito įmonei, jų pareigos ir atsakomybė nustatyti Finansų įstaigų įstatyme, Akcinių bendrovių įstatyme ir Finansinių ataskaitų audito įstatyme.
+5. Reikalavimai, taikomi elektroninių pinigų įstaigos finansinių ataskaitų rinkinio audito atlikimui, auditoriui ir audito įmonei, jų pareigos ir atsakomybė nustatyti Finansų įstaigų įstatyme, Akcinių bendrovių įstatyme ir Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme.
 
 
 
 
 6. Elektroninių pinigų įstaiga, kuri yra finansų įmonė, privalo užtikrinti, kad būtų vykdomos vidaus audito funkcijos. Elektroninių pinigų įstaiga gali pavesti šias funkcijas atlikti kitam asmeniui. Vidaus audito funkcijų perdavimui netaikomos šio įstatymo 26 straipsnio nuostatos. Detalius vidaus audito funkcijų vykdymo reikalavimus nustato priežiūros institucija. 
 Straipsnio dalies pakeitimai:
-Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
- 
-
-
-
-
-
-
-29 straipsnis. Skundų (prašymų) nagrinėjimas ir informacijos saugojimas
+Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-1130829 straipsnis. Skundų (prašymų) nagrinėjimas ir informacijos saugojimas
 
 
 1. Elektroninių pinigų įstaigos privalo priežiūros institucijos nustatyta tvarka nagrinėti elektroninių pinigų turėtojų skundus (prašymus), susijusius su elektroninių pinigų įstaigų teikiamomis paslaugomis (toliau – skundas). Elektroninių pinigų įstaiga privalo išnagrinėti rašytinį elektroninių pinigų turėtojo skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė elektroninių pinigų turėtojas ir elektroninių pinigų įstaiga. Išskirtiniais atvejais, kai dėl priežasčių, kurių elektroninių pinigų įstaiga negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą, aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio elektroninių pinigų turėtojas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Elektroninių pinigų įstaiga elektroninių pinigų turėtojų skundus nagrinėja neatlygintinai. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
- 
+ 
 
 
 
@@ -1661,21 +1468,17 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 3. Elektroninių pinigų įstaigos privalo saugoti duomenis, susijusius su šio įstatymo III, IV, V, VI ir VII skyrių nuostatų įgyvendinimu, ne trumpiau kaip 5 metus, išskyrus atvejus, kai Pinigų plovimo ir teroristų finansavimo prevencijos įstatymas ir kiti teisės aktai nustato ilgesnius tokių duomenų saugojimo terminus. 
- 
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 VIII SKYRIUS
-ELEKTRONINIŲ PINIGŲ ĮSTAIGŲ PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
- 
-
-
-30 straipsnis. Priežiūros institucija
+ELEKTRONINIŲ PINIGŲ ĮSTAIGŲ PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS30 straipsnis. Priežiūros institucija
 
 
 1. Priežiūros institucija atlieka šio įstatymo nustatyta tvarka išduotą licenciją turinčių elektroninių pinigų įstaigų, įskaitant jų filialus kitose valstybėse narėse, ir šio įstatymo nustatyta tvarka išduotą licenciją turinčių užsienio valstybių elektroninių pinigų įstaigų filialų priežiūrą. Ši priežiūra neapima šio įstatymo 12 straipsnio 1 dalies 3 ir 4 punktuose numatytos veiklos priežiūros.
@@ -2128,9 +1931,12 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 
+7-1) pažeidžiami Reglamente (ES) 2022/2554 nustatyti reikalavimai;
+
+
+
+
 8) padaromi kiti šio įstatymo arba kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai arba yra grėsmė, kad dėl elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo veiklos arba dėl finansinės būklės būtų pažeisti visuomenės, mokėjimo paslaugų vartotojų ir (arba) elektroninių pinigų turėtojų interesai arba sutriktų Lietuvos Respublikos elektroninių pinigų įstaigų sistemos funkcionavimas.
-
-
 
 
 
@@ -2139,13 +1945,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 Straipsnio pakeitimai:
-Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
- 
-
-
-
-
-41 straipsnis. Baudos
+Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-1130841 straipsnis. Baudos
 
 
 1. Priežiūros institucija skiria baudas:
@@ -2549,3 +2349,5 @@ Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3096, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20117
 Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 11, 25 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 27-1 straipsniu įstatymas
+
+2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011.
