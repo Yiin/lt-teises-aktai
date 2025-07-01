@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782"
 
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2225, i. k. 1021010ISTA00IX-886
  
@@ -1200,7 +1200,7 @@ LIGŲ IR TRAUMŲ PROFILAKTIKA BEI KONTROLĖ
  
 
 
-26 straipsnis. Neinfekcinių ligų ir traumų epidemiologinė priežiūra bei tyrimai 
+26 straipsnis. Neinfekcinių ligų ir traumų epidemiologinė priežiūra 
 
 
 1. Neinfekcinėms ligoms ir traumoms, kurios atsiranda dėl gyvenimo būdo ir įpročių, darbo, mokslo bei kitų veiklos sąlygų, taikoma epidemiologinė priežiūra.
@@ -1218,28 +1218,12 @@ LIGŲ IR TRAUMŲ PROFILAKTIKA BEI KONTROLĖ
 
 
 
-4. Visos traumos ir nelaimingi atsitikimai registruojami Traumų ir nelaimingų atsitikimų stebėsenos informacinėje sistemoje. Traumų ir nelaimingų atsitikimų stebėsenos informacinės sistemos valdytoja yra Sveikatos apsaugos ministerija arba jos įgaliota institucija, tvarkytoja – Sveikatos apsaugos ministerijos įgaliota institucija, kuri yra atsakinga už informacinės sistemos duomenų tvarkymą ir jų saugą, tinkamą šios informacinės sistemos funkcionavimą ir priežiūrą, duomenų teikėjai – juridiniai ir fiziniai asmenys, turintys licenciją verstis sveikatos priežiūros veikla, kitos valstybės institucijos, pagal kompetenciją dalyvaujančios vykdant traumų ir nelaimingų atsitikimų stebėseną. Informacinės sistemos valdytojo, tvarkytojo ir duomenų teikėjų kompetenciją, informacijos teikimo tvarką ir terminus reglamentuoja sveikatos apsaugos ministro patvirtinti informacinės sistemos nuostatai. 
-Papildyta straipsnio dalimi:
-Nr. XII-1924, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11099
+4. Visos traumos ir nelaimingi atsitikimai registruojami Traumų ir nelaimingų atsitikimų stebėsenos informacinėje sistemoje. Traumų ir nelaimingų atsitikimų stebėsenos informacinės sistemos valdytoja yra Sveikatos apsaugos ministerija arba jos įgaliota institucija, tvarkytoja – Sveikatos apsaugos ministerijos įgaliota institucija, kuri yra atsakinga už informacinės sistemos duomenų tvarkymą ir jų saugą, tinkamą šios informacinės sistemos funkcionavimą ir priežiūrą, duomenų teikėjai – juridiniai ir fiziniai asmenys, turintys licenciją verstis sveikatos priežiūros veikla, kitos valstybės institucijos, pagal kompetenciją dalyvaujančios vykdant traumų ir nelaimingų atsitikimų stebėseną. Šios informacinės sistemos valdytojo, tvarkytojo ir duomenų teikėjų kompetenciją, informacijos teikimo tvarką ir terminus reglamentuoja sveikatos apsaugos ministro patvirtinti informacinės sistemos nuostatai.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2792, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12735
  
-
-
-
-
-5. Teritorinės ligonių kasos kartą per dvejus metus organizuoja Lietuvos Respublikos privalomuoju sveikatos draudimu apdraustų asmenų sveikatos būklės ir rizikos veiksnių paplitimo tyrimus. Šių tyrimų tvarką nustato Vyriausybė ar jos įgaliota institucija.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1924, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11099
- 
-
-
-
-
-6. Teritorinės ligonių kasos organizuoja privalomuoju sveikatos draudimu apdraustų asmenų ligų ir traumų pasekmių bei sveikatos priežiūros ekonominį įvertinimą. Šio darbo turinį ir tvarką nustato Vyriausybė ar jos įgaliota institucija.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1924, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11099
- 
-
-
 
 
 
@@ -2255,3 +2239,8 @@ Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 15 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1213, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15578
 Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 15 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2792, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12735
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 26 straipsnio pakeitimo įstatymas
