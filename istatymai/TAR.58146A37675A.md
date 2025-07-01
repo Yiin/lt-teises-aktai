@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.58146A37675A"
 
 # Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 82-2414, i. k. 0991010ISTAIII-1328
  
@@ -559,7 +559,10 @@ Nr. XIV-715, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25142
 
 
 
-4) kai pagal medicinos ar Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos išvadą jis negali eiti pareigų;
+4) kai pagal sveikatos priežiūros įstaigos išvadą jis negali eiti šių pareigų; 
+Straipsnio punkto pakeitimai:
+Nr. XV-124, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04418
+ 
 
 
 
@@ -589,9 +592,10 @@ Nr. XIII-2540, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19040
 
 
 
-14. Seimui patvirtinus Tarybą, ne vėliau kaip per 10 darbo dienų pradedami Tarybos pirmininko rinkimai. Taryba, dalyvaujant ne mažiau kaip 2/3 narių, renka iš Tarybos narių kandidatą pirmininko pareigoms, už kurį turi balsuoti ne mažiau kaip pusė visų Tarybos narių. Jeigu nė vienas kandidatas nesurenka reikiamo balsų skaičiaus, rinkimai kartojami dalyvaujant dviem daugiausia balsų surinkusiems kandidatams ir išrenkamas tas, kuris surenka balsų daugumą. Seimo Pirmininkas teikia Seimui tvirtinti Tarybos siūlomą kandidatą Tarybos pirmininko pareigoms 4 metų kadencijai. Jeigu Seimas nepaskiria į Tarybos pirmininko pareigas Tarybos išrinkto kandidato, Taryba renka kitą kandidatą. Detalesnė kandidato į Tarybos pirmininkus rinkimų tvarka nustatoma Tarybos nuostatuose. Tarybos pirmininko įgaliojimai tęsiasi iki naujos kadencijos Tarybos pirmininko paskyrimo. Tas pats asmuo Tarybos pirmininku gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. Pirmininkas vadovauja Tarybai, jis teisės aktų nustatyta tvarka kartu yra ir šios įstaigos vadovas. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatyme. Jis gali dirbti mokslo ir studijų institucijose ir gauti atlyginimą už mokslinę, pedagoginę bei kūrybinę veiklą. Tarybos pirmininko, naudojančio tarnybos laiką darbui mokslo ir studijų institucijoje, darbo užmokestis apskaičiuojamas proporcingai Taryboje dirbtam laikui. 
+14. Seimui patvirtinus Tarybą, ne vėliau kaip per 10 darbo dienų pradedami Tarybos pirmininko rinkimai. Taryba, dalyvaujant ne mažiau kaip 2/3 narių, renka iš Tarybos narių kandidatą pirmininko pareigoms, už kurį turi balsuoti ne mažiau kaip pusė visų Tarybos narių. Jeigu nė vienas kandidatas nesurenka reikiamo balsų skaičiaus, rinkimai kartojami dalyvaujant dviem daugiausia balsų surinkusiems kandidatams ir išrenkamas tas, kuris surenka balsų daugumą. Seimo Pirmininkas teikia Seimui tvirtinti Tarybos siūlomą kandidatą Tarybos pirmininko pareigoms 4 metų kadencijai. Jeigu Seimas nepaskiria į Tarybos pirmininko pareigas Tarybos išrinkto kandidato, Taryba renka kitą kandidatą. Detalesnė kandidato į Tarybos pirmininkus rinkimų tvarka nustatoma Tarybos nuostatuose. Tarybos pirmininko įgaliojimai tęsiasi iki naujos kadencijos Tarybos pirmininko paskyrimo. Tas pats asmuo Tarybos pirmininku gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. Pirmininkas vadovauja Tarybai, jis teisės aktų nustatyta tvarka kartu yra ir šios įstaigos vadovas. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatyme. Jis gali dirbti mokslo ir studijų institucijose ir gauti atlyginimą už mokslinę, pedagoginę bei kūrybinę veiklą. Tarybos pirmininko, naudojančio tarnybos laiką darbui mokslo ir studijų institucijoje, darbo užmokestis apskaičiuojamas proporcingai Taryboje dirbtam laikui. Pasibaigus Tarybos pirmininko kadencijai, jeigu jis nėra paskiriamas kitai kadencijai ir per 2 mėnesių terminą nepradeda eiti valstybės pareigūno ar valstybės tarnautojo pareigų, jam išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Tarybos pirmininko įgaliojimams nutrūkus, kai jis pagal sveikatos priežiūros įstaigos išvadą nebegali eiti pareigų, atleidimo dieną išmokama 3 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Jam mirus, jo šeimos nariams išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išmoka. Šioje dalyje nurodytos išmokos mokamos iš Tarybai skirtų valstybės biudžeto lėšų.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1988, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11559
+Nr. XV-124, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04418
  
 
 
@@ -1085,3 +1089,8 @@ Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1988, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11559
 Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 6-1 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-124, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04418
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 6-1 straipsniо pakeitimo įstatymas
