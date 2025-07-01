@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2024-07-01 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -256,33 +256,35 @@ Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 
 
 
-4 straipsnis. Institucijos, vykdančios privalomąjį sveikatos draudimą 
+4 straipsnis. Privalomojo sveikatos draudimo sistemos valstybinio valdymo subjektai
 
 
-1. Privalomąjį sveikatos draudimą vykdo šios institucijos: 
-
-
-1) Privalomojo sveikatos draudimo taryba; 
+1. Valstybės politiką privalomojo sveikatos draudimo srityje formuoja ir jos įgyvendinimą organizuoja, koordinuoja bei kontroliuoja Sveikatos apsaugos ministerija.
 
 
 
 
-2) Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos (toliau –Valstybinė ligonių kasa); 
+2. Privalomąjį sveikatos draudimą vykdo:
+
+
+1) Privalomojo sveikatos draudimo taryba;
 
 
 
 
-3) teritorinės ligonių kasos. 
+2) Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos (toliau – Valstybinė ligonių kasa).
 
 
 
 
 
 
-2. Privalomąjį sveikatos draudimą vykdančių institucijų veiklą nustato šis Įstatymas ir kiti teisės aktai. 
+3. Privalomojo sveikatos draudimo sistemos valstybinio valdymo subjektų veiklą nustato šis Įstatymas ir kiti teisės aktai.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
-
-
 
 
 
@@ -463,16 +465,20 @@ Nr. XIV-166, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01179
 
 
 
-9) vienas iš tėvų (įtėvių), globėjas ar rūpintojas, neįgaliojo aprūpintojas, slaugantys ar nuolat prižiūrintys namuose asmenį (teikiantys jam pagalbą namuose), kuriam nustatytas neįgalumo lygis (vaiką invalidą), arba asmenį, kuriam nustatytas specialusis nuolatinės slaugos poreikis ar specialusis nuolatinės priežiūros (pagalbos) poreikis. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugantiems namuose visiškos negalios invalidą, pripažintą tokiu iki 2005 m. liepos 1 d.;
+9) vienas iš tėvų (įtėvių), globėjas ar rūpintojas, slaugantys ar nuolat prižiūrintys namuose vaiką, kuriam nustatytas neįgalumo lygis, arba vienas iš tėvų (įtėvių), globėjas ar rūpintojas, aprūpintojas, slaugantys ar nuolat prižiūrintys namuose (teikiantys pagalbą namuose) asmenį su negalia, kuriam nustatytas individualios pagalbos teikimo išlaidų kompensacijos poreikis (iki 2023 m. gruodžio 31 d. specialusis nuolatinės slaugos poreikis ar specialusis nuolatinės priežiūros (pagalbos) poreikis). Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugantiems namuose asmenį, kuriam iki 2005 m. birželio 30 d. nustatyta visiška negalia; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-1367, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15462
 Nr. XIV-1437, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20332
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
 
 
-10) asmenys, teisės aktų nustatyta tvarka pripažinti neįgaliaisiais;
+10) asmenys su negalia;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
+ 
 
 
 
@@ -646,29 +652,15 @@ Nr. XII-1001, 2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10432
 
 
 2. Draudžiamųjų privalomuoju sveikatos draudimu registro objektai yra privalomuoju sveikatos draudimu draudžiami asmenys, nurodyti šio Įstatymo 6 straipsnio 1 ir 2 dalyse, taip pat valstybės biudžeto lėšomis apmokamą būtinąją medicinos pagalbą, būtinąsias paslaugas ir kitą sveikatos priežiūrą gaunantys asmenys, nurodyti šio Įstatymo 6 straipsnio 5 dalyje.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1042, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08797
- 
 
 
 
 
-3. Draudžiamųjų privalomuoju sveikatos draudimu registras tvarkomas ir jo duomenys teikiami vadovaujantis Valstybės registrų įstatymu, Pacientų teisių ir žalos sveikatai atlyginimo įstatymu, šio registro nuostatais ir kitais teisės aktais.
-
-
-
-
-4. Draudžiamųjų privalomuoju sveikatos draudimu registro vadovaujančioji tvarkymo įstaiga yra Valstybinė ligonių kasa, o registro tvarkymo įstaigos – Valstybinė ligonių kasa ir teritorinės ligonių kasos. 
-
-
-
-
-5. Vyriausybės nustatytais atvejais ir tvarka asmenims, apdraustiems privalomuoju sveikatos draudimu, išduodami privalomojo sveikatos draudimo pažymėjimai.
+3. Draudžiamųjų privalomuoju sveikatos draudimu registras tvarkomas ir jo duomenys teikiami vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu), Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymu, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymu, šio registro nuostatais ir kitais teisės aktais, reglamentuojančiais registrų tvarkymą ir duomenų teikimą.
 
 
 Straipsnio pakeitimai:
-Nr. X-163, 2005-04-21, Žin., 2005, Nr. 58-2001 (2005-05-07)
-Nr. XI-448, 2009-10-22, Žin., 2009, Nr. 130-5638 (2009-10-31)
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
@@ -694,7 +686,10 @@ Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 
 
 
-2) buvo išvykę iš Lietuvos Respublikos ilgiau kaip 6 mėnesius ir nedeklaravo šio išvykimo Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka, tačiau privalomojo sveikatos draudimo įmokas administruojančiai Valstybinio socialinio draudimo fondo administravimo įstaigai pateikia kompetentingų užsienio valstybių institucijų išduotus dokumentus ir (arba) duomenis, patvirtinančius, kad išvykimo laikotarpiu jie buvo apdrausti valstybiniu socialiniu draudimu kitoje šalyje arba buvo suimti ir (arba) nuteisti užsienyje, arba atliko arešto ar terminuoto laisvės atėmimo bausmę užsienyje, o teritorinė ligonių kasa patvirtina, kad išvykimo laikotarpiu jie negavo asmens sveikatos priežiūros paslaugų, kompensuojamų Privalomojo sveikatos draudimo fondo biudžeto lėšomis. 
+2) buvo išvykę iš Lietuvos Respublikos ilgiau kaip 6 mėnesius ir nedeklaravo šio išvykimo Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka, tačiau privalomojo sveikatos draudimo įmokas administruojančiai Valstybinio socialinio draudimo fondo administravimo įstaigai pateikia kompetentingų užsienio valstybių institucijų išduotus dokumentus ir (arba) duomenis, patvirtinančius, kad išvykimo laikotarpiu jie buvo apdrausti valstybiniu socialiniu draudimu kitoje šalyje arba buvo suimti ir (arba) nuteisti užsienyje, arba atliko arešto ar terminuoto laisvės atėmimo bausmę užsienyje, o Valstybinė ligonių kasa patvirtina, kad išvykimo laikotarpiu jie negavo asmens sveikatos priežiūros paslaugų, kompensuojamų Privalomojo sveikatos draudimo fondo biudžeto lėšomis.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -858,7 +853,10 @@ Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 
 
 
-8. Naujo profilio stacionarinės asmens sveikatos priežiūros paslaugos, apmokamos Privalomojo sveikatos draudimo fondo biudžeto lėšomis, teikiamos tik gavus leidimą sveikatos apsaugos ministro nustatyta tvarka. 
+8. Neteko galios nuo 2025-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
+ 
 
 
 Straipsnio pakeitimai:
@@ -871,7 +869,10 @@ Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 91 straipsnis. Ortopedijos techninių priemonių įsigijimo išlaidų kompensavimas 
 
 
-1. Apdraustiesiems ortopedijos techninių priemonių įsigijimo išlaidos kompensuojamos ir sutartys su juridiniais asmenimis dėl ortopedijos techninių priemonių įsigijimo išlaidų apmokėjimo (toliau – sutartys) sudaromos sveikatos apsaugos ministro nustatyta tvarka. Sutartys sudaromos tarp Valstybinės ligonių kasos ir Lietuvos Respublikoje įsteigtų juridinių asmenų, užsienio valstybėje įsteigtų juridinių asmenų ar kitų organizacijų filialų, įsteigtų Lietuvos Respublikoje (toliau – suinteresuotieji asmenys). Sutartys sudaromos su visais pageidaujančiais jas sudaryti suinteresuotaisiais asmenimis. Suinteresuotieji asmenys sutartį dėl ortopedijos techninių priemonių įsigijimo išlaidų apmokėjimo einamiesiems ar kitiems metams gali sudaryti bet kuriuo metu einamaisiais metais. Informacija apie šių sutarčių sudarymo tvarką skelbiama viešai Valstybinės ligonių kasos ir teritorinių ligonių kasų interneto svetainėse. Valstybinė ligonių kasa apmoka suinteresuotųjų asmenų, sudariusių sutartis dėl ortopedijos techninių priemonių, skirtų apdraustiesiems, gamybos ir (ar) pritaikymo, išlaidas ir kompensuoja apdraustųjų, įsigijusių ortopedijos technines priemones savo lėšomis, išlaidas.
+1. Apdraustiesiems ortopedijos techninių priemonių įsigijimo išlaidos kompensuojamos ir sutartys su juridiniais asmenimis dėl ortopedijos techninių priemonių įsigijimo išlaidų apmokėjimo, (toliau – sutartys) sudaromos sveikatos apsaugos ministro nustatyta tvarka. Sutartys sudaromos tarp Valstybinės ligonių kasos ir Lietuvos Respublikoje įsteigtų juridinių asmenų, užsienio valstybėje įsteigtų juridinių asmenų ar kitų organizacijų filialų, įsteigtų Lietuvos Respublikoje (toliau – suinteresuotieji asmenys). Sutartys sudaromos su visais pageidaujančiais jas sudaryti suinteresuotaisiais asmenimis. Suinteresuotieji asmenys einamųjų ar kitų metų sutartį dėl ortopedijos techninių priemonių įsigijimo išlaidų apmokėjimo gali sudaryti bet kuriuo metu einamaisiais metais. Informacija apie šių sutarčių sudarymo tvarką skelbiama viešai Valstybinės ligonių kasos interneto svetainėje. Valstybinė ligonių kasa apmoka suinteresuotųjų asmenų, sudariusių sutartis dėl ortopedijos techninių priemonių, skirtų apdraustiesiems, gamybos ir (ar) pritaikymo išlaidas ir kompensuoja apdraustųjų, įsigijusių ortopedijos technines priemones savo lėšomis, išlaidas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
+ 
 
 
 
@@ -907,12 +908,107 @@ Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
 92 straipsnis. Asmens sveikatos priežiūros paslaugų įrašymo į Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašą ir išbraukimo iš šio sąrašo sąlygos ir tvarka
 
 
-1. Naujas asmens sveikatos priežiūros paslaugas, kurios galėtų būti apmokamos Privalomojo sveikatos draudimo fondo biudžeto lėšomis, ir šio fondo biudžeto lėšomis jau apmokamas asmens sveikatos priežiūros paslaugas, kurių teikimo sąnaudos padidėjo dėl organizacinių pakeitimų ir (ar) diegiamų naujų technologijų, vertina Asmens sveikatos priežiūros paslaugų vertinimo komitetas (toliau – Komitetas) šio įstatymo ir sveikatos apsaugos ministro nustatyta tvarka.
+1. Į Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašą (toliau šiame straipsnyje – Sąrašas) įrašytinų ar iš jo brauktinų asmens sveikatos priežiūros paslaugų, nurodytų šio straipsnio 2 dalyje, vertinimą šio Įstatymo ir sveikatos apsaugos ministro nustatyta tvarka atlieka Asmens sveikatos priežiūros paslaugų vertinimo komitetas (toliau – Komitetas).
 
 
 
 
-2. Paraiškas dėl šio straipsnio 1 dalyje nurodytų asmens sveikatos priežiūros paslaugų vertinimo Komitetui teikia Sveikatos apsaugos ministerija, Valstybinė ligonių kasa, universiteto ligoninės ir sveikatos priežiūros specialistus vienijančios asociacijos. Paraiškos Komitetui teikiamos iki kiekvienų metų kovo 1 dienos ir iki rugsėjo 1 dienos. Komitetas ne vėliau kaip atitinkamai iki kiekvienų metų gegužės 1 dienos arba iki lapkričio 1 dienos įvertina šio straipsnio 1 dalyje nurodytas asmens sveikatos priežiūros paslaugas ir jas įtraukia (arba jų neįtraukia) į Kompensuotinų Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros paslaugų sąrašą, vadovaudamasis visais šiais įtraukimo į šį sąrašą kriterijais: 
+2. Komitetas atlieka vertinimą:
+
+
+1) naujų, neįrašytų į Sąrašą asmens sveikatos priežiūros paslaugų, kurios galėtų būti apmokamos Privalomojo sveikatos draudimo fondo biudžeto lėšomis;
+
+
+
+
+2) įrašytų į Sąrašą asmens sveikatos priežiūros paslaugų, dėl kurių teikimo ir (ar) organizavimo reikalavimų ir (ar) apmokėjimo tvarkos pakeitimų didėja Privalomojo sveikatos draudimo fondo biudžeto išlaidos šioms paslaugoms;
+
+
+
+
+3) dėl įrašytų į Sąrašą asmens sveikatos priežiūros paslaugų išbraukimo iš Sąrašo;
+
+
+
+
+4) asmens sveikatos priežiūros paslaugų, būtinų siekiant paskirti ir (ar) vartoti vaistą ir (ar) naudoti medicinos pagalbos priemonę, kuriuos Farmacijos įstatymo 58 straipsnio 4 dalyje nurodyta Vaistinių preparatų ir medicinos pagalbos priemonių kompensavimo komisija yra priėmusi sprendimą siūlyti įrašyti į Ligų ir kompensuojamųjų vaistinių preparatų joms gydyti sąrašą, Kompensuojamųjų vaistinių preparatų sąrašą ar Kompensuojamųjų medicinos pagalbos priemonių sąrašą. Atlikęs šiame punkte numatytų asmens sveikatos priežiūros paslaugų teikimo ir (ar) organizavimo reikalavimų bei paslaugos teikimo metinio poveikio Privalomojo sveikatos draudimo fondo biudžetui vertinimą, Komitetas priima sprendimą siūlyti jas įrašyti į Sąrašą. 
+
+
+
+
+
+
+3. Siūlymą dėl šio straipsnio 2 dalyje nurodytų paslaugų įrašymo į Sąrašą ar išbraukimo iš jo gali pateikti:
+
+
+1) Sveikatos apsaugos ministerija;
+
+
+
+
+2) Valstybinė ligonių kasa;
+
+
+
+
+3) universiteto ligoninė;
+
+
+
+
+4) asmens sveikatos priežiūros specialistus vienijanti asociacija;
+
+
+
+
+5) asmens sveikatos priežiūros įstaigas vienijanti asociacija;
+
+
+
+
+6) tik dėl šio straipsnio 2 dalies 4 punkte nurodytų paslaugų – pareiškėjai, turintys teisę pateikti Farmacijos įstatymo 58 straipsnio 2 dalyje nurodytą paraišką.
+
+
+
+
+
+
+4. Šiame straipsnyje nustatyta tvarka Komitetas nevertina asmens sveikatos priežiūros paslaugų, kai:
+
+
+1) didinamos asmens sveikatos priežiūros paslaugų, įrašytų į Sąrašą, bazinės kainos ir nekeičiami nei sveikatos apsaugos ministro patvirtinti šių paslaugų teikimo reikalavimai, nei organizavimo reikalavimai, nei apmokėjimo tvarka (išskyrus pačios kainos nustatymą);
+
+
+
+
+2) dėl krizės ar ekstremaliosios situacijos prireikia Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokėti naujas, neįrašytas į Sąrašą asmens sveikatos priežiūros paslaugas arba reikia daugiau Privalomojo sveikatos draudimo fondo biudžeto lėšų asmens sveikatos priežiūros paslaugoms, įrašytoms į Sąrašą, apmokėti. Šio punkto nuostata taikoma krizės ar ekstremaliosios situacijos metu ir ne ilgiau kaip 6 mėnesius po ekstremaliosios situacijos atšaukimo dienos;
+
+
+
+
+3) dėl sveikatos apsaugos ministro patvirtintų asmens sveikatos priežiūros paslaugos teikimo ir (ar) organizavimo reikalavimų pakeitimų nereikia daugiau Privalomojo sveikatos draudimo fondo biudžeto lėšų tokioms paslaugoms teikti;
+
+
+
+
+4) asmens sveikatos priežiūros paslauga kompensuotina Privalomojo sveikatos draudimo fondo biudžeto lėšomis, vadovaujantis Farmacijos įstatymo 592 straipsnyje nustatyta tvarka;
+
+
+
+
+5) siūloma įdiegti naują, neįrašytą į Sąrašą asmens sveikatos priežiūros paslaugą arba atlikti įrašytos į Sąrašą asmens sveikatos priežiūros paslaugos teikimo arba organizavimo reikalavimų, kuriais tiesiogiai būtų įgyvendinama šalyje vykdoma sveikatos politika, pakeitimą ir ta konkreti paslauga yra tiesiogiai įvardyta Lietuvos Respublikos įstatyme arba Vyriausybės nutarime.
+
+
+
+
+
+
+5. Šio straipsnio 3 dalyje nurodyti subjektai Komitetui teikia paraiškas dėl šio straipsnio 2 dalyje nurodytų asmens sveikatos priežiūros paslaugų vertinimo. Paraiškos formą nustato sveikatos apsaugos ministras.
+
+
+
+
+6. Komitetas vertina paraiškas, pateiktas iki praėjusių metų gruodžio 31 d. Vertinant šio straipsnio 2 dalies 4 punkte nurodytas asmens sveikatos priežiūros paslaugas, šioje dalyje nurodyti kriterijai netaikomi. Komitetas, atlikęs paraiškų vertinimą, ne vėliau kaip iki einamųjų metų birželio 1 d. priima sprendimą siūlyti sveikatos apsaugos ministrui asmens sveikatos priežiūros paslaugą (-as) įrašyti (arba jos (jų) neįrašyti) į Sąrašą, atsižvelgdamas į asmens sveikatos priežiūros paslaugos atitiktį šios dalies 1 ir 2 punktuose išvardytiems asmens sveikatos priežiūros paslaugų įrašymo į Sąrašą kriterijams (jei asmens sveikatos priežiūros paslauga neatitinka šios dalies 1 ir 2 punktuose įvardytų kriterijų, toliau pagal šios dalies 3–8 punktuose įvardytus kriterijus nėra vertinama) ir pagal šios dalies 3–8 punktuose išvardytus prioriteto vertinimo kriterijus sudarytą į Sąrašą siūlomų įrašyti asmens sveikatos priežiūros paslaugų prioriteto eilę. Asmens sveikatos priežiūros paslaugų įrašymo į Sąrašą ir prioriteto vertinimo kriterijai:
 
 
 1) asmens sveikatos priežiūros paslaugos veiksmingumas yra pagrįstas medicinos mokslo įrodymais;
@@ -920,83 +1016,58 @@ Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
 
 
 
-2) asmens sveikatos priežiūros paslaugos poreikis – daugiau kaip vienas sveikatos sutrikimo atvejis, tenkantis 200 000 Lietuvos Respublikos gyventojų per kalendorinius metus.
+2) asmens sveikatos priežiūros paslaugos poreikis – daugiau kaip vienas sveikatos sutrikimo atvejis, tenkantis 200 000 Lietuvos Respublikos gyventojų per kalendorinius metus;
+
+
+
+
+3) paslaugai įdiegti ir (ar) plėtoti reikalinga infrastruktūra, sveikatos technologija ar organizavimo modelis buvo finansuojami įgyvendinant valstybės biudžeto, Europos Sąjungos struktūrinės ar kitos tarptautinės paramos lėšomis finansuojamą projektą ir reikia užtikrinti projekto vykdymo tęstinumą;
+
+
+
+
+4) paslaugos įdiegimas ir (ar) plėtojimas numatytas Lietuvos Respublikos įstatymo ar Vyriausybės nutarimo įgyvendinamajame teisės akte;
+
+
+
+
+5) asmens sveikatos priežiūros paslaugos poveikis ligoms ir būklėms, lemiančioms didžiausią šalies gyventojų ligotumą ir mirtingumą, ir (ar) svarbiausiems vertinamiems visos šalies sveikatos rodikliams;
+
+
+
+
+6) paslaugos teikiama sveikatos, socialinė, technologinė ir (ar) racionalaus išteklių naudojimo pridėtinė vertė;
+
+
+
+
+7) paslaugos teikimo metinis poveikis Privalomojo sveikatos draudimo fondo biudžetui;
+
+
+
+
+8) galimybė užtikrinti visuotinį paslaugos prieinamumą.
 
 
 
 
 
 
-3. Sveikatos apsaugos ministro nustatyta tvarka Komitetas ne vėliau kaip atitinkamai iki einamųjų metų birželio 1 dienos arba gruodžio 1 dienos peržiūri Kompensuotinų Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros paslaugų sąrašą, įvertina jame nurodytas asmens sveikatos priežiūros paslaugas ir išdėsto jas prioriteto tvarka, atsižvelgdamas į visus šiuos vertinimo kriterijus:
-
-
-1) asmens sveikatos priežiūros paslaugos poveikį ligoms ir būklėms, lemiančioms didžiausią šalies gyventojų ligotumą ir mirtingumą, ir (ar) svarbiausiems vertinamiems visos šalies sveikatos rodikliams;
+7. Šio straipsnio 3 dalyje nurodytų subjektų skundus dėl šio straipsnio 6 dalyje nurodyto Komiteto atlikto vertinimo sveikatos apsaugos ministro nustatyta tvarka nagrinėja sveikatos apsaugos ministro sudaryta nuolatinė Apeliacinė komisija.
 
 
 
 
-2) asmens sveikatos priežiūros paslaugos poveikį pacientų išgyvenamumui; 
+8. Sveikatos apsaugos ministras kiekvienais metais iki spalio 1 d. priima sprendimą dėl Komiteto prioriteto tvarka išdėstytų asmens sveikatos priežiūros paslaugų įrašymo (neįrašymo) į Sąrašą ar išbraukimo iš jo. Sveikatos apsaugos ministras sprendimą dėl šio straipsnio 4 dalyje nurodytų paslaugų įrašymo į Sąrašą priima atsiradus šio straipsnio 4 dalyje nurodytoms aplinkybėms. Atsižvelgęs į Komiteto sprendimą dėl šio straipsnio 2 dalies 4 punkte nurodytų paslaugų, Sveikatos apsaugos ministras priima sprendimą dėl jų įrašymo į Sąrašą.
 
 
 
 
-3) asmens sveikatos priežiūros paslaugos poveikį pacientų darbingumui ir (ar) neįgalumui;
+9. Šio straipsnio 6 dalyje nurodytų vertinimo kriterijų aprašą, asmens sveikatos priežiūros paslaugų išdėstymo pagal prioritetą tvarką ir šio straipsnio 8 dalyje nurodyto sprendimo priėmimo tvarką nustato sveikatos apsaugos ministras.
 
 
-
-
-4) asmens sveikatos priežiūros paslaugos poveikį pacientų gyvenimo kokybei;
-
-
-
-
-5) asmens sveikatos priežiūros paslaugos poveikį Privalomojo sveikatos draudimo fondo biudžeto lėšų panaudojimo efektyvumui;
-
-
-
-
-6) galimybę užtikrinti visuotinį asmens sveikatos priežiūros paslaugos prieinamumą.
-
-
-
-
-
-
-4. Komitetas, įvertinęs asmens sveikatos priežiūros paslaugas ir išdėstęs jas prioriteto tvarka, priima sprendimą siūlyti sveikatos apsaugos ministrui asmens sveikatos priežiūros paslaugą įrašyti (arba jos neįrašyti) į Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašą. Prieš priimant šioje dalyje nurodytą sprendimą turi būti sudarytos galimybės Komiteto posėdyje dalyvauti ir pateikti savo paaiškinimus šio straipsnio 2 dalyje nurodytiems paraiškų teikėjams. Ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos Komiteto sprendimas skelbiamas viešai, o pareiškėjas informuojamas raštu, aiškiai, suprantamai ir išsamiai nurodant objektyviais ir patikrinamais kriterijais pagrįstas Komiteto priimto sprendimo priežastis.
-
-
-
-
-5. Jeigu pareiškėjas nesutinka su Komiteto priimtu sprendimu, jis per 10 darbo dienų nuo sprendimo gavimo dienos turi teisę pateikti skundą sveikatos apsaugos ministro nustatyta tvarka. Skundus dėl Komiteto priimtų sprendimų nagrinėja sveikatos apsaugos ministro sudaryta nuolatinė Apeliacinė komisija. Apeliacinė komisija, sveikatos apsaugos ministro nustatyta tvarka išnagrinėjusi pareiškėjo skundą, ne vėliau kaip per 20 darbo dienų nuo skundo gavimo dienos gali priimti šiuos sprendimus:
-
-
-1) patenkinti skundą ir siūlyti sveikatos apsaugos ministrui pavesti Komitetui pakartotinai priimti sprendimą, įvertinus Apeliacinės komisijos nurodytus trūkumus;
-
-
-
-
-2) atmesti skundą.
-
-
-
-
-
-
-6. Sveikatos apsaugos ministras, atsižvelgęs į Valstybinės ligonių kasos išvadą dėl galimybių Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokėti šio straipsnio 1 dalyje nurodytas asmens sveikatos priežiūros paslaugas bei Privalomojo sveikatos draudimo tarybos nuomonę, ne vėliau kaip atitinkamai iki einamųjų metų spalio 1 dienos arba iki kitų metų balandžio 1 dienos keičia Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašą pagal Komiteto pateiktus siūlymus.
-
-
-
-
-7. Asmens sveikatos priežiūros paslaugos, neįtrauktos į Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašą, lieka Kompensuotinų Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros paslaugų sąraše ir kitais metais vėl yra vertinamos bei dėstomos prioriteto tvarka šiame straipsnyje nustatyta tvarka. 
-
-
-
-
-8. Komitetas šio straipsnio 2 dalyje nurodytų subjektų siūlymu ir nustatyta tvarka įvertina, ar Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąraše nurodytos asmens sveikatos priežiūros paslaugos atitinka visus šio straipsnio 2 dalyje nustatytus įtraukimo į Kompensuotinų Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros paslaugų sąrašą kriterijus. Asmens sveikatos priežiūros paslaugos, neatitinkančios visų šio straipsnio 2 dalyje nustatytų įtraukimo kriterijų, Komiteto siūlymu išbraukiamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašo šio straipsnio 6 dalyje nustatyta tvarka. 
-
-
-Papildyta straipsniu:
-Nr. XIII-1764, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21109
+Straipsnio pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
@@ -1137,7 +1208,10 @@ Nr. XIV-1554, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24641
 
 
 
-2) už asmenų iki 18 metų, kurie teisės aktų nustatyta tvarka pripažinti neįgaliaisiais, gydymą.
+2) už asmenų, kuriems nustatytas neįgalumo lygis, gydymą.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
+ 
 
 
 
@@ -1170,11 +1244,12 @@ Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 
 
 
-2. Iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamos tarpvalstybinės sveikatos priežiūros, atitinkančios Lietuvos Respublikos sveikatos sistemos įstatymo 49 straipsnio 2 dalyje nustatytas sąlygas ir apimančios šio Įstatymo 9 straipsnyje nurodytą sveikatos priežiūrą, išlaidos. Šios išlaidos kompensuojamos pagal sveikatos apsaugos ministro nustatytas kompensuojamųjų vaistų, medicinos pagalbos priemonių (tarp jų ortopedijos techninių priemonių), specialiosios medicininės paskirties maisto produktų, medicinos priemonių nuomos ir sveikatos priežiūros paslaugų bazines kainas, neviršijant faktinių apdraustojo išlaidų. Apdraustojo išlaidas tarpvalstybinei sveikatos priežiūrai kompensuoja Valstybinė ligonių kasa ir teritorinės ligonių kasos, jeigu apdraustasis arba jo atstovas, siekiantis gauti tarpvalstybinės sveikatos priežiūros išlaidų kompensaciją, sveikatos apsaugos ministro nustatyta tvarka kreipiasi į teritorinę ligonių kasą ne vėliau kaip per vienus metus nuo asmens sveikatos priežiūros paslaugų suteikimo ir (arba) vaistų, ir (arba) medicinos pagalbos priemonių, ir (arba) medicinos priemonių išdavimo. 
+2. Iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamos tarpvalstybinės sveikatos priežiūros, atitinkančios Lietuvos Respublikos sveikatos sistemos įstatymo 49 straipsnio 2 dalyje nustatytas sąlygas ir apimančios šio Įstatymo 9 straipsnyje nurodytą sveikatos priežiūrą, išlaidos. Šios išlaidos kompensuojamos pagal sveikatos apsaugos ministro nustatytas kompensuojamųjų vaistų, medicinos pagalbos priemonių (tarp jų ortopedijos techninių priemonių), specialiosios medicininės paskirties maisto produktų, medicinos priemonių nuomos ir sveikatos priežiūros paslaugų bazines kainas, neviršijant faktinių apdraustojo išlaidų. Apdraustojo išlaidas tarpvalstybinei sveikatos priežiūrai kompensuoja Valstybinė ligonių kasa, jeigu apdraustasis arba jo atstovas, siekiantis gauti tarpvalstybinės sveikatos priežiūros išlaidų kompensaciją, sveikatos apsaugos ministro nustatyta tvarka kreipiasi į Valstybinę ligonių kasą ne vėliau kaip per vienus metus nuo asmens sveikatos priežiūros paslaugų suteikimo ir (arba) vaistų, ir (arba) medicinos pagalbos priemonių, ir (arba) medicinos priemonių išdavimo.
 Straipsnio dalies pakeitimai:
 Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
 Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
 Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
@@ -1295,9 +1370,10 @@ Nr. XIV-2327, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25314
 
 
 
-2. Privalomojo sveikatos draudimo fondo biudžeto projektą rengia Valstybinė ligonių kasa. Privalomojo sveikatos draudimo fondo biudžeto projektą ir Privalomojo sveikatos draudimo fondo biudžeto ateinančių dvejų metų prognozuojamus rodiklius teikia Vyriausybei Sveikatos apsaugos ministerija kartu su Privalomojo sveikatos draudimo tarybos išvada. Vyriausybė apsvarsto atitinkamų metų Privalomojo sveikatos draudimo fondo biudžeto projektą ir Privalomojo sveikatos draudimo fondo biudžeto ateinančių dvejų metų prognozuojamus rodiklius ir ne vėliau kaip likus 75 kalendorinėms dienoms iki biudžetinių metų pabaigos teikia Seimui svarstyti kartu su tam tikrų metų biudžeto patvirtinimo įstatymo projektu. Privalomojo sveikatos draudimo fondo biudžetas tvirtinamas Lietuvos Respublikos įstatymu.
+2. Privalomojo sveikatos draudimo fondo biudžeto projektą pagal Sveikatos apsaugos ministerijos strateginio planavimo dokumentuose nustatytus sveikatos politikos prioritetus, kurie su Sveikatos apsaugos ministerija aptariami ir suderinami šio straipsnio 4 dalyje nurodytose taisyklėse nustatyta tvarka, rengia Valstybinė ligonių kasa. Privalomojo sveikatos draudimo fondo biudžeto projektą ir Privalomojo sveikatos draudimo fondo biudžeto ateinančių dvejų metų prognozuojamus rodiklius teikia Vyriausybei Sveikatos apsaugos ministerija kartu su Privalomojo sveikatos draudimo tarybos išvada. Vyriausybė apsvarsto atitinkamų metų Privalomojo sveikatos draudimo fondo biudžeto projektą ir Privalomojo sveikatos draudimo fondo biudžeto ateinančių dvejų metų prognozuojamus rodiklius ir ne vėliau kaip likus 75 kalendorinėms dienoms iki biudžetinių metų pabaigos teikia Seimui svarstyti kartu su Lietuvos Respublikos tam tikrų metų valstybės biudžeto patvirtinimo įstatymo projektu. Privalomojo sveikatos draudimo fondo biudžetas tvirtinamas Lietuvos Respublikos įstatymu.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2327, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25314
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
@@ -1471,10 +1547,11 @@ biudžetą
 
 
 
-2. Šio straipsnio 1 dalyje nustatytos įmokos dydis vienam apdraustajam, draudžiamam valstybės lėšomis, 2018 metais sudaro 41 procentą,  2019 metais – 44 procentus, 2020 metais – 47 procentus Lietuvos statistikos departamento paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) vidurkio, o nuo 2021 metų - 6,98  procento užpraeitų metų 12 minimaliųjų mėnesinių algų dydžio. 
+2. Šio straipsnio 1 dalyje nustatytos įmokos dydis vienam apdraustajam, draudžiamam valstybės lėšomis, 2018 metais sudaro 41 procentą, 2019 metais – 44 procentus, 2020 metais – 47 procentus Valstybinės duomenų agentūros paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) vidurkio, o nuo 2021 metų – 6,98 procento užpraeitų metų 12 minimaliųjų mėnesinių algų dydžio.
 Straipsnio dalies pakeitimai:
 Nr. XII-2187, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20891
 Nr. XIII-1341, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10979
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
@@ -1600,7 +1677,10 @@ Nr. XIII-1724, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20978
 18 straipsnis. Privalomojo sveikatos draudimo įmokų administravimo ir mokėjimo tvarka
 
 
-1. Šio Įstatymo 17 straipsnyje nurodytas privalomojo sveikatos draudimo įmokas administruoja, o šio Įstatymo 17 straipsnio 9 dalyje nurodytu atveju – jas išskaito Valstybinio socialinio draudimo fondo administravimo įstaigos Valstybinio socialinio draudimo įstatymo nustatyta tvarka. Surinktos (išskaitytos) įmokos ir su jomis susijusios šio Įstatymo 19 straipsnio 1 dalyje nurodytos sumos per tris dienas nuo jų surinkimo (išskaitymo) dienos pervedamos į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą. Valstybinio socialinio draudimo fondo administravimo įstaigos turi teikti Valstybinei ligonių kasai ir teritorinėms ligonių kasoms reikiamą informaciją apie atskirų juridinių ir fizinių asmenų sumokėtas šio Įstatymo 17 straipsnyje nurodytas privalomojo sveikatos draudimo įmokas. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos atsiskaitymus su Privalomojo sveikatos draudimo fondo biudžetu gali vykdyti šio Įstatymo 17 straipsnyje nurodytų įmokų ir Privalomojo sveikatos draudimo fondo biudžeto lėšomis finansuojamų sveikatos priežiūros įstaigų socialinio draudimo įmokų tarpusavio įskaitymais. Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktorius nustato privalomojo sveikatos draudimo įmokų deklaravimo atvejus ir tvarką.
+1. Šio Įstatymo 17 straipsnyje nurodytas privalomojo sveikatos draudimo įmokas administruoja, o šio Įstatymo 17 straipsnio 9 dalyje nurodytu atveju jas išskaito Valstybinio socialinio draudimo fondo administravimo įstaigos Valstybinio socialinio draudimo įstatymo nustatyta tvarka. Surinktos (išskaitytos) įmokos ir su jomis susijusios šio Įstatymo 19 straipsnio 1 dalyje nurodytos sumos per tris dienas nuo jų surinkimo (išskaitymo) dienos pervedamos į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą. Valstybinio socialinio draudimo fondo administravimo įstaigos turi teikti Valstybinei ligonių kasai reikiamą informaciją apie atskirų juridinių ir fizinių asmenų sumokėtas šio Įstatymo 17 straipsnyje nurodytas privalomojo sveikatos draudimo įmokas. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos atsiskaitymus su Privalomojo sveikatos draudimo fondo biudžetu gali vykdyti šio Įstatymo 17 straipsnyje nurodytų įmokų ir Privalomojo sveikatos draudimo fondo biudžeto lėšomis finansuojamų asmens sveikatos priežiūros įstaigų socialinio draudimo įmokų tarpusavio įskaitymais. Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktorius nustato privalomojo sveikatos draudimo įmokų deklaravimo atvejus ir tvarką.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
+ 
 
 
 
@@ -1686,14 +1766,15 @@ Nr. XII-1984, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16906
 
 
 
-20 straipsnis. Institucijų, vykdančių privalomąjį sveikatos draudimą, santykiai su finansų įstaigomis
+20 straipsnis. Valstybinės ligonių kasos santykiai su finansų įstaigomis
 
 
-Finansų įstaigą Lietuvos Respublikoje Valstybinė ligonių kasa ir teritorinės ligonių kasos privalo pasirinkti konkurso būdu. Konkurso sąlygas nustato Sveikatos apsaugos ministerija. 
+Finansų įstaigą Lietuvos Respublikoje Valstybinė ligonių kasa privalo pasirinkti konkurso būdu. Konkurso sąlygas nustato Sveikatos apsaugos ministras.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-657, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24259
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
@@ -1842,7 +1923,10 @@ Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
 
 
 
-4. Valstybinė ligonių kasa ir teritorinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto ir jo rezervo lėšas laiko, kaip nustatyta Lietuvos Respublikos valstybės iždo įstatyme, įstaigos tvarkomoje sąskaitoje valstybės ižde ir (arba) konkurso būdu pasirinktoje finansų įstaigoje arba investuoja šio straipsnio 5 dalyje nustatyta tvarka.
+4. Valstybinė ligonių kasa Privalomojo sveikatos draudimo fondo biudžeto ir jo rezervo lėšas laiko, kaip nustatyta Lietuvos Respublikos valstybės iždo įstatyme, įstaigos tvarkomoje sąskaitoje valstybės ižde ir (arba) konkurso būdu pasirinktoje finansų įstaigoje arba investuoja šio straipsnio 5 dalyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
+ 
 
 
 
@@ -1893,70 +1977,127 @@ Nr. XIV-1554, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24641
 
 
 
-26 straipsnis. Teritorinių ligonių kasų ir sveikatos priežiūros įstaigų bei teritorinių 
-ligonių kasų ir vaistinių sutartys 
+26 straipsnis. Valstybinės ligonių kasos sutartys su asmens sveikatos priežiūros įstaigomis dėl asmens sveikatos priežiūros paslaugų išlaidų apmokėjimo ir sutartys su vaistinėmis dėl kompensuojamųjų vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų apmokėjimo
 
 
-1. Apdraustųjų asmens sveikatos priežiūros išlaidos apmokamos vadovaujantis teritorinės ligonių kasos ir sveikatos priežiūros įstaigos sutartimis, išlaidos už vaistinėse išduotus kompensuojamuosius vaistus ir medicinos pagalbos priemones – vadovaujantis teritorinės ligonių kasos ir vaistinių sutartimis. Teritorinės ligonių kasos sudaro sutartis su valstybės, savivaldybių ir kitomis licenciją sveikatos priežiūros ir farmacinei veiklai turinčiomis arba akredituotomis šiai veiklai bei pageidaujančiomis tokias sutartis sudaryti asmens sveikatos priežiūros įstaigomis ir vaistinėmis. Su šia sutartimi turi teisę susipažinti visi apdraustieji. 
+1. Apdraustiesiems suteiktų asmens sveikatos priežiūros paslaugų išlaidos apmokamos vadovaujantis Valstybinės ligonių kasos ir asmens sveikatos priežiūros įstaigų sutartimis, o vaistinių išduoti kompensuojamieji vaistai ir medicinos pagalbos priemonės – vadovaujantis Valstybinės ligonių kasos ir vaistinių sutartimis. 
 
 
 
 
-2. Sutartys tarp teritorinių ligonių kasų ir asmens sveikatos priežiūros įstaigų bei tarp teritorinių ligonių kasų ir vaistinių sudaromos vadovaujantis Lietuvos Respublikos civiliniu kodeksu, šiuo ir kitais įstatymais. Sutarčių sudarymo tvarką nustato sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+2. Sveikatos apsaugos ministras tvirtina standartines šio straipsnio 1 dalyje nurodytų sutarčių sąlygas (išskyrus sutarčių dėl asmens sveikatos priežiūros paslaugų išlaidų apmokėjimo priedus, kuriuose nustatoma asmens sveikatos priežiūros įstaigos teikiamų paslaugų nomenklatūra ir Privalomojo sveikatos draudimo fondo biudžeto lėšų suma asmens sveikatos priežiūros paslaugų išlaidoms apmokėti). Ne vėliau kaip kitą darbo dieną po patvirtinimo dienos standartinės sutarčių sąlygos paskelbiamos Sveikatos apsaugos ministerijos interneto svetainėje. Standartinėse šio straipsnio 1 dalyje nurodytų sutarčių sąlygose nurodomos esminės sutarties sąlygos: sutarties šalių teisės ir pareigos, vaistinėse išduodamų kompensuojamųjų vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo reikalavimai, kainodaros taisyklės, atsiskaitymų tvarka, sutarties šalių atsakomybė, ginčų sprendimo tvarka, sutarties nutraukimo tvarka, sutarties galiojimas, papildymas ar sustabdymas. 
+
+
+
+
+3. Vaistinės, pageidaujančios sudaryti šio straipsnio 1 dalyje nurodytas sutartis, privalo turėti vaistinės veiklos licenciją.
+
+
+
+
+4. Sutartys su asmens sveikatos priežiūros įstaigomis dėl šio Įstatymo 9 straipsnio nuostatas atitinkančių asmens sveikatos priežiūros paslaugų sudaromos pagal Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 11 straipsnio 5 dalyje nurodytu pagrindu nustatytą asmens sveikatos priežiūros paslaugų poreikį ir, atsižvelgiant į šį poreikį, Sveikatos sistemos įstatymo 12 straipsnio 5 ir 9 dalyse nurodytu pagrindu nustatytą sveikatos priežiūros mastą. Asmens sveikatos priežiūros įstaigos, pageidaujančios sudaryti šias sutartis, privalo:
+
+
+1) turėti galiojančią asmens sveikatos priežiūros veiklos licenciją;
+
+
+
+
+2) atitikti Sveikatos priežiūros įstaigų įstatymo 11 straipsnio 1 ir 4 dalyse nurodytu pagrindu nustatytus įstaigų išdėstymo reikalavimus (jeigu asmens sveikatos priežiūros įstaigoms tokie reikalavimai nustatyti), išskyrus šio straipsnio 5 dalyje nurodytą atvejį; 
+
+
+
+
+3) teikti asmens sveikatos priežiūros paslaugas, dėl kurių pageidaujama sudaryti sutartis ir kurios atitinka šių paslaugų teikimo kokybės reikalavimus. Atitikties kokybės reikalavimams vertinimo metodiką nustato sveikatos apsaugos ministras; 
+
+
+
+
+4) užtikrinti Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamų asmens sveikatos priežiūros paslaugų teikimą pacientams bazinėmis kainomis (išskyrus Sveikatos sistemos įstatymo numatytas išimtis). 
+
+
+
+
+
+
+5. Sutartys su asmens sveikatos priežiūros įstaigomis, su kuriomis Valstybinė ligonių kasa nėra sudariusi sutarčių dėl tam tikrų asmens sveikatos priežiūros paslaugų teikimo ir apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis, sudaromos tais atvejais, kai asmens sveikatos priežiūros įstaigos, su kuriomis Valstybinė ligonių kasa yra sudariusi sutartis dėl šių paslaugų, nepatenkina Sveikatos priežiūros įstaigų įstatymo 11 straipsnio 5 dalyje nurodytu pagrindu nustatyto šių paslaugų poreikio ir, atsižvelgiant į šį poreikį, neužtikrina Sveikatos sistemos įstatymo 12 straipsnio 5 ir 9 dalyse nurodytu pagrindu nustatyto sveikatos priežiūros masto. Sutartys sudaromos vadovaujantis šiais kriterijais:
+
+
+1) asmens sveikatos priežiūros įstaigos teikiamų paslaugų kompleksiškumu;
+
+
+
+
+2) kokia dalimi sveikatos apsaugos ministro nustatyti paslaugos teikimo reikalavimai užtikrinami tuo pačiu asmens sveikatos priežiūros paslaugos teikimo adresu; 
+
+
+
+
+3) per praėjusius kalendorinius metus suteiktų asmens sveikatos priežiūros paslaugų, dėl kurių sudaroma sutartis, skaičiumi;
+
+
+
+
+4) per praėjusius 3 metus vykdant ūkio subjektų priežiūrą šioje asmens sveikatos priežiūros įstaigoje nustatyti privalomąjį sveikatos draudimą ir sveikatos priežiūrą reglamentuojančių teisės aktų pažeidimai. 
+
+
+
+
+
+
+6. Šio straipsnio 1 dalyje nurodytų sutarčių sudarymo tvarkos aprašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. 
+
+
+
+
+7. Šio straipsnio 5 dalyje nurodytus kriterijus, taikomus atitinkamoms asmens sveikatos priežiūros paslaugoms, dėl kurių sudaroma sutartis, detalizuoja, kriterijų reikšmes ir vertinimo pagal šiuos kriterijus tvarką nustato Vyriausybė.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
 
 
-3. Šiame straipsnyje nurodytų sutarčių tipines formas, kuriose nurodytos esminės sutarties sąlygos: sutarties šalių teisės ir pareigos, teisės aktuose nustatyti asmens sveikatos priežiūros paslaugų teikimo reikalavimai ar reikalavimai dėl išlaidų už vaistinėse išduodamus kompensuojamuosius vaistus ir medicinos pagalbos priemones, kainodaros taisyklės, atsiskaitymų tvarka, sutarties šalių atsakomybė, ginčų sprendimo tvarka, sutarties nutraukimo tvarka, sutarties galiojimas, papildymas ar sustabdymas, tvirtina Valstybinės ligonių kasos direktorius. 
-Papildyta straipsnio dalimi:
-Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
- 
+261 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo 
+
+
+1. Sutartys dėl medicinos priemonių, įrašytų į šio Įstatymo 122 straipsnio 2 dalyje nurodytą sąrašą, nuomos išlaidų apmokėjimo sudaromos tarp Valstybinės ligonių kasos  ir to pageidaujančių ūkio subjektų, atitinkančių šio straipsnio 2 dalyje nurodytas sąlygas.
 
 
 
 
-
-
-261 straipsnis. Valstybinės ligonių kasos ar jos įgaliotų teritorinių ligonių kasų sutartys su ūkio subjektais dėl medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo
-
-
-1. Sutartys dėl medicinos priemonių, įrašytų į šio Įstatymo 122 straipsnio 2 dalyje nurodytą sąrašą, nuomos išlaidų apmokėjimo pasirašomos tarp Valstybinės ligonių kasos ar jos įgaliotų teritorinių ligonių kasų ir to pageidaujančių ūkio subjektų, atitinkančių šio straipsnio 2 dalyje nurodytas sąlygas.
+2. Valstybinė ligonių kasa sudaro šio straipsnio 1 dalyje nurodytas sutartis su ūkio subjektu, jeigu šis užtikrina įrašytos į šio Įstatymo 122 straipsnio 2 dalyje nurodytą sąrašą medicinos priemonės tiekimą į Lietuvos Respublikos rinką, garantinį aptarnavimą, nuolatinę priežiūrą ir keičiamųjų dalių tiekimą. 
 
 
 
 
-2. Valstybinė ligonių kasa ar jos įgaliotos teritorinės ligonių kasos sudaro šio straipsnio 1 dalyje nurodytas sutartis su ūkio subjektu, jeigu šis užtikrina įrašytos į šio Įstatymo 122 straipsnio 2 dalyje nurodytą sąrašą medicinos priemonės tiekimą į Lietuvos Respublikos rinką, garantinį aptarnavimą, nuolatinę priežiūrą ir keičiamųjų dalių tiekimą. 
+3. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo sudaromos vadovaujantis šiuo Įstatymu, sveikatos apsaugos ministro nustatyta tvarka ir laikantis skaidrumo, nediskriminavimo bei vienodo vertinimo principų.
 
 
 
 
-3. Valstybinės ligonių kasos ar jos įgaliotų teritorinių ligonių kasų sutartys su ūkio subjektais dėl medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo sudaromos vadovaujantis šiuo Įstatymu, sveikatos apsaugos ministro nustatyta tvarka ir laikantis skaidrumo, nediskriminavimo bei vienodo vertinimo principų.
-
-
-
-
-4. Šio straipsnio 1 dalyje nurodytų sutarčių sudarymo tvarkos aprašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones, o šių sutarčių tipinę formą, kurioje nurodytos esminės sutarties sąlygos: sutarties šalių teisės ir pareigos, teisės aktuose nustatyti medicinos priemonių nuomos reikalavimai, kainodaros taisyklės, atsiskaitymų tvarka, sutarties šalių atsakomybė, ginčų sprendimo tvarka, sutarties nutraukimo tvarka, sutarties galiojimas, papildymas ar sustabdymas, tvirtina Valstybinės ligonių kasos direktorius. 
+4. Šio straipsnio 1 dalyje nurodytų sutarčių sudarymo tvarkos aprašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Sveikatos apsaugos ministras tvirtina standartines šio straipsnio 1 dalyje nurodytų sutarčių sąlygas (išskyrus sutarčių priedus, kuriuose nustatomas ūkio subjekto tiekiamų į rinką medicinos priemonių sąrašas). Ne vėliau kaip kitą darbo dieną po patvirtinimo dienos šios sąlygos paskelbiamos Sveikatos apsaugos ministerijos interneto svetainėje. Standartinėse šio straipsnio 1 dalyje nurodytų sutarčių sąlygose nurodomos esminės sutarties sąlygos: sutarties šalių teisės ir pareigos, kainodaros taisyklės, atsiskaitymų tvarka, sutarties šalių atsakomybė, ginčų sprendimo tvarka, sutarties nutraukimo tvarka, sutarties galiojimas, papildymas ar sustabdymas.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
 
 
-262 straipsnis. Teritorinių ligonių kasų sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo
+262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo 
 
 
-1. Sutartis dėl medicinos priemonių, įrašytų į šio Įstatymo 10 straipsnio 1 dalyje nurodytą Kompensuojamųjų medicinos pagalbos priemonių sąrašą ir pagal sveikatos apsaugos ministro patvirtintuose medicinos priemonių saugos techniniuose reglamentuose nurodytas taisykles klasifikuojamų kaip gaminamos I klasės medicinos priemonės arba in vitro diagnostikos medicinos priemonės, skirtos savikontrolei (toliau – I klasės medicinos priemonės ir in vitro diagnostikos priemonės, skirtos savikontrolei), apmokėjimo pasirašo teritorinės ligonių kasos su to pageidaujančiais ūkio subjektais, atitinkančiais šio straipsnio 2 dalyje nurodytas sąlygas. Ši nuostata netaikoma vaistinėms, su kuriomis sutartys sudaromos šio Įstatymo 26 straipsnyje nustatyta tvarka.
+1. Sutartis dėl medicinos priemonių, įrašytų į šio Įstatymo 10 straipsnio 1 dalyje nurodytą Kompensuojamųjų medicinos pagalbos priemonių sąrašą ir pagal sveikatos apsaugos ministro patvirtintuose medicinos priemonių saugos techniniuose reglamentuose nurodytas taisykles klasifikuojamų kaip gaminamos I klasės medicinos priemonės arba in vitro diagnostikos medicinos priemonės, skirtos savikontrolei, (toliau – I klasės medicinos priemonės ir in vitro diagnostikos priemonės, skirtos savikontrolei) apmokėjimo sudaro Valstybinė ligonių kasa su to pageidaujančiais ūkio subjektais, atitinkančiais šio straipsnio 2 dalyje nurodytas sąlygas. Ši nuostata netaikoma vaistinėms, su kuriomis sutartys sudaromos šio Įstatymo 26 straipsnyje nustatyta tvarka.
 
 
 
 
-2. Teritorinės ligonių kasos sudaro šio straipsnio 1 dalyje nurodytas sutartis su ūkio subjektais, jeigu šie užtikrina I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, tiekimą į Lietuvos Respublikos rinką ir visas šias priemones išduoda (parduoda) sveikatos apsaugos ministro nustatyta tvarka.
+2. Valstybinė ligonių kasa sudaro šio straipsnio 1 dalyje nurodytas sutartis su ūkio subjektais, jeigu šie užtikrina I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, tiekimą į Lietuvos Respublikos rinką ir visas šias priemones išduoda (parduoda) sveikatos apsaugos ministro nustatyta tvarka.
 
 
 
@@ -1966,51 +2107,45 @@ Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
 
 
 
-4. Šio straipsnio 1 dalyje nurodytų sutarčių sudarymo tvarkos aprašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Šių sutarčių tipinę formą, kurioje nurodomos esminės sutarties sąlygos (sutarties šalių teisės ir pareigos, atsiskaitymo tvarka, sutarties šalių atsakomybė, ginčų sprendimo tvarka, sutarties nutraukimo tvarka, sutarties galiojimas, papildymo ar sustabdymo tvarka), tvirtina Valstybinės ligonių kasos direktorius. 
+4. Šio straipsnio 1 dalyje nurodytų sutarčių sudarymo tvarkos aprašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Sveikatos apsaugos ministras tvirtina standartines šio straipsnio 1 dalyje nurodytų sutarčių sąlygas (išskyrus sutarčių priedus, kuriuose nustatomas išduodamų I klasės medicinos priemonių ir (arba) in vitro diagnostikos priemonių, skirtų savikontrolei, ir veiklos adresų sąrašas). Ne vėliau kaip kitą darbo dieną po patvirtinimo dienos šios sąlygos paskelbiamos Sveikatos apsaugos ministerijos interneto svetainėje. Standartinėse šio straipsnio 1 dalyje nurodytų sutarčių sąlygose nurodomos esminės sutarties sąlygos: sutarties šalių teisės ir pareigos, kainodaros taisyklės, atsiskaitymų tvarka, sutarties šalių atsakomybė, ginčų sprendimo tvarka, sutarties nutraukimo tvarka, sutarties galiojimas, papildymas ar sustabdymas.
 
 
-Papildyta straipsniu:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
+Straipsnio pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
 
 
-27 straipsnis. Teritorinių ligonių kasų atsiskaitymo su sveikatos priežiūros įstaigomis, vaistinėmis ir ūkio subjektais tvarka ir terminai
-Pakeistas straipsnio pavadinimas:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
+27 straipsnis. Atsiskaitymo su asmens sveikatos priežiūros įstaigomis, vaistinėmis ir šio Įstatymo 261 ir 262 straipsniuose nurodytais ūkio subjektais tvarka ir terminai
+
+
+1. Valstybinė ligonių kasa sutartyse numatytomis sąlygomis, neviršydama skirtų Privalomojo sveikatos draudimo fondo biudžeto asignavimų, privalo apmokėti asmens sveikatos priežiūros įstaigų ir vaistinių, su kuriomis yra sudariusi sutartis, pateiktas sąskaitas.
+
+
+
+
+2. Sąskaitas už suteiktas asmens sveikatos priežiūros paslaugas ir išduotus kompensuojamuosius vaistus bei medicinos pagalbos priemones kartą per mėnesį asmens sveikatos priežiūros įstaigos ir vaistinės pateikia Valstybinei ligonių kasai. Valstybinė ligonių kasa ne vėliau kaip per 30 dienų nuo sąskaitos gavimo dienos perveda pinigus sudariusioms su ja sutartis asmens sveikatos priežiūros įstaigoms ir vaistinėms, atsiskaitydama pagal pateiktas sąskaitas. Jeigu Valstybinė ligonių kasa laiku neatsiskaito, mokami sutartyse su asmens sveikatos priežiūros įstaigomis, vaistinėmis ir šio Įstatymo 261 ir 262 straipsniuose nurodytais ūkio subjektais nustatyto dydžio delspinigiai.
+
+
+
+
+3. Jeigu faktinės Privalomojo sveikatos draudimo fondo biudžeto išlaidos yra didesnės, negu yra patvirtintos Privalomojo sveikatos draudimo fondo biudžeto išlaidų plane, sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones, šio Įstatymo ir kitų teisės aktų nustatyta tvarka priima sprendimus nustatyti tokį išmokų ir kompensacijų dydį, kuris atitinka patvirtintą išlaidų planą.
+
+
+
+
+4. Jeigu faktinės Privalomojo sveikatos draudimo fondo biudžeto pajamos yra mažesnės negu patvirtintame Privalomojo sveikatos draudimo fondo biudžete, Sveikatos apsaugos ministerija, įvertinusi Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones, teikia siūlymus Vyriausybei patikslinti Privalomojo sveikatos draudimo fondo biudžetą. Tikslinant Privalomojo sveikatos draudimo fondo biudžetą, numatomos reikalingos lėšos susidariusiems delspinigiams padengti teisės aktų nustatyta tvarka.
+
+
+
+
+5. Šio straipsnio nuostatos mutatis mutandis taikomos Valstybinei ligonių kasai atsiskaitant su šio Įstatymo 261 ir 262 straipsniuose nurodytais ūkio subjektais už medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomą ir už I klasės medicinos priemones bei in vitro diagnostikos priemones, skirtas savikontrolei.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
-
-
-1. Teritorinės ligonių kasos sutartyse numatytomis sąlygomis, neviršydamos patvirtinto Privalomojo sveikatos draudimo fondo biudžeto skirtų asignavimų, privalo apmokėti asmens sveikatos priežiūros įstaigų ir vaistinių, su kuriomis jos yra sudariusios sutartis, pateiktas sąskaitas. 
-
-
-
-
-2. Sąskaitas už suteiktas asmens sveikatos priežiūros paslaugas ir išduotus kompensuojamuosius vaistus bei medicinos pagalbos priemones kartą per mėnesį sveikatos priežiūros įstaigos ir vaistinės pateikia tai teritorinei ligonių kasai, su kuria yra sudariusios sutartį. Teritorinė ligonių kasa ne vėliau kaip per 30 dienų nuo sąskaitos gavimo dienos perveda pinigus sudariusioms su ja sutartis sveikatos priežiūros įstaigoms ir vaistinėms atsiskaitydama pagal pateiktas sąskaitas. Jei teritorinės ligonių kasos laiku neatsiskaito, turi būti mokami delspinigiai įstatymų ir kitų teisės aktų nustatyta tvarka.
-
-
-
-
-3. Jeigu faktinės Privalomojo sveikatos draudimo fondo biudžeto išlaidos yra didesnės, negu yra patvirtintos Privalomojo sveikatos draudimo fondo biudžeto išlaidų plane, Sveikatos apsaugos ministerija, įvertinusi Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones, šio Įstatymo ir kitų teisės aktų nustatyta tvarka priima sprendimus nustatyti tokį išmokų ir kompensacijų dydį, kuris atitinka patvirtintą išlaidų planą.
-
-
-
-
-4. Jeigu faktinės Privalomojo sveikatos draudimo fondo biudžeto pajamos yra mažesnės negu patvirtintame Privalomojo sveikatos draudimo fondo biudžete, Sveikatos apsaugos ministerija, įvertinusi Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones, teikia siūlymus Vyriausybei patikslinti Privalomojo sveikatos draudimo fondo biudžetą. Tikslinant Privalomojo sveikatos draudimo fondo biudžetą, numatomos reikalingos lėšos susidariusiems delspinigiams padengti teisės aktų nustatyta tvarka. 
-
-
-
-
-5. Šio straipsnio nuostatos mutatis mutandis taikomos Valstybinei ligonių kasai ar jos įgaliotoms teritorinėms ligonių kasoms atsiskaitant su ūkio subjektais už medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomą ir teritorinėms ligonių kasoms atsiskaitant su ūkio subjektais už I klasės medicinos priemones ir in vitro diagnostikos priemones, skirtas savikontrolei.
-Papildyta straipsnio dalimi:
-Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
-Straipsnio dalies pakeitimai:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
-Nr. XIII-2949, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11072
- 
-
-
 
 
 
@@ -2030,7 +2165,7 @@ INSTITUCIJOS, VYKDANČIOS PRIVALOMĄJĮ SVEIKATOS DRAUDIMĄ
 
 
 
-2. Privalomojo sveikatos draudimo taryba vykdo šias funkcijas:
+2. Privalomojo sveikatos draudimo taryba atlieka šias funkcijas:
 
 
 1) svarsto perspektyvinius ir einamuosius privalomojo sveikatos draudimo uždavinius;
@@ -2038,48 +2173,37 @@ INSTITUCIJOS, VYKDANČIOS PRIVALOMĄJĮ SVEIKATOS DRAUDIMĄ
 
 
 
-2) teikia siūlymus Sveikatos apsaugos ministerijai dėl asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, sąrašo;
+2) teikia siūlymus sveikatos apsaugos ministrui dėl asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, sąrašo;
 
 
 
 
-3) teikia išvadą dėl Privalomojo sveikatos draudimo fondo biudžeto projekto, Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinio; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3315, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21253
+3) teikia išvadą dėl Privalomojo sveikatos draudimo fondo biudžeto projekto, Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinio;
+
+
+
+
+4) teikia siūlymus sveikatos apsaugos ministrui dėl privalomąjį sveikatos draudimą reglamentuojančių teisės aktų;
+
+
+
+
+5) teikia siūlymus sveikatos apsaugos ministrui dėl Valstybinės ligonių kasos ir asmens sveikatos priežiūros įstaigų sutarčių, Valstybinės ligonių kasos ir vaistinių ar Valstybinės ligonių kasos ir šio Įstatymo 261 ir 262 straipsniuose nurodytų ūkio subjektų sutarčių sudarymo tvarkos;
+
+
+
+
+6) nagrinėja Valstybinės ligonių kasos finansinę ir ekonominę veiklą;
+
+
+
+
+7) nagrinėja kitus privalomojo sveikatos draudimo klausimus. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
-
-
-
-
-4) teikia siūlymus dėl privalomąjį sveikatos draudimą reglamentuojančių teisės aktų;
-
-
-
-
-5) neteko galios nuo 2023-01-01;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1554, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24641
- 
-
-
-
-
-6) teikia siūlymus dėl teritorinių ligonių kasų ir asmens sveikatos priežiūros įstaigų sutarčių, teritorinių ligonių kasų ir vaistinių ar šio Įstatymo 262 straipsnyje nurodytų ūkio subjektų sutarčių, taip pat Valstybinės ligonių kasos ar jos įgaliotų teritorinių ligonių kasų ir šio Įstatymo 261 straipsnyje nurodytų ūkio subjektų sutarčių sudarymo tvarkos; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
- 
-
-
-
-
-7) nagrinėja Valstybinės ligonių kasos finansinę ir ekonominę veiklą;
-
-
-
-
-8) nagrinėja kitus privalomojo sveikatos draudimo klausimus.
-
-
 
 
 
@@ -2098,7 +2222,10 @@ Nr. XIII-2152, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09404
 2) penki draudėjų (darbdavių) atstovai, iš kurių:
 
 
-a) du darbdavių organizacijų atstovai, kurie deleguojami bendru Lietuvos pramonininkų konfederacijos, Lietuvos verslo darbdavių konfederacijos, Lietuvos verslo konfederacijos, Lietuvos Respublikos žemės ūkio rūmų, Lietuvos prekybos, pramonės ir amatų rūmų asociacijos sutarimu. Jeigu šių organizacijų bendro sutarimo nėra, kiekviena jų sveikatos apsaugos ministrui teikia po vieną kandidatą į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkami du darbdavių organizacijų atstovai;
+a) du darbdavių organizacijų atstovai, kurie deleguojami bendru Lietuvos pramonininkų konfederacijos, Lietuvos darbdavių konfederacijos, Lietuvos verslo konfederacijos, Lietuvos Respublikos žemės ūkio rūmų, asociacijos „Investors’ Forum“, Lietuvos prekybos, pramonės ir amatų rūmų asociacijos sutarimu. Jeigu šių organizacijų bendro sutarimo nėra, kiekviena jų sveikatos apsaugos ministrui teikia po vieną kandidatą į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkami du darbdavių organizacijų atstovai; 
+Papunkčio pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
+ 
 
 
 
@@ -2108,7 +2235,10 @@ b) vienas Lietuvos savivaldybių asociacijos deleguotas atstovas;
 
 
 
-c) vienas asmens sveikatos priežiūros įstaigų organizacijų atstovas, kuris deleguojamas bendru Lietuvos gydytojų vadovų sąjungos, Lietuvos ligoninių asociacijos, Lietuvos rajonų ligoninių asociacijos sutarimu. Jeigu šių organizacijų bendro sutarimo nėra, kiekviena jų sveikatos apsaugos ministrui teikia po vieną kandidatą į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkamas vienas asmens sveikatos priežiūros įstaigų organizacijų atstovas;
+c) vienas asmens sveikatos priežiūros įstaigų organizacijų atstovas, kuris deleguojamas bendru Lietuvos gydytojų vadovų sąjungos, Lietuvos ligoninių asociacijos, Lietuvos rajonų ligoninių asociacijos ir Lietuvos privačių sveikatos priežiūros įstaigų asociacijos sutarimu. Jeigu šių organizacijų bendro sutarimo nėra, kiekviena jų sveikatos apsaugos ministrui teikia po vieną kandidatą į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkamas vienas asmens sveikatos priežiūros įstaigų organizacijų atstovas; 
+Papunkčio pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
+ 
 
 
 
@@ -2133,7 +2263,10 @@ b) vienas sveiką gyvenseną propaguojančių organizacijų atstovas, atrenkamas
 
 
 
-c) vienas pensininkų ir neįgaliųjų interesus ginančių organizacijų atstovas, deleguojamas bendru Pensininkų reikalų tarybos ir Neįgaliųjų reikalų tarybos sutarimu. Jeigu šių organizacijų bendro sutarimo nėra, kiekviena jų sveikatos apsaugos ministrui teikia po vieną kandidatą į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkamas vienas pensininkų ir neįgaliųjų interesus ginančių organizacijų atstovas;
+c) vienas vyresnio amžiaus žmonių ir asmenų su negalia interesus ginančių organizacijų atstovas, deleguojamas bendru Vyresnio amžiaus žmonių reikalų tarybos ir Asmens su negalia gerovės tarybos sutarimu. Jeigu šių organizacijų bendro sutarimo nėra, kiekviena jų sveikatos apsaugos ministrui teikia po vieną kandidatą į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkamas vienas vyresnio amžiaus žmonių ir asmenų su negalia interesus ginančių organizacijų atstovas;
+Papunkčio pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
+ 
 
 
 
@@ -2284,120 +2417,94 @@ Nr. XIV-657, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24259
 
 
 
-30 straipsnis. Valstybinės ligonių kasos funkcijos 
+30 straipsnis. Valstybinės ligonių kasos funkcijos
 
 
 Valstybinė ligonių kasa atlieka šias funkcijas: 
 
 
-1) rengia Privalomojo sveikatos draudimo fondo biudžeto projektą, Privalomojo sveikatos draudimo fondo ataskaitų rinkinius, vykdo Privalomojo sveikatos draudimo fondo biudžetą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3315, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21253
- 
+1) šio įstatymo nustatyta tvarka rengia Privalomojo sveikatos draudimo fondo biudžeto projektą, Privalomojo sveikatos draudimo fondo ataskaitų rinkinius, vykdo Privalomojo sveikatos draudimo fondo biudžetą;
 
 
 
 
-2) prižiūri teritorinių ligonių kasų veiklą; 
+2) sudaro iš Privalomojo sveikatos draudimo fondo biudžeto lėšų rezervą ir šio Įstatymo nustatyta tvarka jį naudoja; 
 
 
 
 
-3) sudaro iš Privalomojo sveikatos draudimo fondo biudžeto lėšų rezervą ir šio Įstatymo bei kitų teisės aktų nustatyta tvarka jį naudoja; 
+3) šio Įstatymo nustatyta tvarka naudoja laikinai laisvas Privalomojo sveikatos draudimo fondo biudžeto lėšas;
 
 
 
 
-4) šio Įstatymo nustatyta tvarka naudoja laikinai laisvas Privalomojo sveikatos draudimo fondo biudžeto lėšas; 
+4) šio Įstatymo nustatytais pagrindais ir sąlygomis kompensuoja apdraustųjų sveikatos priežiūros išlaidas;
 
 
 
 
-5) atlieka teritorinių ligonių kasų auditą arba sudaro sutartis su audito įmonėmis dėl teritorinių ligonių kasų audito; 
+5) sudaro sutartis su asmens sveikatos priežiūros įstaigomis, vaistinėmis, šio Įstatymo 261 ir 262 straipsniuose nurodytais ūkio subjektais, šiose sutartyse nustatyta tvarka apmoka apdraustiesiems suteiktas asmens sveikatos priežiūros paslaugas, išduotus vaistus, medicinos pagalbos priemones, I klasės medicinos priemones ir in vitro diagnostikos priemones, skirtas savikontrolei, ir medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidas;
 
 
 
 
-6) Valstybės registrų įstatymo, Pacientų teisių ir žalos sveikatai atlyginimo įstatymo, Draudžiamųjų privalomuoju sveikatos draudimu registro nuostatų ir kitų teisės aktų nustatyta tvarka tvarko Draudžiamųjų privalomuoju sveikatos draudimu registrą;
+6) registruoja privalomuoju sveikatos draudimu draudžiamus asmenis Draudžiamųjų privalomuoju sveikatos draudimu registro nuostatuose nustatyta tvarka;
 
 
 
 
-7) šio Įstatymo nustatytais pagrindais ir sąlygomis kompensuoja apdraustųjų sveikatos priežiūrą; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
-Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
- 
+7) sudaro su vaistinio preparato registruotojais (jų atstovais) arba juridiniais asmenimis, turinčiais didmeninio platinimo licenciją, gydymo prieinamumo gerinimo ir finansinės rizikos pasidalijimo sutartis, kuriose numatoma, kad jie į Privalomojo sveikatos draudimo fondą grąžina šiose sutartyse nurodyto dydžio lėšas, gautas už kompensuojamuosius vaistinius preparatus;
 
 
 
 
-8) atlieka šio Įstatymo 15 straipsnio 5 dalyje nurodytas valstybės deleguotas funkcijas; 
-Papildyta straipsnio punktu:
-Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
-Straipsnio punkto pakeitimai:
-Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
-Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
- 
+8) vykdo asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, su kuriais sudarė sutartis dėl išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis, priežiūrą, vertindama asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, atitiktį teisės aktų reikalavimams ir jų apmokėjimo teisėtumą, taip pat vaistų, medicinos pagalbos priemonių, I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, bei medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, išrašymo ir išdavimo teisėtumą bei su tuo susijusią asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų veiklą; 
 
 
 
 
-9) sudaro su vaistinio preparato registruotojais (jų atstovais) arba juridiniais asmenimis, turinčiais didmeninio platinimo licenciją, medicinos pagalbos priemonės arba specialiosios medicininės paskirties maisto produkto gamintojais ar jų atstovais, arba medicinos pagalbos priemonės platintojais, arba specialiosios medicininės paskirties maisto produkto tiekėjais gydymo prieinamumo gerinimo ir finansinės rizikos pasidalijimo sutartis, kuriose numatoma, kad jie į Privalomojo sveikatos draudimo fondą grąžina šiose sutartyse nurodyto dydžio lėšas, gautas už kompensuojamuosius vaistinius preparatus, medicinos pagalbos priemones arba specialiosios medicininės paskirties maisto produktus;
-Papildyta straipsnio punktu:
-Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
-Straipsnio punkto pakeitimai:
-Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
-Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
- 
+9) sveikatos apsaugos ministro nustatyta tvarka atlieka finansinę ir ekonominę Privalomojo sveikatos draudimo fondo biudžeto lėšų naudojimo analizę; 
 
 
 
 
-10) tvirtina šio Įstatymo 26, 261 ir 262 straipsniuose nurodytų sutarčių tipines formas; 
-Papildyta straipsnio punktu:
-Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
-Straipsnio punkto pakeitimai:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
- 
+10) vertina Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų prieinamumą, kiekį, struktūrą ir jų pokyčius; 
 
 
 
 
-11) sudaro šio Įstatymo 261 straipsnyje nurodytas sutartis su ūkio subjektais dėl medicinos priemonių, įrašytų į šio Įstatymo 122 straipsnio 2 dalyje nurodytą sąrašą, nuomos išlaidų apmokėjimo, jeigu šios funkcijos nepaveda atlikti teritorinėms ligonių kasoms;
-Papildyta straipsnio punktu:
-Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
-Straipsnio punkto pakeitimai:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
-Nr. XIII-2949, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11072
- 
+11) įgyvendina Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas privalomojo sveikatos draudimo srityje;
 
 
 
 
-12) įstatymų nustatyta tvarka išieško Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą iš ūkio subjektų, su kuriais yra sudarytos sutartys dėl medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo, jeigu šios funkcijos nepaveda teritorinėms ligonių kasoms; 
-Papildyta straipsnio punktu:
-Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
-Straipsnio punkto pakeitimai:
-Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
- 
+12) šio Įstatymo nustatyta tvarka kompensuoja tarpvalstybinės sveikatos priežiūros išlaidas; 
 
 
 
 
-13) kitas šio Įstatymo, Valstybinės ligonių kasos nuostatų ir kitų teisės aktų nustatytas funkcijas.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
-Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
- 
+13) atlieka šio Įstatymo 15 straipsnio 5 dalyje nurodytas valstybės deleguotas funkcijas;
+
+
+
+
+14) Valstybinės ligonių kasos interneto svetainėje skelbia informaciją apie savo veiklą, informuoja apie Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamą sveikatos priežiūrą, jos teikimo sąlygas ir tvarką;
+
+
+
+
+15) konsultuoja apdraustuosius ir draudžiamuosius privalomojo sveikatos draudimo klausimais;
+
+
+
+
+16) atlieka kitas šiame Įstatyme, Valstybinės ligonių kasos nuostatuose ir kituose teisės aktuose nustatytas funkcijas.
 
 
 
 
 Straipsnio pakeitimai:
-Nr. X-1220, 2007-06-26, Žin., 2007, Nr. 77-3052 (2007-07-12)
-Nr. X-1828, 2008-11-14, Žin., 2008, Nr. 137-5377 (2008-11-29)
-Nr. XI-448, 2009-10-22, Žin., 2009, Nr. 130-5638 (2009-10-31)
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
@@ -2406,359 +2513,169 @@ Nr. XI-448, 2009-10-22, Žin., 2009, Nr. 130-5638 (2009-10-31)
 31 straipsnis. Valstybinės ligonių kasos teisės 
 
 
-Valstybinė ligonių kasa turi teisę: 
+1. Valstybinė ligonių kasa turi teisę: 
 
 
-1) įstatymų ir kitų teisės aktų nustatyta tvarka naudoti jai perduotas Privalomojo sveikatos draudimo fondo biudžeto lėšas, kitas teisėtai įgytas lėšas ir turtą; 
-
-
-
-
-2) įstatymų ir kitų teisės aktų nustatyta tvarka sudaryti sutartis; 
+1) įstatymų ir kitų teisės aktų, reglamentuojančių Privalomojo sveikatos draudimo fondo biudžeto sudarymą, vykdymą bei atskaitomybę, nustatyta tvarka naudoti jai perduotas Privalomojo sveikatos draudimo fondo biudžeto lėšas, kitas teisėtai įgytas lėšas ir turtą; 
 
 
 
 
-3) įsigyti Vyriausybės ir Lietuvos banko vertybinių popierių ir jais disponuoti; 
+2) įstatymų ir kitų teisės aktų, reglamentuojančių sutarčių sudarymą, nustatyta tvarka sudaryti sutartis; 
 
 
 
 
-4) Privalomojo sveikatos draudimo tarybos siūlymu įgyvendinti priemones papildomoms pajamoms gauti; 
+3) tikrinti, ar teisingai išrašomos asmens sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo 261 ir 262 straipsniuose nurodytų ūkio subjektų sąskaitos, ir su tuo susijusius finansinės apskaitos bei kitus dokumentus;
 
 
 
 
-5) nustatyti Valstybinės ligonių kasos ir teritorinių ligonių kasų sandarą; 
+4) reikalauti grąžinti neteisėtai gautas Privalomojo sveikatos draudimo fondo biudžeto lėšas ir (ar) išieškoti Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą, inter alia, žalą, atsiradusią tais atvejais, kai už sveikatos priežiūros paslaugas, suteiktas apdraustajam dėl fizinių ar juridinių asmenų jo sveikatai padarytos žalos, sumokama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų. Privalomojo sveikatos draudimo fondo biudžetui padaryta žala pripažįstama mažareikšme ir neišieškoma, jeigu jos išieškojimo išlaidos yra didesnės už išieškomą sumą. Žalos Privalomojo sveikatos draudimo fondo biudžetui pripažinimo mažareikšme žala tvarką ir mažareikšmės žalos dydį nustato sveikatos apsaugos ministras;
 
 
 
 
-6) įstatymų ir kitų teisės aktų nustatyta tvarka nemokamai gauti iš ministerijų, kitų Vyriausybės įstaigų, savivaldybių vykdomųjų institucijų, teritorinių ligonių kasų, Valstybinio socialinio draudimo fondo administravimo įstaigų, sveikatos priežiūros įstaigų, kitų įmonių, įstaigų, organizacijų informaciją, būtiną Valstybinės ligonių kasos funkcijoms atlikti. Tokios informacijos sąrašas nustatomas Valstybinės ligonių kasos nuostatuose;
+5) įstatymų, reglamentuojančių vertybinių popierių valdymą ir disponavimą jais, nustatyta tvarka valdyti vertybinius popierius ir jais disponuoti; 
 
 
 
 
-7) tvarkyti draudžiamųjų privalomuoju sveikatos draudimu asmens duomenis, įskaitant ypatingus asmens duomenis, susijusius su prevencinės medicinos pagalbos, medicinos pagalbos, medicininės reabilitacijos, slaugos, socialinių paslaugų ir patarnavimų, priskirtų asmens sveikatos priežiūrai, bei asmens sveikatos ekspertizės paslaugų teikimu ir šių paslaugų išlaidų apmokėjimu;
+6) tvarkyti draudžiamųjų privalomuoju sveikatos draudimu asmens duomenis, įskaitant specialiųjų kategorijų asmens duomenis, privalomojo sveikatos draudimo vykdymo tikslais;
 
 
 
 
-8) kontroliuoti iš Privalomojo sveikatos draudimo fondo biudžeto apmokamų asmens sveikatos priežiūros paslaugų kiekį, kokybę ir atitiktį joms taikomiems reikalavimams, vaistų, medicinos pagalbos priemonių, medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, išrašymo ir išdavimo teisėtumą, taip pat su šių paslaugų teikimu, vaistų, medicinos pagalbos priemonių, medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, išrašymu ir išdavimu susijusią sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo 261 ir 262 straipsniuose nurodytų ūkio subjektų veiklą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
- 
+7) įstatymų ir kitų teisės aktų, reglamentuojančių informacijos teikimą, nustatyta tvarka nemokamai gauti iš ministerijų, Vyriausybės įstaigų, savivaldybių institucijų, Valstybinio socialinio draudimo fondo administravimo įstaigų, asmens sveikatos priežiūros įstaigų, kitų įmonių, įstaigų bei organizacijų informaciją, būtiną Valstybinės ligonių kasos funkcijoms atlikti. Tokios informacijos sąrašas nustatomas Valstybinės ligonių kasos nuostatuose;
 
 
 
 
-9) tikrinti, ar teisingai išrašomos sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo 261 ir 262 straipsniuose nurodytų ūkio subjektų sąskaitos ir su tuo susijusius buhalterinius bei kitus dokumentus; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
- 
+8) Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka teikti ieškinius; 
 
 
 
 
-10) atlikti finansinę bei ekonominę Privalomojo sveikatos draudimo fondo biudžeto lėšų naudojimo ir sveikatos priežiūros paslaugų struktūros, prieinamumo bei kokybės kitimo tendencijų analizę;
+9) teikti siūlymus Sveikatos apsaugos ministerijai, Privalomojo sveikatos draudimo tarybai ir kitoms institucijoms dėl privalomojo sveikatos draudimo organizavimo, šį draudimą reglamentuojančių teisės aktų tobulinimo.
 
 
 
 
-11) Valstybinė ligonių kasa gali turėti ir kitų teisių, kurias nustato įstatymai, Valstybinės ligonių kasos nuostatai ir kiti teisės aktai.
 
 
+2. Valstybinė ligonių kasa turi ir kitų teisių, kurios nustatytos įstatymuose, Valstybinės ligonių kasos nuostatuose ir kituose teisės aktuose.
 
 
 Straipsnio pakeitimai:
-Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
-Nr. XI-448, 2009-10-22, Žin., 2009, Nr. 130-5638 (2009-10-31)
-Nr. XI-714, 2010-03-30, Žin., 2010, Nr. 41-1939 (2010-04-10)
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
 
 
-32 straipsnis. Teritorinės ligonių kasos 
+311 straipsnis. Valstybinės ligonių kasos direktoriaus sprendimai, priimami vykdant asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, sudariusių sutartis su Valstybine ligonių kasa, veiklos priežiūrą
 
 
-1. Teritorines ligonių kasas steigia ir jų nuostatus tvirtina Valstybinė ligonių kasa. Teritorinių ligonių kasų skaičių bei jų teritorinės veiklos zonas nustato Valstybinė ligonių kasa, suderinusi su Sveikatos apsaugos ministerija. Steigiama ne daugiau kaip 5 teritorinės ligonių kasos. 
+1. Valstybinės ligonių kasos direktorius, vykdydamas asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, sudariusių šio Įstatymo 26, 261 ir 262 straipsniuose nurodytas sutartis su Valstybine ligonių kasa, veiklos priežiūrą, priima šiuos sprendimus dėl poveikio priemonių taikymo:
+
+
+1) sustabdyti sutarties vykdymą arba nutraukti sutartį su asmens sveikatos priežiūros įstaiga dėl tų asmens sveikatos priežiūros paslaugų, dėl kurių sustabdytas ar panaikintas licencijos asmens sveikatos priežiūros veiklai galiojimas, sustabdyti sutarties vykdymą arba nutraukti sutartį su vaistine, jeigu sustabdomas ar panaikinamas vaistinės veiklos licencijos galiojimas (sutarties vykdymas stabdomas iki atitinkamos licencijos galiojimo sustabdymo panaikinimo dienos);
 
 
 
 
-2. Teritorinė ligonių kasa yra juridinis asmuo, veikiantis pagal šį Įstatymą, Biudžetinių įstaigų įstatymą ir šio straipsnio 1 dalyje nurodytus nuostatus, išlaikomas iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, turintis antspaudą su Lietuvos valstybės herbu ir sąskaitas valstybės ižde ir (arba), kaip nustatyta Valstybės iždo įstatyme, finansų įstaigose. Biudžetinių įstaigų įstatymas teritorinėms ligonių kasoms taikomas tiek, kiek jų veiklos nereglamentuoja šis Įstatymas. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-657, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24259
+2) pateikti rašytinį nurodymą asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui pašalinti įstatymų ir (arba) kitų teisės aktų pažeidimus;
+
+
+
+
+3) įpareigoti grąžinti asmens sveikatos priežiūros įstaigos, vaistinės ar kito ūkio subjekto neteisėtai gautas Privalomojo sveikatos draudimo fondo biudžeto lėšas;
+
+
+
+
+4) pateikti rašytinį nurodymą asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui grąžinti apdraustajam neteisėtai paimtą iš jo mokestį už asmens sveikatos priežiūros paslaugas, vaistus, medicinos pagalbos priemones ir medicinos priemones, jeigu asmens sveikatos priežiūros paslaugas ir (arba) vaistus, medicinos pagalbos priemones ir (arba) medicinos priemones jis turėjo gauti nemokamai;
+
+
+
+
+5) 30 kalendorinių dienų sustabdyti sutarties arba jos dalies vykdymą dėl tų asmens sveikatos priežiūros paslaugų, vaistų, medicinos pagalbos priemonių ar medicinos priemonių nuomos, dėl kurių priimtas šios dalies 2–4 punktuose nurodytas sprendimas nebuvo įvykdytas per 30 kalendorinių dienų nuo jo priėmimo dienos, o neįvykdžius šio sprendimo iki sutarties arba jos dalies galiojimo sustabdymo termino pabaigos, nutraukti sutartį arba jos dalį.
+
+
+
+
+
+
+2. Nustačius įstatymų ir (arba) kitų teisės aktų reikalavimų pažeidimo faktą, kuris vertintinas kaip mažareikšmis teisės aktų reikalavimų pažeidimas, Valstybinės ligonių kasos direktoriaus šio straipsnio 1 dalies 5 punkte nurodytas sprendimas nutraukti sutartį arba jos dalį neįvykdžius šios dalies 2–4 punktuose nurodyto sprendimo iki sutarties arba jos dalies galiojimo sustabdymo termino pabaigos negali būti priimamas. Jei mažareikšmį teisės aktų reikalavimų pažeidimą galima ištaisyti nedelsiant, dalyvaujant asmens sveikatos priežiūros įstaigos, vaistinės ar kito ūkio subjekto veiklos priežiūrą atliekančiam Valstybinės ligonių kasos valstybės tarnautojui, tokio pažeidimo tyrimas nutraukiamas, įstatymų numatytos kitos poveikio priemonės neskiriamos, o ūkio subjektui pareiškiama žodinė pastaba. Tais atvejais, kai mažareikšmio teisės aktų reikalavimų pažeidimo nedelsiant, dalyvaujant ūkio subjektų veiklos priežiūrą atliekančiam Valstybinės ligonių kasos valstybės tarnautojui, ištaisyti negalima, ūkio subjektui pateikiamas rašytinis nurodymas pašalinti mažareikšmį teisės aktų reikalavimų pažeidimą ir nustatomas protingas pažeidimo pašalinimo terminas, kuris gali būti pratęstas vieną kartą. Įstatymų ir (arba) kitų teisės aktų reikalavimų pažeidimų, kurie laikomi mažareikšmiais, kriterijų aprašą, taip pat šių pažeidimų pašalinimo terminus tvirtina sveikatos apsaugos ministras ar jo įgaliota institucija.
+
+
+
+
+3. Valstybinės ligonių kasos direktoriaus šio straipsnio 1 dalies 2–5 punktuose nurodyti sprendimai turi būti priimti ne vėliau kaip per 3 mėnesius nuo asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, sudariusių šio Įstatymo 26, 261 ir 262 nurodytas sutartis su Valstybine ligonių kasa, veiklos patikrinimo atlikimo dienos. Valstybinės ligonių kasos direktoriaus šio straipsnio 1 dalies 1 punkte nurodytas sprendimas priimamas ne vėliau kaip per 5 darbo dienas nuo informacijos apie licencijos galiojimo sustabdymą ar panaikinimą gavimo dienos.
+
+
+
+
+4. Valstybinės ligonių kasos direktorius, prieš priimdamas šio straipsnio 1 dalies 2–5 punktuose nurodytus sprendimus, nustato tikrintai asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui 14 dienų terminą paaiškinimams pateikti.
+
+
+
+
+5. Asmens sveikatos priežiūros įstaigos, vaistinės ar kito ūkio subjekto įgaliotų asmenų paaiškinimų nepateikimas ar neatvykimas į svarstymą, apie kurį asmens sveikatos priežiūros įstaiga, vaistinė ar kitas ūkio subjektas buvo tinkamai informuoti, netrukdo priimti šio straipsnio 1 dalyje nurodytų sprendimų.
+
+
+
+
+6. Valstybinės ligonių kasos direktoriaus priimti šio straipsnio 1 dalyje nurodyti sprendimai ne vėliau kaip per 3 darbo dienas nuo jų priėmimo dienos pateikiami asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui.
+
+
+
+
+7. Valstybinės ligonių kasos direktoriaus šio straipsnio 1 dalyje nurodyti sprendimai gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Apskundimas nesustabdo šių sprendimų vykdymo.
+
+
+Papildyta straipsniu:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
 
 
-3. Teritorinės ligonių kasos direktorių Valstybės tarnybos įstatymo nustatyta tvarka skiria ir atleidžia iš pareigų Valstybinės ligonių kasos direktorius. 
-
-
-
-
-4. Už savo veiklą teritorinės ligonių kasos yra atskaitingos Valstybinei ligonių kasai.
+32 straipsnis. Neteko galios nuo 2025-07-01
+Straipsnio naikinimas:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
 
 
-
-
-33 straipsnis. Teritorinių ligonių kasų funkcijos 
-
-
-Teritorinės ligonių kasos atlieka šias funkcijas: 
-
-
-1) sudaro sutartis su sveikatos priežiūros įstaigomis, vaistinėmis ir šio Įstatymo 262  straipsnyje nurodytais ūkio subjektais, Valstybinei ligonių kasai įgaliojus – ir su šio Įstatymo 261 straipsnyje nurodytais ūkio subjektais, šiose sutartyse nustatytu laiku ir tvarka apmoka jiems už draudžiamiesiems suteiktas asmens sveikatos priežiūros paslaugas, išduotus vaistus, medicinos pagalbos priemones, I klasės medicinos priemones ir in vitro diagnostikos priemones, skirtas savikontrolei, medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidas; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
+33 straipsnis. Neteko galios nuo 2025-07-01
+Straipsnio naikinimas:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
 
 
-2) šio Įstatymo 10, 11, 12 straipsniuose nustatyta tvarka kompensuoja draudžiamiesiems vaistų ir medicinos pagalbos priemonių įsigijimo, medicininės reabilitacijos ir sanatorinio gydymo bei galūnių, sąnarių ir organų protezų įsigijimo ir protezavimo išlaidas; 
-
-
-
-
-3) Valstybės registrų įstatymo, Pacientų teisių ir žalos sveikatai atlyginimo įstatymo, Draudžiamųjų privalomuoju sveikatos draudimu registro nuostatų ir kitų teisės aktų nustatyta tvarka tvarko Draudžiamųjų privalomuoju sveikatos draudimu registrą;
-
-
-
-
-4) finansuoja savivaldybių sveikatos programas;
-
-
-
-
-5) analizuoja ir įvertina duomenis apie apskrities savivaldybių gyventojų sveikatos būklę ir gyventojų demografinės struktūros kitimo tendencijas; 
-
-
-
-
-6) kontroliuoja savo veiklos zonoje iš Privalomojo sveikatos draudimo fondo biudžeto apmokamų asmens sveikatos priežiūros paslaugų kiekį, kokybę ir atitiktį joms taikomiems reikalavimams, vaistų, medicinos pagalbos priemonių, I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, Valstybinei ligonių kasai įgaliojus – ir medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, išrašymo ir išdavimo teisėtumą, taip pat su šių paslaugų teikimu, vaistų, medicinos pagalbos priemonių, I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, Valstybinei ligonių kasai įgaliojus – ir su medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, išrašymu ir išdavimu susijusią sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo 261 ir 262 straipsniuose nurodytų ūkio subjektų veiklą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
+34 straipsnis. Neteko galios nuo 2025-07-01
+Straipsnio naikinimas:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
 
 
-7) tikrina, ar teisingai išrašomos sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo 262 straipsnyje nurodytų ūkio subjektų, Valstybinei ligonių kasai įgaliojus – ir šio Įstatymo 261 straipsnyje nurodytų ūkio subjektų sąskaitos ir su tuo susijusius buhalterinius bei kitus dokumentus; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
+35 straipsnis. Neteko galios nuo 2025-07-01
+Straipsnio naikinimas:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
 
 
-8) Sveikatos apsaugos ministerijos nustatyta tvarka ir sąlygomis kontroliuoja draudžiamiesiems teikiamų asmens sveikatos priežiūros paslaugų prieinamumą ir tinkamumą; 
-
-
-
-
-9) vadovaudamosi Civiliniu kodeksu ir kitais įstatymais, reikalauja iš sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo 262 straipsnyje nurodytų ūkio subjektų, Valstybinei ligonių kasai įgaliojus – ir šio Įstatymo 261 straipsnyje nurodytų ūkio subjektų atlyginti Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą. Šios lėšos grąžinamos ir įtraukiamos į teritorinės ligonių kasos, kuri apmokėjo už neteisėtai suteiktas asmens sveikatos priežiūros paslaugas ar išduotus vaistus, medicinos pagalbos priemones, I klasės medicinos priemones ir in vitro diagnostikos priemones, skirtas savikontrolei, medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidas, biudžetą kaip papildomos lėšos ir yra skiriamos asmens sveikatos priežiūros paslaugoms, vaistams, medicinos pagalbos priemonėms, I klasės medicinos priemonėms ir in vitro diagnostikos priemonėms, skirtoms savikontrolei, Valstybinei ligonių kasai įgaliojus – ir medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidoms apmokėti; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
- 
-
-
-
-
-10) savo veiklos zonoje atlieka finansinę bei ekonominę Privalomojo sveikatos draudimo fondo biudžeto lėšų naudojimo ir sveikatos priežiūros paslaugų struktūros, prieinamumo bei kokybės kitimo tendencijų analizę;
-
-
-
-
-11) skelbia informaciją apie savo veiklą, praneša draudžiamiesiems apie teikiamas asmens sveikatos priežiūros paslaugas, jų teikimo tvarką ir sąlygas; 
-
-
-
-
-12) vykdo kitas įstatymų, teritorinių ligonių kasų nuostatų ir kitų teisės aktų nustatytas funkcijas. 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. XI-448, 2009-10-22, Žin., 2009, Nr. 130-5638 (2009-10-31)
- 
-
-
-
-
-34 straipsnis. Teritorinių ligonių kasų teisės 
-
-
-Teritorinės ligonių kasos turi teisę: 
-
-
-1) įstatymų ir kitų teisės aktų nustatyta tvarka naudoti joms perduotas Privalomojo sveikatos draudimo fondo biudžeto lėšas, kitas teisėtai įgytas lėšas ir turtą; 
-
-
-
-
-2) įstatymų ir kitų teisės aktų nustatyta tvarka sudaryti sutartis. Sudaryti sutartis dėl teritorinės ligonių kasos turto naudojimo teritorinės ligonių kasos gali tik gavusios steigėjo leidimą; 
-
-
-
-
-3) Privalomojo sveikatos draudimo tarybos siūlymu įgyvendinti priemones papildomoms pajamoms gauti; 
-
-
-
-
-4) teikti pasiūlymus Valstybinei ligonių kasai dėl teritorinės ligonių kasos sandaros;
-
-
-
-
-5) įstatymų ir kitų teisės aktų nustatyta tvarka nemokamai gauti iš ministerijų, kitų Vyriausybės įstaigų, savivaldybių vykdomųjų institucijų, Valstybinio socialinio draudimo fondo administravimo įstaigų, sveikatos priežiūros įstaigų, kitų įmonių, įstaigų, organizacijų informaciją, būtiną teritorinės ligonių kasos funkcijoms atlikti. Šios informacijos sąrašas nustatomas teritorinės ligonių kasos nuostatuose;
-
-
-
-
-6) tvarkyti draudžiamųjų privalomuoju sveikatos draudimu asmens duomenis, įskaitant ypatingus asmens duomenis, susijusius su prevencinės medicinos pagalbos, medicinos pagalbos, medicininės reabilitacijos, slaugos, socialinių paslaugų ir patarnavimų, priskirtų asmens sveikatos priežiūrai, bei asmens sveikatos ekspertizės paslaugų teikimu ir šių paslaugų išlaidų apmokėjimu;
-
-
-
-
-7) nustačius faktus, kad asmens sveikatos priežiūros paslaugos neatitinka teisės aktų, reikalauti, kad sveikatos priežiūros įstaigų administracija patikrintų asmens sveikatos priežiūros specialisto kvalifikaciją; 
-
-
-
-
-8) siūlyti Valstybinei akreditavimo sveikatos priežiūros veiklai tarnybai prie Sveikatos apsaugos ministerijos panaikinti sveikatos priežiūros įstaigos, jos struktūrinio padalinio ar asmens sveikatos priežiūros specialisto licenciją asmens sveikatos priežiūros veiklai; 
-
-
-
-
-9) teikti pasiūlymus Privalomojo sveikatos draudimo tarybai, Valstybinei ligonių kasai ir kitoms institucijoms dėl privalomojo sveikatos draudimo organizavimo; 
-
-
-
-
-10) teikti ieškinius asmenims dėl jiems neteisėtai suteiktų asmens sveikatos priežiūros paslaugų išlaidų išieškojimo; 
-
-
-
-
-11) analizuoti ir vertinti joms priskirtose teritorijose esančių įmonių, įstaigų, organizacijų komercinės, ūkinės ar kitokios veiklos poveikį sveikatai, teikti siūlymus šiais klausimais teritorinės ligonių kasos stebėtojų tarybai, organizuoti ir apmokėti draudžiamųjų atrankinius sveikatos būklės stebėjimus; 
-
-
-
-
-12) teritorinės ligonių kasos gali turėti ir kitų teisių, nustatytų įstatymų, teritorinių ligonių kasų nuostatų ir kitų teisės aktų. 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
-Nr. XI-448, 2009-10-22, Žin., 2009, Nr. 130-5638 (2009-10-31)
-Nr. XI-714, 2010-03-30, Žin., 2010, Nr. 41-1939 (2010-04-10)
- 
-
-
-
-
-35 straipsnis. Teritorinės ligonių kasos stebėtojų taryba 
-
-
-1. Teritorinėje ligonių kasoje 4 metams sudaroma stebėtojų taryba. Stebėtojų taryba – kolegialus patariamasis organas. Į teritorinės ligonių kasos stebėtojų tarybą įeina Sveikatos apsaugos ministerijos atstovas, Valstybinės ligonių kasos atstovas ir po vieną į aptarnaujamą teritoriją įeinančių savivaldybių tarybų deleguotą atstovą – tarybos narį. Teritorinės ligonių kasos stebėtojų tarybos darbui vadovauja teritorinės ligonių kasos stebėtojų tarybos pirmininkas, renkamas iš teritorinės ligonių kasos stebėtojų tarybos narių paprasta balsų dauguma dalyvaujant ne mažiau kaip 2/3 teritorinės ligonių kasos stebėtojų tarybos narių. Teritorinės ligonių kasos stebėtojų tarybos pirmininku negali būti Sveikatos apsaugos ministerijos ir Valstybinės ligonių kasos atstovas.
-
-
-
-
-2. Teritorinės ligonių kasos stebėtojų taryba: 
-
-
-1) renka teritorinės ligonių kasos taikinimo komisiją; 
-
-
-
-
-2) prižiūri, kaip sudaromos ir vykdomos teritorinės ligonių kasos ir asmens sveikatos priežiūros įstaigų, teritorinės ligonių kasos ir vaistinių ar šio Įstatymo 262 straipsnyje nurodytų ūkio subjektų sutartys, taip pat teritorinės ligonių kasos ir šio Įstatymo 261 straipsnyje nurodytų ūkio subjektų sutartys, jeigu Valstybinė ligonių kasa įgaliojo teritorines ligonių kasas sudaryti šias sutartis; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
- 
-
-
-
-
-3) teikia siūlymus Valstybinės ligonių kasos direktoriui skirti ir atleisti teritorinės ligonių kasos direktorių; 
-
-
-
-
-4) aprobuoja teritorinės ligonių kasos darbuotojų etatus bei išlaidų sąmatą; 
-
-
-
-
-5) prižiūri ir analizuoja teritorinės ligonių kasos administracijos veiklą, finansinių išteklių naudojimą; 
-
-
-
-
-6) įvertina teritorinės ligonių kasos direktoriaus pateiktą teritorinės ligonių kasos metinių ataskaitų rinkinį ir jam pritaria ne vėliau kaip einamųjų metų balandžio 1 dieną; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3315, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21253
- 
-
-
-
-
-7) nagrinėja ir sprendžia kitus privalomojo sveikatos draudimo klausimus, priskirtus teritorinės ligonių kasos funkcijoms. 
-
-
-
-
-
-
-3. Teritorinės ligonių kasos stebėtojų taryba turi teisę organizuoti teritorinės ligonių kasos ataskaitų rinkinių auditą. Auditas apmokamas iš teritorinės ligonių kasos valdymui skirtų lėšų. Teritorinės ligonių kasos stebėtojų taryba taip pat turi teisę nemokamai gauti sveikatos priežiūros įstaigų, su kuriomis teritorinė ligonių kasa yra sudariusi sutartis, veiklos ekonominio-finansinio bei medicininio audito duomenis. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3315, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21253
- 
-
-
-
-
-4. Teritorinės ligonių kasos stebėtojų tarybos veiklos tvarką nustato teritorinės ligonių kasos nuostatai. 
-
-
-Straipsnio pakeitimai:
-Nr. X-1220, 2007-06-26, Žin., 2007, Nr. 77-3052 (2007-07-12)
-Nr. X-1268, 2007-07-04, Žin., 2007, Nr. 81-3326 (2007-07-21)
-Nr. X-1828, 2008-11-14, Žin., 2008, Nr. 137-5377 (2008-11-29)
-Nr. XI-714, 2010-03-30, Žin., 2010, Nr. 41-1939 (2010-04-10)
- 
-
-
-
-
-36 straipsnis. Teritorinės ligonių kasos taikinimo komisija 
-
-
-1. Teritorinės ligonių kasos taikinimo komisiją iš keturių asmenų 4 metams renka teritorinės ligonių kasos stebėtojų taryba jos pirmininko teikimu. Vienas komisijos narys turi atstovauti pacientų asociacijoms, veikiančioms teritorinės ligonių kasos teritorijoje. Ši komisija sprendžia ginčus tarp draudžiamųjų, sveikatos priežiūros įstaigų, vaistinių, šio Įstatymo 262 straipsnyje nurodytų ūkio subjektų, taip pat šio Įstatymo 261 straipsnyje nurodytų ūkio subjektų, kai teritorinė ligonių kasa yra sudariusi šio Įstatymo 261 straipsnyje nurodytų sutarčių, ir teritorinės ligonių kasos dėl Privalomojo sveikatos draudimo fondo biudžeto apmokamų asmens sveikatos priežiūros paslaugų, vaistų, medicinos pagalbos priemonių, I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, taip pat medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo ir sutarčių vykdymo. Komisijos narių balsams pasiskirsčius po lygiai, komisijos pirmininko balsas yra lemiamas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
- 
-
-
-
-
-2. Teritorinės ligonių kasos taikinimo komisijos veiklos tvarką nustato teritorinės ligonių kasos nuostatai.
-
-
-Straipsnio pakeitimai:
-Nr. X-1268, 2007-07-04, Žin., 2007, Nr. 81-3326 (2007-07-21)
+36 straipsnis. Neteko galios nuo 2025-07-01
+Straipsnio naikinimas:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
  
 
 
@@ -2774,152 +2691,206 @@ Nr. XIII-874, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20564
 
 
 
-V SKYRIUS
-DRAUDŽIAMŲJŲ, SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ, VAISTINIŲ IR ŪKIO SUBJEKTŲ, SUDARIUSIŲ SU TERITORINĖMIS LIGONIŲ KASOMIS SUTARTIS, TEISĖS IR PAREIGOS VYKDANT PRIVALOMĄJĮ SVEIKATOS DRAUDIMĄ 
-Pakeistas skyriaus pavadinimas:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
+V SKYRIUS 
+APDRAUSTŲJŲ TEISĖS IR ASMENS SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ, VAISTINIŲ IR ŠIO ĮSTATYMO 261 IR 262 STRAIPSNIUOSE NURODYTŲ ŪKIO SUBJEKTŲ, SUDARIUSIŲ SUTARTIS SU VALSTYBINE LIGONIŲ KASA, PAREIGOS
  
 
 
-38 straipsnis. Draudžiamųjų teisės taikant privalomąjį sveikatos draudimą 
+38 straipsnis. Apdraustųjų teisės įgyvendinant privalomąjį sveikatos draudimą
 
 
-Draudžiamieji turi teisę: 
+Apdraustieji turi teisę: 
 
 
-1) įstatymų ir kitų teisės aktų nustatyta tvarka pasirinkti asmens sveikatos priežiūros įstaigą, su kuria teritorinė ligonių kasa yra sudariusi sutartį, ir gauti privalomojo sveikatos draudimo garantuojamas asmens sveikatos priežiūros paslaugas; 
+1) asmens sveikatos priežiūros paslaugų teikimą reglamentuojančių įstatymų nustatyta tvarka pasirinkti asmens sveikatos priežiūros įstaigą, su kuria Valstybinė ligonių kasa yra sudariusi sutartį; 
 
 
 
 
-2) gauti iš sveikatos priežiūros įstaigos, su kuria teritorinė ligonių kasa yra sudariusi sutartį, informaciją apie savo sveikatos būklę, numatomus tyrimus, procedūras, gydymo būdą ir jo poveikį, teikiamų asmens sveikatos priežiūros paslaugų mastą, teikimo sąlygas ir vietą. Analogišką informaciją apie neveiksnius asmenis turi teisę gauti jų teisiniai atstovai; 
+2) šio Įstatymo nustatyta tvarka ir pagrindais gauti Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamą sveikatos priežiūrą; 
 
 
 
 
-3) gauti kompensaciją iš sveikatos priežiūros įstaigų už žalą, padarytą jų sveikatai dėl sveikatos priežiūros įstaigų ar asmens sveikatos priežiūros specialistų kaltės, nepaisant, ar tai buvo numatyta teritorinės ligonių kasos ir sveikatos priežiūros įstaigų sutartyse. Kompensacijos dydį ir mokėjimo tvarką nustato įstatymai ar kiti teisės aktai; 
+3) Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentuose nustatyta tvarka gauti Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamą sveikatos priežiūrą kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse, Jungtinėje Didžiosios Britanijos ir Šiaurės Airijos Karalystėje ar Šveicarijos Konfederacijoje;
 
 
 
 
-4) kreiptis į teritorinių ligonių kasų komisijas, Valstybinę ligonių kasą, teismą dėl įstatymų ar kitų teisės aktų, reglamentuojančių privalomąjį sveikatos draudimą, pažeidimų. 
- 
+4) šio Įstatymo nustatyta tvarka gauti tarpvalstybinės sveikatos priežiūros išlaidų kompensaciją iš Privalomojo sveikatos draudimo fondo biudžeto;
 
 
 
 
+5) gauti iš asmens sveikatos priežiūros įstaigos, su kuria Valstybinė ligonių kasa yra sudariusi sutartį, informaciją apie teikiamų asmens sveikatos priežiūros paslaugų mastą, teikimo sąlygas ir vietą; 
 
 
 
 
-39 straipsnis. Sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo 262 straipsnyje nurodytų ūkio subjektų, sudariusių sutartis su teritorinėmis ligonių kasomis, pareigos vykdant privalomąjį sveikatos draudimą
-Pakeistas straipsnio pavadinimas:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
- 
+6) susipažinti su šio Įstatymo 26, 261 ir 262 straipsniuose nurodytomis sutartimis;
 
 
-1. Sveikatos priežiūros įstaigos, sudariusios sutartis su teritorine ligonių kasa, privalo: 
 
 
-1) užtikrinti draudžiamiesiems privalomojo sveikatos draudimo garantuojamų asmens sveikatos priežiūros paslaugų teikimą, jų prieinamumą ir tinkamumą; 
-
-
-
-
-2) užtikrinti informacijos apie asmens sveikatą konfidencialumą, išskyrus įstatymų nustatytus atvejus; 
-
-
-
-
-3) esant draudiminiam įvykiui, garantuoti, kad visi draudžiamieji turėtų lygias teises, kai jiems teikiamos asmens sveikatos priežiūros paslaugos; 
-
-
-
-
-4) laiku teikti Valstybinės ligonių kasos nustatytą informaciją Valstybinei ligonių kasai ir teritorinėms ligonių kasoms; 
-
-
-
-
-5) teikti informaciją draudžiamajam apie asmens sveikatos priežiūros paslaugas, kurios nepriskirtos apmokamoms iš Privalomojo sveikatos draudimo fondo biudžeto, jų teikimo sąlygas bei tvarką. 
-
-
-
-
-
-
-2. Vaistinės, sudariusios sutartis su teritorinėmis ligonių kasomis, privalo : 
-
-
-1) užtikrinti apdraustųjų aprūpinimą iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamais vaistais ir medicinos pagalbos priemonėmis Sveikatos apsaugos ministerijos nustatyta tvarka ir terminais; 
-
-
-
-
-2) sutartyje nurodytais terminais teikti teritorinei ligonių kasai ataskaitas ir informaciją apie kompensuojamųjų vaistų ir medicinos pagalbos priemonių išdavimą (pardavimą); 
-
-
-
-
-3) sudaryti sąlygas teritorinei ligonių kasai kontroliuoti vaistų ir medicinos pagalbos priemonių, kurių išlaidos kompensuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, išdavimo teisėtumą; 
-
-
-
-
-4) atlyginti Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą, jeigu ji atsirado dėl neteisėtai išduotų (parduotų) vaistų ar medicinos pagalbos priemonių, kompensuojamų iš Privalomojo sveikatos draudimo fondo biudžeto lėšų; 
-
-
-
-
-
-
-3. Šio Įstatymo 262 straipsnyje nurodyti ūkio subjektai, sudarę sutartis su teritorinėmis ligonių kasomis, privalo: 
-
-
-1) sveikatos apsaugos ministro nustatyta tvarka ir terminais užtikrinti apdraustųjų aprūpinimą iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamomis I klasės medicinos priemonėmis ir in vitro diagnostikos priemonėmis, skirtomis savikontrolei; 
-
-
-
-
-2) sutartyje nurodytais terminais teikti teritorinei ligonių kasai ataskaitas ir informaciją apie iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamų I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, išdavimą (pardavimą); 
-
-
-
-
-3) sudaryti sąlygas teritorinei ligonių kasai kontroliuoti iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamų I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, išdavimo teisėtumą;
-
-
-
-
-4) atlyginti žalą Privalomojo sveikatos draudimo fondo biudžetui, jeigu ji buvo padaryta dėl neteisėtai išduotų (parduotų) iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamų I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei. 
-
-
-Papildyta straipsnio dalimi:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
+7) kreiptis į Valstybinę ligonių kasą, teismą dėl įstatymų ar kitų teisės aktų, reguliuojančių privalomąjį sveikatos draudimą, pažeidimų.
  
 
 
 
 
+
+
+
+
+39 straipsnis. Asmens sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo 261 ir 262 straipsniuose nurodytų ūkio subjektų, sudariusių sutartis su Valstybine ligonių kasa, pareigos 
+
+
+1. Asmens sveikatos priežiūros įstaigos, sudariusios sutartis su Valstybine ligonių kasa, privalo: 
+
+
+1) užtikrinti apdraustiesiems privalomojo sveikatos draudimo garantuojamų asmens sveikatos priežiūros paslaugų teikimą, jų kokybę ir prieinamumą; 
+
+
+
+
+2) užtikrinti informacijos apie asmens sveikatą konfidencialumą, išskyrus pacientų teises ir asmens duomenų tvarkymą reglamentuojančiuose teisės aktuose nustatytus atvejus; 
+
+
+
+
+3) garantuoti, kad visi apdraustieji turėtų lygias teises, kai jiems teikiamos asmens sveikatos priežiūros paslaugos; 
+
+
+
+
+4) laiku teikti Valstybinės ligonių kasos direktoriaus nustatytą informaciją Valstybinei ligonių kasai; 
+
+
+
+
+5) teikti informaciją apdraustiesiems apie nekompensuojamas iš Privalomojo sveikatos draudimo fondo biudžeto lėšų asmens sveikatos priežiūros paslaugas, jų teikimo sąlygas ir tvarką;
+
+
+
+
+6) atlyginti Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą, jeigu ji atsirado dėl netinkamai suteiktų asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, ar pateiktų neteisingų duomenų dėl asmens sveikatos priežiūros paslaugų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis;
+
+
+
+
+7) vykdyti Valstybinės ligonių kasos direktoriaus pagal kompetenciją priimtus sprendimus.
+
+
+
+
+
+
+2. Vaistinės, sudariusios sutartis su Valstybine ligonių kasa, privalo: 
+
+
+1) užtikrinti apdraustųjų aprūpinimą iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamaisiais vaistais ir medicinos pagalbos priemonėmis sveikatos apsaugos ministro nustatyta tvarka ir terminais; 
+
+
+
+
+2) sutartyje su Valstybine ligonių kasa nurodytais terminais teikti Valstybinei ligonių kasai ataskaitas ir informaciją apie kompensuojamųjų vaistų ir medicinos pagalbos priemonių išdavimą (pardavimą); 
+
+
+
+
+3) sudaryti sąlygas Valstybinei ligonių kasai vykdyti vaistinių priežiūrą vertinant vaistų ir medicinos pagalbos priemonių, kompensuojamų iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, išdavimo teisėtumą;
+
+
+
+
+4) atlyginti Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą, jeigu ji atsirado dėl neteisėtai išduotų (parduotų) vaistų ar medicinos pagalbos priemonių ar pateiktų neteisingų duomenų dėl vaistų ar medicinos pagalbos priemonių apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis;
+
+
+
+
+5) vykdyti Valstybinės ligonių kasos direktoriaus pagal kompetenciją priimtus sprendimus.
+
+
+
+
+
+
+3. Šio Įstatymo 261 straipsnyje nurodyti ūkio subjektai, sudarę sutartis su Valstybine ligonių kasa, privalo:
+
+
+1) sveikatos apsaugos ministro nustatyta tvarka ir terminais užtikrinti apdraustųjų aprūpinimą medicinos priemonėmis, kurios būtinos jų sveikatos priežiūrai namuose užtikrinti ir kurių nuomos išlaidos kompensuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų;
+
+
+
+
+2) sutartyje su Valstybine ligonių kasa nurodytais terminais teikti Valstybinei ligonių kasai informaciją apie medicinos priemones, kurios būtinos apdraustųjų sveikatos priežiūrai namuose užtikrinti ir kurių nuomos išlaidos kompensuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų;
+
+
+
+
+3) sudaryti sąlygas Valstybinei ligonių kasai vykdyti ūkio subjektų priežiūrą vertinant medicinos priemonių, kurios būtinos apdraustųjų sveikatos priežiūrai namuose užtikrinti ir kurių nuomos išlaidos kompensuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, išdavimo teisėtumą;
+
+
+
+
+4) atlyginti Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą, jeigu ji atsirado dėl neteisėtai išduotų medicinos priemonių, kurios būtinos apdraustųjų sveikatos priežiūrai namuose užtikrinti ir kurių nuomos išlaidos kompensuotos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, ar pateiktų neteisingų duomenų dėl nuomos išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis;
+
+
+
+
+5) vykdyti Valstybinės ligonių kasos direktoriaus pagal kompetenciją priimtus sprendimus.
+
+
+
+
+
+
+4. Šio Įstatymo 262 straipsnyje nurodyti ūkio subjektai, sudarę sutartis su Valstybine ligonių kasa, privalo:
+
+
+1) sveikatos apsaugos ministro nustatyta tvarka ir terminais užtikrinti apdraustųjų aprūpinimą iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamomis I klasės medicinos priemonėmis ir in vitro diagnostikos priemonėmis, skirtomis savikontrolei;
+
+
+
+
+2) sutartyje su Valstybine ligonių kasa nurodytais terminais teikti Valstybinei ligonių kasai ataskaitas ir informaciją apie iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamų I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, išdavimą (pardavimą); 
+
+
+
+
+3) sudaryti sąlygas Valstybinei ligonių kasai vykdyti ūkio subjektų priežiūrą vertinant iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamų I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, išdavimo teisėtumą;
+
+
+
+
+4) atlyginti žalą Privalomojo sveikatos draudimo fondo biudžetui, jeigu ji buvo padaryta dėl neteisėtai išduotų (parduotų) iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamų I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, ar pateiktų neteisingų duomenų dėl I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto lėšų;
+
+
+
+
+5) vykdyti Valstybinės ligonių kasos direktoriaus pagal kompetenciją priimtus sprendimus.
+
+
+
+
+
+
+Skyriaus pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
+ 
 
 
 
 
 VI SKYRIUS
-GINČŲ DĖL PRIVALOMOJO SVEIKATOS DRAUDIMO VYKDYMO SPRENDIMO TVARKA
+GINČŲ SPRENDIMO TVARKA 
  
 
 
-40 straipsnis. Ginčų tarp draudžiamųjų ir teritorinių ligonių kasų dėl privalomojo 
-sveikatos draudimo vykdymo sprendimo tvarka 
+40 straipsnis. Ginčų tarp draudžiamųjų ir Valstybinės ligonių kasos dėl privalomojo sveikatos draudimo sprendimo tvarka
 
 
-1. Draudžiamųjų ir teritorinių ligonių kasų ginčus dėl privalomojo sveikatos draudimo vykdymo nagrinėja teritorinės ligonių kasos taikinimo komisija. Teritorinės ligonių kasos taikinimo komisija privalo per 30 dienų nuo kreipimosi, o jeigu reikia papildomos informacijos ir tyrimo – papildomai per 15 dienų, išnagrinėti prašymą ir priimti sprendimą. 
-
-
-
-
-2. Teritorinės ligonių kasos taikinimo komisijos sprendimą draudžiamasis įstatymų nustatyta tvarka gali apskųsti teismui.
+Draudžiamųjų skundus dėl Valstybinės ligonių kasos sprendimų (neveikimo) dėl privalomojo sveikatos draudimo nagrinėja Lietuvos administracinių ginčų komisija Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo nustatyta tvarka arba teismas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. 
  
 
 
@@ -2927,21 +2898,28 @@ sveikatos draudimo vykdymo sprendimo tvarka
 
 
 
-41 straipsnis. Ginčų tarp draudžiamųjų ir sveikatos priežiūros įstaigų 
-dėl privalomojo sveikatos draudimo vykdymo sprendimo tvarka 
+41 straipsnis. Ginčų tarp apdraustųjų ir asmens sveikatos priežiūros įstaigų dėl Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamų asmens sveikatos priežiūros paslaugų sprendimo tvarka
 
 
-1. Draudžiamųjų ir sveikatos priežiūros įstaigų ginčus dėl privalomojo sveikatos draudimo garantuojamų paslaugų sprendžia teritorinės ligonių kasos. Teritorinė ligonių kasa privalo per 30 dienų nuo kreipimosi, o jeigu reikia papildomos informacijos ir tyrimo – papildomai per 15 dienų, išnagrinėti prašymą ir priimti sprendimą. 
-
-
-
-
-2. Teritorinės ligonių kasos sprendimą draudžiamasis ar sveikatos priežiūros įstaiga įstatymų nustatyta tvarka gali apskųsti teismui. 
+Apdraustųjų skundai dėl asmens sveikatos priežiūros įstaigų teikiamų asmens sveikatos priežiūros paslaugų, kompensuojamų Privalomojo sveikatos draudimo fondo biudžeto lėšomis, nagrinėjami Pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatyta tvarka.
  
 
 
 
 
+
+
+411 straipsnis. Ginčų tarp asmens sveikatos priežiūros įstaigų, vaistinių, šio Įstatymo 261 ir 262 straipsniuose nurodytų ūkio subjektų bei Valstybinės ligonių kasos sprendimo tvarka
+
+
+Asmens sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo 261 ir 262 straipsniuose nurodytų ūkio subjektų skundus dėl Valstybinės ligonių kasos sprendimų (neveikimo) dėl sutarčių, kurios sudaromos pagal šio Įstatymo 26, 261 ir 262 straipsnius, sudarymo, nesudarymo ir vykdymo sprendžia Lietuvos administracinių ginčų komisija Ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo nustatyta tvarka arba teismas Administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+
+
+Skyriaus pakeitimai:
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
+ 
 
 
 
@@ -3010,7 +2988,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS 
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS 
 
  
  
@@ -3675,3 +3653,8 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 14 ir 17 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2335, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25089
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 1 ir 6 straipsnių pakeitimo įstatymas
+ 
+58.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 4, 6, 7, 8, 9, 9-1, 9-2, 11, 12-1, 14, 16, 18, 20, 23, 26, 26-1, 26-2, 27, 28, 30, 31 straipsnių, V ir VI skyrių pakeitimo, Įstatymo papildymo 31-1 straipsniu ir 32, 33, 34, 35, 36 straipsnių pripažinimo netekusiais galios įstatymas
