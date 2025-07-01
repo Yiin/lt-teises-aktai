@@ -29,61 +29,28 @@ KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO
 4 straipsnis. Neteko galios nuo 2022-01-01.
 Straipsnio pakeitimai:
 Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
- 
 
+6 straipsnis. Kelių rinkliava
+1. M2, M3, N1, N2, N3 motorinių transporto priemonių valdytojai moka kelių rinkliavą už naudojimąsi Vyriausybės ar jos įgaliotos institucijos nustatytais valstybinės reikšmės keliais.
+2. Kelių rinkliavos mokėjimo, administravimo ir priežiūros tvarką nustato Vyriausybė.
+3. Kelių rinkliavos dydžių nustatymo metodiką tvirtina Vyriausybė. Nustatyti kelių rinkliavos dydžiai turi būti sudaryti iš infrastruktūros ir išorinių kaštų (išmetamo anglies dioksido (CO2) kiekio kaštų) įmokų, atsižvelgiant į infrastruktūros įmokos svertinį vidurkį, kuris siejamas su kelių infrastruktūros statybos, eksploatavimo, priežiūros ir plėtros kaštais (kaštai, į kuriuos atsižvelgiama, turi būti susiję su kelių tinklu arba tinklo dalimi, už kurį (kurią) renkamos infrastruktūros įmokos, taikomos transporto priemonėms, ir su transporto priemonėmis, kurioms tos įmokos taikomos). Vyriausybės įgaliota institucija arba įstaiga, vadovaudamasi Kelių rinkliavos dydžių nustatymo metodika, apskaičiuoja kelių rinkliavos dydžius ir juos patvirtina. Mokėtinas kelių rinkliavos dydis apskaičiuojamas pagal nustatytus kelių rinkliavos dydžius, atsižvelgiant į tam tikro tipo transporto priemone nuvažiuotą atstumą. Kai nustatomas kelių rinkliavos nesumokėjimo atvejis, taikoma bauda, kaip nustatyta Lietuvos Respublikos administracinių nusižengimų kodekse, ir 112 eurų kelių rinkliava už naudojimąsi Vyriausybės ar jos įgaliotos institucijos nustatytais valstybinės reikšmės keliais.
+4. Kelių rinkliava už naudojimąsi keliais nemokama važiuojant:
+1) Lietuvos Respublikos vidaus reikalų ministerijos ir vidaus reikalų ministro valdymo srityje veikiančių įstaigų transporto priemonėmis ar jų junginiais;
+2) savivaldybių priešgaisrinės tarnybos transporto priemonėmis ar jų junginiais ir miškų urėdijos, kaip ji apibrėžiama Lietuvos Respublikos miškų įstatyme, priešgaisrinėmis transporto priemonėmis ar jų junginiais;
+3) specialiai asmenims su negalia vežti ir (ar) vairuoti pritaikytomis transporto priemonėmis ar jų junginiais;
+4) sveikatos priežiūros įstaigų greitosios medicinos pagalbos ir reanimacijos automobiliais;
+5) švietimo įstaigų ir (ar) savivaldybių institucijų kontroliuojamų įmonių specialiai mokiniams (vaikams) vežti pritaikytomis transporto priemonėmis (mokykliniais autobusais), taip pat užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse narėse, įregistruotomis specialiai mokiniams (vaikams) vežti pritaikytomis transporto priemonėmis (mokykliniais autobusais);
+6) transporto priemonėmis ar jų junginiais, naudojamais valstybinės reikšmės keliams prižiūrėti;
+7) užsienio šalyse įregistruotomis transporto priemonėmis ar jų junginiais, kai jomis (jais) vykstama likviduoti stichinių nelaimių ar eismo įvykių padarinių arba vežamos labdaros ir humanitarinės pagalbos siuntos;
+8) krašto apsaugos sistemos ir užsienio valstybių ginkluotųjų pajėgų transporto priemonėmis ar jų junginiais;
+9) vietinio reguliaraus susisiekimo maršrutais važiuojančiomis keleivinėmis transporto priemonėmis ar jų junginiais.
+5. Paskirtuoju kelių rinkliavos rinkėju, pagrindiniu kelių rinkliavos paslaugos teikėju Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritorijoje, taip pat už naujų Europos elektroninės kelių rinkliavos paslaugos teikėjų įregistravimą Lietuvos Respublikoje atsakingu subjektu Vyriausybės ar jos įgaliotos institucijos skiriamas juridinis asmuo, kuris patikėjimo teise valdo, naudoja valstybinės reikšmės kelius ir jais disponuoja. Paskirtasis kelių rinkliavos rinkėjas kas penkerius metus savo interneto svetainėje viešai skelbia Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritorijoje renkamos kelių rinkliavos suvestinę ataskaitą.
+6. Elektroninė kelių rinkliava mokama Elektroninės kelių rinkliavos informacinėje sistemoje. Kelių rinkliavos lėšos yra paskirtojo kelių rinkliavos rinkėjo pajamos. Šios lėšos naudojamos Lietuvos Respublikos Valstybinio kelių fondo įstatyme nustatyta tvarka.
 
-
-
-5 straipsnis. Mokestis už Lietuvos Respublikoje įregistruotas krovinines transporto priemones 
-
-
-1. Transporto priemonių, nurodytų šio įstatymo 1 priede, valdytojai moka kasmetinį mokestį už Lietuvos Respublikoje įregistruotas krovinines transporto priemones.
-
-
-
-
-2. Mokesčio mokėjimo, administravimo ir priežiūros tvarką bei dydžius, neviršydama šio įstatymo 1 priede nustatytų ribinių tarifų, nustato Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė). 
-
-
-
-
-3. Mokestis į Lietuvos Respublikos valstybės biudžetą sumokamas iki transporto priemonės privalomosios techninės apžiūros. 
-
-
-
-
-4. Mokestis nemokamas:
-
-
-1) už Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Vidaus reikalų ministerija) ir įstaigų prie šios ministerijos krovinines transporto priemones, priskirtas kovinei, kovos-mokomajai, mokomajai, rikiuotės ir transportavimo grupėms; 
-
-
-
-
-2) už specialiai neįgaliesiems vairuoti pritaikytas krovinines transporto priemones, priklausančias savivaldybių administracijoms ir nevalstybinėms neįgaliųjų organizacijoms;
-
-
-
-
-3) už Lietuvos Respublikos krašto apsaugos sistemos krovinines transporto priemones. 
-Papildyta straipsnio punktu:
-Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
- 
-
-
-
-
-
-
-
-
-6 straipsnis. Įstatymo įsigaliojimas
-Šis įstatymas įsigalioja 2025 m. vasario 1 d.7 straipsnis. Mokestis už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis 
+7 straipsnis. Mokestis už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis 
 
 
 1. Transporto priemonių ar jų junginių, kurių techniniai parametrai viršija didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio techninius parametrus, valdytojai moka mokestį už naudojimąsi valstybinės reikšmės ir vietinės reikšmės viešaisiais keliais bei rajoniniais keliais miestų ir miestelių teritorijose važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis. Mokesčio už naudojimąsi valstybinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis mokėjimo, administravimo, priežiūros tvarką ir dydžius, neviršydama šio įstatymo 3 priede nustatytų ribinių tarifų, nustato Vyriausybė. Mokesčio už naudojimąsi vietinės reikšmės viešaisiais keliais bei rajoniniais keliais miestų ir miestelių teritorijose važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis dydį, neviršydamos šio įstatymo 3 priede nustatytų ribinių tarifų, ir mokesčio mokėjimo, administravimo ir priežiūros tvarką nustato savivaldybių tarybos. Mokesčio už naudojimąsi valstybinės reikšmės ir vietinės reikšmės keliais bei rajoniniais keliais miestų ir miestelių teritorijose važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis tarifai indeksuojami kiekvienais metais, pasibaigus mokestiniam laikotarpiui, taikant indeksavimo koeficientą, kuris nustatomas Valstybės duomenų agentūros apskaičiuotą ir Oficialiosios statistikos portale paskelbtą mokestinių metų vartotojų kainų indeksą dalijant iš šimto. Mokestinių metų vartotojų kainų indeksas nustatomas kiekvienų mokestinių metų gruodžio mėnesio kainas palyginus su ankstesnių metų gruodžio mėnesio kainomis.
-
-
 
 
 2. Mokestis nemokamas:
@@ -97,22 +64,13 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 2) už krašto apsaugos sistemos ir užsienio valstybių ginkluotųjų pajėgų didžiagabarites ir (ar) sunkiasvores transporto priemones.
 
 
+3. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2025 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus, išskyrus Kelių rinkliavos dydžių nustatymo metodiką, kurią Vyriausybė patvirtina iki 2025 m. spalio 31 d.
 
-
-
-
-3. Naudojimosi valstybinės ir vietinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis teisinius pagrindus reglamentuoja Kelių įstatymas. 
-
+4. Elektroninės kelių rinkliavos informacinės sistemos sukūrimo, įdiegimo ar nuomos finansavimui užtikrinti juridiniam asmeniui, kuris patikėjimo teise valdo, naudoja valstybinės reikšmės kelius ir jais disponuoja, Vyriausybė suteikia valstybės garantiją dėl ne didesnės kaip 90 milijonų eurų paskolos.
 
 Straipsnio pakeitimai:
 Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
-Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
- 
-
-
-
-
-71 straipsnis. Mokestis už eismo ribojimą
+Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-0069271 straipsnis. Mokestis už eismo ribojimą
 
 
 1. Asmenys, valstybinės reikšmės keliuose, kelių juostose ar jų apsaugos zonose organizuojantys įvairius darbus, rengiantys masinius (pvz., sporto ar kitus) renginius, kai ribojamas ar uždaromas eismas, moka mokestį už eismo ribojimą.
@@ -130,17 +88,10 @@ Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
 
 
 
-4. Mokestis už eismo ribojimą valstybinės reikšmės keliuose nemokamas, kai darbai atliekami iš Programos finansavimo lėšų, akcinės bendrovės „Via Lietuva“ lėšų ir kai įrengiamos, rekonstruojamos ar taisomos (remontuojamos) melioracijos sistemos kelių apsaugos zonoje, jeigu nepažeidžiama kelio sankasa ir (ar) kiti kelio statiniai. 
-
+4. Mokestis už eismo ribojimą valstybinės reikšmės keliuose nemokamas, kai darbai atliekami iš Programos finansavimo lėšų, akcinės bendrovės „Via Lietuva" lėšų ir kai įrengiamos, rekonstruojamos ar taisomos (remontuojamos) melioracijos sistemos kelių apsaugos zonoje, jeigu nepažeidžiama kelio sankasa ir (ar) kiti kelio statiniai. 
 
 Papildyta straipsniu:
-Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
- 
-
-
-
-
-8 straipsnis. Kiti mokesčiai ir finansavimo šaltiniai 
+Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-006928 straipsnis. Kiti mokesčiai ir finansavimo šaltiniai 
 Pakeistas straipsnio pavadinimas:
 Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
  
