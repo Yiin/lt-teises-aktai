@@ -18827,20 +18827,17 @@ Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 
 
 486 straipsnis. Lindynių laikymas
-
 1. Patalpų suteikimas azartiniams lošimams lošti, ištvirkauti arba alkoholiniams gėrimams vartoti
 užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
-
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo vieno šimto dvidešimt iki dviejų šimtų aštuoniasdešimt eurų.
-
 3. Patalpų suteikimas narkotinėms, psichotropinėms ar kitoms psichiką veikiančioms medžiagoms vartoti
 užtraukia baudą nuo vieno šimto iki trijų šimtų eurų.
-
 4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo trijų šimtų iki septynių šimtų eurų.
+5. Už šio straipsnio 2 ir 4 dalyse numatytus administracinius nusižengimus gali būti taikoma administracinio poveikio priemonė – įpareigojimas dalyvauti alkoholizmo ir narkomanijos prevencijos, ankstyvosios intervencijos, sveikatos priežiūros, resocializacijos, bendravimo su vaikais tobulinimo, smurtinio elgesio keitimo ar kitose programose (kursuose).
 
-5. Už šio straipsnio 2 ir 4 dalyse numatytus administracinius nusižengimus gali būti taikoma administracinio poveikio priemonė – įpareigojimas dalyvauti alkoholizmo ir narkomanijos prevencijos, ankstyvosios intervencijos, sveikatos priežiūros, resocializacijos, bendravimo su vaikais tobulinimo, smurtinio elgesio keitimo ar kitose programose (kursuose).487 straipsnis. Vertimasis prostitucija, atlygintinis naudojimasis prostitucijos paslaugomis
+487 straipsnis. Vertimasis prostitucija, atlygintinis naudojimasis prostitucijos paslaugomis
 
 
 1. Vertimasis prostitucija, atlygintinis naudojimasis prostitucijos paslaugomis 
@@ -18860,15 +18857,7 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 
 
-4. Administracinėn atsakomybėn netraukiamas prostitucija vertęsis asmuo, kuris į prostituciją buvo įtrauktas būdamas materialiai, dėl tarnybos ar kitaip priklausomas arba įtrauktas į prostituciją panaudojant fizinę ar psichinę prievartą ar apgaulę, arba bet kokiu būdu įtrauktas į prostituciją būdamas nepilnametis ir (ar) nukentėjo nuo prekybos žmonėmis ir yra pripažintas nukentėjusiuoju baudžiamajame procese.
- 
-
-
-
-
-
-
-488 straipsnis. Viešosios rimties trikdymas
+4. Administracinėn atsakomybėn netraukiamas prostitucija vertęsis asmuo, kuris į prostituciją buvo įtrauktas būdamas materialiai, dėl tarnybos ar kitaip priklausomas arba įtrauktas į prostituciją panaudojant fizinę ar psichinę prievartą ar apgaulę, arba bet kokiu būdu įtrauktas į prostituciją būdamas nepilnametis ir (ar) nukentėjo nuo prekybos žmonėmis ir yra pripažintas nukentėjusiuoju baudžiamajame procese.488 straipsnis. Viešosios rimties trikdymas
 
 
 1. Šauksmai, švilpimas, garsus dainavimas arba grojimas muzikos instrumentais, kitokiais garsiniais aparatais ar kiti triukšmą keliantys veiksmai gatvėse, aikštėse, parkuose, paplūdimiuose, viešajame transporte ir kitose viešosiose vietose, o vakaro (nuo 19 val. iki 22 val.) ir nakties (nuo 22 val. iki 7 val.) metu – ir gyvenamosiose patalpose, įmonėse, įstaigose ar organizacijose, kai tai trikdo asmenų ramybę, poilsį ar darbą,
