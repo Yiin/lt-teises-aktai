@@ -1554,7 +1554,7 @@ Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
 7. Metų veiklos ataskaita turi būti parengta laikantis Reglamento (ES) Nr. 231/2013 nustatytų turinio ir formos reikalavimų.23 straipsnis. Valdymo įmonės, jos valdomų kolektyvinio investavimo subjektų auditas
 
 
-1. Valdymo įmonės finansinių ataskaitų rinkinio ir konsoliduotųjų finansinių ataskaitų rinkinio auditui taikomi Lietuvos Respublikos finansinių ataskaitų audito įstatyme, Finansų įstaigų įstatyme ir šiame straipsnyje nustatyti reikalavimai.
+1. Valdymo įmonės finansinių ataskaitų rinkinio ir konsoliduotųjų finansinių ataskaitų rinkinio auditui taikomi Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Finansų įstaigų įstatyme ir šiame straipsnyje nustatyti reikalavimai.
 
 
 
@@ -4495,6 +4495,8 @@ Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdyto
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2890, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13499
 Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo Nr. XII-1467 4, 41 ir 41-1 straipsnių pakeitimo įstatymas
+
+13. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo.
 
 13. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo.
 
