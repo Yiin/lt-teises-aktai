@@ -55,24 +55,20 @@ SUTARTIES DĖL EUROPOS SĄJUNGOS VEIKIMO 280 IR 299 STRAIPSNIŲ ĮGYVENDINIMAS
 2 straipsnis. Vykdomųjų raštų išdavimas
 
 
-Vykdomuosius raštus dėl Europos Sąjungos Tarybos, Europos Komisijos ar Europos Centrinio Banko sprendimų, kuriais asmenims, išskyrus valstybes, skiriama piniginė prievolė, taip pat dėl Europos Sąjungos Teisingumo Teismo sprendimų suinteresuotos šalies prašymu nedelsdamas, bet ne vėliau kaip per penkias darbo dienas, išduoda Lietuvos apeliacinis teismas.
+Vykdomuosius raštus dėl Europos Sąjungos Tarybos, Europos Komisijos, Europos Centrinio Banko ar Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucijos sprendimų, kuriais asmenims, išskyrus valstybes, skiriama piniginė prievolė, taip pat dėl Europos Sąjungos Teisingumo Teismo sprendimų suinteresuotos šalies prašymu nedelsdamas, bet ne vėliau kaip per penkias darbo dienas išduoda Lietuvos apeliacinis teismas.
 
 
 
 
 Skirsnio pakeitimai:
 Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
- 
+ 
 
 
 
 
 TREČIASIS SKIRSNIS
-REGLAMENTO (ES) 2020/1784 IR 1965 M. LAPKRIČIO 15 D. HAGOS KONVENCIJOS DĖL TEISMINIŲ IR NETEISMINIŲ DOKUMENTŲ CIVILINĖSE ARBA KOMERCINĖSE BYLOSE ĮTEIKIMO UŽSIENYJE ĮGYVENDINIMAS
- 
-
-
-3 straipsnis. Iš užsienio gautų dokumentų įteikimo tvarka
+REGLAMENTO (ES) 2020/1784 IR 1965 M. LAPKRIČIO 15 D. HAGOS KONVENCIJOS DĖL TEISMINIŲ IR NETEISMINIŲ DOKUMENTŲ CIVILINĖSE ARBA KOMERCINĖSE BYLOSE ĮTEIKIMO UŽSIENYJE ĮGYVENDINIMAS3 straipsnis. Iš užsienio gautų dokumentų įteikimo tvarka
 
 
 1. Iš užsienio gauti dokumentai įteikiami Lietuvos Respublikos civilinio proceso kodekso ir Lietuvos Respublikos teisingumo ministro nustatyta tvarka tiek, kiek Reglamentas (ES) 2020/1784, 1965 m. lapkričio 15 d. Hagos konvencija dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo užsienyje (toliau šiame skirsnyje – 1965 m. Hagos konvencija) ir šis įstatymas nenustato kitaip. 
@@ -1941,3 +1937,5 @@ Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2249, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22979
 Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 31-5 ir 31-9 straipsnių pakeitimo įstatymas
+
+15. 2024 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1620, kuriuo įsteigiama Kovos su pinigų plovimu ir teroristų finansavimu institucija ir iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 1094/2010 ir (ES) Nr. 1095/2010.
