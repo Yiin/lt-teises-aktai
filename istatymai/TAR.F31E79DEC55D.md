@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01 iki 2025-10-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -4668,20 +4668,22 @@ Nr. XIV-2522, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06309
 1. Statyba laikoma užbaigta šiais atvejais:
 
 
-1) atlikus visus statybos darbus ir išdavus statybos užbaigimo aktą (kai jis privalomas). Statybos užbaigimo aktas surašomas tik tuo atveju, kai statytojas pateikia Nekilnojamojo turto kadastro tvarkytojo suderintą statinio kadastro duomenų bylą, taip pat atnaujintą žemės sklypo, kuriame pastatytas ar rekonstruotas statinys, kadastro duomenų bylą, suderintą Nekilnojamojo turto kadastro nuostatuose nustatyta tvarka;
+1) atlikus visus statybos darbus ir išdavus statybos užbaigimo aktą (kai jis privalomas). Statybos užbaigimo aktas surašomas tik tuo atveju, kai statytojas pateikia Nekilnojamojo turto kadastro tvarkytojo suderintą statinio kadastro duomenų bylą, taip pat atnaujintą žemės sklypo, kuriame pastatytas ar rekonstruotas statinys, kadastro duomenų bylą, suderintą aplinkos ministro nustatyta tvarka; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 Nr. XIV-2567, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07720
+Nr. XIV-2994, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17764
  
 
 
 
 
-2) atlikus visus statybos darbus, aplinkos ministro nustatyta tvarka surašius deklaraciją apie statybos užbaigimą (kai ji privaloma), statinio projekto (jo dalies) ekspertizės rangovui arba statinio (jo dalies) ekspertizės rangovui patvirtinus deklaraciją apie statybos užbaigimą ir ją įregistravus Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“. Deklaracija apie statybos užbaigimą patvirtinama tik tuo atveju, kai statytojas (užsakovas) pateikia Nekilnojamojo turto kadastro tvarkytojo suderintą statinio kadastro duomenų bylą, taip pat atnaujintą žemės sklypo, kuriame pastatytas ar rekonstruotas statinys, kadastro duomenų bylą, suderintą Nekilnojamojo turto kadastro nuostatuose nustatyta tvarka;
+2) atlikus visus statybos darbus, aplinkos ministro nustatyta tvarka surašius deklaraciją apie statybos užbaigimą (kai ji privaloma), statinio projekto (jo dalies) ekspertizės rangovui arba statinio (jo dalies) ekspertizės rangovui patvirtinus deklaraciją apie statybos užbaigimą ir ją įregistravus Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“. Deklaracija apie statybos užbaigimą patvirtinama tik tuo atveju, kai statytojas (užsakovas) pateikia Nekilnojamojo turto kadastro tvarkytojo suderintą statinio kadastro duomenų bylą, taip pat atnaujintą žemės sklypo, kuriame pastatytas ar rekonstruotas statinys, kadastro duomenų bylą, suderintą aplinkos ministro nustatyta tvarka; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 Nr. XIV-2567, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07720
+Nr. XIV-2994, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17764
  
 
 
