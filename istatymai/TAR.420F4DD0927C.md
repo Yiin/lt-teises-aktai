@@ -5671,7 +5671,7 @@ Akvakultūros tvenkinių apsaugos zonose draudžiama:
 
 
 ANTRASIS SKIRSNIS
-MELIORUOTOS ŽEMĖS IR MELIORACIJOS STATINIŲ APSAUGOS ZONOS IR JOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS
+MELIORUOTOJE ŽEMĖJE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOSELIORUOTOS ŽEMĖS IR MELIORACIJOS STATINIŲ APSAUGOS ZONOS IR JOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS
  
 
 
@@ -5757,55 +5757,6 @@ c) polderiams.
 
 
 
-93 straipsnis. Melioracijos statinių apsaugos zonų dydis
-
-
-1. Melioracijos griovio apsaugos zona – žemės juosta išilgai šio griovio, kurios ribos yra 15 metrų nuo griovio šlaito viršutinės briaunos.
-
-
-
-
-2. Bendrojo naudojimo drenažo rinktuvų apsaugos zona – žemės juosta išilgai drenažo rinktuvo, kurios ribos yra po 15 metrų į abi puses nuo rinktuvo ašies. Tiksliai nustačius (atsikasus) drenažo rinktuvo buvimo vietą ir suderinus su savivaldybės administracijos direktoriaus įgaliotu savivaldybės administracijos atstovu, – po 5 metrus į abi puses nuo drenažo rinktuvo (išskyrus taršos šaltinius).
-
-
-
-
-3. Polderių apsaugos zona – 15 metrų pločio žemės juosta į abi puses nuo pylimo (nuo vidinio ir išorinio šlaitų (ten, kur galima) papėdės ir kanalo viršutinės briaunos).
- 
-
-
-
-
-
-
-94 straipsnis. Specialiosios žemės naudojimo sąlygos melioracijos statinių apsaugos zonose
-
-
-Melioracijos statinių apsaugos zonose draudžiama:
-
-
-1) statyti pastatus;
-
-
-
-
-2) sodinti medžius;
-
-
-
-
-3) įrengti dirbtinius vandens telkinius.
- 
-
-
-
-
-
-
-
-
-
-
 TREČIASIS SKIRSNIS
 MIŠKO ŽEMĖJE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS
  
@@ -5849,8 +5800,7 @@ NATŪRALIOSE PIEVOSE IR GANYKLOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLY
 
 96 straipsnis. Specialiosios žemės naudojimo sąlygos natūraliose pievose ir ganyklose
 
-
-Natūralias pievas ir ganyklas draudžiama suarti, sausinti arba kitaip keisti jų žolynų būklę ir sudėtį, užsodinti želdiniais ar įveisti mišką.
+Natūralias pievas ir ganyklas draudžiama suarti, persėti, kalkinti, sausinti įrengiant naujas melioracijos sistemas, užsodinti želdiniais ar įveisti mišką arba kitaip jas pažeisti ar keisti jų žolynų būklę ir sudėtį, išskyrus natūralių pievų ir ganyklų kaitą dėl krūmų kirtimo, invazinių rūšių naikinimo, gyvulių ganymo ar šienavimo ir atvejus, kai laukinių gyvūnų pažeistos natūralių pievų ir ganyklų dalys išlyginamos ir užsėjamos laukinių žolių mišiniais.
  
 
 
