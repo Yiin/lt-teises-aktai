@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a49670c0756911eabee4a336e7e6fdab"
 
 # Lietuvos Respublikos civilinio turto konfiskavimo įstatymas
 
+Suvestinė redakcija nuo 2025-07-01
+ 
+Įstatymas paskelbtas: TAR 2020-04-03, i. k. 2020-06992
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 CIVILINIO TURTO KONFISKAVIMO
 ĮSTATYMAS
@@ -57,7 +64,10 @@ BENDROSIOS NUOSTATOS
 2. Preziumuojama, kad turtas nėra gautas teisėtu būdu, kai jį nuosavybės teise turi ir jo negali teisėtomis pajamomis pagrįsti bent vieną iš šių sąlygų atitinkantys asmenys:
 
 
-1) kurie buvo įtariami, kaltinami ar nuteisti už nusikaltimų, numatytų Lietuvos Respublikos baudžiamojo kodekso 147 straipsnyje, 1471 straipsnio 2 dalyje, 157 straipsnyje, 162 straipsnio 1 dalyje, 178 straipsnio 2 ir 3 dalyse, 180, 181 straipsniuose, 182 straipsnio 2 dalyje, 1821 straipsnyje, 183 straipsnio 2 dalyje, 184 straipsnio 2 dalyje, 189 straipsnio 2 dalyje, 199, 1991, 1992, 200 straipsniuose, 201 straipsnio 2 dalyje, 213 straipsnio 1, 2, 4 dalyse, 214, 215, 216, 218 straipsniuose, 220 straipsnio 2 dalyje, 225 straipsnio 1, 2, 3 dalyse, 226 straipsnio 1, 2, 3, 4 dalyse, 227 straipsnio 1, 2, 3 dalyse, 228, 249, 250, 2501, 2502, 2503, 2504, 2505, 2506, 251, 2511, 252, 253, 254, 256, 2571, 260, 261 straipsniuose, 292 straipsnio 1, 2, 3 dalyse, 307 straipsnyje, padarymą;
+1) kurie buvo įtariami, kaltinami ar nuteisti už nusikaltimų, numatytų Lietuvos Respublikos baudžiamojo kodekso 1231 straipsnyje, 129 straipsnio 2 dalies 9 punkte, 147 straipsnyje, 1471 straipsnio 2 dalyje, 157 straipsnyje, 162 straipsnio 1 dalyje, 1751 straipsnyje, 178 straipsnio 2, 3 ir 4 dalyse, 180, 181 straipsniuose, 182 straipsnio 2 ir 3 dalyse, 1821 straipsnyje, 183 straipsnio 2 ir 3 dalyse, 184 straipsnio 2 ir 3 dalyse, 189 straipsnio 2 dalyje, 199, 1991, 1992, 200 straipsniuose, 201 straipsnio 2 dalyje, 207 straipsnio 2 ir 3 dalyse, 213 straipsnio 1, 2, 4 dalyse, 214, 215, 216, 218 straipsniuose, 219 straipsnio 2 dalyje, 220 straipsnio 2 dalyje, 225 straipsnio 1, 2, 3 dalyse, 226 straipsnio 1, 2, 3, 4 dalyse, 227 straipsnio 1, 2, 3 dalyse, 228, 249, 250, 2501, 2502, 2503, 2504, 2505, 2506, 251, 2511, 252, 253, 2532, 254, 256, 2562, 2571, 260, 2601, 261, 2661, 2672, 2673 straipsniuose, 2764 straipsnyje, 292 straipsnyje, 307 straipsnyje, padarymą;
+Straipsnio punkto pakeitimai:
+Nr. XV-176, 2025-04-29, paskelbta TAR 2025-04-30, i. k. 2025-07835
+ 
 
 
 
@@ -140,7 +150,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Kai, baudžiamajame procese prokurorui priėmus galutinį procesinį sprendimą ar įsiteisėjus galutiniam teismo sprendimui, išlieka šio įstatymo 2 straipsnio 1, 2 ir 3 dalyse nustatyti civilinio turto konfiskavimo pagrindai, pradedama civilinio turto konfiskavimo procedūra. 
+2. Kai, baudžiamajame procese prokurorui priėmus galutinį procesinį sprendimą ar įsiteisėjus galutiniam teismo sprendimui, nustatomi šio įstatymo 2 straipsnio 1, 2 ir 3 dalyse nustatyti civilinio turto konfiskavimo pagrindai, pradedama civilinio turto konfiskavimo procedūra.
+Straipsnio dalies pakeitimai:
+Nr. XV-176, 2025-04-29, paskelbta TAR 2025-04-30, i. k. 2025-07835
+ 
 
 
 
@@ -193,22 +206,41 @@ TURTO TYRIMO PROCEDŪRA
 
 
 
-5. Turto tyrimą atlieka Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos ir Lietuvos policija (toliau – turto tyrimą atliekančios institucijos) šio įstatymo ir generalinio prokuroro nustatyta tvarka. Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (toliau – Valstybinė mokesčių inspekcija) šio įstatymo nustatyta tvarka dalyvauja atliekant turto tyrimą. 
+5. Prokuroras, prieš priimdamas sprendimą pradėti turto tyrimą, ar ikiteisminio tyrimo institucijos, prieš kreipdamosi į prokurorą motyvuotu raštu dėl turto tyrimo pradėjimo, turi teisę iš šio įstatymo 6 straipsnio 3 dalies 1 punkte nurodytų subjektų gauti duomenis, dokumentus ir kitą informaciją, kurių reikia sprendimui dėl turto tyrimo pradėjimo pagrįsti. 
+Papildyta straipsnio dalimi:
+Nr. XV-176, 2025-04-29, paskelbta TAR 2025-04-30, i. k. 2025-07835
+ 
 
 
 
 
-6. Turto tyrimą šio įstatymo ir generalinio prokuroro nustatyta tvarka organizuoja ir jam vadovauja prokuroras. Prokuroras gali atlikti visą turto tyrimą ar atskirus turto tyrimo veiksmus.
+6. Turto tyrimą atlieka Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos ir Lietuvos policija (toliau – turto tyrimą atliekančios institucijos) šio įstatymo ir generalinio prokuroro nustatyta tvarka. Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (toliau – Valstybinė mokesčių inspekcija) šio įstatymo nustatyta tvarka dalyvauja atliekant turto tyrimą. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XV-176, 2025-04-29, paskelbta TAR 2025-04-30, i. k. 2025-07835
+ 
 
 
 
 
-7. Jeigu turto tyrimo metu paaiškėja kitas asmuo, nuosavybės teise turintis turtą, dėl kurio taip pat yra pagrindas atlikti turto tyrimą, dėl šio asmens turto tyrimas inicijuojamas šio straipsnio 2 ir 3 dalyse nustatyta tvarka.
+7. Turto tyrimą šio įstatymo ir generalinio prokuroro nustatyta tvarka organizuoja ir jam vadovauja prokuroras. Prokuroras gali atlikti visą turto tyrimą ar atskirus turto tyrimo veiksmus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XV-176, 2025-04-29, paskelbta TAR 2025-04-30, i. k. 2025-07835
+ 
 
 
 
 
-8. Turto tyrimas gali būti neatliekamas, kai baudžiamojo proceso metu surinktų duomenų pakanka šio įstatymo 10 straipsnio 1 ir 2 dalyse nurodytam sprendimui priimti.
+8. Jeigu turto tyrimo metu paaiškėja kitas asmuo, nuosavybės teise turintis turtą, dėl kurio taip pat yra pagrindas atlikti turto tyrimą, dėl šio asmens turto tyrimas inicijuojamas šio straipsnio 2 ir 3 dalyse nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XV-176, 2025-04-29, paskelbta TAR 2025-04-30, i. k. 2025-07835
+ 
+
+
+
+
+9. Turto tyrimas gali būti neatliekamas, kai baudžiamojo proceso metu surinktų duomenų pakanka šio įstatymo 10 straipsnio 1 ir 2 dalyse nurodytam sprendimui priimti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XV-176, 2025-04-29, paskelbta TAR 2025-04-30, i. k. 2025-07835
  
 
 
@@ -264,7 +296,10 @@ TURTO TYRIMO PROCEDŪRA
 
 
 
-5. Turto tyrimas atliekamas per kuo trumpesnius terminus, bet ne ilgiau kaip per 6 mėnesius. Jei yra objektyvių priežasčių, dėl kurių būtina pratęsti turto tyrimo atlikimo terminą, turto tyrimą atliekanti institucija motyvuotu tarnybiniu pranešimu kreipiasi į prokurorą dėl sutikimo pratęsti turto tyrimo atlikimo terminą. Prokuroro sutikimu turto tyrimo atlikimo terminas ypatingais atvejais gali būti pratęstas ne ilgesniam kaip 3 mėnesių laikotarpiui. Turto tyrimo atlikimo terminas gali būti pratęstas ne daugiau kaip du kartus.
+5. Turto tyrimas atliekamas per kuo trumpesnius terminus, bet ne ilgiau kaip per 9 mėnesius. Dėl turto tyrimo sudėtingumo, didelės apimties ar kitų svarbių aplinkybių turto tyrimo atlikimo terminas aukštesniojo prokuroro rezoliucija gali būti pratęstas ne ilgesniam kaip 3 mėnesių laikotarpiui. Turto tyrimo atlikimo terminas gali būti pratęstas ne daugiau kaip tris kartus.
+Straipsnio dalies pakeitimai:
+Nr. XV-176, 2025-04-29, paskelbta TAR 2025-04-30, i. k. 2025-07835
+ 
 
 
 
@@ -313,7 +348,18 @@ TURTO TYRIMO PROCEDŪRA
 
 
 
-5) turto tyrimui atlikti teisės aktų nustatyta tvarka pasitelkti specialistus ir ekspertus. 
+5) turto tyrimui atlikti pasitelkti specialistus ir ekspertus; 
+Straipsnio punkto pakeitimai:
+Nr. XV-176, 2025-04-29, paskelbta TAR 2025-04-30, i. k. 2025-07835
+ 
+
+
+
+
+6) turto vertinimui atlikti teismo leidimu patekti į asmens, dėl kurio turto atliekamas turto tyrimas, ar asmens, kuris yra nesąžiningas įgijėjas, teritoriją, pastatus, gyvenamąsias ir kitas patalpas, kad galėtų juos apžiūrėti ir įvertinti. Atliekant šiame punkte nurodytą turto vertinimą turi dalyvauti asmuo, dėl kurio turto atliekamas turto tyrimas, ar asmuo, kuris yra nesąžiningas įgijėjas, arba pilnametis jų šeimos narys, arba juridinio asmens atstovas. Taip pat gali dalyvauti turto vertinimui atlikti pasitelkti specialistai ir ekspertai. Apžiūrimas turtas kiek galima nufotografuojamas ir (arba) nufilmuojamas.
+Papildyta straipsnio punktu:
+Nr. XV-176, 2025-04-29, paskelbta TAR 2025-04-30, i. k. 2025-07835
+ 
 
 
 
@@ -341,10 +387,45 @@ TURTO TYRIMO PROCEDŪRA
 
 
 
-2. Valstybinė mokesčių inspekcija per 60 kalendorinių dienų nuo šio straipsnio 1 dalyje nurodyto kreipimosi gavimo dienos pagal turimus duomenis pateikia turto tyrimą atliekančiai institucijai išvadą dėl asmens galimybių įgyti turtą iš teisėtų pajamų šaltinių. Reikalavimus, taikomus šios išvados turiniui, nustato Valstybinė mokesčių inspekcija, suderinusi su generaliniu prokuroru.
+2. Valstybinė mokesčių inspekcija per 60 kalendorinių dienų nuo šio straipsnio 1 dalyje nurodyto kreipimosi gavimo dienos pagal turimus duomenis pateikia turto tyrimą atliekančiai institucijai išvadą dėl asmens galimybių įgyti turtą iš teisėtų pajamų šaltinių. Kai Valstybinė mokesčių inspekcija turi kreiptis į užsienio valstybės mokesčių administratorių dėl leidimo naudoti duomenis ne mokesčių apskaičiavimo tikslu, šioje dalyje nurodyta išvada pateikiama per 90 kalendorinių dienų nuo šio straipsnio 1 dalyje nurodyto kreipimosi gavimo dienos. Reikalavimus, taikomus šios išvados turiniui, nustato Valstybinė mokesčių inspekcija, suderinusi su generaliniu prokuroru.
+Straipsnio dalies pakeitimai:
+Nr. XV-176, 2025-04-29, paskelbta TAR 2025-04-30, i. k. 2025-07835
  
 
 
+
+
+
+
+71 straipsnis. Teismo leidimo patekti į teritorijas ir patalpas išdavimas
+
+
+1. Priėmus sprendimą dėl šio Įstatymo 6 straipsnio 3 dalies 6 punkte nurodytų veiksmų, kuriems reikia teismo leidimo, prokuroras turto buvimo vietos apylinkės teismui pateikia prašymą dėl leidimo patekti į teritorijas ir patalpas išdavimo.
+
+
+
+
+2. Prašyme dėl leidimo patekti į teritorijas ir patalpas turi būti nurodytas turto tyrimo atlikimo pagrindas, turto buvimo, turto vertinimo atlikimo vieta, asmens, kurio teritorijoje, pastatuose, gyvenamosiose ir kitose patalpose atliekamas turto vertinimas, duomenys ir numatomi atlikti turto vertinimo veiksmai.
+
+
+
+
+3. Apylinkės teismas ne vėliau kaip per 72 valandas nuo šiame straipsnyje nurodyto prašymo gavimo apylinkės teisme momento privalo jį išnagrinėti rašytinio proceso tvarka ir priimti motyvuotą nutartį.
+
+
+
+
+4. Prokuroras, nesutikdamas su apylinkės teismo nutartimi, turi teisę per 7 dienas nuo šios nutarties įteikimo jam dienos apskųsti ją apygardos teismui. Apygardos teismas skundą dėl apylinkės teismo nutarties privalo išnagrinėti ne vėliau kaip per 7 dienas nuo šio skundo gavimo šiame teisme dienos. Apygardos teismo nutartis yra galutinė ir neskundžiama.
+
+
+
+
+5. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo patekti į teritorijas ir patalpas, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+
+
+Papildyta straipsniu:
+Nr. XV-176, 2025-04-29, paskelbta TAR 2025-04-30, i. k. 2025-07835
+ 
 
 
 
@@ -454,7 +535,10 @@ Asmuo, kuriam įteiktas pranešimas apie galimą civilinį turto konfiskavimą, 
 
 
 
-2. Prokuroras, susipažinęs su turto tyrimo išvada, per 10 dienų nuo turto tyrimo išvados gavimo dienos priima sprendimą, numatytą šio straipsnio 1 dalies 1, 2 ar 3 punkte, arba sprendimą gautą turto tyrimo išvadą grąžinti papildyti turto tyrimą atlikusiai institucijai, jeigu dar nėra pasibaigęs šio įstatymo 5 straipsnio 5 dalyje nustatytas 6 mėnesių turto tyrimo terminas.
+2. Prokuroras, susipažinęs su turto tyrimo išvada, per 10 dienų nuo turto tyrimo išvados gavimo dienos priima sprendimą, numatytą šio straipsnio 1 dalies 1, 2 ar 3 punkte, arba sprendimą gautą turto tyrimo išvadą grąžinti papildyti turto tyrimą atlikusiai institucijai, jeigu dar nėra pasibaigęs šio įstatymo 5 straipsnio 5 dalyje nustatytas maksimalus turto tyrimo terminas. 
+Straipsnio dalies pakeitimai:
+Nr. XV-176, 2025-04-29, paskelbta TAR 2025-04-30, i. k. 2025-07835
+ 
 
 
 
@@ -464,7 +548,9 @@ Asmuo, kuriam įteiktas pranešimas apie galimą civilinį turto konfiskavimą, 
 
 
 
-4. Asmeniui, dėl kurio turto pradėtas turto tyrimas buvo nutrauktas ir kuriam dėl šio turto tyrimo atsirado neigiamų pasekmių, jo reikalavimu prokuroro leidimu turi būti pateikti turto tyrimo metu apie jį surinkti duomenys, išskyrus atvejus, kai pateikus šią informaciją gali būti padaryta žalos nebaigtiems turto tyrimams. Informacija, kurią pateikus gali būti padaryta žalos nebaigtiems turto tyrimams, šioje dalyje nurodytam asmeniui turi būti pateikta tuoj pat baigus šiuos turto tyrimus. 
+4. Asmeniui, dėl kurio turto pradėtas turto tyrimas buvo nutrauktas, jo prašymu prokuroro leidimu turi būti pateikti turto tyrimo metu apie jį surinkti duomenys, išskyrus atvejus, kai pateikus šią informaciją gali būti padaryta žalos nebaigtiems turto tyrimams. Informacija, kurią pateikus gali būti padaryta žalos nebaigtiems turto tyrimams, šioje dalyje nurodytam asmeniui turi būti pateikta tuoj pat baigus šiuos turto tyrimus.
+Straipsnio dalies pakeitimai:
+Nr. XV-176, 2025-04-29, paskelbta TAR 2025-04-30, i. k. 2025-07835
  
 
 
@@ -653,3 +739,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-176, 2025-04-29, paskelbta TAR 2025-04-30, i. k. 2025-07835
+Lietuvos Respublikos civilinio turto konfiskavimo įstatymo Nr. XIII-2825 2, 3, 4, 5, 6, 7, 10 straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas
