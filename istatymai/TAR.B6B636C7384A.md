@@ -58,10 +58,10 @@ Nr. XI-1869, 2011-12-22, Žin., 2011, Nr. 163-7760 (2011-12-31)
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-1. Bankas – Lietuvos Respublikoje įsteigta kredito įstaiga, kuri turi licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionaliųjų rinkos dalyvių ir jų skolinimu ir prisiima su tuo susijusią riziką bei atsakomybę. Šiame Įstatyme sąvoka „bankas“ apima ir sąvoką „specializuotas bankas“. 
+1. Bankas – Lietuvos Respublikoje įsteigta kredito įstaiga, kuri turi licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionaliųjų rinkos dalyvių ir jų skolinimu ir prisiima su tuo susijusią riziką bei atsakomybę. Šiame Įstatyme sąvoka „bankas" apima ir sąvoką „specializuotas bankas". 
 Straipsnio dalies pakeitimai:
 Nr. XII-2568, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20322
- 
+ 
 
 
 
@@ -71,10 +71,10 @@ Nr. XII-2568, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20322
 
 
 
-3. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (su visais pakeitimais), įsteigta institucija.
+3. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (su visais pakeitimais), įsteigta institucija.
 Straipsnio dalies pakeitimai:
 Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
- 
+ 
 
 
 
@@ -82,7 +82,7 @@ Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
 4. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo įsteigta institucija.
 Straipsnio dalies pakeitimai:
 Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
- 
+ 
 
 
 
@@ -90,7 +90,7 @@ Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
 5. Neteko galios nuo 2015-05-01
 Straipsnio dalies naikinimas:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
- 
+ 
 
 
 
@@ -138,7 +138,7 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 91. Mažmeninių ir draudimo principu pagrįstų investicinių produktų paketas – kaip tai apibrėžta Reglamente (ES) Nr. 1286/2014. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
- 
+ 
 
 
 
@@ -146,7 +146,7 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 10. Neteko galios nuo 2015-05-01
 Straipsnio dalies naikinimas:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
- 
+ 
 
 
 
@@ -154,7 +154,7 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 10. Specializuotas bankas – Lietuvos Respublikoje įsteigta kredito įstaiga, kuri turi licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionaliųjų rinkos dalyvių ir jų skolinimu ir prisiima su tuo susijusią riziką bei atsakomybę ir kuri turi teisę teikti tik šio Įstatymo 4 straipsnio 5 dalyje nurodytas kitas finansines paslaugas.
 Papildyta straipsnio dalimi:
 Nr. XII-2568, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20322
- 
+ 
 
 
 
@@ -164,13 +164,13 @@ Nr. XII-2568, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20322
 
 
 
-12. Kitos šio Įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Finansų įstaigų įstatyme, Lietuvos Respublikos finansinio tvarumo įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (su visais pakeitimais) ir 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (su visais pakeitimais).
+12. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Finansų įstaigų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos finansinio tvarumo įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (su visais pakeitimais), 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (su visais pakeitimais) ir Reglamente (ES) 2022/2554.
 Straipsnio dalies pakeitimai:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 Nr. XIII-2022, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05392
 Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
- 
+ 
 
 
 Straipsnio pakeitimai:
@@ -179,13 +179,7 @@ Nr. X-1038, 2007-01-18, Žin., 2007, Nr. 12-499 (2007-01-30)
 Nr. XI-201, 2009-03-19, Žin., 2009, Nr. 38-1440 (2009-04-04)
 Nr. XI-551, 2009-12-10, Žin., 2009, Nr. 153-6889 (2009-12-28)
 Nr. XI-1869, 2011-12-22, Žin., 2011, Nr. 163-7760 (2011-12-31)
-Nr. XI-1883, 2011-12-22, Žin., 2011, Nr. 163-7772 (2011-12-31)
- 
-
-
-
-
-3 straipsnis. Banko pavadinimas, teisinė forma, buveinė, banko veiklą reglamentuojantys teisės aktai
+Nr. XI-1883, 2011-12-22, Žin., 2011, Nr. 163-7772 (2011-12-31)3 straipsnis. Banko pavadinimas, teisinė forma, buveinė, banko veiklą reglamentuojantys teisės aktai
 
 
 1. Vartoti žodį „bankas“ ar kitokius šio žodžio junginius arba vedinius Lietuvos Respublikoje savo pavadinime, reklamoje ar kitais tikslais išimtinę teisę turi tik pagal šį Įstatymą veikiantys asmenys, išskyrus atvejus, kai akivaizdu, kad šio žodžio vartojimas nesusijęs su licencinių finansinių paslaugų teikimu. Europos Sąjungos valstybėse narėse ir Europos ekonominės erdvės valstybėse narėse (toliau – Europos Sąjungos valstybės narės) licencijuoti bankai, šio Įstatymo nustatyta tvarka steigdami filialus Lietuvos Respublikoje ar teikiantys paslaugas neįsteigę filialo, turi teisę vartoti tą patį pavadinimą, kaip ir savo pagrindinės buveinės valstybėje narėje. Jei šis pavadinimas yra toks pat ar panašus į Lietuvos Respublikoje vartojamus pavadinimus arba kitaip gali klaidinti, priežiūros institucija turi teisę reikalauti prie šio pavadinimo pridėti paaiškinamuosius žodžius. 
@@ -2981,7 +2975,7 @@ Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
 60 straipsnis. Apskaita
 
 
-1. Bankas privalo tvarkyti buhalterinę apskaitą vadovaudamasis Lietuvos Respublikos įstatymais ir kitais teisės aktais, taip pat banko pasirinkta apskaitos politika, kuri įgyvendinama atsižvelgiant į konkrečias sąlygas, verslo pobūdį bei vadovaujantis tarptautiniais apskaitos standartais.
+1. Bankas privalo tvarkyti finansinę apskaitą vadovaudamasis Lietuvos Respublikos įstatymais ir kitais teisės aktais, taip pat banko pasirinkta apskaitos politika, kuri įgyvendinama atsižvelgiant į konkrečias sąlygas, verslo pobūdį bei vadovaujantis tarptautiniais finansinės atskaitomybės standartais.
 
 
 
@@ -3009,19 +3003,11 @@ Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
 
 
 
-
-
 4. Neteko galios nuo 2011 m. gegužės 3 d.
 
 
 Straipsnio pakeitimai:
-Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
- 
-
-
-
-
-61 straipsnis. Finansinių ataskaitų rinkiniai
+Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)61 straipsnis. Finansinių ataskaitų rinkiniai
 
 
 1. Bankas ir finansinė grupė sudaro tarpinių finansinių ataskaitų rinkinius ir metinių finansinių ataskaitų rinkinius.
@@ -3201,24 +3187,18 @@ Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
 63 straipsnis. Reikalavimai auditoriui ir audito įmonei, jų pareigos ir atsakomybė 
 
 
-Reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Finansų įstaigų įstatymas, Lietuvos Respublikos finansinių ataskaitų audito įstatymas. 
+Reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Finansų įstaigų įstatymas, Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-97, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29409
- 
-
-
+ 
 
 
 
 
 DEŠIMTASIS SKIRSNIS
-BANKŲ PRIEŽIŪRA 
- 
-
-
-64 straipsnis. Priežiūros institucija
+BANKŲ PRIEŽIŪRA64 straipsnis. Priežiūros institucija
 
 
 1. Priežiūros institucija yra Europos centrinis bankas arba Lietuvos bankas, atitinkamai pagal Reglamente (ES) Nr. 1024/2013 nustatytą funkcijų paskirstymą. Lietuvos bankas šio Įstatymo priežiūros institucijai nustatytas funkcijas atlieka, suteiktomis teisėmis naudojasi tiek, kiek pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai nepavesta Europos centriniam bankui. 
@@ -3690,9 +3670,7 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 
 
 
-6) asmenys, su kuriais bankas yra sudaręs sandorius dėl banko veiklą papildančių paslaugų pirkimo, taip pat kiti asmenys, kuriems šios dalies 2, 3 ir 4 punktuose nurodyti subjektai yra perdavę veiklos funkcijas arba veiklą.
-
-
+6) asmenys, su kuriais bankas yra sudaręs sandorius dėl banko veiklą papildančių paslaugų pirkimo, taip pat kiti asmenys, kuriems šios dalies 1, 2, 3 ir 4 punktuose nurodyti subjektai yra perdavę funkcijų ar veiklos vykdymą, įskaitant informacinių ir ryšių technologijų paslaugas teikiančias trečiąsias šalis, nustatytas Reglamento (ES) 2022/2554 V skyriuje.
 
 
 
@@ -3717,7 +3695,7 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 
 
 
-6. Šiame straipsnyje ir savo teisės aktuose nustatyta tvarka priežiūros institucija turi teisę patikrinti ir užsienio bankų padalinius, įsteigtus Lietuvos Respublikoje, taip pat šio straipsnio 1 dalies 2–6 punktuose nurodytus asmenis, o jungtinės (konsoliduotos) priežiūros tikslais – ir šio Įstatymo 58 straipsnio 2 dalyje nurodytus asmenis. Jeigu jungtinės (konsoliduotos) priežiūros tikslais reikia patikrinti šio Įstatymo 58 straipsnio 2 dalyje nurodytus asmenis, kurie priklauso kitos Europos Sąjungos valstybės narės jurisdikcijai, priežiūros institucija prašo, kad patikrinimą atliktų šios Europos Sąjungos valstybės narės priežiūros institucija, arba, jeigu ši priežiūros institucija leidžia, patikrinimą atlieka pati Lietuvos priežiūros institucija ar tuo tikslu jos pasitelkti asmenys, vadovaudamiesi tos Europos Sąjungos valstybės narės teise.
+6. Šiame straipsnyje ir savo teisės aktuose nustatyta tvarka priežiūros institucija turi teisę patikrinti ir užsienio bankų padalinius, įsteigtus Lietuvos Respublikoje, taip pat šio straipsnio 1 dalies 2–6 punktuose nurodytus asmenis, o jungtinės (konsoliduotos) priežiūros tikslais – ir šio Įstatymo 58 straipsnio 2 dalyje nurodytus asmenis. Jeigu jungtinės (konsoliduotos) priežiūros tikslais reikia patikrinti šio Įstatymo 58 straipsnio 2 dalyje nurodytus asmenis, kurie priklauso kitos Europos Sąjungos valstybės narės jurisdikcijai, priežiūros institucija prašo, kad patikrinimą atliktų šios Europos Sąjungos valstybės narės priežiūros institucija, arba, jeigu ši priežiūros institucija leidžia, patikrinimą atlieka pati Lietuvos priežiūros institucija ar tuo tikslu jos pasitelkti asmenys, vadovaudamiesi tos Europos Sąjungos valstybės narės teise.
 
 
 
@@ -3733,13 +3711,7 @@ Nr. X-273, 2005-06-23, Žin., 2005, Nr. 84-3110 (2005-07-12)
 
 
 Straipsnio pakeitimai:
-Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
- 
-
-
-
-
-70 straipsnis. Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų, teikiančių paslaugas Lietuvos Respublikoje neįsteigus filialo, ir Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų Lietuvos Respublikoje įsteigtų filialų priežiūra
+Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-0984070 straipsnis. Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų, teikiančių paslaugas Lietuvos Respublikoje neįsteigus filialo, ir Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų Lietuvos Respublikoje įsteigtų filialų priežiūra
 
 
 1. Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų, teikiančių paslaugas Lietuvos Respublikoje neįsteigus filialo, ir Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų Lietuvos Respublikoje įsteigtų filialų priežiūrą atlieka Europos Sąjungos valstybės narės, kurios jurisdikcijai priklauso užsienio bankas, priežiūros institucija. Tačiau tai neriboja Lietuvos priežiūros institucijos teisės reikalauti, kad Europos Sąjungos valstybėse narėse licencijuoti užsienio bankai, turintys filialų Lietuvos Respublikoje, periodiškai teiktų informaciją apie savo veiklą Lietuvos Respublikoje, reikalingą šio Įstatymo 701 straipsnio 1 dalyje nustatytų sąlygų vertinimui arba priežiūrai, atsižvelgiant į šio Įstatymo nuostatas, atlikti, taip pat atlikti Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų, teikiančių paslaugas Lietuvos Respublikoje neįsteigus filialo, Europos Sąjungos valstybėse narėse licencijuotų užsienio bankų Lietuvos Respublikoje įsteigtų filialų priežiūrą atsižvelgiant į šio straipsnio nuostatas. 
@@ -4134,6 +4106,11 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 
 
 
+13-1) pažeidžiami Reglamente (ES) 2022/2554 nustatyti reikalavimai;
+
+
+
+
 14) trukdoma priežiūros institucijai ar jos įgaliotiems asmenims atlikti patikrinimus;
 
 
@@ -4142,7 +4119,7 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 15) vykdant bent vieną iš Finansinių priemonių rinkų įstatymo 3 straipsnio 26 dalies 3 ir 6 punktuose nurodytų veiklų, pasiekiama šio įstatymo 9 straipsnio 22 dalyje nurodyta ribinė vertė ir neturima banko licencijos; 
 Papildyta straipsnio punktu:
 Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
- 
+ 
 
 
 
@@ -4150,7 +4127,7 @@ Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
 16) padaromi kiti šio Įstatymo ar kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai arba yra grėsmė, kad dėl banko ar užsienio banko filialo veiklos arba finansinės būklės būtų pažeisti visuomenės ir (arba) klientų interesai arba sutriktų Lietuvos Respublikos bankų sistemos funkcionavimas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
- 
+ 
 
 
 
@@ -4169,18 +4146,7 @@ Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
 
 4. Neteko galios nuo 2021-01-01
 Straipsnio dalies naikinimas:
-Nr. XIV-108, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28961
- 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
- 
-
-
-
-
-74 straipsnis. Baudos 
+Nr. XIV-108, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-2896174 straipsnis. Baudos 
 
 
 1. Priežiūros institucija skiria baudas:
@@ -5808,3 +5774,7 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 16, 52, 58 ir 67 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2881, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13489
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 4 straipsnio ir priedo pakeitimo įstatymas
+
+9. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo.
+
+10. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011.
