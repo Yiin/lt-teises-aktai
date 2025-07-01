@@ -1366,7 +1366,7 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-2. Draudimo rizika taip pat laikoma didele, kai ji priklauso šio įstatymo 7 straipsnio 3 dalies 3, 8, 9, 10, 13 ir 16 punktuose nurodytoms draudimo grupėms ir šios rizikos draudėjas viršija mažiausiai du šiuos dydžius: 
+2. Draudimo rizika taip pat laikoma didele, kai ji priklauso šio įstatymo 7 straipsnio 3 dalies 3, 8, 9, 10, 13 ir 16 punktuose nurodytoms draudimo grupėms ir šios rizikos draudėjas viršija mažiausiai du šiuos dydžius: 
 
 
 1) draudėjo balanse nurodyto turto vertė yra ne mažesnė kaip 6 200 000 eurų;
@@ -1386,15 +1386,7 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-3. Jeigu draudėjas priklauso grupei ūkio subjektų, kurių konsoliduotųjų finansinių ataskaitų rinkiniai sudaromi pagal Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo ar analogiško kitos Europos ekonominės erdvės valstybės teisės akto reikalavimus, šio straipsnio 2 dalyje numatyti dydžiai nustatomi atsižvelgiant į įmonių grupės dydžius.
- 
-
-
-
-
-
-
-11 straipsnis. Nepriekaištingos reputacijos, kvalifikacijos ir patirties vertinimas
+3. Jeigu draudėjas priklauso grupei ūkio subjektų, kurių konsoliduotųjų finansinių ataskaitų rinkiniai sudaromi pagal Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymo ar analogiško kitos Europos ekonominės erdvės valstybės teisės akto reikalavimus, šio straipsnio 2 dalyje numatyti dydžiai nustatomi atsižvelgiant į įmonių grupės dydžius.11 straipsnis. Nepriekaištingos reputacijos, kvalifikacijos ir patirties vertinimas
 
 
 1. Fizinio ir, kai toks reikalavimas taikomas, juridinio asmens reputacija vertinama atsižvelgiant į:
@@ -2078,22 +2070,22 @@ DRAUDIMO IR PERDRAUDIMO ĮMONĖS VALDYMAS
 22 straipsnis. Bendrosios valdymo nuostatos
 
 
-1.  Draudimo ar perdraudimo įmonės valdymo organai atsako už teisės aktų nuostatų laikymąsi. 
+1.  Draudimo ar perdraudimo įmonės valdymo organai atsako už teisės aktų nuostatų laikymąsi. 
 
 
 
 
-2.  Draudimo ar perdraudimo įmonėje turi būti įgyvendinta veiksminga valdymo sistema, kuria būtų užtikrintas patikimas ir riziką ribojantis veiklos valdymas. Šią sistemą turi sudaryti bent tinkama ir skaidri organizacinė struktūra, pagal kurią aiškiai paskirstytos ir tinkamai atskirtos pareigos, įdiegta veiksminga informacijos perdavimo sistema. Valdymo sistema turi būti reguliariai persvarstoma atliekant vidaus peržiūrą. Valdymo sistema turi būti proporcinga draudimo ar perdraudimo įmonės veiklos pobūdžiui, mastui ir sudėtingumui. Draudimo ar perdraudimo įmonės valdymo sistema privalo apimti šias pagrindines funkcijas: rizikos valdymo, aktuarinę, vidaus audito ir atitikties vertinimo.
+2.  Draudimo ar perdraudimo įmonėje turi būti įgyvendinta veiksminga valdymo sistema, kuria būtų užtikrintas patikimas ir riziką ribojantis veiklos valdymas. Šią sistemą turi sudaryti bent tinkama ir skaidri organizacinė struktūra, pagal kurią aiškiai paskirstytos ir tinkamai atskirtos pareigos, įdiegta veiksminga informacijos perdavimo sistema. Valdymo sistema turi būti reguliariai persvarstoma atliekant vidaus peržiūrą. Valdymo sistema turi būti proporcinga draudimo ar perdraudimo įmonės veiklos pobūdžiui, mastui ir sudėtingumui. Draudimo ar perdraudimo įmonės valdymo sistema privalo apimti šias pagrindines funkcijas: rizikos valdymo, aktuarinę, vidaus audito ir atitikties vertinimo.
 
 
 
 
-3.  Draudimo ar perdraudimo įmonė privalo turėti rašytinę politiką bent rizikos valdymo, vidaus kontrolės, vidaus audito ir, kai taikoma, veiklos rangos srityse. Šių sričių politikos aprašai turi būti patvirtinti draudimo ar perdraudimo įmonės stebėtojų tarybos arba valdybos ir keičiami atsižvelgiant į bet kokius svarbius sistemos ar atitinkamos srities pokyčius. Šioje dalyje nurodytų sričių politikos aprašai turi būti peržiūrimi bent kartą per metus. Draudimo ar perdraudimo įmonė turi užtikrinti šių sričių politikos įgyvendinimą.
+3.  Draudimo ar perdraudimo įmonė privalo turėti rašytinę politiką bent rizikos valdymo, vidaus kontrolės, vidaus audito ir, kai taikoma, veiklos rangos srityse. Šių sričių politikos aprašai turi būti patvirtinti draudimo ar perdraudimo įmonės stebėtojų tarybos arba valdybos ir keičiami atsižvelgiant į bet kokius svarbius sistemos ar atitinkamos srities pokyčius. Šioje dalyje nurodytų sričių politikos aprašai turi būti peržiūrimi bent kartą per metus. Draudimo ar perdraudimo įmonė turi užtikrinti šių sričių politikos įgyvendinimą.
 
 
 
 
-4.  Draudimo ir perdraudimo įmonės privalo užtikrinti nepertraukiamą įmonės veiklą, tam tikslui įmonėje turi būti parengtas ir patvirtintas veiklos tęstinumo planas bei užtikrintas jo įgyvendinimas. 
+4.  Draudimo ir perdraudimo įmonės privalo užtikrinti nepertraukiamą įmonės veiklą, tam tikslui įmonėje turi būti parengtas ir patvirtintas veiklos tęstinumo planas bei užtikrintas jo įgyvendinimas, įskaitant tinklų ir informacinių sistemų diegimą ir valdymą pagal Reglamentą (ES) 2022/2554.
 
 
 
@@ -2108,22 +2100,14 @@ Papildyta straipsnio dalimi:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 Straipsnio dalies pakeitimai:
 Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
- 
+ 
 
 
 
 
-7. Draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas privalo užtikrinti, kad jos darbuotojai, į kurių pareigas įeina draudimo ar perdraudimo produktų platinimo veikla, atitiktų šio įstatymo 1581 straipsnio 1 dalyje nustatytus reikalavimus ir jiems nebūtų taikomas apribojimas vykdyti veiklą pagal šio įstatymo 1581 straipsnio 2 dalį, o priežiūros institucijos reikalavimu – tai įrodyti. Draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas nustato, įgyvendina ir reguliariai, bet ne rečiau kaip kartą per metus, peržiūri vidaus politiką ir vidaus procedūras, kuriomis užtikrinamas šių reikalavimų laikymasis. Be to, draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas paskiria asmenį, atsakingą už nustatytų vidaus politikos ir procedūrų įgyvendinimą, ir jo vardą ir pavardę nurodo priežiūros institucijai šios prašymu. 
+7. Draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas privalo užtikrinti, kad jos darbuotojai, į kurių pareigas įeina draudimo ar perdraudimo produktų platinimo veikla, atitiktų šio įstatymo 1581 straipsnio 1 dalyje nustatytus reikalavimus ir jiems nebūtų taikomas apribojimas vykdyti veiklą pagal šio įstatymo 1581 straipsnio 2 dalį, o priežiūros institucijos reikalavimu – tai įrodyti. Draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas nustato, įgyvendina ir reguliariai, bet ne rečiau kaip kartą per metus, peržiūri vidaus politiką ir vidaus procedūras, kuriomis užtikrinamas šių reikalavimų laikymasis. Be to, draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas paskiria asmenį, atsakingą už nustatytų vidaus politikos ir procedūrų įgyvendinimą, ir jo vardą ir pavardę nurodo priežiūros institucijai šios prašymu. 
 Papildyta straipsnio dalimi:
-Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
- 
-
-
-
-
-
-
-23 straipsnis. Tiesiogiai ar netiesiogiai valdomų draudimo ar perdraudimo įmonės akcijų įsigijimas ir perleidimas
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-1131323 straipsnis. Tiesiogiai ar netiesiogiai valdomų draudimo ar perdraudimo įmonės akcijų įsigijimas ir perleidimas
 
 
 1. Fizinis ar juridinis asmuo arba kartu veikiantys asmenys (toliau šiame straipsnyje – įsigyjantis asmuo), nusprendę tiesiogiai ar netiesiogiai įsigyti pakankamą akcijų paketą arba padidinti jį lygiai iki 20 procentų, 30 procentų ar 50 procentų arba daugiau draudimo ar perdraudimo įmonės įstatinio kapitalo, arba padidinti turimų balsų draudimo ar perdraudimo įmonės visuotiniame akcininkų susirinkime skaičių lygiai iki 20 procentų, 30 procentų ar 50 procentų arba daugiau visų balsų, arba jei tiesiogiai ar netiesiogiai įsigijus akcijų draudimo ar perdraudimo įmonė taps įsigijusio akcijų asmens patronuojamąja įmone (toliau šiame straipsnyje – siūlomas įsigijimas), turi gauti priežiūros institucijos sprendimą neprieštarauti siūlomam įsigijimui. Įsigyjantis asmuo privalo apie siūlomą įsigijimą raštu pranešti priežiūros institucijai, nurodyti planuojamo įsigyti pakankamo akcijų paketo dydį ir pateikti šio straipsnio 3 dalyje nurodytame sąraše nustatytus dokumentus ir informaciją. 
@@ -10046,7 +10030,7 @@ Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
 
 
 
-8) trečiosios valstybės draudimo ar perdraudimo įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės ir asmenys, stebėtojų tarybos, valdybos nariai, vadovas, filialo vadovas, asmenys, atsakingi už rizikos valdymo, aktuarinę, atitikties vertinimo ir vidaus audito funkcijas, ar kiti vadovaujamąsias pareigas einantys asmenys neatitinka kriterijų, nustatytų šio įstatymo 80 straipsnyje; 
+8) trečiosios valstybės draudimo ar perdraudimo įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės ir asmenys, stebėtojų tarybos, valdybos nariai, vadovas, filialo vadovas, asmenys, atsakingi už rizikos valdymo, aktuarinę, atitikties vertinimo ir vidaus audito funkcijas, ar kiti vadovaujamąsias pareigas einantys asmenys neatitinka kriterijų, nustatytų šio įstatymo 80 straipsnyje; 
 
 
 
@@ -10094,7 +10078,7 @@ Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
 161) pažeisti Reglamente (ES) 2019/2088 nustatyti reikalavimai; 
 Papildyta straipsnio punktu:
 Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
- 
+ 
 
 
 
@@ -10102,7 +10086,12 @@ Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
 162) pažeisti Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose nustatyti reikalavimai;
 Papildyta straipsnio punktu:
 Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
- 
+ 
+
+
+
+
+163) pažeisti Reglamente (ES) 2022/2554 nustatyti reikalavimai;
 
 
 
@@ -10127,8 +10116,6 @@ Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
 
 
 
-
-
 2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas.
 
 
@@ -10144,13 +10131,7 @@ Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
 
 Straipsnio pakeitimai:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
-Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
- 
-
-
-
-
-206 straipsnis. Privalomasis teisių ir pareigų pagal draudimo sutartis perleidimas
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313206 straipsnis. Privalomasis teisių ir pareigų pagal draudimo sutartis perleidimas
 
 
 1. Jeigu iškyla reali grėsmė, kad draudimo įmonė taps nemoki ar trečiosios valstybės draudimo įmonės filialui priskirtas turtas taps mažesnis už filialo įsipareigojimus, priežiūros institucija, siekdama apsaugoti draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesus, turi teisę įpareigoti draudimo įmonę ar trečiosios valstybės draudimo įmonės filialą perleisti teises ir pareigas pagal draudimo sutartis jas ketinantiems perimti subjektams.
@@ -10559,7 +10540,7 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 212 straipsnis. Priežiūros institucijos rengiami patikrinimai
 
 
-1. Priežiūros institucija turi teisę organizuoti ir atlikti patikrinimus, kad nustatytų, kaip laikomasi šio įstatymo ir jo pagrindu priimtų teisės aktų, ir kitais šiame įstatyme nustatytais tikslais.
+1. Priežiūros institucija turi teisę organizuoti ir atlikti patikrinimus, kad nustatytų, kaip laikomasi šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai.
 
 
 
@@ -10567,7 +10548,7 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 2. Neteko galios 2018-06-15. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
- 
+ 
 
 
 
@@ -10588,7 +10569,7 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 3) kitos Europos ekonominės erdvės valstybės draudimo ir perdraudimo įmonių, draudimo ir perdraudimo tarpininkų filialų, įsteigtų Lietuvos Respublikoje, šios valstybės priežiūros institucijos prašymu arba savo iniciatyva prieš tai pranešusi atitinkamos kitos Europos ekonominės erdvės valstybės priežiūros institucijai; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
- 
+ 
 
 
 
@@ -10606,7 +10587,7 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 6) asmenų, kurie neteisėtai verčiasi draudimo ar perdraudimo įmonės veikla, draudimo ar perdraudimo produktų platinimo veikla ar kurie yra susiję su šio įstatymo ar jo pagrindu priimtų teisės aktų pažeidimais; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
- 
+ 
 
 
 
@@ -10616,12 +10597,10 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-
-
 4. Reikalavimai priežiūros institucijos rengiamiems patikrinimams yra nustatyti Lietuvos banko įstatymo 421 straipsnyje. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme ir šiame įstatyme nustatytas teises. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
- 
+ 
 
 
 
@@ -10645,13 +10624,7 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 Straipsnio pakeitimai:
-Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
- 
-
-
-
-
-213 straipsnis. Draudimo ir perdraudimo taisyklės ir kita informacija
+Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897213 straipsnis. Draudimo ir perdraudimo taisyklės ir kita informacija
 
 
 1. Priežiūros institucija neturi teisės reikalauti, kad draudimo ar perdraudimo įmonės pateiktų išankstiniam patvirtinimui ar periodiškai teiktų draudimo ar perdraudimo taisykles ar kitus sutarties sąlygų aprašus ir dokumentus, ne gyvybės draudimo ir perdraudimo įmokų tarifus ar informaciją apie jų padidinimą ir aktuarinę informaciją, naudojamą skaičiuojant ne gyvybės draudimo ir perdraudimo įmokų tarifus ir (ar) techninius atidėjinius.
@@ -11403,3 +11376,7 @@ Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 2, 22, 52, 79, 90, 90-1, 93,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1583, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25133
 Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 207 straipsnio pakeitimo įstatymas
+
+2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo.
+
+2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011.
