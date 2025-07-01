@@ -4051,23 +4051,15 @@ Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
 
 112 straipsnis. Nesiėmimas priemonių, skirtų sunaikintiems ar sugadintiems riboženkliams atkurti
 
+1. Nesiėmimas priemonių, skirtų sunaikintiems ar sugadintiems riboženkliams atkurti,
+užtraukia įspėjimą arba baudą žemės savininkams ar kitiems žemės naudotojams nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų.
 
-Nesiėmimas priemonių, skirtų sunaikintiems ar sugadintiems riboženkliams atkurti, kai jų nesiima žemės savininkai ar kiti žemės naudotojai po to, kai jie raštu buvo įspėti tai padaryti,
-
-
-
-
-užtraukia baudą nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų. 
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo vieno šimto keturiasdešimt iki dviejų šimtų aštuoniasdešimt eurų.
 
 
 Straipsnio pakeitimai:
-Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
- 
-
-
-
-
-113 straipsnis. Geodezinio punkto sunaikinimas arba sugadinimas
+Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572113 straipsnis. Geodezinio punkto sunaikinimas arba sugadinimas
 
 
 Geodezinio punkto sunaikinimas arba sugadinimas
@@ -4083,25 +4075,11 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 
 
-1131 straipsnis. Riboženklio ar geodezinio ženklo pakeitimas
+113^1 straipsnis. Riboženklio pakeitimas
 
+Neteisėtas riboženklio pastatymas, perdarymas, pašalinimas ar nukėlimas
 
-Neteisėtas riboženklio ar geodezinio ženklo pastatymas, perdarymas, pašalinimas ar nukėlimas
-
-
-
-
-užtraukia baudą nuo vieno šimto iki trijų šimtų penkiasdešimt eurų.
-
-
-Papildyta straipsniu:
-Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
- 
-
-
-
-
-114 straipsnis. Gyvūnijos valstybinės nuosavybės teisės pažeidimas
+užtraukia baudą nuo vieno šimto iki trijų šimtų penkiasdešimt eurų.114 straipsnis. Gyvūnijos valstybinės nuosavybės teisės pažeidimas
 
 
 Savavališkas teisės naudotis gyvūnijos objektais perleidimas, kitų sandorių, tiesiogiai ar netiesiogiai pažeidžiančių gyvūnijos valstybinės nuosavybės teisę, sudarymas, taip pat savavališkas gyvūnijos objektų, kurių naudojimui reikia gauti leidimą, naudojimas
@@ -14252,7 +14230,7 @@ užtraukia baudą nuo vieno tūkstančio vieno šimto dvidešimt iki dviejų tū
 
 
 5. Naujo neypatingojo statinio savavališka statyba
-užtraukia baudą nuo aštuonių šimtų iki dviejų tūkstančių keturių šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių keturių šimtų penkiasdešimt eurų.
 
 
 
@@ -14264,7 +14242,7 @@ užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
 7. Naujo neypatingojo statinio savavališka statyba kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą nuo dviejų tūkstančių penkių šimtų penkiasdešimt iki penkių tūkstančių dviejų šimtų penkiasdešimt eurų.
 
 
 
@@ -14276,7 +14254,7 @@ užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.
 
 
 9. Naujo ypatingojo statinio savavališka statyba
-užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių septynių šimtų eurų.
+užtraukia baudą nuo keturių tūkstančių trijų šimtų penkiasdešimt iki penkių tūkstančių aštuonių šimtų eurų.
 
 
 
@@ -14298,93 +14276,7 @@ užtraukia baudą nuo penkių tūkstančių aštuonių šimtų iki šešių tūk
 
 
 Straipsnio pakeitimai:
-Nr. XIV-2622, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08912
- 
-
-
-
-
-352 straipsnis. Statinio savavališkas rekonstravimas
-
-
-1. Nesudėtingojo statinio savavališkas rekonstravimas
-užtraukia baudą nuo šešiasdešimt iki trijų šimtų eurų.
-
-
-
-
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo dviejų šimtų aštuoniasdešimt iki vieno tūkstančio dviejų šimtų eurų.
-
-
-
-
-3. Nesudėtingojo statinio savavališkas rekonstravimas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
-užtraukia baudą nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
-
-
-
-
-4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo penkių šimtų iki dviejų tūkstančių keturių šimtų eurų.
-
-
-
-
-5. Neypatingojo statinio savavališkas rekonstravimas
-užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų.
-
-
-
-
-6. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo trijų tūkstančių keturių šimtų iki šešių tūkstančių eurų.
-
-
-
-
-7. Neypatingojo statinio savavališkas rekonstravimas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje
-užtraukia baudą nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių penkių šimtų eurų.
-
-
-
-
-8. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.
-
-
-
-
-9. Ypatingojo statinio savavališkas rekonstravimas
-užtraukia baudą nuo dviejų tūkstančių devynių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
-
-
-
-
-10. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo penkių tūkstančių penkių šimtų iki šešių tūkstančių eurų.
-
-
-
-
-11. Ypatingojo statinio savavališkas rekonstravimas kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, jų apsaugos zonose, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje saugomoje teritorijoje, pajūrio juostoje arba kultūros paveldo statinio savavališkas rekonstravimas
-užtraukia baudą nuo keturių tūkstančių trijų šimtų iki šešių tūkstančių eurų.
-
-
-
-
-12. Šio straipsnio 11 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo penkių tūkstančių aštuonių šimtų iki šešių tūkstančių eurų.
-
-
-Straipsnio pakeitimai:
-Nr. XIV-2622, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08912
- 
-
-
-
-
-353 straipsnis. Statinio savavališkas kapitalinis remontas
+Nr. XIV-2622, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-0891353 straipsnis. Statinio savavališkas kapitalinis remontas
 
 
 1. Nesudėtingojo statinio savavališkas kapitalinis remontas
@@ -14458,13 +14350,7 @@ užtraukia baudą nuo penkių tūkstančių iki šešių tūkstančių eurų.
 
 
 Straipsnio pakeitimai:
-Nr. XIV-2622, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08912
- 
-
-
-
-
-354 straipsnis. Statinio savavališkas paprastasis remontas
+Nr. XIV-2622, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08912354 straipsnis. Statinio savavališkas paprastasis remontas
 
 
 1. Nesudėtingojo statinio savavališkas paprastasis remontas
@@ -22330,883 +22216,7 @@ ADMINISTRACINIŲ NUSIŽENGIMŲ TEISENOS PRADŽIA IR ADMINISTRACINIŲ NUSIŽENGIM
  
 
 
-589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai
-
-
-Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų tyrimą atlieka ir administracinių nusižengimų protokolus surašo, išskyrus šio kodekso 611 straipsnio 4 dalyje nustatytus atvejus, šių institucijų pareigūnai:
-Straipsnio dalies pakeitimai:
-Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
-
-
-1) Lietuvos Respublikos Seimo kontrolierių įstaigos – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų;
-
-
-
-
-2) Vaiko teisų apsaugos kontrolieriaus įstaigos – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų;
-
-
-
-
-3) Lygių galimybių kontrolieriaus tarnybos – dėl šio kodekso 81, 505, 507 straipsniuose numatytų administracinių nusižengimų;
-
-
-
-
-4) Lietuvos Respublikos vyriausiosios rinkimų komisijos (toliau – Vyriausioji rinkimų komisija) pirmininkas ir šios komisijos nariai ar Vyriausiosios rinkimų komisijos pirmininko įgalioti valstybės tarnautojai – dėl šio kodekso 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2567, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19879
- 
-
-
-
-
-5) Vyriausiosios rinkimų komisijos pirmininkas ar jo įgaliotas šios komisijos narys – dėl šio kodekso 224 straipsnio 2 dalyje, 544, 545 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2567, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19879
- 
-
-
-
-
-6) prokurorai – dėl šio kodekso 505, 507 ir 5551 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto pakeitimai:
-Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872
- 
-
-
-
-
-7) Lietuvos banko – dėl šio kodekso 196 straipsnio 2 dalyje, 198, 2072, 221, 222, 224, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069
-Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481
-Nr. XIII-1253, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09921
-Nr. XIV-1867, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06474
-Nr. XIV-2518, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06307
- 
-
-
-
-
-8) Lietuvos radijo ir televizijos komisijos – dėl šio kodekso 79 straipsnio 5, 6 dalyse, 122 straipsnyje (kai pažeidimai padaryti dėl autorių teisių ar gretutinių teisių objekto arba jų dalies, įskaitant padarymą viešai prieinamo kompiuterių tinklais (internete), 124 straipsnyje, 146, 2261, 477, 505, 507 straipsniuose, 515 straipsnio 1, 2 dalyse, 548 straipsnio 3, 4 dalyse numatytų administracinių nusižengimų;
-Straipsnio punkto pakeitimai:
-Nr. XIII-610, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12431
-Nr. XIV-1867, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06474
-Nr. XIV-2026, 2023-06-01, paskelbta TAR 2023-06-07, i. k. 2023-11218
- 
-
-
-
-
-9) Lietuvos Respublikos konkurencijos tarybos – dėl šio kodekso 199, 224, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2014, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05347
- 
-
-
-
-
-10) Lietuvos Respublikos specialiųjų tyrimų tarnybos – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
-
-
-
-
-11) Lietuvos Respublikos valstybės kontrolės – dėl šio kodekso 186, 505, 507 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto pakeitimai:
-Nr. XIV-137, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00258
- 
-
-
-
-
-12) Lietuvos Respublikos valstybės saugumo departamento – dėl šio kodekso 393 straipsnio 4, 5, 8, 9 dalyse, 506 straipsnio 4 dalyje, 508, 509, 553, 554, 555, 5571 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto pakeitimai:
-Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
-Nr. XIV-2394, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25910
- 
-
-
-
-
-13) Lietuvos Respublikos valstybinės kultūros paveldo komisijos – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-
-
-
-
-14) Valstybinės energetikos reguliavimo tarybos – dėl šio kodekso 1882 straipsnyje, 324, 325, 326, 327, 328, 329, 330, 331, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1969, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03167
-Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
-Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
- 
-
-
-
-
-15) Vyriausiosios tarnybinės etikos komisijos nariai ar jos įgalioti tarnautojai – dėl šio kodekso 126 straipsnyje, 224 straipsnio 2 dalyje, 505, 507, 533 straipsniuose numatytų administracinių nusižengimų;
-
-
-
-
-16) žurnalistų etikos inspektorius – dėl šio kodekso 79 straipsnio 1, 2 dalyse, 2261, 505, 507 straipsniuose, 548 straipsnio 1, 2 dalyse numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-610, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12431
- 
-
-
-
-
-17) Lietuvos Respublikos finansų ministerijos – dėl šio kodekso 185, 195 straipsniuose, 196 straipsnio 1 dalyje, 205 straipsnio 7 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-691, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25118
- 
-
-
-
-
-18) Lietuvos Respublikos kultūros ministerijos – dėl šio kodekso 135, 136 straipsniuose, 496 straipsnio 2 dalyje, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-886, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21499
- 
-
-
-
-
-19) Lietuvos Respublikos susisiekimo ministerijos ar jos įgaliotos įstaigos – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 359, 360, 505, 507 straipsniuose numatytų administracinių nusižengimų;
-
-
-
-
-20) Lietuvos Respublikos sveikatos apsaugos ministerijos – dėl šio kodekso 681 straipsnyje numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
- 
-
-
-
-
-21) Lietuvos Respublikos švietimo, mokslo ir sporto ministerijos ar jos įgaliotos įstaigos – dėl šio kodekso 72 straipsnio 4, 5, 6, 7 dalyse, 80, 981, 2261, 505, 507, 549 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-610, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12431
-Nr. XIII-1546, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16602
-Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
-Nr. XIV-2916, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13512
- 
-
-
-
-
-22) Lietuvos Respublikos ekonomikos ir inovacijų ministerijos – dėl šio kodekso 505, 507, 515 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1994, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04395
- 
-
-
-
-
-23) Lietuvos Respublikos žemės ūkio ministerijos ar jos įgaliotų įstaigų – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 121, 178, 181, 256, 312, 313, 335, 336, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
-Nr. XIV-412, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15166
-Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783
- 
-
-
-
-
-24) Lietuvos Respublikos ryšių reguliavimo tarnybos – dėl šio kodekso 79 straipsnio 3, 4 dalyse, 791, 147, 1471 straipsniuose, 224 straipsnio 1 dalyje, 464, 465, 466, 467, 468, 469, 470, 471, 472, 476, 4761 straipsniuose, 496 straipsnio 3 dalyje, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto pakeitimai:
-Nr. XIII-637, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15113
-Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594
-Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231
-Nr. XIV-1953, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09697
- 
-
-
-
-
-25) Valstybės duomenų agentūros – dėl šio kodekso 221, 222, 505, 507 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1436, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20331
- 
-
-
-
-
-26) Lietuvos vyriausiojo archyvaro tarnybos ir valstybės archyvų – dėl šio kodekso 116, 117, 118, 504, 505, 507, 522 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651
- 
-
-
-
-
-27) Narkotikų, tabako ir alkoholio kontrolės departamento – dėl šio kodekso 65, 70, 127, 132, 137, 138, 145, 152, 168, 170 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnio 1 dalyje, 505, 507, 5101 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1162, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08534
- 
-
-
-
-
-28) Valstybinės atominės energetikos saugos inspekcijos – dėl šio kodekso 47 straipsnio 3 dalyje, 127 straipsnio 1, 2 dalyse, 141, 242, 245, 320, 322, 359, 360, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
-
-
-
-
-29) Valstybinės duomenų apsaugos inspekcijos – dėl šio kodekso 83 straipsnyje, 224 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto pakeitimai:
-Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594
-Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
- 
-
-
-
-
-30) Valstybinės maisto ir veterinarijos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 1, 2 dalyse, 51, 69, 70, 78 straipsniuose, 127 straipsnio 1, 2 dalyse, 139 straipsnyje, 144 straipsnio 4, 5 dalyse, 145, 152, 153, 155, 156, 157, 158, 160, 161, 162, 163, 181 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 2471 straipsnio 1, 2 dalyse, 256 straipsnyje, 291 straipsnio 6 dalyje, 299 straipsnio 2, 3, 4 dalyse, 3041 straipsnyje, 3042 straipsnio 3, 4 dalyse, 312, 343 straipsniuose, 3431 straipsnio 1, 2, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21, 22 dalyse, 344, 346, 347, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
-Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
-Nr. XIV-1399, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16125
-Nr. XIV-1091, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11329
-Nr. XIV-1449, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21164
-Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783
-Nr. XIV-3131, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20370
- 
-
-
-
-
-31) aplinkos apsaugos valstybinės kontrolės pareigūnai – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 92 straipsnio 1 dalyje, 110, 112, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 235, 236, 2361, 237, 238, 239, 241, 242, 243, 2431, 244, 246, 247, 2471 straipsnio 3, 4 dalyse, 248, 2481, 2482, 2483, 249, 250, 251, 2511, 252, 253, 255, 2551, 256, 257, 258, 259, 260, 261, 262, 264, 265, 266, 267, 268, 269, 270, 2701 straipsniuose, 271 straipsnio 1, 2, 3, 4, 6, 7, 8 dalyse, 272, 273, 274, 275, 276, 277, 278, 279, 280 straipsniuose, 281 straipsnio 1, 2, 3, 4, 5, 61, 7, 8, 9 dalyse, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 3041, 3042, 305, 307, 308, 3081, 309, 310, 311, 312, 313, 315, 316, 317, 318 straipsniuose, 346 straipsnio 1, 2, 3, 4, 5, 51, 52, 16, 17, 18, 19 dalyse, 364 straipsnyje, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 491, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
-Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
-Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
-Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
-Nr. XIII-2468, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17213
-Nr. XIII-2800, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02852
-Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
-Nr. XIII-3197, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15390
-Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
-Nr. XIV-897, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00754
-Nr. XIV-1399, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16125
-Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
-Nr. XIV-1753, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27305
-Nr. XIV-1448, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21204
-Nr. XIV-2305, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24172
-Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783
- 
-
-
-
-
-32) Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 95, 99, 127, 143, 150, 155, 158, 160, 161, 162, 163, 164, 165, 166, 168, 171, 172, 173, 174, 176, 185, 186, 187, 1871, 188, 193, 198, 205 straipsniuose, 207 straipsnio 1, 2 dalyse, 2071 straipsnyje, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224 straipsniuose, 3422 straipsnio 1, 2 dalyse, 3423 straipsnio 1, 2 dalyse, 3424 straipsnio 1, 2 dalyse, 505 straipsnyje, 506 straipsnio 4, 41 dalyse, 507, 508, 515 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
-Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
-Nr. XIV-297, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11768
-Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
-Nr. XIV-1400, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16126
-Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651
-Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
- 
-
-
-
-
-33) Informacinės visuomenės plėtros komiteto – dėl šio kodekso 478, 505, 507, 552 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1366, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11186
-Nr. XIII-1994, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04395
- 
-
-
-
-
-331) Lietuvos kalėjimų tarnybos – dėl šio kodekso 71, 76, 77, 108, 109, 115, 137, 226, 481, 485, 490, 492 straipsniuose, 506 straipsnio 4, 41 dalyse, 507, 508 straipsniuose numatytų administracinių nusižengimų;
-Papildyta straipsnio punktu:
-Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
-Straipsnio punkto pakeitimai:
-Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
-Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
-Nr. XIV-1203, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15566
- 
-
-
-
-
-34) Karo policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 71, 108 straipsniuose, 385 straipsnio 4, 5 dalyse, 393 straipsnio 2, 3, 4, 5, 6, 7, 8, 9 dalyse, 416, 417, 420, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 431, 481, 5052 straipsniuose, 506 straipsnio 3, 4, 41 dalyse, 508 straipsnyje, 526 straipsnio 5 dalyje, 5261, 556, 557, 5571, 562 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964
-Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
-Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
-Nr. XIII-3442, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24621
-Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
-Nr. XIV-1641, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26582
-Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338
-Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818
- 
-
-
-
-
-35) Kultūros paveldo departamento prie Kultūros ministerijos – dėl šio kodekso 92 straipsnio 1 dalyje, 144 straipsnio 1, 4, 5 dalyse, 177, 198, 224, 256, 314, 3141, 351, 352, 353, 354, 355, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069
-Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
-Nr. XIV-609, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23531
- 
-
-
-
-
-36) Neteko galios nuo 2020-09-01
-Straipsnio punkto naikinimas:
-Nr. XIII-3092, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13970
-Straipsnio punkto pakeitimai:
-Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997
- 
-
-
-
-
-37) Lietuvos geologijos tarnybos prie Aplinkos ministerijos įgalioti valstybės tarnautojai – dėl šio kodekso 253, 263 straipsniuose, 265 straipsnio 5 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
-Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
-Nr. XIII-3197, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15390
- 
-
-
-
-
-38) Lietuvos metrologijos inspekcijos – dėl šio kodekso 140, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
-
-
-
-
-381) Lietuvos probacijos tarnybos – dėl šio kodekso 71, 137, 481, 484 ir 485 straipsniuose, 506 straipsnio 4, 41 dalyse, 507, 508 straipsniuose numatytų administracinių nusižengimų;
-Papildyta straipsnio punktu:
-Nr. XIV-882, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00173
- 
-
-
-
-
-39) netenka galios 2020-07-01;
-Straipsnio punkto pakeitimai:
-Nr. XII-2530, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20288
-Nr. XIII-2624, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20653
- 
-
-
-
-
-40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 1411, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 2172, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 1, 2 dalyse, 285 straipsnio 1, 2, 9, 10 dalyse, 303 straipsnio 1, 2 dalyse, 3042 straipsnio 3, 4 dalyse, 308 straipsnio 6 dalyje, 3081 straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 2, 3, 9, 10, 11 dalyse, 310 straipsnio 12, 13 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 7, 8 dalyse, 3431 straipsnio 3, 4, 5, 6, 19, 20 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 436, 437 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 459 straipsnio 4, 5, 6, 9, 10 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4, 41 dalyse, 507, 508, 5101, 515, 5261 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
-Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
-Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997
-Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
-Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481
-Nr. XIII-1162, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08534
-Nr. XIII-1542, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16600
-Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
-Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
-Nr. XIII-3220, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15757
-Nr. XIV-297, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11768
-Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
-Nr. XIV-1091, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11329
-Nr. XIV-1449, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21164
-Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
-Nr. XIV-1641, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26582
-Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651
-Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
-Nr. XIV-1862, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06469
-Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783
- 
-
-
-
-
-41) neteko galios nuo 2017-12-01;
-Straipsnio punkto pakeitimai:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
-
-
-
-
-42) Lošimų priežiūros tarnybos prie Lietuvos Respublikos finansų ministerijos – dėl šio kodekso 134, 1884, 198, 505, 507 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto pakeitimai:
-Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069
-Nr. XV-109, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00694
- 
-
-
-
-
-43) valstybinių miškų apsaugos pareigūnai – dėl šio kodekso 110, 112 straipsniuose, 247 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 dalyse, 256 straipsnio 1 dalyje, 261, 270, 272, 274, 275, 277, 278, 279, 280, 282, 283 straipsniuose, kai pažeidimai padaryti miškų urėdijos patikėjimo teise valdomuose valstybiniuose miškuose, 290 straipsnyje, 426 straipsnio 4 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
-Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
-Nr. XIII-2636, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20658
-Nr. XIII-3197, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15390
-Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651
- 
-
-
-
-
-44) Mobilizacijos ir pilietinio pasipriešinimo departamento prie Krašto apsaugos ministerijos – dėl šio kodekso 505, 507, 516, 517, 5174 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
- 
-
-
-
-
-45) Nacionalinės žemės tarnybos prie Aplinkos ministerijos – dėl šio kodekso 113, 1131, 3331, 334, 364, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
-Nr. XIV-1398, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16124
-Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
-Nr. XIV-2133, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14325
- 
-
-
-
-
-46) Nacionalinio kibernetinio saugumo centro – dėl šio kodekso 480 straipsnio 3, 4 dalyse, 4801, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594
-Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
-Nr. XIV-414, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14162
-Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539
- 
-
-
-
-
-47) Nacionalinio transplantacijos biuro prie Sveikatos apsaugos ministerijos – dėl šio kodekso 60 straipsnio 1, 2 dalyse, 505, 507 straipsniuose numatytų administracinių nusižengimų;
-
-
-
-
-48) Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos – dėl šio kodekso 45 straipsnyje, 48 straipsnio 1, 2 dalyse, 49 straipsnio 1, 2, 4 dalyse, 50, 52, 53 straipsniuose, 224 straipsnio 1 dalyje, 369 straipsnio 7, 8, 9, 10 dalyse, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1212, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09724
-Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
- 
-
-
-
-
-49) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71 straipsniuose, 72 straipsnio 1, 2, 3 dalyse, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 1311, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 1701, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 2091, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 2341, 2342 straipsniuose, 281 straipsnio 1, 2, 3, 4, 5 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 373 straipsnio 2 dalyje, 414, 415, 416, 417, 420, 421, 422, 4221, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 451, 452, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474, 4741, 479 straipsniuose, 480 straipsnio 1, 2 dalyse, 481, 482, 483, 484, 4841, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 4941, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 41, 5, 6 dalyse, 507, 5071, 508, 5101, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 5 dalyje, 5261, 527, 528, 530, 534, 535, 538, 540, 546, 553, 5551 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
-Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
-Nr. XIII-731, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18854
-Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594
-Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
-Nr. XIII-1162, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08534
-Nr. XIII-1542, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16600
-Nr. XIII-1546, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16602
-Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
-Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872
-Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
-Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
-Nr. XIII-2127, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08307
-Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
-Nr. XIV-897, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00754
-Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
-Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
-Nr. XIV-1641, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26582
-Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651
-Nr. XIV-1615, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25059
-Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
-Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
-Nr. XIV-2151, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14337
-Nr. XIV-2463, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25957
-Nr. XIV-2904, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13539
-Nr. XIV-2916, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13512
-Nr. XIV-3018, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17780
-Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818
- 
-
-
-
-
-50) Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos – dėl šio kodekso 254, 279, 286, 288, 491, 493, 505 straipsniuose, 506 straipsnio 4, 41 dalyse, 507, 508, 525, 526, 5261 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2468, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17213
-Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
-Nr. XIV-1641, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26582
- 
-
-
-
-
-51) Radiacinės saugos centro – dėl šio kodekso 47, 53 straipsniuose, 127 straipsnio 1, 2 dalyse, 139, 236, 240, 242, 245, 358, 359, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto pakeitimai:
-Nr. XIII-3367, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24524
- 
-
-
-
-
-52) Socialinių paslaugų priežiūros departamento prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 72 straipsnio 4, 5, 6, 7 dalyse, 107, 224, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
-Nr. XIII-3345, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23930
-Nr. XIV-2916, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13512
- 
-
-
-
-
-53) Vadovybės apsaugos tarnybos – dėl šio kodekso 505 straipsnyje, 506 straipsnio 4, 41 dalyse, 507, 514 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
-Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900
- 
-
-
-
-
-54) Valstybės garantuojamos teisinės pagalbos tarnybos – dėl šio kodekso 507, 531 straipsniuose numatytų administracinių nusižengimų;
-
-
-
-
-55) Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 47 straipsnio 3 dalyje, 65 straipsnio 3 dalyje, 115, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 256, 266 straipsniuose, 282 straipsnio 1 dalyje, 290 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 406 straipsnio 1, 2, 3, 5 dalyse, 408 straipsnyje, 410 straipsnio 1 dalyje, 415 straipsnyje, 416 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 417 straipsnio 1, 2, 21, 3, 4, 6, 7 dalyse, 420 straipsnio 1, 2 dalyse, 421, 422, 4221, 424 straipsniuose, 426 straipsnio 4 dalyje, 428 straipsnio 1 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 432, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 481, 484, 491 straipsniuose, 506 straipsnio 4, 41 dalyse, 507, 508, 524 straipsniuose, 526 straipsnio 5 dalyje, 5261, 536, 537, 538, 539, 540, 541, 543 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-595, 2017-07-04, paskelbta TAR 2017-07-11, i. k. 2017-11961
-Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
-Nr. XIII-1541, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16599
-Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
-Nr. XIII-2468, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17213
-Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
-Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
-Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
-Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
-Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
-Nr. XIV-1567, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25033
-Nr. XIV-1641, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26582
-Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651
-Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
-Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818
- 
-
-
-
-
-56) Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos – dėl šio kodekso 54, 55, 59, 61, 72 straipsnio 4, 5, 6, 7 dalyse, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-2916, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13512
- 
-
-
-
-
-57) Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos – dėl šio kodekso 224 straipsnyje, 3081 straipsnio 5, 7 dalyse, 312, 337, 338, 341, 342, 3421, 3422, 3423, 3424, 3425, 3426, 3427, 3428, 3429, 505, 507 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto pakeitimai:
-Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
-Nr. XIV-297, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11768
-Nr. XIV-1143, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13882
- 
-
-
-
-
-58) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 471 straipsnyje, 72 straipsnio 4, 5, 6, 7 dalyse, 95, 96, 97, 98, 981, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 2, 11, 16, 19, 20, 21, 22 dalyse, 3081 straipsnio 4, 6, 7 dalyse, 3621 straipsnyje, 453 straipsnio 10, 11 dalyse, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3 dalyse numatytų administracinių nusižengimų;
-Straipsnio punkto pakeitimai:
-Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
-Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
-Nr. XIII-1546, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16602
-Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
-Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
-Nr. XIII-2804, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02855
-Nr. XIII-2476, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16487
-Nr. XIII-2870, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09208
-Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755
-Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
-Nr. XIV-2653, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09691
-Nr. XIV-2916, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13512
- 
-
-
-
-
-59) Valstybės dokumentų technologinės apsaugos tarnybos prie Finansų ministerijos – dėl šio kodekso 505, 507, 550, 551 straipsniuose numatytų administracinių nusižengimų;
-
-
-
-
-60) neteko galios 2019-07-01;
-Straipsnio punkto pakeitimai:
-Nr. XIII-1969, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03167
- 
-
-
-
-
-61) neteko galios;
-Straipsnio punkto pakeitimai:
-Nr. XIII-590, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11959
- 
-
-
-
-
-62) neteko galios 2020-01-01; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
- 
-
-
-
-
-63) Lietuvos transporto saugos administracijos – dėl šio kodekso 101 straipsnio 5, 6 dalyse, 139 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 150, 256, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 3701, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 401 straipsnio 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 4011, 402, 403, 404, 405, 406, 407, 409, 410, 411, 413 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2, 3, 4 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 4491, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 2, 3, 4, 5, 6, 7, 9, 10 dalyse, 460, 461, 462, 463, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-590, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11959
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
-Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
-Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997
-Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
-Nr. XIII-1542, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16600
-Nr. XIII-1563, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17480
-Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
-Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
-Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
-Nr. XIII-3092, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13970
-Nr. XIV-897, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00754
-Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
-Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
-Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
-Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015
- 
-
-
-
-
-64) Valstybinės kalbos inspekcijos – dėl šio kodekso 497, 498, 499, 500, 501, 502, 503, 505, 507 straipsniuose numatytų administracinių nusižengimų;
-
-
-
-
-65) Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos ir teritorinių ligonių kasų – dėl šio kodekso 56, 57, 571, 58, 505, 507 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1490, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22952
- 
-
-
-
-
-66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 187, 1871, 188, 1881, 1883, 1884, 1885, 189, 190, 191, 192, 194, 1981, 205, 207, 2071, 2072 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214 straipsnyje, 223 straipsnio 4, 5 dalyse, 224, 3621, 431, 449, 4491 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto pakeitimai:
-Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
-Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
-Nr. XIII-3095, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14364
-Nr. XIII-2587, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20556
-Nr. XIII-3219, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15755
-Nr. XIV-412, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15166
-Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755
-Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
-Nr. XIV-1400, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16126
-Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
-Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
-Nr. XIV-2021, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11835
-Nr. XIV-1949, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09690
-Nr. XIV-2239, 2023-11-16, paskelbta TAR 2023-11-27, i. k. 2023-22830
-Nr. XIV-2653, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09691
-Nr. XIV-2681, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11164
-Nr. XIV-2922, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13555
-Nr. XIV-3021, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18352
- 
-
-
-
-
-67) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 110, 112, 1131, 261 straipsniuose, 276 straipsnio 3, 4 dalyse, 333 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 334, 350, 351, 352, 353, 354, 355, 356, 3561, 3562, 357, 3571, 358, 361, 362, 363, 364, 3641, 505, 507 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto pakeitimai:
-Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334
-Nr. XIV-1398, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16124
-Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
-Nr. XIV-2133, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14325
- 
-
-
-
-
-68) Valstybinės vaistų kontrolės tarnybos prie Sveikatos apsaugos ministerijos – dėl šio kodekso 60 straipsnio 3 dalyje, 62, 63, 66, 661, 67, 68 straipsniuose, 224 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
- 
-
-
-
-
-69) Valstybinės miškų tarnybos įgalioti valstybės tarnautojai – dėl šio kodekso 253 straipsnyje, 271 straipsnio 5 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Papildyta straipsnio punktu:
-Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
-Straipsnio punkto pakeitimai:
-Nr. XIII-3197, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15390
- 
-
-
-
-
-70) Valstybinės vartotojų teisių apsaugos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 3, 4, 5 dalyse, 491 straipsnyje, 50 straipsnio 1, 2, 3, 4, 13, 14, 15, 16 dalyse, 70, 128, 129, 139 straipsniuose, 144 straipsnio 2, 3, 4, 5 dalyse, 145, 152, 155, 156, 157, 160, 161, 162, 163, 164, 173, 174, 1882 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 234 straipsnio 1 dalyje, 2701 straipsnyje, 308 straipsnio 1, 2, 9, 10, 12, 15, 18, 20, 21, 22 dalyse, 3081 straipsnio 5, 7 dalyse, 309 straipsnio 6 dalyje, 310 straipsnio 10, 11, 12 dalyse, 473, 475, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
-Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
-Nr. XIII-1212, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09724
-Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
-Nr. XIII-1994, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04395
-Nr. XIII-2014, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05347
-Nr. XIII-2804, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02855
-Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
- 
-
-
-
-
-71) Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos – dėl šio kodekso 72, 73, 74, 75, 80, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Papildyta straipsnio punktu:
-Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
-Straipsnio punkto pakeitimai:
-Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
- 
-
-
-
-
-72) Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos ir jos teritorinių skyrių – dėl šio kodekso 187 straipsnio 4 dalyje, 193, 505, 507 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
-Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
-
-
-
-
-73) neteko galios 2019-03-22;
-Straipsnio punkto pakeitimai:
-Nr. XIII-1994, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04395
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
-Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
-
-
-
-
-74) Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 506 straipsnio 4, 41 dalyse, 507, 508 straipsniuose, 526 straipsnio 5 dalyje, 5261 straipsnyje numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
-Nr. XIV-1641, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26582
-Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651
-Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
-Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
-
-
-
-
-75) Viešųjų pirkimų tarnybos – dėl šio kodekso 175, 184, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
-Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
-
-
-
-
-76) Žuvininkystės tarnybos prie Lietuvos Respublikos žemės ūkio ministerijos – dėl šio kodekso 291, 292, 294 straipsniuose, 295 straipsnio 3 dalyje, 296, 297, 298, 299, 300, 301, 302, 505, 507 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto pakeitimai:
-Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
-Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
-
-
-
-
-77) biudžetinių įstaigų ir viešųjų įstaigų, atsakingų už Viešojo sektoriaus atskaitomybės įstatyme nustatytų viešojo sektoriaus subjektų grupių metinių ataskaitų rinkinių parengimą, paskelbimą ir (arba) pateikimą laiku, – dėl šio kodekso 185 straipsnyje numatytų administracinių nusižengimų; 
-TAR pastaba. 77 punktas taikomas, kai Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo ir jo įgyvendinamųjų teisės aktų pažeidimai padaryti dėl 2023 metų ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkinių.
-Straipsnio punkto pakeitimai:
-Nr. XIII-1184, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09075
-Nr. XIII-3318, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21259
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
-Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
-
-
-
-
-78) Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centro – dėl šio kodekso 4011 straipsnyje numatytų administracinių nusižengimų; 
-Papildyta straipsnio punktu:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
-Straipsnio punkto pakeitimai:
-Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
-
-
-
-
-79) Lietuvos kariuomenės struktūrinio padalinio, administruojančio karo prievolę, – dėl šio kodekso 558, 559, 560, 5601, 561 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
-Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
-
-
-
-
-80) Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnybos – dėl šio kodekso 123, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-459, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10816
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
-Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
-
-
-
-
-81) saugos ir paskirties reikalavimų valstybinės priežiūros institucijos – dėl šio kodekso 359, 360, 505, 507 straipsniuose numatytų administracinių nusižengimų;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
-Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
-
-
-
-
-82) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168 straipsniuose, 205 straipsnio 7 dalyje, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 242 straipsnio 4, 5 dalyse, 268 straipsnio 7, 8 dalyse, 281, 286, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2, 21 dalyse, 418, 419 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 446, 447 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 4491, 457, 459, 484, 4841, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 5051, 507, 5071, 516, 5171, 5172, 5173, 5174, 518, 519, 526, 5261, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų;
+298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2, 21 dalyse, 418, 419 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 446, 447 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 4491, 457, 459, 484, 4841, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 5051, 507, 5071, 516, 5171, 5172, 5173, 5174, 518, 519, 526, 5261, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-927, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21600
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
@@ -23224,12 +22234,12 @@ Nr. XIV-2852, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12637
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+ 
 
 
 
 
-83) savivaldybių vykdomųjų institucijų įgaliotų įstaigų ar įmonių – dėl šio kodekso 224, 319 straipsniuose, 434 straipsnio 2 dalyje, 426 straipsnio 4 dalyje, 439, 446 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 4491, 457, 505 straipsniuose numatytų administracinių nusižengimų;
+83) savivaldybių vykdomųjų institucijų įgaliotų įstaigų ar įmonių – dėl šio kodekso 224, 319 straipsniuose, 434 straipsnio 2 dalyje, 426 straipsnio 4 dalyje, 439, 446 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 4491, 457, 505 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
 Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
@@ -23237,7 +22247,7 @@ Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23247,7 +22257,7 @@ Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23257,7 +22267,7 @@ Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23269,19 +22279,19 @@ Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
 
-87) valstybinės priešgaisrinės priežiūros pareigūnai – dėl šio kodekso 224, 279, 286, 288, 505 straipsniuose, 506 straipsnio 4, 41 dalyse, 508, 525, 526 straipsniuose numatytų administracinių nusižengimų; 
+87) valstybinės priešgaisrinės priežiūros pareigūnai – dėl šio kodekso 224, 279, 286, 288, 505 straipsniuose, 506 straipsnio 4, 41 dalyse, 508, 525, 526 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23291,7 +22301,7 @@ Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23305,7 +22315,7 @@ Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23315,7 +22325,7 @@ Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23327,7 +22337,7 @@ Straipsnio punkto pakeitimai:
 Nr. XIV-3071, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20015
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23341,7 +22351,7 @@ Straipsnio punkto pakeitimai:
 Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23353,7 +22363,7 @@ Straipsnio punkto pakeitimai:
 Nr. XIII-1563, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17480
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23368,7 +22378,7 @@ Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23381,7 +22391,7 @@ Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23395,19 +22405,19 @@ Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
 
-97) valstybės įmonės Registrų centro – dėl šio kodekso 223 straipsnio 1, 2 dalyse, 505 straipsnyje numatytų administracinių nusižengimų; 
+97) valstybės įmonės Registrų centro – dėl šio kodekso 223 straipsnio 1, 2 dalyse, 505 straipsnyje numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-2021, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11835
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23420,7 +22430,7 @@ Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23430,17 +22440,17 @@ Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
 
-100) Lietuvos kino centro prie Kultūros ministerijos – dėl šio kodekso 496 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+100) Lietuvos kino centro prie Kultūros ministerijos – dėl šio kodekso 496 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Papildyta straipsnio punktu:
 Nr. XIII-886, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21499
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23452,7 +22462,7 @@ Punkto pakeitimai:
 Nr. XIII-3307, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20892
 Punkto numeracijos pakeitimas:
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
- 
+ 
 
 
 
@@ -23460,35 +22470,29 @@ Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
 102) Migracijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos – dėl šio kodekso 224, 505, 507, 528, 530, 532, 535, 538, 539, 541, 542 straipsniuose numatytų administracinių nusižengimų;
 Papildyta straipsnio punktu:
 Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
- 
+ 
 
 
 
 
-103) Lietuvos Respublikos žvalgybos kontrolierių įstaigos – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų;
+103) Lietuvos Respublikos žvalgybos kontrolierių įstaigos – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų;
 Papildyta straipsnio punktu:
 Nr. XIV-870, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26907
- 
+ 
 
 
 
 
-104) Žemės ūkio agentūros prie Žemės ūkio ministerijos – dėl šio kodekso 345, 348 straipsniuose numatytų administracinių nusižengimų. 
+104) Žemės ūkio agentūros prie Žemės ūkio ministerijos – dėl šio kodekso 345, 348 straipsniuose numatytų administracinių nusižengimų. 
 Papildyta straipsnio punktu:
 Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783
- 
+ 
 
 
 
 
 Straipsnio pakeitimai:
-Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
- 
-
-
-
-
-590 straipsnis. Pagrindai pradėti administracinių nusižengimų teiseną
+Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343590 straipsnis. Pagrindai pradėti administracinių nusižengimų teiseną
 
 
 1. Pareigūnai, atlikdami įstatymų įgyvendinimo kontrolę ar kitas teisės aktuose nustatytas funkcijas, administracinių nusižengimų teiseną pradeda vadovaudamiesi šiuo kodeksu ir jų veiklą reglamentuojančiais teisės aktais. Dėl administracinio nusižengimo teisenos pradžios specialus procesinis dokumentas nerašomas.
