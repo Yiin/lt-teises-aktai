@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2025-05-01 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01 iki 2025-10-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
  
@@ -298,6 +298,14 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 30. Automato elektroninis skaitiklis – į lošimo automatą įdiegta elektroninė sistema to automato apskaitos duomenims fiksuoti. 
 Papildyta straipsnio dalimi:
 Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
+ 
+
+
+
+
+301. Lošimų verslo subjektas – asmuo, dirbantis lošimų verslo srityje ar vykdantis ūkinę veiklą lošimų verslo srityje ir gaunantis komercinės naudos iš jos.
+Papildyta straipsnio dalimi:
+Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
  
 
 
@@ -1134,12 +1142,18 @@ Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
 
 
 
-17) kino teatruose, geležinkelio ir autobusų stotyse, oro uostuose, jūrų uostuose, išskyrus lošimus automatais, jeigu jie organizuojami atskirose patalpose, nesusijusiose su šių įstaigų tiesioginėmis funkcijomis;
+17) kino teatruose, geležinkelio ir autobusų stotyse, oro uostuose, jūrų uostuose; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
+ 
 
 
 
 
-18) pašto įstaigose, išskyrus jose įsteigtus lažybų ir totalizatorių punktus. 
+18) pašto įstaigose. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -1199,10 +1213,44 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 
 
 
-9. Lietuvos Respublikos teritorijoje draudžiama reklamuoti azartinius lošimus, išskyrus azartinius lošimus organizuojančių bendrovių pavadinimus, prekių ženklus ir organizuojamų lošimų rūšis. Draudžiama jaunesniems kaip 18 metų asmenims skirtose interneto svetainėse skelbti bet kokią su azartiniais lošimais susijusią informaciją. Jaunesniems kaip 18 metų asmenims skirta interneto svetaine laikytina interneto svetainė, kurioje ne mažiau kaip 4/5 turinio yra skirta vaikams ir paaugliams skirtų renginių bei reiškinių aprašymui, profesionaliam jų vertinimui, informavimui apie juos, vaikų ir paauglių meninės ir techninės kūrybos sklaidai. 
+9. Lietuvos Respublikos teritorijoje draudžiama lošimų reklama (toliau – reklama), išskyrus:
+
+
+1) lošimus organizuojančios bendrovės pavadinimo ir (ar) prekių ženklo skelbimą ant lošimų organizatoriaus buveinės pastato ar pastato, kuriame yra lošimų organizavimo vieta;
+
+
+
+
+2) lošimus organizuojančios bendrovės pavadinimo ir (ar) prekių ženklo, informacijos apie lošimus organizuojančios bendrovės organizuojamų lošimų rūšių skelbimą lošimų organizavimo vietoje ar lošimus organizuojančios bendrovės interneto svetainėje, kurios adresas nurodytas lošimų reglamente;
+
+
+
+
+3) informacijos apie lošimus skelbimą leidiniuose (informaciniuose pranešimuose), kurie skirti tik lošimų verslo subjektams;
+
+
+
+
+4) lažybas organizuojančios bendrovės pavadinimo ir (ar) prekių ženklo, šalia nurodant žodį „lažybos“, skelbimą (toliau – lažybų reklama), jeigu atitinka šias sąlygas:
+
+
+a) televizijoje, radijuje ir internete leistina lažybų reklama galima transliuojant ne ilgesnės kaip 15 sekundžių trukmės reklaminius intarpus ne daugiau kaip tris kartus per vieną valandą nuo 6 iki 18 valandos ir ne ilgesnės kaip 15 sekundžių trukmės reklaminius intarpus ne daugiau kaip du kartus per vieną valandą nuo 18 iki 24 valandos;
+
+
+
+
+b) interneto svetainėse skelbiama lažybų reklama negali būti pateikiama iškylančiuosiuose languose (tai yra reklama, kuri uždengia visą ar dalį svetainės turinio, langai, kurie neleidžia pasiekti puslapio turinio neatsakius į juose esančią užklausą ir pan.). Skelbiama statinė lažybų reklama be nuorodos į lažybas organizuojančių bendrovių interneto svetaines negali viršyti 20 procentų viso reklamos ploto nuo 6 iki 18 valandos ir negali viršyti 10 procentų viso reklamos ploto nuo 18 iki 24 valandos. 
+ 
+TAR pastaba. 10 straipsnio 9 dalies 4 punkto redakcija nuo 2028-01-01:
+4) netenka galios 2028-01-01.
+
+
+
+
 Straipsnio dalies pakeitimai:
 Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 Nr. XIII-2147, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09400
+Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
  
 
 
@@ -1219,6 +1267,50 @@ Nr. XIII-2147, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09400
 92. Skelbiant šio straipsnio 9 dalyje nurodytą reklamą turi būti pateiktas įspėjamasis užrašas apie tai, kad dalyvaujant azartiniuose lošimuose gali atsirasti priklausomybė nuo azartinių lošimų ar patologinis potraukis lošti. Įspėjamojo užrašo turinį ir jo pateikimo reklamoje taisykles nustato Priežiūros tarnyba.
 Papildyta straipsnio dalimi:
 Nr. XIII-2871, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09590
+ 
+
+
+
+
+93. Draudžiama skleisti informaciją apie lošimus organizuojančios bendrovės bet kokio pobūdžio viešų renginių, veiklų, fizinių ir juridinių asmenų rėmimą, išskyrus rėmimo pranešimų, kuriuose nurodoma, kad lažybas, įskaitant nuotolines lažybas, organizuojančios bendrovės (toliau – rėmėjas) remia sporto renginius ar jų transliacijas, sporto organizacijas, sportininkus, kultūros ir meno renginius ar jų transliacijas, kultūros ir meno organizacijas ir meno kūrėjus (toliau – remiami asmenys), skelbimą, jeigu toks rėmėjo pristatymas atitinka visas šias sąlygas:
+
+
+1) rėmėjo pristatyme gali būti nurodomas tik rėmėjo pavadinimas ir (ar) prekių ženklas, remiamo asmens pavadinimas, vardas ir (ar) pavardė;
+
+
+
+
+2) rėmėjo pristatymai renginių organizavimo vietoje gali būti skelbiami prieš remiamus renginius, kuriuose dalyvauja ar kuriuos organizuoja remiamas asmuo, renginių metu, įskaitant renginių pabaigos dieną;
+
+
+
+
+3) rėmėjo pristatymai skelbimuose apie remiamus renginius ar jų transliacijas gali būti pateikiami tik tuo atveju, jeigu skelbimuose nurodomi būsimo remiamo renginio ar jo transliacijos laikas ir vieta;
+
+
+
+
+4) informacija apie šioje dalyje nurodytus remiamus renginius ar jų transliacijas gali būti skelbiama programose ir šios programos, retransliuojamos ir kitaip viešai skelbiamos visuomenės informavimo priemonėmis, kaip jos suprantamos Lietuvos Respublikos visuomenės informavimo įstatyme;
+
+
+
+
+5) rėmėjo pristatymai renginių organizavimo vietoje skelbiami tik ant reklaminių stendų, dangos, remiamų asmenų aprangos ar kitose panašaus pobūdžio vietose. 
+ 
+TAR pastaba. 10 straipsnio 93 dalies redakcija nuo 2028-01-01:
+93. Draudžiama skleisti informaciją apie lošimus organizuojančios bendrovės bet kokio pobūdžio viešų renginių, veiklų, fizinių ir juridinių asmenų rėmimą.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
+ 
+
+
+
+
+94. Šio straipsnio 93 dalyje nustatyti informavimo apie rėmimą apribojimai netaikomi rėmėjo pristatymams ant remiamų asmenų aprangos, kurią dėvi ir (ar) savo reikmėms naudoja neremiami asmenys. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
  
 
 
@@ -1284,9 +1376,33 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 
 
 
-19. Lietuvos Respublikoje draudžiama skatinti dalyvauti lošimuose – bet kuria forma ir bet kokiomis priemonėmis skleisti informaciją ar atlikti įtikinėjimo veiksmus, įskaitant paties lošimo organizatoriaus organizuojamus specialius renginius, bandomuosius lošimus, akcijas, nuolaidas, dovanas ir panašaus pobūdžio skatinamąsias priemones, skatinančius dalyvauti lošimuose ar nuotoliniuose lošimuose.
+19. Lietuvos Respublikoje draudžiama skatinti dalyvauti lošimuose – bet kuria forma ir bet kokiomis priemonėmis skleisti informaciją ar atlikti įtikinėjimo veiksmus, skatinančius dalyvauti lošimuose ar nuotoliniuose lošimuose. Skatinimu dalyvauti lošimuose nėra laikoma:
+
+
+1) reklamos, atitinkančios šio straipsnio 9, 91 ir 92 dalyse nustatytus reikalavimus, skelbimas;
+
+
+
+
+2) informacijos apie rėmimą, atitinkančios šio straipsnio 93 dalyje nustatytus reikalavimus, skelbimas;
+ 
+TAR pastaba. 10 straipsnio 19 dalies 2 punkto redakcija nuo 2028-01-01:
+2) netenka galios 2028-01-01.
+
+
+
+
+3) lošimų organizavimo reglamento, organizuojamų nuotolinių lošimų pasiūlos be papildomos rašytinės, vaizdinės ar garsinės informacijos skelbimas, šio straipsnio 20 dalyje, šio įstatymo 201 straipsnio 3 dalyje, 203 straipsnio 2, 4, 5 dalyse, 206 straipsnyje nurodytos informacijos skelbimas, kai ši informacija pateikiama interneto svetainėse, kuriose organizuojami nuotoliniai lošimai;
+
+
+
+
+4) lošimų organizavimo reglamento, šio įstatymo 19 straipsnio 2 dalyje nurodytos informacijos skelbimas ir organizuojamų lažybų pasiūlos be papildomos rašytinės, vaizdinės ar garsinės informacijos skelbimas lošimų organizavimo vietose.
+
+
 Straipsnio dalies pakeitimai:
 Nr. XIV-337, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12786
+Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
  
 
 
@@ -1381,7 +1497,10 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 
 
 
-3. Nuotolinio lošimo įrenginiais galima organizuoti tik lažybas dėl objektyviai neįvyksiančių (nuotolinio lošimo įrenginio sukurtų) šunų ir žirgų lenktynių. Kitokius objektyviai neįvyksiančius (nuotolinio lošimo įrenginio sukurtus) lošimus nuotolinio lošimo įrenginiu organizuoti draudžiama.
+3. Draudžiama lažybose naudoti lažybų įrenginius ir siūlyti lažintis dėl realiuoju laiku specialiai kuriamų įvykių, skirtų lažyboms.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
+ 
 
 
 
@@ -2418,7 +2537,10 @@ Nr. XIV-800, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27378
 
 
 
-3. Bendrovė, pageidaujanti gauti leidimą atidaryti automatų ar bingo saloną, lošimo namus (kazino) arba organizuoti nuotolinius lošimus, pateikia Priežiūros tarnybai prašymą, kuriame nurodoma bendrovės pavadinimas, kodas, buveinės adresas, telefono ir fakso numeriai, lošimų organizavimo vietos adresas, telefono numeris, numatomų organizuoti lošimų rūšys, licencijos organizuoti lošimus išdavimo data, numeris (jeigu leidimas išduodamas licenciją turinčiai bendrovei), bendrovės vadovo arba jo įgalioto asmens, užpildžiusio ir pasirašiusio prašymą, pareigos, vardas ir pavardė, prašymo padavimo data. Jeigu organizuojant totalizatorių ar lažybas naudojami lošimo įrenginiai arba nuotolinio lošimo įrenginiai, papildomai pateikiami dokumentai, patvirtinantys šių įrenginių atitiktį Priežiūros tarnybos nustatytiems reikalavimams.
+3. Bendrovė, pageidaujanti gauti leidimą atidaryti automatų ar bingo saloną, lošimo namus (kazino) arba organizuoti nuotolinius lošimus, pateikia Priežiūros tarnybai prašymą, kuriame nurodoma bendrovės pavadinimas, kodas, buveinės adresas, telefono ir fakso numeriai, lošimų organizavimo vietos adresas, telefono numeris, numatomų organizuoti lošimų rūšys, licencijos organizuoti lošimus išdavimo data, numeris (jeigu leidimas išduodamas licenciją turinčiai bendrovei), bendrovės vadovo arba jo įgalioto asmens, užpildžiusio ir pasirašiusio prašymą, pareigos, vardas ir pavardė, prašymo padavimo data. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
+ 
 
 
 
@@ -2461,12 +2583,14 @@ Nr. XIV-800, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27378
 
 
 
-8) lošimo automatų, bingo salonų arba lošimo namų (kazino) administracijos vadovo, jo pavaduotojų, vyriausiųjų finansininkų ir lošėjus aptarnaujančio personalo sąrašas, kuriame nurodomi vardai, pavardės, asmens kodai;
+8) lošimo automatų, bingo salonų arba lošimo namų (kazino) administracijos vadovo, jo pavaduotojų, vyriausiųjų finansininkų ir lošėjus aptarnaujančio personalo sąrašas, kuriame nurodomi vardai, pavardės, asmens kodai.
 
 
 
 
-9) jeigu organizuojant totalizatorių ar lažybas naudojami lošimo įrenginiai arba nuotolinio lošimo įrenginiai, papildomai pateikiami dokumentai, patvirtinantys šių įrenginių atitiktį Priežiūros tarnybos nustatytiems reikalavimams. 
+9) Neteko galios nuo 2025-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
 Papildyta straipsnio punktu:
 Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
  
@@ -3340,9 +3464,13 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 292 straipsnis. Baudos ir jų skyrimo tvarka
 
 
-1. Bendrovei už šio įstatymo 74 straipsnio 1 ir 10 dalių, 10 straipsnio 9, 10, 19 ir 21 dalių, 11, 13 ir 208 straipsnių pažeidimus Priežiūros tarnyba skiria baudą nuo 0,1 iki 1 procento praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą), bet ne mažiau kaip 6 000 eurų ir ne daugiau kaip 25 000 eurų. 
+1. Bendrovei už šio įstatymo 74 straipsnio 1 ir 10 dalių, 10 straipsnio 9, 93, 10, 19 ir 21 dalių, 11, 13 ir 208 straipsnių pažeidimus Priežiūros tarnyba skiria baudą nuo 0,1 iki 1 procento praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą), bet ne mažiau kaip 6 000 eurų ir ne daugiau kaip 25 000 eurų.
+ 
+TAR pastaba. 292 straipsnio 1 dalies redakcija nuo 2025-11-01:
+1. Bendrovei už šio įstatymo 74 straipsnio 1 ir 10 dalių, 10 straipsnio 9, 91, 92, 93, 10, 19 ir 21 dalių, 104, 11, 13 ir 208 straipsnių pažeidimus Priežiūros tarnyba skiria baudą nuo 3 iki 5 procentų praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą).
 Straipsnio dalies pakeitimai:
 Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
+Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
  
 
 
@@ -3745,3 +3873,8 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 1, 2, 7-3, 10, 10-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-107, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00717
 Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 20-7 ir 29 straipsnių pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 10, 10-3, 21 ir 29-2 straipsnių pakeitimo įstatymas
