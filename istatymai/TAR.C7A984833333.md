@@ -3212,17 +3212,17 @@ TEISĖS VALDYTI GELEŽINKELIŲ RIEDMENIS SUTEIKIMAS
 
 
 
-2. Fizinis asmuo, pageidaujantis gauti traukinio mašinisto pažymėjimą, privalo pasitikrinti sveikatą, o vėliau dirbdamas traukinio mašinistu privalo tikrintis ją periodiškai ne rečiau kaip kas treji metai, jeigu fizinis asmuo yra jaunesnis kaip 55 metų, arba kiekvienais metais, jeigu fizinis asmuo yra vyresnis kaip 55 metų. Asmens sveikatos patikra privalo apimti ir šio įstatymo 24 straipsnyje nurodytą psichikos sveikatos patikrinimą. Vadovaudamasis šio įstatymo 6 straipsnio 4 dalyje nurodytais sveikatos apsaugos ministro nustatytais sveikatos reikalavimais ir patikrinimo tvarka, taip pat ligų sąrašu, gydytojas, turintis sveikatos apsaugos ministro nustatyta tvarka išduotą galiojančią licenciją, išduoda dokumentą, kuriuo patvirtinama, kad buvo atlikta šioje dalyje nurodyta asmens sveikatos patikra ir fizinis asmuo dėl savo sveikatos būklės galės saugiai atlikti traukinio mašinisto pareigas. Traukinio mašinisto sertifikatą išdavęs asmuo nedelsdamas nušalina nuo darbo sveikatos nepasitikrinusį, atsisakiusį laiku pasitikrinti arba dėl sveikatos būklės negalintį dirbti fizinį asmenį.
+2. Fizinis asmuo, pageidaujantis gauti traukinio mašinisto pažymėjimą, privalo pasitikrinti sveikatą, o vėliau dirbdamas traukinio mašinistu privalo tikrintis ją periodiškai ne rečiau kaip kas treji metai, jeigu fizinis asmuo yra jaunesnis kaip 55 metų, arba kiekvienais metais, jeigu fizinis asmuo yra vyresnis kaip 55 metų. Asmens sveikatos patikra privalo apimti ir šio įstatymo 24 straipsnyje nurodytą psichikos sveikatos patikrinimą. Vadovaudamasis šio įstatymo 6 straipsnio 4 dalyje nurodytais sveikatos apsaugos ministro nustatytais sveikatos reikalavimais ir patikrinimo tvarka, taip pat ligų sąrašu, gydytojas, turintis sveikatos apsaugos ministro nustatyta tvarka išduotą galiojančią licenciją, išduoda dokumentą, kuriuo patvirtinama, kad buvo atlikta šioje dalyje nurodyta asmens sveikatos patikra ir fizinis asmuo dėl savo sveikatos būklės galės saugiai atlikti traukinio mašinisto pareigas. Traukinio mašinisto sertifikatą išdavęs asmuo nedelsdamas nušalina nuo darbo sveikatos nepasitikrinusį, atsisakiusį laiku pasitikrinti arba dėl sveikatos būklės negalintį dirbti fizinį asmenį.
 
 
 
 
-3. Fizinis asmuo, pageidaujantis gauti traukinio mašinisto pažymėjimą, privalo išklausyti pagal susisiekimo ministro nustatytus reikalavimus parengtą mokymų programą šio įstatymo 25 straipsnyje nustatyta tvarka pripažintuose traukinio mašinistų mokymo centruose vykdomus mokymus apie traukinio mašinisto darbo specifiką, jo darbą reglamentuojančius teisės aktus, traukinio mašinistui keliamus reikalavimus ir darbo tvarkos taisykles, geležinkelių transporto veiklą, geležinkelių transporto eismo saugos reikalavimus ir juos nustatančius teisės aktus, taikomus norminius techninius dokumentus, geležinkelių infrastruktūrą, ryšio priemonių traukiniuose naudojimą, traukinius, jų sandarą ir techninius reikalavimus, taikomus geležinkelių riedmenims, riziką, susijusią su geležinkelių transporto veikla, ir pagrindinius fizikos dėsnius, veikiančius geležinkelių riedmenis ir jų sudedamąsias dalis. Fizinius asmenis, pageidaujančius gauti traukinio mašinisto pažymėjimą ir išklausiusius šioje dalyje nurodytus mokymus, egzaminuoja šio įstatymo 26 straipsnyje nustatyta tvarka pripažinti traukinio mašinistų egzaminavimo centrai.
+3. Fizinis asmuo, pageidaujantis gauti traukinio mašinisto pažymėjimą, privalo išklausyti pagal susisiekimo ministro nustatytus reikalavimus parengtą mokymų programą šio įstatymo 25 straipsnyje nustatyta tvarka pripažintuose traukinio mašinistų mokymo centruose vykdomus mokymus apie traukinio mašinisto darbo specifiką, jo darbą reglamentuojančius teisės aktus, traukinio mašinistui keliamus reikalavimus ir darbo tvarkos taisykles, geležinkelių transporto veiklą, geležinkelių transporto eismo saugos reikalavimus ir juos nustatančius teisės aktus, taikomus norminius techninius dokumentus, geležinkelių infrastruktūrą, ryšio priemonių traukiniuose naudojimą, traukinius, jų sandarą ir techninius reikalavimus, taikomus geležinkelių riedmenims, riziką, susijusią su geležinkelių transporto veikla, ir pagrindinius fizikos dėsnius, veikiančius geležinkelių riedmenis ir jų sudedamąsias dalis. Fizinius asmenis, pageidaujančius gauti traukinio mašinisto pažymėjimą ir išklausiusius šioje dalyje nurodytus mokymus, egzaminuoja šio įstatymo 26 straipsnyje nustatyta tvarka pripažinti traukinio mašinistų egzaminavimo centrai.
 
 
 
 
-4. Per 20 darbo dienų nuo prašymo ir kitų atitiktį šio straipsnio 1 dalyje nustatytiems reikalavimams patvirtinančių dokumentų gavimo dienos eismo saugos institucija išduoda traukinio mašinisto pažymėjimą ir pateikia Asmens dokumentų išrašymo centrui prie Vidaus reikalų ministerijos užsakymą išrašyti traukinio mašinisto pažymėjimą. Asmens dokumentų išrašymo centras prie Vidaus reikalų ministerijos išrašo traukinio mašinisto pažymėjimą per 10 darbo dienų nuo eismo saugos institucijos užsakymo gavimo. Šio dokumento originalą saugo traukinio mašinistas, kuriam jis išduotas. 
+4. Eismo saugos institucija, gavusi prašymą ir kitus šio straipsnio 1 dalyje nustatytus reikalavimus patvirtinančius dokumentus ir juos įvertinusi, ne vėliau kaip per 8 darbo dienas pateikia Vyriausybės įgaliotai institucijai užsakymą išrašyti traukinio mašinisto pažymėjimą. Vyriausybės įgaliota institucija išrašo traukinio mašinisto pažymėjimą per 10 darbo dienų nuo eismo saugos institucijos užsakymo gavimo dienos ir jį pateikia eismo saugos institucijai. Eismo saugos institucija per ne ilgesnį kaip 20 darbo dienų terminą nuo prašymo ir kitų šio straipsnio 1 dalyje nustatytus reikalavimus patvirtinančių dokumentų gavimo dienos išrašytą traukinio mašinisto pažymėjimą išduoda traukinio mašinistui. Traukinio mašinisto pažymėjimo originalą saugo traukinio mašinistas, kuriam jis išduotas.
 
 
 
@@ -3255,9 +3255,7 @@ TEISĖS VALDYTI GELEŽINKELIŲ RIEDMENIS SUTEIKIMAS
 
 
 
-
-
-9. Traukinio mašinisto pažymėjimo galiojimą eismo saugos institucija panaikina per 3 darbo dienas nuo šioje dalyje nurodytos informacijos gavimo ar aplinkybių paaiškėjimo dienos, jeigu:
+9. Traukinio mašinisto pažymėjimo galiojimą eismo saugos institucija panaikina per 3 darbo dienas nuo šioje dalyje nurodytos informacijos gavimo ar aplinkybių paaiškėjimo dienos, jeigu:
 
 
 1) traukinio mašinistas pateikė prašymą panaikinti traukinio mašinisto pažymėjimo galiojimą;
@@ -3290,9 +3288,7 @@ TEISĖS VALDYTI GELEŽINKELIŲ RIEDMENIS SUTEIKIMAS
 
 
 
-
-
-10. Jeigu traukinio mašinisto pažymėjimo galiojimas buvo panaikintas šio straipsnio 9 dalies 6 punkte nustatytu pagrindu, naujas traukinio mašinisto pažymėjimas gali būti išduotas ne anksčiau kaip po vienų metų nuo šio straipsnio 9 dalies 6 punkte nurodyto administracinio nusižengimo padarymo dienos, fiziniam asmeniui pateikus prašymą išduoti traukinio mašinisto pažymėjimą šio straipsnio 1–4 dalyse nustatyta tvarka.
+10. Jeigu traukinio mašinisto pažymėjimo galiojimas buvo panaikintas šio straipsnio 9 dalies 6 punkte nustatytu pagrindu, naujas traukinio mašinisto pažymėjimas gali būti išduotas ne anksčiau kaip po vienų metų nuo šio straipsnio 9 dalies 6 punkte nurodyto administracinio nusižengimo padarymo dienos, fiziniam asmeniui pateikus prašymą išduoti traukinio mašinisto pažymėjimą šio straipsnio 1–4 dalyse nustatyta tvarka.
 
 
 
@@ -3322,15 +3318,7 @@ TEISĖS VALDYTI GELEŽINKELIŲ RIEDMENIS SUTEIKIMAS
 
 
 
-16. Traukinio mašinisto pažymėjimų išrašymo, išdavimo, pratęsimo, pakeitimo, galiojimo panaikinimo, traukinio mašinisto pažymėjimų dublikatų išdavimo tvarką, suderinęs su Lietuvos Respublikos vidaus reikalų ministru, nustato susisiekimo ministras.
- 
-
-
-
-
-
-
-33 straipsnis. Traukinio mašinisto sertifikatai
+16. Traukinio mašinisto pažymėjimų išrašymo, išdavimo, pratęsimo, pakeitimo, galiojimo panaikinimo, traukinio mašinisto pažymėjimų dublikatų išdavimo tvarką, suderinęs su Lietuvos Respublikos vidaus reikalų ministru, nustato susisiekimo ministras.33 straipsnis. Traukinio mašinisto sertifikatai
 
 
 1. Fizinis asmuo, pageidaujantis gauti traukinio mašinisto sertifikatą, turi turėti galiojantį traukinio mašinisto pažymėjimą.
