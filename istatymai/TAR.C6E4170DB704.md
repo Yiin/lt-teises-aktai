@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
  
@@ -1161,7 +1161,10 @@ Nr. XIV-1489, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22951
 3. Įmokos dydis apskaičiuojamas nuo visų toliau nurodytų praėjusių (išskyrus šio straipsnio 5 ir 7 dalyse nurodytus atvejus) kalendorinių metų lėšų (pajamos už medicinos priemonių ir (ar) jų dalių gamybą ir (arba) jų pritaikymą įtraukiamos tik asmens sveikatos priežiūros įstaigoje, kuri turi asmens sveikatos priežiūros veiklos licenciją, suteikiančią teisę jas gaminti, ir kuri jas pagamino ir (ar) pritaikė):
 
 
-1) lėšų, gautų už asmens sveikatos priežiūros paslaugų teikimą iš Privalomojo sveikatos draudimo fondo biudžeto pagal sutartis su Valstybine ar teritorinėmis ligonių kasomis;
+1) lėšų, gautų už asmens sveikatos priežiūros paslaugų teikimą iš Privalomojo sveikatos draudimo fondo biudžeto pagal sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos (toliau – Valstybinė ligonių kasa); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2795, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12738
+ 
 
 
 
@@ -1216,14 +1219,17 @@ Nr. XIV-1489, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22951
 7. Asmens sveikatos priežiūros įstaigos asmens sveikatos priežiūros veiklos licencijos sustabdymas ar panaikinimas neatleidžia nuo pareigos sumokėti visas pagal šį įstatymą apskaičiuotas mokėtinas įmokas. Nesumokėtos įmokos ir delspinigiai iš asmens sveikatos priežiūros įstaigų išieškomi Civilinio proceso kodekso nustatyta tvarka. Asmens sveikatos priežiūros įstaiga padengia išieškojimo procedūrų administravimo išlaidas. Jeigu asmens sveikatos priežiūros įstaiga šio straipsnio 2 dalyje nustatyta tvarka nėra pateikusi toje dalyje nurodytos informacijos, išieškomos įmokos dydis nustatomas pagal Vyriausybės įgaliotos institucijos paskutinę iš asmens sveikatos priežiūros įstaigos gautą informaciją, nurodytą šio straipsnio 2 dalyje, arba, jeigu ši informacija niekada nebuvo teikta ir asmens sveikatos priežiūros įstaiga Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka:
 
 
-1) yra sudariusi sutartį su Valstybine ar teritorine (-ėmis) ligonių kasa (-omis), – pagal visas laikotarpio, už kurį turi būti mokama įmoka, šios įstaigos pajamas, bet ne mažiau kaip 100 eurų; 
+1) yra sudariusi sutartį su Valstybine ligonių kasa, – pagal visas laikotarpio, už kurį turi būti mokama įmoka, šios įstaigos pajamas, bet ne mažiau kaip 100 eurų; 
 
 
 
 
-2) nėra sudariusi sutarties su Valstybine ar teritorine (-ėmis) ligonių kasa (-omis), – pagal sumą, kuri apskaičiuojama laikotarpio, už kurį turi būti mokama įmoka, vidutinį įstaigos asmens sveikatos priežiūros specialistų skaičių padauginus iš to laikotarpio mėnesių skaičiaus ir atitinkamo ketvirčio vidutinio mėnesinio bruto darbo užmokesčio šalies ūkyje (be individualių įmonių), bet ne mažiau kaip 100 eurų.
+2) nėra sudariusi sutarties su Valstybine ligonių kasa, – pagal sumą, kuri apskaičiuojama laikotarpio, už kurį turi būti mokama įmoka, vidutinį įstaigos asmens sveikatos priežiūros specialistų skaičių padauginus iš to laikotarpio mėnesių skaičiaus ir atitinkamo ketvirčio vidutinio mėnesinio bruto darbo užmokesčio šalies ūkyje (be individualių įmonių), bet ne mažiau kaip 100 eurų.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2795, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12738
+ 
 
 
 
@@ -1406,3 +1412,8 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2797, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12617
 Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 13 ir 26 straipsnių pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2795, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12738
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 27 straipsnio pakeitimo įstatymas
