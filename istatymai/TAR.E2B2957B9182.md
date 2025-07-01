@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -668,7 +668,9 @@ LNSS vykdomieji subjektai - tai sveikatos priežiūros ar farmacinės veiklos li
 
 
 
-3) kitos įmonės bei įstaigos, įstatymų nustatyta tvarka sudariusios sutartis su Valstybine ar teritorinėmis ligonių kasomis arba kitais LNSS veiklos užsakovais - šių sutarčių galiojimo laikotarpiu.
+3) kitos įmonės ir įstaigos, įstatymų nustatyta tvarka sudariusios sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos (toliau – Valstybinė ligonių kasa) arba kitais LNSS veiklos užsakovais, – šių sutarčių galiojimo laikotarpiu ir tik dėl tų paslaugų, dėl kurių yra sudarytos šios sutartys.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2790, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12733
  
 
 
@@ -781,7 +783,7 @@ Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
 
 
 
-11 straipsnis. LNSS vykdomųjų subjektų veikla ir teikiamos paslaugos
+11 straipsnis. LNSS vykdomųjų subjektų veikla ir teikiamos paslaugos, sveikatos priežiūros paslaugų apmokėjimas
 
 
 1. LNSS vykdomųjų subjektų veiklai ir teikiamoms paslaugoms priskiriama:
@@ -797,23 +799,17 @@ Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
 
 
 
-21) papildomoji ir alternatyvioji sveikatos priežiūra; 
-Papildyta straipsnio punktu:
-Nr. XIII-2772, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02007
- 
+3) papildomoji ir alternatyvioji sveikatos priežiūra;
 
 
 
 
-3) farmacinė veikla;
+4) farmacinė veikla;
 
 
 
 
-4) LNSS vykdomųjų subjektų teikiamos kitos (mokamos) paslaugos, nepriskiriamos sveikatos priežiūros ir farmacinėms paslaugoms, tačiau reikalingos jų teikimui užtikrinti. Paslaugų kainas nustato paslaugas teikiančios įstaigos vadovas.
-Straipsnio punkto pakeitimai:
-Nr. XIII-3155, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15133
- 
+5) LNSS vykdomųjų subjektų teikiamos kitos (mokamos) paslaugos, nepriskiriamos sveikatos priežiūros ir farmacinėms paslaugoms, tačiau reikalingos jų teikimui užtikrinti. Paslaugų kainas nustato paslaugas teikiančios įstaigos vadovas.
 
 
 
@@ -823,27 +819,68 @@ Nr. XIII-3155, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15133
 2. LNSS vykdomieji subjektai pagal kompetenciją teikia šių rūšių sveikatos priežiūros paslaugas:
 
 
-1) asmens ir visuomenės sveikatos priežiūros paslaugas, už kurias jų gavėjai tiesiogiai nemoka sveikatos priežiūros įstaigoms, o jos apmokamos iš privalomojo sveikatos draudimo fondo, valstybės ar savivaldybių biudžetų ar savivaldybių visuomenės sveikatos rėmimo specialiosios programos lėšų;
+1) asmens ir visuomenės sveikatos priežiūros paslaugas, už kurias jų gavėjai tiesiogiai nemoka sveikatos priežiūros įstaigoms, o jos apmokamos iš Privalomojo sveikatos draudimo fondo, valstybės biudžeto ar savivaldybių biudžetų, ar savivaldybių visuomenės sveikatos rėmimo specialiosios programos lėšų;
 
 
 
 
-2) mokamas asmens ir visuomenės sveikatos priežiūros paslaugas, už kurias jų gavėjai (juridiniai ir fiziniai asmenys) privalo sumokėti. Šių paslaugų sąrašą, kainas, kainų indeksavimo ir paslaugų teikimo tvarką tvirtina Sveikatos apsaugos ministerija;
+2) šias mokamas asmens ir visuomenės sveikatos priežiūros paslaugas, už kurias jų gavėjai (juridiniai ir fiziniai asmenys) privalo sumokėti: 
+
+
+a) šio įstatymo 8 straipsnio 1 ir 2 punktuose nurodytų įstaigų ar įmonių teikiamas mokamas asmens sveikatos priežiūros paslaugas, išskyrus šio punkto b papunktyje nurodytas paslaugas. Šių paslaugų kainų apskaičiavimo metodiką ir paslaugų teikimo tvarką nustato sveikatos apsaugos ministras. Šio įstatymo 8 straipsnio 1 ir 2 punktuose nurodytų įstaigų ar įmonių vadovai, suderinę su sveikatos apsaugos ministro įgaliota įstaiga ir šių įstaigų ar įmonių dalyvio teises bei pareigas įgyvendinančiu subjektu, tvirtina šių paslaugų sąrašą ir nustato jų kainas. Kaip laikomasi šiame papunktyje nustatytų reikalavimų, prižiūri šio įstatymo 8 straipsnio 1 ir 2 punktuose nurodytų įstaigų ar įmonių dalyvio teises bei pareigas įgyvendinantis subjektas;
 
 
 
 
-3) papildomosios ir alternatyviosios sveikatos priežiūros paslaugas, už kurias jų gavėjai moka paslaugos teikėjo nustatytomis kainomis. 
-Papildyta straipsnio punktu:
-Nr. XIII-2772, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02007
- 
+b) šio įstatymo 8 straipsnyje nurodytų įstaigų ir įmonių teikiamas asmens sveikatos priežiūros paslaugas, dėl kurių teikimo ir apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis šios įstaigos ir įmonės yra sudariusios sutartis su Valstybine ligonių kasa, tačiau pacientas neatitinka šiame įstatyme nustatytų šių paslaugų gavimo sąlygų. Sveikatos apsaugos ministras tvirtina šio įstatymo 8 straipsnio 1 ir 2 punktuose nurodytų įstaigų ir įmonių teikiamų šiame papunktyje nurodytų asmens sveikatos priežiūros paslaugų kainų apskaičiavimo metodiką. Šio įstatymo 8 straipsnio 1 ir 2 punktuose nurodytų įstaigų ar įmonių vadovai, suderinę su įstaigos ar įmonės dalyvio teises bei pareigas įgyvendinančiu subjektu, tvirtina savo teikiamų mokamų asmens sveikatos priežiūros paslaugų sąrašą ir nustato jų kainas. Šio įstatymo 8 straipsnio 3 punkte nurodytų įstaigų ir įmonių teikiamų mokamų asmens sveikatos priežiūros paslaugų sąrašas ir kainos nustatomi šių įstaigų ir įmonių įstatuose nustatyta tvarka. Šių paslaugų teikimo ir šiame papunktyje nustatytų reikalavimų laikymosi priežiūros tvarką nustato sveikatos apsaugos ministras;
 
 
+
+
+c) šio įstatymo 8 straipsnio 1 ir 2 punktuose nurodytų įstaigų ir įmonių teikiamas mokamas visuomenės sveikatos priežiūros paslaugas. Sveikatos apsaugos ministras tvirtina šio įstatymo 8 straipsnio 1 ir 2 punktuose nurodytų įstaigų ir įmonių teikiamų mokamų visuomenės sveikatos priežiūros paslaugų sąrašą ir šių paslaugų kainų apskaičiavimo ir indeksavimo metodiką bei nustato šių paslaugų teikimo tvarką, o šių paslaugų kainas nustato šio įstatymo 8 straipsnio 1 ir 2 punktuose nurodytų įstaigų ir įmonių vadovai, suderinę su įstaigos ar įmonės dalyvio teises bei pareigas įgyvendinančiu subjektu. Kaip laikomasi šiame papunktyje nustatytų reikalavimų, prižiūri šio įstatymo 8 straipsnio 1 ir 2 punktuose nurodytų įstaigų ir įmonių dalyvio teises bei pareigas įgyvendinantis subjektas;
+
+
+
+
+
+
+3) papildomosios ir alternatyviosios sveikatos priežiūros paslaugas, už kurias jų gavėjai moka paslaugos teikėjo nustatytomis kainomis.
+
+
+
+
+
+
+3. LNSS įstaigos ir įmonės šio straipsnio 2 dalies 2 punkto a ir b papunkčiuose nurodytas mokamas asmens sveikatos priežiūros paslaugas gali teikti tik užtikrinusios, kad iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamas šių įstaigų ir įmonių teikiamas asmens sveikatos priežiūros paslaugas reikiamą dieną gaus visi šioms paslaugoms tą dieną užregistruoti ir paslaugų gauti atvykę pacientai, o šio įstatymo 8 straipsnyje nurodyta įstaiga ar įmonė šio straipsnio 2 dalies 2 punkto b papunktyje nurodytas mokamas asmens sveikatos priežiūros paslaugas gali teikti tik tuo atveju, kai užtikrinama, kad Valstybinės ligonių kasos ir asmens sveikatos priežiūros įstaigos ar įmonės sudarytos asmens sveikatos priežiūros paslaugų teikimo ir šių paslaugų išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis sutarties galiojimo laikotarpiu pacientams bus suteiktos visos šioje sutartyje nurodyto masto asmens sveikatos priežiūros paslaugos. Šios dalies nuostatų įgyvendinimo tvarką nustato sveikatos apsaugos ministras.
+
+
+
+
+4. Toliau nurodytų įstaigų ir įmonių įstatuose nustatyta tvarka nustatomos:
+
+
+1) šio įstatymo 8 straipsnyje nenurodytų įstaigų ir įmonių teikiamų mokamų asmens ir visuomenės sveikatos priežiūros paslaugų kainos;
+
+
+
+
+2) šio įstatymo 8 straipsnio 3 punkte nurodytų įstaigų ir įmonių teikiamų asmens sveikatos priežiūros paslaugų, dėl kurių jos nėra sudariusios sutarčių su Valstybine ligonių kasa arba kitais LNSS veiklos užsakovais, ir mokamų visuomenės sveikatos priežiūros paslaugų kainos.
+
+
+
+
+
+
+5. Šio straipsnio 2 dalies 2 punkte nurodytos įstaigos ir įmonės šio straipsnio 2 dalies 2 punkte nurodytų mokamų asmens sveikatos priežiūros paslaugų sąrašus ir kainas ir mokamų visuomenės sveikatos priežiūros paslaugų kainas viešai skelbia savo interneto svetainėse. Pacientai šio straipsnio 2 dalies 2 punkte nurodytos įstaigos ar įmonės nustatyta tvarka turi teisę susipažinti, kaip apskaičiuotos mokamų asmens ir visuomenės sveikatos priežiūros paslaugų kainos.
+
+
+
+
+6. Atskiras valdymo sritis reguliuojantys įstatymai ir jų pagrindu priimami teisės aktai gali nustatyti kitokią su šiais įstatymais priskirtų valstybinių funkcijų užtikrinimu susijusią mokamų sveikatos priežiūros paslaugų kainų nustatymo ir apmokėjimo už šias paslaugas tvarką.
 
 
 Straipsnio pakeitimai:
-Nr. VIII-2036, 2000 10 12, Žin., 2000, Nr. 92-2876 (2000 10 31)
-Nr. IX-2555, 2004-11-09, Žin., 2004, Nr. 171-6309 (2004-11-26)
+Nr. XIV-2790, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12733
  
 
 
@@ -993,7 +1030,10 @@ Nr. XIV-1279, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15197
 užsakovai
 
 
-1. LNSS veiklos ir teikiamų paslaugų užsakovai yra Vyriausybė, Sveikatos apsaugos ministerija, kitos valstybės institucijos, savivaldybių tarybos, Valstybinė ir teritorinės ligonių kasos ir kitos LNSS ištekliais disponuojančios institucijos.
+1. LNSS veiklos ir teikiamų paslaugų užsakovai yra Valstybinė ligonių kasa ir kitos LNSS ištekliais disponuojančios valstybės bei savivaldybių institucijos ir įstaigos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2790, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12733
+ 
 
 
 
@@ -5185,13 +5225,35 @@ Nr. XI-2369, 2012-11-06, Žin., 2012, Nr. 135-6860 (2012-11-22)
 
 
 
-76 straipsnis. Valstybinė ir teritorinės ligonių kasos
+76 straipsnis. Valstybinė ligonių kasa 
 
 
-Valstybinė ir teritorinės ligonių kasos pagal kompetenciją užtikrina nustatytų rūšių asmens sveikatos priežiūros paslaugų apmokėjimą, kontroliuoja jų kiekį ir kokybę, atlieka privalomojo sveikatos draudimo lėšų naudojimo finansinę bei ekonominę analizę, teikia lėšas valstybės ir savivaldybių fondams, vykdo įstatymų ir ligonių kasų nuostatų nustatytas funkcijas. 
+Valstybinė ligonių kasa:
+
+
+1) Sveikatos draudimo įstatymo nustatyta tvarka užtikrina asmens sveikatos priežiūros paslaugų apmokėjimą;
+
+
+
+
+2) vykdo asmens sveikatos priežiūros įstaigų, su kuriomis sudarė sutartis dėl asmens sveikatos priežiūros paslaugų teikimo išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis, priežiūrą, vertindama asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, atitiktį teisės aktų, reglamentuojančių Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų teikimo reikalavimus, reikalavimams ir šių paslaugų apmokėjimo teisėtumą bei su tuo susijusią asmens sveikatos priežiūros įstaigų veiklą;
+
+
+
+
+3) sveikatos apsaugos ministro nustatyta tvarka atlieka finansinę ir ekonominę Privalomojo sveikatos draudimo fondo biudžeto lėšų naudojimo analizę;
+
+
+
+
+4) atlieka kitas įstatymuose ir Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos nuostatuose nustatytas funkcijas.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2790, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12733
  
-
-
 
 
 
@@ -6032,3 +6094,8 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 16, 59-1, 59-2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2745, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11248
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 59-2 ir 59-5 straipsnių pakeitimo įstatymas
+ 
+41.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2790, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12733
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 8, 11, 13 ir 76 straipsnių pakeitimo įstatymas
