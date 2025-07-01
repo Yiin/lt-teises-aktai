@@ -48,109 +48,6 @@ BENDROSIOS NUOSTATOS
 3. Šio įstatymo nuostatos taikomos atsižvelgiant į 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, ir jo įgyvendinamųjų teisės aktų nuostatas.
 Straipsnio dalies pakeitimai:
 Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
- 
-
-
-
-
-
-
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
-
-
-1. Administracijos vadovai – centrinės kredito unijos administracijos vadovas ir jo pavaduotojas.
-
-
-
-
-2. Apyvartai proporcingos išmokos – išmokos centrinės kredito unijos nariams iš pelno, mokamos proporcingai centrinės kredito unijos narių palūkanų apyvartai centrinėje kredito unijoje.
-
-
-
-
-3. Asocijuotas investuotojas – fizinis arba juridinis asmuo, išskyrus kredito uniją ir valstybę, kurio pajinis įnašas pagrindinio pajaus įsigijimo metu sudaro ne mažiau kaip 10 procentų centrinės kredito unijos nuosavo kapitalo. 
-
-
-
-
-4. Centrinė kredito unija – Lietuvos Respublikoje įsteigta kredito įstaiga, kuri turi licenciją verstis ir verčiasi indėlių ir kitų grąžintinų lėšų priėmimu iš šio įstatymo nustatytų neprofesionalių rinkos dalyvių ir jų skolinimu, taip pat turi teisę verstis kitų šio įstatymo nustatytų licencinių ir kitų finansinių paslaugų teikimu šio įstatymo nustatytiems asmenims ir prisiima su tuo susijusią riziką bei atsakomybę, taip pat atlieka kitas šio įstatymo nustatytas funkcijas.
-
-
-
-
-5. Centrinės kredito unijos nario palūkanų apyvarta centrinėje kredito unijoje (toliau – apyvarta) – finansiniais metais centrinės kredito unijos nario gautų iš centrinės kredito unijos palūkanų pajamų ir centrinei kredito unijai sumokėtų palūkanų išlaidų suma.
-
-
-
-
-6. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (su visais pakeitimais) įsteigta institucija.
-Straipsnio dalies pakeitimai:
-Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
- 
-
-
-
-
-7. Kredito unija – kaip ši sąvoka apibrėžta Lietuvos Respublikos kredito unijų įstatyme.
-
-
-
-
-8. Licencinės finansinės paslaugos:
-
-
-1) indėlių ar kitų grąžintinų lėšų priėmimas iš neprofesionalių rinkos dalyvių; 
-
-
-
-
-2) Lietuvos Respublikos mokėjimų įstatymo 5 straipsnyje nustatytos mokėjimo paslaugos;
-
-
-
-
-3) elektroninių pinigų leidimas;
-
-
-
-
-4) kitos finansinės paslaugos, kurių teikimu galima verstis tik turint pagal kitus Lietuvos Respublikos įstatymus išduotą licenciją.
-
-
-
-
-
-
-9. Pagrindinis pajus – centrinės kredito unijos nario įsigytas pajus, suteikiantis teisę centrinės kredito unijos visuotinio narių susirinkimo metu turėti balso teisę sprendžiant centrinės kredito unijos visuotinio narių susirinkimo kompetencijai priskirtus klausimus ir suteikiantis teisę gauti dividendus. 
-
-
-
-
-10. Pajaus vardinis dokumentas (toliau – pajus) – vertybinis popierius, patvirtinantis asmens dalyvavimą centrinės kredito unijos kapitale, suteikiantis centrinės kredito unijos nariui turtines ir neturtines teises. 
-
-
-
-
-11. Pajinis įnašas – asmens įmokėta į centrinę kredito uniją pinigų suma. Iš pajinių įnašų sudaromas centrinės kredito unijos pajinis kapitalas. 
-
-
-
-
-12. Papildomas pajus – centrinės kredito unijos nario įsigytas pajus, nesuteikiantis balso teisės centrinės kredito unijos visuotiniame narių susirinkime, tačiau suteikiantis teisę gauti dividendus. 
-
-
-
-
-13. Kitos šio įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos finansinio tvarumo įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (su visais pakeitimais) ir 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (su visais pakeitimais).
-Straipsnio dalies pakeitimai:
-Nr. XIII-2023, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05394
-Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
- 
-
-
-
-
-
 
 3 straipsnis. Centrinės kredito unijos pavadinimas, teisinė forma, jos veiklą reglamentuojantys teisės aktai 
 
@@ -1086,8 +983,6 @@ Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
 
 
 
-
-
 2. Centrinės kredito unijos stebėtojų taryba jos kompetencijai priskirtus klausimus gali perduoti spręsti tik centrinės kredito unijos visuotiniam narių susirinkimui. 
 
 
@@ -1102,8 +997,6 @@ Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
 
 
 2) išdėstyta kiekvieno svarstomo klausimo esmė, nurodyti dokumentai ir informacija, kurių pagrindu svarstomas kiekvienas klausimas, išdėstyta, ką kalbėjo posėdžio dalyviai, ir jų pasiūlymai kiekvienu svarstomu klausimu, įrašyti balsavimo rezultatai ir priimti sprendimai, pridėtos posėdžio dalyvių atskirosios nuomonės ir protestai.
-
-
 
 
 
@@ -1128,7 +1021,7 @@ Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
 
 
 
-8. Stebėtojų taryba turi teisę pasikviesti nepriklausomą auditorių patikrinti ir įvertinti centrinės kredito unijos finansinių ataskaitų ir buhalterinės apskaitos. Centrinės kredito unijos visuotinis narių susirinkimas gali nustatyti limitą lėšų, kurias galima skirti auditoriaus paslaugoms apmokėti.
+8. Stebėtojų taryba turi teisę pasikviesti nepriklausomą auditorių patikrinti ir įvertinti centrinės kredito unijos finansinių ataskaitų ir finansinės apskaitos. Centrinės kredito unijos visuotinis narių susirinkimas gali nustatyti limitą lėšų, kurias galima skirti auditoriaus paslaugoms apmokėti.
 
 
 
@@ -1143,15 +1036,7 @@ Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
 
 
 
-11. Stebėtojų tarybos posėdžiai turi būti rengiami ne rečiau kaip kartą per ketvirtį. Eilinius stebėtojų tarybos posėdžius šaukia stebėtojų tarybos pirmininkas. Neeiliniai posėdžiai šaukiami, kai to reikalauja ne mažiau kaip 1/3 stebėtojų tarybos narių ar priežiūros institucijos nurodymu. Posėdžių šaukimo tvarka nustatoma stebėtojų tarybos darbo reglamente. 
- 
-
-
-
-
-
-
-20 straipsnis. Centrinės kredito unijos valdyba
+11. Stebėtojų tarybos posėdžiai turi būti rengiami ne rečiau kaip kartą per ketvirtį. Eilinius stebėtojų tarybos posėdžius šaukia stebėtojų tarybos pirmininkas. Neeiliniai posėdžiai šaukiami, kai to reikalauja ne mažiau kaip 1/3 stebėtojų tarybos narių ar priežiūros institucijos nurodymu. Posėdžių šaukimo tvarka nustatoma stebėtojų tarybos darbo reglamente.20 straipsnis. Centrinės kredito unijos valdyba
 
 
 1. Centrinės kredito unijos valdyba:
@@ -1293,15 +1178,7 @@ Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
 
 
 
-3. Centrinės kredito unijos administracijos vadovai negali atlikti vyriausiojo buhalterio pareigų, būti centrinės kredito unijos stebėtojų tarybos nariais, kitos centrinės kredito unijos, kredito unijos ar banko valdybos nariais ar administracijos vadovais. 
- 
-
-
-
-
-
-
-22 straipsnis. Centrinės kredito unijos vadovai ir darbuotojai
+3. Centrinės kredito unijos administracijos vadovai negali atlikti centrinės kredito unijos finansinę apskaitą tvarkančio asmens pareigų, būti centrinės kredito unijos stebėtojų tarybos nariais, kitos centrinės kredito unijos, kredito unijos ar banko valdybos nariais ar administracijos vadovais.22 straipsnis. Centrinės kredito unijos vadovai ir darbuotojai
 
 
 1. Centrinės kredito unijos vadovai yra:
@@ -2180,7 +2057,7 @@ CENTRINĖS KREDITO UNIJOS APSKAITA, FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS
 41 straipsnis. Apskaita
 
 
-1. Centrinė kredito unija buhalterinę apskaitą privalo tvarkyti vadovaudamasi Lietuvos Respublikos įstatymais ir kitais teisės aktais, taip pat centrinės kredito unijos pasirinkta apskaitos politika, įgyvendinama atsižvelgiant į konkrečias sąlygas ir vadovaujantis tarptautiniais apskaitos standartais.
+1. Centrinė kredito unija finansinę apskaitą privalo tvarkyti vadovaudamasi Lietuvos Respublikos įstatymais ir kitais teisės aktais, taip pat centrinės kredito unijos pasirinkta apskaitos politika, įgyvendinama atsižvelgiant į konkrečias sąlygas ir vadovaujantis tarptautiniais finansinės atskaitomybės standartais.
 
 
 
@@ -2203,17 +2080,7 @@ CENTRINĖS KREDITO UNIJOS APSKAITA, FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS
 
 
 
-3) sudarytų sąlygas centrinės kredito unijos nariams ir įstatymų įgaliotoms institucijoms susipažinti su centrinės kredito unijos finansine būkle.
- 
-
-
-
-
-
-
-
-
-42 straipsnis. Finansinių ataskaitų rinkiniai
+3) sudarytų sąlygas centrinės kredito unijos nariams ir įstatymų įgaliotoms institucijoms susipažinti su centrinės kredito unijos finansine būkle.42 straipsnis. Finansinių ataskaitų rinkiniai
 
 
 1. Centrinė kredito unija ir centrinės kredito unijos finansinė grupė sudaro tarpinių finansinių ataskaitų rinkinius ir metinių finansinių ataskaitų rinkinius. Centrinės kredito unijos finansinės grupės konsoliduotasis metinių finansinių ataskaitų rinkinys sudaromas priežiūros institucijos teisės aktų nustatyta tvarka. 
@@ -2354,24 +2221,11 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 44 straipsnis. Reikalavimai auditoriui ir audito įmonei, jų pareigos ir atsakomybė
 
 
-Reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Finansų įstaigų įstatymas, Lietuvos Respublikos finansinių ataskaitų audito įstatymas. 
+Reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Finansų įstaigų įstatymas, Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas. 
 
 
 Straipsnio pakeitimai:
-Nr. XIII-101, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29413
- 
-
-
-
-
-
-
-DEVINTASIS SKIRSNIS
-CENTRINĖS KREDITO UNIJOS PRIEŽIŪRA
- 
-
-
-45 straipsnis. Priežiūros institucija
+Nr. XIII-101, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-2941345 straipsnis. Priežiūros institucija
 
 
 1. Priežiūros institucija, atliekanti centrinės kredito unijos priežiūrą ir centrinės kredito unijos finansinės grupės jungtinę (konsoliduotą) priežiūrą, yra Europos Centrinis Bankas ir Lietuvos bankas pagal Reglamente (ES) Nr. 1024/2013 nustatytą funkcijų paskirstymą. Lietuvos bankas šiame įstatyme priežiūros institucijai nustatytas funkcijas atlieka, suteiktomis teisėmis naudojasi tiek, kiek pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai nepavesta Europos Centriniam Bankui. 
@@ -2763,9 +2617,7 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 
 
-6) asmenys, su kuriais centrinė kredito unija yra sudariusi sandorius dėl centrinės kredito unijos veiklą papildančių paslaugų pirkimo, taip pat kiti asmenys, kuriems šios dalies 2, 3 ir 4 punktuose nurodyti subjektai yra perdavę veiklos funkcijas arba veiklą.
-
-
+6) asmenys, su kuriais centrinė kredito unija yra sudariusi sandorius dėl centrinės kredito unijos veiklą papildančių paslaugų pirkimo, taip pat kiti asmenys, kuriems šios dalies 1, 2, 3 ir 4 punktuose nurodyti subjektai yra perdavę funkcijų ar veiklos vykdymą, įskaitant informacinių ir ryšių technologijų paslaugas teikiančias trečiąsias šalis, nustatytas Reglamento (ES) 2022/2554 V skyriuje.
 
 
 
@@ -2783,7 +2635,7 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 
 
-2) tikrinti šio straipsnio 1 dalies 1–4 punktuose nurodytų asmenų buhalterinės apskaitos registrus, dokumentus, kompiuteriuose ir kitose laikmenose esančią informaciją, kitus patikrinimui reikalingus informacijos šaltinius, gauti jų kopijas arba išrašus;
+2) tikrinti šio straipsnio 1 dalies 1–4 punktuose nurodytų asmenų finansinės apskaitos registrus, dokumentus, kompiuteriuose ir kitose laikmenose esančią informaciją, kitus patikrinimui reikalingus informacijos šaltinius, gauti jų kopijas arba išrašus;
 
 
 
@@ -2793,17 +2645,7 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 
 
-4) apklausti visus kitus šios dalies 3 punkte nenurodytus asmenis, kurie sutinka būti apklausti, siekdama gauti su tyrimo dalyku susijusios informacijos. 
- 
-
-
-
-
-
-
-
-
-52 straipsnis. Priežiūros institucijos rengiami patikrinimai
+4) apklausti visus kitus šios dalies 3 punkte nenurodytus asmenis, kurie sutinka būti apklausti, siekdama gauti su tyrimo dalyku susijusios informacijos.52 straipsnis. Priežiūros institucijos rengiami patikrinimai
 
 
 1. Priežiūros institucija organizuoja ir atlieka patikrinimus, kad nustatytų, ar laikomasi šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai.
@@ -2820,13 +2662,7 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 
 Straipsnio pakeitimai:
-Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
- 
-
-
-
-
-53 straipsnis. Bendradarbiavimas su Europos Komisija, Europos bankininkystės institucija ir Europos Sąjungos valstybių narių priežiūros institucijomis
+Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-0984153 straipsnis. Bendradarbiavimas su Europos Komisija, Europos bankininkystės institucija ir Europos Sąjungos valstybių narių priežiūros institucijomis
 
 
 1. Priežiūros institucija praneša Europos bankininkystės institucijai apie šio įstatymo nustatyta tvarka išduotas licencijas, nurodydama, kurioje indėlių draudimo sistemoje dalyvauja licenciją gavusi centrinė kredito unija, pritaikytas poveikio priemones, dėl šių poveikio priemonių paduotus skundus ir jų nagrinėjimo eigą, Europos Komisijai ir Europos bankininkystės institucijai apie atšauktas licencijas, taip pat joms ir Europos Sąjungos valstybių narių priežiūros institucijoms teikia kitą informaciją. Pranešimų ir informacijos teikimo atvejus ir tvarką nustato priežiūros institucijos teisės aktai.
@@ -2969,14 +2805,17 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 
 
+9^1) pažeidžiami Reglamente (ES) 2022/2554 nustatyti reikalavimai;
+
+
+
+
 10) padaromi kiti įstatymų, kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai arba yra grėsmė, kad dėl centrinės kredito unijos veiklos arba finansinės būklės būtų pažeisti visuomenės ir (arba) klientų interesai.
 
 
 
 
-
-
-2. Priežiūros institucijos sprendimas taikyti poveikio priemonę gali būti priimtas, jeigu praėjo ne daugiau kaip 5 metai nuo pažeidimo padarymo (esant trunkamam pažeidimui, – nuo pažeidimo pabaigimo) dienos. Priežiūros institucijai pradėjus patikrinimą dėl galimo finansų rinką reglamentuojančio teisės akto pažeidimo ir apie tai raštu pranešus asmeniui, kuris įtariamas pažeidimo padarymu, nuo tokio pranešimo įteikimo dienos šioje dalyje nustatytas senaties terminas nutraukiamas, tačiau ir tokiu atveju priežiūros institucijos sprendimas taikyti poveikio priemonę negali būti priimtas, jeigu praėjo daugiau kaip 10 metų nuo pažeidimo padarymo (esant trunkamam pažeidimui, – nuo pažeidimo pabaigimo) dienos.
+2. Priežiūros institucijos sprendimas taikyti poveikio priemonę gali būti priimtas, jeigu praėjo ne daugiau kaip 5 metai nuo pažeidimo padarymo (esant trunkamam pažeidimui, – nuo pažeidimo pabaigimo) dienos. Priežiūros institucijai pradėjus patikrinimą dėl galimo finansų rinką reglamentuojančio teisės akto pažeidimo ir apie tai raštu pranešus asmeniui, kuris įtariamas pažeidimo padarymu, nuo tokio pranešimo įteikimo dienos šioje dalyje nustatyta senaties terminas nutraukiamas, tačiau ir tokiu atveju priežiūros institucijos sprendimas taikyti poveikio priemonę negali būti priimtas, jeigu praėjo daugiau kaip 10 metų nuo pažeidimo padarymo (esant trunkamam pažeidimui, – nuo pažeidimo pabaigimo) dienos.
 
 
 
@@ -2989,17 +2828,11 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 4. Neteko galios nuo 2021-01-01
 Straipsnio dalies naikinimas:
 Nr. XIV-109, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28964
- 
+ 
 
 
 Straipsnio pakeitimai:
-Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
- 
-
-
-
-
-56 straipsnis. Baudos 
+Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-0984156 straipsnis. Baudos 
 
 
 1. Priežiūros institucija skiria baudas:
@@ -3924,3 +3757,7 @@ Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 49 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2887, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13496
 Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 4 straipsnio ir priedo pakeitimo įstatymas
+
+5. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo.
+
+6. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011.
