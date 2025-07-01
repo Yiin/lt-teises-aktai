@@ -21,7 +21,7 @@ PASLAUGŲ KVITĄ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2024-11-12 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 136-6965, i. k. 1121010ISTA0XI-2411
  
@@ -52,9 +52,10 @@ Vilnius
 2 straipsnis. Žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą administravimas
 
 
-1. Paslaugų kvito blankų gamybą ir pardavimą organizuoja valstybės įmonė Žemės ūkio duomenų centras.
+1. Paslaugų kvito blankų gamybą ir pardavimą organizuoja akcinė bendrovė Žemės ūkio duomenų centras.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1305, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15632
+Nr. XIV-3123, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20205
  
 
 
