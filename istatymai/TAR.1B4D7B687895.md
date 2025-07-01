@@ -1373,7 +1373,7 @@ Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
 Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
 Nr. XIV-1461, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22572
 Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
- 
+ 
 
 
 
@@ -1384,7 +1384,7 @@ Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
 1) atlieka bankų, užsienio valstybių bankų filialų, įsteigtų Lietuvos Respublikoje, centrinių kredito unijų, kredito unijų priežiūrą ir kitas Lietuvos Respublikos bankų įstatymo, Lietuvos Respublikos centrinių kredito unijų įstatymo ir Lietuvos Respublikos kredito unijų įstatymo Lietuvos bankui priskirtas funkcijas; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
- 
+ 
 
 
 
@@ -1397,7 +1397,7 @@ Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
 3) atlieka elektroninių pinigų įstaigų, elektroninių pinigų įstaigų tarpininkų ir užsienio valstybių elektroninių pinigų įstaigų filialų, įsteigtų Lietuvos Respublikoje, priežiūrą, įstatymų, reglamentuojančių šių subjektų veiklą, Lietuvos bankui priskirtas funkcijas; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
- 
+ 
 
 
 
@@ -1408,7 +1408,7 @@ Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
 Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
- 
+ 
 
 
 
@@ -1422,7 +1422,7 @@ Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
 Straipsnio punkto pakeitimai:
 Nr. XIII-2517, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18821
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
- 
+ 
 
 
 
@@ -1447,15 +1447,15 @@ Straipsnio punkto pakeitimai:
 Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
 Nr. XIII-2517, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18821
 Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
- 
+ 
 
 
 
 
-11) atlieka sutelktinio finansavimo paslaugų teikėjų priežiūrą ir kitas Reglamento (ES) 2020/1503 kompetentingai institucijai priskirtas funkcijas; 
+11) atlieka sutelktinio finansavimo paslaugų teikėjų priežiūrą ir kitas Reglamento (ES) 2020/1503 kompetentingai institucijai priskirtas funkcijas; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
- 
+ 
 
 
 
@@ -1473,7 +1473,7 @@ Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 14) atlieka pensijų anuitetų mokėtojo vykdomos pensijų anuitetų mokėjimo veiklos priežiūrą ir kitas Lietuvos Respublikos pensijų kaupimo įstatyme Lietuvos bankui priskirtas funkcijas;
 Papildyta straipsnio punktu:
 Nr. XIII-2852, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08966
- 
+ 
 
 
 
@@ -1481,7 +1481,7 @@ Nr. XIII-2852, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08966
 15) atlieka mišrios veiklos finansų kontroliuojančiųjų įmonių, įsteigtų Lietuvos Respublikoje, finansų kontroliuojančiųjų bendrovių, įsteigtų Lietuvos Respublikoje, priežiūrą ir kitas Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Lietuvos bankui priskirtas funkcijas;
 Papildyta straipsnio punktu:
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
- 
+ 
 
 
 
@@ -1489,7 +1489,7 @@ Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 16) atlieka padengtųjų obligacijų bendrovių, pakeitimo vertybiniais popieriais bendrovių ir pakeitimo vertybiniais popieriais iniciatorių, pakeitimo vertybiniais popieriais rėmėjų, pirminių skolintojų ir trečiųjų šalių, tikrinančių pakeitimo vertybiniais popieriais atitiktį PSS kriterijams, priežiūrą ir kitas Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme Lietuvos bankui priskirtas funkcijas;
 Papildyta straipsnio punktu:
 Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
- 
+ 
 
 
 
@@ -1499,7 +1499,7 @@ Papildyta straipsnio punktu:
 Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
 Straipsnio punkto pakeitimai:
 Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
- 
+ 
 
 
 
@@ -1507,14 +1507,17 @@ Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
 18) atlieka kredito administratorių veiklos priežiūrą ir kitas Lietuvos Respublikos kredito administratorių ir kredito pirkėjų įstatyme Lietuvos bankui priskirtas funkcijas. 
 Papildyta straipsnio punktu:
 Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
- 
+ 
 
 
 
 
+19) atlieka Reglamento (ES) 2022/2554 kompetentingai institucijai priskirtas funkcijas.
 
 
-3. Lietuvos bankas finansų rinkos priežiūrą atlieka tiek, kiek pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai nepavesta Europos Centriniam Bankui.
+
+
+3. Lietuvos bankas finansų rinkos priežiūrą atlieka tiek, kiek pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai nepavesta Europos Centriniam Bankui.
 
 
 
@@ -1545,7 +1548,7 @@ Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
 5) raštu atkreipti prižiūrimų finansų rinkos dalyvių ir kitų asmenų dėmesį į pažeidimus ir jų veiklos trūkumus, už kuriuos netaikytini įstatymų ir Europos Sąjungos teisės aktų nustatyti privalomi nurodymai ar poveikio priemonės, ir siūlyti imtis priemonių, kad būtų pašalinti pažeidimai, trūkumai, jų priežastys ir sąlygos;
 Straipsnio punkto pakeitimai:
 Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
- 
+ 
 
 
 
@@ -1553,7 +1556,7 @@ Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 6) šiame ir kituose finansų rinką reglamentuojančiuose įstatymuose ir Europos Sąjungos teisės aktuose nustatytais atvejais ir tvarka duoti privalomus nurodymus prižiūrimiems finansų rinkos dalyviams ir kitiems asmenims;
 Straipsnio punkto pakeitimai:
 Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
- 
+ 
 
 
 
@@ -1583,8 +1586,6 @@ Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 
 
 
-
-
 5. Šio straipsnio 4 dalyje nurodytomis teisėmis Lietuvos bankas naudojasi:
 
 
@@ -1608,8 +1609,6 @@ Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 
 
 
-
-
 6. Lietuvos banko atliekama finansų rinkos priežiūra grindžiama perspektyviniu ir rizikos vertinimu pagrįstu požiūriu. Perspektyvinis požiūris reiškia, kad siekiama kuo anksčiau nustatyti galimas rizikas ir imtis priemonių joms šalinti. Rizikos vertinimu pagrįstas požiūris reiškia, kad veiksmai pirmiausia nukreipiami didžiausios rizikos atvejams šalinti, riziką siejant su žalos atsiradimo tikimybe ir šios žalos dydžiu ir mastu.
 
 
@@ -1618,7 +1617,7 @@ Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 7. Lietuvos bankas, turėdamas pagrindą įtarti, kad nuotoliniu būdu (naudojant ryšio priemones) Lietuvos Respublikoje nelegaliai, tai yra neturint finansų rinką reglamentuojančiuose teisės aktuose nustatyta tvarka suteiktos teisės arba kitaip pažeidžiant teisės aktų reikalavimus, yra siūloma įsigyti arba pasirašyti finansinių priemonių, siūlomos ir (arba) teikiamos draudimo arba finansinės paslaugos, turi teisę Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka duoti privalomus nurodymus pašalinti informaciją, kuri naudojama siekiant nelegaliai siūlyti įsigyti arba pasirašyti finansinių priemonių, teikti draudimo ir (arba) finansines paslaugas, arba panaikinti galimybę šią informaciją pasiekti. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-2143, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14039
- 
+ 
 
 
 
@@ -1628,7 +1627,7 @@ Straipsnio dalies naikinimas:
 Nr. XIV-2143, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14039
 Straipsnio dalies pakeitimai:
 Nr. XIV-1597, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25171
- 
+ 
 
 
 
@@ -1641,7 +1640,7 @@ Nr. XIV-1597, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25171
 10. Neteko galios nuo 2024-05-01
 Straipsnio dalies naikinimas:
 Nr. XIV-2143, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14039
- 
+ 
 
 
 
@@ -1665,13 +1664,7 @@ Nr. XII-1035, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10871
 
 
 Straipsnio pakeitimai:
-Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
- 
-
-
-
-
-421 straipsnis. Lietuvos banko rengiami patikrinimai 
+Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837421 straipsnis. Lietuvos banko rengiami patikrinimai 
 
 
 1. Lietuvos bankas organizuoja ir atlieka patikrinimus, kad nustatytų, kaip laikomasi finansų rinką reglamentuojančiuose teisės aktuose nustatytų reikalavimų. Lietuvos bankas taip pat turi teisę atlikti patikrinimus paaiškėjus aplinkybėms, susijusioms su galimais finansų rinką reglamentuojančių teisės aktų pažeidimais arba kitais finansų rinką reglamentuojančiuose įstatymuose nustatytais atvejais. 
@@ -4257,3 +4250,5 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 43-3, 43-6, 43-7, 47-7 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-153, 2025-04-10, paskelbta TAR 2025-04-11, i. k. 2025-06427
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 23 straipsnio pakeitimo įstatymas
+
+23^1. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011.
