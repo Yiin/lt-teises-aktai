@@ -41,346 +41,6 @@ BENDROSIOS NUOSTATOS
 
 
 2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
- 
-
-
-
-
-
-
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
-
-
-1. Atvirojo ryšio sąsaja – viešai prieinama techninė sąsaja ryšiams tarp sąskaitas tvarkančių mokėjimo paslaugų teikėjų, mokėjimo inicijavimo paslaugos teikėjų, sąskaitos informacijos paslaugos teikėjų, kitų mokėjimo paslaugų teikėjų, mokėtojų ir gavėjų palaikyti, parengta atsižvelgiant į Europos Komisijos priimtame deleguotajame teisės akte, kaip nurodyta Direktyvos (ES) Nr. 2015/2366 98 straipsnio 1 dalies d punkte, nustatytus reikalavimus.
-
-
-
-
-2. Autentiškumo patvirtinimas – procedūra, kuria mokėjimo paslaugų teikėjas tikrina mokėjimo paslaugų vartotojo tapatybę arba mokėjimo priemonės, įskaitant jos personalizuotus saugumo duomenis, naudojimo teisėtumą.
-
-
-
-
-3. Bendroji mokėjimo paslaugų sutartis (toliau – bendroji sutartis) – sutartis, kuria reglamentuojamas atskirų ir paskesnių mokėjimo operacijų vykdymas ir kurioje gali būti nustatyta pareiga atidaryti mokėjimo sąskaitą ir jos atidarymo sąlygos.
-
-
-
-
-4. Darbo diena – mokėjimo paslaugų teikėjo nustatyta diena, kurią mokėtojo mokėjimo paslaugų teikėjas arba gavėjo mokėjimo paslaugų teikėjas, dalyvaujantis vykdant mokėjimo operaciją, dirba vykdydamas mokėjimo operacijai atlikti būtiną veiklą.
-
-
-
-
-5. Elektroniniai pinigai – kaip apibrėžta Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme.
-
-
-
-
-6. Elektroninių pinigų įstaiga – Elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme apibrėžta elektroninių pinigų įstaiga, kitos valstybės narės elektroninių pinigų įstaiga, jų filialai arba užsienio valstybės elektroninių pinigų įstaigos filialas, įsteigtas Lietuvos Respublikoje.
-
-
-
-
-7. Elektroninių ryšių paslauga – kaip apibrėžta Lietuvos Respublikos elektroninių ryšių įstatyme.
-
-
-
-
-8. Elektroninių ryšių tinklas – kaip apibrėžta Elektroninių ryšių įstatyme.
-
-
-
-
-9. Fizinis mokėjimo paslaugų vartotojas (toliau – vartotojas) – siekiantis sudaryti arba sudaręs mokėjimo paslaugų sutartį fizinis asmuo, kuris veikia siekdamas tikslų, nesusijusių su savo verslu, prekyba ar profesine veikla.
-
-
-
-
-10. Gaunamų mokėjimų apdorojimas ‒ mokėjimo paslauga, kai mokėjimo paslaugų teikėjas pagal susitarimą su gavėju sudaro sąlygas šiam gavėjui priimti mokėjimo operacijas, jas apdoroja ir užtikrina, kad lėšos būtų pervedamos gavėjui.
-
-
-
-
-11. Gavėjas – fizinis arba juridinis asmuo, kita organizacija arba jos padalinys, kurie mokėjimo nurodyme yra numatyti kaip mokėjimo operacijos lėšų gavėjai.
-
-
-
-
-12. Įmonių grupė – Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme apibrėžta grupė, taip pat 2014 m. sausio 7 d. Komisijos deleguotojo reglamento (ES) Nr. 241/2014, kuriuo papildomos Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 nuostatos, susijusios su įstaigų nuosavų lėšų reikalavimų techniniais reguliavimo standartais (OL 2014 L 74, p. 8), 4, 5, 6 ir 7 straipsniuose nurodytos įmonės, kurios viena su kita susijusios 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) (toliau – Reglamentas (ES) Nr. 575/2013)10 straipsnio 1 dalyje ar 113 straipsnio 6 ar 7 dalyje nurodytais santykiais.
-
-
-
-
-13. Informaciją gaunantis mokėjimo paslaugų teikėjas (toliau – gaunantysis mokėjimo paslaugų teikėjas) – mokėjimo paslaugų teikėjas, kuris iš informaciją perduodančio mokėjimo paslaugų teikėjo gauna informaciją, būtiną vartotojo prašymu vykdomam mokėjimo sąskaitos perkėlimui atlikti. 
-
-
-
-
-14. Informaciją perduodantis mokėjimo paslaugų teikėjas (toliau – perduodantysis mokėjimo paslaugų teikėjas) – mokėjimo paslaugų teikėjas, kuris gaunančiajam mokėjimo paslaugų teikėjui perduoda informaciją, būtiną vartotojo prašymu vykdomam mokėjimo sąskaitos perkėlimui atlikti.
-
-
-
-
-15. Komisinis atlyginimas – atlyginimas, kurį mokėjimo paslaugų vartotojas turi mokėti mokėjimo paslaugų teikėjui už mokėjimo operaciją ir (arba) su ja susijusias paslaugas, su mokėjimo sąskaita susijusias paslaugas arba kuris yra susijęs su šiomis paslaugomis.
-
-
-
-
-16. Kredito įstaiga – Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 1 punkte apibrėžta kredito įstaiga, jos filialas arba užsienio valstybės kredito įstaigos filialas, įsteigtas Lietuvos Respublikoje.
-
-
-
-
-17. Kredito pervedimas – mokėjimo paslauga, kai vadovaudamasis mokėtojo pateiktu mokėjimo nurodymu mokėjimo paslaugų teikėjas, kuriame mokėtojas turi mokėjimo sąskaitą, perveda mokėjimo operacijos arba kelių mokėjimo operacijų lėšas iš mokėtojo mokėjimo sąskaitos į gavėjo mokėjimo sąskaitą.
-
-
-
-
-18. Lėšos – grynieji pinigai (banknotai ir monetos), pinigai sąskaitoje ir elektroniniai pinigai.
-
-
-
-
-19. Lėšų įskaitymo data – data, kurią naudoja mokėjimo paslaugų teikėjas apskaičiuodamas palūkanas už lėšas, įskaitomas į mokėjimo sąskaitą.
-
-
-
-
-20. Lėšų likučio viršijimas – sąskaitos lėšų pereikvojimas, dėl kurio numanomai sutikta bendrojoje sutartyje, kai mokėjimo paslaugų teikėjas leidžia mokėjimo paslaugų vartotojui disponuoti lėšomis viršijant esamą mokėjimo paslaugų vartotojo sąskaitos likutį arba vartojimo kredito limitą sąskaitoje.
-
-
-
-
-21. Lėšų nurašymo data – data, kurią naudoja mokėjimo paslaugų teikėjas apskaičiuodamas palūkanas už lėšas, nurašomas iš mokėjimo sąskaitos.
-
-
-
-
-22. Mokėjimo inicijavimo paslauga – mokėjimo paslauga, kai mokėjimo paslaugų vartotojo prašymu mokėjimo nurodymas inicijuojamas iš mokėjimo sąskaitos, atidarytos kito mokėjimo paslaugų teikėjo įstaigoje.
-
-
-
-
-23. Mokėjimo inicijavimo paslaugos teikėjas – mokėjimo paslaugų teikėjas, kuris teikia mokėjimo inicijavimo paslaugą.
-
-
-
-
-24. Mokėjimo įstaiga – Lietuvos Respublikos mokėjimo įstaigų įstatyme apibrėžta mokėjimo įstaiga, kitos valstybės narės mokėjimo įstaiga arba jų filialai.
-
-
-
-
-25. Mokėjimo nurodymas – mokėtojo arba gavėjo nurodymas savo mokėjimo paslaugų teikėjui įvykdyti mokėjimo operaciją.
-
-
-
-
-26. Mokėjimo operacija – mokėtojo, mokėtojo vardu arba gavėjo inicijuotas lėšų įmokėjimas, pervedimas arba išėmimas neatsižvelgiant į mokėtojo ir gavėjo pareigas, kuriomis grindžiama operacija.
-
-
-
-
-27. Mokėjimo paslauga – bet kuri šio įstatymo 5 straipsnyje nurodyta paslauga.
-
-
-
-
-28. Mokėjimo paslaugų teikėjas – bet kuris šio įstatymo 6 straipsnyje nurodytas subjektas, kuris teikia šio įstatymo 5 straipsnyje nustatytas mokėjimo paslaugas.
-
-
-
-
-29. Mokėjimo paslaugų teikėjo buveinės valstybė narė (toliau – buveinės valstybė narė) – valstybė narė, kurioje registruota mokėjimo paslaugų teikėjo buveinė. Jeigu kitoje valstybėje narėje įsteigtas mokėjimo paslaugų teikėjas pagal tos valstybės narės teisę neturi registruotos buveinės, – valstybė narė, kurioje yra mokėjimo paslaugų teikėjo buveinė.
-
-
-
-
-30. Mokėjimo paslaugų teikėjo ir mokėjimo paslaugų vartotojo susitarimas (toliau – susitarimas) – rašytinis ar kitokios formos šalių susitarimas, nustatytas bendrojoje mokėjimo paslaugų sutartyje, vienkartinio mokėjimo sutartyje, mokėjimo paslaugų teikėjo nustatytose mokėjimo paslaugų teikimo sąlygose arba kituose dokumentuose, kuriais įpareigojamas mokėjimo paslaugų teikėjas ir kita susitarianti šalis.
-
-
-
-
-31. Mokėjimo paslaugų vartotojas – fizinis arba juridinis asmuo, kita organizacija arba jos padalinys, kurie naudojasi mokėjimo paslaugomis kaip mokėtojai ir (arba) gavėjai.
-
-
-
-
-32. Mokėjimo priemonė – personalizuota priemonė ir (arba) tam tikros procedūros, dėl kurių susitaria mokėjimo paslaugų vartotojas ir mokėjimo paslaugų teikėjas ir kurias mokėjimo paslaugų vartotojas naudoja mokėjimo nurodymui inicijuoti.
-
-
-
-
-33. Mokėjimo priemonių išleidimas – mokėjimo paslauga, kai mokėjimo paslaugų teikėjas pagal susitarimą su mokėtoju suteikia jam mokėjimo priemonę mokėjimo operacijoms inicijuoti ir vykdyti.
-
-
-
-
-34. Mokėjimo sąskaita – vieno ar kelių mokėjimo paslaugų vartotojų vardu atidaryta sąskaita, naudojama mokėjimo operacijoms vykdyti.
-
-
-
-
-35. Mokėjimo sąskaitos ir kito su mokėjimo sąskaita nesusijusio produkto arba paslaugos grupavimas – mokėjimo sąskaitos ir kito su mokėjimo sąskaita nesusijusio produkto arba paslaugos sujungimas į grupę, kai sutartis dėl mokėjimo paslaugų teikėjo siūlomo produkto arba paslaugos, kurie nėra susiję su mokėjimo sąskaita, gali būti sudaroma ir atskirai nuo bendrosios sutarties dėl mokėjimo sąskaitos, tačiau nebūtinai tomis pačiomis sąlygomis, negu siūloma tą produktą ar paslaugą sujungus į grupę kartu su mokėjimo sąskaita.
-
-
-
-
-36. Mokėjimo sąskaitos ir kito su mokėjimo sąskaita nesusijusio produkto arba paslaugos siejimas – mokėjimo sąskaitos ir kito su mokėjimo sąskaita nesusijusio produkto arba paslaugos sujungimas į grupę, kai negali būti atskirai sudaroma vien tik sutartis dėl mokėjimo paslaugų teikėjo siūlomo produkto arba paslaugos, kurie nėra susiję su mokėjimo sąskaita.
-
-
-
-
-37. Mokėjimo sąskaitos perkėlimas – vartotojo prašymu atliekamas informacijos apie visus arba kai kuriuos periodinio kredito pervedimo nurodymus, periodines tiesioginio debeto operacijas ir periodiškai gaunamus kredito pervedimus mokėjimo sąskaitoje perdavimas iš vieno mokėjimo paslaugų teikėjo kitam mokėjimo paslaugų teikėjui ir (arba) bet kokio teigiamo mokėjimo sąskaitos likučio pervedimas iš vienos mokėjimo sąskaitos į kitą, senąją mokėjimo sąskaitą uždarant arba jos neuždarant.
-
-
-
-
-38. Mokėjimo schema – kaip apibrėžta 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 260/2012, kuriuo nustatomi kredito pervedimų ir tiesioginio debeto operacijų eurais techniniai ir komerciniai reikalavimai ir iš dalies keičiamas Reglamentas (EB) Nr. 924/2009 (toliau – Reglamentas (ES) Nr. 260/2012).
-
-
-
-
-39. Mokėjimo sistema – lėšų pervedimo sistema, kuri tvarkoma pagal bendras tos sistemos taisykles ir kuriai nustatyta standartizuota mokėjimo operacijų apdorojimo, tarpuskaitos ir (arba) atsiskaitymų tvarka.
-
-
-
-
-40. Mokėtojas – fizinis arba juridinis asmuo, kita organizacija arba jos padalinys, kurie turi mokėjimo sąskaitas ir leidžia vykdyti mokėjimo nurodymus iš tų mokėjimo sąskaitų arba, kai nėra mokėjimo sąskaitos, kurie pateikia mokėjimo nurodymus.
-
-
-
-
-401. Momentinis kredito pervedimas – kredito pervedimas, kuris bet kurią dieną ir bet kuriuo paros metu įvykdomas nedelsiant.
-Papildyta straipsnio dalimi:
-Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
- 
-
-
-
-
-41. Neskelbtini mokėjimo duomenys – duomenys, įskaitant personalizuotus saugumo duomenis, kurie, jeigu būtų atskleisti, gali būti panaudoti vykdant sukčiavimą ar kitu neteisėtu tikslu.
-
-
-
-
-42. Nuotolinė mokėjimo operacija – mokėjimo operacija, inicijuojama internetu arba kitokiu nuotoliniu ryšiu.
-
-
-
-
-43. Nuotolinio ryšio priemonė – priemonė, kurią galima naudoti mokėjimo paslaugų sutarčiai per atstumą sudaryti, kai mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas sudarydami sutartį kartu fiziškai nedalyvauja.
-
-
-
-
-44. Pagrindinė mokėjimo sąskaita – kredito įstaigoje vieno arba kelių vartotojų vardu atidaryta mokėjimo sąskaita, kurią atidarius vykdomos mokėjimo operacijos ir teikiamos paslaugos, nurodytos šio įstatymo 72 straipsnio 1 dalyje, ir kuriai taikomas šio įstatymo 73 straipsnyje nurodytas komisinis atlyginimas.
-
-
-
-
-45. Pagrindinė palūkanų norma – palūkanų norma, kurią nurodo abiem mokėjimo paslaugų sutarties šalims viešai prieinamas šaltinis ir pagal kurią apskaičiuojama palūkanų suma.
-
-
-
-
-46. Pagrindinis valiutos keitimo kursas – valiutos keitimo kursas, kurį nurodo mokėjimo paslaugų teikėjas arba skelbia viešai prieinamas šaltinis ir pagal kurį keičiama valiuta.
-
-
-
-
-47. Patvarioji laikmena – laikmena, kurioje asmeniškai mokėjimo paslaugų vartotojui skirta informacija saugoma taip, kad su ta informacija būtų galima susipažinti informacijos paskirtį atitinkančiu laikotarpiu, ir iš kurios laikoma informacija atgaminama jos nepakeičiant.
-
-
-
-
-48. Periodinio kredito pervedimo nurodymas (toliau – periodinio pervedimo nurodymas) – mokėjimo nurodymas mokėjimo paslaugų teikėjui, kuriame yra mokėtojo mokėjimo sąskaita, atlikti periodinius kredito pervedimus.
-
-
-
-
-49. Periodinis kredito pervedimas (toliau – periodinis pervedimas) – reguliariai arba iš anksto nustatytomis dienomis atliekamas kredito pervedimas.
-
-
-
-
-50. Personalizuoti saugumo duomenys – autentiškumo patvirtinimo tikslais naudojami duomenys, dėl kurių naudojimo susitarė mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas. 
-
-
-
-
-51. Pinigų perlaida – mokėjimo paslauga, kai lėšos gaunamos iš mokėtojo, neatidarant mokėjimo sąskaitos mokėtojo arba gavėjo vardu, tam, kad tam tikra suma būtų pervesta gavėjui ar gavėjo vardu veikiančiam mokėjimo paslaugų teikėjui, ir (ar) kai tokios lėšos gaunamos gavėjo vardu ir tampa jam prieinamos.
-
-
-
-
-52. Sąskaitą tvarkantis mokėjimo paslaugų teikėjas – mokėjimo paslaugų teikėjas, kuris atidarė ir tvarko mokėtojo mokėjimo sąskaitą.
-
-
-
-
-53. Sąskaitos informacijos paslauga – mokėjimo paslauga, kai internetu pateikiama konsoliduota informacija apie vieną ar kelias mokėjimo paslaugų vartotojo turimas mokėjimo sąskaitas kito mokėjimo paslaugų teikėjo įstaigoje arba kelių mokėjimo paslaugų teikėjų įstaigose.
-
-
-
-
-54. Sąskaitos informacijos paslaugos teikėjas – mokėjimo paslaugų teikėjas, kuris teikia sąskaitos informacijos paslaugą.
-
-
-
-
-55. Sąskaitos kreditavimo sutartis – kaip apibrėžta Lietuvos Respublikos vartojimo kredito įstatyme.
-
-
-
-
-56. Saugesnis autentiškumo patvirtinimas – autentiškumo patvirtinimas, kai saugiai naudojami bent du į žinojimo (tai, ką žino tik mokėjimo paslaugų vartotojas), turėjimo (tai, ką turi tik mokėjimo paslaugų vartotojas) ir būdingumo (tai, kas būdinga tik mokėjimo paslaugų vartotojui) kategorijas skirstomi elementai, o pažeidus vieną elementą neturi sumažėti kitų elementų patikimumas.
-
-
-
-
-57. Skaitmeninis turinys – skaitmenine forma kuriamos ir pateikiamos prekės ar paslaugos, kurių negalima naudoti fiziškai, o tik naudojant techninį prietaisą.
-
-
-
-
-58. Su mokėjimo sąskaita susijusios paslaugos – visos mokėjimo paslaugų teikėjo vartotojui teikiamos paslaugos, apimančios mokėjimo sąskaitos atidarymą, tvarkymą ir uždarymą, įskaitant mokėjimo paslaugas ir šio įstatymo 3 straipsnio 5 dalies 7 punkte nurodytas mokėjimo operacijas, taip pat pagal sąskaitos kreditavimo sutartį teikiamos paslaugos ir lėšų likučio viršijimo galimybės suteikimas.
-
-
-
-
-59. Teisėtai valstybėje narėje gyvenantis vartotojas (toliau – teisėtai gyvenantis vartotojas) – fizinis asmuo, kuris pagal Lietuvos Respublikos teisės aktus turi teisę gyventi Lietuvos Respublikoje arba pagal kitos valstybės narės teisės aktus turi teisę gyventi toje valstybėje narėje, įskaitant nuolatinės gyvenamosios vietos neturinčius vartotojus, taip pat vartotojus, kuriems nesuteiktas leidimas laikinai arba nuolat gyventi valstybėje narėje, tačiau kurių išsiųsti iš tos valstybės narės teisės aktų nustatyta tvarka neįmanoma, ir asmenis, prašančius prieglobsčio pagal 1951 m. liepos 28 d. Ženevos konvenciją dėl pabėgėlių statuso, jos 1967 m. sausio 31 d. protokolą ir kitas susijusias tarptautines sutartis.
-
-
-
-
-60. Tiesioginis debetas – mokėjimo paslauga, kurią teikiant lėšos nurašomos iš mokėtojo mokėjimo sąskaitos, kai mokėjimo operaciją inicijuoja gavėjas, remdamasis gavėjui, gavėjo mokėjimo paslaugų teikėjui arba mokėtojo mokėjimo paslaugų teikėjui duotu mokėtojo sutikimu.
-
-
-
-
-61. Unikalus identifikatorius – raidžių, skaičių ar simbolių derinys, kurį mokėjimo paslaugų teikėjas suteikia mokėjimo paslaugų vartotojui ir pagal kurį vienareikšmiškai atpažįstamas mokėjimo operacijoje dalyvaujantis mokėjimo paslaugų vartotojas ir (arba) mokėjimo operacijoje naudojama jo mokėjimo sąskaita.
-
-
-
-
-62. Užsienio valstybė – valstybė ne Europos Sąjungos valstybė narė ir ne Europos ekonominės erdvės valstybė.
-
-
-
-
-63. Valstybė narė – Europos Sąjungos valstybė narė, taip pat Europos ekonominės erdvės valstybė.
-
-
-
-
-64. Vienkartinio mokėjimo sutartis – sutartis, kuria reglamentuojamas vienkartinių mokėjimo operacijų vykdymas. Vienkartinėms mokėjimo operacijoms vykdyti nesudaroma bendroji sutartis.
- 
-
-
-
-
-
 
 3 straipsnis. Įstatymo taikymo sritis
 
@@ -395,7 +55,7 @@ Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
 
 
 
-3. Šio įstatymo 4 ir 11 straipsniai, III skyrius, išskyrus 13 straipsnio 3 dalies 5 punktą, 16 straipsnio reikalavimą dėl mokėjimo operacijos įvykdymo trukmės nurodymo ir 20 straipsnio 2 dalies 2 punktą, IV skyrius, V skyrius, išskyrus 45–48 straipsnius, ir VI skyrius taikomi mokėjimo operacijoms, vykdomoms užsienio valiuta, kai tiek mokėtojo mokėjimo paslaugų teikėjo, tiek gavėjo mokėjimo paslaugų teikėjo arba mokėjimo operaciją vykdančio vieno mokėjimo paslaugų teikėjo buveinės vieta yra valstybėje narėje, bet tik dėl tų mokėjimo operacijos dalių, kurios vykdomos valstybėse narėse.
+3. Šio įstatymo 4 ir 11 straipsniai, III skyrius, išskyrus 13 straipsnio 3 dalies 5 punktą, 16 straipsnio reikalavimą dėl mokėjimo operacijos įvykdymo trukmės nurodymo ir 20 straipsnio 2 dalies 2 punktą, IV skyrius, V skyrius, išskyrus 45–48 straipsnius, ir VI skyrius taikomi mokėjimo operacijoms, vykdomoms užsienio valiuta, kai tiek mokėtojo mokėjimo paslaugų teikėjo, tiek gavėjo mokėjimo paslaugų teikėjo arba mokėjimo operaciją vykdančio vieno mokėjimo paslaugų teikėjo buveinės vieta yra valstybėje narėje, bet tik dėl tų mokėjimo operacijos dalių, kurios vykdomos valstybėse narėse.
 
 
 
@@ -453,7 +113,7 @@ Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
 
 
 
-10) paslaugoms, kurias teikia techninių paslaugų teikėjai, užtikrinantys mokėjimo paslaugų teikimą, bet niekada negaunantys pervedamų lėšų, įskaitant duomenų tvarkymą ir saugojimą, patikėjimo ir privatumo apsaugos paslaugas, duomenų ir subjekto autentiškumo patvirtinimą, informacinių technologijų ir elektroninių ryšių tinklo suteikimą, taip pat mokėjimo paslaugoms teikti naudojamų terminalų, prietaisų suteikimą ir techninę jų priežiūrą, išskyrus mokėjimo inicijavimo paslaugas ir sąskaitos informacijos paslaugas;
+10) paslaugoms, kurias teikia techninių paslaugų teikėjai, užtikrinantys mokėjimo paslaugų teikimą, bet niekada negaunantys pervedamų lėšų, įskaitant duomenų tvarkymą ir saugojimą, patikėjimo ir privatumo apsaugos paslaugas, duomenų ir subjekto autentiškumo patvirtinimą, informacinių ir ryšių technologijų ir elektroninių ryšių tinklo suteikimą, taip pat mokėjimo paslaugoms teikti naudojamų terminalų, prietaisų suteikimą ir techninę jų priežiūrą, išskyrus mokėjimo inicijavimo paslaugas ir sąskaitos informacijos paslaugas;
 
 
 
@@ -476,8 +136,6 @@ c) priemonės, kurios išleidžiamos socialiniais arba mokesčių tikslais ir na
 
 
 
-
-
 12) mokėjimo operacijoms, kurias elektroninių ryšių tinklų ar paslaugų teikėjas, teikdamas elektroninių ryšių paslaugas, papildomai vykdo savo abonentams ir išlaidų sumos įtraukiamos į susijusią sąskaitą faktūrą, kai tenkinamos abi šios sąlygos:
 
 
@@ -487,8 +145,6 @@ a) atsiskaitoma už skaitmeninį turinį ar balsu grindžiamas paslaugas, nepais
 
 
 b) vienos mokėjimo operacijos vertė neviršija 50 eurų ir vieno abonento bendra mokėjimo operacijų vertė neviršija 300 eurų per mėnesį, įskaitant atvejus, kai abonentas už paslaugas moka savo elektroninių ryšių tinklų ar paslaugų teikėjui iš anksto;
-
-
 
 
 
@@ -511,19 +167,17 @@ b) vienos mokėjimo operacijos vertė neviršija 50 eurų ir vieno abonento bend
 16) priverstiniam lėšų išieškojimui (nurašymui) teisės aktų nustatyta tvarka. Kai teisės aktai nustato, kad išieškojimas negali būti nukreiptas į nustatyto dydžio pinigų sumą vartotojo mokėjimo sąskaitoje, mokėjimo paslaugų teikėjas užtikrina, kad vartotojas galėtų disponuoti šiomis lėšomis naudodamasis bent mokėjimo kortelėmis (išskyrus kredito korteles), o tais atvejais, kai mokėjimo paslaugų teikėjas neleidžia mokėjimo kortelių, kitais būdais. 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1092, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06727
- 
+ 
 
 
 
 
-
-
-6. Paslaugų teikėjams, kurie teikia šio straipsnio 5 dalies 11 punkto a ir b papunkčiuose nurodytas paslaugas, taikomos šio įstatymo 8 straipsnio 1 ir 3 dalys. Paslaugų teikėjams, kurie teikia šio straipsnio 5 dalies 12 punkte nurodytas paslaugas, taikomos šio įstatymo 8 straipsnio 4 ir 5 dalys.
+6. Paslaugų teikėjams, kurie teikia šio straipsnio 5 dalies 11 punkto a ir b papunkčiuose nurodytas paslaugas, taikomos šio įstatymo 8 straipsnio 1 ir 3 dalys. Paslaugų teikėjams, kurie teikia šio straipsnio 5 dalies 12 punkte nurodytas paslaugas, taikomos šio įstatymo 8 straipsnio 4 ir 5 dalys.
 
 
 
 
-7. Mokėjimo paslaugų teikėjai ir mokėjimo paslaugų vartotojai, išskyrus vartotojus, gali susitarti netaikyti visų ar dalies šio įstatymo III skyriaus nuostatų, šio įstatymo 4 straipsnio 1, 2 ir 3 punktuose, 11 straipsnio 1, 2 ir 5 dalyse, 29 straipsnio 3 dalyje, 37, 39, 41, 44, 51 ir 52 straipsniuose nustatytų reikalavimų, taip pat gali susitarti dėl kito termino, negu nustatytas šio įstatymo 36 straipsnyje. 
+7. Mokėjimo paslaugų teikėjai ir mokėjimo paslaugų vartotojai, išskyrus vartotojus, gali susitarti netaikyti visų ar dalies šio įstatymo III skyriaus nuostatų, šio įstatymo 4 straipsnio 1, 2 ir 3 punktuose, 11 straipsnio 1, 2 ir 5 dalyse, 29 straipsnio 3 dalyje, 37, 39, 41, 44, 51 ir 52 straipsniuose nustatytų reikalavimų, taip pat gali susitarti dėl kito termino, negu nustatytas šio įstatymo 36 straipsnyje. 
 
 
 
@@ -556,8 +210,6 @@ Nr. XIII-1092, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06727
 
 
 
-
-
 11. Šio įstatymo VIII skyriaus nuostatos taikomos visiems mokėjimo paslaugų teikėjams ir vartotojų vardu atidarytoms mokėjimo sąskaitoms, kuriomis naudodamiesi vartotojai gali bent vykdyti mokėjimo operacijas tretiesiems asmenims ir gauti trečiųjų asmenų įvykdytų mokėjimo operacijų lėšas, įskaitant kredito pervedimus.
 
 
@@ -571,12 +223,12 @@ Nr. XIII-1092, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06727
 13. Šio įstatymo X skyriaus ir 91 straipsnio nuostatos taikomos įgyvendinant Reglamento (ES) Nr. 260/2012 10, 11 ir 12 straipsnių, Reglamento (ES) 2015/751 13 ir 14 straipsnių ir Reglamento (ES) 2021/1230 8, 9, 10, 11 ir 12 straipsnių nuostatas.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1895, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08614
- 
+ 
 
 
 
 
-14. Tais atvejais, kai mokėjimo paslaugos teikiamos pagal sutartis, sudarytas naudojant nuotolinio ryšio priemones, ir taikomas Lietuvos Respublikos vartotojų teisių apsaugos įstatymas, vietoj Vartotojų teisių apsaugos įstatymo 36 straipsnio 5–9 dalyse, išskyrus 36 straipsnio 7 dalies 3–8 punktus, 8 dalies 1, 4 ir 5 punktus ir 9 dalies 2 punktą, nustatytų informacijos reikalavimų taikomos šio įstatymo 13 ir 20 straipsnių nuostatos.
+14. Tais atvejais, kai mokėjimo paslaugos teikiamos pagal sutartis, sudarytas naudojant nuotolinio ryšio priemones, ir taikomas Lietuvos Respublikos vartotojų teisių apsaugos įstatymas, vietoj Vartotojų teisių apsaugos įstatymo 36 straipsnio 5–9 dalyse, išskyrus 36 straipsnio 7 dalies 3–8 punktus, 8 dalies 1, 4 ir 5 punktus ir 9 dalies 2 punktą, nustatytų informacijos reikalavimų taikomos šio įstatymo 13 ir 20 straipsnių nuostatos.
 
 
 
@@ -591,16 +243,7 @@ Nr. XIV-1895, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08614
 
 
 
-17. Mokėjimo paslaugų teikėjas turi teisę nustatyti palankesnes sąlygas mokėjimo paslaugų vartotojams, negu nustatyta šiame įstatyme.
- 
- 
-
-
-
-
-
-
-4 straipsnis. Išimtys dėl mažos vertės mokėjimo priemonių ir elektroninių pinigų
+17. Mokėjimo paslaugų teikėjas turi teisę nustatyti palankesnes sąlygas mokėjimo paslaugų vartotojams, negu nustatyta šiame įstatyme.4 straipsnis. Išimtys dėl mažos vertės mokėjimo priemonių ir elektroninių pinigų
 
 
 Kai mokėjimo priemonės pagal bendrąją sutartį yra susijusios tik su atskiromis mokėjimo operacijomis, kurios neviršija 30 eurų arba kurioms įvykdyti nustatytas 150 eurų išlaidų per mėnesį limitas, arba kurių elektroninėse laikmenose saugoma ne didesnė kaip 150 eurų suma, bet kuriuo metu:
@@ -2645,65 +2288,6 @@ Mokėjimo sistemų operatoriai ir mokėjimo paslaugų teikėjai turi teisę tvar
 
 VI SKYRIUS
 OPERACINĖ IR SAUGUMO RIZIKA IR AUTENTIŠKUMO PATVIRTINIMAS
- 
-
-
-56 straipsnis. Operacinės ir saugumo rizikos valdymas
-
-
-1. Mokėjimo paslaugų teikėjai turi nustatyti rizikos mažinimo priemonių ir kontrolės mechanizmų sistemą, pagal kurią valdoma su jų teikiamomis mokėjimo paslaugomis susijusi operacinė ir saugumo rizika. Šioje sistemoje turi būti nustatytos veiksmingos incidentų valdymo procedūros, įskaitant didelių operacinių ir saugumo incidentų nustatymą ir klasifikavimą.
-
-
-
-
-2. Mokėjimo paslaugų teikėjai turi priežiūros institucijai periodiškai pateikti atnaujintą ir visapusišką su jų teikiamomis mokėjimo paslaugomis susijusios operacinės ir saugumo rizikos ir įgyvendintų šios rizikos mažinimo priemonių ir kontrolės mechanizmų tinkamumo vertinimo informaciją. Priežiūros institucija nustato šios informacijos teikimo tvarką ir dažnumą.
-
-
-
-
-3. Priežiūros institucija, atsižvelgdama į Europos bankininkystės institucijos parengtas gaires, kaip nurodyta Direktyvos Nr. 2015/2366 95 straipsnio 3 dalyje, nustato mokėjimo paslaugų teikėjams reikalavimus, susijusius su saugumo priemonių parengimu, įgyvendinimu ir stebėsena, įskaitant reikalavimus dėl sertifikavimo procesų.
- 
-
-
-
-
-
-
-57 straipsnis. Pranešimai apie incidentus
-
-
-1. Įvykus dideliam operaciniam ar saugumo incidentui, mokėjimo paslaugų teikėjai privalo nedelsdami apie jį pranešti priežiūros institucijai.
-
-
-
-
-2. Kai incidentas turėjo arba gali turėti įtakos mokėjimo paslaugų vartotojų finansiniams interesams, mokėjimo paslaugų teikėjas nedelsdamas privalo informuoti savo mokėjimo paslaugų vartotojus apie incidentą ir visas priemones, kurių jie gali imtis, kad sumažintų neigiamus incidento padarinius.
-
-
-
-
-3. Gavusi šio straipsnio 1 dalyje nurodytą pranešimą, priežiūros institucija nedelsdama pateikia Europos bankininkystės institucijai ir Europos Centriniam Bankui atitinkamą išsamią informaciją apie incidentą. Priežiūros institucija, įvertinusi incidento svarbą kitoms Lietuvos Respublikos institucijoms, nedelsdama informuoja jas apie incidentą.
-
-
-
-
-4. Priežiūros institucija, gavusi pranešimą iš Europos bankininkystės institucijos arba Europos Centrinio Banko apie kitoje valstybėje narėje įvykusį didelį operacinį ar saugumo incidentą arba gavusi pranešimą iš Europos Centrinio Banko apie su mokėjimo sistemomis susijusias problemas, imasi visų būtinų priemonių, kad būtų nedelsiant užtikrintas finansų sistemos saugumas.
-
-
-
-
-5. Priežiūros institucija, atsižvelgdama į Europos bankininkystės institucijos parengtas gaires, kaip nurodyta Direktyvos 2015/2366 96 straipsnio 3 dalies a punkte, nustato reikalavimus mokėjimo paslaugų teikėjams dėl šio straipsnio 1 dalyje nurodytų didelių operacinių ir saugumo incidentų klasifikavimo, dėl pranešimo apie tokius incidentus turinio ir pateikimo tvarkos.
-
-
-
-
-6. Mokėjimo paslaugų teikėjai priežiūros institucijai turi periodiškai pateikti statistinius duomenis apie sukčiavimus, susijusius su įvairiomis mokėjimo priemonėmis. Priežiūros institucija nustato teikiamos statistinės informacijos turinį, teikimo tvarką ir dažnumą. Priežiūros institucija pateikia apibendrintus duomenis Europos bankininkystės institucijai ir Europos Centriniam Bankui.
- 
-
-
-
-
-
 
 58 straipsnis. Autentiškumo patvirtinimas
 
@@ -3648,24 +3232,16 @@ X SKYRIUS
 
 
 
-2. Priežiūros institucija prižiūri, kaip laikomasi šio įstatymo, su jo įgyvendinimu susijusių teisės aktų, Reglamento (ES) Nr. 260/2012, Reglamento (ES) 2015/751 ir Reglamento (ES) 2021/1230 (toliau šiame skyriuje – šis įstatymas ir (arba) kiti teisės aktai) reikalavimų, ir savo nustatyta tvarka nagrinėja asmenų pateiktus skundus dėl galimo šio įstatymo ir (arba) kitų teisės aktų pažeidimo (toliau – teisės akto pažeidimas).
+2. Priežiūros institucija prižiūri, kaip laikomasi šio įstatymo, su jo įgyvendinimu susijusių teisės aktų, Reglamento (ES) Nr. 260/2012, Reglamento (ES) 2015/751, Reglamento (ES) 2021/1230 ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, (toliau šiame skyriuje – šis įstatymas ir (arba) kiti teisės aktai) reikalavimų, ir savo nustatyta tvarka nagrinėja asmenų pateiktus skundus dėl galimo šio įstatymo ir (arba) kitų teisės aktų pažeidimo (toliau – teisės akto pažeidimas).
 Straipsnio dalies pakeitimai:
 Nr. XIII-1301, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11306
 Nr. XIV-1895, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08614
- 
+ 
 
 
 
 
-3. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi Lietuvos Respublikos Lietuvos banko įstatymu, šiuo įstatymu ir kitais finansų rinką reglamentuojančiais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai.
- 
-
-
-
-
-
-
-761 straipsnis. Priežiūros institucijos teisės
+3. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi Lietuvos Respublikos Lietuvos banko įstatymu, šiuo įstatymu ir kitais finansų rinką reglamentuojančiais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai.761 straipsnis. Priežiūros institucijos teisės
 
 
 1. Be kitų Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatytų pareigų ir teisių, priežiūros institucija, atlikdama jai pavestas funkcijas, turi teisę imtis kitų teisėtų priemonių, kad mokėjimo paslaugų teikėjai nuolat laikytųsi šiame įstatyme ir (arba) kituose teisės aktuose nustatytų reikalavimų.
@@ -3818,25 +3394,21 @@ Nr. XIII-1301, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11306
 
 
 
+4-1) pažeidžiami Reglamente (ES) 2022/2554 nustatyti reikalavimai;
+
+
+
+
 5) padaromas kitas teisės akto pažeidimas.
 
 
 
 
-
-
 2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas. 
- 
 
 
 Straipsnio pakeitimai:
-Nr. XIII-1301, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11306
- 
-
-
-
-
-81 straipsnis. Baudos
+Nr. XIII-1301, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-1130681 straipsnis. Baudos
 
 
 1. Priežiūros institucija skiria baudas:
@@ -4316,3 +3888,7 @@ Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 9, 81 straipsnių ir pri
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-137, 2025-03-27, paskelbta TAR 2025-04-02, i. k. 2025-05779
 Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 9, 81 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymo Nr. XIV-3094 2 straipsnio pakeitimo įstatymas
+
+5-1. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo.
+
+5-2. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011.
