@@ -84,7 +84,7 @@ LICENCIJAVIMUI, VEIKLAI, APSKAITAI IR AUDITUI KELIAMI REIKALAVIMAI. GINČŲ IR S
 3 straipsnis. Su turtu susietų žetonų emitento licencija, kriptoturto paslaugų teikėjo licencija, veiklos vykdymo reikalavimai
 
 
-1. Priežiūros institucija, atsižvelgdama į Reglamento (ES) 2023/1114 16 straipsnio 1 dalies a punkto ir 59 straipsnio 1 dalies a punkto nuostatas, išduoda šias licencijas:
+1. Priežiūros institucija, atsižvelgdama į Reglamento (ES) 2023/1114 16 straipsnio 1 dalies a punkto ir 59 straipsnio 1 dalies a punkto nuostatas, išduoda šias licencijas:
 
 
 1) su turtu susietų žetonų emitento;
@@ -99,17 +99,17 @@ LICENCIJAVIMUI, VEIKLAI, APSKAITAI IR AUDITUI KELIAMI REIKALAVIMAI. GINČŲ IR S
 
 
 
-2. Su turtu susietų žetonų emitento, veikiančio pagal Reglamento (ES) 2023/1114 16 straipsnio 1 dalies a punktą, ar kriptoturto paslaugų teikėjo, veikiančio pagal Reglamento (ES) 2023/1114 59 straipsnio 1 dalies a punktą, teisinė forma gali būti tik akcinė bendrovė arba uždaroji akcinė bendrovė (toliau – bendrovė).
+2. Su turtu susietų žetonų emitento, veikiančio pagal Reglamento (ES) 2023/1114 16 straipsnio 1 dalies a punktą, ar kriptoturto paslaugų teikėjo, veikiančio pagal Reglamento (ES) 2023/1114 59 straipsnio 1 dalies a punktą, teisinė forma gali būti tik akcinė bendrovė arba uždaroji akcinė bendrovė (toliau – bendrovė).
 
 
 
 
-3. Su turtu susietų žetonų emitentas ar kriptoturto paslaugų teikėjas veiklą vykdo vadovaudamasis Reglamente (ES) 2023/1114 ir šiame įstatyme nustatytais reikalavimais.
+3. Su turtu susietų žetonų emitentas ar kriptoturto paslaugų teikėjas veiklą vykdo vadovaudamasis Reglamente (ES) 2023/1114, šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatytais reikalavimais.
 
 
 
 
-4. Bendrovė, siekianti gauti su turtu susietų žetonų emitento ar kriptoturto paslaugų teikėjo licenciją, turi pateikti priežiūros institucijai Reglamento (ES) 2023/1114 atitinkamai 18 ar 62 straipsnyje nustatytus duomenis. Priežiūros institucija gali prašyti pateikti šiuos duomenis patikslinančią informaciją. Bendrovė privalo pateikti patikslinančią informaciją per 20 darbo dienų nuo prašymo pateikti šią informaciją gavimo dienos.
+4. Bendrovė, siekianti gauti su turtu susietų žetonų emitento ar kriptoturto paslaugų teikėjo licenciją, turi pateikti priežiūros institucijai Reglamento (ES) 2023/1114 atitinkamai 18 ar 62 straipsnyje nustatytus duomenis. Priežiūros institucija gali prašyti pateikti šiuos duomenis patikslinančią informaciją. Bendrovė privalo pateikti patikslinančią informaciją per 20 darbo dienų nuo prašymo pateikti šią informaciją gavimo dienos.
 
 
 
@@ -124,20 +124,12 @@ LICENCIJAVIMUI, VEIKLAI, APSKAITAI IR AUDITUI KELIAMI REIKALAVIMAI. GINČŲ IR S
 
 
 
-7. Priežiūros institucijai priėmus sprendimą panaikinti su turtu susietų žetonų emitento ar kriptoturto paslaugų teikėjo licencijos galiojimą Reglamento (ES) 2023/1114 atitinkamai 24 ar 64 straipsnyje nustatyta tvarka, ne vėliau kaip per 2 mėnesius nuo šio sprendimo priėmimo dienos su turtu susietų žetonų emitento ar kriptoturto paslaugų teikėjo bendrovės organai privalo priimti sprendimą likviduoti ar reorganizuoti bendrovę arba priimti sprendimą pakeisti veiklos rūšį ir atlikti atitinkamus bendrovės įstatų, pavadinimo ir kitus reikiamus pakeitimus, susijusius su veiklos rūšies pakeitimu, bei apie visus šioje dalyje nurodytus bendrovės organų sprendimus per 5 darbo dienas nuo sprendimo priėmimo dienos informuoti priežiūros instituciją.
+7. Priežiūros institucijai priėmus sprendimą panaikinti su turtu susietų žetonų emitento ar kriptoturto paslaugų teikėjo licencijos galiojimą Reglamento (ES) 2023/1114 atitinkamai 24 ar 64 straipsnyje nustatyta tvarka, ne vėliau kaip per 2 mėnesius nuo šio sprendimo priėmimo dienos su turtu susietų žetonų emitento ar kriptoturto paslaugų teikėjo bendrovės organai privalo priimti sprendimą likviduoti ar reorganizuoti bendrovę arba priimti sprendimą pakeisti veiklos rūšį ir atlikti atitinkamus bendrovės įstatų, pavadinimo ir kitus reikiamus pakeitimus, susijusius su veiklos rūšies pakeitimu, bei apie visus šioje dalyje nurodytus bendrovės organų sprendimus per 5 darbo dienas nuo sprendimo priėmimo dienos informuoti priežiūros instituciją.
 
 
 
 
-8. Kriptoturto paslaugų teikėjai turi užtikrinti, kad jų darbuotojai, teikiantys konsultacijas dėl kriptoturto ar kriptoturto paslaugų, turėtų įgiję reikiamų žinių ir kompetencijų konsultacijoms teikti ir šias žinias bei kompetencijas nuolat atnaujintų. Priežiūros institucija tvirtina reikiamų žinių ir kompetencijų sąrašą ir nustato žinių bei kompetencijų vertinimo kriterijus. 
- 
-
-
-
-
-
-
-4 straipsnis. Su turtu susietų žetonų emitento ar kriptoturto paslaugų teikėjo valdymo organai, vadovai
+8. Kriptoturto paslaugų teikėjai turi užtikrinti, kad jų darbuotojai, teikiantys konsultacijas dėl kriptoturto ar kriptoturto paslaugų, turėtų įgiję reikiamų žinių ir kompetencijų konsultacijoms teikti ir šias žinias bei kompetencijas nuolat atnaujintų. Priežiūros institucija tvirtina reikiamų žinių ir kompetencijų sąrašą ir nustato žinių bei kompetencijų vertinimo kriterijus.4 straipsnis. Su turtu susietų žetonų emitento ar kriptoturto paslaugų teikėjo valdymo organai, vadovai
 
 
 1. Su turtu susietų žetonų emitentas ar kriptoturto paslaugų teikėjas turi šiuos valdymo organus: visuotinį akcininkų susirinkimą, valdybą ir vadovą.
@@ -363,17 +355,17 @@ PRIEŽIŪROS INSTITUCIJOS TEISĖS IR ĮGALIOJIMAI
 10 straipsnis. Priežiūros institucijos funkcijos, teisės ir pareigos
 
 
-1. Priežiūros institucija prižiūri, kaip laikomasi Reglamento (ES) 2023/1114, šio įstatymo ir jų įgyvendinamųjų teisės aktų reikalavimų, ir savo nustatyta tvarka nagrinėja asmenų pateiktus skundus dėl galimo Reglamento (ES) 2023/1114, šio įstatymo, jų įgyvendinamųjų teisės aktų reikalavimų pažeidimo.
+1. Priežiūros institucija prižiūri, kaip laikomasi Reglamento (ES) 2023/1114, šio įstatymo, jų įgyvendinamųjų teisės aktų ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, reikalavimų, ir savo nustatyta tvarka nagrinėja asmenų pateiktus skundus dėl galimo Reglamento (ES) 2023/1114, šio įstatymo, jų įgyvendinamųjų teisės aktų ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, reikalavimų pažeidimo.
 
 
 
 
-2. Priežiūros institucija savo funkcijas atlieka vadovaudamasi Reglamentu (ES) 2023/1114, šiuo įstatymu ir Lietuvos banko įstatymu. Prižiūrėdama, kaip bankai, centrinės kredito unijos, elektroninių pinigų įstaigos, finansų maklerio įmonės, centrinis vertybinių popierių depozitoriumas, reguliuojamos rinkos operatorius, valdymo įmonės, veikiančios pagal Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą ir Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymą, laikosi Reglamente (ES) 2023/1114 nustatytų reikalavimų, priežiūros institucija taip pat turi šių prižiūrimų subjektų veiklą reglamentuojančiuose teisės aktuose nustatytas teises.
+2. Priežiūros institucija savo funkcijas atlieka vadovaudamasi Reglamentu (ES) 2023/1114, šiuo įstatymu, Lietuvos banko įstatymu ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai. Prižiūrėdama, kaip bankai, centrinės kredito unijos, elektroninių pinigų įstaigos, finansų maklerio įmonės, centrinis vertybinių popierių depozitoriumas, reguliuojamos rinkos operatorius, valdymo įmonės, veikiančios pagal Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą ir Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymą, laikosi Reglamente (ES) 2023/1114 nustatytų reikalavimų, priežiūros institucija taip pat turi šių prižiūrimų subjektų veiklą reglamentuojančiuose teisės aktuose nustatytas teises.
 
 
 
 
-3. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti Reglamento (ES) 2023/1114, šio įstatymo, jų įgyvendinamųjų teisės aktų reikalavimų pažeidimų, asmens, viešai siūlančio ar prašančio įtraukti į prekybą kriptoturtą, kuris nėra su turtu susieti žetonai ar elektroninių pinigų žetonai, su turtu susietų žetonų emitento, elektroninių pinigų žetonų emitento, kriptoturto paslaugų teikėjo veiklos trūkumų, taip pat jeigu kyla grėsmė prižiūrimų subjektų veiklos stabilumui ir patikimumui arba visuomenės ir (arba) kriptoturto paslaugų vartotojų arba su turtu susietų žetonų ar elektroninių pinigų žetonų turėtojų interesams, Lietuvos banko įstatymo nustatyta tvarka asmeniui, viešai siūlančiam ar prašančiam įtraukti į prekybą kriptoturtą, kuris nėra su turtu susieti žetonai ar elektroninių pinigų žetonai, su turtu susietų žetonų emitentui, elektroninių pinigų žetonų emitentui, kriptoturto paslaugų teikėjui duoda tokius privalomuosius nurodymus:
+3. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, pažeidimus, asmens, viešai siūlančio ar prašančio įtraukti į prekybą kriptoturtą, kuris nėra su turtu susieti žetonai ar elektroninių pinigų žetonai, su turtu susietų žetonų emitento, elektroninių pinigų žetonų emitento, kriptoturto paslaugų teikėjo veiklos trūkumų, taip pat jeigu kyla grėsmė prižiūrimų subjektų veiklos stabilumui ir patikimumui arba visuomenės ir (arba) kriptoturto paslaugų vartotojų arba su turtu susietų žetonų ar elektroninių pinigų žetonų turėtojų interesams, Lietuvos banko įstatymo nustatyta tvarka asmeniui, viešai siūlančiam ar prašančiam įtraukti į prekybą kriptoturtą, kuris nėra su turtu susieti žetonai ar elektroninių pinigų žetonai, su turtu susietų žetonų emitentui, elektroninių pinigų žetonų emitentui, kriptoturto paslaugų teikėjui duoda tokius privalomuosius nurodymus:
 
 
 1) pašalinti teisės aktų pažeidimus ir (ar) veiklos trūkumus ir jų nebekartoti;
@@ -436,7 +428,7 @@ PRIEŽIŪROS INSTITUCIJOS TEISĖS IR ĮGALIOJIMAI
 
 
 
-13) taikyti kitas Reglamento (ES) 2023/1114 94 straipsnio 1 dalies b, d, f, g, h, i, j, k, l, m, n, o, p, q, s, t, u, v, y, z, ab punktuose, 94 straipsnio 3 dalies g punkte, 111 straipsnio 5 dalies c, g punktuose nustatytas priemones;
+13) taikyti kitas Reglamento (ES) 2023/1114 94 straipsnio 1 dalies b, d, f, g, h, i, j, k, l, m, n, o, p, q, s, t, u, v, y, z, ab punktuose, 94 straipsnio 3 dalies g punkte, 111 straipsnio 5 dalies c, g punktuose nustatytas priemones;
 
 
 
@@ -451,8 +443,6 @@ PRIEŽIŪROS INSTITUCIJOS TEISĖS IR ĮGALIOJIMAI
 
 
 
-
-
 4. Prižiūrimi subjektai privalo vykdyti šio straipsnio 3 dalyje nustatytus privalomuosius nurodymus priežiūros institucijos nustatytais terminais ir nedelsdami, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo dienos, apie įvykdytus nurodymus raštu pranešti priežiūros institucijai.
 
 
@@ -463,26 +453,10 @@ PRIEŽIŪROS INSTITUCIJOS TEISĖS IR ĮGALIOJIMAI
 
 
 
-6. Priežiūros institucija savo interneto svetainėje skelbia informaciją apie Reglamente (ES) 2023/1114 nurodytų subjektų teikiamas paslaugas Lietuvos Respublikoje.
- 
+6. Priežiūros institucija savo interneto svetainėje skelbia informaciją apie Reglamente (ES) 2023/1114 nurodytų subjektų teikiamas paslaugas Lietuvos Respublikoje.11 straipsnis. Priežiūros tikslu gautos informacijos apsauga
 
 
-
-
-
-
-11 straipsnis. Priežiūros tikslu gautos informacijos apsauga
-
-
-Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugoti taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos.
- 
-
-
-
-
-
-
-12 straipsnis. Priežiūros institucijos atliekami patikrinimai
+Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugoti taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos.12 straipsnis. Priežiūros institucijos atliekami patikrinimai
 
 
 1. Priežiūros institucija organizuoja ir atlieka patikrinimus, kad nustatytų, ar laikomasi Reglamento (ES) 2023/1114, šio įstatymo, jų įgyvendinamųjų teisės aktų reikalavimų.
@@ -491,21 +465,13 @@ Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugo
 
 
 2. Priežiūros institucijos atliekamiems patikrinimams taikomi reikalavimai nustatyti Lietuvos banko įstatymo 421 straipsnyje. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Lietuvos banko įstatyme, šiame įstatyme ir jų įgyvendinamuosiuose teisės aktuose nustatytas teises.
- 
-
-
-
-
+ 
 
 
 
 
 IV SKYRIUS
-ATSAKOMYBĖ UŽ REGLAMENTO (ES) 2023/1114 IR ŠIO ĮSTATYMO PAŽEIDIMUS
- 
-
-
-13 straipsnis. Poveikio priemonių taikymo pagrindai ir tvarka
+ATSAKOMYBĖ UŽ REGLAMENTO (ES) 2023/1114 IR ŠIO ĮSTATYMO PAŽEIDIMUS13 straipsnis. Poveikio priemonių taikymo pagrindai ir tvarka
 
 
 1. Poveikio priemonės asmenims taikomos, kai yra bent vienas iš šių pagrindų:
@@ -577,12 +543,12 @@ ATSAKOMYBĖ UŽ REGLAMENTO (ES) 2023/1114 IR ŠIO ĮSTATYMO PAŽEIDIMUS
 1. Priežiūros institucija asmenims taiko šias poveikio priemones:
 
 
-1) viešai paskelbia Reglamento (ES) 2023/1114, šio įstatymo, jo įgyvendinamųjų teisės aktų reikalavimų pažeidimą ir jį padariusį asmenį Lietuvos banko įstatymo 433 straipsnio 15 dalyje nustatyta tvarka;
+1) viešai paskelbia šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimą ir jį padariusį asmenį;
 
 
 
 
-2) įspėja dėl Reglamente (ES) 2023/1114, šio įstatymo, jo įgyvendinamųjų teisės aktų reikalavimų pažeidimo ir nurodo per nustatytą terminą nutraukti teisės akto pažeidimą;
+2) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo ir nurodo per nustatytą terminą nutraukti teisės akto pažeidimą;
 
 
 
@@ -607,7 +573,7 @@ ATSAKOMYBĖ UŽ REGLAMENTO (ES) 2023/1114 IR ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-7) laikinai nušalina su turtu susietų žetonų emitento ar kriptoturto paslaugų teikėjo vadovą (-us) nuo pareigų;
+7) laikinai nušalina su turtu susietų žetonų emitento ar kriptoturto paslaugų teikėjo vadovą (-us) nuo pareigų;
 
 
 
@@ -622,17 +588,15 @@ ATSAKOMYBĖ UŽ REGLAMENTO (ES) 2023/1114 IR ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-10) taiko kitas Reglamento (ES) 2023/1114 94 straipsnio 1 dalies c, r punktuose, 111 straipsnio 4 dalyje, 5 dalies e, f punktuose nustatytas poveikio priemones.
+10) taiko kitas Reglamento (ES) 2023/1114 94 straipsnio 1 dalies c, r punktuose, 111 straipsnio 4 dalyje, 5 dalies e, f punktuose nustatytas poveikio priemones.
 
 
 
 
+2. Priežiūros institucija, atsižvelgdama į Reglamento (ES) 2023/1114 102 straipsnį, turi teisę su turtu susietų žetonų emitentui, kurio buveinės valstybė narė yra kita Europos Sąjungos valstybė narė, gavusiam veiklos leidimą pagal Reglamento (ES) 2023/1114 16 straipsnio 1 dalies a punktą, ar kriptoturto paslaugų teikėjui, kuris gavo veiklos leidimą pagal Reglamento (ES) 2023/1114 59 straipsnio 1 dalies a punktą ir kuris leidžia su turtu susietus žetonus ar teikia kriptoturto paslaugas neįsteigęs filialo arba siūlo su turtu susietus žetonus per pasitelktą fizinį asmenį, kurio gyvenamoji vieta yra Lietuvos Respublikoje, ar pasitelktą juridinį asmenį, kurio registruota buveinė yra Lietuvos Respublikoje, su turtu susietų žetonų emitentui, kurio buveinės valstybė narė yra kita Europos Sąjungos valstybė narė, ar kriptoturto paslaugų teikėjui, kuris leidžia su turtu susietus žetonus ar teikia kriptoturto paslaugas per Lietuvos Respublikoje įsteigtą filialą arba teikia kriptoturto paslaugas Lietuvos Respublikoje per tarpininką, taikyti šias poveikio priemones:
 
 
-2. Priežiūros institucija, atsižvelgdama į Reglamento (ES) 2023/1114 102 straipsnį, turi teisę su turtu susietų žetonų emitentui, kurio buveinės valstybė narė yra kita Europos Sąjungos valstybė narė, gavusiam veiklos leidimą pagal Reglamento (ES) 2023/1114 16 straipsnio 1 dalies a punktą, ar kriptoturto paslaugų teikėjui, kuris gavo veiklos leidimą pagal Reglamento (ES) 2023/1114 59 straipsnio 1 dalies a punktą ir kuris leidžia su turtu susietus žetonus ar teikia kriptoturto paslaugas neįsteigęs filialo arba siūlo su turtu susietus žetonus per pasitelktą fizinį asmenį, kurio gyvenamoji vieta yra Lietuvos Respublikoje, ar pasitelktą juridinį asmenį, kurio registruota buveinė yra Lietuvos Respublikoje, su turtu susietų žetonų emitentui, kurio buveinės valstybė narė yra kita Europos Sąjungos valstybė narė, ar kriptoturto paslaugų teikėjui, kuris leidžia su turtu susietus žetonus ar teikia kriptoturto paslaugas per Lietuvos Respublikoje įsteigtą filialą arba teikia kriptoturto paslaugas Lietuvos Respublikoje per tarpininką, taikyti šias poveikio priemones:
-
-
-1) įspėti dėl Reglamento (ES) 2023/1114, šio įstatymo, jo įgyvendinamųjų teisės aktų reikalavimų pažeidimo;
+1) įspėti dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo;
 
 
 
@@ -647,30 +611,18 @@ ATSAKOMYBĖ UŽ REGLAMENTO (ES) 2023/1114 IR ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-4) skirti šio įstatymo 15 straipsnyje nustatytas baudas.
- 
-
-
-
-
-
-
-
-
-15 straipsnis. Baudos
+4) skirti šio įstatymo 15 straipsnyje nustatytas baudas.15 straipsnis. Baudos
 
 
 1. Priežiūros institucija už Reglamento (ES) 2023/1114 ir šio įstatymo pažeidimus, kai netaikomos šio straipsnio 2 ir (arba) 3 dalys, skiria baudas:
 
 
-1) juridiniams asmenims – iki 5 000 000 eurų arba iki 10 procentų bendrųjų metinių pajamų, atsižvelgdama į tai, kuri suma yra didesnė;
+1) juridiniams asmenims – iki 5 000 000 eurų arba iki 10 procentų bendrųjų metinių pajamų, atsižvelgdama į tai, kuri suma yra didesnė;
 
 
 
 
-2) juridinio asmens vadovams ir kitiems fiziniams asmenims – iki 700 000 eurų.
-
-
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims – iki 700 000 eurų.
 
 
 
@@ -678,19 +630,17 @@ ATSAKOMYBĖ UŽ REGLAMENTO (ES) 2023/1114 IR ŠIO ĮSTATYMO PAŽEIDIMUS
 2. Priežiūros institucija už Reglamento (ES) 2023/1114 88–92 straipsniuose nurodytus pažeidimus skiria baudas:
 
 
-1) juridiniams asmenims – iki 15 000 000 eurų arba iki 15 procentų bendrųjų metinių pajamų, atsižvelgdama į tai, kuri suma yra didesnė;
+1) juridiniams asmenims – iki 15 000 000 eurų arba iki 15 procentų bendrųjų metinių pajamų, atsižvelgdama į tai, kuri suma yra didesnė;
 
 
 
 
-2) juridinio asmens vadovams ir kitiems fiziniams asmenims – iki 5 000 000 eurų.
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims – iki 5 000 000 eurų.
 
 
 
 
-
-
-3. Priežiūros institucija už Reglamento (ES) 2023/1114 111 straipsnio 1 dalies b ir c punktuose nurodytus pažeidimus juridiniams asmenims skiria baudas iki 5 000 000 eurų arba iki 12,5 procento bendrųjų metinių pajamų, atsižvelgdama į tai, kuri suma yra didesnė. 
+3. Priežiūros institucija už Reglamento (ES) 2023/1114 111 straipsnio 1 dalies b ir c punktuose nurodytus pažeidimus juridiniams asmenims skiria baudas iki 5 000 000 eurų arba iki 12,5 procento bendrųjų metinių pajamų, atsižvelgdama į tai, kuri suma yra didesnė. 
 
 
 
@@ -710,37 +660,20 @@ ATSAKOMYBĖ UŽ REGLAMENTO (ES) 2023/1114 IR ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-7. Šio įstatymo 10 straipsnio 4 dalyje nurodytais atvejais priežiūros institucija už kiekvieną privalomojo nurodymo nevykdymo dieną skiria baudą iki vieno procento bendrųjų metinių pajamų, o kai sunku nustatyti bendrąsias metines pajamas ar jų nustatyti neįmanoma, – iki 1 500 eurų.
+7. Šio įstatymo 10 straipsnio 4 dalyje nurodytais atvejais priežiūros institucija už kiekvieną privalomojo nurodymo nevykdymo dieną skiria baudą iki vieno procento bendrųjų metinių pajamų, o kai sunku nustatyti bendrąsias metines pajamas ar jų nustatyti neįmanoma, – iki 1 500 eurų.
 
 
 
 
-8. Baudos dydis apskaičiuojamas vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka.
- 
+8. Baudos dydis apskaičiuojamas vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka.16 straipsnis. Atsakomybė už informaciją, pateiktą kriptoturto baltojoje knygoje
+
+
+1. Už kriptoturto baltojoje knygoje, rengiamoje pagal Reglamento (ES) 2023/1114 reikalavimus, pateiktos informacijos teisingumą ir išsamumą atsakingi šio reglamento 4 straipsnio 1 dalyje, 5 straipsnio 1 dalyje, 18 straipsnio 1 dalyje ir 48 straipsnio 1 dalyje nurodyti asmenys.
 
 
 
 
-
-
-16 straipsnis. Atsakomybė už informaciją, pateiktą kriptoturto baltojoje knygoje
-
-
-1. Už kriptoturto baltojoje knygoje, rengiamoje pagal Reglamento (ES) 2023/1114 reikalavimus, pateiktos informacijos teisingumą ir išsamumą atsakingi šio reglamento 4 straipsnio 1 dalyje, 5 straipsnio 1 dalyje, 18 straipsnio 1 dalyje ir 48 straipsnio 1 dalyje nurodyti asmenys.
-
-
-
-
-2. Elektroninių pinigų žetonų ar su turtu susietų žetonų turėtojas, patyręs žalos dėl kriptoturto baltojoje knygoje, rengiamoje pagal Reglamento (ES) 2023/1114 reikalavimus, pateiktos informacijos trūkumų, teisingumo ir (ar) išsamumo, turi teisę Lietuvos Respublikos civiliniame kodekse nustatyta tvarka reikalauti iš atsakingų asmenų atlyginti šią žalą.
- 
- 
-
-
-
-
-
-
-17 straipsnis. Laikinasis administratorius
+2. Elektroninių pinigų žetonų ar su turtu susietų žetonų turėtojas, patyręs žalos dėl kriptoturto baltojoje knygoje, rengiamoje pagal Reglamento (ES) 2023/1114 reikalavimus, pateiktos informacijos trūkumų, teisingumo ir (ar) išsamumo, turi teisę Lietuvos Respublikos civiliniame kodekse nustatyta tvarka reikalauti iš atsakingų asmenų atlyginti šią žalą.17 straipsnis. Laikinasis administratorius
 
 
 1. Priežiūros institucija turi teisę su turtu susietų žetonų emitentui ar kriptoturto paslaugų teikėjui paskirti vieną ar daugiau laikinųjų administratorių. Laikinuoju administratoriumi gali būti paskirtas juridinis arba fizinis asmuo, kuris nėra priežiūros institucijos tarnautojas.
