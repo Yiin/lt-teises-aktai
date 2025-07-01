@@ -871,7 +871,7 @@ REIKALAVIMAI VALDYMO ĮMONIŲ VEIKLAI
 
 
 
-15) užtikrinti, kad administravimo ir finansinės apskaitos procedūros, elektroninių duomenų apdorojimo kontrolės ir apsaugos priemonės, įskaitant tinklų ir informacines sistemas, įdiegtos ir valdomas pagal Reglamentą (ES) 2022/2554, bei vidaus kontrolės mechanizmas, įskaitant valdymo įmonės darbuotojų sudaromų asmeninių finansinių priemonių sandorių ir valdymo įmonės sąskaita sudaromų finansinių priemonių sandorių taisykles, būtų patikimi ir kad iš jų būtų galima sužinoti visų sandorių kilmę, šalis, sandorių turinį, laiką ir vietą, nustatyti, ar turtas investuojamas laikantis steigimo dokumentuose nurodytų sąlygų ir teisės aktuose, reglamentuojančiuose atitinkamos rūšies ir tipo kolektyvinio investavimo subjektų ar jų valdymo įmonių veiklą, nustatytų reikalavimų;
+15) užtikrinti, kad administravimo ir finansinės apskaitos procedūros, elektroninių duomenų apdorojimo kontrolės ir apsaugos priemonės, įskaitant tinklų ir informacines sistemas, įdiegtas ir valdomas pagal Reglamentą (ES) 2022/2554, bei vidaus kontrolės mechanizmas, įskaitant valdymo įmonės darbuotojų sudaromų asmeninių finansinių priemonių sandorių ir valdymo įmonės sąskaita sudaromų finansinių priemonių sandorių taisykles, būtų patikimi ir kad iš jų būtų galima sužinoti visų sandorių kilmę, šalis, sandorių turinį, laiką ir vietą, nustatyti, ar turtas investuojamas laikantis steigimo dokumentuose nurodytų sąlygų ir teisės aktuose, reglamentuojančiuose atitinkamos rūšies ir tipo kolektyvinio investavimo subjektų ar jų valdymo įmonių veiklą, nustatytų reikalavimų;
 
 
 
@@ -4495,6 +4495,8 @@ Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdyto
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2890, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13499
 Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo Nr. XII-1467 4, 41 ir 41-1 straipsnių pakeitimo įstatymas
+
+13. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo.
 
 13. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo.
 
