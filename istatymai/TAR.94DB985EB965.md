@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2024-09-01 iki 2025-06-30
+Suvestinė redakcija nuo 2025-07-01
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
  
@@ -1877,7 +1877,10 @@ Nr. XII-1074, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10457
 
 
 
-4) likvidavimo laikotarpiu sudaro kooperatinės bendrovės buhalterinius balansus;
+4) likvidavimo laikotarpiu parengia kooperatinės bendrovės likvidavimo pabaigos finansinę ataskaitą pagal paskutinės šios bendrovės veiklos dienos iki likvidavimo pabaigos dienos duomenis; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2822, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12144
+ 
 
 
 
@@ -1902,7 +1905,10 @@ Nr. XII-1074, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10457
 
 
 
-9) pateikia juridinių asmenų registrui dokumentus, kurie reikalingi likviduotai kooperatinei bendrovei išregistruoti iš juridinių asmenų registro.
+9) pateikia juridinių asmenų registro tvarkytojui likvidavimo pabaigos finansinę ataskaitą ir kitus dokumentus, reikalingus likviduotai kooperatinei bendrovei išregistruoti iš šio registro.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2822, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12144
+ 
 
 
 
