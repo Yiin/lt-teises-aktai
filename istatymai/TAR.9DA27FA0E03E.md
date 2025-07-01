@@ -42,9 +42,7 @@ Vilnius
 
 
 2 straipsnis. Ribojamųjų priemonių nustatymas ir įgyvendinimas
-
-
-Šio įstatymo 3 straipsnyje nurodytos ribojamosios priemonės nustatomos ir įgyvendinamos Lietuvos Respublikos tarptautinių sankcijų įstatymo II1 skyriuje nustatyta tvarka.
+Šio įstatymo 3, 3-1 ir 3-2 straipsniuose nurodytos ribojamosios priemonės nustatomos Tarptautinių sankcijų įstatymo 6-1 straipsnyje nustatyta tvarka ir įgyvendinamos šio įstatymo ir Tarptautinių sankcijų įstatymo 6-2 straipsnyje nustatyta tvarka.
  
 
 
@@ -241,7 +239,9 @@ Nr. XV-170, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07432
 4 straipsnis. Ribojamųjų priemonių trukmė ir peržiūra
 
 
-1. Šio įstatymo 3 straipsnyje nurodytos ribojamosios priemonės taikomos  nuo 2025 m. gegužės 3 d. iki 2026 m. gegužės 2 d.
+1-1. Šio įstatymo 3-1 ir 3-2 straipsniuose nurodytos ribojamosios priemonės ir šio įstatymo 3-3 straipsnyje nustatytos šių ribojamųjų priemonių kontrolės priemonės taikomos, jeigu netaikomos ar iš dalies netaikomos analogiškos Europos Sąjungos ribojamosios priemonės, iki 2026 m. gegužės 2 d.
+
+1. Šio įstatymo 3 straipsnyje nurodytos ribojamosios priemonės taikomos  nuo 2025 m. gegužės 3 d. iki 2026 m. gegužės 2 d.
 
 
 
