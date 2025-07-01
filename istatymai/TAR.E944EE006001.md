@@ -677,6 +677,11 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI TEIKIMO TVARKA IR SĄLYGOS
 5. Ne daugiau kaip 25 procentai valstybės iš dalies kompensuojamo būsto kredito sumos gali būti panaudota žemės sklypui, kuriame yra būstas arba planuojama jį statyti, įsigyti. 
 
 
+
+
+6. Valstybės iš dalies kompensuojami būsto kreditai gali būti refinansuojami. Jeigu valstybės iš dalies kompensuojamas būsto kreditas refinansuojamas iki išmokant subsidiją valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti, ši subsidija teikiama tik tokiu atveju, jei valstybės iš dalies kompensuojamą būsto kreditą refinansavo, suteikdamas naują valstybės iš dalies kompensuojamą būsto kreditą įvykdyti finansiniams įsipareigojimams pagal anksčiau sudarytą kreditavimo sutartį, šio straipsnio 2 dalyje nurodytas kredito davėjas.
+
+
 Straipsnio pakeitimai:
 Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
  
@@ -798,6 +803,9 @@ d) šeimoms, kuriose motina arba tėvas, globėjas (rūpintojas) vieni augina vi
 5) jeigu už valstybės iš dalies kompensuojamo būsto kreditą įsigytas būstas parduodamas priverstinio vykdymo tvarka arba fizinio asmens bankroto proceso metu. 
 
 
+
+
+6) jeigu valstybės iš dalies kompensuojamas būsto kreditas grąžinamas jį refinansuojant, kai naują valstybės iš dalies kompensuojamą būsto kreditą įvykdyti finansiniams įsipareigojimams pagal anksčiau sudarytą kreditavimo sutartį suteikia šio įstatymo 12 straipsnio 2 dalyje nurodytas kredito davėjas.
 
 
 Straipsnio pakeitimai:
