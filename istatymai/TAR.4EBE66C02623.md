@@ -15578,23 +15578,9 @@ Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
 
 
 
-383 straipsnis. Geležinkelių transporto keleivių teisių pažeidimas traukinių vėlavimo, praleistų persėdimų, reisų atšaukimo atvejais ir teikiant informaciją
-
-
-Reglamente (EB) Nr. 1371/2007 nurodytų geležinkelių transporto keleivių teisių pažeidimas traukinių vėlavimo, praleistų persėdimų, reisų atšaukimo atvejais ir teikiant informaciją, išskyrus Lietuvos Respublikos geležinkelių transporto kodekse nustatytas išimtis dėl šių teisių įgyvendinimo,
-
-
-
-
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.
- 
-
-
-
-
-
-
-384 straipsnis. Su naudojimusi geležinkelių transporto paslaugomis susijusių neįgaliųjų arba ribotos judėsenos asmenų teisių pažeidimas
+383 straipsnis. Reglamente (ES) 2021/782 nurodytų geležinkelių keleivių teisių pažeidimas ir kitų įpareigojimų nevykdymas
+Reglamente (ES) 2021/782 nurodytų geležinkelių keleivių teisių pažeidimas ir kitų Reglamente (ES) 2021/782 geležinkelio įmonėms (vežėjams), geležinkelio stočių valdytojams, viešosios geležinkelių infrastruktūros valdytojui, bilietų pardavėjams ir kelionių operatoriams nustatytų įpareigojimų nevykdymas ar netinkamas vykdymas
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.384 straipsnis. Su naudojimusi geležinkelių transporto paslaugomis susijusių neįgaliųjų arba ribotos judėsenos asmenų teisių pažeidimas
 
 
 Reglamente (EB) Nr. 1371/2007 nurodytų su naudojimusi geležinkelių transporto paslaugomis susijusių neįgaliųjų arba ribotos judėsenos asmenų teisių pažeidimas, išskyrus Lietuvos Respublikos geležinkelių transporto kodekse nustatytas išimtis dėl šių teisių įgyvendinimo,
@@ -27986,3 +27972,5 @@ Nr. XV-109, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00694
 Lietuvos Respublikos administracinių nusižengimų kodekso 188-4 ir 589 straipsnių pakeitimo įstatymas
 
 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1226 dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama Direktyva (ES) 2018/1673.
+
+117^1. 2021 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/782 dėl geležinkelių keleivių teisių ir pareigų.
