@@ -14771,15 +14771,7 @@ Reglamente (EB) Nr. 1371/2007 nurodytų su naudojimusi geležinkelių transporto
 
 
 
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.
- 
-
-
-
-
-
-
-385 straipsnis. Skrydžių saugos pažeidimas aerodromo apsaugos zonoje
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.385 straipsnis. Skrydžių saugos pažeidimas aerodromo apsaugos zonoje
 
 
 1. Nesankcionuotas įvažiavimas arba įėjimas į oro uostą arba kitų aviacijos įmonių riboto patekimo plotus (zonas) ir buvimas juose, važiavimas arba ėjimas aerodromu pažeidžiant transporto priemonių ir mašinų judėjimo aerodrome ir darbų saugos taisykles
@@ -27119,3 +27111,5 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 188-4 ir 589 straips
 119^2. 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1157 dėl atliekų vežimo, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1257/2013 ir (ES) 2020/1056 ir panaikinamas Reglamentas (EB) Nr. 1013/2006.
 
 122. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1226 dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama Direktyva (ES) 2018/1673.
+
+117-1. 2021 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/782 dėl geležinkelių keleivių teisių ir pareigų.
