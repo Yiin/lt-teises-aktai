@@ -6819,7 +6819,7 @@ Nr. XIV-2380, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25331
 
 
 
-7) naudoti skystąsias trąšas;
+7) naudoti skystuosius tręšiamuosius produktus ir kitas tręšimui naudojamas skystąsias medžiagas, išskyrus tręšiant augalus per lapus;
 
 
 
