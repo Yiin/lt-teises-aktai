@@ -62,13 +62,14 @@ Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
-
+4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
 Straipsnio pakeitimai:
 Nr. XI-2093, 2012-06-21, Žin., 2012, Nr. 76-3936 (2012-06-30)
 
-3 straipsnis. Bendrieji energetikos veiklos tikslai
+5. Ekstremalioji energetikos padėtis – dėl ekstremaliojo įvykio energetikos sektoriuje susidariusi ekstremalioji situacija, kai yra sutrikęs normalus energijos išteklių ar energijos tiekimas energetikos įmonėms ir (ar) vartotojams ir šis tiekimas trukdomas tiek, kad energetikos įmonės šių sutrikimų spėja laiku prognozuoti ir valdyti ūkinės veiklos metodais, ir Vyriausybė, jos įgaliota valstybės institucija ir (ar) savivaldybės institucijos pagal kompetenciją turi reguliuoti energijos išteklių ar energijos tiekimą energetikos įmonėms ir (ar) vartotojams.
+
+3 straipsnis. Bendrieji energetikos veiklos tikslai
 
 
 1. Bendrieji energetikos veiklos tikslai yra:
@@ -1218,7 +1219,7 @@ Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 
 
-6) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka vykdo atsinaujinančių išteklių energijos gamybos įrenginius montuojančių specialistų rengimo atestacijai proceso administravimą;
+6) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka vykdo atsinaujinančių išteklių energijos gamybos įrenginius projektuojančių ir (ar) montuojančių specialistų rengimo atestacijai proceso administravimą;
 
 
 
