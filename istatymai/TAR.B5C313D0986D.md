@@ -1665,21 +1665,14 @@ ATSAKOMYBĖ UŽ PAŽEIDIMUS VYKDANT REGULIUOJAMĄJĄ VEIKLĄ IR ATSAKOMYBĖS TAI
 
 2. Tarnyba degalų tiekėjams, transporto sektoriaus gamtinių dujų tiekėjams ir subjektams, vykdantiems mažmeninės prekybos degalais veiklą, už pažeidimus vykdant reguliuojamąją veiklą Tarnybos nustatyta tvarka skiria šias sankcijas:
 
-
-1) už reikalavimų, nustatytų šio įstatymo 16 straipsnio 6 dalyje, nevykdymą skiria baudą nuo vieno tūkstančio eurų iki vieno milijono eurų;
-
-
-
+1) už reikalavimų, nustatytų šio įstatymo 16 straipsnio 6 dalyje, nevykdymą skiria baudą, kurios dydis yra apskaičiuojamas susumuojant fiksuotą dešimties tūkstančių eurų baudos dydį ir kintamą baudos dydį, kuris lygus neįvykdytai reikalavimo daliai, išreikštai energine verte (megadžauliais), padauginus ją iš dvidešimties euro centų;
 
 2) už Tarnybos teisėtų įpareigojimų (nurodymų) nevykdymą arba vykdymą ne nustatytu terminu skiria įspėjimą arba baudą iki penkių tūkstančių eurų;
-
-
-
 
 3) už reikalavimų, nustatytų šio įstatymo 31 straipsnio 2 dalyje, nevykdymą skiria įspėjimą arba baudą iki penkių tūkstančių eurų.33 straipsnis. Atsakomybės už pažeidimus vykdant reguliuojamąją veiklą taikymo tvarka
 
 
-1. Degalų tiekėjams, transporto sektoriaus gamtinių dujų tiekėjams ir subjektams, vykdantiems mažmeninės prekybos degalais veiklą, už pažeidimus, nurodytus šio įstatymo 32 straipsnio 1 dalies 2 ir 3 punktuose ir 2 dalyje, taikant atsakomybę atsižvelgiama į:
+1. Degalų tiekėjams, transporto sektoriaus gamtinių dujų tiekėjams ir subjektams, vykdantiems mažmeninės prekybos degalais veiklą, už pažeidimus, nurodytus šio įstatymo 32 straipsnio 1 dalies 3, 4 ir 5 punktuose ir 2 dalies 2 ir 3 punktuose, taikant atsakomybę atsižvelgiama į:
 
 
 1) pažeidimo pavojingumą; 
@@ -1735,7 +1728,7 @@ ATSAKOMYBĖ UŽ PAŽEIDIMUS VYKDANT REGULIUOJAMĄJĄ VEIKLĄ IR ATSAKOMYBĖS TAI
 
 
 
-4) padarė pažeidimą, dėl kurio jam per paskutinius 12 mėnesių buvo skirta bauda už šio straipsnio 1 dalies 2 ir 3 punktuose ir 2 dalyje nurodytus pažeidimus.
+4) padarė pažeidimą, dėl kurio jam per paskutinius 12 mėnesių buvo skirta bauda už šio įstatymo 32 straipsnio 1 dalies 3, 4 ir 5 punktuose ir 2 dalies 2 ir 3 punktuose nurodytus pažeidimus.
 
 
 
@@ -1755,12 +1748,12 @@ ATSAKOMYBĖ UŽ PAŽEIDIMUS VYKDANT REGULIUOJAMĄJĄ VEIKLĄ IR ATSAKOMYBĖS TAI
 
 
 
-7. Tarybos ar Tarnybos sprendimas dėl atsakomybės skyrimo už pažeidimus, nurodytus šio įstatymo 32 straipsnio 1 dalies 2 ir 3 punktuose ir 2 dalyje, skyrimo turi būti priimtas ne vėliau kaip per 6 mėnesius, o dėl pažeidimo, nurodyto šio įstatymo 32 straipsnio 1 dalies 1 punkte, ne vėliau kaip per 3 mėnesius nuo pažeidimo nustatymo dienos. 
+7. Tarybos ar Tarnybos sprendimas dėl atsakomybės už pažeidimus, nurodytus šio įstatymo 32 straipsnio 1 dalies 2, 3, 4 ir 5 punktuose ir 2 dalyje, taikymo turi būti priimtas ne vėliau kaip per 6 mėnesius, o dėl pažeidimo, nurodyto šio įstatymo 32 straipsnio 1 dalies 1 punkte, ne vėliau kaip per 3 mėnesius nuo pažeidimo nustatymo dienos. 
 
 
 
 
-8. Sankcijų, nurodytų šio įstatymo 32 straipsnio 1 dalies 2 ir 3 punktuose, skyrimas neatleidžia nuo įpareigojimų, nustatytų šio įstatymo 16 straipsnio 1 ir 3 dalyse, vykdymo.
+8. Sankcijų, nurodytų šio įstatymo 32 straipsnio 1 dalies 2, 3, 4 ir 5 punktuose ir 2 dalies 1 ir 2 punktuose, taikymas neatleidžia nuo įpareigojimų, nustatytų šio įstatymo 16 straipsnio 1 ir 3 dalyse, vykdymo.
 
 
 
@@ -1780,7 +1773,7 @@ ATSAKOMYBĖ UŽ PAŽEIDIMUS VYKDANT REGULIUOJAMĄJĄ VEIKLĄ IR ATSAKOMYBĖS TAI
 
 
 
-12. Tarybos ar Tarnybos sprendimo, kuriuo skiriama bauda, nuorašas asmeniui išsiunčiamas ne vėliau kaip per 3 darbo dienas nuo šio sprendimo priėmimo dienos.
+12. Tarybos ar Tarnybos sprendimo, kuriuo skiriama bauda, nuorašas asmeniui išsiunčiamas ne vėliau kaip per 3 darbo dienas nuo šio sprendimo priėmimo dienos. Tarybos ar Tarnybos sprendimai, kuriais skiriama bauda, skelbiami viešai, interneto svetainėje, Tarybos ir Tarnybos nustatyta tvarka, nepažeidžiant asmens duomenų apsaugos, valstybės, tarnybos, komercinės, banko, profesinės ir kitų įstatymų saugomų paslapčių apsaugos reikalavimų, taip pat fizinio asmens teisės į privataus gyvenimo neliečiamumą. Sprendimai skelbiami 5 metus nuo jų paskelbimo dienos.
 
 
 
