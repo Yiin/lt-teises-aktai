@@ -54,7 +54,16 @@ Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
 
 
 
-4. Pagrindinis šio įstatymo uždavinys – siekti, kad 2030 metais energijos gamybos iš atsinaujinančių išteklių energijos dalis, palyginti su šalies bendruoju galutiniu energijos suvartojimu, sudarytų ne mažiau kaip 55 procentus ir kad ši dalis toliau būtų didinama, tam panaudojant naujausias ir veiksmingiausias atsinaujinančių energijos išteklių naudojimo technologijas ir skatinant energijos vartojimo efektyvumą. 
+4. Pagrindinis šio įstatymo uždavinys – siekti, kad 2030 metais energijos gamybos iš atsinaujinančių išteklių energijos dalis, palyginti su šalies bendruoju galutiniu energijos suvartojimu, sudarytų ne mažiau kaip 55 procentus ir kad ši dalis toliau būtų didinama, tam panaudojant naujausias ir veiksmingiausias atsinaujinančių energijos išteklių naudojimo technologijas ir skatinant energijos vartojimo efektyvumą.
+
+5. Šio įstatymo uždaviniai atskiruose energetikos sektoriuose:
+1) 2030 metais atsinaujinančių išteklių energijos dalį, palyginti su transporto sektoriaus galutiniu energijos suvartojimu, visų rūšių transporte padidinti iki Lietuvos Respublikos alternatyviųjų degalų įstatyme nustatyto dydžio;
+2) 2030 metais elektros energijos, pagamintos iš atsinaujinančių energijos išteklių, dalį, palyginti su šalies bendruoju galutiniu elektros energijos suvartojimu, padidinti ne mažiau kaip iki 100 procentų;
+3) 2030 metais centralizuotai tiekiamos šilumos energijos, pagamintos iš atsinaujinančių energijos išteklių, dalį šilumos energijos balanse padidinti ne mažiau kaip iki 90 procentų, o necentralizuotai tiekiamos šilumos energijos, pagamintos iš atsinaujinančių energijos išteklių, dalį šildymui sunaudojamų energijos išteklių balanse padidinti ne mažiau kaip iki 80 procentų;
+4) 2030 metais iš atsinaujinančių energijos išteklių pagaminto nebiologinės kilmės kuro, naudojamo energijos ir ne energetikos tikslais, dalį pramonės sektoriuje, palyginti su vandeniliu, suvartojamu galutinės energijos ir ne energetikos tikslais pramonės sektoriuje, padidinti ne mažiau kaip iki 42 procentų, o 2035 metais – ne mažiau kaip iki 60 procentų; 2030 metais siektiną galutinės energijos, pagamintos iš atsinaujinančių energijos išteklių, suvartotos energijos ir ne energetikos tikslais pramonės sektoriuje, dalį padidinti ne mažiau kaip 1,6 procentinio punkto, skaičiuojant metinį vidurkį laikotarpiams nuo 2021 iki 2025 metų ir nuo 2026 iki 2030 metų;
+5) 2030 metais siektiną pažangių energijos iš atsinaujinančių energijos išteklių gamybos technologijų dalį padidinti ne mažiau kaip 5 procentais naujai įrengtų atsinaujinančių išteklių energijos gamybos pajėgumų, vertinant didėjimą nuo 2026 metų.
+
+6. Šio straipsnio 5 dalies 4 punkte nurodyti uždaviniai dėl iš atsinaujinančių energijos išteklių pagaminto nebiologinės kilmės kuro naudojimo 2030 metais ir 2035 metais pramonės sektoriuje Vyriausybės nustatyta tvarka ūkio subjektams gali būti sumažinti 20 procentų 2030 metais ir 20 procentų 2035 metais, jeigu gamybos iš atsinaujinančių energijos išteklių dalis, palyginti su šalies bendruoju galutiniu energijos suvartojimu, 2030 metais sudaro ne mažiau kaip 55 procentus ir šalyje suvartojamo vandenilio iš iškastinio kuro procentinė dalis 2030 metais yra ne didesnė kaip 23 procentai, o 2035 metais – ne didesnė kaip 20 procentų. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
@@ -178,10 +187,6 @@ Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
 
 
 1) 400 kW;
-
-
-
-
 2) 200 kW, kai gamintojo elektrinė įrengta ir pradedama eksploatuoti po 2026 m. sausio 1 d., nepaisant teisės į šio straipsnio 2 dalies 1 punkte numatytą skatinimo priemonę įgijimo momento.
 Straipsnio punkto pakeitimai:
 Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
@@ -685,28 +690,10 @@ Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250131 straipsn
 
 
 2. Gamybos įmokos nemoka:
-
-
 1) gaminantys vartotojai;
-
-
-
-
 2) asmenys, statantys, įrengiantys ir eksploatuojantys gaminančių vartotojų elektrines ir turintys leidimą gaminti elektros energiją už toje elektrinės dalyje pagamintą ir į elektros tinklus patiektą elektros energiją, kuri priklauso gaminantiems vartotojams;
-
-
-
-
 3) aktyvieji elektros energijos vartotojai;
-
-
-
-
 4) atsinaujinančių išteklių energijos bendrijos;
-
-
-
-
 5) piliečių energetikos bendrijos;
 
 
@@ -996,20 +983,17 @@ Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
 Straipsnio pakeitimai:
 Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
 Straipsnio pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-1230614 straipsnis. Asmenų vykdomos ar planuojamos vykdyti veiklos energetikos sektoriuje keitimo tvarka
+Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-1230614^1 straipsnis. Asmenų vykdomos ar planuojamos vykdyti veiklos energetikos sektoriuje keitimo tvarka
 
+1. Asmenys, siekiantys pakeisti šio įstatymo ar Elektros energetikos įstatymo nustatyta tvarka vykdomą ar planuojamą vykdyti veiklą elektros energetikos sektoriuje, pateikia rašytinį prašymą Valstybinei energetikos reguliavimo tarybai dėl galimybės vykdyti kitą veiklą elektros energetikos sektoriuje, išskyrus atvejus, kai planuojamai vykdyti veiklai leidimas plėtoti elektros energijos gamybos pajėgumus ir leidimas gaminti elektros energiją nereikalingi. Asmenys, siekiantys pakeisti vykdomą ar planuojamą vykdyti veiklą elektros energetikos sektoriuje, kreipiasi į elektros tinklų operatorių dėl prijungimo sąlygų išdavimo teisės aktų, reglamentuojančių elektros įrenginių prijungimą prie elektros tinklų, nustatyta tvarka ir sąlygomis ar ketinimų protokolo pasirašymo, jeigu ketinimų protokolas planuojamai vykdyti veiklai yra privalomas vadovaujantis Elektros energetikos įstatymo 22 straipsnio 8 dalimi.
 
-1. Asmenys, siekiantys pakeisti šio įstatymo ar Elektros energetikos įstatymo nustatyta tvarka vykdomą ar planuojamą vykdyti veiklą elektros energetikos sektoriuje, pateikia rašytinį prašymą Valstybinei energetikos reguliavimo tarybai dėl galimybės vykdyti kitą veiklą elektros energetikos sektoriuje.
+2. Valstybinė energetikos reguliavimo taryba arba elektros tinklų operatorius, atsižvelgdami į elektros energetikos sistemos pralaidumus, skirtus Elektros energetikos įstatymo 31 straipsnio 2^1 dalyje ir 39 straipsnio 2^1 dalyje nurodytiems prioritetams, esant laisvų elektros energetikos sistemos pralaidumų visai siekiamai rezervuoti leistinai generuoti galiai, informuoja asmenį apie galimybę pakeisti vykdomą ar planuojamą vykdyti veiklą elektros energetikos sektoriuje, o nesant laisvų elektros energetikos sistemos pralaidumų visai siekiamai rezervuoti leistinai generuoti galiai, informuoja, kad veiklos keitimas negalimas. Nesant laisvų elektros energetikos sistemos pralaidumų, veiklos keitimas yra galimas, kai tenkinamos šios sąlygos:
+1) vykdoma ar planuojama vykdyti veikla elektros energetikos sektoriuje keičiama į kitą veiklą, kuri priskiriama tai pačiai elektros energetikos sistemos pralaidumų grupei pagal Vyriausybės nutarimu nustatytas elektros tinklų pralaidumų paskirstymo proporcijas;
+2) asmuo, siekiantis pakeisti šio įstatymo ar Elektros energetikos įstatymo nustatyta tvarka vykdomą ar planuojamą vykdyti veiklą elektros energetikos sektoriuje, sutinka, kad būtų taikomi Elektros energetikos įstatymo 31 ir 39 straipsniuose ir Pasinaudojimo elektros tinklais tvarkos aprašuose numatyti elektros energijos gamybos įrenginių prijungimo prie elektros tinklų pajėgumų arba eksploatavimo apribojimai, ir sutinka padengti dėl vykdomos ar planuojamos vykdyti veiklos pakeitimo būtinas elektros tinklų plėtros, vykdomos Pasinaudojimo elektros tinklais tvarkos aprašuose nurodytais atvejais, sąnaudas.
 
+3. Kai asmeniui suteikiama teisė vykdyti kitą veiklą elektros energijos sektoriuje be elektros energijos gamybos įrenginių prijungimo prie elektros tinklų pajėgumų arba eksploatavimo apribojimų, asmuo turi grąžinti jam suteiktas elektros įrenginių prijungimo prie elektros tinklų nuolaidas, jeigu planuojamai vykdyti kitai veiklai tokios nuolaidos šio įstatymo ir Elektros energetikos įstatymo nustatyta tvarka netaikomos. Šios dalies nuostata nėra taikoma, kai elektros įrenginių prijungimo prie elektros tinklų nuolaida buvo suteikta ne mažiau kaip prieš 12 kalendorinių metų iki prašymo pakeisti vykdomą veiklą elektros energetikos sektoriuje pateikimo Valstybinei energetikos reguliavimo tarybai dienos.
 
-
-
-2. Valstybinė energetikos reguliavimo taryba, atsižvelgdama į elektros energetikos sistemos pralaidumus, skirtus Elektros energetikos įstatymo 31 straipsnio 21 dalyje ir 39 straipsnio 21 dalyje nurodytiems prioritetams, esant laisvų elektros energetikos sistemos pralaidumų visai siekiamai rezervuoti leistinai generuoti galiai, informuoja asmenį apie galimybę pakeisti vykdomą ar planuojamą vykdyti veiklą elektros energetikos sektoriuje, o nesant laisvų elektros energetikos sistemos pralaidumų visai siekiamai rezervuoti leistinai generuoti galiai, informuoja, kad veiklos keitimas negalimas.
-
-
-
-
-3. Kai asmeniui suteikiama teisė vykdyti kitą veiklą elektros energijos sektoriuje, asmuo turi grąžinti jam suteiktas elektros įrenginių prijungimo prie elektros tinklų nuolaidas, jeigu planuojamai vykdyti kitai veiklai tokios nuolaidos šio įstatymo ir Elektros energetikos įstatymo nustatyta tvarka netaikomos.
+4. Asmenys, kuriems buvo taikomas fiksuotas tarifas, pasibaigus skatinimo laikotarpiui, turi teisę keisti veiklą į elektros energiją gaminančio vartotojo, taikant grynojo atsiskaitymo apskaitos modelį. Tokiu atveju turimi elektros tinklų pralaidumai išlaikomi ir yra priskiriami gaminančių vartotojų pralaidumams, atitinkamai sumažinant gamintojams skirtą elektros tinklų pralaidumų dalį.
 
 
 Papildyta straipsniu:
@@ -1209,9 +1193,11 @@ Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
 
 
 
+2^1. Prekybą elektros energija vykdant pagal dvišales sutartis, elektros energijos gamyba iš atsinaujinančių išteklių skatinama Vyriausybės nustatyta tvarka gamintojui sumokant:
+1) aukcione laimėtą kainos priedą, kai sutartyje nustatyta kaina yra lygi ar mažesnė už kitos paros prekybos elektros energijos biržoje Lietuvos zonoje valandinę kainą ir kai kitos paros prekybos elektros energijos biržoje Lietuvos zonoje valandinės kainos ir aukcione laimėto kainos priedo suma yra mažesnė už Valstybinės energetikos reguliavimo tarybos nustatytą didžiausiąją kainą arba jai lygi;
+2) aukcione laimėto kainos priedo dalį, kuri apskaičiuojama kaip Valstybinės energetikos reguliavimo tarybos nustatytos didžiausiosios kainos ir sutartyje nustatytos elektros energijos valandinės kainos skirtumas, kuris negali būti didesnis negu aukcione laimėtas kainos priedas, kai sutartyse nustatytos elektros energijos valandinės kainos ir aukcione laimėto kainos priedo suma yra didesnė už Valstybinės energetikos reguliavimo tarybos nustatytą didžiausiąją kainą.
+
 2. Prekybą elektros energija vykdant elektros energijos biržoje, elektros energijos gamyba iš atsinaujinančių išteklių skatinama Vyriausybės nustatyta tvarka gamintojui sumokant:
-
-
 1) aukcione laimėtą kainos priedą, kai kitos paros prekybos elektros energijos biržoje Lietuvos zonoje valandinės kainos ir aukcione laimėto kainos priedo suma yra mažesnė už Valstybinės energetikos reguliavimo tarybos nustatytą didžiausiąją kainą arba jai lygi;
 
 
@@ -1543,6 +1529,8 @@ Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 
 
 1. Gaminantys vartotojai ir asmenys, siekiantys tapti gaminančiais vartotojais, turi teisę įsirengti atsinaujinančius išteklius naudojančias elektrines, kurių leistina generuoti galia neviršija vartotojo objektui suteiktos leistinos naudoti galios. Gaminančių vartotojų ar asmenų, siekiančių tapti gaminančiais vartotojais, elektrinės, kurios yra geografiškai nutolusios Lietuvos Respublikos teritorijoje nuo gaminančio vartotojo elektros energijos vartojimo vietos, leistina generuoti galia neribojama atsižvelgiant į vartotojo objektui suteiktos leistinos naudoti galios dydį.
+
+1^1. Elektros tinklų operatorius privalo prijungti gaminančių vartotojų ir asmenų, siekiančių tapti gaminančiais vartotojais, elektrines prie elektros tinklų, atsižvelgdamas į vartotojo objektui suteiktą leistiną naudoti galią, leistiną generuoti galią ir elektrinės įrengtąją galią, atitinkamų techninių norminių dokumentų reikalavimus, keliamus tokių elektrinių prijungimui, taip pat elektros tinklų įrengimui ir (ar) atnaujinimui, gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, ir elektros tinklų operatoriaus elektros tinklų dalyse.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
 Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
@@ -1975,6 +1963,8 @@ Nr. XIII-2200, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09723
 
 
 
+15. Atsinaujinančių išteklių energijos bendrijos nuosavybės teise valdomų energijos gamybos įrenginių statyba ir eksploatavimas vykdomi vadovaujantis bendraisiais įstatymuose ir kituose teisės aktuose nustatytais veiklos energetikos sektoriuje leidimų išdavimo, projektavimo ir statybos, teritorijų planavimo, planuojamos ūkinės veiklos poveikio aplinkai vertinimo, aplinkos apsaugos ir kitais susijusiais reikalavimais.
+
 16. Lietuvos energetikos agentūra parengia ir savo interneto svetainėje paskelbia rekomendacijas dėl atsinaujinančių išteklių energijos bendrijų veiklos sąlygų.
 
 
@@ -2151,22 +2141,6 @@ Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
 
 
 1. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka elektrinę sausumos teritorijoje pastatęs ar įrengęs asmuo apmoka visas sąnaudas, susijusias su elektrinės prijungimu prie elektros tinklų.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
- 
-
-
-
-
-2. Neteko galios nuo 2022-04-08.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
- 
-
-
-
-
-3. Neteko galios nuo 2022-04-08.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
  
@@ -2708,6 +2682,20 @@ Straipsnio pakeitimai:
 Nr. XIV-1697, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-2727033 straipsnis. Neteko galios nuo 2017-11-01
 Straipsnio naikinimas:
 Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
+
+37^1. Osmosinė energija – energija, atsirandanti savaime dėl skirtingo druskingumo – sūraus ir gėlo – vandens sąveikos.
+</search>
+
+<search>
+37 straipsnis. Biodegalų ir skystųjų bioproduktų tvarumo sistema
+</search>
+<replace>
+37^1 straipsnis. Osmosinė energija – energija, atsirandanti savaime dėl skirtingo druskingumo – sūraus ir gėlo – vandens sąveikos.
+
+
+
+
+37 straipsnis. Biodegalų ir skystųjų bioproduktų tvarumo sistema
  
 
 
@@ -2764,6 +2752,10 @@ Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
 
 
 
+
+38^1. Paspartintos atsinaujinančių išteklių energijos plėtros zona – sausumoje, jūroje arba vidaus vandenyse esanti konkreti vieta arba teritorija labiausiai tinkama atsinaujinančių energijos išteklių įrenginiams įrengti.
+
+38^2. Pažangi energijos iš atsinaujinančių išteklių gamybos technologija – technologija, kuria bent vienu būdu pagerinama palyginama pažangiausia energijos iš atsinaujinančių išteklių gamybos technologija arba kuria sudaromos sąlygos naudoti energijos iš atsinaujinančių išteklių gamybos technologiją, kuri nėra visiškai komercializuota arba kuriai yra būdingas aiškus rizikos lygis.
 
 37 straipsnis. Biodegalų ir skystųjų bioproduktų tvarumo sistema
 
@@ -3532,7 +3524,7 @@ Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 
 
 
-4. Saulės šilumos energijos įrenginiams paramos schemos taikomos, jeigu jos yra sertifikuotos remiantis Europos Sąjungos standartais, jeigu tokie yra nustatyti, įskaitant ekologinius ženklus, energijos duomenų etiketes ir kitas Europos Sąjungos standartizacijos įstaigų nustatytas techninių normatyvų sistemas.
+4. Saulės šviesos energijos įrangai paramos schemos taikomos, jeigu ji yra sertifikuota remiantis Europos Sąjungos standartais, jeigu tokie yra nustatyti, įskaitant ekologinius ženklus, energijos duomenų etiketes ir kitas Europos Sąjungos standartizacijos įstaigų nustatytas techninių normatyvų sistemas.
 
 
 
