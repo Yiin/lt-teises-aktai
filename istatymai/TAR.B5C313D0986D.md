@@ -43,8 +43,6 @@ BENDROSIOS NUOSTATOS
 
 
 2. Šio įstatymo tikslas – mažinti transporto sektoriaus poveikį klimato kaitai ir aplinkos oro taršai, siekiant, kad 2030 metais atsinaujinančių energijos išteklių dalis transporto sektoriuje, palyginti su bendruoju galutiniu energijos suvartojimu transporto sektoriuje, sudarytų ne mažiau kaip 29 procentus. Šiuo įstatymu taip pat siekiama, kad, nesukeliant ekosistemų degradacijos pavojaus, iki 2030 metų naftos degalų suvartojimas kelių transporte, palyginti su naftos degalų suvartojimu 2021 metais, sumažėtų ne mažiau kaip 39 procentais.
-Straipsnio dalies pakeitimai:
-Nr. XIV-2966, 2024-08-13, paskelbta TAR 2024-08-23, i. k. 2024-14756
  
 
 
@@ -94,7 +92,7 @@ Nr. XV-123, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04417
 
 
 
-8. Degalų tiekėjas – subjektas, kuris tiekia benziną ir (ar) dyzeliną ir kuriam pagal Lietuvos Respublikos akcizų įstatymą atsiranda prievolė mokėti akcizus už patiektą benziną ir (ar) dyzeliną. 
+8. Degalų tiekėjas – subjektas, kuris turi leidimą verstis didmenine ir (ar) mažmenine prekyba nefasuotais naftos produktais Lietuvos Respublikoje ir tiekia benziną ir (ar) dyzeliną, už kuriuos pagal Lietuvos Respublikos akcizų įstatymą atsiranda prievolė mokėti akcizus. 
 
 
 
@@ -145,7 +143,7 @@ Nr. XV-123, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04417
 
 
 
-15. Nebiologiniai skystieji ir dujiniai degalai iš atsinaujinančių energijos išteklių – skystieji arba dujiniai transportui naudojami degalai, kurių energijos kiekis sukaupiamas iš atsinaujinančių energijos išteklių, išskyrus biomasę. 
+ 
 
 
 
@@ -339,8 +337,6 @@ Nr. XIV-2668, 2024-05-21, paskelbta TAR 2024-05-30, i. k. 2024-09708
 
 
 4) tvirtina DAEI apskaitos vienetų sistemos administravimo tvarkos aprašą energetikos ministro įgaliotos įstaigos ar įmonės teikimu;
-Straipsnio punkto pakeitimai:
-Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
  
 
 
@@ -510,28 +506,17 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 
 
-4) rengia, suderinusios su Susisiekimo ministerija tvirtina ir įgyvendina darnaus judumo miestuose ir atsinaujinančių išteklių energijos naudojimo plėtros planų priemones.13 straipsnis. Valstybinės vartotojų teisių apsaugos tarnybos kompetencija 
+4) rengia, suderinusios su Susisiekimo ministerija tvirtina ir įgyvendina darnaus judumo miestuose ir atsinaujinančių išteklių energijos naudojimo plėtros planų priemones.13 straipsnis. Valstybinės vartotojų teisių apsaugos tarnybos kompetencija
 
+Valstybinė vartotojų teisių apsaugos tarnyba (toliau – Tarnyba):
 
-Valstybinė vartotojų teisių apsaugos tarnyba (toliau – Tarnyba): 
+1) atlieka mažmeninės prekybos degalais vietų kontrolę, tikrindama, ar tinkamai laikomasi šio įstatymo 16 straipsnio 6 dalyje, 20 straipsnio 5 dalyje ir 31 straipsnio 2 ir 7 dalyse nustatytų reikalavimų;
 
-
-1) atlieka mažmeninės prekybos degalais vietų kontrolę, tikrindama, ar tinkamai vykdomi šio įstatymo 16 straipsnio 6 dalyje, 20 straipsnio 5 dalyje ir 31 straipsnio 2 dalyje nustatyti reikalavimai;
-
-
-
-
-2) atlieka mėginių paėmimą ir ištyrimą dėl degalų ir biodegalų sudėties ir rūšies nustatymo, dalyvaudama šio įstatymo 19 straipsnio 1 dalyje nurodytuose patikrinimuose; 
-
-
-
+2) atlieka mėginių paėmimą ir organizuoja jų ištyrimą dėl degalų ir biodegalų sudėties ir rūšies nustatymo, dalyvaudama šio įstatymo 19 straipsnio 1 dalyje nurodytuose patikrinimuose;
 
 3) tikrina Lietuvos Respublikoje vartojamų naftos produktų ir biodegalų atitiktį naftos produktų privalomiesiems kokybės rodikliams;
 
-
-
-
-4) skiria šio įstatymo 32 straipsnio 2 dalyje nustatytas baudas.
+4) skiria šio įstatymo 32 straipsnio 2 dalyje nustatytas sankcijas.
  
 
 
@@ -756,7 +741,7 @@ KETVIRTASIS SKIRSNIS
 
 16 straipsnis. Įpareigojimai degalų ir transporto sektoriaus gamtinių dujų tiekėjams
 
-1. Kiekvienais kalendoriniais metais degalai iš atsinaujinančių energijos išteklių turi sudaryti atitinkamą bendros degalų tiekėjo transporto sektoriui patiektų degalų ir degalų iš atsinaujinančių energijos išteklių energinės vertės dalį:
+1. Kiekvienais kalendoriniais metais degalai iš atsinaujinančių energijos išteklių turi sudaryti atitinkamą bendros degalų tiekėjo vidaus rinkai patiekto benzino ir dyzelino energinės vertės dalį:
 
 1) nuo 2025 metų – ne mažiau kaip 8,6 procentinio punkto, ne mažiau kaip 1 procentinį punktą turi sudaryti pažangieji biodegalai ir (ar) iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras;
 
@@ -1578,12 +1563,9 @@ INFORMAVIMAS IR ŠVIETIMAS
  
 
 
-31 straipsnis. Informacijos sklaida ir švietimas 
+31 straipsnis. Informacijos sklaida ir švietimas
 
-
-1. Energetikos ministerija, Susisiekimo ministerija, Aplinkos ministerija ir savivaldybių administracijos pagal kompetenciją rengia ir įgyvendina visuomenės informavimo ir sąmoningumo ugdymo priemones, teikia konsultacijas ir skatina naudoti alternatyviųjų degalų ir juos naudojančių transporto priemonių infrastruktūrą, ne rečiau kaip kartą per metus savo interneto svetainėse skelbia informaciją apie alternatyviųjų degalų ir juos naudojančių transporto priemonių infrastruktūros plėtrą, naudojimo galimybes ir naudą. 
-Straipsnio dalies pakeitimai:
-Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
+1. Energetikos ministerija, Susisiekimo ministerija, Aplinkos ministerija ir savivaldybių administracijos pagal kompetenciją rengia ir įgyvendina visuomenės informavimo ir sąmoningumo ugdymo priemones, teikia konsultacijas ir skatina naudoti alternatyviųjų degalų ir juos naudojančių transporto priemonių infrastruktūrą, ne rečiau kaip kartą per metus savo interneto svetainėse skelbia informaciją apie alternatyviųjų degalų ir juos naudojančių transporto priemonių infrastruktūros plėtrą, naudojimo galimybes ir naudą.
  
 
 
@@ -1591,35 +1573,17 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 2. Mažmeninės prekybos degalais vietose degalinių operatoriai energetikos ministro nustatyta tvarka turi skelbti ir ne rečiau kaip kartą per metus atnaujinti alternatyviųjų degalų kainų palyginamąją informaciją. Ši informacija turi būti neklaidinanti. 
 
-
-
-
 3. Subjektas, nurodytas Energetikos įstatymo 13-1 straipsnyje, yra atsakingas už palyginamųjų alternatyviųjų degalų kainų apskaičiavimą ir paskelbimą savo interneto svetainėje. 
-
-
-
 
 4. Subjektas, nurodytas Energetikos įstatymo 13-1 straipsnyje, palyginamąsias alternatyviųjų degalų kainas apskaičiuoja vadovaudamasis energetikos ministro nustatyta metodika, kuri grindžiama kainomis, išreikštomis eurais šimtui kilometrų, atsižvelgdamas į atskirų lengvųjų automobilių modelių, varomų skirtingų rūšių degalais, masę, galią ir degalų sąnaudas.
 
-
-
-
 5. Siekiant formuoti visuomenės elgseną, keisti jos įpročius ir skatinti pereiti prie alternatyviaisiais degalais varomų netaršių transporto priemonių, vykdomas visuomenės švietimas ir susijusios informacijos viešinimo kampanijos:
-
 
 1) į pagrindinio, vidurinio ir profesinio ugdymo švietimo programas integruojamas pamokų ar paskaitų kursas, už kurių įgyvendinimą atsakinga Švietimo, mokslo ir sporto ministerija; 
 
-
-
-
 2) mokymai valstybės ir savivaldybių įstaigose, už kurių įgyvendinimą atsakingi valstybės ir savivaldybių įstaigų administracijų vadovai;
 
-
-
-
 3) savivaldybių administracijų organizuojamos socialinės kampanijos, už kurių įgyvendinimą atsakingi savivaldybių administracijų vadovai;
-Straipsnio punkto pakeitimai:
-Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
  
 
 
