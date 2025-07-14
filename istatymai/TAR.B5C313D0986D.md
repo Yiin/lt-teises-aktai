@@ -42,23 +42,15 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šio įstatymo tikslas – mažinti transporto sektoriaus poveikį klimato kaitai ir aplinkos oro taršai, siekiant, kad 2030 metais atsinaujinančių energijos išteklių dalis transporto sektoriuje, palyginti su bendruoju galutiniu energijos suvartojimu transporto sektoriuje, sudarytų ne mažiau kaip 15 procentų. Šiuo įstatymu taip pat siekiama, kad, nesukeliant ekosistemų degradacijos pavojaus, iki 2030 metų naftos degalų suvartojimas kelių transporte, palyginti su naftos degalų suvartojimu 2021 metais, sumažėtų ne mažiau kaip 39 procentais.
+2. Šio įstatymo tikslas – mažinti transporto sektoriaus poveikį klimato kaitai ir aplinkos oro taršai, siekiant, kad 2030 metais atsinaujinančių energijos išteklių dalis transporto sektoriuje, palyginti su bendruoju galutiniu energijos suvartojimu transporto sektoriuje, sudarytų ne mažiau kaip 29 procentus. Šiuo įstatymu taip pat siekiama, kad, nesukeliant ekosistemų degradacijos pavojaus, iki 2030 metų naftos degalų suvartojimas kelių transporte, palyginti su naftos degalų suvartojimu 2021 metais, sumažėtų ne mažiau kaip 39 procentais.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2966, 2024-08-13, paskelbta TAR 2024-08-23, i. k. 2024-14756
- 
+ 
 
 
 
 
-3. Šio straipsnio 2 dalyje numatyto tikslo siekiama nuosekliai didinant transporto sektoriaus energijos šaltinių įvairovę, nustatant įpareigojimus degalų tiekėjams dėl degalų iš atsinaujinančių energijos išteklių tiekimo, didinant pažangiųjų biodegalų naudojimo mastą, skatinant elektros energijos naudojimą transporte, vykdant alternatyviųjų degalų infrastruktūros plėtrą, didinant netaršių transporto priemonių, registruojamų Lietuvos Respublikoje, skaičių ir nustatant reikalavimus, keliamus viešiesiems pirkimams, atliekamiems transporto sektoriuje. 
- 
-
-
-
-
-
-
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
+3. Šio straipsnio 2 dalyje numatyto tikslo siekiama nuosekliai didinant transporto sektoriaus energijos šaltinių įvairovę, nustatant įpareigojimus degalų tiekėjams dėl degalų iš atsinaujinančių energijos išteklių tiekimo, didinant pažangiųjų biodegalų naudojimo mastą, skatinant elektros energijos naudojimą transporte, vykdant alternatyviųjų degalų infrastruktūros plėtrą, didinant netaršių transporto priemonių, registruojamų Lietuvos Respublikoje, skaičių ir nustatant reikalavimus, keliamus viešiesiems pirkimams, atliekamiems transporto sektoriuje.2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
 1. Alternatyviųjų degalų ir juos naudojančių transporto priemonių infrastruktūra – alternatyviuosius degalus naudojančios transporto priemonės ir alternatyviesiems degalams tiekti į transporto priemones naudojami degalų pildymo punktai ir įkrovimo prieigos.
@@ -336,7 +328,7 @@ Energetikos ministerija:
 2) Neteko galios nuo 2024-05-31
 Straipsnio punkto naikinimas:
 Nr. XIV-2668, 2024-05-21, paskelbta TAR 2024-05-30, i. k. 2024-09708
- 
+ 
 
 
 
@@ -346,25 +338,15 @@ Nr. XIV-2668, 2024-05-21, paskelbta TAR 2024-05-30, i. k. 2024-09708
 
 
 
-4) nustato DAEI apskaitos vienetų sistemos administravimo tvarką Energetikos ministerijos įgaliotos įstaigos ar įmonės teikimu; 
+4) tvirtina DAEI apskaitos vienetų sistemos administravimo tvarkos aprašą energetikos ministro įgaliotos įstaigos ar įmonės teikimu;
 Straipsnio punkto pakeitimai:
 Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
- 
+ 
 
 
 
 
-5) atlieka kitas šio įstatymo nustatytas funkcijas.
- 
-
-
-
-
-
-
-
-
-6 straipsnis. Susisiekimo ministerijos kompetencija
+5) atlieka kitas šio įstatymo nustatytas funkcijas.6 straipsnis. Susisiekimo ministerijos kompetencija
 
 
 Susisiekimo ministerija:
@@ -482,7 +464,7 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 
 
-2) atlieka fizinius patikrinimus šio įstatymo ir Tarybos nustatyta tvarka;
+2) atlieka patikrinimus šio įstatymo ir Tarybos nustatyta tvarka;
 
 
 
@@ -492,7 +474,7 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 
 
-4) skiria šio įstatymo 32 straipsnio 1 dalyje nustatytas baudas; 
+4) skiria šio įstatymo 32 straipsnio 1 dalyje nustatytas sankcijas; 
 
 
 
@@ -504,15 +486,7 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 
 
-2. Tarybos veikla atliekant šio straipsnio 1 dalyje nurodytas funkcijas finansuojama iš valstybės biudžeto asignavimų ir kitomis valstybės biudžeto lėšomis, kaip nustatyta Energetikos įstatymo 8 straipsnio 17 dalyje. 
- 
-
-
-
-
-
-
-12 straipsnis. Savivaldybių institucijos 
+2. Tarybos veikla atliekant šio straipsnio 1 dalyje nurodytas funkcijas finansuojama iš valstybės biudžeto asignavimų ir kitomis valstybės biudžeto lėšomis, kaip nustatyta Energetikos įstatymo 8 straipsnio 17 dalyje.12 straipsnis. Savivaldybių institucijos 
 
 
 Savivaldybės institucijos pagal kompetenciją savivaldybės teritorijoje:
@@ -531,22 +505,12 @@ Savivaldybės institucijos pagal kompetenciją savivaldybės teritorijoje:
 3) imasi priemonių, kurios skatintų įkrovimo prieigų įrengimą savivaldybės teritorijoje;
 Straipsnio punkto pakeitimai:
 Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
- 
+ 
 
 
 
 
-4) rengia, suderinusios su Susisiekimo ministerija tvirtina ir įgyvendina darnaus judumo miestuose ir atsinaujinančių išteklių energijos naudojimo plėtros planų priemones.
- 
-
-
-
-
-
-
-
-
-13 straipsnis. Valstybinės vartotojų teisių apsaugos tarnybos kompetencija 
+4) rengia, suderinusios su Susisiekimo ministerija tvirtina ir įgyvendina darnaus judumo miestuose ir atsinaujinančių išteklių energijos naudojimo plėtros planų priemones.13 straipsnis. Valstybinės vartotojų teisių apsaugos tarnybos kompetencija 
 
 
 Valstybinė vartotojų teisių apsaugos tarnyba (toliau – Tarnyba): 
@@ -792,501 +756,149 @@ KETVIRTASIS SKIRSNIS
 
 16 straipsnis. Įpareigojimai degalų ir transporto sektoriaus gamtinių dujų tiekėjams
 
+1. Kiekvienais kalendoriniais metais degalai iš atsinaujinančių energijos išteklių turi sudaryti atitinkamą bendros degalų tiekėjo transporto sektoriui patiektų degalų ir degalų iš atsinaujinančių energijos išteklių energinės vertės dalį:
 
-1. Kiekvienais kalendoriniais metais degalai iš atsinaujinančių energijos išteklių turi sudaryti atitinkamą bendros degalų tiekėjo vidaus rinkai patiekto benzino ir dyzelino energinės vertės dalį:
+1) nuo 2025 metų – ne mažiau kaip 8,6 procentinio punkto, ne mažiau kaip 1 procentinį punktą turi sudaryti pažangieji biodegalai ir (ar) iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras;
 
+2) nuo 2026 metų – ne mažiau kaip 10 procentinių punktų, ne mažiau kaip 1,2 procentinio punkto turi sudaryti pažangieji biodegalai ir (ar) iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras;
 
-1) nuo 2022 metų – ne mažiau kaip 6,8 procentinio punkto, iš kurių ne mažiau kaip 0,2 procentinio punkto turi sudaryti pažangieji biodegalai ir (ar) nebiologiniai skystieji ir dujiniai degalai iš atsinaujinančių energijos išteklių; 
+3) nuo 2027 metų – ne mažiau kaip 13 procentinių punktų, ne mažiau kaip 1,6 procentinio punkto turi sudaryti pažangieji biodegalai ir (ar) iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras;
 
+4) nuo 2028 metų – ne mažiau kaip 16 procentinių punktų, ne mažiau kaip 2,2 procentinio punkto turi sudaryti pažangieji biodegalai ir (ar) iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras;
 
+5) nuo 2029 metų – ne mažiau kaip 21 procentinį punktą, ne mažiau kaip 3,3 procentinio punkto turi sudaryti pažangieji biodegalai ir (ar) iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras;
 
+6) nuo 2030 metų – ne mažiau kaip 29 procentinius punktus, ne mažiau kaip 5,5 procentinio punkto turi sudaryti pažangieji biodegalai ir (ar) iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras, kurio procentinė dalis, palyginti su bendra degalų tiekėjo transporto sektoriui patiektų degalų ir degalų iš atsinaujinančių energijos išteklių energine verte turi sudaryti ne mažiau kaip vieną procentinį punktą ir ne mažiau kaip 1,2 procentinio punkto, palyginti su jūriniam transportui patiektų degalų energine verte.
 
-2) nuo 2023 metų – ne mažiau kaip 7,2 procentinio punkto, iš kurių ne mažiau kaip 0,4 procentinio punkto turi sudaryti pažangieji biodegalai ir (ar) nebiologiniai skystieji ir dujiniai degalai iš atsinaujinančių energijos išteklių; 
+2. Degalų tiekėjai, siekdami šio straipsnio 1 dalyje numatyto įpareigojimo, išskyrus šio straipsnio 10 dalyje nurodytą išimtį, turi užtikrinti, kad kiekviename vidaus rinkai patiekto benzino litre būtų ne mažiau kaip 6,6 procento biodegalų (leistinas 0,5 procentinio punkto biodegalų trūkumas), o kiekviename vidaus rinkai patiekto dyzelino litre būtų ne mažiau kaip 6,2 procento biodegalų (leistinas 0,5 procentinio punkto biodegalų trūkumas), skaičiuojant pagal bendrą degalų ir biodegalų mišinio energinę vertę. Energetikos ministerija, gavusi informaciją apie nenugalimos jėgos aplinkybių nulemtus biodegalų tiekimo sutrikimus, gali leisti degalų tiekėjams laikinai, iki išnyks biodegalų tiekimo sutrikimai, netaikyti šioje dalyje ir šio straipsnio 6 dalyje nurodytų reikalavimų. Informacija apie biodegalų tiekimo sutrikimus teikiama ir vertinama mutatis mutandis taikant Vyriausybės tvirtinamo Vartotojų aprūpinimo energija ir (ar) energijos ištekliais esant ekstremaliajai energetikos padėčiai tvarkos aprašo nuostatas. Šios dalies nuostatos gali būti netaikomos, kai Vyriausybė paskelbia ekstremaliąją situaciją.
 
-
-
-
-3) nuo 2024 metų – ne mažiau kaip 7,8 procentinio punkto, iš kurių ne mažiau kaip 0,7 procentinio punkto turi sudaryti pažangieji biodegalai ir (ar) nebiologiniai skystieji ir dujiniai degalai iš atsinaujinančių energijos išteklių; 
-
-
-
-
-4) nuo 2025 metų – ne mažiau kaip 8,6 procentinio punkto, iš kurių ne mažiau kaip 1 procentinį punktą turi sudaryti pažangieji biodegalai ir (ar) nebiologiniai skystieji ir dujiniai degalai iš atsinaujinančių energijos išteklių;
-
-
-
-
-5) nuo 2026 metų – ne mažiau kaip 9,8 procentinio punkto, iš kurių ne mažiau kaip 1,4 procentinio punkto turi sudaryti pažangieji biodegalai ir (ar) nebiologiniai skystieji ir dujiniai degalai iš atsinaujinančių energijos išteklių;
-
-
-
-
-6) nuo 2027 metų – ne mažiau kaip 11,3 procentinio punkto, iš kurių ne mažiau kaip 1,8 procentinio punkto turi sudaryti pažangieji biodegalai ir (ar) nebiologiniai skystieji ir dujiniai degalai iš atsinaujinančių energijos išteklių;
-
-
-
-
-7) nuo 2028 metų – ne mažiau kaip 12,9 procentinio punkto, iš kurių ne mažiau kaip 2,2 procentinio punkto turi sudaryti pažangieji biodegalai ir (ar) nebiologiniai skystieji ir dujiniai degalai iš atsinaujinančių energijos išteklių;
-
-
-
-
-8) nuo 2029 metų – ne mažiau kaip 14,7 procentinio punkto, iš kurių ne mažiau kaip 2,7 procentinio punkto turi sudaryti pažangieji biodegalai ir (ar) nebiologiniai skystieji ir dujiniai degalai iš atsinaujinančių energijos išteklių;
-
-
-
-
-9) nuo 2030 metų – ne mažiau kaip 16,8 procentinio punkto, iš kurių ne mažiau kaip 3,5 procentinio punkto turi sudaryti pažangieji biodegalai ir (ar) nebiologiniai skystieji ir dujiniai degalai iš atsinaujinančių energijos išteklių. 
-
-
-
-
-
-
-2. Degalų tiekėjai, siekdami šio straipsnio 1 dalyje numatyto įpareigojimo, turi užtikrinti, kad kiekviename vidaus rinkai patiekto benzino litre būtų ne mažiau kaip 6,6 procento biodegalų, o kiekviename vidaus rinkai patiekto dyzelino litre būtų ne mažiau kaip 6,2 procento biodegalų, skaičiuojant pagal bendrą degalų ir biodegalų mišinio energinę vertę. 
-
-
-
-
-3. Kiekvienais kalendoriniais metais biodujos arba nebiologiniai dujiniai degalai iš atsinaujinančių energijos išteklių turi sudaryti atitinkamą bendros transporto sektoriaus gamtinių dujų tiekėjo vidaus rinkai patiektų gamtinių dujų energinės vertės dalį:
-
+3. Kiekvienais kalendoriniais metais biodujos arba iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras turi sudaryti atitinkamą bendros transporto sektoriaus gamtinių dujų tiekėjo vidaus rinkai patiektų gamtinių dujų ir degalų iš atsinaujinančių energijos išteklių energinės vertės dalį:
 
 1) nuo 2025 metų – ne mažiau kaip 4,2 procentinio punkto;
 
-
-
-
 2) nuo 2026 metų – ne mažiau kaip 6,3 procentinio punkto;
-
-
-
 
 3) nuo 2027 metų – ne mažiau kaip 8,4 procentinio punkto;
 
-
-
-
 4) nuo 2028 metų – ne mažiau kaip 10,8 procentinio punkto;
-
-
-
 
 5) nuo 2029 metų – ne mažiau kaip 13,6 procentinio punkto;
 
-
-
-
 6) nuo 2030 metų – ne mažiau kaip 16,8 procentinio punkto.
 
+4. Degalų tiekėjai ir transporto sektoriaus gamtinių dujų tiekėjai privalo registruotis DAEI apskaitos vienetų sistemoje ir įgyvendinti šio straipsnio 1 ir 3 dalyse nustatytus įpareigojimus naudodami DAEI apskaitos vienetus, suteikiamus šio įstatymo 17 ir 18 straipsniuose nustatyta tvarka, atskirai vertinant kiekvieniems kalendoriniams metams nustatytus įpareigojimus.
 
+5. Šio straipsnio 3 dalyje nustatytas įpareigojimas gali būti įgyvendinamas tiekiant gamtinių dujų ir dujų, pagamintų iš atsinaujinančių energijos išteklių, mišinius arba panaudojant atsinaujinančių išteklių kilmės garantijas, kurios pateikiamos kartu su dujų iš atsinaujinančių energijos išteklių tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo charakteristikas patvirtinančiais dokumentais, kaip tai nustatyta Atsinaujinančių išteklių energetikos įstatyme.
 
+6. Lietuvos Respublikos teritorijoje esančiose degalinėse turi būti prekiaujama benzinu, kurio kiekviename litre yra ne mažiau kaip 6,6 procento biodegalų (leistinas 0,5 procentinio punkto biodegalų trūkumas), ir dyzelinu, kurio kiekviename litre yra ne mažiau kaip 6,2 procento biodegalų (leistinas 0,5 procentinio punkto biodegalų trūkumas), skaičiuojant pagal bendrą degalų ir biodegalų mišinio energinę vertę, išskyrus šio straipsnio 10 dalyje nurodytą išimtį.
 
+7. Mažmeninės ir didmeninės prekybos degalais vietose gali būti prekiaujama degalų ir biodegalų mišiniais, kuriuose biodegalų, įmaišytų į naftos produktus, energinė vertė viršija šio straipsnio 2 ir 6 dalyse nurodytas energines vertes ir kurie atitinka Lietuvos arba Europos standartuose nustatytus reikalavimus.
 
-
-4. Degalų tiekėjai ir transporto sektoriaus gamtinių dujų tiekėjai privalo registruotis DAEI apskaitos vienetų sistemoje ir įgyvendinti šio straipsnio 1 ir 3 dalyse nustatytus įpareigojimus naudodami DAEI apskaitos vienetus, suteikiamus šio įstatymo 17 ir 18 straipsniuose nustatyta tvarka, atskirai vertinant kiekvieniems kalendoriniams metams nustatytus įpareigojimus. 
-
-
-
-
-5. Šio straipsnio 3 dalyje nustatytas įpareigojimas gali būti įgyvendinamas tiekiant gamtinių dujų ir dujų, pagamintų iš atsinaujinančių energijos išteklių, mišinius arba panaudojant atsinaujinančių išteklių kilmės garantijas, kaip tai nustatyta Atsinaujinančių išteklių energetikos įstatyme. 
-
-
-
-
-6. Lietuvos Respublikos teritorijoje esančiose degalinėse turi būti prekiaujama benzinu, kurio kiekviename litre yra ne mažiau kaip 6,6 procento biodegalų, ir dyzelinu, kurio kiekviename litre yra ne mažiau kaip 6,2 procento biodegalų, skaičiuojant pagal bendrą degalų ir biodegalų mišinio energinę vertę.
-
-
-
-
-7. Mažmeninės ir didmeninės prekybos degalais vietose gali būti prekiaujama degalų ir biodegalų mišiniais, kuriuose biodegalų, įmaišytų į naftos produktus, energinė vertė viršija šio straipsnio 2 ir 6 dalyse nurodytas energines vertes ir kurie atitinka Lietuvos arba Europos standartuose nustatytus reikalavimus. 
-
-
-
-
-8. Šio straipsnio 1 ir 3 dalyse nustatyti įpareigojimai ir šio straipsnio 2 dalyje numatyti reikalavimai netaikomi orlaiviams ar jūriniam transportui patiektų degalų daliai. 
-
-
-
+8. Šio straipsnio 1 ir 3 dalyse nustatyti įpareigojimai netaikomi degalų tiekėjams, kurie degalus tiekia išskirtinai tik aviacijos sektoriui. Šio straipsnio 2 dalyje numatyti reikalavimai netaikomi benzino ir dyzelino atsargoms, kurias subjektas, nurodytas Energetikos įstatymo 13-1 straipsnyje, kaupia ar sumažinus kaupimo apimtį realizuoja Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatyme nustatytomis sąlygomis. Įgyvendinant šio straipsnio 1 ir 3 dalyse nustatytus įpareigojimus, turi būti atsižvelgiama į benzino ir dyzelino atsargas, patiektas į vidaus rinką po kaupimo laikotarpio pabaigos.
 
 9. Šio straipsnio 2 dalyje nustatytas reikalavimas netaikomas parduodant dyzeliną Lietuvos kariuomenės ir Šiaurės Atlanto sutarties organizacijos šalių bei partnerių ginkluotųjų pajėgų poreikiams.
 
+10. 98 markės benzino sudėtyje neprivalo būti biodegalų, tačiau, įgyvendinant šio straipsnio 1 dalyje nustatytus įpareigojimus, turi būti atsižvelgiama į 98 markės benziną, kuris buvo patiektas į vidaus rinką.
 
+11. Šio straipsnio 2 dalyje nustatyta minimali biodegalų dalis kiekviename litre yra įskaičiuojama į šio straipsnio 1 dalyje numatytus įpareigojimus.
 
+12. Šio įstatymo 17 ir 18 straipsniuose nustatyta tvarka sugeneruojant DAEI apskaitos vienetus, kurie naudojami įgyvendinant šio straipsnio 1 ir 3 dalyse nustatytus įpareigojimus, taikomi šie energinės vertės daugikliai:
 
-10. 98 markės benzino sudėtyje neprivalo būti biodegalų. 
+1) biodegalų ir pažangiųjų biodegalų energinė vertė laikoma 2 kartus didesne, palyginti su pradine energine verte, jeigu jie yra pagaminti iš žaliavų, nurodytų energetikos ministro tvirtinamame žaliavų sąraše, kaip tai nustatyta šio įstatymo 21 straipsnio 2 dalyje. Jeigu pažangieji biodegalai buvo patiekti į aviacijos arba jūrų transporto sektorius, jų energinė vertė laikoma 2,4 karto didesne, palyginti su pradine energine verte;
 
+2) iš atsinaujinančių energijos išteklių pagaminto nebiologinės kilmės kuro energinė vertė yra laikoma 2 kartus didesne, palyginti su pradine energine verte, jeigu jis atitinka šio straipsnio 14 dalyje nustatytas sąlygas. Jeigu iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras buvo patiektas į aviacijos arba jūrų transporto sektorius, jo energinė vertė laikoma 3 kartus didesne, palyginti su pradine energine verte;
 
+3) elektros energijos iš atsinaujinančių energijos išteklių energinė vertė laikoma 4 kartus didesne, palyginti su pradine energine verte, kai elektros energija iš atsinaujinančių energijos išteklių tiekiama kelių transportui, ir 1,5 karto didesne, palyginti su pradine energine verte, kai elektros energijos iš atsinaujinančių energijos išteklių tiekiama geležinkelių transportui.
 
+13. Įgyvendinant šio straipsnio 1 dalyje nustatytus įpareigojimus, šio straipsnio 12 dalyje nustatyti energinės vertės daugikliai skystiesiems biodegalams taikomi atskirai biodegalams, patiekiamiems kartu su benzinu, ir atskirai biodegalams, patiekiamiems kartu su dyzelinu, ta dalimi, kuria per metus kartu su benzinu patiektų biodegalų energinė vertė ir kartu su dyzelinu patiektų biodegalų energinė vertė viršija procentinę dalį, nustatytą vadovaujantis šio įstatymo 20 straipsnio 1 dalimi.
 
-11. Šio straipsnio 2 dalyje nustatyta minimali biodegalų dalis kiekviename litre yra įskaičiuojama į šio straipsnio 1 dalyje numatytus įpareigojimus. 
+14. Iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras ir kuras iš perdirbtų neatsinaujinančių išteklių atliekų įskaitomi į šio straipsnio 1 ir 3 dalyse nustatytų įpareigojimų įgyvendinimą, jeigu išmetamųjų šiltnamio efektą sukeliančių dujų, susidarančių dėl iš atsinaujinančių energijos išteklių pagaminto nebiologinės kilmės kuro ir degalų iš perdirbtų neatsinaujinančių išteklių atliekų naudojimo, kiekis sumažinamas ne mažiau kaip 70 procentų ir jeigu iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras atitinka taisykles, nustatytas 2023 m. vasario 10 d. Komisijos deleguotame reglamente (ES) 2023/1184, kuriuo Europos Parlamento ir Tarybos direktyva (ES) 2018/2001 papildoma Sąjungos metodika, kurioje išdėstytos išsamios nebiologinės kilmės kuro gamybos iš atsinaujinančiųjų išteklių taisyklės. Išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimas turi būti apskaičiuojamas vadovaujantis 2023 m. vasario 10 d. Komisijos deleguotojo reglamento (ES) 2023/1185, kuriuo nustatant minimalią išmetamo šiltnamio efektą sukeliančių dujų kiekio sumažėjimo dėl perdirbtos anglies kuro naudojimo ribą ir pateikiant išmetamo šiltnamio efektą sukeliančių dujų kiekio sumažėjimo dėl iš atsinaujinančiųjų išteklių pagaminto nebiologinės kilmės skystojo ir dujinio transporto kuro ir perdirbtos anglies kuro naudojimo vertinimo metodiką papildoma Europos Parlamento ir Tarybos direktyva (ES) 2018/2001, priede pateikta metodika.
 
+15. Iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras, atitinkantis šio straipsnio 14 dalyje nustatytus reikalavimus, energetikos ministro nustatyta tvarka gali būti įskaičiuojamas į šio straipsnio 1 dalyje nustatytų įpareigojimų įgyvendinimą, kai yra naudojamas kaip tarpinis produktas gaminant transporto degalus arba biodegalus, jeigu į sumažėjusį išmetamo šiltnamio efektą sukeliančių dujų kiekį prieš tai nebuvo atsižvelgta apskaičiuojant išmetamo šiltnamio efektą sukeliančių dujų kiekio sumažėjimą dėl biodegalų naudojimo.
 
-
-
-12. Biodegalų ir pažangiųjų biodegalų, taip pat nebiologinių skystųjų ir (ar) dujinių degalų iš atsinaujinančių energijos išteklių energinė vertė, įgyvendinant šio straipsnio 1 ir 3 dalyse nustatytus įpareigojimus, gali būti laikoma du kartus didesne, palyginti su jų pradine energine verte, jeigu jie yra pagaminti iš žaliavų, nurodytų energetikos ministro patvirtintame žaliavų sąraše, kaip tai nustatyta šio įstatymo 21 straipsnyje.
-
-
-
-
-13. Įgyvendinant šio straipsnio 1 ir 3 dalyse nustatytus įpareigojimus, skystųjų biodegalų energinė vertė šio įstatymo 21 straipsnyje nustatyta tvarka gali būti pripažinta du kartus didesne, palyginti su jų pradine energine verte, ta dalimi, kuria per metus kartu su benzinu patiektų biodegalų energinė vertė viršija šio įstatymo 20 straipsnio 1 dalies 2 punkte nustatytą dalį, ir ta dalimi, kuria per metus kartu su dyzelinu patiektų biodegalų energinė vertė viršija šio įstatymo 20 straipsnio 1 dalies 2 punkte nustatytą dalį.
- 
-
-
-
-
-
+16. Apskaičiuojant, kokią procentinę dalį kiekvieno degalų tiekėjo transporto sektoriui patiektų degalų ir degalų iš atsinaujinančių energijos išteklių energinės vertės dalyje pagal šio straipsnio 1 dalyje nustatytus tikslus turi sudaryti pažangieji biodegalai ir iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras, į apskaičiavimo formulės vardiklį nėra įtraukiamas degalų tiekėjo transporto sektoriui patiektas iš atsinaujinančių energijos išteklių pagamintas nebiologinės kilmės kuras.
 
 17 straipsnis. DAEI apskaitos vienetai
+1. DAEI apskaitos vienetų sistemos dalyviams už kiekvieną kalendoriniais metais vidaus rinkai patiektą degalų iš atsinaujinančių energijos išteklių megadžaulį (MJ) šio įstatymo 18 straipsnyje nustatyta tvarka skiriami DAEI apskaitos vienetai. DAEI apskaitos vienetai Tarybos sprendimu perkeliami į kitus kalendorinius metus, einančius po einamųjų metų, ir panaudojami įpareigojimams įgyvendinti laikantis šių sąlygų:
+1) DAEI apskaitos vienetus gali perkelti degalų tiekėjas ar transporto sektoriaus gamtinių dujų tiekėjas, įgyvendinęs einamųjų kalendorinių metų įpareigojimus, nustatytus šio įstatymo 16 straipsnio 1 ar 3 dalyje, arba kiti DAEI apskaitos vienetų sistemos dalyviai;
+2) perkeliamų DAEI apskaitos vienetų skaičius negali viršyti daugiau kaip 10 procentų DAEI apskaitos vienetų sistemos dalyvio į vidaus rinką patiektų degalų iš atsinaujinančių energijos išteklių kiekio;
+3) tas pats DAEI apskaitos vienetas gali būti perkeltas ne daugiau kaip vieną kartą ir panaudojamas arba perleidžiamas pirmais kalendoriniais metais, einančiais po einamųjų metų;
+4) DAEI apskaitos vienetai perkeliami kartu su jų energine verte ir su visais kitais DAEI apskaitos vienetams suteiktais požymiais;
+5) DAEI apskaitos vienetai negali būti perkeliami iš 2029 kalendorinių metų į 2030 kalendorinius metus.
+2. DAEI apskaitos vienetai, vadovaujantis DAEI apskaitos vienetų sistemos administravimo tvarkos aprašu, gali būti perleidžiami laikantis šių sąlygų:
+1) degalų tiekėjams ir transporto sektoriaus gamtinių dujų tiekėjams, turintiems pareigą įgyvendinti šio įstatymo 16 straipsnio 1 ar 3 dalyje nustatytus įpareigojimus;
+2) ne vėliau kaip iki kitų kalendorinių metų kovo 31 dienos, išskyrus DAEI apskaitos vienetus, perkeliamus šio straipsnio 1 dalyje nustatyta tvarka;
+3) pagal dvišales sutartis, sudarant DAEI apskaitos vienetų perleidimo sandorį, registruojamą DAEI apskaitos vienetų sistemoje, nurodant DAEI apskaitos vienetų sistemos dalyvius, perleidžiamų DAEI apskaitos vienetų kiekį, šio įstatymo 18 straipsnio 4 dalyje nurodytą informaciją;
+4) kartu su DAEI apskaitos vienetu perleidžiant ir atitinkamą energinės vertės dalį.
+3. DAEI apskaitos vienetas gali būti perleidžiamas ne daugiau kaip 2 kartus.
+4. Taryba, atsižvelgdama į degalų tiekėjų ar transporto sektoriaus gamtinių dujų tiekėjų DAEI apskaitos vienetų sistemoje pateiktas metines atestuoto auditoriaus arba audito įmonės audito ataskaitas, kaip nurodyta šio įstatymo 18 straipsnio 1 dalyje ir 2 dalies 4 punkte, ne vėliau kaip per 90 kalendorinių dienų nuo tinkamos audito ataskaitos pateikimo DAEI apskaitos vienetų sistemoje ir visos reikiamos informacijos ar duomenų gavimo Taryboje dienos priima vieną iš šių sprendimų:
+1) įskaityti DAEI apskaitos vienetus (ar jų dalį) į šio įstatymo 16 straipsnio 1 ir 3 dalyse nustatytų metinių įpareigojimų įvykdymą;
+2) panaikinti DAEI apskaitos vienetus tokia apimtimi, kuria dėl šių vienetų metinėje atestuoto auditoriaus arba audito įmonės audito ataskaitoje nustatyta trūkumų;
+3) atsižvelgiant į degalų tiekėjų ir (ar) transporto sektoriaus gamtinių dujų tiekėjų dokumentais pagrįstus argumentus dėl šio įstatymo 16 straipsnio 1 ir 3 dalyse nustatytų įpareigojimų įgyvendinimo ne visa apimtimi, kai šio įstatymo 16 straipsnio 1 ir 3 dalyse nustatytų įpareigojimų neįgyvendinimo dalis neviršija 5 procentų, įpareigoti degalų tiekėją ir (ar) transporto sektoriaus gamtinių dujų tiekėją trūkstamą įpareigojimo dalį kompensuoti ateinančiais kalendoriniais metais, ją pridedant prie kitų kalendorinių metų įpareigojimų, nustatytų šio įstatymo 16 straipsnio 1 ir 3 dalyse, dydžio.
+5. Tarybai per šio straipsnio 4 dalyje nustatytą laikotarpį nepriėmus vieno iš šio straipsnio 4 dalyje nustatytų sprendimų, laikoma, kad DAEI apskaitos vienetai yra įskaitomi į šio įstatymo 16 straipsnio 1 ir 3 dalyse nustatytų metinių įpareigojimų įvykdymą.
+6. Priėmusi vieną iš šio straipsnio 4 dalyje nurodytų sprendimų, Taryba ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos apie tai informuoja degalų tiekėją ar transporto sektoriaus gamtinių dujų tiekėją ir DAEI apskaitos vienetų sistemos valdytoją.
+7. DAEI apskaitos vienetai DAEI apskaitos vienetų sistemoje panaikinami vadovaujantis DAEI apskaitos vienetų sistemos administravimo tvarkos aprašu.
+8. Tarybos sprendimai gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+9. Už audito metu nustatytus trūkumus ir dėl šių trūkumų DAEI apskaitos vienetų panaikinimo pasekmes pagal šio įstatymo 32 straipsnio 1 dalies 1 punktą atsako DAEI apskaitos vienetų sistemos dalyviai, perleidę DAEI apskaitos vienetus arba patiekę degalus iš atsinaujinančių energijos išteklių, už kuriuos pirmą kartą buvo sugeneruoti DAEI apskaitos vienetai.
+10. DAEI apskaitos vienetai viešai prieinamų įkrovimo prieigų operatoriams, keleivių ir krovinių vežėjams elektrinėmis transporto priemonėmis ir geležinkelio įmonėms (vežėjams) suteikiami už elektros energiją iš atsinaujinančių energijos išteklių, patiektą į elektrines transporto priemones, jeigu jie atitinka dalyvavimo DAEI apskaitos vienetų sistemoje ir elektros energijos, patiektos į elektrines transporto priemones, kiekio apskaičiavimo reikalavimus, nustatytus DAEI apskaitos vienetų sistemos administravimo tvarkos apraše. Viešai prieinamų ir privačių įkrovimo prieigų operatoriams, keleivių ir krovinių vežėjams elektrinėmis transporto priemonėmis DAEI apskaitos vienetai suteikiami tik už elektros energiją iš atsinaujinančių energijos išteklių, patiektą į elektrines transporto priemones per jiems priklausančias ir (ar) kitais teisėtais pagrindais valdomas elektromobilių įkrovimo prieigas. DAEI apskaitos vienetai energetikos ministro nustatyta tvarka taip pat gali būti suteikiami už elektros energiją iš atsinaujinančių energijos išteklių, patiektą į elektrines transporto priemones per privačias (įskaitant namų ūkiuose naudojamas) elektromobilių įkrovimo prieigas. Elektros energijos iš atsinaujinančių energijos išteklių kiekis, patiektas į elektrines transporto priemones, nustatomas vadovaujantis energetikos ministro nustatyta tvarka, atsižvelgiant į Lietuvoje suvartotos elektros energijos iš atsinaujinančių išteklių vidutinę procentinę dalį, nustatytą per pastaruosius dvejus metus iki einamųjų metų.
 
-
-1. DAEI apskaitos vienetų sistemos dalyviams už kiekvieną kalendoriniais metais vidaus rinkai patiektą degalų iš atsinaujinančių energijos išteklių megadžaulį (MJ) šio įstatymo 18 straipsnyje nustatyta tvarka skiriami DAEI apskaitos vienetai. DAEI apskaitos vienetai į kitus kalendorinius metus neperkeliami.
-
-
-
-
-2. DAEI apskaitos vienetai, vadovaujantis DAEI apskaitos vienetų sistemos administravimo tvarkos aprašu, gali būti perleidžiami laikantis šių sąlygų: 
-
-
-1) degalų tiekėjams ir transporto sektoriaus gamtinių dujų tiekėjams, turintiems pareigą įgyvendinti šio įstatymo 16 straipsnio 1 ir 3 dalyse nustatytus įpareigojimus;
-
-
-
-
-2) ne vėliau kaip iki kitų kalendorinių metų kovo 1 dienos; 
-
-
-
-
-3) pagal dvišales sutartis, sudarant DAEI apskaitos vienetų perleidimo sandorį, registruojamą DAEI apskaitos vienetų sistemoje, nurodant DAEI apskaitos vienetų sistemos dalyvius, perleidžiamų DAEI apskaitos vienetų kiekį, šio įstatymo 18 straipsnio 4 dalyje nurodytą informaciją. 
-
-
-
-
-
-
-3. DAEI apskaitos vienetas gali būti perleidžiamas ne daugiau kaip du kartus.
-
-
-
-
-4. Taryba, atsižvelgdama į DAEI apskaitos vienetų sistemos dalyvių DAEI apskaitos vienetų sistemoje pateiktas metines atestuoto auditoriaus arba audito įmonės audito ataskaitas, kaip nurodyta šio įstatymo 18 straipsnio 1 dalyje ir 2 dalies 4 punkte, ne vėliau kaip per 30 kalendorinių dienų nuo tinkamos audito ataskaitos pateikimo DAEI apskaitos vienetų sistemoje ir visos reikiamos informacijos ar duomenų gavimo Taryboje dienos, priima vieną iš šių sprendimų:
-
-
-1) įskaityti DAEI apskaitos vienetus (ar jų dalį) į šio įstatymo 16 straipsnio 1 ir 3 dalyse nustatytų metinių įpareigojimų įvykdymą; 
-
-
-
-
-2) panaikinti DAEI apskaitos vienetus tokia apimtimi, kuria dėl šių vienetų metinėje atestuoto auditoriaus arba audito įmonės audito ataskaitoje nustatyta trūkumų.
-
-
-
-
-
-
-5. Tarybai per 30 kalendorinių dienų nuo tinkamos audito ataskaitos pateikimo DAEI apskaitos vienetų sistemoje ir visos reikiamos informacijos ar duomenų gavimo Taryboje dienos nepriėmus vieno iš šio straipsnio 4 dalyje nustatytų sprendimų, laikoma, kad DAEI apskaitos vienetai yra įskaitomi į šio įstatymo 16 straipsnio 1 ir 3 dalyse nustatytų metinių įpareigojimų įvykdymą. 
-
-
-
-
-6. Priėmus vieną iš šio straipsnio 4 dalyje nurodytų sprendimų, Taryba ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos informuoja DAEI apskaitos vienetų sistemos dalyvį ir DAEI apskaitos vienetų sistemos valdytoją. 
-
-
-
-
-7. DAEI apskaitos vienetai DAEI apskaitos vienetų sistemoje panaikinami vadovaujantis DAEI apskaitos vienetų sistemos administravimo tvarkos aprašu. 
-
-
-
-
-8. Tarybos sprendimai gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. 
-
-
-
-
-9. Už audito metu nustatytus trūkumus ir dėl šių trūkumų DAEI apskaitos vienetų panaikinimo pasekmes pagal šio įstatymo 32 straipsnio 1 dalies 1 punktą atsako DAEI apskaitos vienetų sistemos dalyviai, perleidę DAEI apskaitos vienetus arba patiekę degalus iš atsinaujinančių energijos išteklių, už kuriuos pirmą kartą buvo sugeneruoti DAEI apskaitos vienetai. 
-
-
-
-
-10. DAEI apskaitos vienetai viešai prieinamų įkrovimo prieigų operatoriams, keleivių ir krovinių vežėjams elektrinėmis transporto priemonėmis ir geležinkelio įmonėms (vežėjams) suteikiami už elektros energiją iš atsinaujinančių energijos išteklių, patiektą į elektrines transporto priemones, jeigu jie atitinka dalyvavimo DAEI apskaitos vienetų sistemoje ir elektros energijos, patiektos į elektrines transporto priemones, kiekio apskaičiavimo reikalavimus, nustatytus DAEI apskaitos vienetų sistemos administravimo tvarkos apraše. Viešai prieinamų įkrovimo prieigų operatoriams, keleivių ir krovinių vežėjams elektrinėmis transporto priemonėmis DAEI apskaitos vienetai suteikiami tik už elektros energiją iš atsinaujinančių energijos išteklių, patiektą į elektrines transporto priemones per jiems priklausančias įkrovimo prieigas.
 Papildyta straipsnio dalimi:
 Nr. XV-123, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04417
- 
-
-
-
-
-
-
 18 straipsnis. DAEI apskaitos vienetų sistema
 
-
-1. Siekiant užtikrinti skaidrų ir patikimą šio įstatymo 16 straipsnio 1, 2 ir 3 dalyse nustatytų įpareigojimų ir reikalavimų vykdymą, informacija apie DAEI apskaitos vienetų sistemos dalyvius, DAEI apskaitos vienetų skyrimą, perleidimą ir panaikinimą, taip pat metinės atestuoto auditoriaus arba audito įmonės audito ataskaitos apie kalendoriniais metais vidaus rinkai patiektų degalų iš atsinaujinančių energijos išteklių kiekius, kurie gali būti įtraukti į šio įstatymo 16 straipsnio 1 ir 3 dalyse nustatytų įpareigojimų įvykdymą, teikiama, kaupiama ir tvarkoma DAEI apskaitos vienetų sistemoje, vadovaujantis DAEI apskaitos vienetų sistemos administravimo tvarkos aprašu. 
-
-
-
+1. Siekiant užtikrinti skaidrų ir patikimą šio įstatymo 16 straipsnio 1, 2 ir 3 dalyse nustatytų įpareigojimų ir reikalavimų vykdymą, informacija apie DAEI apskaitos vienetų sistemos dalyvius, DAEI apskaitos vienetų skyrimą, perleidimą ir panaikinimą, taip pat metinės atestuoto auditoriaus arba audito įmonės audito ataskaitos apie kalendoriniais metais vidaus rinkai patiektų degalų iš atsinaujinančių energijos išteklių kiekius, kurie gali būti įtraukti į šio įstatymo 16 straipsnio 1 ir 3 dalyse nustatytų įpareigojimų įvykdymą, teikiama, kaupiama ir tvarkoma DAEI apskaitos vienetų sistemoje, vadovaujantis DAEI apskaitos vienetų sistemos administravimo tvarkos aprašu.
 
 2. DAEI apskaitos vienetų sistemos dalyviai, vadovaudamiesi DAEI apskaitos vienetų sistemos administravimo tvarkos aprašu, privalo:
 
+1) registruotis DAEI apskaitos vienetų sistemoje, kaip numatyta šio įstatymo 16 straipsnio 4 dalyje arba kai subjektai siekia įgyti DAEI apskaitos vienetus už į vidaus rinką patiektus degalus iš atsinaujinančių energijos išteklių;
 
-1) registruotis DAEI apskaitos vienetų sistemoje, kaip numatyta šio įstatymo 16 straipsnio 4 dalyje arba kai subjektai siekia įgyti DAEI apskaitos vienetus už į vidaus rinką patiektus degalus iš atsinaujinančių energijos išteklių; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
- 
-
-
-
-
-2) mokėti šio straipsnio 10 dalyje nustatytas įmokas;
-
-
-
+2) mokėti šio straipsnio 9 dalyje nustatytas įmokas;
 
 3) teikti informaciją apie vidaus rinkai patiektus benzino, dyzelino, gamtinių dujų ir degalų iš atsinaujinančių energijos išteklių kiekius;
 
+4) ne vėliau kaip iki einamųjų metų gegužės 31 dienos pateikti atestuoto auditoriaus arba audito įmonės audito ataskaitą apie praėjusiais kalendoriniais metais vidaus rinkoje patiektus benzino, dyzelino, gamtinių dujų kiekius ir degalų iš atsinaujinančių energijos išteklių kiekius, už kuriuos šio įstatymo nustatyta tvarka galėjo būti suteikti DAEI apskaitos vienetai (taikoma tik degalų tiekėjams ir transporto sektoriaus gamtinių dujų tiekėjams). Tarybos nustatyta tvarka terminas gali būti pratęstas ne daugiau kaip 30 kalendorinių dienų atsižvelgiant į dokumentais pagrįstus argumentus ir aplinkybes. Iki gegužės 31 dienos nepateikus audito ataskaitos ir Tarybai nepateikus prašymo dėl audito ataskaitos pateikimo termino pratęsimo, Taryba skiria sankciją pagal šio įstatymo 32 straipsnio 1 dalies 5 punktą ir kartu įpareigoja degalų tiekėją arba transporto sektoriaus gamtinių dujų tiekėją per 30 kalendorinių dienų pateikti audito ataskaitą. Jeigu degalų tiekėjas arba transporto sektoriaus gamtinių dujų tiekėjas nepateikia audito ataskaitos per Tarybos nustatytą terminą arba pagal degalų tiekėjo ir transporto sektoriaus gamtinių dujų tiekėjo prašymu Tarybos pratęstą terminą, už praėjusius kalendorinius metus sugeneruoti DAEI apskaitos vienetai yra panaikinami ir laikoma, kad degalų tiekėjas ir (ar) transporto sektoriaus gamtinių dujų tiekėjas neįvykdė šio įstatymo 16 straipsnio 1 ar 3 dalyje numatytų įpareigojimų ir už šį pažeidimą Taryba skiria sankciją pagal šio įstatymo 32 straipsnio 1 dalies 1 punktą;
 
+5) per 14 kalendorinių dienų nuo degalų iš atsinaujinančių energijos išteklių išvežimo už Lietuvos Respublikos teritorijos ribų dienos informuoti DAEI apskaitos vienetų sistemos administratorių apie degalų iš atsinaujinančių energijos išteklių, už kuriuos buvo skirti DAEI apskaitos vienetai, išvežimą už Lietuvos Respublikos teritorijos ribų.
 
-
-4) ne vėliau kaip iki einamųjų metų balandžio 30 dienos pateikti atestuoto auditoriaus arba audito įmonės audito ataskaitą apie praėjusiais kalendoriniais metais vidaus rinkoje patiektus benzino, dyzelino, gamtinių dujų kiekius ir degalų iš atsinaujinančių energijos išteklių kiekius, už kuriuos šio įstatymo nustatyta tvarka galėjo būti suteikti DAEI apskaitos vienetai;
-
-
-
-
-5) tiekdami arba parduodami benziną ar dyzeliną, kuriame biodegalų koncentracija viršija 10 procentų, skaičiuojant pagal bendrą degalų ir biodegalų mišinio energinę vertę, DAEI apskaitos vienetų sistemoje nurodyti subjektus, kuriems degalų ir biodegalų mišinys buvo parduotas;
-
-
-
-
-6) per 14 kalendorinių dienų nuo degalų iš atsinaujinančių energijos išteklių išvežimo už Lietuvos Respublikos teritorijos ribų dienos informuoti DAEI apskaitos vienetų sistemos administratorių apie degalų iš atsinaujinančių energijos išteklių, už kuriuos buvo skirti DAEI apskaitos vienetai, išvežimą už Lietuvos Respublikos teritorijos ribų. 
-
-
-
-
-
-
-21. DAEI apskaitos vienetai skiriami tik Viešai prieinamų įkrovimo prieigų informacinėje sistemoje registruotiems viešai prieinamų įkrovimo prieigų operatoriams. 
-Papildyta straipsnio dalimi:
-Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
-Straipsnio dalies pakeitimai:
-Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
- 
-
-
-
-
-3. Subjektams, kurie verčiasi didmenine prekyba nefasuotais naftos produktais, atsiranda prievolė registruotis DAEI apskaitos vienetų sistemoje ir teikti informaciją pagal šio straipsnio 2 dalies 5 punktą, kai subjektai parduoda benziną ir (ar) dyzeliną, už kuriuos jau yra sumokėtas akcizas ir kuriuose biodegalų koncentracija viršija 10 procentų, skaičiuojant pagal bendrą degalų ir biodegalų mišinio energinę vertę. 
-
-
-
+3. DAEI apskaitos vienetai skiriami tik Viešai prieinamų įkrovimo prieigų informacinėje sistemoje registruotiems viešai prieinamų įkrovimo prieigų operatoriams.
 
 4. DAEI apskaitos vienetai sugeneruojami DAEI apskaitos vienetų sistemoje deklaruojant vidaus rinkai patiektus degalus. Deklaruojant vidaus rinkai patiektus degalus, turi būti nurodoma ši informacija:
 
-
-1) dokumento, kuriuo patvirtinamas akcizų mokėjimo už benziną ar dyzeliną laikino atidėjimo režimo panaikinimas, numeris, jeigu toks dokumentas pagal teisės aktų reikalavimus turi būti išrašomas, arba nurodoma degalų pardavimo vidaus rinkai data, jeigu už parduodamus degalus neatsiranda prievolė mokėti akcizų; 
-
-
-
+1) dokumento, kuriuo patvirtinamas akcizų mokėjimo už benziną ar dyzeliną laikino atidėjimo režimo panaikinimas, numeris, jeigu toks dokumentas pagal teisės aktų reikalavimus turi būti išrašomas, arba nurodoma degalų pardavimo vidaus rinkai data, jeigu už parduodamus degalus neatsiranda prievolė mokėti akcizų;
 
 2) pridėtinės vertės mokesčio sąskaitos faktūros, kuria buvo įformintas atitinkamų degalų pardavimas, numeris;
 
+3) vidaus rinkai patiektų degalų ir (ar) degalų iš atsinaujinančių energijos išteklių kiekis, išreikštas energine verte, nustatyta energetikos ministro tvirtinamoje metodikoje;
 
+4) vidaus rinkai patiektų degalų ir (ar) degalų iš atsinaujinančių energijos išteklių rūšis, įvardijant jų gamybai panaudotas žaliavas ir jų kilmės šalį;
 
+5) per 60 kalendorinių dienų nuo degalų iš atsinaujinančių energijos išteklių patiekimo vidaus rinkai dienos turi būti pateikiamas degalų iš atsinaujinančių energijos išteklių siuntos tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo charakteristikas patvirtinančio dokumento numeris kartu su kita dokumente pateikiama informacija, įskaitant bendrą degalų ir energijos būvio ciklo metu išmetamų šiltnamio efektą sukeliančių dujų intensyvumą, išreikštą gramais anglies dioksido ekvivalentu megadžauliui (gCO2ekv./MJ);
 
-3) vidaus rinkai patiektų degalų ir (ar) biodegalų kiekis, išreikštas energine verte, nustatyta energetikos ministro tvirtinamoje metodikoje;
+6) transporto sektoriaus gamtinių dujų tiekėjai, siekdami, kad jų tiekiama energija būtų laikoma atsinaujinančių išteklių energija, turi panaudoti atsinaujinančių išteklių energijos kilmės garantijas, įrodančias degalų iš atsinaujinančių energijos išteklių patiekimą galutiniam vartotojui;
 
+7) teikiant informaciją apie iš atsinaujinančių energijos išteklių pagamintą nebiologinės kilmės kurą ir kurą iš perdirbtų neatsinaujinančių išteklių atliekų, turi būti pateikiami ir dokumentai, įrodantys šio kuro atitiktį 16 straipsnio 14 dalyje nustatytiems reikalavimams;
 
+8) kita DAEI apskaitos vienetų sistemos administravimo tvarkos apraše nurodyta informacija.
 
+5. Sudarant DAEI apskaitos vienetų perleidimo sandorį, registruojamą DAEI apskaitos vienetų sistemoje, nurodomi DAEI apskaitos vienetus identifikuojantys duomenys ir kita DAEI apskaitos vienetų sistemos administravimo tvarkos apraše nurodyta informacija.
 
-4) vidaus rinkai patiektų degalų ir (ar) biodegalų rūšis, įvardijant biodegalų gamybai panaudotas žaliavas ir jų kilmės šalį; 
+6. DAEI apskaitos vienetų sistemos valdytoja yra energetikos ministro įgaliota įstaiga ar įmonė.
 
+7. DAEI apskaitos vienetų sistemos valdytojas turi teisę pagal duomenų teikimo sutartis gauti informaciją iš Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos duomenų bazių, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos Integruotoje muitinės informacinėje sistemoje registruotus duomenis, susijusius su degalų vežimu, tiekimu vidaus rinkai ir prievolės mokėti akcizus atsiradimu, duomenis iš elektros energijos skirstomųjų tinklų operatorių apie elektros energiją, patiektą į transporto priemones per viešai prieinamas įkrovimo prieigas, duomenis apie išduotas atsinaujinančių energijos išteklių kilmės garantijas iš Vyriausybės ar jos įgaliotos institucijos paskirtų subjektų, atsakingų už kilmės garantijų išdavimą, perdavimą ir jų galiojimo panaikinimą bei kilmės garantijų naudojimo priežiūrą ir kontrolę.
 
+8. DAEI apskaitos vienetų sistemoje esanti informacija nėra vieša. DAEI apskaitos vienetų sistemoje esanti informacija gali būti neatlygintinai teikiama šio įstatymo 19 straipsnyje nustatytoms priežiūrą vykdančioms institucijoms, Energetikos ministerijai ir kitoms Lietuvos Respublikos ar Europos Sąjungos institucijoms, kai ši informacija yra reikalinga įstatymuose ar kituose teisės aktuose nustatytoms institucijų pareigoms vykdyti, ar DAEI apskaitos vienetų sistemos dalyviui, kai jam teikiama informacija yra tiesiogiai susijusi su jo paties vykdoma veikla.
 
-
-5) per 30 kalendorinių dienų nuo degalų patiekimo vidaus rinkai dienos turi būti pateikiamas biodegalų siuntos tvarumo charakteristikas patvirtinančio dokumento numeris kartu su informacija apie bendrą degalų ir energijos būvio ciklo metu išmetamų šiltnamio efektą sukeliančių dujų intensyvumą, išreikštą gramais anglies dioksido ekvivalentu megadžauliui (gCO2ekv./MJ);
-
-
-
-
-6) transporto sektoriaus gamtinių dujų tiekėjai, viešai prieinamų įkrovimo prieigų operatoriai, keleivių ir krovinių vežėjai elektrinėmis transporto priemonėmis ir geležinkelių įmonės (vežėjai), siekdami, kad jų tiekiama energija būtų laikoma atsinaujinančių išteklių energija, turi panaudoti atsinaujinančių išteklių energijos kilmės garantijas, įrodančias degalų iš atsinaujinančių energijos išteklių patiekimą galutiniam vartotojui;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
-Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
-Nr. XV-123, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04417
- 
-
-
-
-
-7) kita DAEI apskaitos vienetų sistemos administravimo tvarkos apraše nurodyta informacija.
-
-
-
-
-
-
-5. Sudarant DAEI apskaitos vienetų perleidimo sandorį, registruojamą DAEI apskaitos vienetų sistemoje, nurodomas DAEI apskaitos vienetų registracijos numeris ir kita DAEI apskaitos vienetų sistemos administravimo tvarkos apraše nurodyta informacija.
-
-
-
-
-6. DAEI apskaitos vienetų sistemos valdytoja yra Energetikos ministerijos įgaliota įstaiga ar įmonė. 
-Straipsnio dalies pakeitimai:
-Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
- 
-
-
-
-
-7. DAEI apskaitos vienetų sistemos valdytojas turi teisę pagal duomenų teikimo sutartis gauti informaciją iš Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos duomenų bazių, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos Integruotoje muitinės informacinėje sistemoje registruotus duomenis, susijusius su degalų vežimu, tiekimu vidaus rinkai ir prievolės mokėti akcizus atsiradimu, ir duomenis iš elektros energijos skirstomųjų tinklų operatorių apie elektros energiją, patiektą į transporto priemones per viešai prieinamas įkrovimo prieigas.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
-Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
- 
-
-
-
-
-8. DAEI apskaitos vienetų sistemoje esanti informacija nėra vieša. DAEI apskaitos vienetų sistemoje esanti informacija gali būti neatlygintinai teikiama šio įstatymo 19 straipsnyje nustatytoms priežiūrą vykdančioms institucijoms, Energetikos ministerijai ir kitoms institucijoms, kai ši informacija yra reikalinga įstatymuose ar kituose teisės aktuose nustatytoms institucijų pareigoms vykdyti ar DAEI apskaitos vienetų sistemos dalyviui, kai jam teikiama informacija yra tiesiogiai susijusi su jo paties vykdoma veikla. 
-
-
-
-
-9. DAEI apskaitos vienetų sistemos valdytojas pagal šio straipsnio 2, 4, 5 ir 7 dalis kaupdamas ir tvarkydamas informaciją:
-
+9. DAEI apskaitos vienetų sistemos valdytojas pagal šio straipsnio 2, 3, 4, 5 ir 6 dalis kaupdamas ir tvarkydamas informaciją:
 
 1) užtikrina prieigą prie DAEI apskaitos vienetų sistemos šio įstatymo 19 straipsnyje nustatytoms priežiūrą vykdančioms institucijoms;
 
+2) DAEI apskaitos vienetų sistemos administravimo tvarkos apraše nustatyta tvarka skelbia apibendrintus duomenis apie Lietuvos Respublikoje patiektus degalų ir degalų iš atsinaujinančių energijos išteklių kiekius, nenurodant atskirų DAEI apskaitos vienetų sistemos dalyvių, ir duomenis apie kiekvieno degalų tiekėjo per praeitus kalendorinius metus į vidaus rinką patiektiems biodegalams pagaminti panaudotas žaliavas ir jų kilmės šalį, nenurodant konkrečių žaliavų ir iš jų pagamintų biodegalų kiekių;
 
+3) Lietuvos Respublikos teisės aktų, reglamentuojančių duomenų saugą, nustatyta tvarka užtikrina DAEI apskaitos vienetų sistemoje esančios informacijos ir duomenų saugą ir konfidencialumą.
 
+10. DAEI apskaitos vienetų sistemos sukūrimas ir administravimas yra finansuojamas DAEI apskaitos vienetų sistemos dalyvių įmokomis, kurios surenkamos ir administruojamos energetikos ministro nustatyta tvarka ir sąlygomis. DAEI apskaitos vienetų sistemos valdytojas DAEI apskaitos vienetų sistemos dalyvių įmokas nustato suderinęs su Taryba. Nustatant įmokas, atsižvelgiama į investicijas, patirtas tobulinant DAEI apskaitos vienetų sistemos funkcionalumą, įskaitant protingumo kriterijus atitinkančią investicijų grąžą, ir į DAEI apskaitos vienetų sistemos administravimo sąnaudas, kurios apskaičiuojamos atsižvelgiant į DAEI apskaitos vienetų sistemos dalyvių veiklos mastą, vertinant DAEI apskaitos vienetų sistemos dalyvių patiektus degalų kiekius, už kuriuos buvo sugeneruotas atitinkamas DAEI apskaitos vienetų skaičius. DAEI apskaitos vienetai, padauginti iš šio įstatymo 16 straipsnio 12 dalyje nustatytų daugiklių, nustatant DAEI apskaitos vienetų sistemos dalyvių įmokas nėra laikomi papildomai sugeneruotais DAEI apskaitos vienetais.
 
-2) DAEI apskaitos vienetų sistemos administravimo tvarkos apraše nustatyta tvarka skelbia apibendrintus duomenis apie Lietuvos Respublikoje patiektus degalų ir degalų iš atsinaujinančių energijos išteklių kiekius, nenurodant atskirų DAEI apskaitos vienetų sistemos dalyvių;
-
-
-
-
-3) Lietuvos Respublikos teisės aktų, reglamentuojančių duomenų saugą, nustatyta tvarka, užtikrina DAEI apskaitos vienetų sistemoje esančios informacijos ir duomenų saugą ir konfidencialumą. 
-
-
-
-
-
-
-10. DAEI apskaitos vienetų sistemos sukūrimas ir administravimas yra finansuojamas DAEI apskaitos vienetų sistemos dalyvių įmokomis, kurios surenkamos ir administruojamos energetikos ministro nustatyta tvarka ir sąlygomis. DAEI apskaitos vienetų sistemos valdytojas DAEI apskaitos vienetų sistemos dalyvių įmokas nustato suderinęs su Energetikos ministerija ir Taryba. Nustatant įmokas, atsižvelgiama į DAEI apskaitos vienetų sistemos dalyvių veiklos mastą, kuris vertinamas pagal DAEI apskaitos vienetų sistemos dalyvių patiektus degalų kiekius, už kuriuos buvo sugeneruotas atitinkamas DAEI apskaitos vienetų skaičius. 
-
-
-
-
-11. Per 30 kalendorinių dienų nuo finansinių metų pabaigos DAEI apskaitos vienetų sistemos valdytojas privalo pateikti Tarybai finansinių ataskaitų rinkinį, kuriame būtų aiškiai nurodytos DAEI apskaitos vienetų sistemos administravimo veiklos sąnaudos. Taryba, įvertinusi DAEI apskaitos vienetų sistemos valdytojo veiklos sąnaudas, gali pareikalauti, kad DAEI apskaitos vienetų sistemos valdytojas peržiūrėtų patvirtintas įmokas už jo teikiamas paslaugas, užtikrinant, kad DAEI apskaitos vienetų sistemos dalyvių mokamos įmokos būtų pagrįstos DAEI apskaitos vienetų sistemos valdytojo veiklos sąnaudomis. 
- 
-
-
-
-
-
-
-19 straipsnis. DAEI apskaitos vienetų sistemos dalyvių veiklos priežiūra
-
-
-1. Taryba, vadovaudamasi šio įstatymo, Energetikos įstatymo, Lietuvos Respublikos viešojo administravimo įstatymo nuostatomis ir Tarybos nustatyta tvarka, kontroliuodama ir prižiūrėdama šio įstatymo 16 straipsnio 1, 2 ir 3 dalyse nustatytų įpareigojimų ir reikalavimų vykdymą, atlieka fizinius patikrinimus dėl DAEI apskaitos vienetų sistemos dalyvių degalų ir biodegalų kiekių ir rūšių atitikties DAEI apskaitos vienetų sistemoje, Akcizų informacinėje sistemoje ir (ar) Integruotoje muitinės informacinėje sistemoje pateiktiems duomenims. Tarybos atliekamose patikrinimo procedūrose pagal kompetenciją dalyvauja Tarnybos įgalioti valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, kurie ima mėginius dėl degalų ir biodegalų sudėties ir rūšies nustatymo. 
-
-
-
-
-2. Taryba, atlikdama šio straipsnio 1 dalyje nurodytus patikrinimus ir vykdydama DAEI apskaitos vienetų sistemos dalyvių veiklos priežiūrą, vadovaujasi Energetikos įstatymo 241 straipsniu. 
-
-
-
-
-3. Tarnyba atlieka fizinius patikrinimus mažmeninės prekybos degalais vietose, tikrindama, ar yra tinkamai laikomasi šio įstatymo 16 straipsnio 6 dalyje nustatytų reikalavimų ir ar pagal šio įstatymo 18 straipsnio 4 dalį pateikta informacija atitinka patikrinimo metu gautus duomenis. 
-
-
-
-
-4. Tarnyba, atlikdama degalų mėginių laboratorinius tyrimus dėl degalų ir biodegalų sudėties ir rūšies nustatymo ir šio straipsnio 3 dalyje numatytus patikrinimus, vadovaujasi šio įstatymo, Viešojo administravimo įstatymo nuostatomis ir Tarnybos nustatyta tvarka. Tarnybos įgalioti valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, turi teisę:
-
-
-1) įeiti į tikrinamo DAEI apskaitos vienetų sistemos dalyvio valdomas patalpas ir tikrinti jose esančias degalų laikymo ir transportavimo talpyklas, maišymo terminalus; 
-
-
-
-
-2) užfiksuoti patikrinimo metu nustatytas faktines aplinkybes;
-
-
-
-
-3) patikrinimo metu naudoti technines priemones; 
-
-
-
-
-4) pagal duomenų teikimo sutartis iš valstybės ir savivaldybės institucijų, taip pat iš Lietuvos banko, komercinių bankų ir kitų kredito bei finansų įstaigų, auditorių, kitų juridinių ir fizinių asmenų gauti informaciją ir dokumentus, jų kopijas apie DAEI apskaitos vienetų sistemos dalyvių turtą ir pajamas, ūkines, finansines ir kitas operacijas, nepaisant to, ar informacija laikoma konfidencialia, ar tokia nelaikoma; 
-
-
-
-
-5) atlikdami patikrinimą, naudoti Tarybos turimą informaciją, įskaitant ir informaciją, gautą kitų patikrinimų metu. 
-
-
-
-
-
-
-5. Tarnyba, atlikusi degalų mėginių, paimtų šio straipsnio 1 dalyje nurodytų patikrinimų metu, laboratorinius tyrimus, jos nustatyta tvarka informuoja Tarybą apie gautus laboratorinių tyrimų rezultatus. 
-
-
-
-
-6. Tarybos ir Tarnybos įgalioti administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, privalo užtikrinti patikrinimų metu gautos konfidencialios informacijos konfidencialumą.
-
-
-
-
-7. Taryba, gavusi šio įstatymo 17 straipsnio 4 dalyje numatytą atestuoto auditoriaus arba audito įmonės praėjusių kalendorinių metų audito ataskaitą, Tarybos nustatyta tvarka įvertina degalų tiekėjų ir transporto sektoriaus gamtinių dujų tiekėjų įpareigojimų, nustatytų šio įstatymo 16 straipsnio 1 ir 3 dalyse, įgyvendinimą. Vertindama įpareigojimų įgyvendinimą, Taryba atsižvelgia į: 
-
-
-1) degalų tiekėjų ir transporto sektoriaus gamtinių dujų tiekėjų vidaus rinkai patiektus degalų kiekius; 
-
-
-
-
-2) degalų tiekėjams ir transporto sektoriaus gamtinių dujų tiekėjams priklausančius DAEI apskaitos vienetus; 
-
-
-
-
-3) vidaus rinkai patiektų biodegalų atitiktį energetikos ministro patvirtintam žaliavų sąrašui;
-
-
-
-
-4) šio įstatymo 20 straipsnio 1, 2, 3, 4 ir 8 dalyse nustatytus reikalavimus;
-
-
-
-
-5) kitus DAEI apskaitos vienetų sistemoje pateiktus duomenis ir (ar) Tarnybos patikrinimų metu nustatytas neatitiktis ir (ar) pažeidimus. 
-
-
-
-
-
-
-8. Taryba turi teisę reikalauti iš degalų tiekėjų ar transporto sektoriaus gamtinių dujų tiekėjų papildomos informacijos, pagrindžiančios tinkamą šio įstatymo 16 straipsnio 1, 2 ir 3 dalyse numatytų įpareigojimų ir reikalavimų įgyvendinimą. 
-
-
-
-
-9. Taryba, Tarnyba ir kitos valstybės institucijos ar įstaigos bendradarbiauja ir keičiasi informacija, kuri reikalinga, kad būtų užtikrinta šio įstatymo 16 straipsnio 1, 2, 3 ir 6 dalyse numatytų įpareigojimų ir reikalavimų įgyvendinimo priežiūra. 
- 
-
-
-
-
-
-
-20 straipsnis. Biodegalų naudojimui taikomi reikalavimai 
+11. Pasibaigus finansiniams metams, DAEI apskaitos vienetų sistemos valdytojas iki po jų einančių metų gegužės 1 dienos privalo pateikti Tarybai finansinių ataskaitų rinkinį, kuriame būtų aiškiai nurodytos DAEI apskaitos vienetų sistemos administravimo veiklos sąnaudos. Taryba, įvertinusi DAEI apskaitos vienetų sistemos valdytojo veiklos sąnaudas, gali pareikalauti, kad DAEI apskaitos vienetų sistemos valdytojas peržiūrėtų patvirtintas įmokas už jo teikiamas paslaugas, siekdama užtikrinti, kad DAEI apskaitos vienetų sistemos dalyvių mokamos įmokos būtų pagrįstos DAEI apskaitos vienetų sistemos valdytojo veiklos sąnaudomis.20 straipsnis. Biodegalų naudojimui taikomi reikalavimai 
 
 
 1. Degalų tiekėjai ir transporto sektoriaus gamtinių dujų tiekėjai turi užtikrinti, kad biodegalų, taip pat transporto sektoriuje suvartojamo biokuro, jeigu jie pagaminti iš maistinių ir (ar) pašarinių augalų, procentinė dalis, palyginti su bendra degalų tiekėjo ar transporto sektoriaus gamtinių dujų tiekėjo per metus patiektų degalų energine verte:
@@ -1335,117 +947,52 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 
 8. Iš aliejinių augalų, nurodytų 2019 m. kovo 13 d. Europos Komisijos deleguotojo reglamento (ES) 2019/807, kuriuo dėl didelę netiesioginio žemės naudojimo keitimo riziką keliančių pradinių žaliavų, kurių auginimo teritorija reikšmingai plečiama į žemės, kurioje yra didelių anglies sankaupų, plotus, nustatymo ir nedidelę netiesioginio žemės naudojimo keitimo riziką keliančių biodegalų, skystųjų bioproduktų ir biomasės kuro sertifikavimo papildoma Europos Parlamento ir Tarybos direktyva (ES) 2018/2001, priede, pagaminti degalai nuo 2023 m. gruodžio 31 d. nelaikomi biodegalais, jeigu pradinė žaliava atitinka didelę netiesioginio žemės naudojimo keitimo riziką keliančių pradinių žaliavų nustatymo kriterijus, nurodytus šiame reglamente.
- 
 
+20-1 straipsnis. Europos Sąjungos degalų duomenų bazė
+1. Degalų tiekėjai, degalų iš atsinaujinančių energijos išteklių, išskyrus elektros energiją, gamintojai ir subjektai, vykdantys mažmeninę prekybą degalais, yra atsakingi už informacijos, susijusios su degalų iš atsinaujinančių energijos išteklių ir kuro iš atsinaujinančių energijos išteklių tiekimo transporto sektoriui sandoriais, pateikimą į Europos Sąjungos degalų duomenų bazę.
+2. Teikiant šio straipsnio 1 dalyje nurodytą informaciją, kartu turi būti pateikiama informacija, susijusi su degalų iš atsinaujinančių energijos išteklių tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo charakteristikomis, įskaitant per tiekiamų degalų gyvavimo ciklą išmetamą šiltnamio efektą sukeliančių dujų kiekį ir konkrečios degalų siuntos gamybai suteiktą paramą (jeigu taikoma).
+3. Siekdamas užtikrinti efektyvų duomenų perdavimą ir (ar) priėmimą, DAEI apskaitos vienetų sistemos valdytojas užtikrina, kad DAEI apskaitos vienetų sistema per sąsają būtų susieta su Europos Sąjungos degalų duomenų baze, kai tik ši sistema atitiks Europos Sąjungos degalų duomenų bazės reikalavimus.
+4. Degalų tiekėjai į Europos Sąjungos degalų duomenų bazę taip pat teikia informaciją, susijusią su šio įstatymo 16 straipsnio 1 dalyje nustatytų įpareigojimų įgyvendinimu. Informacija, teikiama į Europos Sąjungos degalų duomenų bazę, turi atitikti informaciją, teikiamą į DAEI apskaitos vienetų sistemą.
+5. Šio straipsnio 1 dalyje nurodyti subjektai užtikrina, kad į Europos Sąjungos degalų duomenų bazę teikiamų duomenų tikslumas ir išsamumas būtų patikrintas pasitelkus sertifikavimo įmones, kurios atlieka sertifikavimą pagal Europos Komisijos sprendimu pripažintą savanorišką schemą. Šio straipsnio 1 dalyje nurodytų subjektų į Europos Sąjungos degalų duomenų bazę teikiamų duomenų tikslumas ir išsamumas taip pat gali būti užtikrinami per DAEI apskaitos vienetų sistemą, jeigu degalai iš atsinaujinančių energijos išteklių yra tiekiami vidaus rinkai, o DAEI apskaitos vienetai yra suteikti panaudojant pagal Europos Komisijos sprendimu pripažintą savanorišką schemą išduotą atitiktį tvarumo charakteristikoms patvirtinantį sertifikatą, kuris taip pat gali būti papildytas atsinaujinančių išteklių kilmės garantija.
+21 straipsnis. Biodegalų ir pažangiųjų biodegalų gamybai tinkamų naudoti žaliavų vertinimas
 
+1. Energetikos ministras kartu su aplinkos ministru ir žemės ūkio ministru, atsižvelgdami į šio straipsnio 3 dalies nuostatas, patvirtina metodiką, pagal kurią vertinamos pažangiųjų biodegalų gamybai tinkamos naudoti žaliavos ir žaliavos, iš kurių pagamintų biodegalų energinė vertė, siekiant šio įstatymo 16 straipsnio 1 ir 3 dalyse nustatytų įpareigojimų, gali būti laikoma 2 kartus didesne, palyginti su jų pradine energine verte.
 
-
-
-
-21 straipsnis. Biodegalų, pažangiųjų biodegalų ir nebiologinių skystųjų ir (ar) dujinių degalų iš atsinaujinančių energijos išteklių, kurių energinė vertė siekiant degalų tiekėjams nustatytų įpareigojimų gali būti laikoma du kartus didesne, palyginti su jų pradine energine verte, gamybai tinkamų naudoti žaliavų vertinimas
-
-
-1. Energetikos ministras kartu su aplinkos ministru ir Lietuvos Respublikos žemės ūkio ministru, atsižvelgdami į šio straipsnio 3 dalies nuostatas, patvirtina metodiką, pagal kurią vertinamos pažangiųjų biodegalų ir nebiologinių skystųjų ir (ar) dujinių degalų iš atsinaujinančių energijos išteklių gamybai tinkamos naudoti žaliavos ir žaliavos, iš kurių pagamintų biodegalų, pažangiųjų biodegalų ir (ar) nebiologinių skystųjų ir (ar) dujinių degalų iš atsinaujinančių energijos išteklių energinė vertė, siekiant šio įstatymo 16 straipsnio 1 ir 3 dalyse nustatytų įpareigojimų, gali būti laikoma du kartus didesne, palyginti su jų pradine energine verte. 
-
-
-
-
-2. Šio straipsnio 1 dalyje nurodytoje metodikoje nustatomi pradinių žaliavų vertinimo kriterijai ir jų reikšmės, kuriais remiantis žaliavos gali būti įtraukiamos į energetikos ministro tvirtinamą žaliavų sąrašą (toliau – žaliavų sąrašas). Į žaliavų sąrašą įtraukiamos žaliavos, kurios yra laikomos tinkamomis naudoti pažangiųjų biodegalų ir nebiologinių skystųjų ir (ar) dujinių degalų iš atsinaujinančių energijos išteklių gamybai, ir žaliavos, iš kurių pagamintų biodegalų, pažangiųjų biodegalų ir nebiologinių skystųjų ir (ar) dujinių degalų iš atsinaujinančių energijos išteklių energinė vertė yra laikoma du kartus didesne, palyginti su jų pradine energine verte. 
-
-
-
+2. Šio straipsnio 1 dalyje nurodytoje metodikoje nustatomi pradinių žaliavų vertinimo kriterijai ir jų reikšmės, kuriais remiantis žaliavos gali būti įtraukiamos į energetikos ministro tvirtinamą žaliavų sąrašą (toliau – žaliavų sąrašas). Į žaliavų sąrašą įtraukiamos žaliavos, kurios yra laikomos tinkamomis naudoti pažangiųjų biodegalų gamybai, ir žaliavos, iš kurių pagamintų biodegalų energinė vertė yra laikoma 2 kartus didesne, palyginti su jų pradine energine verte.
 
 3. Nustatant žaliavų vertinimo kriterijus ir jų reikšmes šio straipsnio 1 dalyje nurodytoje metodikoje turi būti atsižvelgiama:
 
+1) į biodegalų gamybai naudojamų žaliavų išmetamųjų šiltnamio efektą sukeliančių dujų sumažėjimo vertes, palyginti su iškastiniu kuru, jeigu tokios yra žinomos;
 
-1) į gamybos technologijų brandą ir sąnaudas; 
+2) ar žaliavos yra priskirtinos žaliavų grupei, dėl kurių naudojimo biodegalų gamybai kyla didelė netiesioginio žemės naudojimo keitimo rizika, kaip apibrėžiama Reglamente (ES) 2019/807;
 
+3) į atliekų prevencijos ir tvarkymo prioritetus ir žiedinės ekonomikos principus;
 
+4) į žaliavų priskyrimą atliekų, perdirbimo liekanų ar šalutinių produktų grupėms, atsižvelgiant į žaliavų ekonominę vertę ir alternatyvius jų panaudojimo būdus bei poreikį išvengti iškraipančio poveikio tų žaliavų rinkoms.
 
+4. Žaliavų sąrašas sudaromas vadovaujantis Direktyvos (ES) 2018/2001 IX priedu ir atsižvelgiant į jame nustatytas žaliavas ir jų kategorijas. Žaliavų sąrašas gali būti keičiamas gavus pasiūlymų iš asmenų ar institucijų, atsižvelgiant į technologijų progresą ar naujų žaliavų atsiradimą rinkoje.
 
-2) į gamybai naudojamų žaliavų išmetamųjų šiltnamio efektą sukeliančių dujų sumažėjimo vertes, palyginti su iškastiniu kuru; 
+5. Šio straipsnio 4 dalyje nurodytus pasiūlymus ir žaliavų sąrašo keitimo poreikį pagrindžiančią informaciją vertina subjektas, nurodytas Energetikos įstatymo 13-1 straipsnyje, savo nustatyta tvarka ir atsižvelgdamas į šio straipsnio 1 dalyje nurodytoje metodikoje nustatytus vertinimo kriterijus ir jų reikšmes.
 
+6. Subjektas, nurodytas Energetikos įstatymo 13-1 straipsnyje, žaliavų vertinimo tikslais turi teisę prašyti pasiūlymus dėl žaliavų sąrašo keitimo poreikio pateikusio subjekto pateikti papildomą informaciją apie žaliavą, kurią siūloma įtraukti į žaliavų sąrašą arba kurią siūloma pašalinti iš žaliavų sąrašo.
 
+7. Subjektas, nurodytas Energetikos įstatymo 13-1 straipsnyje, iki einamųjų kalendorinių metų birželio 1 dienos įvertina pasiūlymus, gautus per praėjusius kalendorinius metus, ir vertinimo išvadoje Energetikos ministerijai pateikia motyvus dėl kiekvienos žaliavos įtraukimo į žaliavų sąrašą ar pašalinimo iš jo tikslingumo.
 
+8. Energetikos ministerija, gavusi subjekto, nurodyto Energetikos įstatymo 13-1 straipsnyje, vertinimo išvadą, kurioje pritariama žaliavų sąrašo pakeitimui, parengia ir pateikia viešai konsultacijai žaliavų sąrašo pakeitimo projektą.
 
-3) į žaliavų tvarumą;
+9. Jeigu subjekto, nurodyto Energetikos įstatymo 13-1 straipsnyje, pateiktoje vertinimo išvadoje yra nepritariama žaliavų sąrašo pakeitimui, Energetikos ministerija, įvertinusi pateiktus duomenis, apie tai informuoja pasiūlymą teikusį subjektą, Aplinkos ministeriją ir Žemės ūkio ministeriją.
 
+10. Žaliava, kurios pašalinimui ar įtraukimui į žaliavų sąrašą nebuvo pritarta, ne anksčiau kaip po 2 kalendorinių metų nuo paskutinės vertinimo išvados apie tą žaliavą pateikimo dienos gali būti vertinama pakartotinai, gavus pasiūlymą šio straipsnio 4 dalyje nustatyta tvarka ir esant naujų faktinių duomenų apie vertinamą žaliavą.
 
+11. Žaliavą vertinant pakartotinai, galioja šiame straipsnyje nustatyta vertinimo tvarka.
 
-
-4) ar žaliavos yra priskirtinos žaliavų grupei, dėl kurių naudojimo biodegalų gamybai kyla didelė netiesioginio žemės naudojimo keitimo rizika, kaip apibrėžta Reglamente (ES) 2019/807; 
-
-
-
-
-5) į atliekų prevencijos ir tvarkymo prioritetus ir žiedinės ekonomikos principus;
-
-
-
-
-6) į žaliavų priskyrimą atliekų, perdirbimo liekanų ar šalutinių produktų grupėms, atsižvelgiant į žaliavų ekonominę vertę ir alternatyvius jų panaudojimo būdus bei poreikį išvengti iškraipančio poveikio tų žaliavų rinkoms.
-
-
-
-
-
-
-4. Žaliavų sąrašas sudaromas vadovaujantis Direktyvos (ES) 2018/2001 IX priedu ir gali būti keičiamas gavus pasiūlymų iš asmenų ar institucijų, atsižvelgiant į technologijų progresą ar naujų žaliavų atsiradimą rinkoje, taip pat atsiradus papildomų duomenų apie žaliavų sąraše esančių žaliavų neatitiktį šio straipsnio 1 dalyje nurodytoje metodikoje nustatytiems vertinimo kriterijams. 
-
-
-
-
-5. Šio straipsnio 4 dalyje nurodytus pasiūlymus ir žaliavų sąrašo keitimo poreikį pagrindžiančią informaciją vertina viešoji įstaiga Lietuvos energetikos agentūra (toliau – Agentūra) jos nustatyta tvarka ir atsižvelgdama į šio straipsnio 1 dalyje nurodytoje metodikoje nustatytus vertinimo kriterijus ir jų reikšmes.
-
-
-
-
-6. Agentūra žaliavų vertinimo tikslais turi teisę prašyti pasiūlymus dėl žaliavų sąrašo keitimo poreikio pateikusio subjekto pateikti papildomą informaciją apie žaliavą, kurią siūloma įtraukti į žaliavų sąrašą arba kurią siūloma pašalinti iš žaliavų sąrašo. 
-
-
-
-
-7. Agentūra iki einamųjų kalendorinių metų birželio 1 dienos įvertina pasiūlymus, gautus per praėjusius kalendorinius metus, ir vertinimo išvadoje Energetikos ministerijai pateikia motyvus dėl kiekvienos žaliavos įtraukimo į žaliavų sąrašą ar pašalinimo iš jo tikslingumo. 
-
-
-
-
-8. Energetikos ministerija, gavusi Agentūros vertinimo išvadą, kurioje pritariama žaliavų sąrašo pakeitimui, parengia ir pateikia viešai konsultacijai žaliavų sąrašo pakeitimo projektą.
-
-
-
-
-9. Jeigu Agentūros pateiktoje vertinimo išvadoje yra nepritariama žaliavų sąrašo pakeitimui, Energetikos ministerija, įvertinusi Agentūros pateiktus duomenis, apie tai informuoja pasiūlymą teikusį subjektą, Aplinkos ministeriją ir Žemės ūkio ministeriją. 
-
-
-
-
-10. Žaliava, kurios pašalinimui ar įtraukimui į žaliavų sąrašą nebuvo pritarta, ne anksčiau kaip po 2 kalendorinių metų nuo paskutinės vertinimo išvados apie tą žaliavą pateikimo gali būti vertinama pakartotinai, gavus pasiūlymą šio straipsnio 4 dalyje nustatyta tvarka ir esant naujų faktinių duomenų apie vertinamą žaliavą. 
-
-
-
-
-11. Žaliavą vertinant pakartotinai, galioja šiame straipsnyje nustatyta vertinimo tvarka. 
-
-
-
-
-12. Pakeistas žaliavų sąrašas įsigalioja ne anksčiau kaip po 90 kalendorinių dienų nuo jo patvirtinimo dienos. 
- 
-
-
-
-
+12. Pakeistas žaliavų sąrašas įsigalioja ne anksčiau kaip po 90 kalendorinių dienų nuo jo patvirtinimo dienos.
 
 
 
 
 PENKTASIS SKIRSNIS
-ALTERNATYVIŲJŲ DEGALŲ NAUDOJIMAS TRANSPORTE
- 
-
-
-22 straipsnis. Elektros energijos naudojimas transporto sektoriuje
+ALTERNATYVIŲJŲ DEGALŲ NAUDOJIMAS TRANSPORTE22 straipsnis. Elektros energijos naudojimas transporto sektoriuje
 
 
 1. Skatinant elektros naudojimą transporto sektoriuje, siekiama didinti pirmą kartą Lietuvos Respublikoje registruojamų naujų ir (ar) naudotų elektromobilių skaičių: 
@@ -1491,7 +1038,7 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 23 straipsnis. Įkrovimo prieigų planavimas ir plėtra 
 
 
-1. Iki 2030 m. gruodžio 31 d. Lietuvos Respublikoje turi būti įrengta 60 000 įkrovimo prieigų, iš jų 6 000 viešai prieinamų įkrovimo prieigų. 
+1. Iki 2030 m. gruodžio 31 d. Lietuvos Respublikoje turi būti įrengta 60 000 įkrovimo prieigų, iš jų 6 000 viešai prieinamų įkrovimo prieigų. 
 
 
 
@@ -1516,7 +1063,7 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 
 
-6. Šalia valstybinės reikšmės kelių, priklausančių TEN-T pagrindiniam tinklui ir TEN-T visuotiniam tinklui, arba ne didesniu kaip 3 km atstumu nuo artimiausio išvažiavimo iš TEN-T kelio Reglamento (ES) 2024/1679 II priede nustatytuose miestų transporto mazguose, saugiose ir apsaugotose stovėjimo aikštelėse turi būti įrengtas minimalus skaičius viešai prieinamų įkrovimo prieigų, skirtų sunkiosioms elektrinėms transporto priemonėms įkrauti, laikantis Reglamento (ES) 2023/1804 4 straipsnio 1–7 ir 9 dalyse nustatytų terminų, reikalavimų ir išimčių. Reglamento (ES) 2023/1804 4 straipsnio 1 dalies c ir d punktuose nustatytų atstumų tarp Lietuvos Respublikos ir kaimyninių valstybių narių TEN-T pagrindiniam tinklui ir TEN-T visuotiniam tinklui priklausančiuose keliuose įrengiamų viešai prieinamų įkrovimo prieigų, skirtų sunkiosioms elektrinėms transporto priemonėms įkrauti, laikymosi pagal Reglamento (ES) 2023/1804 4 straipsnio 9 dalį principai ir atvejai, kai gali būti taikomos šio reglamento 4 straipsnio 4–7 dalyse nurodytos išimtys, yra nustatomi elektrinių kelių transporto priemonių naudojimo ir įkrovimo prieigų plėtros Lietuvoje veiksmų plane.
+6. Šalia valstybinės reikšmės kelių, priklausančių TEN-T pagrindiniam tinklui ir TEN-T visuotiniam tinklui, arba ne didesniu kaip 3 km atstumu nuo artimiausio išvažiavimo iš TEN-T kelio Reglamento (ES) 2024/1679 II priede nustatytuose miestų transporto mazguose, saugiose ir apsaugotose stovėjimo aikštelėse turi būti įrengtas minimalus skaičius viešai prieinamų įkrovimo prieigų, skirtų sunkiosioms elektrinėms transporto priemonėms įkrauti, laikantis Reglamento (ES) 2023/1804 4 straipsnio 1–7 ir 9 dalyse nustatytų terminų, reikalavimų ir išimčių. Reglamento (ES) 2023/1804 4 straipsnio 1 dalies c ir d punktuose nustatytų atstumų tarp Lietuvos Respublikos ir kaimyninių valstybių narių TEN-T pagrindiniam tinklui ir TEN-T visuotiniam tinklui priklausančiuose keliuose įrengiamų viešai prieinamų įkrovimo prieigų, skirtų sunkiosioms elektrinėms transporto priemonėms įkrauti, laikymosi pagal Reglamento (ES) 2023/1804 4 straipsnio 9 dalį principai ir atvejai, kai gali būti taikomos šio reglamento 4 straipsnio 4–7 dalyse nurodytos išimtys, yra nustatomi elektrinių kelių transporto priemonių naudojimo ir įkrovimo prieigų plėtros Lietuvoje veiksmų plane.
 
 
 
@@ -1531,7 +1078,7 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 
 
-9. Savivaldybių administracijos užtikrina, kad įkrovimo prieigų operatoriai, įrengiantys elektromobiliams įkrauti skirtas viešai prieinamas įkrovimo prieigas, numatytas šio straipsnio 13 dalyje nurodytuose planuose, būtų atrenkami viešojo konkurso būdu ir nediskriminacinėmis sąlygomis. Už konkursų sąlygų parengimą ir organizavimą yra atsakingos savivaldybių administracijos. 
+9. Savivaldybių administracijos užtikrina, kad įkrovimo prieigų operatoriai, įrengiantys elektromobiliams įkrauti skirtas viešai prieinamas įkrovimo prieigas, numatytas šio straipsnio 13 dalyje nurodytuose planuose, būtų atrenkami viešojo konkurso būdu ir nediskriminacinėmis sąlygomis. Už konkursų sąlygų parengimą ir organizavimą yra atsakingos savivaldybių administracijos. 
 
 
 
@@ -1541,7 +1088,7 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 
 
-11. Savivaldybės taryba arba jos įgaliota institucija priima sprendimą dėl viešai prieinamos įkrovimo prieigos operatoriaus veiklos vykdymo vadovaudamasi Vietos savivaldos įstatymo 56 straipsnyje nustatyta tvarka. 
+11. Savivaldybės taryba arba jos įgaliota institucija priima sprendimą dėl viešai prieinamos įkrovimo prieigos operatoriaus veiklos vykdymo vadovaudamasi Vietos savivaldos įstatymo 56 straipsnyje nustatyta tvarka. 
 
 
 
@@ -1570,8 +1117,6 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 
 5) rekomendacijos dėl platesnio elektrinių kelių transporto priemonių naudojimo skatinimo ir jų įkrovimo prieigų įrengimo, siekiant užtikrinti efektyviausią elektros energijos tinklų panaudojimą.
-
-
 
 
 
@@ -1611,7 +1156,7 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 
 
-20. Viešai prieinamos įkrovimo prieigos privalo atitikti Reglamento (ES) 2023/1804 II priede nustatytas technines specifikacijas. 
+20. Viešai prieinamos įkrovimo prieigos privalo atitikti Reglamento (ES) 2023/1804 II priede nustatytas technines specifikacijas. 
 
 
 
@@ -1626,7 +1171,7 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 
 
-23. Pagal elektros energijos skirstomųjų tinklų operatoriaus ir elektros energijos perdavimo sistemos operatoriaus pateiktus duomenis Taryba, laikydamasi Reglamento (ES) 2023/1804 15 straipsnio 4 dalyje nustatytų terminų ir reikalavimų, įvertina potencialų abikrypčio įkrovimo indėlį į išlaidų mažinimą ir elektros energijos iš atsinaujinančių energijos išteklių naudojimo elektros energijos sistemoje masto didėjimą ir šio vertinimo rezultatus skelbia savo interneto svetainėje. 
+23. Pagal elektros energijos skirstomųjų tinklų operatoriaus ir elektros energijos perdavimo sistemos operatoriaus pateiktus duomenis Taryba, laikydamasi Reglamento (ES) 2023/1804 15 straipsnio 4 dalyje nustatytų terminų ir reikalavimų, įvertina potencialų abikrypčio įkrovimo indėlį į išlaidų mažinimą ir elektros energijos iš atsinaujinančių energijos išteklių naudojimo elektros energijos sistemoje masto didėjimą ir šio vertinimo rezultatus skelbia savo interneto svetainėje. 
 
 
 
@@ -1641,7 +1186,7 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 
 
-26. TEN-T pagrindiniam tinklui ir TEN-T visuotiniam tinklui priklausančių Lietuvos jūrų uostų valdytojai turi užtikrinti elektros tiekimą nuo kranto jūrų konteinervežiams ir jūrų keleiviniams laivams laikantis Reglamento (ES) 2023/1804 9 straipsnio 1 dalyje nustatyto termino, reikalavimų ir šio reglamento 9 straipsnio 2 dalyje numatytų išimčių.  
+26. TEN-T pagrindiniam tinklui ir TEN-T visuotiniam tinklui priklausančių Lietuvos jūrų uostų valdytojai turi užtikrinti elektros tiekimą nuo kranto jūrų konteinervežiams ir jūrų keleiviniams laivams laikantis Reglamento (ES) 2023/1804 9 straipsnio 1 dalyje nustatyto termino, reikalavimų ir šio reglamento 9 straipsnio 2 dalyje numatytų išimčių.  
 
 
 
@@ -1649,14 +1194,13 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 27. TEN-T pagrindiniam tinklui ir TEN-T visuotiniam tinklui priklausančių Lietuvos vidaus vandenų uostų valdytojai turi užtikrinti įrenginių, kuriais vidaus vandenų laivams nuo kranto būtų tiekiama elektra, įrengimą laikantis Reglamento (ES) 2023/1804 10 straipsnyje nurodytų terminų. 
 
 
+
+
+28. Elektrinių kelių transporto priemonių gamintojai suprantami taip, kaip apibrėžiami 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamente (ES) 2018/858 dėl motorinių transporto priemonių ir jų priekabų bei tokioms transporto priemonėms skirtų sistemų, komponentų ir atskirų techninių mazgų patvirtinimo ir rinkos priežiūros, kuriuo iš dalies keičiami reglamentai (EB) Nr. 715/2007 ir (EB) Nr. 595/2009 bei panaikinama Direktyva 2007/46/EB, turi užtikrinti, kad pagamintose elektrinėse transporto priemonėse būtų įdiegta tokia transporto priemonės informacinė valdymo sistema, kuri leistų elektrinių kelių transporto priemonių savininkams ir naudotojams, taip pat savininkų ir naudotojų vardu veikiančioms trečiosioms šalims tikruoju laiku nediskriminacinėmis sąlygomis, nemokamai, laikantis duomenų apsaugos taisyklių, susipažinti su elektrinėje kelių transporto priemonėje sukauptais duomenimis, susijusiais su elektrinės kelių transporto priemonės baterijos būkle, įkrovos būsena, įkrovimo galios parametrais ir baterijos talpa, taip pat elektrinės kelių transporto priemonės buvimo vieta, kai elektrinės kelių transporto priemonės savininkas tokį veiksmą įgalina elektrinės kelių transporto priemonės informacinėje sistemoje.
+
+
 Straipsnio pakeitimai:
-Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
- 
-
-
-
-
-24 straipsnis. Įkrovimo prieigų operatoriai
+Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-0069024 straipsnis. Įkrovimo prieigų operatoriai
 
 
 1. Įkrovimo prieigų operatoriai, laikydamiesi Reglamento (ES) 2023/1804 5 straipsnio 1–5 dalyse nustatytų terminų ir reikalavimų, susijusių su apmokėjimu už įkrovimo paslaugas, savo eksploatuojamose viešai prieinamose įkrovimo prieigose galutiniams naudotojams suteikia galimybę ad hoc įkrauti savo elektrines transporto priemones. Reglamento (ES) 2023/1804 5 straipsnio 11 dalyje nustatytais atvejais šio reglamento 5 straipsnio 2 dalies nuostatų vykdymą privalo užtikrinti įkrovimo prieigos savininkas. 
@@ -2040,7 +1584,7 @@ INFORMAVIMAS IR ŠVIETIMAS
 1. Energetikos ministerija, Susisiekimo ministerija, Aplinkos ministerija ir savivaldybių administracijos pagal kompetenciją rengia ir įgyvendina visuomenės informavimo ir sąmoningumo ugdymo priemones, teikia konsultacijas ir skatina naudoti alternatyviųjų degalų ir juos naudojančių transporto priemonių infrastruktūrą, ne rečiau kaip kartą per metus savo interneto svetainėse skelbia informaciją apie alternatyviųjų degalų ir juos naudojančių transporto priemonių infrastruktūros plėtrą, naudojimo galimybes ir naudą. 
 Straipsnio dalies pakeitimai:
 Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
- 
+ 
 
 
 
@@ -2050,12 +1594,12 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 
 
-3. Agentūra yra atsakinga už palyginamųjų alternatyviųjų degalų kainų apskaičiavimą ir paskelbimą savo interneto svetainėje. 
+3. Subjektas, nurodytas Energetikos įstatymo 13-1 straipsnyje, yra atsakingas už palyginamųjų alternatyviųjų degalų kainų apskaičiavimą ir paskelbimą savo interneto svetainėje. 
 
 
 
 
-4. Agentūra palyginamąsias alternatyviųjų degalų kainas apskaičiuoja remdamasi energetikos ministro nustatyta metodika, kuri grindžiama kainomis, išreikštomis eurais šimtui kilometrų, taip pat atsižvelgdama į atskirų lengvųjų automobilių modelių, varomų skirtingų rūšių degalais, masę, galią ir degalų sąnaudas.
+4. Subjektas, nurodytas Energetikos įstatymo 13-1 straipsnyje, palyginamąsias alternatyviųjų degalų kainas apskaičiuoja vadovaudamasis energetikos ministro nustatyta metodika, kuri grindžiama kainomis, išreikštomis eurais šimtui kilometrų, atsižvelgdamas į atskirų lengvųjų automobilių modelių, varomų skirtingų rūšių degalais, masę, galią ir degalų sąnaudas.
 
 
 
@@ -2076,7 +1620,7 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 3) savivaldybių administracijų organizuojamos socialinės kampanijos, už kurių įgyvendinimą atsakingi savivaldybių administracijų vadovai;
 Straipsnio punkto pakeitimai:
 Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
- 
+ 
 
 
 
@@ -2086,24 +1630,19 @@ Nr. XV-113, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00690
 
 
 
-
-
 6. Visuomenės švietimas ir susijusios informacijos viešinimas turi apimti informaciją apie iškastinio naftos kuro naudojimo daromą žalą žmonių sveikatai ir aplinkai. 
- 
+ 
 
 
 
 
+7. Vartotojų informavimo tikslu subjektai, vykdantys mažmeninę prekybą degalais, energetikos ministro nustatyta tvarka turi skelbti informaciją apie žaliavas, iš kurių buvo pagaminti biodegalai, kurie praeitais kalendoriniais metais buvo įmaišyti į degalinėje parduotų degalų ir biodegalų mišinius. Informacija turi apimti žaliavų pavadinimą ir kilmės šalį. Informacija gali būti pateikiama degalinės, kurioje buvo vykdoma prekyba degalų ir biodegalų mišiniais, teritorijoje, vartotojams prieinamoje vietoje, arba subjekto, vykdančio mažmeninę prekybą degalais, interneto svetainėje.
 
 
 
 
 AŠTUNTASIS SKIRSNIS
-ATSAKOMYBĖ UŽ PAŽEIDIMUS VYKDANT REGULIUOJAMĄJĄ VEIKLĄ IR ATSAKOMYBĖS TAIKYMO TVARKA
- 
-
-
-32 straipsnis. Atsakomybė už pažeidimus vykdant reguliuojamąją veiklą
+ATSAKOMYBĖ UŽ PAŽEIDIMUS VYKDANT REGULIUOJAMĄJĄ VEIKLĄ IR ATSAKOMYBĖS TAIKYMO TVARKA32 straipsnis. Atsakomybė už pažeidimus vykdant reguliuojamąją veiklą
 
 
 1. Taryba degalų tiekėjams ir (ar) transporto sektoriaus gamtinių dujų tiekėjams už pažeidimus vykdant reguliuojamąją veiklą Tarybos nustatyta tvarka skiria šias sankcijas:
@@ -2124,8 +1663,6 @@ ATSAKOMYBĖ UŽ PAŽEIDIMUS VYKDANT REGULIUOJAMĄJĄ VEIKLĄ IR ATSAKOMYBĖS TAI
 
 
 
-
-
 2. Tarnyba degalų tiekėjams, transporto sektoriaus gamtinių dujų tiekėjams ir subjektams, vykdantiems mažmeninės prekybos degalais veiklą, už pažeidimus vykdant reguliuojamąją veiklą Tarnybos nustatyta tvarka skiria šias sankcijas:
 
 
@@ -2139,20 +1676,10 @@ ATSAKOMYBĖ UŽ PAŽEIDIMUS VYKDANT REGULIUOJAMĄJĄ VEIKLĄ IR ATSAKOMYBĖS TAI
 
 
 
-3) už reikalavimų, nustatytų šio įstatymo 31 straipsnio 2 dalyje, nevykdymą skiria įspėjimą arba baudą iki penkių tūkstančių eurų.
- 
+3) už reikalavimų, nustatytų šio įstatymo 31 straipsnio 2 dalyje, nevykdymą skiria įspėjimą arba baudą iki penkių tūkstančių eurų.33 straipsnis. Atsakomybės už pažeidimus vykdant reguliuojamąją veiklą taikymo tvarka
 
 
-
-
-
-
-
-
-33 straipsnis. Atsakomybės už pažeidimus vykdant reguliuojamąją veiklą taikymo tvarka
-
-
-1. Degalų tiekėjams, transporto sektoriaus gamtinių dujų tiekėjams ir subjektams, vykdantiems mažmeninės prekybos degalais veiklą, už pažeidimus, nurodytus šio įstatymo 32 straipsnio 1 dalies 2 ir 3 punktuose ir 2 dalyje, taikant atsakomybę atsižvelgiama į:
+1. Degalų tiekėjams, transporto sektoriaus gamtinių dujų tiekėjams ir subjektams, vykdantiems mažmeninės prekybos degalais veiklą, už pažeidimus, nurodytus šio įstatymo 32 straipsnio 1 dalies 2 ir 3 punktuose ir 2 dalyje, taikant atsakomybę atsižvelgiama į:
 
 
 1) pažeidimo pavojingumą; 
@@ -2190,8 +1717,6 @@ ATSAKOMYBĖ UŽ PAŽEIDIMUS VYKDANT REGULIUOJAMĄJĄ VEIKLĄ IR ATSAKOMYBĖS TAI
 
 
 
-
-
 3. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad degalų tiekėjas, transporto sektoriaus gamtinių dujų tiekėjas ar subjektas, vykdantis mažmeninės prekybos degalais veiklą:
 
 
@@ -2211,8 +1736,6 @@ ATSAKOMYBĖ UŽ PAŽEIDIMUS VYKDANT REGULIUOJAMĄJĄ VEIKLĄ IR ATSAKOMYBĖS TAI
 
 
 4) padarė pažeidimą, dėl kurio jam per paskutinius 12 mėnesių buvo skirta bauda už šio straipsnio 1 dalies 2 ir 3 punktuose ir 2 dalyje nurodytus pažeidimus.
-
-
 
 
 
@@ -2267,22 +1790,7 @@ ATSAKOMYBĖ UŽ PAŽEIDIMUS VYKDANT REGULIUOJAMĄJĄ VEIKLĄ IR ATSAKOMYBĖS TAI
 
 
 
-14. Lėšos, gautos už šio įstatymo 32 straipsnyje nustatytus pažeidimus, skiriamos atsinaujinančių energijos išteklių transporto sektoriuje naudojimui skatinti.
- 
-
-
-
-
-
-
-
-
-DEVINTASIS SKIRSNIS
-BAIGIAMOSIOS NUOSTATOS
- 
-
-
-34 straipsnis. Ataskaitų teikimas
+14. Lėšos, gautos už šio įstatymo 32 straipsnyje nustatytus pažeidimus, skiriamos atsinaujinančių energijos išteklių transporto sektoriuje naudojimui skatinti.34 straipsnis. Ataskaitų teikimas
 
 
 1. Susisiekimo ministerija, įgyvendindama Reglamento (ES) 2023/1804 14 straipsnio nuostatas, ne vėliau kaip iki 2025 m. gruodžio 31 d. parengia transporto sektoriuje naudojamų alternatyviųjų degalų rinkai plėtoti ir atitinkamai infrastruktūrai diegti skirtos nacionalinės politikos sistemos (toliau – nacionalinė politikos sistema) projektą ir, Vyriausybei pritarus, galutinę nacionalinę politikos sistemą pateikia Europos Komisijai. Įgyvendindama Reglamento (ES) 2023/1804 15 straipsnio 1 ir 2 dalių nuostatas, ne vėliau kaip iki 2027 m. gruodžio 31 d., o vėliau kas 2 metus parengia ir pateikia Europos Komisijai nacionalinės politikos sistemos pažangos ataskaitą.
