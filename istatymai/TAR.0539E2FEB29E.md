@@ -219,7 +219,9 @@ Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
 
 
 
-4) planuojamos ūkinės veiklos, įrašytos į Planuojamos ūkinės veiklos, kuriai turi būti atliekama atranka dėl poveikio aplinkai vertinimo, rūšių sąrašą, nurodytą šio įstatymo 2 priede, organizatorius nusprendžia pradėti poveikio aplinkai vertinimą neatliekant atrankos dėl poveikio aplinkai vertinimo.
+4) planuojamos ūkinės veiklos, įrašytos į Planuojamos ūkinės veiklos, kuriai turi būti atliekama atranka dėl poveikio aplinkai vertinimo, rūšių sąrašą, nurodytą šio įstatymo 2 priede, organizatorius nusprendžia pradėti poveikio aplinkai vertinimą neatliekant atrankos dėl poveikio aplinkai vertinimo;
+
+5) atsinaujinančius išteklius naudojančių objektų statybos.
 
 
 
@@ -251,7 +253,7 @@ Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
 
 
 
-7. Kai atsakingoji institucija yra priėmusi atrankos dėl poveikio aplinkai vertinimo išvadą (toliau – atrankos išvada) ir (ar) sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, tačiau iki ūkinės veiklos vykdymo pradžios ar pradėjus ją vykdyti planuojama ūkinė veikla keičiama, plečiama ir šis keitimas ar plėtimas atitinka šio įstatymo 1 priedo 11 punkte ar 2 priedo 14 ir 15 punktuose nurodytus atvejus, tokiu atveju atranka dėl poveikio aplinkai vertinimo ar poveikio aplinkai vertinimas atliekami.
+7. Kai atsakingoji institucija yra priėmusi atrankos dėl poveikio aplinkai vertinimo išvadą (toliau – atrankos išvada) ir (ar) sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, tačiau iki ūkinės veiklos vykdymo pradžios ar pradėjus ją vykdyti planuojama ūkinė veikla keičiama, plečiama ir šis keitimas ar plėtimas atitinka šio įstatymo 1 priedo 11 punkte ar 2 priedo 14 ir 15 punktuose nurodytus atvejus, tokiu atveju atranka dėl poveikio aplinkai vertinimo ar poveikio aplinkai vertinimas atliekamas dėl planuojamos ūkinės veiklos keitimo ar plėtimo.
 
 
 
@@ -863,7 +865,7 @@ Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
 11 straipsnis. Poveikio aplinkai vertinimo ataskaita
 
 
-1. Poveikio aplinkai vertinimo dokumentų rengėjas ataskaitą rengia vadovaudamasis atsakingosios institucijos patvirtinta programa arba, jeigu buvo teiktas pranešimas apie PAV pradžią, atsižvelgdamas į šio įstatymo 9 straipsnio 4 dalyje nustatyta tvarka gautus pasiūlymus. Ataskaitos rengimo reikalavimus tvirtina aplinkos ministras.
+1. Poveikio aplinkai vertinimo dokumentų rengėjas ataskaitą rengia vadovaudamasis atsakingosios institucijos patvirtinta programa arba, jeigu buvo teiktas pranešimas apie PAV pradžią, atsižvelgdamas į šio įstatymo 9 straipsnio 4 dalyje nustatyta tvarka gautus pasiūlymus. Atsakingoji institucija ir poveikio aplinkai vertinimo subjektai, nagrinėdami ataskaitą, negali reikalauti išplėsti patvirtintoje programoje nustatytos ataskaitos apimties ir (ar) nagrinėti šioje programoje nenumatytų klausimų. Rengiant planuojamos ūkinės veiklos ataskaitą, kai atliekamos šio įstatymo 10 straipsnyje nustatytos tarpvalstybinio poveikio aplinkai vertinimo procedūros, privaloma atsižvelgti ir į po programos patvirtinimo gautus motyvuotus poveikį aplinkai patiriančios valstybės pateiktus pasiūlymus ir pastabas. Ataskaitos rengimo reikalavimus tvirtina aplinkos ministras.
 
 
 
@@ -883,7 +885,7 @@ Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
 
 
 
-5. Poveikio aplinkai vertinimo subjektai išnagrinėja ataskaitą, įvertina ataskaitą, suinteresuotos visuomenės pasiūlymus ir suinteresuotos visuomenės pasiūlymų įvertinimą ir pagal šio įstatymo 6 straipsnio 5 dalyje nurodytą kompetenciją pateikia poveikio aplinkai vertinimo dokumentų rengėjui motyvuotas išvadas dėl ataskaitos ir planuojamos ūkinės veiklos poveikio aplinkai arba pastabas ir pasiūlymus šio straipsnio 7 dalyje nustatyta tvarka per 20 darbo dienų nuo ataskaitos gavimo dienos, o dėl ataskaitos dėl viršesniam viešajam interesui priskiriamos ir svarbia viešajam saugumui laikomos planuojamos ūkinės veiklos – per 15 darbo dienų nuo ataskaitos gavimo dienos. Motyvuotose išvadose poveikio aplinkai vertinimo subjektai turi nurodyti: teisės aktų reikalavimais pagrįstus motyvus dėl pritarimo ar nepritarimo planuojamai ūkinei veiklai; kokiai (-ioms) konkrečiai (-ioms) alternatyvai (-oms) pritaria ar nepritaria, jeigu ataskaitoje buvo nagrinėtos alternatyvos; konkrečių teisės aktų reikalavimais pagrįstas sąlygas, kurios turi būti įgyvendintos iki veiklos vykdymo pradžios ir (ar) ūkinės veiklos vykdymo ir (ar) ūkinės veiklos užbaigimo metu, ir pateikti pagrįstą nuomonę dėl vertinimo metodų, rezultatų, ataskaitos kokybės ir siūlomų priemonių numatomam reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, jį kompensuoti ar atkurti tai, kas pažeista. Išvados dėl planuojamos ūkinės veiklos poveikio aplinkai formą nustato aplinkos ministras.
+5. Poveikio aplinkai vertinimo subjektai išnagrinėja ataskaitą, įvertina ataskaitą, suinteresuotos visuomenės pasiūlymus ir suinteresuotos visuomenės pasiūlymų įvertinimą ir pagal šio įstatymo 6 straipsnio 5 dalyje nurodytą kompetenciją pateikia poveikio aplinkai vertinimo dokumentų rengėjui motyvuotas išvadas dėl ataskaitos ir planuojamos ūkinės veiklos poveikio aplinkai arba pastabas ir pasiūlymus šio straipsnio 7 dalyje nustatyta tvarka per 20 darbo dienų nuo ataskaitos gavimo dienos, o dėl ataskaitos dėl planuojamos ūkinės veiklos, kurios tikslas yra gaminti energiją iš atsinaujinančių išteklių ar atsinaujinančių išteklių kurą, – per 15 darbo dienų nuo ataskaitos gavimo dienos. Motyvuotose išvadose poveikio aplinkai vertinimo subjektai turi nurodyti: teisės aktų reikalavimais pagrįstus motyvus dėl pritarimo ar nepritarimo planuojamai ūkinei veiklai; kokiai (-ioms) konkrečiai (-ioms) alternatyvai (-oms) pritaria ar nepritaria, jeigu ataskaitoje buvo nagrinėtos alternatyvos; konkrečių teisės aktų reikalavimais pagrįstas sąlygas, kurios turi būti įgyvendintos iki veiklos vykdymo pradžios ir (ar) ūkinės veiklos vykdymo ir (ar) ūkinės veiklos užbaigimo metu, ir pateikti pagrįstą nuomonę dėl vertinimo metodų, rezultatų, ataskaitos kokybės ir siūlomų priemonių numatomam reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, jam kompensuoti ar atkurti tai, kas pažeista. Išvados dėl planuojamos ūkinės veiklos poveikio aplinkai formą nustato aplinkos ministras.
 
 
 
@@ -901,7 +903,7 @@ Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
 
 
 
-8. Poveikio aplinkai vertinimo subjektas, nustatęs ataskaitos dėl viršesniam viešajam interesui priskiriamos ir svarbia viešajam saugumui laikomos planuojamos ūkinės veiklos trūkumus, prieš pateikdamas motyvuotus reikalavimus, kad poveikio aplinkai vertinimo dokumentų rengėjas papildytų ar pataisytų ataskaitą, ne vėliau kaip iki šio straipsnio 5 dalyje nustatyto termino pabaigos aplinkos ministro nustatyta tvarka informuoja apie nustatytus trūkumus ir savo iniciatyva arba poveikio aplinkai vertinimo dokumentų rengėjo prašymu organizuoja susitikimą nustatytiems ataskaitos trūkumams aptarti.
+8. Poveikio aplinkai vertinimo subjektas, nustatęs ataskaitos dėl planuojamos ūkinės veiklos, kurios tikslas yra gaminti energiją iš atsinaujinančių išteklių ar atsinaujinančių išteklių kurą, trūkumus, prieš pateikdamas motyvuotus reikalavimus, kad poveikio aplinkai vertinimo dokumentų rengėjas papildytų ar pataisytų ataskaitą, ne vėliau kaip iki šio straipsnio 5 dalyje nustatyto termino pabaigos aplinkos ministro nustatyta tvarka informuoja apie nustatytus trūkumus ir savo iniciatyva arba poveikio aplinkai vertinimo dokumentų rengėjo prašymu organizuoja susitikimą nustatytiems ataskaitos trūkumams aptarti.
 
 
 
@@ -932,7 +934,7 @@ Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
 12 straipsnis. Sprendimas dėl planuojamos ūkinės veiklos poveikio aplinkai 
 
 
-1. Atsakingoji institucija, išnagrinėjusi suinteresuotos visuomenės pasiūlymus ir šių pasiūlymų įvertinimą, išnagrinėjusi ir įvertinusi ataskaitą, remdamasi poveikio aplinkai vertinimo subjektų išvadomis dėl ataskaitos ir planuojamos ūkinės veiklos poveikio aplinkai ir atsižvelgdama į šio straipsnio 8, 9 ar 10 dalyje nustatyta tvarka organizuotų susitikimų rezultatus, per 25 darbo dienas nuo ataskaitos gavimo dienos, o dėl ataskaitos dėl viršesniam viešajam interesui priskiriamos ir svarbia viešajam saugumui laikomos planuojamos ūkinės veiklos – per 20 darbo dienų nuo ataskaitos gavimo dienos:
+1. Atsakingoji institucija, išnagrinėjusi suinteresuotos visuomenės pasiūlymus ir šių pasiūlymų įvertinimą, išnagrinėjusi ir įvertinusi ataskaitą, remdamasi poveikio aplinkai vertinimo subjektų išvadomis dėl ataskaitos ir planuojamos ūkinės veiklos poveikio aplinkai ir atsižvelgdama į šio straipsnio 8, 9 ar 10 dalyje nustatyta tvarka organizuotų susitikimų rezultatus, per 25 darbo dienas nuo ataskaitos gavimo dienos, o dėl ataskaitos dėl planuojamos ūkinės veiklos, kurios tikslas yra gaminti energiją iš atsinaujinančių išteklių ar atsinaujinančių išteklių kurą, per 20 darbo dienų nuo ataskaitos gavimo dienos:
 
 
 1) teikia motyvuotus reikalavimus ataskaitą pataisyti ar papildyti arba
@@ -947,7 +949,7 @@ Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
 
 
 
-2. Atsakingoji institucija, nustačiusi ataskaitos dėl viršesniam viešajam interesui priskiriamos ir svarbia viešajam saugumui laikomos planuojamos ūkinės veiklos trūkumus, prieš pateikdama motyvuotus reikalavimus ataskaitą pataisyti ar papildyti, ne vėliau kaip iki šio straipsnio 1 dalyje nustatyto termino pabaigos aplinkos ministro nustatyta tvarka informuoja apie nustatytus trūkumus ir savo iniciatyva arba poveikio aplinkai vertinimo dokumentų rengėjo prašymu organizuoja susitikimą nustatytiems ataskaitos trūkumams aptarti.
+2. Atsakingoji institucija, nustačiusi ataskaitos dėl planuojamos ūkinės veiklos, kurios tikslas yra gaminti energiją iš atsinaujinančių išteklių ar atsinaujinančių išteklių kurą, trūkumus, prieš pateikdama motyvuotus reikalavimus ataskaitą pataisyti ar papildyti, ne vėliau kaip iki šio straipsnio 1 dalyje nustatyto termino pabaigos aplinkos ministro nustatyta tvarka informuoja apie nustatytus trūkumus ir savo iniciatyva arba poveikio aplinkai vertinimo dokumentų rengėjo prašymu organizuoja susitikimą nustatytiems ataskaitos trūkumams aptarti.
 
 
 
@@ -957,12 +959,12 @@ Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
 
 
 
-4. Sprendimo dėl planuojamos ūkinės veiklos poveikio aplinkai priėmimo terminas vieną kartą gali būti pratęstas ne daugiau kaip 25 darbo dienomis, o dėl viršesniam viešajam interesui priskiriamos ir svarbia viešajam saugumui laikomos planuojamos ūkinės veiklos – ne daugiau kaip 20 darbo dienų, dėl nuo atsakingosios institucijos nepriklausomų objektyvių priežasčių. Atsakingoji institucija apie priimtą sprendimą pratęsti terminą privalo ne vėliau kaip likus 5 darbo dienoms iki termino pabaigos pranešti planuojamos ūkinės veiklos organizatoriui ir poveikio aplinkai vertinimo dokumentų rengėjui ir nurodyti priežastis, dėl kurių terminas pratęsiamas.
+4. Sprendimo dėl planuojamos ūkinės veiklos poveikio aplinkai priėmimo terminas vieną kartą gali būti pratęstas ne daugiau kaip 25 darbo dienomis, o dėl planuojamos ūkinės veiklos, kurios tikslas yra gaminti energiją iš atsinaujinančių išteklių ar atsinaujinančių išteklių kurą, – ne daugiau kaip 20 darbo dienų dėl nuo atsakingosios institucijos nepriklausomų objektyvių priežasčių. Atsakingoji institucija apie priimtą sprendimą pratęsti terminą privalo ne vėliau kaip likus 5 darbo dienoms iki termino pabaigos pranešti planuojamos ūkinės veiklos organizatoriui ir poveikio aplinkai vertinimo dokumentų rengėjui ir nurodyti priežastis, dėl kurių terminas pratęsiamas.
 
 
 
 
-5. Kai atsakingoji institucija pateikia motyvuotus reikalavimus ataskaitą pataisyti ir (ar) papildyti, poveikio aplinkai vertinimo dokumentų rengėjas turi pataisyti ir (ar) papildyti ataskaitą ir pakartotinai pateikti ją atsakingajai institucijai. Atsakingoji institucija pataisytą ir (ar) papildytą ataskaitą išnagrinėja ir per 15 darbo dienų, o dėl viršesniam viešajam interesui priskiriamos ir svarbia viešajam saugumui laikomos planuojamos ūkinės veiklos – per 10 darbo dienų, nuo papildytos ir (ar) pataisytos ataskaitos gavimo dienos priima sprendimą arba, nepažeisdama šio įstatymo 6 straipsnio 8 dalies nuostatų, dar kartą teikia motyvuotus reikalavimus ataskaitą pataisyti ar papildyti. 
+5. Kai atsakingoji institucija pateikia motyvuotus reikalavimus ataskaitą pataisyti ir (ar) papildyti, poveikio aplinkai vertinimo dokumentų rengėjas turi pataisyti ir (ar) papildyti ataskaitą ir pakartotinai pateikti ją atsakingajai institucijai. Atsakingoji institucija pataisytą ir (ar) papildytą ataskaitą išnagrinėja ir per 15 darbo dienų, o dėl planuojamos ūkinės veiklos, kurios tikslas yra gaminti energiją iš atsinaujinančių išteklių ar atsinaujinančių išteklių kurą, per 10 darbo dienų nuo papildytos ir (ar) pataisytos ataskaitos gavimo dienos priima sprendimą arba, nepažeisdama šio įstatymo 6 straipsnio 8 dalies nuostatų, dar kartą teikia motyvuotus reikalavimus ataskaitą pataisyti ar papildyti. 
 
 
 
@@ -1230,7 +1232,7 @@ PLANUOJAMOS ŪKINĖS VEIKLOS, KURIOS POVEIKIS APLINKAI PRIVALO BŪTI VERTINAMAS,
 3. Energetika:
 
 
-3.1. šiluminių elektrinių ir kitų deginimo įrenginių, įskaitant pramoninius įrenginius elektrai, garui gaminti ar vandeniui šildyti, įrengimas (kai įrenginių vardinė (nominalioji) šiluminė galia – 150 MW ir didesnė);
+3.1. pramoninių įrenginių elektros energijai, garui gaminti ar vandeniui šildyti įrengimas (kai įrenginių vardinė (nominalioji) šiluminė galia arba, kai gaminama tik elektros energija, įrengtoji galia – didesnė kaip 5 MW), išskyrus Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priedo 3.1, 3.2 ir 3.10 papunkčiuose ir šio priedo 3.7 ir 3.8 papunkčiuose nurodytas veiklas;
 
 
 
@@ -1283,7 +1285,7 @@ PLANUOJAMOS ŪKINĖS VEIKLOS, KURIOS POVEIKIS APLINKAI PRIVALO BŪTI VERTINAMAS,
 
 
 
-3.10.2. sausumoje, kai planuojama statyti 7 ar daugiau vėjo elektrinių ir atstumas nuo planuojamų statyti vėjo elektrinių iki pastatytų, statomų ar planuojamų statyti yra 5 km ar mažesnis (matuojant tarp stiebų centrų) arba kai šie skaičiai ir atstumo dydžiai pasiekiami, įskaitant jau pastatytas, statomas ar planuojamas statyti vėjo elektrines.
+3.10.2. sausumoje, kai planuojama statyti 7 ar daugiau vėjo elektrinių, kurių aukštis – ne mažesnis kaip 50 m (matuojant iki aukščiausio konstrukcijų taško, įskaitant ir sparnuotės aukštį), ir atstumas nuo planuojamų statyti vėjo elektrinių iki pastatytų, statomų ar planuojamų statyti vėjo elektrinių yra 5 km ar mažesnis (matuojant tarp stiebų centrų) arba kai šie skaičiai ir atstumo dydžiai pasiekiami, įskaitant jau pastatytas, statomas ar planuojamas statyti vėjo elektrines, kurių aukštis ne mažesnis kaip 50 m (matuojant iki aukščiausio konstrukcijų taško, įskaitant ir sparnuotės aukštį), išskyrus Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 2 priedo 3.8.3 papunktyje nurodytą veiklą.
 
 
 
@@ -1420,7 +1422,7 @@ PLANUOJAMOS ŪKINĖS VEIKLOS, KURIOS POVEIKIS APLINKAI PRIVALO BŪTI VERTINAMAS,
 
 
 
-8.8. antžeminių elektros perdavimo linijų tiesimas (kai įtampa – 220 kV ar aukštesnė, o linijos ilgis – 15 ir daugiau km);
+8.8. antžeminių elektros perdavimo linijų tiesimas (kai įtampa – 220 kV ar aukštesnė, o linijos ilgis – 15 km ar daugiau), išskyrus atvejus, kai antžeminių elektros energijos perdavimo linijų tiesimas (kai įtampa – 220 kV ar aukštesnė, o linijos ilgis – 15 km ar daugiau) planuojamas teritorijose, numatytose paspartintos atsinaujinančių išteklių energijos plėtros zonų plane (-uose), patvirtintame (-uose) Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo nustatyta tvarka, ir kai veikla atitinka šiame (-uose) plane (-uose) nustatytas plėtros taisykles ir poveikio mažinimo priemones;
 
 
 
@@ -1782,13 +1784,9 @@ PLANUOJAMOS ŪKINĖS VEIKLOS, KURIAI TURI BŪTI ATLIEKAMA ATRANKA DĖL POVEIKIO 
 
 3.8. vėjo elektrinių statyba, kai:
 
+3.8.1. planuojama statyti 3 ar daugiau vėjo elektrinių, kurių bent vienos aukštis – 50 m ar daugiau (matuojant iki aukščiausio konstrukcijų taško, įskaitant ir sparnuotės aukštį) ir bendra įrengtoji galia – 150 kW ar didesnė, išskyrus Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priedo 3.10 papunktyje nurodytą veiklą;
 
-3.8.1. planuojama statyti 3 ar daugiau vėjo elektrinių, kurių bent vienos aukštis 50 ar daugiau m (matuojant iki aukščiausio konstrukcijų taško, įskaitant ir sparnuotės aukštį), išskyrus Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priedo 3.10 papunktyje nurodytą veiklą;
-
-
-
-
-3.8.2. vėjo elektrinę planuojama statyti arčiau kaip 1 km atstumu nuo saugomos teritorijos, išskyrus atvejus, kai įrengiama ne daugiau kaip viena ir ne aukštesnė kaip 25 m (matuojant iki aukščiausio konstrukcijų taško) vėjo elektrinė sodyboje ar prie ūkinių pastatų;
+3.8.2. vėjo elektrinę planuojama statyti arčiau kaip 1 km atstumu nuo saugomos teritorijos ar nekilnojamosios kultūros vertybės, kuriai vadovaujantis Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymu, yra nustatytas ir Kultūros vertybių registro informacinėje sistemoje registruotas kraštovaizdžio vertingųjų savybių pobūdis, išskyrus atvejus, kai įrengiama ne daugiau kaip viena ir ne aukštesnė kaip 25 m (matuojant iki aukščiausio konstrukcijų taško) vėjo elektrinė sodyboje ar prie ūkinių pastatų;
 
 
 
@@ -2191,7 +2189,7 @@ Produktų iš elastomerų gamyba ar perdirbimas (kai gamybos ar perdirbimo pajė
 
 
 
-11.8. biodujų gamyba, išskyrus 1 MW ir mažesnės įrengtosios galios biodujų elektrines; 
+11.8. biodujų gamyba, išskyrus biodujų elektrines; 
 
 
 
@@ -2288,12 +2286,12 @@ Produktų iš elastomerų gamyba ar perdirbimas (kai gamybos ar perdirbimo pajė
 
 
 
-14. Į Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priede pateiktą rūšių sąrašą įrašytos planuojamos ūkinės veiklos keitimas ar išplėtimas, nenurodytas Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priedo 11 punkte, kai planuojamos ūkinės veiklos keitimas ar išplėtimas gali daryti reikšmingą neigiamą poveikį aplinkai arba jei toks pakeitimas ar išplėtimas lygus šiame priede nustatytiems žemutiniams ribiniams dydžiams arba didesnis už juos, jeigu jie nustatyti, įskaitant esamų statinių rekonstravimą, gamybos proceso ir technologinės įrangos modernizavimą ar keitimą, gamybos būdo, produkcijos kiekio (masto) ar rūšies pakeitimą, naujų technologijų įdiegimą.
+14. Į Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priede pateiktą rūšių sąrašą įrašytos planuojamos ūkinės veiklos keitimas ar išplėtimas, nenurodytas Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priedo 11 punkte, kai planuojamos ūkinės veiklos keitimas ar išplėtimas gali daryti reikšmingą neigiamą poveikį aplinkai arba kai toks pakeitimas ar išplėtimas lygus šiame priede nustatytiems žemutiniams ribiniams dydžiams arba didesnis už juos, jeigu jie nustatyti, įskaitant esamų statinių rekonstravimą, gamybos proceso ir technologinės įrangos modernizavimą ar keitimą, gamybos būdo, produkcijos kiekio (masto) ar rūšies pakeitimą, naujų technologijų įdiegimą. Šis punktas netaikomas atsinaujinančius išteklius naudojančių elektrinių (įrenginių) modernizavimui, jeigu jų įrengtoji galia padidinama mažiau kaip 15 procentų.
 
 
 
 
-15. Į šiame priede pateiktą rūšių sąrašą įrašytos planuojamos ūkinės veiklos keitimas ar išplėtimas, įskaitant esamų statinių rekonstravimą, gamybos proceso ir technologinės įrangos modernizavimą ar keitimą, gamybos būdo, produkcijos kiekio (masto) ar rūšies pakeitimą, naujų technologijų įdiegimą, kai planuojamos ūkinės veiklos keitimas ar išplėtimas gali daryti reikšmingą neigiamą poveikį aplinkai, išskyrus Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priedo 11 punkte nurodytus atvejus. Šio punkto reikalavimas taikomas veiklai, kuriai:
+15. Į šiame priede pateiktą rūšių sąrašą įrašytos planuojamos ūkinės veiklos keitimas ar išplėtimas, įskaitant esamų statinių rekonstravimą, gamybos proceso ir technologinės įrangos modernizavimą ar keitimą, gamybos būdo, produkcijos kiekio (masto) ar rūšies pakeitimą, naujų technologijų įdiegimą, kai planuojamos ūkinės veiklos keitimas ar išplėtimas gali daryti reikšmingą neigiamą poveikį aplinkai, išskyrus Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 1 priedo 11 punkte nurodytus atvejus ir atsinaujinančius išteklius naudojančių elektrinių (įrenginių) modernizavimą, jeigu jų įrengtoji galia padidinama mažiau kaip 15 procentų. Šio punkto reikalavimas taikomas veiklai, kuriai:
 
 
 15.1. nenustatyti ribiniai dydžiai, – jeigu planuojamos ūkinės veiklos keitimas ar išplėtimas gali daryti reikšmingą neigiamą poveikį aplinkai;
