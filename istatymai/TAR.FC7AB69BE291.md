@@ -29,7 +29,10 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis, tikslas ir uždaviniai
+1^1 straipsnis. Viršesnis viešasis interesas ir visuomenės sveikatos ir saugos tikslas
+Siekiant užtikrinti šio įstatymo 1 straipsnio 5 dalies 2 punkte nurodyto tikslo įgyvendinimą, iki tol, kol Lietuvos elektros energetikos sektorius taps visiškai klimatui neutralus, kompetentingoms institucijoms ar elektros tinklų operatoriams vykdant leidimų išdavimo procedūras, nurodytas šio įstatymo 16 straipsnio 3 dalies 1–7 punktuose, dėl saulės šviesos energijos elektrinių, vėjo elektrinių ir energijos kaupimo įrenginių plėtros bei šių įrenginių prijungimo prie elektros tinklų reikalingos infrastruktūros, laikoma, kad šių elektrinių ir energijos kaupimo įrenginių planavimas, statyba ir eksploatavimas, prijungimas prie elektros tinklų atitinka viršesnį viešąjį interesą ir visuomenės sveikatos ir saugos tikslą. Planuojant šiame straipsnyje nurodytas veiklas, atitinkančias viršesnį viešąjį interesą ir visuomenės sveikatos bei saugos tikslą, vadovaujamasi specialiomis išlygomis, reglamentuotomis Lietuvos Respublikos saugomų teritorijų įstatymo 24 straipsnio 11 dalyje, Lietuvos Respublikos laukinės gyvūnijos įstatymo 23 straipsnio 1 dalyje, Lietuvos Respublikos vandens įstatymo 14 straipsnio 2 dalyje, Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo 14 straipsnio 1 dalyje ir Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 12 straipsnio 12 dalyje.
+
+1 straipsnis. Įstatymo paskirtis, tikslas ir uždaviniai
 
 
 1. Šis įstatymas nustato Lietuvos Respublikos atsinaujinančių išteklių energetikos sektoriaus valstybinio valdymo, reglamentavimo, priežiūros ir kontrolės bei veiklos atsinaujinančių išteklių energetikos sektoriuje organizavimo teisinius pagrindus, taip pat nustato energetikos tinklų operatorių, energijos iš atsinaujinančių išteklių gamintojų veiklos valstybinį reglamentavimą, priežiūrą ir jų santykius su kontrolę vykdančiomis institucijomis.
@@ -41,7 +44,7 @@ BENDROSIOS NUOSTATOS
 Straipsnio dalies pakeitimai:
 Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
- 
+ 
 
 
 
@@ -56,7 +59,7 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
 Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
- 
+ 
 
 
 
@@ -64,581 +67,32 @@ Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
 5. Šio įstatymo uždaviniai atskiruose energetikos sektoriuose:
 
 
-1) 2030 metais atsinaujinančių išteklių energijos dalį, palyginti su transporto sektoriaus galutiniu energijos suvartojimu, visų rūšių transporte padidinti ne mažiau kaip iki 15 procentų. Didžiausia bendra biodegalų ir skystųjų bioproduktų, pagamintų iš javų ir kitų krakmolingų augalų, cukrų ir aliejinių augalų bei augalų, auginamų žemės ūkio paskirties žemėje kaip pagrindinis pasėlis energijos gamybos tikslais, dalis turi būti ne daugiau kaip vienu procentiniu punktu didesnė negu tokio kuro dalis transporto sektoriaus galutinio energijos suvartojimo 2020 metais, bet ne didesnė kaip 7 procentai transporto sektoriaus galutinio energijos suvartojimo, o siektina biodegalų, pagamintų iš žaliavų, ir kitų degalų, numatytų šio įstatymo 6 straipsnio 14 punkte nurodytame energetikos ministro tvirtinamame sąraše, dalis sudarytų ne mažiau kaip 3,5 procento transporto sektoriaus galutinio energijos suvartojimo;
+1) 2030 metais atsinaujinančių išteklių energijos dalį, palyginti su transporto sektoriaus galutiniu energijos suvartojimu, visų rūšių transporte padidinti iki Lietuvos Respublikos alternatyviųjų degalų įstatyme nustatyto dydžio;
 
 
 
 
-2) 2030 metais elektros energijos, pagamintos iš atsinaujinančių energijos išteklių, dalį, apskaičiuojamą šio įstatymo 13 straipsnio 5 dalyje nustatyta tvarka, palyginti su šalies bendruoju galutiniu elektros energijos suvartojimu, siekti padidinti ne mažiau kaip iki 100 procentų;
-Straipsnio punkto pakeitimai:
-Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
- 
+2) 2030 metais elektros energijos, pagamintos iš atsinaujinančių energijos išteklių, dalį, palyginti su šalies bendruoju galutiniu elektros energijos suvartojimu, padidinti ne mažiau kaip iki 100 procentų;
 
 
 
 
-3) 2030 metais centralizuotai tiekiamos šilumos energijos, pagamintos iš atsinaujinančių energijos išteklių, dalį šilumos energijos balanse padidinti ne mažiau kaip iki 90 procentų, o namų ūkiuose atsinaujinančių energijos išteklių dalį šildymui sunaudojamų energijos išteklių balanse padidinti ne mažiau kaip iki 80 procentų.
+3) 2030 metais centralizuotai tiekiamos šilumos energijos, pagamintos iš atsinaujinančių energijos išteklių, dalį šilumos energijos balanse padidinti ne mažiau kaip iki 90 procentų, o necentralizuotai tiekiamos šilumos energijos, pagamintos iš atsinaujinančių energijos išteklių, dalį šildymui sunaudojamų energijos išteklių balanse padidinti ne mažiau kaip iki 80 procentų;
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
-Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
- 
 
 
+4) 2030 metais iš atsinaujinančių energijos išteklių pagaminto nebiologinės kilmės kuro, naudojamo energijos ir ne energetikos tikslais, dalį pramonės sektoriuje, palyginti su vandeniliu, suvartojamu galutinės energijos ir ne energetikos tikslais pramonės sektoriuje, padidinti ne mažiau kaip iki 42 procentų, o 2035 metais – ne mažiau kaip iki 60 procentų; 2030 metais siektiną galutinės energijos, pagamintos iš atsinaujinančių energijos išteklių, suvartotos energijos ir ne energetikos tikslais pramonės sektoriuje, dalį padidinti ne mažiau kaip 1,6 procentinio punkto, skaičiuojant metinį vidurkį laikotarpiams nuo 2021 iki 2025 metų ir nuo 2026 iki 2030 metų;
 
 
-6. Europos Sąjungos teisės aktai, įgyvendinami šio įstatymo nuostatomis, nurodyti šio įstatymo priede.
- 
 
 
+5) 2030 metais siektiną pažangių energijos iš atsinaujinančių energijos išteklių gamybos technologijų dalį padidinti ne mažiau kaip 5 procentais naujai įrengtų atsinaujinančių išteklių energijos gamybos pajėgumų, vertinant didėjimą nuo 2026 metų.
 
 
+6. Šio straipsnio 5 dalies 4 punkte nurodyti uždaviniai dėl iš atsinaujinančių energijos išteklių pagaminto nebiologinės kilmės kuro naudojimo 2030 metais ir 2035 metais pramonės sektoriuje Vyriausybės nustatyta tvarka ūkio subjektams gali būti sumažinti 20 procentų 2030 metais ir 20 procentų 2035 metais, jeigu gamybos iš atsinaujinančių energijos išteklių dalis, palyginti su šalies bendruoju galutiniu energijos suvartojimu, 2030 metais sudaro ne mažiau kaip 55 procentus ir šalyje suvartojamo vandenilio iš iškastinio kuro procentinė dalis 2030 metais yra ne didesnė kaip 23 procentai, o 2035 metais – ne didesnė kaip 20 procentų.
 
-
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
-
-
-1. Aplinkos energija – natūraliai susidaranti šiluminė energija ir apribotoje aplinkoje – aplinkos ore, išskyrus šalinamą orą, paviršiniame vandenyje arba nuotekose – susikaupianti energija. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
- 
-
-
-
-
-11. Atsinaujinančius energijos išteklius naudojanti elektrinė (toliau – elektrinė) – nuosavybės ar kita teise valdoma visuma tarpusavyje technologiškai susijusių elektros energijos iš atsinaujinančių išteklių gamybos įrenginių ir jų technologinių priklausinių, skirtų elektros energijai gaminti ar elektros ir šilumos energijai gaminti bendrosios gamybos būdu. Saulės šviesos energijos elektrinėje esantys moduliai ir jų generuojamai galiai priskiriami technologiniai įrenginiai yra kilnojamieji daiktai. 
-Papildyta straipsnio dalimi:
-Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
- 
-
-
-
-
-2. Atsinaujinančių išteklių energija – energija iš atsinaujinančių neiškastinių išteklių: vėjo, saulės energija, aplinkos energija, geoterminiai, hidroterminiai ištekliai ir vandenynų energija, hidroenergija, biomasė, biodujos, įskaitant sąvartynų ir nuotekų perdirbimo įrenginių dujas, taip pat kitų atsinaujinančių neiškastinių išteklių, kurių panaudojimas technologiškai yra galimas dabar arba bus galimas ateityje, energija.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
- 
-
-
-
-
-21. Atsinaujinančių išteklių energijos bendrija – šiame įstatyme nustatytus kriterijus atitinkantis pelno nesiekiantis juridinis asmuo, kuris nuosavybės teise valdo ir plėtoja energijos iš atsinaujinančių išteklių gamybos įrenginius ir turi teisę juose gaminti energiją, ją vartoti, kaupti energijos kaupimo įrenginiuose ir (ar) parduoti ir kuriam šio įstatymo nustatyta tvarka suteikiamas atsinaujinančių išteklių energijos bendrijos statusas.
-Papildyta straipsnio dalimi:
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
-Straipsnio dalies pakeitimai:
-Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
- 
-
-
-
-
-22. Bendroji vardinė šiluminė galia – visų biomasės kurą deginančių įrenginių vardinė šiluminė galia vienoje katilinėje (elektrinėje), neįskaitant kondensacinio dūmų ekonomaizerio galios. 
-Papildyta straipsnio dalimi:
-Nr. XIV-1067, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09676
- 
-
-
-
-
-3. Energijos iš atsinaujinančių išteklių gamybos įrenginys – iš atsinaujinančių energijos išteklių elektros ir (ar) šilumos energiją, ir (ar) vėsumos energiją gaminantis įrenginys.
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-4. Atsinaujinančių išteklių energijos kilmės garantija (toliau – kilmės garantija) – elektroninis dokumentas, kurio vienintelė paskirtis – įrodyti galutiniam vartotojui, kad visa arba tam tikra energijos dalis buvo pagaminta iš atsinaujinančių energijos išteklių. 
-
-
-
-
-5. Neteko galios nuo 2022-01-01.
-Straipsnio dalies pakeitimai:
-Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
- 
-
-
-
-
-6. Atsinaujinančių išteklių naudojimo energijai gaminti skatinimo priemonė (toliau – skatinimo priemonė) – šiame įstatyme ir kituose teisės aktuose nustatyta priemonė ar būdas, kuriais energijai gaminti skatinama naudoti atsinaujinančius išteklius.
-
-
-
-
-7. Bendrasis galutinis energijos suvartojimas – energijos tikslais pramonei, transportui, namų ūkiams, paslaugų sektoriui (įskaitant viešąsias paslaugas), žemės ūkiui, miškininkystei ir žuvininkystei tiekiamų energijos produktų suvartojimas, įskaitant elektros ir šilumos energijos, kurią elektros, šilumos energijos ir transporto degalų gamybai sunaudoja energetikos sektorius, suvartojimą ir elektros bei šilumos energijos nuostolius paskirstymo ir perdavimo proceso metu. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
- 
-
-
-
-
-8. Neteko galios nuo 2021-07-01
-Straipsnio dalies naikinimas:
-Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
- 
-
-
-
-
-9. Biodujos – iš biomasės pagamintos dujos, įskaitant biometaną.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
- 
-
-
-
-
-91. Biodujų gamybos įrenginys – technologinis įrenginys ar jų kompleksas, skirtas biodujoms gaminti. 
-Papildyta straipsnio dalimi:
-Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
- 
-
-
-
-
-10. Biokuras – iš biomasės pagaminti degieji dujiniai, skystieji ir kietieji produktai, naudojami energijai gaminti.
-
-
-
-
-101. Biometanas – išvalytos ir tiekimo į gamtinių dujų perdavimo ar skirstymo sistemas kokybės reikalavimus atitinkančios biodujos. 
-Papildyta straipsnio dalimi:
-Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
- 
-
-
-
-
-11. Biomasė – biologiškai skaidžios biologinės kilmės žemės ūkio, miškų ūkio ir susijusių pramonės šakų, įskaitant žuvininkystę ir akvakultūrą, žaliavos, atliekos ir liekanos, įskaitant augalines ir gyvūnines medžiagas, taip pat biologiškai skaidžios pramoninės ir komunalinės atliekos.
-
-
-
-
-111. Biomasės kuras – iš biomasės pagamintas dujinis ir kietasis kuras. 
-Papildyta straipsnio dalimi:
-Nr. XIV-1067, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09676
- 
-
-
-
-
-12. Biotepalai ir bioalyvos – iš augalinių ar gyvūninių riebalinių medžiagų pagaminti tepalai ir alyvos.
-
-
-
-
-13. Centralizuotas šilumos ar vėsumos energijos tiekimas – šilumos energijos garų, karšto vandens ar ataušintų skysčių pavidalu iš centrinio gamybos šaltinio pristatymas ir pardavimas vartotojams.
-
-
-
-
-131. Didžiausioji elektros energijos iš atsinaujinančių išteklių kaina (toliau – didžiausioji kaina) – šiame įstatyme nustatyta tvarka ir sąlygomis apskaičiuojama elektros energijos kaina, kurią kaip didžiausią elektros energijos iš atsinaujinančių išteklių gamintojams nustato Valstybinė energetikos reguliavimo taryba ir į kurią atsižvelgiama šios energijos gamintojams išmokant viešuosius interesus atitinkančių paslaugų lėšas už pagamintą ir į elektros tinklus patiektą elektros energiją. 
-Papildyta straipsnio dalimi:
-Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
-Straipsnio dalies pakeitimai:
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
- 
-
-
-
-
-14. Neteko galios nuo 2022-01-01. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
-Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
- 
-
-
-
-
-15. Neteko galios nuo 2022-07-08.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
- 
-
-
-
-
-16. Elektrinės išankstinės prijungimo prie energetikos tinklų sąlygos (toliau – išankstinės prijungimo sąlygos) – statyti ar įrengti elektrinę planuojančiam asmeniui išduodamos preliminarios prijungimo sąlygos, kuriose nustatomi privalomieji energetikos tinklų tiesimo, pertvarkymo ir (ar) plėtros reikalavimai, prijungiant šio asmens elektrinę prie energetikos tinklų operatoriaus valdomų tinklų ar teikiant kitas teisės aktuose nustatytas paslaugas.
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-17. Elektrinės prijungimo prie energetikos tinklų prijungimo sąlygos (toliau – prijungimo sąlygos) – techninės sąlygos, kuriose nustatomi privalomieji energetikos tinklų tiesimo, pertvarkymo ir (ar) plėtros reikalavimai, prijungiant elektrinę prie energetikos tinklų operatoriaus valdomų tinklų ar teikiant kitas teisės aktuose nustatytas paslaugas.
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-18. Neteko galios nuo 2021-07-01
-Straipsnio dalies naikinimas:
-Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
-Straipsnio dalies pakeitimai:
-Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
- 
-
-
-
-
-19. Elektros energijos iš atsinaujinančių išteklių atskaitinė kaina (toliau – atskaitinė kaina) – Valstybinės energetikos reguliavimo tarybos nustatoma elektros energijos iš atsinaujinančių išteklių kaina, naudojama didžiausiam galimam elektros energijos iš atsinaujinančių išteklių kainos priedui nustatyti. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
-Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
- 
-
-
-
-
-191. Elektros energijos iš atsinaujinančių išteklių kainos priedas (toliau – kainos priedas) – šiame įstatyme nustatyta tvarka ir sąlygomis elektros energijos gamintojo iš viešuosius interesus atitinkančių paslaugų lėšų gaunamos papildomos pajamos už pagamintą ir į elektros tinklus patiektą elektros energijos iš atsinaujinančių išteklių vienetą. 
-Papildyta straipsnio dalimi:
-Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
- 
-
-
-
-
-192. Elektros energijos iš atsinaujinančių išteklių pirkimo–pardavimo sandorio kaina (toliau – sandorio kaina) – šiame įstatyme nustatyta tvarka ir sąlygomis elektros energijos gamintojo, elektrinę eksploatuojančio jūrinėje teritorijoje, konkurse laimėta kaina, už kurią gamintojas sutinka parduoti pagamintą elektros energiją. 
-Papildyta straipsnio dalimi:
-Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
- 
-
-
-
-
-193. Elektros energijos gamybos iš atsinaujinančių išteklių skatinimo kvotų paskirstymo tvarkaraštis (toliau – tvarkaraštis) – Lietuvos Respublikos Vyriausybės priimamas teisės aktas, kuriame nustatomos penkerių metų informacijos apie planuojamus organizuoti elektros energijos gamybos iš atsinaujinančių išteklių skatinimo kvotų paskirstymo aukcionus (toliau – aukcionas) paskelbimo datos, aukcionuose planuojamo paskirstyti metinio elektros energijos gamybos kiekio apimtis ir elektros energijos iš atsinaujinančių išteklių kainos priedo mokėjimo laikotarpiu gamintojams planuojamos skirti viešuosius interesus atitinkančių paslaugų lėšos už pagamintą ir į elektros tinklus patiektą elektros energiją iš atsinaujinančių išteklių. 
-Papildyta straipsnio dalimi:
-Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
-Straipsnio dalies pakeitimai:
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
- 
-
-
-
-
-20. Neteko galios nuo 2022-01-01.
-Straipsnio dalies pakeitimai:
-Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
- 
-
-
-
-
-21. Energetikos tinklai – visi tarpusavyje sujungti techniniai įrenginiai, naudojami energijai ir (ar) jos ištekliams perduoti ir paskirstyti: elektros energijos perdavimo sistemos ir (ar) elektros energijos skirstomieji tinklai, šilumos ar vėsumos energijos perdavimo tinklai, dujų perdavimo ir (ar) skirstymo sistemos.
-
-
-
-
-22. Energetikos tinklų operatorius – elektros energijos perdavimo sistemos ir (ar) elektros energijos skirstomųjų tinklų, šilumos ar vėsumos energijos perdavimo tinklų, dujų perdavimo ir (ar) skirstymo sistemų operatorius.
-
-
-
-
-23. Energijos beveik nevartojantis pastatas – pastatas, kurio energinis naudingumas, nustatytas pagal normatyvinius statybos techninius dokumentus, yra labai didelis. Reikalingos energijos, kurios beveik nesuvartojama arba suvartojama labai mažai, didžiąją dalį turi sudaryti atsinaujinančių išteklių energija, įskaitant vietoje ar netoliese iš atsinaujinančių išteklių pagamintą energiją.
-
-
-
-
-24. Energijos gamybos įrenginio pajėgumas – elektros, šilumos ar vėsumos energijos gamybos įrenginio galimybė pasiekti tam tikrą galią įprastomis darbo sąlygomis, neatsižvelgiant į laiko ribojimus ar trumpalaikius nuokrypius.
-
-
-
-
-25. Energijos iš atsinaujinančių išteklių gamintojas (toliau – gamintojas) – asmuo, eksploatuojantis energijos iš atsinaujinančių išteklių gamybos įrenginį (įrenginius) ir jame (juose) gaminantis elektros, šilumos ir (ar) vėsumos energiją bei turintis (jeigu tai privaloma pagal įstatymus) atitinkamą leidimą, licenciją ar atestatą verstis šia veikla. Šiame ir kituose įstatymuose vartojama energijos iš atsinaujinančių išteklių gamintojo sąvoka apima ir atsinaujinančių išteklių energijos bendrijas, jeigu konkrečiame atitinkamo įstatymo straipsnyje nenustatyta kitaip. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
- 
-
-
-
-
-26. Energijos iš atsinaujinančių išteklių gamybos įrenginių prijungimo prie energetikos tinklų išlaidos (toliau – prijungimo išlaidos) – pinigų suma, reikalinga energijos iš atsinaujinančių išteklių gamybos įrenginiams prijungti prie energetikos tinklų operatoriaus valdomų tinklų.
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-27. Fiksuotas elektros energijos iš atsinaujinančių išteklių tarifas (toliau – fiksuotas tarifas) – šiame įstatyme nustatyta tvarka ir sąlygomis elektros energijos gamintojui garantuojamos pajamos už pagamintą ir į elektros tinklus patiektą elektros energijos iš atsinaujinančių energijos išteklių vienetą.
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-28. Geoterminė energija – šilumos energija, susikaupusi žemiau žemės paviršiaus.
-
-
-
-
-281. Grynasis atsiskaitymas – nepriklausomo elektros energijos tiekėjo taikomas bendras atsiskaitymas su elektros energijos vartotoju, kuriam priskirtas elektros energijos iš atsinaujinančių išteklių gamybos įrenginys ar jo dalis arba kuris nuosavybės ar kitais teisėtais pagrindais valdo tokį įrenginį ar jo dalį, už šiam vartotojui patiektą elektros energiją ir (ar) kitas susijusias paslaugas ir vartotojo iš atsinaujinančių išteklių pagamintą elektros energiją. 
-Papildyta straipsnio dalimi:
-Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
- 
-
-
-
-
-282. Hibridinė elektrinė – tame pačiame elektros įrenginių prijungimo prie elektros tinklų taške į sistemą sujungtos kelios skirtingas atsinaujinančių išteklių energijos rūšis naudojančios elektrinės arba šios elektrinės ir energijos kaupimo įrenginys ar įrenginiai.
-Papildyta straipsnio dalimi:
-Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
- 
-
-
-
-
-29. Neteko galios nuo 2021-07-01
-Straipsnio dalies naikinimas:
-Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
- 
-
-
-
-
-30. Hidroenergija – patvenkto ir (arba) tekančio vandens energija, naudojama elektros energijai gaminti.
-
-
-
-
-31. Neteko galios nuo 2021-06-30.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
- 
-
-
-
-
-32. Integruota į pastatą saulės šviesos energijos elektrinė – elektrinė, kurios elektros energiją generuojantys įrenginiai (saulės šviesos energijos moduliai arba speciali danga) įrengiami į pastato sieną ar stogą (ar jų dalį) ir užtikrina pastato apsaugą nuo atmosferos poveikio (lietaus, sniego, vėjo). Tokios elektrinės įrenginius pašalinus iš pastato sienos ar stogo (ar jų dalies) iš esmės būtų pažeista pastato apsauga nuo atmosferos poveikio. 
-Papildyta straipsnio dalimi:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-321. Iš atsinaujinančių išteklių elektros energiją gaminančios elektrinės ar įrenginio modernizavimas – iš atsinaujinančių išteklių elektros energiją gaminančios elektrinės ar įrenginio atnaujinimas (pagerinimas), įskaitant visų arba dalies elektrinės įrenginių ar įrangos pakeitimą ir (arba) elektrinės elektros energijos gamybos įrenginio valdymo sistemų pakeitimą, siekiant pakeisti elektrinės įrengtąją galią ar elektros energijos gamybos įrenginio galią ir (arba) padidinti elektrinės ar elektros energijos gamybos įrenginio naudingumą. 
-Papildyta straipsnio dalimi:
-Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
- 
-
-
-
-
-322. Iš atsinaujinančių išteklių pagaminti nebiologiniai skystieji ir dujiniai degalai – skystieji arba dujiniai degalai, kurių energijos kiekis sukaupiamas iš atsinaujinančių energijos išteklių, išskyrus biomasę, ir kurie yra naudojami transportui. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
- 
-
-
-
-
-33. Liekamoji energija – technologinio proceso metu išsiskirianti energija, kuri nepanaudojama tame procese.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-34. Didžiausioji leidžiama prijungti generuojančių šaltinių galia – didžiausia elektrinės galia, kurią perdavimo sistemos ir (ar) skirstomųjų tinklų operatorius gali prijungti prie sistemos ar tinklo.
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-35. Mineraliniai degalai – iš gamtinių iškastinių žaliavų arba mineralinės kilmės atliekų pagaminti skystieji arba dujiniai transporto degalai.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-351. Miško biomasė – miškų ūkyje gaunama biomasė. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
- 
-
-
-
-
-36. Nacionaliniai planiniai rodikliai – šiame įstatyme nustatyta tvarka apskaičiuojami nacionaliniai bendrieji ar tarpiniai planiniai rodikliai, rodantys atsinaujinančių išteklių energijos dalį, palyginti su bendruoju galutiniu energijos suvartojimu, nustatytu laikotarpiu.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-37. Nuosavybės ribų aktas – energetikos tinklų naudotojo ir šių tinklų operatoriaus pasirašomas aktas, kuriame nustatoma nuosavybės riba tarp jų abiejų valdomų tinklų.
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-38. Paramos schema – visuma skatinimo priemonių, kuriomis skatinama naudoti atsinaujinančių išteklių energiją, tarp jų mažinamos atsinaujinančių energijos išteklių naudojimo sąnaudos, didinama energijos iš atsinaujinančių energijos išteklių pardavimo kaina, nustatomi įpareigojimai naudoti atsinaujinančius energijos išteklius ar vartoti iš atsinaujinančių išteklių pagamintą energiją, taip pat kitos priemonės, skatinančios naudoti atsinaujinančius energijos išteklius energijai gaminti ir (ar) iš jų pagamintos energijos vartojimą.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-39. Perteklinė elektros energija – elektros energijos vartotojų elektros tinkle įrengtose elektrinėse, kuriose elektros energijai gaminti naudojami atsinaujinantys energijos ištekliai, pagaminta ir į elektros tinklus patiekta elektros energija, likusi nuo savo reikmėms ir ūkio poreikiams suvartotos elektros energijos.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-391. Pirmoji miško biomasės surinkimo vieta – patalpa ir (ar) teritorija, kurioje energijos išteklių rinkos dalyvis laiko, perdirba ir (ar) maišo žaliavas, gautas tiesiogiai iš pirminių miško biomasės gamintojų.
-Papildyta straipsnio dalimi:
-Nr. XIV-1067, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09676
- 
-
-
-
-
-40. Prievolių įvykdymo užtikrinimas – finansinė garantija ar finansinis laidavimas, kaip tai nustatyta Lietuvos Respublikos finansų įstaigų įstatyme.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-41. Neteko galios 2019-05-01.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-42. Saulės šviesos energija – iš saulės šviesos tiesiogiai gaunama elektros energija.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-43. Skystieji bioproduktai – iš biomasės pagamintas skystasis kuras elektros energijai, šilumai ir (ar) vėsumai gaminti, išskyrus skystuosius transporto degalus. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-44. Statistinis energijos perdavimas – pagal oficialius valstybės statistinius duomenis apskaičiuoto atsinaujinančių išteklių energijos kiekio perdavimas kitai valstybei narei arba gavimas iš kitos valstybės narės.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-45. Šilumos siurblys – įrenginys, paverčiantis aplinkos ar geoterminę energiją aukštesnės temperatūros šiluma, naudojama pastatams šildyti ir (ar) karštam vandeniui ruošti. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-46. Užsienio valstybė – valstybė ne Europos Sąjungos valstybė narė ir ne Europos ekonominės erdvės valstybė.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-47. Valstybė narė – Europos Sąjungos valstybė narė ir (ar) Europos ekonominės erdvės valstybė. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-471. Valstybės narės liekamasis energijos rūšių derinys (toliau – liekamasis derinys) – visas valstybės narės metinis įvairių rūšių energijos kiekis atėmus panaikintose atsinaujinančių išteklių energijos kilmės garantijose nurodytą energijos kiekį.
-Papildyta straipsnio dalimi:
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
- 
-
-
-
-
-48. Vėjo energija – oro judėjimo energija, naudojama energijai gaminti.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-49. Neteko galios nuo 2022-01-01.
-Straipsnio dalies pakeitimai:
-Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-50. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos alternatyviųjų degalų įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos dokumentų ir archyvų įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos vandens įstatyme ir Lietuvos Respublikos žemės įstatyme. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
-Nr. XIII-613, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12335
-Nr. XIII-3107, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15316
-Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-Straipsnio pakeitimai:
-Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
- 
-
-
-
-
-3 straipsnis. Atsinaujinančių energijos išteklių naudojimo plėtros skatinimas
+7. Europos Sąjungos teisės aktai, įgyvendinami šio įstatymo nuostatomis, nurodyti šio įstatymo priede.3 straipsnis. Atsinaujinančių energijos išteklių naudojimo plėtros skatinimas
 
 
 1. Atsinaujinančių energijos išteklių naudojimas skatinamas šio įstatymo ir kitų teisės aktų nustatyta tvarka ir sąlygomis.
@@ -829,395 +283,19 @@ Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 10) savivaldybės.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
 
-
-
-
-
-
-
-
-5 straipsnis. Vyriausybės kompetencija
-
-
-1. Vyriausybė:
-
-
-1) neteko galios nuo 2021-06-30;
-Straipsnio punkto pakeitimai:
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
- 
-
-
-
-
-11) Nacionaliniame pažangos plane nustato atsinaujinančių energijos išteklių strateginius tikslus ir (arba) pažangos uždavinius ir šiuos uždavinius įgyvendinančias nacionalines plėtros programas, kuriose suplanuojamos priemonės, skirtos šiems uždaviniams įgyvendinti; 
-Papildyta straipsnio punktu:
-Nr. XIII-3107, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15316
- 
-
-
-
-
-2) neteko galios nuo 2019-06-01;
-Straipsnio punkto pakeitimai:
-Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
- 
-
-
-
-
-3) neteko galios nuo 2017-11-01;
-Straipsnio punkto pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-4) neteko galios nuo 2017-11-01;
-Straipsnio punkto pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-5) nustato biodegalų ir skystųjų bioproduktų atitikties tvarumo kriterijams kontrolės tvarką, taip pat biodegalų ir skystųjų bioproduktų, atitinkančių tvarumo kriterijus, sertifikavimo tvarką;
-
-
-
-
-6) nustato ir tvirtina tvarkaraštį; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
- 
-
-
-
-
-7) nustato susitarimų dėl statistinio energijos perdavimo tarp Lietuvos Respublikos ir kitų valstybių narių sudarymo tvarką, taip pat bendrųjų projektų tarp Lietuvos Respublikos, kitų valstybių narių ir užsienio valstybių vykdymo tvarką;
-Straipsnio punkto pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-8) neteko galios nuo 2022-04-08;
-Papildyta straipsnio punktu:
-Nr. XIII-613, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12335
-Straipsnio punkto pakeitimai:
-Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
- 
-
-
-
-
-9) nustato jūrinės teritorijos dalis, kuriose tikslinga organizuoti konkursą (konkursus) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai, ir šių elektrinių didžiausias leistinas generuoti galias ir mažiausias įrengtąsias galias;
-Papildyta straipsnio punktu:
-Nr. XIII-613, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12335
-Straipsnio punkto pakeitimai:
-Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
-Nr. XIV-1698, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27271
- 
-
-
-
-
-91) nustato atsinaujinančius energijos išteklius naudojančių elektrinių plėtros sąlygas, kai šių elektrinių galia viršija šiame įstatyme nustatytas galias;
-Papildyta straipsnio punktu:
-Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
- 
-
-
-
-
-10) atlieka kitas šio įstatymo nustatytas funkcijas.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-613, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12335
- 
-
-
-
-
-
-
-2. Vyriausybė ar jos įgaliota institucija:
-
-
-1) neteko galios nuo 2017-11-01;
-Straipsnio punkto pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-2) neteko galios nuo 2017-11-01;
-Straipsnio punkto pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-3) derina savivaldybių atsinaujinančių išteklių energijos naudojimo plėtros veiksmų planų projektus;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
- 
-
-
-
-
-4) nustato viešuosius interesus atitinkančių paslaugų teikimo tvarką;
-
-
-
-
-5) neteko galios nuo 2023-02-01;
-Straipsnio punkto pakeitimai:
-Nr. XIII-613, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12335
-Nr. XIV-1698, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27271
- 
-
-
-
-
-6) nustato kilmės garantijų išdavimo, perdavimo ir jų galiojimo panaikinimo tvarką;
-
-
-
-
-7) tvirtina Nacionalinį energijai gaminti tinkamų pramoninių ir komunalinių atliekų biologiškai skaidžios dalies panaudojimo specialųjį planą;
-
-
-
-
-8) nustato naudojimosi gamtinių dujų perdavimo ir skirstymo sistemomis, perduodant ir skirstant dujas iš atsinaujinančių energijos išteklių, tvarką;
-
-
-
-
-9) Neteko galios nuo 2021-07-01
-Straipsnio punkto naikinimas:
-Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
- 
-
-
-
-
-10) Neteko galios nuo 2021-07-01
-Straipsnio punkto naikinimas:
-Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
- 
-
-
-
-
-11) Neteko galios nuo 2021-07-01
-Straipsnio punkto naikinimas:
-Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
- 
-
-
-
-
-12) rengia priemones, didinančias visų rūšių atsinaujinančių išteklių energijos naudojimą pastatuose ir energijos vartojimo efektyvumą, susijusias su energijos bendrąja gamyba ir (ar) energijos beveik nevartojančiais pastatais, taip pat koordinuoja ir prižiūri, kaip šios priemonės įgyvendinamos;
-
-
-
-
-13) nustato atsinaujinančių energijos išteklių naudojimo pastatuose reikalavimus ir šių reikalavimų įgyvendinimo tvarką;
-
-
-
-
-14) tvirtina šio įstatymo 45 straipsnio 1 dalyje nurodytų darbuotojų pareigybių ir profesijų sąrašą, nustato šių darbuotojų kvalifikacinius reikalavimus, tvirtina atsinaujinančių išteklių energetikos objektus, įrenginius statančių ir eksploatuojančių darbuotojų, kurie privalo būti atestuojami, sąrašą ir nustato jų atestavimo tvarką;
-
-
-
-
-15) nustato atsinaujinančių išteklių energijos gamybos įrenginius montuojančių specialistų atestavimo tvarką;
-
-
-
-
-16) nustato informacijos apie biokuro naudojimą rinkimo ir teikimo Europos Komisijai tvarką;
-
-
-
-
-17) tvirtina Lietuvos Respublikos teritorinės jūros, Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje tyrimų ir kitų veiksmų, reikalingų Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalims, kuriose tikslinga organizuoti konkursą (konkursus) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai, ir šių elektrinių įrengtosioms galioms nustatyti, atlikimo ir jų rezultatų skelbimo tvarkos aprašą; 
-Papildyta straipsnio punktu:
-Nr. XIII-613, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12335
- 
-
-
-
-
-18) atlieka kitas šio įstatymo nustatytas funkcijas.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-613, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12335
- 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
- 
-
-
-
-
-6 straipsnis. Energetikos ministerijos kompetencija
-
-
-Energetikos ministerija:
-
-
-1) teisės aktų nustatyta tvarka ir sąlygomis pagal kompetenciją koordinuoja degiųjų dujinių produktų (biodujų), miško ir medienos atliekų, šiaudų, kitų rūšių biologinės kilmės kuro (žemės ūkio atliekų ir augalų, naudojamų energijai gaminti) gamybos ir naudojimo, taip pat aplinkos, geoterminės, hidroenergijos, saulės šilumos energijos ir saulės šviesos energijos, vėjo energijos naudojimo energijai gaminti plėtros ir skatinimo priemonių įgyvendinimą, atlieka jų įgyvendinimo stebėseną ir užtikrina valstybinę priežiūrą ir kontrolę; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
- 
-
-
-
-
-11) dalyvauja rengiant Nacionalinį pažangos planą dėl atsinaujinančių energijos išteklių strateginių tikslų ir (arba) pažangos uždavinių nustatymo; 
-Papildyta straipsnio punktu:
-Nr. XIII-3107, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15316
- 
-
-
-
-
-2) neteko galios nuo 2017-11-01;
-Straipsnio punkto pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-3) rengia nacionalines plėtros programas, kuriose suplanuojamos atsinaujinančių energijos išteklių pažangos uždavinius įgyvendinančios priemonės, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
-Nr. XIII-3107, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15316
- 
-
-
-
-
-4) Neteko galios nuo 2015-07-01
-Straipsnio punkto naikinimas:
-Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
- 
-
-
-
-
-5) neteko galios nuo 2017-11-01;
-Straipsnio punkto pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-6) rengia ir tvirtina technines taisykles, nustatančias būtiniausius techninės konstrukcijos ir eksploatavimo reikalavimus, taikomus elektros iš atsinaujinančių energijos išteklių šaltinius, įskaitant hibridines elektrines, jungiant į elektros tinklus;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
- 
-
-
-
-
-7) rengia ir tvirtina technines taisykles, nustatančias būtiniausius techninės konstrukcijos ir eksploatavimo reikalavimus, taikomus dujų iš atsinaujinančių energijos išteklių šaltinius jungiant į gamtinių dujų tinklus;
-
-
-
-
-8) nustato nacionalinių planinių rodiklių skaičiavimo tvarką;
-
-
-
-
-9) tvirtina Biokuro, biodegalų, biodujų, biotepalų ir bioalyvų prekybos taisykles;
-
-
-
-
-10) Neteko galios nuo 2021-07-01
-Straipsnio punkto naikinimas:
-Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
- 
-
-
-
-
-11) organizuoja keitimąsi patirtimi atsinaujinančių energijos išteklių naudojimo srityje tarp valstybės ir savivaldybių institucijų, įstaigų, įmonių, organizacijų, privačių subjektų ir viešai skelbia gerosios praktikos pavyzdžius;
-
-
-
-
-12) Neteko galios nuo 2015-07-01
-Straipsnio punkto naikinimas:
-Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
- 
-
-
-
-
-13) kartu su Aplinkos ministerija nustato reikalavimus integruotoms į pastatą saulės šviesos energijos elektrinėms įrengti ir šių elektrinių integravimo įvertinimo tvarką; 
-Papildyta straipsnio punktu:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
- 
-
-
-
-
-14) tvirtina atsinaujinančių energijos išteklių dalies, palyginti su bendruoju galutiniu energijos suvartojimu, apskaičiavimo metodiką, kurioje, vadovaujantis Direktyva (ES) 2018/2001, nurodoma atsinaujinančiųjų išteklių energijos procentinės dalies apskaičiavimo tvarka, kuro ir degalų energinės vertės, pažangiųjų biodegalų gamybai tinkamos naudoti žaliavos ir nustatoma biodegalų, pagamintų iš maistinių ir pašarinių augalų, procentinė dalis, palyginti su bendruoju galutiniu energijos suvartojimu Lietuvos Respublikos kelių ir geležinkelių transporto sektoriuose 2020 metais. Atsinaujinančių energijos išteklių dalies, palyginti su bendruoju galutiniu energijos suvartojimu, apskaičiavimo metodika turi būti suderinta su Aplinkos ministerija ir Žemės ūkio ministerija;
-Papildyta straipsnio punktu:
-Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
-Straipsnio punkto pakeitimai:
-Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
-Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
- 
-
-
-
-
-15) atlieka kitas šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
-Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
- 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. XI-2025, 2012-05-22, Žin., 2012, Nr. 63-3166 (2012-06-05)
- 
-
-
-
-
-7 straipsnis. Aplinkos ministerijos kompetencija
+7 straipsnis. Aplinkos ministerijos kompetencija
 
 
 Aplinkos ministerija:
 
 
-1) nustato biokurą ar biodegalus naudojančių įrenginių taršos normatyvus;
+1) nustato biokurą ar biodegalus naudojančių įrenginių taršos normatyvus;
 
 
 
 
-2) rengia ir tvirtina metano, išmetamo į atmosferą, kiekio įvertinimo metodiką;
+2) rengia ir tvirtina metano, išmetamo į atmosferą, kiekio įvertinimo metodiką;
 
 
 
@@ -1225,7 +303,7 @@ Aplinkos ministerija:
 3) Neteko galios nuo 2021-07-01
 Straipsnio punkto naikinimas:
 Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
- 
+ 
 
 
 
@@ -1233,17 +311,17 @@ Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
 4) Neteko galios nuo 2021-07-01
 Straipsnio punkto naikinimas:
 Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
- 
+ 
 
 
 
 
-5) vertina miškų ūkio ir komunalinių atliekų, iš kurių gali būti gaminamas biokuras, biologiškai skaidžios dalies panaudojimo potencialą;
+5) vertina miškų ūkio ir komunalinių atliekų, iš kurių gali būti gaminamas biokuras, biologiškai skaidžios dalies panaudojimo potencialą;
 
 
 
 
-6) teisės aktų nustatyta tvarka ir sąlygomis pagal kompetenciją kartu su Energetikos ministerija koordinuoja darnios hidroenergijos naudojimo energijai gaminti skatinimo priemonių įgyvendinimą, atlieka jų įgyvendinimo stebėseną ir užtikrina valstybinę priežiūrą ir kontrolę;
+6) teisės aktų nustatyta tvarka ir sąlygomis pagal kompetenciją kartu su Energetikos ministerija koordinuoja darnios hidroenergijos naudojimo energijai gaminti skatinimo priemonių įgyvendinimą, atlieka jų įgyvendinimo stebėseną ir užtikrina valstybinę priežiūrą ir kontrolę;
 
 
 
@@ -1258,17 +336,12 @@ Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
 
 
 
-9) atlieka kitas šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas.
- 
+9) pagal kompetenciją kartu su Energetikos ministerija, Ekonomikos ir inovacijų ministerija ir Susisiekimo ministerija skatina savanoriškas pramonės gaminių, pagamintų naudojant atsinaujinančių išteklių energiją ir iš atsinaujinančių energijos išteklių pagamintą nebiologinės kilmės kurą, ženklinimo sistemas, kai nurodomas atsinaujinančių išteklių energijos arba iš atsinaujinančių energijos išteklių pagaminto nebiologinės kilmės kuro, naudojamo žaliavų įsigijimo, parengiamojo apdorojimo, gamybos ir skirstymo etapais, procentinis dydis, apskaičiuotas, vadovaujantis 2021 m. gruodžio 15 d. Europos Komisijos rekomendacijoje (ES) 2021/2279 dėl aplinkosauginio pėdsalo metodų naudojimo produktų ir organizacijų gyvavimo ciklo aplinkosauginiam veiksmingumui matuoti ir apie jį informuoti arba ISO 14067:2018 standarte nustatyta metodika;
 
 
 
 
-
-
-
-
-8 straipsnis. Neteko galios nuo 2021-07-01
+10) atlieka kitas šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas.8 straipsnis. Neteko galios nuo 2021-07-01
 Straipsnio naikinimas:
 Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
  
@@ -1379,7 +452,7 @@ Valstybinė energetikos reguliavimo taryba:
 
 
 
-8) nagrinėja šio įstatymo 64 straipsnio 1 dalyje nurodytus skundus;
+8) nagrinėja šio įstatymo 64 straipsnio 1 ir 2 dalyse nurodytus skundus;
 
 
 
@@ -1387,7 +460,7 @@ Valstybinė energetikos reguliavimo taryba:
 9) Neteko galios nuo 2024-01-01
 Straipsnio punkto naikinimas:
 Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
- 
+ 
 
 
 
@@ -1427,16 +500,7 @@ Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
 
 
 
-17) atlieka kitas šio įstatymo nustatytas funkcijas.
-
-
-
-
-
-
-
-
-111 straipsnis. Neteko galios nuo 2020-05-31
+17) atlieka kitas šio įstatymo nustatytas funkcijas.111 straipsnis. Neteko galios nuo 2020-05-31
 Straipsnio naikinimas:
 Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
@@ -1444,13 +508,13 @@ Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 
 
 
-12 straipsnis. Savivaldybių kompetencija
+12 straipsnis. Savivaldybių institucijų kompetencija
 
 
-Savivaldybės:
+Savivaldybių institucijos:
 
 
-1) rengia ir, suderinusios su Vyriausybe ar jos įgaliota institucija, tvirtina ir įgyvendina atsinaujinančių išteklių energijos naudojimo plėtros veiksmų planus;
+1) rengia ir, suderinusios su Vyriausybe ar jos įgaliota institucija, tvirtina ir įgyvendina atsinaujinančių išteklių energijos naudojimo plėtros veiksmų planus;
 
 
 
@@ -1463,7 +527,7 @@ Savivaldybės:
 3) Neteko galios nuo 2021-07-01
 Straipsnio punkto naikinimas:
 Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
- 
+ 
 
 
 
@@ -1471,37 +535,31 @@ Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
 4) Neteko galios nuo 2021-07-01
 Straipsnio punkto naikinimas:
 Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
- 
+ 
 
 
 
 
-5) rengia ir įgyvendina visuomenės informavimo ir sąmoningumo ugdymo priemones, teikia konsultacijas ir rengia mokymo programas apie atsinaujinančių energijos išteklių plėtojimo ir naudojimo praktines galimybes ir naudą;
+5) rengia ir įgyvendina visuomenės informavimo ir sąmoningumo ugdymo priemones, teikia konsultacijas ir rengia mokymo programas apie atsinaujinančių energijos išteklių plėtojimo ir naudojimo praktines galimybes ir naudą;
 
 
 
 
-6) atlieka kitas šio įstatymo nustatytas funkcijas.
+6) atlieka kitas šio įstatymo nustatytas funkcijas.
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
- 
-
-
+ 
 
 
 
 
 TREČIASIS SKIRSNIS
 ELEKTROS ENERGIJOS GAMYBOS IŠ ATSINAUJINANČIŲ ENERGIJOS IŠTEKLIŲ SKATINIMAS, PLANAVIMAS, PLĖTRA.
-ELEKTRINIŲ PRIJUNGIMAS PRIE ELEKTROS TINKLŲ
- 
-
-
-13 straipsnis. Atsinaujinančių išteklių naudojimo elektros energijai gaminti plėtra
+ELEKTRINIŲ PRIJUNGIMAS PRIE ELEKTROS TINKLŲ13 straipsnis. Atsinaujinančių išteklių naudojimo elektros energijai gaminti plėtra
 
 
 1. Atsinaujinančių energijos išteklių naudojimo elektros energijai gaminti plėtra yra viena iš valstybės energetikos politikos vystymosi krypčių, į kurią turi būti atsižvelgiama rengiant Nacionalinį pažangos planą ir nacionalines plėtros programas.
@@ -1514,7 +572,7 @@ ELEKTRINIŲ PRIJUNGIMAS PRIE ELEKTROS TINKLŲ
 
 
 
-3. Šio straipsnio 5 dalyje nustatyta tvarka apskaičiavus, kad gamintojų sausumos teritorijoje pagamintas ir planuojamas pagaminti metinis elektros energijos iš atsinaujinančių išteklių kiekis sudaro 5 TWh ir daugiau, asmenys turi teisę statyti ar įrengti atsinaujinančius išteklius naudojančias elektrines, kuriose pagamintai elektros energijai netaikomos šio įstatymo 3 straipsnyje nurodytos skatinimo priemonės. Šioje dalyje nurodytas metinis elektros energijos iš atsinaujinančių išteklių gamybos kiekis netaikomas elektros energiją iš atsinaujinančių išteklių gaminančių vartotojų (toliau – gaminantis vartotojas) veiklos plėtrai. 
+3. Šio straipsnio 5 dalyje nustatyta tvarka apskaičiavus, kad gamintojų sausumos teritorijoje pagamintas ir planuojamas pagaminti metinis elektros energijos iš atsinaujinančių išteklių kiekis sudaro 5 TWh ir daugiau, asmenys turi teisę statyti ar įrengti atsinaujinančius išteklius naudojančias elektrines, kuriose pagamintai elektros energijai netaikomos šio įstatymo 3 straipsnyje nurodytos skatinimo priemonės. Šioje dalyje nurodytas metinis elektros energijos iš atsinaujinančių išteklių gamybos kiekis netaikomas elektros energiją iš atsinaujinančių išteklių gaminančių vartotojų (toliau – gaminantis vartotojas) veiklos plėtrai. 
 
 
 
@@ -1558,7 +616,7 @@ ELEKTRINIŲ PRIJUNGIMAS PRIE ELEKTROS TINKLŲ
 Straipsnio dalies pakeitimai:
 Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
 Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
- 
+ 
 
 
 
@@ -1593,15 +651,15 @@ Papildyta straipsnio dalimi:
 Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
 Straipsnio dalies pakeitimai:
 Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
- 
+ 
 
 
 
 
-101. Asmenys, kurie, pasiekus šio straipsnio 10 dalyje nurodytą saulės šviesos energijos elektrinių suminę įrengtąją galią, buvo sudarę ketinimų protokolus ir pateikę prievolių įvykdymo užtikrinimą bei kurie atitiko reikalavimus, nustatytus leidimui plėtoti elektros energijos gamybos pajėgumus gauti, tačiau dar nebuvo gavę leidimo plėtoti elektros energijos gamybos pajėgumus, saulės šviesos energijos elektrines, vysto šių asmenų elektrinių įrengtosios galios procentiniam dydžiui, kuris viršija šio straipsnio 10 dalyje nurodytą saulės šviesos energijos elektrinių suminę įrengtąją galią, taikydami Elektros energetikos įstatymo 31 ir 39 straipsniuose nurodytuose Pasinaudojimo elektros tinklais tvarkos aprašuose numatytus elektros energijos gamybos įrenginių prijungimo prie elektros tinklų pajėgumų arba eksploatavimo apribojimus. Įrengtosios galios procentinis dydis, kuris viršija šio straipsnio 10 dalyje nurodytą saulės šviesos energijos elektrinių suminę įrengtąją galią, apskaičiuojamas Valstybinės energetikos reguliavimo tarybos kaip visų šioje dalyje nurodytų asmenų prijungimo dokumentuose nurodytos suminės įrengtosios galios dydžio, kuris neviršytų šio straipsnio 10 dalyje nurodytos saulės šviesos energijos elektrinių suminės įrengtosios galios, ir šioje dalyje nurodytų asmenų prijungimo dokumentuose nurodytų įrengtųjų galių suminio dydžio santykis. 
+101. Asmenys, kurie, pasiekus šio straipsnio 10 dalyje nurodytą saulės šviesos energijos elektrinių suminę įrengtąją galią, buvo sudarę ketinimų protokolus ir pateikę prievolių įvykdymo užtikrinimą bei kurie atitiko reikalavimus, nustatytus leidimui plėtoti elektros energijos gamybos pajėgumus gauti, tačiau dar nebuvo gavę leidimo plėtoti elektros energijos gamybos pajėgumus, saulės šviesos energijos elektrines, vysto šių asmenų elektrinių įrengtosios galios procentiniam dydžiui, kuris viršija šio straipsnio 10 dalyje nurodytą saulės šviesos energijos elektrinių suminę įrengtąją galią, taikydami Elektros energetikos įstatymo 31 ir 39 straipsniuose nurodytuose Pasinaudojimo elektros tinklais tvarkos aprašuose numatytus elektros energijos gamybos įrenginių prijungimo prie elektros tinklų pajėgumų arba eksploatavimo apribojimus. Įrengtosios galios procentinis dydis, kuris viršija šio straipsnio 10 dalyje nurodytą saulės šviesos energijos elektrinių suminę įrengtąją galią, apskaičiuojamas Valstybinės energetikos reguliavimo tarybos kaip visų šioje dalyje nurodytų asmenų prijungimo dokumentuose nurodytos suminės įrengtosios galios dydžio, kuris neviršytų šio straipsnio 10 dalyje nurodytos saulės šviesos energijos elektrinių suminės įrengtosios galios, ir šioje dalyje nurodytų asmenų prijungimo dokumentuose nurodytų įrengtųjų galių suminio dydžio santykis. 
 Papildyta straipsnio dalimi:
 Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
- 
+ 
 
 
 
@@ -1609,7 +667,7 @@ Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
 102. Kai yra pasiekta šio straipsnio 10 dalyje nurodyta saulės šviesos energijos elektrinių suminė įrengtoji galia, asmenys, ketinantys plėtoti elektros energijos iš saulės šviesos elektrinių pajėgumus, juos vysto taikant Elektros energetikos įstatymo 31 ir 39 straipsniuose nurodytuose Pasinaudojimo elektros tinklais tvarkos aprašuose numatytus elektros energijos gamybos įrenginių prijungimo prie elektros tinklų pajėgumų arba eksploatavimo apribojimus.
 Papildyta straipsnio dalimi:
 Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
- 
+ 
 
 
 Straipsnio pakeitimai:
@@ -1618,13 +676,7 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 Straipsnio pakeitimai:
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
-Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
- 
-
-
-
-
-131 straipsnis. Atsinaujinančių išteklių elektros energijos gamybos įmoka
+Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250131 straipsnis. Atsinaujinančių išteklių elektros energijos gamybos įmoka
 
 
 1. Atsinaujinančių išteklių elektros energijos gamybos įmoką (toliau – gamybos įmoka) moka gamintojai, elektros energiją gaminantys saulės šviesos energijos, vėjo ir (ar) biodujų elektrinėse, išskyrus šio straipsnio 2 dalyje nurodytus gamintojus.
@@ -1794,7 +846,7 @@ Nr. XIV-2390, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25901
 1. Elektros tinklų operatorius privalo ne vėliau kaip per 22 mėnesius arba per laikotarpį, per kurį statyti ar įrengti elektrinę planuojantis asmuo įsipareigoja pastatyti elektrinę, jeigu tas laikotarpis yra ilgesnis kaip 22 mėnesiai, pirmumo teise prijungti šio asmens elektrinę prie elektros tinklų operatoriaus valdomų elektros tinklų prijungimo taške, kuris atitinka reikiamą įtampos lygį ir yra arčiausiai statomos elektrinės, jeigu kiti elektros tinklai technologiniu ir ekonominiu požiūriu nėra tinkamesni elektrinės prijungimo taškui. Nurodyta statomos elektrinės prijungimo prie elektros tinklų pirmumo teisė užtikrinama kitų asmenų elektros įrenginių, naudojančių ne atsinaujinančius energijos išteklius, prijungimo prie elektros tinklų atžvilgiu. Prijungimo prie elektros tinklų laikotarpis skaičiuojamas nuo elektrinės prijungimo prie elektros tinklų paslaugos sutarties tarp statyti ar įrengti elektrinę planuojančio asmens ir elektros tinklų operatoriaus pasirašymo dienos. Elektrinės prijungimo prie elektros tinklų momentu laikomas elektrinės prijungimas technologiniams bandymams elektros tinkluose atlikti (paleidimo derinimo darbams). Elektros tinklų operatorius, vadovaudamasis teisės aktų nustatytais reikalavimais, parengia ir viešai skelbia tipines elektrinės prijungimo prie elektros tinklų paslaugos sutarties sąlygas, kurios nediskriminavimo pagrindais vienodai taikomos visiems statyti ir įrengti elektrinę planuojantiems asmenims, įvertinęs specialiuosius reikalavimus atskiroms šių asmenų grupėms.
 Straipsnio dalies pakeitimai:
 Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
- 
+ 
 
 
 
@@ -1804,10 +856,10 @@ Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
 
 
 
-3. Šio straipsnio 1 ir 2 dalyse nurodyti elektrinės prijungimo prie elektros tinklų terminai gali būti pratęsti tais atvejais, kai elektros tinklų operatorius nustatytais terminais negali prijungti elektrinės technologiniams bandymams elektros tinkluose atlikti tuo atveju, kai vėluoja darbai elektrinę statančio ar įrengiančio asmens elektros tinklų dalyje ar dėl kitų nuo elektros tinklų operatoriaus nepriklausančių priežasčių. Kiekvienu konkrečiu atveju elektrinės prijungimo prie elektros tinklų terminas pratęsiamas tokiam laikotarpiui, kuriam pratęstas leidimas plėtoti elektros energijos gamybos pajėgumus. Elektrinės prijungimo prie elektros tinklų terminas pratęsiamas elektros tinklų operatoriaus ir elektrinę statančio ar įrengiančio asmens susitarimu elektrinės prijungimo prie elektros tinklų paslaugos sutartyje nustatyta tvarka. 
+3. Šio straipsnio 1 ir 2 dalyse nurodyti elektrinės prijungimo prie elektros tinklų terminai gali būti pratęsti tais atvejais, kai elektros tinklų operatorius nustatytiems terminams negali prijungti elektrinės technologiniams bandymams elektros tinkluose atlikti tuo atveju, kai vėluoja darbai elektrinę statančio ar įrengiančio asmens elektros tinklų dalyje ar dėl kitų nuo elektros tinklų operatoriaus nepriklausančių priežasčių. Kiekvienu konkrečiu atveju elektrinės prijungimo prie elektros tinklų terminas pratęsiamas tokiam laikotarpiui, kuriam pratęstas leidimas plėtoti elektros energijos gamybos pajėgumus. Elektrinės prijungimo prie elektros tinklų terminas pratęsiamas elektros tinklų operatoriaus ir elektrinę statančio ar įrengiančio asmens susitarimu elektrinės prijungimo prie elektros tinklų paslaugos sutartyje nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
- 
+ 
 
 
 
@@ -1815,7 +867,7 @@ Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 4. Elektrinės prijungimo tašką parenka ir prijungimo sąlygose nustato elektros tinklų operatorius, prie kurio valdomų elektros tinklų jungiama elektrinė, pagal statyti ar įrengti elektrinę planuojančio asmens pateiktą prašymą ir įvertinęs technologinius ir ekonominius prijungimo taško parinkimo kriterijus pagal Tarybos patvirtintą elektros tinklų operatoriaus pasinaudojimo elektros tinklais tvarkos aprašą (toliau – Pasinaudojimo elektros tinklais tvarkos aprašas), parengtą Elektros energetikos įstatymo nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
- 
+ 
 
 
 
@@ -1825,7 +877,7 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 Nr. XIV-1171, 2022-06-23, paskelbta TAR 2022-06-28, i. k. 2022-13888
 Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
- 
+ 
 
 
 
@@ -1833,7 +885,7 @@ Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
 6. Elektros tinklų operatorius turi teisę savo nuožiūra paskirti ir kitą elektrinės prijungimo tašką, nepaisydamas statyti ar įrengti elektrinę planuojančio asmens pasirinkto prijungimo taško, kaip nurodyta šio straipsnio 5 dalyje. Dėl šio paskyrimo atsirandančios papildomos sąnaudos padengiamos šio įstatymo 21 straipsnio 5 dalyje nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
- 
+ 
 
 
 
@@ -1841,7 +893,7 @@ Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 61. Elektros tinklų galia ir pralaidumai, reikalingi aukciono laimėtojų elektrinių prijungimui prie elektros tinklų, kai vieno aukciono laimėtojo elektrinės prijungimas prie elektros tinklų riboja kito (kitų) aukciono laimėtojo (laimėtojų) elektrinės prijungimą, elektros tinklų operatoriaus paskirstomi proporcingai jų pateikto elektros energijos gamybos kiekio pasiūlymams. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
- 
+ 
 
 
 
@@ -1850,7 +902,7 @@ Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 Straipsnio dalies pakeitimai:
 Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
- 
+ 
 
 
 
@@ -1858,7 +910,7 @@ Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
 8. Elektros tinklų operatorius ne vėliau kaip per 30 kalendorinių dienų nuo statyti ar įrengti elektrinę planuojančio asmens prašymo išduoti išankstines prijungimo sąlygas pateikimo dienos privalo šiam asmeniui pateikti visą informaciją apie veiksmus, kuriuos šis asmuo turi atlikti dėl jo elektrinės prijungimo prie elektros tinklų, bei planuojamus elektros tinklų išplėtimo darbų terminus ir, esant būtinybei, prieš elektrinės prijungimą atlikti šio įstatymo 18 straipsnyje nurodytus veiksmus. Visais atvejais elektros tinklų operatorius ir statyti ar įrengti elektrinę planuojantis asmuo keičiasi visa elektrinei prijungti prie elektros tinklų reikalinga technine ir kita informacija. Išankstinės prijungimo sąlygos turi atitikti Pasinaudojimo elektros tinklais tvarkos apraše nustatytus reikalavimus. Išankstinėse prijungimo sąlygose negali būti kitų reikalavimų negu tie, kurie būtini patikimam, saugiam ir tinkamos kokybės elektros energijos įrenginio ir elektros energetikos sistemos darbui užtikrinti. Išankstinės prijungimo sąlygos skelbiamos viešai elektros tinklų operatoriaus interneto svetainėje.
 Straipsnio dalies pakeitimai:
 Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
- 
+ 
 
 
 
@@ -1867,17 +919,17 @@ Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
 Straipsnio dalies pakeitimai:
 Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
- 
+ 
 
 
 
 
-10. Statyti, įrengti elektrinę ar didinti elektrinės leistiną generuoti galią planuojantis asmuo, gavęs išankstines prijungimo sąlygas, parengia ir teikia elektros tinklų operatoriui prašymą pasirašyti ketinimų protokolą, kaip tai nurodyta Elektros energetikos įstatymo 22 straipsnio 8 dalyje, ir pateikia Elektros energetikos įstatymo 211 straipsnio 1 dalyje nurodytą prievolių įvykdymo užtikrinimą. Atskiro ketinimų protokolo sudaryti ir papildomo prievolių įvykdymo užtikrinimo pateikti nereikia, kai vadovaujantis šio įstatymo nustatytais reikalavimais prie statomos atsinaujinančius išteklius naudojančios elektrinės papildomai numatoma įrengti kitą atsinaujinančius išteklius naudojančią elektrinę ir (ar) kaupimo įrenginį ir kai nėra didinama leistina generuoti galia. Šiuo atveju asmuo kreipiasi dėl galiojančio ketinimų protokolo pakeitimo, o asmens pateiktas prievolių įvykdymo užtikrinimas taikomas visoms pagal ketinimų protokolą statomoms elektrinėms ir (ar) kaupimo įrenginiams, visai įrengtajai ir (ar) leistinai generuoti galiai.
+10. Statyti, įrengti elektrinę ar didinti elektrinės leistiną generuoti galią planuojantis asmuo, gavęs išankstines prijungimo sąlygas, parengia ir teikia elektros tinklų operatoriui prašymą pasirašyti ketinimų protokolą, kaip tai nurodyta Elektros energetikos įstatymo 22 straipsnio 8 dalyje, ir pateikia Elektros energetikos įstatymo 211 straipsnio 1 dalyje nurodytą prievolių įvykdymo užtikrinimą. Atskiro ketinimų protokolo sudaryti ir papildomo prievolių įvykdymo užtikrinimo pateikti nereikia, kai vadovaujantis šio įstatymo nustatytais reikalavimais prie statomos atsinaujinančius išteklius naudojančios elektrinės papildomai numatoma įrengti kitą atsinaujinančius išteklius naudojančią elektrinę ir (ar) kaupimo įrenginį ir kai nėra didinama leistina generuoti galia. Šiuo atveju asmuo kreipiasi dėl galiojančio ketinimų protokolo pakeitimo, o asmens pateiktas prievolių įvykdymo užtikrinimas taikomas visoms pagal ketinimų protokolą statomoms elektrinėms ir (ar) kaupimo įrenginiams, visai įrengtajai ir (ar) leistinai generuoti galiai.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
 Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
- 
+ 
 
 
 
@@ -1885,7 +937,7 @@ Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
 11. Neteko galios nuo 2019-05-01
 Straipsnio dalies naikinimas:
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
- 
+ 
 
 
 
@@ -1893,7 +945,7 @@ Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 12. Neteko galios nuo 2019-05-01
 Straipsnio dalies naikinimas:
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
- 
+ 
 
 
 
@@ -1901,7 +953,7 @@ Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 13. Neteko galios nuo 2019-05-01
 Straipsnio dalies naikinimas:
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
- 
+ 
 
 
 
@@ -1909,31 +961,31 @@ Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 14. Neteko galios nuo 2019-05-01
 Straipsnio dalies naikinimas:
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
- 
+ 
 
 
 
 
-15. Elektros tinklų operatorius, kai asmuo, nurodytas šio straipsnio 10 dalyje, pasirašo ketinimų protokolą ir jame nustatyta tvarka pateikia savo prievolių įvykdymo užtikrinimą, leidimą plėtoti elektros energijos gamybos pajėgumus ir suderintą techninį projektą, jeigu toks yra privalomas, pasirašo elektrinės prijungimo prie elektros tinklų paslaugos sutartį.
+15. Elektros tinklų operatorius, kai asmuo, nurodytas šio straipsnio 10 dalyje, atlieka ketinimų protokole ir elektros įrenginių prijungimą prie elektros tinklų reglamentuojančiuose teisės aktuose nurodytus veiksmus, reikalingus elektrinės prijungimui prie elektros tinklų, pasirašo elektrinės prijungimo prie elektros tinklų paslaugos sutartį.
 
 
 
 
-16. Elektros tinklų operatorius kas mėnesį teikia Energetikos ministerijai, Valstybinei energetikos reguliavimo tarybai ir viešajai įstaigai Lietuvos energetikos agentūrai informaciją apie vykdomų elektrinių statybos projektų eigą ir ketinimų protokolų sąlygų vykdymą bei išduotas išankstines prijungimo sąlygas.
+16. Elektros tinklų operatorius kas mėnesį teikia Energetikos ministerijai, Valstybinei energetikos reguliavimo tarybai ir subjektui, nurodytam Energetikos įstatymo 13^1 straipsnyje, informaciją apie vykdomų elektrinių statybos projektų eigą ir ketinimų protokolų sąlygų vykdymą bei išduotas išankstines prijungimo sąlygas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
- 
+ 
 
 
 
 
-17. Elektros tinklų operatorius kas mėnesį teikia Energetikos ministerijai, Valstybinei energetikos reguliavimo tarybai ir viešajai įstaigai Lietuvos energetikos agentūrai informaciją apie prijungimo sąlygas, išduotas gamintojams, gaminantiems vartotojams ir asmenims, siekiantiems tapti gaminančiais vartotojais ir numatantiems statyti ar įrengti atsinaujinančius išteklius naudojančias elektrines, kurioms Elektros energetikos įstatymo 16 straipsnio 14 dalyje nustatyta tvarka leidimas plėtoti elektros energijos gamybos pajėgumus nereikalingas.
+17. Elektros tinklų operatorius kas mėnesį teikia Energetikos ministerijai, Valstybinei energetikos reguliavimo tarybai ir subjektui, nurodytam Energetikos įstatymo 13^1 straipsnyje, informaciją apie prijungimo sąlygas, išduotas gamintojams, gaminantiems vartotojams ir asmenims, siekiantiems tapti gaminančiais vartotojais ir numatantiems statyti ar įrengti atsinaujinančius išteklius naudojančias elektrines, kurioms Elektros energetikos įstatymo 16 straipsnio 14 dalyje nustatyta tvarka leidimas plėtoti elektros energijos gamybos pajėgumus nereikalingas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2200, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09723
 Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
- 
+ 
 
 
 
@@ -1944,13 +996,7 @@ Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
 Straipsnio pakeitimai:
 Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
 Straipsnio pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-141 straipsnis. Asmenų vykdomos ar planuojamos vykdyti veiklos energetikos sektoriuje keitimo tvarka
+Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-1230614 straipsnis. Asmenų vykdomos ar planuojamos vykdyti veiklos energetikos sektoriuje keitimo tvarka
 
 
 1. Asmenys, siekiantys pakeisti šio įstatymo ar Elektros energetikos įstatymo nustatyta tvarka vykdomą ar planuojamą vykdyti veiklą elektros energetikos sektoriuje, pateikia rašytinį prašymą Valstybinei energetikos reguliavimo tarybai dėl galimybės vykdyti kitą veiklą elektros energetikos sektoriuje.
@@ -1967,23 +1013,11 @@ Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
 
 
 Papildyta straipsniu:
-Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25900
- 
-
-
-
-
-15 straipsnis. Neteko galios nuo 2019-05-01
+Nr. XIV-2389, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-2590015 straipsnis. Neteko galios nuo 2019-05-01
 Straipsnio naikinimas:
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 Straipsnio pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-151 straipsnis. Konsultavimas veiklos elektros energetikos sektoriuje klausimais
+Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-1230151 straipsnis. Konsultavimas veiklos elektros energetikos sektoriuje klausimais
 
 
 1. Viešoji įstaiga Lietuvos energetikos agentūra (toliau – Lietuvos energetikos agentūra) teikia konsultacijas ir metodinę pagalbą veiklos elektros energetikos sektoriuje klausimais, taip pat dėl galimų skatinimo priemonių atsinaujinančius išteklius naudojantiems įrenginiams.
@@ -2001,29 +1035,67 @@ Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
 
 
 
-16 straipsnis. Leidimų plėtoti elektros energijos gamybos pajėgumus ir leidimų gaminti elektros energiją iš atsinaujinančių energijos išteklių išdavimas
+16 straipsnis. Leidimų atsinaujinančių išteklių energetikos sektoriuje išdavimo procedūros
 
-
-1. Esami elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumai gali būti plėtojami ar nauji elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumai naujoje vietoje įrengiami Elektros energetikos įstatymo nustatyta tvarka gavus leidimą plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių, išskyrus atvejus, numatytus Elektros energetikos įstatyme, kai toks leidimas nereikalingas.
-
-
-
+1. Esami elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumai gali būti plėtojami ar nauji elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumai naujoje vietoje sausumoje įrengiami Elektros energetikos įstatymo nustatyta tvarka gavus leidimą plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių, išskyrus atvejus, numatytus Elektros energetikos įstatyme, kai toks leidimas nereikalingas, o tuo atveju, kai numatoma įrengti atsinaujinančius energijos išteklius naudojančias elektrines jūrinėje teritorijoje, – gavus šio įstatymo 22 ar 22^1 straipsnio nustatyta tvarka išduotą leidimą naudoti jūrinės teritorijos dalį (dalis) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai.
 
 2. Leidimus plėtoti elektros energijos gamybos pajėgumus, leidimus gaminti elektros energiją iš atsinaujinančių energijos išteklių, leidimus modernizuoti elektrinę ar elektros energijos gamybos įrenginį išduoda Valstybinė energetikos reguliavimo taryba. Šių leidimų išdavimo tvarką ir sąlygas, jų galiojimo terminus ir galiojimo terminų pratęsimo tvarką bei sąlygas nustato Elektros energetikos įstatymas.
 
+3. Energijos iš atsinaujinančių išteklių gamybos įrenginių ir energijos kaupimo įrenginių plėtros bei šių įrenginių prijungimo prie perdavimo tinklų ar skirstomųjų tinklų leidimų išdavimo procedūra apima:
 
-Straipsnio pakeitimai:
-Nr. XI-2096, 2012-06-21, Žin., 2012, Nr. 76-3939 (2012-06-30)
-Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
-Straipsnio pakeitimai:
-Nr. XII-1666, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07658
-Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
- 
+1) prijungimo sąlygų išdavimą arba ketinimų protokolo sudarymą, kai jis reikalingas vadovaujantis Elektros energetikos įstatymu;
 
+2) atrankos dėl poveikio aplinkai vertinimo išvados ar sprendimo dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo, kai jis privalomas vadovaujantis Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu, priėmimą;
 
+3) leidimo plėtoti elektros energijos gamybos pajėgumus ir (ar) energijos kaupimo pajėgumus, jeigu jis reikalingas pagal Elektros energetikos įstatymą, išdavimą;
 
+4) leidimo naudoti jūrinės teritorijos dalį (dalis) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai išdavimą, kai jis išduodamas vadovaujantis šio įstatymo 22 ar 22^1 straipsniu;
 
-17 straipsnis. Elektros energijos priėmimas ir persiuntimas elektros tinklais
+5) leidimo modernizuoti elektrinę ar elektros energijos gamybos įrenginį, kai jis reikalingas vadovaujantis Elektros energetikos įstatymu, išdavimą;
+
+6) statybą leidžiančio dokumento išdavimą Statybos įstatymo nustatytais atvejais;
+
+7) leidimo gaminti elektros energiją ir (ar) generuoti elektros energiją iš energijos kaupimo įrenginių, kai jis reikalingas vadovaujantis Elektros energetikos įstatymu, išdavimą.
+
+4. Energijos iš atsinaujinančių išteklių gamybos įrenginių ir energijos kaupimo įrenginių plėtros bei šių įrenginių prijungimo prie perdavimo tinklų ar skirstomųjų tinklų leidimų išdavimo procedūra, taikoma projektams, vykdomiems paspartintos atsinaujinančių išteklių energijos plėtros zonose, negali trukti ilgiau kaip:
+
+1) 12 mėnesių, o jeigu projektas vykdomas jūrinėje teritorijoje, – ilgiau kaip 24 mėnesius;
+
+2) 6 mėnesius, jeigu modernizuojant energijos iš atsinaujinančių išteklių gamybos įrenginį ar elektrinę energijos iš atsinaujinančių išteklių gamybos įrenginio ar elektrinės įrengtoji galia padidėja daugiau kaip 15 procentų, statant naują energijos iš atsinaujinančių išteklių gamybos įrenginį, elektrinę arba energijos kaupimo įrenginį, kurio įrengtoji galia ne didesnė kaip 150 kW, taip pat hibridinę elektrinę, o jeigu projektas vykdomas jūrinėje teritorijoje, – ilgiau kaip 12 mėnesių;
+
+3) 3 mėnesius, jeigu modernizuojant energijos iš atsinaujinančių išteklių gamybos įrenginį ar elektrinę energijos iš atsinaujinančių išteklių gamybos įrenginio ar elektrinės įrengtoji galia, nekeičiant leistinos generuoti galios ir nesant elektros tinklų plėtros poreikio, padidėja ne daugiau kaip 15 procentų;
+
+4) 3 mėnesius – įrengiant saulės šviesos energijos įrangą arba hibridinę elektrinę dirbtinėse konstrukcijose, išskyrus dirbtinius vandens paviršius, jeigu pagrindinis tokių dirbtinių konstrukcijų tikslas nėra saulės šviesos energijos gamyba ar energijos kaupimas;
+
+5) vieną mėnesį – įrengiant saulės šviesos energijos elektrinę, kurios įrengtoji galia ne didesnė kaip 100 kW, išskyrus atvejus, kai saulės šviesos energijos elektrinę stato ar įrengia šio įstatymo 20^1 straipsnio 8 dalyje nurodyti asmenys.
+
+5. Energijos iš atsinaujinančių išteklių gamybos įrenginių ir energijos kaupimo įrenginių plėtros bei šių įrenginių prijungimo prie perdavimo sistemos ar skirstomųjų tinklų leidimų išdavimo procedūra, taikoma projektams, vykdomiems už paspartintos atsinaujinančių išteklių energijos plėtros zonų ribų, negali trukti ilgiau kaip:
+
+1) 24 mėnesius, o jeigu projektas vykdomas jūrinėje teritorijoje, – ilgiau kaip 36 mėnesius;
+
+2) 12 mėnesių, jeigu modernizuojant energijos iš atsinaujinančių išteklių gamybos įrenginį ar elektrinę energijos iš atsinaujinančių išteklių gamybos įrenginio ar elektrinės įrengtoji galia padidėja daugiau kaip 15 procentų, statant naują energijos iš atsinaujinančių išteklių gamybos įrenginį, elektrinę arba energijos kaupimo įrenginį, kurio įrengtoji galia ne didesnė kaip 150 kW, taip pat hibridinę elektrinę, o jeigu projektas vykdomas jūrinėje teritorijoje, – ilgiau kaip 24 mėnesius;
+
+3) 3 mėnesius, jeigu modernizuojant energijos iš atsinaujinančių išteklių gamybos įrenginį ar elektrinę energijos iš atsinaujinančių išteklių gamybos įrenginio ar elektrinės įrengtoji galia, nekeičiant leistinos generuoti galios ir nesant elektros tinklų plėtros poreikio, padidėja ne daugiau kaip 15 procentų;
+
+4) 3 mėnesius – įrengiant saulės šviesos energijos elektrinę arba hibridinę elektrinę dirbtinėse konstrukcijose, išskyrus dirbtinius vandens paviršius, jeigu pagrindinis tokių dirbtinių konstrukcijų tikslas nėra saulės šviesos energijos gamyba ar energijos kaupimas;
+
+5) vieną mėnesį – įrengiant saulės šviesos energijos elektrines, kurių įrengtoji galia ne didesnė kaip 100 kW, išskyrus atvejus, kai saulės šviesos energijos elektrinę stato ar įrengia šio įstatymo 20^1 straipsnio 8 dalyje nurodyti asmenys.
+
+6. Apskaičiuojant energijos iš atsinaujinančių išteklių gamybos įrenginių ir energijos kaupimo įrenginių plėtros bei šių įrenginių prijungimo prie perdavimo tinklų ar skirstomųjų tinklų leidimų išdavimo procedūrų, taikomų projektams, vykdomiems paspartintos atsinaujinančių išteklių energijos plėtros zonose ir už paspartintos atsinaujinančių išteklių energijos plėtros zonų ribų, trukmę nevertinama šių procesų trukmė:
+
+1) laikas, kai yra statomi arba modernizuojami energijos iš atsinaujinančių išteklių gamybos įrenginiai, elektrinės ir (ar) energijos kaupimo įrenginiai, jų prijungimo prie energetikos tinklų įrenginiai ir energetikos tinklų stabilumui, patikimumui bei saugai užtikrinti skirta susijusi būtina energetikos tinklų infrastruktūra;
+
+2) laikas, skirtas tinklų operatorių nustatyta tvarka atliekamiems administraciniams etapams, būtiniems energetikos tinklų atnaujinimams atlikti, siekiant užtikrinti energetikos tinklų stabilumą, patikimumą ir saugą;
+
+3) laikas, skirtas ieškiniams ir teisių gynimo priemonėms, kitoms procedūroms teisme ir alternatyviems ginčų sprendimo mechanizmams, įskaitant skundų nagrinėjimo procedūras ir neteisminį ginčų sprendimą bei teisių gynimo priemones;
+
+4) laikas nuo prašymo išduoti šio straipsnio 3 dalyje nurodytą dokumentą pateikimo dienos iki dienos, kai pateikiamas prašymas, atitinkantis teisės aktų, reglamentuojančių šio straipsnio 3 dalyje nurodytų dokumentų išdavimą, nuostatas.
+
+7. Energijos iš atsinaujinančių išteklių gamybos įrenginių ir energijos kaupimo įrenginių plėtros bei šių įrenginių prijungimo prie perdavimo tinklų ar skirstomųjų tinklų leidimų išdavimo procedūros pradžia laikoma prašymo sudaryti ketinimų protokolą arba išduoti prijungimo sąlygas, kai ketinimų protokolas nėra sudaromas, atitinkančio teisės aktų, reglamentuojančių ketinimų protokolų išdavimą arba prijungimo sąlygų išdavimą, nuostatas, registravimo tinklų operatorių dokumentų valdymo sistemose diena, o modernizuojant energijos iš atsinaujinančių išteklių gamybos įrenginį ar elektrinę – planuojamos ūkinės veiklos organizatoriaus ar poveikio aplinkai vertinimo dokumentų rengėjo aplinkos ministro nustatyta tvarka parengtos informacijos atrankai dėl poveikio aplinkai vertinimo atlikti pateikimo atsakingajai institucijai ir registravimo jos dokumentų valdymo sistemose arba prašymo išduoti leidimą modernizuoti iš atsinaujinančių išteklių elektros energiją gaminančią elektrinę ar elektros energijos gamybos įrenginį, kai atranka dėl poveikio aplinkai vertinimo neatliekama, atitinkančio teisės aktų, reglamentuojančių leidimų modernizuoti iš atsinaujinančių išteklių elektros energiją gaminančią elektrinę ar elektros energijos gamybos įrenginį išdavimą, nuostatas, registravimo Valstybinės energetikos reguliavimo tarybos dokumentų valdymo sistemose diena.
+
+8. Energijos iš atsinaujinančių išteklių gamybos įrenginių ir energijos kaupimo įrenginių plėtros bei šių įrenginių prijungimo prie perdavimo tinklų ar skirstomųjų tinklų leidimų išdavimo procedūros pabaiga laikoma leidimo gaminti elektros energiją ir (ar) generuoti elektros energiją iš energijos kaupimo įrenginio išdavimo diena.
+
+9. Subjektas, nurodytas Energetikos įstatymo 13^1 straipsnyje, prižiūri, kaip leidimų išdavimo procedūrą, nurodytą šio straipsnio 3 dalyje, vykdančios institucijos ir elektros tinklų operatoriai užtikrina, kad būtų laikomasi šio straipsnio 4 ir 5 dalyse nurodytų terminų, ir apie galimus pažeidimus informuoja Energetikos ministeriją.17 straipsnis. Elektros energijos priėmimas ir persiuntimas elektros tinklais
 
 
 1. Elektros tinklų operatorius, prie kurio valdomų elektros tinklų jungiama elektrinė, pasiūlytos elektros energijos kiekį, pagamintą iš atsinaujinančių išteklių, iš gamintojo priima, perduoda ir (ar) paskirsto skaidriais ir nediskriminaciniais tarifais. Elektros energijos priėmimo, perdavimo ir (ar) paskirstymo pirmumo teisė gamintojui užtikrinama visų kitų elektros energijos gamintojų pagamintos elektros energijos atžvilgiu, kaip tai numatyta Elektros energetikos įstatymo 31 straipsnio 2 dalyje ir 39 straipsnio 2 dalyje. 
