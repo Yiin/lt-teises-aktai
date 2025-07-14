@@ -253,16 +253,16 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 
 
-5 straipsnis. Vyriausybės ar jos įgaliotos institucijos kompetencija
+5 straipsnis. Vyriausybės ar jos įgaliotos institucijos kompetencija
 
 
-1. Vyriausybė:
+1. Vyriausybė:
 
 
 1) Nacionaliniame pažangos plane nustato energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
- 
+ 
 
 
 
@@ -270,7 +270,7 @@ Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 2) tvirtina energetikos politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
- 
+ 
 
 
 
@@ -278,55 +278,55 @@ Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 3) Neteko galios nuo 2023-01-01
 Straipsnio punkto naikinimas:
 Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
- 
+ 
 
 
 
 
-4) priima sprendimą dėl Lietuvos Respublikos valstybės sieną kertančių energetikos objektų statybos;
+4) priima sprendimą dėl Lietuvos Respublikos valstybės sieną kertančių energetikos objektų statybos;
 
 
 
 
-5) tvirtina energetikos veiklos licencijavimo taisykles;
+5) tvirtina energetikos veiklos licencijavimo taisykles;
 
 
 
 
-6) nustato atsinaujinančių išteklių energijos gamybos ir vartojimo skatinimo tvarką ir sąlygas;
+6) nustato atsinaujinančių išteklių energijos gamybos ir vartojimo skatinimo tvarką ir sąlygas;
 
 
 
 
-7) neteko galios nuo 2017-07-17.
+7) neteko galios nuo 2017-07-17.
 Straipsnio punkto pakeitimai:
 Nr. XIII-553, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12056
- 
+ 
 
 
 
 
 
 
-2. Vyriausybė ar jos įgaliota institucija:
+2. Vyriausybė ar jos įgaliota institucija:
 
 
-1) bendradarbiauja su užsienio valstybių energetikos institucijomis, pagal kompetenciją atstovauja Lietuvos Respublikai tarptautinėse organizacijose;
-
-
-
-
-2) nustato vartotojų aprūpinimo energija ir (ar) energijos ištekliais paskelbus ekstremaliąją energetikos padėtį tvarką;
+1) bendradarbiauja su užsienio valstybių energetikos institucijomis, pagal kompetenciją atstovauja Lietuvos Respublikai tarptautinėse organizacijose;
 
 
 
 
-3) nustato energijos ir energijos išteklių tiekimo, importo ir eksporto tvarką;
+2) nustato vartotojų aprūpinimo energija ir (ar) energijos ištekliais paskelbus ekstremaliąją energetikos padėtį tvarką;
 
 
 
 
-4) nustato energetikos veiklos leidimų išdavimo tvarką;
+3) nustato energijos ir energijos išteklių tiekimo, importo ir eksporto tvarką;
+
+
+
+
+4) nustato energetikos veiklos leidimų išdavimo tvarką, išskyrus atvejus, kai kiti atskirų energetikos sektorių veiklą reglamentuojantys įstatymai nustato kitaip;
 
 
 
@@ -334,32 +334,32 @@ Nr. XIII-553, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12056
 5) nustato atskirų energetikos sektorių energijos apskaitos organizavimo, matavimo priemonių ir išmaniųjų energijos apskaitos sistemų įrengimo ir eksploatavimo tvarką; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
- 
+ 
 
 
 
 
-6) įstatymų nustatytais atvejais turi teisę įpareigoti energetikos įmonę teikti viešuosius interesus atitinkančias paslaugas;
+6) įstatymų nustatytais atvejais turi teisę įpareigoti energetikos įmonę teikti viešuosius interesus atitinkančias paslaugas;
 
 
 
 
-7) nustato elektros energijos, kuri gaminama bendro elektros energijos ir šilumos gamybos ciklo elektrinėse, gamybos ir (ar) vartojimo skatinimo tvarką ir sąlygas;
+7) nustato elektros energijos, kuri gaminama bendro elektros energijos ir šilumos gamybos ciklo elektrinėse, gamybos ir (ar) vartojimo skatinimo tvarką ir sąlygas;
 
 
 
 
-8) suderinusi su Tarnyba tvirtina su buitiniais vartotojais sudaromų energijos pirkimo–pardavimo sutarčių, energijos persiuntimo paslaugų sutarčių, naujų buitinių vartotojų įrenginių prijungimo sutarčių standartines sąlygas;
+8) suderinusi su Tarnyba tvirtina su buitiniais vartotojais sudaromų energijos pirkimo–pardavimo sutarčių, energijos persiuntimo paslaugų sutarčių, naujų buitinių vartotojų įrenginių prijungimo sutarčių standartines sąlygas;
 
 
 
 
-9) nustato atitikties efektyvumo reikalavimams tikrinimo tvarką ir sąlygas;
+9) nustato atitikties efektyvumo reikalavimams tikrinimo tvarką ir sąlygas;
 
 
 
 
-10) nustato energijos išteklių ir energijos efektyvaus vartojimo stebėsenos tvarką;
+10) nustato energijos išteklių ir energijos efektyvaus vartojimo stebėsenos tvarką;
 
 
 
@@ -369,17 +369,7 @@ Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-12) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
- 
-
-
-
-
-
-
-
-
-6 straipsnis. Energetikos ministerijos kompetencija
+12) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.6 straipsnis. Energetikos ministerijos kompetencija
 
 
 Energetikos ministerija:
@@ -1176,13 +1166,13 @@ Tarnyba užtikrina energijos ir (ar) energijos išteklių vartotojų teisių aps
 
 
 
-13 straipsnis. Savivaldybės administracijos direktoriaus kompetencija 
+13 straipsnis. Savivaldybės institucijų kompetencija 
 
 
-Savivaldybės administracijos direktorius savivaldybės teritorijoje:
+Savivaldybės institucijos savivaldybės teritorijoje:
 
 
-1) pagal įstatymuose nustatytą kompetenciją organizuoja vartotojų aprūpinimą šilumos energija;
+1) pagal įstatymuose nustatytą kompetenciją organizuoja vartotojų aprūpinimą šilumos energija;
 
 
 
@@ -1190,7 +1180,7 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 2) neteko galios 2019-07-02;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
- 
+ 
 
 
 
@@ -1198,7 +1188,7 @@ Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 3) Neteko galios nuo 2023-01-01
 Straipsnio punkto naikinimas:
 Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
- 
+ 
 
 
 
@@ -1206,27 +1196,17 @@ Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
 4) paskelbus valstybės lygio ekstremaliąją energetikos padėtį, įgyvendina Vyriausybės ar jos įgaliotos institucijos patvirtintame vartotojų aprūpinimo energija ir (ar) energijos ištekliais tvarkos apraše nustatytas funkcijas ir atlieka kituose ekstremaliųjų situacijų valdymą reglamentuojančiuose teisės aktuose nustatytus veiksmus, užtikrina kitų Vyriausybės ar jos įgaliotos institucijos sprendimų įgyvendinimą; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
- 
+ 
 
 
 
 
-5) dalyvauja atliekant taikomuosius mokslo tiriamuosius darbus, rengiant visuomenės informavimo ir švietimo priemones, skatinančias efektyviai vartoti energiją ir energijos išteklius;
+5) dalyvauja atliekant taikomuosius mokslo tiriamuosius darbus, rengiant visuomenės informavimo ir švietimo priemones, skatinančias efektyviai vartoti energiją ir energijos išteklius;
 
 
 
 
-6) pagal kompetenciją įgyvendina energijos efektyvumo didinimo priemones.
- 
-
-
-
-
-
-
-
-
-131 straipsnis. Lietuvos energetikos agentūra
+6) pagal kompetenciją įgyvendina energijos efektyvumo didinimo priemones.131 straipsnis. Lietuvos energetikos agentūra
 
 
 1. Lietuvos energetikos agentūra yra viešoji įstaiga, kurios vienintelė savininkė yra valstybė. Lietuvos energetikos agentūra atlieka šias funkcijas:
@@ -1235,7 +1215,7 @@ Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
 1) padeda Energetikos ministerijai koordinuoti energetikos politikos pažangos uždavinius įgyvendinančių nacionalinių plėtros programų įgyvendinimą ir vykdo jų įgyvendinimo stebėseną; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
- 
+ 
 
 
 
@@ -1293,7 +1273,7 @@ Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 12) neteko galios 2020-06-01; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
- 
+ 
 
 
 
@@ -1306,7 +1286,7 @@ Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 14) Neteko galios nuo 2020-12-01
 Straipsnio punkto naikinimas:
 Nr. XIII-3431, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24606
- 
+ 
 
 
 
@@ -1314,7 +1294,7 @@ Nr. XIII-3431, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24606
 15) administruoja ir (ar) įgyvendina priemones, įskaitant finansinės paskatos priemones, kuriomis didinamas energijos vartojimo efektyvumas ir saugumas, vystoma atsinaujinančių energijos išteklių energetikos plėtra; 
 Papildyta straipsnio punktu:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
- 
+ 
 
 
 
@@ -1322,9 +1302,7 @@ Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 16) atlieka kituose įstatymuose jai nustatytas funkcijas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
- 
-
-
+ 
 
 
 
@@ -1339,19 +1317,13 @@ Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 Papildyta straipsniu:
 Nr. XIII-1449, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11761
- 
-
-
+ 
 
 
 
 
 TREČIASIS SKIRSNIS
-ENERGETIKOS SEKTORIAUS PLĖTRA
- 
-
-
-14 straipsnis. Energetikos politikos formavimas ir įgyvendinimas
+ENERGETIKOS SEKTORIAUS PLĖTRA14 straipsnis. Energetikos politikos formavimas ir įgyvendinimas
 
 
 1. Valstybės pažangos strategijoje nustatomos energetikos politikos vystymosi kryptys, Nacionaliniame pažangos plane nustatomi energetikos politikos strateginiai tikslai ir (arba) pažangos uždaviniai, o šiuos uždavinius įgyvendinančiose nacionalinėse plėtros programose – priemonės.
@@ -1450,53 +1422,6 @@ Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 Straipsnio pakeitimai:
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
- 
-
-
-
-
-15 straipsnis. Energetikos objektų, įrenginių statyba, plėtra ir rekonstrukcija
-
-
-1. Energetikos objektai statomi Lietuvos Respublikos statybos įstatymo, Lietuvos Respublikos teritorijų planavimo įstatymo, Lietuvos Respublikos aplinkos apsaugos įstatymo ir kitų teisės aktų nustatyta tvarka. Valstybinės svarbos energetikos objektai plėtojami atsižvelgiant į Nacionaliniame pažangos plane nustatytus energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius. Planuojami valstybinės svarbos energetikos objektai turi subalansuoti Lietuvos Respublikos energetikos sektoriaus plėtrą, iki teritorijų planavimo dokumentų rengimo pradžios parengiant šių objektų plėtros projektus. Vartotojų aprūpinimo energija ir energijos ištekliais bendrieji ar specialieji planai rengiami atsižvelgiant į Nacionaliniame pažangos plane nustatytus energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius. Vartotojų energetikos įrenginiai įrengiami Energetikos ministerijos nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
-Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
- 
-
-
-
-
-2. Energetikos įmonės dalyvauja rengiant ir plėtojant subalansuoto, efektyvaus energijos tiekimo, skirstymo, perdavimo planus, taip pat planuoja valstybinės svarbos energetikos objektų plėtrą. Energetikos įmonės, perduodančios, skirstančios energiją, plėtoja energijos perdavimo, skirstymo įrenginius savo veiklos teritorijoje. 
-
-
-
-
-3. Energetikos įmonės, kurios verčiasi veikla, kurios kainos yra reguliuojamos, numatomas investicijas turi derinti su Taryba. Jeigu šios energetikos įmonių investicijos nėra suderintos su Taryba, jos negali būti pripažintos pagrįstomis valstybės reguliuojamoms kainoms peržiūrėti. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
- 
-
-
-
-
-4. Vartotojo, gamintojo ar kito asmens pageidaujami rekonstruoti ar perkelti energetikos įmonei priklausantys energetikos objektai, kliudantys statinių statybai ar dėl kitų priežasčių, yra rekonstruojami ar perkeliami vartotojo, gamintojo ar kito asmens ir energetikos įmonės susitarimu teisės aktų nustatyta tvarka ir sąlygomis. Vartotojas, gamintojas ar kitas asmuo, kurio prašymu energetikos objektas yra rekonstruojamas ar perkeliamas, apmoka energetikos objekto rekonstravimo ar perkėlimo išlaidas. Atskirus energetikos sektorius reglamentuojančiuose įstatymuose gali būti numatytos specialiosios energetikos objektų rekonstravimo ar perkėlimo išlaidų apmokėjimo sąlygos. Perkeltų ar rekonstruotų energetikos objektų nuosavybė nekeičiama.
-Straipsnio dalies pakeitimai:
-Nr. XIII-3337, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22205
- 
-
-
-
-
-5. Didesnės kaip 150 MW leistinos generuoti galios elektros energijos iš atsinaujinančių išteklių gamybos ir (ar) didesnės kaip 100 MW leistinos naudoti galios elektros energijos vartojimo, kai planuojama vartoti tik iš atsinaujinančių energijos išteklių pagamintą elektros energiją, projektai yra pripažįstami valstybei svarbiais projektais. Šiems projektams valstybinė žemė be aukciono nenuomojama.
-Papildyta straipsnio dalimi:
-Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
- 
-
-
-
-
-
 
 16 straipsnis. Energetikos veikla
 
@@ -3534,12 +3459,12 @@ EKSTREMALIOJI ENERGETIKOS PADĖTIS
 
 
 
-2. Energetikos įmonės, susidarius šio straipsnio 1 dalyje nurodytoms aplinkybėms, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo pranešti Energetikos ministerijai ir savivaldybės administracijos direktoriui apie energijos tiekimo sumažėjimą ir priemones energijos tiekimui atnaujinti.
+2. Energetikos įmonės, susidarius šio straipsnio 1 dalyje nurodytoms aplinkybėms, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo pranešti Energetikos ministerijai ir savivaldybės institucijoms apie energijos tiekimo sumažėjimą ir priemones energijos tiekimui atnaujinti.
 
 
 
 
-3. Paskelbus ekstremaliąją energetikos padėtį, energijos ir (ar) energijos išteklių tiekimas vartotojams gali būti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apribotas arba sustabdytas. Ekstremaliosios energetikos padėties metu energetikos įmonės, vykdančios Vyriausybės, jos įgaliotų valstybės institucijų ir (ar) savivaldybės administracijos direktoriaus nurodymus, už vartotojams padarytus nuostolius dėl energijos ar energijos išteklių tiekimo apribojimo ar nutraukimo neatsako.
+3. Paskelbus ekstremaliąją energetikos padėtį, energijos ir (ar) energijos išteklių tiekimas vartotojams gali būti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apribotas arba sustabdytas. Ekstremaliosios energetikos padėties metu energetikos įmonės, vykdančios Vyriausybės, jos įgaliotų valstybės institucijų ir (ar) savivaldybės institucijų nurodymus, už vartotojams padarytus nuostolius dėl energijos ar energijos išteklių tiekimo apribojimo ar nutraukimo neatsako.
 
 
 
@@ -3564,19 +3489,13 @@ EKSTREMALIOJI ENERGETIKOS PADĖTIS
 
 Straipsnio pakeitimai:
 Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
- 
-
-
+ 
 
 
 
 
 ŠEŠTASIS SKIRSNIS
-SKUNDŲ IR GINČŲ NAGRINĖJIMAS. atsakomybė
- 
-
-
-34 straipsnis. Ginčų sprendimas ne teismo tvarka
+SKUNDŲ IR GINČŲ NAGRINĖJIMAS. atsakomybė34 straipsnis. Ginčų sprendimas ne teismo tvarka
 
 
 1. Vartotojas, manantis, kad energetikos įmonė, vykdydama energetikos veiklą, pažeidė jo teises ar teisėtus interesus, susijusius su vartojimo sutartimi, pirmiausia privalo raštu kreiptis į energetikos įmonę ir nurodyti savo reikalavimus. 
@@ -3631,13 +3550,7 @@ Nr. XII-576, 2013-11-07, Žin., 2013, Nr. 120-6048 (2013-11-23)
 
 Straipsnio pakeitimai:
 Nr. XII-2089, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19367
-Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
- 
-
-
-
-
-341 straipsnis. Skundų nagrinėjimas
+Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166341 straipsnis. Skundų nagrinėjimas
 
 
 1. Tarnyba Vartotojų teisių apsaugos įstatymo nustatyta tvarka nagrinėja buitinių vartotojų skundus dėl energijos pirkimo–pardavimo sutarčių ir naujų buitinių vartotojų įrenginių prijungimo sutarčių nesąžiningų sąlygų taikymo. Tarnyba Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo nustatyta tvarka nagrinėja ir buitinių vartotojų skundus dėl energijos tiekėjų nesąžiningos komercinės veiklos. Jeigu nustatoma nesąžiningos komercinės veiklos atvejų, energetikos įmonė atsako Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo nustatyta tvarka.
@@ -3849,3 +3762,7 @@ c) už Reglamento (ES) Nr. 1227/2011 3 ir 5 straipsnių pažeidimus skiria pinig
 
 
 21. Taryba, vadovaudamasi šio straipsnio nuostatomis, patvirtina sankcijų skyrimo taisykles.
+
+13. 2023 m. spalio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2413, kuria iš dalies keičiami Direktyva (ES) 2018/2001, Reglamentas (ES) 2018/1999 ir Direktyva 98/70/EB, kiek tai susiję su skatinimu naudoti atsinaujinančiųjų išteklių energiją, ir panaikinama Tarybos direktyva (ES) 2015/652.
+
+13. 2023 m. spalio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2413, kuria iš dalies keičiami Direktyva (ES) 2018/2001, Reglamentas (ES) 2018/1999 ir Direktyva 98/70/EB, kiek tai susiję su skatinimu naudoti atsinaujinančiųjų išteklių energiją, ir panaikinama Tarybos direktyva (ES) 2015/652.
