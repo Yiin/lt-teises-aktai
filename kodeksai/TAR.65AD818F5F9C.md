@@ -1232,7 +1232,7 @@ Nr. XIV-1167, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15210
 2. Vidaus vežimas yra kelių transporto priemonėmis Lietuvos Respublikos teritorijoje vykdomas keleivių vežimas iš jų įlaipinimo vietų į išlaipinimo vietas ar krovinių gabenimas iš jų pakrovimo vietų į paskirties (iškrovimo) vietas. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1167, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15210
- 
+ 
 
 
 
@@ -1240,7 +1240,9 @@ Nr. XIV-1167, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15210
 3. Tarptautinis vežimas yra kelių transporto priemonėmis arba keliais transportavimo būdais vykdomas keleivių ar krovinių vežimas, kurio metu kelių transporto priemonė kerta valstybės sieną. Tarptautiniais vežimais laikomi:
 
 
-1) įvairiarūšio vežimo operacijos – tai kombinuotieji vežimai arba vežimo operacijos Europos Sąjungos teritorijoje, kuriuos vykdant ne didesniu kaip 150 km atstumu arba iki artimiausio transporto terminalo vežamas vienas arba keli konteineriai ar nuimamieji kėbulai, kurių bendras maksimalus ilgis ne didesnis kaip 45 pėdos ir kuriuose naudojamas vandens transportas, laikantis sąlygos, kad pradinėje arba galinėje maršruto dalyje naudojamos dviašės motorinės transporto priemonės su triaše puspriekabe ar triašės motorinės transporto priemonės su dviaše arba triaše puspriekabe; paslaugą teikiantis artimiausias transporto terminalas gali būti kitoje Europos Sąjungos valstybėje narėje negu Europos Sąjungos valstybė narė, kurioje krovinys buvo pakrautas į konteinerį ar nuimamąjį kėbulą arba iš jo iškrautas;
+1) įvairiarūšio vežimo operacijos:
+a) Lietuvos Respublikos transporto veiklos pagrindų įstatymo 12 straipsnio 1 dalyje apibrėžtos kombinuotojo vežimo operacijos, kurias vykdant vežamas vienas arba keli konteineriai arba keičiamos talpyklos, kurių bendras didžiausias ilgis neviršija 13,716 m (45 pėdų), arba
+b) vežimo operacijos, kurias vykdant vežamas vienas ar keli konteineriai arba keičiamos talpyklos, kurių bendras didžiausias ilgis neviršija 13,716 m (45 pėdų), ir kurioms vykdyti naudojamas vandens transportas, su sąlyga, kad keliu (-iais) vykdomos pradinės arba paskutinės maršruto dalies atstumas Europos Sąjungos teritorijoje neviršija 150 km; šiame papunktyje nurodytas 150 km atstumas gali būti viršytas, kad būtų pasiektas artimiausias numatytą paslaugą teikiantis tinkamas transporto terminalas, tais atvejais, kai naudojamos šios transporto priemonės: dviašės motorinės transporto priemonės su triašėmis puspriekabėmis arba triašės motorinės transporto priemonės su dviašėmis ar triašėmis puspriekabėmis; arba susisiekimo ministro nustatytais atvejais triašės motorinės transporto priemonės su dviašėmis arba triašėmis puspriekabėmis, vežančios vieną ar daugiau konteinerių arba keičiamų talpyklų, kurių bendras didžiausias ilgis ne didesnis kaip 13,716 m (45 pėdos), arba dviašės motorinės transporto priemonės su triašėmis puspriekabėmis, vežančios vieną ar daugiau konteinerių arba keičiamų talpyklų, kurių bendras didžiausias ilgis ne didesnis kaip 13,716 m (45 pėdos); artimiausias įvairiarūšio vežimo operacijoms vykdyti tinkamą paslaugą teikiantis transporto terminalas gali būti kitoje Europos Sąjungos valstybėje narėje nei Europos Sąjungos valstybė narė, kurioje krovinys buvo pakrautas arba iškrautas;
 
 
 
@@ -1264,15 +1266,7 @@ Nr. XIV-1167, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15210
 
 
 Straipsnio dalies pakeitimai:
-Nr. XIV-1167, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15210
- 
-
-
-
-
-
-
-91 straipsnis. Kabotažo operacijos
+Nr. XIV-1167, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-1521091 straipsnis. Kabotažo operacijos
 
 
 1. Kabotažo operacija yra vidaus vežimas, kurį atlieka ne Lietuvos Respublikos teritorijoje įsisteigęs vežėjas.
