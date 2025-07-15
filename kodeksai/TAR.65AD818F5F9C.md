@@ -3460,7 +3460,7 @@ priedas
 
 
 
-9. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/719, kuria iš dalies keičiama Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę.
+9. 1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Reglamentu (ES) 2019/1242.
 
 
 
