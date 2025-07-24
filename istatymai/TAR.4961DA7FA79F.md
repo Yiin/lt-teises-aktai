@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4961DA7FA79F"
 
 # Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas
 
-Suvestinė redakcija nuo 2024-07-10 iki 2025-07-23
+Suvestinė redakcija nuo 2025-07-24
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 56-1977, i. k. 1011010ISTA00IX-378
  
@@ -543,7 +543,9 @@ Draudimo sutarties rūšys yra šios:
 
 
 
-10. Įprastinės draudimo sutarties galiojimo metu ar draudimo sutarties galiojimo terminui pasibaigus, draudėjas turi teisę prašyti jo civilinę atsakomybę apdraudusį draudiką išduoti pažymą apie su draudėjo transporto priemone susijusius žalos atlyginimo atvejus ar jų nebuvimą už mažiausiai 5 pastarųjų metų sutartinių santykių laikotarpį ar už kitą laikotarpį, jeigu sutartiniai santykiai truko trumpiau. Draudikas privalo neatlygintinai išduoti draudėjui tokią pažymą per 15 dienų nuo draudėjo prašymo pateikimo dienos. 
+10. Įprastinės draudimo sutarties galiojimo metu ar draudimo sutarties galiojimo terminui pasibaigus, draudėjas turi teisę prašyti jo civilinę atsakomybę apdraudusį draudiką išduoti pažymą apie su draudėjo transporto priemone susijusius žalos atlyginimo atvejus ar jų nebuvimą, kurios formą tvirtina Europos Komisija, už mažiausiai 5 pastarųjų metų sutartinių santykių laikotarpį ar už kitą laikotarpį, jeigu sutartiniai santykiai truko trumpiau. Draudikas privalo neatlygintinai išduoti draudėjui tokią pažymą per 15 dienų nuo draudėjo prašymo pateikimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
  
 
 
@@ -595,7 +597,10 @@ Draudimo sutarties rūšys yra šios:
 
 
 
-4. Draudimo įmokų dydžius nustato draudikas. 
+4. Draudimo įmokų dydžius nustato draudikas. Draudikas, apskaičiuodamas draudimo įmokos dydį, neturi atsižvelgti į draudėjo pilietybę ar ankstesnę gyvenamąją vietą kitoje Europos Sąjungos valstybėje narėje. Kitoje Europos Sąjungos valstybėje narėje išduota pažyma apie su draudėjo transporto priemone susijusius žalos atlyginimo atvejus ar jų nebuvimą laikoma lygiaverte Lietuvos Respublikoje išduotai pažymai. Draudikas savo interneto svetainėje skelbia politikos, susijusios su pažymų apie su draudėjo transporto priemone susijusius žalos atlyginimo atvejus ar jų nebuvimą panaudojimu apskaičiuojant draudimo įmokų dydžius, įgyvendinimo ataskaitą. Draudimo priežiūros institucija tikrina, kaip draudikai laikosi pareigos interneto svetainėje skelbti politikos, susijusios su pažymų apie su draudėjo transporto priemone susijusius žalos atlyginimo atvejus ar jų nebuvimą panaudojimu apskaičiuojant draudimo įmokų dydžius, įgyvendinimo ataskaitą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
+ 
 
 
 
