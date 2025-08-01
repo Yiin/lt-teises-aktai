@@ -556,7 +556,9 @@ Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-0128910 straipsnis
 
 
 
-6) juridinis asmuo teisės aktų nustatyta tvarka nėra pateikęs finansinių ataskaitų rinkinio, veiklos ataskaitos ir savo interneto svetainėje (jeigu ją turi) viešai neskelbia informacijos apie įgyvendinamus ar įgyvendintus projektus.
+6) juridinis asmuo Juridinių asmenų registro duomenų tvarkytojui nėra pateikęs 1 paskutinių finansinių metų, kurių ataskaitų pateikimo terminas jau suėjęs, veiklos ataskaitos ir metinių finansinių ataskaitų rinkinio arba metinės ataskaitos;
+
+7) juridinis asmuo savo interneto svetainėje (jeigu ją turi) viešai neskelbia informacijos apie įgyvendinamus ir įgyvendintus projektus.
 
 
 
