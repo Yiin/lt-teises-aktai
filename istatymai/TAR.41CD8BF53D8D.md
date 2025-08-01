@@ -598,7 +598,7 @@ VIETINĖS RINKLIAVOS
 1. Savivaldybės taryba turi teisę savivaldybės teritorijoje nustatyti vietines rinkliavas tik už:
 
 
-1) leidimo atlikti kasinėjimo darbus savivaldybės viešojo naudojimo teritorijoje (gatvėse, vietinės reikšmės keliuose, aikštėse, žaliuosiuose plotuose), atitverti ją ar jos dalį arba apriboti eismą joje išdavimą;
+1) leidimo atlikti kasinėjimo, inžinerinių komunikacijų klojimo, medžiagų sandėliavimo ir kitus darbus savivaldybės viešojo naudojimo teritorijoje (gatvėse, vietinės reikšmės keliuose, kelių juostose ar jų apsaugos zonose, aikštėse, žaliuosiuose plotuose), atitverti ją ar jos dalį arba apriboti eismą joje išdavimą;
 
 
 
@@ -613,7 +613,7 @@ VIETINĖS RINKLIAVOS
 
 
 
-4) leidimo organizuoti komercinius renginius savivaldybei priklausančiose ar valdytojo teise valdomose viešojo naudojimo teritorijose išdavimą;
+4) leidimo organizuoti komercinius renginius savivaldybei priklausančiose ar savivaldybės valdytojo teise valdomose viešojo naudojimo teritorijose, vietinės reikšmės keliuose ir gatvėse, atitverti juos ar jų dalį arba apriboti eismą juose išdavimą;
 
 
 
