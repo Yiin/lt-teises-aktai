@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2025-02-01 iki 2025-07-31
+Suvestinė redakcija nuo 2025-08-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -756,6 +756,14 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 66. Specialiųjų transporto priemonių vairuotojų mokymas – Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka organizuojamas ir vykdomas specialiųjų transporto priemonių vairuotojų mokymas. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
+ 
+
+
+
+
+661. Stacionarusis greičio matuoklis – kelyje nejudamai įtvirtintas įrenginys su programine įranga momentiniam arba vidutiniam motorinių transporto priemonių, jų junginių su priekabomis greičiui matuoti.
+Papildyta straipsnio dalimi:
+Nr. XV-190, 2025-05-08, paskelbta TAR 2025-05-14, i. k. 2025-08558
  
 
 
@@ -2527,6 +2535,34 @@ Už viešosios įstaigos Transporto kompetencijų agentūros teikiamas administr
 
 Straipsnio pakeitimai:
 Nr. XIV-3019, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17781
+ 
+
+
+
+
+114 straipsnis. Stacionariųjų eismo priežiūros priemonių įrengimas 
+
+
+1. Keliuose gali būti įrengiami stacionarieji greičio matuokliai (toliau – greičio matuokliai). Greičio matuoklių įrengimo ir eksploatavimo keliuose tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+
+
+
+2. Greičio matuokliai keliuose įrengiami siekiant užtikrinti eismo saugumą, įvertinus kelio ar jo ruožo eismo saugumo padėtį, eismo įvykių, kilusių viršijus nustatytą greitį, aplinkybes, nustatyto greičio viršijimo atvejų mastą, eismo intensyvumą, eismo organizavimą ir kitus eismo saugumo požiūriu svarbius veiksnius ar rizikas. Greičio matuoklius keliuose įrengia kelio valdytojas.
+
+
+
+
+3. Greičio matuokliai, stacionariosios eismo priežiūros priemonės, kurios fiksuoja motorinės transporto priemonės ar jos junginio su priekaba greitį, ir stacionariosios eismo priežiūros priemonės, kurios fiksuoja kitus duomenis, išskyrus greitį, žymimos skirtingais kelio ženklais.
+
+
+
+
+4. Prieš visus įrengtus ir eksploatuojamus greičio matuoklius įrengiami (pastatomi) kelio ženklai, informuojantys apie vykdomą greičio kontrolę, bei ženklai, nurodantys ten leistiną greitį.
+
+
+Papildyta straipsniu:
+Nr. XV-190, 2025-05-08, paskelbta TAR 2025-05-14, i. k. 2025-08558
  
 
 
@@ -5172,6 +5208,16 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3154, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20212
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir 11 straipsnio pakeitimo įstatymas
+ 
+47.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-139, 2025-03-27, paskelbta TAR 2025-04-01, i. k. 2025-05662
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 17-1 straipsnio pakeitimo įstatymas
+ 
+48.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-190, 2025-05-08, paskelbta TAR 2025-05-14, i. k. 2025-08558
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 straipsnio pakeitimo ir Įstatymo papildymo 11-4 straipsniu įstatymas
  
  
 
