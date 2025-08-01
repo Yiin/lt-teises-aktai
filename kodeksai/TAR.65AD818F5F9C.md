@@ -171,17 +171,13 @@ Nr. XI-573, 2009-12-17, Žin., 2009, Nr. 154-6952 (2009-12-28), i. k. 1091010IST
 3. Neteko galios 2009-12-28.
 Straipsnio dalies pakeitimai:
 Nr. XI-573, 2009-12-17, Žin., 2009, Nr. 154-6952 (2009-12-28), i. k. 1091010ISTA00XI-573
- 
-
-
+ 
 
 
 
 
 4 straipsnis. Geležinkelių transporto kodekso taikymas
-
 1. Geležinkelių transporto kodeksas taikomas santykiams, atsirandantiems iš naudojimosi viešąja geležinkelių infrastruktūra ir geležinkelių paslaugų įrenginiais, geležinkelių infrastruktūros ir geležinkelių paslaugų įrenginių valdymo, naudojimo ir disponavimo jais, viešosios geležinkelių infrastruktūros priežiūros, keleivių, bagažo ir (ar) krovinių vežimo Lietuvos Respublikos geležinkelių tinkle, geležinkelių transporto rinkos priežiūros, išskyrus šiame straipsnyje nustatytas išimtis. Kiti Lietuvos Respublikos įstatymai nurodytiems santykiams taikomi tiek, kiek šis Kodeksas nenustata kitaip.
-
 2. Vadovaujantis Reglamento (ES) 2021/782 2 straipsnio 2 dalimi, Geležinkelių transporto kodeksas, išskyrus šio Kodekso 10^1, 19 straipsnius ir 33 straipsnio 2 dalį, netaikomas siauriesiems (750 mm pločio vėžės) geležinkeliams.
 
 5 straipsnis. Kelių transporto teisės aktai
