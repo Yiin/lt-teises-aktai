@@ -2849,7 +2849,7 @@ užtraukia įspėjimą arba baudą nuo trisdešimt iki vieno šimto penkiasdeši
 
 
 
-4. Socialines, kultūros, švietimo, sporto ir sveikatos priežiūros paslaugas vaikams teikiančių įstaigų, įmonių ir organizacijų, kitų įstaigų, įmonių ir organizacijų, jei jose dirba, užsiima savanoriška veikla, stažuojasi ar atlieka praktiką asmenys, kurių darbas, savanoriška veikla, praktika ar stažuotė tiesioginiais ir reguliariais kontaktais susiję su vaikais, taip pat juridinių asmenų, pasitelkiančių asmenis teikti paslaugas, jei šios paslaugos ar juridinių asmenų, kuriems teikiamos paslaugos, veikla tiesioginiais ir reguliariais kontaktais susijusios su vaikais, priimančiųjų organizacijų pareigos, nurodytos Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 5, 6 dalyse, nevykdymas
+4. Socialines, kultūros, švietimo, sporto ir sveikatos priežiūros paslaugas tik vaikams teikiančių įstaigų, įmonių ir organizacijų, kitų įstaigų, įmonių ir organizacijų, jei jose dirba, užsiima savanoriška veikla, stažuojasi ar atlieka praktiką asmenys, kurių darbas, savanoriška veikla, praktika ar stažuotė tiesioginiais ir reguliariais kontaktais susiję su vaikais, taip pat juridinių asmenų, pasitelkiančių asmenis teikti paslaugas, jei šios paslaugos ar juridinių asmenų, kuriems teikiamos paslaugos, veikla tiesioginiais ir reguliariais kontaktais susijusios su vaikais, priimančiųjų organizacijų pareigos, nurodytos Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 5 dalyje, ar bent vienos pareigos, nustatytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 6 dalyje, nevykdymas
 užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
 
 
@@ -2861,7 +2861,7 @@ užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
 
 
 
-6. Socialines, kultūros, švietimo, sporto ir sveikatos priežiūros paslaugas vaikams teikiančių įstaigų, įmonių ir organizacijų, kitų įstaigų, įmonių ir organizacijų, jei jose dirba, užsiima savanoriška veikla, stažuojasi ar atlieka praktiką asmenys, kurių darbas, savanoriška veikla, praktika ar stažuotė tiesioginiais ir reguliariais kontaktais susiję su vaikais, taip pat juridinių asmenų, pasitelkiančių asmenis teikti paslaugas, jei šios paslaugos ar juridinių asmenų, kuriems teikiamos paslaugos, veikla tiesioginiais ir reguliariais kontaktais susijusios su vaikais, priimančiųjų organizacijų pareigos, nurodytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 5, 6 dalyse, nevykdymas arba pareigų, nurodytų Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 9 dalyje, nevykdymas, jei šioje dalyje nurodytose įstaigose, įmonėse, organizacijose dirba, užsiima savanoriška veikla, atlieka praktiką, stažuojasi ar teikia paslaugas asmuo, kuris apkaltinamuoju teismo nuosprendžiu pripažintas kaltu dėl nusikalstamų veikų, nurodytų Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 1 dalyje, arba asmuo, kuris yra padaręs Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 1 dalyje nurodytas nusikalstamas veikas, bet atleistas nuo baudžiamosios atsakomybės Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 1 dalyje nurodytais pagrindais, 
+6. Socialines, kultūros, švietimo, sporto ir sveikatos priežiūros paslaugas tik vaikams teikiančių įstaigų, įmonių ir organizacijų, kitų įstaigų, įmonių ir organizacijų, jei jose dirba, užsiima savanoriška veikla, stažuojasi ar atlieka praktiką asmenys, kurių darbas, savanoriška veikla, praktika ar stažuotė tiesioginiais ir reguliariais kontaktais susiję su vaikais, taip pat juridinių asmenų, pasitelkiančių asmenis teikti paslaugas, jei šios paslaugos ar juridinių asmenų, kuriems teikiamos paslaugos, veikla tiesioginiais ir reguliariais kontaktais susijusios su vaikais, priimančiųjų organizacijų pareigos, nurodytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 5 dalyje, ar bent vienos pareigos, nustatytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 6 dalyje, nevykdymas arba pareigų, nurodytų Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 9 dalyje, nevykdymas, jei šioje dalyje nurodytose įstaigose, įmonėse, organizacijose dirba, užsiima savanoriška veikla, atlieka praktiką, stažuojasi ar teikia paslaugas asmuo, kuris įsiteisėjusiu apkaltinamuoju teismo nuosprendžiu pripažintas kaltu dėl nusikalstamų veikų, nurodytų Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 1 dalyje, arba asmuo, kuris yra padaręs bent vieną Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 1 dalyje nurodytą nusikalstamą veiką, įvardytą kaip seksualiniai nusikaltimai, bet atleistas nuo baudžiamosios atsakomybės,
 užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.
 
 
@@ -2873,7 +2873,7 @@ užtraukia baudą nuo penkių tūkstančių iki šešių tūkstančių eurų.
 
 
 
-8. Asmens, besiverčiančio individualia veikla, teikiančio paslaugas ar vykdančio bet kokią kitą veiklą, jei ši veikla ar paslaugos tiesioginiais ir reguliariais kontaktais susijusios su vaikais, pareigos, nurodytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 6 dalyje, ir pareigos, nurodytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 7 dalyje, nevykdymas
+8. Asmens, besiverčiančio individualia veikla, teikiančio paslaugas ar vykdančio bet kokią kitą veiklą, jei ši veikla ar paslaugos tiesioginiais ir reguliariais kontaktais susijusios su vaikais, pareigos, nurodytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 6 dalyje, ir (ar) pareigos, nurodytos Vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 7 dalyje, nevykdymas
 užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
 
 
@@ -2884,38 +2884,7 @@ užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
 
 
 Straipsnio pakeitimai:
-Nr. XIV-2916, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13512
- 
-
-
-
-
-73 straipsnis. Tėvų valdžios nepanaudojimas arba panaudojimas priešingai vaiko interesams
-
-
-1. Tėvų valdžios nepanaudojimas arba panaudojimas priešingai vaiko interesams
-užtraukia įspėjimą tėvams.
-
-
-
-
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo dešimt iki vieno šimto eurų.
-
-
-
-
-3. Už šio straipsnio 2 dalyje numatytą administracinį nusižengimą gali būti taikoma administracinio poveikio priemonė – įpareigojimas dalyvauti atitinkamose alkoholizmo ir narkomanijos prevencijos, ankstyvosios intervencijos, sveikatos priežiūros, resocializacijos, bendravimo su vaikais tobulinimo, smurtinio elgesio keitimo ar kitose programose (kursuose).
-Straipsnio dalies pakeitimai:
-Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
- 
-
-
-
-
-
-
-74 straipsnis. Vaiko globėjo (rūpintojo) pareigų nevykdymas arba vykdymas priešingai vaiko interesams
+Nr. XIV-2916, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13512774 straipsnis. Vaiko globėjo (rūpintojo) pareigų nevykdymas arba vykdymas priešingai vaiko interesams
 
 
 1. Vaiko globėjui (rūpintojui) nustatytų pareigų nevykdymas arba vykdymas priešingai vaiko interesams
@@ -2932,15 +2901,7 @@ užtraukia baudą nuo dešimt iki vieno šimto eurų.
 
 3. Už šio straipsnio 2 dalyje numatytą administracinį nusižengimą gali būti taikoma administracinio poveikio priemonė – įpareigojimas dalyvauti alkoholizmo ir narkomanijos prevencijos, ankstyvosios intervencijos, sveikatos priežiūros, resocializacijos, bendravimo su vaikais tobulinimo, smurtinio elgesio keitimo ar kitose programose (kursuose).
 Straipsnio dalies pakeitimai:
-Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
- 
-
-
-
-
-
-
-75 straipsnis. Melagingos informacijos suteikimas, kliudymas nustatyti vaiko globą (rūpybą) ir informacijos nepranešimas
+Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-0634375 straipsnis. Melagingos informacijos suteikimas, kliudymas nustatyti vaiko globą (rūpybą) ir informacijos nepranešimas
 
 
 1. Nepranešimas Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai, policijai ar prokuratūrai apie tėvų, kitų teisėtų vaiko atstovų ir kitų asmenų daromus vaiko teisių pažeidimus
