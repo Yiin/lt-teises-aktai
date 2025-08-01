@@ -471,7 +471,7 @@ Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
 
 
 
-3) Juridinių asmenų registrui teisės aktų nustatyta tvarka yra pateikusi dvejų praėjusių finansinių metų veiklos ataskaitas ir metinių finansinių ataskaitų rinkinį;
+3) Juridinių asmenų registro duomenų tvarkytojui yra pateikusi 2 paskutinių finansinių metų, kurių ataskaitų pateikimo terminas jau suėjęs, veiklos ataskaitas ir metinių finansinių ataskaitų rinkinius arba metines ataskaitas ir yra viešai paskelbusi šias ataskaitas savo interneto svetainėje (jeigu ją turi);
 
 
 
@@ -481,27 +481,19 @@ Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
 
 
 
-5) siekia išmatuojamo teigiamo socialinio poveikio visuomenei ar jos daliai, steigimo dokumente arba steigėjų ar dalyvių patvirtintame dokumente yra nurodžiusi siekiamo socialinio poveikio tikslą (sprendžiamą socialinę problemą), išmatuojamo socialinio poveikio rodiklius, šių rodiklių vertinimo metodiką ir vieną kartą per kalendorinius metus vertina praėjusių kalendorinių metų veiklos socialinį poveikį, ir veiklą siekiant socialinio poveikio organizuoja konsultuodamasi (suteikdama galimybę teikti nuomonę ir pasiūlymus) su asmenimis, kuriems daromas socialinis poveikis organizacijos vykdoma veikla, ir su visuomene. Socialinio poveikio rezultatai turi būti patvirtinti nevyriausybinės organizacijos steigėjų ar dalyvių ir skelbiami viešai. Socialinio poveikio matavimas taikomas tik toms nevyriausybinėms organizacijoms, kurių pagrindinis tikslas – teikti viešąsias paslaugas.
+5) siekia išmatuojamo teigiamo socialinio poveikio visuomenei ar jos daliai, steigimo dokumente arba steigėjų ar dalyvių patvirtintame dokumente yra nurodžiusi siekiamo socialinio poveikio tikslą (sprendžiamą socialinę problemą), išmatuojamo socialinio poveikio rodiklius, šių rodiklių vertinimo metodiką ir vieną kartą per kalendorinius metus vertina praėjusių kalendorinių metų veiklos socialinį poveikį, ir veiklą siekiant socialinio poveikio organizuoja konsultuodamasi (suteikdama galimybę teikti nuomonę ir pasiūlymus) su asmenimis, kuriems daromas socialinis poveikis organizacijos vykdama veikla, ir su visuomene. Socialinio poveikio rezultatai turi būti patvirtinti nevyriausybinės organizacijos steigėjų ar dalyvių ir skelbiami viešai. Socialinio poveikio matavimas taikomas tik toms nevyriausybinėms organizacijoms, kurių pagrindinis tikslas – teikti viešąsias paslaugas.
 Straipsnio punkto pakeitimai:
 Nr. XIV-2461, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25956
- 
+ 
 
 
 
 
-
-
-3. Vyriausybės įgaliota institucija, vertindama nevyriausybinės organizacijos, siekiančios būti pripažinta viešosios naudos nevyriausybine organizacija, veiklą, įvertina jos įstatus, Juridinių asmenų registrui pateiktas dvejų praėjusių ataskaitinių metų veiklos ataskaitas ir pateiktus vienų praėjusių kalendorinių metų veiklos socialinio poveikio rezultatus, jeigu nevyriausybinės organizacijos pagrindinis tikslas – teikti viešąsias paslaugas.
+3. Vyriausybės įgaliota institucija, vertindama nevyriausybinės organizacijos, siekiančios būti pripažinta viešosios naudos nevyriausybine organizacija, veiklą, įvertina jos įstatus, Juridinių asmenų registro duomenų tvarkytojui pateiktas 2 paskutinių finansinių metų, kurių ataskaitų pateikimo terminas jau suėjęs, veiklos ataskaitas ir metinių finansinių ataskaitų rinkinius arba metines ataskaitas ir pateiktus 1 praėjusių kalendorinių metų veiklos socialinio poveikio rezultatus, jeigu nevyriausybinės organizacijos pagrindinis tikslas – teikti viešąsias paslaugas.
 
 
 Straipsnio pakeitimai:
-Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
- 
-
-
-
-
-9 straipsnis. Nevyriausybinių organizacijų fondas
+Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-012899 straipsnis. Nevyriausybinių organizacijų fondas
 
 
 1. Nevyriausybinių organizacijų fondas (toliau – Fondas) sudaromas siekiant paskirstyti lėšas nevyriausybinėms organizacijoms, taip pat nevyriausybinių organizacijų plėtros valstybės politikai formuoti ir įgyvendinti. Nevyriausybinių organizacijų plėtros valstybės politikai formuoti ir įgyvendinti gali būti skiriama ne daugiau kaip 20 procentų Fondo lėšų. Fondo lėšos konkurso būdu gali būti skiriamos:
@@ -533,13 +525,7 @@ Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
 
 
 Straipsnio pakeitimai:
-Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
- 
-
-
-
-
-10 straipsnis. Finansavimo neskyrimo pagrindai
+Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-0128910 straipsnis. Finansavimo neskyrimo pagrindai
 
 
 1. Valstybės ir savivaldybių biudžetų lėšos nevyriausybinėms organizacijoms negali būti skiriamos, jeigu nustatoma bent viena iš šių aplinkybių:
