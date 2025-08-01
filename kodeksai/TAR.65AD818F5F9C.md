@@ -178,37 +178,11 @@ Nr. XI-573, 2009-12-17, Žin., 2009, Nr. 154-6952 (2009-12-28), i. k. 1091010IST
 
 
 
-4 straipsnis. Kelių transporto valstybinis valdymas
+4 straipsnis. Geležinkelių transporto kodekso taikymas
 
+1. Geležinkelių transporto kodeksas taikomas santykiams, atsirandantiems iš naudojimosi viešąja geležinkelių infrastruktūra ir geležinkelių paslaugų įrenginiais, geležinkelių infrastruktūros ir geležinkelių paslaugų įrenginių valdymo, naudojimo ir disponavimo jais, viešosios geležinkelių infrastruktūros priežiūros, keleivių, bagažo ir (ar) krovinių vežimo Lietuvos Respublikos geležinkelių tinkle, geležinkelių transporto rinkos priežiūros, išskyrus šiame straipsnyje nustatytas išimtis. Kiti Lietuvos Respublikos įstatymai nurodytiems santykiams taikomi tiek, kiek šis Kodeksas nenustata kitaip.
 
-1. Kelių transporto valstybinį valdymą vykdo Susisiekimo ministerija ir savivaldybių institucijos. 
-Straipsnio dalies pakeitimai:
-Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
- 
-
-
-
-
-2. Susisiekimo ministerija pagal savo kompetenciją leidžia savivaldybėms, fiziniams ir juridiniams asmenims privalomus teisės aktus, reguliuojančius kelių transporto veiklą ir keleivių bei krovinių vežimą. Susisiekimo ministerija arba jos įgaliota institucija valdo ir organizuoja keleivių vežimą tolimojo ir tarptautinio susisiekimo maršrutais. 
-Straipsnio dalies pakeitimai:
-Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
- 
-
-
-
-
-3. Savivaldybių institucijos arba jų įgaliotos įstaigos valdo ir organizuoja keleivių vežimą vietinio susisiekimo maršrutais. Savivaldybių institucijos pagal savo kompetenciją leidžia vežėjams privalomus teisės aktus. 
-Straipsnio dalies pakeitimai:
-Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
-Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
- 
-
-
-
-
-
-
-5 straipsnis. Kelių transporto teisės aktai
+2. Vadovaujantis Reglamento (ES) 2021/782 2 straipsnio 2 dalimi, Geležinkelių transporto kodeksas, išskyrus šio Kodekso 10^1, 19 straipsnius ir 33 straipsnio 2 dalį, netaikomas siauriesiems (750 mm pločio vėžės) geležinkeliams.5 straipsnis. Kelių transporto teisės aktai
 
 
 Kelių transporto santykius reguliuoja šis kodeksas, Lietuvos Respublikos įstatymai bei kiti teisės aktai, tarptautinės sutartys.
