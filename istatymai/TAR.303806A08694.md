@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/303806a0869411e8af589337bf1eb893"
 
 # Lietuvos Respublikos technologijų ir inovacijų įstatymas
 
-Suvestinė redakcija nuo 2025-04-01 iki 2025-08-01
+Suvestinė redakcija nuo 2025-08-02 iki 2025-12-31
  
 Įstatymas paskelbtas: TAR 2018-07-13, i. k. 2018-11954
  
@@ -649,6 +649,14 @@ Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
 
 
 121) vadovaudamasi ekonomikos ir inovacijų ministro nustatyta tvarka, vertina, ar ūkio subjektų, siekiančių gauti valstybės paramą, vykdoma veikla turi didelį ir inovacijomis grindžiamą verslo plėtros potencialą, ir priima sprendimą šiuo klausimu; 
+Papildyta straipsnio punktu:
+Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
+ 
+
+
+
+
+122) pagal Reglamento (ES) 2024/1689 28 straipsnio 1 dalį ir 70 straipsnio 1 dalį atlieka nacionalinės kompetentingos institucijos – notifikuojančiosios institucijos – funkcijas, vadovaudamasi Reglamentu (ES) 2024/1689, ekonomikos ir inovacijų ministro nustatytomis atitikties vertinimo įstaigų vertinimo, paskyrimo, notifikavimo ir stebėjimo procedūromis, taip pat kitais atitikties vertinimą reglamentuojančiais teisės aktais; 
 Papildyta straipsnio punktu:
 Nr. XV-105, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00715
  
