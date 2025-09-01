@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/60718c50037311edb32c9f9d8ba206f8"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas
 
-Suvestinė redakcija nuo 2024-05-04 iki 2025-08-31
+Suvestinė redakcija nuo 2025-09-01
  
 Įstatymas paskelbtas: TAR 2022-07-14, i. k. 2022-15485
  
@@ -1574,9 +1574,11 @@ Nr. XIV-2059, 2023-06-15, paskelbta TAR 2023-06-27, i. k. 2023-12865
 
 
 
-61. Iki 2024 m. sausio 1 d. priimtiems į pareigas valstybinių mokslinių tyrimų institutų tyrėjams nuo 2024 m. sausio 1 d. iki 2024 m. rugpjūčio 31 d. nustatomi pareiginės algos koeficientai yra 1,13–1,37, nuo 2024 m. rugsėjo 1 d. – 1,34–1,63.
+61. Iki 2024 m. sausio 1 d. priimtiems į pareigas valstybinių mokslinių tyrimų institutų tyrėjams nuo 2025 m. rugsėjo 1 d. nustatomi pareiginės algos koeficientai yra 1,45–1,76.
 Papildyta straipsnio dalimi:
 Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
+Straipsnio dalies pakeitimai:
+Nr. XV-85, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23080
  
 
 
@@ -1656,3 +1658,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2586, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08306
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 13 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-85, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23080
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 29 straipsnio pakeitimo įstatymas
