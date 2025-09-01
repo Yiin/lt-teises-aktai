@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-08-31
+Suvestinė redakcija nuo 2025-09-01 iki 2027-12-31
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -3959,32 +3959,32 @@ Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
 5. Pareiginės algos koeficientai yra šie:
 
 
-1) instituto direktoriaus – 1,78–3,17;
+1) instituto direktoriaus – 1,92–3,42;
 
 
 
 
-2) instituto mokslinio sekretoriaus – 1,34–2,55;
+2) instituto mokslinio sekretoriaus – 1,45–2,75;
 
 
 
 
-3) vyriausiojo mokslo darbuotojo – 1,53–2,75;
+3) vyriausiojo mokslo darbuotojo – 1,65–2,97;
 
 
 
 
-4) vyresniojo mokslo darbuotojo – 1,34–2,14;
+4) vyresniojo mokslo darbuotojo – 1,45–2,31;
 
 
 
 
-5) mokslo darbuotojo, mokslininko stažuotojo – 1,34–1,63;
+5) mokslo darbuotojo, mokslininko stažuotojo – 1,45–1,76;
 
 
 
 
-6) jaunesniojo mokslo darbuotojo – 1,27–1,51.
+6) jaunesniojo mokslo darbuotojo – 1,37–1,63.
 
 
 Straipsnio dalies pakeitimai:
@@ -3994,6 +3994,7 @@ Nr. XIII-3269, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15545
 Nr. XIV-723, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25841
 Nr. XIV-1542, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24192
 Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
+Nr. XV-84, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23079
  
 
 
@@ -6114,3 +6115,13 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-86, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23081
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pakeitimo įstatymas
+ 
+73.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-84, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23079
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pakeitimo įstatymas
+ 
+74.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-85, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23080
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 29 straipsnio pakeitimo įstatymas
