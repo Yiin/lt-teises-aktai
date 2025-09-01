@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-08-31
+Suvestinė redakcija nuo 2025-09-01
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
  
@@ -878,7 +878,6 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 
 
 1. Šiame skyriuje nurodytų darbuotojų pareiginės algos koeficientai:
- 
 (pareiginės algos (atlyginimo) baziniais dydžiais)
 
 
@@ -905,62 +904,63 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 
 
  Mokytojas 
- 1,0223 
- 1,0261 
- 1,0349 
- 1,0538 
- 1,0866 
- 1,0903 
- 1,0967 
+ 1,1041 
+ 1,1082 
+ 1,1177 
+ 1,1381 
+ 1,1735 
+ 1,1775 
+ 1,1844 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 1,0979 
- 1,1006 
- 1,1018 
- 1,1080 
- 1,1106 
- 1,1143 
- 1,1231 
+ 1,1857 
+ 1,1886 
+ 1,1899 
+ 1,1966 
+ 1,1994 
+ 1,2034 
+ 1,2129 
 
 
  Vyresnysis mokytojas 
    
- 1,1244 
- 1,1282 
- 1,1333 
- 1,1787 
- 1,1849 
- 1,1899 
+ 1,2144 
+ 1,2185 
+ 1,2240 
+ 1,2730 
+ 1,2797 
+ 1,2851 
 
 
  Mokytojas metodininkas 
    
    
- 1,2013 
- 1,2228 
- 1,2618 
- 1,2669 
- 1,2757 
+ 1,2974 
+ 1,3206 
+ 1,3627 
+ 1,3683 
+ 1,3778 
 
 
  Mokytojas ekspertas 
-
-
- 1,3652 
- 1,3879 
- 1,4232 
- 1,4295 
- 1,4358 
+   
+   
+ 1,4744 
+ 1,4989 
+ 1,5371 
+ 1,5439 
+ 1,5507 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
  
 
 
@@ -1136,62 +1136,63 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL IKIMOKYKLINIO UGDYMO PROGRAMĄ, IR MENINIO UGDYMO M
 
 
  Mokytojas 
- 1,0223 
- 1,0261 
- 1,0349 
- 1,0538 
- 1,0866 
- 1,0903 
- 1,0967 
+ 1,1041 
+ 1,1082 
+ 1,1177 
+ 1,1381 
+ 1,1735 
+ 1,1775 
+ 1,1844 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 1,0979 
- 1,1006 
- 1,1018 
- 1,1080 
- 1,1106 
- 1,1143 
- 1,1231 
+ 1,1857 
+ 1,1886 
+ 1,1899 
+ 1,1966 
+ 1,1994 
+ 1,2034 
+ 1,2129 
 
 
  Vyresnysis mokytojas 
    
- 1,1244 
- 1,1282 
- 1,1333 
- 1,1787 
- 1,1849 
- 1,1899 
+ 1,2144 
+ 1,2185 
+ 1,2240 
+ 1,2730 
+ 1,2797 
+ 1,2851 
 
 
  Mokytojas metodininkas 
    
    
- 1,2013 
- 1,2228 
- 1,2618 
- 1,2669 
- 1,2757 
+ 1,2974 
+ 1,3206 
+ 1,3627 
+ 1,3683 
+ 1,3778 
 
 
  Mokytojas ekspertas 
    
    
- 1,3652 
- 1,3879 
- 1,4232 
- 1,4295 
- 1,4358 
+ 1,4744 
+ 1,4989 
+ 1,5371 
+ 1,5439 
+ 1,5507 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
  
 
 
@@ -1340,62 +1341,63 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL PRIEŠMOKYKLINIO UGDYMO PROGRAMĄ, PAREIGINĖS ALGO
 
 
  Mokytojas 
- 1,0223 
- 1,0261 
- 1,0349 
- 1,0538 
- 1,0866 
- 1,0903 
- 1,0967 
+ 1,1041 
+ 1,1082 
+ 1,1177 
+ 1,1381 
+ 1,1735 
+ 1,1775 
+ 1,1844 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 1,0979 
- 1,1006 
- 1,1018 
- 1,1080 
- 1,1106 
- 1,1143 
- 1,1231 
+ 1,1857 
+ 1,1886 
+ 1,1899 
+ 1,1966 
+ 1,1994 
+ 1,2034 
+ 1,2129 
 
 
  Vyresnysis mokytojas 
-
- 1,1244 
- 1,1282 
- 1,1333 
- 1,1787 
- 1,1849 
- 1,1899 
+   
+ 1,2144 
+ 1,2185 
+ 1,2240 
+ 1,2730 
+ 1,2797 
+ 1,2851 
 
 
  Mokytojas metodininkas 
-
-
- 1,2013 
- 1,2228 
- 1,2618 
- 1,2669 
- 1,2757 
+   
+   
+ 1,2974 
+ 1,3206 
+ 1,3627 
+ 1,3683 
+ 1,3778 
 
 
  Mokytojas ekspertas 
-
-
- 1,3652 
- 1,3879 
- 1,4232 
- 1,4295 
- 1,4358 
+   
+   
+ 1,4744 
+ 1,4989 
+ 1,5371 
+ 1,5439 
+ 1,5507 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
  
 
 
@@ -1502,8 +1504,8 @@ SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DI
 
 
  iki 2 
- nuo daugiau kaip 2 iki 5 
- nuo daugiau kaip 5 iki 10 
+ nuo daugiau kaip 2  iki 5 
+ nuo daugiau kaip 5  iki 10 
  nuo daugiau kaip 10 iki 15 
  nuo daugiau kaip 15 iki 20 
  nuo daugiau kaip 20 iki 25 
@@ -1514,73 +1516,63 @@ SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DI
 
 
  Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, judesio korekcijos specialistas, karjeros specialistas 
- 1,0223 
- 1,0261 
- 1,0349 
- 1,0538 
- 1,0866 
- 1,0903 
- 1,0967 
+ 1,1041 
+ 1,1082 
+ 1,1177 
+ 1,1381 
+ 1,1735 
+ 1,1775 
+ 1,1844 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas 
- 1,0979 
- 1,1006 
- 1,1018 
- 1,1080 
- 1,1106 
- 1,1143 
- 1,1231 
+ 1,1857 
+ 1,1886 
+ 1,1899 
+ 1,1966 
+ 1,1994 
+ 1,2034 
+ 1,2129 
 
 
  Vyresnysis specialusis pedagogas, vyresnysis logopedas, vyresnysis surdopedagogas, vyresnysis tiflopedagogas 
-
- 1,1244 
- 1,1282 
- 1,1333 
- 1,1787 
- 1,1849 
- 1,1899 
+   
+ 1,2144 
+ 1,2185 
+ 1,2240 
+ 1,2730 
+ 1,2797 
+ 1,2851 
 
 
  Specialusis pedagogas metodininkas, logopedas metodininkas, surdopedagogas metodininkas, tiflopedagogas metodininkas 
-
-
- 1,2013 
- 1,2228 
- 1,2618 
- 1,2669 
- 1,2757 
+   
+   
+ 1,2974 
+ 1,3206 
+ 1,3627 
+ 1,3683 
+ 1,3778 
 
 
  Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, tiflopedagogas ekspertas 
-
-
- 1,3652 
- 1,3879 
- 1,4232 
- 1,4295 
- 1,4358 
-
-
-
-
-
-
-
-
-
-
-
+   
+   
+ 1,4744 
+ 1,4989 
+ 1,5371 
+ 1,5439 
+ 1,5507 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
  
 
 
@@ -1709,62 +1701,63 @@ PSICHOLOGŲ ASISTENTŲ, PSICHOLOGŲ, SOCIALINIŲ PEDAGOGŲ IR ŠVIETIMO PAGALBOS
 
 
  Psichologo asistentas, specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, socialinis pedagogas 
- 1,0223 
- 1,0261 
- 1,0349 
- 1,0538 
- 1,0866 
- 1,0903 
- 1,0967 
+ 1,1041 
+ 1,1082 
+ 1,1177 
+ 1,1381 
+ 1,1735 
+ 1,1775 
+ 1,1844 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, socialinis pedagogas, ketvirtos kategorijos psichologas 
- 1,0979 
- 1,1006 
- 1,1018 
- 1,1080 
- 1,1106 
- 1,1143 
- 1,1231 
+ 1,1857 
+ 1,1886 
+ 1,1899 
+ 1,1966 
+ 1,1994 
+ 1,2034 
+ 1,2129 
 
 
  Vyresnysis specialusis pedagogas, vyresnysis logopedas, vyresnysis surdopedagogas, vyresnysis tiflopedagogas, vyresnysis socialinis pedagogas, trečios kategorijos psichologas 
-
- 1,1244 
- 1,1282 
- 1,1333 
- 1,1787 
- 1,1849 
- 1,1899 
+   
+ 1,2144 
+ 1,2185 
+ 1,2240 
+ 1,2730 
+ 1,2797 
+ 1,2851 
 
 
  Specialusis pedagogas metodininkas, logopedas metodininkas, surdopedagogas metodininkas, tiflopedagogas metodininkas, socialinis pedagogas metodininkas, antros kategorijos psichologas 
-
    
- 1,2013 
- 1,2228 
- 1,2618 
- 1,2669 
- 1,2757 
+   
+ 1,2974 
+ 1,3206 
+ 1,3627 
+ 1,3683 
+ 1,3778 
 
 
  Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, tiflopedagogas ekspertas, socialinis pedagogas ekspertas, pirmos kategorijos psichologas 
-
-
- 1,3652 
- 1,3879 
- 1,4232 
- 1,4295 
- 1,4358 
+   
+   
+ 1,4744 
+ 1,4989 
+ 1,5371 
+ 1,5439 
+ 1,5507 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
  
 
 
@@ -1841,7 +1834,6 @@ AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ PAREIGINIŲ ALGŲ KOEFICIENTAI I
 
 32. Šiame skyriuje nurodytų darbuotojų pareiginės algos koeficientai:
 (pareiginės algos (atlyginimo) baziniais dydžiais)
- 
 
 
 
@@ -1862,17 +1854,17 @@ AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ PAREIGINIŲ ALGŲ KOEFICIENTAI I
 
 
  Auklėtojas, koncertmeisteris, akompaniatorius 
- 0,7690 
- 0,7828 
- 0,7966 
- 0,8043 
+ 0,8305 
+ 0,8454 
+ 0,8603 
+ 0,8686 
 
 
-
+   
  Pedagoginio darbo stažas (metais) 
 
 
-
+   
  iki 10 
  nuo daugiau kaip 10 iki 15 
  daugiau kaip 15 
@@ -1881,34 +1873,43 @@ AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ PAREIGINIŲ ALGŲ KOEFICIENTAI I
  Suteiktos kvalifikacinės kategorijos 
 
 
- Auklėtojas, koncertmeisteris, akompaniatorius  
- 0,8106 
- 0,8181 
- 0,8243 
+ Koncertmeisteris, akompaniatorius  
+ 0,8754 
+ 0,8835 
+ 0,8902 
 
 
- Vyresnysis auklėtojas, vyresnysis koncertmeisteris, vyresnysis akompaniatorius  
- 0,8307 
- 0,8383 
- 0,8446 
+ Vyresnysis koncertmeisteris, vyresnysis akompaniatorius  
+ 0,8972 
+ 0,9054 
+ 0,9122 
 
 
- Auklėtojas metodininkas, koncertmeisteris metodininkas, akompaniatorius metodininkas  
- 0,8521 
- 0,8586 
- 0,8660 
+ Koncertmeisteris metodininkas, akompaniatorius metodininkas  
+ 0,9203 
+ 0,9273 
+ 0,9353 
 
 
- Auklėtojas ekspertas, koncertmeisteris ekspertas, akompaniatorius ekspertas 
- 0,8799 
- 0,8900 
- 0,9127 
+ Koncertmeisteris ekspertas, akompaniatorius ekspertas 
+ 0,9503 
+ 0,9612 
+ 0,9857 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
+ 
+
+
+
+
+321. Auklėtojams, kuriems įskaitytos kvalifikacinės kategorijos švietimo, mokslo ir sporto ministro nustatyta tvarka, pareiginės algos koeficientai nustatomi taikant pareiginės algos koeficientus, taikomus šio priedo 32 punkte nustatytą atitinkamą kvalifikacinę kategoriją įgijusiems darbuotojams. 
+Papildyta punktu:
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
  
 
 
@@ -2002,21 +2003,22 @@ PAGALBOS MOKINIUI SPECIALISTŲ, NENURODYTŲ ŠIO PRIEDO IV, V IR VI SKYRIUOSE, 
 
 
  iki 10  
- 0,8799 
+ 0,9503 
 
 
  nuo daugiau kaip 10 iki 15  
- 0,9833 
+ 1,0620 
 
 
  daugiau kaip 15  
- 1,0866 
+ 1,1735 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
  
 
 
@@ -2096,37 +2098,37 @@ MOKYKLŲ VADOVŲ IR JŲ PAVADUOTOJŲ UGDYMUI PAREIGINĖS ALGOS KOEFICIENTAI
 
 
  iki 200 
- 2,0095 
- 2,0826 
- 2,1329 
+ 2,1703 
+ 2,2492 
+ 2,3035 
 
 
 
  201–400 
- 2,1954 
- 2,2143 
- 2,2156 
+ 2,3710 
+ 2,3914 
+ 2,3928 
 
 
 
  401–600 
- 2,2035 
- 2,2184 
- 2,2239 
+ 2,3798 
+ 2,3959 
+ 2,4018 
 
 
 
  601–1 000 
- 2,3636 
- 2,3691 
- 2,3731 
+ 2,5527 
+ 2,5586 
+ 2,5629 
 
 
 
  1 001 ir daugiau 
- 2,3691 
- 2,3717 
- 2,3799 
+ 2,5586 
+ 2,5614 
+ 2,5703 
 
 
 
@@ -2134,6 +2136,7 @@ MOKYKLŲ VADOVŲ IR JŲ PAVADUOTOJŲ UGDYMUI PAREIGINĖS ALGOS KOEFICIENTAI
  
 Punkto pakeitimai:
 Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
  
 
 
@@ -2157,21 +2160,22 @@ Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
 
 
  iki 500 
- 1,9592 
- 1,9634 
- 1,9659 
+ 2,1159 
+ 2,1205 
+ 2,1232 
 
 
  501 ir daugiau 
- 1,9714 
- 1,9985 
- 2,0271 
+ 2,1291 
+ 2,1584 
+ 2,1893 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
  
 
 
@@ -2250,21 +2254,22 @@ MOKYKLŲ UGDYMĄ ORGANIZUOJANČIŲ SKYRIŲ VEDĖJŲ PAREIGINĖS ALGOS KOEFICIENT
 
 
  iki 10 
- 1,7082 
+ 1,8449 
 
 
  nuo daugiau kaip 10 iki 15 
- 1,7816 
+ 1,9241 
 
 
  daugiau kaip 15 
- 1,8765 
+ 2,0266 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
  
 
 
@@ -2344,56 +2349,57 @@ X SKYRIUS
 
  201 ir daugiau pareigybių 
  iki 5 
- 1,9985 
- 1,8005 
+ 2,1584 
+ 1,9445 
 
 
  nuo daugiau kaip 5 iki 10 
- 2,0271 
- 1,8304 
+ 2,1893 
+ 1,9768 
 
 
  daugiau kaip 10 
- 2,0543 
- 1,8575 
+ 2,2186 
+ 2,0061 
 
 
  51–200 pareigybių 
  iki 5 
- 1,9131 
- 1,7448 
+ 2,0661 
+ 1,8844 
 
 
  nuo daugiau kaip 5 iki 10 
- 1,9416 
- 1,7733 
+ 2,0969 
+ 1,9152 
 
 
  daugiau kaip 10 
- 1,9714 
- 1,8005 
+ 2,1291 
+ 1,9445 
 
 
  50 ir mažiau pareigybių 
  iki 5 
- 1,8304 
- 1,6892 
+ 1,9768 
+ 1,8243 
 
 
  nuo daugiau kaip 5 iki 10 
- 1,8575 
- 1,7164 
+ 2,0061 
+ 1,8537 
 
 
  daugiau kaip 10 
- 1,8861 
- 1,7448 
+ 2,0370 
+ 1,8844 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
  
 
 
@@ -2425,36 +2431,37 @@ Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
 
 
  iki 5 
- 1,6146 
- 1,6444 
- 1,6717 
- 1,3351 
- 1,3704 
- 1,4260 
+ 1,7438 
+ 1,7760 
+ 1,8054 
+ 1,4419 
+ 1,4800 
+ 1,5401 
 
 
  nuo daugiau kaip 5 iki 10 
- 1,6444 
- 1,6717 
- 1,6987 
- 1,3704 
- 1,4260 
- 1,4518 
+ 1,7760 
+ 1,8054 
+ 1,8346 
+ 1,4800 
+ 1,5401 
+ 1,5679 
 
 
  daugiau kaip 10 
- 1,6717 
- 1,6987 
- 1,7258 
- 1,4260 
- 1,4518 
- 1,4788 
+ 1,8054 
+ 1,8346 
+ 1,8639 
+ 1,5401 
+ 1,5679 
+ 1,5971 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
+Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
  
 
 
