@@ -680,8 +680,6 @@ Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 
 
-
-
 8. Tarybos narį atleisti iš pareigų prieš terminą Seimui siūlo Respublikos Prezidentas. Į atleistų prieš terminą Tarybos narių vietas Seimas Respublikos Prezidento teikimu penkeriems metams skiria kitus asmenis.
 
 
@@ -701,8 +699,6 @@ Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 
 3) Taryba priima savarankiškus, nuo jokios valstybės ar savivaldybių institucijos, įmonės, įstaigos ar organizacijos nepriklausomus sprendimus, turi atskirus metinius biudžeto asignavimus, juos naudodama savarankiškai įgyvendina paskirtą biudžetą ir disponuoja savo pareigoms adekvačiais žmogiškaisiais ir finansiniais ištekliais.
-
-
 
 
 
@@ -996,6 +992,11 @@ Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
+11^1. Taryba, vykdydama šio straipsnio 11 dalyje, Elektros energetikos įstatymo 9 straipsnio 3 ir 4 dalyse ir Gamtinių dujų įstatymo 7 straipsnio 1 ir 2 dalyse įtvirtintas funkcijas ir pareigas, susijusias su jos sprendimais dėl gamtinių dujų ir elektros energijos infrastruktūros, įskaitant sprendimus dėl kainų ir tarifų, taiko energijos efektyvumo didinimo pirmumo principą. Be to, Taryba įvertina, ar reguliuojamojoje veikloje efektyviai patiriamos sąnaudos, taip pat atsižvelgia į sistemos efektyvumą tinkluose, tiekimo saugumą, rinkos integraciją, kartu užtikrindama Europos Sąjungos klimato srities tikslus ir tvarumą, kaip nustatyta 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/943 18 straipsnyje ir 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamento (ES) 2024/1789 17 straipsnyje.
+
+
+
+
 12. Taryba turi teisę visas arba dalį savo funkcijų, nustatytų šio straipsnio 11 dalies 21 ir 30 punktuose, pavesti vykdyti Tarybos pirmininkui arba Tarybos nariui. Taryba turi teisę dalį šio straipsnio 11 dalies 71 punkte nustatytų Tarybos funkcijų, susijusių su energetikos veiklos leidimų keitimu, leidimų galiojimo sustabdymu ir galiojimo sustabdymo panaikinimu, pavesti vykdyti Tarybos pirmininkui arba Tarybos nariui. Taryba turi teisę visas arba dalį Tarybos funkcijų, nustatytų šio straipsnio 11 dalies 20 punkte, susijusių su energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių įrengimo, eksploatavimo, techninės saugos, energijos ir energijos išteklių gamybos, perdavimo, skirstymo, tiekimo patikimumo patikrinimais, 22 punkte, 23 punkte, išskyrus funkcijas, susijusias su energetikos objektų, įrenginių avarijų ir darbo sutrikimais, 24 punkte, pavesti vykdyti Tarybos administracijos valstybės tarnautojui. Taryba turi teisę panaikinti ar pakeisti Tarybos administracijos valstybės tarnautojo priimtus teisėtus sprendimus, susijusius su šioje dalyje nurodytų funkcijų, pavestų Tarybos administracijos valstybės tarnautojui, atlikimu.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
@@ -1041,10 +1042,7 @@ Nr. XIV-1587, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25148
 
 
 
-15. Tarybos strateginio veiklos plano projektas skelbiamas viešai teisės aktų nustatyta tvarka. Pasibaigus kalendoriniams metams, Taryba per keturis mėnesius parengia praėjusių metų veiklos ataskaitą, kurioje pateikiami strateginio veiklos plano įgyvendinimo rezultatai, nurodomi veiksmai, kurių imtasi šiame įstatyme ir kituose įstatymuose Tarybai priskirtoms funkcijoms atlikti, pasiekti rezultatai, ir ją pateikia Respublikos Prezidentui, Seimui, Vyriausybei, o per šešis mėnesius šios ataskaitos dalis, skirta gamtinių dujų ir elektros energetikos sektoriams, kaip nustatyta Direktyvos (ES) 2009/73/EB 41 straipsnyje ir Direktyvos (ES) 2019/944 59 straipsnyje, – Europos Komisijai ir Europos Sąjungos Energetikos reguliavimo institucijų bendradarbiavimo agentūrai (ACER), veikiančiai pagal Reglamentą (ES) 2019/942 (toliau – Energetikos reguliavimo institucijų bendradarbiavimo agentūra). Veiklos ataskaitoje Taryba taip pat nurodo veiksmus, kurių imtasi šiame įstatyme ir kituose įstatymuose Tarybai priskirtoms funkcijoms atlikti, ir pasiektus rezultatus. Taryba ataskaitą paskelbia savo interneto svetainėje. Tarybos finansinį ir veiklos auditą atlieka Lietuvos Respublikos valstybės kontrolė. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
- 
+15. Tarybos strateginio veiklos plano projektas ir strateginis veiklos planas skelbiami viešai teisės aktų nustatyta tvarka. Pasibaigus kalendoriniams metams, Taryba per keturis mėnesius parengia praėjusių metų veiklos ataskaitą, kurioje pateikiami strateginio veiklos plano įgyvendinimo rezultatai, nurodomi veiksmai, kurių imtasi šiame įstatyme ir kituose įstatymuose Tarybai priskirtoms funkcijoms atlikti, pasiekti rezultatai, ir ją pateikia Respublikos Prezidentui, Seimui, Vyriausybei, o per šešis mėnesius šios ataskaitos dalis, skirta gamtinių dujų ir elektros energetikos sektoriams, kaip nustatyta Gamtinių dujų įstatymo 7 straipsnio 2 dalies 5 punkte ir Direktyvos (ES) 2019/944 59 straipsnyje, – Europos Komisijai ir Europos Sąjungos Energetikos reguliavimo institucijų bendradarbiavimo agentūrai (ACER), veikiančiai pagal Reglamentą (ES) 2019/942, (toliau – Energetikos reguliavimo institucijų bendradarbiavimo agentūra). Veiklos ataskaitoje Taryba taip pat nurodo veiksmus, kurių imtasi šiame įstatyme ir kituose įstatymuose Tarybai priskirtoms funkcijoms atlikti, ir pasiektus rezultatus, atskiroje veiklos ataskaitos struktūrinėje dalyje nurodo pažangą, padarytą didinant energijos vartojimo efektyvumą, kiek tai susiję su elektros tinklų ir gamtinių dujų sistemų eksploatavimu, įvertina bendrą energijos vartojimo efektyvumą eksploatuojant elektros tinklus ir gamtinių dujų sistemas, nurodo perdavimo sistemos ir skirstomųjų tinklų operatorių įgyvendintas priemones ir, jeigu turi rekomendacijų, perdavimo sistemos ir skirstomųjų tinklų operatoriams pateikia energijos vartojimo efektyvumo didinimo rekomendacijas, įskaitant ekonomiškai efektyvias alternatyvas, kaip sumažinti maksimalias elektros tinklų ir gamtinių dujų sistemų apkrovas ir bendrą elektros energijos ir gamtinių dujų suvartojimą. Taryba ataskaitą paskelbia savo interneto svetainėje. Tarybos finansinį ir veiklos auditą atlieka Lietuvos Respublikos valstybės kontrolė.
 
 
 
@@ -1121,30 +1119,10 @@ Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 Straipsnio pakeitimai: 
 Nr. XII-576, 2013-11-07, Žin., 2013, Nr. 120-6048 (2013-11-23)
 Straipsnio dalies pakeitimai:
-Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
- 
-
-Straipsnio pakeitimai:
-Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-031669 straipsnis. Neteko galios nuo 2019-07-01
-Straipsnio naikinimas:
-Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
- 
+Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-2422210 straipsnis. Valstybinė atominės energetikos saugos inspekcija
 
 
-
-
-10 straipsnis. Valstybinė atominės energetikos saugos inspekcija
-
-
-Valstybinė atominės energetikos saugos inspekcija atlieka branduolinės energetikos objektų saugos ir branduolinių medžiagų apskaitos kontrolę ir valstybinę priežiūrą. Valstybinės atominės energetikos saugos inspekcijos kompetencija nustatyta Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos branduolinės saugos įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme.
- 
-
-
-
-
-
-
-11 straipsnis. Konkurencijos tarybos kompetencija
+Valstybinė atominės energetikos saugos inspekcija atlieka branduolinės energetikos objektų saugos ir branduolinių medžiagų apskaitos kontrolę ir valstybinę priežiūrą. Valstybinės atominės energetikos saugos inspekcijos kompetencija nustatyta Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos branduolinės saugos įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme.11 straipsnis. Konkurencijos tarybos kompetencija
 
 
 Konkurencijos taryba pagal kompetenciją kontroliuoja, kaip ūkio subjektai laikosi įstatymų nustatytų reikalavimų užtikrinant sąžiningą konkurenciją energetikos sektoriuje. Atlikdama jai pavestas funkcijas, Konkurencijos taryba turi Lietuvos Respublikos konkurencijos įstatyme (toliau – Konkurencijos įstatymas) ir šiame įstatyme jai nustatytus įgaliojimus.
