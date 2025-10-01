@@ -942,9 +942,12 @@ BENDROSIOS KONCESIJŲ SUTEIKIMO TAISYKLĖS
 
 
 
-
-
 5. Suteikiančioji institucija užtikrina, kad, atliekant koncesijos suteikimo procedūras, nustatant laimėtoją ir vykdant koncesijos sutartį, būtų laikomasi lygiateisiškumo, nediskriminavimo, abipusio pripažinimo, proporcingumo, skaidrumo, efektyvumo principų. 
+
+
+
+
+5-1. Suteikiančioji institucija turi siekti, kad vykdant koncesijos sutartis būtų daromas kuo mažesnis neigiamas poveikis aplinkai. Siekdama šio tikslo, Vyriausybė ar jos įgaliota institucija nustato suteikiančiosioms institucijoms keliamus rodiklius ir (ar) jų koncesijose taikytinus reikalavimus, taip pat jų taikymo tvarką.
 
 
 
@@ -979,22 +982,16 @@ BENDROSIOS KONCESIJŲ SUTEIKIMO TAISYKLĖS
 
 
 
-12. Suteikiančioji institucija Vyriausybės nustatyta viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo tvarka privalo gauti Investicijų įstatymo 15² straipsnio 1 dalies 4 punkte nurodyto Vyriausybės įgalioto viešojo juridinio asmens išvadas dėl koncesijos taikymo tikslingumo ir koncesininko atrankos dokumentų atitikties reikalavimams, nustatytiems šio viešojo juridinio asmens patvirtintuose viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo metodiniuose dokumentuose, taip pat Vyriausybės įgaliotos institucijos išvadą dėl koncesijos sutarties poveikio valdžios sektoriaus deficitui ir skolai.
+12. Suteikiančioji institucija Vyriausybės nustatyta viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo tvarka privalo gauti Investicijų įstatymo 15² straipsnio 1 dalies 4 punkte nurodyto Vyriausybės įgalioto viešojo juridinio asmens išvadas dėl koncesijos taikymo tikslingumo ir koncesininko atrankos dokumentų atitikties reikalavimams, nustatytiems šio viešojo juridinio asmens patvirtintuose viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo metodiniuose dokumentuose, taip pat Vyriausybės įgaliotos institucijos išvadą dėl koncesijos sutarties poveikio valdžios sektoriaus deficitui ir skolai.
 
 
 
 
-13. Mobilizacijos, karo, nepaprastosios padėties atveju ar kai Vyriausybė, įvertinusi riziką, kad veiksniai, dėl kurių buvo ar gali būti paskelbta mobilizacija, įvesta karo ar nepaprastoji padėtis, kelia grėsmę nacionaliniam saugumui, yra priėmusi sprendimą dėl Viešųjų pirkimų įstatymo 45 straipsnio 21 dalies nuostatos taikymo, suteikiančioji institucija vertindama paraišką ar pasiūlymą ir nutraukdama sutartį mutatis mutandis gali taikyti Viešųjų pirkimų įstatymo 45 straipsnio 21 dalies ir 90 straipsnio 1 dalies 4 punkto nuostatas.
+13. Mobilizacijos, karo, nepaprastosios padėties atveju ar kai Vyriausybė, įvertinusi riziką, kad veiksniai, dėl kurių buvo ar gali būti paskelbta mobilizacija, įvesta karo ar nepaprastoji padėtis, kelia grėsmę nacionaliniam saugumui, yra priėmusi sprendimą dėl Viešųjų pirkimų įstatymo 45 straipsnio 21 dalies nuostatos taikymo, suteikiančioji institucija vertindama paraišką ar pasiūlymą ir nutraukdama sutartį mutatis mutandis gali taikyti Viešųjų pirkimų įstatymo 45 straipsnio 21 dalies ir 90 straipsnio 1 dalies 4 punkto nuostatas.
 
 
 Straipsnio pakeitimai:
-Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
- 
-
-
-
-
-15 straipsnis. Suteikiančioji institucija
+Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-1846615 straipsnis. Suteikiančioji institucija
 
 
 1. Pagal šį įstatymą suteikiančiąja institucija laikomas asmuo (asmenys), jeigu jis (jie):
@@ -1979,7 +1976,7 @@ KONCESIJOS DOKUMENTAI IR TECHNINĖ SPECIFIKACIJA
 1. Suteikiančioji institucija koncesijos dokumentuose turi pateikti visą informaciją apie koncesijos suteikimo sąlygas ir procedūras.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
- 
+ 
 
 
 
@@ -1995,7 +1992,7 @@ Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 2) ekonominės veiklos vykdytojų pašalinimo pagrindai, kvalifikacijos reikalavimai, tarp jų ir reikalavimai atskiriems bendrą paraišką ar pasiūlymą pateikiantiems ekonominės veiklos vykdytojams. Suteikiančioji institucija koncesijos dokumentuose turi paaiškinti, kaip ekonominės veiklos vykdytojų grupės turi atitikti kvalifikacijos reikalavimus, keliamus pagal šio įstatymo  41–44 straipsnius. Jeigu ekonominės veiklos vykdytojų grupei keliami reikalavimai, taip pat koncesijos sutarties vykdymo sąlygos, įskaitant reikalavimus, kad ekonominės veiklos vykdytojų grupė paskirtų bendrą atstovą arba vadovaujantį narį, nurodytų grupės sudėtį, skiriasi nuo atskiriems dalyviams keliamų reikalavimų ir sąlygų, šie reikalavimai ir sąlygos turi būti pagrįsti objektyviomis priežastimis ir proporcingi;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
- 
+ 
 
 
 
@@ -2018,7 +2015,7 @@ Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 6) informacija, kad suteikiančioji institucija gali nuspręsti nesudaryti koncesijos sutarties su ekonomiškai naudingiausią pasiūlymą pateikusiu dalyviu, jeigu paaiškėja, kad pasiūlymas neatitinka šio įstatymo 14 straipsnio 7 dalyje nustatytų reikalavimų;
 Straipsnio punkto pakeitimai:
 Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
- 
+ 
 
 
 
@@ -2033,10 +2030,10 @@ Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
 
 
 
-9) informacija apie dalyvių pareigą pateikti preliminarius neįsipareigojamuosius pasiūlymus, jeigu tai nustato suteikiančioji institucija;
+9) informacija apie dalyvių pareigą pateikti preliminarius neįsipareigojamuosius pasiūlymus, jeigu tai nustata suteikiančioji institucija;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
- 
+ 
 
 
 
@@ -2046,7 +2043,7 @@ Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 
 
 
-11) suteikiančiosios institucijos siūlomos šalims pasirašyti koncesijos sutarties sąlygos pagal šio įstatymo 60 straipsnyje nustatytus reikalavimus, įskaitant, jeigu taikoma, specialias sutarties vykdymo sąlygas, siejamos su ekonominiais, inovacijų, užimtumo, socialiniais ir aplinkos apsaugos reikalavimais, ir (ar) sutarties projektas, jeigu jis yra parengtas;
+11) suteikiančiosios institucijos siūlomos šalims pasirašyti koncesijos sutarties sąlygos pagal šio įstatymo 60 straipsnyje nustatytus reikalavimus, įskaitant, jeigu taikoma, specialias sutarties vykdymo sąlygas, siejamas su ekonominiais, inovacijų, užimtumo, socialiniais ir aplinkos apsaugos reikalavimais, ir (ar) sutarties projektas, jeigu jis yra parengtas;
 
 
 
@@ -2054,7 +2051,7 @@ Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 12) teisinės formos reikalavimai, suteikiančiajai institucijai priėmus sprendimą reikalauti, kad, ekonominės veiklos vykdytojo ar tokių vykdytojų grupės pateiktą pasiūlymą pripažinus laimėjusiu ir pasiūlius sudaryti koncesijos sutartį, šis ekonominės veiklos vykdytojas ar tokių vykdytojų grupė įsteigtų juridinį asmenį, nurodant pareigą ekonominės veiklos vykdytojui ar tokių vykdytojų grupei laiduoti už įsteigto juridinio asmens prievoles, susijusias su koncesijos sutarties sąlygų įvykdymu. Šiame punkte išdėstyti reikalavimai negali būti keliami tam, kad ekonominės veiklos vykdytojų grupės galėtų pateikti paraišką ar pasiūlymą;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
- 
+ 
 
 
 
@@ -2112,7 +2109,7 @@ Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 23) informacija, kad pasiūlymuose nurodytas koncesijos mokestis (jeigu taikoma), pajamos ir sąnaudos bus vertinami eurais. Jeigu pasiūlymuose koncesijos mokestis (jeigu taikoma), pajamos ir sąnaudos nurodyti užsienio valiuta, jie bus perskaičiuojami eurais pagal Europos Centrinio Banko skelbiamą orientacinį euro ir užsienio valiutų santykį, o tais atvejais, kai orientacinio euro ir užsienio valiutų santykio Europos Centrinis Bankas neskelbia, – pagal Lietuvos banko nustatomą ir skelbiamą orientacinį euro ir užsienio valiutų santykį paskutinę pasiūlymų pateikimo termino dieną;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
- 
+ 
 
 
 
@@ -2127,9 +2124,12 @@ Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 
 
 
-26) kita Viešųjų pirkimų tarnybos nustatyta informacija. 
+26) kita Viešųjų pirkimų tarnybos nustatyta informacija;
 
 
+
+
+27) energijos vartojimo efektyvumo ir aplinkos apsaugos reikalavimai, jeigu taikytini.
 
 
 
@@ -2144,15 +2144,7 @@ Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 
 
 
-5. Koncesijos dokumentai rengiami lietuvių kalba. Papildomai koncesijos dokumentai gali būti rengiami ir kitomis kalbomis.
- 
-
-
-
-
-
-
-32 straipsnis. Subrangos reikalavimai 
+5. Koncesijos dokumentai rengiami lietuvių kalba. Papildomai koncesijos dokumentai gali būti rengiami ir kitomis kalbomis.32 straipsnis. Subrangos reikalavimai 
 
 
 1. Suteikiančioji institucija koncesijos dokumentuose turi nustatyti, kad dalyvis savo pasiūlyme turi nurodyti visas koncesijos sutarties dalis ir visus siūlomus subrangovus bei dar žemesnės subrangos grandies subrangovus, kuriuos ketina pasitelkti koncesijos sutarčiai vykdyti. 
