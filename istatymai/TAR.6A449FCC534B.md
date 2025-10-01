@@ -5059,28 +5059,21 @@ Nr. XIV-3042, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18466
 6 priedas. Neteko galios nuo 2023-01-01
 Priedo naikinimas:
 Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
- 
 
 
-
-
- 
-Lietuvos Respublikos 
+ 
+Lietuvos Respublikos
 koncesijų įstatymo
 7 priedas
- 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
- 
 
+1. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/23/ES dėl koncesijos sutarčių suteikimo su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 15 d. Komisijos deleguotuoju reglamentu (ES) 2023/2497.
 
-1. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/23/ES dėl koncesijos sutarčių suteikimo (OL 2014 L 94, p. 1). 
+2. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/55/ES dėl elektroninių sąskaitų faktūrų naudojimo viešuosiuose pirkimuose.
 
+3. 2022 m. lapkričio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2381 dėl biržinių bendrovių direktorių pareigas einančių asmenų lyčių pusiausvyros gerinimo ir susijusių priemonių.
 
-
-
-2. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/55/ES dėl elektroninių sąskaitų faktūrų naudojimo viešuosiuose pirkimuose (OL 2014 L 133, p. 1). 
-Papildyta punktu:
-Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
+4. 2023 m. rugsėjo 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/1791 dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamas Reglamentas (ES) 2023/955.
  
 
 
