@@ -177,12 +177,8 @@ Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
 
 
 
-10. Efektyvaus centralizuoto šilumos tiekimo sistema – aprūpinimo šiluma sistema, kurioje esamam šilumos energijos poreikiui pagaminti naudojama ne mažiau kaip 50 procentų atsinaujinančiųjų išteklių energijos, 50 procentų technologinio proceso metu nepanaudotos šilumos, 75 procentai bendruose šilumos ir elektros gamybos įrenginiuose pagamintos šilumos arba ne mažiau kaip 50 procentų bendro jų derinio. 
-Papildyta straipsnio dalimi:
-Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
- 
+10^1. Efektyvus centralizuotas šilumos tiekimas – šilumos tiekimas per efektyvaus centralizuoto šilumos tiekimo sistemą.
+ 
 
 
 
@@ -795,7 +791,7 @@ TREČIASIS SKIRSNIS
 7 straipsnis. Šilumos ūkio planavimas nacionalinėse plėtros programose
 
 
-Energetikos ministerija, atlikusi didelio naudingumo kogeneracijos ir efektyvaus centralizuoto šilumos tiekimo plėtros galimybių vertinimą ir atsižvelgdama į Vyriausybės tvirtinamame 2021–2030 metų nacionaliniame pažangos plane (toliau – Nacionalinis pažangos planas) nustatytus valstybės energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius, rengia ir teikia Vyriausybei tvirtinti nacionalines plėtros programas, kuriose suplanuojamos šilumos ūkio priemonės, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą. Šiose nacionalinėse plėtros programose suplanuojama:
+Energetikos ministerija, atlikusi Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymo 14 straipsnio 1 dalyje nurodytą išsamų nacionalinį šildymo ir vėsinimo potencialo vertinimą ir atsižvelgdama į Vyriausybės tvirtinamame 2021–2030 metų nacionaliniame pažangos plane (toliau – Nacionalinis pažangos planas) nustatytus valstybės energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius, rengia ir teikia Vyriausybei tvirtinti nacionalines plėtros programas, kuriose suplanuojamos šilumos ūkio priemonės, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą. Šiose nacionalinėse plėtros programose suplanuojama:
 
 
 1) šilumos ūkio plėtros ir modernizavimo priemonės, įskaitant reikalavimus dėl alternatyvių energijos ar kuro rūšių naudojimo bei jų proporcijų, šilumos įrenginių galių ir jų įrengimo terminų bei nuostolių lygio šilumos perdavimo tinkluose;
@@ -859,7 +855,24 @@ Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
 
 
 
-3. Pagrindinis šilumos ūkio specialiojo plano tikslas yra tenkinti vartotojų šilumos poreikius vartotojams pagrįstomis būtinosiomis sąnaudomis neviršijant leidžiamo neigiamo poveikio aplinkai. Rengiant šilumos ūkio specialiuosius planus, vadovaujamasi Aplinkos oro apsaugos įstatymo, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatomis dėl oro užterštumo ir urbanistiniais kriterijais (užstatymo tankis, pastatų aukštingumas, užstatymo specifika), taip pat kitais kriterijais ir Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatyme nurodytu energijos vartojimo efektyvumo didinimo pirmumo principu, įvertinamas techninio sprendinio ekonominis efektyvumas, energijos vartojimo efektyvumas ir poveikis aplinkai, įskaitant sąnaudas, patiriamas dėl techninio sprendinio keliamos taršos sveikatai ir ekosistemoms.
+3. Pagrindinis šilumos ūkio specialiojo plano tikslas yra tenkinti vartotojų šilumos poreikius vartotojams pagrįstomis būtinosiomis sąnaudomis neviršijant leidžiamo neigiamo poveikio aplinkai. Rengiant šilumos ūkio specialiuosius planus, vadovaujamasi Aplinkos oro apsaugos įstatymo, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatomis dėl oro užterštumo ir urbanistiniais kriterijais (užstatymo tankis, pastatų aukštingumas, užstatymo specifika), taip pat kitais kriterijais ir Energijos vartojimo efektyvumo didinimo įstatyme nurodytu energijos vartojimo efektyvumo didinimo pirmumo principu, įvertinamas techninio sprendinio ekonominis efektyvumas, energijos vartojimo efektyvumas ir poveikis aplinkai, įskaitant sąnaudas, patiriamas dėl techninio sprendinio keliamos taršos sveikatai ir ekosistemoms.
+</search>
+
+<search>
+1. Šilumos tiekėjas, siekdamas įgyvendinti šilumos ūkio specialiojo plano tikslus ir priemones, parengia dešimties metų šilumos ūkio plėtros investicijų planą ir teikia jį tvirtinti savivaldybės institucijai. Šilumos ūkio plėtros investicijų planas atnaujinamas ne rečiau kaip kas 3 metus ir iki einamųjų metų spalio 1 dienos teikiamas savivaldybės institucijai tvirtinti.
+
+
+
+
+2. Dešimties metų šilumos ūkio plėtros investicijų plane nurodoma:
+</search>
+<replace>
+1. Šilumos tiekėjas, siekdamas įgyvendinti šilumos ūkio specialiojo plano tikslus ir priemones, parengia dešimties metų šilumos ūkio plėtros investicijų planą ir teikia jį tvirtinti savivaldybės institucijai. Šilumos ūkio plėtros investicijų planas periodiškai atnaujinamas, užtikrinant, kad centralizuoto šilumos tiekimo sistema būtų laikoma efektyvia šio įstatymo 8^3 straipsnio 1 ir 2 dalyse nurodytais terminais, bet ne rečiau kaip kas 3 metus ir iki einamųjų metų spalio 1 dienos teikiamas savivaldybės institucijai tvirtinti.
+
+
+
+
+2. Dešimties metų šilumos ūkio plėtros investicijų plane nurodoma:
 
 
 
@@ -1048,11 +1061,34 @@ Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
 
 Papildyta straipsniu:
 Nr. XIV-1876, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07541
- 
+ 
 
 
 
 
+8^3 straipsnis. Efektyvaus centralizuoto šilumos tiekimo sistema
+
+1. Centralizuoto šilumos tiekimo sistema yra laikoma efektyvia, jeigu atitinka šiuos reikalavimus:
+
+1) iki 2027 m. gruodžio 31 d. centralizuoto šilumos tiekimo sistemoje ne mažiau kaip 50 procentų suvartojamos energijos sudaro atsinaujinančių išteklių energija arba ne mažiau kaip 50 procentų – atliekinė šiluma, arba ne mažiau kaip 75 procentus – kogeneracijos būdu pagaminta šiluma, arba ne mažiau kaip 50 procentų – tokios energijos ir šilumos derinys;
+
+2) nuo 2028 m. sausio 1 d. centralizuoto šilumos tiekimo sistemoje ne mažiau kaip 50 procentų suvartojamos energijos sudaro atsinaujinančių išteklių energija arba ne mažiau kaip 50 procentų – atliekinė šiluma, arba ne mažiau kaip 50 procentų – atsinaujinančių išteklių energija ir atliekinė šiluma, arba ne mažiau kaip 80 procentų – didelio naudingumo kogeneracijos būdu pagaminta šiluma arba į tinklą tiekiamas toks šiluminės energijos derinys, kuriame atsinaujinančių išteklių energijos dalis sudaro ne mažiau kaip 5 procentus, o bendra atsinaujinančių išteklių energijos, atliekinės šilumos arba didelio naudingumo kogeneracijos būdu pagamintos šilumos dalis yra ne mažesnė kaip 50 procentų;
+
+3) nuo 2035 m. sausio 1 d. centralizuoto šilumos tiekimo sistemoje ne mažiau kaip 50 procentų suvartojamos energijos sudaro atsinaujinančių išteklių energija arba ne mažiau kaip 50 procentų – atliekinė šiluma, arba ne mažiau kaip 50 procentų – atsinaujinančių išteklių energija ir atliekinė šiluma, arba centralizuoto šilumos tiekimo sistemoje bendra atsinaujinančių išteklių energijos, atliekinės šilumos arba didelio naudingumo kogeneracijos būdu pagamintos šilumos dalis yra ne mažesnė kaip 80 procentų ir, be to, bendra atsinaujinančių išteklių energijos arba atliekinės šilumos dalis yra ne mažesnė kaip 35 procentai;
+
+4) nuo 2040 m. sausio 1 d. centralizuoto šilumos tiekimo sistemoje ne mažiau kaip 75 procentus suvartojamos energijos sudaro atsinaujinančių išteklių energija arba ne mažiau kaip 75 procentus – atliekinė šiluma, arba ne mažiau kaip 75 procentus – atsinaujinančių išteklių energija ir atliekinė šiluma, arba centralizuoto šilumos tiekimo sistemoje ne mažiau kaip 95 procentus suvartojamos energijos sudaro atsinaujinančių išteklių energija, atliekinė šiluma ir didelio naudingumo kogeneracijos būdu pagaminta šiluma ir, be to, bendra atsinaujinančių išteklių energijos arba atliekinės šilumos dalis yra ne mažesnė kaip 35 procentai;
+
+5) nuo 2045 m. sausio 1 d. centralizuoto šilumos tiekimo sistemoje ne mažiau kaip 75 procentus suvartojamos energijos sudaro atsinaujinančių išteklių energija arba ne mažiau kaip 75 procentus – atliekinė šiluma, arba ne mažiau kaip 75 procentus – atsinaujinančių išteklių energija ir atliekinė šiluma;
+
+6) nuo 2050 m. sausio 1 d. centralizuoto šilumos tiekimo sistemoje naudojama tik atsinaujinančių išteklių energija, tik atliekinė šiluma arba tik atsinaujinančių išteklių energijos ir atliekinės šilumos derinys.
+
+2. Be šio straipsnio 1 dalyje nurodytų reikalavimų, efektyvaus centralizuoto šilumos tiekimo sistemose arba atnaujintuose jos įrenginiuose, kai jų atnaujinimo išlaidos viršija 50 procentų investicijų, reikalingų naujiems tos pačios galios įrenginiams įrengti:
+
+1) energijai gaminti negali būti naudojama daugiau iškastinio kuro, išskyrus gamtines dujas, negu vidutinis metinis iškastinio kuro kiekis, apskaičiuotas pagal jo kiekį, suvartotą per paskutinius trejus kalendorinius centralizuoto šilumos tiekimo sistemos naudojimo visu pajėgumu metus iki atnaujinant jos įrenginius, ir
+
+2) kaip naujas energijos šaltinis negali būti naudojamas iškastinis kuras, išskyrus gamtines dujas, jeigu centralizuoto šilumos tiekimo sistema pastatyta arba jos įrenginiai atnaujinti iki 2030 m.
+
+3. Šilumos tiekėjai privalo užtikrinti, kad šio įstatymo 8^2 straipsnyje nurodytų dešimties metų šilumos ūkio plėtros investicijų planų nuostatos atitiktų šio straipsnio 1 ir 2 dalyse nurodytus reikalavimus.
 
 
 KETVIRTASIS SKIRSNIS
@@ -1965,7 +2001,7 @@ Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
 
 
 
-4. Šilumos vartotojai turi teisę nutraukti šilumos ir (ar) karšto vandens pirkimo–pardavimo sutartis ir atjungti viso pastato šildymo ir (ar) karšto vandens sistemos įrenginius nuo šilumos tiekimo sistemos, jeigu ji neatitinka efektyvaus centralizuoto šilumos tiekimo sistemos kriterijų, nurodytų šio įstatymo 2 straipsnio 10 dalyje, ir šilumos ūkio specialiajame plane nėra numatyta iki 2025 m. gruodžio 31 d. jų pasiekti, ir šilumos vartotojai pastato energinio naudingumo sertifikatu gali pagrįsti, kad numatytas pastato apsirūpinimo šiluma ir (ar) karštu vandeniu iš atsinaujinančių išteklių energijos būdas užtikrins ne mažiau kaip 20 procentų didesnį šilumos tiekimo sistemos energinį naudingumą. Kai šilumos ir (ar) karšto vandens pirkimo–pardavimo sutarties nutraukimas yra susijęs su šilumos vartotojų įrenginių atjungimu nuo šilumos tiekimo sistemos, šilumos ir (ar) karšto vandens pirkimo–pardavimo sutartį nutraukti galima tik tuo atveju, jeigu šilumos ir (ar) karšto vandens tiekėjui kompensuojamos išlaidos, tiesiogiai patirtos dėl fizinio atjungimo, ir neamortizuota turto dalis (likutinė vertė), reikalinga šilumai ir (ar) karštam vandeniui vartotojui tiekti. Daugiabučio namo šildymo ir (ar) apsirūpinimo karštu vandeniu būdas keičiamas Lietuvos Respublikos statybos įstatymo nustatyta tvarka remontuojant pastatą
+4. Šilumos vartotojai turi teisę nutraukti šilumos ir (ar) karšto vandens pirkimo–pardavimo sutartis ir atjungti viso pastato šildymo ir (ar) karšto vandens sistemos įrenginius nuo šilumos tiekimo sistemos, jeigu ši sistema neatitinka efektyvaus centralizuoto šilumos tiekimo sistemos reikalavimų ir šilumos vartotojams neužtikrinamas efektyvus centralizuotas šilumos tiekimas, kaip tai numatyta šio įstatymo 8^3 straipsnio 1 dalyje ir (ar) 2 dalyje, ir šilumos ūkio specialiajame plane šio įstatymo 8^3 straipsnio 1 dalyje nustatytais terminais nėra numatyta juos atitikti, ir šilumos vartotojai pastato energinio naudingumo sertifikatu gali pagrįsti, kad numatytas pastato apsirūpinimo šiluma ir (ar) karštu vandeniu iš atsinaujinančių išteklių energijos būdas užtikrins ne mažiau kaip 20 procentų didesnį šilumos tiekimo sistemos energinį naudingumą. Kai šilumos ir (ar) karšto vandens pirkimo–pardavimo sutarties nutraukimas yra susijęs su šilumos vartotojų įrenginių atjungimu nuo šilumos tiekimo sistemos, šilumos ir (ar) karšto vandens pirkimo–pardavimo sutartį nutraukti galima tik tuo atveju, jeigu šilumos ir (ar) karšto vandens tiekėjui kompensuojamos išlaidos, tiesiogiai patirtos dėl fizinio atjungimo, ir neamortizuota turto dalis (likutinė vertė), reikalinga šilumai ir (ar) karštam vandeniui vartotojui tiekti. Daugiabučio namo šildymo ir (ar) apsirūpinimo karštu vandeniu būdas keičiamas Statybos įstatymo nustatyta tvarka remontuojant pastatą.
 Papildyta straipsnio dalimi:
 Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
  
@@ -2523,11 +2559,11 @@ Lietuvos Respublikos
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
- 
+ 
 
+1. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/2001 dėl skatinimo naudoti atsinaujinančiųjų išteklių energiją su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1711.
 
-1. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/2001 dėl skatinimo naudoti atsinaujinančiųjų išteklių energiją.
-
+2. 2023 m. rugsėjo 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/1791 dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamas Reglamentas (ES) 2023/955.
 
 Papildyta priedu:
 Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
