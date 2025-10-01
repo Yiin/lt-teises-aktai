@@ -630,9 +630,18 @@ Nr. XIII-3015, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13232
 
 IV SKYRIUS
 ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
- 
 
-
+12-1 straipsnis. Energijos geografinė informacinė sistema
+1. Energijos geografinė informacinė sistema (toliau – ENERGIS) yra valstybės informacinė sistema, skirta nacionaliniam šildymo ir vėsinimo potencialui identifikuoti ir išnaudoti.
+2. Pagrindinis ENERGIS tikslas – informacinių technologijų priemonėmis centralizuotai valdyti Lietuvos energetikos rodiklių duomenis, susijusius su energijos gamybos infrastruktūra, jos ekonomiškai pagrįstu efektyviu plėtros potencialu, atsižvelgiant į energijos suvartojimo kitimą savivaldybių teritorijose ar jų dalyse.
+3. ENERGIS duomenų teikėjai energetikos ministro nustatyta tvarka ENERGIS tvarkytojui privalo neatlygintinai pateikti informaciją, reikalingą tinkamam ENERGIS funkcionavimui:
+1) Adresų registro, Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojas – informaciją apie pastatus iš Adresų registro, Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro;
+2) Lietuvos Respublikos aplinkos ministerija arba aplinkos ministro įgaliota institucija ar įstaiga – informaciją iš kuro ir iš kurą deginančio įrenginio į aplinkos orą išmetamų teršalų kiekio apskaitos ataskaitų ir aplinkos oro apsaugos metinių ataskaitų, informaciją apie pastatų energinio naudingumo sertifikatus iš Pastatų energinio naudingumo sertifikatų ir pastatų energinio naudingumo sertifikavimo ekspertų informacinės sistemos;
+3) elektros energijos skirstomųjų tinklų operatorius, aptarnaujantis daugiau kaip 100 000 vartotojų, ir gamtinių dujų skirstymo sistemos operatorius, aptarnaujantis daugiau kaip 100 000 vartotojų, – informaciją apie elektros ir gamtinių dujų suvartojimą, gaminančius ir nutolusius gaminančius vartotojus;
+4) gamtinių dujų perdavimo sistemos operatorius ir gamtinių dujų skirstymo sistemos operatorius, aptarnaujantis daugiau kaip 100 000 vartotojų, – informaciją apie biometano gamybos įrenginius ar objektus;
+5) savivaldybių administracijos – informaciją apie savivaldybės teritorijoje esančias centralizuoto aprūpinimo šiluma zonas;
+6) šilumos tiekėjai – informaciją apie šilumos suvartojimą pagal šilumos vartotojų objektus;
+7) Valstybinė energetikos reguliavimo taryba (toliau – Taryba) – informaciją apie kintamas sąnaudas, faktiškai priskirtas šilumos reguliuojamų kainų paslaugai (produktui), šilumos generavimo techninius rodiklius, išduotus leidimus gaminti ir plėtoti elektros energijos gamybą, piliečių energetikos bendrijų statuso turėtojus, atsinaujinančių išteklių energijos bendrijų statuso turėtojus, pastatuose įrengtų šildymo sistemų ir kombinuotųjų šildymo ir vėdinimo sistemų bei oro kondicionavimo arba kombinuotųjų oro kondicionavimo ir vėdinimo sistemų atitikties energinio efektyvumo reikalavimams periodinius tikrinimus.
 13 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
 
@@ -641,17 +650,9 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-2. Šio įstatymo pažeidimų nagrinėjimo tvarką nustato šis įstatymas ir Valstybinės energetikos reguliavimo tarybos (toliau – Taryba) patvirtintos taisyklės. 
+2. Šio įstatymo pažeidimų nagrinėjimo tvarką nustato šis įstatymas ir Tarybos patvirtintos taisyklės. 
 Straipsnio dalies pakeitimai:
-Nr. XIII-1976, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03183
- 
-
-
-
-
-
-
-14 straipsnis. Šio įstatymo pažeidimus nagrinėjanti institucija
+Nr. XIII-1976, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-0218314 straipsnis. Šio įstatymo pažeidimus nagrinėjanti institucija
 
 
 1. Šio įstatymo pažeidimus nagrinėja ir sankcijas skiria Taryba.
