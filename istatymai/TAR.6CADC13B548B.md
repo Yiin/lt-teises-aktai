@@ -91,7 +91,7 @@ Karinės jėgos naudojimo statuto (toliau – Statutas) paskirtis – nustatyti 
 1. Individualusis ginklas – kariui skiriamas trumpasis šaunamasis ginklas, pertaisomas arba pusiau automatinis graižtvinis šaunamasis ginklas, kurio konstrukcija užtikrina didesnį šaudymo taiklumą, automatinis ar kitas šaunamasis ginklas, ne didesnio kaip 7,62 mm kalibro, taip pat nešaunamasis ginklas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2531, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20289
- 
+ 
 
 
 
@@ -116,17 +116,9 @@ Nr. XII-2531, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20289
 
 
 
-6. Kitos Statute vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos karo policijos įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos nacionalinio saugumo pagrindų įstatyme, Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatyme ir kituose teisės aktuose.
+6. Kitos Statute vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aviacijos įstatyme, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos karo policijos įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos nacionalinio saugumo pagrindų įstatyme, Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatyme ir 2019 m. kovo 12 d. Komisijos deleguotajame reglamente (ES) 2019/945 dėl bepiločių orlaivių sistemų ir trečiųjų valstybių bepiločių orlaivių sistemų naudotojų su visais pakeitimais.
 Straipsnio dalies pakeitimai:
-Nr. XIV-1647, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26595
- 
-
-
-
-
-
-
-3 straipsnis. Statuto taikymas
+Nr. XIV-1647, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-265953 straipsnis. Statuto taikymas
 
 
 1. Statutas taikomas asmenims, kurie Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka turi teisę priimti sprendimus panaudoti karinę jėgą, taip pat kariams, turintiems teisę panaudoti karinę jėgą.
@@ -398,20 +390,17 @@ Nr. XIII-1209, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09723
 
 
 
+2-1. Krašto apsaugos ministro ar jo įgalioto asmens sprendimu karinė jėga gali būti panaudota prieš bepiločius orlaivius draudžiamojoje ar ribojamojoje zonoje, jeigu jų skrydžiai vykdomi nesilaikant kariuomenės vado nustatytos tvarkos.
+
+
+
+
 3. Krašto apsaugos ministro ar jo įgalioto asmens sprendimu karinė jėga gali būti panaudota prieš orlaivį, kuris galbūt naudojamas kaip ginklas, siekiant padaryti žalą turtui ar asmenų gyvybei ir sveikatai.
 
 
 
 
-4. Priimant sprendimą dėl orlaivio nukreipimo, nutupdymo, orlaivio gaudymo ar karinės jėgos panaudojimo, iš kelių galimų veiksmų pagal aplinkybes turi būti pasirinktas toks, kuris kelia mažiausią pavojų orlaivyje esantiems asmenims arba visuomenei. 
- 
-
-
-
-
-
-
-11 straipsnis. Karinės jėgos naudojimas stebint, kontroliuojant ir ginant Lietuvos Respublikos teritorinę jūrą, taip pat bendradarbiaujant su kitomis valstybės institucijomis stebint ir kontroliuojant išskirtinę ekonominę zoną ir kontinentinį šelfą
+4. Priimant sprendimą dėl orlaivio nukreipimo, nutupdymo, orlaivio gaudymo ar karinės jėgos panaudojimo, iš kelių galimų veiksmų pagal aplinkybes turi būti pasirinktas toks, kuris kelia mažiausią pavojų orlaivyje esantiems asmenims arba visuomenei.11 straipsnis. Karinės jėgos naudojimas stebint, kontroliuojant ir ginant Lietuvos Respublikos teritorinę jūrą, taip pat bendradarbiaujant su kitomis valstybės institucijomis stebint ir kontroliuojant išskirtinę ekonominę zoną ir kontinentinį šelfą
 
 
 1. Stebint, kontroliuojant ir ginant Lietuvos Respublikos teritorinę jūrą, taip pat bendradarbiaujant su kitomis valstybės institucijomis stebint ir kontroliuojant išskirtinę ekonominę zoną ir kontinentinį šelfą, Lietuvos kariuomenės Karinių jūrų pajėgų karo laivo vadas (toliau – karo laivo vadas) turi teisę:
