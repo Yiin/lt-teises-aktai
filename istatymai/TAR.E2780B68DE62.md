@@ -3494,17 +3494,17 @@ Nagrinėjant bylas dėl ekonominių sankcijų skyrimo dalyvauja:
 
 
 
-47 straipsnis. Rašytinis įspėjimas 
+47 straipsnis. Rašytinis įspėjimas
 
 
-Nustačius šio įstatymo 55 straipsnio 7 dalyje, 57 straipsnio 1, 3, 5 dalyse, 581 straipsnio 3 dalyje, 76 straipsnio 1 dalyje, 93 straipsnio 1, 4 dalyse, 931 straipsnio 1 dalyje, 94 straipsnio 1, 4 dalyse, 941 straipsnio 1, 4 dalyse, 107 straipsnio 1, 4 dalyse, 109 straipsnio 3, 4, 6, 9, 10, 11, 12, 13, 15, 19, 20 dalyse, 112 straipsnio 1 dalyje numatytus pažeidimus, juridinis asmuo įspėjamas raštu ir jam nustatomas protingas terminas nustatytiems pažeidimams pašalinti, kuris negali būti trumpesnis kaip 7 kalendorinės dienos ir ilgesnis kaip 30 kalendorinių dienų. Išimtiniais atvejais pagal motyvuotą juridinio asmens prašymą, atsižvelgiant į objektyvias aplinkybes, terminas nustatytam pažeidimui pašalinti gali būti vieną kartą pratęstas, tačiau ne daugiau kaip 15 kalendorinių dienų.
+Nustačius šio įstatymo 55 straipsnio 7 dalyje, 57 straipsnio 1, 3, 5 dalyse, 58^1 straipsnio 3 dalyje, 76 straipsnio 1 dalyje, 93 straipsnio 1, 4 dalyse, 93^1 straipsnio 1 dalyje, 94 straipsnio 1, 2 dalyse, 94^1 straipsnio 1, 4 dalyse, 107 straipsnio 1, 2 dalyse, 109 straipsnio 3, 4, 6, 9, 10, 11, 12, 13, 15, 19, 20 dalyse, 112 straipsnio 1 dalyje numatytus pažeidimus, juridinis asmuo įspėjamas raštu ir jam nustatomas terminas nustatytiems pažeidimams pašalinti, kuris negali būti trumpesnis kaip 7 kalendorinės dienos ir ilgesnis kaip 30 kalendorinių dienų. Išimtiniais atvejais pagal motyvuotą juridinio asmens prašymą, atsižvelgiant į objektyvias aplinkybes, terminas nustatytam pažeidimui pašalinti gali būti vieną kartą pratęstas, tačiau ne daugiau kaip 15 kalendorinių dienų.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
 Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 Nr. XIV-2788, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11787
 Nr. XIV-2507, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05468
- 
+ 
 
 
 
@@ -3514,15 +3514,7 @@ Kai šio straipsnio 1 dalyje nurodytuose straipsniuose numatyti pažeidimai nust
 
 
 
-Jeigu per šio straipsnio 1 dalyje nustatytą terminą pažeidimas nepašalinamas, pradedama bylos dėl ekonominės sankcijos skyrimo teisena.
- 
-
-
-
-
-
-
-48 straipsnis. Bylos dėl ekonominės sankcijos skyrimo nagrinėjimas
+Jeigu per šio straipsnio 1 dalyje nustatytą terminą pažeidimas nepašalinamas, pradedama bylos dėl ekonominės sankcijos skyrimo teisena.48 straipsnis. Bylos dėl ekonominės sankcijos skyrimo nagrinėjimas
 
 
 Įtariamas pažeidimo padarymu juridinis asmuo ir suinteresuoti asmenys turi teisę bet kuriuo metu nuo protokolo surašymo susipažinti su bylos medžiaga (išskyrus medžiagą, dėl kurios bylą nagrinėjantis pareigūnas savo iniciatyva ar bylos dėl ekonominės sankcijos skyrimo proceso dalyvio prašymu motyvuota nutartimi nustatė, kad bylos medžiaga ar jos dalis yra valstybės, tarnybos arba komercinė paslaptis), kopijuoti šią bylos medžiagą, teikti įrodymus ir paaiškinimus, teikti prašymus dėl įrodymų rinkimo (taip pat kviesti liudytojus). Bylos dėl ekonominės sankcijos skyrimo nagrinėjimo posėdyje apklausiant liudytojus, įtariamam pažeidimo padarymu juridiniam asmeniui suteikiama teisė užduoti klausimų liudytojams.
@@ -5557,63 +5549,54 @@ Pavojingųjų atliekų naudojimo ar šalinimo organizavimas kito vardu, pirkimas
 
 
 
-84 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų laikinąjį laikymą, surinkimą, vežimą ir (ar) apdorojimą pažeidžiant atliekų tvarkymo taisyklių reikalavimus 
+84^ straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų rūšiavimą, laikinąjį laikymą, surinkimą, vežimą ir (ar) apdorojimą pažeidžiant atliekų tvarkymo taisyklių reikalavimus
 
-
-Nepavojingųjų atliekų kiekio laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas mažesnis kaip 0,5 tonos nepavojingųjų atliekų kiekis, užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
-
-
-
-
-Nepavojingųjų atliekų kiekio laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 0,5 tonos ir didesnis, bet mažesnis kaip 5 tonų nepavojingųjų atliekų kiekis, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+Nepavojingųjų atliekų kiekio rūšiavimas, laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus rūšiuojamas, laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas mažesnis kaip 0,5 tonos nepavojingųjų atliekų kiekis, užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 
 
 
-Nepavojingųjų atliekų kiekio laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 5 tonų ir didesnis, bet mažesnis kaip 15 tonų nepavojingųjų atliekų kiekis, užtraukia baudą nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+Nepavojingųjų atliekų kiekio rūšiavimas, laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus rūšiuojamas, laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 0,5 tonos ar didesnis, bet mažesnis kaip 5 tonų nepavojingųjų atliekų kiekis, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
 
 
 
 
-Nepavojingųjų atliekų kiekio laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 15 tonų ir didesnis, bet mažesnis kaip 25 tonų nepavojingųjų atliekų kiekis, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+Nepavojingųjų atliekų kiekio rūšiavimas, laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus rūšiuojamas, laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 5 tonų ar didesnis, bet mažesnis kaip 15 tonų nepavojingųjų atliekų kiekis, užtraukia baudą nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
 
 
 
 
-Nepavojingųjų atliekų kiekio laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 25 tonų ir didesnis nepavojingųjų atliekų kiekis, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+Nepavojingųjų atliekų kiekio rūšiavimas, laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus rūšiuojamas, laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 15 tonų ar didesnis, bet mažesnis kaip 25 tonų nepavojingųjų atliekų kiekis, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
 
 
 
-Nepavojingųjų atliekų kiekio laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, padarytas pakartotinai, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas mažesnis kaip 0,5 tonos nepavojingųjų atliekų kiekis, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+Nepavojingųjų atliekų kiekio rūšiavimas, laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus rūšiuojamas, laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 25 tonų ar didesnis nepavojingųjų atliekų kiekis, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
 
 
-Nepavojingųjų atliekų kiekio laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, padarytas pakartotinai, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 0,5 tonos ir didesnis, bet mažesnis kaip 5 tonų nepavojingųjų atliekų kiekis, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+Nepavojingųjų atliekų kiekio rūšiavimas, laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, padarytas pakartotinai, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus rūšiuojamas, laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas mažesnis kaip 0,5 tonos nepavojingųjų atliekų kiekis, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
 
 
 
 
-Nepavojingųjų atliekų kiekio laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, padarytas pakartotinai, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 5 tonų ir didesnis, bet mažesnis kaip 15 tonų nepavojingųjų atliekų kiekis, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+Nepavojingųjų atliekų kiekio rūšiavimas, laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, padarytas pakartotinai, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus rūšiuojamas, laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 0,5 tonos ar didesnis, bet mažesnis kaip 5 tonų nepavojingųjų atliekų kiekis, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
 
 
 
-Nepavojingųjų atliekų kiekio laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, padarytas pakartotinai, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 15 tonų ir didesnis, bet mažesnis kaip 25 tonų nepavojingųjų atliekų kiekis, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+Nepavojingųjų atliekų kiekio rūšiavimas, laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, padarytas pakartotinai, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus rūšiuojamas, laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 5 tonų ar didesnis, bet mažesnis kaip 15 tonų nepavojingųjų atliekų kiekis, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
 
 
 
-Nepavojingųjų atliekų kiekio laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, padarytas pakartotinai, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 25 tonų ir didesnis nepavojingųjų atliekų kiekis, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
- 
+Nepavojingųjų atliekų kiekio rūšiavimas, laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, padarytas pakartotinai, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus rūšiuojamas, laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 15 tonų ar didesnis, bet mažesnis kaip 25 tonų nepavojingųjų atliekų kiekis, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
 
 
-
-
-85 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų laikinąjį laikymą, surinkimą, vežimą ir (ar) apdorojimą pažeidžiant atliekų tvarkymo taisyklių reikalavimus 
+Nepavojingųjų atliekų kiekio rūšiavimas, laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, padarytas pakartotinai, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus rūšiuojamas, laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas 25 tonų ar didesnis nepavojingųjų atliekų kiekis, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.85 straipsnis. Juridinių asmenų atsakomybė už pavojingųjų atliekų laikinąjį laikymą, surinkimą, vežimą ir (ar) apdorojimą pažeidžiant atliekų tvarkymo taisyklių reikalavimus 
 
 
 Pavojingųjų atliekų kiekio laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas pažeidžiant atliekų tvarkymo taisyklių reikalavimus, kai pažeidžiant atliekų tvarkymo taisyklių reikalavimus laikinai laikomas, surenkamas, vežamas ir (ar) apdorojamas mažesnis kaip 0,5 tonos pavojingųjų atliekų kiekis, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
@@ -6166,38 +6149,27 @@ Nr. XIV-2507, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05468
 
 
 
-94 straipsnis. Juridinių asmenų atsakomybė už gaminių (alyvų, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir akumuliatorių, elektros ir elektroninės įrangos ir transporto priemonių) tiekimo Lietuvos Respublikos vidaus rinkai apskaitos vykdymo, šių gaminių tiekimo Lietuvos Respublikos vidaus rinkai apskaitos ir atliekų tvarkymo ataskaitos ir mokesčio už aplinkos teršimą apmokestinamųjų gaminių atliekomis deklaracijos teikimo reikalavimų nevykdymą
+94^ straipsnis. Juridinių asmenų atsakomybė už gaminių (alyvos, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių) apskaitos tvarkymo, šių gaminių apskaitos ataskaitos, atliekų tvarkymo organizavimo veiklos ataskaitos ir mokesčio už aplinkos teršimą apmokestinamųjų gaminių atliekomis deklaracijos teikimo reikalavimų nevykdymą
 
+Gaminių (alyvos, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių) apskaitos ataskaitos, šių gaminių atliekų tvarkymo organizavimo veiklos ataskaitos ir (ar) mokesčio už aplinkos teršimą apmokestinamųjų gaminių atliekomis deklaracijos nepateikimas, kai raštu buvo įspėta apie šių dokumentų pateikimo terminus, užtraukia baudą nuo penkių šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
-Gaminių (alyvų, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir akumuliatorių, elektros ir elektroninės įrangos ir transporto priemonių) tiekimo Lietuvos Respublikos vidaus rinkai apskaitos vykdymas nesilaikant teisės aktuose nustatytų reikalavimų po to, kai juridinis asmuo apie pažeidimą buvo įspėtas raštu, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+Alyvos, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių apskaitos tvarkymas nesilaikant teisės aktuose nustatytų reikalavimų ir (ar) neteisingų duomenų pateikimas apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių apskaitoje ir (ar) apskaitos ataskaitoje, kai juridinis asmuo apie pažeidimą buvo įspėtas raštu, užtraukia baudą nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų. Apmokestinamųjų gaminių atveju atsakomybė netaikoma, jeigu pagal Mokesčio už aplinkos teršimą įstatymą paskirta ekonominė sankcija už nuslėptą taršą.
 
+Šio straipsnio 2 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių keturių šimtų eurų.
 
+Į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių apskaitos nevykdymas užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
+Neteisingų duomenų transporto priemonių apskaitoje ir (ar) apskaitos ataskaitoje pateikimas užtraukia baudą nuo vieno šimto dešimties iki vieno tūkstančio vieno šimto eurų už kiekvieną neapskaitytą tiektą Lietuvos Respublikos vidaus rinkai verslo tikslais transporto priemonę.
 
-Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+Transporto priemonių apskaitos nevykdymas užtraukia baudą nuo dviejų šimtų dvidešimties iki dviejų tūkstančių dviejų šimtų eurų už kiekvieną tiektą Lietuvos Respublikos vidaus rinkai verslo tikslais transporto priemonę.
 
+Neteisingų duomenų alyvos apskaitoje ir (ar) apskaitos ataskaitoje pateikimas užtraukia baudą nuo septyniasdešimties iki septynių šimtų eurų už kiekvieną neapskaitytą tiektą Lietuvos Respublikos vidaus rinkai verslo tikslais alyvos toną.
 
+Alyvos apskaitos nevykdymas užtraukia baudą nuo vieno šimto keturiasdešimties iki vieno tūkstančio keturių šimtų eurų už kiekvieną tiektą Lietuvos Respublikos vidaus rinkai verslo tikslais alyvos toną.
 
+Neteisingų duomenų elektros ir elektroninės įrangos apskaitoje ir (ar) apskaitos ataskaitoje pateikimas užtraukia baudą nuo vieno tūkstančio trijų šimtų iki trylikos tūkstančių eurų už kiekvieną neapskaitytą tiektą Lietuvos Respublikos vidaus rinkai verslo tikslais elektros ir elektroninės įrangos toną.
 
-Akivaizdžiai neteisingų ar suklastotų duomenų gaminių (alyvų, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir akumuliatorių, elektros ir elektroninės įrangos ir transporto priemonių) apskaitos dokumentuose ir (ar) šių gaminių tiekimo Lietuvos Respublikos vidaus rinkai apskaitos ataskaitose pateikimas užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų.
-
-
-
-
-Gaminių (alyvų, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir akumuliatorių, elektros ir elektroninės įrangos ir transporto priemonių) tiekimo Lietuvos Respublikos vidaus rinkai apskaitos ir atliekų tvarkymo ataskaitos ir (ar) mokesčio už aplinkos teršimą apmokestinamųjų gaminių atliekomis deklaracijos nepateikimas po to, kai raštu buvo įspėta apie šių dokumentų pateikimo terminus, užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
-
-
-
-
-Gaminių (alyvų, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir akumuliatorių, elektros ir elektroninės įrangos ir transporto priemonių) tiekimo Lietuvos Respublikos vidaus rinkai apskaitos nevykdymas užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
- 
-
-
-
-
-
-
-941 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimo Lietuvos Respublikos rinkai apskaitos vykdymo ir ataskaitos teikimo reikalavimų nevykdymą
+Elektros ir elektroninės įrangos apskaitos nevykdymas užtraukia baudą nuo dviejų tūkstančių šešių šimtų iki dvidešimt šešių tūkstančių eurų už kiekvieną tiektą Lietuvos Respublikos vidaus rinkai verslo tikslais elektros ir elektroninės įrangos toną.941 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimo Lietuvos Respublikos rinkai apskaitos vykdymo ir ataskaitos teikimo reikalavimų nevykdymą
 
 
 Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimo Lietuvos Respublikos rinkai apskaitos vykdymas nesilaikant teisės aktuose nustatytų reikalavimų po to, kai juridinis asmuo apie pažeidimą buvo įspėtas raštu, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
@@ -6230,23 +6202,15 @@ Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 
 
 
-95 straipsnis. Juridinių asmenų atsakomybė už gaminių (alyvų, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir akumuliatorių, elektros ir elektroninės įrangos ir transporto priemonių) ir (ar) pakuočių tiekimą Lietuvos Respublikos vidaus rinkai neužsiregistravus teisės aktų nustatyta tvarka
+95 straipsnis. Juridinių asmenų atsakomybė už gaminių (alyvos, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių) tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais ir (ar) apmokestinamųjų gaminių, pakuočių tiekimą Lietuvos Respublikos vidaus rinkai neužsiregistravus teisės aktų nustatyta tvarka
 
 
-Gaminių (alyvų, apmokestinamųjų gaminių, į prietaisus ar transporto priemones įmontuotų baterijų ir akumuliatorių, elektros ir elektroninės įrangos ir transporto priemonių) ir (ar) pakuočių tiekimas Lietuvos Respublikos vidaus rinkai neįsiregistravus Lietuvos Respublikos atliekų tvarkymo įstatymo ar Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo nustatyta tvarka užtraukia baudą nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
-
-
-
-
-Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
- 
+Gaminių (alyvos, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių) tiekimas Lietuvos Respublikos vidaus rinkai verslo tikslais ir (ar) apmokestinamųjų gaminių, pakuočių tiekimas Lietuvos Respublikos vidaus rinkai neįsiregistravus Atliekų tvarkymo įstatyme ar Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatyme nustatyta tvarka užtraukia baudą nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
 
 
 
 
-
-
-951 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimą Lietuvos Respublikos rinkai neįsiregistravus teisės aktų nustatyta tvarka
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.951 straipsnis. Juridinių asmenų atsakomybė už vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimą Lietuvos Respublikos rinkai neįsiregistravus teisės aktų nustatyta tvarka
 
 
 Vienkartinių plastikinių gaminių (tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, drėgnųjų servetėlių, oro balionėlių) ir (ar) žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimas Lietuvos Respublikos rinkai neįsiregistravus Lietuvos Respublikos atliekų tvarkymo įstatymo nustatyta tvarka užtraukia baudą nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
@@ -6314,10 +6278,10 @@ Platinimas elektros ir elektroninės įrangos, kurios gamintojas ar importuotoja
 
 
 
-98 straipsnis. Juridinių asmenų atsakomybė už nustatyta tvarka nepaženklintos elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai ar platinimą ir už nustatyta tvarka nepaženklintų baterijų ir akumuliatorių tiekimą Lietuvos Respublikos vidaus rinkai 
+98 straipsnis. Juridinių asmenų atsakomybė už nustatyta tvarka nepaženklintos elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais ar platinimą, už nustatyta tvarka nepaženklintų apmokestinamiesiems gaminiams priskiriamų baterijų ir (ar) akumuliatorių tiekimą Lietuvos Respublikos vidaus rinkai ir už nustatyta tvarka nepaženklintų, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais
 
 
-Pagal nustatytus reikalavimus nepaženklintos elektros ir elektroninės įrangos tiekimas Lietuvos Respublikos vidaus rinkai užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+Pagal nustatytus reikalavimus nepaženklintos elektros ir elektroninės įrangos tiekimas Lietuvos Respublikos vidaus rinkai verslo tikslais užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
 
 
@@ -6337,20 +6301,12 @@ Pagal nustatytus reikalavimus nepaženklintos elektros ir elektroninės įrangos
 
 
 
-Pagal nustatytus reikalavimus nepaženklintų baterijų ir akumuliatorių tiekimas Lietuvos Respublikos vidaus rinkai užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+Pagal nustatytus reikalavimus nepaženklintų apmokestinamiesiems gaminiams priskiriamų baterijų ir (ar) akumuliatorių tiekimas Lietuvos Respublikos vidaus rinkai ir (ar) nepaženklintų, į prietaisus ar transporto priemones įmontuotų baterijų ir (ar) akumuliatorių tiekimas Lietuvos Respublikos vidaus rinkai verslo tikslais užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
 
 
 
-Šio straipsnio 5 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų.
- 
-
-
-
-
-
-
-99 straipsnis. Juridinių asmenų atsakomybė už visuomenės neinformavimą gaminių ir (ar) gaminių atliekų tvarkymo klausimais
+Šio straipsnio 5 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų.99 straipsnis. Juridinių asmenų atsakomybė už visuomenės neinformavimą gaminių ir (ar) gaminių atliekų tvarkymo klausimais
 
 
 Lietuvos Respublikos atliekų tvarkymo įstatymo nustatytos pareigos šviesti ir (ar) informuoti visuomenę gaminių atliekų tvarkymo klausimais nustatyta tvarka nevykdymas arba netinkamas vykdymas užtraukia baudą platintojui nuo trijų šimtų iki šešių šimtų eurų, gamintojui ir importuotojui – nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
@@ -6358,15 +6314,7 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo nustatytos pareigos šviesti ir
 
 
 
-Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą platintojui nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų, gamintojui ir importuotojui – nuo trijų tūkstančių iki šešių tūkstančių eurų.
- 
-
-
-
-
-
-
-100 straipsnis. Juridinių asmenų atsakomybė už baterijų ir akumuliatorių, kuriuose viršijamas nustatytas gyvsidabrio ir kadmio kiekis, tiekimą Lietuvos Respublikos vidaus rinkai
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą platintojui nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų, gamintojui ir importuotojui – nuo trijų tūkstančių iki šešių tūkstančių eurų.100 straipsnis. Juridinių asmenų atsakomybė už baterijų ir akumuliatorių, kuriuose viršijamas nustatytas gyvsidabrio ir kadmio kiekis, tiekimą Lietuvos Respublikos vidaus rinkai
 
 
 Baterijų ir akumuliatorių, kuriuose viršijamas teisės aktų nustatytas gyvsidabrio ir kadmio kiekis, tiekimas Lietuvos Respublikos vidaus rinkai užtraukia baudą nuo vieno tūkstančio septynių šimtų iki keturių tūkstančių eurų.
@@ -6374,15 +6322,7 @@ Baterijų ir akumuliatorių, kuriuose viršijamas teisės aktų nustatytas gyvsi
 
 
 
-Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
- 
-
-
-
-
-
-
-1001 straipsnis. Juridinių asmenų atsakomybė už iš aerobiškai skaidaus plastiko pagamintų gaminių ir draudžiamų pateikti rinkai vienkartinių plastikinių gaminių pateikimą Lietuvos Respublikos rinkai
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.1001 straipsnis. Juridinių asmenų atsakomybė už iš aerobiškai skaidaus plastiko pagamintų gaminių ir draudžiamų pateikti rinkai vienkartinių plastikinių gaminių pateikimą Lietuvos Respublikos rinkai
 
 
 Iš aerobiškai skaidaus plastiko pagamintų gaminių pateikimas Lietuvos Respublikos rinkai užtraukia baudą nuo vieno tūkstančio septynių šimtų iki keturių tūkstančių eurų.
@@ -6502,23 +6442,11 @@ Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 
 
 
-101 straipsnis. Juridinių asmenų atsakomybė už elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai neturint dokumento, įrodančio, kad elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas
+101 straipsnis. Juridinių asmenų atsakomybė už elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais neturint dokumento, įrodančio, kad elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas
 
+Lietuvos Respublikos atliekų tvarkymo įstatymo nustatytos pareigos vykdant elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais turėti dokumentą, įrodantį, kad elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas, nevykdymas užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
-Lietuvos Respublikos atliekų tvarkymo įstatymo nustatytos pareigos vykdant elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai turėti dokumentą, įrodantį, kad elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas, nevykdymas užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
-
-
-
-
-Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.
- 
-
-
-
-
-
-
-102 straipsnis. Juridinių asmenų atsakomybė už gaminių atliekų tvarkymo neorganizavimą
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.102 straipsnis. Juridinių asmenų atsakomybė už gaminių atliekų tvarkymo neorganizavimą
 
 
 Įstatymuose ir kituose teisės aktuose gamintojams ir importuotojams nustatytos pareigos neatlygintinai surinkti alyvos atliekas iš transporto priemonių techninės priežiūros ir remonto paslaugas teikiančių įmonių ir šias atliekas pervežti ir perduoti alyvos atliekų tvarkytojams arba kompensuoti transporto priemonių techninės priežiūros ir remonto paslaugas teikiančioms įmonėms ar atliekų tvarkytojams alyvos atliekų surinkimo ir vežimo tvarkyti Lietuvos Respublikos teritorijoje išlaidas nevykdymas užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
@@ -6547,13 +6475,32 @@ Lietuvos Respublikos atliekų tvarkymo įstatyme ir kituose teisės aktuose gami
 
 
 Šio straipsnio 5 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo šešių tūkstančių iki keturiolikos tūkstančių eurų.
- 
 
+102^2 straipsnis. Juridinių asmenų atsakomybė už gaminių ar pakuočių atliekų kolektyvaus tvarkymo organizavimo reikalavimų nevykdymą
 
+Pareigos visuomenės švietimui ir informavimui atliekų prevencijos ir tvarkymo klausimais skirti ne mažiau kaip 3 procentus gamintojų ir importuotojų organizacijos gautų pajamų nevykdymas, kai gaminių ar pakuočių atliekų tvarkymo licenciją turinti gamintojų ir importuotojų organizacija visuomenės švietimui ir informavimui atliekų prevencijos ir tvarkymo klausimais skyrė mažiau kaip 3 procentus, bet daugiau kaip 2,5 procento gamintojų ir importuotojų organizacijos gautų pajamų, užtraukia baudą nuo 0,5 iki 1 procento gamintojų ir importuotojų organizacijos pajamų, gautų kalendoriniais metais, kuriais gaminių ar pakuočių atliekų tvarkymo licenciją turinti gamintojų ir importuotojų organizacija nevykdė pareigos visuomenės švietimui ir informavimui atliekų prevencijos ir tvarkymo klausimais skirti ne mažiau kaip 3 procentus gamintojų ir importuotojų organizacijos gautų pajamų.
 
+Pareigos visuomenės švietimui ir informavimui atliekų prevencijos ir tvarkymo klausimais skirti ne mažiau kaip 3 procentus gamintojų ir importuotojų organizacijos gautų pajamų nevykdymas, kai gaminių ar pakuočių atliekų tvarkymo licenciją turinti gamintojų ir importuotojų organizacija visuomenės švietimui ir informavimui atliekų prevencijos ir tvarkymo klausimais skyrė 2,5 procento ar mažiau kaip 2,5 procento, bet daugiau kaip 1 procentą gamintojų ir importuotojų organizacijos gautų pajamų, užtraukia baudą nuo 1,5 iki 2,5 procento gamintojų ir importuotojų organizacijos pajamų, gautų kalendoriniais metais, kuriais gaminių ar pakuočių atliekų tvarkymo licenciją turinti gamintojų ir importuotojų organizacija nevykdė pareigos visuomenės švietimui ir informavimui atliekų prevencijos ir tvarkymo klausimais skirti ne mažiau kaip 3 procentus gamintojų ir importuotojų organizacijos gautų pajamų.
 
+Pareigos visuomenės švietimui ir informavimui atliekų prevencijos ir tvarkymo klausimais skirti ne mažiau kaip 3 procentus gamintojų ir importuotojų organizacijos gautų pajamų nevykdymas, kai gaminių ar pakuočių atliekų tvarkymo licenciją turinti gamintojų ir importuotojų organizacija visuomenės švietimui ir informavimui atliekų prevencijos ir tvarkymo klausimais skyrė 1 procentą ar mažiau kaip 1 procentą gamintojų ir importuotojų organizacijos gautų pajamų, užtraukia baudą nuo 2,5 iki 3,5 procento gamintojų ir importuotojų organizacijos pajamų, gautų kalendoriniais metais, kuriais gaminių ar pakuočių atliekų tvarkymo licenciją turinti gamintojų ir importuotojų organizacija nevykdė pareigos visuomenės švietimui ir informavimui atliekų prevencijos ir tvarkymo klausimais skirti ne mažiau kaip 3 procentus gamintojų ir importuotojų organizacijos gautų pajamų.
 
+102^3 straipsnis. Juridinių asmenų atsakomybė už Vyriausybės ar jos įgaliotos institucijos nustatytos alyvos, elektros ir elektroninės įrangos atliekų ar eksploatuoti netinkamų transporto priemonių tvarkymo užduoties neįvykdymą
 
+Vyriausybės ar jos įgaliotos institucijos nustatytos alyvos atliekų tvarkymo užduoties neįvykdymas užtraukia baudą nuo septyniasdešimties iki septynių šimtų eurų už kiekvieną nesutvarkytą alyvos atliekų toną individualiai alyvos atliekų tvarkymą organizuojančiam gamintojui ir (ar) importuotojui ar kolektyviai gamintojų ir (ar) importuotojų pareigas vykdančiai alyvos atliekų tvarkymo organizavimo licenciją turinčiai gamintojų ir (ar) importuotojų organizacijai.
+
+Vyriausybės ar jos įgaliotos institucijos nustatytos eksploatuoti netinkamų transporto priemonių tvarkymo užduoties neįvykdymas kolektyviai gamintojų ir (ar) importuotojų pareigas vykdančiai eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo licenciją turinčiai gamintojų ir (ar) importuotojų organizacijai ir (ar) eksploatuoti netinkamų transporto priemonių tvarkytojui, vykdančiam eksploatuoti netinkamų transporto priemonių išardymą, sulaužymą, sukarpymą ar kitokį susmulkinimą, smulkinimo atliekų paruošimą naudoti ir (ar) šalinti, išardytų dalių paruošimą pakartotinai naudoti, užtraukia baudą nuo penkių tūkstančių keturių šimtų iki dvylikos tūkstančių eurų.
+
+Vyriausybės ar jos įgaliotos institucijos nustatytos temperatūros keitimo įrangos, nurodytos Vyriausybės ar jos įgaliotos institucijos tvirtinamame elektros ir elektroninės įrangos atliekų tvarkymo užduočių apraše, atliekų tvarkymo kiekybinės užduoties neįvykdymas užtraukia baudą nuo trijų tūkstančių aštuonių šimtų iki septynių tūkstančių penkių šimtų eurų už kiekvieną nesutvarkytą temperatūros keitimo įrangos atliekų toną individualiai elektros ir elektroninės įrangos atliekų tvarkymą organizuojančiam gamintojui ir (ar) importuotojui ar kolektyviai gamintojų ir (ar) importuotojų pareigas vykdančiai elektros ir elektroninės įrangos atliekų tvarkymo organizavimo licenciją turinčiai gamintojų ir (ar) importuotojų organizacijai.
+
+Vyriausybės ar jos įgaliotos institucijos nustatytos ekranų, monitorių ir įrangos, kurioje yra ekranų, kurių paviršiaus plotas didesnis kaip 100 cm^2, nurodytos Vyriausybės ar jos įgaliotos institucijos tvirtinamame elektros ir elektroninės įrangos atliekų tvarkymo užduočių apraše, atliekų tvarkymo kiekybinės užduoties neįvykdymas užtraukia baudą nuo trijų tūkstančių aštuonių šimtų iki septynių tūkstančių penkių šimtų eurų už kiekvieną nesutvarkytą ekranų, monitorių ir įrangos, kurioje yra ekranų, kurių paviršiaus plotas didesnis kaip 100 cm^2, atliekų toną individualiai elektros ir elektroninės įrangos atliekų tvarkymą organizuojančiam gamintojui ir (ar) importuotojui ar kolektyviai gamintojų ir (ar) importuotojų pareigas vykdančiai elektros ir elektroninės įrangos atliekų tvarkymo organizavimo licenciją turinčiai gamintojų ir (ar) importuotojų organizacijai.
+
+Vyriausybės ar jos įgaliotos institucijos nustatytos lempų, nurodytų Vyriausybės ar jos įgaliotos institucijos tvirtinamame elektros ir elektroninės įrangos atliekų tvarkymo užduočių apraše, atliekų tvarkymo kiekybinės užduoties neįvykdymas užtraukia baudą nuo dešimt tūkstančių keturių šimtų iki dvidešimt tūkstančių aštuonių šimtų eurų už kiekvieną nesutvarkytą lempų atliekų toną individualiai elektros ir elektroninės įrangos atliekų tvarkymą organizuojančiam gamintojui ir (ar) importuotojui ar kolektyviai gamintojų ir (ar) importuotojų pareigas vykdančiai elektros ir elektroninės įrangos atliekų tvarkymo organizavimo licenciją turinčiai gamintojų ir (ar) importuotojų organizacijai.
+
+Vyriausybės ar jos įgaliotos institucijos nustatytos stambios įrangos (bent vienas iš išorinių matmenų didesnis kaip 50 cm), nurodytos Vyriausybės ar jos įgaliotos institucijos tvirtinamame elektros ir elektroninės įrangos atliekų tvarkymo užduočių apraše, atliekų tvarkymo kiekybinės užduoties neįvykdymas užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki keturių tūkstančių šešių šimtų eurų už kiekvieną nesutvarkytą stambios įrangos (bent vienas iš išorinių matmenų didesnis kaip 50 cm) atliekų toną individualiai elektros ir elektroninės įrangos atliekų tvarkymą organizuojančiam gamintojui ir (ar) importuotojui ar kolektyviai gamintojų ir (ar) importuotojų pareigas vykdančiai elektros ir elektroninės įrangos atliekų tvarkymo organizavimo licenciją turinčiai gamintojų ir (ar) importuotojų organizacijai.
+
+Vyriausybės ar jos įgaliotos institucijos nustatytos smulkios įrangos (nė vienas iš išorinių matmenų neviršija 50 cm), nurodytos Vyriausybės ar jos įgaliotos institucijos tvirtinamame elektros ir elektroninės įrangos atliekų tvarkymo užduočių apraše, atliekų tvarkymo kiekybinės užduoties neįvykdymas užtraukia baudą nuo keturių tūkstančių iki aštuonių tūkstančių vieno šimto eurų už kiekvieną nesutvarkytą smulkios įrangos (nė vienas iš išorinių matmenų neviršija 50 cm) atliekų toną individualiai elektros ir elektroninės įrangos atliekų tvarkymą organizuojančiam gamintojui ir (ar) importuotojui ar kolektyviai gamintojų ir (ar) importuotojų pareigas vykdančiai elektros ir elektroninės įrangos atliekų tvarkymo organizavimo licenciją turinčiai gamintojų ir (ar) importuotojų organizacijai.
+
+Vyriausybės ar jos įgaliotos institucijos nustatytos smulkios informacinių technologijų (toliau – IT) ir telekomunikacijų įrangos (nė vienas iš išorinių matmenų neviršija 50 cm), nurodytos Vyriausybės ar jos įgaliotos institucijos tvirtinamame elektros ir elektroninės įrangos atliekų tvarkymo užduočių apraše, atliekų tvarkymo kiekybinės užduoties neįvykdymas užtraukia baudą nuo trijų tūkstančių penkių šimtų iki šešių tūkstančių devynių šimtų eurų už kiekvieną nesutvarkytą smulkios IT ir telekomunikacijų įrangos (nė vienas iš išorinių matmenų neviršija 50 cm) atliekų toną individualiai elektros ir elektroninės įrangos atliekų tvarkymą organizuojančiam gamintojui ir (ar) importuotojui ar kolektyviai gamintojų ir (ar) importuotojų pareigas vykdančiai elektros ir elektroninės įrangos atliekų tvarkymo organizavimo licenciją turinčiai gamintojų ir (ar) importuotojų organizacijai.
 1021 straipsnis. Juridinių asmenų atsakomybė už gaminių atliekų tvarkymo finansavimo neorganizavimą
 
 
@@ -6602,23 +6549,11 @@ Pakuočių, kuriose kenksmingos medžiagos viršija leistiną ribinį kiekį, ti
 
 
 
-105 straipsnis. Juridinių asmenų atsakomybė už pareigos šviesti ir (ar) informuoti visuomenę apie pakuotes ir (ar) pakuočių atliekų tvarkymą nustatyta tvarka nevykdymą arba netinkamą vykdymą 
+105 straipsnis. Juridinių asmenų atsakomybė už pareigos šviesti ir informuoti visuomenę pakuočių ir (ar) pakuočių atliekų prevencijos ir tvarkymo klausimais nustatyta tvarka nevykdymą arba netinkamą vykdymą
 
+Pakuočių ir pakuočių atliekų tvarkymo įstatyme nustatytos pareigos šviesti ir informuoti visuomenę pakuočių ir (ar) pakuočių atliekų prevencijos ir tvarkymo klausimais nevykdymas arba netinkamas vykdymas užtraukia baudą pakuočių platintojui nuo trijų šimtų iki šešių šimtų eurų, individualiai pakuočių atliekų tvarkymą organizuojančiam gamintojui ir importuotojui – nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
-Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo nustatytos pareigos šviesti ir (ar) informuoti visuomenę apie pakuotes ir (ar) pakuočių atliekų tvarkymą nustatyta tvarka nevykdymas arba netinkamas vykdymas užtraukia baudą pakuočių platintojui nuo trijų šimtų iki šešių šimtų eurų, pakuočių gamintojui ir importuotojui – nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
-
-
-
-
-Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą platintojui nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų, gamintojui ir importuotojui – nuo trijų tūkstančių iki šešių tūkstančių eurų.
- 
-
-
-
-
-
-
-106 straipsnis. Juridinių asmenų atsakomybė už atsisakymą priimti pakuotes
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą pakuočių platintojui nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų, individualiai pakuočių atliekų tvarkymą organizuojančiam gamintojui ir importuotojui – nuo trijų tūkstančių iki šešių tūkstančių eurų.106 straipsnis. Juridinių asmenų atsakomybė už atsisakymą priimti pakuotes
 
 
 Įstatymų nustatytos pareigos nustatyta tvarka priimti pakuotes nevykdymas užtraukia baudą nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
@@ -6634,38 +6569,20 @@ Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo nustat
 
 
 
-107 straipsnis. Juridinių asmenų atsakomybė už pakuočių apskaitos vykdymo, Lietuvos Respublikos vidaus rinkai patiektų tuščių pakuočių apskaitos ataskaitos teikimo ir mokesčio už aplinkos teršimą pakuotės atliekomis deklaracijos teikimo reikalavimų nevykdymą
+107 straipsnis. Juridinių asmenų atsakomybė už pakuočių apskaitos tvarkymo, pakuočių apskaitos ataskaitos teikimo ir mokesčio už aplinkos teršimą pakuotės atliekomis deklaravimo reikalavimų nevykdymą
 
 
-Pakuočių apskaitos vykdymas nesilaikant teisės aktuose nustatytų reikalavimų po to, kai juridinis asmuo buvo raštu įspėtas apie pažeidimą, užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
-
-
-
-
-Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+Pakuočių apskaitos ataskaitos nepateikimas ir (ar) mokesčio už aplinkos teršimą pakuotės atliekomis nedeklaravimas, kai raštu buvo įspėta apie apskaitos ataskaitos ir (ar) duomenų pateikimo terminus, užtraukia baudą nuo penkių šimtų iki aštuonių šimtų eurų.
 
 
 
 
-Akivaizdžiai neteisingų ar suklastotų duomenų pakuočių apskaitos dokumentuose, Lietuvos Respublikos vidaus rinkai patiektų tuščių pakuočių apskaitos ataskaitoje pateikimas užtraukia baudą nuo dviejų šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+Pakuočių apskaitos tvarkymas nesilaikant teisės aktuose nustatytų reikalavimų ir (ar) neteisingų duomenų pakuočių apskaitoje ir (ar) apskaitos ataskaitoje pateikimas, kai juridinis asmuo buvo raštu įspėtas apie pažeidimą, užtraukia baudą nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų. Atsakomybė netaikoma, jeigu pagal Mokesčio už aplinkos teršimą įstatymą paskirta ekonominė sankcija už nuslėptą taršą.
 
 
 
 
-Lietuvos Respublikos vidaus rinkai patiektų tuščių pakuočių apskaitos ataskaitos ir (ar) mokesčio už aplinkos teršimą pakuotės atliekomis deklaracijos nepateikimas po to, kai raštu buvo įspėta apie šių dokumentų pateikimo terminus, užtraukia baudą nuo dviejų šimtų penkiasdešimt iki keturių šimtų penkiasdešimt eurų.
-
-
-
-
-Pakuočių apskaitos nevykdymas užtraukia baudą nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
- 
-
-
-
-
-
-
-108 straipsnis. Juridinių asmenų atsakomybė už pakuočių atliekų tvarkymo neorganizavimą
+Šio straipsnio 2 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių keturių šimtų eurų.108 straipsnis. Juridinių asmenų atsakomybė už pakuočių atliekų tvarkymo neorganizavimą
 
 
 Įstatymuose numatytos pareigos organizuoti surinkimą, vežimą, paruošimą naudoti, naudojimą atliekų, kurios susidarė naudojant gamintojų ir importuotojų tiektas Lietuvos Respublikos vidaus rinkai pakuotes, nevykdymas užtraukia baudą nuo šešių tūkstančių iki keturiolikos tūkstančių eurų.
