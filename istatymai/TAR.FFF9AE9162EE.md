@@ -100,10 +100,10 @@ Vilnius
 
 
 11. Nuslėpta tarša:
-
-
-1) neturint leidimo, kai leidimas privalomas, arba eksploatuojant neįregistruotą organinius tirpiklius naudojantį įrenginį, kai jis privalo būti įregistruotas, išmestas teršalo kiekis ir (ar)
-TAR pastaba. 2 straipsnio 11 dalies 1 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių metų mokestinio laikotarpio mokestį už aplinkos teršimą.
+1) neturint leidimo, kai jis privalomas, arba eksploatuojant neįregistruotą organinius tirpiklius naudojantį įrenginį, kai jis privalo būti įregistruotas, išmestas teršalo kiekis ir (ar)
+2) nedeklaruotas ar deklaruotas pradėjus mokestinį patikrinimą į aplinką išmesto teršalo faktinis kiekis, leidime nustatyto teršalo metinio normatyvo ir (ar) didžiausios leidžiamos momentinės ar paros vidutinės teršalo koncentracijos, ir (ar) ribinės vertės neviršijantis, ir (ar) faktinis leidime nustatytą metinį normatyvą, ir (ar) didžiausią leidžiamą momentinę ar paros vidutinę teršalo koncentraciją, ir (ar) ribinę vertę viršijantis teršalo kiekis; Lietuvos Respublikoje sunaudotų degalų kiekis; kilimo ir tūpimo ciklų skaičius; tiektų Lietuvos Respublikos vidaus rinkai gaminių ir (ar) pripildytų pakuočių kiekis; pašalintų sąvartyne atliekų kiekis ir (ar)
+3) klaidingai nurodyti: teršalų, degalų, gaminių, pakuočių, atliekų rūšys, duomenys apie gautus gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus, sutvarkytą gaminių ir (ar) pakuočių atliekų kiekį, tarifai ir (ar) tarifą mažinantys koeficientai, dėl kurių buvo apskaičiuotas ir deklaruotas mažesnis mokestis už aplinkos teršimą, ir (ar)
+4) nevykdyta ar pradėta vykdyti pradėjus mokestinį patikrinimą gaminių ir (ar) pakuočių apskaita aplinkos ministro nustatyta tvarka.
 Straipsnio punkto pakeitimai:
 Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
  
@@ -131,7 +131,7 @@ Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 
 
-2) tapusi atlieka, Lietuvos Respublikos atliekų tvarkymo įstatyme nurodytame Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turinčių teisę išrašyti atliekų tvarkytojų sąraše nurodytų atliekų naudotojų (perdirbėjų) perdirbama ar tokiame sąraše nurodytų atliekų eksportuotojų išvežama (eksportuojama) į Europos Sąjungos valstybes nares perdirbti į produktus, atitinkančius tiems produktams Europos Sąjungoje ir (ar) tik Lietuvos Respublikoje taikomus standartus.
+2) tapusi atlieka, Lietuvos Respublikos atliekų tvarkymo įstatyme nurodytame Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turinčių teisę išrašyti atliekų tvarkytojų sąraše nurodytų atliekų naudotojų (perdirbėjų) perdirbama ar tokiame sąraše nurodytų atliekų eksportuotojų išvežama (eksportuojama) į valstybes nares perdirbti į produktus, atitinkančius tiems produktams Europos Sąjungoje ir (ar) tik Lietuvos Respublikoje taikomus standartus.
 
 
 
@@ -164,19 +164,11 @@ Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 
 18. Tiekimas Lietuvos Respublikos vidaus rinkai:
-
-
-1) Lietuvos Respublikos teritorijoje pagamintų gaminių ir (ar) pripildytų pakuočių perleidimas atlygintinai arba neatlygintinai, taip pat naudojant ir nuotolinio ryšio prekybos priemones, bet kuriam kitam asmeniui Lietuvos Respublikos teritorijoje ar sunaudojimas gamintojo reikmėms arba
-
-
-
-
-2) importuotų ir (ar) įvežtų į Lietuvos Respublikos teritoriją, įskaitant muitinės sandėlius, laikinojo saugojimo sandėlius ir laisvąsias zonas, gaminių ir (ar) pripildytų pakuočių perleidimas atlygintinai arba neatlygintinai, taip pat naudojant ir kitas nuotolinio ryšio prekybos priemones, bet kuriam kitam asmeniui Lietuvos Respublikos teritorijoje ar sunaudojimas importuotojo reikmėms, arba
-
-
-
-
-3) likviduojamų arba reorganizuojamų mokesčio mokėtojų gaminių ir (ar) pripildytų pakuočių, neperleistų kitam asmeniui, pagaminimas, importas ir (ar) įvežimas į Lietuvos Respublikos teritoriją, įskaitant muitinės sandėlius, laikinojo saugojimo sandėlius ir laisvąsias zonas.
+1) Lietuvos Respublikos teritorijoje pagamintų tuščių ar pripildytų pakuočių perleidimas atlygintinai arba neatlygintinai, taip pat naudojant ir nuotolinio ryšio prekybos priemones, kitam asmeniui Lietuvos Respublikos teritorijoje ar sunaudojimas gamintojo reikmėms arba
+2) iš kitos valstybės narės ar trečiosios šalies įvežtų į Lietuvos Respublikos teritoriją, įskaitant muitinės sandėlius, laikinojo saugojimo sandėlius ir laisvąsias zonas, tuščių ar pripildytų pakuočių perleidimas atlygintinai arba neatlygintinai, taip pat naudojant ir nuotolinio ryšio prekybos priemones, kitam asmeniui Lietuvos Respublikos teritorijoje ar sunaudojimas importuotojo reikmėms, arba
+3) Lietuvos Respublikos teritorijoje pagamintų gaminių perleidimas atlygintinai arba neatlygintinai, taip pat naudojant ir nuotolinio ryšio prekybos priemones, kitam asmeniui Lietuvos Respublikos teritorijoje ar daugiau kaip 5 baterijų, akumuliatorių, vidaus degimo variklių degalų, įsiurbiamo oro arba tepalų filtrų, jų dalių ar komponentų vienetų, daugiau kaip 20 autotransporto priemonių amortizatorių ar tos pačios rūšies padangų vienetų per kalendorinius metus sunaudojimas gamintojo reikmėms, arba
+4) iš kitos valstybės narės ar trečiosios šalies įvežtų į Lietuvos Respublikos teritoriją, įskaitant muitinės sandėlius, laikinojo saugojimo sandėlius ir laisvąsias zonas, gaminių perleidimas atlygintinai arba neatlygintinai, taip pat naudojant ir nuotolinio ryšio prekybos priemones, kitam asmeniui Lietuvos Respublikos teritorijoje ar daugiau kaip 5 baterijų, akumuliatorių, vidaus degimo variklių degalų, įsiurbiamo oro arba tepalų filtrų, jų dalių ar komponentų vienetų, daugiau kaip 20 autotransporto priemonių amortizatorių ar tos pačios rūšies padangų vienetų per kalendorinius metus sunaudojimas importuotojo reikmėms, arba
+5) likviduojamų arba reorganizuojamų mokesčio mokėtojų gaminių ir (ar) tuščių ar pripildytų pakuočių, neperleistų kitam asmeniui, pagaminimas, įvežimas iš kitos valstybės narės ar trečiosios šalies į Lietuvos Respublikos teritoriją, įskaitant muitinės sandėlius, laikinojo saugojimo sandėlius ir laisvąsias zonas.
 
 
 
@@ -291,7 +283,7 @@ Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 
 
-8) žemės ūkio veiklai naudojami ne keliais judantys mechanizmai, registruojami pirmą kartą Lietuvoje ar keičiantis žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojui Traktorių, savaeigių ir žemės ūkio mašinų bei jų priekabų registro informacinėje sistemoje (toliau – Registro informacinė sistema), išskyrus atvejus, kai keičiami žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojo duomenys: juridinio asmens pavadinimas arba fizinio asmens vardas ir (ar) pavardė, tačiau faktinis į Registro informacinę sistemą įrašytas žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojas pakeitus valdytojo duomenis nesikeičia, arba į Registro informacinę sistemą įrašomas naujas žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojas mirus valdytojui, kuris buvo žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo savininkas.
+8) žemės ūkio veiklai naudojami ne keliais judantys mechanizmai, registruojami pirmą kartą Lietuvoje ar keičiantis žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojui Traktorių, savaeigių ir žemės ūkio mašinų bei jų priekabų registre (toliau – Registras), išskyrus atvejus, kai keičiami žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojo duomenys: juridinio asmens pavadinimas arba fizinio asmens vardas ir (ar) pavardė, tačiau faktinis į Registrą įrašytas žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojas pakeitus valdytojo duomenis nesikeičia, arba į Registrą įrašomas naujas žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojas mirus valdytojui, kuris buvo žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo savininkas, arba į Registrą įrašomas naujas žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo savininkas, kai žemės ūkio veiklai naudojamo ne keliais judančio mechanizmo valdytojas nesikeičia.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
  
@@ -457,23 +449,17 @@ Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 11. Mokestinių metų vartotojų kainų indeksas šio įstatymo 8 priede nurodytiems mokesčio už aplinkos teršimą tarifams nustatomas prieš atitinkamus mokestinius metus einančių metų liepos mėnesio kainas palyginus su 2018 metų liepos mėnesio kainomis.8 straipsnis. Mokestinis laikotarpis
 
 
-Mokesčio už aplinkos teršimą mokestinis laikotarpis yra kalendoriniai metai, išskyrus mokestį už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų.9 straipsnis. Mokesčio apskaičiavimas, deklaravimas ir sumokėjimas
-
-
-1. Mokesčio mokėtojai aplinkos ministro nustatyta tvarka vykdo iš stacionariųjų taršos šaltinių išmestų į aplinką teršalų, mobiliuosiuose taršos šaltiniuose Lietuvos Respublikoje sunaudotų degalų, oro transporto atliktų kilimo ir tūpimo ciklų, tiektų vidaus rinkai gaminių ir (ar) pakuočių ir sąvartyne šalintų atliekų apskaitą ir yra atsakingi už mokesčio už aplinkos teršimą deklaracijose pateiktų duomenų teisingumą.
-
-
-
-
-2. Mokestis už aplinkos teršimą ir nuslėptą taršą apskaičiuojamas aplinkos ministro nustatyta tvarka.
+Mokesčio už aplinkos teršimą mokestinis laikotarpis yra kalendoriniai metai, išskyrus mokestį už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų.9 straipsnis. Mokesčio apskaičiavimas, deklaravimas, sumokėjimas ir ekonominių sankcijų skyrimas
+1. Mokesčio mokėtojai aplinkos ministro nustatyta tvarka vykdo iš stacionariųjų taršos šaltinių išmestų į aplinką teršalų, mobiliuosiuose taršos šaltiniuose Lietuvos Respublikoje sunaudotų degalų, oro transporto atliktų kilimo ir tūpimo ciklų, tiektų vidaus rinkai gaminių ir (ar) pakuočių ir sąvartyne šalintų atliekų apskaitą ir yra atsakingi už mokesčio už aplinkos teršimą deklaracijose ir (ar) apskaitos ataskaitose pateiktų duomenų teisingumą.
 
 
 
 
+2. Mokestis už aplinkos teršimą apskaičiuojamas aplinkos ministro nustatyta tvarka.
 3. Mokestis už aplinkos teršimą apskaičiuojamas:
 
 
-1) iš stacionariųjų taršos šaltinių išmestą į aplinką teršalų kiekį, kuris nustatomas pagal instrumentinio matavimo, kai jį privaloma atlikti vadovaujantis teisės aktuose nustatytais teršalų apskaitos reikalavimais, rezultatus arba taikant aplinkos ministro įsakymu patvirtintas išmetamų į aplinką (orą, vandens telkinius ir žemės paviršių bei žemės gelmes) teršalų kiekio apskaičiavimo metodikas ir (arba) į aplinkos ministro įsakymu patvirtintą metodikų sąrašą įtrauktas metodikas, kurios buvo naudojamos apskaičiuojant normatyvinį teršalo kiekį leidimui gauti ar organinius tirpiklius naudojančiam įrenginiui įregistruoti (toliau – teršalų nustatymo metodikos), dauginant iš tarifo, nurodyto šio įstatymo 1 priede, ir indeksavimo koeficiento;
+1) iš stacionariųjų taršos šaltinių išmestą į aplinką teršalų kiekį, kuris nustatomas pagal instrumentinio matavimo, kai jį privaloma atlikti vadovaujantis teisės aktuose nustatytais teršalų apskaitos reikalavimais, rezultatus arba taikant aplinkos ministro patvirtintas išmetamų į aplinką (orą, vandens telkinius, žemės paviršių ir žemės gelmes) teršalų kiekio apskaičiavimo metodikas ir (arba) į aplinkos ministro patvirtintą metodikų sąrašą įtrauktas metodikas, kurios buvo naudojamos apskaičiuojant normatyvinį teršalo kiekį leidimui gauti ar organinius tirpiklius naudojančiam įrenginiui įregistruoti, (toliau – teršalų nustatymo metodikos), dauginant iš tarifo, nurodyto šio įstatymo 1 priede, ir indeksavimo koeficiento;
 TAR pastaba. 9 straipsnio 3 dalies 1 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių metų mokestinio laikotarpio mokestį už aplinkos teršimą.
 Straipsnio punkto pakeitimai:
 Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
@@ -497,13 +483,13 @@ Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 
 
-5) Lietuvos Respublikos vidaus rinkai tiektą gaminių kiekį, kuris mažinamas proporcingai įvykdytai gaminių atliekų naudojimo ir (ar) perdirbimo užduoties daliai, dauginant iš tarifo, nurodyto šio įstatymo 3 priede, ir indeksavimo koeficiento;
+5) Lietuvos Respublikos vidaus rinkai tiektą gaminių kiekį, kuris mažinamas proporcingai įvykdytai gaminių atliekų naudojimo ir (ar) perdirbimo užduoties daliai, kuriai mokesčio mokėtojas turi galiojančius gaminių atliekų sutvarkymą įrodančius dokumentus, patvirtinančius šios gaminių atliekų naudojimo ir (ar) perdirbimo užduoties dalies įvykdymą, išrašytus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, dauginant iš tarifo, nurodyto šio įstatymo 3 priede, ir indeksavimo koeficiento;
 
 
 
 
-6) Lietuvos Respublikos vidaus rinkai tiektą pripildytų pakuočių kiekį, kuris mažinamas proporcingai įvykdytai pakuočių, išskyrus kombinuotas, plastikines ir PET pakuotes, atliekų naudojimo ir (ar) perdirbimo užduoties daliai, perdirbtam kombinuotų, plastikinių, PET pakuočių atliekų kiekiui, dauginant iš tarifo, nurodyto šio įstatymo 4 priede, ir indeksavimo koeficiento;
-TAR pastaba: 9 straipsnio 3 dalies 6 punkto  nuostatos taikomos apskaičiuojant ir deklaruojant 2025 metų ir vėlesnių mokestinių laikotarpių mokestį už aplinkos teršimą.
+6) Lietuvos Respublikos vidaus rinkai tiektą pripildytų vienkartinių perdirbamųjų pakuočių kiekį, kuris mažinamas proporcingai įvykdytai pakuočių, išskyrus kombinuotąsias, plastikines ir PET pakuotes, atliekų perdirbimo užduoties daliai, kuriai mokesčio mokėtojas turi galiojančius pakuočių atliekų sutvarkymą įrodančius dokumentus, patvirtinančius šios pakuočių atliekų perdirbimo užduoties dalies įvykdymą, išrašytus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka; perdirbtam kombinuotųjų, plastikinių, PET pakuočių atliekų kiekiui, kuriam mokesčio mokėtojas turi galiojančius pakuočių atliekų sutvarkymą įrodančius dokumentus, patvirtinančius perdirbtą tokių pakuočių atliekų kiekį, išrašytus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, dauginant iš tarifo, nurodyto šio įstatymo 4 priede, ir indeksavimo koeficiento;
+TAR pastaba: 9 straipsnio 3 dalies 6 punkto  nuostatos taikomos apskaičiuojant ir deklaruojant 2025 metų ir vėlesnių mokestinių laikotarpių mokestį už aplinkos teršimą.
 Straipsnio punkto pakeitimai:
 Nr. XIV-2173, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19344
  
@@ -512,23 +498,17 @@ Nr. XIV-2173, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19344
 
 
 7) Lietuvos Respublikos vidaus rinkai tiektą ir nesusigrąžintą pripildytų daugkartinių pakuočių kiekį, kai neįvykdoma visa aplinkos ministro nustatyta surinkimo ir daugkartinio naudojimo užduotis, dauginant iš tarifo, nurodyto šio įstatymo 4 priede, ir indeksavimo koeficiento;
-
-
-
-
-8) sąvartyne šalintų atliekų kiekį dauginant iš tarifo, nurodyto šio įstatymo 8 priede, ir indeksavimo koeficiento.
+8) Lietuvos Respublikos vidaus rinkai tiektą pripildytų vienkartinių neperdirbamųjų pakuočių kiekį dauginant iš tarifo, nurodyto šio įstatymo 4 priede, ir indeksavimo koeficiento;
+9) sąvartyne pašalintų atliekų kiekį dauginant iš tarifo, nurodyto šio įstatymo 8 priede, ir indeksavimo koeficiento.
 
 
 
 
 
 
-4. Mokestis už aplinkos teršimą, išskyrus mokestį už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų, sumokamas ir mokesčio už aplinkos teršimą deklaracijos pateikiamos ne vėliau kaip pasibaigus mokestiniam laikotarpiui, iki kalendorinių metų, einančių po to mokestinio laikotarpio, vasario 15 dienos Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos (toliau – Valstybinė mokesčių inspekcija). Laikoma, kad mokestinė prievolė įvykdyta tik pateikus deklaraciją ir sumokėjus mokėtiną mokestį.
-
-
-
-
-5. Mokestis už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiuojamas ir sumokamas šia tvarka:  
+4. Duomenis apie mokesčio mokėtojo pagal šio straipsnio 3 dalies 5–8 punktus mokėtiną mokesčio už aplinkos teršimą sumą, apskaičiuotą naudojantis Vieninga gaminių, pakuočių ir atliekų apskaitos informacine sistema (toliau – GPAIS), Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos (toliau – Valstybinė mokesčių inspekcija) į Valstybinės mokesčių inspekcijos Mokesčių apskaitos informacinę sistemą teikia aplinkos ministro įgaliota institucija laikydamasi duomenų teikimo sutartyje nustatytos tvarkos ir terminų.
+5. Mokestis už aplinkos teršimą, išskyrus mokestį už aplinkos teršimą gaminių ir (ar) pakuočių atliekomis ir mokestį už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų, deklaracijos teikiamos Valstybinei mokesčių inspekcijai ir mokestis sumokamas į Valstybinės mokesčių inspekcijos biudžeto pajamų surenkamąją sąskaitą ne vėliau kaip pasibaigus mokestiniam laikotarpiui, iki kalendorinių metų, einančių po mokestinio laikotarpio, vasario 15 dienos. Laikoma, kad mokestinė prievolė įvykdyta tik pateikus deklaraciją ir sumokėjus mokėtiną mokestį.
+6. Mokestis už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiuojamas ir sumokamas šia tvarka:  
 Straipsnio dalies pakeitimai:
 Nr. XIV-3118, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20202
 
@@ -558,9 +538,8 @@ Nr. XIV-3118, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20202
 
 
 
-6) mokesčio už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiavimo ir sumokėjimo fakto patikrinimą vykdo akcinė bendrovė Žemės ūkio duomenų centras; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-1301, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15628
+6) mokesčio už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiavimo ir sumokėjimo fakto patikrinimą vykdo valstybės įmonė Žemės ūkio duomenų centras;
+7) valstybės įmonė Žemės ūkio duomenų centras teikia Valstybinei mokesčių inspekcijai mokesčiui už aplinkos teršimą administruoti reikalingą informaciją.
 Nr. XIV-3118, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20202
  
 
@@ -718,5 +697,8 @@ Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 5. Ginčai dėl mokesčio už aplinkos teršimą, su juo susijusių delspinigių ir ekonominių sankcijų apskaičiavimo, deklaravimo ir sumokėjimo privaloma ikiteismine tvarka nagrinėjami Mokestinių ginčų komisijoje prie Lietuvos Respublikos Vyriausybės. Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės sprendimai gali būti skundžiami teismui.
 
+1. Nepavojingųjų atliekų sąvartyne šalinamos atliekos, išskyrus šio priedo 2 punkte nurodytas atskirose sekcijose šalinamas asbesto atliekas ir nepavojingųjų atliekų sąvartyne šalinamas fosfogipso atliekas
+50,00
+
 5. Nepavojingųjų atliekų sąvartyne šalinamos fosfogipso atliekos
-0,50
+0,75
