@@ -8628,33 +8628,15 @@ Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876
 
 
 
-228 straipsnis. Piktnaudžiavimas 
+228 straipsnis. Piktnaudžiavimas
 
-
-1. Valstybės tarnautojas ar jam prilygintas asmuo, piktnaudžiavęs tarnybine padėtimi arba viršijęs įgaliojimus, jeigu dėl to didelės žalos patyrė valstybė, Europos Sąjunga, tarptautinė viešoji organizacija, juridinis ar fizinis asmuo,
-baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
-
-
-
+1. Valstybės tarnautojas ar jam prilygintas asmuo, piktnaudžiavęs tarnybine padėtimi arba viršijęs įgaliojimus, jeigu dėl to didelę žalą patyrė valstybė, Europos Sąjunga, tarptautinė viešoji organizacija, juridinis ar fizinis asmuo,
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
 
 2. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką siekdamas turtinės ar kitokios asmeninės naudos, jeigu nebuvo kyšininkavimo požymių,
-baudžiamas bauda arba laisvės atėmimu iki septynerių metų.
+baudžiamas bauda arba laisvės atėmimu iki šešerių metų.
 
-
-
-
-3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
-
-
-Straipsnio pakeitimai:
-Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
-Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
- 
-
-
-
-
-2281 straipsnis. Neteisėtas teisių į daiktą įregistravimas
+3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.2281 straipsnis. Neteisėtas teisių į daiktą įregistravimas
 
 
 Valstybės tarnautojas ar jam prilygintas asmuo, kuris atlikdamas registratoriaus funkcijas viešame registre neteisėtai įregistravo teises į daiktą,
