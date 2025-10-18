@@ -573,7 +573,7 @@ KRIMINALINĖS ŽVALGYBOS TYRIMAS
 1. Kriminalinės žvalgybos tyrimas atliekamas, kai:
 
 
-1) turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 123 straipsnyje, 123-1 straipsnio 1 dalyje, 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 dalyje, 151 straipsnio 1 dalyje, 151-1, 153, 172, 173, 174, 175 ir 175-1 straipsniuose, 178 straipsnio 2 ir 3 dalyse, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 182 straipsnio 2 dalyje, 182-1 straipsnyje, 183 straipsnio 2 dalyje, 184 straipsnio 2 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 1 ir 2 dalyse, 189-1 straipsnyje, 196 straipsnio 2 dalyje, 197 straipsnio 2 dalyje, 198 straipsnio 2 dalyje, 199 straipsnio 1 ir 2 dalyse, 199-1 straipsnio 1 ir 2 dalyse, 199-2 straipsnio 1 ir 2 dalyse, 200 straipsnio 1 ir 2 dalyse, 207 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 1 dalyje, 226 straipsnio 1 ir 2 dalyse, 227 straipsnio 1 ir 2 dalyse, 228 straipsnio 1 dalyje, 228-1 ir 240 straipsniuose, 246 straipsnio 2 dalyje, 250-1, 250-3 ir 250-6 straipsniuose, 251 straipsnio 1 dalyje, 253 straipsnio 1 dalyje, 253-2 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 266 straipsnio 2 dalyje, 266-1 straipsnio 1 dalyje, 267-2 straipsnio 1 dalyje, 276-4 straipsnio 1 dalyje, 300 straipsnio 2, 3 ir 4 dalyse, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, 308 straipsnio 1 dalyje, 309 straipsnio 3 dalyje, arba apie šias veikas rengiančius, darančius ar padariusius asmenis;
+1) turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 123 straipsnyje, 123^1 straipsnio 1 dalyje, 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 dalyje, 151 straipsnio 1 dalyje, 151^1, 153, 172, 173, 174, 175 ir 175^1 straipsniuose, 178 straipsnio 2 ir 3 dalyse, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 182 straipsnio 2 dalyje, 182^1 straipsnyje, 183 straipsnio 2 dalyje, 184 straipsnio 2 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 1 ir 2 dalyse, 189^1 straipsnyje, 196 straipsnio 2 dalyje, 197 straipsnio 2 dalyje, 198 straipsnio 2 dalyje, 199 straipsnio 1 ir 2 dalyse, 199^1 straipsnio 1 ir 2 dalyse, 199^2 straipsnio 1 ir 2 dalyse, 200 straipsnio 1 ir 2 dalyse, 207 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 1 dalyje, 226 straipsnio 1 ir 2 dalyse, 227 straipsnio 1 ir 2 dalyse, 228 straipsnio 1 ir 2 dalyse, 228^1 ir 240 straipsniuose, 246 straipsnio 2 dalyje, 250^1, 250^3 ir 250^6 straipsniuose, 251 straipsnio 1 dalyje, 253 straipsnio 1 dalyje, 253^2 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 266 straipsnio 2 dalyje, 266^1 straipsnio 1 dalyje, 267^2 straipsnio 1 dalyje, 276^4 straipsnio 1 dalyje, 300 straipsnio 2, 3 ir 4 dalyse, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, 308 straipsnio 1 dalyje, 309 straipsnio 3 dalyje, arba apie šias veikas rengiančius, darančius ar padariusius asmenis;
 Straipsnio punkto pakeitimai:
 Nr. XI-2394, 2012-11-08, Žin., 2012, Nr. 133-6760 (2012-11-17), i. k. 1121010ISTA0XI-2394
 Nr. XII-730, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00066
@@ -623,18 +623,18 @@ Nr. XIII-3075, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14350
 
 
 
-4. Atlikdami kriminalinės žvalgybos tyrimą, kriminalinės žvalgybos subjektai tvarko bylas, kurių kategorijas nustato kriminalinės žvalgybos pagrindinės institucijos, suderinusios su generaliniu prokuroru.9 straipsnis. Informacijos gavimas iš ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas, Lietuvos banko, finansų įmonių ir kredito įstaigų, taip pat iš kitų juridinių asmenų
+4. Atlikdami kriminalinės žvalgybos tyrimą, kriminalinės žvalgybos subjektai tvarko bylas, kurių kategorijas nustato kriminalinės žvalgybos pagrindinės institucijos, suderinusios su generaliniu prokuroru.9 straipsnis. Informacijos gavimas iš ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas, Lietuvos banko, finansų įmonių ir kredito įstaigų, taip pat iš kitų juridinių asmenų
 
 
 1. Kriminalinės žvalgybos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų motyvuotu teikimu apylinkės teismo pirmininkas ar jo įgaliotas teisėjas priima nutartį, kai prašoma:
 
 
-1) gauti informaciją apie elektroninių ryšių paslaugų naudotojų srauto duomenis iš ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas;
+1) gauti informaciją apie elektroninių ryšių paslaugų naudotojų srauto duomenis iš ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas;
 
 
 
 
-2) gauti informaciją apie fizinio ar juridinio asmens ūkines, finansines operacijas, finansinių ir (ar) mokėjimo priemonių panaudojimą iš Lietuvos banko, finansų įmonių ir kredito įstaigų, taip pat iš kitų juridinių asmenų;
+2) gauti informaciją apie fizinio ar juridinio asmens ūkines, finansines operacijas, finansinių ir (ar) mokėjimo priemonių panaudojimą iš Lietuvos banko, finansų įmonių ir kredito įstaigų, taip pat iš kitų juridinių asmenų;
 
 
 
@@ -664,7 +664,7 @@ Nr. XIII-3075, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14350
 
 
 
-2) duomenys ir (ar) motyvai, kuriais pagrindžiamas būtinumas gauti šio straipsnio 1 dalyje nurodytą informaciją, ir siekiamas rezultatas;
+2) duomenys ir (ar) motyvai, kuriais pagrindžiamas būtinumas gauti šio straipsnio 1 dalyje nurodytą informaciją, ir siekiamas rezultatas;
 
 
 
@@ -674,32 +674,22 @@ Nr. XIII-3075, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14350
 
 
 
-
-
 5. Jeigu šio straipsnio 1 dalyje nurodytas teisėjas priima motyvuotą nutartį atsisakyti sankcionuoti šio straipsnio 1 dalyje nurodytos informacijos gavimą, teikimą teikiantis kriminalinės žvalgybos subjekto vadovas ar įgaliotas vadovo pavaduotojas gali apskųsti sprendimą apylinkės teismo pirmininkui. Kai nutartį atsisakyti sankcionuoti šio straipsnio 1 dalyje nurodytą informacijos gavimą priima apylinkės teismo pirmininkas, šis sprendimas gali būti skundžiamas apygardos teismo pirmininkui ar jo įgaliotam teisėjui. Apygardos teismo pirmininko ar jo įgalioto teisėjo sprendimas yra galutinis.
 
 
 
 
-6. Siekiant gauti šio straipsnio 1 dalyje nurodytą informaciją, ūkio subjektams, teikiantiems elektroninių ryšių tinklus ir (ar) paslaugas, Lietuvos bankui, finansų įmonėms ir kredito įstaigoms ar kitiems juridiniams asmenims pateikiamas pranešimas, kuriame nurodomi teikimo numeris, nutarties priėmimo data, nutartį priėmęs teismas ir kokią informaciją prašoma pateikti, o neatidėliotinais atvejais, kai kriminalinės žvalgybos subjekto vadovas ar įgaliotas vadovo pavaduotojas priima nutarimą, pranešime nurodomi nutarimo numeris ir data, nutarimą priėmęs kriminalinės žvalgybos subjektas. Už šio pranešimo turinio atitiktį teismo nutarčiai įstatymų nustatyta tvarka atsako pranešimą teikiantis pareigūnas. Šioje dalyje nurodyti subjektai šio pranešimo turinio negali atskleisti asmenims, dėl kurių pateiktas prašymas. Apie tai pažymima pranešime.
+6. Siekiant gauti šio straipsnio 1 dalyje nurodytą informaciją, ūkio subjektams, teikiantiems elektroninių ryšių tinklus ir (ar) paslaugas, Lietuvos bankui, finansų įmonėms ir kredito įstaigoms ar kitiems juridiniams asmenims pateikiamas pranešimas, kuriame nurodomi teikimo numeris, nutarties priėmimo data, nutartį priėmęs teismas ir kokią informaciją prašoma pateikti, o neatidėliotinais atvejais, kai kriminalinės žvalgybos subjekto vadovas ar įgaliotas vadovo pavaduotojas priima nutarimą, pranešime nurodomi nutarimo numeris ir data, nutarimą priėmęs kriminalinės žvalgybos subjektas. Už šio pranešimo turinio atitiktį teismo nutarčiai įstatymų nustatyta tvarka atsako pranešimą teikiantis pareigūnas. Šioje dalyje nurodyti subjektai šio pranešimo turinio negali atskleisti asmenims, dėl kurių pateiktas prašymas. Apie tai pažymima pranešime.
 
 
 
 
-7. Informacijai, tiesiogiai susijusiai su telefono ryšio numeriais ar elektroninių ryšių tinklo galiniais įrenginiais, telefono ryšio numerio, elektroninio pašto adreso ar tinklo galinio įrenginio priklausomybe, taip pat su fizinio ar juridinio asmens sąskaitų numeriais ar banko sąskaitų arba finansinių ir (ar) mokėjimo priemonių priklausomybe ir asmenimis, kuriems suteikta teisė ja disponuoti, gauti teisės aktų nustatyta tvarka teismo nutartis nereikalinga. Informacija apie elektroninių ryšių paslaugų naudotojų srauto duomenis, ūkines, finansines operacijas, finansinių ir (ar) mokėjimo priemonių panaudojimą, tiesiogiai susijusius su asmeniu, gali būti renkama ir šio asmens prašymu ar sutikimu. Ši informacija teikiama pagal kriminalinės žvalgybos subjektų pareigūnų prašymus. Kai dėl informacijos kreipiamasi asmens prašymu ar sutikimu, pateikiamas ir šio asmens prašymo ar sutikimo nuorašas, patvirtintas prašymą pateikti informaciją pateikiančio pareigūno.
+7. Informacijai, tiesiogiai susijusiai su telefono ryšio numeriais ar elektroninių ryšių tinklo galiniais įrenginiais, telefono ryšio numerio, elektroninio pašto adreso ar tinklo galinio įrenginio priklausomybe, taip pat su fizinio ar juridinio asmens sąskaitų numeriais ar banko sąskaitų arba finansinių ir (ar) mokėjimo priemonių priklausomybe ir asmenimis, kuriems suteikta teisė ja disponuoti, gauti teisės aktų nustatyta tvarka teismo nutartis nereikalinga. Informacija apie elektroninių ryšių paslaugų naudotojų srauto duomenis, ūkines, finansines operacijas, finansinių ir (ar) mokėjimo priemonių panaudojimą, tiesiogiai susijusius su asmeniu, gali būti renkama ir šio asmens prašymu ar sutikimu. Ši informacija teikiama pagal kriminalinės žvalgybos subjektų pareigūnų prašymus. Kai dėl informacijos kreipiamasi asmens prašymu ar sutikimu, pateikiamas ir šio asmens prašymo ar sutikimo nuorašas, patvirtintas prašymą pateikti informaciją pateikiančio pareigūno.
 
 
 
 
-8. Kita kriminalinei žvalgybai reikalinga informacija iš juridinių asmenų, kuriai gauti motyvuota teismo nutartis nereikalinga, gaunama kriminalinės žvalgybos subjekto prašymu.
- 
-
-
-
-
-
-
-10 straipsnis. Techninių priemonių panaudojimas specialia tvarka, slapta pašto siuntų ir jų dokumentų apžiūra, pašto siuntų kontrolė ir paėmimas, susirašinėjimo ir kitokio susižinojimo slapta kontrolė
+8. Kita kriminalinei žvalgybai reikalinga informacija iš juridinių asmenų, kuriai gauti motyvuota teismo nutartis nereikalinga, gaunama kriminalinės žvalgybos subjekto prašymu.10 straipsnis. Techninių priemonių panaudojimas specialia tvarka, slapta pašto siuntų ir jų dokumentų apžiūra, pašto siuntų kontrolė ir paėmimas, susirašinėjimo ir kitokio susižinojimo slapta kontrolė
 
 
 1. Techninių priemonių panaudojimą specialia tvarka, slaptą pašto siuntų ir jų dokumentų apžiūrą, pašto siuntų kontrolę ir paėmimą, susirašinėjimo ir kitokio susižinojimo slaptą kontrolę motyvuota nutartimi sankcionuoja apygardų teismų pirmininkai ar jų įgalioti teisėjai pagal prokurorų motyvuotus teikimus, parengtus pagal kriminalinės žvalgybos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis, kuriais patvirtinamas tokių veiksmų atlikimo būtinumas ir faktinis pagrindas. Elektroninių ryšių tinklais perduodamos asmenų informacijos turinio kontrolė ir jos fiksavimas, net ir žinant apie tokią kontrolę vienam iš jų, reikalauja motyvuotos teismo nutarties, išskyrus atvejus, kai asmuo paprašo arba sutinka su tokia kontrole ar fiksavimu nesinaudojant ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas, paslaugomis ir įrenginiais.
