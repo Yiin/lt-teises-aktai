@@ -419,38 +419,13 @@ Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010IS
 13 straipsnis. Topografijos registravimas ir skelbimas
 
 
-1. Topografija registruojama Lietuvos Respublikos topografijų registre.
+1. Topografijas registruoja Valstybinis patentų biuras.
 
 
 
 
-2. Lietuvos Respublikos topografijų registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, registro tvarkytojas – Valstybinis patentų biuras. Lietuvos Respublikos Vyriausybė gali skirti papildomą registro tvarkytoją. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-266, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06266
- 
-
-
-
-
-3. Lietuvos Respublikos topografijų registro objektų registravimo tvarką, registro duomenų tvarkymą reglamentuoja Lietuvos Respublikos topografijų registro nuostatai.
-
-
-
-
-4. Apie registravimą skelbiama Valstybinio patentų biuro oficialiame biuletenyje.
-
-
-
-
-5. Neteko galios nuo 2017-07-01
-Straipsnio dalies naikinimas:
-Nr. XIII-266, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06266
- 
-
-
-Straipsnio pakeitimai:
-Nr. XI-2398, 2012-11-08, Žin., 2012, Nr. 135-6872 (2012-11-22), i. k. 1121010ISTA0XI-2398
- 
+2. Apie topografijų registravimą skelbiama Valstybinio patentų biuro oficialiame biuletenyje.
+ 
 
 
 
@@ -527,20 +502,22 @@ IŠIMTINIŲ TEISIŲ PERDAVIMAS
 
 
 
-2. Išimtinių teisių į topografiją perdavimo sutartis galioja tik įrašius sutartį į Lietuvos Respublikos topografijų registrą.
-
-
-
-
-3. Išimtinės teisės į topografiją gali būti paveldimos įstatymų nustatyta tvarka.
- 
-
-
+2. Išimtinės teisės į topografiją gali būti paveldimos įstatymų nustatyta tvarka.
+ 
 
 
 
 
 17 straipsnis. Licencijos naudoti topografiją suteikimas
+
+
+1. Topografijos savininkas turi teisę suteikti kitam asmeniui išimtinę ar neišimtinę licenciją naudoti topografiją.
+ 
+
+
+
+
+V SKYRIUSncijos naudoti topografiją suteikimas
 
 
 1. Topografijos savininkas turi teisę suteikti kitam asmeniui išimtinę ar neišimtinę licenciją naudoti topografiją.
