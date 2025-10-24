@@ -985,11 +985,9 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 
 11 straipsnis. Paslaugos gavėjams suteiktina informacija
 
-
 Tais atvejais, kai paslauga teikiama naudojant įsisteigimo valstybės narės suteiktą profesinį vardą arba naudojantis paslaugos teikėjo kvalifikacija, kompetentinga institucija gali reikalauti, kad paslaugos teikėjas suteiktų paslaugos gavėjui tokią informaciją:
 
-
-1) registro, kuriame jis įregistruotas, pavadinimą, jo registracijos numerį arba lygiavertes tame registre nurodytas tapatumo nustatymo priemones, jeigu paslaugos teikėjas yra įregistruotas komerciniame registre ar panašiame viešajame registre;
+1) valstybės narės, išskyrus Lietuvos Respubliką, registro, kuriame jis įregistruotas, pavadinimą, jo registracijos numerį arba lygiavertes tame registre nurodytas tapatumo nustatymo priemones, jeigu paslaugos teikėjas yra įregistruotas komerciniame registre ar panašiame viešajame registre;
 
 
 
@@ -2011,13 +2009,9 @@ Nr. XIV-3013, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17778
 
 6. Asmuo, baigęs bendrosios praktikos slaugytojų rengimą, privalo turėti tokių žinių ir įgūdžių: 
 
-
 1) išsamių mokslų, kuriais grindžiama bendroji slauga, žinių ir pakankamą supratimą apie sveiko ir sergančio žmogaus sandarą, fiziologines funkcijas ir elgseną, taip pat ryšį tarp asmens sveikatos būklės ir fizinės bei socialinės aplinkos;
 
-
-
-
-2) žinių apie profesijos pobūdį bei etiką ir bendruosius sveikatos priežiūros bei slaugos principus;
+2) žinių apie bendrosios praktikos slaugytojo profesijos pobūdį bei etiką ir bendruosius sveikatos priežiūros bei slaugos principus;
 
 
 
@@ -2078,6 +2072,12 @@ Nr. XIV-3013, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17778
 
 
 8) gebėti analizuoti teikiamo slaugymo kokybę, siekdamas gerinti savo kaip bendrosios praktikos slaugytojo profesinę praktiką.
+
+6) gebėjimą teikti individualizuotą slaugą ir įgalinti pacientus, jų giminaičius ir kitus susijusius asmenis veiksmingai užsiimti savirūpa ir taikyti sveikos gyvensenos principus;
+
+7) gebėjimą plėtoti veiksmingą lyderystės metodą, taip pat sprendimų priėmimo įgūdžių;
+
+8) žinių apie technines inovacijas, susijusias su sveikatos priežiūra ir slaugos metodais.
  
 
 
@@ -2220,6 +2220,8 @@ GYDYTOJAI ODONTOLOGAI
 
 
 5) atitinkamą klinikinę patirtį esant tinkamai priežiūrai.
+
+6) pakankamai skaitmeninės odontologijos žinių ir gerai suprasti jos naudojimą ir saugų taikymą praktikoje.
 
 
 
@@ -2722,30 +2724,25 @@ VAISTININKAI
 
 
 
-4. Asmuo, baigęs vaistininkų rengimą, privalo turėti pakankamai žinių ir įgūdžių apie:
+4. Asmuo, baigęs vaistininkų rengimą, privalo turėti tokių žinių ir įgūdžių:
 
+1) pakankamai žinių apie vaistinius preparatus ir jiems gaminti naudojamas medžiagas;
 
-1) vaistinius preparatus ir jiems gaminti naudojamas medžiagas;
+2) pakankamai žinių apie vaistinių preparatų gamybos technologiją ir fizinius, cheminius, biologinius ir mikrobiologinius vaistinių preparatų tyrimus;
 
+3) pakankamai žinių apie metabolizmą, vaistinių preparatų ir toksinių medžiagų poveikį organizmui ir vaistinių preparatų vartojimą;
 
+4) pakankamai žinių vertinti mokslinius duomenis apie vaistinius preparatus, kad gebėtų suteikti reikiamą informaciją apie šiuos preparatus, remdamasi savo žiniomis;
 
+5) pakankamai žinių apie teisinius ir kitus reikalavimus, kuriuos reikia išmanyti siekiant užsiimti farmacine veikla;
 
-2) vaistinių preparatų gamybos technologiją ir fizinius, cheminius, biologinius ir mikrobiologinius vaistinių preparatų tyrimus;
+6) pakankamai žinių apie klinikinę farmaciją ir farmacinę rūpybą, taip pat jų praktinio taikymo įgūdžių;
 
+7) pakankamai žinių ir įgūdžių, susijusių su visuomenės sveikata ir jos poveikiu sveikatinimui ir ligų valdymui;
 
+8) pakankamai žinių ir įgūdžių, susijusių su tarpdalykiniu ir daugiadalykiu bendradarbiavimu, tarpšakine praktika ir komunikacija;
 
-
-3) metabolizmą, vaistinių preparatų ir toksinių medžiagų poveikį organizmui ir vaistinių preparatų vartojimą;
-
-
-
-
-4) mokslinius duomenis apie vaistinius preparatus, kurie leidžia suteikti teisingą informaciją apie vaistinius preparatus;
-
-
-
-
-5) teisinius ir kitus reikalavimus, kuriuos reikia išmanyti siekiant užsiimti farmacine veikla.
+9) pakankamai žinių apie informacines ir skaitmenines technologijas, reikalingas jo veikloje, ir jų praktinio taikymo įgūdžių.
  
 
 
@@ -12621,10 +12618,9 @@ kvalifikacijų pripažinimo įstatymo
 6 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
- 
+ 
 
-
-1. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/36/EB dėl profesinių kvalifikacijų pripažinimo su paskutiniais pakeitimais, padarytais 2024 m. vasario 7 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/505.
+1. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/36/EB dėl profesinių kvalifikacijų pripažinimo su paskutiniais pakeitimais, padarytais 2024 m. kovo 5 d. Komisijos deleguotuoju sprendimu (ES) 2024/1395.
 Punkto pakeitimai:
 Nr. XIV-3013, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17778
  
