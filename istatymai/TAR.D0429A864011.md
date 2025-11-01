@@ -34,7 +34,9 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-Šis įstatymas nustato melioracijos statinių nuosavybės santykius, žemės savininkų ir kitų naudotojų teises ir pareigas, susijusias su melioracijos statinių statyba, naudojimu ir apsauga, taip pat melioracijos organizavimą, valdymą, projektavimą, ekspertizę, melioruotos žemės ir melioracijos statinių apskaitą, melioracijos statinių nurašymą bei melioracijos finansavimo tvarką.2 straipsnis. Pagrindinės šio Įstatymo sąvokos
+Šis įstatymas nustato melioracijos statinių nuosavybės santykius, žemės savininkų ir kitų naudotojų teises ir pareigas, susijusias su melioracijos statinių statyba, naudojimu ir apsauga, taip pat melioracijos organizavimą, valdymą, projektavimą, ekspertizę, melioruotos žemės ir melioracijos statinių apskaitą, melioracijos statinių nurašymą bei melioracijos finansavimo tvarką.
+
+2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
 1. Bendro naudojimo melioracijos sistema – grupė melioracijos statinių, esančių dviejų ar daugiau melioruotos žemės savininkų ar kitų naudotojų žemės sklypuose.
@@ -62,12 +64,14 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Melioruota žemė – žemės sklypas su įrengta ir veikiančia melioracijos sistema bei įgyvendintomis kultūrtechninėmis, agromelioracinėmis ir kitomis priemonėmis, sudarančiomis palankias sąlygas žemdirbystei vystyti.
+6. Melioruota žemė – žemės plotas, kuriame drėgmės režimas reguliuojamas melioracijos sistema.
 
 
 
 
 7. Ūkinė melioracijos sistema – grupė melioracijos statinių, esančių viename melioruotos žemės sklype.
+
+8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos žemės įstatyme.
  
 
 
@@ -221,10 +225,6 @@ Nr. XIII-3131, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15376
 2. Žemės ūkio ministro įgaliota institucija žemės ūkio ministro nustatyta tvarka:
 1) atlieka melioracijos darbų ir melioracijos statinių naudojimo valstybinę priežiūrą;
 2) kontroliuoja ir koordinuoja valstybei nuosavybės teise priklausančių melioracijos statinių rekonstravimo darbų investicijų projektų, finansuojamų valstybės biudžeto, Europos Sąjungos struktūrinių fondų ir kitomis teisėtai gautomis lėšomis, rengimą.
-Straipsnio dalies pakeitimai:
-Nr. XI-787, 2010-04-27, Žin., 2010, Nr. 54-2650 (2010-05-11), i. k. 1101010ISTA00XI-787
-Nr. XIV-1308, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15635
-Nr. XIV-2069, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12752
  
 
 
