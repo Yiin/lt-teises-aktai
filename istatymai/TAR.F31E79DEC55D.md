@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2025-07-01 iki 2025-10-31
+Suvestinė redakcija nuo 2025-11-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -6342,6 +6342,14 @@ Nr. XIV-2522, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06309
 2. Su šio įstatymo 24, 27, 272, 28, 37 ir 39 straipsniuose nurodytomis procedūromis susiję rašytinių dokumentų duomenys turi atitikti Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ įregistruotus šių dokumentų duomenis. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
+
+
+
+
+21. Duomenys apie pastatus, jų naudojimą, techninę priežiūrą, naudojimo priežiūrą, pastatų bendrojo naudojimo objektus, šių objektų valdymą ir valdymo priežiūrą teikiami į Pastatų duomenų banko informacinę sistemą aplinkos ministro tvirtinamuose Pastatų duomenų banko informacinės sistemos nuostatuose nustatyta tvarka arba kita aplinkos ministro nustatyta tvarka. Pastatų duomenų banko informacinė sistema pasiekiama ir paslaugos teikiamos tik per TPS „Vartai“. Per TPS „Vartai“ Pastatų duomenų banko informacinėje sistemoje skelbiami bendrojo naudojimo objektų valdytojų duomenys: juridinio asmens pavadinimas, kodas, atstovo vardas, pavardė, ryšio numeris ir elektroninio pašto adresas arba fizinio asmens vardas, pavardė, ryšio numeris ir elektroninio pašto adresas.
+Papildyta straipsnio dalimi:
+Nr. XIV-2994, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17764
  
 
 
