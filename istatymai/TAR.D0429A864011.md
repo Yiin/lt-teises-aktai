@@ -34,16 +34,7 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-
-Šis Įstatymas nustato melioracijos statinių nuosavybės santykius, žemės savininkų ir kitų naudotojų teises ir pareigas, susijusias su melioracijos statinių statyba, naudojimu ir apsauga, taip pat melioracijos organizavimą, valdymą, projektavimą, ekspertizę, melioruotos žemės ir melioracijos statinių apskaitą bei melioracijos finansavimo tvarką. 
- 
-
-
-
-
-
-
-2 straipsnis. Pagrindinės šio Įstatymo sąvokos
+Šis įstatymas nustato melioracijos statinių nuosavybės santykius, žemės savininkų ir kitų naudotojų teises ir pareigas, susijusias su melioracijos statinių statyba, naudojimu ir apsauga, taip pat melioracijos organizavimą, valdymą, projektavimą, ekspertizę, melioruotos žemės ir melioracijos statinių apskaitą, melioracijos statinių nurašymą bei melioracijos finansavimo tvarką.2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
 1. Bendro naudojimo melioracijos sistema – grupė melioracijos statinių, esančių dviejų ar daugiau melioruotos žemės savininkų ar kitų naudotojų žemės sklypuose.
@@ -219,20 +210,22 @@ MELIORACIJOS PROJEKTAVIMAS, STATYBA, EKSPERTIZĖ, MELIORUOTOS ŽEMĖS IR MELIORA
 7 straipsnis. Melioracijos organizavimas ir valdymas
 
 
-1. Žemės ūkio ministerija rengia Vyriausybės tvirtinamas nacionalines plėtros programas, kuriose planuojamos melioracijos priemonės, organizuoja, koordinuoja ir kontroliuoja  šių priemonių įgyvendinimą, nustato melioracijos prioritetus, koordinuoja melioracijos darbų ir melioracijos statinių naudojimo valstybinę priežiūrą, melioruotos žemės ir melioracijos statinių apskaitos tvarkymą bei valstybei nuosavybės teise priklausančius melioracijos statinius patikėjimo teise valdančių institucijų veiklą šioje srityje, kartu su Aplinkos ministerija, kuriai pagal Statybos įstatymą pavesta rengti statybos techninius reglamentus, rengia melioracijos statinių projektavimo, statybos, statinio pripažinimo tinkamu naudoti normatyvinius dokumentus ir juos tvirtina, nustato melioracijos statinių techninių dokumentų pateikimo melioruotos žemės savininkams ar kitiems naudotojams tvarką.
+1. Žemės ūkio ministerija rengia Vyriausybės tvirtinamas nacionalines plėtros programas, kuriose planuojamos melioracijos priemonės, organizuoja, koordinuoja ir kontroliuoja  šių priemonių įgyvendinimą, nustato melioracijos prioritetus, koordinuoja melioracijos darbų ir melioracijos statinių naudojimo valstybinę priežiūrą, melioruotos žemės ir melioracijos statinių apskaitos tvarkymą bei valstybei nuosavybės teise priklausančius melioracijos statinius patikėjimo teise valdančių institucijų veiklą šioje srityje, kartu su Aplinkos ministerija, kuriai pagal Statybos įstatymą pavesta rengti statybos techninius reglamentus, rengia melioracijos statinių projektavimo, statybos, statinio pripažinimo tinkamu naudoti normatyvinius dokumentus ir juos tvirtina, nustato melioracijos statinių techninių dokumentų pateikimo melioruotos žemės savininkams ar kitiems naudotojams tvarką.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3131, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15376
- 
+ 
 
 
 
 
-2. Melioracijos darbų ir melioracijos statinių naudojimo valstybinę priežiūrą atlieka žemės ūkio ministro įgaliota institucija.
+2. Žemės ūkio ministro įgaliota institucija žemės ūkio ministro nustatyta tvarka:
+1) atlieka melioracijos darbų ir melioracijos statinių naudojimo valstybinę priežiūrą;
+2) kontroliuoja ir koordinuoja valstybei nuosavybės teise priklausančių melioracijos statinių rekonstravimo darbų investicijų projektų, finansuojamų valstybės biudžeto, Europos Sąjungos struktūrinių fondų ir kitomis teisėtai gautomis lėšomis, rengimą.
 Straipsnio dalies pakeitimai:
 Nr. XI-787, 2010-04-27, Žin., 2010, Nr. 54-2650 (2010-05-11), i. k. 1101010ISTA00XI-787
 Nr. XIV-1308, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15635
 Nr. XIV-2069, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12752
- 
+ 
 
 
 
@@ -242,15 +235,7 @@ Nr. XIV-2069, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12752
 
 
 
-4. Naujų melioracijos statinių, išskyrus nurodytų šio Įstatymo 3 straipsnio 2 dalyje, statybą, esamų rekonstravimą, remontą ir priežiūrą organizuoja žemės savininkai.
- 
-
-
-
-
-
-
-8 straipsnis. Melioracijos statinių projektavimas, statyba ir ekspertizė
+4. Naujų melioracijos statinių, išskyrus nurodytų šio Įstatymo 3 straipsnio 2 dalyje, statybą, esamų rekonstravimą, remontą ir priežiūrą organizuoja žemės savininkai.8 straipsnis. Melioracijos statinių projektavimas, statyba ir ekspertizė
 
 
 1. Melioracijos statinio projektavimas, melioracijos statinio projekto ir melioracijos statinio ekspertizė, statyba, statybos techninė priežiūra, projekto vykdymo priežiūra, statinio pripažinimas tinkamu naudoti bei valstybinė priežiūra atliekama įstatymų nustatyta tvarka.
@@ -277,24 +262,13 @@ Nr. XI-787, 2010-04-27, Žin., 2010, Nr. 54-2650 (2010-05-11), i. k. 1101010ISTA
 
 
 9 straipsnis. Melioruotos žemės ir melioracijos statinių apskaita
-
-
-Melioruotos žemės ir melioracijos statinių apskaita yra sudėtinė žemės informacinės sistemos dalis ir apima visumą žinių apie teisinę, geografinę ir ūkinę melioruotos žemės ir melioracijos statinių būklę. Melioruotos žemės ir melioracijos statinių apskaitos tvarką nustato Žemės ūkio ministerija.
- 
-
-
-
-
-
-
-
-
+Melioruotos žemės ir melioracijos statinių apskaita yra sudedamoji Žemės įstatymo 35 straipsnio 2 dalies 3 punkte nurodyto rinkinio dalis. Melioruotos žemės ir melioracijos statinių apskaitos tvarką nustato žemės ūkio ministras.
+ 
+ 
+ 
+ 
 V SKYRIUS
-MELIORACIJOS FINANSAVIMAS
- 
-
-
-10 straipsnis. Melioracijos finansavimas
+MELIORACIJOS FINANSAVIMAS10 straipsnis. Melioracijos finansavimas
 
 
 1. Valstybei nuosavybės teise priklausančių melioracijos statinių priežiūros, remonto, rekonstravimo darbus finansuoja valstybė. Seimas tvirtina biudžeto asignavimus melioracijos darbams pagal tikslinę paskirtį.
@@ -374,3 +348,11 @@ Lietuvos Respublikos melioracijos įstatymo Nr. I-323 7 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2069, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12752
 Lietuvos Respublikos melioracijos įstatymo Nr. I-323 7 straipsnio pakeitimo įstatymas
+
+VI SKYRIUS
+MELIORACIJOS STATINIŲ NURAŠYMAS
+11 straipsnis. Melioracijos statinių nurašymas
+1. Nurašyti valstybei nuosavybės teise priklausantys urbanizuotose ir (ar) urbanizuojamose teritorijose esantys drenažo rinktuvai, kurie statybos metu buvo įrengti iš aplinkai ir žmogaus sveikatai nekenksmingų medžiagų ir kurių išardymo išlaidos viršija liekamųjų medžiagų vertę, neišardomi, paliekami savaime sunykti.
+2. Nurašyti valstybei nuosavybės teise priklausantys grioviai ir (ar) sureguliuoti upeliai neišardomi, paliekami savaime atsikurti.
+3. Pagrindinė žemės ūkio paskirties žemės naudojimo paskirtis, išskyrus šio straipsnio 1 dalyje nustatytą atvejį, keičiama tik nurašius, išardžius bei likvidavus šio įstatymo 3 straipsnio 2 dalyje nurodytus valstybei nuosavybės teise priklausančius urbanizuotose ir (ar) urbanizuojamose teritorijose esančius melioracijos statinius ir savivaldybės tarybai priėmus sprendimą dėl šių melioracijos statinių likvidavimo. Jeigu keičiant pagrindinę žemės ūkio paskirties žemės naudojimo paskirtį šio įstatymo 3 straipsnio 2 dalyje nurodytų valstybei nuosavybės teise priklausančių melioracijos statinių išardymas bei likvidavimas darys žalą kitų asmenų interesams, turtui ir (ar) gamtinei aplinkai, šiuos melioracijos statinius privačios žemės savininkas, savivaldybė ar valstybinės žemės naudotojas privalo iškelti į kitą vietą arba kitaip pertvarkyti parengęs melioracijos statinių iškėlimo projektą vadovaudamasis žemės ūkio ministro nustatyta tvarka.
+4. Nurašius melioracijos statinius, melioracijos statiniai ir melioruota žemė išbraukiami iš melioruotos žemės ir melioracijos statinių apskaitos.
