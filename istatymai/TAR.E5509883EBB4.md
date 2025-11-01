@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2025-07-01 iki 2025-10-31
+Suvestinė redakcija nuo 2025-11-01 iki 2026-04-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
  
@@ -231,65 +231,81 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 
 
 
-26. Specialusis žaidimo automato ženklas – ant žaidimo automato sienelės tvirtinamas lipdukas, kuriuo patvirtinama, kad žaidimo automatas turi žaidimo automato pasą. 
+26. Specialusis žaidimo automato ženklas – ant žaidimo automato sienelės tvirtinamas lipdukas, kuriuo patvirtinama, kad žaidimo automatas turi žaidimo automato pasą.
 Papildyta straipsnio dalimi:
 Nr. XIII-1886, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00021
+Straipsnio dalies pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
 
 
-26. Automato kreditas (toliau – kreditas) – pinigų suma, išreikšta automato programinės įrangos nustatytais lošimo vienetais. 
+261. Automato kreditas (toliau – kreditas) – pinigų suma, išreikšta automato programinės įrangos nustatytais lošimo vienetais.
 Papildyta straipsnio dalimi:
 Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
+Straipsnio dalies pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
 
 
-27. Žaidimo automatas – mechaninis, elektroninis arba elektromechaninis įrenginys, kuriuo teisė pradėti žaisti įgyjama įmetus žaidimo žetoną ir (ar) pinigus ir kuriuo žaidžiant, priklausomai nuo žaidėjo gebėjimų, galima laimėti galimybę žaisti tam tikrą laiką ir (ar) laimėti daiktinį 30 eurų vertės neviršijantį laimėjimą arba žaidimo žetoną, kuriuo galima papildomą laiką žaisti žaidimo automatu ar kurį galima pakeisti į daiktinį 30 eurų vertės neviršijantį laimėjimą. 
+27. Žaidimo automatas – mechaninis, elektroninis arba elektromechaninis įrenginys, kuriuo teisė pradėti žaisti įgyjama įmetus žaidimo žetoną ir (ar) pinigus ir kuriuo žaidžiant, priklausomai nuo žaidėjo gebėjimų, galima laimėti galimybę žaisti tam tikrą laiką ir (ar) laimėti daiktinį 30 eurų vertės neviršijantį laimėjimą arba žaidimo žetoną, kuriuo galima papildomą laiką žaisti žaidimo automatu ar kurį galima pakeisti į daiktinį 30 eurų vertės neviršijantį laimėjimą.
 Papildyta straipsnio dalimi:
 Nr. XIII-1886, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00021
+Straipsnio dalies pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
 
 
-27. Automato veikimo duomenys (toliau – veikimo duomenys) – duomenys apie automato programinės įrangos versiją, automato įjungimo ir išjungimo momento fiksavimą, automato durelių atidarymo ir uždarymo momento fiksavimą lošimų organizavimo vietoje. 
+271. Automato veikimo duomenys (toliau – veikimo duomenys) – duomenys apie automato programinės įrangos versiją, automato įjungimo ir išjungimo momento fiksavimą, automato durelių atidarymo ir uždarymo momento fiksavimą lošimų organizavimo vietoje.
 Papildyta straipsnio dalimi:
 Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
+Straipsnio dalies pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
 
 
-28. Žaidimo automato pasas – dokumentas, kuriame nurodomi žaidimo automato duomenys: žaidimo automato modelis, gamintojas ir gamyklinis numeris, žaidimo (žaidimų) pavadinimas (pavadinimai), elektroninių skaitiklių apsaugos būdai, mechaninių skaitiklių plombavimo vietos ir plombų skaičius, taip pat patvirtinama žaidimo automato atitiktis šiame įstatyme nustatytiems reikalavimams. 
+28. Žaidimo automato pasas – dokumentas, kuriame nurodomi žaidimo automato duomenys: žaidimo automato modelis, gamintojas ir gamyklinis numeris, žaidimo (žaidimų) pavadinimas (pavadinimai), elektroninių skaitiklių apsaugos būdai, mechaninių skaitiklių plombavimo vietos ir plombų skaičius, taip pat patvirtinama žaidimo automato atitiktis šiame įstatyme nustatytiems reikalavimams.
 Papildyta straipsnio dalimi:
 Nr. XIII-1886, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00021
+Straipsnio dalies pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
 
 
-28. Automatų kontrolės informacinė sistema (toliau – LAKIS) – Priežiūros tarnybos įsteigta ir valdoma valstybės informacinė sistema, skirta tvarkyti elektroninės automatų duomenų valdymo sistemos jai perduodamiems duomenims, kurie reikalingi automatų atitikčiai šio įstatymo 16 straipsnyje nustatytiems reikalavimams kontroliuoti, taip pat tvarkyti lošimus lošimo namuose (kazino) organizuojančių bendrovių jai perduodamiems prie lošimo stalų įmokėtų sumų ir žetonų inventorizacijos rezultatų duomenims. 
+281. Neteko galios nuo 2025-11-01.
 Papildyta straipsnio dalimi:
 Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
+Straipsnio dalies pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
 
 
-29. Žaidimų žaidimo automatais organizatorius – Lietuvos Respublikoje įsteigtas juridinis asmuo, Lietuvos Respublikoje įstatymų nustatyta tvarka įsteigtas užsienio juridinio asmens filialas arba fizinis asmuo, kuris teisės aktų nustatyta tvarka verčiasi individualia veikla. 
+29. Žaidimų žaidimo automatais organizatorius – Lietuvos Respublikoje įsteigtas juridinis asmuo, Lietuvos Respublikoje įstatymų nustatyta tvarka įsteigtas užsienio juridinio asmens filialas arba fizinis asmuo, kuris teisės aktų nustatyta tvarka verčiasi individualia veikla.
 Papildyta straipsnio dalimi:
 Nr. XIII-1886, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00021
+Straipsnio dalies pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
 
 
-29. Elektroninė automatų duomenų valdymo sistema – lošimus organizuojančios bendrovės naudojama elektroninė sistema, skirta automatų identifikaciniams (automato serija ir numeris), veikimo ir elektroninių skaitiklių duomenims tvarkyti ir perduoti LAKIS. 
+291. Elektroninė automatų duomenų valdymo sistema – lošimus organizuojančios bendrovės naudojama elektroninė sistema, skirta automatų identifikaciniams (automato serija ir numeris), veikimo ir elektroninių skaitiklių duomenims tvarkyti ir perduoti Automatų kontrolės informacinei sistemai. 
 Papildyta straipsnio dalimi:
 Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
+Straipsnio dalies pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
@@ -311,11 +327,29 @@ Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
 
 
 
-31. Šiame įstatyme vartojama sąvoka „kontroliuojantis asmuo“ suprantama taip, kaip Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme apibrėžiama sąvoka „naudos gavėjas“. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos mokėjimų įstatyme.
+31. Nuotolinio lošimo platforma (toliau – platforma) – visuma programinių priemonių nuotoliniams lošimams organizuoti. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
+
+
+
+
+32. Probleminis lošimas – pasikartojantis elgesys, kai sumažėja arba išnyksta lošėjo galimybė kontroliuoti lošimo pradžią, pabaigą ar intensyvumą ir lošiama nepaisant žalingų pasekmių savo fizinei ir psichikos sveikatai, socialinei, finansinei padėčiai ar kitų žmonių interesams. 
+Papildyta straipsnio dalimi:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
+
+
+
+
+33. Šiame įstatyme vartojama sąvoka „kontroliuojantis asmuo“ suprantama taip, kaip Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme apibrėžiama sąvoka „naudos gavėjas“. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos mokėjimų įstatyme.
 Papildyta straipsnio dalimi:
 Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
 Straipsnio dalies pakeitimai:
 Nr. XV-107, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00717
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
@@ -927,7 +961,10 @@ Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
 
 
 
-3) užtikrinti lošėjus aptarnaujančio personalo kompetenciją ir profesionalumą. Lošimų organizatorius gali priimti asmenį į darbą tik gavęs iš Įtariamųjų, kaltinamųjų ir nuteistųjų registro informaciją, kad asmuo nėra teistas už nusikalstamas veikas, nurodytas šio įstatymo 11 straipsnio 3 dalies 1 punkte;
+3) užtikrinti lošėjus aptarnaujančio personalo kompetenciją, profesionalumą ir kvalifikaciją. Lošimų organizatorius gali priimti asmenį į darbą tik gavęs iš Įtariamųjų, kaltinamųjų ir nuteistųjų registro informaciją, kad asmuo nėra teistas už nusikalstamas veikas, nurodytas šio įstatymo 11 straipsnio 3 dalies 1 punkte. Lošimų organizatorius lošėjus aptarnaujantiems asmenims ne rečiau kaip kartą per metus turi organizuoti atsakingo lošimo organizavimo ir pinigų plovimo prevencijos mokymus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
 
 
 
@@ -1189,7 +1226,9 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 
 
 
-7. Draudžiama eksploatuoti neturinčius sertifikato ir nepaženklintus lošimo įrenginius, kaip tai numatyta šio įstatymo 16 straipsnio 5, 51 ir 6 dalyse. 
+7. Neteko galios nuo 2025-11-01
+Straipsnio dalies naikinimas:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 Straipsnio dalies pakeitimai:
 Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
  
@@ -1264,9 +1303,11 @@ Nr. XIII-2147, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09400
 
 
 
-92. Skelbiant šio straipsnio 9 dalyje nurodytą reklamą turi būti pateiktas įspėjamasis užrašas apie tai, kad dalyvaujant azartiniuose lošimuose gali atsirasti priklausomybė nuo azartinių lošimų ar patologinis potraukis lošti. Įspėjamojo užrašo turinį ir jo pateikimo reklamoje taisykles nustato Priežiūros tarnyba.
+92. Skelbiant šio straipsnio 9 dalyje nurodytą reklamą turi būti pateikti šio įstatymo 104 straipsnio 2 punkte nurodyti informaciniai pranešimai. Informacinių pranešimų turinį ir jų pateikimo reklamoje taisykles nustato Priežiūros tarnyba. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2871, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09590
+Straipsnio dalies pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
@@ -1316,10 +1357,11 @@ Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
 
 
 
-10. Draudžiama į lošimo automatų ir bingo salonus, lažybų ir totalizatorių punktus įleisti jaunesnius kaip 18 metų asmenis, taip pat asmenis, nepateikusius asmens tapatybę patvirtinančio dokumento, ir leisti jaunesniems kaip 18 metų asmenims dalyvauti nuotoliniuose lošimuose. Lošimus, organizuojamus lošimo namuose (kazino), įskaitant šiuos lošimus, organizuojamus ir nuotoliniu būdu, gali lošti asmenys, kuriems yra sukakę 21 metai. Draudžiama jaunesnius kaip 21 metų asmenis įleisti į lošimo namus (kazino). Draudžiama įleisti į lošimo namus (kazino) asmenis, turinčius ginklų, išskyrus asmenis, saugančius lošimo namus (kazino), ir pareigūnus, įstatymų nustatyta tvarka vykdančius tarnybines funkcijas. Šioje dalyje nustatytų reikalavimų laikymąsi privalo užtikrinti lošimų organizatorius. 
+10. Draudžiama į lošimo namus (kazino), lošimo automatų ir bingo salonus, lažybų ir totalizatorių punktus įleisti jaunesnius kaip 21 metų asmenis, taip pat asmenis, nepateikusius asmens tapatybę patvirtinančio dokumento, ir leisti jaunesniems kaip 21 metų asmenims dalyvauti nuotoliniuose lošimuose. Draudžiama įleisti į lošimo namus (kazino) asmenis, turinčius ginklų, išskyrus asmenis, saugančius lošimo namus (kazino), ir pareigūnus, įstatymų nustatyta tvarka atliekančius tarnybines funkcijas. Šioje dalyje nustatytų reikalavimų laikymąsi privalo užtikrinti lošimų organizatorius.
 Straipsnio dalies pakeitimai:
 Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 Nr. XIII-2147, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09400
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
@@ -1437,7 +1479,10 @@ Nr. XI-1578, 2011-09-15, Žin., 2011, Nr. 119-5611 (2011-10-01)
 101 straipsnis. Įspėjamieji užrašai
 
 
-1. Lošimų organizavimo vietose privalo būti iškabinti (nurodyti) įspėjamieji užrašai apie tai, kad dalyvaujant lošimuose gali atsirasti priklausomybė nuo lošimų ar patologinis potraukis lošti, apie draudimą dalyvauti lošimuose nepilnamečiams ir kitiems asmenims, kuriems draudžiama dalyvauti lošimuose ar būti lošimo patalpose pagal šį įstatymą. Lošimų organizavimo vietose privalo būti nurodyta informacija apie asmens galimybę gauti pažymą apie lošimo laimėjimo išmokėjimą. Su šia informacija privalo būti supažindinti nuotoliniuose lošimuose dalyvaujantys asmenys.
+1. Lošimų organizavimo vietose privalo būti iškabinti (nurodyti) įspėjamieji užrašai apie draudimą dalyvauti lošimuose jaunesniems kaip 21 metų amžiaus asmenims ir kitiems asmenims, kuriems draudžiama dalyvauti lošimuose ar būti lošimo patalpose pagal šį įstatymą. Lošimų organizavimo vietose privalo būti nurodyta informacija apie asmens galimybę gauti pažymą apie įmokėtas sumas ir (ar) lošimo laimėjimo išmokėjimą. Su šia informacija privalo būti supažindinti nuotoliniuose lošimuose dalyvaujantys asmenys.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
 
 
 
@@ -1510,6 +1555,69 @@ Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
 
 Papildyta straipsniu:
 Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
+ 
+
+
+
+
+104 straipsnis. Atsakingo lošimo organizavimas
+
+
+Lošimų organizatorius, teikdamas nuotolinio lošimo paslaugas ir lošimo paslaugas lošimo namuose (kazino), automatų, bingo salonuose, lažybų ir totalizatoriaus punktuose, turi taikyti šias atsakingo lošimo organizavimo priemones:
+
+
+1) atsakingo lošimo užtikrinimo kontrolės sistemą – nuolat šio įstatymo nustatyta tvarka veikiantį lošėjų elgesio stebėsenos, probleminio lošimo nustatymo, vertinimo ir valdymo mechanizmą. Tuo tikslu lošimų organizatorius privalo nusistatyti vidaus procedūras, atitinkančias šiame įstatyme ir Priežiūros tarnybos tvirtinamose atsakingo lošimo organizavimo taisyklėse detalizuotus atsakingo lošimo organizavimo priemonių, probleminio lošimo nustatymo ir valdymo, lošimo sumos ir laiko, nurodytų šio straipsnio 3 punkte, kontrolės, lošėjų elgesio stebėsenos, probleminio lošimo rizikos vertinimo, informacijos lošėjams, nurodytos šio straipsnio 2 punkte, turinio, formos ir pateikimo tvarkos, informacijos apie lošimų galimą (daromą) žalą turinio, formos ir pateikimo lošėjui tvarkos ir lošimų organizatoriaus personalo atsakingo lošimo organizavimo ir pinigų plovimo prevencijos mokymų reikalavimus;
+
+
+
+
+2) informavimą apie lošimų riziką. Lošimų organizatorius privalo užtikrinti, kad lošimo namuose (kazino), automatų, bingo salonuose, lažybų ir totalizatoriaus punktuose, taip pat lošimų organizatoriaus, teikiančio nuotolinio lošimo paslaugas, interneto svetainėse ir mobiliosiose programėlėse būtų skelbiami informaciniai pranešimai apie tai, kad dalyvaujant lošimuose gali atsirasti priklausomybė nuo lošimų ar patologinis potraukis lošti, taip pat informaciniai pranešimai apie probleminį lošimą, nurodant būdus ir galimybes gauti pagalbą dėl probleminio lošimo, taip pat galimybę pateikti prašymą Apribojusių savo galimybę lošti asmenų registrui, ir lošimų poveikį lošėjo sveikatai ir gyvenamajai aplinkai, viešajai tvarkai, švietimui, kultūrai;
+
+
+
+
+3) lošimų sumos ir laiko ribojimą. Lošimų organizatorius privalo užtikrinti, kad galimybė dalyvauti nuotoliniame lošime asmeniui suteikiama tik po to, kai:
+
+
+a) lošėjas, prisijungęs prie savo lošimų sąskaitos, nustato dienos, savaitės ir mėnesio lošimų sąskaitos papildymo pinigų sumos ribas. Lošimų organizatorius privalo kontroliuoti, kad lošėjo sąskaitos vieno mėnesio papildymo pinigų sumos ribos atitiktų lošimų organizatoriaus atsakingo lošimo užtikrinimo kontrolės sistemos reikalavimus. Lošimų organizatorius privalo užtikrinti, kad lošėjui pasiekus lošimų sąskaitos papildymo pinigų sumos ribas, galimybė padidinti lošimų sąskaitos papildymo sumas ir dalyvauti nuotoliniame lošime lošėjui būtų suteikiama ne anksčiau kaip po 48 valandų nuo šio prašymo pateikimo lošimų organizatoriui. Taip pat lošimų organizatorius privalo užtikrinti, kad galimybė padidinti savaitės lošimų sąskaitos papildymo pinigų sumos ribas lošėjui būtų suteikiama ne anksčiau kaip kitą savaitę, o galimybė padidinti mėnesio lošimų sąskaitos papildymo pinigų sumos ribas būtų suteikiama ne anksčiau kaip kitą mėnesį;
+
+
+
+
+b) lošėjas, prisijungęs prie savo lošimų sąskaitos, nustato didžiausią vieno statymo sumą ir pinigų sumą, kurią jis gali statyti per tam tikrą laikotarpį arba vieno nenutraukiamo lošimo metu. Lošimų organizatorius privalo užtikrinti, kad, lošėjui pasiekus statomų sumų ribas, galimybė padidinti statymų sumas ir dalyvauti nuotoliniame lošime lošėjui būtų suteikiama ne anksčiau kaip po 48 valandų nuo šio prašymo pateikimo lošimų organizatoriui. Taip pat lošimų organizatorius privalo užtikrinti, kad galimybė padidinti pinigų sumą, kurią lošėjas gali statyti per savaitę, būtų suteikiama ne anksčiau kaip kitą savaitę, o galimybė padidinti pinigų sumą, kurią lošėjas gali statyti per mėnesį, būtų suteikiama ne anksčiau kaip kitą mėnesį;
+
+
+
+
+c) lošėjas nustato vieno prisijungimo prie savo lošimų sąskaitos laiko limitą, kuriam pasibaigus lošėjui nutraukiama galimybė dalyvauti nuotoliniame lošime. Lošimų organizatorius privalo užtikrinti, kad, suėjus laiko limitui, galimybė keisti nusistatytą laiko limitą ir dalyvauti nuotoliniame lošime lošėjui būtų suteikiama ne anksčiau kaip po 48 valandų nuo paskutinio prisijungimo prie savo lošimų sąskaitos momento;
+
+
+
+
+
+
+4) lošimo proceso stebėjimą. Lošimų organizatorius privalo užtikrinti, kad nuotoliniame lošime dalyvaujančiam lošėjui viso jo lošimo metu nuolat aiškiai būtų rodoma informacija, kiek laiko jis dalyvauja lošime, bendra jo atliktų statymų suma ir jo lošimo aktualus rezultatas (laimėjimas arba pralaimėjimas);
+
+
+
+
+5) probleminio lošimo stebėseną. Visuose lošimo namuose (kazino), automatų, bingo salonuose, lažybų ir totalizatoriaus punktuose turi būti paskirtas atsakingas už probleminio lošimo nustatymą asmuo, dirbantis šiose lošimų organizavimo vietose visą jų darbo laiką. Šiose lošimų organizavimo vietose privalo būti pildomas nustatyto probleminio lošimo elektroninės formos registracijos žurnalas, kurio formą, pildymo ir saugojimo tvarką nustato Priežiūros tarnyba. Lošimų organizatorius, teikiantis nuotolinio lošimo paslaugas, privalo paskirti už probleminio lošimo nustatymą lošėjui lošiant nuotolinius lošimus atsakingą asmenį, kuris platformoje fiksuotų šio įstatymo 16 straipsnio 9 dalies 8 punkte nurodytus atsakingo lošimo užtikrinimo kontrolės sistemos analizės rezultatus;
+
+
+
+
+6) lošimo rizikos vertinimą. Lošimų organizatoriaus paskirtas už probleminio lošimo nustatymą atsakingas asmuo, įvertinęs lošėjo dalyvavimą nuotoliniame lošime pagal šio straipsnio 3 punkte numatytas priemones ir (ar) lošimo namuose (kazino), automatų, bingo salonuose, lažybų ir totalizatoriaus punktuose įvertinęs lošėjo lošimą pagal šio straipsnio 5 punkte numatytas priemones ir, vadovaudamasis probleminio lošimo rizikos vertinimo reikalavimais, nustatęs, kad lošėjo lošimas atitinka aukštą probleminio lošimo rizikos vertinimo laipsnį, privalo nedelsdamas, ne vėliau kaip per 30 minučių nuo probleminio lošimo fakto įregistravimo probleminio lošimo registracijos žurnale ar platformoje laiko, informuoti lošėją apie jo probleminį lošimą, būdus ir galimybes gauti pagalbą dėl probleminio lošimo, galimybes apriboti savo lošimą šio įstatymo 10 straipsnio 20 dalyje nustatyta tvarka ir privalo stabdyti lošėjo lošimą 48 valandoms ir nuo lošėjo lošimo sustabdymo momento neįleisti lošėjo į lošimų organizatoriui priklausančias lošimų organizavimo vietas, ir neleisti prisijungti prie lošėjo lošimų sąskaitos;
+
+
+
+
+7) vieningos lošėjo kortelės, nustatančios didžiausią galimą lošimo sumą, kontrolę. Lošėjo kortelė – kiekvienam lošėjui asmeniškai išduota kortelė, kurioje apskaitomi išmokėtų laimėjimų dydžiai ir įmokėtos sumos.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
@@ -1836,7 +1944,73 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 
 
 
-151 straipsnis. Įmokėtų sumų ir žetonų inventorizacija lošimo namuose (kazino)
+151 straipsnis. Automatų kontrolės informacinė sistema
+
+
+1. Automatų kontrolės informacinė sistema (toliau – LAKIS) yra valstybės informacinė sistema, kurios paskirtis:
+
+
+1) tvarkyti elektroninės automatų duomenų valdymo sistemos perduodamus duomenis, kurie reikalingi automatų atitikčiai šio įstatymo 16 straipsnyje nustatytiems reikalavimams kontroliuoti;
+
+
+
+
+2) tvarkyti lošimus lošimo namuose (kazino) organizuojančių bendrovių perduodamus prie lošimo stalų įmokėtų sumų ir žetonų inventorizacijos rezultatų duomenis;
+
+
+
+
+3) tvarkyti lošimo organizatorių platformų duomenis, susijusius su lošimus organizuojančių bendrovių vykdomo atsakingo lošimo organizavimo stebėsena.
+
+
+
+
+
+
+2. LAKIS valdytoja ir LAKIS duomenų valdytoja yra Priežiūros tarnyba.
+
+
+
+
+3. LAKIS tvarkomi šie saugomi duomenys:
+
+
+1) automatų identifikaciniai (automato serija ir numeris) duomenys;
+
+
+
+
+2) automatų veikimo ir elektroninių skaitiklių duomenys;
+
+
+
+
+3) prie lošimo stalų įmokėtų sumų ir žetonų inventorizacijos rezultatų duomenys;
+
+
+
+
+4) platformų duomenys, nurodyti šio įstatymo 16 straipsnio 9 dalies 1, 4, 7, 8, 9 ir 10 punktuose.
+
+
+
+
+
+
+4. LAKIS saugomi lošėjų asmens duomenys laikomi konfidencialiais ir gali būti atskleisti kitiems asmenims, jeigu teisė gauti šią informaciją nustatyta įstatymuose ar jų įgyvendinamuosiuose teisės aktuose.
+
+
+Papildyta straipsniu:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
+
+
+
+
+152 straipsnis. Įmokėtų sumų ir žetonų inventorizacija lošimo namuose (kazino)
+Straipsnio numeracijos pakeitimas:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
 
 
 1. Lošimus lošimo namuose (kazino) organizuojanti bendrovė ne rečiau kaip kartą per parą privalo atlikti inventorizaciją.
@@ -1854,15 +2028,15 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 
 
 
-16 straipsnis. Reikalavimai lošimų įrenginiams 
+16 straipsnis. Reikalavimai lošimų įrenginiams, nuotolinio lošimo įrenginiams ir platformai
 
 
-1. Lietuvos Respublikoje leidžiama pradėti eksploatuoti tik naujus ir nenaudotus lošimo įrenginius, jeigu jie yra pagaminti atitinkamą licenciją (sertifikatą) turinčio gamintojo ir jeigu jų tipai yra Vyriausybės įgaliotos priežiūrą atliekančios institucijos patvirtinti ir įrašyti į Lietuvos lošimo įrenginių registrą Vyriausybės nustatyta tvarka.
+1. Lietuvos Respublikoje leidžiama pradėti eksploatuoti tik naujus ir nenaudotus lošimo įrenginius, jeigu jie yra pagaminti atitinkamą licenciją (sertifikatą) turinčio gamintojo ir jeigu jų tipai yra Vyriausybės nustatyta tvarka patvirtinti Priežiūros tarnybos.
 
 
 
 
-2. A kategorijos automatų laimėjimų fondą turi sudaryti ne mažiau kaip 90 procentų, o B kategorijos automatų – ne mažiau kaip 80 procentų visos įmokų sumos.
+2. A kategorijos automatų laimėjimų fondą turi sudaryti ne mažiau kaip 90 procentų, o B kategorijos automatų – ne mažiau kaip 80 procentų visos įmokų sumos.
 
 
 
@@ -1872,46 +2046,102 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 
 
 
-4. Kiekvienas lošimo įrenginys turi atitikti šio įstatymo ir Priežiūros tarnybos nustatytus ir patvirtintus reikalavimus.
+4. Lošimų organizatorius, organizuojantis nuotolinius lošimus, privalo savo lėšomis įdiegti platformą. Kiekvienas lošimo įrenginys, nuotolinio lošimo įrenginys ir platforma turi atitikti šio įstatymo ir Priežiūros tarnybos nustatytus ir patvirtintus reikalavimus.
 
 
 
 
-5. Kiekvienas lošimo įrenginys ir nuotolinio lošimo įrenginys turi turėti akredituotų įstaigų išduotą sertifikatą, patvirtinantį, kad lošimo įrenginiai atitinka šio įstatymo ir Priežiūros tarnybos nustatytus reikalavimus, lošimo įrenginių ir nuotolinio lošimo įrenginių atitikties šio įstatymo ir Priežiūros tarnybos nustatytiems reikalavimams įvertinimą atlieka ir atitikties sertifikatus išduoda tik akredituotos įstaigos. Priežiūros tarnybos sprendimu gali būti pripažįstamos ne valstybėje narėje akredituotos įstaigos ir jų išduoti sertifikatai. Ne valstybėje narėje akredituotų įstaigų ir jų išduotų sertifikatų pripažinimo tvarką nustato Priežiūros tarnyba. Nuotolinio lošimo įrenginiai ir programinė įranga, kuria apdorojama ryšio priemonėmis pateikta informacija, turi būti įdiegti Lietuvos Respublikoje arba kitoje valstybėje narėje. Atliekant lošimų organizatoriaus veiklos patikrinimą, lošimų organizatorius turi užtikrinti galimybę Priežiūros tarnybai prisijungti prie nuotolinio lošimo įrangos. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
- 
+5. Kiekvienas lošimo įrenginys, nuotolinio lošimo įrenginys ir platforma turi turėti akredituotų įstaigų išduotą sertifikatą, patvirtinantį, kad atitinka šio įstatymo ir Priežiūros tarnybos nustatytus reikalavimus. Lošimo įrenginių, nuotolinio lošimo įrenginių ir platformos atitikties šio įstatymo ir Priežiūros tarnybos nustatytiems reikalavimams įvertinimą atlieka ir atitikties sertifikatus išduoda tik akredituotos įstaigos. Priežiūros tarnybos sprendimu gali būti pripažįstamos ne valstybėje narėje akredituotos įstaigos ir jų išduoti sertifikatai. Ne valstybėje narėje akredituotų įstaigų ir jų išduotų sertifikatų pripažinimo tvarką nustato Priežiūros tarnyba. Nuotolinio lošimo įrenginiai ir platforma turi būti lošimų organizatoriaus nuosavybė arba kitu teisėtu būdu jo valdoma ir įdiegta bei saugoma Lietuvos Respublikoje arba kitoje valstybėje narėje.
 
 
 
 
-51. Draudžiama eksploatuoti neturinčius sertifikato ir nustatyta tvarka nepaženklintus lošimo įrenginius ir nuotolinio lošimo įrenginius. Lietuvos Respublikos teritorijoje draudžiama naudoti šiame įstatyme nenumatytus elektroninius arba mechaninius prietaisus, elektroninių bilietų pardavimo automatus, žaidimų automatus ir kitus įrenginius, forma ar turiniu panašius į lošimo įrenginius, nuotolinio lošimo įrenginius, išskyrus šiame įstatyme nustatytas išimtis.
-Papildyta straipsnio dalimi:
-Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
- 
+6. Lošimo įrenginiai registruojami Lietuvos lošimo įrenginių registre, nuotolinio lošimo įrenginiai ir platformos registruojami nuotolinio lošimo įrenginių registravimo žurnale Priežiūros tarnybos nustatyta tvarka.
 
 
 
 
-6. Kiekvienas lošimo įrenginys, turintis sertifikatą, privalo būti paženklinamas specialiu ženklu Priežiūros tarnybos nustatyta tvarka.
+7. Kiekvienas lošimo įrenginys, nuotolinio lošimo įrenginys ir platforma, turintys sertifikatą, privalo būti paženklinti specialiu ženklu Priežiūros tarnybos nustatyta tvarka. Draudžiama eksploatuoti neturinčius sertifikato ir nustatyta tvarka nepaženklintus lošimo įrenginius, nuotolinio lošimo įrenginius ir platformas. Lietuvos Respublikos teritorijoje draudžiama naudoti šiame įstatyme nenumatytus elektroninius arba mechaninius prietaisus, elektroninių bilietų pardavimo automatus, žaidimų automatus ir kitus įrenginius, forma ar turiniu panašius į lošimo įrenginius, nuotolinio lošimo įrenginius, išskyrus šiame įstatyme nustatytas išimtis.
 
 
 
 
-7. Bendrovė gali keisti arba pradėti naudoti naujus lošimų įrenginius tik įvykdžiusi šio straipsnio 5 ir 6 dalyse nustatytus reikalavimus ir gavusi Priežiūros tarnybos leidimą šio įstatymo nustatyta tvarka.
+8. Nuotolinio lošimo įrenginiuose ir platformoje esančią informaciją lošimų organizatorius privalo saugoti 8 metus nuo nuotolinio lošimo sutarties nutraukimo dienos ir apsaugoti nuo atsitiktinio ar neteisėto sunaikinimo, pakeitimo, atskleidimo, taip pat nuo bet kokio kito neteisėto tvarkymo.
 
 
 
 
-8. Lošimus organizuojanti bendrovė privalo automatus laidinėmis, radijo, optinėmis ar kitomis elektromagnetinėmis priemonėmis sujungti į elektroninę automatų duomenų valdymo sistemą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
- 
+9. Lošimų organizatorius privalo užtikrinti, kad platformoje būtų centralizuotai tvarkoma ir tiesiogiai prieinama ši informacija:
+
+
+1) lošėjo vardas, pavardė, asmens kodas (užsieniečio asmens kodas ar kita užsieniečiui suteikta unikali simbolių seka, skirta asmeniui identifikuoti, o jeigu šių duomenų nėra – užsieniečio gimimo data) ir pilietybė;
 
 
 
 
-9. Kiekvienas automatas turi turėti elektroninius skaitiklius, kurie lošimo metu didėjimo tvarka fiksuotų šiuos automato duomenis:
+2) dokumentų, susijusių su lošėjo asmens tapatybės, lėšų ir turto šaltinio nustatymu, kopijos, dokumentų atnaujinimo data;
+
+
+
+
+3) lošėjo IP adresai;
+
+
+
+
+4) istorija apie lošėjo prisijungimus prie lošėjo lošimų sąskaitos ir atsijungimus nuo jos (data ir laikas);
+
+
+
+
+5) lošėjo nuotolinio lošimo sutartis ir jos pakeitimai;
+
+
+
+
+6) lošėjo nurodytos mokėjimo sąskaitos, į jas išmokėtų laimėjimų dydžiai bei sumos, kuriomis buvo pildoma lošėjo lošimų sąskaita;
+
+
+
+
+7) lošėjui taikomi (nusistatyti) apribojimai, limitai, nurodyti šio įstatymo 104 straipsnio 3 punkte;
+
+
+
+
+8) komunikacija su lošėju, atsakingo lošimo užtikrinimo kontrolės sistemos analizės rezultatai;
+
+
+
+
+9) jeigu finansinės operacijos atmetamos, – aprašomasis pranešimas, kodėl operacija nebuvo užbaigta taip, kaip buvo inicijuota;
+
+
+
+
+10) lošėjo lošimų balansas (data, laikas, į lošėjo lošimų sąskaitą įmokėtos sumos, lošimo rūšis, lošimo pavadinimas arba lažybų ar totalizatoriaus įvykis, atliktas statymas, išmokėtas laimėjimas, iš lošėjo lošimų sąskaitos išmokėtos sumos, aktualus lošėjo lošimų sąskaitos likutis);
+
+
+
+
+11) finansinė ataskaita iš platformoje esamų duomenų pagal nustatytą laikotarpį, nuotolinio lošimo rūšį, už dalyvavimą lošime įmokėtas sumas, išmokėtus laimėjimus, veiklos rezultatą (iš sumų, įmokėtų už dalyvavimą lošime, išmokėjus laimėjimus, gaunamas veiklos rezultatas).
+
+
+
+
+
+
+10. Bendrovė gali keisti arba pradėti naudoti naujus lošimų įrenginius, nuotolinio lošimo įrenginius ir platformas tik įvykdžiusi šio straipsnio 5, 6, 7 ir 9 dalyse nustatytus reikalavimus ir gavusi Priežiūros tarnybos leidimą šio įstatymo nustatyta tvarka.
+
+
+
+
+11. Lošimus organizuojanti bendrovė privalo automatus laidinėmis, radijo, optinėmis ar kitomis elektromagnetinėmis priemonėmis sujungti į elektroninę automatų duomenų valdymo sistemą.
+
+
+
+
+12. Kiekvienas automatas turi turėti elektroninius skaitiklius, kurie lošimo metu didėjimo tvarka fiksuotų šiuos automato duomenis:
 
 
 1) už dalyvavimą lošime įmokėtus kredito arba piniginius vienetus;
@@ -1924,7 +2154,7 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 
 
 
-3) lošimo namų (kazino) arba automatų salono kasoje apmokėtus kredito arba piniginius vienetus (jeigu tokia funkcija įdiegta automate);
+3) lošimo namų (kazino) arba automatų salono kasoje apmokėtus kredito arba piniginius vienetus (jeigu tokia funkcija automate įdiegta);
 
 
 
@@ -1934,25 +2164,18 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 
 
 
-5) loštų lošimų skaičių. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
- 
+5) loštų lošimų skaičių.
 
 
 
 
-10. Lošimus organizuojanti bendrovė privalo užtikrinti galimybę Priežiūros tarnybai bet kuriuo metu nuotoliniu būdu prisijungti prie elektroninės automatų duomenų valdymo sistemos ir peržiūrėti joje tvarkomus duomenis. 
-Papildyta straipsnio dalimi:
-Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
- 
+
+
+13. Lošimus organizuojanti bendrovė privalo užtikrinti galimybę Priežiūros tarnybai bet kuriuo metu nuotoliniu būdu prisijungti prie elektroninės automatų duomenų valdymo sistemos ir peržiūrėti joje tvarkomus duomenis.
 
 
 Straipsnio pakeitimai:
-Nr. IX-995, 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
-Nr. XI-1578, 2011-09-15, Žin., 2011, Nr. 119-5611 (2011-10-01)
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
@@ -2160,20 +2383,27 @@ Nr. XIII-2147, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09400
 
 
 
-2. Laimėjusio asmens reikalavimu lošimų organizatorius privalo jam išduoti Valstybinės mokesčių inspekcijos nustatytos formos pažymą, pagrindžiančią turto deklaravimą.
-
-
-
-
-3. Lošimų organizatorius dokumentus ir informaciją apie šio straipsnio 2 dalyje nurodytus asmenis privalo saugoti 10 metų ir privalo pateikti tik Priežiūros tarnybai ir ikiteisminio tyrimo pareigūnams, prokurorams arba teismui įstatymų nustatyta tvarka. 
+2. Lošėjo prašymu lošimų organizatorius ne vėliau kaip per 5 darbo dienas privalo lošėjui išduoti dokumentus, patvirtinančius jo įmokėtas sumas ir (ar) jam išmokėtus laimėjimus. 
 Straipsnio dalies pakeitimai:
-Nr. XIII-575, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12076
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
 
 
-4. Lošimų organizatorius privalo Vyriausybės nustatyta tvarka pranešti teritorinei valstybinei mokesčių inspekcijai apie laimėjimus ir pralaimėjimus, jei laimėjimo ar pralaimėjimo suma viršija Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“ 2 straipsnyje nustatytą ir atsižvelgiant į vartojimo kainų pasikeitimus indeksuotą dydį. 
+3. Lošimų organizatorius dokumentus ir informaciją apie šio straipsnio 2 dalyje nurodytus asmenis privalo saugoti 10 metų ir privalo pateikti tik Priežiūros tarnybai, ikiteisminio tyrimo pareigūnams, prokurorams arba teismui įstatymų nustatyta tvarka, taip pat Valstybinei mokesčių inspekcijai, kai tai reikalinga mokesčių administravimo funkcijoms atlikti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-575, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12076
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
+
+
+
+
+4. Lošimų organizatorius privalo Valstybinės mokesčių inspekcijos viršininko nustatyta tvarka Valstybinę mokesčių inspekciją informuoti apie įmokėtas sumas ir išmokėtus laimėjimus, jeigu įmokėtos sumos ir išmokėti laimėjimai viršija Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 9 straipsnio 9 dalyje nustatytą dydį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
 
 
 Straipsnio pakeitimai:
@@ -2204,7 +2434,10 @@ NUOTOLINIŲ LOŠIMŲ ORGANIZAVIMO REIKALAVIMAI
 2. Lošimų organizatorius, organizuojantis nuotolinius lošimus, privalo techninėmis ir organizacinėmis priemonėmis užtikrinti, kad:
 
 
-1) nuotoliniuose lošimuose negalėtų dalyvauti nepilnamečiai asmenys ir asmenys, kuriems dalyvauti lošimuose draudžiama pagal šio įstatymo 10 straipsnio 3 ir 10 dalyse nustatytus reikalavimus;
+1) nuotoliniuose lošimuose negalėtų dalyvauti jaunesni kaip 21 metų amžiaus asmenys ir asmenys, kuriems dalyvauti lošimuose draudžiama pagal šio įstatymo 10 straipsnio 3 dalyje nustatytus reikalavimus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
 
 
 
@@ -2296,7 +2529,10 @@ NUOTOLINIŲ LOŠIMŲ ORGANIZAVIMO REIKALAVIMAI
 
 
 
-5) įspėjamuosius užrašus, numatytus šio įstatymo 101 straipsnio 1 dalyje, apie tai, kad dalyvaujant lošimuose gali atsirasti priklausomybė nuo lošimų ar patologinis potraukis lošti, ir pateikti kontaktinę informaciją, kur lošėjas gali kreiptis pagalbos;
+5) informacinius pranešimus, nurodytus šio įstatymo 104 straipsnio 2 punkte;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
 
 
 
@@ -2346,28 +2582,10 @@ NUOTOLINIŲ LOŠIMŲ ORGANIZAVIMO REIKALAVIMAI
 
 
 
-204 straipsnis. Nuotolinio lošimo įrenginių ir įrangos, skirtos nuotoliniams lošimams organizuoti, reikalavimai
-
-
-1. Nuotolinio lošimo įrenginiai ir programinė įranga, kuria priimama ir apdorojama ryšio priemonėmis pateikta informacija, turi būti įdiegti ir saugomi Lietuvos Respublikoje arba kitoje valstybėje narėje. Lošimų organizatorius asmenims, turintiems teisę tikrinti lošimų organizatoriaus veiklą, turi užtikrinti galimybę nekliudomai patikrinti įrangą ir įrangoje saugomą informaciją. Šią informaciją lošimų organizatorius privalo saugoti 5 metus ir įstatymų nustatyta tvarka pateikti Priežiūros tarnybai, ikiteisminio tyrimo pareigūnams, prokurorams, teismui, kitoms valstybės institucijoms ir įstaigoms, atliekančioms lošimų organizatoriaus veiklos patikrinimus.
-
-
-
-
-2. Nuotolinio lošimo įrenginiai, naudojami nuotoliniams lošimams organizuoti, registruojami Priežiūros tarnybos nustatyta tvarka.
-
-
-
-
-3. Lošimų organizatorius, organizuojantis nuotolinius lošimus, privalo savo lėšomis įdiegti įrangą, kuri užtikrintų centralizuotą visų lošėjų, dalyvaujančių nuotoliniame lošime, tapatybės nustatymą ir registravimą, lošėjų veiksmų lošiant, taip pat atliktų statymų ir laimėjimų išmokėjimų apskaitą. Ši įranga turi būti lošimų organizatoriaus nuosavybė arba kitu teisėtu būdu jo valdoma ir įdiegta Lietuvos Respublikos teritorijoje arba kitoje valstybėje narėje. 
-
-
-
-
-4. Lošimų organizatorius asmenims, turintiems teisę tikrinti lošimų organizatoriaus veiklą, turi užtikrinti tiesioginę prieigą nekliudomai nuotoliniu būdu patikrinti nuotolinio lošimo įrenginį ir įrangą, naudojamą nuotoliniams lošimams organizuoti, ir juose saugomą informaciją.
+204 straipsnis. Neteko galios nuo 2025-11-01
+Straipsnio naikinimas:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
-
-
 
 
 
@@ -2398,46 +2616,10 @@ NUOTOLINIŲ LOŠIMŲ ORGANIZAVIMO REIKALAVIMAI
 
 
 
-206 straipsnis. Nuotoliniuose lošimuose dalyvaujančių lošėjų apsauga
-
-
-1. Lošėjas turi teisę lošimų organizatoriui pateikti rašytinį prašymą, kuriame būtų nurodyti vienas ar keli apribojimai, taikomi prašymą pateikusiam lošėjui dalyvaujant nuotoliniuose lošimuose. Lošėjas prašyme gali nurodyti pageidavimą (ar keletą jų):
-
-
-1) riboti didžiausią pinigų sumą, kurią lošėjas gali statyti per tam tikrą laikotarpį arba vieno nenutraukiamo lošimo metu;
-
-
-
-
-2) riboti didžiausią vieno statymo sumą;
-
-
-
-
-3) nustatyti vieno lošimo, kuriame lošėjas lošia nuo lošimo pradžios nenutraukiamai (be pertraukos), laiko limitą, kuriam suėjus lošėjui turi būti nutraukta galimybė dalyvauti nuotoliniame lošime;
-
-
-
-
-4) neteko galios nuo 2017-05-01.
-Straipsnio punkto pakeitimai:
-Nr. XII-2588, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20336
+206 straipsnis. Neteko galios nuo 2025-11-01
+Straipsnio naikinimas:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
-
-
-
-
-
-
-2. Lošimų organizatorius privalo užtikrinti šio straipsnio 1 dalyje nurodytų apribojimų įgyvendinimą.
-
-
-
-
-3. Nuotoliniame lošime dalyvaujančiam lošėjui viso jo lošimo metu nuolat privalo būti aiškiai rodoma informacija, kiek laiko jis dalyvauja lošime, bendra jo atliktų statymų suma ir jo lošimo aktualus rezultatas (laimėjimas arba pralaimėjimas).
- 
-
-
 
 
 
@@ -2517,10 +2699,11 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 
 
 TREČIASIS SKIRSNIS
-LEIDIMŲ ATIDARYTI AUTOMATŲ, BINGO SALONUS, LOŠIMO NAMUS (KAZINO) IŠDAVIMAS, JŲ PAPILDYMAS AR PAKEITIMAS IR GALIOJIMO PANAIKINIMAS 
+LEIDIMŲ ATIDARYTI AUTOMATŲ, BINGO SALONUS, LOŠIMO NAMUS (KAZINO) IR ORGANIZUOTI NUOTOLINIUS LOŠIMUS IŠDAVIMAS, PAPILDYMAS AR PAKEITIMAS IR GALIOJIMO PANAIKINIMAS 
 Pakeistas skirsnio pavadinimas:
 Nr. XIII-3009, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12615
 Nr. XIV-800, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27378
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
@@ -2618,7 +2801,10 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 
 
 
-4) nuotolinio lošimo įrenginių ir programinės įrangos, naudojamų nuotoliniams lošimams organizuoti, aprašymas ir jų atitiktį šiame įstatyme ir Priežiūros tarnybos nustatytiems reikalavimams patvirtinantys duomenys.
+4) nuotolinio lošimo įrenginių ir platformos aprašymas ir jų atitiktį šiame įstatyme ir Priežiūros tarnybos nustatytiems reikalavimams patvirtinantys duomenys. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
 
 
 
@@ -2630,7 +2816,10 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 
 
 
-6. Priežiūros tarnybos valstybės tarnautojai ir darbuotojai patikrina, ar patalpos, kuriose numatoma atidaryti automatų ar bingo saloną arba lošimo namus (kazino), atitinka joms keliamus reikalavimus. Prašymas išduoti leidimą atidaryti automatų ar bingo saloną arba lošimo namus (kazino) turi būti išnagrinėtas per 30 kalendorinių dienų nuo jo gavimo dienos. Jeigu pareikalaujama papildomų dokumentų ir informacijos, 30 dienų laikotarpis skaičiuojamas iš naujo nuo papildomos informacijos arba paaiškinimų bei pataisų pateikimo dienos. Bendras leidimo išdavimo laikotarpis neturi viršyti 60 kalendorinių dienų, skaičiuojant nuo tos dienos, kurią buvo pirmą kartą pateikti visi reikiami dokumentai ir duomenys.
+6. Priežiūros tarnybos valstybės tarnautojai ir darbuotojai patikrina, ar patalpos, kuriose numatoma atidaryti automatų ar bingo saloną arba lošimo namus (kazino), atitinka joms keliamus reikalavimus. Prašymas išduoti leidimą atidaryti automatų ar bingo saloną, lošimo namus (kazino) arba organizuoti nuotolinius lošimus turi būti išnagrinėtas per 30 kalendorinių dienų nuo jo gavimo dienos. Jeigu pareikalaujama papildomų dokumentų ir informacijos, 30 dienų laikotarpis skaičiuojamas iš naujo nuo papildomos informacijos arba paaiškinimų bei pataisų pateikimo dienos. Bendras leidimo išdavimo laikotarpis neturi viršyti 60 kalendorinių dienų, skaičiuojant nuo tos dienos, kurią buvo pirmą kartą pateikti visi reikiami dokumentai ir duomenys.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
 
 
 
@@ -2691,7 +2880,10 @@ Nr. XIV-800, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27378
 
 
 
-4) lošimo įrenginiai arba nuotolinio lošimo įrenginiai ar programinė įranga neatitinka šio įstatymo ir Priežiūros tarnybos nustatytų reikalavimų;
+4) lošimo įrenginiai arba nuotolinio lošimo įrenginiai ar platforma neatitinka šio įstatymo ir Priežiūros tarnybos nustatytų reikalavimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
 
 
 
@@ -2704,7 +2896,10 @@ Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
 
 
 
-6) Priežiūros tarnybai pateikta informacija (priemonės) nesuteikia galimybės nuotoliniu būdu prisijungti prie lošimų organizatoriaus turimos įrangos. 
+6) Priežiūros tarnybai pateikta informacija (priemonės) nesuteikia galimybės nuotoliniu būdu prisijungti prie lošimų organizatoriaus nuotolinio lošimo įrenginių ir platformos.
+Straipsnio punkto pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -2786,7 +2981,15 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 
 
 
-2) lošimų organizatorius nori naudojamus nuotolinio lošimo įrenginius pakeisti kitais nuotolinio lošimo įrenginiais arba pradėti naudoti daugiau nuotolinio lošimo įrenginių arba sumažinti šių įrenginių skaičių. 
+2) lošimų organizatorius nori naudojamus nuotolinio lošimo įrenginius pakeisti kitais nuotolinio lošimo įrenginiais arba pradėti naudoti daugiau nuotolinio lošimo įrenginių arba sumažinti šių įrenginių skaičių;
+
+
+
+
+3) lošimų organizatorius nori naudojamą platformą (platformas) pakeisti kita platforma (platformomis) ar pakeisti naudojamų platformų skaičių.
+Papildyta straipsnio punktu:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
 
 
 Papildyta straipsnio dalimi:
@@ -3194,9 +3397,10 @@ LOŠIMŲ ORGANIZAVIMO PRIEŽIŪRA IR KONTROLĖ
 26 straipsnis. Priežiūros tarnyba
 
 
-1. Priežiūros tarnyba yra įstaiga prie Lietuvos Respublikos finansų ministerijos, kartu su kitomis valstybės ir savivaldybių institucijomis ir įstaigomis dalyvaujanti įgyvendinant valstybės politiką azartinių lošimų ir žaidimų žaidimo automatais veiklos organizavimo srityje ir vykdanti lošimų ir žaidimų žaidimo automatais priežiūrą, kad būtų užtikrintas sąžiningas, skaidrus lošimų ir žaidimų žaidimo automatais veiklos vykdymas, lošėjų ir žaidžiančių žaidimo automatais asmenų teisių bei jų teisėtų interesų apsauga. 
+1. Priežiūros tarnyba yra įstaiga prie Lietuvos Respublikos finansų ministerijos, kartu su kitomis valstybės ir savivaldybių institucijomis ir įstaigomis dalyvaujanti formuojant ir įgyvendinant valstybės politiką lošimų ir žaidimų žaidimo automatais veiklos organizavimo ir kontrolės srityje ir vykdanti lošimų ir žaidimų žaidimo automatais priežiūrą, kad būtų užtikrintas sąžiningas, skaidrus lošimų ir žaidimų žaidimo automatais veiklos vykdymas, lošėjų ir žaidžiančių žaidimo automatais asmenų teisių bei jų teisėtų interesų apsauga.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1886, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00021
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
@@ -3300,9 +3504,10 @@ Nr. XIII-1886, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00021
 
 
 
-6) rengia lošimų ir žaidimų žaidimo automatais organizavimą reglamentuojančių teisės aktų projektus; 
+6) rengia lošimų ir žaidimų žaidimo automatais organizavimą reglamentuojančių teisės aktų projektus ir teikia valstybės institucijoms pasiūlymus dėl žaidimų žaidimo automatais ir lošimus reglamentuojančių teisės aktų tobulinimo; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1886, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00021
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
@@ -3313,17 +3518,43 @@ Nr. XIII-1886, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00021
 
 
 
-8) tvarko asmenų, pateikusių prašymus neleisti lošti, duomenis, taip pat ir ypatingus asmens duomenis (apie asmenų neveiksnumą arba ribotą veiksnumą šioje srityje);
+8) tvarko asmenų, pateikusių prašymus neleisti lošti, duomenis, taip pat ir specialių kategorijų asmens duomenis (apie asmenų neveiksnumą arba ribotą veiksnumą šioje srityje); 
 Papildyta straipsnio punktu:
 Nr. XII-2588, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20336
+Straipsnio punkto pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
 
 
-9) išduoda žaidimo automatų pasus, plombas ir specialiuosius žaidimo automatų ženklus, įrašo žaidimo automatus į žaidimo automatų sąrašą, tikrina žaidimo automatų atitiktį šiame įstatyme nustatytiems reikalavimams, vertina, ar žaidimo automatas savo išore arba funkcijomis neimituoja lošimo įrenginio, o įdiegtomis programomis arba žaidimais neimituoja azartinių lošimų, tikrina žaidimo automatus jų eksploatavimo metu, įspėja apie galimą žaidimo automato įrašo žaidimo automatų sąraše galiojimo sustabdymą ar panaikinimą, sustabdo arba panaikina žaidimo automato įrašo žaidimo automatų sąraše galiojimą, panaikina žaidimo automato įrašo žaidimo automatų sąraše galiojimo sustabdymą. 
+9) išduoda žaidimo automatų pasus, plombas ir specialiuosius žaidimo automatų ženklus, įrašo žaidimo automatus į žaidimo automatų sąrašą, tikrina žaidimo automatų atitiktį šiame įstatyme nustatytiems reikalavimams, vertina, ar žaidimo automatas savo išore arba funkcijomis neimituoja lošimo įrenginio, o įdiegtomis programomis arba žaidimais neimituoja azartinių lošimų, tikrina žaidimo automatus jų eksploatavimo metu, įspėja apie galimą žaidimo automato įrašo žaidimo automatų sąraše galiojimo sustabdymą ar panaikinimą, sustabdo arba panaikina žaidimo automato įrašo žaidimo automatų sąraše galiojimą, panaikina žaidimo automato įrašo žaidimo automatų sąraše galiojimo sustabdymą; 
 Papildyta straipsnio punktu:
 Nr. XIII-1886, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00021
+ 
+
+
+
+
+10) atlieka lošimus organizuojančių bendrovių vykdomo atsakingo lošimo organizavimo stebėseną;
+Papildyta straipsnio punktu:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
+
+
+
+
+11) rengia probleminio lošimo prevencijos programas, jas koordinuoja ir kontroliuoja jų įgyvendinimą, įgyvendina probleminio lošimo prevencijos programoje nurodytas jos kompetencijai priskirtas probleminio lošimo prevencijos priemones;
+Papildyta straipsnio punktu:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
+
+
+
+
+12) atlieka kitas šiame įstatyme nustatytas funkcijas.
+Papildyta straipsnio punktu:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
@@ -3431,12 +3662,83 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 
 
 
-3.  Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad bendrovė savo noru užkerta kelią pažeidimo padariniams, patikrinimo metu geranoriškai bendradarbiauja su Priežiūros tarnyba. Priežiūros tarnyba, taikydama poveikio priemones, gali ir kitas šioje dalyje nenurodytas aplinkybes pripažinti atsakomybę lengvinančiomis aplinkybėmis. 
+3. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad bendrovė:
+
+
+1) pažeidimu nepadarė žalos;
 
 
 
 
-4.  Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad bendrovė nebendradarbiauja su Priežiūros tarnyba, kliudo atlikti patikrinimą, slepia padarytą šio įstatymo pažeidimą arba tęsia pažeidimą nepaisydama to, kad Priežiūros tarnyba buvo atkreipusi dėmesį į bendrovės pažeidimus ar veiklos trūkumus. 
+2) savo noru užkerta kelią pažeidimo padariniams;
+
+
+
+
+3) patikrinimo metu geranoriškai bendradarbiauja su Priežiūros tarnyba;
+
+
+
+
+4) apie savo padarytą pažeidimą praneša Priežiūros tarnybai ir jį nutraukia;
+
+
+
+
+5) Priežiūros tarnybai atkreipus bendrovės dėmesį į pažeidimus ar veiklos trūkumus, pripažįsta padariusi pažeidimą ir jį nutraukia;
+
+
+
+
+6) savo iniciatyva imasi priemonių, kad ateityje nebūtų daromi tokio paties ar panašaus pobūdžio pažeidimai. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
+
+
+
+
+4. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad bendrovė:
+
+
+1) pažeidimu padarė žalą, jeigu ją įmanoma nustatyti, kurios dydis viršija 500 bazinių socialinių išmokų dydį;
+
+
+
+
+2) nebendradarbiauja su Priežiūros tarnyba;
+
+
+
+
+3) tęsia pažeidimą, nepaisydama to, kad Priežiūros tarnyba atkreipė dėmesį į bendrovės pažeidimus ar veiklos trūkumus;
+
+
+
+
+4) pažeidimą padarė tyčia;
+
+
+
+
+5) padarė trunkamojo pobūdžio pažeidimą;
+
+
+
+
+6) padarė tęstinio pobūdžio pažeidimą;
+
+
+
+
+7) per pastaruosius 5 metus yra padariusi teisės aktų, reglamentuojančių lošimų veiklą, pažeidimą ir jai taikyta nors viena poveikio priemonė. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
 
 
 
@@ -3446,7 +3748,10 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 
 
 
-6. Priežiūros tarnyba, svarstydama, ar taikyti šio įstatymo numatytas poveikio priemones, atsižvelgdama į šio straipsnio 3 dalyje nurodytas aplinkybes ir į tai, kad nėra šio straipsnio 4 dalyje nustatytų atsakomybę sunkinančių aplinkybių, vadovaudamasi teisingumo, protingumo kriterijais, gali netaikyti poveikio priemonių, jeigu pažeidimas yra mažareikšmis, nedarantis esminės žalos įstatymų saugomiems interesams, ir jeigu turi pagrindo manyti, kad nustatytų reikalavimų nesilaikymas ar netinkamas laikymasis gali būti pašalintas ir kitomis priemonėmis, ne tik taikant poveikio priemones.
+6. Priežiūros tarnyba, svarstydama, ar taikyti šio įstatymo numatytas poveikio priemones, atsižvelgdama į šio straipsnio 3 dalyje nurodytas aplinkybes ir į tai, kad nėra šio straipsnio 4 dalyje nustatytų atsakomybę sunkinančių aplinkybių, vadovaudamasi teisingumo ir protingumo kriterijais, gali netaikyti poveikio priemonių, jeigu pažeidimas yra mažareikšmis, nedarantis esminės žalos įstatymų saugomiems interesams, ir jeigu turi pagrindo manyti, kad nustatytų reikalavimų nesilaikymas ar netinkamas laikymasis gali būti pašalintas ir kitomis priemonėmis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
 
 
 
@@ -3464,101 +3769,56 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 292 straipsnis. Baudos ir jų skyrimo tvarka
 
 
-1. Bendrovei už šio įstatymo 74 straipsnio 1 ir 10 dalių, 10 straipsnio 9, 93, 10, 19 ir 21 dalių, 11, 13 ir 208 straipsnių pažeidimus Priežiūros tarnyba skiria baudą nuo 0,1 iki 1 procento praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą), bet ne mažiau kaip 6 000 eurų ir ne daugiau kaip 25 000 eurų.
- 
-TAR pastaba. 292 straipsnio 1 dalies redakcija nuo 2025-11-01:
 1. Bendrovei už šio įstatymo 74 straipsnio 1 ir 10 dalių, 10 straipsnio 9, 91, 92, 93, 10, 19 ir 21 dalių, 104, 11, 13 ir 208 straipsnių pažeidimus Priežiūros tarnyba skiria baudą nuo 3 iki 5 procentų praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą).
-Straipsnio dalies pakeitimai:
-Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
-Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
- 
 
 
 
 
-2. Bendrovei, per vienus metus nuo sprendimo taikyti šio straipsnio 1 dalyje nustatytą poveikio priemonę įsiteisėjimo dienos padariusiai šio straipsnio 1 dalyje nurodytą pažeidimą, Priežiūros tarnyba skiria baudą nuo 0,5 iki 3 procentų praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą), bet ne mažiau kaip 12 000 eurų ir ne daugiau kaip 50 000 eurų.
+2. Bendrovei, per vienus metus nuo sprendimo taikyti šio straipsnio 1 dalyje nustatytą poveikio priemonę įsiteisėjimo dienos padariusiai šio straipsnio 1 dalyje nurodytą šio įstatymo pažeidimą, Priežiūros tarnyba skiria baudą nuo 8 iki 10 procentų praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą).
 
 
 
 
-3. Už šio įstatymo 10 straipsnio 3, 5, 6, 7, 8, 101, 11, 13, 15 ir 17 dalių, 101 straipsnio 1 dalies, 102 straipsnio 3 dalies, 103 straipsnio 1 ir 3 dalių, 12 straipsnio 2, 3, 4 ir 5 dalių, 15–20 straipsnių, 201 straipsnio 1 ir 2 dalių, 202 straipsnio, 203 straipsnio 3, 4, 5, 8 ir 9 dalių, 204 straipsnio 1, 3 ir 4 dalių, 205 straipsnio 1, 2 ir 3 dalių, 206 straipsnio 2 ir 3 dalių ir 25 straipsnio 1 dalies pažeidimus Priežiūros tarnyba bendrovei skiria baudą nuo 0,1 iki 0,5 procento praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą), bet ne mažiau kaip 6 000 eurų ir ne daugiau kaip 15 000 eurų.
-Straipsnio dalies pakeitimai:
-Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
- 
+3. Už šio įstatymo 10 straipsnio 3, 5, 6, 8, 101, 11, 13, 15 ir 17 dalių, 101 straipsnio 1 dalies, 102 straipsnio 3 dalies, 103 straipsnio 1 ir 3 dalių, 12 straipsnio 2, 3, 4 ir 5 dalių, 15–20 straipsnių, 201 straipsnio 1 ir 2 dalių, 202 straipsnio, 203 straipsnio 3, 4, 5, 8 ir 9 dalių, 205 straipsnio 1, 2 ir 3 dalių ir 25 straipsnio 1 dalies pažeidimus Priežiūros tarnyba bendrovei skiria baudą nuo 2 iki 4 procentų praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą).
 
 
 
 
-4. Bendrovei, per vienus metus nuo sprendimo taikyti šio straipsnio 3 dalyje nustatytą poveikio priemonę įsiteisėjimo dienos padariusiai šio straipsnio 3 dalyje nurodytą šio įstatymo pažeidimą, Priežiūros tarnyba skiria baudą nuo 0,5 iki 1 procento praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą), bet ne mažiau kaip 10 000 eurų ir ne daugiau kaip 30 000 eurų.
+4. Bendrovei, per vienus metus nuo sprendimo taikyti šio straipsnio 3 dalyje nustatytą poveikio priemonę įsiteisėjimo dienos padariusiai šio straipsnio 3 dalyje nurodytą šio įstatymo pažeidimą, Priežiūros tarnyba skiria baudą nuo 6 iki 8 procentų praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą).
 
 
 
 
-5. Skiriant baudą vertinama:
+5. Pagal šio straipsnio 1–4 dalyse nurodytus dydžius nustatomas bazinis baudos dydis, kuris apskaičiuojamas pagal šiose dalyse nustatytą minimalios ir maksimalios baudų vidurkį. Kai yra atsakomybę lengvinančių aplinkybių, už kiekvieną atsakomybę lengvinančią aplinkybę baudos dydis mažinamas suma, kuri lygi 0,15 procento praėjusių kalendorinių metų bendrųjų metinių pajamų, o kai yra atsakomybę sunkinančių aplinkybių, už kiekvieną atsakomybę sunkinančią aplinkybę baudos dydis didinamas suma, kuri lygi 0,15 procento praėjusių kalendorinių metų bendrųjų metinių pajamų. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų skaičių.
 
 
-1) nustatytų šio įstatymo pažeidimų pobūdis ir trukmė;
 
 
+6. Priežiūros tarnybos direktorius, skirdamas baudą, įvertina sudarytos patariamosios komisijos (toliau – komisija) siūlymus. Komisijos sudarymo, klausimo dėl baudos skyrimo ir jos dydžio nustatymo svarstymo komisijos posėdyje ir komisijos sprendimų priėmimo tvarką nustato Priežiūros tarnyba.
 
 
-2) dėl šio įstatymo pažeidimų bendrovės gautos pajamos, kitokia turtinė nauda, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti;
 
 
+7. Apie komisijos posėdį, iki jo likus ne mažiau kaip 10 darbo dienų, informuojama bendrovė, kuriai ketinama skirti baudą. Bendrovė, kuriai ketinama skirti baudą, turi teisę pateikti visus įrodymus, patvirtinančius, kad nėra šio įstatymo pažeidimo sudėties, nurodyti atsakomybę lengvinančias aplinkybes ar pateikti kitus baudos skyrimui ir jos dydžio nustatymui reikšmingus įrodymus iki komisijos posėdžio pradžios.
 
 
-3) bendrovės kaltė;
 
 
+8. Prireikus komisijos posėdyje kviečiami dalyvauti ir savo paaiškinimus pateikti bendrovės, kuriai ketinama skirti baudą, atstovai, kiti suinteresuoti subjektai, taip pat asmenys, kurių dalyvavimas reikalingas klausimui dėl baudos skyrimo ir jos dydžio nustatymo tinkamai išnagrinėti, (liudytojai, ekspertai, specialistai ar kiti asmenys). Bendrovės, kuriai ketinama skirti baudą, atstovų ar kitų suinteresuotų subjektų neatvykimas, jeigu jiems apie posėdį buvo tinkamai pranešta, nekliudo surengti komisijos posėdžio ir svarstyti klausimo dėl baudos skyrimo ir paskirtos baudos dydžio nustatymo.
 
 
-4) bendrovės padaryti ankstesni šio įstatymo pažeidimai ir jai taikytos poveikio priemonės;
 
 
+9. Bendrovė, kuriai ketinama skirti baudą ar ji paskirta, ir kiti suinteresuoti subjektai turi teisę susipažinti su Priežiūros tarnybos surinkta medžiaga, kuria grindžiamas baudos skyrimas ir jos dydžio nustatymas, išskyrus informaciją, kuri yra valstybės, tarnybos ar komercinė kitų ūkio subjektų paslaptis arba kurią atskleidus būtų pažeista fizinio asmens teisė į privataus gyvenimo neliečiamumą.
 
 
-5) šiame įstatyme nustatytos atsakomybę lengvinančios ir sunkinančios aplinkybės;
 
 
+10. Pasibaigus posėdžiui komisija per 5 darbo dienas savo siūlymus dėl baudos skyrimo pateikia svarstyti Priežiūros tarnybos direktoriui, o šis ne vėliau kaip per 5 darbo dienas po komisijos pasiūlymų gavimo dienos priima galutinį sprendimą dėl baudos skyrimo ir paskirtos baudos dydžio. Priežiūros tarnybos direktoriaus sprendimas dėl baudos skyrimo ir paskirtos baudos dydžio, kuriame nurodomi sprendimo priėmimo motyvai, pagrindai ir sprendimo apskundimo tvarka, per 3 darbo dienas pateikiamas bendrovei, dėl kurios jis priimtas.
 
 
-6) kitos svarbios aplinkybės.
-
-
-
-
-
-
-6. Skiriamos baudos dydis nustatomas pagal minimalios ir maksimalios baudų vidurkį. Kai yra atsakomybę lengvinančių aplinkybių, skiriama ne didesnė negu vidurkis bauda, o kai yra atsakomybę sunkinančių aplinkybių, skiriama ne mažesnė negu vidurkis bauda. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų skaičių ir reikšmingumą. Baudos dydžio apskaičiavimo tvarką nustato Priežiūros tarnyba.
-
-
-
-
-7. Priežiūros tarnybos direktorius, skirdamas baudą, įvertina sudarytos patariamosios komisijos (toliau – komisija) siūlymus. Komisijos sudarymo, klausimo dėl baudos skyrimo ir jos dydžio nustatymo svarstymo komisijos posėdyje ir komisijos sprendimų priėmimo tvarką nustato Priežiūros tarnyba.
-
-
-
-
-8. Apie komisijos posėdį, iki jo likus ne mažiau kaip 10 darbo dienų, informuojama bendrovė, kuriai ketinama skirti baudą. Bendrovė, kuriai ketinama skirti baudą, turi teisę pateikti visus įrodymus, patvirtinančius, kad nėra šio įstatymo pažeidimo sudėties, nurodyti lengvinančias aplinkybes ar pateikti kitus baudos skyrimui ir jos dydžio nustatymui reikšmingus įrodymus iki komisijos posėdžio pradžios.
-
-
-
-
-9. Prireikus komisijos posėdyje kviečiami dalyvauti ir savo paaiškinimus pateikti bendrovės, kuriai ketinama skirti baudą, atstovai, kiti suinteresuoti subjektai, taip pat asmenys, kurių dalyvavimas reikalingas klausimui dėl baudos skyrimo ir jos dydžio nustatymo tinkamai išnagrinėti (liudytojai, ekspertai, specialistai ar kiti asmenys). Bendrovės, kuriai ketinama skirti baudą, atstovų ar kitų suinteresuotų subjektų neatvykimas, jeigu jiems apie posėdį buvo tinkamai pranešta, nekliudo surengti komisijos posėdžio ir svarstyti klausimo dėl baudos skyrimo ir paskirtos baudos dydžio nustatymo.
-
-
-
-
-10. Bendrovė, kuriai ketinama skirti ar paskirta bauda, ir kiti suinteresuoti subjektai turi teisę susipažinti su Priežiūros tarnybos surinkta medžiaga, kuria grindžiamas baudos skyrimas ir jos dydžio nustatymas, išskyrus informaciją, kuri yra valstybės, tarnybos ar komercinė kitų ūkio subjektų paslaptis arba kurią atskleidus būtų pažeista fizinio asmens teisė į privataus gyvenimo neliečiamumą.
-
-
-
-
-11. Pasibaigus posėdžiui komisija per 5 darbo dienas savo siūlymus dėl baudos skyrimo pateikia apsvarstyti Priežiūros tarnybos direktoriui, o šis ne vėliau kaip per 5 darbo dienas po komisijos pasiūlymų gavimo dienos priima galutinį sprendimą dėl baudos skyrimo ir paskirtos baudos dydžio. Priežiūros tarnybos direktoriaus sprendimas dėl baudos skyrimo ir paskirtos baudos dydžio, kuriame nurodomi sprendimo priėmimo motyvai, pagrindai ir sprendimo apskundimo tvarka, per 3 darbo dienas pateikiamas bendrovei, dėl kurios jis priimtas. 
-
-
-Papildyta straipsniu:
-Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
+Straipsnio pakeitimai:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
  
 
 
