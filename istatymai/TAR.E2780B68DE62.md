@@ -1334,129 +1334,33 @@ Nr. X-147, 2005-03-24, Žin., 2005, Nr. 47-1558 (2005-04-12)
 
 
 IV SKYRIUS. ŪKINĖS VEIKLOS REGULIAVIMAS
- 
 
+15-1 straipsnis. Vykdomos ūkinės veiklos, galinčios daryti poveikį aplinkai, poveikio aplinkai vertinimas
 
-15 straipsnis. Ūkinės veiklos, galinčios daryti poveikį aplinkai, planavimas ir leidimų išdavimas
+Jeigu pagal aplinkos stebėsenos (monitoringo) rezultatus ar vykdant aplinkos apsaugos valstybinę kontrolę nustatoma, kad fiziniam ar juridiniam asmeniui vykdant ar užbaigiant ūkinę veiklą sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai (toliau šiame straipsnyje – sprendimas dėl poveikio aplinkai) nustatytų planuojamos ūkinės veiklos įgyvendinimo sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos dėl poveikio aplinkai vertinimo išvadoje (toliau šiame straipsnyje – atrankos išvada) nustatytų priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią nepakanka ir viršijami teisės aktuose nustatyti aplinkos apsaugos normatyvai, ir (ar) daromas reikšmingas neigiamas poveikis aplinkai, vykdantis ar užbaigiantis ūkinę veiklą fizinis ar juridinis asmuo privalo taikyti aplinkos ministro nustatyta tvarka su aplinkos ministro įgaliota institucija suderintas priemones reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba užkirsti jam kelią.
 
+Šio straipsnio pirmosios dalies nuostatos netaikomos sprendime dėl poveikio aplinkai nustatytoms planuojamos ūkinės veiklos įgyvendinimo sąlygoms ir priemonėms reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos išvadoje nustatytoms priemonėms reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią, kurios perkeliamos į taršos integruotos prevencijos ir kontrolės leidimo arba taršos leidimo sąlygas ir keičiamos vadovaujantis šio įstatymo 19-1 arba 19-2 straipsnių nuostatomis.
 
-Planuojant vykdyti ūkinę veiklą, kuriai reikia atlikti Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatytas procedūras, negali būti priimami iš anksto alternatyvų pasirinkimą apribojantys sprendimai dėl šios veiklos – galimos alternatyvos nagrinėjamos ir tinkamiausia (-ios) pasirenkama (-os) atliekant strateginio pasekmių aplinkai vertinimo ir (ar) planuojamos ūkinės veiklos poveikio aplinkai vertinimo (toliau šiame straipsnyje – poveikio aplinkai vertinimas) procedūras.
+Fizinis ar juridinis asmuo, vykdantis ūkinę veiklą, kuriai iki ūkinės veiklos vykdymo pradžios ir (ar) jos keitimo ir (arba) plėtimo Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka turėjo būti atlikta atranka dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo (toliau šiame straipsnyje – atranka), jeigu ji neatlikta, privalo Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 7 straipsnyje nustatyta tvarka pradėti atrankos procedūras, kai yra įsiteisėjęs teismo sprendimas, kuriame nustatyta, kad, vadovaujantis Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu, reikėjo atlikti atranką, arba aplinkos apsaugos valstybinės kontrolės metu nustatoma, kad ūkinė veikla ir (ar) jos keitimas ir (arba) plėtimas, kuriems atranka turėjo būti atlikta Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka, vykdomi šios atrankos neatlikus, ir Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka duodamas privalomasis nurodymas imtis reikiamų veiksmų šiam pažeidimui pašalinti. Šioje dalyje nurodyta atranka turi būti atlikta ne vėliau kaip per vienus metus nuo teismo sprendimo įsiteisėjimo dienos arba privalomojo nurodymo davimo dienos, išskyrus atvejus, kai kitas šios atrankos atlikimo terminas nustatytas ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme.
 
+Fizinis ar juridinis asmuo, vykdantis ūkinę veiklą, iki kurios vykdymo pradžios ir (ar) jos keitimo ir (arba) plėtimo Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka nebuvo atliktas planuojamos ūkinės veiklos poveikio aplinkai vertinimas (toliau šiame straipsnyje – poveikio aplinkai vertinimas), privalo Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo 8 arba 9 straipsnyje nustatyta tvarka pradėti poveikio aplinkai vertinimo procedūras, jeigu:
+1) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą, kad poveikio aplinkai vertinimas neprivalomas, ir atsakingoji institucija priima atrankos išvadą, kad privaloma atlikti poveikio aplinkai vertinimą;
+2) yra įsiteisėjęs teismo sprendimas, kuriame nustatoma, kad, vadovaujantis Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu, reikėjo atlikti atranką, arba aplinkos apsaugos valstybinės kontrolės metu nustatoma, kad ūkinė veikla ir (ar) jos keitimas ir (arba) plėtimas, kuriems atranka turėjo būti atlikta Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka, vykdomi šios atrankos neatlikus, ir atlikus atranką atsakingoji institucija priima atrankos išvadą, kad privaloma atlikti poveikio aplinkai vertinimą;
+3) yra įsiteisėjęs teismo sprendimas, kuriame nustatoma, kad, vadovaujantis Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu, reikėjo atlikti poveikio aplinkai vertinimą;
+4) gavęs Europos Komisijos oficialų pranešimą ar pagrįstą nuomonę arba Europos Sąjungos Teisingumo Teismo sprendimą dėl Direktyvos 2011/92/ES netinkamo įgyvendinimo (taikymo), aplinkos ministras nusprendžia, kad privaloma atlikti poveikio aplinkai vertinimą;
+5) vykdant aplinkos apsaugos valstybinę kontrolę nustatoma, kad ūkinė veikla ir (ar) jos keitimas ir (arba) plėtimas, kurių poveikio aplinkai vertinimas turėjo būti atliktas Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nustatyta tvarka, vykdomi jo neatlikus ir Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka duodamas privalomasis nurodymas imtis reikiamų veiksmų šiam pažeidimui pašalinti.
 
+Šio straipsnio ketvirtojoje dalyje nurodytais atvejais poveikio aplinkai vertinimas turi būti atliktas per Vyriausybės įgaliotos institucijos nustatytą terminą, išskyrus atvejus, kai poveikio aplinkai vertinimo atlikimo terminas nustatytas ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme. Vyriausybės įgaliotos institucijos nustatytas terminas, per kurį turi būti atliktas poveikio aplinkai vertinimas, negali būti trumpesnis kaip vieni metai ir ilgesnis kaip treji metai. Šis terminas nustatomas atsižvelgiant į ūkinės veiklos pobūdį, mastą, poreikį atlikti papildomus tyrimus ar aplinkos stebėseną (monitoringą) ir reikalingas susijusias viešųjų pirkimų procedūras ir skaičiuojamas nuo šio straipsnio ketvirtosios dalies 1 ir 2 punktuose nurodytos atsakingosios institucijos atrankos išvados, kad poveikio aplinkai vertinimas privalomas, priėmimo dienos, šio straipsnio ketvirtosios dalies 3 punkte nurodyto teismo sprendimo įsiteisėjimo dienos, šio straipsnio ketvirtosios dalies 4 punkte nurodyto Aplinkos ministro sprendimo priėmimo dienos arba šio straipsnio ketvirtosios dalies 5 punkte nurodyto privalomojo nurodymo davimo dienos.
 
+Institucija, Vyriausybės įgaliota nustatyti šio straipsnio penktojoje dalyje nurodytą poveikio aplinkai vertinimo atlikimo terminą, aplinkos ministro nustatyta tvarka priima sprendimą pratęsti šį terminą ne ilgiau kaip vieniems metams per 15 darbo dienų nuo fizinio ar juridinio asmens, vykdančio šio straipsnio ketvirtojoje dalyje nurodytą ūkinę veiklą, pateikto motyvuoto prašymo dėl termino pratęsimo gavimo dienos, jeigu fizinis ar juridinis asmuo pateikia informaciją, pagrindžiančią, kad poveikio aplinkai vertinimo procedūros negali būti baigtos per nustatytą terminą ne dėl jo kaltės, ir nurodytas aplinkybes pagrindžiančius dokumentus. Fizinis ar juridinis asmuo, vykdantis šio straipsnio ketvirtojoje dalyje nurodytą ūkinę veiklą, dėl sprendimo pratęsti šio straipsnio penktojoje dalyje nurodytą poveikio aplinkai vertinimo atlikimo terminą gali kreiptis, kai nuo prašymo pateikimo dienos iki poveikio aplinkai vertinimo atlikimo termino pabaigos lieka ne mažiau kaip 30 darbo dienų. Prašymas, pateiktas likus mažiau kaip 30 darbo dienų iki poveikio aplinkai vertinimo atlikimo termino pabaigos, nenagrinėjamas.
 
-Valstybės institucijos ir savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatyta tvarka dalyvaujantys poveikio aplinkai vertinimo ar atrankos dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo (toliau šiame straipsnyje – atranka) procese, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatyta tvarka įvertina pateiktus poveikio aplinkai vertinimo dokumentus ir pagal kompetenciją teikia išvadas arba motyvuotą sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai ar pateikia pasiūlymus dėl informacijos, reikalingos atrankai dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo atlikti (toliau – atrankos informacija), ir (ar) poveikio aplinkai vertinimo.
+Valstybės ar savivaldybės institucija, įgaliota išduoti leidimus, privalomus šio straipsnio trečiojoje ir ketvirtojoje dalyse nurodytai ūkinei veiklai vykdyti, sustabdo išduoto leidimo galiojimą, kol bus atlikta atranka ir (ar) poveikio aplinkai vertinimas, arba panaikina leidimo galiojimą, jeigu leidimo galiojimo sustabdymas ar galiojimo panaikinimas numatytas ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme.
 
+Aplinkos apsaugos departamentas prie Aplinkos ministerijos, vykdydamas Aplinkos apsaugos valstybinės kontrolės įstatyme nustatytas funkcijas, jeigu tai numatyta ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme ar Aplinkos apsaugos valstybinės kontrolės įstatyme, sustabdo šio straipsnio trečiojoje ar ketvirtojoje dalyse nurodytos ūkinės veiklos vykdymą, kol bus atlikta atranka ir (ar) poveikio aplinkai vertinimas. Ūkinė veikla nestabdoma, jeigu ją sustabdžius galėtų kilti didesnė žala visuomenės interesams, negu tęsiamos ūkinės veiklos daromas poveikis: sutriktų viešasis geriamojo vandens tiekimas ir (ar) nuotekų tvarkymas, centralizuotas šilumos ar elektros energijos tiekimas, mišrių komunalinių atliekų tvarkymas, arba jeigu sustabdžius šio straipsnio trečiojoje ar ketvirtojoje dalyje nurodytą ūkinę veiklą būtų apribotas nacionaliniam saugumui užtikrinti strateginę ar svarbią reikšmę turinčios infrastruktūros, nurodytos Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 4 priede, naudojimas.
 
+Jeigu šio straipsnio trečiojoje dalyje nurodytos ūkinės veiklos atranka neatliekama per šio straipsnio trečiojoje dalyje nustatytą terminą arba šio straipsnio ketvirtojoje dalyje nurodytos ūkinės veiklos poveikio aplinkai vertinimas neatliekamas per šio straipsnio penktojoje dalyje nustatytą terminą, jei taikoma, ir šio straipsnio šeštojoje dalyje nustatyta tvarka pratęstą terminą, pasibaigus šiam terminui ši ūkinė veikla negali būti vykdoma tol, kol nėra įgyvendinami Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, šiame įstatyme ir (ar) ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme šiai ūkinei veiklai nustatyti reikalavimai. Šios dalies nuostatos netaikomos, jeigu sustabdžius šią ūkinę veiklą galėtų kilti didesnė žala visuomenės interesams, negu tęsiamos ūkinės veiklos daromas poveikis: sutriktų viešasis geriamojo vandens tiekimas ir (ar) nuotekų tvarkymas, centralizuotas šilumos ar elektros energijos tiekimas, mišrių komunalinių atliekų tvarkymas, arba jeigu sustabdžius šio straipsnio trečiojoje ar ketvirtojoje dalyje nurodytą ūkinę veiklą būtų apribotas nacionaliniam saugumui užtikrinti strateginę ar svarbią reikšmę turinčios infrastruktūros, nurodytos Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 4 priede, naudojimas.
 
-
-Ūkinei veiklai, kuriai turi būti atliktos Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatytos procedūros, įstatymuose įtvirtinti leidimai (statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes, taršos integruotos prevencijos ir kontrolės leidimas, taršos leidimas ir kiti šiame ar kituose įstatymuose nurodyti leidimai) išduodami ar keičiami arba įrenginiai įregistruojami ar jų registracijos duomenys tikslinami turint galiojantį atsakingosios institucijos sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus ir nedarys reikšmingo neigiamo poveikio aplinkai (toliau šiame straipsnyje – sprendimas dėl poveikio aplinkai), ar atrankos dėl poveikio aplinkai vertinimo išvadą, kad poveikio aplinkai vertinimas neprivalomas (toliau šiame straipsnyje – atrankos išvada), išskyrus atvejus, kai taršos integruotos prevencijos ir kontrolės leidimas ar taršos leidimas keičiamas arba įrenginio registracijos duomenys tikslinami dėl priežasčių, nesusijusių su eksploatuojamo įrenginio pobūdžio ar veikimo pakeitimu arba išplėtimu, galinčiu daryti reikšmingą neigiamą poveikį žmonių sveikatai arba aplinkai, kaip nustatyta Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme. Jeigu planuojamai ūkinei veiklai, kuriai turi būti atliktos Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatytos procedūros, vykdyti nereikia šiame ar kituose įstatymuose įtvirtintų leidimų, ūkinę veiklą galima pradėti tik gavus sprendimą dėl poveikio aplinkai ar atrankos išvadą.
-
-
-
-
-Jeigu fizinis asmuo, juridinis asmuo ar jo padalinys (įskaitant užsienio valstybės juridinį asmenį ar kitą organizaciją, taip pat jų padalinį) (toliau šiame straipsnyje, šio įstatymo 19, 191, 192 ir 193 straipsniuose – fizinis ar juridinis asmuo) turi galiojantį statybą leidžiantį dokumentą ar leidimą naudoti žemės gelmių išteklius arba ertmes, išduotą galiojant sprendimui dėl poveikio aplinkai arba atrankos išvadai, išduodant taršos integruotos prevencijos ir kontrolės leidimą, taršos leidimą ar kitą leidimą, pagal kurį bus vykdoma sprendime dėl poveikio aplinkai ar atrankos išvadoje įrašyta ūkinė veikla, arba įregistruojant įrenginį, šio straipsnio trečiosios dalies nuostatos netaikomos. 
-
-
-
-
-Šio straipsnio trečiojoje dalyje nurodytų leidimų turinys ir ūkinės veiklos vykdymo ir (ar) ūkinės veiklos užbaigimo sąlygos, jeigu jos nustatomos leidimuose, turi atitikti sprendime dėl poveikio aplinkai nustatytas planuojamos ūkinės veiklos įgyvendinimo sąlygas, nurodytą ūkinės veiklos mastą, fizines ir technines charakteristikas ir nustatytas priemones reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos išvadoje nurodytą ūkinės veiklos mastą, fizines ir technines charakteristikas ir nustatytas priemones reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią.
-
-
-
-
-Šio straipsnio trečiojoje dalyje nurodytuose leidimuose ar prie įrenginio registracijos duomenų pateikiama nuoroda į atsakingosios institucijos paviešintą sprendimą dėl poveikio aplinkai, kuriuo remiantis išduotas ar pakeistas leidimas arba įregistruotas įrenginys.
-
-
-
-
-Planuojantis, vykdantis ar užbaigiantis ūkinę veiklą fizinis ar juridinis asmuo privalo užtikrinti, kad pasirengimo vykdyti planuojamą ūkinę veiklą ir (ar) ūkinės veiklos vykdymo, ir (ar) ūkinės veiklos užbaigimo etapuose būtų įgyvendintos sprendime dėl poveikio aplinkai nustatytos planuojamos ūkinės veiklos įgyvendinimo sąlygos ir priemonės reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti, kas pažeista, arba atrankos išvadoje nustatytos priemonės reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią.
-
-
-
-
-Fizinis ar juridinis asmuo, rengiantis Lietuvos Respublikos statybos įstatyme nurodytus statinių, kuriuose planuojama vykdyti ūkinę veiklą, galinčią daryti poveikį aplinkai, projektus, statinio projekte privalo numatyti priemones gamtos ištekliams racionaliai naudoti, suprojektuoti priemones reikšmingam neigiamam poveikiui aplinkai išvengti, užkirsti jam kelią, sumažinti, kompensuoti ir (ar) atkurti, kas pažeista, vadovaudamasis šio straipsnio trečiojoje dalyje nurodytu sprendimu dėl poveikio aplinkai ar atrankos išvada.
-
-
-
-
-Statybos įstatyme nurodytos valstybės institucijos, nagrinėjusios poveikio aplinkai vertinimo dokumentus ar atrankos informaciją, ir savivaldybės administracija, tikrindamos statinių, kuriuose bus vykdoma ūkinė veikla, kuriai atliktas poveikio aplinkai vertinimas arba atranka, projektų atitiktį, pagal kompetenciją tikrina, ar bus įgyvendintos sprendime dėl poveikio aplinkai nustatytos konkrečiu statybos etapu būtinos įgyvendinti sąlygos ir suprojektuotos sprendime dėl poveikio aplinkai nustatytos konkrečiu statybos etapu būtinos įgyvendinti priemonės reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos išvadoje nustatytos konkrečiu statybos etapu būtinos įgyvendinti priemonės reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią. Papildomai aplinkos ministro įgaliota institucija, tikrindama tokių statinių projektus, tikrina, ar:
-
-
-1) nepasibaigęs sprendimo dėl poveikio aplinkai arba atrankos išvados galiojimo terminas;
-
-
-
-
-2) statinio projektas atitinka sprendime dėl poveikio aplinkai arba atrankos išvadoje įrašytos ūkinės veiklos mastą, fizines ir technines charakteristikas;
-
-
-
-
-3) statinio projektas atitinka aplinkos apsaugą reglamentuojančių teisės aktų reikalavimus.
-
-
-
-
-
-
-Valstybės ir savivaldybės institucija ir įstaiga, planuojamai ūkinei veiklai, kuriai atliktas poveikio aplinkai vertinimas, išdavusi ar pakeitusi šio straipsnio trečiojoje dalyje nurodytą leidimą ar priėmusi sprendimą atsisakyti jį išduoti (įskaitant įrenginių registraciją) arba įregistravusi įrenginį ar patikslinusi jo registracijos duomenis, teisės aktų, reglamentuojančių šių leidimų išdavimą ir (ar) pakeitimą, nustatyta tvarka, bet ne vėliau kaip per 5 darbo dienas, apie tai informuoja visuomenę, atsakingąją instituciją, sprendime dėl poveikio aplinkai nurodytus poveikio aplinkai vertinimo subjektus, jeigu atliktas planuojamos ūkinės veiklos tarpvalstybinio poveikio aplinkai vertinimas, – ir Vyriausybės įgaliotą aplinkos apsaugos instituciją, koordinuojančią tarpvalstybinio poveikio aplinkai vertinimo procesą, pateikdama nuorodą į paskelbtą leidimą ar jo pakeitimą, ar sprendimą atsisakyti išduoti leidimą (įskaitant įrenginių registraciją) arba įrenginio registracijos duomenis. 
-
-
-
-
-Vyriausybės įgaliota aplinkos apsaugos institucija, koordinuojanti tarpvalstybinio poveikio aplinkai vertinimo procesą, gavusi šio straipsnio dešimtojoje dalyje nurodytą informaciją, aplinkos ministro nustatyta tvarka informuoja apie išduotą leidimą ar jo pakeitimą, ar priimtą sprendimą atsisakyti jį išduoti (įskaitant įrenginių registraciją) arba įrenginio registraciją ar jo registracijos duomenų patikslinimą tarpvalstybinio poveikio aplinkai vertinimo procedūrose dalyvavusią Europos Sąjungos valstybę narę ir (ar) užsienio valstybę, ne Europos Sąjungos valstybę narę, prisijungusią prie Jungtinių Tautų Organizacijos 1991 m. Konvencijos dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste (toliau – Espo konvencija).
-
-
-
-
-Jeigu tarpvalstybinio poveikio aplinkai vertinimo metu, vadovaujantis Espo konvencijos 7 straipsnio 1 dalimi, su tarpvalstybinio poveikio aplinkai vertinimo procedūrose dalyvavusia Europos Sąjungos valstybe nare ir (ar) užsienio valstybe, ne Europos Sąjungos valstybe nare, prisijungusia prie Espo konvencijos, susitariama, kad planuojamai ūkinei veiklai, kurios tarpvalstybinio poveikio aplinkai vertinimo procedūros atliktos, bus atliekama tarpvalstybinio poveikio stebėsena, šios stebėsenos programa ir ataskaita rengiama, derinama ir teikiama aplinkos ministro nustatyta tvarka.
-
-
-
-
-Jeigu pagal aplinkos stebėsenos (monitoringo) rezultatus ar aplinkos apsaugos valstybinės kontrolės metu nustatoma, kad, fiziniam ar juridiniam asmeniui planuojant, vykdant ar užbaigiant ūkinę veiklą, sprendime dėl poveikio aplinkai nustatytų planuojamos ūkinės veiklos įgyvendinimo sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos išvadoje nustatytų priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią nepakanka ir viršijami teisės aktuose nustatyti aplinkos apsaugos normatyvai, ir (ar) daromas reikšmingas neigiamas poveikis aplinkai, planuojantis, vykdantis ar užbaigiantis ūkinę veiklą fizinis ar juridinis asmuo privalo taikyti aplinkos ministro nustatyta tvarka su aplinkos ministro įgaliota institucija suderintas priemones reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba užkirsti jam kelią.
-
-
-
-
-Šio straipsnio tryliktosios dalies nuostatos netaikomos sprendime dėl poveikio aplinkai nustatytoms planuojamos ūkinės veiklos įgyvendinimo sąlygoms ir priemonėms reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos išvadoje nustatytoms priemonėms reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią, kurios perkeliamos į taršos integruotos prevencijos ir kontrolės leidimo arba taršos leidimo sąlygas, ir keičiamos vadovaujantis šio įstatymo 191 arba 192 straipsnių nuostatomis.
- 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
-Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
-Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
- 
-
-
-
-
-16 straipsnis. Neteko galios nuo 2017-11-01
-Straipsnio naikinimas:
-Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
- 
-
-
-
-
-17 straipsnis. Neteko galios nuo 2017-11-01
-Straipsnio naikinimas:
-Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
- 
-
-
-
-
-18 straipsnis. Neteko galios nuo 2017-11-01
-Straipsnio naikinimas:
-Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
- 
-
-
-
-
+Šio straipsnio ketvirtojoje dalyje nurodyta ūkinė veikla negali būti vykdoma, jeigu priimamas sprendimas dėl poveikio aplinkai, pagal kurį planuojama ūkinė veikla neatitinka teisės aktų reikalavimų ir darys reikšmingą neigiamą poveikį aplinkai, Valstybės ar savivaldybės institucija, įgaliota išduoti leidimus, privalomus šio straipsnio ketvirtojoje dalyje nurodytai ūkinei veiklai vykdyti, panaikina išduoto leidimo galiojimą arba kreipiasi į teismą dėl leidimo galiojimo panaikinimo, jeigu tai numatyta ūkinės veiklos vykdymo ir (ar) leidimo ją vykdyti išdavimo tvarką reglamentuojančiame įstatyme.
 19 straipsnis. Ūkinės veiklos objektų eksploatavimas
 
 
@@ -1473,27 +1377,27 @@ Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
 2) jeigu pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas planuojamai ūkinei veiklai atliktas poveikio aplinkai vertinimas arba atranka dėl poveikio aplinkai vertinimo, turi būti įgyvendintos sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytos planuojamos ūkinės veiklos įgyvendinimo sąlygos ir priemonės reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti, kas pažeista, arba atrankos išvadoje dėl poveikio aplinkai vertinimo nustatytos būtinos įdiegti ūkinės veiklos objekte priemonės reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią, jeigu šiame punkte nurodytame sprendime ar atrankos išvadoje nustatyta, kad jos privalo būti įgyvendintos iki planuojamos ūkinės veiklos vykdymo pradžios;
 Straipsnio punkto pakeitimai:
 Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
- 
+ 
 
 
 
 
-3) turi būti įgyvendinti šio įstatymo, Lietuvos Respublikos atliekų tvarkymo įstatymo, Lietuvos Respublikos aplinkos oro apsaugos įstatymo, Lietuvos Respublikos vandens įstatymo, Lietuvos Respublikos geriamojo vandens įstatymo, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo, Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo, Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo, Lietuvos Respublikos triukšmo valdymo įstatymo įgyvendinamuosiuose teisės aktuose nustatyti techniniai, technologiniai reikalavimai įrenginių, kurių eksploatavimui privaloma turėti taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą, įrengimui, taikomi konkrečiai ūkinei veiklai ir ūkinės veiklos objekte privalo būti įgyvendinti iki ūkinės veiklos vykdymo pradžios.
+3) turi būti įgyvendinti šio įstatymo, Lietuvos Respublikos atliekų tvarkymo įstatymo, Lietuvos Respublikos aplinkos oro apsaugos įstatymo, Lietuvos Respublikos vandens įstatymo, Lietuvos Respublikos geriamojo vandens įstatymo, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo, Lietuvos Respublikos klimato kaitos valdymo įstatymo, Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo, Lietuvos Respublikos triukšmo valdymo įstatymo įgyvendinamuosiuose teisės aktuose nustatyti įrenginių, kurių eksploatavimui privaloma turėti taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą, įrengimo techniniai ir technologiniai reikalavimai, kurie taikomi ūkinės veiklos objektui ir kuriuos privaloma įgyvendinti iki ūkinės veiklos vykdymo pradžios.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
+ 
 
 
 
 
-Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ar vykdantis ūkinę veiklą, kai reikalingas leidimas ar veikla vykdoma įrenginyje, kuris pagal šio įstatymo 193 straipsnį turi būti įregistruotas, privalo laikytis leidime nustatytų sąlygų ir tokiems objektams ar įrenginiams eksploatuoti ir (ar) ūkinei veiklai vykdyti nustatytų aplinkos apsaugos normatyvų ir aplinkos apsaugos standartų. Vykdant leidime nurodytą ūkinę veiklą, kietosios medžiagos (šalutiniai produktai, nurodyti Atliekų tvarkymo įstatyme, atliekos, žaliavos ir produktai) už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų gali patekti tik tokiais atvejais, kiekiais ir būdais, kaip tai numatyta leidimo sąlygose ir (ar) aplinkos apsaugos normatyvuose bei aplinkos apsaugos standartuose.
+Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ar vykdantis ūkinę veiklą, kai reikalingas leidimas ar veikla vykdoma įrenginyje, kuris pagal šio įstatymo 193 straipsnį turi būti įregistruotas, privalo laikytis leidime nustatytų sąlygų ir tokiems objektams ar įrenginiams eksploatuoti ir (ar) ūkinei veiklai vykdyti nustatytų aplinkos apsaugos normatyvų ir aplinkos apsaugos standartų. Vykdant leidime nurodytą ūkinę veiklą, kietosios medžiagos (šalutiniai produktai, nurodyti Atliekų tvarkymo įstatyme, atliekos, žaliavos ir produktai) už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų gali patekti tik tokiais atvejais, kiekiais ir būdais, kaip tai numatyta leidimo sąlygose ir (ar) aplinkos apsaugos normatyvuose bei aplinkos apsaugos standartuose.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
+ 
 
 
 
@@ -1511,7 +1415,14 @@ Fizinis ar juridinis asmuo, eksploatuodamas ūkinės veiklos objektą, privalo n
 Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ar vykdantis ūkinę veiklą, kai nereikalingas leidimas, privalo laikytis tokiems objektams eksploatuoti ir (ar) ūkinei veiklai vykdyti nustatytų aplinkos apsaugos normatyvų ir aplinkos apsaugos standartų.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
- 
+ 
+
+
+
+
+Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą, kuriam išduotas taršos integruotos prevencijos ir kontrolės leidimas ar taršos leidimas, nustatęs, kad pažeidžia leidimo sąlygas, privalo nedelsdamas, bet ne vėliau kaip per 3 darbo dienas nuo dienos, kai sužinojo ar turėjo sužinoti, kad pažeidžia leidimo sąlygas, apie tai pranešti Aplinkos apsaugos departamentui prie Aplinkos ministerijos ir skubiai imtis priemonių pažeidimui pašalinti (kai, atsižvelgiant į pažeidimo pobūdį, jį pašalinti įmanoma) per trumpiausią įmanomą laikotarpį, taip pat imtis kitų papildomų priemonių, kurias taikyti nurodė Aplinkos apsaugos departamentas prie Aplinkos ministerijos, siekdamas, kad kuo greičiau vėl būtų laikomasi leidimo sąlygų. Aplinkos ministras nustato pranešimo apie leidimo sąlygų pažeidimą ir Aplinkos apsaugos departamento prie Aplinkos ministerijos veiksmų, gavus pranešimą, tvarką.
+
+
 
 
 Straipsnio pakeitimai:
@@ -1519,13 +1430,7 @@ Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 Nr. IX-2113, 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 Nr. X-147, 2005-03-24, Žin., 2005, Nr. 47-1558 (2005-04-12)
 Straipsnio pakeitimai:
-Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
- 
-
-
-
-
-191 straipsnis. Taršos integruotos prevencijos ir kontrolės leidimas
+Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965191 straipsnis. Taršos integruotos prevencijos ir kontrolės leidimas
 
 
 Taršos integruotos prevencijos ir kontrolės leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisykles (toliau – TIPK taisyklės) tvirtina aplinkos ministras, suderinęs su sveikatos apsaugos ministru. TIPK taisyklėse nustatyta paraiškos taršos integruotos prevencijos ir kontrolės leidimui gauti ar pakeisti (toliau – TIPK paraiška) rengimo, pateikimo ir aplinkos ministro įgaliotos institucijos atliekamo gautos TIPK paraiškos viešinimo, nagrinėjimo, derinimo, priėmimo, taršos integruotos prevencijos ir kontrolės leidimo (toliau šiame straipsnyje – TIPK leidimas) projekto rengimo, TIPK leidimo išdavimo, TIPK leidimo sąlygų peržiūrėjimo, TIPK leidimo pakeitimo ir galiojimo panaikinimo tvarka, taip pat informacijos teikimo kitai Europos Sąjungos valstybei narei, konsultavimosi su kita Europos Sąjungos valstybe nare, informavimo apie priimtą sprendimą išduoti TIPK leidimą tvarka, kitos Europos Sąjungos valstybės narės visuomenės informavimo tvarka.
@@ -1551,7 +1456,7 @@ TIPK paraiškas derina ir pagal kompetenciją nustato ir peržiūri TIPK leidimo
 Aplinkos ministro įgaliota institucija apie gautą TIPK paraišką ir galimybę susipažinti su TIPK paraiška informuoja savivaldybės administraciją. Savivaldybės administracija, turėdama pastabų dėl TIPK paraiškos, per 7 darbo dienas nuo šioje dalyje nurodytos informacijos gavimo dienos pateikia pastabas aplinkos ministro įgaliotai institucijai. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
- 
+ 
 
 
 
@@ -1559,7 +1464,7 @@ Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
 Sprendimą priimti TIPK paraišką priima aplinkos ministro įgaliota institucija, atlikusi gautos TIPK paraiškos viešinimo ir derinimo procedūras, kai yra gautas NVS centro sprendimas su jame nustatytomis TIPK leidimo triukšmo ir kvapų valdymo sąlygomis, jeigu tokios sąlygos turi būti nustatytos, ir nustačiusi, kad paraiškoje pateikti visi tinkamai įforminti duomenys ir (ar) dokumentai, reikalingi TIPK leidimo sąlygoms nustatyti.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
- 
+ 
 
 
 
@@ -1585,7 +1490,7 @@ Sprendimas nepriimti TIPK paraiškos priimamas, kai yra bent viena iš šių są
 3) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas TIPK leidimas;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
+ 
 
 
 
@@ -1593,7 +1498,7 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 4) nėra atrankos išvados dėl poveikio aplinkai vertinimo arba sprendimo dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, arba ši išvada ar šis sprendimas nebegalioja, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas TIPK leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
+ 
 
 
 
@@ -1608,10 +1513,10 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-7) paraiškoje nenumatytos sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti planuojamos ūkinės veiklos įgyvendinimo sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos dėl poveikio aplinkai vertinimo išvadoje, kad poveikio aplinkai vertinimas neprivalomas, nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią, įgyvendinimo priemonės;
+7) paraiškoje nenumatytos sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti planuojamos ūkinės veiklos įgyvendinimo sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos dėl poveikio aplinkai vertinimo išvadoje, kad poveikio aplinkai vertinimas neprivalomas, nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią, įgyvendinimo priemonės;
 Straipsnio punkto pakeitimai:
 Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
- 
+ 
 
 
 
@@ -1619,9 +1524,7 @@ Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
 8) fizinis asmuo TIPK paraiškos pateikimo metu eksploatuoja arba eksploatavo ūkinės veiklos objektą ar įrenginį, kuriam buvo panaikintas TIPK leidimas šio straipsnio keturioliktosios dalies 9 punkte nurodytu pagrindu ir nepraėjo penkeri metai nuo turėto TIPK leidimo galiojimo panaikinimo dienos, arba juridinio asmens vadovas TIPK paraiškos pateikimo metu yra ar buvo juridinio asmens, eksploatuojančio ar eksploatavusio ūkinės veiklos objektą ar įrenginį, vadovas, kuriam jo vadovavimo metu buvo panaikintas TIPK leidimo galiojimas šio straipsnio keturioliktosios dalies 9 punkte nurodytu pagrindu, ir nepraėjo penkeri metai nuo anksčiau turėto TIPK leidimo galiojimo panaikinimo dienos.
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
-
-
+ 
 
 
 
@@ -1642,7 +1545,7 @@ Sprendimas neišduoti ar nekeisti TIPK leidimo priimamas, kai yra bent viena iš
 2) po sprendimo priimti TIPK paraišką priėmimo įsiteisėja teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas TIPK leidimas;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
+ 
 
 
 
@@ -1650,7 +1553,7 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 3) nebegalioja atrankos išvada dėl poveikio aplinkai vertinimo arba sprendimas dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas ar pakeistas TIPK leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
+ 
 
 
 
@@ -1665,14 +1568,12 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-
-
 Fizinis ar juridinis asmuo, norėdamas daryti įrenginio, kuriam išduotas TIPK leidimas, esminį pakeitimą (t. y. pakeisti įrenginio (jo dalies, kelių įrenginių ar jų dalių) pobūdį ar veikimą arba jį išplėsti, kai toks pakeitimas ar išplėtimas gali turėti reikšmingą neigiamą poveikį žmonių sveikatai arba aplinkai, kaip nustatyta Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, arba kai toks pakeitimas ar išplėtimas atitinka arba viršija TIPK taisyklėse nustatytas įrenginio pajėgumo ribas), turi TIPK taisyklėse nustatyta tvarka kreiptis dėl TIPK leidimo pakeitimo. Tam, kad TIPK leidime būtų nustatytos su planuojamu įrenginio esminiu pakeitimu susijusios sąlygos, fizinis ar juridinis asmuo privalo TIPK taisyklėse nustatyta tvarka pateikti aplinkos ministro įgaliotai institucijai TIPK paraišką dėl TIPK leidimo pakeitimo. Jeigu planuojamas pakeitimas nėra esminis, TIPK taisyklėse nustatyta tvarka fizinis ar juridinis asmuo privalo raštu pranešti aplinkos ministro įgaliotai institucijai apie planuojamus įrenginio pobūdžio arba veikimo pakeitimus ar išplėtimą, kurie gali daryti poveikį aplinkai, o aplinkos ministro įgaliota institucija įvertina, ar pakeitimai galimi, ir priima sprendimą dėl poreikio keisti leidimo sąlygas ar patį leidimą. 
 
 
 
 
-Aplinkos ministro įgaliota institucija, siekdama užtikrinti šio straipsnio antrojoje dalyje nurodytų principų laikymąsi ir TIPK leidimo sąlygų atitiktį teisės aktų reikalavimams, TIPK taisyklėse nustatyta tvarka peržiūri TIPK leidimo sąlygas ir, nustačiusi, kad atsirado bent viena šioje dalyje nurodytų TIPK leidimo keitimo sąlygų, arba gavusi NVS centro pranešimą, kad TIPK leidimo sąlygos dėl šios dalies 3 ir 4 punktuose nurodytų priežasčių turi būti keičiamos, priima sprendimą dėl prievolės pakeisti TIPK leidimą. Apie šį sprendimą fizinis ar juridinis asmuo informuojamas raštu per 3 darbo dienas nuo sprendimo priėmimo dienos. Gavęs šiame punkte nurodytą sprendimą, fizinis ar juridinis asmuo privalo šiame sprendime nustatytais terminais pateikti aplinkos ministro įgaliotai institucijai TIPK paraišką dėl TIPK leidimo pakeitimo. Paraiškos pateikimo terminas turi būti ne trumpesnis kaip 20 darbo dienų, o šios dalies 4 ir 5 punktuose nurodytais atvejais – ne trumpesnis kaip 20 darbo dienų ir ne ilgesnis kaip 30 darbo dienų. TIPK leidimas turi būti pakeistas, kai yra bent viena iš šių sąlygų:
+Aplinkos ministro įgaliota institucija, siekdama užtikrinti šio straipsnio antrojoje dalyje nurodytų principų laikymąsi ir TIPK leidimo sąlygų atitiktį teisės aktų reikalavimams, TIPK taisyklėse nustatyta tvarka peržiūri TIPK leidimo sąlygas ir, nustačiusi, kad atsirado bent viena šioje dalyje nurodytų TIPK leidimo keitimo sąlygų, arba gavusi NVS centro pranešimą, kad TIPK leidimo sąlygos dėl šios dalies 3 ir 4 punktuose nurodytų priežasčių turi būti keičiamos, priima sprendimą dėl prievolės pakeisti TIPK leidimą. Apie šį sprendimą fizinis ar juridinis asmuo informuojamas raštu per 3 darbo dienas nuo sprendimo priėmimo dienos. Gavęs šiame punkte nurodytą sprendimą, fizinis ar juridinis asmuo privalo šiame sprendime nustatytais terminais pateikti aplinkos ministro įgaliotai institucijai TIPK paraišką dėl TIPK leidimo pakeitimo. Paraiškos pateikimo terminas turi būti ne trumpesnis kaip 20 darbo dienų, o šios dalies 4 ir 5 punktuose nurodytais atvejais – ne trumpesnis kaip 20 darbo dienų ir ne ilgesnis kaip 30 darbo dienų. TIPK leidimas turi būti pakeistas, kai yra bent viena iš šių sąlygų:
 
 
 1) išduotame TIPK leidime nustatytos sąlygos ir terminai, dėl kurių TIPK leidimas turi būti pakeistas;
@@ -1690,10 +1591,10 @@ Aplinkos ministro įgaliota institucija, siekdama užtikrinti šio straipsnio an
 
 
 
-4) NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo ir Triukšmo valdymo įstatymo priskirtas funkcijas triukšmo ir kvapų valdymo srityje, per 12 mėnesių 2 kartus nustato, kad fizinis ar juridinis asmuo pažeidė TIPK leidime nurodytas triukšmo ar kvapų valdymo sąlygas, ir pateikia sprendimą, kad tokių pažeidimų prevencijai reikia sugriežtinti arba įrašyti papildomas TIPK leidimo sąlygas;
+4) NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo ir Triukšmo valdymo įstatymo priskirtas funkcijas triukšmo ir kvapų valdymo srityje, per 12 mėnesių 2 kartus nustato, kad fizinis ar juridinis asmuo pažeidė TIPK leidime nurodytas triukšmo ar kvapų valdymo sąlygas, ir pateikia sprendimą, kad tokių pažeidimų prevencijai reikia sugriežtinti arba įrašyti papildomas TIPK leidimo sąlygas;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
+ 
 
 
 
@@ -1701,7 +1602,7 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 5) fiziniam ar juridiniam asmeniui per 12 mėnesių 2 kartus pažeidus TIPK leidimo sąlygas, susijusias su neleistinu teršalų patekimu į aplinką, atliekų susidarymu, laikymu ar apdorojimu arba neteisėtu gamtos išteklių naudojimu, jeigu tokių pažeidimų prevencijai reikia sugriežtinti arba įrašyti papildomas TIPK leidimo sąlygas;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
+ 
 
 
 
@@ -1717,8 +1618,6 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 8) kai leidimo sąlygos neatitinka įrenginiui taikytinų pakeistų arba naujų geriausių prieinamų gamybos būdų arba jų nepakanka.
-
-
 
 
 
@@ -1746,7 +1645,7 @@ Sprendimas panaikinti TIPK leidimo galiojimą priimamas, kai yra bent viena iš 
 
 
 
-4) jeigu šio straipsnio aštuntosios dalies 1 punkte nustatytu atveju aplinkos ministro įgaliotai institucijai priėmus sprendimą nepriimti TIPK paraiškos TIPK leidimo turėtojas per 20 darbo dienų nepateikia pataisytos TIPK paraiškos, kai to reikia dėl šio straipsnio dvyliktosios dalies 4 ir 5 punktuose nurodytų sąlygų;
+4) jeigu šio straipsnio aštuntosios dalies 1 punkte nustatytu atveju aplinkos ministro įgaliotai institucijai priėmus sprendimą nepriimti TIPK paraiškos TIPK leidimo turėtojas per 20 darbo dienų nepateikia pataisytos TIPK paraiškos, kai to reikia dėl šio straipsnio dvyliktosios dalies 4 ir 5 punktuose nurodytų sąlygų;
 
 
 
@@ -1769,7 +1668,7 @@ Sprendimas panaikinti TIPK leidimo galiojimą priimamas, kai yra bent viena iš 
 8) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi, kad būtų išduotas TIPK leidimas;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
+ 
 
 
 
@@ -1777,7 +1676,7 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 9) Aplinkos apsaugos departamentas prie Aplinkos ministerijos, vykdydamas Aplinkos apsaugos valstybinės kontrolės įstatyme nustatytas funkcijas, per 12 mėnesių 3 kartus nustatė, kad pažeista viena ar kelios iš šių TIPK leidimo sąlygų: viršyti TIPK leidime nustatyti leistinos taršos (kiekio ir (ar) koncentracijos) normatyvai, viršytas didžiausias vienu metu leidžiamas laikyti atliekų kiekis, viršytas leistinas atliekų apdorojimo įrenginio pajėgumas, viršytas didžiausias leidžiamas šalinti atliekų kiekis, tvarkomos TIPK leidime nenurodytos atliekos, už teritorijos, kurioje vykdoma TIPK leidime nurodyta ūkinė veikla, ribų, nesilaikant šio įstatymo 19 straipsnio antrosios dalies nuostatų dėl šios veiklos, pateko šio įstatymo 19 straipsnio antrojoje dalyje nurodytos kietosios medžiagos arba jeigu bet kuris šiame punkte nurodytas TIPK leidimo sąlygų pažeidimas nenutraukiamas ilgiau kaip 6 mėnesius nuo pažeidimo nustatymo dienos, išskyrus atvejus, kai privalomuoju nurodymu pažeidimui pašalinti nustatytas ilgesnis, negu šiame punkte nurodytas terminas, arba NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo ir Triukšmo valdymo įstatymo priskirtas funkcijas triukšmo ir kvapų valdymo srityje, per 12 mėnesių 3 kartus nustato TIPK leidimo sąlygų pažeidimus, susijusius su triukšmo arba kvapų normų viršijimu. Šio punkto nuostatos netaikomos, jeigu vykdant aplinkos apsaugos valstybinę kontrolę nustatyti šiame punkte nurodyti pažeidimai laikytini mažareikšmiais pagal Lietuvos Respublikos viešojo administravimo įstatymą arba šiame punkte nustatytais pagrindais priimtas sprendimas panaikinti TIPK leidimo galiojimą galėtų sukelti visuomenės interesams didesnę žalą (sutrikdyti viešąjį vandens tiekimą, nuotekų tvarkymą, centralizuotą šilumos ar elektros energijos tiekimą, mišrių komunalinių atliekų tvarkymą), negu tęsiamos ūkinės veiklos daromas poveikis;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
+ 
 
 
 
@@ -1790,9 +1689,7 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 11) TIPK leidimo turėtojas nebeturi teisės valdyti ar naudoti TIPK leidime nurodytai ūkinei veiklai vykdyti naudojamą nekilnojamąjį turtą ar jo dalį ir (ar) įrenginį ar jo dalį. 
 Papildyta straipsnio punktu:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
-
-
+ 
 
 
 
@@ -1800,20 +1697,14 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 Aplinkos ministro nustatyta tvarka nustačius šio straipsnio keturioliktosios dalies 2, 3, 4, 6, 7, 8, 10 ir 11 punktuose nurodytas aplinkybes, fizinis ar juridinis asmuo prieš sprendimo panaikinti TIPK leidimo galiojimą priėmimą per 3 darbo dienas nuo atitinkamos aplinkybės nustatymo dienos įspėjamas apie galimą TIPK leidimo galiojimo panaikinimą. Šio straipsnio keturioliktosios dalies 2, 3, 4, 7, 10 ir 11 punktuose nurodytais atvejais nustatomas 20 darbo dienų terminas, šio straipsnio keturioliktosios dalies 8 punkte nurodytu atveju – 6 mėnesių terminas, per kurį asmuo turi pašalinti trūkumus. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumus pašalina, TIPK leidimo galiojimas nepanaikinamas. Aplinkos ministro nustatyta tvarka nustačius šio straipsnio keturioliktosios dalies 1, 5 ir 9 punktuose nurodytas aplinkybes, TIPK leidimo galiojimas panaikinamas per 3 darbo dienas nuo minėtuose punktuose nurodytų aplinkybių nustatymo dienos, neteikiant šioje dalyje numatyto įspėjimo. Fizinis ar juridinis asmuo apie priimtą sprendimą panaikinti TIPK leidimo galiojimą per 3 darbo dienas nuo sprendimo priėmimo dienos informuojamas raštu, išskyrus atvejus, kai TIPK leidimo galiojimas panaikintas nustačius šio straipsnio keturioliktosios dalies 6 punkte nurodytas aplinkybes, ir nurodomos TIPK leidimo galiojimo panaikinimo priežastys. Panaikinus TIPK leidimą, fizinis ar juridinis asmuo (ūkinės veiklos vykdytojas) privalo saugiai nutraukti įrenginio veiklą ir įgyvendinti būtinas priemones, reikalingas siekiant užtikrinti, kad nebus padarytas neigiamas poveikis aplinkai ir nekils žalos aplinkai grėsmė.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
+ 
 
 
 Įstatymas papildytas straipsniu:
 Nr. XII-287, 2013-05-09, Žin., 2013, Nr. 55-2727 (2013-05-28)
 Straipsnio pakeitimai:
 Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
-Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
- 
-
-
-
-
-192 straipsnis. Taršos leidimas
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846192 straipsnis. Taršos leidimas
 
 
 Taršos leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisykles (toliau – Taršos leidimų taisyklės) tvirtina aplinkos ministras, suderinęs su sveikatos apsaugos ministru. Šiose taisyklėse nustatyta paraiškos taršos leidimui gauti ar pakeisti rengimo, pateikimo, aplinkos ministro įgaliotos institucijos atliekamo gautos paraiškos viešinimo, nagrinėjimo, priėmimo, taršos leidimo projekto rengimo, taršos leidimo išdavimo, taršos leidimo sąlygų peržiūrėjimo, taršos leidimo pakeitimo ir galiojimo panaikinimo tvarka.
@@ -3838,86 +3729,31 @@ Juridiniai asmenys baudas moka į valstybės biudžetą. Šios lėšos sudaro Ap
 
 
 
-55 straipsnis. Juridinių asmenų atsakomybė už ūkinės ar kitokios veiklos vykdymą, objektų naudojimą neturint taršos integruotos prevencijos ir kontrolės leidimo ar taršos leidimo arba neįregistravus įrenginio, arba pateikus įrenginio registracijos duomenis neturint teisės juos pateikti, nesilaikant leidime nustatytų sąlygų ar įregistruotam įrenginiui nustatytų reikalavimų, negavus įgaliotos institucijos sprendimo dėl leidime nurodytų sąlygų įgyvendinimo iki ūkinės veiklos vykdymo pradžios atitikties 
-Pakeistas straipsnio pavadinimas:
-Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
+55 straipsnis. Juridinių asmenų atsakomybė už ūkinės veiklos vykdymą, ūkinės veiklos objektų ar įrenginių eksploatavimą pažeidžiant šio įstatymo 15, 15-1, 19, 19-1, 19-2 ir 19-3 straipsnių reikalavimus
 
+Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas neturint taršos integruotos prevencijos ir kontrolės leidimo, kai pagal teisės aktus toks leidimas yra reikalingas, arba ūkinės veiklos, kuriai pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą turi būti atliktas planuojamos ūkinės veiklos poveikio aplinkai vertinimas, vykdymas neturint sprendimo dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus ir nedaro reikšmingo neigiamo poveikio aplinkai, (toliau šiame straipsnyje – sprendimas dėl poveikio aplinkai), išskyrus šio įstatymo 15-1 straipsnio ketvirtosios dalies 4 punkte nurodytą atvejį, užtraukia baudą nuo dešimt tūkstančių iki trisdešimt tūkstančių eurų.
 
-Ūkinės ar kitokios veiklos vykdymas, objektų naudojimas neturint taršos integruotos prevencijos ir kontrolės leidimo, kai pagal teisės aktus toks leidimas yra reikalingas, užtraukia baudą nuo dešimt tūkstančių iki trisdešimt tūkstančių eurų.
+Šio straipsnio pirmojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trisdešimt tūkstančių iki penkiasdešimt tūkstančių eurų.
 
+Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas neturint taršos leidimo arba neįregistravus įrenginio, kai pagal teisės aktus toks leidimas reikalingas arba pagal teisės aktus toks įrenginys turi būti įregistruotas, arba įrenginio registracijos duomenų pateikimas neturint teisės juos pateikti šio įstatymo 19-3 straipsnio ketvirtojoje dalyje nurodytais atvejais, arba ūkinės veiklos, kuriai pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą turi būti atlikta atranka dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo, vykdymas neturint atrankos dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo išvados, kad poveikio aplinkai vertinimas neprivalomas, (toliau – atrankos išvada) užtraukia baudą nuo penkių tūkstančių iki dešimt tūkstančių eurų.
 
+Šio straipsnio trečiojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo dešimt tūkstančių iki penkiolikos tūkstančių eurų.
 
+Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas nesilaikant taršos integruotos prevencijos ir kontrolės leidime nustatytų sąlygų (išskyrus pažeidimus, nurodytus šio įstatymo 57 straipsnyje, reikalavimus dėl teršalų išmetimo į aplinką viršijant taršos integruotos prevencijos ir kontrolės leidime nustatytus išmetamų teršalų normatyvus ir reikalavimus dėl vandens išgavimo viršijant taršos integruotos prevencijos ir kontrolės leidime nustatytą išgaunamo vandens kiekį) arba sprendime dėl poveikio aplinkai nustatytų planuojamos ūkinės veiklos įgyvendinimo sąlygų ir (ar) konkrečiu ūkinės veiklos etapu neįgyvendinus priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų.
 
-Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trisdešimt tūkstančių iki penkiasdešimt tūkstančių eurų.
+Šio straipsnio penktojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo penkių tūkstančių iki dešimt tūkstančių eurų.
 
+Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas nesilaikant taršos leidime nustatytų sąlygų (išskyrus pažeidimus, nurodytus šio įstatymo 57 straipsnyje, reikalavimus dėl teršalų išmetimo į aplinką viršijant taršos leidime nustatytus išmetamų teršalų normatyvus ir reikalavimus dėl vandens išgavimo viršijant taršos leidime nustatytą išgaunamo vandens kiekį) arba konkrečiu ūkinės veiklos etapu neįgyvendinus atrankos išvadoje nustatytų priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
 
+Šio straipsnio septintojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų.
 
+Ūkinės veiklos vykdymas nesilaikant įregistruotam įrenginiui nustatytų reikalavimų (išskyrus pažeidimus, nurodytus šio įstatymo 57, 75 ir 76 straipsniuose) po rašytinio įspėjimo apie pažeidimą užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
 
-Ūkinės ar kitokios veiklos vykdymas, objektų naudojimas neturint taršos leidimo arba neįregistravus įrenginio, kai pagal teisės aktus toks leidimas reikalingas arba pagal teisės aktus toks įrenginys turi būti įregistruotas, arba įrenginio registracijos duomenų pateikimas neturint teisės juos pateikti šio įstatymo 193 straipsnio 4 dalyje nurodytais atvejais užtraukia baudą nuo penkių tūkstančių iki dešimt tūkstančių eurų.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
+Šio straipsnio devintojoje dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų.
 
+Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas negavus šio įstatymo 19 straipsnyje nurodyto aplinkos ministro įgaliotos institucijos sprendimo, kad ūkinės veiklos objektas atitinka taršos integruotos prevencijos ir kontrolės leidime nurodytas sąlygas, kurios privalo būti įgyvendintos iki ūkinės veiklos vykdymo pradžios, užtraukia baudą nuo penkių tūkstančių iki dešimt tūkstančių eurų.
 
-
-
-Šio straipsnio 3 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo dešimt tūkstančių iki penkiolikos tūkstančių eurų.
-
-
-
-
-Ūkinės ar kitokios veiklos vykdymas, objektų naudojimas nesilaikant šio straipsnio 1 ar 3 dalyje nurodytame leidime nustatytų sąlygų (išskyrus pažeidimus, nurodytus šio įstatymo 57 straipsnyje, reikalavimus dėl teršalų išmetimo į aplinką viršijant taršos integruotos prevencijos ir kontrolės leidime ar taršos leidime nustatytus išmetamų teršalų normatyvus ir reikalavimus dėl vandens išgavimo viršijant taršos integruotos prevencijos ir kontrolės leidime ar taršos leidime nustatytą išgaunamo vandens kiekį) užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
-
-
-
-
-Šio straipsnio 5 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų. 
-
-
-
-
-Ūkinės ar kitokios veiklos vykdymas nesilaikant įregistruotam įrenginiui nustatytų reikalavimų (išskyrus pažeidimus, nurodytus šio įstatymo 57, 75 ir 76 straipsniuose) po rašytinio įspėjimo apie pažeidimą užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
-Papildyta straipsnio dalimi:
-Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
-
-
-
-
-Šio straipsnio 7 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų.
-Papildyta straipsnio dalimi:
-Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
-
-
-
-
-Ūkinės ar kitokios veiklos vykdymas, objektų naudojimas negavus šio įstatymo 19 straipsnyje nurodyto aplinkos ministro įgaliotos institucijos sprendimo, kad ūkinės veiklos objektas atitinka taršos integruotos prevencijos ir kontrolės leidime nurodytas sąlygas, kurios privalo būti įgyvendintos iki ūkinės veiklos vykdymo pradžios, užtraukia baudą nuo penkių tūkstančių iki dešimt tūkstančių eurų.
-Papildyta straipsnio dalimi:
-Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
-
-
-
-
-Ūkinės ar kitokios veiklos vykdymas, objektų naudojimas negavus šio įstatymo 19 straipsnyje nurodyto aplinkos ministro įgaliotos institucijos sprendimo, kad ūkinės veiklos objektas atitinka taršos leidime nurodytas sąlygas, kurios privalo būti įgyvendintos iki ūkinės veiklos vykdymo pradžios, užtraukia baudą nuo dviejų tūkstančių penkių šimtų iki penkių tūkstančių eurų.
-Papildyta straipsnio dalimi:
-Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
- 
-
-
-
-
-551 straipsnis. Juridinių asmenų atsakomybė už neteisėtą šalutinių produktų, nurodytų Atliekų tvarkymo įstatyme, atliekų, žaliavų ir produktų patekimą už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų, kai ūkinės veiklos objektui eksploatuoti ar ūkinei veiklai vykdyti išduotas taršos integruotos prevencijos ir kontrolės leidimas arba taršos leidimas
+Ūkinės veiklos vykdymas, ūkinės veiklos objektų ar įrenginių eksploatavimas negavus šio įstatymo 19 straipsnyje nurodyto aplinkos ministro įgaliotos institucijos sprendimo, kad ūkinės veiklos objektas atitinka taršos leidime nurodytas sąlygas, kurios privalo būti įgyvendintos iki ūkinės veiklos vykdymo pradžios, užtraukia baudą nuo dviejų tūkstančių penkių šimtų iki penkių tūkstančių eurų.551 straipsnis. Juridinių asmenų atsakomybė už neteisėtą šalutinių produktų, nurodytų Atliekų tvarkymo įstatyme, atliekų, žaliavų ir produktų patekimą už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų, kai ūkinės veiklos objektui eksploatuoti ar ūkinei veiklai vykdyti išduotas taršos integruotos prevencijos ir kontrolės leidimas arba taršos leidimas
 
 
 Šalutinių produktų, nurodytų Atliekų tvarkymo įstatyme, atliekų, žaliavų ir produktų patekimas už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų, kai tokios ūkinės veiklos objektui eksploatuoti ar tokiai ūkinei veiklai vykdyti išduotas taršos integruotos prevencijos ir kontrolės leidimas ir kai tai nenumatyta leidimo sąlygose, aplinkos apsaugos normatyvuose ir aplinkos apsaugos standartuose, užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
@@ -3937,23 +3773,9 @@ Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
 
 56 straipsnis. Juridinių asmenų atsakomybė už neteisingos informacijos pateikimą poveikio aplinkai vertinimo proceso metu
 
+Neteisingos informacijos, reikalingos atrankai dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo atlikti, pateikimas, jeigu remiantis tokia informacija priimta atrankos dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo išvada, kad neprivaloma atlikti planuojamos ūkinės veiklos poveikio aplinkai vertinimo, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki dviejų tūkstančių aštuonių šimtų eurų.
 
-Neteisingos informacijos, reikalingos atrankai dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo atlikti, pateikimas, jeigu remiantis tokia informacija priimta atrankos išvada, kad neprivaloma atlikti poveikio aplinkai vertinimą, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki dviejų tūkstančių aštuonių šimtų eurų.
-
-
-
-
-Neteisingos informacijos, reikalingos poveikio aplinkai vertinimo programai patvirtinti arba sprendimui dėl planuojamos ūkinės veiklos poveikio aplinkai priimti, pateikimas, jeigu remiantis tokia informacija priimtas teigiamas sprendimas dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, užtraukia baudą poveikio aplinkai vertinimo dokumentų rengėjams nuo trijų tūkstančių iki šešių tūkstančių eurų.
-
-
-Straipsnio pakeitimai:
-Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
- 
-
-
-
-
-57 straipsnis. Juridinių asmenų atsakomybė už ūkio subjekto aplinkos monitoringą, išskyrus radiologinį aplinkos monitoringą, reglamentuojančių teisės aktų reikalavimų pažeidimą
+Neteisingos informacijos, reikalingos poveikio aplinkai vertinimo programai patvirtinti arba sprendimui dėl planuojamos ūkinės veiklos poveikio aplinkai priimti, pateikimas, jeigu remiantis tokia informacija priimtas sprendimas dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus ir nedarys reikšmingo neigiamo poveikio aplinkai, užtraukia baudą poveikio aplinkai vertinimo dokumentų rengėjams nuo trijų tūkstančių iki šešių tūkstančių eurų.57 straipsnis. Juridinių asmenų atsakomybė už ūkio subjekto aplinkos monitoringą, išskyrus radiologinį aplinkos monitoringą, reglamentuojančių teisės aktų reikalavimų pažeidimą
 
 
 Ūkio subjekto aplinkos monitoringo duomenų, išskyrus radiologinio aplinkos monitoringo duomenis, nepateikimas kompetentingoms institucijoms po rašytinio įspėjimo užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
