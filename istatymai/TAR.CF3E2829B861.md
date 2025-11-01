@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF3E2829B861"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2025-10-31
+Suvestinė redakcija nuo 2025-11-01
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 8-161, i. k. 0981010ISTAVIII-602
  
@@ -160,11 +160,12 @@ Nr. XIII-1659, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19127
 
 
 
-14. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos biomedicininių tyrimų etikos įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos sveikatos sistemos įstatyme, Lietuvos Respublikos veterinarijos įstatyme ir 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB) (toliau – Reglamentas (ES) Nr. 536/2014). 
+14. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos atitikties vertinimo įstatyme, Lietuvos Respublikos biomedicininių tyrimų etikos įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos pluoštinių kanapių įstatyme, Lietuvos Respublikos sveikatos sistemos įstatyme, Lietuvos Respublikos veterinarijos įstatyme ir 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB, su visais pakeitimais.
 Papildyta straipsnio dalimi:
 Nr. XIV-162, 2021-01-12, paskelbta TAR 2021-01-25, i. k. 2021-01219
 Straipsnio dalies pakeitimai:
 Nr. XIV-162, 2021-01-12, paskelbta TAR 2021-01-25, i. k. 2021-01219
+Nr. XV-126, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04580
  
 
 
@@ -345,7 +346,15 @@ Nr. IX-1249, 2002-12-10, Žin., 2002, Nr. 123-5536 (2002-12-24), i. k. 1021010IS
 
 
 
-3) yra naudojamos teisėsaugos institucijų ir šio įstatymo 2112 straipsnyje nurodytų narkotinių ir psichotropinių medžiagų kontrolę vykdančių valstybės institucijų (toliau – teisėsaugos ir kontrolę vykdančios valstybės institucijos) jų nustatytoms funkcijoms atlikti.
+3) yra naudojamos teisėsaugos institucijų ir šio įstatymo 2112 straipsnyje nurodytų narkotinių ir psichotropinių medžiagų kontrolę vykdančių valstybės institucijų (toliau – teisėsaugos ir kontrolę vykdančios valstybės institucijos) jų nustatytoms funkcijoms atlikti;
+
+
+
+
+4) yra naudojamos kaip pamatinės medžiagos laboratorijų, veikiančių pagal standartą LST EN ISO/IEC 17025 „Tyrimų, bandymų ir kalibravimo laboratorijų kompetencijai keliami bendrieji reikalavimai“ (toliau – standartas LST EN ISO/IEC 17025) ir pagal šį standartą akredituotų nacionalinės akreditacijos įstaigos, veikiančios pagal 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 765/2008, nustatantį su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinantį Reglamentą (EEB) Nr. 339/93, su visais pakeitimais, (toliau – akredituotos laboratorijos) I sąrašo medžiagoms, esančioms pluoštinių kanapių gaminiuose, pluoštinių kanapių produktuose ir pluoštinių kanapių tarpiniuose produktuose, nustatyti ir tam reikalingai įrangai kalibruoti arba siekiant akredituoti laboratoriją pagal standartą LST EN ISO/IEC 17025. 
+Papildyta straipsnio punktu:
+Nr. XV-126, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04580
+ 
 
 
 
@@ -396,6 +405,55 @@ Nr. XIV-162, 2021-01-12, paskelbta TAR 2021-01-25, i. k. 2021-01219
 
 
 10. Teisėsaugos ir kontrolę vykdančios valstybės institucijos turi teisę įsigyti, laikyti, gabenti valstybės viduje, importuoti ir naudoti būtinus į I sąrašą įtrauktų medžiagų kiekius jų nustatytoms funkcijoms atlikti. Joms specialiojo leidimo ar licencijos verstis veikla, susijusia su vaistiniais preparatais, kurių sudėtyje yra I sąrašo medžiagų, ir II, III sąrašų narkotinėmis ir psichotropinėmis medžiagomis, įgyti nereikia. Teisėsaugos ir kontrolę vykdančių valstybės institucijų nustatytoms funkcijoms atlikti reikalingas į I sąrašą įtrauktų medžiagų pamatines medžiagas turi teisę importuoti, laikyti ir gabenti valstybės viduje juridiniai asmenys, turintys šio įstatymo 10 straipsnio 1 dalies 2 punkte nurodytą licenciją. Teisėsaugos ir kontrolę vykdančių valstybės institucijų funkcijoms atlikti reikalingos į I sąrašą įtrauktos medžiagos turi būti importuojamos, laikomos ir gabenamos valstybės viduje laikantis šio įstatymo 14, 15 ir 21 straipsniuose nustatytų į II sąrašą įtrauktų medžiagų importo, laikymo ir gabenimo valstybės viduje reikalavimų. Importuotos į I sąrašą įtrauktų medžiagų pamatinės medžiagos gali būti patiektos tik užsakymus pateikusioms teisėsaugos ir kontrolę vykdančioms valstybės institucijoms. 
+
+
+
+
+11. Šio straipsnio 1 dalies 4 punkte nustatytu tikslu juridiniai asmenys turi teisę įsigyti, laikyti, gabenti valstybės viduje, importuoti ir naudoti į I sąrašą įtrauktų medžiagų pamatines medžiagas, būtinas tetrahidrokanabinoliui (toliau – THC) ir tik toms I sąrašo medžiagoms, kurios susidaro perdirbant pluoštines kanapes, nustatyti pluoštinių kanapių gaminiuose, pluoštinių kanapių produktuose ir pluoštinių kanapių tarpiniuose produktuose, tam reikalingai įrangai kalibruoti. Jiems specialiojo leidimo ar licencijos verstis veikla, susijusia su vaistiniais preparatais, kurių sudėtyje yra I sąrašo medžiagų, ir II, III sąrašų narkotinėmis ir psichotropinėmis medžiagomis, įgyti nereikia.
+Papildyta straipsnio dalimi:
+Nr. XV-126, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04580
+ 
+
+
+
+
+12. Šio straipsnio 1 dalies 4 punkte nustatytu tikslu juridiniams asmenims reikalingas į I sąrašą įtrauktų medžiagų pamatines medžiagas turi teisę importuoti, laikyti ir gabenti valstybės viduje juridiniai asmenys, turintys šio įstatymo 10 straipsnio 1 dalies 2 punkte nurodytą licenciją. Šio straipsnio 1 dalies 4 punkte nustatytus kriterijus atitinkantiems juridiniams asmenims reikalingos į I sąrašą įtrauktų medžiagų pamatinės medžiagos turi būti importuojamos, laikomos ir gabenamos valstybės viduje laikantis šio įstatymo 14, 15 ir 21 straipsniuose nustatytų į II sąrašą įtrauktų medžiagų importo, laikymo ir gabenimo valstybės viduje reikalavimų. Importuotos į I sąrašą įtrauktų medžiagų pamatinės medžiagos gali būti patiektos tik užsakymus pateikusiems šio straipsnio 1 dalies 4 punkte nustatytus kriterijus atitinkantiems juridiniams asmenims.
+Papildyta straipsnio dalimi:
+Nr. XV-126, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04580
+ 
+
+
+
+
+13. Šio straipsnio 1 dalies 4 punkte nustatytu tikslu į I sąrašą įtrauktų medžiagų pamatines medžiagas naudojantys juridiniai asmenys turi:
+
+
+1) laikyti į I sąrašą įtrauktų medžiagų pamatines medžiagas šio įstatymo 218 straipsnio 2 punkte nurodytus reikalavimus atitinkančiose patalpose;
+
+
+
+
+2) paskirti asmenį, atsakingą už į I sąrašą įtrauktų medžiagų pamatinių medžiagų įsigijimą, laikymą ir apskaitą;
+
+
+
+
+3) naudoti tik pagrįstą būtiną į I sąrašą įtrauktų medžiagų pamatinių medžiagų kiekį THC nustatyti ir (ar) tam reikalingai įrangai kalibruoti;
+
+
+
+
+4) vykdyti į I sąrašą įtrauktų medžiagų pamatinių medžiagų apyvartos apskaitą ir teikti ataskaitas šio įstatymo 23 straipsnyje nustatyta tvarka;
+
+
+
+
+5) importuoti į I sąrašą įtrauktų medžiagų pamatines medžiagas laikantis šio įstatymo 2111 straipsnio 9 punkte nustatytų į I sąrašą įtrauktų medžiagų importo reikalavimų ir gabenti jas laikantis šio įstatymo 217 straipsnio 7 dalyje nustatytų reikalavimų.
+
+
+Papildyta straipsnio dalimi:
+Nr. XV-126, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04580
+ 
 
 
 Straipsnio pakeitimai:
@@ -2353,3 +2411,8 @@ Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2694, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10827
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 21-12 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-126, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04580
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 2 ir 8 straipsnių pakeitimo įstatymas
