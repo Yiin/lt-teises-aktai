@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2025-05-01 iki 2025-10-31
+Suvestinė redakcija nuo 2025-11-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -8216,7 +8216,10 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 
 
-2. Perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomeninės elektros energijos kainos reguliuojamos Tarybai nustatant viršutines kainų ribas. Konkrečias perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomenines elektros energijos kainas ir tarifus nustato ir keičia paslaugos teikėjas.
+2. Perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomeninės elektros energijos kainos reguliuojamos Tarybai nustatant viršutines kainų ribas. Visuomeninės elektros energijos kainos viršutinės ribos gali būti diferencijuojamos pagal vartotojų grupes, siekiant apsaugoti pažeidžiamų vartotojų teises ir teisėtus interesus. Konkrečias perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomenines elektros energijos kainas ir tarifus nustato ir keičia paslaugos teikėjas.
+Straipsnio dalies pakeitimai:
+Nr. XV-167, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07427
+ 
 
 
 
