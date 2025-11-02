@@ -182,7 +182,7 @@ BENDROSIOS NUOSTATOS
 131. Elektroninių ryšių infrastruktūros gyvavimo ciklas – visuma procesų, sudarančių elektroninių ryšių infrastruktūros raidos ciklą (planavimas, projektavimas, įrengimas, naudojimas ir išmontavimas) per šios infrastruktūros gyvavimo laiką. 
 Papildyta straipsnio dalimi:
 Nr. XIV-2422, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25643
- 
+ 
 
 
 
@@ -287,7 +287,7 @@ Nr. XIV-2422, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25643
 
 
 
-34. Įvairiapusio ryšio realiuoju laiku paslauga – multimedijos pokalbių paslauga, kuri užtikrina dvikryptį vienalaikį dviejose ar daugiau vietų esančių viešųjų elektroninių ryšių paslaugų gavėjų gyvo vaizdo, teksto ir balso perdavimą realiuoju laiku.
+34. Įvairiapusio ryšio realiuoju laiku paslauga – multimedijos pokalbių paslauga, kuri užtikrina dvikryptį vienalaikį dviejoje ar daugiau vietų esančių viešųjų elektroninių ryšių paslaugų gavėjų gyvo vaizdo, teksto ir balso perdavimą realiuoju laiku.
 
 
 
@@ -297,7 +297,7 @@ Nr. XIV-2422, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25643
 
 
 
-36. Kalbinio ryšio paslauga – viešoji elektroninių ryšių paslauga, skirta nacionaliniams arba nacionaliniams ir tarptautiniams skambučiams ryšio numeriu (numeriais), nurodytu (nurodytais) nacionaliniame ar tarptautiniame ryšio numeracijos plane, tiesiogiai arba netiesiogiai siųsti ir gauti. 
+36. Kalbingo ryšio paslauga – viešoji elektroninių ryšių paslauga, skirta nacionaliniams arba nacionaliniams ir tarptautiniams skambučiams ryšio numeriu (numeriais), nurodytu (nurodytais) nacionaliniame ar tarptautiniame ryšio numeracijos plane, tiesiogiai arba netiesiogiai siųsti ir gauti. 
 
 
 
@@ -407,7 +407,7 @@ Nr. XIV-2422, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25643
 
 
 
-50. Radijo bangos – laisvai erdvėje sklindančios elektromagnetinės bangos, kurių dažnis žemesnis kaip 3 000 GHz. 
+50. Radijo bangos – laisvai erdvėje sklindančios elektromagnetinės bangos, kurių dažnis žemesnis kaip 3 000 GHz. 
 
 
 
@@ -430,7 +430,7 @@ Nr. XIV-2422, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25643
 531. Radijo ryšio perėmimo įrenginys – radijo ryšio įrenginys, skirtas arba pritaikytas prisijungti prie mobiliojo ryšio tinklo ir (ar) šio tinklo galinio įrenginio, sudarantis galimybę be faktinio elektroninių ryšių paslaugų naudotojo sutikimo klausytis mobiliojo ryšio tinklu perduodamos informacijos turinio, įrašyti, kaupti ar kitu būdu perimti ar kontroliuoti jį ir (ar) srauto duomenis ir (ar) su jais susipažinti ir (ar) sudarantis galimybę perimti galinio įrenginio valdymą be jo naudotojo sutikimo. 
 Papildyta straipsnio dalimi:
 Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
- 
+ 
 
 
 
@@ -613,7 +613,7 @@ Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
 87. Neteko galios nuo 2024-10-18
 Straipsnio dalies naikinimas:
 Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
- 
+ 
 
 
 
@@ -621,7 +621,7 @@ Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
 88. Neteko galios nuo 2024-10-18
 Straipsnio dalies naikinimas:
 Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
- 
+ 
 
 
 
@@ -691,25 +691,17 @@ Nr. XIV-2905, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13540
 
 
 
-102. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente).
+102. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente).
 Straipsnio dalies pakeitimai:
 Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
 Nr. XIV-2422, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25643
- 
-
-
-
-
+ 
 
 
 
 
 II SKYRIUS
-VALSTYBĖS POLITIKOS ELEKTRONINIŲ RYŠIŲ SRITYJE FORMAVIMO IR ELEKTRONINIŲ RYŠIŲ VEIKLOS REGULIAVIMO SISTEMA
- 
-
-
-4 straipsnis. Elektroninių ryšių politikos formavimo ir elektroninių ryšių veiklos reguliavimo institucijos
+VALSTYBĖS POLITIKOS ELEKTRONINIŲ RYŠIŲ SRITYJE FORMAVIMO IR ELEKTRONINIŲ RYŠIŲ VEIKLOS REGULIAVIMO SISTEMA4 straipsnis. Elektroninių ryšių politikos formavimo ir elektroninių ryšių veiklos reguliavimo institucijos
 
 
 1. Lietuvos Respublikos Vyriausybė: 
@@ -4100,22 +4092,21 @@ Elektromagnetinio suderinamumo reikalavimų taikymo sąlygas, aparatūros ir įr
 54 straipsnis. Aparatūros ir įrenginių naudojimas
 
 
-1. Draudžiama naudoti ir (arba) laikyti radijo ryšio slopinimo įrenginius, radijo ryšio perėmimo įrenginius, išskyrus valstybės institucijoms atliekant joms įstatymų pavestas valstybės gynybos, nacionalinio saugumo, viešosios tvarkos ir visuomenės saugumo užtikrinimo, nusikalstamų veikų prevencijos ir tyrimo, valstybės sienos apsaugos funkcijas ir radijo ryšio slopinimo įrenginių, radijo ryšio perėmimo įrenginių laikymą, kai šie įrenginiai yra tiekiami šias funkcijas atliekančioms valstybės institucijoms. Naudojant radijo ryšio slopinimo įrenginius ir (ar) radijo ryšio perėmimo įrenginius šioje dalyje nurodytais tikslais, radijo ryšys negali būti trikdomas daugiau, negu yra būtina šiems tikslams pasiekti. Stacionarūs ir nepertraukiamai veikiantys radijo ryšio slopinimo įrenginiai šioje dalyje nurodytais tikslais gali būti naudojami tik su Ryšių reguliavimo tarnyba iš anksto raštu suderinus jų naudojimo sąlygas.
+1. Draudžiama naudoti ir (arba) laikyti radijo ryšio slopinimo įrenginius, radijo ryšio perėmimo įrenginius, išskyrus:
+1) radijo ryšio slopinimo ir (arba) radijo ryšio perėmimo įrenginių naudojimą ir (arba) laikymą:
+a) valstybės institucijoms atliekant joms įstatymų pavestas valstybės gynybos, nacionalinio saugumo, viešosios tvarkos ir visuomenės saugumo užtikrinimo, nusikalstamų veikų prevencijos ir tyrimo, valstybės sienos apsaugos funkcijas;
+b) įgyvendinant gynybos ir saugumo pramonės produktų gamybos vystymo projektą Gynybos ir saugumo pramonės įstatymo nustatyta tvarka ar gynybos ir saugumo pramonės projektą Investicijų įstatymo nustatyta tvarka, įskaitant šių projektų įgyvendinimo tikslais vykdomą mokslinių tyrimų ir eksperimentinės plėtros veiklą;
+2) radijo ryšio slopinimo įrenginių naudojimą ir (arba) laikymą nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto bei kito turto, kurį valdo nacionaliniam saugumui užtikrinti svarbios įmonės ir kuris būtinas ūkinei veiklai nacionaliniam saugumui užtikrinti strategiškai svarbiuose ūkio sektoriuose vykdyti, apsaugos tikslais;
+3) radijo ryšio slopinimo įrenginių naudojimą ir (arba) laikymą Lietuvos mokslo ir studijų institucijoms vykdant mokslinius tyrimus ir eksperimentinę plėtrą;
+4) radijo ryšio slopinimo ir (arba) radijo ryšio perėmimo įrenginių laikymą, kai šie įrenginiai yra tiekiami asmenims, turintiems teisę šiuos įrenginius naudoti ir (arba) laikyti pagal šios dalies 1, 2 ir 3 punktus.
 
+2. Naudojant radijo ryšio slopinimo įrenginius ir (ar) radijo ryšio perėmimo įrenginius radijo ryšys negali būti trikdomas daugiau, negu yra būtina. Radijo ryšio slopinimo įrenginiai gali būti naudojami tik su Ryšių reguliavimo tarnyba iš anksto raštu suderinus jų naudojimo sąlygas, išskyrus atvejus, kai šie įrenginiai naudojami testavimo ir (ar) bandymų tikslais su radijo bangų ekranavimo priemonėmis, užtikrinančiomis, kad nebus daroma neigiama įtaka teisėtų radijo dažnių (kanalų) naudotojų įrenginiams. Šiais atvejais asmenys privalo ne vėliau kaip prieš 5 darbo dienas informuoti Ryšių reguliavimo tarnybą apie radijo ryšio slopinimo įrenginių testavimo ir (ar) bandymo vietas, kuriose įrengtos radijo bangų ekranavimo priemonės, ir pirmojo testavimo ir (ar) bandymo laiką.
 
-
-
-2. Asmenys turi teisę laikyti radijo ryšio stotis, kurios yra skirtos arba pritaikytos veikti radijo dažniais (kanalais), kuriems naudoti yra reikalingas Ryšių reguliavimo tarnybos leidimas, ir kurios yra paruoštos veikti šiais radijo dažniais (kanalais), tik turėdami Ryšių reguliavimo tarnybos išduotą leidimą naudoti atitinkamus radijo dažnius (kanalus). Ši dalis netaikoma šio straipsnio 1 dalyje nurodytas funkcijas atliekančioms valstybės institucijoms, asmenims, kurie verčiasi elektroninių ryšių veikla, taip pat šioje dalyje nurodytų radijo ryšio stočių gamintojams, importuotojams ir asmenims, kurie tiekia rinkai (įskaitant tiekimą rinkai pirmą kartą) šioje dalyje nurodytas radijo ryšio stotis.
+3. Asmenys turi teisę laikyti radijo ryšio stotis, kurios yra skirtos arba pritaikytos veikti radijo dažniais (kanalais), kuriems naudoti yra reikalingas Ryšių reguliavimo tarnybos leidimas, ir kurios yra paruoštos veikti šiais radijo dažniais (kanalais), tik turėdami Ryšių reguliavimo tarnybos išduotą leidimą naudoti atitinkamus radijo dažnius (kanalus). Ši dalis netaikoma šio straipsnio 1 dalyje nurodytas funkcijas atliekančioms valstybės institucijoms, asmenims, kurie verčiasi elektroninių ryšių veikla, taip pat šioje dalyje nurodytų radijo ryšio stočių gamintojams, importuotojams ir asmenims, kurie tiekia rinkai (įskaitant tiekimą rinkai pirmą kartą) šioje dalyje nurodytas radijo ryšio stotis.
 
 
 Straipsnio pakeitimai:
-Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
- 
-
-
-
-
-55 straipsnis. Radijo stebėsena 
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-2164255 straipsnis. Radijo stebėsena 
 
 
 1. Ryšių reguliavimo tarnyba kontroliuoja, kaip laikomasi radijo ryšį reglamentuojančių teisės aktų reikalavimų, atlieka radijo stebėseną. Radijo stebėsenos metu analizuojama, kiek radijo dažnių spektras užimtas įvairių radijo stočių spinduliuočių, ar spinduliuotės spektrai ir radijo trikdžių lygiai atitinka teisės aktų reikalavimus.
