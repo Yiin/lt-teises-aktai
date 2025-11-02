@@ -23,9 +23,7 @@ Vilnius
 
 #### 1 straipsnis. Įstatymo tikslas ir paskirtis
 1. Šio įstatymo tikslas – skatinti gynybos ir saugumo pramonės inovacijas ir investicijas į šią pramonę, didinti gynybos ir saugumo pramonės konkurencingumą, sudaryti palankias sąlygas aprūpinti krašto apsaugos sistemos ir viešąjį saugumą užtikrinančias institucijas strateginėmis prekėmis, gynybos ir (ar) viešojo saugumo reikmėms skirtais produktais, taip pat skatinti lietuviškos kilmės strateginių prekių, gynybos ir viešojo saugumo reikmėms skirtų produktų eksportą, glaudų viešojo sektoriaus, mokslo ir studijų institucijų, taip pat verslo bendradarbiavimą gynybos ir saugumo pramonės srityje, siekiant užtikrinti nacionalinio saugumo interesus.
-2. Šio įstatymo paskirtis – nustatyti gynybos ir saugumo pramonės politiką formuojančių, ją formuojant dalyvaujančių ir įgyvendinančių institucijų ir įstaigų funkcijas, jų teises ir pareigas, nustatyti pramoninio bendradarbiavimo gynybos ir saugumo pramonės srityje pagrindus ir sąlygas, nustatyti papildomas gynybos ir saugumo pramonės technologijų vystymo ir inovacinės veiklos finansavimo ir skatinimo priemones.
-
-#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+2. Šio įstatymo paskirtis – nustatyti gynybos ir saugumo pramonės politiką formuojančių, ją formuojant dalyvaujančių ir įgyvendinančių institucijų ir įstaigų funkcijas, jų teises ir pareigas, pramoninio bendradarbiavimo gynybos ir saugumo pramonės srityje pagrindus ir sąlygas, gynybos ir saugumo pramonės skatinimo, gynybos ir saugumo technologijų vystymo ir inovacinės veiklos finansavimo priemones.#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 1. Gynybos ir saugumo pramonė – Lietuvos Respublikoje veikiančių fizinių asmenų, juridinių asmenų ir kitų organizacijų ar jų padalinių ekonominė veikla, kuri apima strateginių prekių, taip pat kitų gynybos ir (ar) viešojo saugumo reikmėms skirtų produktų mokslinius tyrimus ir eksperimentinę plėtrą, šių prekių ir (ar) produktų gamybą ir jų techninės priežiūros, remonto, modernizavimo paslaugų teikimą.
 2. Pramoninis bendradarbiavimas – visuma Lietuvos Respublikos krašto apsaugos ministerijos ar krašto apsaugos ministro įgaliotos institucijos, Lietuvos Respublikos ekonomikos ir inovacijų ministerijos ar ekonomikos ir inovacijų ministro įgaliotos institucijos ir karinės įrangos tiekėjo sutartimi nustatomų bendradarbiavimo priemonių, kuriomis įgyvendinami karinės įrangos tiekėjo įsipareigojimai dėl ginkluotės, karinės technikos ir kitos įrangos bei technologijų, svarbių prioritetiniams Lietuvos kariuomenės pajėgumams, vystymo Lietuvos Respublikos teritorijoje ir (arba) pasitelkiant Lietuvos Respublikoje veikiančius fizinius asmenis, juridinius asmenis ir kitas organizacijas ar jų padalinius.
 3. Šiame įstatyme vartojama sąvoka „perkančioji organizacija“ suprantama taip, kaip ji apibrėžiama Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatyme.
@@ -185,6 +183,41 @@ Asmenys, užsiimantys mokslinių tyrimų ir eksperimentinės plėtros veikla, su
 
 ## V SKYRIUS. BAIGIAMOSIOS NUOSTATOS
 
+13^1 straipsnis. Gynybos ir saugumo pramonės produktų gamybos vystymo projektas
+1. Karinės įrangos, ginkluotės, karinės technikos ir kitos įrangos bei technologijų ir (ar) jų komponentų gamybai vystyti skirtas projektas įgyja Gamybos projekto statusą Vyriausybės įgaliotai institucijai priėmus sprendimą dėl Gamybos projekto statuso suteikimo.  Sprendimas dėl Gamybos projekto statuso suteikimo galioja 5 metus nuo šio sprendimo priėmimo dienos.
+2. Gamybos projekto statusas šio straipsnio 1 dalyje nurodytam projektui suteikiamas, kai yra tenkinamos visos šios sąlygos:
+1) gynybos ir saugumo pramonės srityje veikiantis ar planuojantis veikti subjektas turi galiojančią ne mažesnės kaip 1 000 000 eurų vertės sutartį ar kelias ne mažesnės kaip 1 000 000 eurų bendros vertės sutartis, pagal kurias subjektas NATO institucijoms, Europos Sąjungos institucijoms, NATO valstybių narių, Europos Sąjungos valstybių narių, Šveicarijos, Ukrainos ar Nacionalinio saugumo strategijoje tiesiogiai įvardytų Indijos ir Ramiojo vandenynų regiono valstybių, su kuriomis stiprinamas bendradarbiavimas, institucijoms ar šių institucijų tiekėjams įsipareigoja tiekti karinę įrangą, nurodytą Lietuvos Respublikos strateginių prekių kontrolės įstatymo pagrindu tvirtinamame bendrajame karinės įrangos sąraše (toliau – Karinės įrangos sąrašas), ir (ar) ginkluotę, karinę techniką ir kitą įrangą bei technologijas, nurodytas Sąraše, ir (ar) jų komponentus;
+2) gynybos ir saugumo pramonės srityje veikiantis ar planuojantis veikti subjektas Lietuvos Respublikoje ketina vystyti karinės įrangos, nurodytos Karinės įrangos sąraše, ir (ar) ginkluotės, karinės technikos ir kitos įrangos bei technologijų, nurodytų Sąraše, ir (ar) jų komponentų gamybą;
+3) gynybos ir saugumo pramonės srityje veikiančio ar planuojančio veikti subjekto atitiktis nacionalinio saugumo interesams buvo įvertinta Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka ir atvejais ir konstatuota, kad šis subjektas atitinka nacionalinio saugumo interesus.
+3. Gynybos ir saugumo pramonės srityje veikiantis ar planuojantis veikti subjektas, siekiantis, kad šio straipsnio 1 dalyje nurodytam projektui būtų suteiktas Gamybos projekto statusas, pateikia prašymą Vyriausybės įgaliotai institucijai dėl Gamybos projekto statuso suteikimo ir:
+1) turimas šio straipsnio 2 dalies 1 punkte nurodytas sutartis;
+2) deklaraciją dėl ketinimo Lietuvos Respublikoje vystyti karinės įrangos, nurodytos Karinės įrangos sąraše, ir (ar) ginkluotės, karinės technikos ir kitos įrangos bei technologijų, nurodytų Sąraše, ir (ar) jų komponentų gamybą, kurioje nurodoma:
+a) vieta Lietuvos Respublikoje, kurioje siekiama vystyti gamybą;
+b) planuojama gaminti karinė įranga, nurodyta Karinės įrangos sąraše, ginkluotė, karinė technika ir kita įranga bei technologijos, nurodytos Sąraše, ir jų komponentai;
+c) specialiosios teisinio reguliavimo išimtys ir (ar) sąlygos, numatytos šio straipsnio 9 dalyje nurodytuose įstatymuose, kurias siekiama taikyti vystant gamybą;
+d) terminas, per kurį planuojama pradėti gamybą; šis terminas negali būti ilgesnis kaip 5 metai;
+3) jeigu šio straipsnio 2 dalies 1 punkte nurodyta sutartis yra sudaryta su tiekėju, pažymą, patvirtinančią, kad gynybos ir saugumo pramonės srityje veikiančio ar planuojančio veikti subjekto tiekiama karinė įranga, nurodyta Karinės įrangos sąraše, ir (ar) ginkluotė, karinė technika ir kita įranga bei technologijos, nurodytos Sąraše, ir (ar) jų komponentai yra skirti tiekėjo sutartiniams įsipareigojimams su šio straipsnio 2 dalies 1 punkte nurodytomis institucijomis įgyvendinti.
+4. Vyriausybės įgaliotos institucijos sprendimo dėl Gamybos projekto statuso suteikimo priėmimo tvarką ir šio straipsnio 3 dalies 2 punkte nurodytos deklaracijos formą tvirtina Vyriausybės įgaliota institucija.
+5. Gamybos projekto statusas nesuteikiamas, jeigu:
+1) nėra pateiktos šio straipsnio 2 dalies 1 punkte nurodytos sutartys arba pateiktos sutartys neatitinka šio straipsnio 2 dalies 1 punkte nurodytų reikalavimų;
+2) nėra pateikta šio straipsnio 3 dalies 2 punkte nurodyta deklaracija arba pateiktoje deklaracijoje nėra visos šio straipsnio 3 dalies 2 punkte nurodytos informacijos;
+3) prašymą dėl Gamybos projekto statuso suteikimo pateikęs subjektas neatitinka nacionalinio saugumo interesų.
+6. Prašymą dėl Gamybos projekto statuso suteikimo pateikusio subjekto atitikties nacionalinio saugumo interesams patikrą inicijuoja Vyriausybės įgaliota institucija.
+7. Prašymą dėl Gamybos projekto statuso suteikimo pateikęs subjektas, kurio vystomam projektui suteiktas Gamybos projekto statusas, laikomas Gamybos projekto vystytoju. Gamybos projektų sąrašas sudaromas Vyriausybės įgaliotos institucijos ir skelbiamas Vyriausybės nustatyta tvarka Vyriausybės įgaliotos institucijos interneto svetainėje. Skelbiant šį sąrašą nurodoma informacija apie Gamybos projektų vystytojus:
+1) jeigu vystytojas yra fizinis asmuo – fizinio asmens ūkinę veiklą apibūdinančio dokumento numeris;
+2) jeigu vystytojas  yra juridinis asmuo:
+a) juridinio asmens pavadinimas;
+b) juridinio asmens kodas;
+c) juridinio asmens teisinė forma;
+d) juridinio asmens pagrindinės buveinės adresas;
+3) jeigu vystytojas yra kita juridinio asmens statuso neturinti organizacija ar jos padalinys:
+a) kito juridinio asmens statuso neturinčios organizacijos ar jos padalinio pavadinimas;
+b) kito juridinio asmens statuso neturinčios organizacijos ar jos padalinio pagrindinės buveinės adresas.
+8. Vyriausybės įgaliota institucija pripažįsta netekusiu galios sprendimą dėl Gamybos projekto statuso suteikimo ir išbraukia Gamybos projektą iš šio straipsnio 7 dalyje nurodyto sąrašo, jeigu:
+1) nustato, kad Gamybos projekto vystytojas pasinaudojo ar ketina pasinaudoti specialiosiomis teisinio reguliavimo išimtimis ir (ar) sąlygomis, numatytomis šio straipsnio 9 dalyje nurodytuose įstatymuose, vystydamas ne Gamybos projektus, išskyrus atvejus, kai ne Gamybos projektams vystyti tokios specialiosios teisinio reguliavimo išimtys ar sąlygos nustatytos pagal kitus įstatymus;
+2) Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka priimamas Vyriausybės sprendimas, kad Gamybos projekto vystytojas neatitinka nacionalinio saugumo interesų.
+9. Įgyvendinant Gamybos projektą sprendimo dėl Gamybos projekto statuso suteikimo galiojimo laikotarpiu taikomos Lietuvos Respublikos elektroninių ryšių įstatyme, Investicijų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme ir Lietuvos Respublikos žemės įstatyme nustatytos specialiosios teisinio reguliavimo išimtys ir (ar) sąlygos. Pasibaigus sprendimo dėl Gamybos projekto statuso suteikimo galiojimui ar sprendimą dėl Gamybos projekto statuso suteikimo pripažinus netekusiu galios specialiosios teisinio reguliavimo išimtys ir (ar) sąlygos nebetaikomos.
+10. Vyriausybės įgaliotos institucijos sprendimas nesuteikti Gamybos projekto statuso arba sprendimas pripažinti netekusiu galios sprendimą dėl Gamybos projekto statuso suteikimo skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 #### 14 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2024 m. liepos 1 d.
 2. Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos iki 2024 m. birželio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
