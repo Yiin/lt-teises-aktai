@@ -18426,33 +18426,26 @@ ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU RYŠIŲ SISTEMA
  
 
 
-464 straipsnis. Aparatūros ir įrenginių naudojimo sąlygų pažeidimas 
+464 straipsnis. Aparatūros ir įrenginių naudojimo sąlygų pažeidimas
 
-
-1. Aparatūrai ir įrenginiams taikomų reikalavimų nesilaikymas, aparatūros ir įrenginių naudojimo sąlygų pažeidimas, aparatūros, įrenginių, radijo bangų siuntimo, radijo stebėsenos įrenginių naudojimas ir (arba) įvežimas į Lietuvos Respubliką be leidimo, kai leidimas reikalingas pagal teisės aktus, radijo ryšio slopinimo įrenginių, radijo ryšio perėmimo įrenginių neteisėtas naudojimas ir (arba) laikymas, radijo ryšio stočių, kurios yra skirtos arba pritaikytos veikti radijo dažniais (kanalais), kuriems naudoti yra reikalingas leidimas, ir kurios yra paruoštos veikti šiais radijo dažniais (kanalais), neteisėtas laikymas
+1. Aparatūrai ir įrenginiams taikomų reikalavimų nesilaikymas, aparatūros ir įrenginių naudojimo sąlygų pažeidimas, aparatūros, įrenginių, radijo bangų siuntimo, radijo stebėsenos įrenginių naudojimas ir (arba) įvežimas į Lietuvos Respubliką be leidimo, kai leidimas reikalingas pagal teisės aktus, radijo ryšio stočių, kurios yra skirtos arba pritaikytos veikti radijo dažniais (kanalais), kuriems naudoti yra reikalingas leidimas, ir kurios yra paruoštos veikti šiais radijo dažniais (kanalais), neteisėtas laikymas
 užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba juridinių asmenų, kurie nesiverčia elektroninių ryšių veikla, vadovams ar kitiems atsakingiems asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
 
-
-
-
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
+3. Radijo ryšio slopinimo įrenginių, radijo ryšio perėmimo įrenginių neteisėtas naudojimas ir (arba) laikymas
+užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba juridinių asmenų, kurie nesiverčia elektroninių ryšių veikla, vadovams ar kitiems atsakingiems asmenims nuo septynių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
-
-3. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas aparatūros, įrenginių, radijo bangų siuntimo, radijo ryšio slopinimo, radijo ryšio perėmimo, radijo stebėsenos įrenginių arba radijo ryšio stočių konfiskavimas.
+5. Už šio straipsnio 1, 2, 3, 4 dalyse numatytus administracinius nusižengimus gali būti skiriamas aparatūros, įrenginių, radijo bangų siuntimo, radijo ryšio slopinimo, radijo ryšio perėmimo, radijo stebėsenos įrenginių arba radijo ryšio stočių konfiskavimas.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-699, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16808
-Nr. XIV-2206, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21646
- 
-
-
-
-
-465 straipsnis. Lietuvos Respublikos ryšių reguliavimo tarnybos nurodymų pašalinti radijo trikdžius arba sumažinti jų lygį nevykdymas
+Nr. XIV-2206, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21646465 straipsnis. Lietuvos Respublikos ryšių reguliavimo tarnybos nurodymų pašalinti radijo trikdžius arba sumažinti jų lygį nevykdymas
 
 
 1. Lietuvos Respublikos ryšių reguliavimo tarnybos nurodymų pašalinti radijo trikdžius arba sumažinti jų lygį nevykdymas 
