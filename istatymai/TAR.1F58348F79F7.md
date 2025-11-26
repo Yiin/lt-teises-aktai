@@ -619,7 +619,7 @@ PENSIJŲ FONDŲ STEIGIMAS IR VALDYMAS
 
 
 
-3. Pensijų kaupime dalyvaujančių jaunesnių negu 22 metų asmenų tikslinės grupės pensijų fondu laikomas jauniausiai tikslinei pensijų fondų dalyvių grupei skirtas tikslinės grupės pensijų fondas. Pensijų kaupimo bendrovei įsteigus tokių dalyvių amžių atitinkantį tikslinės grupės pensijų fondą, dalyviai kartu su jiems priklausančiomis lėšomis perkeliami į jų amžių atitinkantį tikslinės grupės pensijų fondą penktą darbo dieną nuo atitinkamo tikslinės grupės pensijų fondo įsteigimo dienos nedarant jokių atskaitymų iš pensijų turto. Pensijų kaupimo bendrovė ne vėliau kaip per 5 darbo dienas nuo dalyvio perkėlimo į jo amžių atitinkantį tikslinės grupės pensijų fondą privalo apie tai pranešti dalyviui priežiūros institucijos patvirtintose standartinėse pensijų fondų taisyklėse nustatytu būdu.
+3. Pensijų kaupime dalyvaujančių jaunesnių negu 22 metų asmenų tikslinės grupės pensijų fondu laikomas jauniausiai tikslinei pensijų fondų dalyvių grupei skirtas tikslinės grupės pensijų fondas. Pensijų kaupimo bendrovei įsteigus tokių dalyvių amžių atitinkantį tikslinės grupės pensijų fondą, dalyviai kartu su jiems priklausančiu pensijų turtu perkeliami į jų amžių atitinkantį tikslinės grupės pensijų fondą ne vėliau kaip penktą darbo dieną nuo atitinkamo tikslinės grupės pensijų fondo veiklos pradžios dienos nedarant jokių atskaitymų iš pensijų turto. Pensijų kaupimo bendrovė ne vėliau kaip per 5 darbo dienas nuo dalyvio perkėlimo į jo amžių atitinkantį tikslinės grupės pensijų fondą dienos privalo apie tai pranešti dalyviui priežiūros institucijos patvirtintose standartinėse pensijų fondų taisyklėse nustatytu būdu.
 
 
 Straipsnio pakeitimai:
