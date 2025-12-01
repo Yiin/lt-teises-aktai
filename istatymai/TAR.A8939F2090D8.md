@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a8939f2090d811e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2025-11-30
+Suvestinė redakcija nuo 2025-12-01
  
 Įstatymas paskelbtas: TAR 2014-12-31, i. k. 2014-21281
  
@@ -420,7 +420,10 @@ Nr. XIV-225, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07286
 
 
 
-7 straipsnis. Asmens tapatybės kortelės ir (ar) paso praradimas, rastų asmens tapatybės kortelės ir (ar) paso atidavimas, asmens grįžimo pažymėjimo ir laikino paso išdavimas
+7 straipsnis. Asmens tapatybės kortelės ir (ar) paso praradimas, rastų asmens tapatybės kortelės ir (ar) paso atidavimas, Europos Sąjungos laikinojo kelionės dokumento ir laikino paso išdavimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2932, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13519
+ 
 
 
 1. Praradęs asmens tapatybės kortelę ir (ar) pasą, pilietis apie tai turi pranešti Migracijos departamentui arba Lietuvos Respublikos konsulinei įstaigai. Lietuvos Respublikoje gyvenančiam piliečiui, praradusiam asmens tapatybės kortelę ir (ar) pasą, gali būti išduodamas laikinasis pažymėjimas. Šio pažymėjimo formą ir išdavimo tvarką nustato vidaus reikalų ministras. 
@@ -433,7 +436,10 @@ Nr. XIV-225, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07286
 
 
 
-3. Kai asmens tapatybės kortelė ir (ar) pasas prarandami, tampa netinkami naudoti, pasibaigia jų galiojimo laikas ar yra šio įstatymo 6 straipsnio 9 dalyje nurodytų priežasčių, dėl kurių užsienio valstybėje esančiam piliečiui asmens tapatybės kortelė ir (ar) pasas negali būti išduoti, Lietuvos Respublikos konsulinė įstaiga, vadovaudamasi Konsuliniu statutu, gali išduoti asmens grįžimo pažymėjimą. 
+3. Kai asmens tapatybės kortelė ir (ar) pasas prarandami, tampa netinkami naudoti, pasibaigia jų galiojimo laikas ar yra šio įstatymo 6 straipsnio 9 dalyje nurodytų priežasčių, dėl kurių užsienio valstybėje esančiam piliečiui asmens tapatybės kortelė ir (ar) pasas negali būti išduoti, Lietuvos Respublikos konsulinė įstaiga, vadovaudamasi Konsuliniu statutu, gali išduoti Europos Sąjungos laikinąjį kelionės dokumentą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2932, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13519
+ 
 
 
 
@@ -626,3 +632,8 @@ Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo Nr. XII-1519 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1236, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15603
 Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo Nr. XII-1519 9 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2932, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13519
+Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo Nr. XII-1519 7 straipsnio pakeitimo įstatymas
