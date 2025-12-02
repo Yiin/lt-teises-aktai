@@ -11043,18 +11043,12 @@ užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio eur�
 
 
 
-11. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas administracinio nusižengimo padarymo įrankių ir priemonių konfiskavimas. Už šio straipsnio 4, 5, 6, 7, 8, 9 ir 10 dalyse numatytus administracinius nusižengimus privaloma skirti administracinio nusižengimo padarymo įrankių ir priemonių konfiskavimą. 
+11. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas administracinio nusižengimo padarymo įrankių ir priemonių konfiskavimas. Už šio straipsnio 4, 5, 6, 7, 8, 9 ir 10 dalyse numatytus administracinius nusižengimus privaloma skirti administracinio nusižengimo padarymo įrankių ir priemonių konfiskavimą. Už šio straipsnio 4, 5, 9, 10 dalyse numatytus administracinius nusižengimus gali būti skiriamas transporto priemonių, kurios buvo panaudotos draudžiamų žvejybos įrankių ir (ar) neteisėtai sugautų žuvų gabenimui, konfiskavimas.
 
 
 Straipsnio pakeitimai:
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
-Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783
- 
-
-
-
-
-292 straipsnis. Privačių žuvininkystės vandens telkinių naudojimo nuostatų, leidime naudoti žvejybos plotą nurodytų sąlygų ir žuvivaisos žuvininkystės vandens telkiniuose nuostatų pažeidimas
+Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783292 straipsnis. Privačių žuvininkystės vandens telkinių naudojimo nuostatų, leidime naudoti žvejybos plotą nurodytų sąlygų ir žuvivaisos žuvininkystės vandens telkiniuose nuostatų pažeidimas
 
 
 1. Privačių žuvininkystės vandens telkinių naudojimą reglamentuojančių teisės aktų pažeidimas
