@@ -10234,15 +10234,7 @@ užtraukia baudą nuo trisdešimt iki vieno šimto septyniasdešimt eurų.
 
 
 3. Žuvivaisą vandens telkiniuose reglamentuojančių teisės aktų pažeidimas
-užtraukia baudą nuo trisdešimt iki vieno šimto septyniasdešimt eurų.
- 
-
-
-
-
-
-
-293 straipsnis. Ne mėgėjų žvejybos įrankių gaminimo, pardavimo, įsigijimo tvarką reglamentuojančių teisės aktų pažeidimas
+užtraukia baudą nuo trisdešimt iki vieno šimto septyniasdešimt eurų.293 straipsnis. Ne mėgėjų žvejybos įrankių gaminimo, pardavimo, įsigijimo tvarką reglamentuojančių teisės aktų pažeidimas
 
 
 1. Ne mėgėjų žvejybos įrankių gaminimo, pardavimo, įsigijimo tvarką reglamentuojančių teisės aktų pažeidimas, išskyrus šio straipsnio 2, 3, 4, 5 dalyse numatytus pažeidimus, 
