@@ -453,8 +453,6 @@ Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
 
 
 
-
-
 2. Taryba LRT generalinio direktoriaus teikimu:
 
 
@@ -473,7 +471,7 @@ Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
 
 
 
-4) svarsto ir tvirtina LRT veiklos kasmetinius planus;
+4) svarsto ir tvirtina LRT strateginius veiklos planus ir metinius veiklos planus;
 
 
 
@@ -528,8 +526,6 @@ Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
 
 
 
-
-
 3. Tarybos nutarimai jos kompetencijos klausimais kitiems LRT organams, LRT darbuotojams ir LRT yra privalomi. Šiame įstatyme, LRT įstatuose ar Tarybos nutarimuose numatytais atvejais Taryba, siekdama gauti ekspertines rekomendacijas, sudaro nuolatinius ir laikinus Tarybos komitetus ir darbo grupes. Nuolatinių Tarybos komitetų nariais skiriami ne mažiau kaip 2 Tarybos nariai ir ne daugiau kaip 3 nepriklausomi nariai. Nuolatiniai Tarybos komitetai veikia pagal Tarybos patvirtintą komiteto darbo reglamentą. Taryba, priimdama nutarimus, atsižvelgia į komitetų ir darbo grupių pateiktas išvadas ir rekomendacijas.
 
 
@@ -545,15 +541,7 @@ Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
 
 
 
-6. Taryba kiekvienais metais iki liepos 1 dienos paskelbia ir pateikia Seimui metinę LRT veiklos ataskaitą. Šioje ataskaitoje pateikiamos pajamų ir išlaidų sąmatų vykdymo ataskaitos. Ataskaitoje privalo būti detalūs duomenys apie finansavimo šaltinių skaičių ir visų pajamų, kurios buvo gautos ne iš viešojo pobūdžio paslaugų teikimo, dydį, taip pat nurodytos išlaidos, susijusios su ne viešojo pobūdžio paslaugų teikimu. Kai LRT ištekliai naudojami ir viešosioms, ir ne viešosioms paslaugoms teikti, išlaidos turi būti paskirstytos atitinkamai kaip visų įstaigos išlaidų ir visų ne viešojo pobūdžio paslaugų teikimo išlaidų skirtumas. Tarybos pirmininkas kartą per metus už LRT veiklą atsiskaito Seimo posėdyje.
- 
-
-
-
-
-
-
-12 straipsnis. Tarybos posėdžiai ir nutarimų priėmimas
+6. Taryba kiekvienais metais iki liepos 1 dienos paskelbia ir pateikia Seimui metinę LRT veiklos ataskaitą. Šioje ataskaitoje pateikiamos pajamų ir išlaidų sąmatų vykdymo ataskaitos. Ataskaitoje privalo būti detalūs duomenys apie finansavimo šaltinių skaičių ir visų pajamų, kurios buvo gautos ne iš viešojo pobūdžio paslaugų teikimo, dydį, taip pat nurodytos išlaidos, susijusios su ne viešojo pobūdžio paslaugų teikimu. Kai LRT ištekliai naudojami ir viešosioms, ir ne viešosioms paslaugoms teikti, išlaidos turi būti paskirstytos atitinkamai kaip visų įstaigos išlaidų ir visų ne viešojo pobūdžio paslaugų teikimo išlaidų skirtumas. Tarybos pirmininkas kartą per metus už LRT veiklą atsiskaito Seimo posėdyje.12 straipsnis. Tarybos posėdžiai ir nutarimų priėmimas
 
 
 1. Tarybos posėdžius ne rečiau kaip kartą per mėnesį šaukia Tarybos pirmininkas, o kai jis neina pareigų, – Tarybos pirmininko pavaduotojas savo iniciatyva arba ne mažiau kaip 1/3 visų Tarybos narių reikalavimu. 
@@ -1072,190 +1060,15 @@ LRT TURTAS, FINANSINĖ IR ŪKINĖ VEIKLA
 
 
 
-5. LRT iš valstybės biudžeto skiriamų lėšų dydis kiekvienais metais sudaro užpraeitų metų faktiškai gautų 1 procento valstybės biudžeto ir savivaldybių biudžetų pajamų iš gyventojų pajamų mokesčio ir 1,3 procento iš akcizo pajamų. LRT skiriamų asignavimų dydis neturi būti mažesnis už 2019 metais LRT skirtus valstybės biudžeto asignavimus.
+5. LRT iš valstybės biudžeto skiriamų lėšų dydis kiekvienais metais sudaro užpraeitų metų faktiškai gautų 0,75 procento valstybės biudžeto ir savivaldybių biudžetų pajamų iš gyventojų pajamų mokesčio ir 0,8 procento iš akcizo pajamų. LRT skiriamų asignavimų dydis neturi būti mažesnis už paskutinių trejų biudžetinių metų LRT skirtų valstybės biudžeto asignavimų vidurkį.
+
+
+
+
+6. 2026–2028 metais LRT skiriami valstybės biudžeto asignavimai yra lygūs 2025 metų LRT skirtiems valstybės biudžeto asignavimams.
+
 Straipsnio dalies pakeitimai:
-Nr. XIV-645, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24254
- 
-
-
-
-
-
-
-20 straipsnis. LRT reorganizavimas ir likvidavimas
+Nr. XIV-645, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-2425420 straipsnis. LRT reorganizavimas ir likvidavimas
 
 
 LRT reorganizuojama ar likviduojama Lietuvos Respublikos įstatymu.
-
-
-
-
-
-
-
-
- 
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
- 
- 
- 
-RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
-
-
- 
-
-
-
-
- 
- 
-Pakeitimai:
-1.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-23, 96.12.05, Žin., 1996, Nr.121-2849 (96.12.14)
-LIETUVOS RESPUBLIKOS LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4, 8, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
- 
-2.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-38, 96.12.12, Žin., 1996, Nr.121-2852 (96.12.14)
-LIETUVOS RESPUBLIKOS LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 8 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
- 
-3.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-428, 97.09.25, Žin., 1997, Nr.91-2272 (97.10.07)
-LIETUVOS RESPUBLIKOS LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 8, 9 IR 10 STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO
- 
-4.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1780, 2000 06 29, Žin., 2000, Nr. 58-1712 (2000 07 19)
-LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-Nauja įstatymo redakcija
-LRT finansavimo tvarka pagal šį įstatymą įsigalioja nuo 2006 m. sausio 1 d.
-LRT administracinė komisija įsteigiama ne vėliau kaip per 1 mėnesį po šio įstatymo nustatytos finansavimo tvarkos įsigaliojimo.
-Šio įstatymo 6 straipsnio 6 dalies nuostata įsigalioja nuo 2002 m. sausio 1 d. 
-Pakeitimai:
-1)
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-137, 2000 12 23, Žin., 2000, Nr. 111-3587 (2000 12 29)
-LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-2)
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-695, 2001-12-21, Žin., 2002, Nr. 2-52 (2002-01-09)
-LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-3)
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-1893, 2003-12-11, Žin., 2003, Nr. 123-5578 (2003-12-30)
-LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-4)
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. X-63, 2004-12-22, Žin., 2004, Nr. 188-6996 (2004-12-31)
-LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
- 
-5.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1911, 2000 08 31, Žin., 2000, Nr. 78-2362 (2000 09 15)
-LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-Šis įstatymas įsigalioja nuo 2000 m. spalio 1 d.
- 
-6.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-2070, 2000 10 17, Žin., 2000, Nr. 94-2919 (2000 11 03)
-LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4 IR 6 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
- 
-7.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-155, 2001 01 25, Žin., 2001, Nr. 16-491 (2001 02 21)
-LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4 IR 10 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
- 
-8.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-2136, 2004-04-15, Žin., 2004, Nr. 68-2363(1) (2004-04-29)
-Publikavimo atitaisymas skelbtas: Žin., 2004, Nr. 71 (2004-04-30)
-LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
- 
-9.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. X-469, 2005-12-22, Žin., 2005, Nr. 153-5639 (2005-12-31)
-LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-Nauja įstatymo redakcija
- 
-10.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. X-899, 2006-11-14, Žin., 2006, Nr. 132-4985 (2006-12-05)
-LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 5 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
- 
-11.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1047, 2010-09-30, Žin., 2010, Nr. 123-6261 (2010-10-18)
-LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 3, 4, 5, 6, 7, 10, 11, 15 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
- 
-12.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1574, 2011-06-30, Žin., 2011, Nr. 91-4336 (2011-07-19)
-LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
- 
-13.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-736, 2013-12-23, paskelbta TAR 2014-01-06, i. k. 2014-00033
-LIETUVOS RESPUBLIKOS LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 6, 7, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-Šis įstatymas įsigalioja 2015 m. sausio 1 d. 
-                Pakeitimas:
-13.1.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-874, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05355
-LIETUVOS RESPUBLIKOS LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 6, 7, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO NR. XII-736 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
- 
- 
- 
-Pakeitimai:
- 
-1.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1142, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13458
-Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 11 ir 14 straipsnių pakeitimo įstatymas
- 
-2.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-113, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29763
-Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 9 straipsnio pakeitimo įstatymas
- 
-3.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-1549, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17457
-Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 4 straipsnio pakeitimo įstatymas
- 
-4.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2008, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05336
-Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 5 straipsnio pakeitimo įstatymas
- 
-5.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2929, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10874
-Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 pakeitimo įstatymas
- 
-6.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-645, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24254
-Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 19 straipsnio pakeitimo įstatymas
- 
-7.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1387, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15858
-Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 5 straipsnio pakeitimo įstatymas
- 
-8.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-2019, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10705
-Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 15 ir 16 straipsnių pakeitimo įstatymas
- 
-9.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
-Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 5, 10, 13 ir 15 straipsnių pakeitimo įstatymas
- 
-10.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XV-40, 2024-12-05, paskelbta TAR 2024-12-18, i. k. 2024-22442
-Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 5 straipsnio pakeitimo įstatymas
