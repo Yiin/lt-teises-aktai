@@ -468,13 +468,7 @@ Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
 
 3) tvirtina LRT įstatus;
 
-
-
-
 4) svarsto ir tvirtina LRT strateginius veiklos planus ir metinius veiklos planus;
-
-
-
 
 5) tvirtina LRT administracijos – LRT įstatuose nustatyta tvarka sudaromo struktūrinio padalinio, kurio paskirtis užtikrinti LRT ir jo valdymo organų veiklą, – teikiamas LRT metines pajamų ir išlaidų sąmatas bei jų vykdymo ataskaitas;
 
@@ -1061,9 +1055,6 @@ LRT TURTAS, FINANSINĖ IR ŪKINĖ VEIKLA
 
 
 5. LRT iš valstybės biudžeto skiriamų lėšų dydis kiekvienais metais sudaro užpraeitų metų faktiškai gautų 0,75 procento valstybės biudžeto ir savivaldybių biudžetų pajamų iš gyventojų pajamų mokesčio ir 0,8 procento iš akcizo pajamų. LRT skiriamų asignavimų dydis neturi būti mažesnis už paskutinių trejų biudžetinių metų LRT skirtų valstybės biudžeto asignavimų vidurkį.
-
-
-
 
 6. 2026–2028 metais LRT skiriami valstybės biudžeto asignavimai yra lygūs 2025 metų LRT skirtiems valstybės biudžeto asignavimams.
 
