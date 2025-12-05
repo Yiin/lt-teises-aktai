@@ -853,7 +853,7 @@ FLUORINTŲ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ dujų TVARKYMO ATESTATŲ, LEIDIMŲ V
 
 
 
-6. Fiziniai asmenys, norintys mokytis pagal vieną iš šio straipsnio 3 dalyje nurodytų programų ir gauti pažymėjimą, turi atitikti šiuos reikalavimus:
+6. Fiziniai asmenys, norintys mokytis pagal vieną iš šio straipsnio 3 dalyje nurodytų programų ir gauti pažymėjimą, turi būti įgiję vidurinį išsilavinimą.
 
 
 1) Norintys mokytis pagal programą, kuri susijusi su fizinių asmenų, dirbančių su stacionaria šaldymo, oro kondicionavimo, šilumos siurblių įranga, kurioje yra OAM ir F-dujų ir izoterminių sunkvežimių, šaldymo priekabų įrenginių, kuriuose yra F-dujų, sertifikavimo ir kvalifikacijos tobulinimu, privalo būti baigę šildymo, vėdinimo, oro kondicionavimo sistemų montuotojo modulinės profesinio mokymo programos modulį arba kitą analogišką programą, turėti ne žemesnį kaip profesinį inžinerinį, statybos ir statybos inžinerijos išsilavinimą pagrindžiantį dokumentą arba turėti ne mažesnę kaip 1,5 metų darbo su stacionarios šaldymo, vėdinimo, oro kondicionavimo, šilumos siurblių ar izoterminių sunkvežimių ir priekabų šaldymo įrenginiais patirtį.
@@ -879,7 +879,7 @@ FLUORINTŲ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ dujų TVARKYMO ATESTATŲ, LEIDIMŲ V
 
 
 
-2. Leidimai asmenims išduodami neribotam terminui per ALIS ir visuomenės informavimo tikslais informacija ir duomenys apie leidimus skelbiami ALIS ir LIS. Leidimai išduodami asmenims, kurie atitinka šiuos reikalavimus:
+2. Leidimai asmenims išduodami, jų galiojimas sustabdomas, galiojimo sustabdymas panaikinamas ir galiojimas panaikinamas per ALIS. Leidimai galioja neterminuotai. Informacija ir duomenys apie leidimus visuomenės informavimo tikslais viešinami ALIS ir LIS iki leidimo galiojimo panaikinimo dienos, taip sudarant palankias sąlygas paslaugų ieškantiems suinteresuotiems asmenims rasti leidimus turinčius paslaugų teikėjų. Viešinama ši leidimuose esanti informacija: fizinio asmens vardas ir pavardė arba juridinio asmens pavadinimas ir juridinio asmens kodas, leidimo išdavimo data, leidimo numeris, leidimo galiojimo būsena, mokymo programų pavadinimai. Leidimai išduodami asmenims, kurie atitinka šiuos reikalavimus:
 
 
 1) pateikia  fizinio asmens tapatybę patvirtinantį dokumentą ar juridinio asmens registracijos dokumentą su juridinio asmens kodu ir kontaktinius duomenis (telefono ryšio numeris, elektroninio pašto adresas);
@@ -1803,8 +1803,10 @@ klimato kaitos valdymo įstatymo
 
 21. 2024 m. vasario 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/590 dėl ozono sluoksnį ardančių medžiagų, kuriuo panaikinamas Reglamentas (EB) Nr. 1005/2009.
 
-
-
+22. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas).
+23. 2024 m. rugsėjo 6 d. Komisijos įgyvendinimo reglamentas (ES) 2024/2215, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) 2024/573 nustatomi minimalieji sertifikatų, susijusių su stacionaria šaldymo, oro kondicionavimo ir šilumos siurblių įranga, organiniais Rankino ciklais ir izoterminių sunkvežimių, izoterminių priekabų, izoterminių lengvųjų transporto priemonių, įvairiarūšio vežimo konteinerių ir traukinių vagonų šaldymo įrenginiais, kuriuose yra fluorintų šiltnamio efektą sukeliančių dujų arba jų alternatyvų, išdavimo fiziniams ir juridiniams asmenims reikalavimai bei tokių sertifikatų tarpusavio pripažinimo sąlygos ir panaikinamas Komisijos įgyvendinimo reglamentas (ES) 2015/2067.
+24. 2025 m. kovo 28 d. Komisijos įgyvendinimo reglamentas (ES) 2025/625, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) 2024/573 nustatomi fizinių ir juridinių asmenų sertifikatų minimalieji reikalavimai ir tokių sertifikatų tarpusavio pripažinimo sąlygos, susiję su stacionaria gaisro gesinimo įranga, kurioje yra tam tikrų fluorintų šiltnamio efektą sukeliančių dujų arba atitinkamų fluorintų šiltnamio efektą sukeliančių dujų alternatyvų, ir panaikinamas Komisijos reglamentas (EB) Nr. 304/2008.
+25. 2025 m. kovo 28 d. Komisijos įgyvendinimo reglamentas (ES) 2025/627, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) 2024/573 nustatomi su stacionarių elektros skirstomųjų įrenginių, kuriuose yra fluorintų šiltnamio efektą sukeliančių dujų, montavimu, aptarnavimu arba technine priežiūra, remontu arba eksploatacijos nutraukimu ir fluorintų šiltnamio efektą sukeliančių dujų surinkimu iš stacionarių elektros skirstomųjų įrenginių susiję fizinių asmenų sertifikatų minimalieji reikalavimai ir tokių sertifikatų tarpusavio pripažinimo sąlygos, ir panaikinamas Komisijos įgyvendinimo reglamentas (ES) 2015/2066.
 
 _________________
 
