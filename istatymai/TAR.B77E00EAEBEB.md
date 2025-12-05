@@ -413,151 +413,7 @@ APYVARTINIŲ TARŠOS LEIDIMŲ PREKYBOS SISTEMOS REIKALAVIMAI
 
 
 
-5. Draudžiama disponuoti Sąjungos šiltnamio efektą sukeliančių dujų registre įrenginio valdytojo ir (ar) orlaivio naudotojo sąskaitoje esančiais apyvartiniais taršos leidimais, kurie suteikti nemokamai, kai įrenginio valdytojui ir (ar) orlaivio naudotojui iškeliama bankroto byla arba pradėtas bankroto procesas ne teismo tvarka. Tokiais atvejais nemokai suteiktų apyvartinių taršos leidimų galima atsisakyti tik už bankrutuojančio įrenginio valdytojo ir (ar) orlaivio naudotojo išmestą ŠESD kiekį. Draudimas disponuoti nemokamai suteiktais apyvartiniais taršos leidimais nebetaikomas atsisakius apyvartinių taršos leidimų už visą išmestą ŠESD kiekį. 
- 
-
-
-
-
-
-
-10 straipsnis. Specialios išimtys orlaivių naudotojams, taikomos iki privalomo Tarptautinės civilinės aviacijos organizacijos pasaulinės rinkos priemonės (CORSIA) įgyvendinimo dienos
-
-
-1. Iki privalomo Tarptautinės civilinės aviacijos organizacijos pasaulinės rinkos priemonės (CORSIA) įgyvendinimo dienos šio įstatymo 6 straipsnio 2 ir 3 dalių reikalavimai netaikomi orlaivių naudotojų skrydžiams, kurie:
-
-
-1) atitinka aviacijos veiklos išimtis, nurodytas šio įstatymo 1 priedo lentelės 1.29 papunktyje, Komisijos deleguotojo sprendimo (ES) 2020/1071 1 straipsnio 3 punkte ir 2009 m. birželio 8 d. Komisijos sprendime 2009/450/EB dėl išsamaus Europos Parlamento ir Tarybos direktyvos 2003/87/EB I priede išvardytų aviacijos veiklos rūšių išaiškinimo; 
-
-
-
-
-2) vykdomi tarp aerodromo, esančio viename iš atokiausių regionų, kaip apibrėžiama Sutarties dėl Europos Sąjungos veikimo 349 straipsnyje, ir aerodromo, esančio kitame Europos ekonominės erdvės regione, atsižvelgus į Europos Komisijos peržiūros rezultatus;
-
-
-
-
-3) vykdomi į aerodromus, esančius Europos ekonominei erdvei nepriklausančiose valstybėse, ir iš jų, išskyrus skrydžius į Jungtinėje Didžiosios Britanijos ir Šiaurės Airijos Karalystėje arba Šveicarijos Konfederacijoje esančius aerodromus, atsižvelgus į Europos Komisijos peržiūros rezultatus. Su šiame punkte nenurodytais skrydžiais susijęs patikrintas išmetamas ŠESD kiekis laikomas orlaivių naudotojo patikrintu išmestu ŠESD kiekiu;
-
-
-
-
-4) vykdomi tarp Europos Sąjungos valstybės narės atokiausiame regione esančio aerodromo ir kitoje tos Europos Sąjungos valstybės narės dalyje esančio aerodromo, įskaitant kitą aerodromą, esantį tos pačios Europos Sąjungos valstybės narės tame pačiame atokiausiame regione ar kitame atokiausiame regione;
-
-
-
-
-5) vykdomi į valstybes, nurodytas Europos Komisijos priimtame įgyvendinimo akte, kuriame išvardijamos valstybės, išskyrus Europos ekonominės erdvės šalis, Šveicarijos Konfederaciją ir Jungtinę Didžiosios Britanijos ir Šiaurės Airijos Karalystę, kurios Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje laikomos taikančiomis Tarptautinės civilinės aviacijos organizacijos pasaulinę rinkos priemonę (CORSIA) ir yra nustačiusios 2019 m. išmetamo ŠESD kiekio bazinį lygį 2021–2023 m. laikotarpiu, kiekvieniems metams nuo 2024 m. – 85 procentų 2019 m. išmetamo ŠESD kiekio bazinio lygio (toliau – Europos Komisijos įgyvendinimo aktas), ir iš šių valstybių;
-
-
-
-
-6) vykdomi tarp Europos ekonominės erdvės valstybių ir valstybių, neišvardytų šios dalies 5 punkte nurodytame Europos Komisijos įgyvendinimo akte, išskyrus skrydžius į Šveicarijos Konfederaciją ir Jungtinę Didžiosios Britanijos ir Šiaurės Airijos Karalystę;
-
-
-
-
-7) vykdomi į Jungtinių Tautų apibrėžtas mažiausiai išsivysčiusias šalis, mažas besivystančias salų valstybes ir iš jų, išskyrus šios dalies 5 punkte nurodytame Europos Komisijos įgyvendinimo akte išvardytas šalis ir valstybes, kurių bendrasis vidaus produktas (BVP) vienam gyventojui yra lygus Europos Sąjungos vidurkiui arba už jį didesnis.
-
-
-
-
-
-
-2. Aukcione parduodamų Lietuvos Respublikai priskirtų apyvartinių taršos leidimų kiekis sumažinamas, kad atitiktų Lietuvos Respublikai priskirtą aviacijos sektoriaus išmetamą ŠESD kiekį skrydžiams, kuriems netaikomos šio straipsnio 1 dalies punktuose išvardytos išimtys.
-
-
-
-
-3. Šio straipsnio 1 dalies 2 ir 3 punktai taikomi valstybėms, kurios yra pasirašiusios susitarimą dėl optimalios Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemos ir toje valstybėje taikomų ŠESD mažinimo priemonių sąveikos.
- 
-
-
-
-
-
-
-11 straipsnis. Specialieji reikalavimai laivybos bendrovėms
-
-
-1. Laivybos bendrovės, kurioms taikomi šio įstatymo 6 straipsnio 3 dalies reikalavimai, privalo atsisakyti apyvartinių taršos leidimų už šio įstatymo 1 priede nurodytą jūrinio transporto veiklą vykdančių laivų per praėjusius metus išmestą ŠESD kiekį pagal aplinkos ministro nustatyta tvarka nurodytą tvarkaraštį ir reikalavimus. 
-
-
-
-
-2. Šio įstatymo 6 straipsnio 3 dalies reikalavimai netaikomi laivybos bendrovėms:
-
-
-1) dėl reisų keleiviniais ir ro-pax laivais (išskyrus kruizinius keleivinius laivus) tarp 2023 m. gruodžio 19 d. Komisijos įgyvendinimo sprendime (ES) 2023/2895, kuriuo nustatomas Europos Parlamento ir Tarybos direktyvos 2003/87/EB 12 straipsnio 3-d dalyje nurodytų salų ir uostų sąrašas ir tos direktyvos 12 straipsnio 3-c dalyje nurodytų tarptautinių viešųjų paslaugų sutarčių arba tarpvalstybinių viešųjų paslaugų įsipareigojimų sąrašas, nurodytų valstybių narių jurisdikcijai priklausančios salos uosto, neturinčio kelio ar geležinkelio jungties su žemynine dalimi, ir žemyninės dalies, kurioje gyvena mažiau kaip 200 000 nuolatinių gyventojų, ir tos pačios valstybės narės jurisdikcijai priklausančio uosto ir dėl tokių laivų uoste vykdomos veiklos, susijusios su šiais reisais; 
-
-
-
-
-2) už keleivinių arba ro-pax laivų išmesto ŠESD kiekį dėl reisų, nurodytų Komisijos įgyvendinimo sprendime (ES) 2023/2895, tarp valstybių narių, iš kurių viena neturi sausumos sienos su kita valstybe nare, užtikrinant susisiekimą tarp tų dviejų valstybių narių, ir su tokiais reisais susijusios tokių laivų veiklos uoste;
-
-
-
-
-3) dėl ŠESD kiekio, išmesto dėl reisų tarp Europos Sąjungos valstybės narės atokiausiame regione esančio uosto ir toje pačioje Europos Sąjungos valstybėje narėje esančio uosto, įskaitant reisus tarp uostų atokiausiame regione ir reisus tarp uostų tos pačios Europos Sąjungos valstybės narės atokiausiuose regionuose, ir su tokiais reisais susijusios tokių laivų uoste vykdomos veiklos.
-
-
-
-
-
-
-3. Kai atsakomybę už kuro pirkimą ir (arba) laivo eksploatavimą sudaryta sutartimi prisiima kitas subjektas, kuris nėra to laivo laivybos bendrovė, laivybos bendrovė turi teisę iš to subjekto gauti kompensaciją už išlaidas, susijusias su apyvartinių taršos leidimų atsisakymu.
- 
-
-
-
-
-
-
-12 straipsnis. Specialieji reikalavimai reguliuojamiesiems subjektams
-
-
-1. Šio įstatymo 6 straipsnio reikalavimai taikomi reguliuojamiesiems subjektams, kurie išleidžia vartoti kurą šio įstatymo 2 priede nurodytų rūšių veikloms, ir priskiriami vienai iš šių kategorijų:
-
-
-1) akcizais apmokestinamų prekių sandėlio savininkas, kaip apibrėžiama Akcizų įstatymo 3 straipsnio 2 dalyje, kuriam tenka prievolė mokėti akcizus pagal Akcizų įstatymo 9 straipsnio 4, 5, 7, 9, 13 ir 14 dalis, jeigu kuras patenka į akcizais apmokestinamų prekių sandėlį, kaip apibrėžiama Akcizų įstatymo 3 straipsnio 4 dalyje;
-
-
-
-
-2) bet kuris kitas asmuo, kuriam tenka prievolė mokėti akcizus pagal Akcizų įstatymo 9 arba 58 straipsnius už kurą, kuriam taikomos šio įstatymo 2 priedo nuostatos, jeigu netaikoma šios dalies 1 punkto nuostata;
-
-
-
-
-3) akcizų už akmens anglis, koksą ir lignitą mokėtojai, kaip nustatyta Akcizų įstatymo 52 straipsnyje, jeigu netaikomos šios dalies 1 ir 2 punktų nuostatos;
-
-
-
-
-4) bet kuris kitas asmuo, kuriam pagal Akcizų įstatymą tenka prievolė mokėti akcizus, arba bet kuris kitas asmuo, prisiimantis sudaryta sutartimi reguliuojamojo subjekto atsakomybę, jeigu netaikomos šios dalies 1, 2 ir 3 punktų nuostatos arba jeigu prievolė mokėti akcizus solidariai tenka keliems asmenims.
-
-
-
-
-
-
-2. Reguliuojamiesiems subjektams taikomi šio įstatymo 6 straipsnio 3 dalies reikalavimai atsisakyti apyvartinių taršos leidimų už šio įstatymo 2 priede nurodytų rūšių veikloms per ankstesnius kalendorinius metus bendrai išleisto vartoti kuro išmestą ŠESD kiekį. 
-
-
-
-
-3. Reguliuojamieji subjektai už išleisto vartoti kuro išmestą ŠESD kiekį veikloms, nepatenkančioms į šio įstatymo 2 priede nurodytų veiklos rūšių sąrašą (ligoninių veiklai sunaudojamo kuro išmetamą ŠESD kiekį ir panašiai), neturi atsisakyti apyvartinių taršos leidimų. Tokiais atvejais, kai vykdant veiklas, nepatenkančias į šio įstatymo 2 priedo veiklos rūšių sąrašą, patiriamos išlaidos, kurios jiems perkeliamos dėl reguliuojamųjų subjektų atsisakymo apyvartinių taršos leidimų už šio įstatymo 2 priede nurodytoms veikloms išleisto kuro ŠESD kiekį, gali būti suteikta finansinė kompensacija pagal Europos Komisijos priimtus įgyvendinimo aktus dėl išsamių taisyklių, kaip išvengti dvigubo skaičiavimo ir apyvartinių taršos leidimų atsisakymo už išmetamas ŠESD, kurioms šis straipsnis netaikomas ir dėl finansinės kompensacijos galutiniams kuro vartotojams tais atvejais, kai tokio dvigubo skaičiavimo arba apyvartinių taršos leidimų atsisakymo negalima išvengti. Siekiant išvengti išlaidų perkėlimo rizikos, reguliuojamieji subjektai privalo nustatyti, patikimai ir tiksliai dokumentuoti kiekvienos rūšies kuro, naudojamo šio įstatymo 2 priede nurodytoms veikloms, tikslius išleidžiamo vartoti kuro kiekius, išleidimo būdus ir išleidžiamo vartoti kuro galutinę paskirtį. 
-
-
-
-
-4. Reguliuojamieji subjektai, atsižvelgdami į Europos Komisijos reikalavimus, teikia aplinkos ministro nustatyta tvarka ataskaitas apie praėjusių metų išlaidas, kurias perkėlė galutiniams vartotojams, atsisakydami apyvartinių taršos leidimų.
- 
-
-
-
-
-
+5. Draudžiama disponuoti Sąjungos šiltnamio efektą sukeliančių dujų registre įrenginio valdytojo ir (ar) orlaivio naudotojo sąskaitoje esančiais apyvartiniais taršos leidimais, kurie suteikti nemokamai, kai įrenginio valdytojui ir (ar) orlaivio naudotojui iškeliama bankroto byla arba pradėtas bankroto procesas ne teismo tvarka. Tokiais atvejais nemokai suteiktų apyvartinių taršos leidimų galima atsisakyti tik už bankrutuojančio įrenginio valdytojo ir (ar) orlaivio naudotojo išmestą ŠESD kiekį. Draudimas disponuoti nemokamai suteiktais apyvartiniais taršos leidimais nebetaikomas atsisakius apyvartinių taršos leidimų už visą išmestą ŠESD kiekį.
 
 13 straipsnis. Metinių šiltnamio efektą sukeliančių dujų išmetimo kvotos vienetų ir (ar) absorbavimo vienetų įsigijimo ir perleidimo sandoriai Lietuvos įsipareigojimams įgyvendinti
 
@@ -646,7 +502,7 @@ APYVARTINIŲ TARŠOS LEIDIMŲ PREKYBOS SISTEMOS REIKALAVIMAI
 
 
 
-3) Nacionaliniame pažangos plane ir Nacionalinėje klimato kaitos valdymo darbotvarkėje numatytus nacionalinės klimato kaitos valdymo politikos uždavinius įgyvendinančių NEKS veiksmų plano ir nacionalinių plėtros programų priemonėms ir jas įgyvendinantiems projektams vykdyti;
+3) Nacionaliniame pažangos plane ir Nacionalinėje klimato kaitos valdymo darbotvarkėje numatytus nacionalinės klimato kaitos valdymo politikos uždavinius įgyvendinantiems NEKS veiksmų plano ir nacionalinių plėtros programų priemonėms ir jas įgyvendinantiems projektams vykdyti;
 
 
 
@@ -676,9 +532,12 @@ APYVARTINIŲ TARŠOS LEIDIMŲ PREKYBOS SISTEMOS REIKALAVIMAI
 
 
 
-9) Socialinio klimato plano priemonėms finansuoti pagal Reglamento (ES) 2023/955 15 straipsnį.
+9) Socialinio klimato plano priemonėms finansuoti pagal Reglamento (ES) 2023/955 15 straipsnį;
 
 
+
+
+10) finansinėms priemonėms, kurios, naudojantis valstybės pagalba, leistų šiltnamio efektą sukeliančias dujas išmetančių įrenginių valdytojams, patenkantiems į sektorius ar jų pošakius, kuriuose pagal Europos Komisijos gaires dėl tam tikrų valstybės pagalbos priemonių, susijusių su šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistema, kyla reali išmetamo anglies dioksido kiekio perkėlimo dėl didelių netiesioginių išlaidų, faktiškai patiriamų su išmetamų ŠESD kiekiu susijusias išlaidas perkeliant į elektros energijos kainas, rizika, sumažinti išmetamų ŠESD mažinimo įsipareigojimų finansinę ir ekonominę naštą, įgyvendinti – 1 proc. lėšų, nurodytų šio straipsnio 2 dalies 2 punkte.
 
 
 
@@ -706,8 +565,6 @@ APYVARTINIŲ TARŠOS LEIDIMŲ PREKYBOS SISTEMOS REIKALAVIMAI
 
 
 
-
-
 5. Jeigu Vyriausybė pagal šio įstatymo 13 straipsnio 4 dalį priima sprendimą dėl metinių ŠESD kvotos vienetų ir (ar) absorbavimo vienetų įsigijimo ir perleidimo sandorio sudarymo, pagal kurį metinius ŠESD kvotos vienetus ir (ar) absorbavimo vienetus perkančioji valstybė ar jos įgaliotas asmuo mainais už perleidžiamus metinius ŠESD kvotos vienetus ir (ar) absorbavimo vienetus atsiskaito turtu, ir jeigu šio įstatymo 13 straipsnio 4 dalyje nurodyta Vyriausybės įgaliota institucija pasirašo metinių ŠESD kvotos vienetų ir (ar) absorbavimo vienetų įsigijimo ir perleidimo sutartį, mainais už perleistus metinius ŠESD kvotos vienetus ir (ar) absorbavimo vienetus gautas turtas Vyriausybės sprendimu perduodamas šio straipsnio 3 dalies 1 ir 2 punktuose nurodytų Programos lėšų panaudojimo krypčių projektus ir (ar) priemones įgyvendinantiems subjektams:
 
 
@@ -721,25 +578,20 @@ APYVARTINIŲ TARŠOS LEIDIMŲ PREKYBOS SISTEMOS REIKALAVIMAI
 
 
 
-
-
 6. Turto priėmimo–perdavimo aktą pasirašo šio straipsnio 5 dalies 1 ir 2 punktuose nurodyti turtą perimantys subjektai ir šio įstatymo 13 straipsnio 4 dalyje nurodyta Vyriausybės įgaliota institucija.
- 
- 
 
 
 
 
+7. Šio straipsnio 3 dalies 10 punkte nurodytoms finansinėms priemonėms įgyvendinti skirtos valstybės pagalbos schemos rengia, derina su Europos Komisija ir tvirtina Vyriausybės įgaliota institucija.
+ 
+ 
 
 
 
 
 KETVIRTASIS SKIRSNIS
-SĄJUNGOS ŠILTNAMIO EFEKTĄ SUKELIANČIŲ DUJŲ REGISTRAS
- 
-
-
-15 straipsnis. Sąjungos šiltnamio efektą sukeliančių dujų registro naudojimas
+SĄJUNGOS ŠILTNAMIO EFEKTĄ SUKELIANČIŲ DUJŲ REGISTRAS15 straipsnis. Sąjungos šiltnamio efektą sukeliančių dujų registro naudojimas
 
 
 1. Lietuvos Respublikai, jos teritorijoje registruotiems veiklos vykdytojams nuosavybės teise priklausantys apyvartiniai taršos leidimai, Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje nedalyvaujantiems sektoriams paskirti metinių ŠESD kvotų vienetai ir žemės naudojimo, žemės naudojimo keitimo ir miškininkystės sektoriaus išmetamo ir absorbuojamo ŠESD kiekio vienetai, sukaupti pagal Europos Sąjungos teisės aktus, reglamentuojančius metinių ŠESD kvotos vienetų ir (ar) absorbavimo vienetų žemės naudojimo, žemės naudojimo keitimo ir miškininkystės sektoriaus lankstumo priemones, registruojami Sąjungos šiltnamio efektą sukeliančių dujų registre esančiose Lietuvos Respublikos jurisdikcijai priklausančiose sąskaitose.
@@ -758,21 +610,14 @@ SĄJUNGOS ŠILTNAMIO EFEKTĄ SUKELIANČIŲ DUJŲ REGISTRAS
 
 
 4. Už veiklos vykdytojų ir kitų asmenų sąskaitų atidarymą Sąjungos šiltnamio efektą sukeliančių dujų registre imama valstybės rinkliava, už šio registro duomenų teikimą ir sąskaitų tvarkymą Sąjungos šiltnamio efektą sukeliančių dujų registre imamas administracinėmis išlaidomis pagrįstas atlyginimas. Šio atlyginimo dydį ir mokėjimo tvarką nustato Vyriausybė.
- 
-
-
-
-
+ 
+ 
 
 
 
 
 PENKTASIS SKIRSNIS
-NACIONALINĖS IŠMETAMŲ Į ATMOSFERĄ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ DUJŲ APSKAITOS IR PROGNOZIŲ RENGIMO SISTEMOS
- 
-
-
-16 straipsnis. Nacionalinė išmetamų į atmosferą šiltnamio efektą sukeliančių dujų apskaitos sistema
+NACIONALINĖS IŠMETAMŲ Į ATMOSFERĄ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ DUJŲ APSKAITOS IR PROGNOZIŲ RENGIMO SISTEMOS16 straipsnis. Nacionalinė išmetamų į atmosferą šiltnamio efektą sukeliančių dujų apskaitos sistema
 
 
 1. Aplinkos ministras paskiria už nacionalinės išmetamų į atmosferą ŠESD apskaitos ataskaitos, kurioje įvertinamas iš atskirų šaltinių dėl žmogaus veiklos išmetamų ir absorbuojamų ŠESD kiekis, rengimą ir teikimą atsakingas institucijas, nustato šios ataskaitos (ar jos atskirų dalių) rengimo, užtikrinant ŠESD apskaitos duomenų parengimą laiku, skaidrumą, tikslumą, nuoseklumą, palyginamumą ir išsamumą, ir jos teikimo tvarką. 
@@ -809,9 +654,7 @@ FLUORINTŲ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ dujų TVARKYMO ATESTATŲ, LEIDIMŲ V
 18 straipsnis. Fluorintų šiltnamio efektą sukeliančių dujų tvarkymo atestatų išdavimas, jų galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir galiojimo panaikinimas
 
 
-1. Stacionarios šaldymo, oro kondicionavimo įrangos, stacionarių gaisro gesinimo sistemų, gesintuvų ir šilumos siurblių, turinčių tam tikrų F-dujų, (toliau – įranga) montavimo, aptarnavimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo darbus kitiems subjektams Lietuvos Respublikos teritorijoje turi teisę atlikti savarankiškai dirbantys Lietuvos Respublikos, taip pat kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės (toliau kartu – valstybė narė) piliečiai, kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktų jiems suteiktomis judėjimo valstybėse narėse teisėmis, arba Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigti juridiniai asmenys, kitos organizacijos ar jų padaliniai (toliau – juridiniai asmenys), turintys valstybės narės išduotą F-dujų tvarkymo atestatą (toliau – atestatas) ar kitą dokumentą, kuriuo suteikiama teisė atlikti įrangos montavimo, nuotėkio patikrinimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo ir F-dujų surinkimo darbus kitiems subjektams. Atestatus turintys juridiniai asmenys užtikrina, kad veiklą, kuriai vykdyti reikalingas asmens, dirbančio su F-dujomis ir jų turinčia įranga, pažymėjimas, vykdytų pakankamai reikiamos kvalifikacijos darbuotojų, kurių minimalus skaičius nurodytas šio straipsnio 3 dalies 2 ir 3 punktuose. Fizinių asmenų, dirbančių su įranga, kvalifikacijos reikalavimai nustatomi Europos Komisijos įgyvendinamuosiuose aktuose, reglamentuojančiuose fizinių asmenų, dirbančių su  F-dujomis ir jų turinčia tam tikra įranga, būtiniausius reikalavimus.
-
-
+1. Stacionarios šaldymo, oro kondicionavimo įrangos, stacionarių gaisro gesinimo sistemų, gesintuvų ir šilumos siurblių, turinčių tam tikrų F-dujų, (toliau – įranga) montavimo, aptarnavimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo darbus kitiems subjektams Lietuvos Respublikos teritorijoje turi teisę atlikti savarankiškai dirbantys Lietuvos Respublikos, taip pat kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės (toliau kartu – valstybė narė) piliečiai, kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktų jiems suteiktomis judėjimo valstybėse narėse teisėmis, arba Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigti juridiniai asmenys, kitos organizacijos ar jų padaliniai (toliau – juridiniai asmenys), turintys valstybės narės išduotą F-dujų tvarkymo atestatą (toliau – atestatas) nurodytai veiklos kategorijai ar kitą dokumentą, kuriuo suteikiama teisė atlikti atitinkamos įrangos montavimo, nuotėkio patikrinimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo ir F-dujų surinkimo darbus kitiems subjektams. Atestatus turintys juridiniai asmenys užtikrina, kad veiklai, kuriai vykdyti reikalingas fizinio asmens, dirbančio su F-dujomis ir jų turinčia įranga, pažymėjimas, vykdyti pakaktų reikiamos kvalifikacijos darbuotojų, kurių minimalus skaičius nurodytas šio straipsnio 3 dalies 2 ir 3 punktuose. Fizinių asmenų, dirbančių su įranga, kvalifikacijos reikalavimai pagal veiklos kategoriją nustatyti Europos Komisijos įgyvendinamuosiuose aktuose, reglamentuojančiuose fizinių asmenų, dirbančių su F‑dujomis ir jų turinčia tam tikra įranga, būtiniausius reikalavimus.
 
 
 2. Atestatai išduodami, jų galiojimas sustabdomas, galiojimo sustabdymas panaikinamas ir galiojimas panaikinamas aplinkos ministro įgaliotos institucijos sprendimu. Sprendimai dėl atestato išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo gali būti skundžiami Lietuvos Respublikos įstatymų nustatyta tvarka.
@@ -819,32 +662,30 @@ FLUORINTŲ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ dujų TVARKYMO ATESTATŲ, LEIDIMŲ V
 
 
 
-3. Aplinkos ministro įgaliota institucija, gavusi asmens prašymą išduoti atestatą ir dokumentus, patvirtinančius atitiktį nustatytiems reikalavimams, per 5 darbo dienas šiam asmeniui išsiunčia patvirtinimą, kad prašymas gautas. Jeigu pateikti ne visi ar netikslūs dokumentai ar informacija, ji praneša šiam asmeniui apie trūkumus ir nurodo ne trumpesnį kaip 5 darbo dienų terminą trūkumams pašalinti. Atestatas išduodamas arba pateikiamas motyvuotas atsisakymas išduoti atestatą ne vėliau kaip per 30 kalendorinių dienų nuo visų tinkamai pateiktų dokumentų gavimo dienos. Išduoti atestatai galioja neterminuotai šio straipsnio 1 dalyje nurodytiems asmenims, atitinkantiems šiuos reikalavimus:
+3. Aplinkos ministro įgaliota institucija, gavusi asmens prašymą išduoti atestatą ir dokumentus, patvirtinančius atitiktį nustatytiems reikalavimams, per 5 darbo dienas šiam asmeniui išsiunčia patvirtinimą, kad prašymas gautas. Jeigu pateikti ne visi ar netikslūs dokumentai arba informacija, ji praneša šiam asmeniui apie trūkumus ir nurodo ne trumpesnį kaip 5 darbo dienų terminą trūkumams pašalinti. Atestatas išduodamas arba pateikiamas motyvuotas atsisakymas išduoti atestatą ne vėliau kaip per 30 kalendorinių dienų nuo visų tinkamai pateiktų dokumentų gavimo dienos. Išduoti atestatai galioja neterminuotai šio straipsnio 1 dalyje nurodytiems asmenims, atitinkantiems šiuos reikalavimus:
 
 
-1) Fiziniai asmenys, dirbantys pagal darbo sutartis, ar kiti fiziniai asmenys, su kuriais fizinis asmuo yra sudaręs kitų rūšių sutartis, turi fizinių asmenų, dirbančių su F-dujomis ir OAM ir jų turinčia įranga, pažymėjimus (toliau – pažymėjimas). Juridiniame asmenyje dirba pakankamai reikiamos kvalifikacijos pažymėjimus turinčių darbuotojų, kurių minimalus skaičius nurodytas šios dalies 2 ir 3 punktuose, kad laikantis visų būtinų darbų saugos reikalavimų būtų galima vykdyti veiklą, atliekant įrangos montavimo, nuotėkio patikrinimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo darbus kitiems subjektams. Asmenys, norintys gauti atestatą ir vykdyti veiklą, atliekant bent vieną iš stacionarios šaldymo, oro kondicionavimo, šilumos siurblių įrangos, izoterminių sunkvežimių ir priekabų šaldymo įrenginių arba stacionarių priešgaisrinių sistemų ir gesintuvų arba elektros skirstymo įrenginių montavimo, techninės priežiūros, eksploatacijos nutraukimo ir F-dujų surinkimo darbų kitiems subjektams, turi atitikti minimalius dirbančių fizinių asmenų skaičiaus reikalavimus.
-
-
-
-
-2) Vienas fizinis asmuo gali atlikti įrangos montavimo darbus, kai F-dujų kiekis sumontuotoje įrangoje neviršija 50 t anglies dioksido  ekvivalento F-dujų. Jeigu įrangoje F-dujų yra daugiau kaip 50 t anglies dioksido ekvivalento, siekiant užtikrinti darbų saugos reikalavimus, montavimo darbus turi atlikti du arba daugiau fizinių asmenų.
+1) fiziniai asmenys, dirbantys pagal darbo sutartis, ar kiti fiziniai asmenys, su kuriais fizinis asmuo yra sudaręs kitų rūšių sutartis, turi fizinių asmenų, dirbančių su F-dujomis ir OAM ir jų turinčia įranga, pažymėjimus (toliau – pažymėjimas). Juridiniame asmenyje dirba pakankamai reikiamos kvalifikacijos pažymėjimus turinčių darbuotojų, kurių minimalus skaičius nurodytas šios dalies 2 ir 3 punktuose, kad laikantis visų būtinų darbų saugos reikalavimų būtų galima vykdyti veiklą, apimančią įrangos montavimo, nuotėkio patikrinimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo darbų atlikimą kitiems subjektams. Asmenys, norintys gauti atestatą ir vykdyti veiklą, apimančią bent vieno iš stacionarios šaldymo, oro kondicionavimo, šilumos siurblių įrangos, izoterminių sunkvežimių ir priekabų šaldymo įrenginių arba stacionarių priešgaisrinių sistemų ir gesintuvų arba elektros skirstymo įrenginių montavimo, techninės priežiūros, eksploatacijos nutraukimo ir F-dujų surinkimo darbų atlikimą kitiems subjektams, turi atitikti minimalius dirbančių fizinių asmenų skaičiaus reikalavimus;
 
 
 
 
-3) Vienas fizinis asmuo gali atlikti nuotėkio patikrinimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo darbus, kai F-dujų kiekis sumontuotoje įrangoje neviršija 500 t anglies dioksido ekvivalento F-dujų. Jeigu įrangoje F-dujų yra daugiau kaip 500 t anglies dioksido ekvivalento, siekiant užtikrinti darbų saugos reikalavimus, nuotėkio patikrinimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo darbus turi atlikti du arba daugiau fizinių asmenų.
+2) vienas fizinis asmuo gali atlikti įrangos montavimo darbus, kai F-dujų kiekis sumontuotoje įrangoje neviršija 50 t anglies dioksido ekvivalento F-dujų (I veiklos tipas). Jeigu įrangoje F-dujų yra daugiau kaip 50 t anglies dioksido ekvivalento, siekiant užtikrinti darbų saugos reikalavimus, montavimo darbus turi atlikti du arba daugiau fizinių asmenų (II veiklos tipas);
 
 
 
 
-4) Asmenys, norintys gauti atestatą, privalo turėti atitinkamai atestuojamai veiklos rūšiai būtiną techninę įrangą, kurios reikalavimus nustato aplinkos ministras. Reikalavimus atitinkanti įranga sudaro sąlygas atlikti šiuo įrangos montavimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo darbus kitiems subjektams: atlikti įrangos patikrą dėl F-dujų nuotėkio, šių dujų slėgio ir temperatūros matavimus, surinkti F-dujas iš įrangos, jas saugoti ir transportuoti, užpildyti įrangą ir sistemas F-dujomis, montuoti įrangą, vamzdynus ir kitas įrangos dalis nesukeliant F-dujų nuotėkio.
+3) vienas fizinis asmuo gali atlikti nuotėkio patikrinimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo darbus, kai F-dujų kiekis sumontuotoje įrangoje neviršija 500 t anglies dioksido ekvivalento F-dujų (I veiklos tipas). Jeigu įrangoje F-dujų yra daugiau kaip 500 t anglies dioksido ekvivalento, siekiant užtikrinti darbų saugos reikalavimus, nuotėkio patikrinimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo darbus turi atlikti du arba daugiau fizinių asmenų (II veiklos tipas);
 
 
 
 
-5) Asmuo sumoka valstybės rinkliavą Lietuvos Respublikos rinkliavų įstatyme nustatyta tvarka.
+4) asmenys, norintys gauti atestatą, privalo turėti atitinkamos rūšies ir kategorijos, jei taikoma, veiklai, dėl kurios yra atestuojami, vykdyti būtiną techninę įrangą, kurios reikalavimus nustato aplinkos ministras. Reikalavimus atitinkanti įranga sudaro sąlygas atlikti šiuos įrangos montavimo, techninės priežiūros, remonto ir (ar) eksploatacijos nutraukimo darbus kitiems subjektams: atlikti įrangos patikrą dėl F-dujų nuotėkio, šių dujų slėgio ir temperatūros matavimus, surinkti F-dujas iš įrangos, jas saugoti ir transportuoti, pripildyti įrangą ir sistemas F-dujų, montuoti įrangą, vamzdynus ir kitas įrangos dalis nesukeliant F-dujų nuotėkio;
 
 
+
+
+5) asmuo sumoka valstybės rinkliavą Lietuvos Respublikos rinkliavų įstatyme nustatyta tvarka.
 
 
 
@@ -872,8 +713,6 @@ FLUORINTŲ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ dujų TVARKYMO ATESTATŲ, LEIDIMŲ V
 
 
 
-
-
 5. Atestato galiojimas sustabdomas:
 
 
@@ -897,8 +736,6 @@ FLUORINTŲ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ dujų TVARKYMO ATESTATŲ, LEIDIMŲ V
 
 
 
-
-
 6. Atestato galiojimo sustabdymas panaikinamas:
 
 
@@ -917,8 +754,6 @@ FLUORINTŲ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ dujų TVARKYMO ATESTATŲ, LEIDIMŲ V
 
 
 
-
-
 7. Atestato galiojimas panaikinamas, kai:
 
 
@@ -932,7 +767,7 @@ FLUORINTŲ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ dujų TVARKYMO ATESTATŲ, LEIDIMŲ V
 
 
 
-3) atestato turėtojas po atestato galiojimo sustabdymo dienos per 30 kalendorinių dienų nepateikė patikslintų duomenų, jeigu atestato galiojimas sustabdytas šio straipsnio 5 dalies 1 punkte numatytais pagrindais, ir ataskaitų, jeigu atestato galiojimas sustabdytas šio straipsnio 5 dalies 2 punkte numatytais pagrindais;
+3) atestato turėtojas po atestato galiojimo sustabdymo dienos per 30 kalendorinių dienų nepateikė patikslintų duomenų, jeigu atestato galiojimas sustabdytas šio straipsnio 5 dalies 1 punkte numatytais pagrindais, ir ataskaitų, jeigu atestato galiojimas sustabdytas šio straipsnio 5 dalies 2 punkte numatytais pagrindais;
 
 
 
@@ -957,8 +792,6 @@ FLUORINTŲ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ dujų TVARKYMO ATESTATŲ, LEIDIMŲ V
 
 
 
-
-
 8. Sprendimas dėl atestato galiojimo sustabdymo, galiojimo panaikinimo, galiojimo sustabdymo panaikinimo priimamas per 20 darbo dienų nuo šio straipsnio 5, 6 ar 7 dalyje nurodytų aplinkybių paaiškėjimo dienos. Jeigu sprendimui priimti reikia papildomos informacijos iš kitų institucijų, įstaigų arba kitų fizinių ar juridinių asmenų, aplinkos ministro įgaliota institucija sprendimo priėmimo terminą gali vieną kartą pratęsti iki 10 darbo dienų, apie tai informavusi pareiškėją iki sprendimo dėl atestato galiojimo sustabdymo, galiojimo panaikinimo, galiojimo sustabdymo panaikinimo priėmimo termino, nurodyto šioje dalyje, pabaigos.
 
 
@@ -969,20 +802,12 @@ FLUORINTŲ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ dujų TVARKYMO ATESTATŲ, LEIDIMŲ V
 
 
 
-10. Atestatai išduodami, jų galiojimas sustabdomas, galiojimo sustabdymas panaikinamas ir galiojimas panaikinamas per Aplinkosaugos leidimų informacinę sistemą (toliau – ALIS). Duomenys ir informacija apie atestatus visuomenės informavimo tikslais skelbiami ALIS ir Licencijų informacinėje sistemoje (toliau – LIS).
+10. Atestatai išduodami, jų galiojimas sustabdomas, galiojimo sustabdymas panaikinamas ir galiojimas panaikinamas per Aplinkosaugos leidimų informacinę sistemą (toliau – ALIS). Duomenys ir informacija apie atestatus visuomenės informavimo tikslais viešinami ALIS ir Licencijų informacinėje sistemoje (toliau – LIS) iki atestato galiojimo panaikinimo dienos, taip sudarant palankias sąlygas paslaugų ieškantiems suinteresuotiems asmenims rasti atestatus turinčių paslaugų teikėjų. Viešinama ši atestatuose esanti informacija: fizinio asmens vardas ir pavardė arba juridinio asmens pavadinimas ir juridinio asmens kodas, veiklos rūšis, veiklos tipas, kategorija ir atestato galiojimo būsena.
 
 
 
 
-11. Aplinkos ministro įgaliota institucija priima sprendimą nesustabdyti atestato galiojimo, jeigu pažeidimai, atsižvelgiant į šio straipsnio 5 dalies 1 ir 2 punktuose nurodytas aplinkybes, yra mažareikšmiai. Kriterijus, pagal kuriuos pažeidimai priskiriami mažareikšmiams, nustato aplinkos ministras. 
- 
-
-
-
-
-
-
-19 straipsnis. Fizinių asmenų, dirbančių su fluorintomis šiltnamio efektą sukeliančiomis dujomis ir ozono sluoksnį ardančiomis medžiagomis ir jų turinčia įranga, pažymėjimai
+11. Aplinkos ministro įgaliota institucija priima sprendimą nesustabdyti atestato galiojimo, jeigu pažeidimai, atsižvelgiant į šio straipsnio 5 dalies 1 ir 2 punktuose nurodytas aplinkybes, yra mažareikšmiai. Kriterijus, pagal kuriuos pažeidimai priskiriami mažareikšmiems, nustato aplinkos ministras.19 straipsnis. Fizinių asmenų, dirbančių su fluorintomis šiltnamio efektą sukeliančiomis dujomis ir ozono sluoksnį ardančiomis medžiagomis ir jų turinčia įranga, pažymėjimai
 
 
 1. Pažymėjimus išduoda mokymų teikėjai, šio įstatymo 20 straipsnyje nustatyta tvarka gavę leidimą vykdyti fizinių asmenų, dirbančių su F-dujomis, OAM ir jų turinčia įranga, atestavimo, sertifikavimo ir kvalifikacijos tobulinimo programas.
@@ -995,7 +820,7 @@ FLUORINTŲ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ dujų TVARKYMO ATESTATŲ, LEIDIMŲ V
 
 
 
-3. Mokymas, susijęs su fizinių asmenų, dirbančių su motorinių transporto priemonių oro kondicionavimo sistemomis, kuriose yra F-dujų, atestavimo programa ir pažymėjimų išdavimu ją baigusiems asmenims, išlaikiusiems teorinę ir praktinę egzamino dalis, laikomas atestavimu. Mokymas, susijęs su fizinių asmenų, dirbančių su stacionaria šaldymo, oro kondicionavimo, šilumos siurblių įranga, kurioje yra OAM ir F-dujų, ir izoterminių sunkvežimių, šaldymo priekabų įrenginių, kuriuose yra F-dujų, sertifikavimo programa, fizinių asmenų, dirbančių su stacionariomis priešgaisrinėmis sistemomis ir gesintuvais, kuriuose yra F-dujų ar OAM, sertifikavimo programa ir fizinių asmenų, dirbančių su elektros skirstomaisiais įrenginiais, kuriuose yra F-dujų, sertifikavimo programa, ir pažymėjimų išdavimas jas baigusiems fiziniams asmenims, išlaikiusiems praktinę ir teorinę egzamino dalis, laikomas sertifikavimu. Atestuotiems ir sertifikuotiems asmenims išduodami pažymėjimai, kurie galioja 7 metus, ir šių pažymėjimų galiojimas pratęsiamas kas 7 metus, jeigu atestuoti ir (ar) sertifikuoti asmenys baigia kvalifikacijos tobulinimo programą ir išlaiko teorinę ir praktinę egzamino dalis.
+3. Mokymas, susijęs su fizinių asmenų, dirbančių su motorinių transporto priemonių oro kondicionavimo sistemomis, kuriose yra F-dujų, atestavimo programa ir pažymėjimų išdavimu ją baigusiems asmenims, išlaikiusiems teorinę ir praktinę egzamino dalis, laikomas atestavimu. Mokymas, susijęs su fizinių asmenų, dirbančių su stacionaria šaldymo, oro kondicionavimo, šilumos siurblių įranga, kurioje yra OAM ir F-dujų, ir izoterminių sunkvežimių, šaldymo priekabų įrenginių, kuriuose yra F-dujų, sertifikavimo programa, fizinių asmenų, dirbančių su stacionariomis priešgaisrinėmis sistemomis ir gesintuvais, kuriuose yra F-dujų ar OAM, sertifikavimo programa ir fizinių asmenų, dirbančių su elektros skirstomaisiais įrenginiais, kuriuose yra F-dujų, sertifikavimo programa, ir pažymėjimų išdavimas jas baigusiems fiziniams asmenims, išlaikiusiems praktinę ir teorinę egzamino dalis, laikomas sertifikavimu. Atestuotiems ir sertifikuotiems asmenims išduodami pažymėjimai, kurie galioja 7 metus, ir šių pažymėjimų galiojimas pratęsiamas kas 7 metus, jeigu atestuoti ir (ar) sertifikuoti asmenys baigia kvalifikacijos tobulinimo programą ir išlaiko teorinę ir praktinę egzamino dalis.
 
 
 
@@ -1023,8 +848,6 @@ FLUORINTŲ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ dujų TVARKYMO ATESTATŲ, LEIDIMŲ V
 
 
 
-
-
 5. Kas 7 metus fiziniai asmenys, norėdami tęsti veiklą, susijusią su šio straipsnio 4 dalyje nurodytų veiklos rūšių darbais, privalo atnaujinti žinias pagal šio straipsnio 3 dalyje išvardytų programų kvalifikacijos tobulinimo programą, kitu atveju pažymėjimai laikomi negaliojančiais.
 
 
@@ -1048,17 +871,7 @@ FLUORINTŲ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ dujų TVARKYMO ATESTATŲ, LEIDIMŲ V
 
 
 
-4) Norintys mokytis pagal programą, kuri susijusi su fizinių asmenų, dirbančių su motorinių transporto priemonių oro kondicionavimo sistemomis, kuriose yra F-dujų, atestavimu ir kvalifikacijos tobulinimu, privalo būti baigę automobilių remontininko modulinę profesinę mokymo programą ar jai lygiavertę programą arba turėti ne mažesnę kaip 1,5 metų motorinių transporto priemonių remonto darbo patirtį.
- 
-
-
-
-
-
-
-
-
-20 straipsnis. Mokymų teikėjų leidimų vykdyti fizinių asmenų, dirbančių su fluorintomis šiltnamio efektą sukeliančiomis dujomis, ozono sluoksnį ardančiomis medžiagomis ir jų turinčia įranga, programas išdavimas, jų galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir galiojimo panaikinimas
+4) Norintys mokytis pagal programą, kuri susijusi su fizinių asmenų, dirbančių su motorinių transporto priemonių oro kondicionavimo sistemomis, kuriose yra F-dujų, atestavimu ir kvalifikacijos tobulinimu, privalo būti baigę automobilių remontininko modulinę profesinę mokymo programą ar jai lygiavertę programą arba turėti ne mažesnę kaip 1,5 metų motorinių transporto priemonių remonto darbo patirtį.20 straipsnis. Mokymų teikėjų leidimų vykdyti fizinių asmenų, dirbančių su fluorintomis šiltnamio efektą sukeliančiomis dujomis, ozono sluoksnį ardančiomis medžiagomis ir jų turinčia įranga, programas išdavimas, jų galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir galiojimo panaikinimas
 
 
 1. Mokymų teikėjui leidimas vykdyti fizinių asmenų, dirbančių su F-dujomis, OAM ir jų turinčia įranga, atestavimo, sertifikavimo ir kvalifikacijos tobulinimo programas, nurodytas šio įstatymo 19 straipsnio 3 dalyje, (toliau – leidimas) išduodamas gavus asmens prašymą išduoti leidimą ir šio straipsnio 2 dalyje nurodytus reikalavimus patvirtinančią informaciją ir dokumentus. Aplinkos ministro įgaliota institucija per 5 darbo dienas išsiunčia prašymą pateikusiam asmeniui patvirtinimą, kad prašymas yra gautas. Jeigu pateikti ne visi ar netikslūs dokumentai ar informacija, ji praneša šiam asmeniui apie trūkumus ir nurodo ne trumpesnį kaip 5 darbo dienų terminą trūkumams pašalinti. Leidimas išduodamas arba pateikiamas motyvuotas atsisakymas išduoti leidimą ne vėliau kaip per 30 kalendorinių dienų nuo visų tinkamai pateiktų dokumentų ir informacijos gavimo dienos. Mokymų teikėjams leidimai išduodami, jų galiojimas sustabdomas, galiojimo sustabdymas panaikinamas ir galiojimas panaikinamas aplinkos ministro įgaliotos institucijos sprendimu. Sprendimai dėl leidimo išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo gali būti skundžiami Lietuvos Respublikos įstatymų nustatyta tvarka. 
@@ -2053,3 +1866,8 @@ Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo N
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2783, 2024-06-20, paskelbta TAR 2024-06-30, i. k. 2024-12129
 Lietuvos Respublikos klimato kaitos valdymo įstatymo Nr. XI-329 pakeitimo įstatymas
+
+22. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas).
+23. 2024 m. rugsėjo 6 d. Komisijos įgyvendinimo reglamentas (ES) 2024/2215, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) 2024/573 nustatomi minimalieji sertifikatų, susijusių su stacionaria šaldymo, oro kondicionavimo ir šilumos siurblių įranga, organiniais Rankino ciklais ir izoterminių sunkvežimių, izoterminių priekabų, izoterminių lengvųjų transporto priemonių, įvairiarūšio vežimo konteinerių ir traukinių vagonų šaldymo įrenginiais, kuriuose yra fluorintų šiltnamio efektą sukeliančių dujų arba jų alternatyvų, išdavimo fiziniams ir juridiniams asmenims reikalavimai bei tokių sertifikatų tarpusavio pripažinimo sąlygos ir panaikinamas Komisijos įgyvendinimo reglamentas (ES) 2015/2067.
+24. 2025 m. kovo 28 d. Komisijos įgyvendinimo reglamentas (ES) 2025/625, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) 2024/573 nustatomi fizinių ir juridinių asmenų sertifikatų minimalieji reikalavimai ir tokių sertifikatų tarpusavio pripažinimo sąlygos, susiję su stacionaria gaisro gesinimo įranga, kurioje yra tam tikrų fluorintų šiltnamio efektą sukeliančių dujų arba atitinkamų fluorintų šiltnamio efektą sukeliančių dujų alternatyvų, ir panaikinamas Komisijos reglamentas (EB) Nr. 304/2008.
+25. 2025 m. kovo 28 d. Komisijos įgyvendinimo reglamentas (ES) 2025/627, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) 2024/573 nustatomi su stacionarių elektros skirstomųjų įrenginių, kuriuose yra fluorintų šiltnamio efektą sukeliančių dujų, montavimu, aptarnavimu arba technine priežiūra, remontu arba eksploatacijos nutraukimu ir fluorintų šiltnamio efektą sukeliančių dujų surinkimu iš stacionarių elektros skirstomųjų įrenginių susiję fizinių asmenų sertifikatų minimalieji reikalavimai ir tokių sertifikatų tarpusavio pripažinimo sąlygos, ir panaikinamas Komisijos įgyvendinimo reglamentas (ES) 2015/2066.
