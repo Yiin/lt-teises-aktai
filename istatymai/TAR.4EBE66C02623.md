@@ -2959,7 +2959,7 @@ Nr. XIII-731, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18854
 
 
 
-77 straipsnis. Tabako gaminių ar susijusių gaminių nupirkimas, perdavimas ar kitoks realizavimas nepilnamečiams
+77 straipsnis. Tabako gaminių, susijusių gaminių, prekių, skirtų tabako gaminiams rūkyti ar pasiruošti rūkyti, įrenginių, skirtų tabako gaminiams ir (ar) susijusiems gaminiams vartoti, nupirkimas, perdavimas ar kitoks realizavimas nepilnamečiams
 
 
 1. Tabako gaminių ar susijusių gaminių, išskyrus elektronines cigaretes ir (ar) elektroninių cigarečių pildykles, nupirkimas, perdavimas ar kitoks realizavimas nepilnamečiui
@@ -2975,7 +2975,7 @@ užtraukia baudą nuo trijų šimtų dvidešimt iki penkių šimtų aštuoniasde
 
 
 3. Elektroninių cigarečių ir (ar) elektroninių cigarečių pildyklių nupirkimas, perdavimas ar kitoks realizavimas nepilnamečiui
-užtraukia baudą nuo trijų šimtų dvidešimt iki penkių šimtų aštuoniasdešimt eurų. 
+užtraukia baudą nuo trijų šimtų dvidešimt iki penkių šimtų aštuoniasdešimt eurų.
 
 
 
@@ -2986,19 +2986,19 @@ užtraukia baudą nuo penkių šimtų aštuoniasdešimt iki aštuonių šimtų d
 
 
 
-5. Už šio straipsnio 1, 2, 3, 4 dalyse numatytus administracinius nusižengimus privaloma skirti tabako gaminių ar susijusių gaminių konfiskavimą. 
-
-
-Straipsnio pakeitimai:
-Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
-Nr. XIV-2463, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25957
-Nr. XV-56, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23065
- 
+5. Prekių, skirtų tabako gaminiams rūkyti ar pasiruošti rūkyti, įrenginių, skirtų tabako gaminiams ir (ar) susijusiems gaminiams vartoti, nupirkimas, perdavimas ar kitoks realizavimas nepilnamečiui
+užtraukia baudą nuo dviejų šimtų iki trijų šimtų eurų.
 
 
 
 
-78 straipsnis. Energinių gėrimų pardavimas, nupirkimas ar kitoks perdavimas jaunesniems kaip 18 metų asmenims
+6. Šio straipsnio 5 dalyje numatytas administracinis pažeidimas, padarytas pakartotinai,
+užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
+
+
+
+
+7. Už šio straipsnio 1, 2, 3, 4, 5, 6 dalyse numatytus administracinius nusižengimus privaloma skirti tabako gaminių, susijusių gaminių, prekių, skirtų tabako gaminiams rūkyti ar pasiruošti rūkyti, įrenginių, skirtų tabako gaminiams ir (ar) susijusiems gaminiams vartoti, konfiskavimą.78 straipsnis. Energinių gėrimų pardavimas, nupirkimas ar kitoks perdavimas jaunesniems kaip 18 metų asmenims
 
 
 1. Energinių gėrimų pardavimas jaunesniems kaip 18 metų asmenims 
