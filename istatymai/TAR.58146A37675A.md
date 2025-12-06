@@ -381,15 +381,13 @@ Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
 
 
 
-
-
 6. Svarbiausi Tarybos uždaviniai: 
 
 
 1) patarti Seimui ir Vyriausybei etninės kultūros politikos formavimo, nematerialaus kultūros paveldo apsaugos klausimais, skatinti ir koordinuoti etninės kultūros plėtrą ir valstybinę globą; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
- 
+ 
 
 
 
@@ -414,15 +412,13 @@ Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
 
 
 
-
-
 7. Įgyvendindama savo uždavinius, Taryba atlieka šias funkcijas:
 
 
 1) rengia, vertina ir teikia Seimui ir Vyriausybei siūlymus dėl etninės kultūros valstybinės globos ir plėtros, nematerialaus kultūros paveldo apsaugos politikos prioritetų ir jų įgyvendinimo koordinavimo; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
- 
+ 
 
 
 
@@ -455,7 +451,7 @@ Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
 7) Neteko galios nuo 2021-01-01
 Straipsnio punkto naikinimas:
 Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
- 
+ 
 
 
 
@@ -481,8 +477,6 @@ Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
 
 
 12) atlieka kitas įstatymų nustatytas funkcijas.
-
-
 
 
 
@@ -525,13 +519,11 @@ Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
 
 
 
-
-
-9. Tarybą, tvirtinamą Seimo nutarimu, sudaro 21 narys. Į Tarybą juos deleguoja su etninės kultūros globa bei plėtra tiesiogiai susijusios institucijos ir organizacijos, teikdamos Seimui tvirtinti po vieną narį, turintį ne mažesnę kaip 3 metų patirtį etninės kultūros srityje: Lietuvių literatūros ir tautosakos institutas, Lietuvos istorijos institutas, Lietuvos tautodailininkų sąjunga, Lietuvių etninės kultūros draugija, Lietuvos kraštotyros draugija, Lietuvos ramuvų sąjunga, Lietuvių katalikų mokslo akademija, Lietuvos etninės kultūros ugdytojų sąjunga, Lietuvos muzikos ir teatro akademija, Klaipėdos universitetas, Vilniaus universiteto Šiaulių akademija, Vytauto Didžiojo universitetas, Lietuvos liaudies buities muziejus, Lietuvos nacionalinis kultūros centras, Vilniaus etninės kultūros centras, Kauno tautinės kultūros centras ir šio straipsnio 10 dalyje nurodytos regioninės etninės kultūros globos tarybos (toliau – regioninės tarybos). Tarybos kadencija – 4 metai. Tarybos nariai pareigas eina tol, kol Seimas patvirtina naujos kadencijos Tarybos sudėtį. Naujos kadencijos Taryba pradedama sudaryti Etninės kultūros globos tarybos nuostatuose nustatyta tvarka ne vėliau kaip likus 2 mėnesiams iki senosios sudėties Tarybos kadencijos pabaigos.
+9. Tarybą, tvirtinamą Seimo nutarimu, sudaro 21 narys. Į Tarybą juos deleguoja su etninės kultūros globa bei plėtra tiesiogiai susijusios institucijos ir organizacijos, teikdamos Seimui tvirtinti po vieną narį, turintį ne mažesnę kaip 3 metų patirtį etninės kultūros srityje: Lietuvių literatūros ir tautosakos institutas, Lietuvos istorijos institutas, Lietuvos tautodailininkų sąjunga, Lietuvių etninės kultūros draugija, Lietuvos kraštotyros draugija, Lietuvos ramuvų sąjunga, Lietuvių katalikų mokslo akademija, Lietuvos etninės kultūros ugdytojų sąjunga, Lietuvos muzikos ir teatro akademija, Klaipėdos universitetas, Vilniaus universiteto Šiaulių akademija, Vytauto Didžiojo universitetas, Lietuvos etnografijos muziejus, Lietuvos nacionalinis kultūros centras, Vilniaus etninės kultūros centras, Kauno tautinės kultūros centras ir šio straipsnio 10 dalyje nurodytos regioninės etninės kultūros globos tarybos (toliau – regioninės tarybos). Tarybos kadencija – 4 metai. Tarybos nariai pareigas eina tol, kol Seimas patvirtina naujos kadencijos Tarybos sudėtį. Naujos kadencijos Taryba pradedama sudaryti Etninės kultūros globos tarybos nuostatuose nustatyta tvarka ne vėliau kaip likus 2 mėnesiams iki senosios sudėties Tarybos kadencijos pabaigos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2540, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19040
 Nr. XIV-715, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25142
- 
+ 
 
 
 
@@ -562,7 +554,7 @@ Nr. XIV-715, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25142
 4) kai pagal sveikatos priežiūros įstaigos išvadą jis negali eiti šių pareigų; 
 Straipsnio punkto pakeitimai:
 Nr. XV-124, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04418
- 
+ 
 
 
 
@@ -577,12 +569,10 @@ Nr. XV-124, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04418
 
 
 
-
-
 12. Tarybos nario įgaliojimams nutrūkus nesibaigus Tarybos kadencijai, Tarybos pirmininkas kreipiasi į šį narį delegavusią instituciją ar organizaciją, prašydamas deleguoti į Tarybą kitą narį, kurį Seimo Kultūros komitetas teikia Seimui tvirtinti likusiam Tarybos kadencijos laikotarpiui.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2540, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19040
- 
+ 
 
 
 
@@ -592,11 +582,11 @@ Nr. XIII-2540, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19040
 
 
 
-14. Seimui patvirtinus Tarybą, ne vėliau kaip per 10 darbo dienų pradedami Tarybos pirmininko rinkimai. Taryba, dalyvaujant ne mažiau kaip 2/3 narių, renka iš Tarybos narių kandidatą pirmininko pareigoms, už kurį turi balsuoti ne mažiau kaip pusė visų Tarybos narių. Jeigu nė vienas kandidatas nesurenka reikiamo balsų skaičiaus, rinkimai kartojami dalyvaujant dviem daugiausia balsų surinkusiems kandidatams ir išrenkamas tas, kuris surenka balsų daugumą. Seimo Pirmininkas teikia Seimui tvirtinti Tarybos siūlomą kandidatą Tarybos pirmininko pareigoms 4 metų kadencijai. Jeigu Seimas nepaskiria į Tarybos pirmininko pareigas Tarybos išrinkto kandidato, Taryba renka kitą kandidatą. Detalesnė kandidato į Tarybos pirmininkus rinkimų tvarka nustatoma Tarybos nuostatuose. Tarybos pirmininko įgaliojimai tęsiasi iki naujos kadencijos Tarybos pirmininko paskyrimo. Tas pats asmuo Tarybos pirmininku gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. Pirmininkas vadovauja Tarybai, jis teisės aktų nustatyta tvarka kartu yra ir šios įstaigos vadovas. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatyme. Jis gali dirbti mokslo ir studijų institucijose ir gauti atlyginimą už mokslinę, pedagoginę bei kūrybinę veiklą. Tarybos pirmininko, naudojančio tarnybos laiką darbui mokslo ir studijų institucijoje, darbo užmokestis apskaičiuojamas proporcingai Taryboje dirbtam laikui. Pasibaigus Tarybos pirmininko kadencijai, jeigu jis nėra paskiriamas kitai kadencijai ir per 2 mėnesių terminą nepradeda eiti valstybės pareigūno ar valstybės tarnautojo pareigų, jam išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Tarybos pirmininko įgaliojimams nutrūkus, kai jis pagal sveikatos priežiūros įstaigos išvadą nebegali eiti pareigų, atleidimo dieną išmokama 3 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Jam mirus, jo šeimos nariams išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išmoka. Šioje dalyje nurodytos išmokos mokamos iš Tarybai skirtų valstybės biudžeto lėšų.
+14. Seimui patvirtinus Tarybą, ne vėliau kaip per 10 darbo dienų pradedami Tarybos pirmininko rinkimai. Taryba, dalyvaujant ne mažiau kaip 2/3 narių, renka iš Tarybos narių kandidatą pirmininko pareigoms, už kurį turi balsuoti ne mažiau kaip pusė visų Tarybos narių. Jeigu nė vienas kandidatas nesurenka reikiamo balsų skaičiaus, rinkimai kartojami dalyvaujant dviem daugiausia balsų surinkusiems kandidatams ir išrenkamas tas, kuris surenka balsų daugumą. Seimo Pirmininkas teikia Seimui tvirtinti Tarybos siūlomą kandidatą Tarybos pirmininko pareigoms 4 metų kadencijai. Jeigu Seimas nepaskiria į Tarybos pirmininko pareigas Tarybos išrinkto kandidato, Taryba renka kitą kandidatą. Detalesnė kandidato į Tarybos pirmininkus rinkimų tvarka nustatoma Tarybos nuostatuose. Tarybos pirmininko įgaliojimai tęsiasi iki naujos kadencijos Tarybos pirmininko paskyrimo. Tas pats asmuo Tarybos pirmininku gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. Pirmininkas vadovauja Tarybai, jis teisės aktų nustatyta tvarka kartu yra ir šios įstaigos vadovas. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatyme. Jis gali dirbti mokslo ir studijų institucijose ir gauti atlyginimą už mokslinę, pedagoginę bei kūrybinę veiklą. Tarybos pirmininko, naudojančio tarnybos laiką darbui mokslo ir studijų institucijoje, darbo užmokestis apskaičiuojamas proporcingai Taryboje dirbtam laikui. Pasibaigus Tarybos pirmininko kadencijai, jeigu jis nėra paskiriamas kitai kadencijai ir per 2 mėnesių terminą nepradeda eiti valstybės pareigūno ar valstybės tarnautojo pareigų, jam išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Tarybos pirmininko įgaliojimams nutrūkus, kai jis pagal sveikatos priežiūros įstaigos išvadą nebegali eiti pareigų, atleidimo dieną išmokama 3 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Jam mirus, jo šeimos nariams išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išmoka. Šioje dalyje nurodytos išmokos mokamos iš Tarybai skirtų valstybės biudžeto lėšų.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1988, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11559
 Nr. XV-124, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04418
- 
+ 
 
 
 
@@ -654,8 +644,6 @@ Nr. XV-124, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04418
 
 
 
-
-
 16. Taryba, dalyvaujant ne mažiau kaip 2/3 narių, tvirtina Tarybos pirmininko teikiamą pirmininko pavaduotoją, kuris turi būti Tarybos narys ir kurio kandidatūrai pritaria daugiau kaip pusė visų Tarybos narių. Tarybos pirmininko pavaduotojas gali būti atšauktas, jei raštu atsisako juo būti arba ne mažiau kaip 2/3 visų Tarybos narių sprendimu. Tokiu atveju tvirtinamas kitas Tarybos pirmininko pavaduotojas šio dalyje nustatyta tvarka. 
 
 
@@ -674,7 +662,7 @@ Nr. XV-124, 2025-03-13, paskelbta TAR 2025-03-18, i. k. 2025-04418
 19. Tarybai pavestus uždavinius įgyvendinti padeda Tarybos administracija, atliekanti Tarybos ir regioninių tarybų organizacinį, informacinį ir parengiamąjį darbą. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1988, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11559
- 
+ 
 
 
 
@@ -682,7 +670,7 @@ Nr. XIV-1988, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11559
 20. Tarybos pirmininko pavaduotojo ir Tarybos narių darbas apmokamas proporcingai dirbtam laikui pagal darbo užmokesčio dydį, apskaičiuojamą vadovaujantis Valstybės pareigūnų darbo užmokesčio įstatymu.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1988, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11559
- 
+ 
 
 
 
@@ -694,15 +682,8 @@ Nr. XIV-1988, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11559
 
 22. Taryba pertvarkoma, reorganizuojama ar likviduojama įstatymų nustatyta tvarka. 
 
-
 Papildyta straipsniu:
-Nr. XII-2764, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26963
- 
-
-
-
-
-7 straipsnis. Etninės kultūros vertybių kaupimo bei naudojimo teisinis reglamentavimas
+Nr. XII-2764, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-269637 straipsnis. Etninės kultūros vertybių kaupimo bei naudojimo teisinis reglamentavimas
 
 
 1. Sistemingai etninės kultūros vertybes renkantys ir kaupiantys asmenys privalo laikytis Etninės kultūros globos tarybos parengtų ir Vyriausybės patvirtintų etninės kultūros vertybių rinkimo bei kaupimo taisyklių.
