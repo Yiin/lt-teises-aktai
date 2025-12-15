@@ -529,7 +529,7 @@ Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
 
 
 
-2. Kai įstatymuose, Europos Sąjungos reglamentuose ar sprendimuose, reglamentuojančiuose dokumento (leidimo, licencijos, liudijimo, teikimo, atestato, sprendimo, sertifikato, pažymėjimo ar panašiai), reikalingo tam tikrai ūkinei veiklai pradėti ar vykdyti, išdavimą, įrašymą ar įsirašymą į sąrašą, registrą ar valstybės informacinę sistemą, kuriuo įgyjama teisė pradėti ar vykdyti tam tikrą ūkinę veiklą, privalomą informacijos pateikimą prieš pradedant teisėtai vykdyti ūkinę veiklą, taip pat kitokį leidimo vykdyti ūkinę veiklą suteikimą (toliau – leidimas vykdyti ūkinę veiklą), nustatyta, kad leidimas vykdyti ūkinę veiklą laikomas išduotu asmeniui kitą dieną nuo pranešimo ar kito dokumento apie ketinimą vykdyti veiklą (toliau – pranešimas) pateikimo institucijai dienos arba nuo pranešime nurodytos dienos, jeigu ji yra vėlesnė negu pranešimo pateikimo institucijai diena, valstybės rinkliava turi būti sumokama iki pranešimo pateikimo momento.
+2. Kai įstatymuose, Europos Sąjungos reglamentuose ar sprendimuose, reglamentuojančiuose dokumento (leidimo, licencijos, liudijimo, teikimo, atestato, sprendimo, sertifikato, pažymėjimo ar panašiai), reikalingo tam tikrai ūkinei veiklai pradėti ar vykdyti, išdavimą, įrašymą ar įsirašymą į sąrašą ar informacines sistemas, kuriuo įgyjama teisė pradėti ar vykdyti tam tikrą ūkinę veiklą, privalomą informacijos pateikimą prieš pradedant teisėtai vykdyti ūkinę veiklą, taip pat kitokį leidimo vykdyti ūkinę veiklą suteikimą (toliau – leidimas vykdyti ūkinę veiklą), nustatyta, kad leidimas vykdyti ūkinę veiklą laikomas išduotu asmeniui kitą dieną nuo pranešimo ar kito dokumento apie ketinimą vykdyti veiklą (toliau – pranešimas) pateikimo institucijai dienos arba nuo pranešime nurodytos dienos, jeigu ji yra vėlesnė negu pranešimo pateikimo institucijai diena, valstybės rinkliava turi būti sumokama iki pranešimo pateikimo momento.
 
 
 
@@ -618,7 +618,7 @@ VIETINĖS RINKLIAVOS
 
 
 
-5) leidimo įvažiuoti mechaninėmis transporto priemonėmis į valstybės saugomas teritorijas, savivaldybių įsteigtus saugomus draustinius, jų paskelbtų kraštovaizdžio objektų teritorijas ir nustatytas vietinės reikšmės apsaugines zonas išdavimą (išskyrus važiavimą per šias teritorijas valstybinės reikšmės keliais, naudojimąsi jų statiniais, stovėjimo ir poilsio aikštelėmis, terminalais ir pasienio kontrolės punktais; šios išimtys netaikomos Neringos miestui);
+5) leidimo įvažiuoti mechaninėmis transporto priemonėmis į valstybės saugomas teritorijas, savivaldybių įsteigtus saugomus draustinius, jų paskelbtų kraštovaizdžio objektų teritorijas išdavimą (išskyrus važiavimą per šias teritorijas valstybinės reikšmės keliais, naudojimąsi jų statiniais, stovėjimo ir poilsio aikštelėmis, terminalais ir pasienio kontrolės punktais; šios išimtys netaikomos Neringos miestui);
 
 
 
@@ -674,9 +674,13 @@ Nr. XII-1669, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07660
 12) naudojimąsi savivaldybės tarybos nustatytomis vietomis vidaus vandenų transporto priemonėms švartuoti ar stovėti (kai vidaus vandenų transporto priemonė iškeliama ant kranto), išskyrus vidaus vandenų transporto priemonių švartavimą (stovėjimą) vidaus vandenų uostuose ir (ar) prieplaukose, kurie yra valstybės ar privatūs.
 Papildyta straipsnio punktu:
 Nr. XIV-2871, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12656
- 
+ 
 
 
+
+
+13) įvažiavimą į savivaldybės tarybos nustatytą mažos taršos zoną.
+ 
 
 
 
@@ -1005,17 +1009,12 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
-Lietuvos Respublikos 
-rinkliavų įstatymo 
-priedas 
- 
+Lietuvos Respublikos
+rinkliavų įstatymo
+priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
- 
-2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas), su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1155.
-Įstatymas papildytas priedu:
-Nr. XII-608, 2013-11-21, Žin., 2013, Nr. 124-6284 (2013-12-05)
-Priedo pakeitimai:
-Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
+2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksą), su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2667.
+_____________________
  
 
 
