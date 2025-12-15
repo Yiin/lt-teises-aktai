@@ -1191,10 +1191,7 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 
 Straipsnio pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
-Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
-
-
-34 straipsnis. Administracinės nuobaudos ir administracinio poveikio priemonės rūšies parinkimas, baudos dydžio ir asmeniui suteiktos specialiosios teisės atėmimo trukmės nustatymas, draudimo vairuoti transporto priemones, kuriose neįrengti antialkoholiniai variklio užraktai, trukmės nustatymas išnagrinėjus administracinio nusižengimo bylą 
+Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-2188834 straipsnis. Administracinės nuobaudos ir administracinio poveikio priemonės rūšies parinkimas, baudos dydžio ir asmeniui suteiktos specialiosios teisės atėmimo trukmės nustatymas, draudimo vairuoti transporto priemones, kuriose neįrengti antialkoholiniai variklio užraktai, trukmės nustatymas išnagrinėjus administracinio nusižengimo bylą 
 Pakeistas straipsnio pavadinimas:
 Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404
  
@@ -1233,7 +1230,11 @@ Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404
 
 6. Teismas ar administracinio nusižengimo bylą ne teismo tvarka išnagrinėjusi institucija (pareigūnas), atsižvelgdami į padaryto administracinio nusižengimo pobūdį, pažeidėjo kaltės formą ir rūšį, asmenybę, atsakomybę lengvinančias ir sunkinančias aplinkybes ir vadovaudamiesi teisingumo ir protingumo principais, gali paskirti mažesnę baudą negu šio kodekso specialiosios dalies straipsnio sankcijoje numatyta minimali bauda arba paskirti švelnesnę administracinę nuobaudą ar administracinio poveikio priemonę, negu numatyta šio kodekso specialiosios dalies straipsnio sankcijoje, arba administracinės nuobaudos ar administracinio poveikio priemonės neskirti. Teismas ar administracinio nusižengimo bylą ne teismo tvarka išnagrinėjusi institucija (pareigūnas) kiekvieną savo sprendimą privalo motyvuoti. Administracinio nusižengimo bylą ne teismo tvarka išnagrinėjusios institucijos (pareigūno) sprendimą sankcionuoja apylinkės teismo teisėjas.
 Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-0540435 straipsnis. Atsakomybę lengvinančios aplinkybės
+Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404
+ 
+
+
+35 straipsnis. Atsakomybę lengvinančios aplinkybės
 
 
 1. Atsakomybę lengvinančios aplinkybės yra šios:
@@ -1296,15 +1297,7 @@ Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-0540435 straipsn
 
 
 
-3. Skirdami administracinę nuobaudą, teismas ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas) neatsižvelgia į tokią atsakomybę lengvinančią aplinkybę, kuri šio kodekso specialiosios dalies straipsnyje nurodyta kaip administracinio nusižengimo požymis.
- 
-
-
-
-
-
-
-36 straipsnis. Atsakomybę sunkinančios aplinkybės
+3. Skirdami administracinę nuobaudą, teismas ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas) neatsižvelgia į tokią atsakomybę lengvinančią aplinkybę, kuri šio kodekso specialiosios dalies straipsnyje nurodyta kaip administracinio nusižengimo požymis.36 straipsnis. Atsakomybę sunkinančios aplinkybės
 
 
 1. Atsakomybę sunkinančios aplinkybės yra šios:
@@ -15325,52 +15318,37 @@ užtraukia baudą nuo keturiasdešimt iki vieno šimto eurų.
 1. Vietinės rinkliavos už leidimą įvažiuoti transporto priemonėmis į valstybės saugomas teritorijas, savivaldybių įsteigtus saugomus draustinius, kraštovaizdžio objektų teritorijas nuostatų pažeidimas
 užtraukia baudą vairuotojams nuo dvidešimt iki keturiasdešimt eurų.
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo keturiasdešimt iki vieno šimto eurų.420 straipsnis. Pavojingas ir chuliganiškas vairavimas, Kelių eismo taisyklėse nustatyto draudimo lenkti ar įvažiuoti į priešpriešinio eismo juostą pažeidimas
+užtraukia baudą nuo keturiasdešimt iki vieno šimto eurų.
 
+419^1 straipsnis. Įvažiavimo į savivaldybių tarybų nustatytas mažos taršos zonas ir naudojimosi jomis tvarkos pažeidimas
+1. Įvažiavimo į savivaldybių tarybų nustatytas mažos taršos zonas ir naudojimosi jomis tvarkos pažeidimas
+užtraukia baudą vairuotojams nuo keturiasdešimt iki aštuoniasdešimt eurų.
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo aštuoniasdešimt iki dviejų šimtų eurų.
+420 straipsnis. Pavojingas ir chuliganiškas vairavimas, Kelių eismo taisyklėse nustatyto draudimo lenkti ar įvažiuoti į priešpriešinio eismo juostą pažeidimas
 
 1. Transporto priemonių vairavimas vienu metu ar paeiliui padarant kelis grėsmę eismo saugumui keliančius eismo taisyklių pažeidimus, lenkimas vietose, kuriose pagal Kelių eismo taisykles draudžiama lenkti, vairavimas neteisėtai organizuotose transporto priemonių lenktynėse, pavojingą situaciją sukėlęs (t. y. privertęs kitus eismo dalyvius staigiai keisti judėjimo greitį, kryptį arba imtis kitokių veiksmų savo ar kitų žmonių saugumui užtikrinti) Kelių eismo taisyklių pažeidimas, tokią pat pavojingą situaciją sukėlęs įvažiavimas į priešpriešinio eismo juostą pažeidžiant Kelių eismo taisyklių reikalavimus
 užtraukia baudą vairuotojams nuo vieno šimto septyniasdešimt iki dviejų šimtų trisdešimt eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo keturių šimtų penkiasdešimt iki šešių šimtų eurų.
 
-
-
-
 2. Chuliganiškas vairavimas, t. y. pavojų eismo saugumui arba savo ar kitų žmonių saugumui keliantis Kelių eismo taisyklių pažeidimas dėl chuliganiškų paskatų,
 užtraukia baudą vairuotojams nuo keturių šimtų penkiasdešimt iki penkių šimtų penkiasdešimt eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo septynių šimtų penkiasdešimt iki vieno tūkstančio eurų.
-
-
-
 
 3. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą vairuotojams nuo penkių šimtų penkiasdešimt iki aštuonių šimtų eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo vieno tūkstančio iki vieno tūkstančio dviejų šimtų eurų.
 
-
-
-
-4. Šio straipsnio 1 dalyje nurodyti veiksmai, padaryti neblaivaus (ne mažiau negu 0,41 promilės, bet ne daugiau negu 1,5 promilės) arba apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, taip pat vengusio apsvaigimo patikrinimo arba alkoholį (nustatytas ne mažiau negu 0,41 promilės neblaivumas), narkotines, psichotropines ar kitas psichiką veikiančias medžiagas vartojusio iki patikrinimo asmens,
+4. Šio straipsnio 1 dalyje nurodyti veiksmai, padaryti neblaivaus (ne mažiau negu 0,41 promilės, bet ne daugiau negu 1,5 promilės) arba apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, taip pat vengusio apsvaigimo patikrinimo arba alkoholį (nustatytas ne mažiau negu 0,41 promilės neblaivumas), narkotines, psichotropines ar kitas psichiką veikiančias medžiagas vartojusio iki patikrinimo asmens,
 užtraukia baudą vairuotojams nuo devynių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
-
-
-
-5. Šio straipsnio 2 dalyje numatyti veiksmai, padaryti neblaivaus (ne mažiau negu 0,41 promilės, bet ne daugiau negu 1,5 promilės) arba apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, taip pat vengusio apsvaigimo patikrinimo arba alkoholį (nustatytas ne mažiau negu 0,41 promilės neblaivumas), narkotines, psichotropines ar kitas psichiką veikiančias medžiagas vartojusio iki patikrinimo asmens,
+5. Šio straipsnio 2 dalyje numatyti veiksmai, padaryti neblaivaus (ne mažiau negu 0,41 promilės, bet ne daugiau negu 1,5 promilės) arba apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, taip pat vengusio apsvaigimo patikrinimo arba alkoholį (nustatytas ne mažiau negu 0,41 promilės neblaivumas), narkotines, psichotropines ar kitas psichiką veikiančias medžiagas vartojusio iki patikrinimo asmens,
 užtraukia baudą vairuotojams nuo vieno tūkstančio dviejų šimtų iki vieno tūkstančio penkių šimtų eurų.
-
-
-
 
 6. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo trijų iki šešių mėnesių. Už šio straipsnio 2 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo vienų iki dvejų metų. Už šio straipsnio 3 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo vienų metų šešių mėnesių iki dvejų metų šešių mėnesių. Už šio straipsnio 4 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo dvejų iki trejų metų arba asmenims, kuriems nustatytas neblaivumas (ne mažiau negu 0,41 promilės, bet ne daugiau negu 1,5 promilės), teisės vairuoti transporto priemones atėmimą nuo vienų iki dvejų metų ir draudimą vairuoti transporto priemones, kuriose neįrengti antialkoholiniai variklio užraktai, nuo vienų metų šešių mėnesių iki dvejų metų. Už šio straipsnio 5 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo trejų iki penkerių metų arba asmenims, kuriems nustatytas neblaivumas (ne mažiau negu 0,41 promilės, bet ne daugiau negu 1,5 promilės), teisės vairuoti transporto priemones atėmimą nuo dvejų iki ketverių metų ir draudimą vairuoti transporto priemones, kuriose neįrengti antialkoholiniai variklio užraktai, nuo vienų metų šešių mėnesių iki dvejų metų.
 
-
-
-
 7. Už šio straipsnio 3, 4, 5 dalyse numatytus administracinius nusižengimus gali būti skiriamas transporto priemonės konfiskavimas.
-
 
 Straipsnio pakeitimai:
 Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
-Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
-
-419^1 straipsnis. Įvažiavimo į savivaldybių tarybų nustatytas mažos taršos zonas ir naudojimosi jomis tvarkos pažeidimas
+Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162419^1 straipsnis. Įvažiavimo į savivaldybių tarybų nustatytas mažos taršos zonas ir naudojimosi jomis tvarkos pažeidimas
 
 1. Įvažiavimo į savivaldybių tarybų nustatytas mažos taršos zonas ir naudojimosi jomis tvarkos pažeidimas
 užtraukia baudą vairuotojams nuo keturiasdešimt iki aštuoniasdešimt eurų.
