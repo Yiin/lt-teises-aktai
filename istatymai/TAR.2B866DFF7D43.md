@@ -7637,18 +7637,17 @@ baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
 
 
 
-4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
+4. Tas, kas per Lietuvos Respublikos valstybės sieną gabendamas privalomus pateikti muitinei daiktus nepateikė jų muitinės kontrolei ar kitaip šios kontrolės išvengė, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą, baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
+
+
+
+
+5. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1836, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21859
-Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
- 
-
-
-
-
-1991 straipsnis. Muitinės apgaulė 
+Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-084751991 straipsnis. Muitinės apgaulė 
 
 
 1. Tas, kas iš Europos Sąjungos valstybės narės į Lietuvos Respubliką įvežė privalomus pateikti muitinei daiktus, kurių vertė viršija 150 MGL, bet neviršija 400 MGL dydžio sumos, ir jų nepateikė Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės muitinės kontrolei ar kitaip šios kontrolės išvengė, 
@@ -7701,18 +7700,17 @@ baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
 
 
 
-4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
+4. Tas, kas pažeisdamas nustatytą tvarką įgijo, laikė, gabeno, siuntė, naudojo ar realizavo akcizais apmokestinamas prekes, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą, baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
+
+
+
+
+5. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1836, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21859
-Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
- 
-
-
-
-
-200 straipsnis. Neteisėtas prekių ar produkcijos neišvežimas iš Lietuvos Respublikos
+Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475200 straipsnis. Neteisėtas prekių ar produkcijos neišvežimas iš Lietuvos Respublikos
 
 
 1. Tas, kas neteisėtai neišvežė per Lietuvos Respublikos valstybės sieną prekių ar produkcijos, kurių vertė viršija 150 MGL, bet neviršija 400 MGL dydžio sumos ir kurios pagal tranzito arba eksporto dokumentus turėjo būti išvežtos iš Lietuvos Respublikos,
@@ -9578,17 +9576,16 @@ baudžiamas laisvės atėmimu nuo ketverių iki dešimties metų.
 
 
 
-3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
+3. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą, baudžiamas laisvės atėmimu nuo penkerių iki dešimties metų.
+
+
+
+
+4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
 
 
 Papildyta straipsniu:
-Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
- 
-
-
-
-
-254 straipsnis. Šaunamojo ginklo, šaudmenų, sprogmenų ar sprogstamųjų medžiagų pagrobimas
+Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475254 straipsnis. Šaunamojo ginklo, šaudmenų, sprogmenų ar sprogstamųjų medžiagų pagrobimas
 
 
 1. Tas, kas pagrobė šaunamąjį ginklą, šaudmenis, sprogmenis ar sprogstamąsias medžiagas,
@@ -9697,14 +9694,10 @@ baudžiamas laisvės atėmimu iki aštuonerių metų.
 2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo. 
 
 
+3. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą, baudžiamas laisvės atėmimu nuo trejų iki aštuonerių metų.
+
 Papildyta straipsniu:
-Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
- 
-
-
-
-
-257 straipsnis. Teisėto disponavimo branduolinėmis ar radioaktyviosiomis medžiagomis arba kitais jonizuojančiosios spinduliuotės šaltiniais taisyklių pažeidimas
+Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475257 straipsnis. Teisėto disponavimo branduolinėmis ar radioaktyviosiomis medžiagomis arba kitais jonizuojančiosios spinduliuotės šaltiniais taisyklių pažeidimas
 
 
 1. Tas, kas pažeidė bet kokio pavidalo ir bet kokios fizinės būsenos branduolinių ar radioaktyviųjų medžiagų arba kitų jonizuojančiosios spinduliuotės šaltinių laikymo, naudojimo, gabenimo taisykles, jeigu dėl to galėjo atsirasti sunkių padarinių,
@@ -9857,28 +9850,27 @@ baudžiamas laisvės atėmimu nuo ketverių iki dvylikos metų.
 
 
 
-5. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno ar siuntė labai didelį kiekį narkotinių ar psichotropinių medžiagų,
+5. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno ar siuntė narkotines ar psichotropines medžiagas, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą, baudžiamas laisvės atėmimu nuo ketverių iki dvylikos metų.
+
+
+
+
+6. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno ar siuntė labai didelį kiekį narkotinių ar psichotropinių medžiagų,
 baudžiamas laisvės atėmimu nuo dešimties iki aštuoniolikos metų.
 
 
 
 
-6. Už šio straipsnio 3, 4 ir 5 dalyse numatytas veikas atsako ir juridinis asmuo.
+7. Už šio straipsnio 3, 4, 5 ir 6 dalyse numatytas veikas atsako ir juridinis asmuo.
 
 
 
 
-7. Asmuo, kuris savo noru kreipėsi į sveikatos priežiūros įstaigą dėl medicinos pagalbos ar į valstybės instituciją norėdamas atiduoti neteisėtai gabentą ar siųstą be tikslo platinti nedidelį kiekį narkotinių ar psichotropinių medžiagų, atleidžiamas nuo baudžiamosios atsakomybės už atiduotų narkotinių ar psichotropinių medžiagų kontrabandą. 
+8. Asmuo, kuris savo noru kreipėsi į sveikatos priežiūros įstaigą dėl medicinos pagalbos ar į valstybės instituciją norėdamas atiduoti neteisėtai gabentą ar siųstą be tikslo platinti nedidelį kiekį narkotinių ar psichotropinių medžiagų, atleidžiamas nuo baudžiamosios atsakomybės už atiduotų narkotinių ar psichotropinių medžiagų kontrabandą. 
 
 
 Papildyta straipsniu:
-Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
- 
-
-
-
-
-261 straipsnis. Narkotinių ar psichotropinių medžiagų platinimas nepilnamečiams
+Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475261 straipsnis. Narkotinių ar psichotropinių medžiagų platinimas nepilnamečiams
 
 
 Tas, kas platino narkotines ar psichotropines medžiagas nepilnamečiams,
@@ -9886,15 +9878,7 @@ Tas, kas platino narkotines ar psichotropines medžiagas nepilnamečiams,
 
 
 
-baudžiamas laisvės atėmimu nuo trejų iki dvylikos metų.
- 
-
-
-
-
-
-
-262 straipsnis. Įrenginių narkotinėms ar psichotropinėms medžiagoms gaminti gaminimas arba narkotinių ar psichotropinių medžiagų gamybos technologijų ar instrukcijų rengimas 
+baudžiamas laisvės atėmimu nuo trejų iki dvylikos metų.262 straipsnis. Įrenginių narkotinėms ar psichotropinėms medžiagoms gaminti gaminimas arba narkotinių ar psichotropinių medžiagų gamybos technologijų ar instrukcijų rengimas 
 
 
 Tas, kas neteisėtai gamino, laikė, gabeno ar realizavo aparatus ar kitus įrenginius narkotinėms ar psichotropinėms medžiagoms gaminti arba neteisėtai rengė ar platino narkotinių ar psichotropinių medžiagų gamybos technologijas ar instrukcijas,
@@ -10025,23 +10009,22 @@ baudžiamas laisvės atėmimu nuo trejų iki septynerių metų.
 
 
 
-3. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno ar siuntė labai didelį kiekį pirmos kategorijos narkotinių ar psichotropinių medžiagų pirmtakų (prekursorių),
+3. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą, baudžiamas laisvės atėmimu nuo ketverių iki septynerių metų.
+
+
+
+
+4. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno ar siuntė labai didelį kiekį pirmos kategorijos narkotinių ar psichotropinių medžiagų pirmtakų (prekursorių),
 baudžiamas laisvės atėmimu nuo septynerių iki dvylikos metų.
 
 
 
 
-4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
+5. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
 
 
 Papildyta straipsniu:
-Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
- 
-
-
-
-
-267 straipsnis. Neteisėtas disponavimas stipriai veikiančiomis ar nuodingosiomis medžiagomis
+Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475267 straipsnis. Neteisėtas disponavimas stipriai veikiančiomis ar nuodingosiomis medžiagomis
 
 
 1. Tas, kas neteisėtai gamino, įgijo, laikė, gabeno, siuntė ar realizavo stipriai veikiančias ar nuodingąsias medžiagas,
@@ -10103,17 +10086,16 @@ baudžiamas laisvės atėmimu iki aštuonerių metų.
 
 
 
-3. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo. 
+3. Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą, baudžiamas laisvės atėmimu nuo trejų iki aštuonerių metų.
+
+
+
+
+4. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo. 
 
 
 Papildyta straipsniu:
-Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
- 
-
-
-
-
-2673 straipsnis. Biologinių medžiagų, mikroorganizmų ar toksinų kontrabanda
+Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-084752673 straipsnis. Biologinių medžiagų, mikroorganizmų ar toksinų kontrabanda
 
 
 1. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno ar siuntė biologinį ginklą arba jo gamybai naudojamas biologines medžiagas ar mikroorganizmus arba kitas biologines medžiagas ar toksinus,
@@ -10585,19 +10567,14 @@ Nr. XII-1674, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07560
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
 
 
+2. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą, baudžiamas laisvės atėmimu nuo dvejų iki šešerių metų.
 
 
-2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo. 
+3. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo. 
 
 
 Papildyta straipsniu:
-Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
- 
-
-
-
-
-277 straipsnis. Kovos su epidemijomis ar užkrečiamosiomis ligomis taisyklių pažeidimas
+Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475277 straipsnis. Kovos su epidemijomis ar užkrečiamosiomis ligomis taisyklių pažeidimas
 
 
 1. Tas, kas būdamas medicinos įstaigos informuotas apie savo ligą ir įspėtas dėl apsaugos priemonių, kurių jis privalo laikytis bendraudamas su žmonėmis, sukėlė pavojų kitam asmeniui užsikrėsti pavojinga ar ypač pavojinga užkrečiamąja liga,
@@ -10865,23 +10842,19 @@ Nr. XIII-1929, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00859
 
 
 
-282 straipsnis. Transporto eismo tvarkos ar saugumo taisyklių pažeidimas
+282 straipsnis. Transporto saugumo sutrikdymas
 
+1. Tas, kas nevairuodamas transporto priemonės pažeidė transporto eismo tvarkos ar saugumo taisykles, jeigu dėl to žuvo žmogus arba buvo sunkiai sutrikdyta žmogaus sveikata, baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
 
-1. Tas, kas nevairuodamas transporto priemonės pažeidė transporto eismo tvarkos ar saugumo taisykles, jeigu dėl to žuvo žmogus arba buvo sunkiai sutrikdyta žmogaus sveikata,
-baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
+2. Tas, kas neteisėtai panaudojo valdomą ar nevaldomą objektą, judantį oru, žeme ar vandeniu, ir dėl to kilo reali grėsmė žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba buvo sutrikdytas saugus transporto eismas, arba padaryta didelė turtinė žala, baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki šešerių metų.
 
+3. Tas, kas padarė šio straipsnio 2 dalyje numatytą veiką, jeigu dėl to buvo sunkiai sutrikdyta žmogaus sveikata arba buvo padaryta labai didelė turtinė žala, arba atsirado kitokių sunkių padarinių, baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
+4. Tas, kas padarė šio straipsnio 2 dalyje numatytą veiką, jeigu dėl to žuvo žmogus, baudžiamas laisvės atėmimu nuo aštuonerių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
+5. Asmuo atsako pagal šio straipsnio 1 dalį tik tais atvejais, kai joje numatytos veikos padarytos dėl neatsargumo.
 
-2. Asmuo atsako pagal šį straipsnį tik tais atvejais, kai jame numatytos veikos padarytos dėl neatsargumo.
-
-
-
-
-
-
-2821 straipsnis. Sąvokų išaiškinimas
+6. Už šio straipsnio 2, 3 ir 4 dalyse numatytas veikas atsako ir juridinis asmuo.2821 straipsnis. Sąvokų išaiškinimas
 
 
 1. Šiame skyriuje nurodyta turtinė žala yra didelė, kai jos dydis viršija 400 MGL dydžio sumą, bet neviršija 900 MGL dydžio sumos, labai didelė, kai jos dydis viršija 900 MGL dydžio sumą. 
