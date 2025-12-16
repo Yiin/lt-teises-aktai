@@ -573,7 +573,7 @@ KRIMINALINĖS ŽVALGYBOS TYRIMAS
 1. Kriminalinės žvalgybos tyrimas atliekamas, kai:
 
 
-1) turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 123 straipsnyje, 123^1 straipsnio 1 dalyje, 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 dalyje, 151 straipsnio 1 dalyje, 151^1, 153, 172, 173, 174, 175 ir 175^1 straipsniuose, 178 straipsnio 2 ir 3 dalyse, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 182 straipsnio 2 dalyje, 182^1 straipsnyje, 183 straipsnio 2 dalyje, 184 straipsnio 2 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 1 ir 2 dalyse, 189^1 straipsnyje, 196 straipsnio 2 dalyje, 197 straipsnio 2 dalyje, 198 straipsnio 2 dalyje, 199 straipsnio 1 ir 2 dalyse, 199^1 straipsnio 1 ir 2 dalyse, 199^2 straipsnio 1 ir 2 dalyse, 200 straipsnio 1 ir 2 dalyse, 207 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 1 dalyje, 226 straipsnio 1 ir 2 dalyse, 227 straipsnio 1 ir 2 dalyse, 228 straipsnio 1 ir 2 dalyse, 228^1 ir 240 straipsniuose, 246 straipsnio 2 dalyje, 250^1, 250^3 ir 250^6 straipsniuose, 251 straipsnio 1 dalyje, 253 straipsnio 1 dalyje, 253^2 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 266 straipsnio 2 dalyje, 266^1 straipsnio 1 dalyje, 267^2 straipsnio 1 dalyje, 276^4 straipsnio 1 dalyje, 300 straipsnio 2, 3 ir 4 dalyse, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, 308 straipsnio 1 dalyje, 309 straipsnio 3 dalyje, arba apie šias veikas rengiančius, darančius ar padariusius asmenis;
+1) turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 123 straipsnyje, 123^1 straipsnio 1 dalyje, 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 dalyje, 151 straipsnio 1 dalyje, 151^1, 153, 172, 173, 174, 175 ir 175^1 straipsniuose, 178 straipsnio 2 ir 3 dalyse, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 182 straipsnio 2 dalyje, 182^1 straipsnyje, 183 straipsnio 2 dalyje, 184 straipsnio 2 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 1 ir 2 dalyse, 189^1 straipsnyje, 196 straipsnio 2 dalyje, 197 straipsnio 2 dalyje, 198 straipsnio 2 dalyje, 199 straipsnio 1 ir 2 dalyse, 199^1 straipsnio 1 ir 2 dalyse, 199^2 straipsnio 1 ir 2 dalyse, 200 straipsnio 1 ir 2 dalyse, 207 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 1 dalyje, 226 straipsnio 1 ir 2 dalyse, 227 straipsnio 1 ir 2 dalyse, 228 straipsnio 1 ir 2 dalyse, 228^1 ir 240 straipsniuose, 246 straipsnio 2 dalyje, 250^1, 250^3 ir 250^6 straipsniuose, 251 straipsnio 1 dalyje, 253 straipsnio 1 dalyje, 253^2 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 266 straipsnio 2 dalyje, 266^1 straipsnio 1 dalyje, 267^2 straipsnio 1 dalyje, 276^4 straipsnyje, 282 straipsnio 2 dalyje, 300 straipsnio 2, 3 ir 4 dalyse, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, 308 straipsnio 1 dalyje, 309 straipsnio 3 dalyje, arba apie šias veikas rengiančius, darančius ar padariusius asmenis;
 Straipsnio punkto pakeitimai:
 Nr. XI-2394, 2012-11-08, Žin., 2012, Nr. 133-6760 (2012-11-17), i. k. 1121010ISTA0XI-2394
 Nr. XII-730, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00066
@@ -611,8 +611,6 @@ Nr. XIII-3075, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14350
 
 
 
-
-
 2. Kriminalinės žvalgybos tyrimą gali atlikti ir Antrojo operatyvinių tyrimų departamento prie Krašto apsaugos ministerijos ir Valstybės saugumo departamento padaliniai, kai gaunama duomenų apie Lietuvos Respublikos baudžiamojo kodekso 114, 118, 119, 121, 122, 124, 125, 126, 296 ir 297 straipsniuose numatytas nusikalstamas veikas arba apie jas rengiantį, darantį ar padariusį asmenį.
 
 
@@ -640,8 +638,6 @@ Nr. XIII-3075, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14350
 
 
 3) gauti kitą informaciją, kurią turi juridiniai asmenys ir kuriai gauti reikalinga motyvuota teismo nutartis.
-
-
 
 
 
@@ -692,7 +688,7 @@ Nr. XIII-3075, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14350
 8. Kita kriminalinei žvalgybai reikalinga informacija iš juridinių asmenų, kuriai gauti motyvuota teismo nutartis nereikalinga, gaunama kriminalinės žvalgybos subjekto prašymu.10 straipsnis. Techninių priemonių panaudojimas specialia tvarka, slapta pašto siuntų ir jų dokumentų apžiūra, pašto siuntų kontrolė ir paėmimas, susirašinėjimo ir kitokio susižinojimo slapta kontrolė
 
 
-1. Techninių priemonių panaudojimą specialia tvarka, slaptą pašto siuntų ir jų dokumentų apžiūrą, pašto siuntų kontrolę ir paėmimą, susirašinėjimo ir kitokio susižinojimo slaptą kontrolę motyvuota nutartimi sankcionuoja apygardų teismų pirmininkai ar jų įgalioti teisėjai pagal prokurorų motyvuotus teikimus, parengtus pagal kriminalinės žvalgybos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis, kuriais patvirtinamas tokių veiksmų atlikimo būtinumas ir faktinis pagrindas. Elektroninių ryšių tinklais perduodamos asmenų informacijos turinio kontrolė ir jos fiksavimas, net ir žinant apie tokią kontrolę vienam iš jų, reikalauja motyvuotos teismo nutarties, išskyrus atvejus, kai asmuo paprašo arba sutinka su tokia kontrole ar fiksavimu nesinaudojant ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas, paslaugomis ir įrenginiais.
+1. Techninių priemonių panaudojimą specialia tvarka, slaptą pašto siuntų ir jų dokumentų apžiūrą, pašto siuntų kontrolę ir paėmimą, susirašinėjimo ir kitokio susižinojimo slaptą kontrolę motyvuota nutartimi sankcionuoja apygardų teismų pirmininkai ar jų įgalioti teisėjai pagal prokurorų motyvuotus teikimus, parengtus pagal kriminalinės žvalgybos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis, kuriais patvirtinamas tokių veiksmų atlikimo būtinumas ir faktinis pagrindas. Elektroninių ryšių tinklais perduodamos asmenų informacijos turinio kontrolė ir jos fiksavimas, net ir žinant apie tokią kontrolę vienam iš jų, reikalauja motyvuotos teismo nutarties, išskyrus atvejus, kai asmuo paprašo arba sutinka su tokia kontrole ar fiksavimu nesinaudojant ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas, paslaugomis ir įrenginiais.
 
 
 
@@ -720,14 +716,12 @@ Nr. XIII-3075, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14350
 
 
 
-3) duomenys ir (ar) motyvai, kuriais pagrindžiamas būtinumas atlikti šio straipsnio 1 dalyje nurodytus veiksmus, ir siekiamas rezultatas;
+3) duomenys ir (ar) motyvai, kuriais pagrindžiamas būtinumas atlikti šio straipsnio 1 dalyje nurodytus veiksmus, ir siekiamas rezultatas;
 
 
 
 
 4) numatoma šio straipsnio 1 dalyje nurodytų veiksmų atlikimo trukmė.
-
-
 
 
 
@@ -757,30 +751,22 @@ Nr. XIII-3075, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14350
 
 
 
-10. Jeigu teismas priima nutartį, o neatidėliotinais atvejais prokuroras priima nutarimą, Vyriausybės įgaliota institucija praneša ūkio subjektui, teikiančiam elektroninių ryšių tinklus ir (ar) paslaugas, apie jo tinkle vykdomą techninių priemonių panaudojimą specialia tvarka, nurodydama teikimo numerį, nutarties priėmimo datą ir nutartį priėmusį teismą ar prokuroro nutarimo datą, jį priėmusį prokurorą ir veiksmų taikymo trukmę. Už pranešimo, skirto ūkio subjektui, teikiančiam elektroninių ryšių tinklus ir (ar) paslaugas, turinio atitiktį teismo nutarčiai įstatymų nustatyta tvarka atsako pranešimą teikiantis pareigūnas. Ūkio subjektas, teikiantis elektroninių ryšių tinklus ir (ar) paslaugas, privalo sudaryti techninę galimybę atlikti elektroninių ryšių tinklais perduodamos informacijos kontrolę.
+10. Jeigu teismas priima nutartį, o neatidėliotinais atvejais prokuroras priima nutarimą, Vyriausybės įgaliota institucija praneša ūkio subjektui, teikiančiam elektroninių ryšių tinklus ir (ar) paslaugas, apie jo tinkle vykdomą techninių priemonių panaudojimą specialia tvarka, nurodydama teikimo numerį, nutarties priėmimo datą ir nutartį priėmusį teismą ar prokuroro nutarimo datą, jį priėmusį prokurorą ir veiksmų taikymo trukmę. Už pranešimo, skirto ūkio subjektui, teikiančiam elektroninių ryšių tinklus ir (ar) paslaugas, turinio atitiktį teismo nutarčiai įstatymų nustatyta tvarka atsako pranešimą teikiantis pareigūnas. Ūkio subjektas, teikiantis elektroninių ryšių tinklus ir (ar) paslaugas, privalo sudaryti techninę galimybę atlikti elektroninių ryšių tinklais perduodamos informacijos kontrolę.
 
 
 
 
-11. Į ūkio subjekto, teikiančio elektroninių ryšių tinklus ir (ar) paslaugas, tinklą siunčiamos techninės komandos pradėti ar nutraukti pasiklausymą ar kitą elektroninių ryšių tinklais perduodamos informacijos kontrolę saugomos taip, kad siųstų ir gautų komandų duomenų negalėtų pakeisti komandą siuntęs kriminalinės žvalgybos subjektas ar komandą gavęs ūkio subjektas, teikiantis elektroninių ryšių tinklus ir (ar) paslaugas. Vyriausybės įgaliota institucija privalo sudaryti galimybę generaliniam prokurorui ar jo įgaliotam Generalinės prokuratūros prokurorui prieiti prie duomenų laikmenos, kurioje užfiksuotos šios komandos.
+11. Į ūkio subjekto, teikiančio elektroninių ryšių tinklus ir (ar) paslaugas, tinklą siunčiamos techninės komandos pradėti ar nutraukti pasiklausymą ar kitą elektroninių ryšių tinklais perduodamos informacijos kontrolę saugomos taip, kad siųstų ir gautų komandų duomenų negalėtų pakeisti komandą siuntęs kriminalinės žvalgybos subjektas ar komandą gavęs ūkio subjektas, teikiantis elektroninių ryšių tinklus ir (ar) paslaugas. Vyriausybės įgaliota institucija privalo sudaryti galimybę generaliniam prokurorui ar jo įgaliotam Generalinės prokuratūros prokurorui prieiti prie duomenų laikmenos, kurioje užfiksuotos šios komandos.
 
 
 
 
-12. Kriminalinės žvalgybos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas priima nutarimą pradėti slapta kontroliuoti per teismo sankcionuotą laikotarpį nustatytus asmens naudojamus telefono ryšio numerius, tinklo galinius įrenginius, sąskaitas, finansines ir (ar) mokėjimo priemones. Priimto nutarimo vieną egzempliorių kriminalinės žvalgybos subjekto vadovas ar įgaliotas vadovo pavaduotojas išsiunčia (perduoda) teikimą teismui pateikusiam prokurorui, o jeigu teikimą teismui pateikė apygardos prokuratūros prokuroras, ir įgaliotam Generalinės prokuratūros prokurorui. Nutarimas išsiunčiamas (perduodamas) ne vėliau kaip per 24 valandas po to, kai kriminalinės žvalgybos subjekto vadovo ar jo įgalioto vadovo pavaduotojo nutarimu pradėta telefono ryšio numerių, tinklo galinių įrenginių, sąskaitų, finansinių ir (ar) mokėjimo priemonių slapta kontrolė ir fiksavimas. Jeigu terminas baigiasi poilsio ar švenčių dieną, nutarimas išsiunčiamas (perduodamas) ne vėliau kaip kitą darbo dieną po poilsio ar švenčių dienos.
+12. Kriminalinės žvalgybos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas priima nutarimą pradėti slapta kontroliuoti per teismo sankcionuotą laikotarpį nustatytus asmens naudojamus telefono ryšio numerius, tinklo galinius įrenginius, sąskaitas, finansines ir (ar) mokėjimo priemones. Priimto nutarimo vieną egzempliorių kriminalinės žvalgybos subjekto vadovas ar įgaliotas vadovo pavaduotojas išsiunčia (perduoda) teikimą teismui pateikusiam prokurorui, o jeigu teikimą teismui pateikė apygardos prokuratūros prokuroras, ir įgaliotam Generalinės prokuratūros prokurorui. Nutarimas išsiunčiamas (perduodamas) ne vėliau kaip per 24 valandas po to, kai kriminalinės žvalgybos subjekto vadovo ar jo įgalioto vadovo pavaduotojo nutarimu pradėta telefono ryšio numerių, tinklo galinių įrenginių, sąskaitų, finansinių ir (ar) mokėjimo priemonių slapta kontrolė ir fiksavimas. Jeigu terminas baigiasi poilsio ar švenčių dieną, nutarimas išsiunčiamas (perduodamas) ne vėliau kaip kitą darbo dieną po poilsio ar švenčių dienos.
 
 
 
 
-13. Slaptą pašto siuntų ir jų dokumentų apžiūros, pašto siuntų kontrolės ir paėmimo tvarką nustato Vyriausybė. Fizinio ar juridinio asmens ūkinių, finansinių operacijų, finansinių ir (ar) mokėjimo priemonių panaudojimo kontrolės ir fiksavimo tvarką nustato Vyriausybė, suderinusi su Lietuvos banku.
- 
-
-
-
-
-
-
-11 straipsnis. Slaptas patekimas į asmens būstą, tarnybines ir kitas patalpas, uždaras teritorijas, transporto priemones
+13. Slaptą pašto siuntų ir jų dokumentų apžiūros, pašto siuntų kontrolės ir paėmimo tvarką nustato Vyriausybė. Fizinio ar juridinio asmens ūkinių, finansinių operacijų, finansinių ir (ar) mokėjimo priemonių panaudojimo kontrolės ir fiksavimo tvarką nustato Vyriausybė, suderinusi su Lietuvos banku.11 straipsnis. Slaptas patekimas į asmens būstą, tarnybines ir kitas patalpas, uždaras teritorijas, transporto priemones
 
 
 1. Slapta patekti į asmens būstą, tarnybines ir kitas patalpas, uždaras teritorijas, transporto priemones, taip pat atlikti jų apžiūrą, paimti tirti dokumentus, daiktus, medžiagų pavyzdžius, kitus kriminalinei žvalgybai reikalingus objektus ir juos apžiūrėti ir (ar) pažymėti, neskelbiant apie jų paėmimą, motyvuota nutartimi sankcionuoja apygardų teismų pirmininkai ar jų įgalioti teisėjai pagal prokurorų motyvuotus teikimus, parengtus pagal kriminalinės žvalgybos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis, kuriais patvirtinamas tokių veiksmų atlikimo būtinumas ir faktinis pagrindas.
