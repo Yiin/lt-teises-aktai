@@ -2146,9 +2146,6 @@ Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 7) naftos ir naftos produktų įrenginių eksploatavimo;
 
-
-
-
 8) vandenilio įrenginių eksploatavimo.
 
 
