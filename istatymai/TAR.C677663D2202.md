@@ -31,30 +31,58 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis ir taikymo sritis
+1 straipsnis. 6 straipsnio pakeitimas
 
 
-1. Šis Įstatymas nustato gyventojų pajamų apmokestinimo pajamų mokesčiu tvarką.
+Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
+„6 straipsnis. Pajamų mokesčio tarifai
 
+1. Jeigu šiame straipsnyje nenustatyta kitaip, gyventojo pajamos apmokestinamos taip:
 
+1) metinė pajamų dalis, neviršijanti 36 vidutinių šalies darbo užmokesčių (toliau – VDU) dydžio sumos, taikomos apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 20 procentų pajamų mokesčio tarifą;
 
-2. Šis Įstatymas taikomas Lietuvos Respublikos teritorijoje.
+2) metinė pajamų dalis, viršijanti 36 VDU dydžio sumą, bet neviršijanti 60 VDU dydžio sumos, taikomos apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 25 procentų pajamų mokesčio tarifą;
 
+3) metinė pajamų dalis, viršijanti 60 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 32 procentų pajamų mokesčio tarifą.
 
+2. Metinė pajamų ne iš darbo santykių arba jų esmę atitinkančių santykių (išskyrus individualios veiklos pajamas, tantjemas ar atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, iš asmens, susijusio su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, gautas pajamas pagal autorines sutartis, mažųjų bendrijų vadovų, kurie pagal Lietuvos Respublikos mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, pagal civilinę (paslaugų) sutartį už vadovavimo veiklą gautas pajamas, ne individualios veiklos pajamas, gautas pardavus ar kitaip nuosavybėn perleidus atliekas, taip pat šio straipsnio 6 dalies 1, 3–7 punktuose nurodytas pajamas) dalis, neviršijanti 12 VDU dydžio sumos, taikomos apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 15 procentų pajamų mokesčio tarifą.
 
+3. Už per mokestinį laikotarpį gautas pajamas, nuo kurių mokestis sumokamas įsigyjant verslo liudijimą, mokamas savivaldybių tarybų nustatytas fiksuoto dydžio pajamų mokestis. Savivaldybių tarybos turi teisę savo biudžeto sąskaita taikyti fiksuoto dydžio pajamų mokesčio už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą, lengvatas.
 
-3. Šio Įstatymo nuostatos suderintos su šio Įstatymo priede nurodytais Europos Sąjungos teisės aktais.
+4. Fiksuoto dydžio pajamų mokesčiu gali būti apmokestinamos 50 000 eurų per mokestinį laikotarpį neviršijančios individualios veiklos pajamos (kai vykdoma kelių rūšių veikla, pajamos sudedamos). 50 000 eurų sumą per mokestinį laikotarpį viršijančios individualios veiklos pajamos įskaitomos į metinę pajamų dalį ir pajamų mokesčio tarifas taikomas, kaip nustatyta šio straipsnio 1 dalyje. Už mokestinį laikotarpį (ar jo dalį) sumokėto fiksuoto dydžio pajamų mokesčio dalis, proporcingai tenkanti tai mokestinio laikotarpio daliai, kai gyventojo individualios veiklos pajamos viršijo 50 000 eurų sumą, įskaitoma į gyventojo nuo tų pajamų mokėtino pajamų mokesčio sumą.
 
+5. Fiksuoto dydžio pajamų mokesčiu gali būti apmokestinamos 50 000 eurų per mokestinį laikotarpį neviršijančios nekilnojamojo pagal prigimtį daikto nuomos pajamos (kai nuomojami keli tokie daiktai, pajamos sudedamos). 50 000 eurų sumą per mokestinį laikotarpį viršijančios nekilnojamojo pagal prigimtį daikto nuomos pajamos įskaitomos į metinę pajamų dalį ir pajamų mokesčio tarifas taikomas, kaip nustatyta šio straipsnio 1 ir (arba) 2 dalyse. Už mokestinį laikotarpį (ar jo dalį) sumokėto fiksuoto dydžio pajamų mokesčio dalis, proporcingai tenkanti tai mokestinio laikotarpio daliai, kai gyventojo nekilnojamojo pagal prigimtį daikto nuomos pajamos apmokestinamos taikant šio straipsnio 1 ir (arba) 2 dalyse nustatytą pajamų mokesčio tarifą, įskaitoma į gyventojo nuo tų pajamų mokėtino pajamų mokesčio sumą.
 
-Straipsnio pakeitimai:
-Nr. IX-2103, 2004-04-08, Žin., 2004, Nr. 60-2118 (2004-04-24)
- 
+6. Taikant 15 procentų pajamų mokesčio tarifą apmokestinamos:
 
+1) pajamos iš paskirstytojo pelno;
 
+2) ligos, motinystės, tėvystės, vaiko priežiūros ir ilgalaikio darbo išmokos;
 
+3) ne per investicinę sąskaitą įsigytų akcijų (dalių, pajų) pardavimo ar kitokio perleidimo nuosavybėn pajamos, jeigu šios akcijos (dalys, pajai) įsigytos (įsigyti) anksčiau negu prieš 5 metus iki jų pardavimo ar kitokio perleidimo nuosavybėn dienos;
 
-2 straipsnis. Pagrindinės Įstatymo sąvokos
+4) pasibaigus gyvybės draudimo sutarties galiojimo terminui gautos gyvybės draudimo išmokos dalis, lygi pagal šią sutartį sumokėtoms įmokoms, kurios buvo atimamos iš pajamų šio Įstatymo nustatyta tvarka, taip pat nutraukus gyvybės draudimo sutartį grąžinamos įmokos, kurios buvo atimamos iš pajamų šio Įstatymo nustatyta tvarka;
+
+5) iš pensijų fondo gauta pensijų išmokos dalis, lygi sumokėtoms įmokoms, kurios buvo atimamos iš pajamų šio Įstatymo nustatyta tvarka, taip pat gyventojui išstojus iš pensijų fondo grąžinamos sumokėtos pensijų įmokos, kurios buvo atimamos iš pajamų šio Įstatymo nustatyta tvarka;
+
+6) per investicinę sąskaitą gautos pajamos, kaip jos suprantamos pagal šio įstatymo 12^1 straipsnio 3 dalį;
+
+7) akcijų, įsigytų pagal pasirinkimo sandorius iš darbdavio ar su juo susijusio asmens, ar kitų akcijų, suteiktų pagal Lietuvos Respublikos akcinių bendrovių įstatymo nustatyta tvarka patvirtintas Akcijų suteikimo darbuotojams ir (ar) organų nariams taisykles, įskaitant riboto disponavimo ar kitokio pobūdžio akcijas, pardavimo ar kitokio perleidimo nuosavybėn pajamos, jeigu akcijos buvo suteiktos darbdavio ar su juo susijusio asmens iniciatyva sandoriu, kuris įformintas raštiškai ir kuriame apibrėžtas akcijų suteikimo pagrindas bei sąlygos, ir darbuotojas pardavė ar kitaip perleido akcijas ne anksčiau kaip po 3 metų nuo teisės įsigyti akcijas atsiradimo dienos.
+
+7. Metinė ne individualios veiklos pajamų, gautų pardavus ar kitaip nuosavybėn perleidus atliekas, dalis, neviršijanti 12 VDU dydžio sumos, taikomos apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 5 procentų pajamų mokesčio tarifą.
+
+8. Individualios veiklos pajamos, išskyrus šio straipsnio 4 dalyje nurodytas fiksuoto dydžio pajamų mokesčiu apmokestinamas individualios veiklos pajamas ir pajamas, nurodytas šio straipsnio 9 dalyje, neviršijančios 42 500 eurų per metus, apmokestinamos taikant 20 procentų pajamų mokesčio tarifą.
+
+9. Pajamos iš žemės ūkio veiklos ir tokioje veikloje naudojamo turto nuomos, pardavimo ar kitokio perleidimo nuosavybėn pajamos, jeigu pagal šio Įstatymo nuostatas jos priskiriamos individualios veiklos pajamoms, apmokestinamos taip:
+
+1) metinė pajamų dalis, neviršijanti 60 VDU dydžio sumos, taikomos apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 15 procentų pajamų mokesčio tarifą;
+
+2) metinė pajamų dalis, viršijanti 60 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 20 procentų pajamų mokesčio tarifą.
+
+10. Apskaičiuojant šio straipsnio 1 dalyje nurodytų metinių pajamų sumą, į ją neįtraukiamos šio straipsnio 6 ir 9 dalyse nurodytos pajamos.
+
+11. Apskaičiuojant metinei pajamų daliai pagal šio straipsnio 1 dalį taikomą pajamų mokesčio tarifą, į šią pajamų dalį pirmiausia įskaičiuojama metinė pajamų dalis, apmokestinama pagal šio straipsnio 2, 7 ir 8 dalis.""2 straipsnis. Pagrindinės Įstatymo sąvokos
 
 
 1. Lietuvos Respublikos teritorija (toliau – Lietuva) – Lietuvos Respublikos teritorija ir greta Lietuvos Respublikos teritorinių vandenų esantis plotas, kuriame pagal Lietuvos Respublikos įstatymus ir tarptautinę teisę Lietuvos Respublika turi teisę tyrinėti ir eksploatuoti jūros dugno ir požeminius gamtos išteklius.
@@ -461,14 +489,12 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 Pajamų mokestį moka pajamų gavęs ir (arba) pajamų uždirbęs gyventojas.
 
 
+2. Pakeisti 16 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
+„6) nuolatinio Lietuvos gyventojo patirtos išlaidos (apskaičiuojant mokestinio laikotarpio apmokestinamąsias pajamas, kurioms taikomi šio Įstatymo 6 straipsnio 1, 2, 6, 8 ir 9 dalyse nustatyti pajamų mokesčio tarifai) – šio Įstatymo 21 straipsnyje nustatyta tvarka."
+
+
 Straipsnio pakeitimai:
-Nr. XI-111, 2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)
- 
-
-
-
-
-4 straipsnis. Nuolatinis Lietuvos gyventojas
+Nr. XI-111, 2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)4 straipsnis. Nuolatinis Lietuvos gyventojas
 
 
 1. Nuolatiniu Lietuvos gyventoju laikomas:
@@ -685,7 +711,7 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 
 
 
-2) metinė pajamų dalis, viršijanti 60 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 32 procentų pajamų mokesčio tarifą.
+2) metinė pajamų dalis, viršijanti 60 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 32 procentų pajamų mokesčio tarifą.
 TAR pastaba. 1. 11 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių pajamas.
 2. Nuostata, kad Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6 straipsnio 11 dalis (2019 m. gruodžio 12 d. redakcija) įsigaliojo 2020 m. sausio 1 d., prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
 
@@ -694,7 +720,7 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
 Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
 Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
- 
+ 
 
 
 
@@ -706,27 +732,24 @@ Papildyta straipsnio dalimi:
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
 Straipsnio dalies pakeitimai:
 Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
- 
+ 
 
 
 
 
-2. Pajamų mokesčio 5 procentų tarifas taikomas ne individualios veiklos pajamoms, gautoms pardavus ar kitaip nuosavybėn perleidus atliekas.
+2. Papildyti 18^2 straipsnį 10 ir 11 dalimis:
+„10. Nuolatiniams Lietuvos gyventojams (tėvams, įtėviams arba nuolatiniams globėjams (rūpintojams), auginantiems vaikus (įvaikius, globotinius) iki 18 metų, taip pat vyresnius vaikus, jeigu jie mokosi pagal bendrojo ugdymo programą, (įskaitant asmenis, kurių mokymą pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa vykdo profesinio mokymo teikėjai iki šie asmenys baigs bendrojo ugdymo programą, taip pat akademinių atostogų, profesinio mokymo teikėjų suteiktų dėl ligos, nėštumo ar vaiko priežiūros, laikotarpiu), bet ne ilgiau iki jiems sukaks 23 metai, už kiekvieną auginamą vaiką (įvaikį, globotinį) taikomas papildomas 208,8 euro pajamų mokesčio kreditas. Kai metinės apmokestinamosios individualios veiklos pajamos sudaro mažiau kaip dvylika minimaliųjų mėnesinių algų, papildomo mokesčio kredito dydis proporcingai sumažinamas. Kai per tuos pačius metus atsiranda, pasibaigia teisė į taikomą papildomą pajamų mokesčio kreditą, pajamų mokesčio kreditas apskaičiuojamas proporcingai už laikotarpį, kiek galiojo teisė į taikomą papildomą metinį pajamų mokesčio kreditą. Papildomas pajamų mokesčio kreditas už tą patį vaiką (įvaikį, globotinį) taikomas tik vienam iš tėvų (įtėvių arba nuolatinių globėjų (rūpintojų)).
+11. Jeigu metinė apmokestinamųjų individualios veiklos pajamų, išskyrus pajamas, kurioms taikomas šio Įstatymo 6 straipsnio 9 dalyje nustatytas pajamų mokesčio tarifas, suma viršija 42 500 eurų per metus, nuo tokių individualios veiklos pajamų mokėtino pajamų mokesčio dydis nustatomas iš metinėms apmokestinamosioms pajamoms pritaikius šio Įstatymo 6 straipsnio 1 dalyje nustatytą pajamų mokesčio tarifą gautos sumos atimant papildomo pajamų mokesčio kredito už kiekvieną auginamą vaiką (įvaikį, globotinį) sumą, apskaičiuotą pagal šio straipsnio 10 dalį.""
 
 
 
 
-3. Už per mokestinį laikotarpį gautas pajamas, nuo kurių mokestis sumokamas įsigyjant verslo liudijimą, mokamas savivaldybių tarybų nustatytas fiksuoto dydžio pajamų mokestis. Savivaldybių tarybos turi teisę savo biudžeto sąskaita taikyti fiksuoto dydžio pajamų mokesčio už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą, lengvatas.
+3. Fiksuoto dydžio pajamų mokesčiu gali būti apmokestinamos 45 000 eurų per mokestinį laikotarpį neviršijančios individualios veiklos pajamos (kai vykdoma kelių rūšių veikla, pajamos sudedamos). 45 000 eurų sumą per mokestinį laikotarpį viršijančios individualios veiklos pajamos apmokestinamos taikant šio straipsnio 1 dalyje nustatytą pajamų mokesčio tarifą. Už mokestinį laikotarpį (ar jo dalį) sumokėto fiksuoto dydžio pajamų mokesčio dalis, proporcingai tenkanti tai mokestinio laikotarpio daliai, kai gyventojo individualios veiklos pajamos viršijo 45 000 eurų sumą, įskaitoma į gyventojo nuo tų pajamų mokėtino pajamų mokesčio sumą.
 
 
 
 
-4. Fiksuoto dydžio pajamų mokesčiu gali būti apmokestinamos 45 000 eurų per mokestinį laikotarpį neviršijančios individualios veiklos pajamos (kai vykdoma kelių rūšių veikla, pajamos sudedamos). 45 000 eurų sumą per mokestinį laikotarpį viršijančios individualios veiklos pajamos apmokestinamos taikant šio straipsnio 1 dalyje nustatytą pajamų mokesčio tarifą. Už mokestinį laikotarpį (ar jo dalį) sumokėto fiksuoto dydžio pajamų mokesčio dalis, proporcingai tenkanti tai mokestinio laikotarpio daliai, kai gyventojo individualios veiklos pajamos viršijo 45 000 eurų sumą, įskaitoma į gyventojo nuo tų pajamų mokėtino pajamų mokesčio sumą.
-
-
-
-
-5. Fiksuoto dydžio pajamų mokesčiu gali būti apmokestinamos 45 000 eurų per mokestinį laikotarpį neviršijančios nekilnojamojo pagal prigimtį daikto nuomos pajamos (kai nuomojami keli tokie daiktai, pajamos sudedamos). 45 000 eurų sumą per mokestinį laikotarpį viršijančios nekilnojamojo pagal prigimtį daikto nuomos pajamos apmokestinamos taikant šio straipsnio 1 dalyje nustatytą pajamų mokesčio tarifą. Už mokestinį laikotarpį (ar jo dalį) sumokėto fiksuoto dydžio pajamų mokesčio dalis, proporcingai tenkanti tai mokestinio laikotarpio daliai, kai gyventojo nekilnojamojo pagal prigimtį daikto nuomos pajamos apmokestinamos taikant šio straipsnio 1 dalyje nustatytą pajamų mokesčio tarifą, įskaitoma į gyventojo nuo tų pajamų mokėtino pajamų mokesčio sumą. 
+4. Fiksuoto dydžio pajamų mokesčiu gali būti apmokestinamos 45 000 eurų per mokestinį laikotarpį neviršijančios nekilnojamojo pagal prigimtį daikto nuomos pajamos (kai nuomojami keli tokie daiktai, pajamos sudedamos). 45 000 eurų sumą per mokestinį laikotarpį viršijančios nekilnojamojo pagal prigimtį daikto nuomos pajamos apmokestinamos taikant šio straipsnio 1 dalyje nustatytą pajamų mokesčio tarifą. Už mokestinį laikotarpį (ar jo dalį) sumokėto fiksuoto dydžio pajamų mokesčio dalis, proporcingai tenkanti tai mokestinio laikotarpio daliai, kai gyventojo nekilnojamojo pagal prigimtį daikto nuomos pajamos apmokestinamos taikant šio straipsnio 1 dalyje nustatytą pajamų mokesčio tarifą, įskaitoma į gyventojo nuo tų pajamų mokėtino pajamų mokesčio sumą. 
 Straipsnio pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30)
 Nr. IX-1913, 2003-12-18, Žin., 2003, Nr. 123-5585 (2003-12-30)
@@ -748,13 +771,7 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 
 
 Straipsnio pakeitimai:
-Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
- 
-
-
-
-
-7 straipsnis. Mokestinis laikotarpis
+Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-205687 straipsnis. Mokestinis laikotarpis
 
 
 1. Pajamų mokesčio mokestinis laikotarpis sutampa su kalendoriniais metais. 
@@ -808,7 +825,7 @@ Nr. XIV-2803, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12619
 TAR pastaba. 3 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
- 
+ 
 
 
 
@@ -822,7 +839,7 @@ Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
 TAR pastaba. 5 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1250, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15192
- 
+ 
 
 
 
@@ -832,28 +849,20 @@ Nr. XIV-1250, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15192
 
 
 
-7. Pajamų per investicinę sąskaitą gavimo momentu laikomas lėšų išmokėjimas iš investicinės sąskaitos, kaip jis suprantamas pagal šio Įstatymo 121 straipsnį.
-Papildyta straipsnio dalimi:
-Nr. XIV-2803, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12619
- 
+7. Papildyti 20 straipsnį 12 dalimi:
+„12. Teikiant metinę pajamų mokesčio deklaraciją gyventojo pasirinkimu taikomas arba šio straipsnio 11 dalyje nustatytas papildomas NPD, arba šio Įstatymo 18^2 straipsnio 10 ar 11 dalyje nustatytas papildomas pajamų mokesčio kreditas."
 
 
 Straipsnio pakeitimai:
 Nr. IX-2103, 2004-04-08, Žin., 2004, Nr. 60-2118 (2004-04-24)
 Nr. XI-111, 2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)
- 
-
-
+ 
 
 
 
 
 III SKYRIUS
-SPECIALIOSIOS NUOSTATOS NUSTATANT KAI KURIAS PAJAMAS
- 
-
-
-9 straipsnis. Pajamos natūra 
+SPECIALIOSIOS NUOSTATOS NUSTATANT KAI KURIAS PAJAMAS9 straipsnis. Pajamos natūra 
 
 
 1. Pajamomis, gautomis natūra, nepripažįstama:
