@@ -3590,7 +3590,7 @@ Lietuvos Respublikos kelių transporto kodekso 18-1 straipsnio pakeitimo įstaty
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1827, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05727
-Lietuvos Respublikos kelių transporto kodekso 8-1, 11, 16, 17-1, 18, 18-2 straipsnių pakeitimo ir Kodekso papildymo 18-2 straipsniu įstatymas
+LIETUVOS RESPUBLIKOS KELIŲ TRANSPORTO KODEKSO 8^1, 11, 16, 17^1, 18 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 18^2 STRAIPSNIU ĮSTATYMAS
  
 23.
 Lietuvos Respublikos Seimas, Įstatymas
