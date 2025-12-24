@@ -493,6 +493,10 @@ Pajamų mokestį moka pajamų gavęs ir (arba) pajamų uždirbęs gyventojas.
 „6) nuolatinio Lietuvos gyventojo patirtos išlaidos (apskaičiuojant mokestinio laikotarpio apmokestinamąsias pajamas, kurioms taikomi šio Įstatymo 6 straipsnio 1, 2, 6, 8 ir 9 dalyse nustatyti pajamų mokesčio tarifai) – šio Įstatymo 21 straipsnyje nustatyta tvarka."
 
 
+2. Pakeisti 16 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
+„6) nuolatinio Lietuvos gyventojo patirtos išlaidos (apskaičiuojant mokestinio laikotarpio apmokestinamąsias pajamas, kurioms taikomi šio Įstatymo 6 straipsnio 1, 2, 6, 8 ir 9 dalyse nustatyti pajamų mokesčio tarifai) – šio Įstatymo 21 straipsnyje nustatyta tvarka."
+
+
 Straipsnio pakeitimai:
 Nr. XI-111, 2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)4 straipsnis. Nuolatinis Lietuvos gyventojas
 
