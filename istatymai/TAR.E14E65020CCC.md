@@ -183,7 +183,7 @@ INSTITUCIJŲ IR ĮSTAIGŲ FUNKCIJOS, BENDRADARBIAVIMAS. SPECIALIZUOTOS KOMPLEKSI
 
 
 
-3) priima teisės aktus dėl specializuotos kompleksinės pagalbos smurto artimoje aplinkoje pavojų patiriantiems asmenims ar smurtą patyrusiems asmenims teikimo tvarkos,  sprendimų teikti specializuotą kompleksinę pagalbą priėmimo tvarkos bei valstybės lėšų specializuotai kompleksinei pagalbai teikti poreikio nustatymo, šių lėšų planavimo, paskirstymo, pervedimo, naudojimo ir atsiskaitymo už panaudotas lėšas; 
+3) priima teisės aktus dėl specializuotos kompleksinės pagalbos smurto artimoje aplinkoje pavojų patiriantiems asmenims ar smurtą patyrusiems asmenims teikimo tvarkos,  sprendimų teikti specializuotą kompleksinę pagalbą priėmimo tvarkos bei valstybės lėšų specializuotai kompleksinei pagalbai teikti poreikio nustatymo, šių lėšų planavimo, paskirstymo, pervedimo, naudojimo ir atsiskaitymo už panaudotas lėšas; 
 
 
 
@@ -223,8 +223,6 @@ INSTITUCIJŲ IR ĮSTAIGŲ FUNKCIJOS, BENDRADARBIAVIMAS. SPECIALIZUOTOS KOMPLEKSI
 
 
 
-
-
 2. Lietuvos Respublikos švietimo, mokslo ir sporto ministerija:
 
 
@@ -238,8 +236,6 @@ INSTITUCIJŲ IR ĮSTAIGŲ FUNKCIJOS, BENDRADARBIAVIMAS. SPECIALIZUOTOS KOMPLEKSI
 
 
 
-
-
 3. Lietuvos Respublikos sveikatos apsaugos ministerija:
 
 
@@ -249,8 +245,6 @@ INSTITUCIJŲ IR ĮSTAIGŲ FUNKCIJOS, BENDRADARBIAVIMAS. SPECIALIZUOTOS KOMPLEKSI
 
 
 2) koordinuoja ir kontroliuoja visuomenės sveikatos priežiūros įstaigų, kurios pagal kompetenciją organizuoja moksliniais įrodymais ir gerąja praktika pagrįstus asmens sveikatos priežiūros specialistų, savivaldybių visuomenės sveikatos biurų darbuotojų (tiesiogiai dirbančių su gyventojais) mokymus smurto artimoje aplinkoje atpažinimo, prevencijos ir pagalbos smurto artimoje aplinkoje pavojų patiriantiems asmenims ar smurtą patyrusiems asmenims teikimo temomis, mokymų šiomis temomis veiklą. 
-
-
 
 
 
@@ -273,7 +267,7 @@ INSTITUCIJŲ IR ĮSTAIGŲ FUNKCIJOS, BENDRADARBIAVIMAS. SPECIALIZUOTOS KOMPLEKSI
 7. Lietuvos kalėjimų tarnyba užtikrina nuteistiesiems, siekiantiems valdyti smurtinio elgesio riziką, skirtų elgesio pataisos programų aprobavimą ir organizavimą nuteistųjų socialinės reabilitacijos metu. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1857, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05764
- 
+ 
 
 
 
@@ -301,8 +295,6 @@ Nr. XIV-1857, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05764
 
 
 
-
-
 9. Nacionalinė teismų administracija, vadovaudamasi Lietuvos Respublikos teismų įstatymo ir Teisėjų mokymo organizavimo taisyklių nuostatomis, gali organizuoti teisėjų mokymus ir kvalifikacijos tobulinimo kursus smurto artimoje aplinkoje prevencijos, atpažinimo ir pagalbos smurto artimoje aplinkoje pavojų patiriantiems asmenims ar smurtą patyrusiems asmenims teikimo temomis.
 
 
@@ -316,7 +308,7 @@ Nr. XIV-1857, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05764
 11. Valstybės duomenų agentūra koordinuoja statistinių duomenų gavimą iš institucijų ir įstaigų, atsakingų už statistinės informacijos apie smurtą artimoje aplinkoje parengimą, Valstybės duomenų agentūros vadovo nustatyta tvarka ir terminais Oficialiosios statistikos portale skelbia statistinę informaciją apie smurtą artimoje aplinkoje. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1857, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05764
- 
+ 
 
 
 
@@ -349,7 +341,7 @@ Nr. XIV-1857, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05764
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1857, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05764
- 
+ 
 
 
 
@@ -357,7 +349,7 @@ Nr. XIV-1857, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05764
 13. Savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius organizuoja socialinių paslaugų teikimą smurto artimoje aplinkoje pavojų patiriantiems asmenims ar smurtą patyrusiems asmenims ir smurto artimoje aplinkoje pavojų keliantiems asmenims ir kontroliuoja šių paslaugų kokybę.
 Papildyta straipsnio dalimi:
 Nr. XIV-1857, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05764
- 
+ 
 
 
 
@@ -365,14 +357,12 @@ Nr. XIV-1857, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05764
 14. Savivaldybės administracijos direktorius tvirtina savivaldybės teritorijoje veikiančių (jeigu jų nėra, artimiausių savivaldybių teritorijose veikiančių) įstaigų ir organizacijų, teikiančių socialines paslaugas smurto artimoje aplinkoje pavojų patiriantiems asmenims ar smurtą patyrusiems asmenims ir smurto artimoje aplinkoje pavojų keliantiems asmenims ir organizuojančių smurtinio elgesio keitimo programų (mokymų) įgyvendinimą, sąrašą (jame nurodomi juridinių asmenų duomenys: juridinių asmenų pavadinimai, telefono ryšio numeriai, elektroninio pašto adresai, teikiamų paslaugų pobūdis, veiklos vykdymo vietos adresai) ir šį sąrašą skelbia Teisės aktų registre ir savivaldybės administracijos interneto svetainėje. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1857, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05764
- 
+ 
 
 
 
 
-
-
-5 straipsnis. Smurto artimoje aplinkoje prevencijos ir specializuotos kompleksinės pagalbos smurto artimoje aplinkoje pavojų patiriantiems asmenims ar smurtą patyrusiems asmenims valdymas ir finansavimas
+15. Lietuvos Respublikos Vyriausybės įgaliotos institucijos arba įstaigos įgyvendina valstybės apsaugos nuo smurto artimoje aplinkoje ir pagalbos smurto artimoje pavojų patiriantiems asmenims ar smurtą patyrusiems asmenims politiką pagal Vyriausybės nutarime nustatytą kompetenciją.5 straipsnis. Smurto artimoje aplinkoje prevencijos ir specializuotos kompleksinės pagalbos smurto artimoje aplinkoje pavojų patiriantiems asmenims ar smurtą patyrusiems asmenims valdymas ir finansavimas
 
 
 1. Smurto artimoje aplinkoje prevencijos ir specializuotos kompleksinės pagalbos smurto artimoje aplinkoje pavojų patiriantiems asmenims ar smurtą patyrusiems asmenims priemonės planuojamos Vyriausybės tvirtinamose nacionalinėse plėtros programose ir valstybės biudžeto asignavimų valdytojų strateginiuose veiklos planuose. Šios priemonės ir projektai turi būti numatyti savivaldybės strateginiame plėtros plane ir (ar) strateginiame veiklos plane. Prevencijos priemonės ir projektai finansuojami iš valstybės ir savivaldybių biudžetų bei tarptautinių programų. 
