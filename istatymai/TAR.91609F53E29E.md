@@ -516,11 +516,12 @@ SOCIALINIŲ PASLAUGŲ VALDYMAS
 
 
 3) Socialinių paslaugų priežiūros departamentas prie Socialinės apsaugos ir darbo ministerijos (toliau – Socialinių paslaugų priežiūros departamentas). 
- 
 
 
 
 
+3. Socialinių paslaugų valdymo institucijos yra ir kitos Vyriausybės įgaliotos institucijos arba įstaigos.
+ 
 
 
 
@@ -734,11 +735,16 @@ Socialinių paslaugų priežiūros departamentas:
 
 
 11) atlieka įstatymų ir kitų teisės aktų nustatytas funkcijas.
- 
+ 
 
 
 
 
+15^1 straipsnis. Vyriausybės įgaliotų institucijų arba įstaigų kompetencija
+
+
+Vyriausybės įgaliotos institucijos arba įstaigos įgyvendina socialinių paslaugų valdymo politiką pagal Vyriausybės nutarime nustatytą kompetenciją.
+ 
 
 
 
