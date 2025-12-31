@@ -341,10 +341,7 @@ TREČIASIS SKIRSNIS
 
 6) savivaldybių šeimos tarybos.
 
-
-
-
-
+7) kitos Vyriausybės įgaliotos įstaigos.
 
 2. Šio straipsnio 1 dalyje nurodytos institucijos, užtikrindamos šeimos politikos įgyvendinimą, privalo tarpusavyje bendradarbiauti.
 
@@ -666,7 +663,7 @@ Vyriausybė:
 
 
 
-13 straipsnis. Bendroji ministerijų, kitų valstybės institucijų kompetencija šeimos politikos srityje
+13 straipsnis. Bendroji ministerijų, valstybės institucijų ir Vyriausybės įgaliotų įstaigų kompetencija šeimos politikos srityje
 
 
 1. Kitos ministerijos:
@@ -690,9 +687,9 @@ Vyriausybė:
 
 
 2. Kitos valstybės institucijos dalyvauja formuojant šeimos politiką, pagal kuruojamas sritis įgyvendindamos bendrąsias šeimos stiprinimo nuostatas.
- 
 
-
+3. Vyriausybės įgaliotos įstaigos įgyvendina šeimos politiką pagal Vyriausybės nutarime nustatytą kompetenciją.
+ 
 
 
 
