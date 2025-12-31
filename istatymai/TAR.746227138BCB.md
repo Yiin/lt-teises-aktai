@@ -138,7 +138,7 @@ MOTERŲ IR VYRŲ LYGIŲ TEISIŲ ĮGYVENDINIMAS
  
 
 
-4 straipsnis. Valstybės ir savivaldybių institucijų ir įstaigų pareiga įgyvendinti moterų ir vyrų lygias teises
+4 straipsnis. Valstybės ir savivaldybių institucijų ir įstaigų ir Lietuvos Respublikos Vyriausybės įgaliotų įstaigų pareiga įgyvendinti moterų ir vyrų lygias teises
 
 
 1. Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją privalo:
@@ -164,15 +164,9 @@ MOTERŲ IR VYRŲ LYGIŲ TEISIŲ ĮGYVENDINIMAS
 
 
 
-
-
 2. Valstybės institucijos priemones, skirtas moterų ir vyrų lygioms galimybėms užtikrinti, numato strateginio planavimo dokumentuose. Savivaldybių institucijos priemones, skirtas moterų ir vyrų lygioms galimybėms užtikrinti, numato savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane.
- 
 
-
-
-
-
+3. Lietuvos Respublikos Vyriausybės įgaliotos įstaigos įgyvendina moterų ir vyrų lygių galimybių priemones pagal Vyriausybės nutarime nustatytą kompetenciją.
 
 5 straipsnis. Švietimo įstaigų, mokslo ir studijų institucijų pareiga įgyvendinti moterų ir vyrų lygias teises 
 
@@ -203,7 +197,7 @@ MOTERŲ IR VYRŲ LYGIŲ TEISIŲ ĮGYVENDINIMAS
 5) užtikrinti, kad švietimo įstaigų, mokslo ir studijų institucijų mokiniai, studentai ir darbuotojai nepatirtų seksualinio priekabiavimo; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-364, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08723
- 
+ 
 
 
 
@@ -213,17 +207,7 @@ Nr. XIII-364, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08723
 
 
 
-
-
-2. Švietimo ir mokslo įstaigos pagal kompetenciją privalo užtikrinti, kad mokymo programose ir vadovėliuose nebūtų moterų ir vyrų diskriminavimo propagavimo.
- 
-
-
-
-
-
-
-6 straipsnis. Darbdavio arba darbdavio atstovo pareiga įgyvendinti lygias moterų ir vyrų teises darbe
+2. Švietimo ir mokslo įstaigos pagal kompetenciją privalo užtikrinti, kad mokymo programose ir vadovėliuose nebūtų moterų ir vyrų diskriminavimo propagavimo.6 straipsnis. Darbdavio arba darbdavio atstovo pareiga įgyvendinti lygias moterų ir vyrų teises darbe
 
 
 Įgyvendindamas lygias moterų ir vyrų teises, darbdavys arba darbdavio atstovas privalo: 
