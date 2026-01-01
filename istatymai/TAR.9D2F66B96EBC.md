@@ -1292,7 +1292,9 @@ Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 
 
 
-15. Civiliniai orlaiviai, kuriems nustatyta privaloma teisinė registracija Lietuvos Respublikos civilinių orlaivių registro informacinėje sistemoje, nėra prilyginami nekilnojamiesiems daiktams.25 straipsnis. Funkcijų ir pareigų, susijusių su orlaiviu, perdavimas
+15. Civiliniai orlaiviai, kuriems nustatyta privaloma teisinė registracija Lietuvos Respublikos civilinių orlaivių registro informacinėje sistemoje, nėra prilyginami nekilnojamiesiems daiktams.
+
+25 straipsnis. Funkcijų ir pareigų, susijusių su orlaiviu, perdavimas
 
 
 Protokolo dėl Tarptautinės civilinės aviacijos konvencijos pakeitimo (83 bis straipsnis), pasirašyto 1980 m. spalio 6 d. Monrealyje, nustatytais atvejais Agentūra turi teisę sudaryti su atitinkama kitos valstybės įgaliota institucija sutartis dėl funkcijų ir pareigų, susijusių su orlaiviu, perdavimo.
