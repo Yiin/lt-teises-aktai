@@ -237,6 +237,8 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 
 33. Treneris – nustatytus reikalavimus atitinkantis aukšto meistriškumo sporto specialistas, rengiantis sportininką (sportininkus) aukšto meistriškumo sporto varžyboms ir (ar) jam (jiems) vadovaujantis šiose varžybose.
+
+34. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Tarptautinėje konvencijoje prieš dopingo vartojimą sporte, Pasauliniame antidopingo kodekse, Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatyme, Lietuvos Respublikos švietimo įstatyme.
  
 
 
@@ -392,10 +394,9 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 6) skatina sportininkus ir jų trenerius už pasiektus aukšto meistriškumo sporto laimėjimus;
 
+7) administruoja ir finansuoja pasaulio lietuvių sporto žaidynes;
 
-
-
-7) atlieka kitas šiame ir kituose įstatymuose nustatytas ar švietimo, mokslo ir sporto ministro pavestas funkcijas.
+8) atlieka kitas šiame ir kituose įstatymuose nustatytas ar švietimo, mokslo ir sporto ministro pavestas funkcijas.
 Straipsnio punkto pakeitimai:
 Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
  
@@ -660,7 +661,7 @@ SPORTO PRATYBOSE, SPORTO VARŽYBOSE, FIZINIO AKTYVUMO PRATYBOSE AR KITUOSE SPORT
 
 
 
-2. Sporto pratybas lankantys ir (ar) sporto varžybose dalyvaujantys nepilnamečiai sportininkai privalo periodiškai tikrintis sveikatą asmens sveikatos priežiūros įstaigose. Sveikatos tikrinimo reikalavimus sportininkams, periodiškumą ir tvarką nustato sveikatos apsaugos ministras.
+2. Regos, klausos, judėjimo ar intelekto negalią turinčių asmenų sporto judėjimams Lietuvoje vadovaujančios nevyriausybinės organizacijos ir sporto šakų federacijos, įgyvendinančios sporto programas, privalo sudaryti švietimo, mokslo ir sporto ministro nustatytos formos sporto veiklos sutartis su sportininkais, kurie yra suaugusiųjų ar jaunimo amžiaus grupių nacionalinių rinktinių nariai ir (ar) gauna valstybės stipendiją.
 
 
 
@@ -970,6 +971,77 @@ Nr. XIV-1757, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00155
 
 18 straipsnis. Aukšto meistriškumo sporto finansavimas valstybės ir savivaldybių biudžetų lėšomis
 
+V-1 SKYRIUS
+PASAULIO LIETUVIŲ SPORTO ŽAIDYNĖS
+
+18-1 straipsnis. Pasaulio lietuvių sporto žaidynių tikslas, periodiškumas ir finansavimas
+
+1. Pasaulio lietuvių sporto žaidynės yra Lietuvos Respublikos teritorijoje organizuojamas sporto renginys, kurio tikslas – skatinti pasaulio lietuvius įsitraukti į Lietuvos sporto veiklas, tęsti tautinio bendravimo, lietuvybės išsaugojimo tradicijas.
+
+2. Pasaulio lietuvių sporto žaidynės rengiamos kas 4 metai.
+
+3. Pasaulio lietuvių sporto žaidynės finansuojamos iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų, savivaldybių biudžetų ir kitų teisėtai gautų lėšų.
+
+18-2 straipsnis. Pasaulio lietuvių sporto žaidynių organizavimą užtikrinantys subjektai ir jų funkcijos
+
+1. Švietimo, mokslo ir sporto ministras:
+
+1) tvirtina Lietuvos diasporos įsitraukimą skatinančių iniciatyvų programą kiekvienoms pasaulio lietuvių sporto žaidynėms;
+
+2) tvirtina švietimo, mokslo ir sporto ministro įgaliotos institucijos parengtą 4 metų trukmės pasaulio lietuvių sporto žaidynių veiksmų planą, kuriame numatomi pasaulio lietuvių sporto žaidynių organizavimą užtikrinančių subjektų uždaviniai, konkretūs veiksmai, valstybės biudžeto lėšos jiems įgyvendinti, kiekybiniai ir kokybiniai rezultatų vertinimo kriterijai, ir kontroliuoja jo įgyvendinimą;
+
+3) atsižvelgdamas į Pasaulio lietuvių sporto žaidynių tarybos pasiūlymą, priima sprendimą dėl kitų po 4 metų vyksiančių pasaulio lietuvių sporto žaidynių vykdymo datos ir vietos.
+
+2. Švietimo, mokslo ir sporto ministro įgaliota institucija:
+
+1) organizuoja rengimosi pasaulio lietuvių sporto žaidynėms procesą ir metodiškai jam vadovauja;
+
+2) organizuoja pasaulio lietuvių sporto žaidynes, atrenka žaidynėms organizuoti būtinų paslaugų ar žaidynių metu teikiamų paslaugų teikėjus, vadovaudamasi Lietuvos Respublikos viešųjų pirkimų įstatymu;
+
+3) finansuoja ir koordinuoja pasaulio lietuvių sporto žaidynių pasirengimo veiklas, vykdo jų kontrolę ir atskaitomybę, atsižvelgdama į Pasaulio lietuvių sporto žaidynių tarybos patvirtintą pasaulio lietuvių sporto žaidynių veiksmų plano įgyvendinimo priemonių planą ir pasaulio lietuvių sporto žaidynių nuostatus;
+
+4) ne vėliau kaip likus 6 mėnesiams iki pasaulio lietuvių sporto žaidynių pradžios pradeda pasaulio lietuvių sporto žaidynių dalyvių registraciją;
+
+5) ne vėliau kaip iki metų, kuriais vyko pasaulio lietuvių sporto žaidynės, gruodžio 31 dienos parengia ir, suderinusi su Pasaulio lietuvių sporto žaidynių taryba, teikia švietimo, mokslo ir sporto ministrui tvirtinti 4 metų trukmės kitų pasaulio lietuvių sporto žaidynių veiksmų planą;
+
+6) ne vėliau kaip per 2 mėnesius pasibaigus pasaulio lietuvių sporto žaidynėms parengia pasaulio lietuvių sporto žaidynių veiklos ir finansinę ataskaitą, teikia ją Pasaulio lietuvių sporto žaidynių tarybai ir, Pasaulio lietuvių sporto žaidynių tarybai pritarus, ją tvirtina. Pasaulio lietuvių sporto žaidynių tarybai nepritarus pasaulio lietuvių sporto žaidynių veiklos ir finansinei ataskaitai, Pasaulio lietuvių sporto žaidynių taryba pateikia motyvuotus pasiūlymus švietimo, mokslo ir sporto ministro įgaliotai institucijai, kuri patikslina pasaulio lietuvių sporto žaidynių veiklos ir finansinę ataskaitą ir pakartotinai ją teikia Pasaulio lietuvių sporto žaidynių tarybai. Jeigu Pasaulio lietuvių sporto žaidynių taryba per 1 mėnesį neinformuoja apie pritarimą pasaulio lietuvių sporto žaidynių veiklos ir finansinei ataskaitai arba nepateikia dėl jos pasiūlymų, laikoma, kad ji pritaria ataskaitai, ir švietimo, mokslo ir sporto ministro įgaliota institucija patvirtina parengtą pasaulio lietuvių sporto žaidynių veiklos ir finansinę ataskaitą;
+
+7) techniškai aptarnauja Pasaulio lietuvių sporto žaidynių tarybos veiklą;
+
+8) atlieka kitas šiame įstatyme nustatytas funkcijas.
+
+3. Savivaldybių, kurių teritorijoje vyksta pasaulio lietuvių sporto žaidynės, institucijos ir įstaigos:
+
+1) padeda švietimo, mokslo ir sporto ministro įgaliotai institucijai organizuoti pasaulio lietuvių sporto žaidynių dalyvių apgyvendinimą, iki kalendorinių metų, einančių prieš kalendorinius metus, kuriais turi vykti pasaulio lietuvių sporto žaidynės, spalio 31 dienos teikia preliminarią informaciją apie pasaulio lietuvių sporto žaidynių dalyvių apgyvendinimo galimybes;
+
+2) sprendžia pasaulio lietuvių sporto žaidynių dalyvių pavėžėjimo viešuoju miesto transportu klausimus;
+
+3) pasaulio lietuvių sporto žaidynių organizatoriams ir dalyviams užtikrina neatlygintiną naudojimąsi savivaldybei nuosavybės teise priklausančia infrastruktūra.
+
+18-3 straipsnis. Pasaulio lietuvių sporto žaidynių taryba ir jos funkcijos
+
+1. Pasaulio lietuvių sporto žaidynių taryba yra kolegiali institucija, sudaroma pasaulio lietuvių sporto žaidynių planavimui, įgyvendinimui ir priežiūrai koordinuoti.
+
+2. Pasaulio lietuvių sporto žaidynių taryba atlieka šias funkcijas:
+
+1) rengia ir tvirtina Pasaulio lietuvių sporto žaidynių tarybos darbo reglamentą ir pasaulio lietuvių sporto žaidynių nuostatus;
+
+2) ne vėliau kaip iki pasaulio lietuvių sporto žaidynių pradžios švietimo, mokslo ir sporto ministrui teikia pasiūlymą dėl kitų po 4 metų vyksiančių pasaulio lietuvių sporto žaidynių vykdymo datos ir vietos;
+
+3) rengia ir tvirtina pasaulio lietuvių sporto žaidynių renginių programą;
+
+4) atsižvelgdama į švietimo, mokslo ir sporto ministro tvirtinamą pasaulio lietuvių sporto žaidynių veiksmų planą, rengia ir ne vėliau kaip kitais metais, einančiais po metų, kuriais vyko pasaulio lietuvių sporto žaidynės, tvirtina pasaulio lietuvių sporto žaidynių veiksmų plano įgyvendinimo priemonių planą ir vykdo jo įgyvendinimo stebėseną, koordinuoja pasaulio lietuvių sporto žaidynių organizavimo ir įgyvendinimo darbus;
+
+5) rengia ir ne vėliau kaip paskutinę pasaulio lietuvių sporto žaidynių dieną tvirtina pasaulio lietuvių sporto žaidynių rezoliuciją, kurioje nurodoma pasibaigusių žaidynių reikšmė ir kitų žaidynių lūkesčiai;
+
+6) pritaria arba teikia pasiūlymus dėl švietimo, mokslo ir sporto ministro įgaliotos institucijos parengtos pasaulio lietuvių sporto žaidynių veiklos ir finansinės ataskaitos ne vėliau kaip per 1 mėnesį nuo jos gavimo dienos;
+
+7) atlieka kitas šiame įstatyme nustatytas funkcijas.
+
+3. Pasaulio lietuvių sporto žaidynių tarybos institucinę sudėtį ir narių skaičių nustato Vyriausybė. Į Pasaulio lietuvių sporto žaidynių tarybą įtraukiami valstybės ir savivaldybių institucijų ir įstaigų, skėtinių organizacijų, veikiančių valstybės sporto politikos srityje, Lietuvos savivaldybių asociacijos, Lietuvos nacionalinio radijo ir televizijos ir Pasaulio lietuvių bendruomenės atstovai. Personalinę Pasaulio lietuvių sporto žaidynių tarybos sudėtį tvirtina švietimo, mokslo ir sporto ministras.
+
+4. Švietimo, mokslo ir sporto ministras naują Pasaulio lietuvių sporto žaidynių tarybos personalinę sudėtį patvirtina ne vėliau kaip likus 2 metams iki kalendorinių metų, kuriais turi vykti pasaulio lietuvių sporto žaidynės. Pasaulio lietuvių sporto žaidynių tarybos nariai savo pareigas eina tol, kol patvirtinama nauja Pasaulio lietuvių sporto žaidynių tarybos personalinė sudėtis.
+
 
 1. Aukšto meistriškumo sportas finansuojamas valstybės ir savivaldybių biudžetų lėšomis. Aukšto meistriškumo sportas valstybės biudžeto lėšomis finansuojamas švietimo, mokslo ir sporto ministro nustatyta tvarka, skiriant lėšų šio straipsnio 3 dalyje nurodytų subjektų pateiktoms aukšto meistriškumo sporto programoms ir šio straipsnio 10 dalyje nurodyto subjekto pateiktai nacionalinei antidopingo programai įgyvendinti bei įstaigai, sudarančiai sąlygas rengti sportininkus, išlaikyti. Aukšto meistriškumo sportas savivaldybių biudžetų lėšomis finansuojamas savivaldybių tarybų nustatyta tvarka.
 
@@ -1180,7 +1252,7 @@ d) yra pripažinusi šią federaciją vienintele tos sporto šakos (tos sporto �
 
 
 
-3. Olimpiniam, paralimpiniam, regos, klausos, judėjimo ar intelekto negalią turinčių asmenų sporto, studentų sporto judėjimams Lietuvoje vadovaujančioms nevyriausybinėms organizacijoms, siekiančioms gauti valstybės biudžeto lėšų šio įstatymo 18 straipsnio 3 dalyje nurodytoms aukšto meistriškumo sporto programoms įgyvendinti, mutatis mutandis taikomi šio straipsnio 1 dalies 6–12 punktuose nustatyti kriterijai, išskyrus intelekto negalią turinčių asmenų sporto judėjimui vadovaujančią organizaciją, kuriai netaikomas šio straipsnio 1 dalies 6 punkte nustatytas reikalavimas savo veiklos dokumentuose įtvirtinti atsakomybę už Pasaulinio antidopingo kodekso pažeidimus, be to, tarptautinės nevyriausybinės sporto organizacijos, kurių narėmis yra olimpiniam, paralimpiniam, regos, klausos ar judėjimo negalią turinčių asmenų sporto, studentų sporto judėjimams Lietuvoje vadovaujančios nevyriausybinės organizacijos, turi būti pripažinusios Pasaulinį antidopingo kodeksą.
+3. Olimpiniam, paralimpiniam, regos, klausos, judėjimo ar intelekto negalią turinčių asmenų sporto, studentų sporto judėjimams Lietuvoje vadovaujančioms nevyriausybinėms organizacijoms, siekiančioms gauti valstybės biudžeto lėšų šio įstatymo 18 straipsnio 3 dalyje nurodytoms sporto programoms įgyvendinti, mutatis mutandis taikomi šio straipsnio 1 dalies 1, 6–13 punktuose nustatyti kriterijai, išskyrus intelekto negalią turinčių asmenų sporto judėjimui vadovaujančią organizaciją, kuriai netaikomas šio straipsnio 1 dalies 6 punkte nustatytas reikalavimas savo veiklos dokumentuose įtvirtinti atsakomybę už Pasaulinio antidopingo kodekso ir antidopingo taisyklių pažeidimus, be to, tarptautinės nevyriausybinės sporto organizacijos, kurių narėmis yra olimpiniam, paralimpiniam, regos, klausos ar judėjimo negalią turinčių asmenų sporto, studentų sporto judėjimams Lietuvoje vadovaujančios nevyriausybinės organizacijos, turi būti pasirašiusios Pasaulinį antidopingo kodeksą.
 
 
 
@@ -1207,7 +1279,7 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 
 
-2) juridinis asmuo nėra įvykdęs įsipareigojimų, susijusių su mokesčių mokėjimu (išskyrus atvejus, kai mokesčių administratoriaus sprendimu mokestinės nepriemokos mokėjimas yra atidėtas ir (arba) išdėstytas per tam tikrą laikotarpį ir šio sprendimo pagrindu sudaryta nevyriausybinės organizacijos ar kito asmens ir mokesčių administratoriaus mokestinės paskolos sutartis);
+2) juridinis asmuo nėra įvykdęs įsipareigojimų, susijusių su mokestinių ir (ar) nemokestinių prievolių mokėjimu, išskyrus atvejus, kai mokesčių administratoriaus sprendimu mokestinės ir (ar) nemokestinės nepriemokos mokėjimas yra atidėtas ir (arba) išdėstytas per tam tikrą laikotarpį ir šio sprendimo pagrindu sudaryta juridinio asmens ir mokesčių administratoriaus mokestinės paskolos sutartis;
 
 
 
@@ -1227,15 +1299,12 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 
 
-6) juridinis asmuo prašo skirti valstybės biudžeto lėšų aukšto meistriškumo sporto programai įgyvendinti, tačiau šios programos priemonės nedera su Pasauliniu antidopingo kodeksu arba tos sporto šakos tarptautinė sporto šakos federacija nepripažįsta Pasaulinio antidopingo kodekso ar neįgyvendina nacionalinių antidopingo taisyklių;
+6) juridinis asmuo prašo skirti valstybės biudžeto lėšų sporto programai ar tarptautinių sporto varžybų projektui įgyvendinti, tačiau jis neįgyvendina nacionalinių antidopingo taisyklių, sporto programos priemonės nedera su Pasauliniu antidopingo kodeksu ir nacionalinėmis antidopingo taisyklėmis arba tos sporto šakos tarptautinė sporto šakos federacija, kurios narys yra juridinis asmuo, yra nepasirašiusi Pasaulinio antidopingo kodekso;
 
 
 
 
-7) juridinio asmens vadovas, kolegialaus valdymo organo nariai, asmuo, turintis teisę juridinio asmens vardu sudaryti sandorį, buhalteris (buhalteriai) ar kitas (kiti) asmuo (asmenys), tvarkantis (tvarkantys) juridinio asmens apskaitą: 
-
-
-a) turi neišnykusį ar nepanaikintą teistumą už sunkų ar labai sunkų nusikaltimą arba nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, už korupcinio pobūdžio nusikaltimą arba nusikaltimą, susijusį su dopingo medžiagų neteisėtu disponavimu, platinimu ar lenkimu (įtraukimu) jas vartoti;
+7) juridinis asmuo prašo skirti valstybės biudžeto lėšų sporto programai ar tarptautinių sporto varžybų projektui įgyvendinti, tačiau jis nesilaiko kovos su manipuliavimu aukšto meistriškumo sporto varžybomis taisyklių, kurias tvirtina švietimo, mokslo ir sporto ministras;
 
 
 
@@ -1252,22 +1321,7 @@ c) turi jam pritaikytas atitinkamos nevyriausybinės organizacijos, veikiančios
 
 
 
-8) juridinis asmuo buvo patrauktas baudžiamojon atsakomybėn ir nepraėjo 10 metų nuo nuosprendžio įsiteisėjimo dienos;
-
-
-
-
-9) juridinis asmuo, atlikęs praėjusių kalendorinių metų finansinių ataskaitų auditą, pateikė nepriklausomo auditoriaus neigiamą išvadą;
-
-
-
-
-10) ilgiau negu 12 mėnesių Juridinių asmenų registro tvarkytojui nepateikė metinės finansinės atskaitomybės dokumentų;
-
-
-
-
-11) juridinis asmuo 12 mėnesių neteikia duomenų Sporto registrui šio registro nuostatuose nustatyta tvarka ir nėra įregistravęs objektų Vyriausybės nustatyta tvarka.
+9) juridinis asmuo ilgiau negu 12 mėnesių Juridinių asmenų registro informacinės sistemos tvarkytojui nepateikė metinės finansinės atskaitomybės dokumentų.
 
 
 
@@ -1328,7 +1382,7 @@ Valstybė užtikrina lygiateisiškumo principo įgyvendinimą ir skatina sportin
 23 straipsnis. Valstybės premijos už pasiektus aukšto meistriškumo sporto laimėjimus
 
 
-1. Sportininkams ir jų treneriams už šio straipsnio 2 dalyje nurodytus aukšto meistriškumo sporto laimėjimus (toliau – laimėjimai) valstybės premijų dydžius, vadovaudamasi šio įstatymo 22 straipsnyje nustatytais kriterijais, nustato Vyriausybė.
+1. Sportininkams ir jų aukšto meistriškumo sporto treneriams už šio straipsnio 2 dalyje nurodytus aukšto meistriškumo sporto laimėjimus (toliau – laimėjimai) valstybės premijų dydžius, vadovaudamasi šio įstatymo 25 straipsnyje nustatytais kriterijais, nustato Vyriausybė. Valstybės premija neskiriama tos sporto šakos, kurios tarptautinė sporto šakos federacija nėra pasirašiusi Pasaulinio antidopingo kodekso, sportininkams ir jų aukšto meistriškumo sporto treneriams.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
  
