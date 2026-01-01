@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01 iki 2026-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -2327,7 +2327,10 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-5. Asmeniui, baigusiam neformaliojo švietimo programą, išskyrus formalųjį švietimą papildančio ugdymo programą, gali būti išduotas pažymėjimas. Formalųjį švietimą papildančio ugdymo programą baigusiam asmeniui išduodamas pažymėjimas.
+5. Asmeniui, baigusiam neformaliojo švietimo programą, išskyrus formalųjį švietimą papildančio ugdymo programą, gali būti išduotas pažymėjimas. Formalųjį švietimą papildančio ugdymo programą baigusiam asmeniui išduodamas pažymėjimas. Asmens baigta formalųjį švietimą papildančio ugdymo programa švietimo, mokslo ir sporto ministro nustatyta tvarka įrašoma brandos atestate, jeigu ji atitinka švietimo, mokslo ir sporto ministro nustatytus formalųjį švietimą papildančio ugdymo programų kriterijus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2666, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09707
+ 
 
 
 
