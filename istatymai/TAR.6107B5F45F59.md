@@ -13,19 +13,18 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6107B5F45F59"
 
 # Lietuvos Respublikos tautinio paveldo produktų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3043, i. k. 1071010ISTA00X-1207
  
-Nauja redakcija nuo 2016-05-01:
-Nr. XII-2106, 2015-12-01, paskelbta TAR 2015-12-09, i. k. 2015-19492
+Nauja redakcija nuo 2026-01-01:
+Nr. XIV-3114, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20196
  
-LIETUVOS RESPUBLIKOS 
-TAUTINIO PAVELDO PRODUKTŲ 
+LIETUVOS RESPUBLIKOS
+TAUTINIO PAVELDO PRODUKTŲ
 ĮSTATYMAS
  
-2007 m. birželio 26 d. Nr. X-1207
-Vilnius
+2007 m. birželio 26 d. Nr. X-1207 Vilnius
  
 
 
@@ -37,7 +36,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas užtikrina tautinio paveldo produktų valstybinę apsaugą, sudaro sąlygas sukauptą tradicinių amatų patirtį išsaugoti ir skleisti, suteikus jai šiuolaikinį reikšmingumą, apibrėžia tautinio paveldo produktų, tradicinių amatų klasifikavimo principus, tautinio paveldo produktų sertifikavimo ir tradicinių amatų meistrų atestavimo procedūras, sudaro tautinio paveldo produktų kūrėjams palankias sąlygas kurti tautinio paveldo produktus, juos realizuoti ir populiarinti, nustato valstybės paramos teikimo šiai sričiai principus ir formas, kiek to nereglamentuoja kiti Lietuvos Respublikos įstatymai. 
+Lietuvos Respublikos tautinio paveldo produktų įstatymas užtikrina tautinio paveldo produktų valstybinę apsaugą, sudarant sąlygas sukauptą tradicinių amatų patirtį išsaugoti ir skleisti, suteikus jai reikšmingumą, šiuolaikinėje visuomenėje, apibrėžia tautinio paveldo produktų klasifikavimo, tautinio paveldo produktų ir tradicinių amatų neformaliojo mokymo programų sertifikavimo ir tradicinių amatininkų pripažinimo tradicinių amatų meistrais tvarką, nustato paramos teikimo tautinio paveldo produktų kūrėjams formas, reglamentuoja tradicinių amatų centrų veiklą, pripažinimą tradicinių amatų centru ir sprendimo dėl pripažinimo tradicinių amatų centru galiojimo panaikinimą, nustato atsakomybę už šio įstatymo pažeidimus.
  
 
 
@@ -48,45 +47,42 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos 
 
 
-1. Autentiškas tautinio paveldo produkto pavyzdys – išlikęs natūra arba dokumentuotas etninės kultūros tradicijoje gyvavęs tipiškas produktas, kuriam būdingas tam tikras sukūrimo būdas ir (arba) kiti kokybiniai ypatumai. 
+1. Autentiškas tradicinis gaminys – išlikęs natūra arba dokumentuotas etninės kultūros tradicijoje gyvavęs tipiškas gaminys, kuriam būdingas tam tikras sukūrimo būdas ir (arba) kiti kokybiniai ypatumai. 
 
 
 
 
-2. Gamtos gėrybių produktas – tradiciniais būdais surinkti ir paruošti grybai, augalai ar jų dalys.
+2. Gamtos gėrybių produktas – tradiciniais būdais surinkti ir paruošti grybai, laukiniai augalai ar jų dalys. 
 
 
 
 
-3. Tautinio paveldo produktas – tradicinis gaminys, tradicinės veislės augalas, gyvūnas ar jų produktas, gamtos gėrybių produktas, taip pat tradicinė paslauga, tradicinė mugė, pasižymintys istoriškai Lietuvoje ar jos atskirame etnografiniame regione susiklosčiusia forma, sudėtimi ar kitais kokybiniais ypatumais ir sertifikuoti teisės aktų nustatyta tvarka.
+3. Senoji tradicinio gaminio gamybos technologija – visuma gamybos būdų ir priemonių, įprastai naudotų tradicinio gaminio gamybai iki 1925 m. gruodžio 31 d. visoje Lietuvoje ar jos etnografiniame regione.
 
 
 
 
-4. Tautinio paveldo produkto ženklas – vaizdinis žymuo, kuriuo žymimas tautinio paveldo produktas. 
+4. Tautinio paveldo produktas – tradicinis gaminys, tradicinės veislės augalas, gyvūnas ar jų produktas, gamtos gėrybių produktas, taip pat tradicinė paslauga, tradicinė mugė, pasižymintys istoriškai Lietuvoje ar jos etnografiniame regione susiklosčiusia forma, sudėtimi ar kitais kokybiniais ypatumais ir sertifikuoti pagal šio įstatymo nuostatas. 
 
 
 
 
-5. Neteko galios nuo 2018-10-01
-Straipsnio dalies naikinimas:
-Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
- 
+5. Tautinio paveldo produkto ženklas – vaizdinis žymuo, kuriuo žymimas tautinio paveldo produktas. 
 
 
 
 
-6. Tautinio paveldo produktų ir tradicinių amatų neformaliojo mokymo programų sertifikavimas – procedūra, kuria įvertinama, ar tautinio paveldo produktai ir tradicinių amatų neformaliojo mokymo programos atitinka jiems keliamus reikalavimus. 
+6. Tautinio paveldo produktų kūrėjas – tradicinis amatininkas arba Lietuvos Respublikoje įsteigtas juridinis asmuo, kita organizacija ar jos filialas (-ai), kuriantys ar gaminantys sertifikuotus tradicinius gaminius, veisiantys ir auginantys sertifikuotų tradicinių veislių augalus ar gyvūnus, tradiciniais būdais ruošiantys gamtos gėrybių produktus ir (arba) teikiantys sertifikuotas tradicines paslaugas Lietuvos Respublikoje. 
 
 
 
 
-7. Tautinio paveldo produktų kūrėjas – tradicinis amatininkas ar Lietuvos Respublikoje įsteigtas juridinis asmuo, kita organizacija arba jų filialas, užsiimantys tradicinių gaminių gamyba ir (arba) teikiantys tradicines paslaugas. Šiame įstatyme prie tautinio paveldo produktų kūrėjų priskiriami Lietuvos Respublikoje įsteigti juridiniai asmenys, kitos organizacijos arba jų filialai, veisiantys tradicinių veislių augalus ar gyvūnus, gaminantys jų produktus, taip pat renkantys ir perdirbantys gamtos gėrybes.
+7. Tautinis paveldas – praeityje tautos sukurtas ir iki šių dienų išlikęs materialusis ir nematerialusis etninės kultūros paveldas.
 
 
 
 
-8. Tautinis paveldas – praeityje tautos sukurtas ir iki šių dienų išlikęs materialusis ir nematerialusis etninės kultūros paveldas.
+8. Tradicinė augalų ar gyvūnų auginimo technologija – tradicinių veislių augalų ar gyvūnų auginimo būdas, taikytas iki 1925 m. gruodžio 31 d. visoje Lietuvoje ar jos etnografiniame regione.
 
 
 
@@ -96,47 +92,47 @@ Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
 
 
 
-10. Tradicinė mugė – istoriškai susiklosčiusias kultūros tradicijas turintis Lietuvos Respublikos regionuose organizuojamas renginys, kurio pagrindinis tikslas – demonstruoti ir (arba) realizuoti teisės aktų nustatyta tvarka sertifikuotus tradicinius gaminius, tradicinių veislių augalus, gyvūnus ar jų produktus, gamtos gėrybių produktus ir tradicines paslaugas. Šie dalykai turi sudaryti daugiau kaip pusę tradicinėje mugėje demonstruojamų ir (arba) realizuojamų prekių ir teikiamų paslaugų. 
+10. Tradicinė mugė – istoriškai susiklosčiusias kultūros tradicijas turintis Lietuvos etnografiniame regione organizuojamas renginys, kurio pagrindinis tikslas – demonstruoti ir (arba) realizuoti sertifikuotus tradicinius gaminius, sertifikuotų tradicinių veislių augalus, gyvūnus ar jų produktus, gamtos gėrybių produktus ir teikti sertifikuotas tradicines paslaugas.
 
 
 
 
-11. Tradicinė paslauga – tradicinių gaminių gamybos demonstravimas, arklių kaustymas, kaminkrėtystė, folkloro (muzikinio, sakytinio ir kitokio) atlikimas, tradicinių renginių (kalendorinių ir šeimos švenčių) organizavimas ar kita etnine kultūra pagrįsta paslauga.
+11. Tradicinė paslauga – etnine kultūra grindžiama paslauga, įskaitant folkloro (muzikinio, sakytinio ir kitokio) kūrinių atlikimą, tradicinių renginių (kalendorinių ir šeimos švenčių) organizavimą.
 
 
 
 
-12. Tradicinio amato pameistrys – fizinis asmuo, vadovaujamas tradicinių amatų meistro įgyjantis tradicinio amato įgūdžių, reikalingų teisės aktų nustatyta tvarka sertifikuotiems tradiciniams gaminiams kurti ir (arba) tradicinėms paslaugoms teikti.
+12. Tradicinės žaliavos – medžiagos, įprastai naudotos tradicinių gaminių gamybai iki 1925 m. gruodžio 31 d. visoje Lietuvoje ar jos etnografiniame regione.
 
 
 
 
-13. Tradicinis amatas – iš kartos į kartą perduodama patirtimi ir specialiais įgūdžiais grindžiama individuali ar kolektyvinė veikla, skirta tradiciniams gaminiams kurti ir realizuoti. Šiame įstatyme prie tradicinių amatų priskiriamas tradicinių gaminių gaminimas, tradicinių veislių augalų ar gyvūnų veisimas ir auginimas, jų produktų gavyba, gamtos gėrybių rinkimas ir perdirbimas, tradicinių paslaugų teikimas.
+13. Tradicinis amatas – iš kartos į kartą perduodama patirtimi ir specialiais įgūdžiais grindžiama individuali ar kolektyvinė veikla, skirta tradiciniams gaminiams kurti ar gaminti, tradicinių veislių augalams ar gyvūnams veisti ir auginti, gamtos gėrybių produktams tradiciniais būdais ruošti, tradicinėms paslaugoms teikti.
 
 
 
 
-14. Tradicinis amatininkas – fizinis asmuo, kuriantis tradicinius gaminius ir (arba) teikiantis tradicines paslaugas. Šiame įstatyme prie tradicinių amatininkų priskiriami fiziniai asmenys, gaminantys tradicinius gaminius, veisiantys ir auginantys tradicinių veislių augalus ar gyvūnus, gaminantys jų produktus, taip pat renkantys ir perdirbantys gamtos gėrybes.
+14. Tradicinis amatininkas – fizinis asmuo, kuriantis ar gaminantis sertifikuotus tradicinius gaminius, veisiantis ir auginantis sertifikuotų tradicinių veislių augalus ar gyvūnus, tradiciniais būdais ruošiantis gamtos gėrybių produktus ir (arba) teikiantis sertifikuotas tradicines paslaugas Lietuvos Respublikoje.
 
 
 
 
-15. Tradicinis gaminys – nemasinės gamybos dirbinys, maisto gaminys, liaudies muzikos instrumentas ar kitas etninio materialiojo paveldo gaminys, pagamintas iš tradicinių žaliavų rankomis arba naudojant senąsias ar jas atitinkančias naujas technologijas, išsaugant unikalias kokybines gaminių savybes ir sudėtį.
+15. Tradicinis gaminys – nemasinės gamybos etninio materialiojo paveldo gaminys, pagamintas iš tradicinių žaliavų rankomis arba naudojant senąsias ar jas atitinkančias naujas technologijas, išsaugant unikalias kokybines gaminių savybes ir sudėtį.
 
 
 
 
-16. Tradicinių amatų centras – įstatymų nustatyta tvarka įsteigtas viešasis juridinis asmuo ar jo filialas, teikiantys viešąsias paslaugas tautinio paveldo produktų kūrėjams ir atliekantys kitas šio įstatymo 21 straipsnio 2 dalyje nustatytas funkcijas. 
+16. Tradicinių amatų centras – Lietuvos Respublikoje įsteigtas juridinis asmuo, kita organizacija ar jos filialas (-ai), vienijantys tautinio paveldo produktų kūrėjus ir atliekantys kitas šio įstatymo 21 straipsnio 4 dalyje nustatytas pareigas. 
 
 
 
 
-17. Tradicinių amatų meistras – bent vieną iš šio įstatymo 13 straipsnio 1 dalyje nustatytų reikalavimų atitinkantis tradicinis amatininkas, gebantis perduoti tradicinių amatų įgūdžius kitiems asmenims.
+17. Tradicinių amatų meistras – tradicinis amatininkas, kuris geba perduoti tradicinių amatų įgūdžius kitiems asmenims ir kuris pagal šio įstatymo nuostatas yra pripažintas tradicinių amatų meistru.
 
 
 
 
-18. Tradicinių amatų meistro atestavimas – procedūra, kuria įvertinama, ar tradicinis amatininkas atitinka bent vieną iš šio įstatymo 13 straipsnio 1 dalyje tradicinių amatų meistrui keliamų reikalavimų. 
+18. Sąvokos „etninė kultūra“, „etninės kultūros gyvoji tradicija“ ir „etnografinis regionas“ suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatyme.
  
 
 
@@ -147,7 +143,7 @@ Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
 3 straipsnis. Tautinio paveldo produktų valstybinės apsaugos teisiniai pagrindai
 
 
-Tautinio paveldo produktų valstybinė apsauga vykdoma vadovaujantis Lietuvos Respublikos Konstitucija, šiuo įstatymu, Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymu.
+Tautinio paveldo produktų valstybinė apsauga vykdoma vadovaujantis Lietuvos Respublikos Konstitucija, šiuo įstatymu, Etninės kultūros valstybinės globos pagrindų įstatymu.
  
 
 
@@ -161,42 +157,27 @@ Tautinio paveldo produktų valstybinė apsauga vykdoma vadovaujantis Lietuvos Re
 Tautinio paveldo produktų valstybinės apsaugos uždaviniai yra:
 
 
-1) nustatyti tautinio paveldo produktų išsaugojimo, populiarinimo, sukūrimo ir realizavimo skatinimo principus ir prioritetus;
-Straipsnio punkto pakeitimai:
-Nr. XIII-3124, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15368
- 
+1) užtikrinti tautinio paveldo produktų kūrimo, gamybos, realizavimo ir populiarinimo skatinimą, puoselėjant tradicinius amatus;
 
 
 
 
-2) nustatyti Tautinio paveldo produktų klasifikatoriaus, Tradicinių amatų sąvado sudarymo principus; 
+2) nustatyti tautinio paveldo produktų klasifikavimo sistemą; 
 
 
 
 
-3) plėtoti tautinio paveldo produktų sertifikavimo ir tradicinių amatų meistrų atestavimo sistemą; 
+3) užtikrinti tautinio paveldo produktų ir tradicinių amatų neformaliojo mokymo programų sertifikavimą, tradicinių amatininkų pripažinimą tradicinių amatų meistrais; 
 
 
 
 
-4) skatinti tradicinių amatų plėtrą, užtikrinti tautinio paveldo produktų kūrimą, realizavimą ir populiarinimą etnografinių regionų centruose, miesteliuose, kaimuose ir kaimo turizmo sodybose;
+4) teikti valstybės paramą tautinio paveldo produktams kurti, gaminti, realizuoti ir populiarinti; 
 
 
 
 
-5) teikti valstybės paramą tautinio paveldo produktams išsaugoti, kurti, realizuoti ir populiarinti; 
-
-
-
-
-6) skatinti tautinio paveldo produktų kūrėjų asociacijų kūrimąsi ir veiklą; 
-
-
-
-
-7) Neteko galios nuo 2018-10-01
-Straipsnio punkto naikinimas:
-Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
+5) skatinti tautinio paveldo produktų kūrėjų bendradarbiavimą, dalyvavimą tradicinių amatų centrų veikloje. 
  
 
 
@@ -216,24 +197,25 @@ TAUTINIO PAVELDO PRODUKTŲ VALSTYBINĘ APSAUGĄ UŽTIKRINANČIOS INSTITUCIJOS
 5 straipsnis. Tautinio paveldo produktų valstybinę apsaugą užtikrinančios institucijos
 
 
-Tautinio paveldo produktų valstybinę apsaugą užtikrina šios institucijos:
+Tautinio paveldo produktų valstybinę apsaugą užtikrina:
 
 
-1) Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė);
-
-
-
-
-2) Lietuvos Respublikos žemės ūkio ministerija ir Žemės ūkio agentūra prie Žemės ūkio ministerijos (toliau – Agentūra);
-Straipsnio punkto pakeitimai:
-Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
-Nr. XIV-2062, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12743
- 
+1) Lietuvos Respublikos Vyriausybė;
 
 
 
 
-3) savivaldybių institucijos.
+2) Lietuvos Respublikos žemės ūkio ministerija;
+
+
+
+
+3) Žemės ūkio agentūra prie Žemės ūkio ministerijos (toliau – Agentūra);
+
+
+
+
+4) savivaldybės.
  
 
 
@@ -246,31 +228,8 @@ Nr. XIV-2062, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12743
 6 straipsnis. Vyriausybės funkcijos tautinio paveldo produktų valstybinės apsaugos srityje 
 
 
-Vyriausybė tautinio paveldo produktų valstybinės apsaugos srityje:
-
-
-1) tvirtina nacionalines plėtros programas, kuriose suplanuojamos tautinio paveldo produktų valstybinės apsaugos priemonės; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3124, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15368
+Vyriausybė tvirtina nacionalines plėtros programas, kuriose planuojamos tautinio paveldo produktų valstybinės apsaugos priemonės.
  
-
-
-
-
-2) nustato prašymų sertifikuoti tautinio paveldo produktus, tradicinių amatų neformaliojo mokymo programas ir atestuoti tradicinių amatų meistrus nagrinėjimo tvarką; 
-
-
-
-
-3) nustato tautinio paveldo produktų ir tradicinių amatų neformaliojo mokymo programų sertifikavimo, tradicinių amatų meistrų atestavimo tvarką;
-
-
-
-
-4) nustato valstybės stipendijų įsteigimo ir skyrimo tradiciniams amatininkams, tradicinių amatų meistrams ir tradicinio amato pameistriams tvarką. 
- 
-
-
 
 
 
@@ -280,98 +239,95 @@ Nr. XIII-3124, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15368
 7 straipsnis. Žemės ūkio ministerijos ir Agentūros funkcijos tautinio paveldo produktų valstybinės apsaugos srityje
 
 
-1. Žemės ūkio ministerija tautinio paveldo produktų valstybinės apsaugos srityje:
+1. Žemės ūkio ministerija:
 
 
-1) formuoja tautinio paveldo produktų valstybinės apsaugos politiką;
+1) formuoja tautinio paveldo produktų valstybinės apsaugos politiką; 
 
 
 
 
-11) rengia tautinio paveldo produktų valstybinės apsaugos priemones ir (arba) koordinuoja jų rengimą, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą;
-Papildyta straipsnio punktu:
-Nr. XIII-3124, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15368
- 
+2) organizuoja, koordinuoja ir kontroliuoja tautinio paveldo produktų valstybinės apsaugos politikos įgyvendinimą;
 
 
 
 
-2) nustato valstybės paramos tautinio paveldo produktams išsaugoti, sukurti, realizuoti ir populiarinti teikimo tvarką; 
+3) koordinuoja tautinio paveldo produktų valstybinės apsaugos priemonių įgyvendinimą; 
 
 
 
 
-3) sudaro, keičia ir tvirtina Tautinio paveldo produktų klasifikatorių ir Tradicinių amatų sąvadą;
+4) bendradarbiauja tautinio paveldo produktų valstybinės apsaugos srityje su etninės kultūros srityje veikiančiomis institucijomis ir organizacijomis bei savivaldybėmis.
 
 
 
 
-4) sudaro, keičia ir tvirtina Tautinio paveldo produktų, būdingų konkrečiai vietovei ar etnografiniam regionui, atitikties specifikaciją;
 
 
+2. Žemės ūkio ministras, būdamas atsakingas už žemės ir maisto ūkio ir kaimo plėtros valdymo sritį:
 
 
-5) nustato tautinio paveldo produktų, tradicinių amatų meistrų ir tradicinių amatų neformaliojo mokymo programų atitikties tradicijai kriterijus ir tautinio paveldo produktų atitikties Lietuvos etninei kultūrai vertinimo rodiklius; 
+1) tvirtina valstybės paramos tautinio paveldo produktams kurti, gaminti, realizuoti ir populiarinti teikimo taisykles;
 
 
 
 
-6) tvirtina ekspertų komisijos, sudarytos teikti siūlymus žemės ūkio ministrui dėl tautinio paveldo produktų, tradicinių amatų neformaliojo mokymo programų sertifikavimo ir tradicinių amatų meistrų atestavimo, sudėtį, nustato jos darbo tvarką; 
+2) tvirtina tradicinių amatų klasifikaciją, skirtą tautinio paveldo produktams klasifikuoti pagal tradicinius amatus, tautinio paveldo produktų sritis, rūšis, porūšius;
 
 
 
 
-7) iki 2025 m. gruodžio 31 d., remdamasi ekspertų komisijos teikimu, priima sprendimus dėl pripažinimo sertifikuotais tautinio paveldo produktais, tradicinių amatų neformaliojo mokymo programomis ir atestuotais tradicinių amatų meistrais; 
+3) tvirtina atitikties Lietuvos etninei kultūrai vertinimo rodiklių sąvadą, kuriame nurodomi kiekvieno tradicinio amato vertinimo rodikliai (savybės); 
 
 
 
 
-8) nustato tautinio paveldo produktų ženklus ir jų naudojimo tvarką;
+4) tvirtina tautinio paveldo produktų, būdingų Lietuvos etnografiniam regionui ar konkrečiai vietovei, specifikaciją, kurioje nurodomi būdingi tradicinio amato bruožai pagal etnografinius regionus; 
 
 
 
 
-9) teikia Lietuvos Respublikos švietimo ir mokslo ministerijai rekomendacijas dėl tradicinių amatų mokymo;
+5) tvirtina tautinio paveldo produktų ir tradicinių amatų neformaliojo mokymo programų sertifikavimo, tradicinių amatininkų pripažinimo tradicinių amatų meistrais tvarkos aprašą;
 
 
 
 
-10) bendradarbiauja su tautinio paveldo produktus, tradicinius amatus tyrinėjančiomis ir (arba) propaguojančiomis institucijomis; 
+6) tvirtina tautinio paveldo produktų ženklus ir jų naudojimo tvarkos aprašą;
 
 
 
 
-11) pagal kompetenciją teisės aktų nustatyta tvarka populiarina tradicinius amatus, tradicinių amatų centrų veiklą, tradicines muges, parodas ir kitus renginius; 
+7) tvirtina Tautinio paveldo ekspertų komisijos (toliau – Ekspertų komisija) personalinę sudėtį, jos darbo tvarką ir, turėdamas Vyriausybės įgaliojimą bei atsižvelgdamas į Ekspertų komisijos veiklos pobūdį, nustato konkretų Ekspertų komisijos narių atlygio dydį ir mokėjimo tvarką;
 
 
 
 
-12) Vyriausybės nustatyta tvarka skiria valstybės stipendijas tradiciniams amatininkams, tradicinių amatų meistrams ir tradicinio amato pameistriams;
+8) tvirtina Lietuvos Respublikoje įsteigto juridinio asmens, kitos organizacijos ar jos filialo (-ų) (toliau – juridinis asmuo ar jo padalinys) pripažinimo tradicinių amatų centru ir šio pripažinimo galiojimo panaikinimo tvarkos aprašą;
 
 
 
 
-13) atlieka kitas įstatymų priskirtas funkcijas.
+9) tvirtina sėkmingiausiai dirbančio tradicinio amatininko ir tradicinio amatų centro apdovanojimų tvarkos aprašą, skiria premijas sėkmingiausiai dirbantiems tradiciniams amatininkams ir tradicinių amatų centrams.
 
 
 
 
 
 
-2. Agentūra tautinio paveldo produktų valstybinės apsaugos srityje:
+3. Agentūra:
 
 
-1) konsultuoja ir priima prašymus sertifikuoti tautinio paveldo produktus, tradicinių amatų neformaliojo mokymo programas ir atestuoti tradicinių amatų meistrus;
+1) žemės ūkio ministro nustatyta tvarka priima, tvarko ir saugo prašymus sertifikuoti tautinio paveldo produktus, tradicinių amatų neformaliojo mokymo programas ir pripažinti tradicinių amatų meistru, konsultuoja prašymus teikiančius asmenis;
 
 
 
 
-2) tvarko šio įstatymo 12 ir 14 straipsniuose nurodytus prašymus sertifikuoti tautinio paveldo produktus, tradicinių amatų neformaliojo mokymo programas ir atestuoti tradicinių amatų meistrus ir prie jų pridedamus dokumentus; 
+2) žemės ūkio ministro nustatyta tvarka organizuoja Ekspertų komisijos darbą;
 
 
 
 
-3) žemės ūkio ministro nustatyta tvarka organizuoja ekspertų komisijos, sudarytos teikti siūlymus žemės ūkio ministrui dėl tautinio paveldo produktų, tradicinių amatų neformaliojo mokymo programų sertifikavimo ir tradicinių amatų meistrų atestavimo, posėdžius; 
+3) organizuoja tautinio paveldo produktų atitikties Lietuvos etninei kultūrai, tautinio paveldo produktų kūrėjų ir tradicinių amatų centrų veiklos patikrinimus, kuriuose dalyvauja Ekspertų komisijos nariai, ir administruoja šio įstatymo pažeidimus;
 
 
 
@@ -381,37 +337,63 @@ Nr. XIII-3124, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15368
 
 
 
-5) skelbia informaciją apie tautinio paveldo produktų kūrėjus, tradicinių amatų meistrus, tautinio paveldo produktus Žemės ūkio ministerijos interneto svetainėje;
+5) tvarko tautinio paveldo produktų kūrėjų, tautinio paveldo produktų ir tradicinių amatų neformaliojo mokymo programų duomenis, tautinio paveldo produktų ir tradicinių amatų neformaliojo mokymo programų sertifikatų ir tradicinių amatų meistrų pažymėjimų duomenis suveda į Licencijų informacinę sistemą (toliau – LIS) ir visuomenės informavimo tikslais viešina, kol panaikinamas jų galiojimas;
 
 
 
 
-6) pagal kompetenciją populiarina tradicinius amatus, tradicines muges ir kitus renginius, užtikrina informacijos apie juos sklaidą. 
+6) administruoja tautinio paveldo interneto svetainę, joje visuomenės informavimo tikslais skelbia informaciją apie tautinio paveldo produktų kūrėjus (vardą, pavardę, juridinio asmens ar jo padalinio pavadinimą, gyvenamąją ar buveinės vietą ir informaciją ryšiams), jų veiklą ir kuriamus tautinio paveldo produktus, tradicinių amatų centrų veiklą;
 
 
 
 
-Straipsnio pakeitimai:
-Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
+7) populiarina tautinio paveldo produktus, tradicinių amatų centrų veiklą, tradicines muges, parodas ir kitus renginius, skirtus tautinio paveldo produktams ir jų kūrėjams populiarinti. 
+
+
+
+
+
+
+4. Agentūros direktorius:
+
+
+1) remdamasis Ekspertų komisijos siūlymais, žemės ūkio ministro nustatyta tvarka priima sprendimus dėl tautinio paveldo produktų, tradicinių amatų neformaliojo mokymo programų sertifikavimo, tradicinių amatininkų pripažinimo tradicinių amatų meistrais, tautinio paveldo produkto sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato ir (arba) tradicinių amatų meistro pažymėjimo galiojimo panaikinimo ir tvirtina tautinio paveldo produktų, atestuotų tradicinių amatų meistrų ir tradicinių amatų neformaliojo mokymo programų sąrašus;
+
+
+
+
+2) žemės ūkio ministro nustatyta tvarka priima sprendimus dėl juridinio asmens ar jo padalinio pripažinimo tradicinių amatų centru arba šio pripažinimo galiojimo panaikinimo;
+
+
+
+
+3) tvirtina tautinio paveldo produktų atitikties Lietuvos etninei kultūrai, tautinio paveldo produktų kūrėjų ir tradicinių amatų centrų veiklos patikrinimų bei nustatytų šio įstatymo pažeidimų administravimo tvarkos aprašą.
  
 
 
 
 
-8 straipsnis. Savivaldybių institucijų funkcijos tautinio paveldo produktų valstybinės apsaugos srityje 
-
-
-Savivaldybių institucijos tautinio paveldo produktų valstybinės apsaugos srityje:
-
-
-1) rūpinasi vietos tradicinių amatų išsaugojimu, plėtra ir populiarinimu, skatina vietos tautinio paveldo produktų kūrėjų sukurtų tautinio paveldo produktų gamybą ir realizavimą; 
 
 
 
 
-2) savivaldybių planavimo dokumentuose, atsižvelgdamos į vietos sąlygas ir galimybes, teikia prioritetus projektams, skirtiems vietos tautinio paveldo produktų kūrėjų sukurtiems tautinio paveldo produktams realizuoti ir jų populiarinimui plėtoti, taip pat tradicinių amatų centrams bei kitoms tautinio paveldo produktų demonstravimo ir prekybos vietoms įsteigti ir plėtoti.
-Straipsnio punkto pakeitimai:
-Nr. XIII-3124, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15368
+8 straipsnis. Savivaldybių veikla tautinio paveldo produktų valstybinės apsaugos srityje 
+
+
+Savivaldybės:
+
+
+1) populiarina vietos tradicinius amatus;
+
+
+
+
+2) skatina tradicinių amatų centrų veiklą;
+
+
+
+
+3) sudaro galimybes tautinio paveldo produktų kūrėjams dalyvauti savivaldybių organizuojamuose renginiuose.
  
 
 
@@ -424,79 +406,91 @@ Nr. XIII-3124, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15368
 
 
 III SKYRIUS
-TAUTINIO PAVELDO PRODUKTŲ TARYBA IR JOS FUNKCIJOS
+EKSPERTŲ KOMISIJA
  
 
 
-9 straipsnis. Tautinio paveldo produktų taryba
+9 straipsnis. Ekspertų komisija
 
 
-1. Tautinio paveldo produktų taryba yra kolegiali patariamoji visuomeniniais pagrindais veikianti institucija, sudaroma iš valstybės institucijų, įstaigų ir nevyriausybinių organizacijų atstovų. 
+1. Ekspertų komisija sudaroma iš:
 
 
-
-
-2. Tautinio paveldo produktų tarybos sudėtį ir Tautinio paveldo produktų tarybos nuostatus tvirtina žemės ūkio ministras. 
- 
+1) etninės kultūros, istorijos, etnologijos ir antropologijos, švietimo, maisto saugos ir kokybės sričių ekspertų, turinčių ne mažesnę kaip 5 metų darbo patirtį etninės kultūros, istorijos, etnologijos ir antropologijos, švietimo, maisto saugos ir kokybės srityse;
 
 
 
 
-
-
-10 straipsnis. Tautinio paveldo produktų tarybos funkcijos ir teisės 
-
-
-1. Tautinio paveldo produktų taryba atlieka šias funkcijas:
-
-
-1) teikia siūlymus Žemės ūkio ministerijai tautinio paveldo produktų išsaugojimo užtikrinimo, jų kūrimo skatinimo ir tradicinių amatų plėtros klausimais; 
-
-
-
-
-2) teikia siūlymus Žemės ūkio ministerijai dėl tradicinių amatų centrų steigimo ir plėtros Lietuvos regionuose, etnografiniuose kaimuose ir sodybose; 
-
-
-
-
-3) teikia siūlymus Žemės ūkio ministerijai dėl tradicinių amatininkų, tradicinių amatų meistrų mokymo; 
-
-
-
-
-4) teikia siūlymus Žemės ūkio ministerijai dėl tautinio paveldo produktų įvaizdžio formavimo šalyje ir užsienyje, dalyvauja jį formuojant; 
-
-
-
-
-5) teikia siūlymus Žemės ūkio ministerijai dėl tautinio paveldo produktų, tradicinių amatų meistrų ir tradicinių amatų neformaliojo mokymo programų atitikties tradicijai kriterijų ir tautinio paveldo produktų atitikties Lietuvos etninei kultūrai vertinimo rodiklių;
-
-
-
-
-6) atlieka kitas įstatymuose nustatytas funkcijas.
+2) valstybės institucijų ir valstybės įstaigų, veikiančių etninės kultūros, tautinio paveldo, švietimo, maisto saugos ir kokybės srityse, atstovų. 
 
 
 
 
 
 
-2. Tautinio paveldo produktų taryba, atlikdama jai pavestas funkcijas, turi teisę:
+2. Ekspertų komisijos narių, turinčių balso teisę, negali būti daugiau kaip 25.
 
 
-1) gauti teisės aktų nustatyta tvarka iš valstybės ir savivaldybių institucijų, įstaigų, viešųjų įstaigų, kitų institucijų ir organizacijų informaciją, kurios reikia Tautinio paveldo produktų tarybos funkcijoms atlikti; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
+
+
+3. Ekspertų komisijos sudėtis kas 3 metai atnaujinama ne mažiau kaip ketvirtadaliu. Tas pats asmuo Ekspertų komisijos nariu gali būti skiriamas ne daugiau kaip 2 kartus iš eilės (ši nuostata netaikoma valstybės institucijų atstovams). 
+
+
+
+
+4. Ekspertų komisijos narių darbas apmokamas vadovaujantis Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymu. 
  
 
 
 
 
-2) kviesti į Tautinio paveldo produktų tarybos posėdžius patariamojo balso teise dalyvauti suinteresuotų institucijų, įstaigų, organizacijų, mokslo institucijų atstovus, nepriklausomus ekspertus, kitus suinteresuotus visuomenės atstovus.
+
+
+10 straipsnis. Ekspertų komisijos funkcijos, teisės ir pareigos
+
+
+1. Ekspertų komisija atlieka šias funkcijas:
+
+
+1) teikia siūlymus žemės ūkio ministrui dėl:
+
+
+a) tautinio paveldo produktų, tradicinių amatų neformaliojo mokymo programų sertifikavimo ir tradicinių amatininkų pripažinimo tradicinių amatų meistrais reikalavimų, tradicinių amatų klasifikacijos, tautinio paveldo produktų atitikties Lietuvos etninei kultūrai vertinimo rodiklių ir tautinio paveldo produktų, būdingų Lietuvos etnografiniam regionui ar konkrečiai vietovei, specifikacijos;
+
+
+
+
+b) sėkmingiausiai dirbančio tradicinio amatininko ir tradicinių amatų centro apdovanojimų;
+
+
+
+
+
+
+2) dalyvauja tautinio paveldo produktų atitikties Lietuvos etninei kultūrai, tautinio paveldo produktų kūrėjų ir tradicinių amatų centrų veiklos patikrinimuose; 
+
+
+
+
+3) vadovaudamasi šio įstatymo 14–16 straipsnių nuostatomis ir žemės ūkio ministro tvirtinamu tautinio paveldo produktų ir tradicinių amatų neformaliojo mokymo programų sertifikavimo, tradicinių amatininkų pripažinimo tradicinių amatų meistrais aprašu, nagrinėja pateiktus prašymus sertifikuoti tautinio paveldo produktus, tradicinių amatų neformaliojo mokymo programas, pripažinti tradicinių amatų meistrais ir teikia siūlymus Agentūrai dėl tautinio paveldo produktų, tradicinių amatų neformaliojo mokymo programų sertifikavimo, tradicinių amatininkų pripažinimo tradicinių amatų meistrais, tautinio paveldo produktų ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato ir (arba) tradicinių amatų meistro pažymėjimo galiojimo panaikinimo; 
+
+
+
+
+4) teikia siūlymus Agentūrai dėl tradicinių amatų centrų pripažinimo arba sprendimo dėl pripažinimo tradicinių amatų centru galiojimo panaikinimo. 
+
+
+
+
+
+
+2. Ekspertų komisija, atlikdama jai pavestas funkcijas, turi teisę į Ekspertų komisijos posėdžius kviesti patariamojo balso teise dalyvauti suinteresuotų institucijų, įstaigų, organizacijų, mokslo institucijų atstovus, nepriklausomus ekspertus, kitus suinteresuotus visuomenės atstovus.
+
+
+
+
+3. Ekspertų komisijos nariai savo veikloje turi vadovautis teisingumo, sąžiningumo, skaidrumo, nešališkumo, konfidencialumo ir protingumo principais. 
  
-
-
 
 
 
@@ -506,179 +500,11 @@ Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
 
 
 IV SKYRIUS
-EKSPERTŲ KOMISIJA, TAUTINIO PAVELDO PRODUKTŲ IR TRADICINIŲ AMATŲ NEFORMALIOJO MOKYMO PROGRAMŲ SERTIFIKAVIMAS, TRADICINIŲ AMATŲ MEISTRŲ ATESTAVIMAS
+TAUTINIO PAVELDO PRODUKTŲ KLASIFIKAVIMAS IR KATEGORIJOS 
  
 
 
-11 straipsnis. Ekspertų komisija
-
-
-1. Ekspertų komisija sudaroma iš etninės kultūros ir kitų sričių, atsižvelgiant į tautinio paveldo produktų grupes ir sritis, ekspertų, turinčių ne mažiau kaip 5 metų patirties etninės kultūros ir (arba) tradicinių amatų, ir (arba) kitose, atsižvelgiant į tautinio paveldo produktų grupes ir sritis, srityse, taip pat iš valstybės institucijų, veikiančių kultūros, tautinio paveldo ir švietimo, ir kitose, atsižvelgiant į tautinio paveldo produktų grupes ir sritis, srityse, atstovų. Ekspertų komisijos sudėtį, pirmininką ir darbo tvarkos aprašą, suderintus su Tautinio paveldo produktų taryba, tvirtina žemės ūkio ministras. Ekspertų komisijos sudėtis kas 2 metai atnaujinama ne mažiau kaip trečdaliu. Tas pats asmuo ekspertų komisijos nariu gali būti skiriamas ne daugiau kaip du kartus iš eilės. Ekspertų komisijos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1752, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20732
- 
-
-
-
-
-2. Ekspertų komisija pagal Žemės ūkio ministerijos nustatytus tautinio paveldo produktų, tradicinių amatų meistrų, tradicinių amatų neformaliojo mokymo programų atitikties tradicijai kriterijus ir tautinio paveldo produktų atitikties Lietuvos etninei kultūrai vertinimo rodiklius nagrinėja pateiktus prašymus sertifikuoti tautinio paveldo produktus, tradicinių amatų neformaliojo mokymo programas, atestuoti tradicinių amatų meistrus ir teikia siūlymus žemės ūkio ministrui dėl tautinio paveldo produktų, tradicinių amatų neformaliojo mokymo programų sertifikavimo ir tradicinių amatų meistrų atestavimo.
-
-
-
-
-3. Ekspertų komisijos sprendimai gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
- 
-
-
-
-
-
-
-12 straipsnis. Tautinio paveldo produktų sertifikavimas
-
-
-1. Prašymus sertifikuoti tautinio paveldo produktus gali teikti fiziniai asmenys ir Lietuvos Respublikoje įsteigti juridiniai asmenys ar kita (kitos) organizacija (organizacijos) arba jų filialas (filialai). Sertifikuojami tik tie tradiciniai gaminiai, tradicinių veislių augalai, gyvūnai ar jų produktai, gamtos gėrybių produktai, taip pat tradicinės paslaugos, tradicinės mugės, kurie atitinka Žemės ūkio ministerijos nustatytus tautinio paveldo produktų, tradicinių amatų meistrų, tradicinių amatų neformaliojo mokymo programų atitikties tradicijai kriterijus ir tautinio paveldo produktų atitikties Lietuvos etninei kultūrai vertinimo rodiklius.
-
-
-
-
-2. Sprendimą dėl tautinio paveldo produktų sertifikavimo, remdamasis ekspertų komisijos teikimu, priima žemės ūkio ministras. Tautinio paveldo produkto sertifikavimas patvirtinamas dokumentu - tautinio paveldo produkto sertifikatu. Tautinio paveldo produkto sertifikate nurodoma, prie kokios pagal Tautinio paveldo produktų klasifikatorių produktų grupės, srities, rūšies, porūšio ir nustatytos kategorijos produktas priskiriamas. Tautinio paveldo produkto sertifikate turi būti tautinio paveldo produkto ženklas, kuris Žemės ūkio ministerijos nustatyta tvarka naudojamas ir pačiam produktui ženklinti. 
-
-
-
-
-3. Tautinio paveldo produktus sertifikavę fiziniai asmenys įgyja tradicinio amatininko statusą ir gali teikti prašymą atestuoti jį dėl tradicinių amatų meistro vardo suteikimo. Tautinio paveldo produktus sertifikavę Lietuvos Respublikoje įsteigti juridiniai asmenys ar kita organizacija arba jų filialas įgyja tautinio paveldo produktų kūrėjo statusą. 
- 
-
-
-
-
-
-
-13 straipsnis. Tradicinių amatų meistrų atestavimas
-
-
-1. Tradiciniam amatininkui suteikiamas tradicinių amatų meistro vardas, jeigu tradicinis amatininkas sugeba perduoti tradicinių amatų įgūdžius kitiems asmenims ir atitinka bent vieną iš šių reikalavimų:
-
-
-1) turi tautinio paveldo produktų gamybai ir (arba) tradicinėms paslaugoms teikti reikalingą kvalifikaciją ir verčiasi tradiciniu amatu ne mažiau kaip 3 metus nuo oficialios mokslo institucijos kvalifikacijos tradicinio amato srityje patvirtinimo dokumento išdavimo datos; 
-
-
-
-
-2) verčiasi tradiciniu amatu ne mažiau kaip 10 metų nuo pirmojo viešo savo tradicinių gaminių, tradicinės veislės augalų, gyvūnų ar jų produktų, gamtos gėrybių produktų ar tradicinės paslaugos pristatymo ir pateikia tai patvirtinimo medžiagą; 
-
-
-
-
-3) nuo Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo pagrindu suteikto meno kūrėjo statuso įgijimo verčiasi tradiciniu amatu ne mažiau kaip 5 metus.
-
-
-
-
-
-
-2. Sprendimą dėl tradicinių amatų meistro atestavimo ekspertų komisijos teikimu priima žemės ūkio ministras. Tradicinių amatų meistro atestavimas tvirtinamas dokumentu - tradicinių amatų meistro pažymėjimu. 
- 
-
-
-
-
-
-
-14 straipsnis. Tradicinių amatų neformaliojo mokymo programų sertifikavimas
-
-
-1. Prašymą sertifikuoti tradicinių amatų neformaliojo mokymo programą gali teikti atestuotas tradicinių amatų meistras. Tradicinių amatų neformaliojo mokymo programomis pripažįstamos programos, skirtos mokyti tradicinio amato, kuriuo užsiima tradicinių amatų meistras.
-
-
-
-
-2. Tradicinių amatų meistras, teikiantis prašymą sertifikuoti tradicinių amatų neformaliojo mokymo programą, turi atitikti šiuos reikalavimus:
-
-
-1) turėti Žemės ūkio ministerijos išduotą tradicinių amatų meistro pažymėjimą;
-
-
-
-
-2) turėti pedagogo kvalifikaciją arba būti išklausęs švietimo ir mokslo ministro nustatyta tvarka pedagoginių ir psichologinių žinių kursą – kai sertifikuojama vaikų neformaliojo mokymo programa;
-
-
-
-
-3) turėti pedagogo kvalifikaciją arba būti išklausęs švietimo ir mokslo ministro nustatyta tvarka pedagoginių ir psichologinių žinių kursą, arba turėti ne mažesnę kaip 3 metų tradicinio amato mokymo patirtį – kai sertifikuojama suaugusiųjų neformaliojo mokymo programa.
-
-
-
-
-
-
-3. Sprendimą dėl tradicinių amatų neformaliojo mokymo programos sertifikavimo, remdamasis ekspertų komisijos teikimu, priima žemės ūkio ministras. Tradicinių amatų neformaliojo mokymo programos sertifikavimas patvirtinamas dokumentu – tradicinių amatų neformaliojo mokymo programos sertifikatu.
-
-
-
-
-4. Sertifikuotą tradicinių amatų neformaliojo mokymo programą gali vykdyti tik atestuotas tradicinių amatų meistras, kuris turi sertifikuotą tradicinių amatų neformaliojo mokymo programą. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
- 
-
-
-
-
-15 straipsnis. Informacijos apie tautinio paveldo produktų sertifikatų, tradicinių amatų meistro pažymėjimų ir tradicinių amatų neformaliojo mokymo programų sertifikatų išdavimą skelbimas ir jų priežiūros vykdymas
-
-
-1. Informacija apie tautinio paveldo produkto sertifikato ir (arba) tradicinių amatų meistro pažymėjimo, ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato išdavimą skelbiama Žemės ūkio ministerijos interneto svetainėje ne vėliau kaip per 3 darbo dienas nuo žemės ūkio ministro įsakymo įsigaliojimo dienos. 
-
-
-
-
-2. Iki 2025 m. gruodžio 31 d. Agentūra kartu su ekspertų komisijos nariais atlieka tautinio paveldo produktų, tradicinių amatų meistrų ir tradicinių amatų neformaliojo mokymo programų atitikties nustatytiems kriterijams ir rodikliams priežiūrą. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
- 
-
-
-
-
-16 straipsnis. Atsisakymo sertifikuoti ir atestuoti atvejai
-
-
-Žemės ūkio ministerija atsisako sertifikuoti tautinio paveldo produktus, tradicinių amatų neformaliojo mokymo programas ir atestuoti tradicinių amatų meistrus, jeigu: 
-
-
-1) pateikiami ne visi reikiami dokumentai ir fizinis asmuo ar Lietuvos Respublikoje įsteigtas juridinis asmuo ar kita organizacija arba jų filialas neįvykdo Žemės ūkio ministerijos reikalavimo pateikti trūkstamus dokumentus;
-
-
-
-
-2) pateikiami nevisiškai arba netaisyklingai užpildyti dokumentai ir fizinis asmuo ar Lietuvos Respublikoje įsteigtas juridinis asmuo ar kita organizacija arba jų filialas neįvykdo Žemės ūkio ministerijos reikalavimo ištaisyti šiuos trūkumus;
-
-
-
-
-3) pateikti dokumentai neatitinka jiems keliamų reikalavimų arba pateikti neteisingi duomenys ir fizinis asmuo ar Lietuvos Respublikoje įsteigtas juridinis asmuo ar kita organizacija arba jų filialas neįvykdo Žemės ūkio ministerijos reikalavimo ištaisyti šiuos trūkumus;
-
-
-
-
-4) pateikiami visi reikiami dokumentai, kurie atitinka jiems keliamus reikalavimus, tačiau pateikti sertifikuoti tautinio paveldo produktai ir (arba) tradicinių amatų meistras, ir (arba) tradicinių amatų neformaliojo mokymo programa neatitinka šio įstatymo nuostatų ir Žemės ūkio ministerijos nustatytų tautinio paveldo produktų, tradicinių amatų meistrų, tradicinių amatų neformaliojo mokymo programų atitikties tradicijai kriterijų, tautinio paveldo produktų atitikties Lietuvos etninei kultūrai vertinimo rodiklių ir tautinio paveldo produktų, būdingų konkrečiai vietovei ar etnografiniam regionui, atitikties specifikacijų.
- 
-
-
-
-
-
-
-
-
-17 straipsnis. Tautinio paveldo produktų klasifikavimo principai
+11 straipsnis. Tautinio paveldo produktų klasifikavimas
 
 
 1. Tautinio paveldo produktai skirstomi į šias pagrindines grupes:
@@ -701,7 +527,7 @@ Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
 
 
 
-2. Žemės ūkio ministerija, sudarydama Tautinio paveldo produktų klasifikatorių, tautinio paveldo produktus klasifikuoja į atskiras produktų sritis, rūšis, porūšius pagal tam tikrus produktų požymius.
+2. Tautinio paveldo produktai žemės ūkio ministro nustatyta tvarka klasifikuojami pagal atskirus tradicinius amatus, tautinio paveldo produktų sritis, rūšis, porūšius, atsižvelgiant į tam tikrus produktų požymius.
  
 
 
@@ -709,44 +535,48 @@ Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
 
 
 
-18 straipsnis. Tautinio paveldo produktų kategorijos
+12 straipsnis. Tautinio paveldo produktų kategorijos
 
 
-Tautinio paveldo produktai pagal darbo sąnaudas ir pagal tai, kiek jie atitinka autentiškus tautinio paveldo produktų pavyzdžius, priskiriami prie šių kategorijų:
-
-
-1) prie A kategorijos priskiriami I ir II grupių produktai, tiksliai atitinkantys autentiškus tautinio paveldo produktus, kurių sukūrimo procese yra naudojama daugiau kaip pusė rankų darbo. Prie šios kategorijos taip pat priskiriami III grupės produktai – tradicinės paslaugos, kurių teikėjai yra tiesioginiai gyvosios tradicijos tęsėjai, atkuriantys autentiškus tautinio paveldo produktų pavyzdžius;
+1. Tautinio paveldo produktai pagal darbo sąnaudas ir pagal tai, kiek jie atitinka autentiškus tradicinius gaminius, priskiriami prie A arba B kategorijos tautinio paveldo produktų.
 
 
 
 
-2) prie B kategorijos priskiriami I ir II grupių produktai, artimi autentiškiems tautinio paveldo produktų pavyzdžiams ir sukurti naudojantis naujomis technologijomis. Prie šios kategorijos taip pat priskiriami III grupės produktai – tradicinės paslaugos, kurių teikėjai nėra tiesioginiai gyvosios tradicijos tęsėjai, tačiau sugeba sukurti artimus autentiškiems tautinio paveldo produktams pavyzdžius.
- 
+2. Prie A kategorijos tautinio paveldo produktų priskiriami:
+
+
+1) tradiciniai gaminiai, kurie visiškai atitinka autentiškus tradicinius gaminius ir kuriuos kuriant yra naudojamos tradicinės žaliavos, rankų darbas ir (arba) senosios (arba tiksliai atkurtos) gamybos technologijos;
+
+
+
+
+2) visiškai atitinkantys tradicinių veislių ypatybes ir išvesti ar išauginti pagal tradicines auginimo technologijas tradicinių veislių augalai ir gyvūnai ar jų produktai, gamtos gėrybių produktai, gauti ir (arba) pagaminti naudojant tradicinį jų rinkimo, paruošimo, saugojimo ir pateikimo būdą;
+
+
+
+
+3) tradicinės paslaugos, kurių teikėjai iš kartos į kartą tęsia etninės kultūros gyvąją tradiciją, tradiciniu būdu teikia paslaugas, naudodami tradicines žaliavas, rankų darbą ir (arba) senąsias gamybos technologijas, ar atkuria autentiškus tradicinius gaminius;
+
+
+
+
+4) tradicinės mugės.
 
 
 
 
 
 
+3. Prie B kategorijos tautinio paveldo produktų priskiriami:
 
 
-19 straipsnis. Tradicinių amatų sąvadas 
-
-
-Tradicinių amatų sąvadas sudaromas grupuojant amatus pagal atitinkamas tautinio paveldo produktų grupes: 
-
-
-1) I grupė – tradicinių gaminių gamyba;
+1) tradiciniai gaminiai, artimi autentiškiems tradiciniams gaminiams ir sukurti naudojant tradicines žaliavas ir naujas technologijas, kurios nepakeičia gaminio gamybos būdo, receptūros ir unikalių savybių;
 
 
 
 
-2) II grupė – tradicinių veislių augalų, gyvūnų veisimas ir auginimas, jų produktų gavyba, gamtos gėrybių rinkimas ir perdirbimas; 
-
-
-
-
-3) III grupė – tradicinių paslaugų teikimas, tradicinių mugių organizavimas.
+2) tradicinės paslaugos, kurių teikėjai teikia paslaugas, naudodami tradicines žaliavas ir naujas gamybos technologijas, arba kuria, gamina artimus autentiškiems tradicinius gaminius.
  
 
 
@@ -759,26 +589,49 @@ Tradicinių amatų sąvadas sudaromas grupuojant amatus pagal atitinkamas tautin
 
 
 V SKYRIUS
-TRADICINIŲ AMATŲ MOKYMAS, TRADICINIŲ AMATŲ CENTRAI
+TAUTINIO PAVELDO PRODUKTŲ IR TRADICINIŲ AMATŲ NEFORMALIOJO MOKYMO PROGRAMŲ SERTIFIKAVIMAS, TRADICINIŲ AMATININKŲ PRIPAŽINIMAS TRADICINIŲ AMATŲ MEISTRAIS 
  
 
 
-20 straipsnis. Tradicinių amatų mokymas 
+13 straipsnis. Prašymų sertifikuoti tautinio paveldo produktus, tradicinių amatų neformaliojo mokymo programas ir (arba) pripažinti tradicinių amatų meistru teikimas 
 
 
-1. Tradicinių amatų mokymas priskiriamas prie neformaliojo švietimo ir vykdomas pagal Žemės ūkio ministerijos sertifikuotas tradicinių amatų neformaliojo mokymo programas. 
-
-
-
-
-2. Tradicinių amatų gali mokyti tradicinių amatų meistras. 
+1. Prašymą sertifikuoti tautinio paveldo produktus gali teikti Lietuvos Respublikoje gyvenantis fizinis asmuo ir juridinis asmuo ar jo padalinys.
 
 
 
 
-3. Neteko galios nuo 2018-10-01
-Straipsnio dalies naikinimas:
-Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
+2. Prašymą pripažinti tradicinių amatų meistru gali teikti fizinis asmuo – tradicinis amatininkas, atitinkantis šio įstatymo 15 straipsnio nuostatas.
+
+
+
+
+3. Prašymą sertifikuoti tradicinių amatų neformaliojo mokymo programą gali teikti fizinis asmuo – tradicinių amatų meistras, atitinkantis šio įstatymo 16 straipsnio 1 dalies nuostatas.
+
+
+
+
+4. Juridiniam asmeniui ar jo padaliniui, teikiančiam prašymą sertifikuoti tautinio paveldo produktą (išskyrus tradicinę mugę, tradicinės veislės augalą ar gyvūną), taikomi šie reikalavimai:
+
+
+1) juridinio asmens ar jo padalinio dalyvis arba darbuotojas yra tradicinis amatininkas ir turi atitinkamą tautinio paveldo produkto sertifikatą, o juridinis asmuo ar jo padalinys užtikrina tradicijos tęstinumą, tautinio paveldo produktų gamybos procesą, atskirtą nuo kitų produktų masinės gamybos, ir atskirą tautinio paveldo produktų gamybos ir realizavimo apskaitą;
+
+
+
+
+2) juridinio asmens ar jo padalinio – maitinimo paslaugas teikiančio subjekto, kuris teikia prašymą sertifikuoti tautinio paveldo produktus, pavadinimas yra lietuviškas arba būdingas Lietuvoje gyvenančių kitų tautų etninei kultūrai, o sertifikuojami tradiciniai gaminiai patiekiami tradiciniuose arba artimuose tradiciniams induose.
+
+
+
+
+
+
+5. Prašymai sertifikuoti tautinio paveldo produktus, tradicinių amatų neformaliojo mokymo programas ir (arba) pripažinti tradicinių amatų meistru teikiami Agentūrai žemės ūkio ministro nustatyta tvarka.
+
+
+
+
+6. Asmuo, kurio tautinio paveldo produkto sertifikato galiojimas ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato galiojimas, ir (arba) tradicinių amatų meistro pažymėjimo galiojimas buvo panaikintas pagal šio įstatymo 24 straipsnio 2 dalį, vėl gali teikti prašymą sertifikuoti tą patį tautinio paveldo produktą ir (ar) tą pačią tradicinių amatų neformaliojo mokymo programą ir (arba) gauti to paties amato tradicinių amatų meistro pažymėjimą ne anksčiau kaip praėjus vieniems metams nuo tokio sprendimo priėmimo dienos.
  
 
 
@@ -786,41 +639,328 @@ Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
 
 
 
-21 straipsnis. Tradicinių amatų centrai
+14 straipsnis. Tautinio paveldo produktų sertifikavimas ir ženklinimas
 
 
-1. Tradicinių amatų centro paskirtis – teikti tautinio paveldo produktų kūrėjams viešąsias paslaugas, atstovauti atitinkamo regiono amatininkų interesams. 
-
-
-
-
-2. Tradicinių amatų centrai atlieka šias funkcijas:
-
-
-1) sudaro sąlygas gaminti, pristatyti, realizuoti tautinio paveldo produktus ir plėtoti tradicinius amatus;
+1. Kaip tautinio paveldo produktai gali būti sertifikuojami prie I grupės priskirti tradiciniai gaminiai, prie II grupės priskirti tradicinių veislių augalai, gyvūnai ar jų produktai, gamtos gėrybių produktai, taip pat prie III grupės priskirtos tradicinės paslaugos, tradicinės mugės, atitinkančios šio straipsnio 2–7 dalyse nustatytus reikalavimus ir žemės ūkio ministro tvirtinamą tautinio paveldo produktų, būdingų Lietuvos etnografiniam regionui ar konkrečiai vietovei, specifikaciją. 
 
 
 
 
-2) populiarina tradicinius amatus, užtikrina tautinio paveldo produktų gamybos technologijų perimamumą;
+2. Kaip tautinio paveldo produktai sertifikuojami tradiciniai gaminiai, jeigu jie atitinka:
+
+
+1) šiuos istoriškumo kriterijus:
+
+
+a) tradiciniai gaminiai gaminami ir (arba) tradicinis amatas perduodamas iš kartos į kartą;
 
 
 
 
-3) vykdo tradicinių amatų ir kitus mokymus, organizuoja paskaitas, konferencijas, rengia ekspozicijas, parodas, vykdo edukacinius užsiėmimus; 
+b) tradiciniai gaminiai buvo gaminami ir (arba) tradiciniu amatu buvo verčiamasi iki 1925 m. gruodžio 31 d.;
 
 
 
 
-4) teikia tautinio paveldo produktų kūrėjų konsultavimo, tradicinių amatų demonstravimo ir kitas tradicines paslaugas;
+
+
+2) vieną iš šių kilmės (paplitimo) reikalavimų:
+
+
+a) tradiciniai gaminiai gaminami ir (arba) tradiciniu amatu verčiamasi visoje Lietuvoje ar Lietuvos etnografiniame regione (-uose);
 
 
 
 
-5) kaupia ir skelbia informaciją apie atitinkamo regiono sertifikuotus tautinio paveldo produktų kūrėjus ir tautinio paveldo produktus.
+b) tradiciniai gaminiai gaminami ir (arba) tradiciniu amatu verčiamasi konkrečioje vietovėje ir yra tai patvirtinanti istorinė archyvinė medžiaga;
+
+
+
+
+
+
+3) vieną iš šių gamybos ar organizavimo būdo reikalavimų:
+
+
+a) tradiciniai gaminiai pagaminti naudojant rankų darbą ir (arba) senąsias gamybos technologijas ir tradicines žaliavas;
+
+
+
+
+b) tradiciniai gaminiai pagaminti naudojant naujas gamybos technologijas, kurios nepakeičia gaminio gamybos būdo, receptūros ir unikalių savybių, ir tradicines žaliavas.
+
+
+
+
+
+
+
+
+3. Kaip tautinio paveldo produktai sertifikuojami tradicinių veislių augalai. Tradicinėmis augalų veislėmis pripažįstamos veislės, pradėtos auginti iki 1925 m. gruodžio 31 d. ir augintos ne mažiau kaip 50 metų. 
+
+
+
+
+4. Kaip tautinio paveldo produktai sertifikuojami tradicinių veislių gyvūnai. Tradicinėmis gyvūnų veislėmis pripažįstamos veislės, kurios yra saugotinos pagal žemės ūkio ministro tvirtinamą Lietuvos ūkinių gyvūnų genetinių išteklių išsaugojimo programą ir kurių visų organizmo paveldėtų faktorių visuma susiformavo dėl selekcijos, aplinkos, laiko sąveikos ir išlaikė veislės susiformavimo pradžioje turėtą genotipą.
+
+
+
+
+5. Kaip tautinio paveldo produktai sertifikuojami tradicinių veislių augalų, gyvūnų produktai ir gamtos gėrybių produktai, jeigu jie atitinka šiuos reikalavimus:
+
+
+1) jie gauti ir (arba) pagaminti pagal šio straipsnio 2 dalies 3 punkto reikalavimus;
+
+
+
+
+2) jie gauti ir (arba) pagaminti naudojant tradicinį rinkimo, ruošimo, saugojimo ir pateikimo būdą.
+
+
+
+
+
+
+6. Kaip tautinio paveldo produktai sertifikuojamos tradicinės paslaugos, jeigu jos atitinka šiuos istoriškumo reikalavimus:
+
+
+1) tradicinė paslauga teikiama iš kartos į kartą;
+
+
+
+
+2) tradicinė paslauga buvo teikiama iki 1925 m. gruodžio 31 d.;
+
+
+
+
+3) tradicinė paslauga yra žinoma kaip etninės kultūros gyvoji tradicija.
+
+
+
+
+
+
+7. Kaip tautinio paveldo produktai sertifikuojamos tradicinės mugės, jeigu jos atitinka šiuos reikalavimus:
+
+
+1) tradicinė mugė vyko iki 1940 m. gruodžio 31 d., ir tai patvirtinama renginio dokumentine medžiaga ar atitiktį tradicijai patvirtinančiais archyviniais įrašais;
+
+
+
+
+2) daugiau kaip pusė tradicinėje mugėje parduodamų gaminių ir teikiamų paslaugų yra tautinio paveldo produktai;
+
+
+
+
+3) tradicinės mugės pagrindinis tikslas – tautinio paveldo produktų realizavimas ir tradicinių amatų demonstravimas.
+
+
+
+
+
+
+8. Sertifikuojamas tradicinio amatininko tautinio paveldo produktas gali būti priskiriamas prie A arba B kategorijos tautinio paveldo produktų vadovaujantis šio įstatymo 12 straipsnio nuostatomis.
+
+
+
+
+9. Sertifikuojamas juridinio asmens ar jo padalinio tautinio paveldo produktas, išskyrus tradicinę mugę, tradicinės veislės augalą ar gyvūną, priskiriamas prie B kategorijos tautinio paveldo produktų, nepriklausomai nuo to, kokios kategorijos tautinio paveldo produkto sertifikatas išduotas tradiciniam amatininkui – juridinio asmens ar jo padalinio dalyviui, vadovui arba darbuotojui. 
+
+
+
+
+10. Sertifikuojant juridinio asmens ar jo padalinio tradicinę mugę, tradicinės veislės augalą ar gyvūną, šio straipsnio 9 dalies nuostata netaikoma ir tradicinė mugė, tradicinės veislės augalas, gyvūnas priskiriami prie A kategorijos tautinio paveldo produktų.
+
+
+
+
+11. Tautinio paveldo produktai privalo būti ženklinami žemės ūkio ministro nustatyta tvarka.
  
 
 
+
+
+
+
+15 straipsnis. Pripažinimas tradicinių amatų meistru 
+
+
+1. Tradicinių amatų meistru gali būti pripažintas tradicinis amatininkas, turintis to paties amato tautinio paveldo produkto sertifikatą ir atitinkantis bent vieną iš šių reikalavimų: 
+
+
+1) jis turi kvalifikaciją, susijusią su tradicinio amato veikla, kuria numato verstis, ir šią kvalifikaciją patvirtinantį dokumentą bei verčiasi tradiciniu amatu ne trumpiau kaip 3 metus nuo oficialios mokslo institucijos kvalifikacijos patvirtinimo dokumento išdavimo dienos;
+
+
+
+
+2) jis verčiasi tradiciniu amatu ne trumpiau kaip 10 metų nuo pirmojo viešo savo tradicinių gaminių, tradicinės veislės augalų, gyvūnų ar jų produktų, gamtos gėrybių produktų ar tradicinės paslaugos pristatymo ir pateikia tai patvirtinančią medžiagą;
+
+
+
+
+3) jis verčiasi tradiciniu amatu ne trumpiau kaip 5 metus nuo Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo pagrindu jam suteikto meno kūrėjo statuso įgijimo.
+
+
+
+
+
+
+2. Tradicinių amatų meistrui suteikiama A arba B kategorija, atitinkanti jo sertifikuoto tautinio paveldo produkto kategoriją.
+ 
+
+
+
+
+
+
+16 straipsnis. Tradicinių amatų neformaliojo mokymo programų sertifikavimas
+
+
+1. Prašymą sertifikuoti tradicinių amatų neformaliojo mokymo programą gali teikti tradicinių amatų meistras, kuris turi pedagogo kvalifikaciją arba yra išklausęs švietimo, mokslo ir sporto ministro nustatyta tvarka pedagoginių ir psichologinių žinių kursą ir turi ne mažesnę kaip 3 metų tradicinio amato mokymo patirtį. 
+
+
+
+
+2. Tradicinių amatų neformaliojo mokymo programomis pripažįstamos programos, skirtos mokyti tradicinio amato, kuriuo užsiima tradicinių amatų meistras, ir parengtos pagal žemės ūkio ministro patvirtintą tradicinio amato neformaliojo mokymo programos formą.
+
+
+
+
+3. Sertifikuotai tradicinių amatų neformaliojo mokymo programai suteikiama kategorija, atitinkanti tradicinių amatų meistro sertifikuoto tautinio paveldo produkto kategoriją. 
+
+
+
+
+4. Mokymus pagal sertifikuotą tradicinių amatų neformaliojo mokymo programą gali vykdyti tik tradicinių amatų meistras, kuris turi tradicinių amatų neformaliojo mokymo programos sertifikatą.
+ 
+
+
+
+
+
+
+17 straipsnis. Tautinio paveldo produkto, tradicinių amatų neformaliojo mokymo programos sertifikato, tradicinių amatų meistro pažymėjimo išdavimas
+
+
+1. Tautinio paveldo produkto sertifikatas, tradicinių amatų neformaliojo mokymo programos sertifikatas, tradicinių amatų meistro pažymėjimas išduodamas ne vėliau kaip per 60 darbo dienų nuo visų tinkamai įformintų dokumentų, kurių reikia sprendimui priimti, gavimo Agentūroje dienos.
+
+
+
+
+2. Tautinio paveldo produkto sertifikatas, tradicinių amatų neformaliojo mokymo programos sertifikatas, tradicinių amatų meistro pažymėjimas išduodamas per LIS. 
+
+
+
+
+3. LIS skelbiama:
+
+
+1) tautinio paveldo produkto (-ų) sertifikatas: sertifikato numeris, tautinio paveldo produkto (-ų) kategorija, pavadinimas (-ai), grupė ir kodas pagal tradicinių amatų klasifikaciją, tautinio paveldo produkto (-ų) kūrėjo vardas ir pavardė ar juridinio asmens ar jo padalinio pavadinimas;
+
+
+
+
+2) tradicinių amatų neformaliojo mokymo programos (-ų) sertifikatas: sertifikato numeris, tautinio paveldo produkto kategorija, tradicinių amatų neformaliojo mokymo programos (-ų) pavadinimas (-ai), tradicinių amatų meistro vardas ir pavardė;
+
+
+
+
+3) tradicinio amatų meistro pažymėjimas: pažymėjimo numeris, tautinio paveldo produkto kategorija, tradicinio amato pavadinimas, tradicinių amatų meistro vardas ir pavardė.
+ 
+
+
+
+
+
+
+
+
+18 straipsnis. Tautinio paveldo produktų ir tradicinių amatų neformaliojo mokymo programų nesertifikavimo ir tradicinių amatininkų nepripažinimo tradicinių amatų meistrais atvejai
+
+
+Ekspertų komisija teikia siūlymą Agentūros direktoriui:
+
+
+1) nesertifikuoti tautinio paveldo produktų, jeigu sertifikuoti pateikti gaminių ir (arba) augalų, gyvūnų ar jų produktų, gamtos gėrybių produktų, paslaugų, mugių aprašymai neatitinka šio įstatymo 14 straipsnio 1–7 dalių nuostatų;
+
+
+
+
+2) nepripažinti tradicinio amatininko tradicinių amatų meistru, jeigu jis neatitinka šio įstatymo 15 straipsnio 1 dalies nuostatų;
+
+
+
+
+3) nesertifikuoti tradicinių amatų neformaliojo mokymo programos, jeigu tradicinis amatininkas neatitinka šio įstatymo 16 straipsnio 1 dalies nuostatų. 
+ 
+
+
+
+
+
+
+
+
+19 straipsnis. Tautinio paveldo produkto sertifikato, tradicinių amatų neformaliojo mokymo programos sertifikato ir tradicinių amatų meistro pažymėjimo galiojimo panaikinimas
+
+
+Tautinio paveldo produkto sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato ir (arba) tradicinių amatų meistro pažymėjimo galiojimas panaikinamas žemės ūkio ministro nustatyta tvarka šiais atvejais:
+
+
+1) tradiciniam amatininkui mirus;
+
+
+
+
+2) likvidavus juridinį asmenį arba jo padalinį – tautinio paveldo produkto kūrėją;
+
+
+
+
+3) pasikeitus juridinio asmens ar jo padalinio dalyviui arba darbuotojui – tradiciniam amatininkui, turinčiam tautinio paveldo produkto sertifikatą, kurio pagrindu buvo sertifikuotas juridinio asmens ar jo padalinio tautinio paveldo produktas, arba jam nutraukus darbo ar civilinių paslaugų sutartį;
+
+
+
+
+4) tautinio paveldo produkto kūrėjo prašymu;
+
+
+
+
+5) šio įstatymo 24 straipsnio 2 dalyje nurodytu atveju.
+ 
+ 
+
+
+
+
+
+
+
+
+20 straipsnis. Sprendimų dėl tautinio paveldo produktų ir tradicinių amatų neformaliojo mokymo programų sertifikavimo, tradicinių amatininkų pripažinimo tradicinių amatų meistrais, tautinio paveldo produkto sertifikato, tradicinių amatų neformaliojo mokymo programos sertifikato ir tradicinių amatų meistro pažymėjimo galiojimo panaikinimo priėmimas 
+
+
+1. Agentūra, remdamasi Ekspertų komisijos siūlymu, priima sprendimą dėl:
+
+
+1) tautinio paveldo produktų ir (arba)  tradicinių amatų neformaliojo mokymo programų sertifikavimo, tradicinių amatininkų pripažinimo tradicinių amatų meistrais;
+
+
+
+
+2) tautinio paveldo produkto sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato ir (arba) tradicinių amatų meistro pažymėjimo galiojimo panaikinimo.
+
+
+
+
+
+
+2. Agentūros sprendimas įforminamas Agentūros direktoriaus įsakymu.
+ 
 
 
 
@@ -830,29 +970,110 @@ Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
 
 
 VI SKYRIUS
-VALSTYBĖS PARAMA TAUTINIO PAVELDO PRODUKTAMS SAUGOTI, KURTI, REALIZUOTI IR POPULIARINTI
+TRADICINIŲ AMATŲ CENTRAI
  
 
 
-22 straipsnis. Valstybės parama tautinio paveldo produktams saugoti, kurti, realizuoti ir populiarinti
+21 straipsnis. Tradicinių amatų centrų veikla
 
 
-1. Vadovaujantis Europos Sąjungos ir kitais teisės aktais, tautinio paveldo produktams saugoti, kurti, realizuoti ir populiarinti tautinio paveldo produktų kūrėjams gali būti taikomos šios valstybės paramos formos:
-
-
-1) teisės aktų nustatyta tvarka finansinė parama;
+1. Tradicinių amatų centro paskirtis – atstovauti Lietuvos etnografinio (-ių) regiono (-ų), kuriame (-iuose) jis įsteigtas, tautinio paveldo produktų kūrėjų interesams, puoselėti etnografinio (-ių) regiono (-ų) tradicinius amatus, teikti tradiciniams amatininkams tautinio paveldo produktų populiarinimo paslaugas. 
 
 
 
 
-2) Vyriausybės ar savivaldybių administracijų nustatytos kitos paramos formos.
+2. Tradicinių amatų centras turi aiškiai pagal administracinius vienetus, nustatytus Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, apibrėžtą veiklos teritoriją, kuri nepersidengia su kitų tradicinių amatų centrų veiklos teritorija.
+
+
+
+
+3. Tradicinių amatų centras nustato savo veiklos teritorijos, apibrėžtos pagal šio straipsnio 2 dalį, etnografinį (-ius) regioną (-us) pagal Etninės kultūros globos tarybos patvirtintą Lietuvos etnografinių regionų žemėlapį ir tai nurodo veiklos dokumentuose. 
+
+
+
+
+4. Tradicinių amatų centrų pareigos:
+
+
+1) puoselėti ir populiarinti etnografiniam regionui būdingus tradicinius amatus, užtikrinti tautinio paveldo produktų gamybos technologijų perimamumą;
+
+
+
+
+2) vykdyti tradicinių amatų mokymus ir edukacinius užsiėmimus, organizuoti paskaitas, konferencijas, rengti ekspozicijas, parodas; 
+
+
+
+
+3) konsultuoti tautinio paveldo produktų kūrėjus;
+
+
+
+
+4) kaupti ir skelbti informaciją apie tradicinių amatų centro veiklos teritorijoje dirbančius tautinio paveldo produktų kūrėjus (vardą, pavardę, juridinio asmens ar jo padalinio pavadinimą ir kontaktinę informaciją ir tautinio paveldo produktus);
+
+
+
+
+5) sudaryti sąlygas tradiciniams amatininkams kurti, gaminti, realizuoti, populiarinti tautinio paveldo produktus ir demonstruoti tradicinius amatus;
+
+
+
+
+6) rūpintis tradicinių amatininkų kvalifikacijos kėlimu.
+ 
 
 
 
 
 
 
-2. Tautinio paveldo produktų saugojimas, kūrimas, realizavimas ir populiarinimas, tradicinių amatų mokymas gali būti remiamas iš Lietuvos Respublikos valstybės biudžeto, Europos Sąjungos fondų ir kitų lėšų įstatymų ir kitų teisės aktų nustatyta tvarka, pirmenybę teikiant A kategorijos tautinio paveldo produktams. 
+
+
+22 straipsnis. Pripažinimas tradicinių amatų centru ir sprendimo dėl pripažinimo tradicinių amatų centru galiojimo panaikinimas 
+
+
+1. Juridinį asmenį ar jo padalinį tradicinių amatų centru pripažįsta Agentūra žemės ūkio ministro nustatyta tvarka. 
+
+
+
+
+2. Juridinis asmuo ar jo padalinys pripažįstamas tradicinių amatų centru, jeigu jis veikia aiškiai apibrėžtoje veiklos teritorijoje, kaip tai numatyta šio įstatymo 21 straipsnio 2 ir 3 dalyse, ir: 
+
+
+1) vykdo visas šio įstatymo 21 straipsnio 4 dalyje nurodytas pareigas;
+
+
+
+
+2) vienija ne mažiau kaip 5 tautinio paveldo produktų kūrėjus, turinčius A kategorijos tautinio paveldo produkto sertifikatus.
+
+
+
+
+
+
+3. Sprendimo dėl juridinio asmens ar jo padalinio pripažinimo tradicinių amatų centru galiojimas panaikinamas:
+
+
+1) gavus tradicinių amatų centro prašymą;
+
+
+
+
+2) gavus informaciją, kad juridinis asmuo ar jo padalinys – tradicinių amatų centras – likviduojamas arba jo veikla sustabdoma;
+
+
+
+
+3) šio įstatymo 24 straipsnio 4 dalyje nurodytu atveju. 
+
+
+
+
+
+
+4. Jeigu panaikinamas sprendimo dėl juridinio asmens arba jo padalinio pripažinimo tradicinių amatų centru galiojimas, šis juridinis asmuo arba jo padalinys pakartotinai gali kreiptis dėl pripažinimo tradicinių amatų centru ne anksčiau kaip praėjus vieniems metams nuo šio sprendimo galiojimo panaikinimo dienos.
  
 
 
@@ -863,35 +1084,29 @@ VALSTYBĖS PARAMA TAUTINIO PAVELDO PRODUKTAMS SAUGOTI, KURTI, REALIZUOTI IR POPU
 
 
 VII SKYRIUS
-ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS
+PARAMA TAUTINIO PAVELDO PRODUKTŲ KŪRĖJAMS
  
 
 
-23 straipsnis. Atsakomybė už šio įstatymo pažeidimus
+23 straipsnis. Parama tautinio paveldo produktų kūrėjams 
 
 
-Asmenims, nesilaikantiems šio įstatymo 7 straipsnio 1 dalies 5, 6, 9 punktuose nurodytų teisės aktų nuostatų, taikomos šios sankcijos:
+1. Tautinio paveldo produktų kūrėjams gali būti teikiama šių formų parama:
 
 
-1) tautinio paveldo produkto sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo galiojimo sustabdymas iki 3 mėnesių, kai buvo nustatyti pažeidimai ir apie tai tautinio paveldo produktų kūrėjas ar tradicinių amatų meistras buvo įspėtas rašytiniu nurodymu pašalinti pažeidimus per nustatytą protingą terminą, tačiau per nustatytą protingą terminą pažeidimai nebuvo pašalinti; 
+1) žemės ūkio ministro tvirtinamuose teisės aktuose nustatyta finansinė parama;
 
 
 
 
-2) tautinio paveldo produkto sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo galiojimo panaikinimas, kai, sustabdžius tautinio paveldo produkto sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo galiojimą, tautinio paveldo produktų kūrėjas ar tradicinis amatų meistras buvo įspėtas rašytiniu nurodymu pašalinti pažeidimus per nustatytą protingą terminą ir apie ketinimą panaikinti tautinio paveldo produkto sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo galiojimą, tačiau trūkumai per nustatytą protingą terminą nepašalinami. 
- 
-
-
+2) Vyriausybės ar savivaldybių tarybų nustatyta finansinė arba nefinansinė parama.
 
 
 
 
 
 
-24 straipsnis. Tautinio paveldo produkto sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo galiojimo panaikinimas
-
-
-Fiziniam asmeniui mirus ar likvidavus Lietuvos Respublikoje įsteigtą juridinį asmenį ar kitą organizaciją arba jų filialą, tautinio paveldo produkto sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo galiojimas panaikinamas.
+2. Europos Sąjungos investicinių fondų ir Lietuvos Respublikos valstybės biudžeto lėšomis finansuojamos priemonės, pirmenybę teikiant A kategorijos tautinio paveldo produktų kūrėjams.
  
 
 
@@ -899,33 +1114,43 @@ Fiziniam asmeniui mirus ar likvidavus Lietuvos Respublikoje įsteigtą juridinį
 
 
 
-25 straipsnis. Sprendimų dėl tautinio paveldo produktų sertifikatų ir (arba) tradicinių amatų neformaliojo mokymo programų sertifikatų, ir (arba) tradicinių amatų meistro pažymėjimų galiojimo sustabdymo ar galiojimo sustabdymo panaikinimo, galiojimo panaikinimo priėmimo ir paskelbimo tvarka
 
 
-1. Sprendimą dėl tautinio paveldo produkto sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo galiojimo sustabdymo ar galiojimo sustabdymo panaikinimo ekspertų komisijos teikimu priima žemės ūkio ministras. Žemės ūkio ministerija informuoja tautinio paveldo produktų kūrėją ar tradicinių amatų meistrą apie priimtą šioje dalyje numatytą sprendimą ne vėliau kaip per 5 darbo dienas nuo žemės ūkio ministro įsakymo įsigaliojimo dienos. Informacija apie tautinio paveldo produkto sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo galiojimo sustabdymą ar galiojimo sustabdymo panaikinimą ne vėliau kaip per 3 darbo dienas nuo žemės ūkio ministro įsakymo įsigaliojimo dienos paskelbiama Žemės ūkio ministerijos interneto svetainėje.
+VIII SKYRIUS
+ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
+ 
+
+
+24 straipsnis. Atsakomybė už šio įstatymo pažeidimus ir pasekmės
+
+
+1. Neteisingos informacijos apie prekę pateikimas ženklinant tautinio paveldo produktus fiziniams asmenims, juridinių asmenų darbuotojams, juridinių asmenų vadovams ar kitiems atsakingiems asmenims užtraukia atsakomybę Lietuvos Respublikos administracinių nusižengimų kodekse nustatyta tvarka. 
 
 
 
 
-2. Sprendimą dėl tautinio paveldo produktų sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo galiojimo panaikinimo ekspertų komisijos teikimu priima žemės ūkio ministras. Žemės ūkio ministerija informuoja tautinio paveldo produktų kūrėją ar tradicinių amatų meistrą apie priimtą šioje dalyje numatytą sprendimą ne vėliau kaip per 5 darbo dienas nuo žemės ūkio ministro įsakymo įsigaliojimo dienos. Priėmus šioje dalyje numatytą sprendimą, tautinio paveldo produktų kūrėjas ar tradicinių amatų meistras neturi teisės kreiptis dėl tautinio paveldo produkto sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo gavimo vienus metus nuo žemės ūkio ministro įsakymo įsigaliojimo dienos. Informacija apie tautinio paveldo produkto sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo galiojimo panaikinimą ne vėliau kaip per 3 darbo dienas nuo žemės ūkio ministro įsakymo įsigaliojimo dienos paskelbiama Žemės ūkio ministerijos interneto svetainėje. 
+2. Jeigu fiziniai ir juridiniai asmenys ženklina tautinio paveldo produkto ženklu gaminius, augalus, gyvūnus ar jų produktus, gamtos gėrybių produktus, paslaugas ar muges, kurie neatitinka šio įstatymo 14 straipsnio 2–7 ir 11 dalyse nustatytų reikalavimų ir per nurodytą 3 mėnesių terminą nepašalina nustatyto šio įstatymo pažeidimo, jiems išduoto tautinio paveldo produkto sertifikato galiojimas panaikinamas.
 
 
-Straipsnio pakeitimai:
-Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
+
+
+3. Jeigu fizinių asmenų tautinio paveldo produkto sertifikato galiojimas panaikinamas vadovaujantis šio straipsnio 2 dalies nuostatomis, naikinamas ir šiems fiziniams asmenims išduoto to paties amato tradicinių amatų meistro pažymėjimo ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato galiojimas.
+
+
+
+
+4. Jeigu tradicinių amatų centrai nesilaiko šio įstatymo 21 straipsnio 2 ir 3 dalyse nustatytų reikalavimų ir (arba) nevykdo bent vienos iš šio įstatymo 21 straipsnio 4 dalyje nurodytų pareigų ir per nurodytą 6 mėnesių terminą nepašalina nustatyto šio įstatymo pažeidimo, sprendimo dėl šių centrų pripažinimo tradicinių amatų centrais galiojimas panaikinamas. 
  
 
 
 
 
-26 straipsnis. Tautinio paveldo produkto sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo galiojimo sustabdymo panaikinimas
 
 
-1. Tautinio paveldo produktų kūrėjas ar tradicinių amatų meistras, pašalinęs pažeidimus, dėl kurių tautinio paveldo produktų sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo galiojimas buvo sustabdytas, Žemės ūkio ministerijai pateikia prašymą panaikinti tautinio paveldo produktų sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo galiojimo sustabdymą. Prašyme tautinio paveldo produktų kūrėjas ar tradicinių amatų meistras paaiškina, kaip nustatyti pažeidimai buvo pašalinti, ir pateikia dokumentus, kuriais patvirtinama, kad pažeidimai pašalinti. Tautinio paveldo produktų kūrėjas ar tradicinių amatų meistras turi teisę motyvuotai kreiptis į Žemės ūkio ministeriją dėl pažeidimų pašalinimo termino pratęsimo. Šioje dalyje nurodytus prašymus tautinio paveldo produktų kūrėjas ar tradicinių amatų meistras turi teisę teikti Žemės ūkio ministerijai, nepasibaigus šio įstatymo 23 straipsnyje nustatytiems terminams.
+25 straipsnis. Sprendimų apskundimo tvarka
 
 
-
-
-2. Žemės ūkio ministerija, kai ekspertų komisija išnagrinėja tautinio paveldo produktų kūrėjo ar tradicinių amatų meistro pateiktą prašymą panaikinti tautinio paveldo produktų sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo galiojimo sustabdymą, priima sprendimą dėl tautinio paveldo produktų sertifikato ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato, ir (arba) tradicinių amatų meistro pažymėjimo galiojimo sustabdymo panaikinimo arba dėl tokio sustabdymo pratęsimo, kartu šio įstatymo 23 straipsnyje nustatyta tvarka nustatydama papildomą pažeidimų pašalinimo terminą. 
+Agentūros direktoriaus sprendimai gali būti skundžiami Lietuvos Respublikos viešojo administravimo įstatymo, Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo arba Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
  
 
 
@@ -972,3 +1197,8 @@ Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 4, 6, 7 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2062, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12743
 Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 5 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3114, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20196
+Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 pakeitimo įstatymas
