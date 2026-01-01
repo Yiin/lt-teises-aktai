@@ -232,7 +232,7 @@ b) jeigu mokiniai ugdomi pagal profesinio mokymo ir neformaliojo švietimo progr
 
 
 
-4) specialieji reikalavimai, keliami šias pareigas einančiam darbuotojui (išsilavinimas, darbo patirtis, profesinė kvalifikacija ar kiti specialieji reikalavimai);
+4) specialieji reikalavimai, keliami šias pareigas einančiam darbuotojui (išsilavinimas, darbo patirtis, kvalifikacija ar kiti specialieji reikalavimai);
 
 
 
@@ -336,12 +336,7 @@ Nr. XIV-2865, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12650
 
 3. Darbininkų pareiginė alga negali būti mažesnė negu MMA.
 
-
-
-
 4. A1 lygio pareigybių pareiginės algos koeficientai darbo apmokėjimo sistemoje nustatyta tvarka didinami 20 procentų, palyginti su to paties lygmens (pakopos) pareigybėmis, kurių pagal pareigybės aprašymą priskirtoms funkcijoms atlikti magistro kvalifikacinio laipsnio nereikalaujama (išskyrus biudžetinių įstaigų vadovus). Jeigu įstaigoje nėra kitų to paties lygmens (pakopos) pareigybių, su kuriomis galėtų būti lyginamos A1 lygio pareigybės, A1 lygio pareigybių pareiginės algos koeficientai darbo apmokėjimo sistemoje nustatyta tvarka didinami 20 procentų, palyginti su žemesnio lygmens (pakopos) pareigybėmis.
-Straipsnio dalies pakeitimai:
-Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
  
 
 
@@ -466,6 +461,42 @@ IR DARBUOTOJŲ minimalūs PAREIGINĖS ALGOS KOEFICIENTAI
 
  1. 
  Biudžetinės įstaigos vadovas 
+   
+ 1,29–3,98 
+
+ 2. 
+ Biudžetinės įstaigos vadovo pavaduotojas 
+   
+ 1,04 
+
+ 3. 
+ Struktūrinio padalinio vadovas (ar kiti specialistai, turintys pavaldžių darbuotojų ar prilyginti vadovaujantiems darbuotojams) 
+ A 
+ 0,88 
+
+ B 
+ 0,83 
+
+ 4. 
+ Struktūrinio padalinio vadovo pavaduotojas 
+ A 
+ 0,83 
+
+ B 
+ 0,78 
+
+ 5. 
+ Specialistas 
+ A 
+ 0,76 
+
+ B 
+ 0,73 
+
+ 6. 
+ Kvalifikuotas darbuotojas 
+ C 
+ 0,71taigos vadovas 
    
  1,29–3,98 
 
@@ -564,6 +595,59 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 
 
  Nesuteiktos kvalifikacinės kategorijos 
+
+
+ Mokytojas 
+ 1,1886 
+ 1,1930 
+ 1,2032 
+ 1,2252 
+ 1,2633 
+ 1,2676 
+ 1,2750 
+
+
+ Suteiktos kvalifikacinės kategorijos 
+
+
+ Mokytojas 
+ 1,2764 
+ 1,2795 
+ 1,2809 
+ 1,2881 
+ 1,2912 
+ 1,2955 
+ 1,3057 
+
+
+ Vyresnysis mokytojas 
+   
+ 1,3073 
+ 1,3117 
+ 1,3176 
+ 1,3704 
+ 1,3776 
+ 1,3834 
+
+
+ Mokytojas metodininkas 
+   
+   
+ 1,3967 
+ 1,4216 
+ 1,4669 
+ 1,4730 
+ 1,4832 
+
+
+ Mokytojas ekspertas 
+   
+   
+ 1,5872 
+ 1,6136 
+ 1,6547 
+ 1,6620 
+ 1,6693kacinės kategorijos 
 
 
  Mokytojas 
@@ -946,7 +1030,7 @@ Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
 
 
 
-15. Mokytojų, dirbančių pagal ikimokyklinio ugdymo programą, išskyrus mokytojus, nurodytus šio priedo 16 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 30 valandų skiriama tiesioginiam darbui su mokiniais, 6 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.). 
+15. Mokytojų, dirbančių pagal ikimokyklinio ugdymo programą, išskyrus mokytojus, nurodytus šio priedo 16 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 30 valandų skiriama tiesioginiam darbui su mokiniais, 6 valandos – netiesioginiam darbui su mokiniais (ugdomosioms veikloms planuoti ir joms pasirengti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, kitais ugdymo procese dalyvaujančiais asmenimis, tėvais (globėjais) ugdymo ir (ar) švietimo pagalbos klausimais, dalyvauti su mokyklos veiklos organizavimu susijusiose veiklose). 
 Punkto pakeitimai:
 Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
  
@@ -1131,7 +1215,7 @@ Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
 
 
 
-21. Mokytojų, dirbančių pagal priešmokyklinio ugdymo programą, išskyrus mokytojus, nurodytus šio priedo 22 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 30 valandų skiriama tiesioginiam darbui su mokiniais, 6 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.). 
+21. Mokytojų, dirbančių pagal priešmokyklinio ugdymo programą, išskyrus mokytojus, nurodytus šio priedo 22 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 30 valandų skiriama tiesioginiam darbui su mokiniais, 6 valandos – netiesioginiam darbui su mokiniais (ugdomosioms veikloms planuoti ir joms pasirengti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, kitais ugdymo procese dalyvaujančiais asmenimis, tėvais (globėjais) ugdymo ir (ar) švietimo pagalbos klausimais, dalyvauti su mokyklos veiklos organizavimu susijusiose veiklose). 
 Punkto pakeitimai:
 Nr. XIV-2341, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25599
  
