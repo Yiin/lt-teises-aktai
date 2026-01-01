@@ -758,89 +758,53 @@ b) grynųjų išlaidų augimas (nurodomas procentais).
 
 4. Tam tikrų metų biudžeto patvirtinimo įstatyme gali būti nustatomos nuostatos dėl valstybės biudžeto lėšų naudojimo ribojimo ir (ar) įsipareigojimų, kuriems vykdyti reikia valstybės biudžeto lėšų, prisiėmimo ribojimo.20 straipsnis. Informacija ir duomenys, teikiami Seimui su tam tikrų metų biudžeto patvirtinimo įstatymo projektu
 
-
 1. Vyriausybė su tam tikrų metų biudžeto patvirtinimo įstatymo projektu Seimui teikia:
-
 
 1) informaciją apie:
 
-
 a) mokesčių išlaidų poveikį pajamoms;
-
-
-
 
 b) antrųjų ir trečiųjų biudžetinių metų valstybės biudžeto pajamas;
 
+c) pajamų ir išlaidų diskrecines priemones, nurodydama šių priemonių poveikio biudžeto pajamoms ir išlaidoms kiekybinį įvertinimą;
 
+d) vidutiniu laikotarpiu planuojamą metinį grynųjų išlaidų pokytį ir jo palyginimą su metinėje pažangos ataskaitoje, rengiamoje pagal Reglamentą (ES) 2024/1263, (toliau – metinė pažangos ataskaita) pateiktomis atitinkamų metų grynųjų išlaidų augimo ribomis;
 
+e) bet kokio nuokrypio nuo grynųjų išlaidų augimo ribų priežastis, jeigu iš Seimo tvirtinamų biudžetų projektų visumos matyti, kad planuojamas grynųjų išlaidų augimas bus didesnis negu metinėje pažangos ataskaitoje pateiktos grynųjų išlaidų augimo ribos;
 
-c) vidutinio laikotarpio valdžios sektoriaus balanso rodiklių projekcijas, valdžios sektoriaus išlaidų ir pajamų projekcijas;
+f) tai, kaip tam tikrų metų biudžeto patvirtinimo įstatymo projektu siekiama valdyti planuojamą grynųjų išlaidų augimą, kad jis atitiktų metinėje pažangos ataskaitoje pateiktas grynųjų išlaidų augimo ribas;
 
+g) vidutiniu laikotarpiu numatomas fiskalines rizikas ir jų įvertinimą;
 
+h) valstybės biudžeto ir savivaldybių biudžetų rodiklių perklasifikavimą, kuris atsirastų valdžios sektoriaus balanso rodiklį skaičiuojant pagal Europos sąskaitų sistemą (ESS'2010) ir kurio vertė viršija 0,1 procento BVP to meto kainomis;
 
+i) valdžios sektoriaus ilgalaikio tvarumo perspektyvų pokytį, įvertinamą remiantis rengiant tam tikrų metų biudžeto patvirtinimo įstatymo projektą Europos Komisijos paskelbtais naujausiais duomenimis;
 
-d) numatytą vidutinio laikotarpio fiskalinę politiką, nurodydama, kaip užtikrinamas struktūrinio valdžios sektoriaus balanso rodiklio koregavimas siekiant vidutinio laikotarpio tikslo arba perteklinio valdžios sektoriaus;
+j) naujausių Europos Komisijos parengtų Lietuvos Respublikos makroekonominių ir fiskalinių rodiklių prognozių ir Finansų ministerijos parengto ekonominės raidos scenarijaus bei vidutinio laikotarpio fiskalinių rodiklių projekcijų palyginimą, paaiškindama šių projekcijų skirtumų, jeigu jų yra, priežastis;
 
+k) Finansų ministerijos parengtų vidutinio laikotarpio fiskalinių rodiklių projekcijų pasikeitimą, įvertinus prielaidą, kad BVP ir skolinimosi palūkanų norma nukrypsta nuo ekonominės raidos scenarijaus ir vidutinio laikotarpio fiskalinių rodiklių projekcijų;
 
+l) planuojamą valdžios sektoriaus balanso dalį, apskaičiuotą kaip valdžios sektoriaus balanso ir valstybės, savivaldybių, valstybės socialinių fondų, privalomojo sveikatos draudimo fondo biudžetų balansų skirtumas;
 
+m) asignavimų valdytojų kiekvieniems 3 biudžetiniams metams planuojamas asignavimų darbo užmokesčiui sumas;
 
-e) vidutinio laikotarpio struktūrinius valdžios sektoriaus balanso rodiklius, apskaičiuotus remiantis tam tikrų metų biudžeto patvirtinimo įstatymo projekto rengimo metu Finansų ministerijos viešai paskelbtais naujausiais duomenimis apie Lietuvos Respublikos produkcijos atotrūkį nuo potencialo ir biudžeto balanso cikliškumo dedamąją (komponentę) (piniginiais vienetais išreiškiamą rodiklį, kuriuo rodomas produkcijos atotrūkio nuo potencialo poveikis valdžios sektoriaus balanso rodikliui per ataskaitinį laikotarpį);
+n) savivaldybių biudžetams skiriamų specialių tikslinių dotacijų antriesiems ir tretiesiems biudžetiniams metams sumas ir dotacijas (išskyrus specialias tikslines dotacijas, nurodytas šio įstatymo 19 straipsnio 2 dalies 1 punkto d papunktyje) savivaldybių biudžetams kiekvieniems 3 biudžetiniams metams;
 
+o) vidutinės trukmės konsoliduotojo biudžeto pirmųjų, antrųjų ir trečiųjų biudžetinių metų nepaskirstytas agreguoto asignavimų limito dalis;
 
+p) tai, kaip atsižvelgiama į ilgalaikio viešųjų finansų tvarumo vertinimo rezultatus;
 
+2) valdžios sektoriaus finansų projekciją, parengtą pagal Fiskalinės valdysenos įstatymo 4 straipsnio 1 dalies 2 punktą;
 
-f) vidutiniu laikotarpiu numatomas fiskalines rizikas ir jų įvertinimą; 
+3) vidutinio laikotarpio valdžios sektoriaus balanso rodiklių projekciją, išskirdama centrinės, vietos valdžios ir socialinės apsaugos fondų subsektorių dalis, visų pagrindinių valdžios sektoriaus išlaidų ir pajamų straipsnių projekciją, grindžiamą prielaida, kad fiskalinė politika nesikeis;
 
+4) informaciją apie planuojamą Vyriausybės skolinimosi valstybės vardu vidaus ir užsienio rinkose poreikį, valdžios sektoriaus skolos projekciją, išskirdama subjektų, kurie priskiriami valdžios sektoriui, tačiau kurių biudžetai nėra vidutinės trukmės konsoliduotojo biudžeto dalis, skolinimosi įsipareigojimų poveikį valdžios sektoriaus skolos dydžiui;
 
+5) išaiškinimą (apimtis ir priežastys) apie ankstesniais biudžetiniais metais nustatyto agreguoto asignavimų limito ir konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguoto asignavimų limito dalies pokyčius bei nepaskirstytos agreguoto asignavimų limito dalies paskirstymą konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguoto asignavimų limito dalies pokyčiams finansuoti šio įstatymo 18 straipsnio 4, 5 ir 6 dalyse nustatytais atvejais;
 
+6) informaciją, parengtą pagal 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 473/2013 dėl euro zonos valstybių narių biudžeto planų projektų stebėsenos bei vertinimo ir perviršinio deficito padėties ištaisymo užtikrinimo bendrųjų nuostatų nurodytus ir Europos Komisijos viešai paskelbtus dokumentus, kuriuose aiškinamas šio reglamento taikymas.
 
-g) valstybės biudžeto ir savivaldybių biudžetų rodiklių perklasifikavimą, kuris atsirastų valdžios sektoriaus balanso rodiklį skaičiuojant pagal Europos sąskaitų sistemą (ESS'2010) ir kurio vertė viršija 0,1 procento BVP to meto kainomis;
-
-
-
-
-h) valdžios sektoriaus ilgalaikio tvarumo perspektyvų pokytį, kuris įvertinamas remiantis tam tikrų metų biudžeto patvirtinimo įstatymo projekto rengimo metu Europos Komisijos paskelbtais naujausiais duomenimis;
-
-
-
-
-i) naujausių Europos Komisijos parengtų Lietuvos Respublikos makroekonominių ir fiskalinių rodiklių prognozių ir Finansų ministerijos parengto ekonominės raidos scenarijaus bei vidutinio laikotarpio fiskalinių rodiklių projekcijų palyginimą, paaiškindama šių projekcijų ir Europos Komisijos parengtų Lietuvos Respublikos makroekonominių ir fiskalinių rodiklių prognozių skirtumų, jeigu jų yra, priežastis; 
-
-
-
-
-j) Finansų ministerijos parengtų vidutinio laikotarpio fiskalinių rodiklių projekcijų pasikeitimą, įvertinus prielaidą, kad BVP ir skolinimosi palūkanų norma nukrypsta nuo ekonominės raidos scenarijaus ir vidutinio laikotarpio fiskalinių rodiklių projekcijų;
-
-
-
-
-k) asignavimų valdytojų kiekvieniems 3 biudžetiniams metams planuojamas asignavimų darbo užmokesčiui sumas;
-
-
-
-
-l) savivaldybių biudžetams skiriamų specialių tikslinių dotacijų antriesiems ir tretiesiems biudžetiniams metams sumas ir dotacijas (išskyrus specialias tikslines dotacijas, nurodytas šio įstatymo 19 straipsnio 2 dalies 1 punkto d papunktyje) savivaldybių biudžetams kiekvieniems 3 biudžetiniams metams;
-
-
-
-
-m) vidutinės trukmės konsoliduotojo biudžeto pirmųjų, antrųjų ir trečiųjų biudžetinių metų nepaskirstytas agreguoto asignavimų limito dalis;
-
-
-
-
-2) duomenis apie planuojamą bendrą Vyriausybės skolinimosi valstybės vardu vidaus ir užsienio rinkose poreikį;
-
-
-
-
-3) išaiškinimą (apimtis ir priežastys) apie ankstesniais biudžetiniais metais nustatyto agreguoto asignavimų limito ir konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguoto asignavimų limito dalies pokyčius bei nepaskirstytos agreguoto asignavimų limito dalies paskirstymą konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguoto asignavimų limito dalies pokyčiams finansuoti šio įstatymo 18 straipsnio 4, 5 ir 6 dalyse nustatytais atvejais.
-
-
-
-
-2. Lietuvos bankas ne vėliau kaip per 15 darbo dienų nuo tam tikrų metų biudžeto patvirtinimo įstatymo projekto pateikimo Seimui dienos teikia Seimui išvadas dėl valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduočių įvykdymo poveikio pasitikėjimui finansų sistemos stabilumu ir kainų stabilumui.21 straipsnis. Tam tikrų metų biudžeto patvirtinimo įstatymo projekto pateikimas, svarstymas ir priėmimas Seime
+2. Lietuvos bankas ne vėliau kaip per 15 darbo dienų nuo tam tikrų metų biudžeto patvirtinimo įstatymo projekto pateikimo Seimui dienos teikia Seimui išvadas dėl valdžios sektoriaus balanso rodiklio poveikio pasitikėjimui finansų sistemos stabilumu ir kainų stabilumui.21 straipsnis. Tam tikrų metų biudžeto patvirtinimo įstatymo projekto pateikimas, svarstymas ir priėmimas Seime
 
 
 1. Vyriausybė Seimui pateikia, Seimas svarsto ir priima tam tikrų metų biudžeto patvirtinimo įstatymą Seimo statute nustatyta tvarka ir terminais.
@@ -1089,24 +1053,13 @@ Jeigu biudžetas laiku nepatvirtinamas, asignavimai metų pradžioje iki biudže
 
 
 VII SKYRIUS
-BIUDŽETO KONTROLĖ, BIUDŽETO VYKDYMO IR EKONOMINĖS RAIDOS SCENARIJAUS MODELIAVIMO VERTINIMAS
- 
+BIUDŽETO VYKDYMO VERTINIMAS
 
-
-32 straipsnis. Biudžeto kontrolė
-
+32 straipsnis. Biudžeto vykdymo vertinimas
 
 1. Asignavimų valdytojų, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina valstybės biudžeto asignavimų valdytojai arba savivaldybių merai, išskyrus tas biudžetinės įstaigos savininko teises ir pareigas, kurios yra priskirtos savivaldybės tarybos išimtinei ir paprastajai kompetencijai (jeigu savivaldybės tarybos paprastosios kompetencijos įgyvendinimo savivaldybės taryba nėra perdavusi savivaldybės merui), ir (arba) kurios yra atskaitingos valstybės biudžeto asignavimų valdytojams, ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdytojo programas, biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina ministrų valdymo sričių įstaigos, ir kitų subjektų programų vykdymą vertina vidaus audito tarnybos, vadovaudamosi Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymu ir kitais vidaus auditą reglamentuojančiais teisės aktais.
 
-
-
-
-2. Ekonominės raidos scenarijaus, biudžeto pajamų ir išlaidų projekcijų vertinimą, remdamasi objektyviais kriterijais, atlieka Finansų ministerija. Šio vertinimo rezultatai skelbiami viešai ir į juos atsižvelgiama rengiant kitus ekonominės raidos scenarijus, biudžeto pajamų ir išlaidų planus. Jeigu vertinimo metu nustatomas didelis šališkumas, kuris suprantamas kaip mažiausiai 4 metus iš eilės pasikartojančios paklaidos, darančios įtaką ekonominės raidos scenarijui ir susidarančios ne dėl prielaidų pasikeitimo ar modeliavimo metodų, Finansų ministerija imasi veiksmų šališkumui panaikinti ir apie juos viešai paskelbia.
-
-
-
-
-3. Vyriausybės nustatyta tvarka savivaldybės kiekvienam metų ketvirčiui pasibaigus teikia Finansų ministerijai biudžeto vykdymo prognozes likusiems metų ketvirčiams.
+2. Vyriausybės nustatyta tvarka savivaldybės kiekvienam metų ketvirčiui pasibaigus teikia Finansų ministerijai biudžeto vykdymo prognozes likusiems metų ketvirčiams.
  
 
 
@@ -1150,8 +1103,6 @@ priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 2011 m. lapkričio 8 d. Tarybos direktyva 2011/85/ES dėl reikalavimų valstybių narių biudžeto sistemoms su pakeitimais, padarytais 2024 m. balandžio 29 d. Tarybos direktyva (ES) 2024/1265.
 __________________
-Priedo pakeitimai:
-Nr. XIV-2325, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25312
  
 
 
