@@ -200,12 +200,12 @@ Nr. XIV-1450, 2022-10-11, paskelbta TAR 2022-10-19, i. k. 2022-21165
 6 straipsnis. Nacionalinė akreditacijos įstaiga ir jos funkcijos 
 
 
-1. Nacionalinės akreditacijos įstaigos funkcijas atlieka Nacionalinis akreditacijos biuras. Nacionalinis akreditacijos biuras yra biudžetinė įstaiga. Akreditavimą Nacionalinis akreditacijos biuras organizuoja ir kitas šio straipsnio 2 dalyje nurodytas funkcijas atlieka vadovaudamasis Reglamento (EB) Nr. 765/2008 II skyriuje nustatyta tvarka ir principais.
+1. Nacionalinę akreditacijos įstaigą skiria Vyriausybė. Nacionalinė akreditacijos įstaiga yra biudžetinė įstaiga. Akreditavimą nacionalinė akreditacijos įstaiga organizuoja ir kitas šio straipsnio 2 dalyje nurodytas funkcijas atlieka vadovaudamasi Reglamento (EB) Nr. 765/2008 II skyriuje nustatyta tvarka ir principais.
 
 
 
 
-2. Nacionalinis akreditacijos biuras atlieka šias funkcijas:
+2. Nacionalinė akreditacijos įstaiga atlieka šias funkcijas:
 
 
 1) tvirtina akreditavimo procedūrinius dokumentus, nustatančius konkrečiai atitikties vertinimo veiklai taikomus akreditavimo proceso principus ir tvarką (toliau – procedūriniai akreditavimo dokumentai) ir juos skelbia savo interneto svetainėje kartu su informacija apie teisės aktuose, standartuose, tarptautinių akreditavimo organizacijų privalomojo pobūdžio norminiuose dokumentuose nustatytus reikalavimus akredituotoms arba akreditavimo siekiančioms atitikties vertinimo įstaigoms;
@@ -243,17 +243,7 @@ Nr. XIV-1450, 2022-10-11, paskelbta TAR 2022-10-19, i. k. 2022-21165
 
 
 
-8) atlieka kitas šio įstatymo, Reglamento (EB) Nr. 765/2008 ir kitų teisės aktų, reglamentuojančių akreditavimo procesą, nustatytas funkcijas.
- 
-
-
-
-
-
-
-
-
-7 straipsnis. Atitikties vertinimo įstaigų funkcijos
+8) atlieka kitas šio įstatymo, Reglamento (EB) Nr. 765/2008 ir kitų teisės aktų, reglamentuojančių akreditavimo procesą, nustatytas funkcijas.7 straipsnis. Atitikties vertinimo įstaigų funkcijos
 
 
 Atitikties vertinimo įstaigos:
@@ -264,17 +254,7 @@ Atitikties vertinimo įstaigos:
 
 
 
-2) išduoda dokumentus, patvirtinančius, kad atitikties vertinimo objektai atitinka reikalavimus, nustatytus atitinkamuose teisės aktuose, standartuose, techninėse specifikacijose, pagal kuriuos atitikties vertinimas buvo atliktas, arba dokumentus, patvirtinančius atliktų bandymų rezultatus. 
- 
-
-
-
-
-
-
-
-
-8 straipsnis. Gamintojų funkcijos 
+2) išduoda dokumentus, patvirtinančius, kad atitikties vertinimo objektai atitinka reikalavimus, nustatytus atitinkamuose teisės aktuose, standartuose, techninėse specifikacijose, pagal kuriuos atitikties vertinimas buvo atliktas, arba dokumentus, patvirtinančius atliktų bandymų rezultatus.8 straipsnis. Gamintojų funkcijos 
 
 
 Gamintojai:
@@ -964,20 +944,12 @@ BAIGIAMOSIOS NUOSTATOS
 15 straipsnis. Atitikties vertinimo ir akreditavimo darbų apmokėjimas
 
 
-1. Akreditavimo siekiančios arba akredituotos atitikties vertinimo įstaigos išlaidas, susijusias su jų atitikties vertinimu ir akreditavimu, apmoka pagal Vyriausybės nustatyta tvarka apskaičiuojamus ir Nacionalinio akreditacijos biuro laikantis šios tvarkos tvirtinamus įkainius.
+1. Akreditavimo siekiančios arba akredituotos atitikties vertinimo įstaigos išlaidas, susijusias su jų atitikties vertinimu ir akreditavimu, apmoka pagal Vyriausybės nustatyta tvarka apskaičiuojamus ir nacionalinės akreditacijos įstaigos laikantis šios tvarkos tvirtinamus įkainius.
 
 
 
 
-2. Už akreditavimo pažymėjimų išdavimą ar jų keitimą mokama valstybės rinkliava.
- 
-
-
-
-
-
-
-16 straipsnis. Duomenų apie akreditavimo pažymėjimus tvarkymas
+2. Už akreditavimo pažymėjimų išdavimą ar jų keitimą mokama valstybės rinkliava.16 straipsnis. Duomenų apie akreditavimo pažymėjimus tvarkymas
 
 
 Akreditavimo pažymėjimų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ar galiojimo panaikinimo duomenys tvarkomi Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka.
@@ -990,16 +962,7 @@ Akreditavimo pažymėjimų išdavimo, keitimo, galiojimo sustabdymo, galiojimo s
 
 17 straipsnis. Sprendimų pateikimo atitikties vertinimo įstaigoms tvarka
 
-
-Apie visus Nacionalinio akreditacijos biuro sprendimus, priimtus pagal šį įstatymą, atitikties vertinimo įstaigoms pranešama elektroninėmis priemonėmis šių įstaigų nurodytu elektroninio pašto adresu.
- 
-
-
-
-
-
-
-18 straipsnis. Sprendimų apskundimo tvarka
+Apie visus nacionalinės akreditacijos įstaigos sprendimus, priimtus pagal šį įstatymą, atitikties vertinimo įstaigoms pranešama elektroninėmis priemonėmis šių įstaigų nurodytu elektroninio pašto adresu.18 straipsnis. Sprendimų apskundimo tvarka
 
 
 Nacionalinio akreditacijos biuro sprendimai, priimti pagal šį įstatymą, skundžiami: 
