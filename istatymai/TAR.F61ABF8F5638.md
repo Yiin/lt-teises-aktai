@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS ŠIAULIŲ LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2024-11-15 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 164-7802, i. k. 1111010ISTA0XI-1909
  
@@ -85,9 +85,10 @@ Zonoje plėtojama prekybos, gamybos ir paslaugų teikimo veikla, išskyrus Lietu
 4 straipsnis. Zonos teritorija
 
 
-1. Zonos teritorija užima 132,517 ha. 
+1. Zonos teritorija užima 218 ha. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-522, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11231
+Nr. XIV-3085, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19838
  
 
 
