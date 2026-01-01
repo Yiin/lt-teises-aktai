@@ -5822,13 +5822,21 @@ užtraukia baudą nuo trijų tūkstančių septynių šimtų septyniasdešimt ik
 Straipsnio pakeitimai:
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 
-188^6 straipsnis. Duomenis teikiantiems kriptoturto paslaugų teikėjams nustatytų reikalavimų nesilaikymas
+188-6 straipsnis. Duomenis teikiantiems kriptoturto paslaugų teikėjams nustatytų reikalavimų nesilaikymas
 1. Duomenis teikiantiems kriptoturto paslaugų teikėjams Lietuvos Respublikos mokesčių administravimo įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų nesilaikymas
 užtraukia baudą nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių aštuonių šimtų eurų.
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo trijų tūkstančių aštuonių šimtų iki šešių tūkstančių eurų.
+užtraukia baudą nuo trijų tūkstančių aštuonių šimtų iki šešių tūkstančių eurų.188^7 straipsnis. Vengimas teikti informaciją Valstybinei mokesčių inspekcijai
+1. Trečiųjų asmenų pareigos saugoti įrodymus, kurių pagrindu jie priėmė sprendimą Valstybinei mokesčių inspekcijai teikti Lietuvos Respublikos mokesčių administravimo įstatyme ir jo įgyvendinamuosiuose teisės aktuose nurodytą informaciją ar jos neteikti, nevykdymas
+užtraukia baudą asmenims nuo vieno šimto iki vieno tūkstančio eurų arba juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų iki vieno tūkstančio penkių šimtų eurų.
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo dviejų šimtų iki dviejų tūkstančių eurų arba juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų iki trijų tūkstančių eurų.
+3. Aplinkybių, su kuriomis siejama Mokesčių administravimo įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta trečiųjų asmenų pareiga teikti informaciją Valstybinei mokesčių inspekcijai, sukūrimas, pakeitimas ir (ar) panaikinimas siekiant išvengti teisingos ir išsamios informacijos teikimo Valstybinei mokesčių inspekcijai
+užtraukia baudą asmenims nuo dviejų šimtų iki trijų tūkstančių eurų arba juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki keturių tūkstančių eurų.
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo keturių šimtų iki penkių tūkstančių eurų arba juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo šešių šimtų iki šešių tūkstančių eurų.
 
-188^7 straipsnis. Vengimas teikti informaciją Valstybinei mokesčių inspekcijai
+188-7 straipsnis. Vengimas teikti informaciją Valstybinei mokesčių inspekcijai
 1. Trečiųjų asmenų pareigos saugoti įrodymus, kurių pagrindu jie priėmė sprendimą Valstybinei mokesčių inspekcijai teikti Lietuvos Respublikos mokesčių administravimo įstatyme ir jo įgyvendinamuosiuose teisės aktuose nurodytą informaciją ar jos neteikti, nevykdymas
 užtraukia baudą asmenims nuo vieno šimto iki vieno tūkstančio eurų arba juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų iki vieno tūkstančio penkių šimtų eurų.
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
@@ -6260,80 +6268,49 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 
 207 straipsnis. Atsiskaitymų, informacijos teikimo tvarkos pažeidimas
-
 1. Vengimas kaupti duomenis ir juos teikti Valstybinei mokesčių inspekcijai, vykdančiai informacijos mainus plėtojant tarptautinį bendradarbiavimą,
 užtraukia baudą nuo penkių šimtų iki vieno tūkstančio trijų šimtų eurų.
-
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo vieno tūkstančio trijų šimtų iki keturių tūkstančių eurų.
-
 3. Informacijos apie atidarytas ar uždarytas visų rūšių sąskaitas pavėluotas pateikimas, neišsamios arba klaidingos informacijos apie atidarytas ar uždarytas visų rūšių sąskaitas pateikimas
 užtraukia baudą nuo šešių šimtų iki vieno tūkstančio penkių šimtų eurų.
-
 4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki trijų tūkstančių eurų.
-
 5. Informacijos apie atidarytas ar uždarytas visų rūšių sąskaitas nepateikimas
 užtraukia baudą nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių šešių šimtų eurų.
-
 6. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo trijų tūkstančių šešių šimtų iki šešių tūkstančių eurų.
-
 7. Vengimas atlikti išsamaus patikrinimo procedūras, kaupti duomenis apie sąskaitas ir juos teikti Valstybinei mokesčių inspekcijai, vykdančiai informacijos mainus plėtojant tarptautinį bendradarbiavimą, šių duomenų teikimo tvarkos nesilaikymas
 užtraukia baudą nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių šešių šimtų eurų.
-
 8. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo trijų tūkstančių šešių šimtų iki šešių tūkstančių eurų.
-
 9. Pinigų nurašymo ir išdavimo iš mokėtojų sąskaitų tvarkos pažeidimas
 užtraukia baudą nuo vieno tūkstančio aštuonių šimtų dvidešimt iki trijų tūkstančių devynių šimtų eurų.
-
 10. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.2071 straipsnis. Atsiskaitymų ar bet kokių kitų mokėjimų pagal sandorius grynaisiais pinigais tvarkos pažeidimas
+užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų.
 
+2071 straipsnis. Atsiskaitymų ar bet kokių kitų mokėjimų pagal sandorius grynaisiais pinigais tvarkos pažeidimas
 
 1. Atsiskaitymų ar bet kokių kitų mokėjimų pagal sandorius grynaisiais pinigais tvarkos pažeidimas, kai, pažeidžiant nustatytą tvarką, atsiskaitymams ar bet kokiems kitiems mokėjimams panaudota grynųjų pinigų suma leidžiamą atsiskaityti grynaisiais pinigais sumą viršija iki penkiasdešimt bazinių bausmių ir nuobaudų dydžių, 
 užtraukia baudą mokantiems ir mokėjimus priimantiems asmenims nuo vieno šimto iki penkių šimtų eurų ir mokančių ir mokėjimus priimančių juridinių asmenų arba jų padalinių vadovams – nuo dviejų šimtų iki vieno tūkstančio eurų.
 
-
-
-
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
 užtraukia baudą mokantiems ir mokėjimus priimantiems asmenims nuo dviejų šimtų iki vieno tūkstančio eurų ir mokančių ir mokėjimus priimančių juridinių asmenų arba jų padalinių vadovams – nuo vieno tūkstančio iki dviejų tūkstančių eurų. 
-
-
-
 
 3. Atsiskaitymų ar bet kokių kitų mokėjimų pagal sandorius grynaisiais pinigais tvarkos pažeidimas, kai, pažeidžiant nustatytą tvarką, atsiskaitymams ar bet kokiems kitiems mokėjimams panaudota grynųjų pinigų suma leidžiamą atsiskaityti grynaisiais pinigais sumą viršija daugiau kaip penkiasdešimt, bet ne daugiau kaip penkiais šimtais bazinių bausmių ir nuobaudų dydžių, 
 užtraukia baudą mokantiems ir mokėjimus priimantiems asmenims nuo dviejų šimtų iki vieno tūkstančio eurų ir mokančių ir mokėjimus priimančių juridinių asmenų arba jų padalinių vadovams – nuo vieno tūkstančio iki dviejų tūkstančių eurų. 
 
-
-
-
 4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
 užtraukia baudą mokantiems ir mokėjimus priimantiems asmenims nuo vieno tūkstančio iki dviejų tūkstančių eurų ir mokančių ir mokėjimus priimančių juridinių asmenų arba jų padalinių vadovams – nuo dviejų tūkstančių iki trijų tūkstančių eurų. 
-
-
-
 
 5. Atsiskaitymų ar bet kokių kitų mokėjimų pagal sandorius grynaisiais pinigais tvarkos pažeidimas, kai, pažeidžiant nustatytą tvarką, atsiskaitymams ar bet kokiems kitiems mokėjimams panaudota grynųjų pinigų suma leidžiamą atsiskaityti grynaisiais pinigais sumą viršija daugiau kaip penkiais šimtais bazinių bausmių ir nuobaudų dydžių, 
 užtraukia baudą mokantiems ir mokėjimus priimantiems asmenims nuo vieno tūkstančio iki dviejų tūkstančių eurų ir mokančių ir mokėjimus priimančių juridinių asmenų arba jų padalinių vadovams – nuo dviejų tūkstančių iki trijų tūkstančių eurų. 
 
-
-
-
 6. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
 užtraukia baudą mokantiems ir mokėjimus priimantiems asmenims nuo dviejų tūkstančių iki trijų tūkstančių eurų ir mokančių ir mokėjimus priimančių juridinių asmenų arba jų padalinių vadovams – nuo trijų tūkstančių iki keturių tūkstančių eurų.
 
-
 Papildyta straipsniu:
-Nr. XIV-1400, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16126
- 
-
-
-
-
-2072 straipsnis. Lietuvos Respublikos atsiskaitymų grynaisiais pinigais sumų apvalinimo įstatymo pažeidimas
+Nr. XIV-1400, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-161262072 straipsnis. Lietuvos Respublikos atsiskaitymų grynaisiais pinigais sumų apvalinimo įstatymo pažeidimas
 
 
 1. Lietuvos Respublikos atsiskaitymų grynaisiais pinigais sumų apvalinimo įstatymo pažeidimas 
@@ -24003,9 +23980,6 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 
 
 2. Nutarimo skirti baudą vykdymo, išskyrus, kiek tai susiję su šio kodekso 671 straipsnio 1 dalies 1, 2, 3 punktuose ir 675 straipsnio 4 dalyje nurodytais veiksmais, kontrolė pavedama Valstybinei mokesčių inspekcijai. Su nutarimo skirti baudą vykdymu susijusius klausimus, išskyrus numatytuosius šio kodekso 671 straipsnio 1 dalies 1, 2, 3 punktuose ir 675 straipsnio 4 dalyje, sprendžia Valstybinė mokesčių inspekcija.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
- 
 
 
 
@@ -24014,7 +23988,9 @@ Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
 
 
 Straipsnio pakeitimai:
-Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343674 straipsnis. Nutarimų skirti įspėjimą vykdymas
+Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+
+674 straipsnis. Nutarimų skirti įspėjimą vykdymas
 
 
 1. Nutarimas skirti įspėjimą įvykdomas jį paskelbiant ar įteikiant administracinėn atsakomybėn traukiamam asmeniui. 
@@ -24022,15 +23998,7 @@ Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343674 straipsn
 
 
 
-2. Tais atvejais, kai apskundus nutarimą skirti administracinę nuobaudą – įspėjimą šis nutarimas panaikinamas ar įspėjimas pakeistas kita administracine nuobauda, laikoma, kad įspėjimas asmeniui nebuvo pareikštas.
- 
-
-
-
-
-
-
-675 straipsnis. Nutarimų skirti baudą įvykdymo terminai ir tvarka
+2. Tais atvejais, kai apskundus nutarimą skirti administracinę nuobaudą – įspėjimą šis nutarimas panaikinamas ar įspėjimas pakeistas kita administracine nuobauda, laikoma, kad įspėjimas asmeniui nebuvo pareikštas.675 straipsnis. Nutarimų skirti baudą įvykdymo terminai ir tvarka
 
 
 1. Nutarimus skirti baudą vykdo Valstybinė mokesčių inspekcija, antstoliai šiame kodekse, Civilinio proceso kodekse, Mokesčių administravimo įstatyme nustatyta tvarka.
