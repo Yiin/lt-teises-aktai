@@ -501,7 +501,7 @@ Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
 Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-1843411 straipsnis. Ilgalaikio darbo išmokų skyrimo ir mokėjimo tvarka
 
 
-1. Ilgalaikio darbo išmokos skiriamos ne anksčiau kaip praėjus 3 mėnesiams nuo darbuotojo atleidimo iš darbo dienos. Ilgalaikio darbo išmokos iš Ilgalaikio darbo išmokų fondo skiriamos be asmens prašymo, jeigu to asmens duomenys yra Registre. Jeigu asmens duomenų nėra Registre, ilgalaikio darbo išmokos iš Ilgalaikio darbo išmokų fondo skiriamos, jeigu asmuo ne vėliau kaip per 12 mėnesių nuo atleidimo iš darbo dienos IDIF nuostatuose nustatyta tvarka yra pateikęs administratoriui prašymą skirti išmoką. Ilgalaikio darbo išmokos iš biudžetinių įstaigų ir Lietuvos banko atleistiems darbuotojams darbdavio skiriamos ir mokamos mutatis mutandis šiame įstatyme ir IDIF nuostatuose nustatyta tvarka. 
+1. Ilgalaikio darbo išmokos skiriamos ne anksčiau kaip praėjus 3 mėnesiams nuo darbuotojo atleidimo iš darbo arba darbo sutarties pasibaigimo mirus darbdaviui – fiziniam asmeniui dienos. Ilgalaikio darbo išmokos iš Ilgalaikio darbo išmokų fondo skiriamos be asmens prašymo, jeigu to asmens duomenys yra Registre. Jeigu asmens duomenų nėra Registre, ilgalaikio darbo išmokos iš Ilgalaikio darbo išmokų fondo skiriamos, jeigu asmuo ne vėliau kaip per 12 mėnesių nuo atleidimo iš darbo arba darbo sutarties pasibaigimo mirus darbdaviui – fiziniam asmeniui dienos IDIF nuostatuose nustatyta tvarka yra pateikęs administratoriui prašymą skirti išmoką. Ilgalaikio darbo išmokos iš biudžetinių įstaigų ir Lietuvos banko atleistiems darbuotojams darbdavio skiriamos ir mokamos mutatis mutandis šiame įstatyme ir IDIF nuostatuose nustatyta tvarka. 
 
 
 
