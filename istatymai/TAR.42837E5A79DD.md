@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -3319,8 +3319,10 @@ Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 
 
 
-22. Išnaudojus kvotą pagal šio Įstatymo 571 straipsnio 3 dalį, leidimas laikinai gyventi šio straipsnio 1 dalies 2 punkto pagrindu gali būti išduotas tik užsieniečiui, dėl kurio pateikiama darbdavio informacija apie numatomą užsieniečiui mokėti mėnesinį darbo užmokestį, ne mažesnį negu 1,2 paskutinio paskelbto kalendorinių metų vidutinio mėnesinio BDU dydžio, arba užsieniečiui, kuris ketina dirbti pagal profesiją, kuri yra įtraukta į Aukštą pridėtinę vertę kuriančių profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą, patvirtintą ekonomikos ir inovacijų ministro pagal Užimtumo įstatymo 481 straipsnio 7 dalį, dėl kurio pateikiama darbdavio informacija apie numatomą mokėti mėnesinį darbo užmokestį, ne mažesnį negu vieno paskutinio paskelbto kalendorinių metų vidutinio mėnesinio BDU dydžio. 
+22. Išnaudojus kvotą pagal šio Įstatymo 571 straipsnio 3 dalį, leidimas laikinai gyventi šio straipsnio 1 dalies 2 punkto pagrindu gali būti išduotas tik užsieniečiui, dėl kurio pateikiama darbdavio informacija apie numatomą užsieniečiui mokėti mėnesinį darbo užmokestį, ne mažesnį negu 1,2 paskutinio paskelbto kalendorinių metų vidutinio mėnesinio BDU dydžio, arba užsieniečiui, kuris ketina dirbti pagal profesiją, kuri yra įtraukta į Aukštą pridėtinę vertę kuriančių profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą, patvirtintą ekonomikos ir inovacijų ministro pagal Užimtumo įstatymo 481 straipsnio 7 dalį, dėl kurio pateikiama darbdavio informacija apie numatomą mokėti mėnesinį darbo užmokestį, ne mažesnį negu vieno paskutinio paskelbto kalendorinių metų vidutinio mėnesinio BDU dydžio, arba jeigu buvo nustatyta papildoma kvota pagal šio Įstatymo 571 straipsnio 31 dalį. 
 Papildyta straipsnio dalimi:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+Straipsnio dalies pakeitimai:
 Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
@@ -4962,6 +4964,14 @@ Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 
 
 3. Kvota laikoma išnaudota, jeigu užsieniečių, kuriems tais metais buvo išduoti leidimai laikinai gyventi šio Įstatymo 44 straipsnio 1 dalies 2 punkte nustatytu pagrindu, skaičius pasiekia kalendoriniams metams nustatytą kvotą.
+
+
+
+
+31. Išnaudojus nustatytą kvotą, abi šakos kolektyvinės sutarties šalys kartu gali vieną kartą per kalendorinius metus siūlyti socialinės apsaugos ir darbo ministrui nustatyti papildomą kvotą, kurios dydis gali būti ne daugiau kaip 20 procentų darbuotojų, kuriems taikoma šakos kolektyvinė sutartis. Socialinės apsaugos ir darbo ministras, įvertinęs Užimtumo tarnybos direktoriaus pateiktą išvadą dėl šakos kolektyvinės sutarties šalių siūlymo pagal šio straipsnio 1 dalį ir suderinęs su vidaus reikalų ministru, priima sprendimą dėl papildomos kvotos nustatymo. Jeigu nustatoma papildoma kvota, ji taikoma siūlymo nustatyti papildomą kvotą teikimo metu kolektyvinę sutartį pasirašiusių darbdavių organizacijos nariams.
+Papildyta straipsnio dalimi:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
