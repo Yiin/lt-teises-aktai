@@ -1170,7 +1170,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 
-3) nagrinėja, ar viešojo administravimo subjektų, išskyrus Lietuvos Respublikos Vyriausybės priimtus teisės aktus, priimti teisės aktai ar kiti sprendimai atitinka šio įstatymo 4 straipsnyje nustatytus reikalavimus;
+3) nagrinėja, ar viešojo administravimo subjektų, išskyrus Lietuvos Respublikos Vyriausybės priimtus teisės aktus, priimti teisės aktai ar kiti sprendimai atitinka šio įstatymo 4 straipsnyje nustatytus reikalavimus;
 
 
 
@@ -1183,7 +1183,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 5) tiria ir nagrinėja šio įstatymo, Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo (toliau – Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymas) ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, pažeidimus ir taiko pažeidėjams šiuose įstatymuose numatytas sankcijas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
- 
+ 
 
 
 
@@ -1216,7 +1216,7 @@ Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 11) atlieka Konkurencijos tarybos valstybės institucijoms teiktų išvadų ir pasiūlymų dėl konkurencijos ribojimų įgyvendinimo stebėseną ir pagal kompetenciją imasi veiksmų, kad atitinkami konkurencijos ribojimai būtų pašalinti; 
 Papildyta straipsnio punktu:
 Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
- 
+ 
 
 
 
@@ -1224,29 +1224,34 @@ Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
 12) vykdo švietimą konkurencijos srityje; 
 Papildyta straipsnio punktu:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
- 
+ 
 
 
 
 
-13) atlieka kitas šiame ir kituose Konkurencijos tarybos veiklai taikomuose įstatymuose nustatytas funkcijas. 
+13) teikia metodinę pagalbą ūkio subjektams ir viešojo administravimo subjektams bei juos konsultuoja Konkurencijos tarybos atliekamos priežiūros klausimais, taip pat imasi kitų Lietuvos Respublikos viešojo administravimo įstatyme ir kituose teisės aktuose nustatytų prevencinių veiksmų, padedančių užtikrinti konkurenciją reglamentuojančių teisės aktų, kurių laikymosi priežiūrą atlieka Konkurencijos taryba, laikymąsi ir pažeidimų prevenciją;
+
+
+
+
+14) atlieka kitas šiame ir kituose Konkurencijos tarybos veiklai taikomuose įstatymuose nustatytas funkcijas. 
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
- 
+ 
 
 
 
 
 
 
-2. Konkurencijos taryba, atlikdama jai pavestas funkcijas, turi teisę:                         
+2. Konkurencijos taryba, atlikdama jai pavestas funkcijas, turi teisę:                         
 
 
 1) duoti privalomus nurodymus ūkio subjektams, tarp jų komerciniams bankams, kitoms kredito įstaigoms ir viešojo administravimo subjektams, pateikti finansinius ir kitus dokumentus, taip pat ir turinčius komercinių ar profesinių paslapčių, bei kitą informaciją, reikalingą Konkurencijos tarybos funkcijoms atlikti; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
- 
+ 
 
 
 
@@ -1254,7 +1259,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 2) stebėti, kad ūkio subjektai ar viešojo administravimo subjektai veiksmingai vykdytų jiems pagal šio įstatymo 35 straipsnio 1 ir 2 dalių nuostatas privalomus įpareigojimus ar pagal šio įstatymo 28 straipsnio 4 dalies nuostatas prisiimtus įsipareigojimus; 
 Papildyta straipsnio punktu:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
- 
+ 
 
 
 
@@ -1262,7 +1267,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 3) pagal kompetenciją priimti teisės aktus;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
- 
+ 
 
 
 
@@ -1270,7 +1275,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 4) nustatyti ir skelbti savo interneto svetainėje Konkurencijos tarybos veiklos prioritetus;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
- 
+ 
 
 
 
@@ -1278,7 +1283,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 5) sudaryti patarėjų komitetą;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
- 
+ 
 
 
 
@@ -1286,7 +1291,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 6) pasitelkti kompetentingus specialistus ir ekspertus. Specialistams ir ekspertams pavesti uždaviniai, teisės ir pareigos juos įgyvendinant yra nurodomi sutartyje su Konkurencijos taryba;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
- 
+ 
 
 
 
@@ -1294,7 +1299,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 7) organizuoti pasitarimus, steigti darbo, patariamąsias grupes ar komisijas, nustatyti jų darbo tvarką, gauti patariamojo pobūdžio išvadas ir pasiūlymus;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
- 
+ 
 
 
 
@@ -1304,24 +1309,14 @@ Straipsnio punkto pakeitimai:
 Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
- 
+ 
 
 
 
 
 9) naudotis kitomis Konkurencijos tarybai nustatytomis teisėmis.
 Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
- 
-
-
-
-
-
-
-
-
-19 straipsnis. Konkurencijos tarybos sudėtis, sudarymas ir darbo tvarka
+Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-1513019 straipsnis. Konkurencijos tarybos sudėtis, sudarymas ir darbo tvarka
 
 
 1. Konkurencijos tarybą sudaro pirmininkas ir keturi nariai. Konkurencijos tarybos pirmininką ir narius Ministro Pirmininko teikimu skiria Respublikos Prezidentas. Konkurencijos tarybos pirmininkas ir Konkurencijos tarybos nariai skiriami šešeriems metams. Tas pats asmuo Konkurencijos tarybos pirmininku ar nariu gali būti paskirtas ne daugiau kaip dviem kadencijoms iš eilės. Konkurencijos tarybos pirmininkas iš paskirtų Konkurencijos tarybos narių skiria du Konkurencijos tarybos pirmininko pavaduotojus.
@@ -2314,7 +2309,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 1. Ūkio subjektai, taip pat kiti asmenys, manantys, kad buvo pažeistos jų šiuo įstatymu ginamos teisės, turi teisę Konkurencijos tarybos nutarimus, kuriais užkertama tolesnė šio įstatymo pažeidimo tyrimo eiga ar kuriais baigiamas pranešimo apie koncentraciją nagrinėjimas, apskųsti pirmosios instancijos administraciniam teismui. Šio įstatymo 30 straipsnyje numatytus Konkurencijos tarybos nutarimus, išskyrus šio įstatymo 30 straipsnio 1 dalies 4 punkte nurodytą Konkurencijos tarybos nutarimą, turi teisę apskųsti procedūros dalyviai ir kiti suinteresuoti asmenys, nurodyti šio įstatymo 29 straipsnio 1 dalyje.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
- 
+ 
 
 
 
@@ -2322,22 +2317,14 @@ Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
 2. Skundas paduodamas raštu ne vėliau kaip per vieną mėnesį nuo Konkurencijos tarybos nutarimo įteikimo dienos arba nuo nutarimo paskelbimo dienos, atsižvelgiant į tai, kas įvyksta pirmiau. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
- 
+ 
 
 
 
 
-3. Skundo padavimas dėl Konkurencijos tarybos nutarimo, kuriuo ūkio subjektui ar viešojo administravimo subjektui paskirta bauda, nesustabdo Konkurencijos tarybos nutarimo vykdymo, išskyrus atvejus, kai Konkurencijos taryba, vadovaudamasi šio įstatymo 39 straipsnio 7 dalimi, priima sprendimą nesikreipti į antstolį dėl baudos priverstinio išieškojimo arba jeigu teismas nusprendžia kitaip. 
+3. Skundo dėl Konkurencijos tarybos nutarimo, kuriuo ūkio subjektui ar viešojo administravimo subjektui paskirta bauda, padavimas sustabdo pusės paskirtosios baudos ir atitinkamos palūkanų dalies priverstinį išieškojimą iki teismo sprendimo įsiteisėjimo dienos.
 Straipsnio dalies pakeitimai:
-Nr. XIII-2219, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10161
- 
-
-
-
-
-
-
-34 straipsnis. Teismo sprendimas
+Nr. XIII-2219, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-1016134 straipsnis. Teismo sprendimas
 
 
 Teismas, išnagrinėjęs skundą dėl Konkurencijos tarybos nutarimo, priima vieną iš šių sprendimų:
