@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0258F89BCE57"
 
 # Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 85-3140, i. k. 1051010ISTA000X-296
  
@@ -650,25 +650,25 @@ BENDRADARBIAVIMAS SU KITOMIS EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS KOMPENSUOJA
  
 
 
-17 straipsnis. Lietuvos Respublikos kompetentingos institucijos, bendradarbiaujančios su kitų Europos Sąjungos valstybių narių kompetentingomis institucijomis
+17 straipsnis. Lietuvos Respublikos kompetentingos institucijos, bendradarbiaujančios su kitų Europos Sąjungos valstybių narių kompetentingomis institucijomis 
 
 
-1. Lietuvos Respublikos teisingumo ministerija bendradarbiauja su Europos Komisija ir kitų Europos Sąjungos valstybių narių kompetentingomis institucijomis siekdama užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, tinkamą įgyvendinimą.
-
-
-
-
-2. Teisingumo ministerija yra įgaliota siųsti kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms Lietuvos Respublikos piliečių, kitų Lietuvos Respublikoje teisėtai nuolat gyvenančių asmenų prašymus kompensuoti smurtiniais nusikaltimais, padarytais kitos Europos Sąjungos valstybės narės teritorijoje, padarytą žalą. Teisingumo ministerija, įgyvendindama šią funkciją, turi teisę tvarkyti šiuos nukentėjusio asmens ir už žalą atsakingo asmens duomenis: asmens vardą, pavardę, gimimo datą, asmens kodą, pilietybę, gyvenamąją vietą, giminystės ryšį, kontaktinius duomenis ir kitus asmens duomenis, kurie pagal kitų Europos Sąjungos valstybių narių teisės aktus yra būtini siekiant priimti sprendimus dėl smurtiniais nusikaltimais padarytos žalos kompensavimo.
+1. Fondo programos vykdytojas bendradarbiauja su Europos Komisija ir kitų Europos Sąjungos valstybių narių kompetentingomis institucijomis siekdamas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, tinkamą įgyvendinimą.
 
 
 
 
-3. Teisingumo ministerija yra įgaliota spręsti dėl kitose Europos Sąjungos valstybėse narėse teisėtai nuolat gyvenančių asmenų prašymų kompensuoti smurtiniais nusikaltimais, padarytais Lietuvos Respublikos teritorijoje, padarytą žalą. Teisingumo ministerija, nagrinėdama kitose Europos Sąjungos valstybėse narėse teisėtai nuolat gyvenančių asmenų prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą, turi teisę tvarkyti ir gauti nukentėjusio asmens ir už žalą atsakingo asmens duomenis, nurodytus šio įstatymo 6 straipsnio 2 ir 3 dalyse ir 10 straipsnio 2 ir 3 dalyse. 
+2. Fondo programos vykdytojas yra įgaliotas siųsti kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms Lietuvos Respublikos piliečių, kitų Lietuvos Respublikoje teisėtai nuolat gyvenančių asmenų prašymus kompensuoti smurtiniais nusikaltimais, padarytais kitos Europos Sąjungos valstybės narės teritorijoje, padarytą žalą. Fondo programos vykdytojas, įgyvendindamas šią funkciją, turi teisę tvarkyti šiuos nukentėjusio asmens ir už žalą atsakingo asmens duomenis: asmens vardą, pavardę, gimimo datą, asmens kodą, pilietybę, gyvenamąją vietą, giminystės ryšį, kontaktinius duomenis ir kitus asmens duomenis, kurie pagal kitų Europos Sąjungos valstybių narių teisės aktus yra būtini siekiant priimti sprendimus dėl smurtiniais nusikaltimais padarytos žalos kompensavimo.
 
 
 
 
-4. Šiame straipsnyje numatytais atvejais gautus asmens duomenis Teisingumo ministerija saugo 10 metų ir pasibaigus šiam saugojimo terminui sunaikina.
+3. Fondo programos vykdytojas yra įgaliotas spręsti dėl kitose Europos Sąjungos valstybėse narėse teisėtai nuolat gyvenančių asmenų prašymų kompensuoti smurtiniais nusikaltimais, padarytais Lietuvos Respublikos teritorijoje, padarytą žalą. Fondo programos vykdytojas, nagrinėdamas kitose Europos Sąjungos valstybėse narėse teisėtai nuolat gyvenančių asmenų prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą, turi teisę tvarkyti ir gauti nukentėjusio asmens ir už žalą atsakingo asmens duomenis, nurodytus šio įstatymo 6 straipsnio 2 ir 3 dalyse ir 10 straipsnio 2 ir 3 dalyse. 
+
+
+
+
+4. Šiame straipsnyje numatytais atvejais gautus asmens duomenis Fondo programos vykdytojas saugo 10 metų ir pasibaigus šiam saugojimo terminui sunaikina.
  
 
 
@@ -679,7 +679,7 @@ BENDRADARBIAVIMAS SU KITOMIS EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS KOMPENSUOJA
 18 straipsnis. Bendradarbiavimas kompensuojant smurtiniais nusikaltimais, padarytais Lietuvos Respublikos teritorijoje, padarytą žalą
 
 
-1. Šio įstatymo 3 straipsnio 1 dalyje ir 8 straipsnio 1 dalyje nurodyti asmenys turi teisę Teisingumo ministerijai pateikti prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą, prašymus avansu kompensuoti smurtiniais nusikaltimais padarytą žalą ir kitus šiame įstatyme nurodytus dokumentus kitos Europos Sąjungos valstybės narės, kurioje jie teisėtai nuolat gyvena, kompetentingai institucijai arba tiesiogiai Teisingumo ministerijai.
+1. Šio įstatymo 3 straipsnio 1 dalyje ir 8 straipsnio 1 dalyje nurodyti asmenys turi teisę Fondo programos vykdytojui pateikti prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą, prašymus avansu kompensuoti smurtiniais nusikaltimais padarytą žalą ir kitus šiame įstatyme nurodytus dokumentus kitos Europos Sąjungos valstybės narės, kurioje jie teisėtai nuolat gyvena, kompetentingai institucijai arba tiesiogiai Fondo programos vykdytojui.
 
 
 
@@ -689,7 +689,7 @@ BENDRADARBIAVIMAS SU KITOMIS EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS KOMPENSUOJA
 
 
 
-3. Teisingumo ministerija, iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos gavusi prašymą kompensuoti smurtiniu nusikaltimu padarytą žalą, privalo ne vėliau kaip per 5 darbo dienas nuo prašymo gavimo dienos šiai institucijai ir prašymą pateikusiam asmeniui pateikti šiuos duomenis:
+3. Fondo programos vykdytojas, iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos gavęs prašymą kompensuoti smurtiniu nusikaltimu padarytą žalą, privalo ne vėliau kaip per 5 darbo dienas nuo prašymo gavimo dienos šiai institucijai ir prašymą pateikusiam asmeniui pateikti šiuos duomenis:
 
 
 1) nurodyti asmenį ar administracijos padalinį, atsakingą už prašymo nagrinėjimą;
@@ -707,14 +707,14 @@ BENDRADARBIAVIMAS SU KITOMIS EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS KOMPENSUOJA
 
 
 
-4) nurodyti pateikti dokumentus ar informaciją, kurių reikia prašymui nagrinėti, jei pateikti ne visi reikalingi dokumentai.
+4) pateikti dokumentus ar informaciją, kurių reikia prašymui nagrinėti, jei pateikti ne visi reikalingi dokumentai.
 
 
 
 
 
 
-4. Sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo asmeniui, kuris teisėtai nuolat gyvena kitoje Europos Sąjungos valstybėje narėje, nedelsiant, bet ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo, siunčiamas Europos Komisijos nustatyta forma prašymą kompensuoti smurtiniu nusikaltimu padarytą žalą pateikusiam asmeniui ir kitos Europos Sąjungos valstybės narės kompetentingai institucijai.
+4. Sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo asmeniui, kuris teisėtai nuolat gyvena kitoje Europos Sąjungos valstybėje narėje, nedelsiant, bet ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos siunčiamas Europos Komisijos nustatyta forma prašymą kompensuoti smurtiniu nusikaltimu padarytą žalą pateikusiam asmeniui ir kitos Europos Sąjungos valstybės narės kompetentingai institucijai.
  
 
 
@@ -725,7 +725,7 @@ BENDRADARBIAVIMAS SU KITOMIS EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS KOMPENSUOJA
 19 straipsnis. Bendradarbiavimas kompensuojant smurtiniais nusikaltimais, padarytais kitos Europos Sąjungos valstybės narės teritorijoje, padarytą žalą
 
 
-1. Asmenys, kurie teisėtai nuolat gyvena Lietuvos Respublikoje ir kuriems žala buvo padaryta smurtiniais nusikaltimais, padarytais kitos Europos Sąjungos valstybės narės teritorijoje, turi teisę prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą pateikti tiesiogiai tos Europos Sąjungos valstybės narės kompetentingai institucijai arba per siunčiančią instituciją – Teisingumo ministeriją.
+1. Asmenys, kurie teisėtai nuolat gyvena Lietuvos Respublikoje ir kuriems žala buvo padaryta smurtiniais nusikaltimais, padarytais kitos Europos Sąjungos valstybės narės teritorijoje, turi teisę prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą pateikti tiesiogiai tos Europos Sąjungos valstybės narės kompetentingai institucijai arba per siunčiančią instituciją – Fondo programos vykdytoją.
 
 
 
@@ -735,32 +735,34 @@ BENDRADARBIAVIMAS SU KITOMIS EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS KOMPENSUOJA
 
 
 
-3. Teisingumo ministerija Lietuvos Respublikos piliečių, taip pat kitų Lietuvos Respublikoje teisėtai nuolat gyvenančių asmenų prašymu suteikia jiems informaciją apie kitų Europos Sąjungos valstybių narių kompetentingų institucijų nustatytas smurtiniais nusikaltimais padarytos žalos kompensavimo sąlygas ir tvarką.
+3. Fondo programos vykdytojas Lietuvos Respublikos piliečių, taip pat kitų Lietuvos Respublikoje teisėtai nuolat gyvenančių asmenų prašymu suteikia jiems informaciją apie kitų Europos Sąjungos valstybių narių kompetentingų institucijų nustatytas smurtiniais nusikaltimais padarytos žalos kompensavimo sąlygas ir tvarką.
 
 
 
 
-4. Teisingumo ministerija Lietuvos Respublikos piliečių, taip pat kitų Lietuvos Respublikoje teisėtai nuolat gyvenančių asmenų prašymu teikia jiems teisinę pagalbą pateikdama kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą ir kitus reikalingus dokumentus. Teisingumo ministerija šių dokumentų pagrįstumo nevertina.
+4. Fondo programos vykdytojas Lietuvos Respublikos piliečių, taip pat kitų Lietuvos Respublikoje teisėtai nuolat gyvenančių asmenų prašymu teikia jiems teisinę pagalbą pateikdamas kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą ir kitus reikalingus dokumentus. Fondo programos vykdytojas šių dokumentų pagrįstumo nevertina.
 
 
 
 
-5. Teisingumo ministerija privalo ne vėliau kaip per 5 darbo dienas persiųsti kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą ir kitus reikalingus dokumentus. Šie prašymai siunčiami Europos Komisijos nustatyta forma.
+5. Fondo programos vykdytojas privalo ne vėliau kaip per 5 darbo dienas persiųsti kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą ir kitus reikalingus dokumentus. Šie prašymai siunčiami Europos Komisijos nustatyta forma.
 
 
 
 
-6. Teisingumo ministerija padeda pateikti kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms reikalingą papildomą informaciją ir šio straipsnio 1 dalyje nurodytų asmenų prašymu tiesiogiai ją persiunčia kartu su siunčiamų dokumentų sąrašu ne vėliau kaip per 5 darbo dienas.
+6. Fondo programos vykdytojas padeda pateikti kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms reikalingą papildomą informaciją ir šio straipsnio 1 dalyje nurodytų asmenų prašymu tiesiogiai ją persiunčia kartu su siunčiamų dokumentų sąrašu ne vėliau kaip per 5 darbo dienas.
 
 
 
 
-7. Teisingumo ministerija šiame straipsnyje nurodytus veiksmus atlieka nemokamai.
+7. Fondo programos vykdytojas šiame straipsnyje nurodytus veiksmus atlieka nemokamai.
+
+
+
+
+Skyriaus pakeitimai:
+Nr. XV-138, 2025-03-27, paskelbta TAR 2025-04-01, i. k. 2025-05660
  
-
-
-
-
 
 
 
@@ -860,3 +862,8 @@ Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1606, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25186
 Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 6, 10 ir 14 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-138, 2025-03-27, paskelbta TAR 2025-04-01, i. k. 2025-05660
+Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 V skyriaus pakeitimo įstatymas
