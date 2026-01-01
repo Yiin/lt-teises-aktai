@@ -15,6 +15,21 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2DD07D41B8F1"
 
 Įstatymas
 skelbtas: Žin., 2007, Nr. 120-4881
+ 
+LIETUVOS RESPUBLIKOS
+FISKALINĖS VALDYSENOS
+ĮSTATYMAS
+ 
+2007 m. lapkričio 8 d. Nr. X-1316
+Vilnius
+1 straipsnis. Įstatymo paskirtis
+1. Šio įstatymo paskirtis – sudaryti sąlygas skaidriai valdyti Lietuvos valdžios sektoriaus finansus (viešuosius finansus).
+2. Šiame įstatyme nustatoma fiskalinė valdysena, kad būtų užtikrintas Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme ir Europos Sąjungos teisės aktuose, nurodytuose šio įstatymo priede, nustatytų fiskalinės drausmės taisyklių (toliau šiame įstatyme – fiskalinės drausmės taisyklės) laikymasis.
+3. Šiuo įstatymu įgyvendinamas Fiskalinės sutarties įgyvendinimo konstitucinis įstatymas.
+4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.kos fiskalinės valdysenos įstatymas
+
+Įstatymas
+skelbtas: Žin., 2007, Nr. 120-4881
  
 LIETUVOS RESPUBLIKOS
 FISKALINĖS DRAUSMĖS
@@ -210,12 +225,7 @@ biudžeto ir savivaldybių biudžetų visumai. Valstybės biudžeto specialios
 tikslinės dotacijos savivaldybių biudžetams mažinimo ir kitų valstybės biudžeto
 išlaidų perleidimo savivaldybėms, palyginti su prieš tai buvusiais metais,
 sumos nėra atimamos iš planuojamų valstybės biudžeto išlaidų.
-Straipsnio
-pakeitimai:
-Nr. XI-1115,
-2010-11-12, Žin., 2010, Nr. 139-7099 (2010-11-27)
-Nr. XI-2276,
-2012-10-16, Žin., 2012, Nr. 126-6324 (2012-10-31)
+
 Nr. XII-1378,
 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19661
 Nr. XII-1290, 2014-11-06,
@@ -241,30 +251,14 @@ Skelbiu
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
-Lietuvos Respublikos 
-fiskalinės drausmės 
+Lietuvos Respublikos
+fiskalinės valdysenos
 įstatymo
 priedas
- 
-ĮGYVENDINAMI
-EUROPOS SĄJUNGOS TEISĖS AKTAI
- 
-1. 1997 m.
-liepos 7 d. Tarybos reglamentas (EB) Nr. 1466/97 dėl biudžeto būklės priežiūros
-stiprinimo ir ekonominės politikos priežiūros bei koordinavimo (OL 2004 m.
-specialusis leidimas, 10 skyrius, 1 tomas, p. 84) su paskutiniais
-pakeitimais, padarytais 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos
-reglamentu (ES) Nr. 1175/2011 (OL 2011 L 306, p. 12).
-2.
-1997 m. liepos 7 d. Tarybos reglamentas (EB) Nr. 1467/97 dėl perviršinio
-deficito procedūros įgyvendinimo paspartinimo ir paaiškinimo (OL 2004 m.
-specialusis leidimas, 10 skyrius, 1 tomas, p. 89) su paskutiniais
-pakeitimais, padarytais 2011 m. lapkričio 8 d. Tarybos reglamentu (ES) Nr.
-1177/2011 (OL 2011 L 306, p. 33).   
-Priedo
-pakeitimai:
-Nr. XII-1290, 2014-11-06,
-paskelbta TAR 2014-11-18, i. k. 2014-17029
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+1. 2011 m. lapkričio 8 d. Tarybos direktyva 2011/85/ES dėl reikalavimų valstybių narių biudžeto sistemoms su pakeitimais, padarytais 2024 m. balandžio 29 d. Tarybos direktyva (ES) 2024/1265.
+2. 2024 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1263 dėl veiksmingo ekonominės politikos koordinavimo ir daugiašalės biudžeto priežiūros, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 1466/97.
  
  
  
