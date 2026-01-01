@@ -833,15 +833,15 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 11 straipsnis. Labdaros ir paramos apskaita ir viešinimas 
 Pakeistas straipsnio pavadinimas:
 Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
- 
+ 
 
 
-1. Paramos teikėjai, išskyrus fizinius asmenis ir asmenis, nurodytus šio straipsnio 2 dalyje, privalo tvarkyti pagal šį įstatymą teikiamos paramos apskaitą: joje nurodyti duomenis apie konkrečius paramos gavėjus, paramos dalyką ir jo vertę. Paramos teikėjai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais privalo pateikti Valstybinei mokesčių inspekcijai mėnesio ir metinę ataskaitas apie suteiktą paramą. Mėnesio ataskaita teikiama tais atvejais, kai nuo kalendorinių metų pradžios vienam paramos gavėjui suteiktos paramos suma viršija 15 000 eurų. 
+1. Paramos teikėjai, išskyrus fizinius asmenis ir asmenis, nurodytus šio straipsnio 2 dalyje, privalo tvarkyti pagal šį įstatymą teikiamos paramos apskaitą: joje nurodyti duomenis apie konkrečius paramos gavėjus, paramos dalyką ir jo vertę. Paramos teikėjai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais privalo pateikti Valstybinei mokesčių inspekcijai metinę ataskaitą apie suteiktą paramą.
 
 
 
 
-2. Juridiniai asmenys, kurie pagal šio įstatymo nuostatas turi teisę gauti paramą, išskyrus šeimynas, privalo atskirai tvarkyti pagal šį įstatymą gaunamos paramos apskaitą (joje nurodyti gautos paramos teikėjus, jeigu parama nebuvo gauta anonimiškai, taip pat paramos vertę ir kaip ši parama buvo panaudota, tai yra įvardyti konkrečius gavėjus, jeigu lėšos ar turtas, gauti kaip parama, perduoti kitam asmeniui) ir jų pačių teikiamos paramos ir (arba) labdaros apskaitą (joje nurodyti duomenis apie konkrečius paramos ir (arba) labdaros gavėjus, paramos ir (arba) labdaros dalyką ir jo vertę) bei Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikti Valstybinei mokesčių inspekcijai mėnesio ir metinę ataskaitas apie gautą paramą ir jos panaudojimą, apie jų pačių suteiktą paramą ir (arba) labdarą, taip pat apie savo veiklą, susijusią su šio įstatymo 3 straipsnio 3 dalyje nurodytų visuomenei naudingų tikslų įgyvendinimu. Juridiniai asmenys mėnesio ataskaitą teikia tais atvejais, kai nuo kalendorinių metų pradžios iš vieno paramos teikėjo gautos paramos arba šių juridinių asmenų vienam paramos ir (arba) labdaros gavėjui suteiktos paramos ir (arba) labdaros suma viršija 15 000 eurų. Vyriausybė ar jos įgaliota institucija taip pat nustato anonimiškai gautos paramos apskaitos tvarką.
+2. Juridiniai asmenys, kurie pagal šio įstatymo nuostatas turi teisę gauti paramą, išskyrus šeimynas, privalo atskirai tvarkyti pagal šį įstatymą gaunamos paramos apskaitą (joje nurodyti gautos paramos teikėjus, jeigu parama nebuvo gauta anonimiškai, taip pat paramos vertę ir kaip ši parama buvo panaudota, tai yra įvardyti konkrečius gavėjus, jeigu lėšos ar turtas, gauti kaip parama, perduoti kitam asmeniui) ir jų pačių teikiamos paramos ir (arba) labdaros apskaitą (joje nurodyti duomenis apie konkrečius paramos ir (arba) labdaros gavėjus, paramos ir (arba) labdaros dalyką ir jo vertę) bei Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikti Valstybinei mokesčių inspekcijai metinę ataskaitą apie gautą paramą ir jos panaudojimą, apie jų pačių suteiktą paramą ir (arba) labdarą, taip pat apie savo veiklą, susijusią su šio įstatymo 3 straipsnio 3 dalyje nurodytų visuomenei naudingų tikslų įgyvendinimu. Vyriausybė ar jos įgaliota institucija taip pat nustato anonimiškai gautos paramos apskaitos tvarką.
 
 
 
@@ -856,12 +856,12 @@ Straipsnio dalies naikinimas:
 Nr. XIV-2465, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25958
 Papildyta straipsnio dalimi:
 Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
- 
+ 
 
 
 
 
-4. Valstybinė mokesčių inspekcija šio straipsnio 1, 2 ir 3 dalyse nurodytose ataskaitose pateiktą informaciją Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikia Lietuvos statistikos departamentui.
+4. Valstybinė mokesčių inspekcija šio straipsnio 1, 2 ir 3 dalyse nurodytose ataskaitose pateiktą informaciją Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikia Valstybės duomenų agentūrai.
 
 
 
@@ -887,7 +887,7 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 Straipsnio dalies pakeitimai:
 Nr. XIII-1955, 2019-01-15, paskelbta TAR 2019-01-29, i. k. 2019-01320
 Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
- 
+ 
 
 
 
@@ -895,22 +895,15 @@ Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
 61. Įmonių, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau kaip 50 procentų balsų, interneto svetainėse skelbiama ir šio straipsnio 6 dalyje nurodyta informacija apie jų patronuojamųjų bendrovių ir per patronuojamąsias bendroves susijusių paskesnių eilių patronuojamųjų bendrovių suteiktą paramą. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
- 
+ 
 
 
 
 
-7. Valstybinė mokesčių inspekcija Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais savo interneto svetainėje skelbia paramos dalyko, nurodyto šio įstatymo 4 straipsnio 2 dalies 2 punkte, gavėjus ir jiems kiekvienais metais pervestų piniginių lėšų sumas, taip pat paskutiniais praėjusiais metais pervestų piniginių lėšų patikslintus duomenis.
-TAR pastaba. 7 dalies nuostatos taikomos viešinant informaciją apie paramos gavėjus ir jų 2017 metais ir vėlesniais metais gautą paramą piniginėmis lėšomis, sudarančiomis pajamų mokesčio dalį iki 2 procentų gyventojo pajamų mokesčio sumos.
+7. Valstybinė mokesčių inspekcija Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais savo interneto svetainėje skelbia paramos dalyko, nurodyto šio įstatymo 4 straipsnio 2 dalies 2 punkte, gavėjus ir jiems kiekvienais metais pervestų piniginių lėšų sumas, taip pat paskutiniais praėjusiais metais pervestų piniginių lėšų patikslintus duomenis.
+TAR pastaba. 7 dalies nuostatos taikomos viešinant informaciją apie paramos gavėjus ir jų 2017 metais ir vėlesniais metais gautą paramą piniginėmis lėšomis, sudarančiomis pajamų mokesčio dalį iki 2 procentų gyventojo pajamų mokesčio sumos.
 Papildyta straipsnio dalimi:
 Nr. XIII-1309, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10962
- 
-
-
-
-
-
-
 12 straipsnis. Labdaros ir paramos kontrolė
 
 
@@ -924,21 +917,13 @@ Nr. XIII-1309, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10962
 
 
 
-3. Nustačiusios labdaros ir paramos teikimo, gavimo arba naudojimo pažeidimus, kontrolės institucijos (Valstybinė mokesčių inspekcija ir (arba) muitinė) panaikina mokesčių lengvatas ir taiko įstatymų nustatytas sankcijas. 
- 
-
-
-
-
-
-
-13 straipsnis. Paramos gavėjo statusas
+3. Nustačiusios labdaros ir paramos teikimo, gavimo arba naudojimo pažeidimus, kontrolės institucijos (Valstybinė mokesčių inspekcija ir (arba) muitinė) panaikina mokesčių lengvatas ir taiko įstatymų nustatytas sankcijas.13 straipsnis. Paramos gavėjo statusas
 
 
 1. Šio įstatymo 7 straipsnio 1 dalyje nurodyti asmenys gali kreiptis į Juridinių asmenų registro tvarkytoją dėl paramos gavėjo statuso suteikimo. Paramos gavėjo statusas privalo būti suteiktas, jeigu: 
 
 
-1) šių asmenų įstatuose (nuostatuose) yra numatyta vykdyti šio įstatymo 3 straipsnio 3 dalyje nurodytą visuomenei naudingą veiklą ir
+1) šių asmenų įstatuose (nuostatuose) yra numatyta vykdyti šio įstatymo 3 straipsnio 3 dalyje nurodytą visuomenei naudingą veiklą ir
 
 
 
@@ -953,7 +938,7 @@ Nr. XIII-1309, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10962
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2569, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19881
- 
+ 
 
 
 
@@ -968,7 +953,7 @@ Nr. XIII-2569, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19881
 
 
 
-4. Paramos gavėjo statuso suteikimo fiziniams asmenims, nurodytiems šio įstatymo 7 straipsnio 2 dalyje, įskaitant pakartotinį šio statuso suteikimą, ir panaikinimo tvarka nustatoma Meno kūrėjo ir meno kūrėjų organizacijų informacinės sistemos nuostatuose, kuriuos tvirtina kultūros ministras.
+4. Paramos gavėjo statuso suteikimo fiziniams asmenims, nurodytiems šio įstatymo 7 straipsnio 2 dalyje, įskaitant pakartotinį šio statuso suteikimą, ir panaikinimo tvarka nustatoma Meno kūrėjo ir meno kūrėjų organizacijų informacinės sistemos nuostatuose, kuriuos tvirtina kultūros ministras.
 
 
 
@@ -981,12 +966,12 @@ Nr. XIII-2569, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19881
 
 
 
-2) asmuo, pažeisdamas šio įstatymo reikalavimus, suteikė, gavo ar panaudojo didesnę kaip 250 bazinių socialinių išmokų dydžio per vienus kalendorinius metus arba didesnę kaip 500 bazinių socialinių išmokų dydžio per 3 kalendorinius metus iš eilės labdaros ar paramos lėšų sumą;
+2) asmuo, pažeisdamas šio įstatymo reikalavimus, suteikė, gavo ar panaudojo didesnę kaip 250 bazinių socialinių išmokų dydžio per vienus kalendorinius metus arba didesnę kaip 500 bazinių socialinių išmokų dydžio per 3 kalendorinius metus iš eilės labdaros ar paramos lėšų sumą;
 
 
 
 
-3) asmuo per 2 mėnesius po to, kai buvo įspėtas apie šį pažeidimą, nesumokėjo mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų bendra suma valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, viršija  10 000 eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi;
+3) asmuo per 2 mėnesius po to, kai buvo įspėtas apie šį pažeidimą, nesumokėjo mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų bendra suma valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, viršija  10 000 eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi;
 
 
 
@@ -1006,7 +991,7 @@ Nr. XIII-2569, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19881
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2569, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19881
- 
+ 
 
 
 
@@ -1014,10 +999,10 @@ Nr. XIII-2569, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19881
 6. Juridinių asmenų registro tvarkytojas savo iniciatyva panaikina Juridinių asmenų registre įregistruoto paramos gavėjo statusą: 
 
 
-1) kai paramos gavėjas per Lietuvos Respublikos civilinio kodekso 2.66 straipsnio 4 dalyje nurodytą terminą, jei įstatymuose nenumatytas kitas terminas, Juridinių asmenų registro tvarkytojui nepateikė metinių finansinių ataskaitų rinkinio ir metinio pranešimo, veiklos ataskaitos arba metinės ataskaitos per 2 mėnesius po to, kai buvo įspėtas apie šį pažeidimą; 
+1) kai paramos gavėjas per Lietuvos Respublikos civilinio kodekso 2.66 straipsnio 4 dalyje nurodytą terminą, jei įstatymuose nenumatytas kitas terminas, Juridinių asmenų registro tvarkytojui nepateikė metinių finansinių ataskaitų rinkinio ir metinio pranešimo, veiklos ataskaitos arba metinės ataskaitos per 2 mėnesius po to, kai buvo įspėtas apie šį pažeidimą; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2569, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19881
- 
+ 
 
 
 
@@ -1029,7 +1014,7 @@ Papildyta straipsnio dalimi:
 Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
 Straipsnio dalies pakeitimai:
 Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
- 
+ 
 
 
 
@@ -1040,22 +1025,14 @@ Nr. XIII-1331, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10974
 Nr. XIII-2569, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19881
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
- 
+ 
 
 
 
 
 8. Tradicinės Lietuvos religinės bendruomenės, bendrijos ir centrai turi paramos gavėjo statusą. Jiems netaikomos šio straipsnio 1–7 dalių nuostatos.
 Straipsnio dalies pakeitimai:
-Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
- 
-
-
-
-
-
-
-14 straipsnis. Ginčų nagrinėjimas
+Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-2697814 straipsnis. Ginčų nagrinėjimas
 
 
 Ginčai dėl labdaros ir paramos nagrinėjami Lietuvos Respublikos įstatymų nustatyta tvarka.
