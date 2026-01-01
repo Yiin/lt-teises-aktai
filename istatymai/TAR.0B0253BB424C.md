@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0B0253BB424C"
 
 # Lietuvos Respublikos valstybinės kalbos įstatymas
 
-Suvestinė redakcija nuo 2002-07-03 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 15-344, i. k. 0951010ISTA000I-779
  
@@ -119,6 +119,19 @@ Valstybės ir savivaldos institucijų, įstaigų ir organizacijų, ryšių, tran
  
 
 
+
+
+
+
+71 straipsnis.
+
+
+Lietuvos Respublikoje parduodantys prekes ir (ar) paslaugas teikiantys juridiniai ir fiziniai asmenys, kitos organizacijos ir jų padaliniai, išskyrus Lietuvos Respublikoje laikinai prekes parduodančius fizinius asmenis ir fizinius asmenis, kurie prekių pardavimo veikla nesiverčia nuolat, užtikrina tiesioginį gyventojų aptarnavimą valstybine kalba Vyriausybės nustatytu lietuvių kalbos mokėjimo lygiu. Išimtys gali būti taikomos Lietuvos Respublikos mokslo ir studijų įstatyme numatytais atvejais, kai reikalavimas mokėti valstybinę kalbą laikomas nepagrįstu teisės dirbti ribojimu.
+
+
+Papildyta straipsniu:
+Nr. XIV-3007, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17771
+ 
 
 
 
@@ -299,9 +312,16 @@ Lietuvos Respublikoje viešieji užrašai yra valstybine kalba.
 
 
 Valstybinė kalba privaloma visų Lietuvos Respublikos įmonių, įstaigų ir organizacijų antspauduose, spauduose, dokumentų blankuose, iškabose, tarnybinių patalpų ir kituose užrašuose, Lietuvos gaminių ir paslaugų pavadinimuose bei aprašuose.
+
+
+
+
+Informacija apie parduodamas prekes ir teikiamas paslaugas teikiama ir prekės ženklinamos valstybine kalba.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-3007, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17771
  
-
-
 
 
 
@@ -397,15 +417,17 @@ Bet kokie veiksmai prieš Lietuvos Respublikos Konstitucijos nustatytą valstybi
 
 
 
-Už šio įstatymo nuostatų tiesioginį vykdymą atsakingi institucijų, įstaigų, įmonių, tarnybų bei organizacijų vadovai.
+Už šio įstatymo nuostatų tiesioginį vykdymą atsakingi institucijų, įstaigų, įmonių, tarnybų, organizacijų vadovai ir fiziniai asmenys.
 
 
 
 
 Asmenys, pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-3007, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17771
  
-
-
 
 
 
@@ -466,3 +488,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-954, 2002-06-13, Žin., 2002, Nr. 68-2760 (2002-07-03), i. k. 1021010ISTA00IX-954
 Lietuvos Respublikos valstybinės kalbos įstatymo 16 ir 25 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3007, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17771
+Lietuvos Respublikos valstybinės kalbos įstatymo Nr. I-779 17 ir 24 straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas
