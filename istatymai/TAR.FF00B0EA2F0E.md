@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF00B0EA2F0E"
 
 # Lietuvos Respublikos asociacijų įstatymas
 
-Suvestinė redakcija nuo 2025-01-15 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 25-745, i. k. 1041010ISTA0IX-1969
  
@@ -674,6 +674,14 @@ Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
 
 3. Prie viešojo sektoriaus subjektų priskiriamos asociacijos metinių finansinių ataskaitų rinkinys, veiklos ataskaita, o jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada Juridinių asmenų registro tvarkytojui teikiami finansų ministro nustatyta tvarka. Prie viešojo sektoriaus subjektų nepriskiriamos asociacijos metinių finansinių ataskaitų rinkinys, veiklos ataskaita, metinė ataskaita, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada, jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, teikiami Juridinių asmenų registro tvarkytojui Vyriausybės nustatyta tvarka.
+
+
+
+
+4. Juridinių asmenų registro tvarkytojas nepriima asociacijos pateikto metinių finansinių ataskaitų rinkinio be auditoriaus išvados, jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, išskyrus atvejus, kai prie viešojo sektoriaus subjektų priskiriama asociacija metinių finansinių ataskaitų rinkinį teikia finansų ministro nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
+ 
 
 
 Straipsnio pakeitimai:
