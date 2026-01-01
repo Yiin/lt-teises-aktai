@@ -1022,7 +1022,7 @@ TURTO VERTĖS NORMATYVO PINIGINEI SOCIALINEI PARAMAI GAUTI NUSTATYMAS
 
 
 
-8) piniginės lėšos, turimos bankuose, kitose kredito įstaigose ir ne bankuose bei ne kitose kredito įstaigose, jeigu jų bendra suma viršija 580 eurų, išskyrus gautą vaikui (įvaikiui) išlaikyti priteistą konkrečią pinigų sumą;
+8) piniginės lėšos, turimos bankuose, kitose kredito įstaigose ir ne bankuose bei ne kitose kredito įstaigose, jeigu jų bendra suma viršija 580 eurų, išskyrus gautą vaikui (įvaikiui) išlaikyti priteistą konkrečią pinigų sumą, taip pat Lietuvos Respublikos pensijų kaupimo įstatymo 4 straipsnio 8 dalies 5 punkte nustatytais pagrindais išmokėtą pensijų fonde sukauptą pensijų turtą;
 
 
 
