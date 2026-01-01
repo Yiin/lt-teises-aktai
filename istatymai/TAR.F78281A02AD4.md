@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f78281a02ad411eabe008ea93139d588"
 
 # Lietuvos Respublikos principinės kariuomenės struktūros, karių ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ribinio skaičiaus patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2024-07-18 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01 iki 2026-12-31
  
 Įstatymas paskelbtas: TAR 2019-12-30, i. k. 2019-21556
  
@@ -153,7 +153,7 @@ b) Krašto apsaugos savanorių pajėgos – Dainavos apygardos 1-oji rinktinė, 
 
 
 
-2. Bendras ribinis karių skaičius nustatomas nuo 20 390 iki 27 370. Iš šio skaičiaus:
+2. Bendras ribinis karių skaičius nustatomas nuo 20 840 iki 29 380. Iš šio skaičiaus:
 
 
 1) ribinis profesinės karo tarnybos karių skaičius – nuo 11 400 iki 15 600, iš jų: generolų ir admirolų – iki 14, pulkininkų ir jūrų kapitonų – iki 66, pulkininkų leitenantų ir komandorų – iki 262, majorų ir komandorų leitenantų – iki 963;
@@ -161,7 +161,7 @@ b) Krašto apsaugos savanorių pajėgos – Dainavos apygardos 1-oji rinktinė, 
 
 
 
-2) ribinis privalomosios pradinės karo tarnybos karių skaičius – nuo 3 790 iki 5 030 per metus, iš šio skaičiaus: pašaukiamų į nuolatinę privalomąją pradinę karo tarnybą – nuo 3 400 iki 4 400, dalyvaujančių jaunesniųjų karininkų vadų mokymuose – nuo 390 iki 630;
+2) ribinis privalomosios pradinės karo tarnybos karių skaičius – nuo 4 240 iki 7 040 per metus, iš šio skaičiaus: pašaukiamų į 9 mėnesių privalomąją pradinę karo tarnybą – nuo 3 400 iki 4 400, pašaukiamų į 3 mėnesių privalomąją pradinę karo tarnybą, įgijusių Lietuvos kariuomenėje trūkstamas profesijas (kvalifikacijas), – nuo 50 iki 100, pašaukiamų nuo 160 iki 200 dienų į privalomąją pradinę karo tarnybą pagal Lietuvos kariuomenės vado patvirtintą jaunesniųjų karininkų vadų mokymo programą – nuo 390 iki 1000, pašaukiamų nuo 90 iki 120 dienų į privalomąją pradinę karo tarnybą pagal Lietuvos kariuomenės vado patvirtintas kitas mokymo programas, skirtas pagrindiniam kariniam parengtumui ir (ar) karinei specialybei įgyti, – nuo 400 iki 1 440, neatitinkančių sveikatos būklės reikalavimų, tačiau savanoriškai pareiškusių norą atlikti karo tarnybą – iki 100;
 
 
 
@@ -171,9 +171,12 @@ b) Krašto apsaugos savanorių pajėgos – Dainavos apygardos 1-oji rinktinė, 
 
 
 
-4) ribinis kariūnų skaičius – nuo 200 iki 440.
+4) ribinis kariūnų skaičius – nuo 200 iki 440. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2899, 2024-07-11, paskelbta TAR 2024-07-17, i. k. 2024-13175
+ 
 
 
 
