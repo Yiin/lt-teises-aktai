@@ -355,12 +355,22 @@ Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-118678 straipsnis
 
 
 
-2. Prekių pardavėjai, gamintojai ar paslaugų teikėjai privalo užtikrinti, kad šio straipsnio 1 dalyje nustatytais atvejais nebūtų priekabiaujama, seksualiai priekabiaujama ir nebūtų duodami nurodymai diskriminuoti lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu. 
+2. Prekių pardavėjai, gamintojai ar paslaugų teikėjai privalo užtikrinti, kad šio straipsnio 1 dalyje nustatytais atvejais nebūtų priekabiaujama, seksualiai priekabiaujama ir nebūtų duodami nurodymai diskriminuoti lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu. 
 
 
 
 
-3. Prekių pardavėjai, gamintojai ar paslaugų teikėjai privalo užtikrinti, kad asmenys, kurie pateikė skundą dėl diskriminacijos, dalyvauja byloje dėl diskriminacijos arba pranešė apie diskriminaciją, nebūtų persekiojami ir būtų apsaugoti nuo priešiško elgesio ar neigiamų padarinių.
+3. Gaminių ir prekių pardavėjai, gamintojai ar paslaugų teikėjai privalo vadovautis prieinamumo principais, laikytis prieinamumo reikalavimų ir standartų, juos taikyti praktikoje ir užtikrinti prieinamumą, kad asmenys su negalia galėtų įsigyti prekes ir naudotis paslaugomis.
+
+
+
+
+4. Gaminių ir prekių pardavėjai, gamintojai ar paslaugų teikėjai privalo imtis priemonių, kad asmenims su negalia būtų užtikrintas tinkamas sąlygų pritaikymas, kurio reikia konkrečiu atveju asmenims su negalia siekiant gauti tokius pačius gaminius, prekes ir paslaugas ir už juos atsiskaityti, kai šio straipsnio 1 dalies 1 punkte ir 3 dalyje nurodytų sąlygų nepakanka.
+
+
+
+
+5. Prekių pardavėjai, gamintojai ar paslaugų teikėjai privalo užtikrinti, kad asmenys, kurie pateikė skundą dėl diskriminacijos, dalyvauja byloje dėl diskriminacijos arba pranešė apie diskriminaciją, nebūtų persekiojami ir būtų apsaugoti nuo priešiško elgesio ar neigiamų padarinių.
 
 
 Straipsnio pakeitimai:
