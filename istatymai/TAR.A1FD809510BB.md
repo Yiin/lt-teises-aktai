@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2024-09-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
  
@@ -1280,6 +1280,14 @@ MAŽOSIOS BENDRIJOS FINANSINĖ ATSKAITOMYBĖ IR PELNO PASKIRSTYMAS
 
 
 3. Mažoji bendrija turi sudaryti metinių finansinių ataskaitų rinkinį. Mažosios bendrijos metinių finansinių ataskaitų rinkinys, o kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos turi būti patvirtinti mažosios bendrijos narių susirinkime, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais mažoji bendrija likviduojama, ir pateikti Juridinių asmenų registro tvarkytojui. Kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais mažoji bendrija likviduojama, jos nepatvirtintas metinių finansinių ataskaitų rinkinys Juridinių asmenų registro tvarkytojui pateikiamas per 5 mėnesius nuo finansinių metų pabaigos.
+
+
+
+
+4. Juridinių asmenų registro tvarkytojas nepriima mažosios bendrijos pateikto metinių finansinių ataskaitų rinkinio be auditoriaus išvados, kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą.
+Papildyta straipsnio dalimi:
+Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
+ 
 
 
 Straipsnio pakeitimai:
