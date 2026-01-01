@@ -594,7 +594,7 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 11 straipsnis. Socialinio draudimo pensijų apskaitos vienetai
 
 
-1. Už kiekvienus kalendorinius pensijų socialinio draudimo metus asmeniui apskaičiuojami apskaitos vienetai dviejų skaitmenų po kablelio tikslumu. Per kalendorinius metus įgytų apskaitos vienetų skaičius negali būti didesnis kaip 5, išskyrus šio įstatymo 12 straipsnio 3 dalyje nustatytą išimtį. 
+1. Už kiekvienus kalendorinius pensijų socialinio draudimo metus asmeniui apskaičiuojami apskaitos vienetai dviejų skaitmenų po kablelio tikslumu. Per kalendorinius metus įgytų apskaitos vienetų skaičius negali būti didesnis kaip 5, išskyrus šio įstatymo 12 straipsnio 3 ir 3^1 dalyse nustatytas išimtis. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
  
@@ -624,6 +624,11 @@ Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
 
 
 3. Jeigu iki 2018 m. gruodžio 31 d. pensijų kaupime dalyvavęs ir pensijos išmokos sutarties nesudaręs ar išmokos iš pensijų kaupimo bendrovės negavęs asmuo Lietuvos Respublikos pensijų kaupimo įstatymo pakeitimo įstatymo 2 straipsnyje nustatyta tvarka nutraukia dalyvavimą pensijų kaupime, jo pensijų sąskaitoje sukauptos lėšos pervedamos į Valstybinio socialinio draudimo fondo biudžetą ir įskaitomos kaip Valstybinio socialinio draudimo fondo biudžeto gautos asmens pensijų socialinio draudimo įmokos individualiajai pensijos daliai. Dalyvavimą pensijų kaupime nutraukusio asmens iki 2017 m. gruodžio 31 d. įgytų apskaitos vienetų skaičius apskaičiuojamas šio įstatymo nustatyta tvarka kaip pensijų kaupime nedalyvavusiam asmeniui. Nuo 2018 m. sausio 1 d. iki 2018 m. gruodžio 31 d. asmens įgytų apskaitos vienetų skaičius apskaičiuojamas šio straipsnio 1 dalyje nustatyta tvarka įskaitant šiuo laikotarpiu į pensijų fondą pervestą kaupiamosios pensijų įmokos sumą. Pervedamų lėšų suma (įskaitant dalyvio lėšomis sumokėtas pensijų įmokas, jei dalyvis jas mokėjo, ir už dalyvį iš valstybės biudžeto sumokėtas įmokas), viršijanti iš Valstybinio socialinio draudimo fondo biudžeto už asmenį pervestų kaupiamųjų pensijos įmokų sumą, įskaitoma kaip pervedimo metais Valstybinio socialinio draudimo fondo biudžeto gautos asmens pensijų socialinio draudimo įmokos individualiajai pensijos daliai. Už šią sumą apskaitos vienetai apskaičiuojami šio straipsnio 1 dalyje nustatyta tvarka, netaikant 5 apskaitos vienetų per metus apribojimo.
+
+
+
+
+3^1. Jeigu iki 2025 m. gruodžio 31 d. pensijų kaupime dalyvauti pradėjęs ir pensijų išmokos sutarties nesudaręs ar pensijų išmokos negavęs asmuo Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 1, 3, 4, 5, 6, 7, 8, 10, 12, 13, 15, 22, 24, 28, 29, 30, 33, 35^1, 35^2, 35^7, 35^8, 35^9, 35^10, 36, 37, 40 straipsnių, V skyriaus pavadinimo pakeitimo, Įstatymo papildymo 29^1 straipsniu ir 6 straipsnio bei Įstatymo priedo pripažinimo netekusiais galios įstatymo 32 straipsnio 3 dalyje nustatyta tvarka nutraukia dalyvavimą pensijų kaupime, jo pensijų sąskaitoje sukauptų lėšų sumos dalis, susidariusi iš Valstybinio socialinio draudimo fondo biudžeto ir valstybės biudžeto už dalyvį sumokėtų įmokų, pervedama į Valstybinio socialinio draudimo fondo biudžetą ir įskaitoma kaip prašymo nutraukti pensijų kaupimą pateikimo pensijų kaupimo bendrovei metais Valstybinio socialinio draudimo fondo biudžeto gautos asmens pensijų socialinio draudimo įmokos individualiajai pensijos daliai. Už šią sumą apskaitos vienetai apskaičiuojami šio straipsnio 1 dalyje nustatyta tvarka, netaikant 5 apskaitos vienetų per metus apribojimo.
 
 
 
