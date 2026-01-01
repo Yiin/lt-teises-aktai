@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
  
@@ -411,7 +411,9 @@ TEISINIAI LIETUVOS GYNYBOS PAGRINDAI
 Lietuvos suvereniteto, teritorijos vientisumo ir konstitucinės santvarkos gynimas bei gynybos institucijų veikla grindžiama Konstitucija, reguliuojama įstatymų ir kitų Lietuvos teisės aktų, taip pat tarptautinių teisės aktų, kuriuos Lietuva yra ratifikavusi arba prie kurių prisijungusi. Lietuva numato pasinaudoti ir kitais tarptautinės teisės aktais, kurių principus ir normas ji gerbia. 
 Konstitucijos kertinės normos, tiesiogiai reglamentuojančios valstybės gynybos klausimus, yra: 
 - Konstitucijos 3 straipsnio antroji dalis, skelbianti, kad Tauta ir kiekvienas pilietis turi teisę priešintis bet kam, kas prievarta kėsinasi į Lietuvos valstybės nepriklausomybę, teritorijos vientisumą, konstitucinę santvarką; 
-- Konstitucijos 139 straipsnis, skelbiantis, kad Lietuvos valstybės gynimas nuo užsienio ginkluoto užpuolimo yra kiekvieno Lietuvos Respublikos piliečio teisė ir pareiga, ir nustatantis piliečių privalomąją karo tarnybą.
+– Konstitucijos 139 straipsnis, skelbiantis, kad Lietuvos valstybės gynimas nuo užsienio ginkluoto užpuolimo yra kiekvieno Lietuvos Respublikos piliečio teisė ir pareiga, ir nustatantis piliečių privalomąją karo tarnybą ir alternatyviąją krašto apsaugos tarnybą.
+Skyriaus pakeitimai:
+Nr. XIV-2732, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11569
  
 
 
@@ -833,7 +835,7 @@ Taikos metu kariuomenė savarankiškai ir bendradarbiaudama su NATO institucijom
 – įstatymų nustatytais atvejais ir tvarka gali būti pasitelkiama teikti pagalbą kitoms valstybės ir savivaldybių institucijoms, taip pat įstatymų nustatyta tvarka organizuoja, koordinuoja, vadovauja ir vykdo žmonių paieškos ir gelbėjimo bei teršimo incidentų likvidavimo darbus, organizuoja ir vykdo saugomų asmenų, atvykstančių krašto apsaugos ministro ar kariuomenės vado oficialiu kvietimu, apsaugą.
 Kariuomenė turi būti rengiama ugdant kario asmenybę, pilietiškumą ir patriotizmą, profesionalius įgūdžius ir kario etiką. Vadai turi puoselėti karių ir civilių gyventojų tarpusavio supratimą ir pasitikėjimą.
 Karo tarnybos rūšis ir atlikimo tvarką bei karių teisinį statusą reglamentuoja Lietuvos Respublikos Konstitucija, įstatymai ir kiti teisės aktai.
-Kariuomenės vienetai komplektuojami iš profesinės, savanoriškos nenuolatinės karo tarnybos, nuolatinės privalomosios pradinės karo tarnybos ir tarnybą rezerve atliekančių karių. Tarnybą rezerve atliekančių karių karinių įgūdžių atnaujinimas turi atitikti valstybės gynybinius poreikius.
+Kariuomenės vienetai komplektuojami iš profesinės, savanoriškos nenuolatinės karo tarnybos, privalomosios pradinės karo tarnybos ir tarnybą rezerve atliekančių karių. Tarnybą rezerve atliekančių karių karinių įgūdžių atnaujinimas turi atitikti valstybės gynybinius poreikius.
 Kariuomenę sudaro šios pajėgų rūšys: sausumos pajėgos, karinės oro pajėgos, karinės jūrų pajėgos, specialiųjų operacijų pajėgos. Kariuomenės pajėgų rūšių sudėtį, uždavinius ir funkcijas nustato įstatymai ir kiti teisės aktai.
 Principinę kariuomenės struktūrą krašto apsaugos ministro teikimu, jam gavus Valstybės gynimo tarybos pritarimą ir Vyriausybės įgaliojimą, tvirtina Seimas.
 Teisėsaugą kariuomenėje ir visoje krašto apsaugos sistemoje įstatymų ir kitų teisės aktų nustatyta tvarka vykdo Lietuvos teisėsaugos institucijų specializuoti padaliniai ir karo policija. Karinės teisėsaugos specializuoti padaliniai ir pareigybės steigiami prokuratūros ir ikiteisminio tyrimo institucijose. Karių ir karininkų bylas dėl tarnybos arba su tarnyba susijusių teisės pažeidimų nagrinėja specializuotas teismas. Karo policijos statusą, jurisdikciją, uždavinius ir funkcijas nustato įstatymai.
@@ -945,9 +947,9 @@ Nr. XIII-3239, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15876
 23 SKYRIUS
 ALTERNATYVIOJI KRAŠTO APSAUGOS TARNYBA
  
-Alternatyvioji krašto apsaugos tarnyba, kaip civilinio pobūdžio visuomenei naudinga veikla, yra karo prievolei alternatyvi krašto apsaugos pagalbinė tarnyba be ginklų tiems, kurie dėl savo religinių ar pacifistinių įsitikinimų negali tarnauti su ginklu rankoje. Šios tarnybos tikslas – ugdyti piliečius ir sudaryti jiems galimybę prisidėti prie krašto gerovės civilinio pobūdžio visuomenei naudingu darbu. Paskyrimą į šią tarnybą administruoja Krašto apsaugos ministerija, o tarnybą organizuoja Vyriausybės įgaliota institucija. Tarnybos atlikimo trukmę ir tvarką nustato įstatymas.
+Alternatyvioji krašto apsaugos tarnyba, kaip civilinio pobūdžio visuomenei naudinga veikla, yra tarnyba nenaudojant ginklų, specialiųjų priemonių ar prievartos, skirta tiems, kurie dėl savo religinių ar pacifistinių įsitikinimų negali tarnauti naudodami ginklus, specialiąsias priemones ar prievartą. Šios tarnybos tikslas – ugdyti piliečius ir sudaryti jiems galimybę prisidėti prie krašto gerovės civilinio pobūdžio visuomenei naudingu darbu. Paskyrimą į šią tarnybą administruoja ir tarnybą organizuoja Vyriausybės įgaliota institucija. Šios tarnybos atlikimo trukmę ir tvarką nustato įstatymas.
 Skyriaus pakeitimai:
-Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+Nr. XIV-2732, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11569
  
 
 
