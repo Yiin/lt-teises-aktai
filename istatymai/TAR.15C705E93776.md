@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -389,12 +389,13 @@ Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
 
 
-38. Šiame įstatyme vartojamos sąvokos „aktyvusis kariuomenės personalo rezervas“, „aktyviojo kariuomenės personalo rezervo karys“, „tarnyba aktyviajame kariuomenės personalo rezerve“, „parengtasis kariuomenės personalo rezervas“, „privalomoji karo tarnyba“, „kita tarnyba rezerve“ ir „rezervo karys“ suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos karo prievolės įstatyme.
+38. Aktyvusis kariuomenės personalo rezervas, aktyviojo kariuomenės personalo rezervo karys, tarnyba aktyviajame kariuomenės personalo rezerve, parengtasis kariuomenės personalo rezervas ir privalomoji karo tarnyba suprantami taip, kaip jie apibrėžiami Karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 Straipsnio dalies pakeitimai:
 Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
 Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
+Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
  
 
 
@@ -1019,11 +1020,12 @@ Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
 
 
-41) atsižvelgdamas į Seimo nustatytus ribinius skaičius, nustato tarnaujančių profesinės karo tarnybos karių, karių savanorių ir kitų savanoriškos nenuolatinės karo tarnybos karių, į nuolatinę privalomąją pradinę karo tarnybą pašaukiamų ir jaunesniųjų karininkų vadų mokymuose dalyvaujančių, į pratybas ir mokymus pašaukiamų aktyviojo kariuomenės personalo rezervo karių ir rezervo karių skaičių, taip pat nustato užduočių vykdyme dalyvaujančių aktyviojo kariuomenės personalo rezervo karių ir rezervo karių skaičių;
+41) atsižvelgdamas į Seimo nustatytus ribinius skaičius, nustato tarnaujančių profesinės karo tarnybos karių, karių savanorių ir kitų savanoriškos nenuolatinės karo tarnybos karių, į privalomąją pradinę karo tarnybą pašaukiamų ir į pratybas ir mokymus pašaukiamų aktyviojo kariuomenės personalo rezervo karių skaičių, taip pat nustato vykdant užduotis dalyvaujančių aktyviojo kariuomenės personalo rezervo karių skaičių; 
 Papildyta straipsnio punktu:
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 Straipsnio punkto pakeitimai:
 Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
+Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
  
 
 
@@ -1257,7 +1259,10 @@ Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
 
 
-3) ribiniai privalomosios pradinės karo tarnybos karių skaičiai (atskirai nurodant per metus į nuolatinę privalomąją pradinę karo tarnybą pašaukiamų ir jaunesniųjų karininkų vadų mokymuose dalyvaujančių karių skaičius);
+3) ribiniai privalomosios pradinės karo tarnybos karių skaičiai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
+ 
 
 
 
@@ -1368,11 +1373,11 @@ LIETUVOS KARIUOMENĖ
 
 
 
-4. Kariuomenę sudaro kariuomenės pajėgos, junginiai, daliniai ir kiti kariniai vienetai. Kariuomenės vienetai komplektuojami iš profesinės, savanoriškos nenuolatinės karo tarnybos, nuolatinės privalomosios pradinės karo tarnybos, aktyviojo kariuomenės personalo rezervo ir rezervo karių.
+4. Kariuomenę sudaro kariuomenės pajėgos, junginiai, daliniai ir kiti kariniai vienetai. Kariuomenės vienetai komplektuojami profesinės, savanoriškos nenuolatinės karo tarnybos ir privalomosios pradinės karo tarnybos, aktyviojo kariuomenės personalo rezervo kariais.
 Straipsnio dalies pakeitimai:
 Nr. XII-2429, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17526
-Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
+Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
  
 
 
@@ -3081,11 +3086,11 @@ Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 30 straipsnis. Šaukimas į privalomąją karo tarnybą
 
 
-Į privalomąją karo tarnybą Lietuvos Respublikos piliečiai šaukiami Karo prievolės įstatymo nustatytomis sąlygomis ir tvarka.
+Į privalomąją karo tarnybą Lietuvos Respublikos piliečiai šaukiami Karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo nustatytomis sąlygomis ir tvarka.
 
 
 Straipsnio pakeitimai:
-Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
+Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
  
 
 
@@ -4550,7 +4555,7 @@ seržantas majoras                               
 3) jaunesniųjų karininkų
 leitenantas                                                                            leitenantas
 vyresnysis leitenantas                                                            vyresnysis leitenantas
-kapitonas                                                                              kapitonas leitenantas 
+kapitonas                                                                              kapitonas leitenantas 
  
 
 
@@ -4656,7 +4661,10 @@ Nr. XI-822, 2010-05-18, Žin., 2010, Nr. 63-3099 (2010-05-31)
 2. Atrankoje aukštesniam laipsniui gauti taikos metu dalyvauja kariai, ištarnavę:
 
 
-1) jaunesniuoju eiliniu, jaunesniuoju jūreiviu – ne mažiau kaip 6 mėnesius nuolatinėje privalomojoje pradinėje karo tarnyboje ar pagal profesinės karo tarnybos sutartį arba ne mažiau kaip 8 mėnesius pagal kario savanorio, savanoriškos nenuolatinės karo tarnybos kario sutartį ar aktyviojo kariuomenės personalo rezervo tarnyboje, jeigu per tuos metus ištarnavo ne mažiau kaip 20 tarnybos dienų;
+1) jaunesniuoju eiliniu, jaunesniuoju jūreiviu – ne mažiau kaip 6 mėnesius privalomojoje pradinėje karo tarnyboje ar pagal profesinės karo tarnybos sutartį arba ne mažiau kaip 8 mėnesius pagal kario savanorio, savanoriškos nenuolatinės karo tarnybos kario sutartį ar aktyviojo kariuomenės personalo rezervo tarnyboje, jeigu per tuos metus ištarnavo ne mažiau kaip 20 tarnybos dienų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
+ 
 
 
 
@@ -4820,7 +4828,7 @@ Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 
 
-12. Atsargos kariams ir dimisijos kariams aukštesni laipsniai nesuteikiami, išskyrus aktyviojo kariuomenės personalo rezervo karius ir į atsargą išleistus jaunesniųjų karininkų vadų mokymų programas baigusius karius, kuriems, vadovaujantis Karo prievolės įstatymu, suteikiamas jaunesniojo karininko laipsnis.
+12. Atsargos kariams ir dimisijos kariams aukštesni laipsniai nesuteikiami, išskyrus aktyviojo kariuomenės personalo rezervo karius ir į atsargą išleistus jaunesniųjų karininkų vadų mokymų programas baigusius karius, kuriems, vadovaujantis Karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymu, suteikiamas jaunesniojo karininko laipsnis.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
@@ -5133,7 +5141,10 @@ Nr. XIII-3436, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24612
 
 
 
-12. Nuolatinės privalomosios pradinės karo tarnybos kariams du kartus per tarnybos metus suteikiama po 7 kalendorines dienas atostogų, įskaitant kelionės dienas.
+12. Atliekantiems 9 mėnesių trukmės privalomąją pradinę karo tarnybą kariams du kartus per tarnybos metus suteikiama po 7 kalendorines dienas atostogų, įskaitant kelionės dienas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
+ 
 
 
 
@@ -5146,7 +5157,10 @@ Nr. XII-2429, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17526
 
 
 
-14. Karo prievolininkams, nepertraukiamai dalyvaujantiems jaunesniųjų karininkų vadų mokymuose 2 mėnesius, suteikiamos 3 kalendorinių dienų atostogos, įskaitant kelionės dienas, o už kiekvienus 2 paskesnius nepertraukiamo dalyvavimo šiuose mokymuose mėnesius papildomai suteikiamos 3 kalendorinės dienos atostogų, įskaitant kelionės dienas, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 9 kalendorinės dienos.
+14. Karo prievolininkams, nepertraukiamai atliekantiems privalomąją pradinę karo tarnybą, kuri trunka 2 mėnesius, suteikiamos 3 kalendorinių dienų atostogos, nepertraukiamai atliekantiems privalomąją pradinę karo tarnybą, kuri trunka 3 mėnesius, suteikiamos 5 kalendorinių dienų atostogos, nepertraukiamai atliekantiems privalomąją pradinę karo tarnybą, kuri trunka 6 mėnesius, suteikiamos 9 kalendorinių dienų atostogos, įskaitant kelionės dienas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
+ 
 
 
 
@@ -5237,9 +5251,10 @@ Nr. XIII-1810, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21824
 60 straipsnis. Karių tarnybos apmokėjimas
 
 
-1. Privalomosios pradinės karo tarnybos kariams krašto apsaugos ministro nustatyta tvarka kiekvieną mėnesį mokama 4,6 bazinės socialinės išmokos dydžio išmoka buitinėms išlaidoms. Jiems taip pat gali būti mokamos 3,7 bazinės socialinės išmokos dydžio premijos už pavyzdingą tarnybą. Šios premijos skiriamos ištarnavus visą Karo prievolės įstatyme nustatytą privalomosios pradinės karo tarnybos laikotarpį. 
+1. Privalomosios pradinės karo tarnybos kariams krašto apsaugos ministro nustatyta tvarka kiekvieną mėnesį mokama 4,6 bazinės socialinės išmokos dydžio išmoka buitinėms išlaidoms. Jiems taip pat gali būti mokamos 3,7 bazinės socialinės išmokos dydžio premijos už pavyzdingą tarnybą. Šios premijos skiriamos ištarnavus visą Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatyme nustatytą privalomosios pradinės karo tarnybos laikotarpį. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
+Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
  
 
 
@@ -5999,11 +6014,12 @@ Nr. XIII-1810, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21824
 
 
 
-2) kariams savanoriams, kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams ir rezervo kariams po tarnybos, pratybų ar mokymų, privalomosios karo tarnybos kariams, atlikusiems nuolatinę privalomąją pradinę karo tarnybą arba paleistiems iš šios tarnybos, jeigu sveikatos sutrikimas atsirado dėl priežasčių, susijusių su kario tarnyba, kurių nustatymo tvarką nustato krašto apsaugos ministras; 
+2) kariams savanoriams, kitiems savanoriškos nenuolatinės karo tarnybos kariams ir aktyviojo kariuomenės personalo rezervo kariams po tarnybos, pratybų ar mokymų, privalomosios karo tarnybos kariams, atlikusiems privalomąją pradinę karo tarnybą arba paleistiems iš šios tarnybos, jeigu sveikatos sutrikimas atsirado dėl priežasčių, susijusių su kario tarnyba, kurių nustatymo tvarką nustato krašto apsaugos ministras; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2510, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20647
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
+Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
  
 
 
@@ -6357,24 +6373,26 @@ Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 
 
 
-7. Profesinės karo tarnybos kariams, kariūnams, kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, privalomosios pradinės karo tarnybos kariams ir asmenims, atliekantiems alternatyviąją krašto apsaugos tarnybą, kurių materialinė būklė sunki dėl jų pačių ligos, artimųjų giminaičių (tėvų (įtėvių), vaikų (įvaikių), senelių, vaikaičių, brolių (įbrolių), seserų (įseserių), sutuoktinio, partnerio, sugyventinio, taip pat sutuoktinio, partnerio, sugyventinio tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių) bei išlaikytinių, kurių globėju ar rūpintoju yra paskirtas profesinės karo tarnybos karys, kariūnas, karys savanoris ar kitas savanoriškos nenuolatinės karo tarnybos karys, privalomosios pradinės karo tarnybos karys ar asmuo, atliekantis alternatyviąją krašto apsaugos tarnybą, ligos ar mirties, stichinės nelaimės ar turto netekimo, jų rašytiniu prašymu gali būti skiriama iki 5 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių pašalpa. Pašalpa skiriama iš Krašto apsaugos ministerijai skirtų asignavimų krašto apsaugos ministro nustatyta tvarka. Pašalpa kariui savanoriui, kitam savanoriškos nenuolatinės karo tarnybos kariui ar asmeniui, atliekančiam alternatyviąją krašto apsaugos tarnybą, nemokama, jeigu jis turi teisę gauti tos pačios paskirties pašalpą iš kitos biudžetinės įstaigos. 
+7. Profesinės karo tarnybos kariams, kariūnams, kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, privalomosios pradinės karo tarnybos kariams, kurių materialinė būklė sunki dėl jų pačių ligos, artimųjų giminaičių (tėvų (įtėvių), vaikų (įvaikių), senelių, vaikaičių, brolių (įbrolių), seserų (įseserių), sutuoktinio, partnerio, sugyventinio, taip pat sutuoktinio, partnerio, sugyventinio tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių) bei išlaikytinių, kurių globėju ar rūpintoju yra paskirtas profesinės karo tarnybos karys, kariūnas, karys savanoris ar kitas savanoriškos nenuolatinės karo tarnybos karys, privalomosios pradinės karo tarnybos karys, ligos ar mirties, stichinės nelaimės ar turto netekimo, jų rašytiniu prašymu gali būti skiriama iki 5 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių pašalpa. Pašalpa skiriama iš Krašto apsaugos ministerijai skirtų asignavimų krašto apsaugos ministro nustatyta tvarka. Pašalpa kariui savanoriui, kitam savanoriškos nenuolatinės karo tarnybos kariui nemokama, jeigu jis turi teisę gauti tos pačios paskirties pašalpą iš kitos biudžetinės įstaigos. 
 Papildyta straipsnio dalimi:
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 Straipsnio dalies pakeitimai:
 Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 Nr. XIV-437, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14794
+Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
  
 
 
 
 
-8. Mirus profesinės karo tarnybos kariui, kariūnui, kariui savanoriui ar kitam savanoriškos nenuolatinės karo tarnybos kariui, privalomosios pradinės karo tarnybos kariui ar asmeniui, atliekančiam alternatyviąją krašto apsaugos tarnybą, vienam iš asmenų, nurodytų šio straipsnio 7 dalyje, skiriama 5 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių pašalpa. Pašalpa asmeniui nemokama, jeigu kario mirties atveju jis turi teisę gauti šio įstatymo 67 straipsnyje nustatytą kompensaciją ar tos pačios paskirties pašalpą iš kitos biudžetinės įstaigos. 
+8. Mirus profesinės karo tarnybos kariui, kariūnui, kariui savanoriui ar kitam savanoriškos nenuolatinės karo tarnybos kariui, privalomosios pradinės karo tarnybos kariui, vienam iš asmenų, nurodytų šio straipsnio 7 dalyje, skiriama 5 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių pašalpa. Pašalpa asmeniui nemokama, jeigu kario mirties atveju jis turi teisę gauti šio įstatymo 67 straipsnyje nustatytą kompensaciją ar tos pačios paskirties pašalpą iš kitos biudžetinės įstaigos.
 Papildyta straipsnio dalimi:
 Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 Straipsnio dalies pakeitimai:
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
+Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
  
 
 
