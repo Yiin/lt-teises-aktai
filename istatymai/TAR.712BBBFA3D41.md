@@ -55,99 +55,6 @@ Nr. XV-29, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22080
 
 
 3. Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede.
- 
-
-
-
-
-
-
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
-
-
-1. Agreguotas asignavimų limitas – subendrinti maksimalūs galimi vidutinės trukmės konsoliduotojo biudžeto asignavimai kiekvieniems to laikotarpio biudžetiniams metams.
-
-
-
-
-2. Asignavimai – valstybės biudžete arba savivaldybės biudžete patvirtinta planuojamų išlaidų suma, kurią asignavimų valdytojas turi teisę biudžetiniais metais gauti iš valstybės biudžete arba savivaldybės biudžete numatytų lėšų, pateikęs paraišką valstybės iždą valdančiai Lietuvos Respublikos finansų ministerijai arba savivaldybės administracijai, ir panaudoti programoms finansuoti.
-
-
-
-
-3. Biudžetiniai metai – 12 mėnesių biudžeto laikotarpis, prasidedantis sausio 1 dieną ir pasibaigiantis gruodžio 31 dieną.
-
-
-
-
-4. Biudžetinių įstaigų pajamos – biudžetinių įstaigų gautos pajamos už trumpalaikio ir ilgalaikio materialiojo turto nuomą, teikiamas paslaugas (išskyrus paslaugas, už kurias mokama valstybės rinkliava ir žyminis mokestis), kitos gautos pajamos, kurių panaudojimo paskirtis nustatyta Europos Sąjungos teisės aktuose, tarptautinėse sutartyse, įstatymuose arba Lietuvos Respublikos Vyriausybės nutarimuose, kurios įmokamos į valstybės biudžetą ar savivaldybių biudžetus ir naudojamos vadovaujantis įstatymais arba Vyriausybės nutarimais, savivaldybės tarybos sprendimais šių įstaigų vykdomoms programoms finansuoti.
-
-
-
-
-5. Ekonominės raidos scenarijus – finansų ministerijos pasirinktų ir įvardytų prielaidų nulemtas, esamais statistiniais duomenimis pagrįstas, nacionalinių sąskaitų duomenims ir ekonomikos dėsningumams neprieštaraujantis ekonominės raidos apibūdinimas, pagal kurį rengiamas Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymo, kuriuo tvirtinami Lietuvos Respublikos tam tikrų metų valstybės biudžeto, savivaldybių biudžetų rodikliai ir vidutinės trukmės konsoliduotojo biudžeto rodikliai, projektas.
-
-
-
-
-6. Finansavimas – lėšų pervedimas į asignavimų valdytojų ir valstybės ir savivaldybių biudžetinių įstaigų sąskaitas programoms vykdyti ir kitų subjektų sąskaitas atitinkamo asignavimų valdytojo programoms vykdyti arba tiesioginis biudžetinių įstaigų ir kitų subjektų programų išlaidų apmokėjimas iš valstybės iždo ir savivaldybių iždų sąskaitų.
-
-
-
-
-7. Konsoliduotasis biudžetas – biudžetas, kurį sudaro valstybės biudžetas, savivaldybių biudžetai, valstybės socialinių fondų biudžetai ir Privalomojo sveikatos draudimo fondo biudžetas sujungus nurodytų biudžetų rodiklius ir eliminavus planuojamus tarpusavio pervedimus.
-
-
-
-
-8. Ministro valdymo srities įstaiga – įstaiga, kurios savininko teises ir pareigas įgyvendina Vyriausybė arba ministerija ir kuri veikia ministrui pavestoje (-ose) valdymo  srityje (-yse), išskyrus įstaigas, kurių nepriklausomumas atliekant įstatymų nustatytas funkcijas ir priimant sprendimus turi būti užtikrintas vadovaujantis Europos Sąjungos ir nacionaliniais teisės aktais bei tarptautinėmis sutartimis. 
-
-
-
-
-9. Programa – strateginio veiklos plano, parengto pagal Vyriausybės patvirtintą Strateginio valdymo metodiką, dalis, skirta Nacionaliniame pažangos plane nustatytiems pažangos uždaviniams ir (arba) asignavimų valdytojo tęstinės veiklos uždaviniams įgyvendinti.
-
-
-
-
-10. Programos sąmata – dokumentas, kuriame pagal kiekvieną programos priemonę ir šių priemonių ekonominę ir funkcinę išlaidų klasifikacijas, tvirtinamas finansų ministro, nurodomos 3 biudžetinių metų planuojamų asignavimų sumos programai vykdyti.
-
-
-
-
-11. Savivaldybės biudžetas – savivaldybės tarybos tvirtinamas savivaldybės biudžeto pajamų ir asignavimų planas biudžetiniams metams.
-
-
-
-
-12. Struktūrinis valdžios sektoriaus balanso rodiklis – pagal ekonominį ciklą patikslintas valdžios sektoriaus balanso rodiklis, kuriuo rodoma, koks būtų valdžios sektoriaus pajamų ir išlaidų skirtumas, jei faktinis bendrasis vidaus produktas būtų lygus potencialiam, kai netaikytos laikinojo poveikio priemonės, apimančios su ekonomikos cikliniais svyravimais nesusijusius veiksnius, kurie paveikia biudžeto rodiklius tik nurodytu laikotarpiu, sumažindami (ar padidindami) valdžios sektoriaus balanso rodiklį arba valstybės skolą (vienkartinis poveikis) arba pagerindami (ar pablogindami) biudžeto būklę biudžeto būklės ateityje sąskaita. Struktūrinis valdžios sektoriaus balanso rodiklis vertinamas remiantis 1997 m. liepos 7 d. Tarybos reglamento (EB) Nr. 1466/97 dėl biudžeto būklės priežiūros stiprinimo ir ekonominės politikos priežiūros bei koordinavimo su visais pakeitimais nuostatomis.
-
-
-
-
-13. Valstybės biudžetas – Lietuvos Respublikos Seimo tvirtinamas valstybės biudžeto pajamų ir asignavimų planas biudžetiniams metams.
-
-
-
-
-14. Vidutinės trukmės konsoliduotasis biudžetas – konsoliduotojo biudžeto pajamų ir asignavimų planas, sudaromas pamečiui kiekvieniems 3 biudžetiniams metams.
-
-
-
-
-15. Vidutinės trukmės konsoliduotojo biudžeto asignavimai – vidutinės trukmės konsoliduotojo biudžeto lėšų suma, kurią sudaro valstybės biudžeto ir savivaldybių biudžetų asignavimai ir valstybės socialinių fondų biudžetų ir Privalomojo sveikatos draudimo fondo biudžeto išlaidos.
-
-
-
-
-16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos fiskalinės drausmės įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos Respublikos biudžetinių įstaigų įstatyme, Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatyme, Lietuvos Respublikos sveikatos draudimo įstatyme, Lietuvos Respublikos valstybės skolos įstatyme, Lietuvos Respublikos valstybės iždo įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme ir Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme.
- 
- 
-
-
-
-
-
 
 3 straipsnis. Asignavimų valdytojai
 
@@ -374,7 +281,7 @@ Nr. XV-29, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22080
 6 straipsnis. Biudžeto sudarymo ir vykdymo bendrosios nuostatos
 
 
-1. Biudžeto sudarymo ir vykdymo teisinis pagrindas yra Lietuvos Respublikos Konstitucija, Fiskalinės sutarties įgyvendinimo konstitucinis įstatymas, šis įstatymas, Fiskalinės drausmės įstatymas, Lietuvos Respublikos Seimo statutas, Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas, Strateginio valdymo įstatymas, tam tikrų metų biudžeto patvirtinimo įstatymas, savivaldybių tarybų priimti sprendimai dėl tam tikrų biudžetinių metų savivaldybių biudžetų patvirtinimo, Vyriausybės tvirtinamos biudžetų sudarymo ir vykdymo taisyklės, ekonominė ir funkcinė klasifikacijos ir kiti biudžeto pajamų gavimą ir programų finansavimą reglamentuojantys teisės aktai.
+1. Biudžeto sudarymo ir vykdymo teisinis pagrindas yra Lietuvos Respublikos Konstitucija, Fiskalinės sutarties įgyvendinimo konstitucinis įstatymas, šis įstatymas, Fiskalinės valdysenos įstatymas, Lietuvos Respublikos Seimo statutas, Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas, Strateginio valdymo įstatymas, tam tikrų metų biudžeto patvirtinimo įstatymas, savivaldybių tarybų priimti sprendimai dėl tam tikrų biudžetinių metų savivaldybių biudžetų patvirtinimo, Vyriausybės tvirtinamos biudžetų sudarymo ir vykdymo taisyklės, ekonominė ir funkcinė klasifikacijos ir kiti biudžeto pajamų gavimą ir programų finansavimą reglamentuojantys teisės aktai.
 
 
 
@@ -389,15 +296,7 @@ Nr. XV-29, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22080
 
 
 
-4. Įstatymais ir (arba) kitais teisės aktais nustatomų rodiklių, koeficientų ir kitų dydžių reikšmės, kuriomis vadovaujantis apskaičiuojami atitinkamų 3 biudžetinių metų planuojami asignavimai, nustatomos ne trumpesniam kaip 3 biudžetinių metų laikotarpiui. Jeigu dėl objektyvių priežasčių įstatymais ir (arba) kitais teisės aktais nustatomų rodiklių, koeficientų ir kitų dydžių reikšmės 3 biudžetiniams metams nenustatomos, įstaiga, atsakinga už tokių rodiklių, koeficientų ir kitų dydžių reikšmių apskaičiavimą ir (arba) nustatymą, jas prognozuoja antriesiems ir tretiesiems biudžetiniams metams, paskelbia savo interneto svetainėje ir informaciją apie šias reikšmes pateikia Finansų ministerijai Vyriausybės nustatyta tvarka. 
- 
-
-
-
-
-
-
-7 straipsnis. Informacijos apie biudžetus viešumas
+4. Įstatymais ir (arba) kitais teisės aktais nustatomų rodiklių, koeficientų ir kitų dydžių reikšmės, kuriomis vadovaujantis apskaičiuojami atitinkamų 3 biudžetinių metų planuojami asignavimai, nustatomos ne trumpesniam kaip 3 biudžetinių metų laikotarpiui. Jeigu dėl objektyvių priežasčių įstatymais ir (arba) kitais teisės aktais nustatomų rodiklių, koeficientų ir kitų dydžių reikšmės 3 biudžetiniams metams nenustatomos, įstaiga, atsakinga už tokių rodiklių, koeficientų ir kitų dydžių reikšmių apskaičiavimą ir (arba) nustatymą, jas prognozuoja antriesiems ir tretiesiems biudžetiniams metams, paskelbia savo interneto svetainėje ir informaciją apie šias reikšmes pateikia Finansų ministerijai Vyriausybės nustatyta tvarka.7 straipsnis. Informacijos apie biudžetus viešumas
 
 
 1. Informacija apie patvirtintą valstybės biudžetą, jo pajamas ir asignavimus, jų planų vykdymą, išskyrus įslaptintą informaciją pagal Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymą, skelbiama Finansų ministerijos interneto svetainėje.
@@ -606,27 +505,17 @@ Savivaldybių biudžetų asignavimai naudojami savarankiškosioms savivaldybių 
 2. Mero rezervo lėšos naudojamos savivaldybės tarybos nustatyta tvarka:
 
 
-1) ekstremaliosioms situacijoms ir (arba) ekstremaliesiems įvykiams likviduoti, jų padariniams šalinti ir padarytiems nuostoliams iš dalies kompensuoti;
+1) krizėms ar ekstremaliosioms situacijoms ir (arba) ekstremaliesiems įvykiams likviduoti, jų padariniams šalinti ir padarytiems nuostoliams iš dalies kompensuoti;
 
 
 
 
-2) gaisrų, stichinių nelaimių ir kitų įvykių padariniams likviduoti ir jų padarytiems nuostoliams iš dalies kompensuoti;
+2) gaisrų ar įvykių padariniams likviduoti ir jų padarytiems nuostoliams iš dalies kompensuoti;
 
 
 
 
-3) dėl nepaprastosios padėties atsiradusioms išlaidoms iš dalies apmokėti ir (arba) jos padariniams šalinti.
- 
-
-
-
-
-
-
-
-
-16 straipsnis. Savivaldybių biudžetų sudarymas
+3) dėl nepaprastosios padėties atsiradusioms išlaidoms iš dalies apmokėti ir (arba) jos padariniams šalinti.16 straipsnis. Savivaldybių biudžetų sudarymas
 
 
 1. Savivaldybės tarybos sprendimu tvirtinamame savivaldybės biudžete nurodoma:
@@ -748,12 +637,12 @@ VIDUTINĖS TRUKMĖS KONSOLIDUOTASIS BIUDŽETAS
 18 straipsnis. Vidutinės trukmės konsoliduotojo biudžeto rodikliai
 
 
-1. Vidutinės trukmės konsoliduotasis biudžetas tvirtinamas pamečiui kiekvieniems 3 biudžetiniams metams: pagal šiame straipsnyje nustatytas taisykles peržiūrint ankstesniais metais patvirtintų antrųjų ir trečiųjų biudžetinių metų, kai jie tampa pirmaisiais ir antraisiais biudžetiniais metais, rodiklius ir papildomai suplanuojant trečiųjų biudžetinių metų rodiklius. Vidutinės trukmės konsoliduotąjį biudžetą tvirtina Seimas priimdamas tam tikrų metų biudžeto patvirtinimo įstatymą, kuriame kiekvieniems iš 3 biudžetinių metų (pirmiesiems, antriesiems ir tretiesiems biudžetiniams metams) nustatomi rodikliai – agreguotos konsoliduotojo biudžeto pajamos (nurodoma bendra pajamų suma ir kiekvieno konsoliduotąjį biudžetą sudarančio biudžeto pajamų suma), agreguotas asignavimų limitas, kiekvienam konsoliduotąjį biudžetą sudarančiam biudžetui paskirstytos agreguoto asignavimų limito dalys ir nepaskirstyta agreguoto asignavimų limito dalis.
+1. Vidutinės trukmės konsoliduotasis biudžetas tvirtinamas pamečiui kiekvieniems 3 biudžetiniams metams: pagal šiame straipsnyje nustatytas taisykles peržiūrint ankstesniais metais patvirtintų antrųjų ir trečiųjų biudžetinių metų, kai jie tampa pirmaisiais ir antraisiais biudžetiniais metais, rodiklius ir papildomai suplanuojant trečiųjų biudžetinių metų rodiklius. Vidutinės trukmės konsoliduotąjį biudžetą tvirtina Seimas priimdamas tam tikrų metų biudžeto patvirtinimo įstatymą, kuriame kiekvieniems iš 3 biudžetinių metų (pirmiesiems, antriesiems ir tretiesiems biudžetiniams metams) nustatomi rodikliai – agreguotos konsoliduotojo biudžeto pajamos (nurodoma bendra pajamų suma ir kiekvieno konsoliduotąjį biudžetą sudarančio biudžeto pajamų suma), agreguotas asignavimų limitas, kiekvienam konsoliduotąjį biudžetą sudarančiam biudžetui paskirstytos agreguoto asignavimų limito dalys ir nepaskirstyta agreguoto asignavimų limito dalis.
 
 
 
 
-2. Agreguotas asignavimų limitas nustatomas atsižvelgiant į valdžios sektoriaus finansų projekcijas (tikslinius rodiklius), parengtas įvertinus naujausio ekonominės raidos scenarijaus duomenis ir Europos Sąjungos bei Lietuvos Respublikos teisės aktuose nustatytas fiskalinės drausmės taisykles (toliau – fiskalinės drausmės taisyklės), atsižvelgiant į fiskalines rizikas ir valdžios sektoriaus finansų tvarumo vertinimą.
+2. Agreguotas asignavimų limitas nustatomas atsižvelgiant į grynųjų išlaidų augimo ribas.
 
 
 
@@ -763,16 +652,16 @@ VIDUTINĖS TRUKMĖS KONSOLIDUOTASIS BIUDŽETAS
 
 
 
-4. Nepaskirstyta agreguoto asignavimų limito dalis pirmaisiais biudžetiniais metais sudaro ne mažiau kaip 0,5 procento ir ne daugiau kaip 1 procentą tais metais nustatyto agreguoto asignavimų limito ir naudojama šio įstatymo 28 straipsnio 1 dalyje nustatytų atvejų poveikiui amortizuoti, antraisiais biudžetiniais metais sudaro ne mažiau kaip 2 procentus, o trečiaisiais biudžetiniais metais – ne mažiau kaip 3 procentus tais metais nustatytų agreguotų asignavimų limitų. Rengiant tam tikrų metų biudžeto patvirtinimo įstatymo projektą ir peržiūrint ankstesnių metų biudžeto patvirtinimo įstatymu nustatytų antrųjų ir trečiųjų biudžetinių metų konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytas agreguotų asignavimų limitų dalis, nepaskirstyta agreguoto asignavimų limito dalis gali būti paskirstoma konsoliduotąjį biudžetą sudarantiems biudžetams šio straipsnio 6 dalyje nustatytais atvejais. Kai tam tikrais metais kyla rizika dėl fiskalinės drausmės taisyklių nesilaikymo, tais metais nepaskirstyta agreguoto asignavimų limito dalis gali būti nenaudojama.
+4. Nepaskirstyta agreguoto asignavimų limito dalis pirmaisiais biudžetiniais metais sudaro ne mažiau kaip 0,5 procento ir ne daugiau kaip 1 procentą tais metais nustatyto agreguoto asignavimų limito ir naudojama šio įstatymo 28 straipsnio 1 dalyje nustatytų atvejų poveikiui amortizuoti, antraisiais biudžetiniais metais sudaro ne mažiau kaip 2 procentus, o trečiaisiais biudžetiniais metais – ne mažiau kaip 3 procentus tais metais nustatytų agreguotų asignavimų limitų. Rengiant tam tikrų metų biudžeto patvirtinimo įstatymo projektą ir peržiūrint ankstesnių metų biudžeto patvirtinimo įstatymu nustatytų antrųjų ir trečiųjų biudžetinių metų konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytas agreguotų asignavimų limitų dalis, nepaskirstyta agreguoto asignavimų limito dalis gali būti paskirstoma konsoliduotąjį biudžetą sudarantiems biudžetams šio straipsnio 6 dalyje nustatytais atvejais. Kai tam tikrais metais kyla rizika dėl fiskalinės drausmės taisyklių nesilaikymo, tais metais nepaskirstyta agreguoto asignavimų limito dalis gali būti nenaudojama.
 TAR pastaba. 18 straipsnio 4 dalies redakcija taikoma rengiant Lietuvos Respublikos 2026–2028 ir vėlesnių metų biudžeto patvirtinimo įstatymų projektus.
 
 
 
 
-5. Rengiant tam tikrų metų biudžeto patvirtinimo įstatymo projektą, ankstesnių metų biudžeto patvirtinimo įstatyme nustatyti antrųjų ir trečiųjų metų agreguoti asignavimų limitai ir konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguotų asignavimų limitų dalys gali būti tikslinami šiais atvejais:
+5. Rengiant tam tikrų metų biudžeto patvirtinimo įstatymo projektą, ankstesnių metų biudžeto patvirtinimo įstatyme nustatyti antrųjų ir trečiųjų metų agreguoti asignavimų limitai ir konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguotų asignavimų limitų dalys gali būti tikslinami, jeigu neviršijamos grynųjų išlaidų augimo ribos, šiais atvejais:
 
 
-1) susidarius išskirtinėms aplinkybėms ir (arba) paskelbus valstybės lygio ekstremaliąją situaciją;
+1) paskelbus valstybės lygio ekstremaliąją situaciją;
 
 
 
@@ -797,8 +686,6 @@ TAR pastaba. 18 straipsnio 4 dalies redakcija taikoma rengiant Lietuvos Respubli
 
 
 
-
-
 6. Rengiant tam tikrų metų biudžeto patvirtinimo įstatymo projektą, ankstesnių metų biudžeto patvirtinimo įstatymu patvirtintos antrųjų ir trečiųjų biudžetinių metų konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguoto asignavimų limito dalys gali būti peržiūrimos ir keičiamos nekeičiant agreguotų asignavimų limitų (atitinkama suma keičiant nepaskirstytą agreguoto asignavimų limito dalį), kai:
 
 
@@ -817,24 +704,14 @@ TAR pastaba. 18 straipsnio 4 dalies redakcija taikoma rengiant Lietuvos Respubli
 
 
 
-
-
 7. Rengiant tam tikrų metų biudžeto patvirtinimo įstatymo projektą, ankstesnių metų biudžeto patvirtinimo įstatymu patvirtintos antrųjų ir trečiųjų biudžetinių metų vidutinės trukmės konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos asignavimų limito dalys, taip pat valstybės biudžeto asignavimų valdytojams paskirstytos ir pagal valstybės veiklos sritis agreguotos agreguoto asignavimų limito dalys gali būti peržiūrimos ir prireikus perskirstomos tarp vidutinės trukmės konsoliduotąjį biudžetą sudarančių biudžetų, valstybės biudžeto asignavimų valdytojų ir atitinkamai valstybės veiklos sričių, nekeičiant bendros vidutinės trukmės konsoliduotiesiems biudžetams paskirstytų asignavimų limito dalių sumos ir (arba) bendros valstybės biudžetui paskirstytos agreguoto asignavimų limito dalies.
- 
-
-
-
-
+ 
 
 
 
 
 V SKYRIUS
-TAM TIKRŲ METŲ BIUDŽETO PATVIRTINIMO ĮSTATYMAS
- 
-
-
-19 straipsnis. Tam tikrų metų biudžeto patvirtinimo įstatymo struktūra 
+TAM TIKRŲ METŲ BIUDŽETO PATVIRTINIMO ĮSTATYMAS19 straipsnis. Tam tikrų metų biudžeto patvirtinimo įstatymo struktūra 
 
 
 1. Tam tikrų metų biudžeto patvirtinimo įstatymo projektą rengia Finansų ministerija.
@@ -858,7 +735,7 @@ b) biudžetinių įstaigų pajamų įmokų į valstybės biudžetą, skiriamų p
 
 
 
-c) bendra valstybės biudžeto asignavimų suma, kuri paskirstoma pagal valstybės biudžeto asignavimų valdytojus, ir šiems asignavimų valdytojams paskirstomos asignavimų sumos, kurios agreguojamos pagal valstybės veiklos sritis;
+c) bendra valstybės biudžeto asignavimų suma, kuri paskirstoma pagal valstybės biudžeto asignavimų valdytojus, ir šiems asignavimų valdytojams paskirstytos asignavimų sumos, kurios agreguojamos pagal valstybės veiklos sritis;
 
 
 
@@ -874,8 +751,6 @@ e) gyventojų pajamų mokesčio dalis (procentais), tenkanti visų savivaldybių
 
 
 f) valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio vidutinio laikotarpio užduotys;
-
-
 
 
 
@@ -896,7 +771,7 @@ b) agreguotas asignavimų limitas;
 c) agreguoto asignavimų limito dalys:
 
 
-i) valstybės biudžetui tenkanti agreguoto asignavimų limito dalis, kuri paskirstoma pagal valstybės biudžeto asignavimų valdytojus, ir šiems asignavimų valdytojams paskirstomos agreguoto asignavimų limito dalys, kurios agreguojamos pagal valstybės veiklos sritis;
+i) valstybės biudžetui tenkanti agreguoto asignavimų limito dalis, kuri paskirstoma pagal valstybės biudžeto asignavimų valdytojus, ir šiems asignavimų valdytojams paskirstytos agreguoto asignavimų limito dalys, kurios agreguojamos pagal valstybės veiklos sritis;
 
 
 
@@ -916,26 +791,12 @@ iv) Privalomojo sveikatos draudimo fondo biudžetui tenkanti agreguoto asignavim
 
 
 
+3. Tam tikrų metų biudžeto patvirtinimo įstatyme gali būti tvirtinami ir kiti šio straipsnio 2 dalyje nenumatyti rodikliai.
 
 
 
 
-
-
-3. Tam tikrų metų biudžeto patvirtinimo įstatyme gali būti tvirtinami ir kiti šio straipsnio 2 dalyje nenumatyti rodikliai.
-
-
-
-
-4. Tam tikrų metų biudžeto patvirtinimo įstatyme gali būti nustatomos nuostatos dėl valstybės biudžeto lėšų naudojimo ribojimo ir (ar) įsipareigojimų, kuriems vykdyti reikia valstybės biudžeto lėšų, prisiėmimo ribojimo.
- 
-
-
-
-
-
-
-20 straipsnis. Informacija ir duomenys, teikiami Seimui su tam tikrų metų biudžeto patvirtinimo įstatymo projektu
+4. Tam tikrų metų biudžeto patvirtinimo įstatyme gali būti nustatomos nuostatos dėl valstybės biudžeto lėšų naudojimo ribojimo ir (ar) įsipareigojimų, kuriems vykdyti reikia valstybės biudžeto lėšų, prisiėmimo ribojimo.20 straipsnis. Informacija ir duomenys, teikiami Seimui su tam tikrų metų biudžeto patvirtinimo įstatymo projektu
 
 
 1. Vyriausybė su tam tikrų metų biudžeto patvirtinimo įstatymo projektu Seimui teikia:
@@ -974,7 +835,7 @@ f) vidutiniu laikotarpiu numatomas fiskalines rizikas ir jų įvertinimą;
 
 
 
-g) valstybės biudžeto ir savivaldybių biudžetų rodiklių perklasifikavimą, kuris atsirastų valdžios sektoriaus balanso rodiklį skaičiuojant pagal Europos sąskaitų sistemą (ESS’2010) ir kurio vertė viršija 0,1 procento BVP to meto kainomis;
+g) valstybės biudžeto ir savivaldybių biudžetų rodiklių perklasifikavimą, kuris atsirastų valdžios sektoriaus balanso rodiklį skaičiuojant pagal Europos sąskaitų sistemą (ESS'2010) ir kurio vertė viršija 0,1 procento BVP to meto kainomis;
 
 
 
@@ -999,7 +860,7 @@ k) asignavimų valdytojų kiekvieniems 3 biudžetiniams metams planuojamas asign
 
 
 
-l) savivaldybių biudžetams skiriamų specialių tikslinių dotacijų antriesiems ir tretiesiems biudžetiniams metams sumas ir dotacijas (išskyrus specialias tikslines dotacijas, nurodytas šio įstatymo 19 straipsnio 2 dalies 1 punkto d papunktyje) savivaldybių biudžetams kiekvieniems 3 biudžetiniams metams;
+l) savivaldybių biudžetams skiriamų specialių tikslinių dotacijų antriesiems ir tretiesiems biudžetiniams metams sumas ir dotacijas (išskyrus specialias tikslines dotacijas, nurodytas šio įstatymo 19 straipsnio 2 dalies 1 punkto d papunktyje) savivaldybių biudžetams kiekvieniems 3 biudžetiniams metams;
 
 
 
@@ -1009,29 +870,17 @@ m) vidutinės trukmės konsoliduotojo biudžeto pirmųjų, antrųjų ir trečių
 
 
 
-
-
 2) duomenis apie planuojamą bendrą Vyriausybės skolinimosi valstybės vardu vidaus ir užsienio rinkose poreikį;
 
 
 
 
-3) išaiškinimą (apimtis ir priežastis) apie ankstesniais biudžetiniais metais nustatyto agreguoto asignavimų limito ir konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguoto asignavimų limito dalies pokyčius bei nepaskirstytos agreguoto asignavimų limito dalies paskirstymą konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguoto asignavimų limito dalies pokyčiams finansuoti šio įstatymo 18 straipsnio 4, 5 ir 6 dalyse nustatytais atvejais.
+3) išaiškinimą (apimtis ir priežastys) apie ankstesniais biudžetiniais metais nustatyto agreguoto asignavimų limito ir konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguoto asignavimų limito dalies pokyčius bei nepaskirstytos agreguoto asignavimų limito dalies paskirstymą konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguoto asignavimų limito dalies pokyčiams finansuoti šio įstatymo 18 straipsnio 4, 5 ir 6 dalyse nustatytais atvejais.
 
 
 
 
-
-
-2. Lietuvos bankas ne vėliau kaip per 15 darbo dienų nuo tam tikrų metų biudžeto patvirtinimo įstatymo projekto pateikimo Seimui dienos teikia Seimui išvadas dėl valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduočių įvykdymo poveikio pasitikėjimui finansų sistemos stabilumu ir kainų stabilumui.
- 
-
-
-
-
-
-
-21 straipsnis. Tam tikrų metų biudžeto patvirtinimo įstatymo projekto pateikimas, svarstymas ir priėmimas Seime
+2. Lietuvos bankas ne vėliau kaip per 15 darbo dienų nuo tam tikrų metų biudžeto patvirtinimo įstatymo projekto pateikimo Seimui dienos teikia Seimui išvadas dėl valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduočių įvykdymo poveikio pasitikėjimui finansų sistemos stabilumu ir kainų stabilumui.21 straipsnis. Tam tikrų metų biudžeto patvirtinimo įstatymo projekto pateikimas, svarstymas ir priėmimas Seime
 
 
 1. Vyriausybė Seimui pateikia, Seimas svarsto ir priima tam tikrų metų biudžeto patvirtinimo įstatymą Seimo statute nustatyta tvarka ir terminais.
@@ -1173,7 +1022,7 @@ Jeigu biudžetas laiku nepatvirtinamas, asignavimai metų pradžioje iki biudže
 
 
 
-2. Pažangos lėšos gali būti naudojamos tik pažangos priemonėms finansuoti, išskyrus Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšas ir atvejus, kai nustatomos išskirtinės aplinkybės.
+2. Pažangos lėšos gali būti naudojamos tik pažangos priemonėms finansuoti, išskyrus Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšas.
 
 
 
@@ -1196,8 +1045,6 @@ Jeigu biudžetas laiku nepatvirtinamas, asignavimai metų pradžioje iki biudže
 
 
 
-
-
 5. Šio straipsnio 4 dalis netaikoma šio įstatymo 28 straipsnio 1 dalyje nurodytiems nepanaudotiems valstybės biudžeto asignavimams, skirtiems programoms finansuoti, politinėms partijoms paskirstytiems valstybės biudžeto asignavimams, Lietuvos Respublikos nacionalinių plėtros įstaigų įstatyme apibrėžtoms skatinamosioms finansinėms priemonėms, kai fondų fondas nesteigiamas, įgyvendinti ir (arba) fondų fondams valdyti pagal finansavimo sutartis, kurių šalys yra asignavimų valdytojai, skatinamųjų finansinių priemonių ir (arba) fondų fondų valdytojai ir (arba) Finansų ministerija.
 
 
@@ -1216,17 +1063,7 @@ Jeigu biudžetas laiku nepatvirtinamas, asignavimai metų pradžioje iki biudže
 
 
 
-2) savivaldybės biudžeto lėšas pervesdami į savivaldybės iždo sąskaitą.
- 
-
-
-
-
-
-
-
-
-28 straipsnis. Nepanaudotų valstybės biudžeto asignavimų perkėlimas iš ankstesnių biudžetinių metų į einamuosius biudžetinius metus ir kitų lėšų naudojimas viršijant Seimo patvirtintą bendrą asignavimų sumą
+2) savivaldybės biudžeto lėšas pervesdami į savivaldybės iždo sąskaitą.28 straipsnis. Nepanaudotų valstybės biudžeto asignavimų perkėlimas iš ankstesnių biudžetinių metų į einamuosius biudžetinius metus ir kitų lėšų naudojimas viršijant Seimo patvirtintą bendrą asignavimų sumą
 
 
 1. Nepanaudoti valstybės biudžeto asignavimai Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka gali būti perkeliami iš ankstesnių biudžetinių metų į einamuosius biudžetinius metus ir paliekami valstybės biudžeto asignavimų valdytojams bei gali būti naudojami viršijant Seimo patvirtintą einamųjų biudžetinių metų bendrą asignavimų sumą:
