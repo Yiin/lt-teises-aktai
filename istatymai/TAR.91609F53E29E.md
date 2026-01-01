@@ -638,10 +638,7 @@ Socialinės apsaugos ir darbo ministerija:
 
 
 
-3) vertina asmens (šeimos) finansines galimybes ir nustato asmens (šeimos) mokėjimo už socialines paslaugas dydį;
-
-
-
+3) nustato asmens (šeimos) mokėjimo už socialines paslaugas dydį;
 
 4) viešuosius pirkimus reglamentuojančių teisės aktų nustatyta tvarka perka socialines paslaugas savivaldybės teritorijos gyventojams;
 
@@ -2466,7 +2463,7 @@ b) neturi viršyti 60 procentų šios kompensacijos dydžio, jeigu šios paslaug
 
 
 
-5) pensijos, socialinio draudimo senatvės, negalios arba netekto darbingumo ir invalidumo pensijų priemokos, pensijų išmokos ir vietoj pensijų mokamos kompensacijos, rentos, išskyrus socialinio draudimo našlių pensijas;
+5) pensijos, išskyrus socialinio draudimo našlių pensijas, socialinio draudimo senatvės, negalios arba netekto darbingumo ir invalidumo pensijų priemokos, pensijų išmokos, išskyrus Lietuvos Respublikos pensijų kaupimo įstatymo 4 straipsnio 8 dalies 5 punkte nustatytais pagrindais išmokėtą pensijų fonde sukauptą pensijų turtą, ir vietoj pensijų mokamos kompensacijos, rentos;
 
 
 
@@ -2587,9 +2584,7 @@ b) neturi viršyti 60 procentų šios kompensacijos dydžio, jeigu šios paslaug
 
 
 
-3) piniginės lėšos.
-
-
+3) piniginės lėšos, išskyrus Pensijų kaupimo įstatymo 4 straipsnio 8 dalies 5 punkte nustatytais pagrindais išmokėtą pensijų fonde sukauptą pensijų turtą.
 
 
 
