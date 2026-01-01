@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2024-09-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-787, i. k. 0961010ISTA00I-1232
  
@@ -892,6 +892,14 @@ Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
 
 
 3. Fondo, priskiriamo prie viešojo sektoriaus subjektų, metinių finansinių ataskaitų rinkinys, veiklos ataskaita, o kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą ir šį įstatymą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada Juridinių asmenų registro tvarkytojui teikiami finansų ministro nustatyta tvarka. Fondo, nepriskiriamo prie viešojo sektoriaus subjektų, metinių finansinių ataskaitų rinkinys, veiklos ataskaita, metinė ataskaita, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada, kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą ir šį įstatymą, teikiami Juridinių asmenų registro tvarkytojui Vyriausybės nustatyta tvarka.
+
+
+
+
+4. Juridinių asmenų registro tvarkytojas nepriima fondo pateikto metinių finansinių ataskaitų rinkinio be auditoriaus išvados, jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą ir šį įstatymą, išskyrus atvejus, kai prie viešojo sektoriaus subjektų priskiriamas fondas metinių finansinių ataskaitų rinkinį teikia finansų ministro nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
+ 
 
 
 Straipsnio pakeitimai:
