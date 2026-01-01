@@ -438,23 +438,15 @@ Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
 9 straipsnis. Ilgalaikio darbo išmoka
 
 
-1. Teisę į ilgalaikio darbo išmoką turi asmuo, kurio darbo santykiai pagal nutraukiamą darbo sutartį su Lietuvos Respublikos jurisdikcijoje esančiu darbdaviu atleidimo iš darbo dieną nepertraukiamai tęsėsi daugiau negu 5 metus ir kuris yra atleistas iš darbo Lietuvos Respublikos darbo kodekso 57 arba 62 straipsnyje nurodytu pagrindu.
+1. Teisę į ilgalaikio darbo išmoką turi asmuo, kurio darbo santykiai pagal nutraukiamą darbo sutartį su Lietuvos Respublikos jurisdikcijoje esančiu darbdaviu atleidimo iš darbo dieną nepertraukiamai tęsėsi daugiau negu 5 metus ir kuris yra atleistas iš darbo Lietuvos Respublikos darbo kodekso 57 ar 62 straipsnyje nurodytu pagrindu arba darbo sutartis pasibaigia mirus darbdaviui – fiziniam asmeniui.
 Straipsnio dalies pakeitimai:
 Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
- 
+ 
 
 
 
 
-2. Ilgalaikio darbo išmoka šio straipsnio 1 dalyje nurodytiems asmenims, išskyrus iš biudžetinių įstaigų ir Lietuvos banko atleistus asmenis, mokama iš Ilgalaikio darbo išmokų fondo. Šiame įstatyme nustatytomis sąlygomis šio straipsnio 1 dalyje nurodytiems iš biudžetinių įstaigų ir Lietuvos banko atleistiems asmenims šiame įstatyme nustatyto dydžio ilgalaikio darbo išmokas moka juos atleidęs darbdavys.
- 
-
-
-
-
-
-
-91 straipsnis. Neteko galios nuo 2025-01-01
+2. Ilgalaikio darbo išmoka šio straipsnio 1 dalyje nurodytiems asmenims, išskyrus iš biudžetinių įstaigų ir Lietuvos banko atleistus asmenis, mokama iš Ilgalaikio darbo išmokų fondo. Šiame įstatyme nustatytomis sąlygomis šio straipsnio 1 dalyje nurodytiems iš biudžetinių įstaigų ir Lietuvos banko atleistiems asmenims šiame įstatyme nustatyto dydžio ilgalaikio darbo išmokas moka juos atleidęs darbdavys.91 straipsnis. Neteko galios nuo 2025-01-01
 Straipsnio naikinimas:
 Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
  
@@ -483,38 +475,30 @@ Nr. XIV-2657, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09698
 10 straipsnis. Ilgalaikio darbo išmokos apskaičiavimo tvarka
 
 
-1. Teisę į ilgalaikio darbo išmoką turinčiam darbuotojui, jį atleidus iš darbo ir kai tarp jo ir darbdavio per 3 mėnesių laikotarpį po atleidimo nesudaroma nauja darbo sutartis, iš Ilgalaikio darbo išmokų fondo skiriama:
+1. Teisę į ilgalaikio darbo išmoką turinčiam darbuotojui, jį atleidus iš darbo ir kai tarp jo ir darbdavio per 3 mėnesių laikotarpį po atleidimo nesudaroma nauja darbo sutartis arba darbuotojo darbo sutartis pasibaigia mirus darbdaviui – fiziniam asmeniui, iš Ilgalaikio darbo išmokų fondo skiriama:
 
 
-1) 77,58 procento jo vidutinio mėnesinio darbo užmokesčio dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo dieną tęsėsi nuo 5 iki 10 metų;
-
-
-
-
-2) 77,58 procento 2 jo vidutinių mėnesinių darbo užmokesčių dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo dieną tęsėsi nuo 10 iki 20 metų;
+1) 77,58 procento jo vidutinio mėnesinio darbo užmokesčio dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo arba darbo sutarties pasibaigimo mirus darbdaviui – fiziniam asmeniui dieną tęsėsi nuo 5 iki 10 metų;
 
 
 
 
-3) 77,58 procento 3 jo vidutinių mėnesinių darbo užmokesčių dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo dieną tęsėsi 20 ir daugiau metų.
+2) 77,58 procento 2 jo vidutinių mėnesinių darbo užmokesčių dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo arba darbo sutarties pasibaigimo mirus darbdaviui – fiziniam asmeniui dieną tęsėsi nuo 10 iki 20 metų;
 
 
 
 
+3) 77,58 procento 3 jo vidutinių mėnesinių darbo užmokesčių dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo arba darbo sutarties pasibaigimo mirus darbdaviui – fiziniam asmeniui dieną tęsėsi 20 ir daugiau metų.
 
 
-2. Nustatant šio straipsnio 1 dalyje nurodytą ilgalaikio darbo išmokos dydį, darbuotojo vidutinio mėnesinio darbo užmokesčio dydis apskaičiuojamas remiantis Registro duomenimis pagal tam darbuotojui darbovietėje, iš kurios jis buvo atleistas pagal Darbo kodekso 57 arba 62 straipsnį, priskaičiuotų su darbo santykiais susijusių pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, (toliau šioje dalyje – su darbo santykiais susijusios pajamos) vidurkį. Kai darbuotojas darbovietėje, iš kurios buvo atleistas, per paskutinius 12 mėnesių bent 1 mėnesį neturėjo su darbo santykiais susijusių pajamų, už trūkstamą laikotarpį įskaitomos ir darbuotojo ankstesnėje darbovietėje, iš kurios jis buvo perkeltas į jį atleidusią darbovietę, užtikrinant jo darbo santykių tęstinumą, turėtos su darbo santykiais susijusios pajamos, jeigu jos patenka į 12 mėnesių laikotarpį iki darbuotojo atleidimo iš darbo pagal Darbo kodekso 57 ar 62 straipsnį. Šis vidurkis apskaičiuojamas pagal paskutinių 12 mėnesių, kuriais darbuotojas turėjo su darbo santykiais susijusių pajamų, darbuotojo gautas su darbo santykiais susijusias pajamas Ilgalaikio darbo išmokų fondo nuostatuose (toliau – IDIF nuostatai) nustatyta tvarka. Jeigu su darbo santykiais susijusių pajamų darbuotojas bent vieną mėnesį gavo ir jį pagal Darbo kodekso 57 arba 62 straipsnį atleidusioje darbovietėje, ir ankstesnėje darbovietėje, iš kurios jis buvo perkeltas į jį atleidusią darbovietę, užtikrinant jo darbo santykių tęstinumą, apskaičiuojant jo su darbo santykiais susijusių pajamų vidurkį, už sutampančius laikotarpius įskaitomos tik darbuotoją atleidusioje darbovietėje atitinkamą mėnesį darbuotojo gautos su darbo santykiais susijusios pajamos.
+
+
+2. Nustatant šio straipsnio 1 dalyje nurodytą ilgalaikio darbo išmokos dydį, darbuotojo vidutinio mėnesinio darbo užmokesčio dydis apskaičiuojamas remiantis Registro duomenimis pagal tam darbuotojui darbovietėje, iš kurios jis buvo atleistas pagal Darbo kodekso 57 ar 62 straipsnį arba kurioje jo darbo sutartis pasibaigė mirus darbdaviui – fiziniam asmeniui, priskaičiuotų su darbo santykiais susijusių pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, (toliau šioje dalyje – su darbo santykiais susijusios pajamos) vidurkį. Kai darbuotojas darbovietėje, iš kurios buvo atleistas arba kurioje jo darbo sutartis pasibaigė mirus darbdaviui – fiziniam asmeniui, per paskutinius 12 mėnesių bent 1 mėnesį neturėjo su darbo santykiais susijusių pajamų, už trūkstamą laikotarpį įskaitomos ir darbuotojo ankstesnėje darbovietėje, iš kurios jis buvo perkeltas į jį atleidusią darbovietę arba kurioje darbo sutartis pasibaigė mirus darbdaviui – fiziniam asmeniui, užtikrinant jo darbo santykių tęstinumą, turėtos su darbo santykiais susijusios pajamos, jeigu jos patenka į 12 mėnesių laikotarpį iki darbuotojo atleidimo iš darbo pagal Darbo kodekso 57 ar 62 straipsnį arba darbo sutarties pasibaigimo mirus darbdaviui – fiziniam asmeniui. Šis vidurkis apskaičiuojamas pagal paskutinių 12 mėnesių, kuriais darbuotojas turėjo su darbo santykiais susijusių pajamų, darbuotojo gautas su darbo santykiais susijusias pajamas Ilgalaikio darbo išmokų fondo nuostatuose (toliau – IDIF nuostatai) nustatyta tvarka. Jeigu su darbo santykiais susijusių pajamų darbuotojas bent vieną mėnesį gavo ir jį pagal Darbo kodekso 57 ar 62 straipsnį atleidusioje darbovietėje arba joje darbo sutartis pasibaigė mirus darbdaviui – fiziniam asmeniui, ir ankstesnėje darbovietėje, iš kurios jis buvo perkeltas į jį atleidusią darbovietę arba kurioje darbo sutartis pasibaigė mirus darbdaviui – fiziniam asmeniui, užtikrinant jo darbo santykių tęstinumą, apskaičiuojant jo su darbo santykiais susijusių pajamų vidurkį, už sutampančius laikotarpius įskaitomos tik darbuotojo atleidusioje darbovietėje arba darbovietėje, kurioje darbo sutartis pasibaigė mirus darbdaviui – fiziniam asmeniui, atitinkamą mėnesį darbuotojo gautos su darbo santykiais susijusios pajamos.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
-Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18434
- 
-
-
-
-
-11 straipsnis. Ilgalaikio darbo išmokų skyrimo ir mokėjimo tvarka
+Nr. XIV-3037, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-1843411 straipsnis. Ilgalaikio darbo išmokų skyrimo ir mokėjimo tvarka
 
 
 1. Ilgalaikio darbo išmokos skiriamos ne anksčiau kaip praėjus 3 mėnesiams nuo darbuotojo atleidimo iš darbo dienos. Ilgalaikio darbo išmokos iš Ilgalaikio darbo išmokų fondo skiriamos be asmens prašymo, jeigu to asmens duomenys yra Registre. Jeigu asmens duomenų nėra Registre, ilgalaikio darbo išmokos iš Ilgalaikio darbo išmokų fondo skiriamos, jeigu asmuo ne vėliau kaip per 12 mėnesių nuo atleidimo iš darbo dienos IDIF nuostatuose nustatyta tvarka yra pateikęs administratoriui prašymą skirti išmoką. Ilgalaikio darbo išmokos iš biudžetinių įstaigų ir Lietuvos banko atleistiems darbuotojams darbdavio skiriamos ir mokamos mutatis mutandis šiame įstatyme ir IDIF nuostatuose nustatyta tvarka. 
