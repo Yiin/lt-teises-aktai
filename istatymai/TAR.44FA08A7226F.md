@@ -490,7 +490,7 @@ Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 
 
 
-4. Profesinio mokymo programa yra skirta kvalifikacijai, įregistruotai Studijų, mokymo programų ir kvalifikacijų registre, įgyti.
+4. Profesinio mokymo programa yra skirta kvalifikacijai, įregistruotai Studijų, mokymo programų ir kvalifikacijų registro informacinėje sistemoje, įgyti.
 
 
 
@@ -523,7 +523,7 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-9. Formaliojo profesinio mokymo programos, kvalifikacijos, profesiniai standartai registruojami Studijų, mokymo programų ir kvalifikacijų registre.
+9. Formaliojo profesinio mokymo programos, kvalifikacijos, profesiniai standartai registruojami Studijų, mokymo programų ir kvalifikacijų registro informacinėje sistemoje.
 
 
 
@@ -538,12 +538,12 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-12. Neformaliojo profesinio mokymo programų ir jų modulių registravimo Studijų, mokymo programų ir kvalifikacijų registre reikalavimus nustato kvalifikacijų tvarkymo institucija, pasitarusi su sektoriniais profesiniais komitetais. Papildomus neformaliojo profesinio mokymo programų reikalavimus, kai mokymas vykdomas pagal Lietuvos Respublikos užimtumo įstatymą, nustato mokymą pagal šią programą užsakanti ar jį finansuojanti institucija.
+12. Neformaliojo profesinio mokymo programų ir jų modulių registravimo Studijų, mokymo programų ir kvalifikacijų registro informacinėje sistemoje reikalavimus nustato kvalifikacijų tvarkymo institucija, pasitarusi su sektoriniais profesiniais komitetais. Papildomus neformaliojo profesinio mokymo programų reikalavimus, kai mokymas vykdomas pagal Lietuvos Respublikos užimtumo įstatymą, nustato mokymą pagal šią programą užsakanti ar jį finansuojanti institucija.
 
 
 
 
-13. Neformaliojo profesinio mokymo programos registruojamos Studijų, mokymo programų ir kvalifikacijų registre.
+13. Neformaliojo profesinio mokymo programos ir jų moduliai registruojami Studijų, mokymo programų ir kvalifikacijų registro informacinėje sistemoje.
 
 
 
@@ -561,12 +561,12 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 14 straipsnis. Licencija vykdyti formalųjį profesinį mokymą
 
 
-1. Formalųjį profesinį mokymą ir su profesiniu mokymu susijusią veiklą gali vykdyti juridiniai asmenys, kitos juridinio asmens statuso neturinčios kitos valstybės narės organizacijos ir jų padaliniai, įsteigti Lietuvos Respublikoje, arba fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, turintys formaliojo profesinio mokymo licenciją (toliau – licencija), kuri suteikia teisę vykdyti Licencijų registre juridiniam ar fiziniam asmeniui įrašytas formaliojo profesinio mokymo programas ar jų modulius.
+1. Formalųjį profesinį mokymą ir su profesiniu mokymu susijusią veiklą gali vykdyti juridiniai asmenys, kitos juridinio asmens statuso neturinčios kitos valstybės narės organizacijos ir jų padaliniai, įsteigti Lietuvos Respublikoje, arba fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, turintys formaliojo profesinio mokymo licenciją (toliau – licencija), kuri suteikia teisę vykdyti Licencijų registro informacinėje sistemoje juridiniam ar fiziniam asmeniui įrašytas formaliojo profesinio mokymo programas ar jų modulius.
 
 
 
 
-2. Licencijas išduoda, papildo, atsisako jas išduoti, licencijų duomenis patikslina, licencijų galiojimą sustabdo, galiojimo sustabdymą panaikina ir galiojimą panaikina švietimo, mokslo ir sporto ministro įgaliota įstaiga, vadovaudamasi šiuo įstatymu ir švietimo, mokslo ir sporto ministro tvirtinamomis formaliojo profesinio mokymo licencijavimo taisyklėmis. Duomenys apie licencijų išdavimą, papildymą, patikslinimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą perduodami Licencijų registrui šio registro nuostatuose nustatyta tvarka. 
+2. Licencijas išduoda, papildo, atsisako jas išduoti, licencijų duomenis patikslina, licencijų galiojimą sustabdo, galiojimo sustabdymą panaikina ir galiojimą panaikina švietimo, mokslo ir sporto ministro įgaliota įstaiga, vadovaudamasi šiuo įstatymu ir švietimo, mokslo ir sporto ministro tvirtinamomis formaliojo profesinio mokymo licencijavimo taisyklėmis. Duomenys apie licencijų išdavimą, papildymą, patikslinimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą perduodami Licencijų registro informacinei sistemai šios informacinės sistemos nuostatuose nustatyta tvarka. 
 
 
 
@@ -709,7 +709,7 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-7) nelikus licencijoje nė vienos formaliojo profesinio mokymo programos ar jos modulio, kai formaliojo profesinio mokymo programa išregistruota iš Studijų, mokymo programų ir kvalifikacijų registro kaip neatitinkanti reikalavimų;
+7) nelikus licencijoje nė vienos formaliojo profesinio mokymo programos ar jos modulio, kai formaliojo profesinio mokymo programa išregistruota iš Studijų, mokymo programų ir kvalifikacijų registro informacinės sistemos kaip neatitinkanti reikalavimų;
 
 
 
@@ -754,7 +754,7 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 19. Licencijos turėtojas turi teisę:
 
 
-1) vykdyti Licencijų registre įrašytas formaliojo profesinio mokymo programas ar jų modulius;
+1) vykdyti Licencijų registro informacinėje sistemoje įregistruotas formaliojo profesinio mokymo programas ar jų modulius;
 
 
 
@@ -1441,7 +1441,7 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-3) rengti formaliojo ir neformaliojo profesinio mokymo programas ir (ar) jų modulius ir jas suderinus su kvalifikacijų tvarkymo institucija teikti Studijų, mokymo programų ir kvalifikacijų registro tvarkytojui registruoti šiame registre;
+3) rengti formaliojo ir neformaliojo profesinio mokymo programas ir (ar) jų modulius ir jas suderinus su kvalifikacijų tvarkymo institucija teikti Studijų, mokymo programų ir kvalifikacijų registro informacinės sistemos tvarkytojui registruoti šioje informacinėje sistemoje;
 
 
 
@@ -1569,7 +1569,7 @@ Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 
 
 
-9) steigia ir valdo Diplomų, atestatų ir kvalifikacijos pažymėjimų registrą ir Studijų, mokymo programų ir kvalifikacijų registrą;
+
 
 
 
