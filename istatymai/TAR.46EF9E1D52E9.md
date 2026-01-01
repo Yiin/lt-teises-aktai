@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
  
@@ -3420,7 +3420,10 @@ Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 
 
-3) kai diplomatai išvykę karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymu;
+3) kai diplomatai išvykę karo prievolę administruojančios krašto apsaugos sistemos institucijos ar alternatyviąją krašto apsaugos tarnybą administruojančios institucijos nurodymu;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2733, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11570
+ 
 
 
 
@@ -4382,3 +4385,8 @@ Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2733, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11570
+Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 89 straipsnio pakeitimo įstatymas
