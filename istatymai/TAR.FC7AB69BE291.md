@@ -1137,14 +1137,11 @@ Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 2. Jeigu yra duomenų, pagrindžiančių prielaidą, kad elektros tinklų operatorius nevykdo savo įsipareigojimų pagal šio skirsnio nuostatas, elektrinę statantis ar įrengiantis asmuo turi teisę reikalauti, kad elektros tinklų operatorius pateiktų informaciją apie tai, dėl kokių priežasčių ir kokiu mastu elektros tinklų operatorius nevykdė savo įsipareigojimo optimizuoti ir plėsti savo elektros tinklų sistemą bei didinti elektros tinklų pajėgumą.
 
 
+5. Šio įstatymo 7 straipsnyje nurodytos atsinaujinančių išteklių elektros energijos gamybos įmokos mokėjimas taikomas gamintojams, leidimą gaminti elektros energiją (taip pat ir išduodamą anksčiau galiojusio leidimo gaminti elektros energiją pagrindu) gaunantiems po 2023 m. liepos 1 d. Kai leidimas gaminti elektros energiją nereikalingas, šio įstatymo 7 straipsnyje nurodytos atsinaujinančių išteklių elektros energijos gamybos įmokos mokėjimas iki 2025 m. gruodžio 31 d. taikomas gamintojams, elektros įrenginius įrengusio rangovo deklaraciją tinklų operatoriui apie iki 100 kW įrengtosios galios elektrinės, hibridinės elektrinės įrengimą gaunantiems po 2023 m. liepos 1 d. Gamintojams, kurie leidimą gaminti elektros energiją (taip pat ir išduodamą anksčiau galiojusio leidimo gaminti elektros energiją pagrindu) yra gavę iki 2023 m. liepos 1 d., šio įstatymo 7 straipsnyje nurodytos atsinaujinančių išteklių elektros energijos gamybos įmokos mokėjimas taikomas pasibaigus 10 metų laikotarpiui skaičiuojant nuo leidimo gaminti elektros energiją išdavimo dienos. Gamintojams, kurie leidimą gaminti elektros energiją (taip pat ir išduodamą anksčiau galiojusio leidimo gaminti elektros energiją pagrindu) yra gavę iki 2023 m. liepos 1 d. ir kuriems skaičiuojamas 10 metų laikotarpis sueina iki 2025 m. gruodžio 31 d., šio įstatymo 7 straipsnyje nurodytas gamybos įmokos mokėjimas taikomas už laikotarpius po 2025 m. gruodžio 31 d. Gamintojams, kuriems taikomas fiksuotas tarifas ir skaičiuojamas 10 metų pereinamasis laikotarpis sueina iki 2025 m. gruodžio 31 d., šio įstatymo 7 straipsnyje nurodytos atsinaujinančių išteklių elektros energijos gamybos įmokos mokėjimas taikomas už laikotarpius, einančius pasibaigus skatinimo laikotarpiui, bet ne anksčiau kaip nuo 2026 m. sausio 1 d.
+
+
 Straipsnio pakeitimai:
-Nr. XIV-1697, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27270
- 
-
-
-
-
-19 straipsnis. Elektrinių prijungimo reguliavimas
+Nr. XIV-1697, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-2727019 straipsnis. Elektrinių prijungimo reguliavimas
 
 
 1. Elektrinės prijungimo darbus elektros tinklų operatoriaus valdomų elektros tinklų dalyje, įskaitant elektros energijos apskaitos prietaisų įrengimą, atlieka elektros tinklų operatorius arba jo pavedimu kitas asmuo, pasirinktas įstatymų nustatyta tvarka. 
