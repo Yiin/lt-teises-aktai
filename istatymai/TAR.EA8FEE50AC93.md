@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea8fee50ac9311e6b844f0f29024f5ac"
 
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas
 
-Suvestinė redakcija nuo 2025-05-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01 iki 2026-04-30
  
 Įstatymas paskelbtas: TAR 2016-11-17, i. k. 2016-26968
  
@@ -1516,7 +1516,9 @@ Nr. XIV-2738, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11575
 
 
 
-5. Nuolatinę privalomąją pradinę karo tarnybą atliekantiems kredito gavėjams kredito įmokų pagal būsto kredito sutartis mokėjimas atidedamas Lietuvos Respublikos karo prievolės įstatymo nustatyta tvarka. 
+5. Privalomąją pradinę karo tarnybą, išskyrus organizuojamą dalimis, arba alternatyviąją krašto apsaugos tarnybą atliekantiems kredito gavėjams kredito įmokų pagal būsto kredito sutartis mokėjimas atidedamas Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2738, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11575
  
 
 
