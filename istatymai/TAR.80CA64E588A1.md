@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.80CA64E588A1"
 
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas
 
-Suvestinė redakcija nuo 2025-07-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3009, i. k. 1021010ISTA00IX-987
  
@@ -963,12 +963,7 @@ priedas
 
 
 
-3. 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1305/2013 dėl paramos kaimo plėtrai, teikiamos Europos žemės ūkio fondo kaimo plėtrai lėšomis, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 1698/2005, su paskutiniais pakeitimais, padarytais 2022 m. birželio 29 d. Europos Parlamento ir Tarybos reglamentu (ES) 2022/1033.
-
-
-
-
-4. 2021 m. gruodžio 2 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/2115, kuriuo nustatomos valstybių narių pagal bendrą žemės ūkio politiką rengtinų strateginių planų (BŽŪP strateginių planų), finansuotinų iš Europos žemės ūkio garantijų fondo (EŽŪGF) ir iš Europos žemės ūkio fondo kaimo plėtrai (EŽŪFKP), rėmimo taisyklės ir panaikinami reglamentai (ES) Nr. 1305/2013 ir (ES) Nr. 1307/2013.
+3. 2021 m. gruodžio 2 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/2115, kuriuo nustatomos valstybių narių pagal bendrą žemės ūkio politiką rengtinų strateginių planų (BŽŪP strateginių planų), finansuotinų iš Europos žemės ūkio garantijų fondo (EŽŪGF) ir iš Europos žemės ūkio fondo kaimo plėtrai (EŽŪFKP), rėmimo taisyklės ir panaikinami reglamentai (ES) Nr. 1305/2013 ir (ES) Nr. 1307/2013.
 
 
 
