@@ -1212,14 +1212,12 @@ ORLAIVIŲ REGISTRAVIMAS IR ŽENKLINIMAS
 3) orlaivio savininkas yra Lietuvos Respublikos pilietis, kitos Europos Sąjungos valstybės narės pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo Europos Sąjungos valstybėse narėse teisėmis (toliau – Lietuvos Respublikos pilietis ar kitas fizinis asmuo), arba juridinis asmuo, registruotas Lietuvos Respublikoje, Lietuvos valstybė arba savivaldybė; arba orlaivio savininkas yra ne Lietuvos Respublikos pilietis ar kitas fizinis asmuo arba juridinis asmuo, registruotas Lietuvos Respublikoje, bet orlaivis daugiau kaip pusę skrydžių vykdo iš Lietuvos Respublikos oro uosto; arba orlaivio naudotojas yra Lietuvos Respublikos pilietis ar kitas fizinis asmuo arba juridinis asmuo, registruotas Lietuvos Respublikoje; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
- 
+ 
 
 
 
 
 4) orlaivis neregistruotas Lietuvos Respublikos karinių orlaivių registre.
-
-
 
 
 
@@ -1232,7 +1230,7 @@ Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 5. Orlaivis 4 mėnesiams gali būti laikinai įregistruotas Lietuvos Respublikos civilinių orlaivių registre, jeigu jo savininkas ar naudotojas yra vienas iš šio straipsnio 3 dalies 3 punkte nurodytų asmenų, tačiau ne visos sąlygos, būtinos galutiniam įregistravimui, yra patenkintos. Tam, kad orlaivis būtų laikinai įregistruotas Lietuvos Respublikos civilinių orlaivių registre, turi būti įvykdytos ir šio straipsnio 3 dalies 2 ir 4 punktuose nurodytos sąlygos. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
- 
+ 
 
 
 
@@ -1265,8 +1263,6 @@ Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 
 
 
-
-
 7. Jeigu Lietuvos Respublikos civilinių orlaivių registre įrašyta, kad orlaivis yra įkeistas arba areštuotas, jo registravimas negali būti panaikintas be įkaito davėjo sutikimo arba valstybės įmonės Registrų centro išrašo ar teismo rašytinio pranešimo, kad orlaivio įkeitimas arba areštas panaikintas.
 
 
@@ -1275,7 +1271,7 @@ Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 71. Šio straipsnio 3 dalies 1 punktas, 4, 5 dalys, 6 dalies 5 punktas netaikomi Lietuvos Respublikos civilinių orlaivių registre registruojant šio įstatymo 6 straipsnio 3 dalies 6 punkte nurodytus objektus. 
 Papildyta straipsnio dalimi:
 Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
- 
+ 
 
 
 
@@ -1283,7 +1279,7 @@ Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
 8. Bepiločių orlaivių ir bepiločių orlaivių naudotojų, nurodytų Reglamento (ES) 2019/947 14 straipsnio 1 dalyje, ir orlaivių duomenys tvarkomi Lietuvos Respublikos civilinių orlaivių registro nuostatuose nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
- 
+ 
 
 
 
@@ -1291,14 +1287,12 @@ Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 9. Lietuvos Respublikos civilinių orlaivių registro tvarkytojas fiziniams ir juridiniams asmenims neatlygintinai teikia šio registro duomenis, registro informaciją, registrui pateiktus dokumentus ir (arba) jų kopijas. 
 Papildyta straipsnio dalimi:
 Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
- 
+ 
 
 
 
 
-
-
-25 straipsnis. Funkcijų ir pareigų, susijusių su orlaiviu, perdavimas
+15. Civiliniai orlaiviai, kuriems nustatyta privaloma teisinė registracija Lietuvos Respublikos civilinių orlaivių registro informacinėje sistemoje, nėra prilyginami nekilnojamiesiems daiktams.25 straipsnis. Funkcijų ir pareigų, susijusių su orlaiviu, perdavimas
 
 
 Protokolo dėl Tarptautinės civilinės aviacijos konvencijos pakeitimo (83 bis straipsnis), pasirašyto 1980 m. spalio 6 d. Monrealyje, nustatytais atvejais Agentūra turi teisę sudaryti su atitinkama kitos valstybės įgaliota institucija sutartis dėl funkcijų ir pareigų, susijusių su orlaiviu, perdavimo.
