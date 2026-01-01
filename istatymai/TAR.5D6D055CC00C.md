@@ -82,7 +82,7 @@ Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
 4. Elitinis medis – selekciškai labai vertingas medis, įvertintas pagal paveldėtus dauginant sėklomis vertingus požymius ir savybes. 
 Papildyta straipsnio dalimi:
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -93,7 +93,7 @@ Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-2635, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20657
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -104,7 +104,7 @@ Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-2635, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20657
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -112,7 +112,7 @@ Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
 7. Medynas – miško dalis, kurioje sumedėjusios augalijos ardų sandara yra vienoda, vyrauja tam tikra medžių rūšis, augalija yra panašaus amžiaus, turi bendrą augavietę ir ši miško dalis šiais rodikliais skiriasi nuo gretimų miško dalių.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -122,7 +122,7 @@ Straipsnio dalies pakeitimai:
 Nr. XIV-2336, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25317
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -130,7 +130,7 @@ Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
 9. Miškas – ne mažesnis kaip 0,1 hektaro žemės plotas, apaugęs medžiais, kurių skalsumas ne mažesnis kaip 0,3 ir kurių aukštis natūralioje augavietėje brandos amžiuje siekia ne mažiau kaip 5 metrus, ir kita miško augalija, taip pat ne mažesnis kaip 0,1 hektaro žemės plotas, kuriame medynas išretėjęs ar dėl žmonių veiklos ar gamtinių veiksnių jame laikinai medžių nėra (želdintinos miško aikštės, kirtavietės, žuvę medynai). Mišku nelaikomos laukuose, pakelėse, prie vandens telkinių, gyvenamosiose vietovėse ir kapinėse esančios medžių grupės, kelio juostose įveisti želdiniai, viešosios geležinkelių infrastruktūros valdytojo patikėjimo teise valdomuose ne miškų ūkio paskirties žemės sklypuose augantys medžiai ir krūmai, siauros – iki 10 metrų pločio – medžių juostos, gyvatvorės, pavieniai medžiai ir krūmai, taip pat miestuose ir kaimo vietovėse ne miškų ūkio paskirties žemėje įveisti želdynai. Šių želdinių priežiūrą, apsaugą ir naudojimą reglamentuoja Lietuvos Respublikos želdynų įstatymas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -138,7 +138,7 @@ Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
 10. Miškotvarka – miškų ūkio planavimo sistema, apimanti miškų inventorizaciją ir apskaitą, miškų būklės, naudojimo ir ūkinės veiklos analizę, miškų ūkio organizavimo ir plėtros projektų rengimą.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -148,7 +148,7 @@ Papildyta straipsnio dalimi:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -157,7 +157,7 @@ Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -169,7 +169,7 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-2635, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20657
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -179,7 +179,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -189,7 +189,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -199,7 +199,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -209,7 +209,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -219,7 +219,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -229,7 +229,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -241,7 +241,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -251,7 +251,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -261,7 +261,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -271,7 +271,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -281,7 +281,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -291,7 +291,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -301,7 +301,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -309,7 +309,7 @@ Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
 27. Rinktinis medis – selekciškai vertingas medis, atrinktas pagal nustatytus klasifikacinius fenotipinius požymius. 
 Papildyta straipsnio dalimi:
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -319,7 +319,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -327,7 +327,7 @@ Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
 29. Sėklinė miško bazė – sėkliniai ir genetiniai medynai, sėklinės miško medžių plantacijos, miško medžių klonų rinkiniai, bandomieji miško medžių želdiniai, miško medžių genetiniai draustiniai, rinktiniai ir elitiniai medžiai, atrinkti medynai, kiti įvertinti miško medžių objektai (medynai, medžių grupės ir pavieniai medžiai), iš kurių gaunama miško dauginamoji medžiaga. 
 Papildyta straipsnio dalimi:
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -337,7 +337,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -347,7 +347,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -357,7 +357,7 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
@@ -368,19 +368,19 @@ Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
 
 
 
 
-34. Valstybinių miškų apsaugos pareigūnas –  miškų urėdijos darbuotojas, atliekantis miškų urėdijos patikėjimo teise valdomų valstybinių miškų apsaugą ir turintis šio įstatymo nustatytus įgaliojimus. Valstybinių miškų apsaugos pareigūno statusas suteikiamas Lietuvos Respublikos aplinkos ministro įsakymu. 
+34. Valstybinių miškų apsaugos pareigūnas –  miškų urėdijos darbuotojas, atliekantis miškų urėdijos patikėjimo teise valdomų valstybinių miškų apsaugą ir turintis šio įstatymo nustatytus įgaliojimus. Valstybinių miškų apsaugos pareigūno statusas suteikiamas Lietuvos Respublikos aplinkos ministro įsakymu. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-2635, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20657
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
- 
+ 
 
 
 
@@ -390,7 +390,12 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
- 
+ 
+
+
+
+
+36. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme ir Lietuvos Respublikos žemės įstatyme.
 
 
 Straipsnio pakeitimai:
@@ -399,13 +404,7 @@ Nr. X-119, 2005-02-15, Žin., 2005, Nr. 31-977 (2005-03-05)
 Nr. XI-1448, 2011-06-16, Žin., 2011, Nr. 74-3548 (2011-06-18)
 Nr. XII-386, 2013-06-18, Žin., 2013, Nr. 73-3651 (2013-07-09)
 Straipsnio pakeitimai:
-Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
- 
-
-
-
-
-3 straipsnis. Miškų grupės, ūkininkavimo jose tikslai ir režimas
+Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-105863 straipsnis. Miškų grupės, ūkininkavimo jose tikslai ir režimas
 
 
 1. Pagal ūkininkavimo tikslus, ūkininkavimo režimą ir pagrindinę funkcinę paskirtį miškai skirstomi į grupes.
@@ -1449,7 +1448,7 @@ Nr. XIV-2379, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25330
 1. Miško žemės pavertimo kitomis naudmenomis tvarką nustato Vyriausybė. Miško žemė gali būti paverčiama kitomis naudmenomis tik šiame įstatyme nustatytais išimtiniais atvejais:
 
 
-1) valstybei svarbiems projektams įgyvendinti;
+1) valstybei svarbiems projektams, stambiam projektui, Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, arba gynybos ir saugumo pramonės projektams, arba gynybos ir saugumo pramonės produktų gamybos vystymo projektams įgyvendinti;
 
 
 
@@ -1464,7 +1463,7 @@ Nr. XIV-2379, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25330
 
 
 
-4) naudingųjų iškasenų eksploatavimo teritorijoms formuoti ir naudoti, kai nėra galimybės šių iškasenų eksploatuoti ne miško žemėje savivaldybės teritorijoje arba kai baigiamas eksploatuoti pradėtas naudoti telkinys ar jo dalis, dėl kurių yra išduotas leidimas naudoti naudingąsias iškasenas;
+4) naudingųjų iškasenų eksploatavimo teritorijoms formuoti ir naudoti ne miestų ir miestelių administracinėse ribose, kai nėra galimybės šių iškasenų eksploatuoti ne miško žemėje savivaldybės teritorijoje arba kai baigiamas eksploatuoti pradėtas naudoti telkinys ar jo dalis, dėl kurių yra išduotas leidimas naudoti naudingąsias iškasenas;
 
 
 
@@ -1472,7 +1471,7 @@ Nr. XIV-2379, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25330
 5) teritorijose, skirtose valstybės sienos apsaugos tikslams ir krašto apsaugos tikslams; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
- 
+ 
 
 
 
@@ -1495,9 +1494,7 @@ Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 9) teisėtai pastatyto pastato arba pastato kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruoto kaip atskiro nekilnojamojo turto objekto (pagrindinio daikto), sklypui formuoti.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2527, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19115
- 
-
-
+ 
 
 
 
@@ -1520,15 +1517,15 @@ Nr. XIII-2527, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19115
 
 
 
-4) kituose miškuose, esančiuose vieno kilometro atstumu nuo Baltijos jūros ir Kuršių marių, II grupės rekreaciniuose miškuose ir III grupės vandens telkinių apsaugos zonų, laukų apsauginiuose ir valstybinių parkų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 1, 2, 3, 7, 8, 9 punktuose nurodytus atvejus ir šio straipsnio 1 dalies 4 punkte nurodytą atvejį, kai baigiama eksploatuoti šiuo metu naudojamo telkinio dalis, dėl kurios yra išduotas leidimas naudoti naudingąsias iškasenas, ir nėra galimybės tęsti telkinio eksploatavimo ne miško žemėje, jeigu atitinkamų objektų statyba ar atitinkamų teritorijų formavimas numatytas bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose arba šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose. Šiame punkte nustatyti draudimai ir apribojimai netaikomi miško žemę paverčiant kitomis naudmenomis šio straipsnio 1 dalies 5 punkte nustatytu atveju.
+4) kituose miškuose, esančiuose vieno kilometro atstumu nuo Baltijos jūros ir Kuršių marių, II grupės rekreaciniuose miškuose ir III grupės vandens telkinių apsaugos zonų, laukų apsauginiuose ir valstybinių parkų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 1, 2, 3, 7, 8, 9 punktuose nurodytus atvejus, jeigu atitinkamų objektų statyba ar atitinkamų teritorijų formavimas numatytas bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose arba šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose. Šiame punkte nustatyti draudimai ir apribojimai netaikomi miško žemę paverčiant kitomis naudmenomis šio straipsnio 1 dalies 5 punkte nustatytu atveju.
 Straipsnio punkto pakeitimai:
 Nr. XIII-1404, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11465
- 
+ 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
- 
+ 
 
 
 
@@ -1554,9 +1551,7 @@ Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 4) šio straipsnio 1 dalies 5, 7 ir 9 punktuose nustatytais atvejais. 
 Straipsnio punkto pakeitimai:
 Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
- 
-
-
+ 
 
 
 
@@ -1571,7 +1566,7 @@ Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 
 
 
-6. Miško žemę paversti kitomis naudmenomis valstybinės reikšmės miškuose galima tik po to, kai miško žemės pavertimas kitomis naudmenomis suplanuotas vietovės lygmens bendruosiuose planuose arba specialiojo teritorijų planavimo dokumentuose, arba detaliuosiuose planuose ir Vyriausybė priima nutarimą dėl tam tikrų valstybinės reikšmės miškų plotų išbraukimo iš valstybinės reikšmės miškų plotų. 
+6. Miško žemę paversti kitomis naudmenomis valstybinės reikšmės miškuose galima tik kai miško žemės pavertimas kitomis naudmenomis suplanuotas vietovės lygmens bendruosiuose planuose arba specialiojo teritorijų planavimo dokumentuose, arba detaliuosiuose planuose, arba specialiosios paskirties projektuose ir Vyriausybė priima nutarimą išbraukti tam tikrus valstybinės reikšmės miškų plotus iš valstybinės reikšmės miškų plotų. 
 
 
 
@@ -1585,7 +1580,7 @@ Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 Straipsnio dalies pakeitimai:
 Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 Nr. XIII-1644, 2018-11-15, paskelbta TAR 2018-11-27, i. k. 2018-19126
- 
+ 
 
 
 
@@ -1608,15 +1603,15 @@ Nr. XIII-1644, 2018-11-15, paskelbta TAR 2018-11-27, i. k. 2018-19126
 12. Teritorijose, skirtose krašto apsaugos tikslams, miško žemė paverčiama kitomis naudmenomis netaikant šio straipsnio 4, 5 ir 6 dalyse nustatytų reikalavimų, kai Vyriausybė priima nutarimą dėl tam tikrų valstybinės miško žemės plotų pavertimo kitomis naudmenomis, o jeigu tai valstybinės reikšmės miškai, – ir nutarimą dėl tam tikrų valstybinės reikšmės miškų plotų išbraukimo iš valstybinės reikšmės miškų plotų. 
 Papildyta straipsnio dalimi:
 Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
- 
+ 
 
 
 
 
-13. Jeigu šio straipsnio 1 dalies 1 punkte nurodyti atvejai yra numatyti bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose, miško žemė gali būti paverčiama kitomis naudmenomis ir netaikant šio straipsnio 5 ir 6 dalyse nustatytų reikalavimų, kai tai reikalinga valstybei svarbiems projektams įgyvendinti ir kai Vyriausybė priima nutarimą dėl tam tikrų valstybinės miško žemės plotų pavertimo kitomis naudmenomis, o jeigu tai valstybinės reikšmės miškai, – ir nutarimą dėl tam tikrų valstybinės reikšmės miškų plotų išbraukimo iš valstybinės reikšmės miškų plotų.
+13. Jeigu šio straipsnio 1 dalies 1 punkte nurodyti atvejai numatyti bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose, miško žemė gali būti paverčiama kitomis naudmenomis ir netaikant šio straipsnio 5 ir 6 dalyse nustatytų reikalavimų, kai tai reikalinga valstybei svarbiems projektams, stambiam projektui, Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, arba gynybos ir saugumo pramonės projektams, arba gynybos ir saugumo pramonės produktų gamybos vystymo projektams įgyvendinti ir kai Vyriausybė priima nutarimą paversti tam tikrus miško žemės plotus kitomis naudmenomis, jeigu tai valstybinės reikšmės miškai, – ir nutarimą išbraukti tam tikrus valstybinės reikšmės miškų plotus iš valstybinės reikšmės miškų plotų.
 Papildyta straipsnio dalimi:
 Nr. XIII-1988, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04584
- 
+ 
 
 
 Straipsnio pakeitimai:
@@ -1626,187 +1621,13 @@ Nr. XI-1448, 2011-06-16, Žin., 2011, Nr. 74-3548 (2011-06-18)
 Nr. XI-2361, 2012-11-06, Žin., 2012, Nr. 132-6687 (2012-11-15)
 Nr. XI-2362, 2012-11-06, Žin., 2012, Nr. 132-6688 (2012-11-15)
 Nr. XII-386, 2013-06-18, Žin., 2013, Nr. 73-3651 (2013-07-09)
-Nr. XII-761, 2014-01-23, paskelbta TAR 2014-01-23, i. k. 2014-00791
- 
-
-
-
-
-12 straipsnis. Miško žemės sausinimas, tręšimas ir kelių per miško žemę tiesimas 
-
-
-1. Miško žemės sausinimas, tręšimas ir nuodingųjų cheminių medžiagų miško žemėje naudojimas negali prieštarauti Aplinkos apsaugos įstatymui ir atitinkamiems teisės aktams.
-
-
-
-
-2. Miško žemės sausinimo sistemų ir miško kelių, einančių per keleto miško savininkų ir valdytojų valdas, priežiūrą ir remontą privalo atlikti tų valdų valdytojai, savininkai ar naudotojai teisės aktų nustatyta tvarka.
-
-
-
-
-3. Miško žemės sausinimo sistemų priežiūros darbai atliekami, miško keliai tiesiami miško valdytojų, savininkų, naudotojų, savivaldybės, Kelių fondo ir kitomis lėšomis.
- 
-
-
-
-
-4. Laikinieji privažiavimo į statybvietę keliai įgyvendinant valstybei svarbius projektus gali būti įrengiami netaikant šiame įstatyme nustatytų miškotvarkos projekto rengimo ir kitų reikalavimų, išskyrus miško atkūrimą po statybos darbų pabaigos.
-Papildyta straipsnio dalimi:
-Nr. XIV-2379, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25330
- 
-
-
-
-
-
-
-
-
-III SKYRIUS
-LIETUVOS RESPUBLIKOS MIŠKŲ VALSTYBĖS KADASTRAS IR 
-MIŠKOTVARKOS PROJEKTAS
- 
-
-
-13 straipsnis. Valstybinė miškų inventorizacija, miškų apskaita ir miškų kadastras
-
-
-1. Valstybinės miškų inventorizacijos ir miškų apskaitos tikslas – nustatyti miško išteklius, jų kokybę, teikti informaciją apie miškų gamtinę ir ūkinę būklę. Valstybinė miškų inventorizacija atliekama visuose miškuose. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
-Nr. XIII-2635, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20657
- 
-
-
-
-
-2. Medžių savaiminukais, kurių vidutinis amžius ne mažesnis kaip 20 metų, apaugusi ne miško žemė inventorizuojama ir įtraukiama į apskaitą kaip miškas aplinkos ministro nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1319, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15647
- 
-
-
-
-
-3. Valstybinės miškų inventorizacijos specialistai turi teisę įeiti į visus miškus, atlikti inventorizacijos darbus ir gauti reikiamą informaciją jiems atlikti.
-
-
-
-
-4. Lietuvos Respublikoje valstybinė miškų inventorizacija atliekama atrankos metodu. Ji skirta strateginiam miškų sektoriaus planavimui valstybės lygmeniu. Miškų sklypų inventorizacija atliekama miško ūkiui organizuoti miško žemėje ir yra skirta miškotvarkos projektams rengti.
-
-
-
-
-5. Valstybinės miškų inventorizacijos ir miškų apskaitos tvarką, turinį ir periodiškumą nustato Aplinkos ministerija.
-
-
-
-
-6. Remiantis valstybinės miškų inventorizacijos duomenimis, tvarkoma miškų apskaita ir sudaromas Lietuvos Respublikos miškų valstybės kadastras. Šis kadastras apima visumą duomenų apie miškus, jų priklausomybę, miško išteklių kiekį bei kokybę ir ekonominę vertę. Jo turinį ir sudarymo tvarką nustato Vyriausybė. Lietuvos Respublikos miškų valstybės kadastre registruoti duomenys apie miškus ir miško žemę šio kadastro tvarkytojo teikimu įrašomi į Nekilnojamojo turto registrą Nekilnojamojo turto registro įstatymo ir kitų teisės aktų nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
- 
-
-
-
-
-7. Valstybinė miškų inventorizacija ir apskaita valstybiniuose ir privačiuose miškuose atliekama valstybės lėšomis. Inventorizacijos ir apskaitos duomenys miškų savininkams ir valdytojams Aplinkos ministerijos nustatyta tvarka teikiami nemokamai. Miškų sklypai inventorizuojami ir miškotvarkos projektai rengiami valstybės, miško valdytojų ir savininkų lėšomis.
-
-
-Straipsnio pakeitimai:
-Nr. XI-1448, 2011-06-16, Žin., 2011, Nr. 74-3548 (2011-06-18)
- 
-
-
-
-
-14 straipsnis. Miškotvarkos projektas
-
-
-1. Miškotvarkos projektas – tai dokumentas, pagal kurį organizuojama miškų ūkio veikla ir atliekami visi miškų atkūrimo, naudojimo ir miško žemių tvarkymo darbai.
-
-
-
-
-2. Skiriami šie miškotvarkos projektų tipai:
-
-
-1) miškų tvarkymo schemos – tai specialiojo teritorijų planavimo dokumentai, rengiami valstybinių miškų valdytojų bei regionų teritorijoms ir skiriami bendrajai miško žemių naudojimo politikai nustatyti, jų tvarkymo koncepcijai parengti;
-
-
-
-
-2) vidinės miškotvarkos projektai – tai miškų ūkio veiklos planai, rengiami visoms valstybinių miškų valdytojų ir privačioms miškų valdoms arba ne miškų ūkio paskirties žemės sklype esančiai miško žemei ir skiriami konkrečių tvarkymo priemonių sistemai jose nustatyti.
-
-
-
-
-
-
-3. Vidinės miškotvarkos projektai rengiami, derinami, tvirtinami, registruojami ir keičiami pagal aplinkos ministro tvirtinamas šių projektų rengimo taisykles ir jose nustatytus kriterijus. Pripažinti vidinės miškotvarkos projektus negaliojančiais gali juos tvirtinanti institucija, vadovaudamasi aplinkos ministro nustatytais kriterijais ir tvarka. Miškų tvarkymo schemos rengiamos, derinamos, tvirtinamos, registruojamos ir keičiamos aplinkos ministro tvirtinamose Miškų tvarkymo schemų rengimo taisyklėse nustatyta tvarka. Vadovauti miškų tvarkymo schemos rengimui turi teisę miškų tvarkymo schemos vadovo atestatą turintis asmuo. Miškų tvarkymo schemos vadovo atestatas išduodamas, jo galiojimas sustabdomas, galiojimo sustabdymas panaikinamas ir galiojimas panaikinamas Lietuvos Respublikos teritorijų planavimo įstatyme nustatytais atvejais ir tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
- 
-
-
-
-
-4. Aplinkos ministerija, atsižvelgdama į miško valdos plotą arba ne miškų ūkio paskirties žemės sklype esančios miško žemės plotą, nustato miškotvarkos projekto turinį ir kitus rodiklius, taip pat medynų kirtimo amžių visuose miškuose. Metinė pagrindinių miško kirtimų norma nustatoma kiekvienam miško valdytojui ir savininkui pagal Aplinkos ministerijos patvirtintą metodiką. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
- 
-
-
-
-
-5. Metinę pagrindinių miško kirtimų normą valstybiniuose miškuose tvirtina Vyriausybė. Nustatyta metinė pagrindinių miško kirtimų norma negali būti viršijama, išskyrus stichinių nelaimių atvejus, kai šalies mastu išdžiūvusių, išverstų, išlaužytų, išdegusių arba kitaip pažeistų medynų tūris sudaro daugiau kaip vieną ketvirtąją metinės kirtimo normos dalį. Bendra visų rūšių metinė miško kirtimų norma šalyje negali viršyti metinio medienos prieaugio.
-
-
-
-
-6. Miško tarpinio naudojimo apimtį šalies valstybiniuose miškuose nustato Aplinkos ministerija. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
- 
-
-
-
-
-7. Miško valdytojai, turintys daugiau kaip 500 hektarų miško, privalo neviršyti metinės pagrindinių miško kirtimų normos. Stichinių nelaimių atvejais ir jeigu ši norma nebuvo įvykdyta ankstesniais metais, skaičiuojant nuo jos patvirtinimo metų, metinė pagrindinių miško kirtimų norma gali būti didinama Aplinkos ministerijos nustatyta tvarka. Kiti miško valdytojai ir savininkai, nepažeisdami miško kirtimo taisyklių reikalavimų, gali nukrypti nuo metinės miško kirtimų normos, bet privalo laikytis dešimtmečio miško kirtimų normos. 
-
-
-
-
-8. Miškotvarkos projektus rengia ir miškų inventorizaciją atlieka fiziniai ir juridiniai asmenys, valstybių narių kitos organizacijos, neturinčios juridinio asmens statuso, ar jų padaliniai Aplinkos ministerijos nustatyta tvarka. Laikantis šios tvarkos, centralizuotai kaupiami ir tvarkomi miškotvarkos duomenys.
-Straipsnio dalies pakeitimai:
-Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
- 
-
-
-Straipsnio pakeitimai:
-Nr. X-599, 2006-05-09, Žin., 2006, Nr. 61-2174 (2006-05-31)
-Nr. XI-1448, 2011-06-16, Žin., 2011, Nr. 74-3548 (2011-06-18)
- 
-
-
-
-
-
-
-IV SKYRIUS
-MIŠKO ATKŪRIMAS, AUGINIMAS IR KIRTIMAS 
- 
-
-
-15 straipsnis. Miško atkūrimas ir įveisimas
+Nr. XII-761, 2014-01-23, paskelbta TAR 2014-01-23, i. k. 2014-007915 straipsnis. Miško atkūrimas ir įveisimas
 
 
 1. Lietuvos Respublikos teritorijos miškingumas turi būti didinamas įstatymų ir kitų teisės aktų nustatyta tvarka įveisiant mišką ne miško žemėje. Privačioje ne miško žemėje miškas įveisiamas aplinkos ministro nustatyta tvarka. Kai miškas įveisiamas ne miško žemėje, šiam plotui taikomas šis įstatymas.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1319, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15647
- 
+ 
 
 
 
@@ -1824,7 +1645,7 @@ Nr. XIV-1319, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15647
 4. Miškas atkuriamas ir įveisiamas mišką želdinant arba jam želiant, laikantis aplinkos ministro tvirtinamų Miško atkūrimo ir įveisimo nuostatų reikalavimų. Kirtavietėse ir želdintinose miško aikštėse miškas turi būti atkurtas ne vėliau kaip per trejus metus po jų atsiradimo. Žuvę želdiniai ir žėliniai turi būti atkurti ne vėliau kaip per dvejus metus, atkurtini žuvę medynai – ne vėliau kaip per trejus metus nuo jų žuvimo fakto nustatymo. Neteisėtai iškirstas miškas turi būti atkurtas ne vėliau kaip per vienus metus nuo neteisėtų kirtimų fakto nustatymo. Miškas laikomas atkurtu tada, kai želdinių ir žėlinių kokybė atitinka aplinkos ministro tvirtinamų Miško atkūrimo ir įveisimo nuostatų reikalavimus.
 Straipsnio dalies pakeitimai:
 Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
- 
+ 
 
 
 
@@ -1844,13 +1665,7 @@ Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
 
 Straipsnio pakeitimai:
 Nr. IX-1152, 2002-10-22, Žin., 2002, Nr. 105-4691 (2002-11-06)
-Nr. X-1208, 2007-06-26, Žin., 2007, Nr. 77-3044 (2007-07-12)
- 
-
-
-
-
-16 straipsnis. Medynų auginimas ir kirtimas
+Nr. X-1208, 2007-06-26, Žin., 2007, Nr. 77-3044 (2007-07-12)16 straipsnis. Medynų auginimas ir kirtimas
 
 
 1. Medynų auginimo priemonėmis turi būti siekiama formuoti ir atkurti aplinkos sąlygoms atsparius miškus, atitinkančius jų funkcinę paskirtį ir augavietės sąlygas, pirmenybę teikiant vietinės kilmės mišriems medynams, prisitaikiusiems prie vietinių klimato sąlygų. 
