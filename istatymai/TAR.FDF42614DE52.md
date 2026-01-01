@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2024-07-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-26, i. k. 1031010ISTA0IX-1904
  
@@ -120,7 +120,10 @@ NEDARBO DRAUDIMO IŠMOKA
 
 
 
-2) baigė privalomąją pradinę karo tarnybą ar alternatyviąją krašto apsaugos tarnybą arba buvo paleisti iš nuolatinės privalomosios pradinės karo tarnybos, kurios metu įgijo pagrindinį karinį parengtumą.
+2) baigė privalomąją pradinę karo tarnybą ar alternatyviąją krašto apsaugos tarnybą arba buvo paleisti iš privalomosios pradinės karo tarnybos, kurios metu įgijo pagrindinį karinį parengtumą.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2739, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11576
+ 
 
 
 
@@ -826,3 +829,8 @@ Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 19 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2659, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09700
 Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 7 ir 15 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2739, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11576
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 5 straipsnio pakeitimo įstatymas
