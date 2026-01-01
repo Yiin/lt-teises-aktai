@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01 iki 2026-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
  
@@ -1985,7 +1985,7 @@ ETILO ALKOHOLIS IR ALKOHOLINIAI GĖRIMAI
 23 straipsnis. Alui taikomi akcizų tarifai 
 
 
-1. Alui taikomas 10,97 euro už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą. 
+1. Alui taikomas 12,74 euro už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
@@ -2019,18 +2019,18 @@ Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 
 
 
-24 straipsnis. Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi akcizų tarifai
+24 straipsnis. Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi akcizų tarifai 
 
 
 Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi akcizų tarifai:
 
 
-1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 127 eurai už produkto hektolitrą;
+1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 148 eurai už produkto hektolitrą;
 
 
 
 
-2) šio straipsnio 1 punkte nenurodytiems gėrimams – 254 eurai už produkto hektolitrą.
+2) šio straipsnio 1 punkte nenurodytiems gėrimams – 296 eurai už produkto hektolitrą.
 
 
 
@@ -2053,12 +2053,12 @@ Nr. XIV-2769, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12068
 Tarpiniams produktams taikomi tokie akcizų tarifai:
 
 
-1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 292 eurai už produkto hektolitrą;
+1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 365 eurai už produkto hektolitrą;
 
 
 
 
-2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 370 eurų už produkto hektolitrą.
+2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 411 eurų už produkto hektolitrą.
 
 
 
@@ -2078,7 +2078,7 @@ Nr. XIV-2769, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12068
 26 straipsnis. Etilo alkoholiui taikomi akcizų tarifai
 
 
-1. Etilo alkoholiui taikomas 2 778 eurų už gryno etilo alkoholio hektolitrą akcizų tarifas. 
+1. Etilo alkoholiui taikomas 3 130 eurų už gryno etilo alkoholio hektolitrą akcizų tarifas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
@@ -2251,7 +2251,7 @@ APDOROTAS TABAKAS
 2. Cigaretėms taikomas toks akcizų tarifas:
 
 
-1) specifinis elementas – 92,6 euro; 
+1) specifinis elementas – 100,5 euro; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
@@ -2272,7 +2272,7 @@ Nr. XIV-2769, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12068
 
 
 
-3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 149,7 euro už 1 000 cigarečių. 
+3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 162,4 euro už 1 000 cigarečių. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
@@ -2309,12 +2309,12 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 31 straipsnis. Kitam apdorotam tabakui taikomi akcizų tarifai
 
 
-1. Cigarams ir cigarilėms taikomas 109,7 euro už kilogramą produkto akcizų tarifas.
+1. Cigarams ir cigarilėms taikomas 126,7 euro už kilogramą produkto akcizų tarifas.
 
 
 
 
-2. Rūkomajam tabakui taikomas 123,5 euro už kilogramą produkto akcizų tarifas.
+2. Rūkomajam tabakui taikomas 135,2 euro už kilogramą produkto akcizų tarifas.
 
 
 Straipsnio pakeitimai:
@@ -2451,7 +2451,10 @@ Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 1. Gazoliams, jeigu šiame straipsnyje nenustatyta kitaip, taikomas akcizų tarifas, susidedantis iš:
 
 
-1) pastoviosios dalies – 466 eurų už 1 000 litrų produkto;
+1) pastoviosios dalies – 500 eurų už 1 000 litrų produkto; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+ 
 
 
 
@@ -2993,7 +2996,10 @@ Akcizų už akmens anglis, koksą, lignitą ir (arba) šildymui skirtas durpes m
 1. Akmens anglims taikomas akcizų tarifas, susidedantis iš:
 
 
-1) pastoviosios dalies – 15 eurų už toną produkto;
+1) pastoviosios dalies – 30 eurų už toną produkto; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+ 
 
 
 
@@ -3008,7 +3014,10 @@ Akcizų už akmens anglis, koksą, lignitą ir (arba) šildymui skirtas durpes m
 2. Koksui ir lignitui taikomas akcizų tarifas, susidedantis iš:
 
 
-1) pastoviosios dalies – 15 eurų už toną produkto;
+1) pastoviosios dalies – 30 eurų už toną produkto; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+ 
 
 
 
@@ -3171,7 +3180,10 @@ Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 
 
 
-4) buitiniams gamtinių dujų vartotojams, kaip jie apibrėžti Gamtinių dujų įstatyme, taip pat asmenims, kurie pagal Labdaros ir paramos įstatymą turi paramos gavėjo statusą, tiekiamos gamtinės dujos;
+4) Neteko galios nuo 2026-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
+ 
 
 
 
@@ -3207,25 +3219,28 @@ Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
 59 straipsnis. Gamtinėms dujoms taikomi akcizų tarifai
 
 
-1. Gamtinėms dujoms, išskyrus šio straipsnio 2 ir 3 dalyse nurodytas gamtines dujas, taikomas 23,60 euro už vieną megavatvalandę produkto akcizų tarifas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
- 
+1. Gamtinėms dujoms, išskyrus šio straipsnio 2, 3 ir 4 dalyse nurodytas gamtines dujas, taikomas 23,60 euro už vieną megavatvalandę produkto akcizų tarifas.
 
 
 
 
-2. Gamtinėms dujoms, kurios naudojamos kaip šildymui skirtas kuras, išskyrus šio straipsnio 3 dalyje nurodytą atvejį, taikomas 1,08 euro už vieną megavatvalandę produkto akcizų tarifas.
+2. Gamtinėms dujoms, kurios naudojamos kaip šildymui skirtas kuras, išskyrus šio straipsnio 3 dalyje nurodytą atvejį, taikomas 1,50 euro už vieną megavatvalandę produkto akcizų tarifas.
 
 
 
 
-3. Gamtinėms dujoms, kurios naudojamos kaip šildymui skirtas kuras verslo reikmėms, taikomas 0,54 euro už vieną megavatvalandę produkto akcizų tarifas. Šiame įstatyme gamtinių dujų kaip šildymui skirto kuro naudojimas verslo reikmėms suprantamas kaip jų naudojimas asmens, kuris vykdo ekonominę veiklą, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme.
+3. Gamtinėms dujoms, kurios naudojamos kaip šildymui skirtas kuras verslo reikmėms, taikomas 1 euro už vieną megavatvalandę produkto akcizų tarifas. Šiame įstatyme gamtinių dujų, kaip šildymui skirto kuro, naudojimas verslo reikmėms suprantamas kaip jų naudojimas asmens, kuris vykdo ekonominę veiklą, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme.
+
+
+
+
+4. Gamtinėms dujoms, kurios tiekiamos buitiniams gamtinių dujų vartotojams, kaip jie apibrėžti Lietuvos Respublikos gamtinių dujų įstatyme, taip pat asmenims, kurie pagal Labdaros ir paramos įstatymą turi paramos gavėjo statusą, taikomas 0,50 euro už vieną megavatvalandę produkto akcizų tarifas. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
+Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
  
 
 
@@ -3494,12 +3509,12 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 65 straipsnis. Kaitinamojo tabako produktams ir elektroninių cigarečių skysčiui taikomi akcizų tarifai
 
 
-1. Kaitinamojo tabako produktams taikomas 89,4 euro už 1 000 vienetų kaitinamojo tabako produktų akcizų tarifas.
+1. Kaitinamojo tabako produktams taikomas 100,6 euro už 1 000 vienetų kaitinamojo tabako produktų akcizų tarifas.
 
 
 
 
-2. Elektroninių cigarečių skysčiui taikomas 0,63 euro už mililitrą skysčio akcizų tarifas.
+2. Elektroninių cigarečių skysčiui taikomas 1,56 euro už mililitrą skysčio akcizų tarifas.
 
 
 Straipsnio pakeitimai:
@@ -3793,7 +3808,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 74 straipsnis. Neapdorotam tabakui taikomas akcizų tarifas
 
 
-Neapdorotam tabakui taikomas 123,5 euro už kilogramą neapdoroto tabako akcizų tarifas.
+Neapdorotam tabakui taikomas 135,2 euro už kilogramą neapdoroto tabako akcizų tarifas.
 
 
 Straipsnio pakeitimai:
