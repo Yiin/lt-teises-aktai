@@ -99,7 +99,7 @@ Nr. XIII-2105, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07642
 71. Seksualinis priekabiavimas – ši sąvoka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatyme.
 Papildyta straipsnio dalimi:
 Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
- 
+ 
 
 
 
@@ -107,7 +107,7 @@ Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
 8. Socialinė padėtis – asmens padėtis, kurią lemia jo šeiminė padėtis, įgytas išsilavinimas, kvalifikacija ar mokymasis ir studijos mokslo ir studijų institucijose, turima nuosavybė, gaunamos pajamos, teisės aktuose nustatytos valstybės paramos poreikis ir (arba) kiti su asmens turtine padėtimi susiję veiksniai.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
- 
+ 
 
 
 
@@ -140,7 +140,7 @@ Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
 
 
 
-6) įstatymų nustatytas specialias laikinąsias priemones, taikomas siekiant užtikrinti lygybę ir užkirsti kelią lygių galimybių pažeidimui lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu;
+6) įstatymų nustatytas specialias laikinąsias priemones, taikomos siekiant užtikrinti lygybę ir užkirsti kelią lygių galimybių pažeidimui lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu;
 
 
 
@@ -158,7 +158,7 @@ Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
 9) atskirų sporto varžybų asmenims su negalia rengimą;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1725, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00138
- 
+ 
 
 
 
@@ -166,86 +166,29 @@ Nr. XIV-1725, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00138
 10) lengvatų teikimą amžiaus, negalios bei socialinės padėties pagrindu, kai tai pateisina teisėtas tikslas, o šio tikslo siekiama tinkamomis ir būtinomis priemonėmis. 
 Papildyta straipsnio punktu:
 Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
- 
+ 
 
 
 
 
-
-
-10. Nurodymas diskriminuoti asmenį lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu laikomas diskriminacija, apibrėžtas šio straipsnio 5 ir 9 dalyse.
+10. Tinkamas sąlygų pritaikymas – aplinkybių pakeitimas ir (ar) kliūčių pašalinimas, kurio reikia konkrečiu atveju siekiant užtikrinti galimybę asmenims su negalia naudotis žmogaus teisėmis ir laisvėmis ir dėl kurio keičiantis aplinkybes ir (ar) šalinantis kliūtis subjektas nepatiria neproporcingos ar nepagrįstos naštos.
 
 
 
 
-11. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos ar vartojamos Lietuvos Respublikos darbo kodekse.
+11. Nurodymas diskriminuoti asmenį lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu laikomas diskriminacija, apibrėžtas šio straipsnio 5 ir 9 dalyse.
+
+
+
+
+12. Tinkamo sąlygų pritaikymo neužtikrinimas yra laikomas šio straipsnio 5 ir 9 dalyse apibrėžta diskriminacija negalios pagrindu.
+
+
+
+
+13. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos ar vartojamos Lietuvos Respublikos darbo kodekse.
 Papildyta straipsnio dalimi:
-Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
- 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
- 
-
-
-
-
-3 straipsnis. Įstatymo nuostatų netaikymo atvejai
-
-
-Šio įstatymo nuostatos netaikomos:
-
-
-1) šeimos ir privataus gyvenimo srityse;
-
-
-
-
-2) religinių bendruomenių, bendrijų ir centrų, jų tos pačios religijos tikslams įgyvendinti įsteigtų juridinių asmenų (toliau – religinės bendruomenės ir bendrijos), jų arba jų narių įsteigtų organizacijų, kurių steigimo ar juos atitinkančiuose dokumentuose nurodyta, kad jų etosas remiasi religija ar tikėjimu, darbuotojams ar personalui, taip pat tradicinių religinių bendruomenių ir bendrijų tikybos mokytojams keliamiems reikalavimams, jeigu dėl jų veiklos pobūdžio arba dėl aplinkybių, kuriomis ji vykdoma, reikalavimai dėl asmens išpažintinos religijos, tikėjimo ar įsitikinimų atsižvelgiant į minėtų organizacijų etosą yra įprastas, teisėtas ir pateisinamas reikalavimas;
-
-
-
-
-3) religinėms bendruomenėms ir bendrijoms, jų arba jų narių įsteigtoms organizacijoms, kurių steigimo ar juos atitinkančiuose dokumentuose nustatyta, kad jų etosas remiasi religija ar tikėjimu, teikiant gaminius, prekes ir paslaugas religiniais arba tikėjimo tikslais; 
-
-
-
-
-4) priimant asmenis mokytis ar studijuoti į religinių bendruomenių ir bendrijų, jų arba jų narių įsteigtas mokyklas ir įstaigas, įmones, organizacijas, kurioms švietimas nėra pagrindinė veikla, įsteigtas turint ugdymo religinės bendruomenės ar bendrijos vertybes palaikančioje aplinkoje tikslą, kai atsisakymas priimti asmenį yra būtinas siekiant išsaugoti minėtų organizacijų etosą;
-
-
-
-
-5) mokant tradicinių religinių bendruomenių ir bendrijų tikybos, švietimo programų, vadovėlių ir mokymo priemonių turiniui;
-
-
-
-
-6) reikalavimams, kad asmenys, užsiimantys profesine veikla religinėse bendruomenėse ir bendrijose, jų arba jų narių įsteigtose organizacijose, kurių steigimo ar juos atitinkančiuose dokumentuose nustatyta, kad jų etosas remiasi religija ar tikėjimu, taip pat asmenys, kurie mokosi, studijuoja religinių bendruomenių ir bendrijų, jų arba jų narių įsteigtose mokyklose ir įstaigose, įmonėse, organizacijose, kurioms švietimas nėra pagrindinė veikla, ar dalyvaujantys organizacijose, įsteigtose turint ugdymo religinės bendruomenės ar bendrijos vertybes palaikančioje aplinkoje tikslą, sąžiningai ir ištikimai laikytųsi minėtų organizacijų etoso;
-
-
-
-
-7) lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu asmenis vienijančioms organizacijoms sprendžiant narystės ir darbo šiose organizacijose klausimus, kai dėl organizacijos vienijimosi pagrindo tai yra įprasta, teisėta ir pateisinama;
-Straipsnio punkto pakeitimai:
-Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
- 
-
-
-
-
-8) švietimo ir ugdymo srityse, jeigu šio įstatymo nuostatų taikymas nesuderinamas su valstybinių ar privačių ikimokyklinio ugdymo įstaigų, bendrojo ugdymo mokyklų ar kitų švietimo įstaigų, kurių steigimo ar juos atitinkančiuose dokumentuose nustatyta, kad jų etosas remiasi religija ar tikėjimu, bendruomenių siekiu ugdyti vaikus religinės bendruomenės ar bendrijos vertybes palaikančioje aplinkoje.
- 
-
-
-
-
-
-
-
-
-4 straipsnis. Įrodinėjimo pareiga
+Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-151834 straipsnis. Įrodinėjimo pareiga
 
 
 Teismuose ar kitose kompetentingose institucijose nagrinėjant fizinių, juridinių asmenų, kitų organizacijų ir jų padalinių skundus, pareiškimus, prašymus, pranešimus ar ieškinius dėl diskriminacijos lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu, pareiškėjui nurodžius aplinkybes, leidžiančias daryti prielaidą dėl tiesioginės ar netiesioginės diskriminacijos, priekabiavimo, seksualinio priekabiavimo, nurodymo diskriminuoti, persekiojimo, priešiško elgesio ar neigiamų padarinių dėl skundo dėl diskriminacijos pateikimo, dalyvavimo byloje dėl diskriminacijos ar pranešimo apie diskriminaciją buvimo, preziumuojama, kad tiesioginės ar netiesioginės diskriminacijos, priekabiavimo, seksualinio priekabiavimo, nurodymo diskriminuoti, persekiojimo, priešiško elgesio ar neigiamų padarinių dėl skundo dėl diskriminacijos pateikimo, dalyvavimo byloje dėl diskriminacijos ar pranešimo apie diskriminaciją faktas buvo. Skundžiamas asmuo turi įrodyti, kad lygių galimybių principas nebuvo pažeistas.
@@ -266,49 +209,25 @@ LYGIŲ GALIMYBIŲ ĮGYVENDINIMAS
  
 
 
-5 straipsnis. Valstybės ir savivaldybių institucijų ir įstaigų pareiga įgyvendinti lygias galimybes 
-
+5 straipsnis. Valstybės ir savivaldybių institucijų ir įstaigų, viešojo administravimo subjektų, teikiančių administracines paslaugas arba administruojančių viešųjų paslaugų teikimą, taip pat asmenų, teikiančių viešąsias paslaugas, pareiga įgyvendinti lygias galimybes
 
 1. Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją privalo:
 
-
 1) užtikrinti, kad visuose teisės aktuose būtų įtvirtintos lygios teisės ir galimybės nepaisant lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos;
-
-
-
 
 2) rengti, tvirtinti ir įgyvendinti priemones, skirtas lygioms galimybėms užtikrinti nepaisant lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos;
 
+3) įstatymų nustatyta tvarka remti religinių bendruomenių ir bendrijų, viešųjų įstaigų, asociacijų ir labdaros bei paramos fondų programas, kurios padeda įgyvendinti lygias asmenų galimybes lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu.
 
+2. Lietuvos Respublikos viešojo administravimo įstatyme nustatyti viešojo administravimo subjektai, teikiantys administracines paslaugas arba administruojantys viešųjų paslaugų teikimą, taip pat asmenys, teikiantys viešąsias paslaugas, pagal kompetenciją privalo:
 
+1) teikdami administracines ir (ar) viešąsias paslaugas užtikrinti lygias galimybes, nepaisydami lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos;
 
-3) įstatymų nustatyta tvarka remti religinių bendruomenių ir bendrijų, viešųjų įstaigų, asociacijų ir labdaros bei paramos fondų programas, kurios padeda įgyvendinti lygias asmenų galimybes lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu;
+2) vadovautis prieinamumo principais, laikytis prieinamumo reikalavimų ir standartų, juos taikyti praktikoje ir užtikrinti prieinamumą, kad asmenys su negalia galėtų įsigyti prekes ir gauti viešąsias ir administracines paslaugas;
 
+3) imtis priemonių, kad asmenims su negalia būtų užtikrintas tinkamas sąlygų pritaikymas, kurio reikia konkrečiu atveju asmenims su negalia siekiant gauti administracines ir (ar) viešąsias paslaugas, kai šios dalies 1 ir 2 punktuose nurodytų sąlygų nepakanka.
 
-
-
-4) užtikrinti lygias galimybes, nepaisant lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos, teikiant administracines ir (ar) viešąsias paslaugas.
-Papildyta straipsnio punktu:
-Nr. XIV-1725, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00138
- 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
- 
-
-
-
-
-2. Valstybės institucijos priemones lygioms galimybėms užtikrinti numato strateginio planavimo dokumentuose. Savivaldybių institucijos priemones lygioms galimybėms užtikrinti numato savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane.
- 
-
-
-
-
-
-
-6 straipsnis. Švietimo įstaigų, kitų švietimo teikėjų bei mokslo ir studijų institucijų pareiga įgyvendinti lygias galimybes
+3. Valstybės institucijos priemones lygioms galimybėms užtikrinti numato strateginio planavimo dokumentuose. Savivaldybių institucijos priemones lygioms galimybėms užtikrinti numato savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane.6 straipsnis. Švietimo įstaigų, kitų švietimo teikėjų bei mokslo ir studijų institucijų pareiga įgyvendinti lygias galimybes
 
 
 1. Švietimo įstaigos, kiti švietimo teikėjai bei mokslo ir studijų institucijos privalo užtikrinti vienodas sąlygas asmenims nepaisant lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos, kai:
@@ -403,11 +322,11 @@ Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
 
 
 
-8) imtis tinkamų priemonių, kad asmenims su negalia būtų sudarytos sąlygos gauti darbą, dirbti, siekti karjeros arba mokytis, įskaitant tinkamų darbo sąlygų sudarymą, jeigu dėl tokių priemonių nebus neproporcingai apsunkinamos darbdavio pareigos;
+8) imtis tinkamų priemonių, kad asmenims su negalia būtų užtikrintas tinkamas sąlygų pritaikymas, kurio reikia konkrečiu atveju asmenims su negalia siekiant gauti darbą, dirbti, siekti karjeros arba mokytis;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
 Nr. XIV-1725, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00138
- 
+ 
 
 
 
@@ -415,20 +334,14 @@ Nr. XIV-1725, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00138
 9) imtis priemonių, kad darbuotojas ar valstybės tarnautojas darbo vietoje nebūtų diskriminuojamas dėl tėvystės atostogų, atostogų vaikui prižiūrėti, nemokamų atostogų, skirtų sergančiam šeimos nariui ar kartu su darbuotoju ar valstybės tarnautoju gyvenančiam asmeniui slaugyti (prižiūrėti), suteikimo ir lankstaus darbo grafiko nustatymo.
 Papildyta straipsnio punktu:
 Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
- 
+ 
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
-Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
- 
-
-
-
-
-8 straipsnis. Lygių galimybių įgyvendinimas vartotojų teisių apsaugos srityje
+Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-118678 straipsnis. Lygių galimybių įgyvendinimas vartotojų teisių apsaugos srityje
 
 
 1. Įgyvendindamas lygias galimybes, prekių pardavėjas, gamintojas ar paslaugų teikėjas, nepaisydamas lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos, privalo:
@@ -470,30 +383,22 @@ Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
 
 
 
-2. Organizacijos ir asociacijos privalo užtikrinti, kad šio straipsnio 1 dalyje nustatytais atvejais nebūtų priekabiaujama, seksualiai priekabiaujama ir nebūtų duodami nurodymai diskriminuoti lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu. 
+2. Organizacijos ir asociacijos privalo imtis priemonių, kad asmenims su negalia būtų užtikrintas tinkamas sąlygų pritaikymas, kurio reikia konkrečiu atveju asmenims su negalia siekiant dalyvauti šių organizacijų (asociacijų) veikloje ir gauti jų teikiamą naudą.
 
 
 
 
-3. Organizacijos ir asociacijos privalo užtikrinti, kad asmenys, kurie pateikė skundą dėl diskriminacijos, dalyvauja byloje dėl diskriminacijos arba pranešė apie diskriminaciją, nebūtų persekiojami ir būtų apsaugoti nuo priešiško elgesio ar neigiamų padarinių.
+3. Organizacijos ir asociacijos privalo užtikrinti, kad šio straipsnio 1 dalyje nustatytais atvejais nebūtų priekabiaujama, seksualiai priekabiaujama ir nebūtų duodami nurodymai diskriminuoti lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu. 
+
+
+
+
+4. Organizacijos ir asociacijos privalo užtikrinti, kad asmenys, kurie pateikė skundą dėl diskriminacijos, dalyvauja byloje dėl diskriminacijos arba pranešė apie diskriminaciją, nebūtų persekiojami ir būtų apsaugoti nuo priešiško elgesio ar neigiamų padarinių.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
-Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
- 
-
-
-
-
-
-
-III SKYRIUS
-LYGIŲ GALIMYBIŲ PAŽEIDIMAS
- 
-
-
-10 straipsnis. Lygių galimybių pažeidimas
+Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-1186710 straipsnis. Lygių galimybių pažeidimas
 
 
 Lygių galimybių pažeidimu laikomas šiame įstatyme nustatytų pareigų nevykdymas ar netinkamas jų vykdymas ir draudimų nesilaikymas.
@@ -606,7 +511,7 @@ IV SKYRIUS
 2. Komisiją sudaro 5 nariai: 4 asmenų su negalia asociacijų atstovai ir vienas Lygių galimybių kontrolieriaus tarnybos atstovas. Per lygių galimybių kontrolieriaus nustatytą terminą jo nustatyta tvarka kandidatus į Komisiją siūlo asmenų su negalia asociacijos bendru sutarimu. Asmenų su negalia asociacijos, teikdamos Komisijos narių kandidatūras, turi užtikrinti, kad būtų proporcingai atstovaujami asmenų su negalia, atsižvelgiant į negalios pobūdį ir įvairovę, ir jų interesams atstovaujančių asmenų su negalia asociacijų, atsižvelgiant į veiklos sritį, interesai.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1725, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00138
- 
+ 
 
 
 
@@ -616,7 +521,7 @@ Nr. XIV-1725, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00138
 
 
 
-4. Komisijos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+4. Komisijos narių darbas apmokamas Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
 
 
 
@@ -654,8 +559,6 @@ Nr. XIV-1725, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00138
 
 
 
-
-
 9. Atlikdama Jungtinių Tautų neįgaliųjų teisių konvencijos įgyvendinimo stebėseną, Komisija turi teisę:
 
 
@@ -674,19 +577,11 @@ Nr. XIV-1725, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00138
 
 
 
-
-
 10. Fiziniai ir juridiniai asmenys, kitos organizacijos ir jų padaliniai privalo išnagrinėti Komisijos pateiktas rekomendacijas ir apie nagrinėjimo rezultatus bei rekomendacijų vykdymą informuoti Komisiją. Informacija Komisijai pateikiama nedelsiant priėmus sprendimus dėl priemonių, kurių bus imamasi, atsižvelgiant į Komisijos rekomendacijas, bet ne vėliau kaip per 30 dienų nuo rekomendacijos gavimo dienos. 
 
 
 Papildyta straipsniu:
-Nr. XIII-1760, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20741
- 
-
-
-
-
-16 straipsnis. Lygių galimybių kontrolierius
+Nr. XIII-1760, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-2074116 straipsnis. Lygių galimybių kontrolierius
 
 
 1. Lygių galimybių kontrolierius:
