@@ -21,21 +21,21 @@ Suvestinė redakcija nuo 2025-01-01
 
  
 LIETUVOS RESPUBLIKOS
-PAREIGINĖS ALGOS (ATLYGINIMO) BAZINIO DYDŽIO NUSTATYMO IR ASIGNAVIMŲ DARBO UŽMOKESČIUI PERSKAIČIAVIMO
+PAREIGINĖS ALGOS (ATLYGINIMO) BAZINIO DYDŽIO NUSTATYMO
 ĮSTATYMAS
- 
+
 2023 m. gegužės 25 d. Nr. XIV-2011
 Vilnius
- 
- 
- 
- 
+ 
+ 
+ 
+ 
 
 
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato pareiginės algos (atlyginimo) bazinį dydį ir asignavimų darbo užmokesčiui perskaičiavimo sąlygas.
+Šis įstatymas nustato pareiginės algos (atlyginimo) bazinį dydį ir jo nustatymo tvarką.
  
 
 
@@ -46,7 +46,7 @@ Vilnius
 2 straipsnis. Įstatymo taikymas
 
 
-Šis įstatymas taikomas apskaičiuojant valstybės politikų, valstybės pareigūnų, prokurorų, žvalgybos pareigūnų, Lietuvos Respublikos vadovybės apsaugos tarnybos pareigūnų, Lietuvos Respublikos specialiųjų tyrimų tarnybos pareigūnų, Lietuvos Respublikos Konstitucinio Teismo, bendrosios kompetencijos ir specializuotų teismų teisėjų, valstybės tarnautojų, įskaitant statutinius valstybės tarnautojus, regionų plėtros tarybų administracijų direktorių ir šių administracijų darbuotojų, valstybės ir savivaldybių biudžetinių įstaigų, finansuojamų iš valstybės biudžeto, savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto ir kitų valstybės įsteigtų pinigų fondų lėšų (toliau – įstaigos), darbuotojų, viešųjų įstaigų, kurių savininkė ar dalininkė, turinti daugiau negu pusę balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, vadovų ir darbuotojų pareigines algas (atlyginimus), karių tarnybinius atlyginimus, įstatymų pagrindais sudarytų komisijų (grupių, tarybų, Teisėjų garbės teismo, darbo arbitražo, Lietuvos mokslo tarybos valdybos ir ekspertų komitetų), finansuojamų iš valstybės biudžeto ir savivaldybių biudžetų, pirmininkų, pirmininkų pavaduotojų ir narių atlygį už darbą ir perskaičiuojant asignavimus darbo užmokesčiui.
+Šis įstatymas taikomas apskaičiuojant valstybės politikų, valstybės pareigūnų, prokurorų, žvalgybos pareigūnų, Lietuvos Respublikos vadovybės apsaugos tarnybos pareigūnų, Lietuvos Respublikos specialiųjų tyrimų tarnybos pareigūnų, Lietuvos Respublikos Konstitucinio Teismo, bendrosios kompetencijos ir specializuotų teismų teisėjų, valstybės tarnautojų, įskaitant statutinius valstybės tarnautojus, regionų plėtros tarybų administracijų direktorių ir šių administracijų darbuotojų, valstybės ir savivaldybių biudžetinių įstaigų, finansuojamų iš valstybės biudžeto, savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto ir kitų valstybės įsteigtų pinigų fondų lėšų, darbuotojų, viešųjų įstaigų, kurių savininkė ar dalininkė, turinti daugiau negu pusę balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, vadovų ir darbuotojų pareiginę algą (atlyginimą), karių tarnybinį atlyginimą, įstatymų pagrindais sudarytų komisijų (grupių, tarybų, Teisėjų garbės teismo, darbo arbitražo, Lietuvos mokslo tarybos valdybos ir ekspertų komitetų), finansuojamų iš valstybės biudžeto ir savivaldybių biudžetų, pirmininkų, pirmininkų pavaduotojų ir narių atlygį už darbą.
 
 
 Straipsnio pakeitimai:
@@ -56,15 +56,16 @@ Nr. XIV-2410, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25928
 
 
 
-3 straipsnis. Pareiginės algos (atlyginimo) bazinis dydis
+3 straipsnis. Pareiginės algos (atlyginimo) bazinis dydis ir jo nustatymo tvarka
 
 
-1. Šio įstatymo 2 straipsnyje nurodytų darbuotojų pareiginei algai (atlyginimams) apskaičiuoti yra taikomas pareiginės algos (atlyginimo) bazinis dydis, kuris lygus Valstybės duomenų agentūros paskelbtam 2022 metų vidutiniam mėnesiniam šalies (su individualiomis įmonėmis) darbo užmokesčiui ir yra 1 785,4 euro. 
+1. Šio įstatymo 2 straipsnyje nurodytų darbuotojų pareiginei algai (atlyginimui) apskaičiuoti taikomas pareiginės algos (atlyginimo) bazinis dydis 2026 metais – 1798 eurai.
 
+2. Kiekvienais einamaisiais kalendoriniais metais pareiginės algos (atlyginimo) bazinis dydis, taikytinas nuo kitų kalendorinių metų sausio 1 dienos, nustatomas nacionalinėje kolektyvinėje sutartyje arba jos pakeitime, atsižvelgiant į praėjusių metų vidutinę metinę infliaciją (apskaičiuojant nacionalinį vartotojų kainų indeksą), einamaisiais metais taikomą minimaliosios mėnesinės algos dydį ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui bei jo kitimui poveikį turinčių veiksnių (ekonominių, socialinių ir darbo rinkos pokyčių) įtaką. Nacionalinėje kolektyvinėje sutartyje sulygtas pareiginės algos (atlyginimo) bazinis dydis tvirtinamas Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme.
 
+3. Jeigu nacionalinėje kolektyvinėje sutartyje arba jos pakeitime nesusitariama dėl pareiginės algos (atlyginimo) bazinio dydžio, jį tvirtina Lietuvos Respublikos Seimas Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme, atsižvelgdamas į šio straipsnio 2 dalyje nurodytus veiksnius.
 
-
-2. Taikant šio straipsnio 1 dalyje nustatytą pareiginės algos (atlyginimo) bazinį dydį, perskaičiuota pareiginė alga (atlyginimas) negali būti mažesnė už iki šio perskaičiavimo buvusią pareiginę algą (atlyginimą).
+4. Pareiginės algos (atlyginimo) bazinis dydis nedidinamas, jeigu dėl krizių ar kitų ypatingų aplinkybių iš esmės pablogėja valstybės ekonominė ir finansinė būklė.
  
 
 
