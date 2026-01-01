@@ -1479,19 +1479,18 @@ Nr. XI-1152, 2010-11-23, Žin., 2010, Nr. 145-7410 (2010-12-11)
 
 
 4. Netenka galios 2018-01-01.
+
+
+
+
+5. Jeigu gyventojas verčiasi kelių skirtingų rūšių individualia veikla, iš veiklos, iš kurios uždirbtoms pajamoms taikomas šio Įstatymo 6 straipsnio 9 dalyje nustatytas pajamų mokesčio tarifas, susidarę mokestiniai nuostoliai gali būti dengiami tik tos veiklos pajamomis.
+
 Straipsnio dalies pakeitimai:
 Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
- 
-
+ 
 
 Įstatymas papildytas straipsniu:
-Nr. XI-111, 2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)
- 
-
-
-
-
-182 straipsnis. Nuo individualios veiklos pajamų mokėtino pajamų mokesčio apskaičiavimas
+Nr. XI-111, 2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)182 straipsnis. Nuo individualios veiklos pajamų mokėtino pajamų mokesčio apskaičiavimas
 
 
 1. Jeigu metinė apmokestinamųjų individualios veiklos pajamų suma neviršija 42 500 eurų per metus, nuo individualios veiklos pajamų mokėtino pajamų mokesčio dydis nustatomas iš metinėms apmokestinamosioms pajamoms pritaikius šio Įstatymo 6 straipsnio 8 dalyje nustatytą pajamų mokesčio tarifą gautos sumos atėmus pajamų mokesčio kredito sumą, apskaičiuotą pagal šio straipsnio 2 ir 3 dalis.
