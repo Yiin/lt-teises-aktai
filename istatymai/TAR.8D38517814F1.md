@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -1490,11 +1490,12 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
-6. Kaip kuras energijai gaminti gali būti naudojamos tik išrūšiavus likusios pakartotinai naudoti ir perdirbti netinkamos energinę vertę turinčios atliekos.
+6. Kaip kuras energijai gaminti gali būti naudojamos tik išrūšiavus likusios pakartotinai naudoti ir perdirbti netinkamos energinę vertę turinčios atliekos. Savivaldybės, pagal aplinkos ministro nustatytą tvarką einamaisiais kalendoriniais metais įrodžiusios, kad praėjusiais kalendoriniais metais įgyvendino šiame Įstatyme ir jo įgyvendinamuosiuose teisės aktuose savivaldybėms nustatytus kokybinius reikalavimus, susijusius su rūšiuojamojo komunalinių atliekų surinkimo infrastruktūros įrengimu, plėtra, naudojimu ir komunalinių atliekų tvarkymo sistemos administravimu, taip pat įvykdė Vyriausybės tvirtinamame valstybiniame atliekų prevencijos ir tvarkymo plane komunalinių atliekų tvarkymo regionui ir regiono savivaldybėms nustatytas komunalinių atliekų rūšiuojamojo surinkimo ir paruošimo pakartotinai naudoti bei perdirbimo užduotis, einamaisiais kalendoriniais metais gali naudoti kaip kurą energijai gaminti po atliekų rūšiavimo jų susidarymo vietoje likusias pakartotinai naudoti ir perdirbti netinkamas energinę vertę turinčias atliekas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1571, 2018-10-25, paskelbta TAR 2018-10-29, i. k. 2018-17068
 Nr. KT31-N3/2020, 2020-02-18, paskelbta TAR 2020-02-18, i. k. 2020-03538
 Nr. XIV-1092, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11330
+Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
  
 
 
