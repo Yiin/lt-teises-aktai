@@ -63,7 +63,9 @@ BENDROSIOS NUOSTATOS
 
 5. Specialiojo statuso subjektų veiklai, susijusiai su ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių apyvarta, galioja jų veiklą reglamentuojantys įstatymai ir specialiojo statuso subjekto vadovo priimti teisės aktai, išskyrus šio įstatymo nustatytus atvejus.
 
-6. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.2 straipsnis. Pagrindinės šio įstatymo sąvokos
+6. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
 1. Automatinis šaunamasis ginklas – šaunamasis ginklas, kuris po kiekvieno šūvio užsitaiso automatiškai ir kuriuo, vieną kartą nuspaudus nuleistuką, galima iššauti daugiau kaip vieną kartą.
@@ -71,7 +73,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Civilinė ginklų, ginklų priedėlių, šaudmenų, jų dalių apyvarta (toliau – civilinė apyvarta) – ginklų, ginklų priedėlių, šaudmenų, jų dalių gamyba, taisymas, perdirbimas, pardavimas, perdavimas, įgijimas, dovanojimas, laikymas, saugojimas, gabenimas, nešiojimasis, naudojimas, paėmimas, realizavimas, sunaikinimas, eksportas, importas, vežimas, reeksportas (kaip tai apibrėžta Reglamento (ES) Nr. 258/2012 2 straipsnyje), kai šią veiklą vykdo fiziniai ir juridiniai asmenys, kitos organizacijos ar jų padaliniai, išskyrus specialiojo statuso subjektus.
+2. Civilinė ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių apyvarta (toliau – civilinė apyvarta) – ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių apyvarta, kai šią veiklą vykdo fiziniai ir juridiniai asmenys, kitos organizacijos ar jų padaliniai, išskyrus specialiojo statuso subjektus.
 
 
 
@@ -121,7 +123,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-12. Ginklininkas – fizinis asmuo, atsakingas už subjekto, kuris verčiasi šiame įstatyme nustatyta licencijuojama veikla, ar jo padalinio ginklų, ginklų priedėlių, šaudmenų, jų dalių gabenimą, priėmimą, laikymą, išdavimą, apskaitą.
+12. Ginklininkas – fizinis asmuo, atsakingas už subjekto, kuris verčiasi šiame įstatyme nustatyta licencijuojama veikla, ar jo padalinio ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių gabenimą, priėmimą, laikymą, išdavimą, apskaitą.
 
 
 
@@ -161,47 +163,42 @@ BENDROSIOS NUOSTATOS
 
 
 
-20. Ginklo priedėlio dalis – bet kuri dalis, būtina, kad ginklo priedėlis veiktų. 
-
-
-
-
 21. Ginklo taisymas – ginklo defektų šalinimas.
 
 
 
 
-22. Ginklų, ginklų priedėlių, šaudmenų, jų dalių apyvarta – ginklų, ginklų priedėlių, šaudmenų, jų dalių gamyba, taisymas, perdirbimas, pardavimas, perdavimas, įgijimas, dovanojimas, laikymas, saugojimas, gabenimas, nešiojimasis, naudojimas, paėmimas, realizavimas, sunaikinimas, eksportas, importas, vežimas, reeksportas (kaip tai apibrėžta Reglamento (ES) Nr. 258/2012 2 straipsnyje).
+22. Ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių apyvarta (toliau – ginklų, ginklų priedėlių, šaudmenų, jų dalių apyvarta) – ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių gamyba, taisymas, perdirbimas, pardavimas, perdavimas, įgijimas, dovanojimas, laikymas, saugojimas, gabenimas, nešiojimasis, naudojimas, paėmimas, realizavimas, sunaikinimas, eksportas, importas, vežimas, reeksportas (kaip apibrėžiama Reglamento (ES) Nr. 258/2012 2 straipsnyje).
 
 
 
 
-23. Ginklų, ginklų priedėlių, šaudmenų, jų dalių eksportas (toliau – ginklų eksportas) – ginklų, ginklų priedėlių, šaudmenų, jų dalių išvežimas iš Lietuvos Respublikos muitų teritorijos į Europos Sąjungos muitų teritorijai nepriskiriamas šalis arba teritorijas.
+23. Ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių eksportas (toliau – ginklų eksportas) – ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių išvežimas iš Lietuvos Respublikos muitų teritorijos į Europos Sąjungos muitų teritorijai nepriskiriamas šalis arba teritorijas.
 
 
 
 
-24. Ginklų, ginklų priedėlių, šaudmenų, jų dalių gabenimas tranzitu (toliau – ginklų gabenimas tranzitu) – ginklų, ginklų priedėlių, šaudmenų, jų dalių, neturinčių Europos Sąjungos prekių muitinio statuso, vežimas per Europos Sąjungos muitų teritoriją iš vienos šiai teritorijai nepriskiriamos šalies ar teritorijos į kitą šiai teritorijai nepriskiriamą šalį ar teritoriją.
+24. Ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių gabenimas tranzitu (toliau – ginklų gabenimas tranzitu) – ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių, neturinčių Europos Sąjungos prekių muitinio statuso, vežimas per Europos Sąjungos muitų teritoriją iš vienos šiai teritorijai nepriskiriamos šalies ar teritorijos į kitą šiai teritorijai nepriskiriamą šalį ar teritoriją.
 
 
 
 
-25. Ginklų, ginklų priedėlių, šaudmenų, jų dalių gamyba – ginklų, ginklų priedėlių, šaudmenų, jų dalių gaminimas, ginklų, ginklų priedėlių, šaudmenų dalių surinkimas į visumą.
+25. Ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių gamyba (toliau – ginklų, ginklų priedėlių, šaudmenų, jų dalių gamyba) – ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių gaminimas, pagrindinių ginklų, ginklų priedėlių, šaudmenų dalių surinkimas į visumą.
 
 
 
 
-26. Ginklų, ginklų priedėlių, šaudmenų, jų dalių importas (toliau – ginklų importas) – ginklų, ginklų priedėlių, šaudmenų, jų dalių įvežimas į Lietuvos Respublikos muitų teritoriją iš Europos Sąjungos muitų teritorijai nepriskiriamų šalių arba teritorijų.
+26. Ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių importas (toliau – ginklų importas) – ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių įvežimas į Lietuvos Respublikos muitų teritoriją iš Europos Sąjungos muitų teritorijai nepriskiriamų šalių arba teritorijų.
 
 
 
 
-27. Ginklų, ginklų priedėlių, šaudmenų, jų dalių partija (toliau – ginklų partija) – tam tikras kiekis vienu metu vieno siuntėjo vienam gavėjui siunčiamų ginklų, ginklų priedėlių, šaudmenų, jų dalių, kuriems taikoma ta pati muitinės procedūra.
+27. Ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių partija (toliau – ginklų partija) – tam tikras kiekis vienu metu vieno siuntėjo vienam gavėjui siunčiamų ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių, kuriems taikoma ta pati muitinės procedūra.
 
 
 
 
-28. Ginklų, ginklų priedėlių, šaudmenų, jų dalių vežimas (toliau – ginklų vežimas) – ginklų, ginklų priedėlių, šaudmenų, jų dalių išvežimas iš Lietuvos Respublikos į kitą Europos Sąjungos valstybę narę arba įvežimas iš kitos Europos Sąjungos valstybės narės į Lietuvos Respubliką.
+28. Ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių vežimas (toliau – ginklų vežimas) – ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių išvežimas iš Lietuvos Respublikos į kitą Europos Sąjungos valstybę narę arba įvežimas iš kitos Europos Sąjungos valstybės narės į Lietuvos Respubliką.
 
 
 
@@ -211,12 +208,12 @@ BENDROSIOS NUOSTATOS
 
 
 
-30. Ginklų prekybos tarpininkas (toliau – tarpininkas) – Europos fizinis asmuo ar Europos juridinis asmuo (išskyrus prekiautoją), kurių vykdomą prekybą ar verslą visiškai arba iš dalies sudaro derybos dėl šaunamųjų ginklų, ginklų priedėlių, šaudmenų, jų dalių pirkimo, pardavimo, tiekimo sandorių organizavimo, taip pat tokių sandorių organizavimas arba šaunamųjų ginklų, ginklų priedėlių, šaudmenų, jų dalių perdavimo Lietuvos Respublikoje, iš vienos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės į kitą Europos Sąjungos valstybę narę ar Europos ekonominės erdvės valstybę, iš vienos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės į trečiąją šalį ar iš trečiosios šalies į Europos Sąjungos valstybę narę ar Europos ekonominės erdvės valstybę organizavimas.
+30. Ginklų prekybos tarpininkas (toliau – tarpininkas) – Europos fizinis asmuo ar Europos juridinis asmuo (išskyrus prekiautoją), kurių vykdomą prekybą ar verslą visiškai arba iš dalies sudaro derybos dėl šaunamųjų ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių pirkimo, pardavimo, tiekimo sandorių organizavimo, taip pat tokių sandorių organizavimas arba šaunamųjų ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių perdavimo Lietuvos Respublikoje, iš vienos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės į kitą Europos Sąjungos valstybę narę ar Europos ekonominės erdvės valstybę, iš vienos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės į trečiąją šalį ar iš trečiosios šalies į Europos Sąjungos valstybę narę ar Europos ekonominės erdvės valstybę organizavimas.
 
 
 
 
-31. Ginklų, šaudmenų, tūtelių ar kulkų kolekcija – ginklų, šaudmenų ir (ar) jų dalių, turinčių istorinę, kultūrinę, kriminalistinę ar pažintinę vertę, rinkinys.
+31. Ginklų, šaudmenų, tūtelių ar kulkų kolekcija – ginklų, šaudmenų ir (ar) jų pagrindinių dalių, turinčių istorinę, kultūrinę, kriminalistinę ar pažintinę vertę, rinkinys.
 
 
 
@@ -236,12 +233,12 @@ BENDROSIOS NUOSTATOS
 
 
 
-35. Išankstinis sutikimas dėl ginklų, ginklų priedėlių, šaudmenų, jų dalių vežimo (toliau – išankstinis sutikimas dėl ginklų vežimo) – dokumentas, kuriuo Europos Sąjungos valstybės narės kompetentinga institucija patvirtina, kad neprieštarauja dėl jame nurodytų ginklų, ginklų priedėlių, šaudmenų, jų dalių vežimo į šios valstybės teritoriją.
+35. Išankstinis sutikimas dėl ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių vežimo (toliau – išankstinis sutikimas dėl ginklų vežimo) – dokumentas, kuriuo Europos Sąjungos valstybės narės kompetentinga institucija patvirtina, kad neprieštarauja dėl jame nurodytų ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių vežimo į šios valstybės teritoriją.
 
 
 
 
-36. Kolekcininkas – Lietuvos Respublikos kultūros ministerijos ar jos įgaliotos įstaigos pripažintas fizinis, juridinis asmuo, kita organizacija ar jų padalinys, istoriniais, kultūriniais, moksliniais, techniniais, švietimo ar paveldo išsaugojimo tikslais renkantys šaunamuosius ginklus, jų šaudmenis, perdirbtus taip, kad jų nebūtų galima panaudoti pagal paskirtį, taip pat jų dalis, senovinius ginklus ir šaudmenis, nešaunamuosius ginklus ir visiškai netinkamus naudoti ginklus.
+36. Kolekcininkas – Lietuvos Respublikos kultūros ministerijos ar kultūros ministro įgaliotos įstaigos pripažintas fizinis, juridinis asmuo, kita organizacija ar jų padalinys, istoriniais, kultūriniais, moksliniais, techniniais, švietimo ar paveldo išsaugojimo tikslais renkantys šaunamuosius ginklus, jų šaudmenis, perdirbtus taip, kad jų nebūtų galima panaudoti pagal paskirtį, taip pat jų pagrindines dalis, senovinius ginklus ir šaudmenis, nešaunamuosius ginklus ir visiškai netinkamus naudoti ginklus.
 
 
 
@@ -276,7 +273,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-43. Leidimas įvežti (išvežti) pavienius ginklus – dokumentas, kuriuo suteikiama teisė įvežti ginklus, ginklų priedėlius, šaudmenis, jų dalis į Lietuvos Respublikos muitų teritoriją iš Europos Sąjungos muitų teritorijai nepriskirtų šalių ir teritorijų arba išvežti iš Lietuvos Respublikos muitų teritorijos į Europos Sąjungos muitų teritorijai nepriskirtas šalis ir teritorijas, gabenti per Lietuvos Respublikos muitų teritoriją tranzitu Europos Sąjungos prekių muitinio statuso neturinčius leidime nurodytus ginklus, ginklų priedėlius, šaudmenis, jų dalis.
+43. Leidimas įvežti (išvežti) pavienius ginklus – dokumentas, kuriuo suteikiama teisė įvežti ginklus, ginklų priedėlius, šaudmenis, jų pagrindines dalis į Lietuvos Respublikos muitų teritoriją iš Europos Sąjungos muitų teritorijai nepriskirtų šalių ir teritorijų arba išvežti iš Lietuvos Respublikos muitų teritorijos į Europos Sąjungos muitų teritorijai nepriskirtas šalis ir teritorijas, gabenti per Lietuvos Respublikos muitų teritoriją tranzitu Europos Sąjungos prekių muitinio statuso neturinčius leidime nurodytus ginklus, ginklų priedėlius, šaudmenis, jų pagrindines dalis.
 
 
 
@@ -291,7 +288,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-46. Leidimas vežti ginklus, ginklų priedėlius, šaudmenis, jų dalis (toliau – leidimas vežti ginklus) – dokumentas, kuriuo suteikiama teisė vežti ginklus, ginklų priedėlius, šaudmenis, jų dalis iš vienos Europos Sąjungos valstybės narės į kitą Europos Sąjungos valstybę narę.
+46. Leidimas vežti ginklus, ginklų priedėlius, šaudmenis, jų pagrindines dalis (toliau – leidimas vežti ginklus) – dokumentas, kuriuo suteikiama teisė vežti ginklus, ginklų priedėlius, šaudmenis, jų pagrindines dalis iš vienos Europos Sąjungos valstybės narės į kitą Europos Sąjungos valstybę narę.
 
 
 
@@ -314,10 +311,15 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 
 
 
-50. Pavienis ginklas – ginklas, ginklo priedėlis, šaudmenys, jų dalys, kurie įvežami į Lietuvos Respublikos muitų teritoriją, išvežami iš jos ar gabenami per ją tranzitu, neturint tikslo jų realizuoti ar kitaip perduoti.
+50. Pavienis ginklas – ginklas, ginklo priedėlis, šaudmenys, jų pagrindinės dalys, kurie įvežami į Lietuvos Respublikos muitų teritoriją, išvežami iš jos ar gabenami per ją tranzitu, neturint tikslo jų realizuoti ar kitaip perduoti.
 
+49^1. Pagrindinė ginklo dalis (toliau – ginklo dalis) – ginklo, įskaitant šaunamąjį ginklą, dalis, specialiai sukurta ir (ar) pritaikyta, kad ginklas veiktų pagal paskirtį. Prie pagrindinių ginklo dalių nepriskiriamos dalys, kurios turi ūkinę ar buitinę paskirtį ir gali būti naudojamos pagal šią paskirtį.
 
+49^2. Pagrindinė ginklo priedėlio dalis (toliau – ginklo priedėlio dalis) – dalis, būtina, kad ginklo priedėlis veiktų pagal paskirtį. Prie pagrindinių ginklo priedėlio dalių nepriskiriamos dalys, kurios turi ūkinę ar buitinę paskirtį ir gali būti naudojamos pagal šią paskirtį.
 
+49^3. Pagrindinė šaudmens dalis (toliau – šaudmens dalis) – sviedinys su užtaisu, užtaisas, sprogdiklis, kapsulė, kapsulinė tūtelė.
+
+49^4. Pagrindinė šaunamojo ginklo dalis (toliau – šaunamojo ginklo dalis) – vamzdis, rėmas, uoksas, įskaitant viršutinį ir apatinį uoksus, būgnelis, spyna (užraktas), spynos (užrakto) rėmas, šovinio lizdas (kai jis yra atskira dalis) ir į šaunamojo ginklo vamzdį įdedamas įdėklas (mažesnio kalibro vamzdis), jų pusgaminiai.
 
 51. Pertaisomasis šaunamasis ginklas – šaunamasis ginklas, kuris po kiekvieno šūvio rankos veiksmu užtaisomas šaunamuoju mechanizmu iš dėtuvės ar būgnelio.
 
@@ -329,7 +331,7 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 
 
 
-53. Prekiautojas – fizinis ar juridinis asmuo, kita organizacija ar jų padalinys, kurių vykdomą veiklą ar verslą visiškai arba iš dalies sudaro ginklų, ginklų priedėlių, šaudmenų, jų dalių gamyba, prekyba, mainai, nuoma, panauda, taisymas ar perdirbimas arba šaudmenų, jų dalių gamyba, prekyba, mainai, perdirbimas.
+53. Prekiautojas – fizinis ar juridinis asmuo, kita organizacija ar jų padalinys, kurių vykdomą veiklą ar verslą visiškai arba iš dalies sudaro ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių gamyba, prekyba, mainai, nuoma, panauda, taisymas ar perdirbimas arba šaudmenų, jų pagrindinių dalių gamyba, prekyba, mainai, perdirbimas.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2535, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07268
  
@@ -369,11 +371,6 @@ Nr. XIII-2908, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10905
 Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
 Nr. XIV-883, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00174
  
-
-
-
-
-60. Sviedinys – šaudmens dalis (kulka, šratai, artilerijos sviedinys ar kita), strėlė, skirti taikiniui paveikti.
 
 
 
@@ -780,10 +777,10 @@ DraudžIami GINKLai, GINKLŲ PRIEDĖLIAI IR ŠAUDMENys
 
 5) šoviniai, kurių kulkos yra su kieto metalo šerdimi ar kieto metalo apvalkalu, išskyrus Lietuvos šaulių sąjungos nario (toliau – šaulys) tarnybai naudojamus šovinius, kurių kulkos yra su kieto metalo šerdimi ar kieto metalo apvalkalu;
 
-
-
-
 6) lazeriniai taikikliai, duslintuvai, išskyrus sportui, medžioklei, šaulio tarnybai ir profesinės karo tarnybos kario, kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario individualiems praktiniams įgūdžiams tobulinti naudojamus lazerinius taikiklius ir duslintuvus;
+
+Straipsnio punkto pakeitimai:
+Nr. XV-184, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08679
 Straipsnio punkto pakeitimai:
 Nr. XV-184, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08679
  
@@ -829,13 +826,7 @@ Nr. XV-184, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08679
 
 2) įvertina kuriamus ir naujai rinkoje atsiradusius daiktus, įrenginius dėl jų atitikties šiame įstatyme apibrėžiamoms ginklo, ginklo priedėlio, šaudmens, jų dalies sąvokoms ir priima sprendimą dėl jų pripažinimo ginklais, ginklų priedėliais, šaudmenimis, jų dalimis bei priskyrimo tam tikrai kategorijai;
 
-
-
-
 3) įvertina naujus dujinių ginklų modelius, ar jų negalima perdirbti taip, kad sprogstamųjų medžiagų degimo produktų slėgio jėga per vamzdį būtų paleistos kulkos, sviediniai, ir priima sprendimą dėl tokių ginklų kategorijos.
-
-
-
 
 6. Šio straipsnio 5 dalyje nurodytus sprendimus ekspertų komisija, nurodyta šio įstatymo 1 straipsnio 4 dalyje, priima per 30 darbo dienų nuo šiems sprendimams priimti reikalingos informacijos ir (arba) dokumentų gavimo dienos. Šių sprendimų priėmimo ir ekspertų komisijos darbo organizavimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
  
@@ -1520,12 +1511,12 @@ VI SKYRIUS
 1. Licencijuojama ūkinė veikla yra:
 
 
-1) ginklų, ginklų priedėlių, šaudmenų, jų dalių gamyba;
+1) ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių gamyba;
 
 
 
 
-2) ginklų, ginklų priedėlių, šaudmenų, jų dalių importas, eksportas, vežimas;
+2) ginklų, ginklų priedėlių, šaudmenų, jų pagrindinių dalių importas, eksportas, vežimas;
 
 
 
@@ -1708,8 +1699,9 @@ Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
 
 20 straipsnis. Teisės dirbti su licencijuojama veikla tiesiogiai susijusį darbą apribojimai
 
+Filziniu asmeniu, kuris verčiasi licencijuojama veikla, ar juridinio asmens, kitos organizacijos arba jų padalinio, kuris verčiasi licencijuojama veikla, darbuotoju, dirbančiu su licencijuojama veikla tiesiogiai susijusį darbą, taip pat ginklininku negali būti asmuo, kuriam taikomos šio įstatymo 17 straipsnio 1 dalies 3, 10, 11 punktų ir (ar) 18 straipsnio 2 dalies nuostatos.
 
-Filziniu asmeniu, kuris verčiasi licencijuojama veikla, ar juridinio asmens, kitos organizacijos arba jų padalinio, kuris verčiasi licencijuojama veikla, darbuotoju, dirbančiu su licencijuojama veikla tiesiogiai susijusį darbą, taip pat ginklininku negali būti asmuo, kuriam taikomos šio įstatymo 17 straipsnio 1 dalies 3, 10, 11 punktų ir (ar) 18 straipsnio 2 dalies nuostatos.21 straipsnis. Licencijos ir rašytinio sutikimo turėtojų pareigos, veiklos sąlygos ir taikomi draudimai 
+21 straipsnis. Licencijos ir rašytinio sutikimo turėtojų pareigos, veiklos sąlygos ir taikomi draudimai 
 
 
 1. Už šiame skyriuje nurodytų ūkinės veiklos, susijusios su ginklais, ginklų priedėliais, šaudmenimis, jų dalimis, reikalavimų laikymąsi yra atsakingas licencijos ir rašytinio sutikimo turėtojas.
@@ -1750,7 +1742,10 @@ Filziniu asmeniu, kuris verčiasi licencijuojama veikla, ar juridinio asmens, ki
 
 
 
-7) gaminti, sandėliuoti, laikyti, realizuoti, taisyti, perdirbti, naudoti ginklus, ginklų priedėlius, šaudmenis, jų dalis tik tose patalpose, kurios atitinka Vyriausybės ar jos įgaliotos institucijos nustatytus atitinkamoms ginklų, ginklų priedėlių, šaudmenų kategorijoms taikomus reikalavimus, atsižvelgiant į vykdomos veiklos pobūdį; 
+7) gaminti, sandėliuoti, laikyti, realizuoti, taisyti, perdirbti, naudoti ginklus, ginklų priedėlius, šaudmenis, jų dalis tik tose patalpose, kurios atitinka Vyriausybės ar jos įgaliotos institucijos nustatytus atitinkamoms ginklų, ginklų priedėlių, šaudmenų kategorijoms taikomus reikalavimus, atsižvelgiant į vykdomos veiklos pobūdį ar etapą;
+
+Straipsnio punkto pakeitimai:
+Nr. XIV-2649, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09687 
 Straipsnio punkto pakeitimai:
 Nr. XIV-2649, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09687
  
@@ -1758,7 +1753,24 @@ Nr. XIV-2649, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09687
 
 
 
-8) prieš priimdamas į darbą naują darbuotoją, kurio darbas yra tiesiogiai susijęs su licencijuojama veikla, pateikti policijos įstaigai šio asmens duomenis (vardą, pavardę, asmens kodą, gyvenamosios vietos adresą) ir sveikatos patikrinimo išvadą, patvirtinančią, kad jis neserga ligomis ar neturi fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo; 
+8) prieš priimdamas į darbą naują darbuotoją, kurio darbas yra tiesiogiai susijęs su licencijuojama veikla, pateikti policijos įstaigai šio asmens duomenis (vardą, pavardę, asmens kodą, jeigu asmens kodo neturi – gimimo datą, gyvenamosios vietos adresą) ir informuoti šį asmenį apie jo pareigą gauti sveikatos patikrinimo išvadą, patvirtinančią, kad jis neserga ligomis ar neturi fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo;
+</search>
+
+<search>
+9) ginklų, ginklų priedėlių, šaudmenų, jų dalių apskaitos dokumentus saugoti ne mažiau kaip 20 metų nuo paskutinio įrašo padarymo juose dienos, neatsižvelgiant į tai, ar verčiamasi licencijuojama veikla, ar ne (likvidavus juridinį asmenį, kitą organizaciją ar jų padalinį ar mirus fiziniam asmeniui, ginklų, ginklų priedėlių, šaudmenų, jų dalių apskaitos dokumentai perduodami policijos įstaigai, kuri tvarko civilinėje apyvartoje esančių ginklų, jų savininkų ir valdytojų apskaitą);
+</search>
+<replace>
+9) ginklų, ginklų priedėlių, šaudmenų, jų dalių apskaitos dokumentus saugoti ne mažiau kaip 20 metų nuo paskutinio įrašo padarymo juose dienos, neatsižvelgiant į tai, ar verčiamasi licencijuojama veikla, ar ne (likvidavus juridinį asmenį, kitą organizaciją ar jų padalinį ar mirus fiziniam asmeniui, ginklų, ginklų priedėlių, šaudmenų, jų dalių apskaitos dokumentai perduodami policijos įstaigai);
+</search>
+
+<search>
+10) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka žymėti į Lietuvos Respubliką importuotus, atvežtus, pagamintus ar specialiojo statuso subjektų į civilinę apyvartą perduotus šio įstatymo 3 straipsnio 2, 6–10 punktuose nurodytus ginklus, taip pat B kategorijos šaunamuosius ginklus, jeigu jie nėra pažymėti;
+</search>
+<replace>
+10) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka žymėti į Lietuvos Respubliką importuotus, atvežtus, pagamintus ar specialiojo statuso subjektų į civilinę apyvartą perduotus šio įstatymo 3 straipsnio 2, 6–10 punktuose nurodytus ginklus, taip pat B kategorijos šaunamuosius ginklus, jeigu jie nėra pažymėti;
+
+Straipsnio punkto pakeitimai:
+Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152 
 Straipsnio punkto pakeitimai:
 Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
 Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
@@ -1784,7 +1796,10 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 
 
 
-11) importavęs, atvežęs į Lietuvos Respubliką ginklus, šaudmenis, ne vėliau kaip per 5 darbo dienas nuo ginklų, šaudmenų importo, atvežimo į Lietuvos Respubliką dienos, o norėdamas eksportuoti, vežti ginklus, šaudmenis iš Lietuvos Respublikos, ne vėliau kaip prieš 5 darbo dienas iki numatomo ginklų, šaudmenų eksporto, vežimo elektroninėmis priemonėmis per Policijos elektroninių paslaugų sistemą pateikti importuotų, atvežtų ar numatomų eksportuoti, vežti šio įstatymo 3 straipsnio 2, 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų identifikacinius duomenis (ginklo šalį gamintoją ir gamybos vietą, markę, modelį, kalibrą, gamintojo pavadinimą, pagaminimo metus ir identifikacinį numerį), vertę, šaudmenų duomenis (identifikacinį gamintojo žymenį, gamintojo pavadinimą ir ginklų partijos identifikacinį numerį, kalibrą ir šaudmenų tipą, kiekį), vertę, ginklų, šaudmenų tiekėjų ar gavėjų duomenis (pavadinimą, vardą, pavardę, buveinės ar gyvenamosios vietos adresą) policijos įstaigai, kuri tvarko civilinėje apyvartoje esančių ginklų, jų savininkų ir valdytojų apskaitą; 
+11) importavęs, atvežęs į Lietuvos Respubliką ginklus, šaudmenis, ne vėliau kaip per 5 darbo dienas nuo ginklų, šaudmenų importo, atvežimo į Lietuvos Respubliką dienos, o norėdamas eksportuoti, vežti ginklus, šaudmenis iš Lietuvos Respublikos, ne vėliau kaip prieš 5 darbo dienas iki numatomo ginklų, šaudmenų eksporto, vežimo elektroninėmis priemonėmis per Policijos elektroninių paslaugų sistemą pateikti importuotų, atvežtų ar numatomų eksportuoti, vežti šio įstatymo 3 straipsnio 2, 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų identifikacinius duomenis (ginklo šalį gamintoją ir gamybos vietą, markę, modelį, kalibrą, gamintojo pavadinimą, pagaminimo metus ir identifikacinį numerį), vertę, šaudmenų duomenis (identifikacinį gamintojo žymenį, gamintojo pavadinimą ir ginklų partijos identifikacinį numerį, kalibrą ir šaudmenų tipą, kiekį), vertę, ginklų, šaudmenų tiekėjų ar gavėjų duomenis (pavadinimą, vardą, pavardę, buveinės ar gyvenamosios vietos adresą) policijos įstaigai;
+
+Straipsnio punkto pakeitimai:
+Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152 
 Straipsnio punkto pakeitimai:
 Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
  
@@ -1826,7 +1841,14 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 4. Licencijos ar rašytinio sutikimo turėtojai ginklų, ginklų priedėlių, šaudmenų, jų dalių apskaitą tvarko Vyriausybės įgaliotos institucijos nustatyta tvarka.22 straipsnis. Ginklų, ginklų priedėlių, šaudmenų, jų dalių gamyba
 
 
-1. Licenciją verstis ginklų, ginklų priedėlių, šaudmenų, jų dalių gamyba Vyriausybės nustatyta tvarka išduoda policijos įstaiga. 
+1. Licenciją verstis ginklų, ginklų priedėlių, šaudmenų, jų dalių gamyba Vyriausybės nustatyta tvarka išduoda policijos įstaiga. Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme nurodyta mokslinių tyrimų ir eksperimentinės plėtros veikla užsiimantys asmenys, planuojantys savo vykdomoje mokslinių tyrimų ir eksperimentinės plėtros veikloje naudoti ginklų, ginklų priedėlių, šaudmenų dalis, privalo gauti licenciją verstis ginklų, ginklų priedėlių, šaudmenų, jų dalių gamyba. Kai šie asmenys nėra įsitikinę, ar jų kuriamas daiktas, produktas ar jų dalys būtų laikomi ginklu, ginklo priedėliu, šaudmenimis, jų dalimis, jie privalo kreiptis į ekspertų komisiją, nurodytą šio įstatymo 1 straipsnio 4 dalyje, su prašymu įvertinti, ar jų kuriamas daiktas, produktas ar jų dalys būtų laikomi ginklu, ginklo priedėliu, šaudmenimis, jų dalimis. Šiai ekspertų komisijai atlikus įvertinimą ir priėmus sprendimą pripažinti kuriamą daiktą, produktą ar jų dalis ginklu, ginklo priedėliu, šaudmenimis, jų dalimis bei priskyrus tam tikrai kategorijai, privaloma gauti licenciją verstis ginklų, ginklų priedėlių, šaudmenų, jų dalių gamyba.
+</search>
+
+<search>
+3) ant pagamintų ginklų, jų pagrindinių dalių ir ginklų priedėlių nurodyti šalį gamintoją, gamybos vietą, markę, modelį, kalibrą, gamintojo pavadinimą, pagaminimo metus (jeigu jie nėra identifikacinio numerio dalis) ir identifikacinį numerį. Kai ginklo pagrindinė dalis yra pernelyg maža, kad būtų pažymėta pagal šiame punkte nustatytus reikalavimus, ji žymima bent identifikaciniu numeriu;
+</search>
+<replace>
+3) ant pagamintų ginklų, jų dalių ir ginklų priedėlių nurodyti šalį gamintoją, gamybos vietą, markę, modelį, kalibrą, gamintojo pavadinimą, pagaminimo metus (jeigu jie nėra identifikacinio numerio dalis) ir identifikacinį numerį. Kai ginklo dalis yra pernelyg maža, kad būtų pažymėta pagal šiame punkte nustatytus reikalavimus, ji žymima bent identifikaciniu numeriu; 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
  
@@ -2419,6 +2441,9 @@ Nr. XV-57, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23066
 
 
 8) ginklų, ginklų priedėlių, šaudmenų, jų dalių apskaitos dokumentus ir kitus su tarpininko veikla susijusius dokumentus saugoti ne mažiau kaip 20 metų nuo paskutinio įrašo padarymo juose dienos, neatsižvelgiant į tai, ar tarpininkas verčiasi tarpininko veikla, ar ne (likvidavus juridinį asmenį, kitą organizaciją ar jų padalinį ar mirus fiziniam asmeniui, ginklų, ginklų priedėlių, šaudmenų, jų dalių apskaitos dokumentai ir kiti su tarpininko veikla susiję dokumentai perduodami policijos įstaigai);
+
+Straipsnio punkto pakeitimai:
+Nr. XIV-2649, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09687
 Straipsnio punkto pakeitimai:
 Nr. XIV-2649, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09687
  
@@ -2508,7 +2533,7 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 
 
 
-3. Europos fizinis asmuo ar Europos juridinis asmuo ginklus, jų pagrindines dalis gali paimti taisyti, perdirbti tik įsitikinęs, kad taisyti, perdirbti ginklą, jų pagrindines dalis atiduodantis asmuo juos turi teisėtai (turi leidimą laikyti ginklus ar leidimą nešiotis ginklus). Ginklo perdirbimo atveju Europos fizinis asmuo ar Europos juridinis asmuo, kuris priima ginklą perdirbti, papildomai turi pareikalauti pateikti leidimą perdirbti ginklą.
+3. Europos fizinis asmuo ar Europos juridinis asmuo ginklus, jų dalis gali paimti taisyti, perdirbti tik įsitikinęs, kad taisyti, perdirbti ginklą, jų dalis atiduodantis asmuo juos turi teisėtai (turi leidimą laikyti ginklus ar leidimą nešiotis ginklus). Ginklo perdirbimo atveju Europos fizinis asmuo ar Europos juridinis asmuo, kuris priima ginklą perdirbti, papildomai turi pareikalauti pateikti leidimą perdirbti ginklą.
 
 
 
