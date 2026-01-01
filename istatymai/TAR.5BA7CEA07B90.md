@@ -285,7 +285,7 @@ AKREDITAVIMO PROCESAS
 9 straipsnis. Akreditavimo pažymėjimų išdavimas. Akredituotų atitikties vertinimo įstaigų priežiūra
 
 
-1. Atitikties vertinimo įstaiga paraišką dėl akreditavimo ir paraišką dėl akreditavimo srities išplėtimo (toliau kartu – paraiška) ir prašymą dėl akreditavimo srities susiaurinimo, akreditavimo pažymėjimo galiojimo sustabdymo, akreditavimo pažymėjimo galiojimo sustabdymo panaikinimo, akreditavimo pažymėjimo galiojimo panaikinimo, akreditavimo pažymėjimo keitimo (toliau kartu – prašymas) Nacionaliniam akreditacijos biurui pateikia elektroninėmis priemonėmis arba kreipdamasi tiesiogiai. Paraiškos ir prašymai nagrinėjami šiame įstatyme ir procedūriniuose akreditavimo dokumentuose nustatyta tvarka. 
+1. Atitikties vertinimo įstaiga paraišką dėl akreditavimo bei paraišką dėl akreditavimo srities išplėtimo (toliau kartu – paraiška) ir prašymą dėl akreditavimo srities susiaurinimo, akreditavimo pažymėjimo galiojimo sustabdymo, akreditavimo pažymėjimo galiojimo sustabdymo panaikinimo, akreditavimo pažymėjimo galiojimo panaikinimo, akreditavimo pažymėjimo keitimo (toliau kartu – prašymas) nacionalinei akreditacijos įstaigai pateikia elektroninėmis priemonėmis arba kreipdamasi tiesiogiai. Paraiškos ir prašymai nagrinėjami šiame įstatyme ir procedūriniuose akreditavimo dokumentuose nustatyta tvarka. 
 
 
 
@@ -318,7 +318,7 @@ AKREDITAVIMO PROCESAS
 
 
 
-3) dokumentai, įrodantys per pastaruosius vienus metus atitikties vertinimo įstaigos atliktą vidaus auditą, ir įstaigos vadybos vertinamosios analizės rezultatai;
+3) dokumentai, įrodantys per pastaruosius 1 metus atitikties vertinimo įstaigos atliktą vidaus auditą, ir įstaigos vadybos vertinamosios analizės rezultatai;
 
 
 
@@ -370,12 +370,12 @@ AKREDITAVIMO PROCESAS
 
 
 
-5. Nacionalinis akreditacijos biuras, gavęs paraišką kartu su šio straipsnio 3 dalyje nurodytais dokumentais ir informacija (toliau kartu – paraiškos dokumentai), juos išanalizuoja ir įvertina paraiškos tinkamumą tolesniam vertinimui. Jeigu pateikta netiksli, neišsami (ne visa) informacija, atitikties vertinimo įstaiga per 10 darbo dienų nuo paraiškos dokumentų gavimo Nacionaliniame akreditacijos biure dienos informuojama apie nustatytus trūkumus ir nustatomas ne trumpesnis kaip 10 darbo dienų terminas trūkumams pašalinti. 
+5. Nacionalinė akreditacijos įstaiga, gavusi paraišką kartu su šio straipsnio 3 dalyje nurodytais dokumentais ir informacija (toliau kartu – paraiškos dokumentai), juos išanalizuoja ir įvertina paraiškos tinkamumą tolesniam vertinimui. Jeigu pateikta netiksli, neišsami (ne visa) informacija, atitikties vertinimo įstaiga per 10 darbo dienų nuo paraiškos dokumentų gavimo nacionalinėje akreditacijos įstaigoje dienos informuojama apie nustatytus trūkumus ir nustatomas ne trumpesnis kaip 10 darbo dienų nuo informacijos apie nustatytus trūkumus gavimo dienos terminas trūkumams pašalinti. 
 
 
 
 
-6. Jeigu pateikti visi paraiškos dokumentai, paraiškos nagrinėjimo procesas baigiamas Nacionaliniam akreditacijos biurui priėmus sprendimą atlikti vertinimą. Sprendimas atlikti vertinimą priimamas per 10 darbo dienų nuo visų paraiškos dokumentų gavimo Nacionaliniame akreditacijos biure dienos. Apie šį sprendimą atitikties vertinimo įstaiga informuojama ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos. 
+6. Jeigu pateikti visi paraiškos dokumentai, paraiškos nagrinėjimo procesas baigiamas nacionalinei akreditacijos įstaigai priėmus sprendimą atlikti vertinimą. Sprendimas atlikti vertinimą priimamas per 10 darbo dienų nuo visų paraiškos dokumentų gavimo nacionalinėje akreditacijos įstaigoje dienos. Apie šį sprendimą atitikties vertinimo įstaiga informuojama ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos. 
 
 
 
@@ -385,17 +385,17 @@ AKREDITAVIMO PROCESAS
 
 
 
-8. Nacionalinis akreditacijos biuras, atlikęs vertinimą, priima sprendimą dėl akreditavimo pažymėjimo išdavimo. Teigiamas sprendimas dėl akreditavimo pažymėjimo išdavimo arba motyvuotas sprendimas atsisakyti išduoti akreditavimo pažymėjimą priimamas ne vėliau kaip per 6 mėnesius nuo sprendimo atlikti vertinimą priėmimo dienos. Į šį terminą nėra įskaitomas laikotarpis, prasidedantis, kai Nacionalinis akreditacijos biuras vertinimo metu užfiksuoja neatitiktis ir apie jas praneša atitikties vertinimo įstaigai, ir pasibaigiantis, kai Nacionalinis akreditacijos biuras konstatuoja, kad neatitiktys pagal suderintą jų šalinimo planą yra pašalintos.
+8. Nacionalinė akreditacijos įstaiga, atlikusi vertinimą, priima sprendimą dėl akreditavimo pažymėjimo išdavimo. Teigiamas sprendimas dėl akreditavimo pažymėjimo išdavimo arba motyvuotas sprendimas atsisakyti išduoti akreditavimo pažymėjimą priimamas ne vėliau kaip per 6 mėnesius nuo sprendimo atlikti vertinimą priėmimo dienos. Į šį terminą nėra įskaitomas laikotarpis, prasidedantis, kai nacionalinė akreditacijos įstaiga vertinimo metu užfiksuoja neatitiktis ir apie jas praneša atitikties vertinimo įstaigai, ir pasibaigiantis, kai nacionalinė akreditacijos įstaiga konstatuoja, kad neatitiktys pagal suderintą jų šalinimo planą yra pašalintos.
 
 
 
 
-9. Šio straipsnio 8 dalyje nustatytas terminas gali būti dėl svarbių priežasčių vieną kartą pratęstas iki 3 mėnesių. Šiuo atveju Nacionalinis akreditacijos biuras, priėmęs sprendimą pratęsti šio straipsnio 8 dalyje nurodytą terminą, informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos, nurodydamas priežastis, dėl kurių terminas buvo pratęstas.  
+9. Šio straipsnio 8 dalyje nustatytas terminas gali būti dėl vertinimo apimties, ekspertų trūkumo ar kitų objektyvių priežasčių vieną kartą pratęstas ne daugiau kaip 3 mėnesiams. Šiuo atveju nacionalinė akreditacijos įstaiga, priėmusi sprendimą pratęsti šio straipsnio 8 dalyje nurodytą terminą, informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos ir nurodo priežastis, dėl kurių terminas buvo pratęstas.  
 
 
 
 
-10. Akreditavimo pažymėjimas išduodamas 5 metų laikotarpiui, išskyrus šio straipsnio 11 dalyje nurodytą išimtį. Nacionalinis akreditacijos biuras akreditavimo pažymėjimo galiojimo metu atlieka atitikties vertinimo įstaigos priežiūrą procedūriniuose akreditavimo dokumentuose nustatyta tvarka. 
+10. Akreditavimo pažymėjimas išduodamas 5 metų laikotarpiui, išskyrus šio straipsnio 11 dalyje nurodytą išimtį. Nacionalinė akreditacijos įstaiga akreditavimo pažymėjimo galiojimo metu atlieka atitikties vertinimo įstaigos priežiūrą procedūriniuose akreditavimo dokumentuose nustatyta tvarka. 
 
 
 
@@ -405,7 +405,7 @@ AKREDITAVIMO PROCESAS
 
 
 
-12. Apie priimtą teigiamą sprendimą dėl akreditavimo pažymėjimo išdavimo arba apie priimtą sprendimą atsisakyti išduoti akreditavimo pažymėjimą Nacionalinis akreditacijos biuras informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
+12. Apie priimtą sprendimą išduoti akreditavimo pažymėjimą arba apie priimtą sprendimą atsisakyti išduoti akreditavimo pažymėjimą nacionalinė akreditacijos įstaiga informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
  
 
 
@@ -419,17 +419,17 @@ AKREDITAVIMO PROCESAS
 1. Atitikties vertinimo įstaigos paraiška atmetama, kai: 
 
 
-1) per šio įstatymo 9 straipsnio 5 dalyje nurodytą terminą nepašalinami paraiškos dokumentų trūkumai ir (arba) Nacionalinis akreditacijos biuras neinformuojamas apie šių trūkumų pašalinimą;
+1) per šio įstatymo 9 straipsnio 5 dalyje nurodytą terminą nepašalinami paraiškos dokumentų trūkumai ir (arba) nacionalinė akreditacijos įstaiga neinformuojama apie šių trūkumų pašalinimą;
 
 
 
 
-2) atlikti vertinimą nėra galimybių, nes pageidaujamos atitikties vertinimo veiklos Nacionalinis akreditacijos biuras neakredituoja;
+2) atlikti vertinimą nėra galimybių, nes pageidaujamos atitikties vertinimo veiklos nacionalinė akreditacijos įstaiga neakredituoja;
 
 
 
 
-3) Nacionalinis akreditacijos biuras turi įrodymų apie atitikties vertinimo įstaigos nesąžiningą elgesį – slepiamą informaciją arba klaidingų paraiškos dokumentų, turinčių įtakos akreditavimo rezultatams, pateikimą. 
+3) nacionalinė akreditacijos įstaiga turi įrodymų apie atitikties vertinimo įstaigos nesąžiningą elgesį – slepiamą informaciją arba klaidingų paraiškos dokumentų, turinčių įtakos akreditavimo rezultatams, pateikimą. 
 
 
 
@@ -456,7 +456,7 @@ AKREDITAVIMO PROCESAS
 
 
 
-3. Apie priimtą sprendimą atmesti paraišką arba nutraukti vertinimo procesą Nacionalinis akreditacijos biuras informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
+3. Apie priimtą sprendimą atmesti paraišką arba nutraukti vertinimo procesą nacionalinė akreditacijos įstaiga informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
  
 
 
@@ -475,29 +475,29 @@ AKREDITAVIMO PROCESAS
 
 
 
-2) kai Nacionalinis akreditacijos biuras, atlikdamas atitikties vertinimo įstaigos priežiūrą, akreditavimo pažymėjimo galiojimo metu nustato neatitiktis ir akredituota atitikties vertinimo įstaiga per Nacionalinio akreditacijos biuro nustatytą ne ilgesnį kaip 3 mėnesių terminą jų nepašalina ir (arba) apie tai neinformuoja Nacionalinio akreditacijos biuro;
+2) kai nacionalinė akreditacijos įstaiga, atlikdama atitikties vertinimo įstaigos priežiūrą, akreditavimo pažymėjimo galiojimo metu nustato neatitiktis ir akredituota atitikties vertinimo įstaiga per šio įstatymo 9 straipsnio 7 dalyje nurodytus terminus jų nepašalina ir (arba) apie tai neinformuoja nacionalinės akreditacijos įstaigos;
 
 
 
 
-3) kai Nacionalinis akreditacijos biuras akreditavimo pažymėjimo galiojimo metu nustato, kad atitikties vertinimo įstaiga nesilaiko standarto LST EN ISO/IEC 17011 reikalavimų.
+3) kai nacionalinė akreditacijos įstaiga akreditavimo pažymėjimo galiojimo metu nustato, kad atitikties vertinimo įstaiga nesilaiko standarto LST EN ISO/IEC 17011 reikalavimų.
 
 
 
 
 
 
-2. Akreditavimo pažymėjimo galiojimas sustabdomas ne ilgesniam kaip 6 mėnesių terminui nuo Nacionalinio akreditacijos biuro priimto sprendimo sustabdyti akreditavimo pažymėjimo galiojimą priėmimo dienos. 
+2. Akreditavimo pažymėjimo galiojimas sustabdomas ne ilgesniam kaip 6 mėnesių terminui nuo nacionalinės akreditacijos įstaigos priimto sprendimo sustabdyti akreditavimo pažymėjimo galiojimą priėmimo dienos. 
 
 
 
 
-3. Sprendime sustabdyti akreditavimo pažymėjimo galiojimą nurodomas akreditavimo pažymėjimo galiojimo sustabdymo pagrindas, terminas, kuriam sustabdomas akreditavimo pažymėjimo galiojimas, ir ne ilgesnis kaip 4 mėnesių terminas, per kurį atitikties vertinimo įstaiga turi pašalinti neatitiktis ir pateikti Nacionaliniam akreditacijos biurui neatitikčių pašalinimą įrodančius dokumentus ir (arba) dokumentus, įrodančius, kad laikomasi standarto LST EN ISO/IEC 17011 reikalavimų, kad būtų atliktas atitikties vertinimo įstaigos vertinimas, išskyrus šio straipsnio 1 dalies 1 punkte nurodytą atvejį. 
+3. Sprendime sustabdyti akreditavimo pažymėjimo galiojimą nurodomas akreditavimo pažymėjimo galiojimo sustabdymo pagrindas, terminas, kuriam sustabdomas akreditavimo pažymėjimo galiojimas, ir ne ilgesnis kaip 4 mėnesių terminas nuo sprendimo sustabdyti akreditavimo pažymėjimo galiojimą priėmimo dienos, per kurį atitikties vertinimo įstaiga turi pašalinti neatitiktis ir pateikti nacionalinei akreditacijos įstaigai neatitikčių pašalinimą įrodančius dokumentus ir (arba) dokumentus, įrodančius, kad laikomasi standarto LST EN ISO/IEC 17011 reikalavimų, kad būtų atliktas atitikties vertinimo įstaigos vertinimas, išskyrus šio straipsnio 1 dalies 1 punkte nurodytą atvejį. 
 
 
 
 
-4. Apie priimtą sprendimą sustabdyti akreditavimo pažymėjimo galiojimą Nacionalinis akreditacijos biuras informuoja akredituotą atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
+4. Apie priimtą sprendimą sustabdyti akreditavimo pažymėjimo galiojimą nacionalinė akreditacijos įstaiga informuoja akredituotą atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
  
 
 
@@ -508,7 +508,7 @@ AKREDITAVIMO PROCESAS
 12 straipsnis. Akreditavimo pažymėjimų galiojimo sustabdymo panaikinimas
 
 
-1. Akreditavimo pažymėjimo galiojimo sustabdymas panaikinamas, kai atitikties vertinimo įstaiga pateikia prašymą kartu su šio straipsnio 2 dalyje nurodyta informacija ir Nacionalinis akreditacijos biuras, šios informacijos pagrindu atlikęs vertinimą procedūriniuose akreditavimo dokumentuose nustatyta tvarka, nustato, kad atitikties vertinimo įstaiga atitinka jai taikomus reikalavimus. 
+1. Akreditavimo pažymėjimo galiojimo sustabdymas panaikinamas, kai atitikties vertinimo įstaiga pateikia prašymą kartu su šio straipsnio 2 dalyje nurodyta informacija ir nacionalinė akreditacijos įstaiga, šios informacijos pagrindu atlikusi vertinimą procedūriniuose akreditavimo dokumentuose nustatyta tvarka, nustato, kad atitikties vertinimo įstaiga atitinka jai taikomus reikalavimus. 
 
 
 
@@ -533,12 +533,12 @@ AKREDITAVIMO PROCESAS
 
 
 
-3. Nacionalinis akreditacijos biuras šio straipsnio 1 dalyje nurodytą vertinimą atlieka akreditavimo pažymėjimo galiojimo sustabdymo laikotarpiu. Jeigu dėl vertinimo apimties ar kitų objektyvių priežasčių nėra galimybių užbaigti vertinimo iki akreditavimo pažymėjimo galiojimo sustabdymo termino pabaigos, akreditavimo pažymėjimo galiojimo sustabdymas Nacionalinio akreditacijos biuro sprendimu gali būti pratęstas vienam mėnesiui. Apie priimtą sprendimą pratęsti akreditavimo pažymėjimo galiojimo sustabdymo terminą per 3 darbo dienas nuo sprendimo priėmimo dienos pranešama atitikties vertinimo įstaigai ir nurodomos šio termino pratęsimo priežastys. Pasibaigus akreditavimo pažymėjimo galiojimo sustabdymo terminui, šio straipsnio 1 dalyje nurodytas vertinimas baigiamas ir priimamas sprendimas dėl akreditavimo pažymėjimo galiojimo sustabdymo panaikinimo. 
+3. Nacionalinė akreditacijos įstaiga šio straipsnio 1 dalyje nurodytą vertinimą atlieka akreditavimo pažymėjimo galiojimo sustabdymo laikotarpiu. Jeigu dėl vertinimo apimties ar kitų objektyvių priežasčių, galinčių turėti įtakos neatitikčių pašalinimui, nėra galimybių užbaigti vertinimo iki akreditavimo pažymėjimo galiojimo sustabdymo termino pabaigos, akreditavimo pažymėjimo galiojimo sustabdymas nacionalinės akreditacijos įstaigos sprendimu gali būti pratęstas pridedant ne daugiau kaip 1 mėnesį prie sustabdymo termino pabaigos. Apie priimtą sprendimą pratęsti akreditavimo pažymėjimo galiojimo sustabdymo terminą per 3 darbo dienas nuo sprendimo priėmimo dienos pranešama atitikties vertinimo įstaigai ir nurodomos šio termino pratęsimo priežastys. Pasibaigus akreditavimo pažymėjimo galiojimo sustabdymo terminui, šio straipsnio 1 dalyje nurodytas vertinimas baigiamas ir priimamas sprendimas dėl akreditavimo pažymėjimo galiojimo sustabdymo panaikinimo. 
 
 
 
 
-4. Apie priimtą sprendimą panaikinti akreditavimo pažymėjimo galiojimo sustabdymą Nacionalinis akreditacijos biuras informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos, nurodydamas tokio sprendimo pagrindą.
+4. Apie priimtą sprendimą panaikinti akreditavimo pažymėjimo galiojimo sustabdymą nacionalinė akreditacijos įstaiga informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos ir nurodo tokio sprendimo pagrindą.
  
 
 
@@ -562,17 +562,17 @@ AKREDITAVIMO PROCESAS
 
 
 
-3) kai atitikties vertinimo įstaigos pateiktų šio įstatymo 12 straipsnio 2 dalyje nurodytų dokumentų pagrindu Nacionalinis akreditacijos biuras nustato, kad atitikties vertinimo įstaiga neatitinka jai taikomų teisės aktuose, standartuose, techninėse specifikacijose, tarptautinių akreditavimo organizacijų privalomojo pobūdžio norminiuose dokumentuose ir procedūriniuose akreditavimo dokumentuose nustatytų reikalavimų;
+3) kai atitikties vertinimo įstaigos pateiktų šio įstatymo 12 straipsnio 2 dalyje nurodytų dokumentų pagrindu nacionalinė akreditacijos įstaiga nustato, kad atitikties vertinimo įstaiga neatitinka jai taikomų teisės aktuose, standartuose, techninėse specifikacijose, tarptautinių akreditavimo organizacijų privalomojo pobūdžio norminiuose dokumentuose ir procedūriniuose akreditavimo dokumentuose nustatytų reikalavimų;
 
 
 
 
-4) kai nustoja galioti standartas, kurio atitikčiai atitikties vertinimo įstaiga yra akredituota, ir atitikties vertinimo įstaiga nesikreipia į Nacionalinį akreditacijos biurą su prašymu vertinti jos atitiktį pagal naujojo standarto reikalavimus iki senojo standarto galiojimo termino pabaigos;
+4) kai nustoja galioti standartas, kurio atitikčiai atitikties vertinimo įstaiga yra akredituota, ir atitikties vertinimo įstaiga nesikreipia į nacionalinę akreditacijos įstaigą su prašymu vertinti jos atitiktį pagal naujojo standarto reikalavimus iki senojo standarto galiojimo termino pabaigos;
 
 
 
 
-5) jeigu Nacionalinis akreditacijos biuras turi įrodymų apie akredituotos atitikties vertinimo įstaigos nesąžiningą elgesį – nuslėptą informaciją arba klaidingų pagal procedūrinius akreditavimo dokumentus turimų pateikti duomenų, turėjusių įtakos atitikties vertinimo rezultatams, pateikimą;
+5) jeigu nacionalinė akreditacijos įstaiga turi įrodymų apie akredituotos atitikties vertinimo įstaigos nesąžiningą elgesį – nuslėptą informaciją arba klaidingų pagal procedūrinius akreditavimo dokumentus turimų pateikti duomenų, turėjusių įtakos atitikties vertinimo rezultatams, pateikimą;
 
 
 
@@ -584,12 +584,12 @@ AKREDITAVIMO PROCESAS
 
 
 
-2. Sprendimą panaikinti akreditavimo pažymėjimo galiojimą priima Nacionalinis akreditacijos biuras. Sprendime panaikinti akreditavimo pažymėjimo galiojimą nurodomas akreditavimo pažymėjimo galiojimo panaikinimo pagrindas. 
+2. Sprendimą panaikinti akreditavimo pažymėjimo galiojimą priima nacionalinė akreditacijos įstaiga. Sprendime panaikinti akreditavimo pažymėjimo galiojimą nurodomas akreditavimo pažymėjimo galiojimo panaikinimo pagrindas. 
 
 
 
 
-3. Apie priimtą sprendimą panaikinti akreditavimo pažymėjimo galiojimą Nacionalinis akreditacijos biuras informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
+3. Apie priimtą sprendimą panaikinti akreditavimo pažymėjimo galiojimą nacionalinė akreditacijos įstaiga informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
  
 
 
@@ -608,7 +608,7 @@ AKREDITAVIMO PROCESAS
 
 
 
-2) kai atitikties vertinimo įstaiga per Nacionalinio akreditacijos biuro nustatytą ne ilgesnį kaip 3 mėnesių terminą nepašalina atitikties vertinimo įstaigos priežiūros ar vertinimo metu nustatytų neatitikčių, susijusių su konkrečia akreditavimo srityje nurodyta atitikties vertinimo veikla;
+2) kai atitikties vertinimo įstaiga per šio įstatymo 9 straipsnio 7 dalyje nurodytus terminus nepašalina atitikties vertinimo įstaigos priežiūros ar vertinimo metu nustatytų neatitikčių, susijusių su konkrečia akreditavimo srityje nurodyta atitikties vertinimo veikla;
 
 
 
@@ -625,7 +625,7 @@ AKREDITAVIMO PROCESAS
 
 
 
-3. Šio straipsnio 1 ir 2 dalyse nurodytais atvejais, priėmus sprendimą išplėsti ar susiaurinti akreditavimo sritį, Nacionalinis akreditacijos biuras pakeičia akreditavimo pažymėjimą. Akreditavimo pažymėjimas akredituotos atitikties vertinimo įstaigos prašymu taip pat keičiamas, kai:
+3. Šio straipsnio 1 ir 2 dalyse nurodytais atvejais, priėmus sprendimą išplėsti ar susiaurinti akreditavimo sritį, nacionalinė akreditacijos įstaiga pakeičia akreditavimo pažymėjimą. Akreditavimo pažymėjimas akredituotos atitikties vertinimo įstaigos prašymu taip pat keičiamas, kai:
 
 
 1) pasikeičia atitikties vertinimo įstaigos pavadinimas;
@@ -638,14 +638,14 @@ AKREDITAVIMO PROCESAS
 
 
 
-3) Nacionalinis akreditacijos biuras akredituoja atitikties vertinimo įstaigą pagal naujojo standarto reikalavimus.
+3) nacionalinė akreditacijos įstaiga akredituoja atitikties vertinimo įstaigą pagal naujojo standarto reikalavimus.
 
 
 
 
 
 
-4. Apie priimtą sprendimą susiaurinti ar išplėsti akreditavimo sritį, pakeisti akreditavimo pažymėjimą Nacionalinis akreditacijos biuras informuoja akredituotą atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos. 
+4. Apie priimtą sprendimą susiaurinti ar išplėsti akreditavimo sritį, pakeisti akreditavimo pažymėjimą nacionalinė akreditacijos įstaiga informuoja akredituotą atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos. 
  
 
 
@@ -964,14 +964,9 @@ Akreditavimo pažymėjimų išdavimo, keitimo, galiojimo sustabdymo, galiojimo s
 
 Apie visus nacionalinės akreditacijos įstaigos sprendimus, priimtus pagal šį įstatymą, atitikties vertinimo įstaigoms pranešama elektroninėmis priemonėmis šių įstaigų nurodytu elektroninio pašto adresu.18 straipsnis. Sprendimų apskundimo tvarka
 
+Nacionalinės akreditacijos įstaigos sprendimai, priimti pagal šį įstatymą, skundžiami:
 
-Nacionalinio akreditacijos biuro sprendimai, priimti pagal šį įstatymą, skundžiami: 
-
-
-1) Nacionaliniam akreditacijos biurui Viešojo administravimo įstatymo nustatyta tvarka; 
-
-
-
+1) nacionalinei akreditacijos įstaigai Viešojo administravimo įstatymo nustatyta tvarka;
 
 2) administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
  
