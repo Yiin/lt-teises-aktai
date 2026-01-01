@@ -691,62 +691,31 @@ Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250131 straipsn
 
 2. Gamybos įmokos nemoka:
 1) gaminantys vartotojai;
-2) asmenys, statantys, įrengiantys ir eksploatuojantys gaminančių vartotojų elektrines ir turintys leidimą gaminti elektros energiją už toje elektrinės dalyje pagamintą ir į elektros tinklus patiektą elektros energiją, kuri priklauso gaminantiems vartotojams;
+2) asmenys, vykdantys energetikos veiklą pagal šio įstatymo 20^1 straipsnio 8 dalį;
 3) aktyvieji elektros energijos vartotojai;
 4) atsinaujinančių išteklių energijos bendrijos;
 5) piliečių energetikos bendrijos;
-
-
-
-
 6) gamintojai, kurių eksploatuojamų elektrinių leistina generuoti galia lygi nuliui;
+7) gamintojai, kurių eksploatuojamų elektrinių įrengtoji galia ne didesnė kaip 100 kW.
+
+3. Už praėjusius kalendorinius metus mokama gamybos įmoka apskaičiuojama dauginant praėjusiais kalendoriniais metais pagamintą ir į elektros tinklus patiektą elektros energijos kiekį iš 0,0010 euro už 1 kWh. Gamybos įmoka mokama, kai kitos paros prekybos elektros energijos biržoje Lietuvos zonoje valandinė kaina yra didesnė už 1 eurą už 1 MWh. Gamybos įmoka nemokama, jeigu pasibaigus kalendoriniams metams atsinaujinančių išteklių elektros energijos gamybos įmokos administratoriaus (toliau – įmokos administratorius) apskaičiuota gamintojo mokėtina praėjusių kalendorinių metų, vertinant kiekvieną elektrinę atskirai, gamybos įmokos lėšų suma gamintojui nesiekia 100 Eur.
 
 
 
 
-7) gamintojai, kurie laimėjo šio įstatymo 20 straipsnio 4 dalyje nurodytą skatinimo kvotų paskirstymo aukcioną arba šio įstatymo 22 ir (ar) 221 straipsniuose nurodytą (nurodytus) konkursą (konkursus). 
-
-
-
-
-
-
-3. Už praėjusius kalendorinius metus mokama gamybos įmoka apskaičiuojama dauginant praėjusiais kalendoriniais metais pagamintą ir į elektros tinklus patiektą elektros energijos kiekį iš 0,0010 euro už 1 kWh. Gamybos įmoka mokama, kai kitos paros prekybos elektros energijos biržoje Lietuvos zonoje valandinė kaina yra didesnė už 1 eurą už 1 MWh.
-
-
-
-
-4. Vyriausybė Energetikos ministerijos teikimu skiria atsinaujinančių išteklių elektros energijos gamybos įmokos administratorių (toliau – įmokos administratorius), kuris Vyriausybės nustatyta tvarka užtikrina gamybos įmokos apskaičiavimo, surinkimo, administravimo ir išmokėjimo funkcijas. Įmokos administratoriumi gali būti skiriamas juridinis asmuo, atitinkantis šiuos reikalavimus:
-
-
-1) yra valstybės tiesiogiai ar netiesiogiai, per kitus asmenis, kontroliuojamas energetikos srities juridinis asmuo; juridinis asmuo, kurį valstybė kontroliuoja netiesiogiai, per kitus asmenis, privalo atitikti valdymo diferencijavimo principus – vienas juridinis asmuo ar kelios tame pačiame energetikos sektoriuje veikiančios įmonės negali turėti daugiau kaip 3/4 balsų, suteikiančių teisę priimti sprendimus dėl administratoriaus valdymo ir veiklos teisės aktų nustatyta tvarka;
-
-
-
-
+4. Vyriausybė Energetikos ministerijos teikimu skiria įmokos administratorių, kuris Vyriausybės nustatyta tvarka užtikrina gamybos įmokos apskaičiavimo, surinkimo, administravimo ir išmokėjimo funkcijas. Įmokos administratoriumi skiriamas juridinis asmuo, kuriam Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka gali būti suteikti įmokos administratoriaus funkcijoms atlikti būtini viešojo administravimo įgaliojimai ir kuris atitinka šiuos reikalavimus:
+1) yra valstybės tiesiogiai kontroliuojamas energetikos srities juridinis asmuo;
 2) nuosavybės teise ar kitais teisėtais pagrindais valdo technines priemones ir programinę įrangą, kurių reikia lėšoms administruoti;
-
-
-
-
 3) nuosavybės teise ar kitais teisėtais pagrindais valdo ryšio priemones, kurių reikia pranešimams iš atsinaujinančių išteklių elektros energijos gamintojų gauti ir jiems siųsti;
-
-
-
-
 4) turi darbuotojų lėšų administravimo veiklai vykdyti, atskirai vykdomos veiklos apskaitai tvarkyti, atsinaujinančių išteklių elektros energijos gamintojams informuoti ir konsultuoti, skundams nagrinėti;
-
-
-
-
-5) juridinio asmens vadovas turi būti nepriekaištingos reputacijos, kad būtų užtikrintas patikimas ir skaidrus lėšų administravimas. Juridinio asmens vadovas negali būti laikomas nepriekaištingos reputacijos, jeigu jis neatitinka Lietuvos Respublikos finansinių priemonių rinkų įstatyme nustatytų nepriekaištingos reputacijos kriterijų.
+5) šio juridinio asmens vadovas turi būti nepriekaištingos reputacijos, kad būtų užtikrintas patikimas ir skaidrus lėšų administravimas. Juridinio asmens vadovas negali būti laikomas nepriekaištingos reputacijos, jeigu jis neatitinka Lietuvos Respublikos finansinių priemonių rinkų įstatyme nustatytų nepriekaištingos reputacijos kriterijų.
 
 
 
 
 
 
-5. Įmokos administratorius privalo užtikrinti gamybos įmokos lėšų administravimą mažiausiomis sąnaudomis ir skaidriai. Nustačius aplinkybių, kurios daro įtaką asmens atitikties įmokos administratoriui keliamiems reikalavimams, pasikeitimus ar jiems įvykus, kai to iš anksto nebuvo galima numatyti, įmokos administratorius privalo nedelsdamas, ne vėliau kaip per 5 darbo dienas, apie šiuos pasikeitimus raštu pranešti Energetikos ministerijai. Energetikos ministerija, nustačiusi, kad įmokos administratorius neatitinka šio straipsnio 4 dalyje nustatytų reikalavimų, nesilaiko šiame straipsnyje nustatytų jo veiklos sąlygų ir kitų įmokos administratoriaus veiklą reglamentuojančių teisės aktų, ar gavusi šio straipsnio 13 dalyje nurodytą viešosios įstaigos Lietuvos energetikos agentūros informaciją, įspėja įmokos administratorių apie galimą teisės vykdyti veiklą atėmimą ir nustato ne ilgesnį kaip 2 mėnesių terminą veiklos trūkumams pašalinti. Jeigu įmokos administratorius per nustatytą terminą veiklos trūkumų nepašalina, Energetikos ministerija organizuoja naujo įmokos administratoriaus atranką ir paskyrimą. Ankstesnis įmokos administratorius funkcijas atlieka tol, kol bus paskirtas naujas įmokos administratorius.
+5. Įmokos administratorius privalo užtikrinti skaidrų gamybos įmokos lėšų administravimą mažiausiomis sąnaudomis. Nustačius, kad įmokos administratorius neatitinka šio straipsnio 4 dalyje nustatytų reikalavimų, šis įmokos administratorius privalo nedelsdamas, bet ne vėliau kaip per 5 darbo dienas apie tai raštu pranešti Energetikos ministerijai. Energetikos ministerija, nustačiusi, kad įmokos administratorius neatitinka šio straipsnio 4 dalyje nustatytų reikalavimų, nesilaiko šiame straipsnyje nustatytų jo veiklos sąlygų ir kitų įmokos administratoriaus veiklą reglamentuojančių teisės aktų, ar iš subjekto, nurodyto Energetikos įstatymo 13^1 straipsnyje, gavusi šio straipsnio 16 dalyje nurodytą informaciją, įspėja įmokos administratorių apie galimą teisės vykdyti veiklą atėmimą ir nustato ne ilgesnį kaip 2 mėnesių terminą veiklos trūkumams pašalinti. Jeigu įmokos administratorius per nustatytą terminą veiklos trūkumų nepašalina, Energetikos ministerija organizuoja naujo įmokos administratoriaus atranką ir paskyrimą. Ankstesnis įmokos administratorius funkcijas atlieka tol, kol paskiriamas naujas įmokos administratorius.
 
 
 
@@ -756,67 +725,32 @@ Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250131 straipsn
 
 
 
-7. Gamybos įmoką už praėjusius kalendorinius metus elektros energijos gamintojai, nurodyti šio straipsnio 1 dalyje, įmokos administratoriui sumoka iki einamųjų metų sausio 31 dienos. Surinktos gamybos įmokos lėšos Vyriausybės nustatyta tvarka paskirstomos taip: 15 procentų skiriant tiesiogiai gyventojams, gyvenantiems ne didesniu kaip 5 km atstumu nuo šio įstatymo 131 straipsnio 1 dalyje nurodytų elektrinių, 85 procentus – bendruomeninėms organizacijoms, vykdančioms šio straipsnio 9 dalyje nurodytus projektus.
+7. Gamybos įmoką už praėjusius kalendorinius metus elektros energijos gamintojai, nurodyti šio straipsnio 1 dalyje, įmokos administratoriui sumoka iki einamųjų metų sausio 31 dienos Vyriausybės nustatyta tvarka ir sąlygomis. Jeigu kalendoriniais metais iš gamintojo surinktos gamybos įmokos lėšos, vertinant kiekvieną elektrinę atskirai, išskyrus gamybos įmokos lėšas, surinktas iš gamintojų, laimėjusių šio įstatymo 22 straipsnio 9 dalyje arba 22^1 straipsnio 3 dalyje nurodytą konkursą, yra mažesnės kaip 1 000 Eur, visa surinkta šių lėšų suma Vyriausybės nustatyta tvarka ir sąlygomis paskiriama bendruomeninėms organizacijoms. Kai iš gamintojo surinkta gamybos įmokos lėšų suma yra ne mažesnė kaip 1 000 Eur, ši suma Vyriausybės nustatyta tvarka ir sąlygomis paskirstoma taip: 15 procentų skiriant tiesiogiai namų ūkiui, kai asmuo ar asmenys gyvena ne didesniu kaip 1,5 km atstumu nuo šio straipsnio 1 dalyje nurodytų elektrinių, 85 procentus – bendruomeninėms organizacijoms, vykdančioms šio straipsnio 10 dalyje nurodytus projektus. Ši suma skirstoma pagal matematinio apvalinimo taisykles sveikojo skaičiaus tikslumu, o namų ūkiams nepaskirstytos gamybos įmokos lėšos Vyriausybės nustatyta tvarka ir sąlygomis priskiriamos prie bendruomeninėms organizacijoms skirtų gamybos įmokos lėšų.
 
+8. Gamintojų, laimėjusių šio įstatymo 22 straipsnio 9 dalyje arba 22^1 straipsnio 3 dalyje nurodytą konkursą, surinktos ir (ar) praėjusiais laikotarpiais nepanaudotos gamybos įmokos lėšos išmokamos savivaldybėms, kurias nustato įmokos administratorius, vadovaudamasis Vyriausybės nustatyta tvarka ir sąlygomis, išskyrus šio straipsnio 14 dalyje nustatytą atvejį. Savivaldybių tarybos savo nustatyta tvarka sprendžia dėl gamybos įmokos lėšų panaudojimo savivaldybių savarankiškosioms ir valstybinėms (valstybės perduotoms savivaldybėms) funkcijoms, kuriomis siekiama teikti gyvenamosios vietovės bendruomenėms ir gyventojams aplinkos, ekonominę ar socialinę naudą, atlikti.
 
+9. Surinktas ir (ar) praėjusiais laikotarpiais nepanaudotas gamybos įmokos lėšas, išskyrus gamybos įmokos lėšas, surinktas iš gamintojų, laimėjusių šio įstatymo 22 straipsnio 9 dalyje arba 22^1 straipsnio 3 dalyje nurodytą konkursą, įmokos administratorius Vyriausybės nustatyta tvarka ir sąlygomis pagal su vienu iš namų ūkio asmeniu ir (ar) bendruomenine organizacija, vykdančia šio straipsnio 10 dalyje nurodytus projektus, pasirašytą finansinės paramos sutartį išmoka namų ūkiui ir (ar) bendruomeninėms organizacijoms. Bendruomeninės organizacijos buveinė turi būti registruota toje savivaldybėje, kurioje eksploatuojamos šio straipsnio 1 dalyje nurodytos elektrinės, arba kitoje savivaldybėje, esančioje ne didesniu negu 15 km atstumu nuo šio straipsnio 1 dalyje nurodytų elektrinių.
 
-
-8. Surinktas ir (ar) praėjusiais laikotarpiais nepanaudotas gamybos įmokos lėšas įmokos administratorius Vyriausybės nustatyta tvarka ir sąlygomis pagal su gyventojais ir bendruomenine organizacija, vykdančia šio straipsnio 9 dalyje nurodytus projektus, pasirašytą finansinės paramos sutartį išmoka gyventojams ir bendruomeninėms organizacijoms. Bendruomeninės organizacijos veiklos vieta turi būti registruota toje savivaldybėje, kurioje eksploatuojamos šio straipsnio 1 dalyje nurodytos elektrinės, arba kitoje savivaldybėje, esančioje ne didesniu negu 15 km atstumu nuo šio straipsnio 1 dalyje nurodytų elektrinių.
-
-
-
-
-9. Projektai, kuriems skiriamos gamybos įmokos lėšos, atrenkami įmokos administratoriaus vadovaujantis Vyriausybės nustatyta tvarka ir turi atitikti šias sąlygas:
-
-
+10. Projektai, kuriems skiriamos šio straipsnio 7 ir (ar) 14 dalyje nurodytos gamybos įmokos lėšos, atrenkami įmokos administratoriaus vadovaujantis Vyriausybės nustatyta tvarka ir turi atitikti šias sąlygas:
 1) projektai vykdomi 15 km spinduliu aplink šio straipsnio 1 dalyje nurodytas elektrines;
+2) įgyvendinus projektus, bus teikiama aplinkos, ekonominė arba socialinė nauda bendruomenei, bendruomeninei organizacijai ar jų nariams;
+3) yra gautas savivaldybės mero ar jo įgalioto savivaldybės administracijos direktoriaus patvirtinimas, kad projekto įgyvendinimas, vadovaujantis galiojančių teritorijų planavimo dokumentų sprendiniais, teritorijų planavimą reglamentuojančiais teisės aktais, saugomų teritorijų nuostatais, yra galimas.
 
+11. Įmokos administratorius užtikrina, kad šio straipsnio 10 dalyje nurodyti projektai būtų įgyvendinami vadovaujantis šio įstatymo, Vyriausybės nustatytais reikalavimais ir atitiktų finansinės paramos sutartyje nurodytas sąlygas.
 
+12. Bendruomeninių organizacijų gautos ir einamaisiais kalendoriniais metais nepanaudotos gamybos įmokos lėšos naudojamos Vyriausybės nustatyta tvarka.
 
+13. Įmokos administratorius Vyriausybės nustatyta tvarka prižiūri, kaip bendruomeninė organizacija naudoja gamybos įmokos lėšas. Jeigu įmokos administratorius nustato, kad bendruomeninė organizacija neįvykdo šio straipsnio 10 dalyje nustatytų reikalavimų arba netinkamai juos vykdo, jis įspėja bendruomeninę organizaciją apie nustatytų reikalavimų pažeidimus ir nustato ne ilgesnį kaip 30 kalendorinių dienų terminą pažeidimams pašalinti. Jeigu bendruomeninė organizacija per nustatytą terminą nepašalina pažeidimų, įmokos administratorius, vadovaudamasis Vyriausybės nustatytomis sąlygomis ir tvarka, priima sprendimą dėl reikalavimo grąžinti išmokėtas gamybos įmokos lėšas arba jų dalį, proporcingą šio straipsnio 10 dalyje nustatytiems ir neįvykdytiems įsipareigojimams, (toliau – sprendimas dėl lėšų grąžinimo). Visos išmokėtos gamybos įmokos lėšos grąžinamos tuo atveju, kai projektas nėra įgyvendintas arba jį įgyvendinus rezultato negalima naudoti pagal paskirtį. Bendruomeninė organizacija šias gamybos įmokos lėšas grąžina per 5 darbo dienas nuo įmokos administratoriaus sprendimo dėl lėšų grąžinimo įteikimo bendruomeninei organizacijai dienos. Įmokos administratoriaus priimtas sprendimas dėl lėšų grąžinimo yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Įmokos administratoriaus priimtas sprendimas dėl lėšų grąžinimo gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Įmokos administratoriaus sprendimo dėl lėšų grąžinimo apskundimas teismui sustabdo šio sprendimo vykdymą iki teismo sprendimo įsiteisėjimo dienos.
 
-2) įgyvendinus projektus, bus teikiama aplinkos, ekonominė arba socialinė visuomeninė nauda bendruomenei, bendruomeninei organizacijai ar jų nariams;
+14. Įmokos administratorius Vyriausybės nustatyta tvarka prižiūri, kaip savivaldybė (-ės) naudoja gautas gamybos įmokos lėšas. Jeigu įmokos administratorius, vadovaudamasis Vyriausybės nustatyta tvarka ir sąlygomis, nustato, kad savivaldybė (-ės) neužtikrino gamybos įmokos lėšų administravimo skaidrumo ir gamybos įmokos lėšas naudojo ne savivaldybės funkcijoms, kuriomis siekiama teikti gyvenamosios vietovės bendruomenėms ir gyventojams aplinkos, ekonominę ar socialinę naudą, atlikti, jis įspėja savivaldybę (-es) apie nustatytus pažeidimus ir nustato ne trumpesnį kaip 30 kalendorinių dienų terminą pažeidimams pašalinti. Jeigu savivaldybė (-ės) per nustatytą terminą nepašalina pažeidimų, įmokos administratorius, vadovaudamasis Vyriausybės nustatytomis sąlygomis ir tvarka, priima sprendimą dėl lėšų grąžinimo. Grąžintos gamybos įmokos lėšos išmokamos Vyriausybės nustatyta tvarka ir sąlygomis savivaldybėje, kurioje buvo nustatytas pažeidimas ir kuri grąžino gamybos įmokos lėšas, veikiančioms bendruomeninėms organizacijoms, vykdančioms šio straipsnio 10 dalyje nurodytus projektus. Įmokos administratoriaus priimtas sprendimas dėl lėšų grąžinimo yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka. Įmokos administratoriaus priimtas sprendimas dėl lėšų grąžinimo gali būti skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka. Įmokos administratoriaus sprendimo dėl lėšų grąžinimo apskundimas teismui sustabdo šio sprendimo vykdymą iki teismo sprendimo įsiteisėjimo dienos.
 
+15. Įmokos administratorius savo funkcijoms atlikti turi teisę iš savivaldybės institucijų arba seniūnijų seniūnų ir bendruomeninių organizacijų per 30 kalendorinių dienų nuo įmokos administratoriaus kreipimosi gauti reikalingą informaciją apie projektų atranką, jų įgyvendinimą, gamybos įmokos lėšų panaudojimą ir su projektų įgyvendinimu ir gamybos įmokos lėšų panaudojimu susijusius dokumentus.
 
+16. Subjektas, nurodytas Energetikos įstatymo 13^1 straipsnyje, Vyriausybės nustatyta tvarka prižiūri, kaip įmokos administratorius naudoja gamybos įmokos lėšas. Jeigu jis nustato, kad įmokos administratorius neužtikrino gamybos įmokos lėšų administravimo skaidrumo ir nesilaikė administravimo mažiausiomis sąnaudomis principo, jis įspėja įmokos administratorių apie nustatytus pažeidimus ir nustato ne ilgesnį kaip 30 kalendorinių dienų terminą pažeidimams pašalinti. Jeigu įmokos administratorius per nustatytą terminą nepašalina pažeidimų, subjektas, nurodytas Energetikos įstatymo 13^1 straipsnyje, per 5 kalendorines dienas apie šį pažeidimą informuoja Energetikos ministeriją.
 
+17. Įmokos administratorius privalo atskirai tvarkyti su gamybos įmokos lėšų administravimo veikla susijusią apskaitą ir Vyriausybės nustatyta tvarka kiekvienais metais subjektui, nurodytam Energetikos įstatymo 13^1 straipsnyje, teikti gamybos įmokos lėšų panaudojimo ataskaitas.
 
-3) yra gautas seniūnijos seniūno arba savivaldybės administracijos patvirtinimas, kad projekto įgyvendinimas yra galimas.
-
-
-
-
-
-
-10. Įmokos administratorius užtikrina, kad šio straipsnio 9 dalyje nurodyti projektai būtų įgyvendinami vadovaujantis šio įstatymo, Vyriausybės nustatytais reikalavimais ir atitiktų finansinės paramos sutartyje nurodytas sąlygas.
-
-
-
-
-11. Bendruomeninių organizacijų gautos ir einamaisiais kalendoriniais metais nepanaudotos gamybos įmokos lėšos naudojamos Vyriausybės nustatyta tvarka.
-
-
-
-
-12. Įmokos administratorius Vyriausybės nustatyta tvarka tikrina, prižiūri ir kontroliuoja, kaip bendruomeninė organizacija naudoja gamybos įmokos lėšas. Jeigu įmokos administratorius nustato, kad bendruomeninė organizacija neįvykdo šio straipsnio 9 dalyje nustatytų reikalavimų arba netinkamai juos vykdo, jis įspėja bendruomeninę organizaciją apie nustatytų reikalavimų pažeidimus ir nustato ne ilgesnį kaip 30 kalendorinių dienų terminą pažeidimams pašalinti. Jeigu bendruomeninė organizacija per nustatytą terminą nepašalina pažeidimų, įmokos administratorius, vadovaudamasis Vyriausybės nustatytomis sąlygomis ir kriterijais, priima sprendimą dėl reikalavimo grąžinti išmokėtas gamybos įmokos lėšas arba jų dalį, proporcingą šio straipsnio 9 dalyje nustatytiems ir neįvykdytiems įsipareigojimams. Visos išmokėtos gamybos įmokos lėšos grąžinamos tuo atveju, kai projektas nėra įgyvendintas arba jį įgyvendinus rezultato negalima naudoti pagal paskirtį. Bendruomeninė organizacija šias gamybos įmokos lėšas grąžina per 5 darbo dienas nuo įmokos administratoriaus sprendimo įteikimo bendruomeninei organizacijai dienos. Įmokos administratoriaus priimtas sprendimas dėl reikalavimo grąžinti išmokėtas gamybos įmokos lėšas arba jų dalį yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Įmokos administratoriaus priimtas sprendimas gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Įmokos administratoriaus sprendimo grąžinti išmokėtas gamybos įmokos lėšas arba jų dalį apskundimas teismui sustabdo šio sprendimo vykdymą iki teismo sprendimo įsiteisėjimo dienos.
-
-
-
-
-13. Įmokos administratorius savo funkcijoms atlikti turi teisę iš savivaldybės institucijų arba seniūnijų seniūnų ir bendruomeninių organizacijų per 30 kalendorinių dienų nuo įmokos administratoriaus kreipimosi gauti reikalingą informaciją apie projektų atranką, jų įgyvendinimą, gamybos įmokos lėšų panaudojimą ir su projektų įgyvendinimu ir gamybos įmokos lėšų panaudojimu susijusius dokumentus.
-
-
-
-
-14. Viešoji įstaiga Lietuvos energetikos agentūra Vyriausybės nustatyta tvarka tikrina, prižiūri ir kontroliuoja, kaip įmokos administratorius naudoja gamybos įmokos lėšas. Jeigu viešoji įstaiga Lietuvos energetikos agentūra nustato, kad įmokos administratorius neužtikrino gamybos įmokos lėšų administravimo skaidrumo ir nesilaikė administravimo mažiausiomis sąnaudomis principo, ji įspėja įmokos administratorių apie nustatytus pažeidimus ir nustato ne ilgesnį kaip 30 kalendorinių dienų terminą pažeidimams pašalinti. Jeigu įmokos administratorius per nustatytą terminą nepašalina pažeidimų, viešoji įstaiga Lietuvos energetikos agentūra per 5 kalendorines dienas apie šį pažeidimą informuoja Energetikos ministeriją.
-
-
-
-
-15. Įmokos administratorius privalo atskirai tvarkyti su gamybos įmokos lėšų administravimo veikla susijusią apskaitą ir Vyriausybės nustatyta tvarka kiekvienais metais viešajai įstaigai Lietuvos energetikos agentūrai teikti gamybos įmokos lėšų panaudojimo ataskaitas.
-
-
-
-
-16. Įmokos administratorius, siekdamas skaidrumo elektros energetikos sektoriuje ir didesnės konkurencijos įgyvendinant šio straipsnio 9 dalyje nurodytus projektus bei gerinant bendruomenės, bendruomeninės organizacijos ir (ar) jos narių interesus, Vyriausybės nustatyta informacijos rinkimo ir viešinimo tvarka savo interneto svetainėje skelbia su gamybos įmokos lėšų administravimu susijusią informaciją.
+18. Įmokos administratorius, siekdamas skaidrumo elektros energetikos sektoriuje ir didesnės konkurencijos įgyvendinant šio straipsnio 10 dalyje nurodytus projektus bei gerinant bendruomenės, bendruomeninės organizacijos ir (ar) jos narių interesus, Vyriausybės nustatyta informacijos rinkimo ir viešinimo tvarka savo interneto svetainėje skelbia su gamybos įmokos lėšų administravimu susijusią informaciją.
 
 
 Straipsnio pakeitimai:
