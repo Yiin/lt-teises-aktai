@@ -78,63 +78,23 @@ Nr. XIV-1760, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27575
 
 
 
-3 straipsnis. Perteklinio valdžios sektoriaus ir valdžios sektoriaus išlaidų augimo ribojimo taisyklės 
-
-
-1. Fiskalinėje sutartyje nustatytus įsipareigojimus siekiama vykdyti valdant struktūrinį valdžios sektoriaus balanso rodiklį. Kiekvienais metais, išskyrus metus, kuriais susidaro išskirtinės aplinkybės, turi būti tenkinama bent viena iš šių sąlygų: 
-
-
-1) valdžios sektorius yra faktiškai perteklinis vertinant pagal struktūrinį valdžios sektoriaus balanso rodiklį; 
-
-
-
-
-2) faktinio struktūrinio valdžios sektoriaus balanso rodiklio absoliučioji vertė yra mažesnė negu vidutinio laikotarpio tikslo absoliučioji vertė ir kiekvienais metais mažėja, išskyrus metus, kai produkcijos atotrūkio nuo potencialo rodiklis yra neigiamas;
-
-
-
-
-3) faktinio struktūrinio valdžios sektoriaus balanso rodiklio absoliučioji vertė yra mažesnė negu vidutinio laikotarpio tikslo absoliučioji vertė tais metais, kai produkcijos atotrūkio nuo potencialo rodiklis yra neigiamas;
-
-
-
-
-4) faktinio struktūrinio valdžios sektoriaus balanso rodiklio postūmio vidutinio laikotarpio tikslo link absoliučioji vertė yra ne mažesnė negu struktūrinio postūmio užduoties absoliučioji vertė.
-
-
-
-
-
-
-2. Kiekvienais metais Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) ar jos įgaliota institucija įvertina, ar laikomasi šio straipsnio 1 dalyje nurodytų sąlygų, ir iki gegužės 15 dienos pateikia Seimui praėjusių metų struktūrinio postūmio užduoties įvykdymo ir struktūrinio valdžios sektoriaus balanso rodiklio ataskaitą. 
-
-
-
-
-3. Kiekvienais metais rengiant, tvirtinant ir keičiant valdžios sektoriui priskiriamų biudžetų, kurių kiekvieno atskirai planuojami asignavimai viršija 3 procentus BVP to meto kainomis, patvirtinimo įstatymų arba šių įstatymų pakeitimo įstatymų projektus, vadovaujamasi nuostata, kad tuo atveju, kai paskutinių penkerių pasibaigusių metų valdžios sektoriaus balanso rodiklių aritmetinis vidurkis yra neigiamas, šių biudžetų asignavimų (išskyrus Europos Sąjungos finansinės paramos lėšas) visumos augimas turi būti ne didesnis negu 0,5 potencialaus BVP to meto kainomis daugiamečio augimo vidurkio. Ši valdžios sektoriaus išlaidų augimo ribojimo taisyklė turi būti taikoma siekiant užtikrinti fiskalinę drausmę, tačiau netaikoma, kai susidaro bent viena iš šių aplinkybių:
-
-
-1) pagal keturis paskutinius metų ketvirčius apskaičiuotas Lietuvos BVP to meto kainomis augimas yra mažesnis negu daugiametis Europos Sąjungos BVP to meto kainomis augimas, padidintas 2 procentiniais punktais;
-
-
-
-
-2) numatomas valdžios sektoriaus balanso rodiklio postūmis yra teigiamas ir sudaro bent 1,0 procentinį punktą BVP;
-
-
-
-
-3) ne mažiau kaip penkerių iš eilės einančių metų valdžios sektoriaus balanso rodiklio aritmetinis vidurkis yra perteklius, ne mažesnis negu 0,1 procento BVP;
-
-
-
-
-4) einamųjų metų keičiami suplanuoti valdžios sektoriui priskiriamų biudžetų, kurių kiekvieno atskirai planuojami asignavimai viršija 3 procentus BVP to meto kainomis, asignavimai ir pajamos užtikrina ne didesnį šiame punkte minėtų valdžios sektoriui priskiriamų biudžetų visumos balansų deficitą arba ne mažesnį šiame punkte minėtų valdžios sektoriui priskiriamų biudžetų visumos balansų perteklių negu tas, kuris buvo prieš keitimą;
-
-
-
-
-5) pagal Vyriausybės arba jos įgaliotos institucijos viešai paskelbtą ekonominės raidos scenarijų, dėl kurio tvirtinimo kontrolės institucija paskelbė išvadą, apskaičiuotas produkcijos atotrūkis nuo potencialo planuojamais metais yra neigiamas. 
+3 straipsnis. Valdžios sektoriaus fiskalinės drausmės taisyklė
+1. Kiekvienais metais grynųjų išlaidų augimas, išreiškiamas procentais, turi neviršyti grynųjų išlaidų augimo ribų.
+2. Grynųjų išlaidų augimo ribas, išreiškiamas procentais, nustato Lietuvos Respublikos Seimas 5 iš eilės einantiems metams, įskaitant einamuosius ir 4 ateinančius metus. Jeigu pagal Reglamento (ES) 2024/1263 14 straipsnį Lietuvos koregavimo laikotarpis pratęsiamas ne daugiau negu 3 metais, grynųjų išlaidų augimo ribos nustatomos visam koregavimo laikotarpiui.
+3. Seimas grynųjų išlaidų augimo ribas nustato ne vėliau negu per 10 darbo dienų po to, kai Lietuvos Respublikos Vyriausybė pateikia Seimo nutarimo dėl grynųjų išlaidų augimo ribų nustatymo projektą.
+4. Kiekvieniems metams nustatomos tokios grynųjų išlaidų augimo ribos, kad jas nustatant kiekvienų metų struktūrinis balansas vienos dešimtosios tikslumu būtų ne mažesnis negu –1 procentas bendrojo vidaus produkto (toliau – BVP), išskyrus šio straipsnio 5, 7 ir 8 dalyse nurodytus atvejus.
+5. Grynųjų išlaidų augimo ribos gali būti nustatomos tokios, kad jas nustatant struktūrinis balansas būtų mažesnis negu –1 procentas BVP, jeigu tenkinamos visos šios lankstumą suteikiančios sąlygos:
+1) It – It0 ≥ –1 – SBt, kai It – t metų, kuriems nustatomos grynųjų išlaidų augimo ribos, centrinės valdžios bendrojo pagrindinio kapitalo formavimo išlaidos, išskyrus Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas, (toliau – BPKF išlaidos), It0 – BPKF išlaidų 5 pastarųjų pasibaigusių metų vidurkis pagal faktinius valdžios sektoriaus finansų duomenis (toliau – faktiniai duomenys), žinomus rengiant Seimo nutarimo dėl grynųjų išlaidų augimo ribų nustatymo projektą, SBt – struktūrinis balansas, pagal kurį nustatomos grynųjų išlaidų augimo ribos t metams vienos dešimtosios procentinio punkto BVP tikslumu. It ir It0 matuojami procentais BVP, o šių rodiklių skirtumas (It – It0) apvalinamas vienos dešimtosios procentinio punkto BVP tikslumu;
+2) pagal vėliausių pasibaigusių metų faktinius duomenis arba Europos Komisijos naujausius viešai paskelbtos prognozės einamiesiems metams duomenis, Lietuvos valdžios sektoriaus skolos ir BVP santykis vienos dešimtosios procentinio punkto tikslumu yra mažesnis negu 60 procentų ir valdžios sektoriaus balansas yra didesnis negu –3 procentai BVP;
+3) nustatomos grynųjų išlaidų augimo ribos atitinka Reglamento (ES) 2024/1263 9 straipsnio 3 dalį.
+6. Seimas, nustatydamas grynųjų išlaidų augimo ribas pagal šio straipsnio 5 dalį, nustato BPKF išlaidų rodiklio tikslines reikšmes milijonų eurų tikslumu.
+7. Kai, pagal vėliausių pasibaigusių metų faktinius duomenis arba Europos Komisijos naujausius viešai paskelbtos prognozės einamiesiems metams duomenis, Lietuvos valdžios sektoriaus skolos ir BVP santykis vienos dešimtosios procentinio punkto tikslumu yra lygus 60 procentų arba didesnis negu 60 procentų ir (arba) valdžios sektoriaus balansas yra lygus –3 procentams BVP arba mažesnis negu –3 procentai BVP, grynųjų išlaidų augimo ribos nustatomos pagal Reglamento (ES) 2024/1263 6–8 straipsnius.
+8. Grynųjų išlaidų augimas vietoj Seimo nustatytų grynųjų išlaidų augimo ribų turi atitikti šias Europos Sąjungos Tarybos rekomendacijas Lietuvai metais, kuriais jos taikomos ir atitinka kitokias grynųjų išlaidų augimo ribas:
+1) rekomendaciją dėl perviršinio deficito padėties ištaisymo pagal Sutarties dėl Europos Sąjungos veikimo 126 straipsnį;
+2) rekomendaciją dėl perviršinio disbalanso ištaisymo pagal 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos reglamentą (ES) Nr. 1176/2011 dėl makroekonominių disbalansų prevencijos ir naikinimo;
+3) rekomendaciją dėl nacionalinės nukrypti leidžiančios išlygos pagal Reglamentą (ES) 2024/1263.
+9. Šio straipsnio 1–8 dalių nuostatos dėl grynųjų išlaidų augimo ribų dydžių ir jų nustatymo tvarkos netaikomos tiems metams, kuriems pagal Reglamento (ES) 2024/1263 25 straipsnį taikoma bendroji nukrypti leidžianti išlyga.
+10. Metais, kuriems, rengiant ir tvirtinant Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymo projektą, nėra Seimo nustatytų grynųjų išlaidų augimo ribų, grynųjų išlaidų augimas vienos dešimtosios procentinio punkto tikslumu turi atitikti ne mažesnį negu –1 procento BVP struktūrinį balansą, jeigu netaikomos šio straipsnio 8 ir 9 dalių nuostatos. 
  
 
 
@@ -144,91 +104,22 @@ Nr. XIV-1760, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27575
 
 
 
-4 straipsnis. Valdžios sektoriui priskiriamų biudžetų taisyklės 
-
-
-1. Rengiant Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo (toliau – valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas) projektą, turi būti atsižvelgiama į tai, kad būtų užtikrintas šio įstatymo 3 straipsnio 1 dalies nuostatų įgyvendinimas. Kontrolės institucija turi pateikti Seimui išvadą dėl struktūrinio postūmio užduoties, nustatomos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekte, ir šiai užduočiai įvykdyti reikalingų papildomų priemonių (pinigine išraiška) poreikio. 
-
-
-
-
-2. Kiekvienas valdžios sektoriui priskiriamas biudžetas, išskyrus Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžetą, valstybės biudžetą ir biudžetus, kurių planuojami asignavimai neviršija 0,3 procento praėjusių metų BVP to meto kainomis, turi būti planuojamas, tvirtinamas, keičiamas ir vykdomas taip, kad, sprendžiant pagal to biudžeto struktūrinį balanso rodiklį, apskaičiuotą kaupiamuoju principu, jis būtų perteklinis arba subalansuotas. 
-
-
-
-
-3. Lietuvos Respublikos atitinkamų metų valstybinio socialinio draudimo fondo biudžetas planuojamas, tvirtinamas, keičiamas ir vykdomas taip, kad jo struktūrinis deficitas, apskaičiuotas kaupiamuoju principu, galėtų didėti tik tais metais, kuriems pagal Vyriausybės arba jos įgaliotos institucijos viešai paskelbtą ekonominės raidos scenarijų, dėl kurio tvirtinimo kontrolės institucija paskelbė savo išvadą, numatomas neigiamas produkcijos atotrūkis nuo potencialo. 
-
-
-
-
-4. Kiekvienas valdžios sektoriui priskiriamas biudžetas, kurio planuojami asignavimai neviršija 0,3 procento praėjusių metų BVP to meto kainomis, turi būti planuojamas, tvirtinamas, keičiamas ir vykdomas taip, kad to biudžeto asignavimai neviršytų jo pajamų (asignavimus ir pajamas vertinant kaupiamuoju principu), išskyrus metus, kuriais pagal Vyriausybės arba jos įgaliotos institucijos viešai paskelbtą ekonominės raidos scenarijų, dėl kurio tvirtinimo kontrolės institucija paskelbė savo išvadą, numatomas neigiamas produkcijos atotrūkis nuo potencialo. Pastaruoju atveju asignavimai negali viršyti pajamų daugiau kaip 1,5 procento.
-
-
-
-
-5. Nustatoma tokia savivaldybės biudžeto sudarymo lankstumo taisyklė: savivaldybė, vertindama savo biudžeto atitiktį atitinkamai šio straipsnio 2 arba 4 dalyje nustatytai biudžeto sudarymo taisyklei, gali:
-
-
-1) iš asignavimų atimti asignavimus, skirtus Europos Sąjungos ir kitai tarptautinei finansinei paramai bendrai finansuoti, įskaitant tinkamų finansuoti išlaidų daliai tenkantį pridėtinės vertės mokestį, išskyrus iš valstybės biudžeto gautus asignavimus, skirtus Europos Sąjungos ir kitai tarptautinei finansinei paramai bendrai finansuoti;
-
-
-
-
-2) prie einamųjų metų pajamų pridėti tokią dalį praėjusių metų gruodžio 31 dieną buvusių sukauptų savivaldybės biudžeto nepanaudotų pajamų (t. y. gautų, tačiau nepanaudotų pajamų, išskyrus nepanaudotas Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas), kuri einamaisiais metais panaudojama asignavimams. 
-
-
-
-
-
-
-6. Savivaldybės skola pagal įsipareigojamuosius skolos dokumentus, įskaitant paskolos, finansinės nuomos (lizingo) sutartis, bet neapsiribojant jomis, negali viršyti 60 procentų (Vilniaus miesto savivaldybės – 75 procentų) valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytų tiems metams prognozuojamų savivaldybės biudžeto pajamų iš gyventojų pajamų mokesčio ir paskutinių pasibaigusių metų savivaldybės biudžeto gautų pajamų, išskyrus iš gyventojų pajamų mokesčio gautas pajamas, valstybės biudžeto dotacijas ir Europos Sąjungos ir kitą tarptautinę finansinę paramą, sumos.
-
-
-
-
-7. Savivaldybės prisiimti įsipareigojimai pagal garantijas dėl savivaldybės valdomų įmonių prisiimtų, bet dar neįvykdytų įsipareigojimų grąžinti kreditoriams lėšas pagal paskolų sutartis, finansinės nuomos (lizingo) sutartis ar kitus įsipareigojamuosius skolos dokumentus negali viršyti 10 procentų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytų tiems metams prognozuojamų savivaldybės biudžeto pajamų iš gyventojų pajamų mokesčio ir paskutinių pasibaigusių metų savivaldybės biudžeto gautų pajamų, išskyrus iš gyventojų pajamų mokesčio gautas pajamas ir valstybės biudžeto dotacijas, sumos.
-
-
-
-
-8. Vyriausybė, įvertinusi valstybės finansines galimybes, gali siūlyti Seimui valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatyti savivaldybėms grynojo skolinių įsipareigojimų pokyčio limitą.
-
-
-
-
-9. Jeigu, remiantis paskutinių pasibaigusių metų gruodžio 31 dienos duomenimis, savivaldybės skola viršija šio straipsnio 6 dalyje nustatytą limitą, savivaldybės biudžeto sudarymo lankstumo taisyklė savivaldybės biudžetui netaikoma tol, kol savivaldybė viršija limitą.
-
-
-
-
-10. Jeigu paskutiniais pasibaigusiais metais savivaldybės biudžeto balanso rodiklis faktiškai nukrypsta nuo savivaldybės biudžeto balanso rodiklio, atitinkančio atitinkamai šio straipsnio 2 arba 4 dalyje nustatytą biudžeto sudarymo taisyklę (pritaikius savivaldybės biudžeto sudarymo lankstumo taisyklę), savivaldybė ne daugiau kaip per dvejus metus turi visiškai kompensuoti šį nukrypimą. Jeigu šis nukrypimas nekompensuojamas per dvejus metus, kitais ir vėlesniais metais savivaldybei netaikoma savivaldybės biudžeto sudarymo lankstumo taisyklė tol, kol nukrypimas bus kompensuotas. Savivaldybės biudžeto sudarymo lankstumo taisyklė pradedama taikyti po metų, kuriais savivaldybė kompensuoja biudžeto balanso rodiklio nukrypimą. 
-
-
-Straipsnio pakeitimai:
-Nr. XIV-1760, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27575
+4 straipsnis. Atitiktis valdžios sektoriaus fiskalinės drausmės taisyklei ir procedūros, taikomos nukrypus nuo šios taisyklės
+1. Jeigu, pagal faktinius duomenis, nuo pirmųjų galiojančio Seimo nutarimo dėl grynųjų išlaidų augimo ribų nustatymo metų sukauptas grynųjų išlaidų augimas vienos dešimtosios tikslumu daugiau negu 0,1 procentinio punkto BVP viršija Seimo nustatytas grynųjų išlaidų augimo ribas ir Europos Sąjungos Taryba nėra pateikusi šio įstatymo 3 straipsnio 8 dalyje nurodytų rekomendacijų:
+1) Ministras Pirmininkas, naudodamasis Vyriausybės Europos Komisijai ir Europos Sąjungos Tarybai pateiktoje metinėje pažangos ataskaitoje pateikta informacija, iki einamųjų metų gegužės 31 dienos Seime žodžiu paaiškina nustatytų grynųjų išlaidų augimo ribų viršijimo priežastis;
+2) šis viršijimas kompensuojamas artimiausiais planuojamais metais, einančiais po einamųjų metų. Tais metais planuojamos grynosios išlaidos turi būti mažesnės viršijimo apimtimi (milijonų eurų tikslumu), palyginti su grynųjų išlaidų suma, apskaičiuota pagal Seimo nustatytas grynųjų išlaidų augimo ribas;
+3) Vyriausybė kartu su artimiausių planuojamų tam tikrų metų biudžeto patvirtinimo įstatymo projektu Seimui pateikia informaciją apie priemones, kuriomis planuojamas grynųjų išlaidų augimo ribų viršijimo kompensavimas.
+2. Jeigu, pagal faktinius duomenis, grynųjų išlaidų augimas vienos dešimtosios tikslumu daugiau negu 0,1 procentinio punkto BVP viršija grynųjų išlaidų augimo ribas, atitinkančias šio įstatymo 3 straipsnio 8 dalyje nurodytas Europos Sąjungos Tarybos rekomendacijas tais metais, kai jos taikomos Lietuvai, Ministras Pirmininkas, naudodamasis Vyriausybės Europos Komisijai ir Europos Sąjungos Tarybai pateiktoje metinėje pažangos ataskaitoje pateikta informacija, iki einamųjų metų gegužės 31 dienos Seime žodžiu paaiškina nustatytų grynųjų išlaidų augimo ribų viršijimo priežastis.
+3. Jeigu grynųjų išlaidų augimo ribos buvo nustatytos pagal šio įstatymo 3 straipsnio 5 dalį ir BPKF išlaidų pagal faktinius duomenis ir nustatytų BPKF išlaidų skirtumas yra neigiamas ir bent 0,1 procento BVP mažesnis negu grynųjų išlaidų pagal faktinius duomenis bei sukauptas grynųjų išlaidų augimo ribas atitinkančių grynųjų išlaidų skirtumas, Ministras Pirmininkas, naudodamasis Vyriausybės Europos Komisijai ir Europos Sąjungos Tarybai pateiktoje metinėje pažangos ataskaitoje pateikta informacija, iki einamųjų metų gegužės 31 dienos Seime žodžiu pateikia nustatyto BPKF išlaidų rodiklio nepasiekimo priežastis.
  
 
 
 
 
-5 straipsnis. Vidutinio laikotarpio tikslo nustatymas
-
-
-Vidutinio laikotarpio tikslas turi būti nustatomas taip pat kaip ir Tarybos reglamente (EB) Nr. 1466/97 nurodytas vidutinės trukmės tikslas ir, nepažeidžiant šio reglamento nuostatų, turi tenkinti šias papildomas sąlygas:
-
-
-1) vidutinio laikotarpio tikslas nustatomas iki einamųjų metų kovo 15 dienos Seimo teisės aktu, bet ne ilgesniam kaip trejų metų laikotarpiui; 
-
-
-
-
-2) vidutinio laikotarpio tikslas, išskyrus šio straipsnio 3 punkte nurodytą išimtį, turi būti struktūrinis valdžios sektoriaus deficitas, ne didesnis kaip 0,5 procento BVP to meto kainomis, arba struktūrinis valdžios sektoriaus perteklius;
-
-
-
-
-3) vidutinio laikotarpio tikslas turi būti struktūrinis valdžios sektoriaus deficitas, ne didesnis kaip 1 procentas BVP to meto kainomis, arba struktūrinis valdžios sektoriaus perteklius, jeigu valdžios sektoriaus skolos ir BVP to meto kainomis santykis yra mažesnis kaip 60 procentų BVP to meto kainomis ir rizika dėl Lietuvos valdžios sektoriaus finansų ilgalaikio tvarumo yra maža.
+5 straipsnis. Savivaldybės biudžeto fiskalinės drausmės taisyklė
+1. Tam tikrų metų savivaldybės biudžeto išlaidos turi neviršyti jo pajamų (išlaidas ir pajamas vertinant kaupiamuoju principu), išskyrus metus, kuriais pagal Vyriausybės arba jos įgaliotos institucijos viešai paskelbtą ekonominės raidos scenarijų, dėl kurio nepriklausoma fiskalinė institucija skelbia išvadą, numatomas neigiamas produkcijos atotrūkis nuo potencialo. Šiuo atveju savivaldybės biudžeto išlaidos negali viršyti savivaldybės biudžeto pajamų daugiau kaip 1,5 procento.
+2. Savivaldybės skola pagal įsipareigojamuosius skolos dokumentus, įskaitant paskolos sutartis, finansinės nuomos (lizingo) sutartis ar kitus įsipareigojamuosius skolos dokumentus, (toliau – savivaldybės skola) negali viršyti 60 procentų (Vilniaus miesto savivaldybės – 75 procentų) tam tikrų metų savivaldybės biudžeto pajamų.
+3. Savivaldybės prisiimti įsipareigojimai pagal garantijas dėl savivaldybės valdomų įmonių prisiimtų, bet dar neįvykdytų įsipareigojimų grąžinti kreditoriams lėšas pagal paskolų sutartis, finansinės nuomos (lizingo) sutartis ar kitus įsipareigojamuosius skolos dokumentus (toliau – savivaldybės prisiimti įsipareigojimai pagal garantijas) negali viršyti 20 procentų tam tikrų metų savivaldybės biudžeto pajamų.
  
 
 
@@ -238,40 +129,15 @@ Vidutinio laikotarpio tikslas turi būti nustatomas taip pat kaip ir Tarybos reg
 
 
 
-6 straipsnis. Struktūrinio postūmio užduoties nustatymas
-
-
-1. Struktūrinio postūmio užduotis turi būti nustatoma taip, kad atitiktų Tarybos reglamente (EB) Nr. 1466/97 ir Tarybos reglamente (EB) Nr. 1467/97 nurodytas sąlygas.
-
-
-
-
-2. Metais, einančiais po metų, kuriais valdžios sektoriaus deficitas buvo mažesnis (kuriais planuojamas mažesnis) negu 3 procentai BVP ir faktinis (planinis) struktūrinis valdžios sektoriaus balanso deficitas yra didesnis arba faktinis (planinis) struktūrinis valdžios sektoriaus balanso perteklius yra mažesnis negu vidutinio laikotarpio tikslas daugiau kaip 2 procentiniais punktais BVP, turi būti nustatoma tokia struktūrinio postūmio užduotis, kad vidutinio laikotarpio tikslas būtų pasiektas per ketverių vieni po kitų einančių metų laikotarpį arba greičiau, pradedant tais metais, kuriais panaikinamas Europos Sąjungos Tarybos sprendimas dėl perviršinio deficito Lietuvos Respublikoje arba paskutinį kartą buvo pasiektas vidutinio laikotarpio tikslas, ir praleidžiant tik tuos metus, kuriais susidaro išskirtinės aplinkybės.
-
-
-
-
-3. Jeigu antraisiais ir vėlesniais metais, einančiais po metų, kuriais pasiektas (kuriais planuojamas pasiekti) vidutinio laikotarpio tikslas arba tenkinama (planuojama tenkinti) šio įstatymo 3 straipsnio 1 dalies 1 arba 2 punkte nurodyta sąlyga, faktinis struktūrinis valdžios sektoriaus balanso deficitas buvo ne daugiau kaip 2 procentiniais punktais BVP didesnis arba faktinis struktūrinis valdžios sektoriaus balanso perteklius buvo ne daugiau kaip 2 procentiniais punktais BVP mažesnis negu vidutinio laikotarpio tikslas, turi būti nustatoma tokia struktūrinio postūmio užduotis, kad vidutinio laikotarpio tikslas būtų pasiektas per dvejus metus, praleidžiant tik tuos metus, kuriais susidaro išskirtinės aplinkybės. 
-
-
-
-
-4. Metams, kuriems taikomos Europos Sąjungos Tarybos rekomendacijos, skirtos Lietuvos Respublikai, kaip ištaisyti perviršinio valdžios sektoriaus deficito padėtį (toliau – Europos Sąjungos Tarybos rekomendacijos), turi būti nustatoma tokia struktūrinio postūmio užduotis, kuri atitiktų rekomenduotą struktūrinį valdžios sektoriaus balanso rodiklio postūmį (jeigu toks būtų rekomenduotas) tik tiek, kiek tai reikalinga valdžios sektoriaus deficitui sumažinti iki žemesnės kaip 3 procentų BVP ribos Europos Sąjungos Tarybos rekomendacijose nurodytais metais pagal atitinkamą koregavimo planą (jeigu toks būtų rekomenduotas). 
-
-
-
-
-5. Einamųjų ir po jų einančių metų struktūrinio postūmio užduotis ir jų gaires likusiais vidutinio laikotarpio metais nustato Seimas, priimdamas teisės aktą iki einamųjų metų birželio 30 dienos, bet ne vėliau kaip iki planuojamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo priėmimo arba einamųjų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymo priėmimo. Vyriausybė teikia Seimui pasiūlymus, kokias struktūrinio postūmio užduotis ir jų gaires likusiais vidutinio laikotarpio metais tikslinga nustatyti. Be to, Vyriausybė teikia Seimui pasiūlymus, kokias priemonių šioms užduotims įvykdyti gaires tikslinga nustatyti. Seimas struktūrinio postūmio užduotis ir jų gaires likusiais vidutinio laikotarpio metais nustato tik gavęs kontrolės institucijos išvadą dėl Vyriausybės pasiūlytų Seimui nustatyti struktūrinio postūmio užduočių ir priemonių šioms užduotims įvykdyti gairių atitikties šio straipsnio 1, 2, 3 ir 4 dalyse nustatytiems reikalavimams dėl vidutinio laikotarpio tikslo pasiekimo laiko. 
-
-
-
-
-6. Struktūrinio postūmio užduotis ir jų gaires likusiais vidutinio laikotarpio metais Vyriausybė siūlo Seimui ir Seimas jas nustato tik tiems metams, prieš kuriuos faktinis arba numatomas struktūrinis valdžios sektoriaus balanso deficitas yra didesnis arba faktinis ar numatomas struktūrinis valdžios sektoriaus balanso perteklius yra mažesnis negu vidutinio laikotarpio tikslas.
-
-
-
-
-7. Metams, kuriais susidaro išskirtinės aplinkybės, struktūrinio postūmio užduotys nenustatomos.
+6 straipsnis. Atitiktis savivaldybės biudžeto fiskalinės drausmės taisyklei ir procedūros, taikomos nukrypus nuo šios taisyklės
+1. Savivaldybė, vertindama savo biudžeto atitiktį savivaldybės biudžeto fiskalinės drausmės taisyklei, gali:
+1) iš savo biudžete patvirtintų asignavimų atimti asignavimus, skirtus Europos Sąjungos ir kitai tarptautinei finansinei paramai bendrai finansuoti, įskaitant tinkamų finansuoti išlaidų daliai tenkantį pridėtinės vertės mokestį, išskyrus iš valstybės biudžeto gautus asignavimus, skirtus Europos Sąjungos ir kitai tarptautinei finansinei paramai bendrai finansuoti;
+2) iš savo biudžete patvirtintų asignavimų atimti asignavimus, skirtus projektams, finansuojamiems iš Lietuvos nacionalinio plėtros banko pasiskolintomis lėšomis;
+3) prie einamųjų metų pajamų pridėti tokią dalį praėjusių metų gruodžio 31 dieną buvusių sukauptų savivaldybės biudžeto nepanaudotų pajamų (tai yra gautų, tačiau nepanaudotų pajamų, išskyrus nepanaudotas Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas), kuri einamaisiais metais panaudojama asignavimams.
+2. Jeigu savivaldybės tam tikrų metų biudžeto balanso rodiklio reikšmė pagal faktinius duomenis neatitinka šio įstatymo 5 straipsnio 1 dalyje nustatytos biudžeto sudarymo taisyklės, atsižvelgiant į šio straipsnio 1 dalyje nurodytas lankstumo sąlygas, savivaldybė per ne daugiau kaip 2 metus turi visiškai kompensuoti šį nuokrypį. Jeigu šis nuokrypis per 2 metus nekompensuojamas, šio straipsnio 1 dalies 1 punkte nurodytos savivaldybės biudžeto sudarymo lankstumo sąlygos netaikomos savivaldybės biudžetui artimiausiais planuojamais, taip pat ir vėlesniais metais tol, kol nuokrypis kompensuojamas.
+3. Jeigu pagal pastarųjų pasibaigusių metų faktinius duomenis nustatyta, kad savivaldybės skola viršija 60 procentų (Vilniaus miesto savivaldybės – 75 procentus) tų metų savivaldybės biudžeto pajamų, savivaldybės biudžetas turi būti subalansuotas arba perteklinis artimiausiais planuojamais, taip pat ir vėlesniais metais tol, kol, pagal statistinius duomenis, skolos ir pajamų santykis nebeviršija 60 procentų (Vilniaus miesto savivaldybės – 75 procentų).
+4. Jeigu pagal pastarųjų pasibaigusių metų statistinius duomenis nustatyta, kad savivaldybės prisiimti įsipareigojimai pagal garantijas viršija 20 procentų tam tikrų metų savivaldybės biudžeto pajamų, šio straipsnio 1 dalyje nurodytos savivaldybės biudžeto sudarymo lankstumo sąlygos savivaldybės biudžetui netaikomos tol, kol savivaldybė viršija šią ribą.
+5. Savivaldybės biudžeto fiskalinės drausmės taisyklės nesilaikiusios savivaldybės meras iki birželio 30 dienos Seimo Biudžeto ir finansų komitete žodžiu paaiškina nesilaikymo priežastis ir pateikia informaciją apie priemones, kuriomis planuojama kompensuoti nuokrypį.
  
 
 
@@ -279,136 +145,14 @@ Vidutinio laikotarpio tikslas turi būti nustatomas taip pat kaip ir Tarybos reg
 
 
 
-7 straipsnis. Išskirtinių aplinkybių nustatymas ir atšaukimas
-
-
-1. Išskirtinės aplinkybės nustatomos pagal Tarybos reglamento (EB) Nr. 1466/97 nuostatas. 
-
-
-
-
-2. Išskirtinių aplinkybių nustatymą ir atšaukimą inicijuoja Vyriausybė arba jos įgaliota institucija, parengdama pranešimą dėl išskirtinių aplinkybių ir pateikdama kontrolės institucijai jį tvirtinti kartu su atnaujintu ekonominės raidos scenarijumi. Išskirtinės aplinkybės laikomos nustatytomis ar atšauktomis, kai kontrolės institucija paskelbia išvadą dėl susidariusios arba numatomos padėties atitikties išskirtinių aplinkybių sąvokai pagal Tarybos reglamento (EB) Nr. 1466/97 nuostatas ir pateikia išvadą dėl ekonominės raidos scenarijaus tvirtinimo. 
-
-
-
-
-3. Išskirtinių aplinkybių laikotarpiu Vyriausybė arba jos įgaliota institucija turi bent kartą per ketvirtį viešai paskelbti ekonominės raidos scenarijų, o kontrolės institucija turi pateikti Seimui išvadą dėl ekonominės raidos scenarijaus tvirtinimo. 
- 
-
-
-
-
-
-
-8 straipsnis. Procedūros, taikomos neįvykdžius struktūrinio postūmio užduoties 
-
-
-1. Jeigu Vyriausybė ar jos įgaliota institucija ataskaitoje, parengtoje pagal šio įstatymo 3 straipsnio 2 dalies nuostatas, nurodo, kad struktūrinio postūmio užduotis neįvykdyta, Vyriausybė kartu su praėjusių metų struktūrinio postūmio užduoties įvykdymo ir struktūrinio valdžios sektoriaus balanso rodiklio ataskaita pateikia Seimui ir kontrolės institucijai rašytinį pranešimą apie struktūrinio postūmio užduoties neįvykdymo priežastis ir priemones struktūrinio postūmio užduočiai įvykdyti. Ši informacija Seimui pristatoma ir žodiniu pranešimu. 
-
-
-
-
-2. Kontrolės institucija pateikia Seimui išvadą dėl struktūrinio postūmio užduoties neįvykdymo priežasčių pagrįstumo ir priemonių struktūrinio postūmio užduočiai įvykdyti tinkamumo. 
-
-
-
-
-3. Vyriausybė, susipažinusi su šio straipsnio 2 dalyje nurodyta kontrolės institucijos išvada, per mėnesį pateikia Seimui pranešimą apie galutines struktūrinio postūmio užduoties neįvykdymo priežastis ir priemones struktūrinio postūmio užduočiai įvykdyti. Teikdama Seimui kitų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą, Vyriausybė pateikia informaciją apie teikiamo įstatymo projekte Vyriausybės numatytas priemones struktūrinio postūmio užduočiai įvykdyti.
- 
-
-
-
-
-
-
-9 straipsnis. Kontrolės institucijos nepriklausomumas ir teisė gauti duomenis
-
-
-1. Kontrolės institucija, kontrolės institucijos vadovas, jo pavaduotojai, kontrolės institucijos valstybės tarnautojai ir kiti darbuotojai, dirbantys pagal darbo sutartis, įgyvendindami įstatymuose nustatytus tikslus ir atlikdami šiame įstatyme nustatytas funkcijas, turi nepriimti nurodymų iš jokios kitos institucijos ar asmens. Valstybės institucijos ir kiti asmenys privalo gerbti kontrolės institucijos nepriklausomumą ir nedaryti įtakos kontrolės institucijos vadovui, jo pavaduotojams, kontrolės institucijos valstybės tarnautojams ir kitiems darbuotojams, kai jie atlieka šiame įstatyme nustatytas pareigas. 
-
-
-
-
-2. Lietuvos bankas teikia kontrolės institucijai savo rengiamas makroekonomines prognozes kiekvieną kartą, kai jas atnaujina, bet ne rečiau kaip du kartus per kalendorinius metus. Kontrolės institucija turi teisę gauti iš valstybės ir savivaldybių institucijų jos prašomus pateikti duomenis, reikalingus jos funkcijoms atlikti. 
-
-
-
-
-3. Kontrolės institucija turi teisę pasitelkti nepriklausomų Lietuvos ir užsienio ekspertų.
- 
-
-
-
-
-
-
-10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas 
-
-
-1. Šis įstatymas, išskyrus 4 straipsnio 2, 3 ir 4 dalis ir šio straipsnio 4 dalį, įsigalioja 2015 m. sausio 1 d.
-
-
-
-
-2. Šio įstatymo 4 straipsnio 2 dalis įsigalioja 2018 m. sausio 1 d.
-
-
-
-
-3. Šio įstatymo 4 straipsnio 3 ir 4 dalys įsigalioja 2016 m. sausio 1 d.
-
-
-
-
-4. Vyriausybė, kitos institucijos ir įstaigos iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus.
-
-
-
-
-5. Šio įstatymo 3 ir 6 straipsniai netaikomi rengiant Lietuvos Respublikos 2025–2027 metų biudžeto patvirtinimo įstatymo projektą, jį priimant, įgyvendinant priimtą įstatymą, vertinant ir kontroliuojant jo įgyvendinimą.
- 
-Papildyta straipsnio dalimi:
-Nr. XV-31, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22083
- 
-
-
-
-
-
-
-Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
- 
- 
- 
-Respublikos Prezidentė                                                                             Dalia Grybauskaitė
-
-
-
-
-
-
- 
 Lietuvos Respublikos
-Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo
+Fiskalinės sutarties įgyvendinimo
+konstitucinio įstatymo
 priedas
- 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
- 
-
-
-1. 2011 m. lapkričio 8 d. Tarybos direktyva 2011/85/ES dėl reikalavimų valstybių narių biudžeto sistemoms.
+1. 2011 m. lapkričio 8 d. Tarybos direktyva 2011/85/ES dėl reikalavimų valstybių narių biudžeto sistemoms su pakeitimais, padarytais 2024 m. balandžio 29 d. Tarybos direktyva (ES) 2024/1265.
+2. 2024 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1263 dėl veiksmingo ekonominės politikos koordinavimo ir daugiašalės biudžeto priežiūros, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 1466/97.
 _______________
-
-
-Papildyta priedu:
-Nr. XIV-1760, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27575
- 
- 
- 
-Pakeitimai:
- 
-1.
-Lietuvos Respublikos Seimas, Konstitucinis įstatymas
 Nr. XIV-1760, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27575
 Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo Nr. XII-1289 1, 4 straipsnių pakeitimo ir Įstatymo papildymo priedu konstitucinis įstatymas
  
