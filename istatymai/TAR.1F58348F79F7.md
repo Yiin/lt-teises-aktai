@@ -1215,21 +1215,9 @@ Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
 
 
 29 straipsnis. Pensijų išmokos
-
-
-1. Pensijų išmokų rūšys, mokėtinos dalyviams atsižvelgiant į jų vardu pensijų fonde sukauptą pensijų turtą, yra šios:
-
-
+1. Pensijų išmokų rūšys yra šios:
 1) pensijų anuitetas;
-
-
-
-
 2) vienkartinė pensijų išmoka;
-
-
-
-
 3) periodinės pensijų išmokos.
 
 
@@ -1238,54 +1226,31 @@ Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
 
 
 2. Pensijų anuitetų rūšys yra šios:
-
-
-1) atidėtasis pensijų anuitetas. Pensijų anuitetų mokėtojas pensijų anuiteto gavėjui, sukakusiam 85 metų amžių, pradeda mokėti ir iki gyvos galvos periodiškai moka pensijų anuitetą. Jo mokėjimas nutrūksta pensijų anuiteto gavėjui mirus. Atidėtasis pensijų anuitetas nepaveldimas;
-
-
-
-
-2) standartinis pensijų anuitetas. Pensijų anuitetų mokėtojas pensijų anuiteto gavėjui iki gyvos galvos periodiškai moka pensijų anuitetą. Jo mokėjimas nutrūksta pensijų anuiteto gavėjui mirus. Pensijų anuitetų mokėtojas gali siūlyti standartinį pensijų anuitetą su garantuojamu mokėjimo laikotarpiu. Standartinis pensijų anuitetas nepaveldimas, išskyrus atvejus, kai standartinį pensijų anuitetą su garantuojamu mokėjimo laikotarpiu pasirinkęs pensijų anuiteto gavėjas miršta nesibaigus sprendime dėl standartinio pensijų anuiteto mokėjimo numatytam garantuojamam mokėjimo laikotarpiui. Už standartinio pensijų anuiteto su garantuojamu mokėjimo laikotarpiu gavėjui dėl mirties neišmokėtų pensijų anuitetų už likusį garantuojamą mokėjimo laikotarpį sumą priklausanti vienkartinė pensijų anuiteto išmoka paveldima Civilinio kodekso nustatyta tvarka. Vienkartinė išmoka apskaičiuojama pensijų anuitetų mokėtojo nustatyta tvarka.
+1) atidėtasis pensijų anuitetas. Pensijų anuitetų mokėtojas pensijų anuiteto gavėjui, sukakusiam 85 metų amžių, nuo kalendorinio mėnesio, kurį pensijų anuiteto gavėjas šį amžių sukanka, pirmos dienos pradeda mokėti ir iki gyvos galvos periodiškai moka pensijų anuitetą. Jo mokėjimas nutrūksta pensijų anuiteto gavėjui mirus. Atidėtasis pensijų anuitetas nepaveldimas;
+2) standartinis pensijų anuitetas. Pensijų anuitetų mokėtojas pensijų anuiteto gavėjui iki gyvos galvos periodiškai moka pensijų anuitetą. Jo mokėjimas nutrūksta pensijų anuiteto gavėjui mirus. Pensijų anuitetų mokėtojas gali siūlyti standartinį pensijų anuitetą su garantuojamu mokėjimo laikotarpiu. Standartinis pensijų anuitetas nepaveldimas, išskyrus atvejus, kai standartinį pensijų anuitetą su garantuojamu mokėjimo laikotarpiu pasirinkęs pensijų anuiteto gavėjas miršta nesibaigus sprendime dėl standartinio pensijų anuiteto skyrimo numatytam garantuojamam mokėjimo laikotarpiui. Standartinio pensijų anuiteto su garantuojamu mokėjimo laikotarpiu gavėjui dėl mirties neišmokėta pensijų anuiteto išmokų už likusį garantuojamą mokėjimo laikotarpį priklausanti suma paveldima Civilinio kodekso nustatyta tvarka. Šiame punkte nurodyta paveldima suma apskaičiuojama pensijų anuitetų mokėtojo nustatyta tvarka.
+3. Pensijų anuitetų mokėtojas turi teisę dalyviui siūlyti standartinius pensijų anuitetus su skirtingomis savybėmis. Pensijų anuiteto pavadinime turi būti nurodyta pensijų anuiteto rūšis – standartinis arba atidėtasis. Viešinimo tikslais pensijų anuitetų mokėtojas turi teisę vartoti sutrumpintus, taip pat konkrečias pensijų anuitetų savybes atskleidžiančius pensijų anuitetų pavadinimus.
 
 
 
 
 
 
-3. Dalyviui, kurio vardu pensijų fonde sukauptas pensijų turtas yra mažesnis arba lygus 5 000 eurų, taip pat šio straipsnio 6 dalyje nustatytu atveju šio įstatymo 31 straipsnyje nustatyta tvarka mokama vienkartinė pensijų išmoka.
-
-
-
-
-4. Dalyviui, kurio vardu pensijų fonde sukauptas pensijų turtas yra didesnis kaip 5 000 eurų, bet mažesnis kaip 10 000 eurų, šio įstatymo 32 straipsnyje nustatyta tvarka mokamos periodinės pensijų išmokos.
-
-
-
-
-5. Dalyviui, kurio vardu pensijų fonde sukauptas pensijų turtas yra lygus arba didesnis kaip 10 000 eurų, pensijų fonde sukauptas pensijų turtas išmokamas tik jam įsigijus pensijų anuitetą iš pensijų anuitetų mokėtojo. Standartinis pensijų anuitetas įsigyjamas už visą dalyvio vardu pensijų fonde sukauptą pensijų turtą, išskyrus šio straipsnio 6 dalyje nurodytą atvejį. Atidėtasis pensijų anuitetas įsigyjamas už dalį dalyvio vardu pensijų fonde sukauptų lėšų, jų dydį nustato pensijų anuitetų mokėtojas. Likusi pensijų turto dalis išmokama periodinėmis pensijų išmokomis šio įstatymo 32 straipsnyje nustatyta tvarka.
-
-
-
-
-6. Dalyvis, kurio vardu pensijų fonde sukauptas pensijų turtas yra didesnis kaip 60 000 eurų, turi teisę sukauptą pensijų turto dalį, viršijančią 60 000 eurų, gauti iš pensijų kaupimo bendrovės vienkartine pensijų išmoka.
-
-
-
-
-7. Asmuo, įgijęs teisę į vienkartinę pensijų išmoką ar periodines pensijų išmokas pagal šio straipsnio 3 ir 4 dalis, gali vietoj vienkartinės pensijų išmokos ar periodinių pensijų išmokų šio įstatymo nustatyta tvarka įsigyti pensijų anuitetą.
-
-
-
-
-8. Šio straipsnio 3–6 dalyse nurodyti dydžiai, nuo kurių priklauso asmeniui mokėtinos pensijų išmokos rūšis, kas 3 metus indeksuojami vidutinės metinės infliacijos, apskaičiuotos pagal Lietuvos statistikos departamento skelbiamą suderintą vartotojų kainų indeksą, suminį 3 paskutinių kalendorinių metų rodiklį. Euro tikslumu suapvalintus naujus dydžius, pradedant 2023 metais taikomais dydžiais, ne vėliau kaip iki metų, einančių prieš taikymo metus, lapkričio 30 dienos savo interneto svetainėse paskelbia Socialinės apsaugos ir darbo ministerija ir pensijų anuitetų mokėtojas.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1251, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15193
- 
-
-
-
-
-9. Pensijų anuitetų mokėtojas yra VSDF valdyba. Vienkartines ir periodines išmokas jų gavėjams moka pensijų kaupimo bendrovės. 
+4. Pensijų fonde sukaupto pensijų turto dydį, nuo kurio priklauso dalyviui mokėtinos pensijų išmokos rūšis, (toliau – pensijų anuiteto riba) pensijų anuitetų mokėtojas nustato kiekvieniems kalendoriniams metams, apskaičiuodamas pagal formulę: , kur:
+1)  – suma, eurais;
+2)  – Valstybės duomenų agentūros paskelbtas metų, einančių prieš pensijų anuiteto ribos taikymo metus, pirmo ketvirčio vidutinės socialinio draudimo senatvės pensijos dydis, eurais;
+3)  – pensijų anuiteto mokėjimo veiklos valdymui ir administravimui finansuoti skirtas atskaitymas, nustatytas pensijų anuiteto ribos taikymo metų Lietuvos Respublikos Pensijų anuitetų fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatyme, procentais. Jeigu iki pensijų anuiteto ribos, taikomos ateinantiems metams, apskaičiavimo metų gruodžio 31 dienos nepriimamas anuiteto ribos taikymo metų Pensijų anuitetų fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymas, Adm reikšmė yra lygi pensijų anuiteto ribos apskaičiavimo metų Pensijų anuitetų fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatyme nustatytam pensijų anuiteto mokėjimo veiklos valdymui ir administravimui finansuoti skirtam atskaitymui, procentais;
+4)  – diskontuota vidutinė tikėtina gyvenimo trukmė nuo senatvės pensijos amžiaus, pensijų anuiteto mokėtojo apskaičiuojama pagal mirtingumo ir diskonto duomenis pagal jo patvirtintą pensijų anuitetų dydžių apskaičiavimo metodiką, mėnesiais.
+5. Dalyviui, kurio vardu pensijų fonde sukauptas pensijų turtas yra lygus šio straipsnio 4 dalyje nustatyta tvarka apskaičiuotai pensijų anuiteto ribai arba už ją didesnis, pensijų fonde sukauptas pensijų turtas išmokamas tik jam įsigijus pensijų anuitetą iš pensijų anuitetų mokėtojo. Standartinis pensijų anuitetas įsigyjamas už visą dalyvio vardu pensijų fonde sukauptą pensijų turtą, išskyrus šio straipsnio 8 dalyje nurodytą atvejį. Atidėtasis pensijų anuitetas įsigyjamas už dalį dalyvio vardu pensijų fonde sukauptų lėšų, kurių dydį, vadovaudamasi pensijų anuitetų dydžių apskaičiavimo metodika, nustato pensijų anuitetų mokėtojas. Likusi pensijų turto dalis išmokama periodinėmis pensijų išmokomis šio įstatymo 32 straipsnyje nustatyta tvarka.
+6. Nustatant mokėtinos pagal šio straipsnio 5 dalį pensijų išmokos rūšį dalyviui, kuriam buvo atliktas turto dalies išmokėjimas, su pensijų anuiteto riba lyginamas kreipimosi į pensijų kaupimo bendrovę dėl pensijų išmokos sutarties sudarymo dieną dalyvio vardu sukauptas pensijų turtas, padalytas iš koeficiento K, apskaičiuoto pagal formulę: K = , kur  – dalyviui turto dalies išmokėjimo metu išmokėta jo pensijų turto dalis, procentais.
+7. Kai dalyvio vardu pensijų fonde sukauptas pensijų turtas yra mažesnis už šio straipsnio 4 dalyje nustatyta tvarka apskaičiuotą pensijų anuiteto ribą, pensijų kaupimo bendrovė ne vėliau kaip per 3 darbo dienas nuo dalyvio prašymo dėl pensijos išmokos sutarties sudarymo gavimo dienos pateikia VSDF valdybai prašymą pateikti informaciją, ar dalyvis nėra pasinaudojęs teise gauti turto dalies išmokėjimą, o jeigu šia teise jis buvo pasinaudojęs, – kokia pensijų turto dalis procentais jam buvo išmokėta. VSDF valdybai pateikus pensijų kaupimo bendrovei informaciją, kad dalyviui atliktas turto dalies išmokėjimas, taip pat informaciją apie dalyviui išmokėtą pensijų turto dalį, pensijų kaupimo bendrovė, nustatydama dalyviui mokėtinos pensijų išmokos rūšį, vadovaujasi šio straipsnio 6 dalimi. Jeigu pagal šio straipsnio 6 dalį apskaičiuotas pensijų turtas yra mažesnis už šio straipsnio 4 dalyje nustatyta tvarka apskaičiuotą pensijų anuiteto ribą arba teise gauti turto dalies išmokėjimą dalyvis nėra pasinaudojęs, pensijų išmokos rūšį dalyvis pasirenka savo nuožiūra.
+8. Pensijų anuitetą turintis įsigyti dalyvis, kurio vardu pensijų fonde sukauptas pensijų turtas yra didesnis už šio straipsnio 9 dalyje nustatyta tvarka apskaičiuotą pensijų turto dydį, turi teisę pensijų turto dalį, viršijančią šį dydį, gauti iš pensijų kaupimo bendrovės vienkartine pensijų išmoka. Vienkartinė pensijų išmoka išmokama po to, kai gaunamas pensijų anuitetų mokėtojo pranešimas apie dalyvio neatsisakymą įsigyti pensijų anuitetą (šio įstatymo 33 straipsnio 8 dalis).
+9. Pensijų turto dydį, kurį viršijantis dalyvio vardu sukauptas pensijų turtas pensijų anuitetą įsigyjančiam dalyviui gali būti išmokamas vienkartine pensijų išmoka, (toliau šiame straipsnyje – pensijų turto dydžio riba) pensijų anuitetų mokėtojas nustato kiekvieniems kalendoriniams metams, apskaičiuodamas pagal formulę: , kur:
+1)  – suma, eurais;
+2)  – Valstybės duomenų agentūros paskelbtas metų, einančių prieš pensijų turto dydžio ribos taikymo metus, pirmo ketvirčio vidutinės socialinio draudimo senatvės pensijos dydis, eurais;
+3)  – pensijų anuiteto mokėjimo veiklos valdymui ir administravimui finansuoti skirtas atskaitymas, nustatytas pensijų anuitetų ribos taikymo metų Pensijų anuitetų fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatyme, procentais. Jeigu iki pensijų turto dydžio ribos, taikomos ateinantiems metams, apskaičiavimo metų gruodžio 31 dienos nepriimamas pensijų turto dydžio ribos taikymo metų Pensijų anuimetų fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymas, Adm reikšmė yra lygi pensijų turto dydžio ribos apskaičiavimo metų Pensijų anuimetų fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatyme nustatytam pensijų anuiteto mokėjimo veiklos valdymui ir administravimui finansuoti skirtam atskaitymui, procentais;
+4)  – diskontuota vidutinė tikėtina gyvenimo trukmė nuo senatvės pensijos amžiaus, pensijų anuiteto mokėtojo apskaičiuojama pagal mirtingumo ir diskonto duomenis pagal jo patvirtintą pensijų anuitetų dydžių apskaičiavimo metodiką, mėnesiais.
+10. Šio straipsnio 4 dalyje nustatyta tvarka apskaičiuotą pensijų anuiteto ribą ir šio straipsnio 9 dalyje nustatyta tvarka apskaičiuotą pensijų turto dydžio riba, suapvalinta euro tikslumu, ne vėliau kaip metų, einančių prieš taikymo metus, gruodžio 31 dieną savo interneto svetainėse paskelbia Socialinės apsaugos ir darbo ministerija ir pensijų anuitetų mokėtojas.
+11. Pensijų anuimetų mokėtojas yra VSDF valdyba. Vienkartines ir periodines pensijų išmokas jų gavėjams moka pensijų kaupimo bendrovės. 
 TAR pastaba. 29 straipsnis įsigalioja 2020 m. liepos 1 d.
 
 
@@ -1315,7 +1280,7 @@ Nr. XIII-2850, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08964
 
 
 
-4. Pensijų išmokos sutartis įsigalioja nuo jos sudarymo. Pensijų išmokos sutartis laikoma sudaryta, kai dalyvis pasirašo prašymą dėl pensijų išmokos sutarties sudarymo, o pensijų kaupimo bendrovės atstovas pasirašo pensijų išmokos sutartį arba uždeda parašo faksimilę. Pensijų kaupimo bendrovė apie pensijų išmokos sutarties sudarymo faktą privalo per 3 darbo dienas pranešti VSDF valdybai su ja suderinta informacijos pateikimo tvarka. Šis terminas gali būti pratęstas tiek dienų, kiek šio įstatymo 12 straipsnio 8 dalyje nurodytu atveju VSDF valdyba yra sustabdžiusi pensijų kaupimo sutarčių įregistravimą ar išregistravimą, bet ne ilgiau kaip 4 darbo dienoms.
+4. Pensijų išmokos sutartis įsigalioja nuo jos sudarymo. Pensijų išmokos sutartis laikoma sudaryta, kai dalyvis pasirašo prašymą dėl pensijų išmokos sutarties sudarymo, o pensijų kaupimo bendrovės atstovas pasirašo pensijų išmokos sutartį arba uždeda parašo faksimilę. Pensijų kaupimo bendrovė apie pensijų išmokos sutarties sudarymo faktą privalo per 3 darbo dienas pranešti VSDF valdybai su ja suderinta informacijos pateikimo tvarka. Šis terminas gali būti pratęstas tiek dienų, kiek šio įstatymo 12 straipsnio 8 dalyje nurodytu atveju VSDF valdyba yra sustabdžiusi pensijų išmokos sutarčių įregistravimą ar išregistravimą, bet ne ilgiau kaip 4 darbo dienoms. Pranešimą apie pensijų išmokos sutarties įregistravimą ar neįregistravimą, nurodžiusi neįregistravimo priežastis, VSDF valdyba pateikia pensijų kaupimo bendrovei per 3 darbo dienas nuo duomenų apie pensijų išmokos sutarties sudarymo faktą gavimo VSDF valdyboje dienos. Pensijų kaupimo bendrovė per 3 darbo dienas nuo dienos, kurią gauna VSDF valdybos pranešimą apie pensijų išmokos sutarties neįregistravimą, privalo informuoti dalyvius, su kuriais sudarytos pensijų išmokos sutartys nebuvo įregistruotos, nurodydama jų neįregistravimo priežastis.
 
 
 
@@ -1325,7 +1290,7 @@ Nr. XIII-2850, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08964
 
 
 
-6. Pensijų išmokos sutartį sudariusio dalyvio vardu negali būti mokamos pensijų įmokos, išskyrus atvejį, kai po pensijų išmokos sutarties sudarymo dalyvio vardu pervedamos pensijų įmokos už laikotarpius, buvusius iki pensijų išmokos sutarties sudarymo. Paskutinis mėnuo, už kurį apskaičiuojamos ir į pensijų fondo, kuriame dalyvis kaupė pensijų įmokas iki pensijų išmokos sutarties sudarymo, sąskaitą pervedamos pensijų įmokos, yra kalendorinis mėnuo prieš kalendorinį mėnesį, kurį sudaryta pensijų išmokos sutartis. Pensijų turtas, susidaręs iš lėšų, dalyvio vardu pervestų pensijų fondui po pensijų išmokos sutarties su dalyviu sudarymo, pensijų išmokos sutartyje nustatyta tvarka turi būti išmokamas dalyviui (jeigu vienkartinė pensijų išmoka jau išmokėta) ne vėliau kaip per 5 darbo dienas nuo tų lėšų gavimo dienos arba pridedamas prie mokėtinų pensijų išmokų (jeigu jos dar neišmokėtos). Tokiais atvejais pensijų išmokų rūšis nekeičiama.
+6. Pensijų išmokos sutartį sudariusio dalyvio vardu negali būti mokamos pensijų įmokos, išskyrus atvejį, kai po pensijų išmokos sutarties sudarymo dalyvio vardu pervedamos pensijų įmokos už laikotarpius, buvusius iki pensijų išmokos sutarties sudarymo. Paskutinis mėnuo, už kurį apskaičiuojamos ir į pensijų fondo, kuriame dalyvis kaupė pensijų įmokas iki pensijų išmokos sutarties sudarymo, sąskaitą pervedamos pensijų įmokos, yra kalendorinis mėnuo prieš kalendorinį mėnesį, kurį sudaryta pensijų išmokos sutartis. Pensijų turtas, susidaręs iš lėšų, dalyvio vardu pervestų pensijų fondui po pensijų išmokos sutarties su dalyviu sudarymo, pensijų išmokos sutartyje nustatyta tvarka turi būti išmokamas dalyviui (jeigu vienkartinė pensijų išmoka jau išmokėta) ne vėliau kaip per 5 darbo dienas nuo tų lėšų gavimo dienos arba pridedamas prie mokėtinų periodinių pensijų išmokų (jeigu jos dar neišmokėtos), arba, dalyviui įsigijus pensijų anuitetą, išmokamas per 5 darbo dienas nuo tų lėšų gavimo, bet ne anksčiau kaip pensijų kaupimo bendrovei gavus pensijų anuimetų mokėtojo pranešimą apie dalyvio neatsisakymą įsigyti pensijų anuimetą (šio įstatymo 33 straipsnio 8 dalis), – tokiais atvejais pensijų išmokų rūšis nekeičiama.
 
 
 
@@ -1335,7 +1300,7 @@ Nr. XIII-2850, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08964
 
 
 
-8. Dalyvis, sudaręs pensijų išmokos sutartį, per 10 darbo dienų nuo pensijų išmokos sutarties įsigaliojimo turi teisę vienašališkai jos atsisakyti, apie tai raštu pranešęs pensijų kaupimo bendrovei. Dalyviui vienašališkai atsisakius pensijų išmokos sutarties, jam ir pensijų kaupimo bendrovei neatsiranda pareigų, susijusių su pensijų išmokos sutarties vykdymu. Pensijų kaupimo bendrovė apie vienašališko pensijų išmokos sutarties atsisakymo faktą privalo per 3 darbo dienas pranešti VSDF valdybai su ja suderinta informacijos pateikimo tvarka. Jeigu pensijų išmokos sutarties su pensijų kaupimo bendrove atsisakyti prašo dalyvis, pasirinkęs gauti pensijų anuitetą, jos jis turi teisę vienašališkai atsisakyti šio įstatymo 33 straipsnio 8 dalyje nustatyta tvarka. Jeigu pensijų išmokos sutartį sudaręs dalyvis miršta per 10 darbo dienų nuo pensijų išmokos sutarties sudarymo, o pensijų anuitetą įsigijęs dalyvis miršta per 10 darbo dienų nuo dienos, kai pensijų anuitetų mokėtojas pateikia (išsiunčia) jam sprendimą dėl pensijų anuiteto mokėjimo, jo sukauptas pensijų turtas paveldimas Civilinio kodekso nustatyta tvarka.
+8. Dalyvis, sudaręs pensijų išmokos sutartį, per 10 darbo dienų nuo pensijų išmokos sutarties įsigaliojimo dienos turi teisę vienašališkai jos atsisakyti, apie tai raštu pranešęs pensijų kaupimo bendrovei. Dalyviui vienašališkai atsisakius pensijų išmokos sutarties, jam ir pensijų kaupimo bendrovei neatsiranda pareigų, susijusių su pensijų išmokos sutarties vykdymu. Pensijų kaupimo bendrovė apie vienašališko pensijų išmokos sutarties atsisakymo faktą privalo per 3 darbo dienas pranešti VSDF valdybai su ja suderinta informacijos pateikimo tvarka. Jeigu pensijų išmokos sutarties su pensijų kaupimo bendrove atsisakyti prašo dalyvis, pasirinkęs gauti pensijų anuietą, jos jis turi teisę vienašališkai atsisakyti šio įstatymo 33 straipsnio 8 dalyje nustatyta tvarka. Jeigu pensijų išmokos sutartį sudaręs dalyvis miršta per 10 darbo dienų nuo pensijų išmokos sutarties sudarymo, o pensijų anuimetą įsigijęs dalyvis miršta per 10 darbo dienų nuo dienos, kurią pensijų anuimetų mokėtojas pateikia (išsiunčia) jam sprendimą dėl pensijų anuiteto skyrimo, jo sukauptas pensijų turtas paveldimas Civilinio kodekso nustatyta tvarka.
 
 
 
