@@ -14,27 +14,27 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
 Suvestinė redakcija nuo 2024-07-02
- 
+ 
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
- 
+ 
 Nauja redakcija nuo 2023-01-01:
 Nr. XIV-1706, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27554
- 
+ 
 LIETUVOS RESPUBLIKOS
 APLINKOS APSAUGOS RĖMIMO PROGRAMOS
 ĮSTATYMAS
- 
+ 
 2000 m. spalio 12 d. Nr. VIII-2025
 Vilnius
- 
- 
+ 
+ 
 
 
 1 straipsnis. Įstatymo paskirtis
 
 
 Šis įstatymas nustato Aplinkos apsaugos rėmimo programos (toliau – Programa) lėšų šaltinius ir jų naudojimo tvarką.
- 
+ 
 
 
 
@@ -50,7 +50,7 @@ Vilnius
 
 
 2. Programą administruoja Lietuvos Respublikos aplinkos ministerija ar jos įgaliota institucija. Programos lėšų naudojimo, subsidijų ir dotacijų teikimo tvarką nustato aplinkos ministras.
- 
+ 
 
 
 
@@ -81,7 +81,7 @@ Programos lėšas sudaro:
 4) lėšos, gautos realizavus konfiskuotą turtą, kuris buvo aplinkos apsaugos nusikaltimo ar pažeidimo padarymo įrankis, priemonė, dalykas ar aplinkos apsaugą reglamentuojančių įstatymų uždraustos veikos rezultatas;
 Straipsnio punkto pakeitimai:
 Nr. XIV-2787, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11786
- 
+ 
 
 
 
@@ -132,11 +132,7 @@ Nr. XIV-2787, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11786
 
 
 14) kitos teisėtai gautos lėšos.
- 
-
-
-
-
+ 
 
 
 
