@@ -503,18 +503,8 @@ Savivaldybių biudžetų asignavimai naudojami savarankiškosioms savivaldybių 
 
 
 2. Mero rezervo lėšos naudojamos savivaldybės tarybos nustatyta tvarka:
-
-
 1) krizėms ar ekstremaliosioms situacijoms ir (arba) ekstremaliesiems įvykiams likviduoti, jų padariniams šalinti ir padarytiems nuostoliams iš dalies kompensuoti;
-
-
-
-
 2) gaisrų ar įvykių padariniams likviduoti ir jų padarytiems nuostoliams iš dalies kompensuoti;
-
-
-
-
 3) dėl nepaprastosios padėties atsiradusioms išlaidoms iš dalies apmokėti ir (arba) jos padariniams šalinti.16 straipsnis. Savivaldybių biudžetų sudarymas
 
 
@@ -722,41 +712,7 @@ TAM TIKRŲ METŲ BIUDŽETO PATVIRTINIMO ĮSTATYMAS19 straipsnis. Tam tikrų met�
 2. Tam tikrų metų biudžeto patvirtinimo įstatyme tvirtinami:
 
 
-1) vienų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų rodikliai:
-
-
-a) bendra valstybės biudžeto pajamų suma ir jų paskirstymas pagal pajamų rūšis pagal ekonominę klasifikaciją;
-
-
-
-
-b) biudžetinių įstaigų pajamų įmokų į valstybės biudžetą, skiriamų programoms finansuoti, paskirstymas valstybės biudžeto asignavimų valdytojams;
-
-
-
-
-c) bendra valstybės biudžeto asignavimų suma, kuri paskirstoma pagal valstybės biudžeto asignavimų valdytojus, ir šiems asignavimų valdytojams paskirstytos asignavimų sumos, kurios agreguojamos pagal valstybės veiklos sritis;
-
-
-
-
-d) savivaldybių biudžetams skiriamų specialių tikslinių dotacijų sumos;
-
-
-
-
-e) gyventojų pajamų mokesčio dalis (procentais), tenkanti visų savivaldybių biudžetams nuo įplaukų į konsoliduotuosius valstybės biudžetą ir savivaldybių biudžetus, išskyrus fiksuoto dydžio gyventojų pajamų mokestį, mokamą už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą;
-
-
-
-
-f) valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio vidutinio laikotarpio užduotys;
-
-
-
-
 2) vidutinės trukmės konsoliduotojo biudžeto rodikliai atskirai pirmiesiems, antriesiems ir tretiesiems biudžetiniams metams:
-
 
 a) agreguotos konsoliduotojo biudžeto pajamos ir jų paskirstymas pagal konsoliduotąjį biudžetą sudarančius biudžetus;
 
@@ -787,6 +743,10 @@ iii) valstybės socialinių fondų biudžetams tenkanti agreguoto asignavimų li
 
 
 iv) Privalomojo sveikatos draudimo fondo biudžetui tenkanti agreguoto asignavimų limito dalis (nurodoma bendra suma).
+
+3) vidutinės trukmės valdžios sektoriaus rodikliai atskirai pirmiesiems, antriesiems ir tretiesiems biudžetiniams metams vienos dešimtosios tikslumu:
+a) valdžios sektoriaus balanso rodiklis (nurodomas procentais BVP);
+b) grynųjų išlaidų augimas (nurodomas procentais).
 
 
 
@@ -884,11 +844,6 @@ m) vidutinės trukmės konsoliduotojo biudžeto pirmųjų, antrųjų ir trečių
 
 
 1. Vyriausybė Seimui pateikia, Seimas svarsto ir priima tam tikrų metų biudžeto patvirtinimo įstatymą Seimo statute nustatyta tvarka ir terminais.
-
-
-
-
-2. Seimas, priimdamas tam tikrų metų biudžeto patvirtinimo įstatymą arba tam tikrų metų biudžeto patvirtinimo įstatymo pakeitimo įstatymą, įvertina paskutines galiojančias Europos Sąjungos Tarybos rekomendacijas ir nuomonę dėl Lietuvos stabilumo programos, Europos Komisijos nuomonę dėl tam tikrų metų biudžeto patvirtinimo įstatymo projekto.
 
 
 
@@ -1161,49 +1116,7 @@ BIUDŽETO KONTROLĖ, BIUDŽETO VYKDYMO IR EKONOMINĖS RAIDOS SCENARIJAUS MODELIA
 
 
 
-VIII SKYRIUS
-FISKALINĖS DRAUSMĖS TAISYKLIŲ NESILAIKYMO PAAIŠKINIMAS
- 
 
-
-33 straipsnis. Procedūros dėl nepagrįsto tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties neįvykdymo arba išlaidų augimo ribojimo taisyklės nesilaikymo
-
-
-1. Kiekvienais metais Vyriausybė ar jos įgaliota institucija kartu su Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 3 straipsnio 2 dalyje nurodyta ataskaita Seimui pateikia informaciją apie tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties vykdymą ir apie tai, ar pasibaigusiais biudžetiniais metais buvo laikomasi Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 3 straipsnio 3 dalyje nustatytos valdžios sektoriaus išlaidų augimo ribojimo taisyklės (toliau – išlaidų augimo ribojimo taisyklė). Neįvykdžius tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties, nurodomos užduoties neįvykdymo priežastys. Laikoma, kad užduotis neįvykdyta arba išlaidų augimo ribojimo taisyklės buvo nesilaikyta, jeigu valdžios sektoriaus balanso rodiklis arba valdžios sektoriaus balanso rodiklio postūmis nukrypsta nuo užduoties arba išlaidų dydis viršija numatytą dydį daugiau negu 0,2 procento BVP to meto kainomis.
-
-
-
-
-2. Jeigu kartu su Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 3 straipsnio 2 dalyje nurodyta ataskaita Seimui pateiktoje informacijoje nurodoma, kad buvo neįvykdyta valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduotis arba buvo nesilaikoma išlaidų augimo ribojimo taisyklės, Ministras Pirmininkas turi Seime žodžiu pateikti šios užduoties neįvykdymo arba išlaidų augimo ribojimo taisyklės nesilaikymo pateisinimo priežastis. Jeigu nėra šio įstatymo 34 straipsnyje nurodytų pateisinamų priežasčių, Ministras Pirmininkas pateikia kitokius paaiškinimus, kodėl nebuvo įvykdyta valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduotis arba nebuvo laikomasi išlaidų augimo ribojimo taisyklės, ir pasiūlo priemones, kurių galėtų būti imamasi siekiant išvengti užduočių neįvykdymo arba išlaidų augimo ribojimo taisyklės nesilaikymo dėl tokių pačių priežasčių ateityje.
-
-
-
-
-3. Vertinant, ar laikomasi išlaidų augimo ribojimo taisyklės, valdžios sektoriui priskiriamų biudžetų, kurių kiekvieno atskirai planuojami asignavimai viršija 3 procentus BVP to meto kainomis, šių biudžetų asignavimų (išskyrus Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas) visuma koreguojama tiems biudžetams priskiriamomis palūkanomis už skolą, diskrecinėmis pajamų priemonėmis, vienkartinėmis išlaidų priemonėmis, ciklinėmis nedarbo išmokomis ir investicijomis, remiantis Reglamento (EB) Nr. 1466/97 nuostatomis.
- 
-
-
-
-
-
-
-34 straipsnis. Tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties neįvykdymo arba išlaidų augimo ribojimo taisyklės nesilaikymo pateisinimo priežastys
-
-
-Tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties neįvykdymo arba išlaidų augimo ribojimo taisyklės nesilaikymo pateisinamos priežastys:
-
-
-1) rengiant tam tikrų metų biudžeto patvirtinimo įstatymo projektą naudoti Valstybės duomenų agentūros arba Europos Komisijos prognozuoti duomenys, kurie vėliau buvo pakeisti;
-
-
-
-
-2) tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų vykdymo biudžetiniais metais priimtas Seimo nutarimas dėl valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties;
-
-
-
-
-3) nuo Vyriausybės nepriklausantys įvykiai, kurie paveikia valdžios sektoriaus finansų rodiklius
 
 
 
@@ -1234,11 +1147,9 @@ Nr. I-430
 Lietuvos Respublikos
 biudžeto sandaros įstatymo
 priedas
- 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
- 
-2011 m. lapkričio 8 d. Tarybos direktyva 2011/85/ES dėl reikalavimų valstybių narių biudžeto sistemoms.
-____________________
+2011 m. lapkričio 8 d. Tarybos direktyva 2011/85/ES dėl reikalavimų valstybių narių biudžeto sistemoms su pakeitimais, padarytais 2024 m. balandžio 29 d. Tarybos direktyva (ES) 2024/1265.
+__________________
 Priedo pakeitimai:
 Nr. XIV-2325, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25312
  
