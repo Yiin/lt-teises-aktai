@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C70309CDEB7B"
 
 # Lietuvos Respublikos karo padėties įstatymas
 
-Suvestinė redakcija nuo 2024-06-27 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1482, i. k. 1001010ISTAIII-1721
  
@@ -102,7 +102,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-10. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos civilinės saugos įstatyme, Lietuvos Respublikos diplomatinės tarnybos įstatyme, Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatyme, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, Lietuvos Respublikos karo prievolės įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme, Lietuvos Respublikos Lietuvos šaulių sąjungos įstatyme, Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos valstybės rezervo įstatyme, Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme, Lietuvos Respublikos valstybės tarnybos įstatyme, Lietuvos Respublikos vidaus tarnybos statute, Lietuvos Respublikos viešojo administravimo įstatyme ir Lietuvos Respublikos žvalgybos įstatyme.
+10. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos diplomatinės tarnybos įstatyme, Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatyme, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme, Lietuvos Respublikos Lietuvos šaulių sąjungos įstatyme, Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos valstybės rezervo įstatyme, Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme, Lietuvos Respublikos valstybės tarnybos įstatyme, Lietuvos Respublikos vidaus tarnybos statute, Lietuvos Respublikos viešojo administravimo įstatyme ir Lietuvos Respublikos žvalgybos įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
  
 
 
@@ -365,7 +367,10 @@ VALSTYBĖS VALDYMO IR VIETOS SAVIVALDOS YPATUMAI
 
 
 
-3) atsižvelgdamas į ginkluotųjų pajėgų poreikius, priima sprendimą leisti atlikti karo tarnybą Karo prievolės įstatyme nurodytiems nuo karo prievolės atleistiems Lietuvos Respublikos piliečiams, raštu pareiškusiems norą atlikti tarnybą paskelbus mobilizaciją;
+3) atsižvelgdamas į ginkluotųjų pajėgų poreikius, priima sprendimą leisti atlikti karo tarnybą Karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatyme nurodytiems nuo karo prievolės atleistiems Lietuvos Respublikos piliečiams, raštu pareiškusiems norą atlikti tarnybą paskelbus mobilizaciją;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
+ 
 
 
 
@@ -758,12 +763,18 @@ GINKLUOTOSIOS PAJĖGOS, GINKLUOTŲJŲ PAJĖGŲ NARIAI, JŲ TEISĖS, PAREIGOS IR 
 
 
 
-8. Ginkluotųjų pajėgų nariai iš karo tarnybos, vidaus tarnybos, tarnybos Vadovybės apsaugos tarnyboje ar tarnybos žvalgybos institucijoje atleidžiami juos Karo prievolės įstatyme nustatytais atvejais paleidžiant iš tarnybos paskelbus mobilizaciją.
+8. Ginkluotųjų pajėgų nariai iš karo tarnybos, vidaus tarnybos, tarnybos Vadovybės apsaugos tarnyboje ar tarnybos žvalgybos institucijoje atleidžiami juos Karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatyme nustatytais atvejais paleidžiant iš tarnybos paskelbus mobilizaciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
+ 
 
 
 
 
-9. Lietuvos šaulių sąjungos koviniuose būriuose tarnaujantys šauliai, išstoję iš Lietuvos šaulių sąjungos, lieka ginkluotųjų pajėgų nariais ir iš karo tarnybos paleidžiami Karo prievolės įstatyme nustatytais paleidimo iš tarnybos paskelbus mobilizaciją atvejais.
+9. Lietuvos šaulių sąjungos koviniuose būriuose tarnaujantys šauliai, išstoję iš Lietuvos šaulių sąjungos, lieka ginkluotųjų pajėgų nariais ir iš karo tarnybos paleidžiami Karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatyme nustatytais paleidimo iš tarnybos paskelbus mobilizaciją atvejais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
+ 
 
 
 
@@ -791,7 +802,10 @@ GINKLUOTOSIOS PAJĖGOS, GINKLUOTŲJŲ PAJĖGŲ NARIAI, JŲ TEISĖS, PAREIGOS IR 
 
 
 
-2) tikrosios karo tarnybos karys, Valstybės sienos apsaugos tarnybos ir Viešojo saugumo tarnybos statutinis valstybės tarnautojas, Vadovybės apsaugos tarnybos pareigūnas, Antrajame operatyvinių tarnybų departamente pagal žvalgybos pareigūno tarnybos sutartį tarnaujantis žvalgybos pareigūnas ar šaulys, tarnaujantis Lietuvos šaulių sąjungos koviniuose būriuose, Karo prievolės įstatyme nustatytais atvejais paleidžiamas iš tarnybos paskelbus mobilizaciją; 
+2) tikrosios karo tarnybos karys, Valstybės sienos apsaugos tarnybos ir Viešojo saugumo tarnybos statutinis valstybės tarnautojas, Vadovybės apsaugos tarnybos pareigūnas, Antrajame operatyvinių tarnybų departamente pagal žvalgybos pareigūno tarnybos sutartį tarnaujantis žvalgybos pareigūnas ar šaulys, tarnaujantis Lietuvos šaulių sąjungos koviniuose būriuose, Karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatyme nustatytais atvejais paleidžiamas iš tarnybos paskelbus mobilizaciją;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
+ 
 
 
 
@@ -1528,7 +1542,10 @@ VI SKYRIUS
 27 straipsnis. Judėjimo laisvės apribojimas
 
 
-1. Karo prievolininkai, norintys išvykti iš Lietuvos Respublikos, turi gauti karo prievolę administruojančios krašto apsaugos sistemos institucijos leidimą, o atvykę į karo prievolę administruojančiai krašto apsaugos sistemos institucijai nurodytą užsienio valstybę – užsiregistruoti Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje. Kai užsienio valstybėje, į kurią karo prievolininkas ketina vykti, nėra Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos, karo prievolę administruojanti krašto apsaugos sistemos institucija, vadovaudamasi Lietuvos Respublikos sudarytomis tarptautinėmis sutartimis, karo prievolininkui nurodo, kurios NATO valstybės diplomatinėje atstovybėje ar konsulinėje įstaigoje užsienio valstybėje jis privalo užsiregistruoti. Leidimo karo prievolininkams išvykti iš Lietuvos Respublikos išdavimo sąlygas ir tvarką ir karo prievolininkų registravimosi užsienio valstybėje tvarką nustato krašto apsaugos ministras, suderinęs su Lietuvos Respublikos užsienio reikalų ministru.
+1. Karo prievolininkams, alternatyviosios krašto apsaugos tarnybos prievolininkams ir asmenims, įtrauktiems į civilinio mobilizacinio personalo rezervą, ne tarnybos tikslais draudžiama išvykti iš Lietuvos Respublikos. Vyriausybė ar jos įgaliota institucija turi teisę nustatyti atvejus (įskaitant išimtinius atvejus dėl asmeninių aplinkybių), kai, atsižvelgiant į karo tarnybos ir atitinkamai alternatyviosios krašto apsaugos tarnybos ar civilinio mobilizacinio personalo rezervo poreikius, šių asmenų vykimas būtų galimas, ir tvarką, pagal kurią šie asmenys galėtų išvykti. Šie asmenys gali išvykti tik turėdami leidimą. Šiuos leidimus karo prievolininkams išduoda karo prievolę administruojanti krašto apsaugos sistemos institucija, alternatyviosios krašto apsaugos tarnybos prievolininkams – alternatyviąją krašto apsaugos tarnybą administruojanti institucija, asmenims, įtrauktiems į civilinio mobilizacinio personalo rezervą, – Mobilizacijos ir pilietinio pasipriešinimo departamentas prie Krašto apsaugos ministerijos. Atvykę į užsienio valstybę šie asmenys Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi užsiregistruoti Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje. Kai užsienio valstybėje, į kurią šie asmenys ketina vykti, nėra Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos, karo prievolę administruojanti institucija, alternatyviąją krašto apsaugos tarnybą administruojanti institucija bei Mobilizacijos ir pilietinio pasipriešinimo departamentas prie Krašto apsaugos ministerijos, vadovaudamiesi Lietuvos Respublikos sudarytomis tarptautinėmis sutartimis, šiems asmenims nurodo, kurios NATO valstybės diplomatinėje atstovybėje ar konsulinėje įstaigoje užsienio valstybėje jie privalo užsiregistruoti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
+ 
 
 
 
