@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2025-08-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -3025,7 +3025,10 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 
-2. Važiuoti leidžiama tik su tvarkingą stabdį ir garso signalą, baltą šviesos žibintą priekyje ir raudoną šviesos žibintą gale, taip pat iš abiejų šonų oranžinius šviesą atspindinčius elementus turinčia elektrine mikrojudumo priemone. Važiuodamas važiuojamąja kelio dalimi, elektrinės mikrojudumo priemonės vairuotojas privalo dėvėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais arba šios priemonės priekyje turi degti baltas šviesos žibintas, o gale – raudonas šviesos žibintas. Važiuojant keliu tamsiuoju paros metu arba kai blogas matomumas, elektrinės mikrojudumo priemonės priekyje turi degti baltas šviesos žibintas, o gale – raudonas šviesos žibintas, šios priemonės vairuotojas privalo dėvėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais. Jaunesni kaip 18 metų elektrinių mikrojudumo priemonių vairuotojai, važiuodami keliu, privalo būti užsidėję ir užsisegę dviratininko, riedlentininko ar motociklininko šalmą. Vyresni kaip 18 metų elektrinių mikrojudumo priemonių vairuotojai, važiuodami važiuojamąja kelio dalimi, privalo būti užsidėję ir užsisegę dviratininko, riedlentininko ar motociklininko šalmą. Vyresniems kaip 18 metų elektrinių mikrojudumo priemonių vairuotojams, važiuojantiems keliu, rekomenduojama būti užsidėjus ir užsisegus dviratininko, riedlentininko ar motociklininko šalmą. Elektrinių mikrojudumo priemonių vairuotojams taip pat rekomenduojama naudoti kūno apsaugos priemones (pavyzdžiui, alkūnių, kelių apsaugas ir kt.).
+2. Važiuoti leidžiama tik su tvarkingą stabdį ir garso signalą, baltą šviesos žibintą priekyje ir raudoną šviesos žibintą gale, taip pat iš abiejų šonų oranžinius šviesą atspindinčius elementus turinčia elektrine mikrojudumo priemone. Važiuodamas važiuojamąja kelio dalimi, elektrinės mikrojudumo priemonės vairuotojas privalo dėvėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais arba šios priemonės priekyje turi degti baltas šviesos žibintas, o gale – raudonas šviesos žibintas. Važiuojant keliu tamsiuoju paros metu arba kai blogas matomumas, elektrinės mikrojudumo priemonės priekyje turi degti baltas šviesos žibintas, o gale – raudonas šviesos žibintas, šios priemonės vairuotojas privalo dėvėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais. Visi elektrinių mikrojudumo priemonių vairuotojai važiuodami privalo būti užsidėję ir užsisegę dviratininko, riedlentininko ar motociklininko šalmą. Elektrinių mikrojudumo priemonių vairuotojams taip pat rekomenduojama naudoti kūno apsaugos priemones (pavyzdžiui, alkūnių, kelių apsaugas ir kt.). Jeigu elektrinė mikrojudumo priemonė yra nuomojama, šalmą privalo suteikti elektrinės mikrojudumo priemonės nuomotojas.
+Straipsnio dalies pakeitimai:
+Nr. XV-139, 2025-03-27, paskelbta TAR 2025-04-01, i. k. 2025-05662
+ 
 
 
 
