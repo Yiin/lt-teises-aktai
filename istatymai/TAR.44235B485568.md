@@ -1473,7 +1473,7 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 161 straipsnis. Reguliuojamosios veiklos ataskaitų ir reguliavimo apskaitos sistemos patikra
 
 
-1. Energetikos įmonės, kurių teikiamų paslaugų kainos yra valstybės reguliuojamos ir (ar) kurioms Lietuvos Respublikos elektros energetikos įstatymo 67 straipsnio 1 dalies arba Lietuvos Respublikos gamtinių dujų įstatymo 9 straipsnio 7 dalies pagrindu nustatyti Tarybos įpareigojimai, susiję su reguliavimo apskaitos sistema, rengia reguliuojamosios veiklos ataskaitas ir užtikrina, kad pasibaigus kiekvieniems finansiniams metams per 4 mėnesius pagal Tarybos patvirtintą ar pratęstą galioti techninę užduotį būtų atlikta reguliuojamosios veiklos ataskaitų patikra dėl ataskaitų atitikties Tarybos patvirtintiems reguliavimo apskaitos sistemos reikalavimams ir (ar) metodui, ir (ar) modeliui ir reguliuojamosios veiklos ataskaitos, reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada pateiktos Tarybai. Jeigu licenciją išdavė savivaldybės institucija, energetikos įmonė reguliuojamosios veiklos ataskaitas, reguliuojamosios veiklos ataskaitų patikros ataskaitą ir (ar) išvadą pateikia licenciją išdavusiai institucijai tokia pačia tvarka ir terminais, kaip ir teikdama Tarybai.
+1. Energetikos įmonės, kurių teikiamų paslaugų kainos yra valstybės reguliuojamos ir (ar) kurioms Lietuvos Respublikos elektros energetikos įstatymo 67 straipsnio 1 dalies arba Lietuvos Respublikos gamtinių dujų įstatymo 9 straipsnio 7 dalies pagrindu nustatyti Tarybos įpareigojimai, susiję su reguliavimo apskaitos sistema, rengia reguliuojamosios veiklos ataskaitas ir užtikrina, kad pasibaigus kiekvieniems finansiniams metams per 5 mėnesius pagal Tarybos patvirtintą ar pratęstą galioti techninę užduotį būtų atlikta reguliuojamosios veiklos ataskaitų patikra dėl ataskaitų atitikties Tarybos patvirtintiems reguliavimo apskaitos sistemos reikalavimams ir (ar) metodui, ir (ar) modeliui ir reguliuojamosios veiklos ataskaitos, reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada pateiktos Tarybai. Jeigu licenciją išdavė savivaldybės institucija, energetikos įmonė reguliuojamosios veiklos ataskaitas, reguliuojamosios veiklos ataskaitų patikros ataskaitą ir (ar) išvadą pateikia licenciją išdavusiai institucijai tokia pačia tvarka ir terminais, kaip ir teikdama Tarybai.
 
 
 
@@ -1483,7 +1483,7 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 
 
-3. Jeigu Taryba turi informacijos ar Tarybai kyla pagrįstų įtarimų, kad energetikos įmonės tvarkoma reguliavimo apskaitos sistema neatitinka teisės aktuose įtvirtintų reikalavimų, ar paaiškėja aplinkybės dėl netinkamai vykdomos reguliuojamosios veiklos, Taryba motyvuotu sprendimu gali nustatyti reikalavimą bet kuriai energetikos įmonei, kurios teikiamų paslaugų kainos yra valstybės reguliuojamos ar kuriai yra nustatyti Tarybos įpareigojimai, susiję su reguliavimo apskaitos sistema, ne vėliau kaip per 12 mėnesių nuo Tarybos sprendimo priėmimo dienos pagal Tarybos patvirtintą techninę užduotį atlikti reguliavimo apskaitos sistemos patikrą dėl jos atitikties reguliuojamąją veiklą reglamentuojantiems teisės aktų reikalavimams ir per 10 darbo dienų nuo reguliavimo apskaitos sistemos patikros atlikimo dienos pateikti reguliavimo apskaitos sistemos patikros ataskaitą ir (ar) išvadą Tarybai.
+3. Jeigu Taryba turi informacijos ar Tarybai kyla pagrįstų įtarimų, kad energetikos įmonės tvarkoma reguliavimo apskaitos sistema neatitinka teisės aktuose įtvirtintų reikalavimų, ar paaiškėja aplinkybės dėl netinkamai vykdomos reguliuojamosios veiklos, Taryba motyvuotu sprendimu gali nustatyti reikalavimą bet kuriai energetikos įmonei, kurios teikiamų paslaugų kainos yra valstybės reguliuojamos ar kuriai yra nustatyti Tarybos įpareigojimai, susiję su reguliavimo apskaitos sistema, ne vėliau kaip per 12 mėnesių nuo Tarybos sprendimo priėmimo dienos pagal Tarybos patvirtintą techninę užduotį atlikti reguliavimo apskaitos sistemos patikrą dėl jos atitikties reguliuojamąją veiklą reglamentuojantiems teisės aktų reikalavimams ir per 10 darbo dienų nuo reguliavimo apskaitos sistemos patikros atlikimo dienos pateikti reguliavimo apskaitos sistemos patikros ataskaitą ir (ar) išvadą Tarybai.
 
 
 
@@ -1507,13 +1507,7 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 
 Straipsnio pakeitimai:
-Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
- 
-
-
-
-
-17 straipsnis. Energetikos veiklos ypatumai, energijos ir energijos išteklių kokybė ir sudėtis
+Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-0316617 straipsnis. Energetikos veiklos ypatumai, energijos ir energijos išteklių kokybė ir sudėtis
 
 
 1. Energetikos įmonių, vykdančių energijos perdavimo, skirstymo ar tiekimo veiklą, išskyrus nepriklausomo elektros energijos ar gamtinių dujų tiekimo veiklą, veiklos teritorija nurodoma energetikos įmonei išduotoje veiklos licencijoje. 
