@@ -130,30 +130,17 @@ b) A2 lygio – pareigybės, kurioms būtinas ne žemesnis kaip aukštasis unive
 
 
 
-
-
 2) B lygio – pareigybės, kurioms būtinas ne žemesnis kaip aukštesnysis išsilavinimas, įgytas iki 2009 metų, ar specialusis vidurinis išsilavinimas, įgytas iki 1995 metų;
 
 
 
 
-3) C lygio – pareigybės, kurioms būtinas ne žemesnis kaip vidurinis išsilavinimas ir (ar) įgyta profesinė kvalifikacija;
+3) C lygio – pareigybės, kurioms būtinas ne žemesnis kaip vidurinis išsilavinimas ir (ar) įgyta kvalifikacija;
 
 
 
 
-4) D lygio – pareigybės, kurioms netaikomi išsilavinimo ar profesinės kvalifikacijos reikalavimai.
- 
- 
-
-
-
-
-
-
-
-
-3 straipsnis. Pareigybių grupės
+4) D lygio – pareigybės, kurioms netaikomi išsilavinimo ar kvalifikacijos reikalavimai.3 straipsnis. Pareigybių grupės
 
 
 Biudžetinių įstaigų darbuotojų pareigybės skirstomos į šias grupes:
@@ -179,17 +166,7 @@ Biudžetinių įstaigų darbuotojų pareigybės skirstomos į šias grupes:
 
 
 
-5) darbuotojai, kurių pareigybės priskiriamos D lygiui (toliau – darbininkai).
- 
-
-
-
-
-
-
-
-
-4 straipsnis. Biudžetinių įstaigų pareigybių sąrašas ir pareigybių aprašymai
+5) darbuotojai, kurių pareigybės priskiriamos D lygiui (toliau – darbininkai).4 straipsnis. Biudžetinių įstaigų pareigybių sąrašas ir pareigybių aprašymai
 
 
 1. Biudžetinės įstaigos pareigybių skaičių ir pareigybių sąrašą, naudodamasis ekonomikos ir inovacijų ministro patvirtintu Lietuvos profesijų klasifikatoriaus kodu ir pritaikydamas profesijos pavadinimą konkrečiai pareigybei įvardyti, nustato biudžetinės įstaigos vadovas, konsultuodamasis su darbuotojų atstovais.
@@ -347,12 +324,12 @@ Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
 Straipsnio dalies pakeitimai:
 Nr. XIV-2836, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12631
 Nr. XIV-2865, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12650
- 
+ 
 
 
 
 
-2. Pareiginės algos koeficiento vienetas yra Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatytas pareiginės algos (atlyginimo) bazinis dydis. Pareiginė alga apskaičiuojama pareiginės algos koeficientą dauginant iš pareiginės algos (atlyginimo) bazinio dydžio.
+2. Pareiginės algos koeficiento vienetas yra Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo įstatyme nustatytas pareiginės algos (atlyginimo) bazinis dydis. Pareiginė alga apskaičiuojama pareiginės algos koeficientą dauginant iš pareiginės algos (atlyginimo) bazinio dydžio.
 
 
 
@@ -362,15 +339,15 @@ Nr. XIV-2865, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12650
 
 
 
-4. A1 lygio pareigybių pareiginės algos koeficientai darbo apmokėjimo sistemoje didinami 20 procentų, palyginti su to paties lygmens (pakopos) pareigybėmis, kurių pagal pareigybės aprašymą priskirtoms funkcijoms atlikti magistro kvalifikacinio laipsnio nereikalaujama (išskyrus biudžetinių įstaigų vadovus).
+4. A1 lygio pareigybių pareiginės algos koeficientai darbo apmokėjimo sistemoje nustatyta tvarka didinami 20 procentų, palyginti su to paties lygmens (pakopos) pareigybėmis, kurių pagal pareigybės aprašymą priskirtoms funkcijoms atlikti magistro kvalifikacinio laipsnio nereikalaujama (išskyrus biudžetinių įstaigų vadovus). Jeigu įstaigoje nėra kitų to paties lygmens (pakopos) pareigybių, su kuriomis galėtų būti lyginamos A1 lygio pareigybės, A1 lygio pareigybių pareiginės algos koeficientai darbo apmokėjimo sistemoje nustatyta tvarka didinami 20 procentų, palyginti su žemesnio lygmens (pakopos) pareigybėmis.
 Straipsnio dalies pakeitimai:
 Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
- 
+ 
 
 
 
 
-5. Socialinių paslaugų srities darbuotojų šio įstatymo 1 priede nustatyti minimalūs pareiginės algos koeficientai didinami 21 procentu.
+5. Šio įstatymo 1 priede nustatyti minimalūs pareiginės algos koeficientai socialinių paslaugų srities darbuotojams didinami 21 procentu, treneriams – 7,65 procento.
 
 
 
@@ -385,326 +362,12 @@ Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
 
 
 
-8. Biudžetinės įstaigos darbuotojo pareiginė alga, nustatyta pagal šio įstatymo nuostatas ir biudžetinės įstaigos darbo apmokėjimo sistemą, sulygstama darbo sutartyje. Pareiginės algos koeficientas, išskyrus šio įstatymo 7 straipsnyje nurodytus darbuotojus, keičiamas (nustatomas iš naujo) darbo apmokėjimo sistemoje numatytais atvejais. Šio įstatymo 7 straipsnyje nurodytų darbuotojų pareiginės algos koeficientas turi būti keičiamas (nustatomas iš naujo), pasikeitus darbuotojo pareiginės algos koeficiento nustatymo kriterijams, nurodytiems šio įstatymo 2 priede ir (arba) darbo apmokėjimo sistemoje.
- 
+8. Biudžetinės įstaigos darbuotojo pareiginė alga, nustatyta pagal šio įstatymo nuostatas ir biudžetinės įstaigos darbo apmokėjimo sistemą, sulygstama darbo sutartyje. Pareiginės algos koeficientas, išskyrus šio įstatymo 7 straipsnyje nurodytus darbuotojus, keičiamas (nustatomas iš naujo) darbo apmokėjimo sistemoje numatytais atvejais. Šio įstatymo 7 straipsnyje nurodytų darbuotojų pareiginės algos koeficientas turi būti keičiamas (nustatomas iš naujo), pasikeitus darbuotojo pareiginės algos koeficiento nustatymo kriterijams, nurodytiems šio įstatymo 2 priede ir (arba) darbo apmokėjimo sistemoje, o mokyklos vadovo, jo pavaduotojo ugdymui, mokyklos ugdymą organizuojančio skyriaus vedėjo, švietimo pagalbos įstaigos vadovo, jo pavaduotojo ir švietimo pagalbos įstaigos skyriaus vedėjo, kurių darbas laikomas pedagoginiu, pareiginės algos koeficientas turi būti keičiamas (nustatomas iš naujo) ir tada, kai šio įstatymo 9 straipsnio 9 dalies 1 punkte nurodytu atveju šiems darbuotojams nustatomas didesnis pareiginės algos koeficientas arba kai šio įstatymo 9 straipsnio 11 dalies 1 punkte nurodytu atveju šiems darbuotojams nustatomas mažesnis pareiginės algos koeficientas.
 
 
 
 
-
-
-7 straipsnis. Mokytojų (išskyrus trenerius), pagalbos mokiniui specialistų, mokyklų vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų, švietimo pagalbos įstaigų vadovų, jų pavaduotojų ir skyrių vedėjų, kurių darbas laikomas pedagoginiu, pareiginė alga ir darbo krūvio sandara
-
-
-1. Mokytojų (išskyrus trenerius) ir pagalbos mokiniui specialistų pareiginės algos koeficientai nustatomi pagal šio įstatymo 2 priedą, atsižvelgiant į pedagoginio darbo stažą, kvalifikacinę kategoriją ir veiklos sudėtingumą.
-
-
-
-
-2. Mokyklų vadovų, jų pavaduotojų ugdymui pareiginės algos koeficientai nustatomi pagal šio įstatymo 2 priedą, atsižvelgiant į mokykloje ugdomų mokinių skaičių, pedagoginio darbo stažą ir veiklos sudėtingumą.
-
-
-
-
-3. Švietimo pagalbos įstaigų vadovų, jų pavaduotojų, kurių darbas laikomas pedagoginiu, pareiginės algos koeficientai nustatomi pagal šio įstatymo 2 priedą, atsižvelgiant į biudžetinės įstaigos pareigybių sąraše nustatytą pareigybių skaičių, vadovaujamo darbo patirtį, kuri apskaičiuojama sumuojant laikotarpius, kai buvo vadovaujama įmonėms, įstaigoms, organizacijoms ir (ar) jų padaliniams, ir kitus darbo apmokėjimo sistemoje nustatytus kriterijus.
-
-
-
-
-4. Mokyklų ugdymą organizuojančių skyrių vedėjų pareiginės algos koeficientai nustatomi pagal šio įstatymo 2 priedą, atsižvelgiant į pedagoginio darbo stažą ir veiklos sudėtingumą.
-
-
-
-
-5. Švietimo pagalbos įstaigų skyrių vedėjų, kurių darbas laikomas pedagoginiu, pareiginės algos koeficientai nustatomi pagal šio įstatymo 2 priedą, atsižvelgiant į pareigybės lygį, vadovaujamo darbo patirtį, kuri apskaičiuojama sumuojant laikotarpius, kai buvo vadovaujama įmonėms, įstaigoms ir organizacijoms ir (ar) jų padaliniams, profesinio darbo patirtį, kuri apskaičiuojama sumuojant laikotarpius, kai buvo dirbamas darbas, analogiškas pareigybės aprašyme nustatytam tam tikros profesijos ar specialybės darbui, arba atliekamos funkcijos, analogiškos pareigybės aprašyme nustatytoms funkcijoms, kitus darbo apmokėjimo sistemoje nustatytus kriterijus.
-
-
-
-
-6. Mokytojų (išskyrus trenerius), pagalbos mokiniui specialistų kvalifikacinės kategorijos, atsižvelgiant į mokytojų (išskyrus trenerius), pagalbos mokiniui specialistų išsilavinimą ir jų turimų kompetencijų, reikalingų profesinei veiklai, visumą, nustatomos švietimo, mokslo ir sporto ministro nustatyta tvarka. Mokytojams (išskyrus trenerius) ir pagalbos mokiniui specialistams, įgijusiems vidurinį išsilavinimą, mokytojams (išskyrus trenerius) ir pagalbos mokiniui specialistams, baigusiems profesinio mokymo programą, įgijusiems vidurinį išsilavinimą ir kvalifikaciją, gali būti suteikiamos atitinkamai mokytojo, vyresniojo mokytojo, pagalbos mokiniui specialisto ar vyresniojo pagalbos mokiniui specialisto kvalifikacinės kategorijos. Mokytojams (išskyrus trenerius) ir pagalbos mokiniui specialistams, įgijusiems aukštąjį (aukštesnįjį, įgytą iki 2009 metų, ar specialųjį vidurinį, įgytą iki 1995 metų) išsilavinimą, gali būti suteikiamos atitinkamai mokytojo, vyresniojo mokytojo, mokytojo metodininko, mokytojo eksperto ar pagalbos mokiniui specialisto, vyresniojo pagalbos mokiniui specialisto, pagalbos mokiniui specialisto metodininko, pagalbos mokiniui specialisto eksperto kvalifikacinės kategorijos. Mokytojams (išskyrus trenerius) ir pagalbos mokiniui specialistams, įgijusiems aukštąjį (aukštesnįjį, įgytą iki 2009 metų, ar specialųjį vidurinį, įgytą iki 1995 metų) išsilavinimą ir pedagogo kvalifikaciją, iš karto suteikiama mokytojo ar pagalbos mokiniui specialisto kvalifikacinė kategorija.
-
-
-
-
-7. Pareigybių, kurias atliekant darbas laikomas pedagoginiu ir įskaitomas į pedagoginio darbo stažą, sąrašą tvirtina švietimo, mokslo ir sporto ministras.
-
-
-
-
-8. Mokytojų (išskyrus trenerius) ir pagalbos mokiniui specialistų darbo krūvio sandara (darbo pareigų paskirstymas pagal laiką) pateikiama šio įstatymo 2 priede.
- 
-
-
-
-
-
-
-8 straipsnis. Priemokos
-
-
-1. Biudžetinės įstaigos darbuotojui gali būti skiriamos šios priemokos:
-
-
-1) už pavadavimą, kai raštu pavedama laikinai atlikti kito darbuotojo pareigybei nustatytas funkcijas;
-
-
-
-
-2) už papildomų raštu suformuluotų užduočių atlikimą, kai dėl to viršijamas įprastas darbo krūvis arba kai atliekamos pareigybės aprašyme nenustatytos funkcijos;
-
-
-
-
-3) už įprastą darbo krūvį viršijančią veiklą, kai yra padidėjęs darbų mastas, atliekant pareigybės aprašyme nustatytas funkcijas, bet neviršijama nustatyta darbo laiko trukmė.
-
-
-
-
-
-
-2. Kiekviena priemoka, nurodyta šio straipsnio 1 dalyje, negali būti mažesnė kaip 10 procentų pareiginės algos, o jų suma negali viršyti 80 procentų pareiginės algos. Šios dalies nuostatos netaikomos mokytojams ir pagalbos mokiniui specialistams.
-Straipsnio dalies pakeitimai:
-Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
- 
-
-
-
-
-3. Priemokos dydį nustato darbuotoją į pareigas priimantis asmuo.
- 
-
-
-
-
-
-
-9 straipsnis. Biudžetinių įstaigų darbuotojų veiklos vertinimas
-
-
-1. Vertinama biudžetinių įstaigų vadovų ir darbuotojų, išskyrus mokytojus, pagalbos mokiniui specialistus ir darbininkus, praėjusių kalendorinių metų (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų – mėnesio (mėnesių)) veikla.
-
-
-
-
-2. Nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų, socialinių paslaugų srities darbuotojų, sveikatos priežiūros specialistų, švietimo įstaigų vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų praėjusių kalendorinių metų (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų – mėnesio (mėnesių)) veikla vertinama vadovaujantis atitinkamai kultūros ministro, socialinės apsaugos ir darbo ministro, sveikatos apsaugos ministro, švietimo, mokslo ir sporto ministro tvirtinamu atitinkamos srities nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų, socialinių paslaugų srities darbuotojų, sveikatos priežiūros specialistų ar švietimo įstaigų vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų veiklos vertinimo tvarkos aprašu. Kitų biudžetinių įstaigų darbuotojų praėjusių kalendorinių metų veikla vertinama vadovaujantis Vyriausybės ar jos įgaliotos institucijos tvirtinamu biudžetinių įstaigų darbuotojų veiklos vertinimo tvarkos aprašu.
-
-
-
-
-3. Biudžetinės įstaigos vadovo, išskyrus švietimo įstaigos vadovą, veiklos vertinimo tikslas – nustatyta tvarka įvertinti jo kompetenciją (įgūdžius, žinias, gebėjimus) ir pasiektus veiklos rezultatus. Švietimo įstaigos vadovo veiklos vertinimo tikslas – įvertinti pasiektus švietimo įstaigos vadovo veiklos rezultatus pagal nustatytas veiklos vertinimo užduotis ir jų įgyvendinimo rodiklius, švietimo įstaigos vadovo gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas ir numatyti galimybes veiklą tobulinti.
-
-
-
-
-4. Biudžetinės įstaigos darbuotojų, išskyrus biudžetinės įstaigos vadovą, veiklos vertinimo tikslas – nustatyta tvarka įvertinti jų kompetenciją (įgūdžius, žinias, gebėjimus) ir pasiektus veiklos rezultatus.
-
-
-
-
-5. Biudžetinės įstaigos darbuotojo (taip pat ir biudžetinės įstaigos vadovo) veikla vertinama, jeigu jis ne trumpiau kaip 6 mėnesius per kalendorinius metus, kurių veikla vertinama, eina darbuotojo pareigas toje biudžetinėje įstaigoje, kurioje yra vertinama jo veikla.
-
-
-
-
-6. Biudžetinės įstaigos vadovo veiklą vertina jį į pareigas priimantis asmuo ar jo įgaliotas asmuo. Mokyklos vadovo veikla vertinama, dalyvaujant mokyklos taryboms, švietimo pagalbos įstaigos vadovo veikla vertinama, dalyvaujant švietimo pagalbos įstaigų savivaldos institucijoms, jeigu jos yra (jeigu švietimo pagalbos įstaigose savivaldos institucijų nėra, – darbuotojų atstovams). Biudžetinės įstaigos darbuotojų veiklą vertina tiesioginiai jų vadovai. Vertinami biudžetinės įstaigos vadovai ir darbuotojai turi teisę kviesti biudžetinės įstaigos darbuotojų atstovą dalyvauti tiesioginiam vadovui (biudžetinių įstaigų vadovas – jį į pareigas priimantį asmenį, jeigu biudžetinės įstaigos vadovo veiklą vertino jį į pareigas priimančio asmens įgaliotas asmuo) vertinant jų veiklą.
-
-
-
-
-7. Biudžetinės įstaigos vadovą į pareigas priimantis asmuo ar jo įgaliotas asmuo, tiesioginis biudžetinės įstaigos darbuotojo vadovas (toliau – tiesioginis vadovas) darbuotojo veiklą gali įvertinti taip:
-
-
-1) viršijanti lūkesčius;
-
-
-
-
-2) atitinkanti lūkesčius;
-
-
-
-
-3) iš dalies atitinkanti lūkesčius;
-
-
-
-
-4) neatitinkanti lūkesčių.
-
-
-
-
-
-
-8. Jeigu biudžetinės įstaigos darbuotojo veikla įvertinama kaip atitinkanti lūkesčius, teisinė jo padėtis nesikeičia ir biudžetinės įstaigos darbuotojo veiklos vertinimas baigiamas, išskyrus atvejus, kai darbuotojas nesutinka su tiesioginio vadovo pateiktu veiklos vertinimu. Taip pat kolektyvinėje sutartyje arba vietiniuose norminiuose teisės aktuose gali būti numatyta galimybė taikyti šio įstatymo 10 straipsnio 2 dalies 6 ir 7 punktuose nustatytas skatinimo priemones.
-
-
-
-
-9. Jeigu biudžetinės įstaigos darbuotojo (išskyrus biudžetinės įstaigos vadovą) veikla įvertinama kaip viršijanti lūkesčius, tiesioginio vadovo rašytiniu motyvuotu pasiūlymu biudžetinės įstaigos darbuotoją į pareigas priimančio asmens sprendimu, o jeigu biudžetinės įstaigos vadovo veikla įvertinama kaip viršijanti lūkesčius, biudžetinės įstaigos vadovą į pareigas priimančio asmens įgalioto asmens (jeigu biudžetinės įstaigos vadovo veiklos vertinimą buvo įgaliotas atlikti kitas asmuo) rašytiniu motyvuotu pasiūlymu biudžetinės įstaigos vadovą į pareigas priimančio asmens sprendimu (pasirinktinai vienas iš šios dalies 1–3 punktuose nustatytų atvejų ir papildomai gali būti taikomos šios dalies 4 punkte nustatytos priemonės):
-
-
-1) biudžetinės įstaigos vadovui ar darbuotojui, atsižvelgiant į darbo apmokėjimo sistemos nuostatas, gali būti nustatomas didesnis pareiginės algos koeficientas, taikant ne mažiau kaip 0,06 didesnį pareiginės algos koeficientą, tačiau ne didesnį, negu nustatytas tos pareigybės didžiausias pareiginės algos koeficientas, o mokyklos vadovui, jo pavaduotojui ugdymui, mokyklos ugdymą organizuojančio skyriaus vedėjui, švietimo pagalbos įstaigos vadovui, jo pavaduotojui ir švietimo pagalbos įstaigos skyriaus vedėjui, kurių darbas laikomas pedagoginiu, gali būti nustatomas didesnis pareiginės algos koeficientas, taikant ne mažiau kaip 0,06 didesnį pareiginės algos koeficientą, tačiau padidintas pareiginės algos koeficientas negali viršyti šio įstatymo 2 priede nustatyto pareiginės algos koeficiento, padauginto iš 1,4, arba
-
-
-
-
-2) biudžetinės įstaigos vadovui ar darbuotojui gali būti taikomos šio įstatymo 10 straipsnio 2 dalyje nustatytos skatinimo priemonės, arba
-
-
-
-
-3) biudžetinės įstaigos darbuotojas (išskyrus biudžetinės įstaigos vadovą) gali būti perkeliamas į toje pačioje biudžetinėje įstaigoje esančias aukštesnes biudžetinės įstaigos darbuotojo pareigas, kurios įstaigos darbo apmokėjimo sistemoje priskirtos aukštesniam pareigybių lygmeniui (pakopai), jeigu jis atitinka šiai pareigybei keliamus reikalavimus ir jeigu toks perkėlimas neprieštarauja Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo 23 straipsniui (biudžetinės įstaigos darbuotojas gali būti perkeliamas į pareigas, dėl kurių turi būti rengiamas konkursas, tik jeigu tai atitinka Vyriausybės tvirtinamame pareigybių, dėl kurių rengiamas konkursas, sąraše nurodytas sąlygas), arba 
-Straipsnio punkto pakeitimai:
-Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
- 
-
-
-
-
-4) biudžetinės įstaigos vadovui ar darbuotojui gali būti taikomos kitos biudžetinėje įstaigoje nustatytos skatinimo priemonės.
-
-
-
-
-
-
-10. Jeigu biudžetinės įstaigos vadovo ar darbuotojo veikla įvertinama kaip iš dalies atitinkanti lūkesčius, jo teisinė padėtis nesikeičia, tačiau biudžetinės įstaigos vadovui ar darbuotojui gali būti nustatomas kvalifikacijos tobulinimas.
-
-
-
-
-11. Kai biudžetinės įstaigos darbuotojo (išskyrus biudžetinės įstaigos vadovą) veikla įvertinama kaip neatitinkanti lūkesčių, tiesioginio vadovo rašytiniu motyvuotu pasiūlymu biudžetinės įstaigos darbuotoją į pareigas priimančio asmens sprendimu, o jeigu biudžetinės įstaigos vadovo veikla įvertinama kaip neatitinkanti lūkesčių, biudžetinės įstaigos vadovą į pareigas priimančio asmens įgalioto asmens (jeigu biudžetinės įstaigos vadovo veiklos vertinimą buvo įgaliotas atlikti kitas asmuo) rašytiniu motyvuotu pasiūlymu biudžetinės įstaigos vadovą į pareigas priimančio asmens sprendimu:
-
-
-1) biudžetinės įstaigos vadovui ar darbuotojui, atsižvelgiant į darbo apmokėjimo sistemos nuostatas, gali būti nustatomas mažesnis pareiginės algos koeficientas, taikant ne mažiau kaip 0,06 ir ne daugiau kaip 0,18 mažesnį pareiginės algos koeficientą, tačiau ne mažesnį, negu nustatytas tos pareigybės minimalus pareiginės algos koeficientas, o mokyklos vadovui, jo pavaduotojui ugdymui, mokyklos ugdymą organizuojančio skyriaus vedėjui, švietimo pagalbos įstaigos vadovui, jo pavaduotojui ir švietimo pagalbos įstaigos skyriaus vedėjui, kurių darbas laikomas pedagoginiu, taikant 0,1 mažesnį pareiginės algos koeficientą, arba
-
-
-
-
-2) biudžetinės įstaigos vadovas ar darbuotojas gali būti perkeliamas į toje pačioje biudžetinėje įstaigoje esančias žemesnes pareigas, kurios įstaigos darbo apmokėjimo sistemoje priskirtos žemesniam pareigybių lygmeniui (pakopai), jeigu tai neprieštarauja Viešųjų ir privačių interesų derinimo įstatymo 23 straipsniui (biudžetinės įstaigos darbuotojas gali būti perkeliamas į pareigas, dėl kurių turi būti rengiamas konkursas, tik jeigu tai atitinka Vyriausybės tvirtinamame pareigybių, dėl kurių rengiamas konkursas, sąraše nurodytas sąlygas), arba 
-Straipsnio punkto pakeitimai:
-Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
- 
-
-
-
-
-3) gali būti sudaromas ne trumpesnės negu 2 mėnesių ir ne ilgesnės negu 6 mėnesių trukmės biudžetinės įstaigos vadovo ar darbuotojo veiklos gerinimo planas. Jeigu, pasibaigus biudžetinės įstaigos darbuotojo veiklos gerinimo plano terminui, biudžetinės įstaigos darbuotojo veikla neeilinio vertinimo metu įvertinama kaip neatitinkanti lūkesčių, biudžetinės įstaigos darbuotojas gali būti atleidžiamas iš pareigų.
-
-
-
-
-
-
-12. Neeilinis biudžetinės įstaigos darbuotojo veiklos vertinimas šio straipsnio 13 dalyje nustatyta tvarka atliekamas biudžetinės įstaigos vadovą ar darbuotoją į pareigas priimančio asmens sprendimu šiais atvejais:
-
-
-1) tiesioginio vadovo rašytiniu motyvuotu pasiūlymu, susijusiu su biudžetinės įstaigos darbuotojo veiklos rezultatais;
-
-
-
-
-2) biudžetinės įstaigos darbuotojo prašymu nustatyti jam didesnį pareiginės algos koeficientą;
-
-
-
-
-3) biudžetinės įstaigos darbuotojo prašymu perkelti jį į toje pačioje biudžetinėje įstaigoje esančias aukštesnes (išskyrus biudžetinės įstaigos vadovo ar jo pavaduotojo) pareigas, kurios įstaigos darbo apmokėjimo sistemoje priskirtos aukštesniam pareigybių lygmeniui (pakopai);
-Straipsnio punkto pakeitimai:
-Nr. XV-82, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23077
- 
-
-
-
-
-4) jeigu biudžetinės įstaigos darbuotojo veikla buvo įvertinta kaip neatitinkanti lūkesčių ir buvo sudarytas jo veiklos gerinimo planas.
-
-
-
-
-
-
-13. Neeilinis biudžetinės įstaigos darbuotojo veiklos vertinimas gali būti atliekamas šio straipsnio 12 dalyje nustatytais atvejais ne dažniau kaip vieną kartą per kalendorinius metus, jeigu nuo biudžetinės įstaigos darbuotojo eilinio veiklos vertinimo praėjo ne mažiau kaip 6 mėnesiai, išskyrus atvejus, kai yra nustatytas trumpesnės trukmės biudžetinės įstaigos darbuotojo veiklos gerinimo planas arba kai biudžetinės įstaigos darbuotojas ne trumpiau kaip 6 mėnesius per kalendorinius metus ėjo pareigas toje biudžetinėje įstaigoje, kurioje vertinama jo veikla, arba kai vertinama nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų veikla.
-
-
-
-
-14. Biudžetinės įstaigos darbuotojas, nesutinkantis su tiesioginio vadovo pateiktu veiklos vertinimu, turi teisę kreiptis į biudžetinės įstaigos darbuotoją į pareigas priimantį asmenį prašydamas įvertinti, ar veiklos vertinimas objektyvus ir pagrįstas. Jeigu biudžetinės įstaigos darbuotoją į pareigas priimantis asmuo padaro išvadą, kad biudžetinės įstaigos darbuotojo veikla įvertinta neobjektyviai ir nemotyvuotai, biudžetinės įstaigos darbuotojo tiesioginis vadovas atlieka pakartotinį biudžetinės įstaigos darbuotojo veiklos vertinimą. Biudžetinės įstaigos darbuotoją į pareigas priimančio asmens išvada dėl biudžetinės įstaigos darbuotojo veiklos vertinimo objektyvumo ir pagrįstumo gali būti skundžiama darbo ginčų nagrinėjimo tvarka.
-
-
-
-
-15. Biudžetinių įstaigų darbuotojų veiklos vertinimo tvarkos ypatumai taip pat gali būti nustatyti kolektyvinėse sutartyse arba darbo apmokėjimo sistemose.
- 
-
-
-
-
-
-
-10 straipsnis. Skatinimas
-
-
-1. Už nepriekaištingą pareigų atlikimą biudžetinės įstaigos darbuotoją jį į pareigas priimantis asmuo gali skatinti šio įstatymo ir kitų teisės aktų nustatyta tvarka.
-
-
-
-
-2. Biudžetinės įstaigos darbuotojai gali būti skatinami šiomis skatinimo priemonėmis:
-
-
-1) padėka;
-
-
-
-
-2) iki 2 pareiginių algų dydžio pinigine išmoka už asmeninį išskirtinį indėlį įgyvendinant biudžetinei įstaigai nustatytus tikslus arba už pasiektus rezultatus ir įgyvendintus uždavinius (tačiau ne dažniau kaip du kartus per kalendorinius metus);
-
-
-
-
-3) suteikiant iki 5 mokamų papildomų poilsio dienų (tačiau ne daugiau kaip 10 mokamų papildomų poilsio dienų per metus) arba atitinkamai sutrumpinant darbo laiką;
-
-
-
-
-4) vienkartine pinigine išmoka Vyriausybės nustatyta tvarka;
-
-
-
-
-5) finansuojant kvalifikacijos tobulinimą ne didesne kaip biudžetinės įstaigos darbuotojo vienos pareiginės algos dydžio suma per metus;
-
-
-
-
-6) kintamąja dalimi, jeigu ji numatyta darbo apmokėjimo sistemoje;
-
-
-
-
-7) kitomis skatinimo priemonėmis, numatytomis kolektyvinėje sutartyje arba vietiniuose norminiuose teisės aktuose.
-
-
-
-
-
-
-3. Prie šio straipsnio 2 dalies 2–7 punktuose nustatytų skatinimo priemonių papildomai gali būti skiriama padėka.
-
-
-
-
-4. Biudžetinės įstaigos darbuotojai, jeigu buvo nustatyta, kad per paskutinius 6 mėnesius jie padarė darbo pareigų pažeidimą, gali būti neskatinami, išskyrus atvejį, kai darbuotojo veikla įvertinama kaip viršijanti lūkesčius, o Viešųjų ir privačių interesų derinimo įstatymo 23 straipsnyje nustatytais atvejais – neskatinami.
- 
-
-
-
-
-
-
-11 straipsnis. Materialinės pašalpos
+9. Šio įstatymo 9 straipsnio 9 dalies 1 punkte nurodytu atveju švietimo įstaigos vadovui nustatytas didesnis pareiginės algos koeficientas taikomas, jeigu pasibaigus švietimo įstaigos vadovo pirmajai kadencijai jis be konkurso skiriamas antrajai kadencijai toje pačioje švietimo įstaigoje.11 straipsnis. Materialinės pašalpos
 
 
 1. Biudžetinės įstaigos darbuotojams, kurių materialinė būklė tapo sunki dėl jų pačių ligos, artimųjų giminaičių, sutuoktinio, partnerio (kai partnerystė įregistruota įstatymų nustatyta tvarka), sugyventinio, jo tėvų, vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių), taip pat išlaikytinių, kurių globėjais ar rūpintojais įstatymų nustatyta tvarka yra paskirti biudžetinės įstaigos darbuotojai, ligos ar mirties, stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 MMA dydžio materialinė pašalpa, jeigu yra pateikti šių darbuotojų rašytiniai prašymai ir atitinkamą aplinkybę patvirtinantys dokumentai.
