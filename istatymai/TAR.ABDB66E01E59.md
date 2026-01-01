@@ -29,12 +29,10 @@ Vilnius
 3. Šiame įstatyme vartojama sąvoka „perkančioji organizacija“ suprantama taip, kaip ji apibrėžiama Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatyme.
 4. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos nacionalinės plėtros įstaigos įstatyme, Lietuvos Respublikos strateginių prekių kontrolės įstatyme ir Lietuvos Respublikos technologijų ir inovacijų įstatyme.
 
-#### 3 straipsnis. Mokslinių tyrimų ir eksperimentinės plėtros veiklos, susijusios su ginklų, ginklų priedėlių ir šaudmenų, jų dalių kūrimu, reikalavimai
-Asmenys, užsiimantys mokslinių tyrimų ir eksperimentinės plėtros veikla, susijusia su ginklų, ginklų priedėlių ir šaudmenų, jų dalių kūrimu, apimančiu ginklų, ginklų priedėlių ir šaudmenų, jų dalių projektavimą, aprašymų, techninių specifikacijų, brėžinių rengimą, vienetinių gabaritinių maketų, kuriuose nėra panaudota tikrų ginklų, ginklų priedėlių, šaudmenų dalių, gamybą, privalo užtikrinti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus kuriamų ginklų, ginklų priedėlių ir šaudmenų, jų dalių apskaitos, apsaugos irkontrolės reikalavimus.
+#### 3 straipsnis. Mokslinių tyrimų ir eksperimentinės plėtros veiklos, susijusios su ginklų, ginklų priedėlių ir šaudmenų, jų pagrindinių dalių kūrimu, reikalavimai
+Asmenys, užsiimantys mokslinių tyrimų ir eksperimentinės plėtros veikla, susijusia su ginklų, ginklų priedėlių ir šaudmenų, jų pagrindinių dalių kūrimu, apimančiu ginklų, ginklų priedėlių ir šaudmenų, jų pagrindinių dalių projektavimą, aprašymų, techninių specifikacijų, brėžinių rengimą, vienetinių gabaritinių maketų, kuriuose nėra panaudota tikrų pagrindinių ginklų, ginklų priedėlių, šaudmenų dalių, gamybą, privalo užtikrinti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus kuriamų ginklų, ginklų priedėlių ir šaudmenų, jų pagrindinių dalių apskaitos, apsaugos ir kontrolės reikalavimus.
 
-## II SKYRIUS. GYNYBOS IR SAUGUMO PRAMONĖS POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
-
-#### 4 straipsnis. Gynybos ir saugumo pramonės politiką formuojančios, ją formuojant dalyvaujančios ir įgyvendinančios institucijos
+## II SKYRIUS. GYNYBOS IR SAUGUMO PRAMONĖS POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS#### 4 straipsnis. Gynybos ir saugumo pramonės politiką formuojančios, ją formuojant dalyvaujančios ir įgyvendinančios institucijos
 1. Gynybos ir saugumo pramonės politika formuojama, atsižvelgiant į Nacionalinio saugumo strategijoje nustatytus ilgojo laikotarpio nacionalinio saugumo politikos prioritetus ir uždavinius, Nacionaliniame pažangos plane nustatytus strateginius tikslus ir uždavinius bei Krašto apsaugos sistemos stiprinimo ir plėtros programoje numatytus prioritetus ir uždavinius bei uždavinių įgyvendinimo kryptis.
 2. Už gynybos ir saugumo pramonės politikos formavimą, jos įgyvendinimą, organizavimą ir koordinavimą yra atsakingos Krašto apsaugos ministerija ir Ekonomikos ir inovacijų ministerija. Lietuvos Respublikos užsienio reikalų ministerija ir Lietuvos Respublikos vidaus reikalų ministerija, krašto apsaugos sistemos gynybai reikalingos ginkluotės ir kitų prekių, paslaugų ir darbų įsigijimo ir valdymo institucija dalyvauja formuojant gynybos ir saugumo pramonės politiką pagal šiame ir kituose įstatymuose bei teisės aktuose nustatytą su karine įranga (įskaitant jai priskiriamus ginklus, ginklų priedėlius ir šaudmenis, jų dalis) ar dvejopo naudojimo prekėmis (toliau – pramonės produktai) susijusios veiklos kontrolės kompetenciją.
 3. Gynybos ir saugumo pramonės politiką pagal kompetenciją įgyvendina valstybės technologijų ir inovacijų politiką įgyvendinanti institucija, krašto apsaugos ministro įgaliotos institucijos, Nacionalinė plėtros įstaiga.
@@ -58,7 +56,7 @@ Asmenys, užsiimantys mokslinių tyrimų ir eksperimentinės plėtros veikla, su
    5) koordinuoja gynybos ir saugumo pramonės srityje veikiančių subjektų dalyvavimą tarptautiniuose renginiuose, parodose, projektuose;
    6) atlieka kitas šiame įstatyme nustatytas funkcijas.
 4. Vidaus reikalų ministerija:
-   1) formuoja su ginklais, ginklų priedėliais ir šaudmenimis, jų dalimis susijusios veiklos licencijavimo ir kontrolės srities politiką ir atlieka su šiais produktais susijusios veiklos licencijavimo ir kontrolės srities teisinio reguliavimo peržiūrą;
+   1) formuoja su ginklais, ginklų priedėliais ir šaudmenimis, jų pagrindinėmis dalimis susijusios veiklos licencijavimo ir kontrolės srities politiką ir atlieka su šiais produktais susijusios veiklos licencijavimo ir kontrolės srities teisinio reguliavimo peržiūrą;
    2) organizuoja ir koordinuoja viešojo saugumo reikmėms skirtų pramonės produktų testavimą vidaus reikalų ministro valdymo srities statutinėse įstaigose, prireikus dalyvauja Lietuvos kariuomenei testuojant naujus pramonės produktus ir technologijas;
    3) nustato mokslinių tyrimų viešojo saugumo srityje poreikį;
    4) rengia priemones, skatinančias mokslinius tyrimus, eksperimentinę plėtrą ir inovacinę veiklą viešojo saugumo srityje, koordinuoja jų įgyvendinimą;
@@ -68,9 +66,7 @@ Asmenys, užsiimantys mokslinių tyrimų ir eksperimentinės plėtros veikla, su
    2) įgyvendina priemones, skirtas pramonės produktų eksportui skatinti ir tiesioginėms užsienio investicijoms pritraukti;
    3) teikia gynybos ir saugumo pramonės politiką formuojančioms, ją formuojant dalyvaujančioms ir įgyvendinančioms institucijoms pasiūlymus dėl dvišalio ir daugiašalio bendradarbiavimo bei santykių su užsienio partneriais plėtojimo gynybos ir saugumo pramonės plėtros srityje;
    4) atlieka kitas šiame įstatyme nustatytas funkcijas.
-6. Gynybos ir saugumo pramonės politiką formuojančios ir ją formuojant dalyvaujančios institucijos pagal kompetenciją užtikrina Sąraše nurodytos ginkluotės, karinės technikos ir kitos įrangos bei technologijų vystymą.
-
-#### 6 straipsnis. Gynybos ir saugumo pramonės politiką įgyvendinančių institucijų ir įstaigų kompetencija
+6. Gynybos ir saugumo pramonės politiką formuojančios ir ją formuojant dalyvaujančios institucijos pagal kompetenciją užtikrina Sąraše nurodytos ginkluotės, karinės technikos ir kitos įrangos bei technologijų vystymą.#### 6 straipsnis. Gynybos ir saugumo pramonės politiką įgyvendinančių institucijų ir įstaigų kompetencija
 1. Valstybės technologijų ir inovacijų politiką įgyvendinanti institucija:
    1) kaupia informaciją apie gynybos ir saugumo pramonės srityje veikiančius subjektus ir jų veiklos galimybes ir prireikus teikia šią informaciją Vyriausybei, gynybos ir saugumo pramonės politiką formuojančioms, ją formuojant dalyvaujančioms ir įgyvendinančioms institucijoms ir įstaigoms, kitoms suinteresuotoms institucijoms;
    2) įgyvendina priemones, skatinančias pramonės produktų eksportą;
