@@ -227,7 +227,11 @@ LYGIŲ GALIMYBIŲ ĮGYVENDINIMAS
 
 3) imtis priemonių, kad asmenims su negalia būtų užtikrintas tinkamas sąlygų pritaikymas, kurio reikia konkrečiu atveju asmenims su negalia siekiant gauti administracines ir (ar) viešąsias paslaugas, kai šios dalies 1 ir 2 punktuose nurodytų sąlygų nepakanka.
 
-3. Valstybės institucijos priemones lygioms galimybėms užtikrinti numato strateginio planavimo dokumentuose. Savivaldybių institucijos priemones lygioms galimybėms užtikrinti numato savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane.6 straipsnis. Švietimo įstaigų, kitų švietimo teikėjų bei mokslo ir studijų institucijų pareiga įgyvendinti lygias galimybes
+3. Valstybės institucijos priemones lygioms galimybėms užtikrinti numato strateginio planavimo dokumentuose. Savivaldybių institucijos priemones lygioms galimybėms užtikrinti numato savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane.
+
+4. Lietuvos Respublikos Vyriausybės įgaliotos įstaigos įgyvendina lygias galimybes priemones pagal Vyriausybės nutarime nustatytą kompetenciją.
+
+6 straipsnis. Švietimo įstaigų, kitų švietimo teikėjų bei mokslo ir studijų institucijų pareiga įgyvendinti lygias galimybes
 
 
 1. Švietimo įstaigos, kiti švietimo teikėjai bei mokslo ir studijų institucijos privalo užtikrinti vienodas sąlygas asmenims nepaisant lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos, kai:
@@ -253,8 +257,6 @@ LYGIŲ GALIMYBIŲ ĮGYVENDINIMAS
 
 
 
-
-
 2. Švietimo įstaigos, kiti švietimo teikėjai bei mokslo ir studijų institucijos pagal kompetenciją privalo užtikrinti, kad švietimo programose, vadovėliuose ir mokymo priemonėse nebūtų diskriminavimo ir diskriminavimo propagavimo lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu.
 
 
@@ -263,7 +265,7 @@ LYGIŲ GALIMYBIŲ ĮGYVENDINIMAS
 3. Švietimo įstaigos, kiti švietimo teikėjai bei mokslo ir studijų institucijos privalo užtikrinti, kad šiose įstaigose ir institucijose nebūtų priekabiaujama, seksualiai priekabiaujama ir nebūtų duodami nurodymai diskriminuoti lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu šio straipsnio 1 dalyje nustatytais atvejais.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
- 
+ 
 
 
 
@@ -271,17 +273,11 @@ Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
 4. Švietimo įstaigos, kiti švietimo teikėjai bei mokslo ir studijų institucijos privalo imtis priemonių, kad mokiniai, studentai ar darbuotojai, pateikę skundą dėl diskriminacijos, dalyvaujantys byloje dėl diskriminacijos ar pranešę apie diskriminaciją, jų atstovai ar asmenys, liudijantys ar teikiantys paaiškinimus dėl diskriminacijos, nebūtų persekiojami ir būtų apsaugoti nuo priešiško elgesio ar neigiamų padarinių.
 Papildyta straipsnio dalimi:
 Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
- 
+ 
 
 
 Straipsnio pakeitimai:
-Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
- 
-
-
-
-
-7 straipsnis. Darbdavio pareiga įgyvendinti lygias galimybes darbe, valstybės tarnyboje
+Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-125737 straipsnis. Darbdavio pareiga įgyvendinti lygias galimybes darbe, valstybės tarnyboje
 
 
 Įgyvendindamas lygias galimybes, darbdavys, neatsižvelgdamas į lytį, rasę, tautybę, pilietybę, kalbą, kilmę, socialinę padėtį, tikėjimą, įsitikinimus ar pažiūras, amžių, lytinę orientaciją, negalią, etninę priklausomybę, religiją, privalo:
