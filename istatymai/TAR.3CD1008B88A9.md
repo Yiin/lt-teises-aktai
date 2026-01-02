@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
 
-Suvestinė redakcija nuo 2026-01-01 iki 2026-01-01
+Suvestinė redakcija nuo 2026-01-02
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
  
@@ -199,10 +199,10 @@ Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
 
 
 
-27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatyme, Lietuvos Respublikos karo padėties įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos valstybės rezervo įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme.
+27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatyme, Lietuvos Respublikos karo padėties įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos valstybės rezervo įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, Lietuvos Respublikos viešųjų pirkimų įstatyme, Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatyme. 
 Straipsnio dalies pakeitimai:
-Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
 Nr. XIV-2731, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11568
+Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
  
 
 
