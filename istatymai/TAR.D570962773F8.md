@@ -422,7 +422,7 @@ Nr. XV-178, 2025-05-06, paskelbta TAR 2025-05-07, i. k. 2025-08218
 
 
 
-49) birželio 14-oji – Gedulo ir vilties diena, Palaimintojo arkivyskupo Teofiliaus Matulionio diena;
+49) birželio 14-oji – Gedulo ir vilties diena, Palaimintojo arkivyskupo Teofiliaus Matulionio diena, Pasaulinė kraujo donorų diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-2693, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10826
 Nr. XV-178, 2025-05-06, paskelbta TAR 2025-05-07, i. k. 2025-08218
@@ -847,7 +847,13 @@ Nr. XV-178, 2025-05-06, paskelbta TAR 2025-05-07, i. k. 2025-08218
 
 
 
-89) lapkričio 15-oji – Mecenatystės diena; 
+89) lapkričio 14-oji – Pasaulinė diabeto diena;
+ 
+
+
+
+
+90) lapkričio 15-oji – Mecenatystės diena; 
 Papildyta straipsnio punktu:
 Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
 Straipsnio punkto numeracijos pakeitimas:
