@@ -52,16 +52,9 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 2. Šis įstatymas netaikomas nustatant:
 
+1) žemės gelmių naudojimo (kaip apibrėžta Lietuvos Respublikos žemės gelmių įstatyme) paskirties statinių reikalavimus, išskyrus esminius statinių reikalavimus, nustatytus Reglamente (ES) 2024/3110;
 
-1) žemės gelmių naudojimo (kaip apibrėžta Lietuvos Respublikos žemės gelmių įstatyme) paskirties statinių reikalavimus, išskyrus esminius statinių reikalavimus, nustatytus 2011 m. kovo 9 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 305/2011, kuriuo nustatomos suderintos statybos produktų rinkodaros sąlygos ir panaikinama Tarybos direktyva 89/106/EEB (toliau – Reglamentas (ES) Nr. 305/2011);
-
-
-
-
-2) nekilnojamojo kultūros paveldo tyrimų ir kultūros paveldo statinių tvarkomųjų paveldosaugos darbų ir su jais susijusių procedūrų reikalavimus, kuriuos nustato Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas, išskyrus Reglamente (ES) Nr. 305/2011 nustatytus esminius statinių reikalavimus ir šio įstatymo 15 straipsnio 1 dalyje nustatytus reikalavimus;
-
-
-
+2) nekilnojamojo kultūros paveldo tyrimų ir kultūros paveldo statinių tvarkomųjų paveldosaugos darbų ir su jais susijusių procedūrų reikalavimus, kuriuos nustato Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas, išskyrus Reglamente (ES) 2024/3110 nustatytus esminius statinių reikalavimus ir šio įstatymo 15 straipsnio 1 dalyje nustatytus reikalavimus;
 
 3) naudojamame statinyje vykdomos ūkinės komercinės ar kitos veiklos reikalavimus.
 
@@ -120,12 +113,12 @@ Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
 
 
 
-6. Darnioji techninė specifikacija – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
+6. Darnioji techninė specifikacija – dokumentas, kuris laikomas darniąja technine specifikacija pagal Reglamento (ES) 2024/3110 3 straipsnio 42 punktą arba remiantis Reglamento (ES) 2024/3110 95 straipsnyje nustatytomis pereinamojo laikotarpio nuostatomis.ė specifikacija – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
 
 
 
 
-7. Darnusis standartas – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
+tas – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
 
 
 
@@ -153,7 +146,7 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-10. Esminės charakteristikos – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
+10. Esminės charakteristikos – kaip apibrėžta Reglamento (ES) 2024/3110 3 straipsnio 7 punkte.eristikos – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
 
 
 
@@ -167,22 +160,22 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-12. Europos techninis įvertinimas – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
+12. Europos techninis įvertinimas – kaip apibrėžta Reglamento (ES) 2024/3110 3 straipsnio 19 punkte.is įvertinimas – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
 
 
 
 
-13. Europos vertinimo dokumentas – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
+13. Europos vertinimo dokumentas – kaip apibrėžta Reglamento (ES) 2024/3110 3 straipsnio 18 punkte.mo dokumentas – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
 
 
 
 
-14. Gamintojas – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
+14. Gamintojas – kaip apibrėžta Reglamento (ES) 2024/3110 3 straipsnio 10 punkte.
 
 
 
 
-15. Importuotojas – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
+15. Importuotojas – kaip apibrėžta Reglamento (ES) 2024/3110 3 straipsnio 34 punkte.
 
 
 
@@ -197,7 +190,7 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-18. Įgaliotasis atstovas – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
+18. Įgaliotasis atstovas – kaip apibrėžta Reglamento (ES) 2024/3110 3 straipsnio 36 punkte.tovas – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
 
 
 
@@ -243,7 +236,7 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-25. Nacionalinis techninis įvertinimas – techninio vertinimo įstaigos Lietuvos Respublikos teisės aktų nustatyta tvarka parengtas ir išduotas statybos produkto eksploatacinių savybių vertinimo, atsižvelgiant į jo esmines charakteristikas, dokumentas.
+25. Nacionalinis techninis įvertinimas – techninio vertinimo įstaigos aplinkos ministro nustatyta tvarka parengtas ir išduotas statybos produkto eksploatacinių savybių vertinimo, atsižvelgiant į jo esmines charakteristikas, susijusias su esminiais statinių reikalavimais, dokumentas.
 
 
 
@@ -291,7 +284,7 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-34. Paskirtoji įstaiga – Lietuvos Respublikoje įsteigtas juridinis asmuo, Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, juridinis asmuo ar kita užsienio organizacija, juridinio asmens ar kitos organizacijos padalinys, aplinkos ministro nustatyta tvarka Vyriausybės įgaliotos institucijos ar įstaigos paskirtas atlikti trečiosios šalies užduotis vertinant ir tikrinant statybos produktų eksploatacinių savybių pastovumą. 
+34. Paskirtoji įstaiga – Lietuvos Respublikoje įsteigtas juridinis asmuo, Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, juridinis asmuo ar kita užsienio organizacija, juridinio asmens ar kitos organizacijos padalinys, aplinkos ministro nustatyta tvarka Vyriausybės įgaliotos institucijos ar įstaigos paskirtas atlikti trečiosios šalies užduotis vertinant ir tikrinant statybos produktų eksploatacinių savybių pastovumą ir statybos produktų atitiktį pagal Reglamentą (ES) 2024/3110 nustatytiems reikalavimams ir (ar) tikrinant statybos produktų aplinkosauginio tvarumo skaičiavimus, ir (ar) vertinant Lietuvos Respublikos geriamojo vandens įstatymo 7 straipsnio 2 dalyje nurodytų gaminių atitiktį minimaliesiems higienos reikalavimams, nustatytiems Europos Komisijos įgyvendinimo aktais, priimtais pagal 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyvos (ES) 2020/2184 dėl žmonėms vartoti skirto vandens kokybės (nauja redakcija) 11 straipsnio 2 dalį. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
@@ -343,7 +336,7 @@ Nr. XIV-2994, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17764
 
 
 
-42. Pateikimas į rinką – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
+42. Pateikimas į rinką – kaip apibrėžta Reglamento (ES) 2024/3110 3 straipsnio 5 punkte.nką – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
 
 
 
@@ -358,7 +351,7 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-43. Platintojas – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
+43. Platintojas – kaip apibrėžta Reglamento (ES) 2024/3110 3 straipsnio 35 punkte.
 
 
 
@@ -407,7 +400,7 @@ Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
 
 
 
-50. Statinio ekspertizė – esamo ar statomo statinio techninės būklės įvertinimas, turint tikslą nustatyti, ar statinys atitinka Reglamente (ES) Nr. 305/2011 nustatytus esminius statinių reikalavimus.
+50. Statinio ekspertizė – esamo ar statomo statinio techninės būklės įvertinimas, turint tikslą nustatyti, ar statinys atitinka Reglamente (ES) 2024/3110 nustatytus esminius statinių reikalavimus.
 
 
 
@@ -517,7 +510,7 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-66. Statinio projekto ekspertizė – įvertinimas, kaip statinio projekte yra įgyvendinti Reglamente (ES) Nr. 305/2011 nustatyti esminiai statinių reikalavimai, taip pat kitų Lietuvos Respublikos įstatymų ir teisės aktų, normatyvinių statybos techninių dokumentų ir privalomųjų statinio projekto rengimo dokumentų reikalavimai.
+66. Statinio projekto ekspertizė – įvertinimas, kaip statinio projekte yra įgyvendinti Reglamente (ES) 2024/3110 nustatyti esminiai statinių reikalavimai, kitų Lietuvos Respublikos įstatymų ir teisės aktų, normatyvinių statybos techninių dokumentų ir privalomųjų statinio projekto rengimo dokumentų reikalavimai.
 
 
 
@@ -600,7 +593,7 @@ Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 
 
 
-82. Statinio techninė priežiūra – statinio naudotojo organizuojama šio ir kitų Lietuvos Respublikos įstatymų bei kitų teisės aktų nustatytų techninių, organizacinių priemonių visuma, užtikrinanti Reglamente (ES) Nr. 305/2011 nustatytus esminius statinių reikalavimus per visą statinio ekonomiškai pagrįstą naudojimo trukmę.
+82. Statinio techninė priežiūra – statinio naudotojo organizuojama šio ir kitų Lietuvos Respublikos įstatymų bei kitų teisės aktų nustatytų techninių, organizacinių priemonių visuma, užtikrinanti Reglamente (ES) 2024/3110 nustatytus esminius statinių reikalavimus per visą statinio ekonomiškai pagrįstą naudojimo trukmę.
 
 
 
@@ -666,12 +659,12 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-94. Statybos produktas – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
+94. Statybos produktas – kaip apibrėžta Reglamento (ES) 2024/3110 3 straipsnio 1 punkte.
 
 
 
 
-95. Statybos produkto eksploatacinės savybės – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
+95. Statybos produkto eksploatacinės savybės – kaip apibrėžta Reglamento (ES) 2024/3110 3 straipsnio 6 punkte.to eksploatacinės savybės – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
 
 
 
@@ -704,7 +697,7 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-101. Techninė specifikacija – dokumentas (atskira dokumento dalis), kuriame pateikiami produkto, proceso ar paslaugos techniniai reikalavimai. Statybos produktų techninės specifikacijos yra standartai, Europos vertinimo dokumentai ir nacionaliniai techniniai įvertinimai.
+101. Techninė specifikacija – dokumentas (atskira dokumento dalis), kuriame pateikiami produkto, proceso ar paslaugos techniniai reikalavimai. Statybos produktų techninės specifikacijos yra standartai, darniųjų techninių specifikacijų statusą turintys Europos Komisijos įgyvendinimo aktai ir deleguotieji aktai, Europos vertinimo dokumentai ir nacionaliniai techniniai įvertinimai.
 
 
 
@@ -732,7 +725,7 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-105. Tiekimas rinkai – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
+105. Tiekimas rinkai – kaip apibrėžta Reglamento (ES) 2024/3110 3 straipsnio 4 punkte.i – kaip apibrėžta Reglamente (ES) Nr. 305/2011.
 
 
 
@@ -859,16 +852,9 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 4 straipsnis. Esminiai statinių reikalavimai
 
+1. Statinys (jo dalis) turi būti suprojektuotas (-a) ir pastatytas (-a) taip, kad per ekonomiškai pagrįstą statinio naudojimo trukmę pagal jo naudojimo paskirtį atitiktų Reglamente (ES) 2024/3110 nustatytus esminius statinių reikalavimus.
 
-1. Statinys (jo dalis) turi būti suprojektuotas ir pastatytas taip, kad per ekonomiškai pagrįstą statinio naudojimo trukmę pagal jo naudojimo paskirtį atitiktų Reglamente (ES) Nr. 305/2011 nustatytus esminius statinių reikalavimus.
-
-
-
-
-2. Reglamente (ES) Nr. 305/2011 nustatyti esminiai statinių reikalavimai (vienas, keli ar visi) išsamiai apibrėžiami ir statinio techniniai parametrai pagal statinių ar statybos produktų charakteristikų lygius ir klases nustatomi pagal Vyriausybės nustatytą kompetenciją Vyriausybės įgaliotų institucijų teisės aktuose.
-
-
-
+2. Reglamente (ES) 2024/3110 nustatyti esminiai statinių reikalavimai (vienas, keli ar visi) išsamiai apibrėžiami ir statinio techniniai parametrai pagal statinių ar statybos produktų charakteristikų lygius ir klases nustatomi pagal Vyriausybės nustatytą kompetenciją Vyriausybės įgaliotų institucijų teisės aktuose.
 
 3. Statinių klasifikavimą pagal jų naudojimo paskirtį pagal jai būdingus funkcinius, inžinerinius, socialinius, nekilnojamojo turto kadastro objektų kiekio, užimamo sklypo ir kitus požymius, statinių paskirties grupes, atsižvelgiant į pagrindinę žemės naudojimo paskirtį ir naudojimo būdus, nekilnojamojo turto kadastro objektų formavimo (kaip atskirus nekilnojamojo turto objektus suformuojant patalpas statinyje, statinius ir (ar) patalpas padalijant, atidalijant, sujungiant, perdalijant) tvarką nustato Vyriausybės įgaliota institucija.
 Straipsnio dalies pakeitimai:
@@ -883,6 +869,10 @@ Nr. XIV-2522, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06309
 
 
 5 straipsnis. Esminiai statinio architektūros reikalavimai
+
+1. Statinio architektūra turi būti tokia, kad:
+
+1) ji neprieštarautų esminiams statinių reikalavimams, nustatytiems Reglamente (ES) 2024/3110;iai statinio architektūros reikalavimai
 
 
 1. Statinio architektūra turi būti tokia, kad:
@@ -992,7 +982,7 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-2. Normuojamus atstumus tarp statinių, tarp statinių ir sklypo ribų, atsižvelgdama į Reglamente (ES) Nr. 305/2011 nustatytus esminius statinių ir šio straipsnio 1 dalyje nurodytus reikalavimus, nustato Vyriausybės įgaliota institucija normatyviniuose statybos techniniuose dokumentuose.
+2. Normuojamus atstumus tarp statinių, tarp statinių ir sklypo ribų, atsižvelgdama į Reglamente (ES) 2024/3110 nustatytus esminius statinių ir šio straipsnio 1 dalyje nurodytus reikalavimus, nustato Vyriausybės įgaliota institucija normatyviniuose statybos techniniuose dokumentuose.
 
 
 
@@ -1093,7 +1083,7 @@ Nacionalinių normatyvinių statybos techninių dokumentų sistemos sudarymo nuo
 
 
 
-4) techniniai įvertinimai – Reglamente (ES) Nr. 305/2011 nustatytais atvejais ir tvarka parengti ir išduoti Europos techniniai įvertinimai arba aplinkos ministro nustatyta tvarka parengti ir išduoti nacionaliniai techniniai įvertinimai. Pastarieji rengiami, kai nėra parengtų atitinkamų Lietuvos ar Europos ir tarptautinių standartų, neplanuojama šių standartų rengti, taip pat kai juose numatytas vertinimo metodas yra netinkamas bent vienos esminės statybos produkto charakteristikos atžvilgiu arba kai atitinkamame standarte nenumatomas bent vienos esminės statybos produkto charakteristikos vertinimo metodas;
+4) techniniai įvertinimai – Reglamente (ES) 2024/3110 nustatytais atvejais ir tvarka parengti ir išduoti Europos techniniai įvertinimai arba aplinkos ministro nustatyta tvarka parengti ir išduoti nacionaliniai techniniai įvertinimai. Pastarieji rengiami, kai nėra parengtų atitinkamų Lietuvos ar Europos ir tarptautinių standartų, neplanuojama šių standartų rengti, taip pat kai juose numatytas vertinimo metodas yra netinkamas bent vienos esminės statybos produkto charakteristikos, susijusios su esminiais statinių reikalavimais, atžvilgiu arba kai atitinkamame standarte nenumatomas bent vienos esminės statybos produkto charakteristikos, susijusios su esminiais statinių reikalavimais, vertinimo metodas;
 Straipsnio punkto pakeitimai:
 Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
  
@@ -1138,7 +1128,7 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-7. Teisę Lietuvos Respublikoje rengti ir išduoti Europos techninius įvertinimus turi Reglamente (ES) Nr. 305/2011 nustatytus reikalavimus atitinkančios ir aplinkos ministro nustatyta tvarka paskirtos ir paskelbtos techninio vertinimo įstaigos.
+7. Teisę Lietuvos Respublikoje rengti ir išduoti Europos techninius įvertinimus turi Reglamente (ES) 2024/3110 nustatytus reikalavimus atitinkančios ir aplinkos ministro nustatyta tvarka paskirtos ir paskelbtos techninio vertinimo įstaigos.
 Straipsnio dalies pakeitimai:
 Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
  
@@ -1190,13 +1180,11 @@ Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 
 10 straipsnis. Statybos srities gaminių kontaktinis centras
 
-
-1. Reglamente (ES) Nr. 305/2011 numatytas Statybos srities gaminių kontaktinio centro (toliau – kontaktinis centras) funkcijas Lietuvos Respublikoje atlieka Vyriausybės įgaliotas viešasis juridinis asmuo.
-
-
-
+1. Reglamento (ES) 2024/3110 72 straipsnyje numatytas Statybos srities gaminių kontaktinio centro (toliau – kontaktinis centras) funkcijas Lietuvos Respublikoje atlieka Vyriausybės įgaliotas viešasis juridinis asmuo.
 
 2. Lėšos kontaktinio centro funkcijoms atlikti skiriamos ir administruojamos Lietuvos Respublikos biudžeto sandaros įstatymo nustatyta tvarka. Šios lėšos skiriamos iš Lietuvos Respublikos ekonomikos ir inovacijų ministerijai numatytų bendrųjų valstybės biudžeto asignavimų.
+
+3. Kontaktinio centro paslaugos turi būti teikiamos pagal 2018 m. spalio 2 d. Europos Parlamento ir Tarybos reglamentą (ES) 2018/1724, kuriuo sukuriami bendrieji skaitmeniniai vartai, skirti suteikti prieigą prie informacijos, procedūrų ir pagalbos bei problemų sprendimo paslaugų, ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 1024/2012.
 Straipsnio dalies pakeitimai:
 Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
  
@@ -1208,13 +1196,11 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 11 straipsnis. Kontaktinio centro ir valstybės institucijų bendradarbiavimas
 
-
 1. Atlikdamas savo funkcijas, kontaktinis centras bendradarbiauja su valstybės institucijomis, pagal Vyriausybės priskirtą kompetenciją nustatančiomis esminius statinių reikalavimus ir statinių techninius parametrus pagal statinių ar statybos produktų charakteristikų lygius ir klases (toliau – esminius statinių reikalavimus ir statinių techninius parametrus nustatančios institucijos). Kontaktinio centro ir šių institucijų bendradarbiavimo tvarką nustato Vyriausybė.
 
+2. Kontaktinis centras turi teisę Vyriausybės nustatyta tvarka iš esminius statinių reikalavimus ir statinių techninius parametrus nustatančių institucijų gauti Reglamento (ES) 2024/3110 72 straipsnio 2 dalyje nustatytą informaciją.
 
-
-
-2. Kontaktinis centras turi teisę Vyriausybės nustatyta tvarka iš esminius statinių reikalavimus ir statinių techninius parametrus nustatančių institucijų gauti Reglamento (ES) Nr. 305/2011 10 straipsnio 3 dalyje nustatytą informaciją.
+3. Esminius statinių reikalavimus ir statinių techninius parametrus nustatančios institucijos privalo Vyriausybės nustatyta tvarka kontaktiniam centrui pagal kompetenciją teikti Reglamento (ES) 2024/3110 72 straipsnio 2 dalyje nustatytą informaciją.
 
 
 
@@ -2729,7 +2715,7 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 21 straipsnis. Statybos produktų gamintojo, importuotojo, platintojo ir įgaliotojo atstovo teisės ir pareigos
 
 
-1. Statybos produktų, turinčių darniąsias technines specifikacijas, gamintojas, importuotojas, platintojas ir įgaliotasis atstovas šiuos statybos produktus pateikia į Lietuvos Respublikos rinką ar tiekia jai Reglamente (ES) Nr. 305/2011 nustatyta tvarka.
+1. Statybos produktų, turinčių darniąsias technines specifikacijas, gamintojas, importuotojas, platintojas ir įgaliotasis atstovas šiuos statybos produktus pateikia į Lietuvos Respublikos rinką ar tiekia jai Reglamente (ES) 2024/3110 nustatyta tvarka. Statybos produktai, neturintys darniųjų techninių specifikacijų, kuriems išduotas Europos techninis įvertinimas pagal Reglamento (ES) 2024/3110 37 straipsnį, pateikiami į Lietuvos Respublikos rinką ar tiekiami jai Reglamente (ES) 2024/3110 nustatyta tvarka arba laikantis šio straipsnio 2–15 dalyse nustatytų reikalavimų.
 
 
 
@@ -2804,7 +2790,7 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-16. Pateikdami į Lietuvos Respublikos rinką ar tiekdami jai statybos produktą, gamintojai, importuotojai ir platintojai užtikrina, kad statybos produkto eksploatacinių savybių deklaracija, prie produkto pridedamos montavimo, instaliavimo, surinkimo ar naudojimo instrukcijos ir saugos informacija būtų parengtos Lietuvos Respublikos valstybine kalba.
+16. Pateikdami į Lietuvos Respublikos rinką ar tiekdami jai statybos produktą, gamintojai, importuotojai ir platintojai užtikrina, kad statybos produkto eksploatacinių savybių ir atitikties deklaracija arba eksploatacinių savybių deklaracija, prie produkto pridedamos montavimo, instaliavimo, surinkimo ar naudojimo instrukcijos ir saugos informacija būtų parengtos Lietuvos Respublikos valstybine kalba.
 
 
 
@@ -2814,7 +2800,30 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-18. Gamintojų, importuotojų, platintojų ir įgaliotųjų atstovų pateikiamų į rinką ar tiekiamų jai statybos produktų rinkos priežiūrą vykdo Vyriausybės įgaliota institucija.
+18. Gamintojų, importuotojų, platintojų ir įgaliotųjų atstovų pateikiamų į rinką ar tiekiamų jai statybos produktų rinkos priežiūrą vykdo Vyriausybės įgaliota institucija. Ši institucija atlieka Reglamente (ES) 2024/3110 nurodytas rinkos priežiūros institucijos ir bendros ryšių palaikymo tarnybos funkcijas.
+</search>
+
+<search>
+4. Statinio ekspertizę, išskyrus aplinkos ministro nustatytus atvejus, organizuoja statytojas (užsakovas).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
+4. Statinio ekspertizę atliekami viešojo administravimo subjektų, pagal kompetenciją atliekančių statybos valstybinę priežiūrą arba statinių naudojimo priežiūrą, iniciatyva, kai:
+
+1) įvyko statinio avarija ar yra nustatyta jos grėsmė, pastebėta statinio deformacijų;
+
+2) gautas statytojo (užsakovo) ar statinio naudotojo skundas arba yra prielaidų, kad statinys neatitinka esminių statinių reikalavimų, nustatytų Reglamente (ES) Nr. 305/2011.
+</search>
+<replace>
+4. Statinio ekspertizę, išskyrus aplinkos ministro nustatytus atvejus, organizuoja statytojas (užsakovas).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
+4. Statinio ekspertizę atliekami viešojo administravimo subjektų, pagal kompetenciją atliekančių statybos valstybinę priežiūrą arba statinių naudojimo priežiūrą, iniciatyva, kai:
+
+1) įvyko statinio avarija ar yra nustatyta jos grėsmė, pastebėta statinio deformacijų;
+
+2) gautas statytojo (užsakovo) ar statinio naudotojo skundas arba yra prielaidų, kad statinys neatitinka esminių statinių reikalavimų, nustatytų Reglamente (ES) 2024/3110.
 
 
 
@@ -5767,7 +5776,7 @@ Nr. XIV-703, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25132
 
 
 
-3. Statinio techninis prižiūrėtojas, atlikdamas konkretaus statinio techninę priežiūrą, vykdo organizacines ir technines priemones statinio techninei būklei palaikyti, kad būtų užtikrinti Reglamente (ES) Nr. 305/2011 nustatyti esminiai statinių reikalavimai per ekonomiškai pagrįstą statinio naudojimo trukmę.
+3. Statinio techninis prižiūrėtojas, atlikdamas konkretaus statinio techninę priežiūrą, vykdo organizacines ir technines priemones statinio techninei būklei palaikyti, kad būtų užtikrinti Reglamente (ES) 2024/3110 nustatyti esminiai statinių reikalavimai per ekonomiškai pagrįstą statinio naudojimo trukmę.
 
 
 
