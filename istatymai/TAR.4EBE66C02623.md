@@ -590,7 +590,7 @@ Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872
 12 straipsnis. Mažai pavojinga veika
 
 
-1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 85 straipsnio 1 ir 4 dalyse, 86 straipsnyje, 88 straipsnio 1 dalyje, 89 straipsnio 1 dalyje, 90 straipsnio 1, 2 ir 6 dalyse, 92 straipsnio 1 ir 2 dalyse, 93 straipsnio 1, 3, 5, 7, 8 ir 9 dalyse, 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 2172 straipsnio 1 dalyje, 228 straipsnyje, 235 straipsnio 3 dalyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 291 straipsnio 1 dalyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 4 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 325 straipsnyje, 327 straipsnio 1 ir 3 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 544 straipsnio 1 ir 4 dalyse, 545 straipsnio 1 ir 2 dalyse, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas. 
+1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 85 straipsnio 1 ir 4 dalyse, 86 straipsnyje, 88 straipsnio 1 dalyje, 89 straipsnio 1 dalyje, 90 straipsnio 1, 2 ir 6 dalyse, 92 straipsnio 1 ir 2 dalyse, 93 straipsnio 1, 3, 5, 7, 8 ir 9 dalyse, 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 217-2 straipsnio 1 dalyje, 228 straipsnyje, 235 straipsnio 3 dalyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 291 straipsnio 1 dalyje, 294 straipsnyje, 295 straipsnio 4 ir 5 dalyse, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 325 straipsnyje, 327 straipsnio 1 ir 3 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 544 straipsnio 1 ir 4 dalyse, 545 straipsnio 1 ir 2 dalyse, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
@@ -607,20 +607,12 @@ Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
 Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
 Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783
 Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818
- 
+ 
 
 
 
 
-2. Kriterijus, kuriais vadovaujantis šio straipsnio 1 dalyje numatytas administracinis nusižengimas laikomas mažai pavojingu, nustato institucijų, kurių pareigūnai turi teisę pradėti administracinio nusižengimo teiseną, vadovai.
- 
-
-
-
-
-
-
-13 straipsnis. Būtinoji gintis
+2. Kriterijus, kuriais vadovaujantis šio straipsnio 1 dalyje numatytas administracinis nusižengimas laikomas mažai pavojingu, nustato institucijų, kurių pareigūnai turi teisę pradėti administracinio nusižengimo teiseną, vadovai.13 straipsnis. Būtinoji gintis
 
 
 1. Asmuo turi teisę į būtinąją gintį. Šią teisę jis gali įgyvendinti neatsižvelgdamas į tai, ar galėjo išvengti kėsinimosi arba kreiptis pagalbos į kitus asmenis ar valdžios institucijas.
@@ -11116,24 +11108,20 @@ Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783
 294 straipsnis. Žuvininkystės duomenų teikimo ir žuvininkystės duomenų valstybės informacinės sistemos naudojimo reikalavimų pažeidimas 
 
 
-1. Palydovinio ryšio Lietuvos Respublikos žvejybos laivų stebėjimo sistemos naudojimo reikalavimų pažeidimas 
+1. Lietuvos Respublikos žvejybos laivų stebėjimo sistemos naudojimo reikalavimų pažeidimas 
 užtraukia baudą laivų kapitonams ir (ar) juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo šešiasdešimt iki vieno tūkstančio penkių šimtų eurų.
 
 
 
 
-2. Ekonominių ir biologinių duomenų ir informacijos apie žuvų išteklių naudojimą ir žuvų perdirbimą neteikimas arba neteisingų duomenų pateikimas 
+2. Ekonominių ir biologinių duomenų ir informacijos apie žuvų išteklių naudojimą ir žuvų perdirbimą neteikimas, teikimas nesilaikant nustatytų terminų arba neteisingų duomenų pateikimas 
 užtraukia baudą nuo dvidešimt iki šešių šimtų eurų.
 
 
-Straipsnio pakeitimai:
-Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
- 
 
 
-
-
-295 straipsnis. Verslinės žvejybos tvarkos pažeidimas 
+3. Nuotolinės elektroninės stebėsenos sistemos naudojimo reikalavimų pažeidimas
+užtraukia baudą laivų kapitonams ir (ar) juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto dvidešimt iki dviejų tūkstančių eurų.295 straipsnis. Verslinės žvejybos tvarkos pažeidimas 
 
 
 1. Verslinės žvejybos vidaus vandenyse tvarkos pažeidimas
@@ -11160,18 +11148,12 @@ užtraukia įspėjimą arba baudą laivų kapitonams ir (ar) juridinių asmenų 
 
 
 
-5. Už šio straipsnio 1 ir 4 dalyse numatytus administracinius nusižengimus gali būti skiriamas nusižengimo padarymo įrankių ir priemonių konfiskavimas. Už šio straipsnio 2 ir 3 dalyse numatytus administracinius nusižengimus privaloma skirti administracinių nusižengimų padarymo įrankių ir priemonių konfiskavimą. 
+5. Už šio straipsnio 1 ir 4 dalyse numatytus administracinius nusižengimus gali būti skiriamas nusižengimo padarymo įrankių ir priemonių konfiskavimas. Už šio straipsnio 2 ir 3 dalyse numatytus administracinius nusižengimus privaloma skirti administracinių nusižengimų padarymo įrankių ir priemonių konfiskavimą. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
-Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783
- 
-
-
-
-
-296 straipsnis. Specialiosios žvejybos tvarkos pažeidimas
+Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783296 straipsnis. Specialiosios žvejybos tvarkos pažeidimas
 
 
 1. Specialiosios žvejybos tvarkos pažeidimas
@@ -11302,89 +11284,70 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 
 
-301 straipsnis. Reglamento (ES) Nr. 404/2011 XXX priede nurodytas sunkus pažeidimas
+301 straipsnis. Reglamento (EB) Nr. 1224/2009 90 straipsnyje nurodytas sunkus pažeidimas
 
-
-1. Reglamento (ES) Nr. 404/2011 XXX priede nurodyto sunkaus pažeidimo, už kurį skiriami 3 taškai, padarymas 
-užtraukia baudą žvejybos laivų kapitonams nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+1. Reglamento (EB) Nr. 1224/2009 90 straipsnyje nurodyto sunkaus pažeidimo, už kurį pagal Reglamento (EB) Nr. 1224/2009 III priedą skiriami 3 taškai, padarymas
+užtraukia baudą žvejybos laivų kapitonams nuo vieno tūkstančio vieno šimto dvidešimt iki dviejų tūkstančių keturių šimtų eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą žvejybos laivų kapitonams nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių eurų.
+užtraukia baudą žvejybos laivų kapitonams nuo dviejų tūkstančių keturių šimtų iki trijų tūkstančių penkių šimtų eurų.
 
 
 
 
-3. Reglamento (ES) Nr. 404/2011 XXX priede nurodyto sunkaus pažeidimo, už kurį skiriami 4 taškai, padarymas 
-užtraukia baudą žvejybos laivų kapitonams nuo vieno tūkstančio dviejų šimtų iki vieno tūkstančio septynių šimtų eurų.
+3. Reglamento (EB) Nr. 1224/2009 90 straipsnyje nurodyto sunkaus pažeidimo, už kurį pagal Reglamento (EB) Nr. 1224/2009 III priedą skiriami 4 taškai, padarymas
+užtraukia baudą žvejybos laivų kapitonams nuo dviejų tūkstančių keturių šimtų iki trijų tūkstančių eurų.
 
 
 
 
 4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą žvejybos laivų kapitonams nuo vieno tūkstančio septynių šimtų penkiasdešimt iki dviejų tūkstančių šešių šimtų eurų.
+užtraukia baudą žvejybos laivų kapitonams nuo trijų tūkstančių iki keturių tūkstančių eurų.
 
 
 
 
-5. Reglamento (ES) Nr. 404/2011 XXX priede nurodyto sunkaus pažeidimo, už kurį skiriami 5 taškai, padarymas 
-užtraukia baudą žvejybos laivų kapitonams nuo vieno tūkstančio septynių šimtų iki dviejų tūkstančių aštuonių šimtų eurų.
+5. Reglamento (EB) Nr. 1224/2009 90 straipsnyje nurodyto sunkaus pažeidimo, už kurį pagal Reglamento (EB) Nr. 1224/2009 III priedą skiriami 5 taškai, padarymas
+užtraukia baudą žvejybos laivų kapitonams nuo trijų tūkstančių iki keturių tūkstančių eurų.
 
 
 
 
 6. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą žvejybos laivų kapitonams nuo dviejų tūkstančių trijų šimtų iki trijų tūkstančių dviejų šimtų eurų.
+užtraukia baudą žvejybos laivų kapitonams nuo keturių tūkstančių iki penkių tūkstančių eurų.
 
 
 
 
-7. Reglamento (ES) Nr. 404/2011 XXX priede nurodyto sunkaus pažeidimo, už kurį skiriami 6 taškai, padarymas 
-užtraukia baudą žvejybos laivų kapitonams nuo dviejų tūkstančių trijų šimtų iki dviejų tūkstančių devynių šimtų eurų.
+7. Reglamento (EB) Nr. 1224/2009 90 straipsnyje nurodyto sunkaus pažeidimo, už kurį pagal Reglamento (EB) Nr. 1224/2009 III priedą skiriami 6 taškai, padarymas
+užtraukia baudą žvejybos laivų kapitonams nuo keturių tūkstančių iki penkių tūkstančių eurų.
 
 
 
 
 8. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą žvejybos laivų kapitonams nuo dviejų tūkstančių aštuonių šimtų iki trijų tūkstančių devynių šimtų eurų.
+užtraukia baudą žvejybos laivų kapitonams nuo keturių tūkstančių penkių šimtų iki penkių tūkstančių penkių šimtų eurų.
 
 
 
 
-9. Reglamento (ES) Nr. 404/2011 XXX priede nurodyto sunkaus pažeidimo, už kurį skiriami 7 taškai, padarymas 
-užtraukia baudą žvejybos laivų kapitonams nuo trijų tūkstančių iki trijų tūkstančių keturių šimtų eurų.
+9. Reglamento (EB) Nr. 1224/2009 90 straipsnyje nurodyto sunkaus pažeidimo, už kurį pagal Reglamento (EB) Nr. 1224/2009 III priedą skiriami 7 taškai, padarymas
+užtraukia baudą žvejybos laivų kapitonams nuo keturių tūkstančių penkių šimtų iki penkių tūkstančių penkių šimtų penkiasdešimt eurų.
 
 
 
 
 10. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą žvejybos laivų kapitonams nuo trijų tūkstančių keturių šimtų iki keturių tūkstančių keturių šimtų eurų.
+užtraukia baudą žvejybos laivų kapitonams nuo penkių tūkstančių iki šešių tūkstančių eurų.
 
 
 
 
 11. Žvejybos laivo kapitono pareigų ėjimas, kai asmeniui yra atimta teisė eiti žvejybos laivo kapitono pareigas,
-užtraukia baudą nuo trijų tūkstančių šešių šimtų eurų iki keturių tūkstančių eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
- 
-
-
-
-
-12. Neteko galios nuo 2016-07-16
-Straipsnio dalies naikinimas:
-Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
- 
-
-
-
-
-
-
-302 straipsnis. Su Lietuvos Respublikos žvejybos laivo varomojo variklio galia susiję pažeidimai
+užtraukia baudą nuo penkių tūkstančių iki šešių tūkstančių eurų.302 straipsnis. Su Lietuvos Respublikos žvejybos laivo varomojo variklio galia susiję pažeidimai
 
 
 1. Lietuvos Respublikos žvejybos laivo varomojo variklio galios sertifikavimo nuostatų pažeidimas 
@@ -27677,3 +27640,5 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 188-4 ir 589 straips
 117^1. 2021 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/782 dėl geležinkelių keleivių teisių ir pareigų.
 
 118-1. 2023 m. liepos 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1542 dėl baterijų ir baterijų atliekų, kuriuo iš dalies keičiama Direktyva 2008/98/EB bei Reglamentas (ES) 2019/1020 ir panaikinama Direktyva 2006/66/EB.
+
+122-1. 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/2842, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 1224/2009 ir, kiek tai susiję su žuvininkystės kontrole, iš dalies keičiami Tarybos reglamentai (EB) Nr. 1967/2006 bei (EB) Nr. 1005/2008 ir Europos Parlamento ir Tarybos reglamentai (ES) 2016/1139, (ES) 2017/2403 bei (ES) 2019/473.
