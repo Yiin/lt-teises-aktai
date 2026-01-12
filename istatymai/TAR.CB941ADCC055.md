@@ -11,48 +11,37 @@ statusas: galioja
 etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 ---
 
-# Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
+# Lietuvos Respublikos aplinkos apsaugos valstybinės priežiūros įstatymas
 
 Suvestinė redakcija nuo 2024-11-23
- 
+ 
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
- 
- 
+ 
+ 
 LIETUVOS RESPUBLIKOS
- 
-APLINKOS APSAUGOS VALSTYBINĖS KONTROLĖS
- 
+
+APLINKOS APSAUGOS VALSTYBINĖS PRIEŽIŪROS
+
 ĮSTATYMAS
- 
+
 2002 m. liepos 1 d. Nr. IX-1005 Vilnius
- 
+ 
 
 
 I SKYRIUS
 BENDROSIOS NUOSTATOS
- 
+ 
 
 
 1 straipsnis. Įstatymo paskirtis
 
+1. Šis įstatymas nustato aplinkos apsaugos valstybinės priežiūros Lietuvos Respublikoje organizavimo ir vykdymo teisinius pagrindus ir tvarką, principus, aplinkos apsaugos valstybinę priežiūrą Lietuvos Respublikoje atliekančios institucijos veiklos teisinius pagrindus, funkcijas, veiklos organizavimą; aplinkos apsaugos valstybinės priežiūros pareigūnų teisinį statusą, teises ir pareigas, socialines garantijas, teisinę atsakomybę; neetatinių aplinkos apsaugos inspektorių veiklos teisinius pagrindus, teises ir pareigas, socialines garantijas, skatinimą, veiklos organizavimą.
 
-1. Šis Įstatymas nustato aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdančią instituciją ir aplinkos apsaugos valstybinės kontrolės pareigūnus, jų teisinį statusą, veiklos teisinius pagrindus bei pagrindinius principus, veiklos organizavimą, reglamentuoja aplinkos apsaugos valstybinės kontrolės procesą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
- 
+2. Aplinkos apsaugos valstybinės priežiūros objektai:
+1) aplinkos apsaugos ir taršos prevencijos srityje (toliau – aplinkos apsaugos sritis) – kraštovaizdis ir biologinė įvairovė, genetiškai modifikuoti organizmai, paviršinis ir požeminis vanduo ir nuotekos, atliekos, išskyrus radioaktyviąsias atliekas, cheminės medžiagos ir cheminiai mišiniai, aplinkos oras, planuojamos ūkinės veiklos poveikio aplinkai vertinimas, strateginis pasekmių aplinkai vertinimas, klimato kaita, aplinkos monitoringas, išskyrus radiologinį aplinkos monitoringą;
+2) gamtos išteklių naudojimo srityje – žemė, žemės gelmės, paviršinis ir požeminis vanduo, aplinkos oras, augalija, gyvūnija, miškai ir kiti gamtos ištekliai.
 
-
-
-
-2. Šio Įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais Įstatymo priede.
-
-
-Straipsnio pakeitimai:
-Nr. X-648, 2006-06-08, Žin., 2006, Nr. 72-2667 (2006-06-28)
- 
-
-
-
+3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
 
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
