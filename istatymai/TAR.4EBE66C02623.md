@@ -590,7 +590,7 @@ Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872
 12 straipsnis. Mažai pavojinga veika
 
 
-1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 85 straipsnio 1 ir 4 dalyse, 86 straipsnyje, 88 straipsnio 1 dalyje, 89 straipsnio 1 dalyje, 90 straipsnio 1, 2 ir 6 dalyse, 92 straipsnio 1 ir 2 dalyse, 93 straipsnio 1, 3, 5, 7, 8 ir 9 dalyse, 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 217^2 straipsnio 1 dalyje, 228 straipsnyje, 235 straipsnio 3 dalyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 291 straipsnio 1 dalyje, 294 straipsnyje, 295 straipsnio 4 ir 5 dalyse, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 325 straipsnyje, 327 straipsnio 1 ir 3 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 544 straipsnio 1 ir 4 dalyse, 545 straipsnio 1 ir 2 dalyse, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
+1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 85 straipsnio 1 ir 4 dalyse, 86 straipsnyje, 88 straipsnio 1 dalyje, 89 straipsnio 1 dalyje, 90 straipsnio 1, 2 ir 6 dalyse, 92 straipsnio 1 ir 2 dalyse, 93 straipsnio 1, 3, 5, 7, 8 ir 9 dalyse, 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 217-2 straipsnio 1 dalyje, 228 straipsnyje, 235 straipsnio 3 dalyje, 246 straipsnio 1 dalyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje,  278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 291 straipsnio 1 dalyje, 294 straipsnyje, 295 straipsnio 4 ir 5 dalyse, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 325 straipsnyje, 327 straipsnio 1 ir 3 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 544 straipsnio 1 ir 4 dalyse, 545 straipsnio 1 ir 2 dalyse, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
@@ -636,15 +636,7 @@ Nr. XIV-3049, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19818
 2. Įstatymų uždraustą veiką padariusio asmens pasipriešinimą atremiančio asmens veikai taikomos šio kodekso 13 straipsnyje nustatytos būtinosios ginties taisyklės.15 straipsnis. Profesinių pareigų atlikimas
 
 
-Asmuo pagal šį kodeksą neatsako už žalą, kurią padarė atlikdamas profesines pareigas, jeigu jis neviršijo įstatymuose ar kituose teisės aktuose nustatytų įgaliojimų.
- 
-
-
-
-
-
-
-16 straipsnis. Būtinasis reikalingumas
+Asmuo pagal šį kodeksą neatsako už žalą, kurią padarė atlikdamas profesines pareigas, jeigu jis neviršijo įstatymuose ar kituose teisės aktuose nustatytų įgaliojimų.16 straipsnis. Būtinasis reikalingumas
 
 
 1. Asmuo neatsako pagal šį kodeksą už veiką, kurią jis padarė siekdamas pašalinti jam pačiam, kitiems asmenims ar jų teisėms, visuomenės ar valstybės interesams gresiantį pavojų, jeigu šis pavojus negalėjo būti pašalintas kitomis priemonėmis ir padaryta žala yra mažesnė už tą, kurios siekta išvengti.
@@ -997,7 +989,7 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 
 
 
-4. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127 straipsniuose, 134 straipsnio 6, 7, 8, 9 dalyse, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 212 straipsnio 2, 3 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 214 straipsnio 1, 2, 3 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 234^2 straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 272, 273, 274 straipsniuose, 284 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 dalyse, 285 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26 dalyse, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 5, 6, 7, 8, 9 dalyse, 293 straipsnio 3, 4, 5 dalyse, 299 straipsnio 2, 3, 4, 5 dalyse, 303 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 dalyse, 304^2 straipsnio 3, 4, 5, 6 dalyse, 309 straipsnio 9, 10, 11 dalyse, 346 straipsnyje, 393 straipsnio 3, 4, 5 dalyse, 420 straipsnio 3, 4, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 5, 6 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475 straipsnyje, 514^1 straipsnio 3, 4, 7 dalyse, 515 straipsnio 1, 2 dalyse, 524, 557^1 straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:  
+4. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125 straipsniuose, 134 straipsnio 6, 7, 8, 9 dalyse, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 212 straipsnio 2, 3 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 214 straipsnio 1, 2, 3 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 234-2 straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 270-2 straipsnio 5, 6 dalyse, 272, 273, 274 straipsniuose, 284 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 dalyse, 285 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26 dalyse, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 5, 6, 7, 8, 9 dalyse, 293 straipsnio 3, 4, 5 dalyse, 299 straipsnio 2, 3, 4, 5 dalyse, 303 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 dalyse, 304-2 straipsnio 3, 4, 5, 6 dalyse, 309 straipsnio 9, 10 ir 11 dalyse, 310 straipsnio 5, 9 ir 10 dalyse, 346 straipsnyje, 393 straipsnio 3, 4, 5 dalyse, 420 straipsnio 3, 4, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 5, 6 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475 straipsnyje, 514-1 straipsnio 3, 4, 7 dalyse, 515 straipsnio 1, 2 dalyse, 524, 557-1 straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:  
 Straipsnio dalies pakeitimai:
 Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
 Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
@@ -1056,10 +1048,7 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 
 6. Teismas ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas), skirdami turto konfiskavimą, turi nurodyti konfiskuojamus daiktus arba konfiskuojamo turto vertę pinigais. 
 Papildyta straipsnio dalimi:
-Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
-
-
-31 straipsnis. Draudimas lankytis viešosiose vietose vykstančiuose renginiuose
+Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-2085631 straipsnis. Draudimas lankytis viešosiose vietose vykstančiuose renginiuose
 
 
 1. Draudimas lankytis viešosiose vietose vykstančiuose renginiuose yra administracinio poveikio priemonė, kurią kartu su administracine nuobauda gali skirti teismas ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas). Draudimo lankytis viešosiose vietose vykstančiuose renginiuose trukmė gali būti nuo vieno mėnesio iki dvejų metų. Šios administracinio poveikio priemonės taikymo terminas skaičiuojamas metais ir mėnesiais.
@@ -7615,12 +7604,11 @@ užtraukia baudą nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eur�
 Straipsnio pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 
-243^2 straipsnis. Reglamente (ES) 2023/956 nustatytų pasienio anglies dioksido korekcinio mechanizmo reikalavimų pažeidimas
+243-2 straipsnis. Reglamente (ES) 2023/956 nustatytų pasienio anglies dioksido korekcinio mechanizmo reikalavimų pažeidimas
 1. Įgaliotojo PADKM deklaranto PADKM sertifikatų, atitinkančių per praėjusius kalendorinius metus importuotoms prekėms būdingą išmestą šiltnamio efektą sukeliančių dujų kiekį, neatsisakymas laiku
-užtraukia baudą nuo vieno šimto iki šešių tūkstančių eurų.
-2. Prekių įvežimas į Europos Sąjungos muitų teritoriją asmens, kuris nėra įgaliotasis PADKM deklarantas, nesilaikant Reglamente (ES) 2023/956 nustatytų pareigų,
-užtraukia baudą nuo trijų šimtų iki šešių tūkstančių eurų.
-245 straipsnis. Aplinkos teršimas radioaktyviosiomis medžiagomis
+užtraukia  baudą nuo vieno šimto iki šešių tūkstančių eurų.
+2. Prekių įvežimas į Europos Sąjungos muitų teritoriją asmens, kuris nėra įgaliotasis PADKM deklarantas,  nesilaikant Reglamente (ES) 2023/956 nustatytų pareigų,
+užtraukia baudą nuo trijų šimtų iki šešių tūkstančių eurų.245 straipsnis. Aplinkos teršimas radioaktyviosiomis medžiagomis
 
 
 1. Aplinkos teršimas radioaktyviosiomis medžiagomis, radioaktyviųjų medžiagų gabenimas, naudojimas, laikymas ar dėjimas į atliekyną pažeidžiant aplinkos apsaugos reikalavimus 
@@ -9082,21 +9070,20 @@ Miško naudojimas be nustatyta tvarka gauto leidimo, išskyrus šio kodekso 273,
 
 užtraukia baudą nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų.
 
-270^2 straipsnis. Reglamente (ES) Nr. 2023/1115 nustatytų su informacijos saugojimu ir teikimu Vyriausybės įgaliotoms institucijoms, išsamaus patikrinimo sistemos netaikymu arba šios sistemos reikalavimų pažeidimu, Reglanto (ES) Nr. 2023/1115 I priede nurodytų produktų pateikimu, tiekimu rinkai, eksportu susijusių reikalavimų pažeidimas
-1. Reglante (ES) Nr. 2023/1115 nustatytų informacijos saugojimo ir teikimo Vyriausybės įgaliotoms institucijoms reikalavimų pažeidimas
+270-2 straipsnis. Reglamente (ES) Nr. 2023/1115 nustatytų su informacijos saugojimu ir teikimu Vyriausybės įgaliotoms institucijoms, išsamaus patikrinimo sistemos netaikymu arba šios sistemos reikalavimų pažeidimu, Reglamento (ES) Nr. 2023/1115 I priede nurodytų produktų pateikimu, tiekimu rinkai, eksportu susijusių reikalavimų pažeidimas
+1. Reglamente (ES) Nr. 2023/1115 nustatytų informacijos saugojimo ir teikimo Vyriausybės įgaliotoms institucijoms reikalavimų pažeidimas
 užtraukia įspėjimą arba baudą prekiautojams fiziniams asmenims nuo trijų šimtų iki penkių šimtų eurų ir prekiautojų juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų iki vieno tūkstančio eurų.
 2. Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai,
 užtraukia baudą prekiautojams fiziniams asmenims nuo šešių šimtų iki vieno tūkstančio eurų ir prekiautojų juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių eurų.
-3. Reglante (ES) Nr. 2023/1115 nustatytos išsamaus patikrinimo sistemos netaikymas arba šios sistemos reikalavimų pažeidimas
+3. Reglamente (ES) Nr. 2023/1115 nustatytos išsamaus patikrinimo sistemos netaikymas arba šios sistemos reikalavimų pažeidimas
 užtraukia įspėjimą arba baudą veiklos vykdytojams fiziniams asmenims nuo penkių šimtų iki septynių šimtų eurų ir veiklos vykdytojų juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio iki vieno tūkstančio keturių šimtų eurų.
 4. Šio straipsnio 3 dalyje numatytas pažeidimas, padarytas pakartotinai,
 užtraukia baudą veiklos vykdytojams fiziniams asmenims nuo vieno tūkstančio iki vieno tūkstančio keturių šimtų eurų ir veiklos vykdytojų juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų tūkstančių iki dviejų tūkstančių aštuonių šimtų eurų.
-5. Reglanto (ES) Nr. 2023/1115 I priede nurodytų produktų pateikimas arba tiekimas rinkai arba eksportas pažeidžiant Reglanto (ES) Nr. 2023/1115 3 straipsnyje nustatytus reikalavimus
+5. Reglamento (ES) Nr. 2023/1115 I priede nurodytų produktų pateikimas arba tiekimas rinkai arba eksportas pažeidžiant Reglamento (ES) Nr. 2023/1115 3 straipsnyje nustatytus reikalavimus
 užtraukia baudą veiklos vykdytojams fiziniams asmenims nuo vieno tūkstančio iki dviejų tūkstančių eurų ir veiklos vykdytojų juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų tūkstančių iki keturių tūkstančių eurų.
 6. Šio straipsnio 5 dalyje numatytas pažeidimas, padarytas pakartotinai,
 užtraukia baudą veiklos vykdytojams fiziniams asmenims nuo dviejų tūkstančių iki keturių tūkstančių eurų ir veiklos vykdytojų juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo keturių tūkstančių iki šešių tūkstančių eurų.
-7. Už šio straipsnio 5, 6 dalyse numatytus administracinius nusižengimus skiriamas Reglanto (ES) Nr. 2023/1115 I priede nurodytų produktų ir (arba) iš šių produktų pateikimo arba teikimo rinkai arba eksporto pažeidžiant Reglanto (ES) Nr. 2023/1115 3 straipsnyje nustatytus reikalavimus gautų pajamų konfiskavimas.
-2701 straipsnis. Informacijos apie medieną ir medienos produktus saugojimo ir teikimo, deramo patikrinimo, medienos ir medienos produktų pateikimo rinkai reikalavimų pažeidimas
+7. Už šio straipsnio 5, 6 dalyse numatytus administracinius nusižengimus skiriamas Reglamento (ES) Nr. 2023/1115 I priede nurodytų produktų ir (arba) iš šių produktų pateikimo arba teikimo rinkai arba eksporto pažeidžiant Reglamento (ES) Nr. 2023/1115 3 straipsnyje nustatytus reikalavimus gautų pajamų konfiskavimas.2701 straipsnis. Informacijos apie medieną ir medienos produktus saugojimo ir teikimo, deramo patikrinimo, medienos ir medienos produktų pateikimo rinkai reikalavimų pažeidimas
 
 
 1. Reglamente (ES) Nr. 995/2010 nustatytų informacijos apie medieną ir medienos produktus saugojimo ir teikimo kompetentingoms institucijoms reikalavimų pažeidimas
@@ -10623,7 +10610,7 @@ Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
 
 
 1. Invazinių rūšių naikinimo, plitimo prevencijos, valdymo priemonių neįgyvendinimas arba įgyvendinimas pažeidžiant invazinių rūšių naudojimą, valdymą, gausos reguliavimą ir plitimo prevenciją reglamentuojančius teisės aktus ar Reglamentą (ES) 1143/2014
-užtraukia įspėjimą arba baudą asmenims nuo penkiasdešimt iki vieno tūkstančio eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo devyniasdešimt iki vieno tūkstančio penkių šimtų eurų.
+užtraukia įspėjimą arba baudą asmenims nuo penkiasdešimt iki vieno tūkstančio eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo  devyniasdešimt iki vieno tūkstančio penkių šimtų eurų.
 
 
 
@@ -10692,7 +10679,7 @@ užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto septyniasdešimt
 užtraukia įspėjimą arba baudą asmenims nuo trisdešimt iki devyniasdešimt eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo šešiasdešimt iki vieno šimto septyniasdešimt eurų. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
- 
+ 
 
 
 
@@ -10714,7 +10701,7 @@ užtraukia baudą asmenims nuo trisdešimt iki vieno šimto penkiasdešimt eurų
 Straipsnio dalies pakeitimai:
 Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
 Nr. XIV-2356, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25327
- 
+ 
 
 
 
@@ -10738,15 +10725,7 @@ užtraukia baudą asmenims nuo trisdešimt iki trijų šimtų eurų ir juridini�
 
 
 11. Šio straipsnio 10 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
- 
-
-
-
-
-
-
-306 straipsnis. Neteko galios nuo 2022-05-01
+užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.306 straipsnis. Neteko galios nuo 2022-05-01
 Straipsnio naikinimas:
 Nr. XIV-897, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00754
  
@@ -10965,7 +10944,7 @@ užtraukia baudą su cheminių medžiagų tvarkymu susijusia veikla užsiimantie
 
 
 
-5. Reglamente (ES) 2017/852 nustatyto draudimo eksportuoti, importuoti ir gaminti gyvsidabrio savo sudėtyje turinčius produktus, nurodytus šio reglamento II priede, nesilaikymas
+5. Reglamente (ES) 2017/852 nustatyto draudimo eksportuoti, importuoti ir gaminti gyvsidabrį savo sudėtyje turinčius produktus, nurodytus šio reglamento II priede, nesilaikymas
 užtraukia baudą veiklos vykdytojams fiziniams asmenims ir veiklos vykdytojų juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių trijų šimtų eurų.
 
 
@@ -10989,7 +10968,7 @@ užtraukia baudą su cheminių medžiagų tvarkymu susijusia veikla užsiimantie
 
 
 
-9. Reglante (ES) 2017/852 nustatytų dantų amalgamos gamybos, importo, eksporto draudimo reikalavimų pažeidimas
+9. Reglamente (ES) 2017/852 nustatytų dantų amalgamos gamybos, importo, eksporto draudimo reikalavimų pažeidimas
 užtraukia baudą su cheminių medžiagų tvarkymu susijusia veikla užsiimantiems fiziniams asmenims ir su cheminių medžiagų tvarkymu susijusia veikla užsiimančių juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
 
@@ -10997,7 +10976,7 @@ Papildyta straipsniu:
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748309 straipsnis. Fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių, jų turinčių gaminių ir įrangos tvarkymo reikalavimų pažeidimas
 
 
-1. Reikalavimų rinkti, kaupti ir saugoti duomenis apie fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių naudojimą įrangoje ir (arba) informaciją apie šios įrangos montavimą, aptarnavimą, techninę priežiūrą, remontą ar eksploatacijos nutraukimą atlikusį fizinį ar juridinį asmenį, apie šios įrangos tikrinimo dėl galimo nuotėkio, nuotėkio aptikimo sistemų tikrinimo datas ir rezultatus, informaciją apie fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių surinkimo ir pašalinimo priemones ir reikalavimų sukurti atitinkamos informacijos apie fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių įsigyjančius asmenis įrašus ir tvarkyti šiuos įrašus bent penkerius metus pažeidimas 
+1. Reikalavimų rinkti, kaupti ir saugoti duomenis apie fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių naudojimą įrangoje ir (arba) informaciją apie šios įrangos montavimą, aptarnavimą, techninę priežiūrą, remontą ar eksploatacijos nutraukimą atlikusį fizinį ar juridinį asmenį, apie šios įrangos tikrinimo dėl galimo nuotėkio, nuotėkio aptikimo sistemų tikrinimo datas ir rezultatus, informaciją apie fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių surinkimo ir pašalinimo priemones ir reikalavimų sukurti atitinkamos informacijos apie fluorintų šiltnamio efektą sukeliančių dujų ir jų mišinių įsigijančius asmenis įrašus ir tvarkyti šiuos įrašus bent penkerius metus pažeidimas 
 užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
 
 
@@ -11068,13 +11047,7 @@ užtraukia baudą nuo dvidešimt iki vieno šimto eurų už kiekvieną anglies d
 
 Straipsnio pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
-Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783
- 
-
-
-
-
-310 straipsnis. Ozono sluoksnį ardančių medžiagų ir (arba) produktų ir įrangos, kuriuose yra šių medžiagų arba kurių veikimas nuo jų priklauso ir kurie įtraukti į Reglanto (ES) 2024/590 taikymo sritį, tvarkymo reikalavimų pažeidimas
+Nr. XIV-2786, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11783310 straipsnis. Ozono sluoksnį ardančių medžiagų ir (arba) produktų ir įrangos, kuriuose yra šių medžiagų arba kurių veikimas nuo jų priklauso ir kurie įtraukti į Reglanto (ES) 2024/590 taikymo sritį, tvarkymo reikalavimų pažeidimas
 
 1. Reglanto (ES) 2024/590 8 straipsnio 5 dalyje, 15 straipsnio 3, 4 ir 6 dalyse, 20 straipsnio 3, 4 dalyse ir 21 straipsnio 5 dalyje nustatytų informacijos, duomenų, dokumentų ir (arba) atitikties deklaracijų saugojimo mažiausiai penkerius metus ir pateikimo Europos Komisijai ar Lietuvos Respublikos Vyriausybės įgaliotoms institucijoms, joms paprašius, reikalavimų pažeidimas
 užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
@@ -26318,3 +26291,13 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 188-4 ir 589 straips
 118^1. 2023 m. liepos 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1542 dėl baterijų ir baterijų atliekų, kuriuo iš dalies keičiama Direktyva 2008/98/EB bei Reglamentas (ES) 2019/1020 ir panaikinama Direktyva 2006/66/EB.
 
 122^1. 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/2842, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 1224/2009 ir, kiek tai susiję su žuvininkystės kontrole, iš dalies keičiami Tarybos reglamentai (EB) Nr. 1967/2006 bei (EB) Nr. 1005/2008 ir Europos Parlamento ir Tarybos reglamentai (ES) 2016/1139, (ES) 2017/2403 bei (ES) 2019/473.
+
+118-1. 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/956, kuriuo nustatomas pasienio anglies dioksido korekcinis mechanizmas, su paskutiniais pakeitimais, padarytais 2025 m. spalio 8 d. Europos Parlamento ir Tarybos reglamentu (ES) 2025/2083.
+
+118-3. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2023/1115 dėl tam tikrų su miškų naikinimu ir alinimu siejamų biržos prekių ir produktų tiekimo Sąjungos rinkai ir jų eksporto iš Sąjungos, kuriuo panaikinimas Reglamentas (ES) Nr. 995/2010, su paskutiniais pakeitimais, padarytais 2024 m. gruodžio 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/3234.
+
+118-4. 2023 m. rugpjūčio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2023/1773, kuriuo nustatomos Europos Parlamento ir Tarybos reglamento (ES) 2023/956 taikymo taisyklės, pagal kurias pereinamuoju laikotarpiu vykdoma pareiga teikti pasienio anglies dioksido korekcinio mechanizmo ataskaitas, su paskutiniais pakeitimais, padarytais 2024 m. spalio 10 d. Komisijos įgyvendinimo reglamentu (ES) 2024/2469.
+
+119-1. 2024 m. vasario 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/590 dėl ozono sluoksnį ardančių medžiagų, kuriuo panaikinamas Reglamentas (EB) Nr. 1005/2009.
+
+119-2. 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1157 dėl atliekų vežimo, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1257/2013 ir (ES) 2020/1056 ir panaikinamas Reglamentas (EB) Nr. 1013/2006.
