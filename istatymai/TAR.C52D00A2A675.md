@@ -22,11 +22,8 @@ Vilnius
 ## I SKYRIUS
 **bendrosios nuostatos**
 
-#### 1 straipsnis. Įstatymo tikslas ir paskirtis
-1. Šio įstatymo tikslas – užtikrinti efektyvų investavimą srityse, kuriose finansavimas rinkos sąlygomis yra nepakankamas ir (ar) neoptimalus, ir skatinti finansiškai gyvybingas investicijas.
-2. Šis įstatymas reglamentuoja Lietuvos Respublikos nacionalinio plėtros banko (toliau – NPB) paskyrimą, veiklą, valdymą, finansavimą ir priežiūrą bei atsakomybę už veiklos reikalavimų pažeidimus.
-
-#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+#### 1 straipsnis. Įstatymo paskirtis
+Šis įstatymas nustato nacionalinio plėtros banko (toliau – NPB) statusą, valdymą, veiklą, priežiūrą ir atsakomybę už veiklos reikalavimų pažeidimus.#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 1. Finansų tarpininkas – juridinis asmuo, atrinktas konkrečiai skatinamajai finansinei priemonei įgyvendinti.
 2. Fondų fondas – fondas skatinamajai finansinei priemonei, pasitelkiant finansų tarpininką (-us), ir (ar) kelioms skatinamosioms finansinėms priemonėms įgyvendinti, taip pat dotacijoms ir (ar) subsidijoms, kuriomis prisidedama prie nacionalinio plėtros banko įgyvendinamų skatinamųjų finansinių priemonių, teikti.
 3. Nacionalinis plėtros bankas – finansų įstaiga, kuriai šiame įstatyme nustatyta tvarka suteikta teisė vykdyti skatinamojo finansavimo veiklą.
@@ -37,36 +34,32 @@ Vilnius
 
 #### 3 straipsnis. NPB teisinė forma ir veiklos teisiniai pagrindai
 1. NPB teisinė forma gali būti tik akcinė bendrovė arba uždaroji akcinė bendrovė, kurios buveinė yra Lietuvos Respublikoje. Visos NPB akcijos nuosavybės teise priklauso Lietuvos valstybei.
-2. Nacionaliniam plėtros bankui netaikomas Lietuvos Respublikos bankų įstatymas.
+2. NPB netaikomas Lietuvos Respublikos bankų įstatymas.
 
 ## II SKYRIUS
-**PAVEDIMAS vykdyti NPB veiklą**
+**PAVEDIMAS VYKDYTI SKATINAMOJO FINANSAVIMO VEIKLĄ IR JO PANAIKINIMAS**
 
-#### 4 straipsnis. Pavedimas vykdyti NPB veiklą ir pavedimo panaikinimas
-1. Finansų įstaigai vykdyti NPB veiklą, kuri apima skatinamojo finansavimo veiklą, Vyriausybės įgaliotos institucijos teikimu paveda Vyriausybė (toliau – pavedimas vykdyti NPB veiklą).
-2. Pavesti vykdyti NPB veiklą galima finansų įstaigai, kuri atitinka šio įstatymo 3 straipsnio 1 dalyje ir V skyriuje nustatytus reikalavimus. NPB skatinamojo finansavimo veikla vykdoma atlikus šio įstatymo 7 straipsnyje nurodytą vertinimą ir finansų įstaigos veiklos srityse, nustatytose Vyriausybės sprendimu.
-3. Finansų įstaiga, kuriai pavesta vykdyti NPB veiklą, gali ją pradėti tik tada, kai priežiūros institucija įrašo ją į NPB sąrašą šio įstatymo 8 straipsnyje nustatyta tvarka. NPB licencinių finansinių paslaugų teikimu turi teisę verstis tik gavęs atitinkamą licenciją.
-4. Vyriausybė savo įgaliotos institucijos teikimu panaikina pavedimą vykdyti NPB veiklą, jeigu:
-   1) atlikus šio įstatymo 7 straipsnyje nurodytą vertinimą nustatoma, kad visose srityse, kuriose NPB vykdė skatinamojo finansavimo veiklą, finansavimas rinkos sąlygomis pakankamas ir (ar) optimalus;
-   2) NPB nevykdo skatinamojo finansavimo veiklos;
+#### 4 straipsnis. Pavedimas vykdyti skatinamojo finansavimo veiklą ir jo panaikinimas
+1. Finansų įstaigai vykdyti skatinamojo finansavimo veiklą Lietuvos Respublikos finansų ministerijos teikimu paveda Lietuvos Respublikos Vyriausybė (toliau – pavedimas vykdyti skatinamojo finansavimo veiklą).
+2. Pavesti vykdyti skatinamojo finansavimo veiklą galima finansų įstaigai, kuri atitinka šio įstatymo 3 straipsnio 1 dalyje ir V skyriuje nustatytus reikalavimus. Skatinamojo finansavimo veikla vykdoma atlikus šio įstatymo 7 straipsnyje nurodytą vertinimą ar jo peržiūrą.
+3. Pavedimą vykdyti skatinamojo finansavimo veiklą gavusi finansų įstaiga šią veiklą gali pradėti vykdyti tik tada, kai priežiūros institucija įrašo ją į NPB sąrašą šio įstatymo 8 straipsnyje nustatyta tvarka. NPB licencinių finansinių paslaugų teikimu turi teisę verstis tik gavęs atitinkamą licenciją.
+4. Vyriausybė Finansų ministerijos teikimu panaikina pavedimą vykdyti skatinamojo finansavimo veiklą, jeigu:
+   1) atlikus šio įstatymo 7 straipsnyje nurodytą vertinimą ar jo peržiūrą nustatoma, kad visose valstybės veiklos srityse, kuriose buvo vykdoma skatinamojo finansavimo veikla, finansavimas rinkos sąlygomis pakankamas ir (ar) optimalus;
+   2) finansų įstaiga per vienus metus nuo pavedimo vykdyti skatinamojo finansavimo veiklą davimo dienos nepradėjo vykdyti šios veiklos;
    3) priežiūros institucija NPB išbraukia iš NPB sąrašo šio įstatymo 9 straipsnyje nustatyta tvarka;
    4) yra priimtas sprendimas reorganizuoti ar likviduoti NPB;
-   5) NPB neatitinka šio įstatymo 3 straipsnio 1 dalies ir V skyriaus reikalavimų;
-   6) NPB Vyriausybės įgaliotai institucijai pateikia prašymą panaikinti pavedimą vykdyti NPB veiklą.
-5. Vyriausybės įgaliota institucija apie Vyriausybės sprendimą panaikinti pavedimą vykdyti NPB veiklą ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos praneša priežiūros institucijai, o ši šio įstatymo 9 straipsnio 1 dalyje nustatytais pagrindais išbraukia NPB iš NPB sąrašo.
-6. Panaikinus pavedimą vykdyti NPB veiklą, esamų sutartinių ar kitų įsipareigojimų, susijusių su skatinamojo finansavimo veikla, vykdymas perleidžiamas kitam šio įstatymo reikalavimus atitinkančiam NPB.
-
-## III SKYRIUS. NPB TIKSLAI, UŽDAVINIAI IR FUNKCIJOS
+   5) NPB nebeatitinka šio įstatymo 3 straipsnio 1 dalyje ir V skyriuje nustatytų reikalavimų;
+   6) NPB Finansų ministerijai pateikia prašymą panaikinti pavedimą vykdyti skatinamojo finansavimo veiklą.
+5. Finansų ministerija apie Vyriausybės sprendimą panaikinti pavedimą vykdyti skatinamojo finansavimo veiklą ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos praneša priežiūros institucijai, o ši šio įstatymo 9 straipsnio 1 dalyje nustatytais pagrindais išbraukia NPB iš NPB sąrašo.
+6. Panaikinus pavedimą vykdyti skatinamojo finansavimo veiklą, esamų sutartinių ar kitų įsipareigojimų, susijusių su skatinamojo finansavimo veikla, vykdymas perleidžiamas kitam šio įstatymo reikalavimus atitinkančiam NPB.## III SKYRIUS. NPB TIKSLAI, UŽDAVINIAI IR FUNKCIJOS
 
 #### 5 straipsnis. NPB tikslai ir uždaviniai
-1. NPB tikslai yra vykdyti skatinamojo finansavimo veiklą Vyriausybės nustatytose srityse, siekti užtikrinti finansiškai gyvybingas ir efektyvias investicijas ir prisidėti prie valstybės ekonominės, socialinės ir regionų plėtros.
+1. NPB tikslai yra vykdant skatinamojo finansavimo veiklą siekti užtikrinti finansiškai gyvybingas ir efektyvias investicijas ir prisidėti prie valstybės ekonominės, socialinės ir regionų plėtros.
 2. NPB uždaviniai:
    1) efektyviai investuoti į finansiškai gyvybingus projektus;
    2) skatinti ilgalaikį finansiškai gyvybingų projektų finansavimą iš įvairių finansavimo šaltinių;
    3) prisidėti prie patikimos investicinės aplinkos kūrimo;
-   4) skatinti valstybės ekonominę, socialinę ir regionų plėtrą.
-
-#### 6 straipsnis. NPB funkcijos
+   4) skatinti valstybės ekonominę, socialinę ir regionų plėtrą.#### 6 straipsnis. NPB funkcijos
 1. NPB atlieka šias funkcijas:
    1) įgyvendina skatinamąsias finansines priemones (garantijas, kurios prilyginamos valstybės garantijai, teikia tik tuo atveju, jeigu NPB yra valstybės garantuojama garantijų institucija, kuri suprantama taip, kaip apibrėžiama Lietuvos Respublikos valstybės skolos įstatyme) ir (ar) dalyvauja jas įgyvendinant veikdamas kaip fondų fondo valdytojas. Kai kartu su skatinamąja finansine priemone teikiama dotacija ir (ar) subsidija, ji negali būti didesnė negu pusė skatinamajai finansinei priemonei skirtų lėšų sumos;
    2) teikia dotacijas ir (ar) subsidijas, kuriomis prisidedama prie NPB įgyvendinamų skatinamųjų finansinių priemonių;
@@ -92,53 +85,45 @@ Vilnius
 
 #### 8 straipsnis. NPB sąrašas
 1. NPB gali būti įrašytas į NPB sąrašą tik tada, kai jis priežiūros institucijai pateikia priežiūros institucijos nustatytus reikalavimus atitinkančius dokumentus ir informaciją:
-   1) prašymą įrašyti jį į NPB sąrašą, kuriame nurodoma Vyriausybės nutarimo, kuriuo jam pavesta vykdyti NPB veiklą, data ir numeris;
+   1) prašymą įrašyti jį į NPB sąrašą, kuriame nurodoma Vyriausybės nutarimo, kuriuo jam pavesta vykdyti skatinamojo finansavimo veiklą, data ir numeris;
    2) priežiūros institucijos nustatytus dokumentus ir informaciją, kuriais patvirtinama, kad NPB vadovai atitinka šio įstatymo 10 straipsnyje nustatytus reikalavimus, o vidaus kontrolė užtikrinama vadovaujantis šio įstatymo 11 straipsnyje nustatytais reikalavimais.
 2. Prašymas įrašyti NPB į NPB sąrašą nagrinėjamas ir sprendimas priimamas vadovaujantis Lietuvos Respublikos Lietuvos banko įstatymu. NPB įrašomas į NPB sąrašą ne vėliau kaip per 3 darbo dienas nuo priežiūros institucijos sprendimo priėmimo dienos.
 3. Priežiūros institucija atsisako įrašyti NPB į NPB sąrašą, jeigu NPB:
    1) neatitinka šio įstatymo 10 ir 11 straipsniuose nustatytų reikalavimų;
    2) priežiūros institucijai paprašius pateikti trūkstamus ar patikslintus dokumentus ir informaciją, reikalingus sprendimui priimti, per nurodytą terminą nepateikia šio straipsnio 1 dalyje nurodytų dokumentų ir informacijos.
-4. NPB ne vėliau kaip per 10 darbo dienų privalo informuoti priežiūros instituciją apie dokumentų ir informacijos, pateiktų pagal šio straipsnio 1 dalį, pasikeitimus, kai tik šie pasikeitimai paaiškėja. Priežiūros institucija neprivalo būti informuota apie Vyriausybės nutarimo, kuriuo į NPB sąrašą įrašomai įstaigai pavesta vykdyti NPB veiklą, pakeitimus, išskyrus atvejus, kai pagal šio įstatymo 4 straipsnio 5 dalies nuostatas pateikiama informacija apie pavedimo vykdyti NPB veiklą panaikinimą.
+4. NPB ne vėliau kaip per 10 darbo dienų privalo informuoti priežiūros instituciją apie dokumentų ir informacijos, pateiktų pagal šio straipsnio 1 dalį, pasikeitimus, kai tik šie pasikeitimai paaiškėja. Priežiūros institucija neprivalo būti informuota apie Vyriausybės nutarimo, kuriuo į NPB sąrašą įrašomai įstaigai pavesta vykdyti skatinamojo finansavimo veiklą, pakeitimus, išskyrus atvejus, kai pagal šio įstatymo 4 straipsnio 5 dalies nuostatas pateikiama informacija apie pavedimo vykdyti skatinamojo finansavimo veiklą panaikinimą.
 5. NPB sąrašą priežiūros institucija skelbia savo interneto svetainėje.
 
 #### 9 straipsnis. Išbraukimas iš NPB sąrašo
 1. NPB išbraukiamas iš NPB sąrašo, kai:
-   1) šio įstatymo 4 straipsnio 4 dalyje nustatytais pagrindais panaikinamas pavedimas vykdyti NPB veiklą;
+   1) šio įstatymo 4 straipsnio 4 dalyje nustatytais pagrindais panaikinamas pavedimas vykdyti skatinamojo finansavimo veiklą;
    2) yra priimtas priežiūros institucijos sprendimas NPB taikyti šio įstatymo 19 straipsnio 1 dalies 4 punkte nustatytą poveikio priemonę.
 2. NPB, priežiūros institucijos sprendimu išbrauktas iš NPB sąrašo šio straipsnio 1 dalies 1 punkte nurodytu atveju, gali būti vėl į jį įrašytas šiame įstatyme nustatyta tvarka. NPB, priežiūros institucijos sprendimu išbrauktas iš NPB sąrašo šio straipsnio 1 dalies 2 punkte nurodytu atveju, kreiptis dėl įrašymo į NPB sąrašą gali ne anksčiau kaip po vienų metų nuo sprendimo išbraukti jį iš šio sąrašo įsigaliojimo dienos.
 3. Priežiūros institucijos sprendimas NPB išbraukti iš NPB sąrašo per 3 darbo dienas nuo jo priėmimo dienos paštu ar elektroninių ryšių priemonėmis išsiunčiamas arba įteikiamas pasirašytinai NPB.
-4. Priežiūros institucija apie priimtą sprendimą NPB išbraukti iš NPB sąrašo nedelsdama, ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos, praneša Vyriausybei. Jeigu sprendimas išbraukti NPB iš NPB sąrašo priimamas šio straipsnio 1 dalies 2 punkte nurodytu atveju, Vyriausybė šio įstatymo 4 straipsnyje nustatyta tvarka panaikina pavedimą vykdyti NPB veiklą.
-
-#### 10 straipsnis. Reikalavimai NPB vadovams
-NPB vadovai turi atitikti Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo 31 straipsnio 1 dalyje nustatytus reikalavimus ir jų tinkamumo vertinimui *mutatis mutandis* taikomos Su nekilnojamuoju turtu susijusio kredito įstatymo 31 straipsnio 4–8 dalių nuostatos.
-
-#### 11 straipsnis. NPB veiklos vidaus kontrolė
+4. Priežiūros institucija apie priimtą sprendimą NPB išbraukti iš NPB sąrašo nedelsdama, ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos, praneša Vyriausybei. Jeigu sprendimas išbraukti NPB iš NPB sąrašo priimamas šio straipsnio 1 dalies 2 punkte nurodytu atveju, Vyriausybė šio įstatymo 4 straipsnyje nustatyta tvarka panaikina pavedimą vykdyti skatinamojo finansavimo veiklą.#### 10 straipsnis. Reikalavimai NPB vadovams
+NPB vadovai turi atitikti Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo 31 straipsnio 1 dalyje nustatytus reikalavimus ir jų tinkamumo vertinimui *mutatis mutandis* taikomos Su nekilnojamuoju turtu susijusio kredito įstatymo 31 straipsnio 4–8 dalių nuostatos.#### 11 straipsnis. NPB veiklos vidaus kontrolė
 NPB veiklos vidaus kontrolė užtikrinama vadovaujantis Lietuvos Respublikos finansų įstaigų įstatyme ir priežiūros institucijos teisės aktuose nustatyta tvarka.
 **v****SKYRIUS**
-NPB VEIKLOS ORGANIZAVIMAS IR VALDYMAS
-
-#### 12 straipsnis. NPB organai
+NPB VEIKLOS ORGANIZAVIMAS IR VALDYMAS#### 12 straipsnis. NPB organai
 1. NPB turi būti šie organai: visuotinis akcininkų susirinkimas, stebėtojų taryba, valdyba ir vienasmenis valdymo organas – NPB vadovas.
 2. NPB valdymo organų sudarymo ir darbo tvarką, kompetenciją ir funkcijas, atsakomybę nustato šis įstatymas, NPB įstatai, taip pat Lietuvos Respublikos civilinis kodeksas, Finansų įstaigų įstatymas ir Akcinių bendrovių įstatymas.
 3. Stebėtojų tarybos nariai turi būti nesusiję darbo ar jų esmę atitinkančiais santykiais su NPB.
 4. NPB stebėtojų taryba užtikrina, kad NPB vidaus kontrolės sistema atitiktų šio įstatymo 11 straipsnyje nustatytus reikalavimus.
 
-#### 13 straipsnis. Finansavimo šaltiniai
+#### 13 straipsnis. Finansavimo šaltiniai ir laikinai laisvų lėšų naudojimas
 1. Šio įstatymo 6 straipsnyje nurodytų NPB funkcijų įgyvendinimas gali būti finansuojamas iš valstybės ir savivaldybių biudžetų, Europos Sąjungos, tarptautinių finansų institucijų ir (ar) kitų lėšų.
-2. NPB, atsižvelgdamas į šio ir kitų įstatymų reikalavimus, turi teisę šiame įstatyme nurodytiems NPB tikslams pasiekti, uždaviniams įgyvendinti ir funkcijoms atlikti naudoti nuosavo kapitalo, valdomų skatinamųjų finansinių priemonių ir fondų fondų lėšas.
-
-#### 14 straipsnis. NPB minimalus nuosavas kapitalas
+2. NPB, atsižvelgdamas į šio ir kitų įstatymų reikalavimus, turi teisę šiame įstatyme nurodytiems NPB tikslams pasiekti, uždaviniams įgyvendinti ir funkcijoms atlikti naudoti nuosavas, pasiskolintas, įgyvendinamų skatinamųjų finansinių priemonių ir valdomų fondų fondų lėšas.
+3. NPB įgyvendinamų skatinamųjų finansinių priemonių ir (ar) valdomų fondų fondų laikinai laisvos lėšos finansų ministro nustatyta tvarka investuojamos ir (ar) Vyriausybės nustatyta tvarka naudojamos kitoms NPB įgyvendinamoms skatinamosioms finansinėms priemonėms įgyvendinti ir (ar) fondų fondams valdyti, užtikrinant lėšų grąžinimą į atitinkamą skatinamosios finansinės priemonės ir (ar) fondų fondo sąskaitą.
+4. NPB įgyvendinamų skatinamųjų finansinių priemonių ir (ar) valdomų fondų fondų lėšos Vyriausybės sprendimu Vyriausybės nustatyta tvarka gali būti skiriamos NPB įstatiniam kapitalui didinti, jeigu tai neprieštarauja Lietuvos Respublikos ir Europos Sąjungos teisės aktams.#### 14 straipsnis. NPB minimalus nuosavas kapitalas
 1. NPB minimalus nuosavas kapitalas turi būti ne mažesnis negu 1 000 000 eurų.
 2. Jeigu NPB nuosavas kapitalas yra mažesnis, negu nurodyta šio straipsnio 1 dalyje, Akcinių bendrovių įstatymo 23 straipsnio 1 dalyje nurodyti subjektai privalo nedelsdami sušaukti neeilinį NPB visuotinį akcininkų susirinkimą. NPB visuotinis akcininkų susirinkimas privalo priimti sprendimus, kurie leistų per 6 mėnesius nuo to laiko, kai buvo pastebėta, kad nesilaikoma minimalaus nuosavo kapitalo reikalavimo, atkurti NPB nuosavą kapitalą iki šio straipsnio 1 dalyje nurodyto mažiausio dydžio.
 
 #### 15 straipsnis. Specialusis kapitalo rezervas ir pelnas
 1. Be Akcinių bendrovių įstatyme ir Finansų įstaigų įstatyme numatytų rezervų, NPB turi suformuoti specialųjį kapitalo rezervą, kuris kaupiamas šio straipsnio 2 dalyje nustatyta tvarka ir kurio dydis privalo būti ne mažesnis kaip 5 procentai NPB įstatinio kapitalo dydžio.
 2. Specialusis kapitalo rezervas formuojamas kaupimo principu, kiekvienais metais tokiam rezervui formuoti skiriant ne mažiau kaip 10 procentų tų metų paskirstytojo pelno, iki bus pasiektas nustatytas rezervo lygis. Specialusis kapitalo rezervas NPB visuotinio akcininkų susirinkimo sprendimu gali būti naudojamas NPB nuostoliams dengti.
-3. NPB pelnas naudojamas šiame įstatyme, Akcinių bendrovių įstatyme, Finansų įstaigų įstatyme ir NPB įstatuose numatytiems rezervams sukaupti ir (ar) didinti, NPB veiklai užtikrinti, dividendams Akcinių bendrovių įstatyme nustatyta tvarka išmokėti.
+3. NPB pelnas naudojamas šiame įstatyme, Akcinių bendrovių įstatyme, Finansų įstaigų įstatyme ir NPB įstatuose numatytiems rezervams sukaupti ir (ar) didinti, NPB veiklai užtikrinti. NPB pelnas nenaudojamas dividendams išmokėti.
 
-## VI SKYRIUS. NPB PRIEŽIŪRA IR ATSAKOMYBĖ UŽ REIKALAVIMŲ PAŽEIDIMUS
-
-#### 16 straipsnis. NPB priežiūra
+## VI SKYRIUS. NPB PRIEŽIŪRA IR ATSAKOMYBĖ UŽ REIKALAVIMŲ PAŽEIDIMUS#### 16 straipsnis. NPB priežiūra
 1. Priežiūros institucija:
    1) prižiūri, kaip NPB, įrašytas į NPB sąrašą, laikosi šio įstatymo 8 straipsnio 4 dalyje, 10 ir 11 straipsniuose nustatytų reikalavimų;
    2) duoda NPB privalomus nurodymus Lietuvos banko įstatyme nustatyta tvarka per nustatytą terminą pašalinti teisės aktų pažeidimus arba veiklos trūkumus.
