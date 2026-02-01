@@ -1045,7 +1045,7 @@ Jeigu biudžetas laiku nepatvirtinamas, asignavimai metų pradžioje iki biudže
 
 
 
-5. Šio straipsnio 4 dalis netaikoma šio įstatymo 28 straipsnio 1 dalyje nurodytiems nepanaudotiems valstybės biudžeto asignavimams, skirtiems programoms finansuoti, politinėms partijoms paskirstytiems valstybės biudžeto asignavimams, Lietuvos Respublikos nacionalinių plėtros įstaigų įstatyme apibrėžtoms skatinamosioms finansinėms priemonėms, kai fondų fondas nesteigiamas, įgyvendinti ir (arba) fondų fondams valdyti pagal finansavimo sutartis, kurių šalys yra asignavimų valdytojai, skatinamųjų finansinių priemonių ir (arba) fondų fondų valdytojai ir (arba) Finansų ministerija.
+5. Šio straipsnio 4 dalis netaikoma šio įstatymo 28 straipsnio 1 dalyje nurodytiems nepanaudotiems valstybės biudžeto asignavimams, skirtiems programoms finansuoti, politinėms partijoms paskirstytiems valstybės biudžeto asignavimams, Lietuvos Respublikos nacionalinio plėtros banko įstatyme apibrėžtoms skatinamosioms finansinėms priemonėms, kai fondų fondas nesteigiamas, įgyvendinti ir (arba) fondų fondams valdyti pagal finansavimo sutartis, kurių šalys yra asignavimų valdytojai, skatinamųjų finansinių priemonių ir (arba) fondų fondų valdytojai ir (arba) Finansų ministerija. Lėšos, grąžintos iš investicijų įgyvendinant skatinamąsias finansines priemones, įskaitant nepanaudotas garantijoms skirtas lėšas, pelną ir kitas pajamas iš šių investicijų, Vyriausybės sprendimu Vyriausybės nustatyta tvarka gali būti panaudotos nacionalinio plėtros banko įstatiniam kapitalui didinti.
 
 
 
@@ -1063,43 +1063,7 @@ Jeigu biudžetas laiku nepatvirtinamas, asignavimai metų pradžioje iki biudže
 
 
 
-2) savivaldybės biudžeto lėšas pervesdami į savivaldybės iždo sąskaitą.28 straipsnis. Nepanaudotų valstybės biudžeto asignavimų perkėlimas iš ankstesnių biudžetinių metų į einamuosius biudžetinius metus ir kitų lėšų naudojimas viršijant Seimo patvirtintą bendrą asignavimų sumą
-
-
-1. Nepanaudoti valstybės biudžeto asignavimai Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka gali būti perkeliami iš ankstesnių biudžetinių metų į einamuosius biudžetinius metus ir paliekami valstybės biudžeto asignavimų valdytojams bei gali būti naudojami viršijant Seimo patvirtintą einamųjų biudžetinių metų bendrą asignavimų sumą:
-
-
-1) biudžetinių įstaigų pajamų įmokos į valstybės biudžetą, skirtos programoms finansuoti;
-
-
-
-
-2) valstybės biudžeto asignavimai pažangos priemonėms įgyvendinti, įskaitant Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas. Atitinkamai pažangos priemonei įgyvendinti suplanuoti ir ankstesniais biudžetiniais metais nepanaudoti asignavimai perkeliami į einamuosius biudžetinius metus ir naudojami tik tai pačiai pažangos priemonei įgyvendinti. Į einamuosius biudžetinius metus perkeliamų šių nepanaudotų asignavimų, išskyrus Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas, dydis turi neviršyti 30 procentų asignavimų valdytojui ankstesniais biudžetiniais metais patvirtintų asignavimų, kuriuos sudaro pažangos lėšos (išskyrus Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas), sumos;
-
-
-
-
-3) valstybės biudžeto asignavimai tęstinės veiklos priemonėms įgyvendinti, įskaitant Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas, skirti prisiimtiems sutartiniams įsipareigojimams ir (arba) inicijuotiems Lietuvos Respublikos viešųjų pirkimų įstatyme nustatyta tvarka vykdomiems viešiesiems pirkimams, Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatyme nustatyta tvarka vykdomiems viešiesiems pirkimams, atliekamiems gynybos ir saugumo srityje, bei pirkimams, susijusiems su žvalgybinio pobūdžio veikla (toliau kartu – viešiesiems pirkimams), vykdyti. Į einamuosius biudžetinius metus perkeliamų šių ankstesniais biudžetiniais metais nepanaudotų asignavimų, išskyrus Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas, dydis turi neviršyti 3 procentų asignavimų valdytojui ankstesniais biudžetiniais metais patvirtintų asignavimų, atėmus šio straipsnio 1 dalies 1 punkte nurodytas sumas ir Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas, sumos tęstinės veiklos priemonėms finansuoti. Ankstesniais biudžetiniais metais nepanaudoti asignavimai tęstinės veiklos priemonėms įgyvendinti einamaisiais biudžetiniais metais naudojami tik tiems patiems sutartiniams įsipareigojimams ir (arba) viešiesiems pirkimams vykdyti, įskaitant atvejus, kai dėl to paties sutarties ir (arba) viešųjų pirkimų objekto inicijuojami nauji viešieji pirkimai ir (arba) atsiranda nauji sutartiniai įsipareigojimai.
-
-
-
-
-
-
-2. Viršplaninės biudžetinių įstaigų pajamų įmokos ir Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšų viršplaninės įmokos į valstybės biudžetą einamaisiais biudžetiniais metais paliekamos valstybės biudžeto asignavimų valdytojams ir gali būti naudojamos programoms finansuoti viršijant Seimo patvirtintą einamųjų biudžetinių metų bendrą asignavimų sumą.
-
-
-
-
-3. Tam tikrų metų biudžeto patvirtinimo įstatyme nustatytiems tikslams valstybės vardu pasiskolintos lėšos, taip pat iš valstybės rezervo skirtos lėšos einamaisiais biudžetiniais metais gali būti naudojamos viršijant Seimo patvirtintą einamųjų biudžetinių metų bendrą asignavimų sumą. Šios valstybės vardu pasiskolintos lėšos ir iš valstybės rezervo skirtos lėšos naudojamos ir už jas atsiskaitoma Vyriausybės nustatyta tvarka, kuri taikoma lėšoms, gautoms kaip asignavimai.
- 
-
-
-
-
-
-
-29 straipsnis. Vyriausybės arba jos įgaliotos institucijos teisės
+2) savivaldybės biudžeto lėšas pervesdami į savivaldybės iždo sąskaitą.29 straipsnis. Vyriausybės arba jos įgaliotos institucijos teisės
 
 
 1. Vyriausybė arba jos įgaliota institucija turi teisę:
