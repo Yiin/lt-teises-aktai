@@ -3667,26 +3667,26 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 42 straipsnis. Ginklai, jų šaudmenys kaip paveldėto turto dalis ar dovana
 
 
-1. A kategorijos ginklai, ginklų dalys ir šaudmenys, skirti tik A kategorijos ginklams, A kategorijos ginklų priedėliai, šio įstatymo 3 straipsnio 7 punkte nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo 3 straipsnio 8 punkte nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 10 šovinių, B, C, D kategorijų ginklai ir šaudmenys dovanojami ir paveldimi. 
+1. A kategorijos ginklai, ginklų dalys ir šaudmenys, skirti tik A kategorijos ginklams, A kategorijos ginklų priedėliai, šio įstatymo 3 straipsnio 7 punkte nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo 3 straipsnio 8 punkte nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 10 šovinių, B, C, D kategorijų ginklai ir šaudmenys dovanojami ir paveldimi. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
- 
+ 
 
 
 
 
-2. A kategorijos ginklai, ginklų dalys ir šaudmenys, skirti tik A kategorijos ginklams, A kategorijos priedėliai, šio įstatymo 3 straipsnio 7 punkte nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo 3 straipsnio 8 punkte nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 10 šovinių, B ir C kategorijų ginklai, jų šaudmenys gali būti dovanojami asmenims, kurie turi teisę įsigyti ir turėti atitinkamos rūšies ginklą. 
+2. A kategorijos ginklai, ginklų dalys ir šaudmenys, skirti tik A kategorijos ginklams, A kategorijos priedėliai, šio įstatymo 3 straipsnio 7 punkte nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo 3 straipsnio 8 punkte nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 10 šovinių, B ir C kategorijų ginklai, jų šaudmenys gali būti dovanojami asmenims, kurie turi teisę įsigyti ir turėti atitinkamos rūšies ginklą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
- 
+ 
 
 
 
 
-3. Įpėdinis ar jo įgaliotas asmuo privalo per 6 mėnesius nuo tos dienos, kai sueina 3 mėnesiai nuo palikimo atsiradimo dienos, pateikti prašymą policijos įstaigai šio įstatymo nustatyta tvarka išduoti leidimą nešiotis ginklus ar leidimą laikyti ginklus, leidimą ginklą parduoti, perdirbti ar sunaikinti. 
+3. Įpėdinis ar jo įgaliotas asmuo privalo per 6 mėnesius nuo tos dienos, kai sueina 3 mėnesiai nuo palikimo atsiradimo dienos, pateikti prašymą policijos įstaigai šio įstatymo nustatyta tvarka išduoti leidimą nešiotis ginklus ar leidimą laikyti ginklus, leidimą ginklą parduoti, perdirbti ar sunaikinti. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
- 
+ 
 
 
 
@@ -3696,7 +3696,7 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 Nr. XV-184, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08679
- 
+ 
 
 
 
@@ -3705,21 +3705,21 @@ Nr. XV-184, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08679
 Straipsnio dalies pakeitimai:
 Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
- 
+ 
 
 
 
 
-6. Jeigu įpėdinis ar jo įgaliotas asmuo be objektyviai pateisinamų priežasčių per 6 mėnesius nuo tos dienos, kai sueina 3 mėnesiai nuo palikimo atsiradimo dienos, nesikreipia į policijos įstaigą dėl leidimo nešiotis ginklus ar leidimo laikyti ginklus gavimo arba leidimo ginklą parduoti ar perdirbti arba per 30 kalendorinių dienų, kai buvo gavęs leidimą ginklą parduoti, neperduoda ginklo realizuoti ir policijos įstaigai nepateikia šio straipsnio 4 dalyje nurodytos pažymos, kad ginklas, šaudmenys yra perduoti realizuoti, policijos įstaiga ginklą, šaudmenis perduoda Vyriausybės įgaliotai institucijai sunaikinti.
+6. Jeigu įpėdinis ar jo įgaliotas asmuo be objektyviai pateisinamų priežasčių per 6 mėnesius nuo tos dienos, kai sueina 3 mėnesiai nuo palikimo atsiradimo dienos, nesikreipia į policijos įstaigą dėl leidimo nešiotis ginklus ar leidimo laikyti ginklus gavimo arba leidimo ginklą parduoti ar perdirbti arba per 30 kalendorinių dienų, kai buvo gavęs leidimą ginklą parduoti, neperduoda ginklo realizuoti ir policijos įstaigai nepateikia šio straipsnio 4 dalyje nurodytos pažymos, kad ginklas, šaudmenys yra perduoti realizuoti, policijos įstaiga ginklą, šaudmenis perduoda Vyriausybės įgaliotai institucijai sunaikinti.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
- 
+ 
 
 
 
 
-7. Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas, krašto apsaugos ministras, Lietuvos kariuomenės vadas ir vidaus reikalų ministras turi teisę apdovanoti asmenis B ir C kategorijų trumpaisiais šaunamaisiais ginklais (pistoletais, revolveriais) bei kardais, durklais, kalavijais ir kitais šaltaisiais ginklais už pasižymėjimą kovos aplinkybėmis, už nuopelnus ar pasiaukojimą ir narsą užtikrinant asmens, visuomenės ir (ar) valstybės saugumą, kovojant su nusikalstamumu, už asmeninę drąsą atliekant tarnybines užduotis. Šioje dalyje nurodyti ginklai turi būti pažymimi nurodant apdovanotojo asmens vardą, pavardę, nuopelnus, apdovanojusio asmens pareigas ir apdovanojimo datą.
+7. Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas, krašto apsaugos ministras, Lietuvos kariuomenės vadas, vidaus reikalų ministras ir žvalgybos institucijos vadovas turi teisę apdovanoti asmenis B ir C kategorijų trumpaisiais šaunamaisiais ginklais (pistoletais, revolveriais) bei kardais, durklais, kalavijais ir kitais šaltaisiais ginklais už pasižymėjimą kovos aplinkybėmis, už nuopelnus ar pasiaukojimą ir narsą užtikrinant asmens, visuomenės ir (ar) valstybės saugumą, kovojant su nusikalstamumu, už asmeninę drąsą atliekant tarnybines užduotis. Šioje dalyje nurodyti ginklai turi būti pažymimi nurodant apdovanoto asmens vardą, pavardę, nuopelnus, apdovanojusio asmens pareigas ir apdovanojimo datą.
 
 
 
@@ -3729,10 +3729,10 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 
 
 
-9. Tvarką, reglamentuojančią apdovanojimą ginklais, nustato Vyriausybė. Krašto apsaugos ministras nustato apdovanojimo ginklais tvarką krašto apsaugos sistemoje. Vidaus reikalų ministras, suderinęs su teisingumo ministru ir finansų ministru, nustato asmenų, einančių pareigas vidaus tarnybos sistemos statutinėse įstaigose, apdovanojimo ginklais tvarką. 
+9. Tvarką, reglamentuojančią apdovanojimą ginklais, nustato Vyriausybė. Krašto apsaugos ministras nustato apdovanojimo ginklais tvarką krašto apsaugos sistemoje. Vidaus reikalų ministras, suderinęs su teisingumo ministru ir finansų ministru, nustato vidaus tarnybos sistemos pareigūnų apdovanojimo ginklais tvarką. Valstybės saugumo departamento direktorius ir krašto apsaugos ministras nustato žvalgybos pareigūnų apdovanojimo ginklais tvarką.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
- 
+ 
 
 
 
@@ -3740,21 +3740,13 @@ Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
 10. Šio straipsnio 7 dalyje nurodyti asmenys panaikina apdovanojimą ginklu, jeigu paaiškėja aplinkybės, dėl kurių asmuo negalėjo būti apdovanotas ginklu šio straipsnio 7 dalyje nustatytais pagrindais, arba asmuo negalėjo įsigyti ir turėti ginklų, jų šaudmenų dėl šio įstatymo 17 straipsnio 1 dalyje nustatytų priežasčių, arba asmens veika žemina apdovanojimą ginklu gavusio asmens vardą. 
 Papildyta straipsnio dalimi:
 Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
- 
-
-
-
-
+ 
 
 
 
 
 XIII SKYRIUS
-GINKLŲ, ŠAUDMENŲ, JŲ DALIŲ SUNAIKINIMAS
- 
-
-
-43 straipsnis. Ginklų, ginklų priedėlių, šaudmenų, jų dalių sunaikinimas
+GINKLŲ, ŠAUDMENŲ, JŲ DALIŲ SUNAIKINIMAS43 straipsnis. Ginklų, ginklų priedėlių, šaudmenų, jų dalių sunaikinimas
 
 
 1. Iš asmenų paimti netinkami naudoti ginklai, kurių nuosavybės teisės subjektu tapo valstybė ir kurių neįmanoma ar netikslinga taisyti (išskyrus turinčius istorinę ar kriminalistinę vertę), turi būti sunaikinami arba perdirbami į visiškai netinkamus naudoti ginklus.
@@ -3770,7 +3762,7 @@ GINKLŲ, ŠAUDMENŲ, JŲ DALIŲ SUNAIKINIMAS
 3. Asmenys norimus sunaikinti sau priklausančius ginklus, ginklų priedėlius, šaudmenis, jų dalis perduoda policijos įstaigai, o ši ne rečiau kaip kas 6 mėnesiai atiduotus sunaikinti ginklus, ginklų priedėlius, šaudmenis, jų dalis perduoda Vyriausybės įgaliotai institucijai sunaikinti. Vyriausybės ar jos įgaliotos institucijos numatytais atvejais ir tvarka, kai ginklus, ginklų priedėlius, šaudmenis dėl jų dalių dydžio, konstrukcinių ir kitų specifinių savybių netikslinga perduoti Vyriausybės įgaliotai institucijai, asmenys šiuos ginklus, ginklų priedėlius, šaudmenis, jų dalis sunaikina patys, dalyvaujant Vyriausybės įgaliotos institucijos atstovams. Vyriausybės įgaliotai institucijai nustačius, kad perduoti sunaikinti ginklai ir ginklų priedėliai turi istorinę ar kriminalistinę vertę, tokių ginklų ir ginklų priedėlių nenaikina. Nenaikinami ir ginklai, ginklų priedėliai, turintys istorinę ar kriminalistinę vertę, perduoti Vyriausybės įgaliotai institucijai sunaikinti, vadovaujantis šio įstatymo 41 straipsnio 4 dalimi ir 42 straipsnio 6 dalimi.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2649, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09687
- 
+ 
 
 
 
@@ -3786,24 +3778,18 @@ Nr. XIV-2649, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09687
 
 
 6. Specialiojo statuso subjektai, išskyrus krašto apsaugos sistemos institucijas, skirtus sunaikinti ginklus, ginklų priedėlius, šaudmenis, jų dalis privalo perduoti Vyriausybės įgaliotai institucijai sunaikinti. Krašto apsaugos sistemos institucijoms priklausančius ginklus, ginklų priedėlius, šaudmenis, jų dalis sunaikina Lietuvos kariuomenė krašto apsaugos ministro nustatyta tvarka.
- 
+ 
 
 
 Straipsnio pakeitimai:
 Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
- 
+ 
 
 
 
 
-
-
-XiV SKYRIUS
-BAIGIAMOSIOS NUOSTATOS
- 
-
-
-44 straipsnis. Kriminalistinė tūtelių ir kulkų kolekcija
+XIV SKYRIUS
+BAIGIAMOSIOS NUOSTATOS44 straipsnis. Kriminalistinė tūtelių ir kulkų kolekcija
 
 
 Visi įsigyti A, B kategorijų graižtviniai trumpieji šaunamieji ginklai turi būti išbandyti ir sudarytos iš jų iššautų tūtelių ir kulkų kolekcijos. A, B kategorijų graižtvinių trumpųjų šaunamųjų ginklų išbandymo, tūtelių ir kulkų kolekcijų sudarymo, tvarkymo ir naudojimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
