@@ -23,13 +23,15 @@ Vilnius
 **bendrosios nuostatos**
 
 #### 1 straipsnis. Įstatymo paskirtis
-Šis įstatymas nustato nacionalinio plėtros banko (toliau – NPB) statusą, valdymą, veiklą, priežiūrą ir atsakomybę už veiklos reikalavimų pažeidimus.#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+Šis įstatymas nustato nacionalinio plėtros banko (toliau – NPB) statusą, valdymą, veiklą, priežiūrą ir atsakomybę už veiklos reikalavimų pažeidimus.
+
+#### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 1. Finansų tarpininkas – juridinis asmuo, atrinktas konkrečiai skatinamajai finansinei priemonei įgyvendinti.
 2. Fondų fondas – fondas skatinamajai finansinei priemonei, pasitelkiant finansų tarpininką (-us), ir (ar) kelioms skatinamosioms finansinėms priemonėms įgyvendinti, taip pat dotacijoms ir (ar) subsidijoms, kuriomis prisidedama prie nacionalinio plėtros banko įgyvendinamų skatinamųjų finansinių priemonių, teikti.
 3. Nacionalinis plėtros bankas – finansų įstaiga, kuriai šiame įstatyme nustatyta tvarka suteikta teisė vykdyti skatinamojo finansavimo veiklą.
 4. Priežiūros institucija – Lietuvos bankas, šio ir kitų įstatymų nustatyta tvarka atliekantis nacionalinių plėtros bankų, įrašytų į Nacionalinių plėtros bankų sąrašą, priežiūrą.
-5. Skatinamoji finansinė priemonė – valstybės ir savivaldybių biudžetų, Europos Sąjungos, tarptautinių finansų institucijų ir (ar) kitomis lėšomis įgyvendinama paskolų, garantijų, rizikos kapitalo investicijų arba kita finansinė priemonė, kuriai finansuoti ir (ar) įgyvendinti skirtos lėšos (ar jų dalis) grįžta ir pakartotinai naudojamos tiems patiems šios priemonės kūrimo metu nustatytiems tikslams pasiekti arba skatinamojo finansavimo veiklai kitose srityse vykdyti.
-6. Skatinamojo finansavimo veikla – finansinių paslaugų teikimas srityse, kurių plėtrą Lietuvos Respublikos Vyriausybės sprendimu būtina skatinti, tačiau kurių finansavimas rinkos sąlygomis yra nepakankamas ir (ar) neoptimalus.
+5. Skatinamoji finansinė priemonė – valstybės ir savivaldybių biudžetų, Europos Sąjungos, tarptautinių finansų institucijų ir (ar) kitomis lėšomis įgyvendinama paskolų, garantijų, rizikos kapitalo investicijų arba kita finansinė priemonė, kuriai finansuoti ir (ar) įgyvendinti skirtos lėšos (ar jų dalis) grįžta ir pakartotinai naudojamos tiems patiems šios priemonės kūrimo metu nustatytiems tikslams pasiekti arba skatinamojo finansavimo veiklai kitose valstybės veiklos srityse vykdyti.
+6. Skatinamojo finansavimo veikla – finansinių paslaugų teikimas valstybės veiklos srityse, kuriose būtina skatinti plėtrą, tačiau kurių finansavimas rinkos sąlygomis yra nepakankamas ir (ar) neoptimalus.
 7. Vadovas – nacionalinio plėtros banko vadovas, valdybos narys ir stebėtojų tarybos narys.
 
 #### 3 straipsnis. NPB teisinė forma ir veiklos teisiniai pagrindai
@@ -37,19 +39,19 @@ Vilnius
 2. NPB netaikomas Lietuvos Respublikos bankų įstatymas.
 
 ## II SKYRIUS
-**PAVEDIMAS VYKDYTI SKATINAMOJO FINANSAVIMO VEIKLĄ IR JO PANAIKINIMAS**
+PAVEDIMAS VYKDYTI SKATINAMOJO FINANSAVIMO VEIKLĄ IR JO PANAIKINIMAS
 
 #### 4 straipsnis. Pavedimas vykdyti skatinamojo finansavimo veiklą ir jo panaikinimas
 1. Finansų įstaigai vykdyti skatinamojo finansavimo veiklą Lietuvos Respublikos finansų ministerijos teikimu paveda Lietuvos Respublikos Vyriausybė (toliau – pavedimas vykdyti skatinamojo finansavimo veiklą).
 2. Pavesti vykdyti skatinamojo finansavimo veiklą galima finansų įstaigai, kuri atitinka šio įstatymo 3 straipsnio 1 dalyje ir V skyriuje nustatytus reikalavimus. Skatinamojo finansavimo veikla vykdoma atlikus šio įstatymo 7 straipsnyje nurodytą vertinimą ar jo peržiūrą.
 3. Pavedimą vykdyti skatinamojo finansavimo veiklą gavusi finansų įstaiga šią veiklą gali pradėti vykdyti tik tada, kai priežiūros institucija įrašo ją į NPB sąrašą šio įstatymo 8 straipsnyje nustatyta tvarka. NPB licencinių finansinių paslaugų teikimu turi teisę verstis tik gavęs atitinkamą licenciją.
 4. Vyriausybė Finansų ministerijos teikimu panaikina pavedimą vykdyti skatinamojo finansavimo veiklą, jeigu:
-   1) atlikus šio įstatymo 7 straipsnyje nurodytą vertinimą ar jo peržiūrą nustatoma, kad visose valstybės veiklos srityse, kuriose buvo vykdoma skatinamojo finansavimo veikla, finansavimas rinkos sąlygomis pakankamas ir (ar) optimalus;
-   2) finansų įstaiga per vienus metus nuo pavedimo vykdyti skatinamojo finansavimo veiklą davimo dienos nepradėjo vykdyti šios veiklos;
-   3) priežiūros institucija NPB išbraukia iš NPB sąrašo šio įstatymo 9 straipsnyje nustatyta tvarka;
-   4) yra priimtas sprendimas reorganizuoti ar likviduoti NPB;
-   5) NPB nebeatitinka šio įstatymo 3 straipsnio 1 dalyje ir V skyriuje nustatytų reikalavimų;
-   6) NPB Finansų ministerijai pateikia prašymą panaikinti pavedimą vykdyti skatinamojo finansavimo veiklą.
+1) atlikus šio įstatymo 7 straipsnyje nurodytą vertinimą ar jo peržiūrą nustatoma, kad visose valstybės veiklos srityse, kuriose buvo vykdoma skatinamojo finansavimo veikla, finansavimas rinkos sąlygomis pakankamas ir (ar) optimalus;
+2) finansų įstaiga per vienus metus nuo pavedimo vykdyti skatinamojo finansavimo veiklą davimo dienos nepradėjo vykdyti šios veiklos;
+3) priežiūros institucija NPB išbraukia iš NPB sąrašo šio įstatymo 9 straipsnyje nustatyta tvarka;
+4) yra priimtas sprendimas reorganizuoti ar likviduoti NPB;
+5) NPB nebeatitinka šio įstatymo 3 straipsnio 1 dalyje ir V skyriuje nustatytų reikalavimų;
+6) NPB Finansų ministerijai pateikia prašymą panaikinti pavedimą vykdyti skatinamojo finansavimo veiklą.
 5. Finansų ministerija apie Vyriausybės sprendimą panaikinti pavedimą vykdyti skatinamojo finansavimo veiklą ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos praneša priežiūros institucijai, o ši šio įstatymo 9 straipsnio 1 dalyje nustatytais pagrindais išbraukia NPB iš NPB sąrašo.
 6. Panaikinus pavedimą vykdyti skatinamojo finansavimo veiklą, esamų sutartinių ar kitų įsipareigojimų, susijusių su skatinamojo finansavimo veikla, vykdymas perleidžiamas kitam šio įstatymo reikalavimus atitinkančiam NPB.## III SKYRIUS. NPB TIKSLAI, UŽDAVINIAI IR FUNKCIJOS
 
@@ -61,25 +63,29 @@ Vilnius
    3) prisidėti prie patikimos investicinės aplinkos kūrimo;
    4) skatinti valstybės ekonominę, socialinę ir regionų plėtrą.#### 6 straipsnis. NPB funkcijos
 1. NPB atlieka šias funkcijas:
-   1) įgyvendina skatinamąsias finansines priemones (garantijas, kurios prilyginamos valstybės garantijai, teikia tik tuo atveju, jeigu NPB yra valstybės garantuojama garantijų institucija, kuri suprantama taip, kaip apibrėžiama Lietuvos Respublikos valstybės skolos įstatyme) ir (ar) dalyvauja jas įgyvendinant veikdamas kaip fondų fondo valdytojas. Kai kartu su skatinamąja finansine priemone teikiama dotacija ir (ar) subsidija, ji negali būti didesnė negu pusė skatinamajai finansinei priemonei skirtų lėšų sumos;
-   2) teikia dotacijas ir (ar) subsidijas, kuriomis prisidedama prie NPB įgyvendinamų skatinamųjų finansinių priemonių;
-   3) dalyvauja investavimo platformose, kurios suprantamos taip, kaip apibrėžiamos 2015 m. birželio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 2015/1017 dėl Europos strateginių investicijų fondo, Europos investavimo konsultacijų centro ir Europos investicinių projektų portalo, kuriuo iš dalies keičiamos reglamentų (ES) Nr. 1291/2013 ir (ES) Nr. 1316/2013 nuostatos dėl Europos strateginių investicijų fondo, (su visais pakeitimais) 2 straipsnio 4 punkte, ir (ar) jas kuria;
-   4) pritraukia privačių lėšų finansiškai gyvybingiems projektams bei regionų ir (ar) vietos plėtrai;
-   5) užtikrina finansiškai gyvybingų projektų srautą;
-   6) dalyvauja rengiant skatinamųjų finansinių priemonių investavimo strategijas ir vykdant investicijų rezultatyvumo bei poveikio stebėseną;
-   7) teikia pasiūlymus ir ekspertinę (techninę ir metodinę) pagalbą valstybės ir savivaldybių institucijoms ir įstaigoms tvariųjų (žaliųjų) finansų srityje ir dėl būtinų sprendimų siekiant pagerinti investicinę aplinką ir finansavimo prieinamumą projektus įgyvendinantiems subjektams;
-   8) plėtoja tvaraus ženklinimo ekosistemą;
-   9) inicijuoja ir teikia siūlymus dėl su tvariaisiais (žaliaisiais) finansais susijusių mokslinių tyrimų, vykdo švietimo ir informavimo veiklas;
-   10) koordinuoja viešojo ir privataus sektorių bendradarbiavimą tvariųjų (žaliųjų) finansų srityje;
-   11) garsina Lietuvos vardą tvariųjų (žaliųjų) finansų srityje;
-   12) įgyvendina skatinamąsias finansines priemones, projektus ir programas vystomojo bendradarbiavimo srityje;
-   13) kitas funkcijas, kurios reikalingos šio įstatymo 5 straipsnyje nurodytiems NPB tikslams pasiekti.
-2. NPB, siekdamas valdyti riziką, skatinamajai finansinei priemonei įgyvendinti gali steigti NPB patronuojamąją (dukterinę) įmonę, kuri suprantama taip, kaip nurodyta Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnyje, kai tai numatyta skatinamosios finansinės priemonės investavimo strategijoje. NPB gali būti ir kitų juridinių asmenų steigėjas ir (ar) dalyvis, gali veikti kaip komanditinės ūkinės bendrijos tikrasis narys ir (ar) veiklai vykdyti pasitelkti finansų tarpininkus.
-3. NPB, siekdamas užtikrinti tinkamą skatinamųjų finansinių priemonių, dotacijų ir (ar) subsidijų, kuriomis prisidedama prie NPB įgyvendinamų skatinamųjų finansinių priemonių, įgyvendinimą, turi teisę gauti iš valstybės registrų ir informacinių sistemų duomenis bei informaciją, kurie reikalingi nurodytų priemonių pareiškėjų, jų atstovų ir dalyvių (toliau – pareiškėjai) tapatybei nustatyti, pareiškėjų finansinei padėčiai ir kreditingumui įvertinti, pareiškėjų atitikčiai nurodytų priemonių įgyvendinimą reglamentuojančiuose teisės aktuose nustatytiems pareiškėjų tinkamumo reikalavimams įvertinti, pareiškėjų NPB pateiktų duomenų teisingumui patikrinti.
-4. NPB gali turėti sąskaitų Lietuvos banke.
-**7****straipsnis**. **NPB skatinamojo finansavimo poreikio vertinimas**
-1. NPB skatinamojo finansavimo veikla turi būti pagrįsta vertinimu, kuriuo nustatomas finansavimo rinkos sąlygomis nepakankamumas ir (ar) neoptimalumas, apskaičiuojamas investicijų poreikis. Vertinimas atliekamas Vyriausybės nustatyta tvarka ir atvejais.
-2. Atsižvelgdamas į šio straipsnio 1 dalyje nurodyto vertinimo rezultatus, NPB srityse, kuriose finansavimas rinkos sąlygomis pakankamas ir (ar) optimalus, veiklą toliau vykdo tik tiek, kiek tai yra būtina pradėtai veiklai užbaigti.
+1) veikdamas kaip finansų įstaiga pagal Lietuvos Respublikos finansų įstaigų įstatymą, įgyvendina skatinamąsias finansines priemones tiesiogiai arba per NPB atrinktus finansų tarpininkus ir (ar) valdo fondų fondus. Kai kartu su skatinamąja finansine priemone teikiama dotacija ir (ar) subsidija, ji laikoma skatinamosios finansinės priemonės dalimi. Šioms dotacijoms ir (ar) subsidijoms skirta suma negali būti didesnė negu pusė skatinamajai finansinei priemonei skirtų lėšų sumos;
+2) veikdamas pagal Lietuvos Respublikos viešojo administravimo įstatymą, teikia dotacijas ir (ar) subsidijas, kuriomis prisidedama prie NPB įgyvendinamų skatinamųjų finansinių priemonių;
+3) investuoja per investavimo platformas, kurios suprantamos taip, kaip apibrėžiamos 2015 m. birželio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 2015/1017 dėl Europos strateginių investicijų fondo, Europos investavimo konsultacijų centro ir Europos investicinių projektų portalo, kuriuo iš dalies keičiamos reglamentų (ES) Nr. 1291/2013 ir (ES) Nr. 1316/2013 nuostatos dėl Europos strateginių investicijų fondo, (su visais pakeitimais) 2 straipsnio 4 punkte, ir (ar) jas kuria;
+4) pritraukia privačių lėšų finansiškai gyvybingiems projektams bei regionų ir (ar) vietos plėtrai;
+5) atlieka skatinamojo finansavimo veiklos rizikų ir ekonominio pagrįstumo vertinimą savo nustatyta tvarka;
+6) vykdo informacijos apie įgyvendinamas skatinamąsias finansines priemones sklaidą ir konsultavimą;
+7) rengia skatinamųjų finansinių priemonių investavimo strategijas ir vykdo investicijų rezultatyvumo bei poveikio stebėseną;
+8) teikia pasiūlymus ir ekspertinę (techninę ir metodinę) pagalbą valstybės ir savivaldybių institucijoms ir įstaigoms tvariųjų (žaliųjų) finansų srityje ir dėl būtinų sprendimų siekiant pagerinti investicinę aplinką ir finansavimo prieinamumą projektus įgyvendinantiems subjektams;
+9) plėtoja tvaraus ženklinimo ekosistemą;
+10) inicijuoja ir teikia siūlymus dėl su tvariaisiais (žaliaisiais) finansais susijusių mokslinių tyrimų, vykdo švietimo ir informavimo veiklas;
+11) koordinuoja viešojo ir privataus sektorių bendradarbiavimą tvariųjų (žaliųjų) finansų srityje;
+12) garsina Lietuvos vardą tvariųjų (žaliųjų) finansų srityje;
+13) įgyvendina skatinamąsias finansines priemones, projektus ir programas vystomojo bendradarbiavimo srityje;
+14) kitas funkcijas, kurios reikalingos šio įstatymo 5 straipsnyje nurodytiems NPB tikslams pasiekti.
+2. NPB, siekdamas valdyti riziką, skatinamajai finansinei priemonei įgyvendinti gali steigti NPB patronuojamąsias (dukterines) įmones, kurios suprantamos taip, kaip nurodyta Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnyje, kai tai numatyta skatinamosios finansinės priemonės investavimo strategijoje. NPB gali būti ir kitų juridinių asmenų steigėjas ir (ar) dalyvis, gali veikti kaip komanditinės ūkinės bendrijos tikrasis narys.
+3. NPB, siekdamas užtikrinti tinkamą skatinamųjų finansinių priemonių įgyvendinimą, dotacijų ir (ar) subsidijų, kuriomis prisidedama prie NPB įgyvendinamų skatinamųjų finansinių priemonių, teikimą, turi teisę gauti iš informacinių sistemų, kaip jos apibrėžiamos Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme:
+1) duomenis bei informaciją, kurie reikalingi nurodytų priemonių pareiškėjų, jų atstovų ir dalyvių (toliau – pareiškėjai) tapatybei nustatyti, pareiškėjų finansinei padėčiai ir kreditingumui įvertinti, pareiškėjų atitikčiai nurodytų priemonių įgyvendinimą reglamentuojančiuose teisės aktuose nustatytiems pareiškėjų tinkamumo reikalavimams įvertinti, pareiškėjų NPB pateiktų duomenų teisingumui patikrinti;
+2) duomenis apie pareiškėjų apkaltinamuosius nuosprendžius ir nusikalstamas veikas.
+4. NPB gali turėti sąskaitų Lietuvos banke, taip pat depozitinių sąskaitų kredito įstaigose.
+#### 7 straipsnis. Skatinamojo finansavimo poreikio vertinimas
+1. Skatinamojo finansavimo veikla turi būti pagrįsta vertinimu, kuriuo nustatomas finansavimo rinkos sąlygomis nepakankamumas ir (ar) neoptimalumas, apskaičiuojamas investicijų poreikis, (toliau – skatinamojo finansavimo poreikio vertinimas). Skatinamojo finansavimo poreikio vertinimas ir jo peržiūra atliekami Vyriausybės nustatyta tvarka.
+2. Skatinamojo finansavimo poreikio vertinimas neatliekamas, kai yra atliktas išankstinis (ex ante) finansinių priemonių vertinimas arba kiti vertinimai, įskaitant tarptautinių organizacijų atliktus vertinimus, kuriuos atliekant nustatytas finansavimo rinkos sąlygomis nepakankamumas ir (ar) neoptimalumas ir apskaičiuotas investicijų poreikis.
+3. Vyriausybės nustatyta tvarka atlikus skatinamojo finansavimo poreikio vertinimo peržiūrą ir nustačius, kad finansavimas rinkos sąlygomis yra pakankamas ir (ar) optimalus, skatinamojo finansavimo veikla toliau vykdoma tik tiek, kiek tai yra būtina pradėtai veiklai užbaigti.
 
 ## IV SKYRIUS. NPB VEIKLOS REIKALAVIMAI
 
