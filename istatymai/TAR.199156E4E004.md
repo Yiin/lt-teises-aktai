@@ -1868,6 +1868,10 @@ priedas
 
 5. 2021 m. spalio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/1883 dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo siekiant dirbti aukštos kvalifikacijos darbą sąlygų, kuria panaikinama Tarybos direktyva 2009/50/EB.
 
+6. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/882 dėl gaminių ir paslaugų prieinamumo reikalavimų.
+
+________________0 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/1883 dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo siekiant dirbti aukštos kvalifikacijos darbą sąlygų, kuria panaikinama Tarybos direktyva 2009/50/EB.
+
 
 
 
