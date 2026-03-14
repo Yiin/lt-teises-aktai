@@ -2148,3 +2148,5 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2362, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25615
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 pakeitimo įstatymo Nr. XIV-1722 1 straipsnio pakeitimo įstatymas
+
+2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/882 dėl gaminių ir paslaugų prieinamumo reikalavimų.
