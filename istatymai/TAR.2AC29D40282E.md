@@ -1,0 +1,112 @@
+---
+tar_id: TAR.2AC29D40282E
+dok_nr: XV-772
+pavadinimas: "Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 13, 14, 17, 36 straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas"
+rusis: istatymas
+leidziantis_organas: Lietuvos Respublikos Seimas
+priemimo_data: 2026-03-19
+isigaliojimo_data: 2026-09-01
+paskelbimo_data: 2026-03-25
+statusas: dar_neisigaliojo
+etar_url: "https://e-tar.lt/portal/lt/legalAct/2ac29d40282e11f1a552c76556910e9c"
+---
+
+# Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 13, 14, 17, 36 straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
+
+LIETUVOS RESPUBLIKOS
+PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 2, 13, 14, 17, 36 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 131 STRAIPSNIU
+ĮSTATYMAS
+2026 m. kovo 19 d. Nr. XV-772
+Vilnius
+
+#### 1 straipsnis. 2 straipsnio pakeitimas
+Papildyti 2 straipsnį 27 dalimi: 
+„27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“ ir Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme.“
+
+#### 2 straipsnis. 13 straipsnio pakeitimas
+Pakeisti 13 straipsnio 3 dalį ir ją išdėstyti taip: 
+„3. Profesinio mokymo programų ar jų modulių rengimą ir tobulinimą turi teisę inicijuoti ir (arba) šias programas ar jų modulius rengti profesinio mokymo teikėjas, Lietuvos Respublikos pilietis, Europos Sąjungos ir Europos laisvosios prekybos asociacijos valstybių narių piliečiai, jų šeimos nariai ir kiti asmenys, kurie pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise, Lietuvos Respublikos ar kitos valstybės narės juridinis asmuo (toliau – fizinis ar juridinis asmuo) arba kita juridinio asmens statuso neturinti organizacija ir jų padaliniai. Profesinio mokymo programų ar jų modulių rengimą ir atnaujinimą koordinuoja ir (arba) vykdo kvalifikacijų tvarkymo institucija, derindama su sektoriniu profesiniu komitetu.“
+
+#### 3 straipsnis. Įstatymo papildymas 131 straipsniu
+Papildyti Įstatymą 13^1 straipsniu:
+„**13^1****straipsnis.****Mokomoji kalba**
+Profesinis mokymas pagal formaliojo profesinio mokymo programas ar jų modulius vykdomas lietuvių kalba. Pagal formaliojo profesinio mokymo programas pirmajai kvalifikacijai įgyti besimokantiems lietuvių kalbos nemokantiems užsieniečiams garantuojamas lietuvių kalbos mokymasis, taip pat jiems mokymosi laikotarpiu švietimo, mokslo ir sporto ministro nustatyta tvarka gali būti taikomos priemonės – dvikalbis (lietuvių kalba ir kita kalba) mokymas ar kita pagalba. Šios priemonės taikomos tol, kol besimokantysis pasiekia profesinei veiklai reikalingą lietuvių kalbos mokėjimo lygį. Kai pagal tęstinio profesinio mokymo programas mokosi mokiniai užsieniečiai, profesinis mokymas jų pasirinkimu gali būti vykdomas lietuvių kalba arba švietimo, mokslo ir sporto ministro nustatyta tvarka taikant dvikalbį (lietuvių kalba ir kita kalba) mokymą.“
+
+#### 4 straipsnis. 14 straipsnio pakeitimas
+Pakeisti 14 straipsnį ir jį išdėstyti taip:
+„**14****straipsnis.****Licencija vykdyti formalųjį profesinį mokymą**
+1. Formalųjį profesinį mokymą ir su profesiniu mokymu susijusią veiklą gali vykdyti juridiniai asmenys, kitos juridinio asmens statuso neturinčios kitos valstybės narės organizacijos ir jų padaliniai, įsteigti Lietuvos Respublikoje, arba Europos Sąjungos ir Europos laisvosios prekybos asociacijos valstybių narių piliečiai, jų šeimos nariai ir kiti asmenys, kurie pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise, turintys formaliojo profesinio mokymo licenciją (toliau – licencija), kuri suteikia teisę vykdyti Licencijų registro informacinėje sistemoje įregistruotas formaliojo profesinio mokymo programas ar jų modulius.
+2. Licencijas išduoda, papildo, atsisako jas išduoti, papildyti, licencijų duomenis patikslina, licencijų galiojimą sustabdo, galiojimo sustabdymą panaikina ir galiojimą panaikina švietimo, mokslo ir sporto ministro įgaliota įstaiga, vadovaudamasi šiuo įstatymu ir švietimo, mokslo ir sporto ministro tvirtinamomis formaliojo profesinio mokymo licencijavimo taisyklėmis. Duomenys apie licencijų išdavimą, papildymą, patikslinimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą perduodami Licencijų registro informacinei sistemai šios informacinės sistemos nuostatuose nustatyta tvarka.
+3. Fiziniams ir juridiniams asmenims, kitoms juridinio asmens statuso neturinčioms kitos valstybės narės organizacijoms ir jų padaliniams, įsteigtiems Lietuvos Respublikoje, siekiantiems gauti licenciją vykdyti formalųjį profesinį mokymą, keliami šie reikalavimai:
+   1) profesijos mokytojai arba kandidatai į profesijos mokytojus turi atitikti formaliojo profesinio mokymo programoje ar jos modulyje ir Švietimo įstatyme nustatytus kvalifikacinius ir kompetencijų reikalavimus;
+   2) teorinio ir praktinio mokymo vietos, mokymui skirti materialieji ir metodiniai ištekliai turi atitikti numatomą mokyti mokinių skaičių ir formaliojo profesinio mokymo programoje ar jos modulyje nustatytus reikalavimus;
+   3) turėti mokymo patalpas, aprūpintas materialiaisiais ištekliais, būtinais profesinio mokymo kokybei užtikrinti. Asmenims su negalia arba asmenims, turintiems specialiųjų ugdymosi poreikių dėl negalios, patalpos, kuriose vykdomas profesinis mokymas, turi būti pritaikytos pagal jų negalios pobūdį.
+4. Atitikties nustatytiems reikalavimams vertinimą organizuoja ir atlieka, ekspertizės aktą dėl pasirengimo vykdyti formalųjį profesinį mokymą išduoda kvalifikacijų tvarkymo institucija.
+5. Atitikties vertinimas neorganizuojamas ir neatliekamas, jeigu licencija papildoma naujomis formaliojo profesinio mokymo programomis ar jų moduliais, įrašytais į švietimo, mokslo ir sporto ministro tvirtinamą formaliojo profesinio mokymo programų ar jų modulių, pagal kuriuos gali būti suteikiama teisė vykdyti profesinį mokymą tuo pačiu mokymo vietos adresu neatliekant ekspertizės, sąrašą.
+6. Sprendimas dėl licencijos išdavimo ar motyvuotas atsisakymas ją išduoti turi būti priimamas ne vėliau kaip per 2 mėnesius nuo paraiškos gavimo dienos. Sprendimas dėl licencijos papildymo ar motyvuotas atsisakymas ją papildyti turi būti priimamas ne vėliau kaip per 20 darbo dienų nuo paraiškos gavimo dienos, kai atitikties nustatytiems kriterijams vertinimas pagal šio straipsnio 5 dalį neorganizuojamas ir neatliekamas, arba ne vėliau kaip per 2 mėnesius nuo paraiškos gavimo dienos, kai turi būti atliekamas atitikties šio straipsnio 3 dalyje nustatytiems reikalavimams vertinimas ir išduodamas ekspertizės aktas dėl pasirengimo vykdyti papildomą formaliojo profesinio mokymo programą ar jos modulį. Švietimo, mokslo ir sporto ministro įgaliota įstaiga švietimo, mokslo ir sporto ministro tvirtinamose formaliojo profesinio mokymo licencijavimo taisyklėse nustatyta tvarka ir terminais per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba kreipdamasi tiesiogiai per 5 darbo dienas nuo dokumentų gavimo dienos informuoja fizinį ar juridinį asmenį arba kitą juridinio asmens statuso neturinčią organizaciją ar jų padalinį, siekiantį gauti, papildyti ar patikslinti licenciją, apie švietimo, mokslo ir sporto ministro įgaliotoje įstaigoje gautus dokumentus ir, jeigu reikia, apie reikalingumą patikslinti pateiktus ar pateikti trūkstamus dokumentus. Patikslintų ar trūkstamų dokumentų pateikimo terminas negali būti trumpesnis kaip 5 darbo dienos ir ilgesnis kaip 20 darbo dienų nuo informavimo apie nustatytus trūkumus dienos. Laikas, per kurį pateikiami patikslinti ar trūkstami dokumentai, į šioje dalyje nustatytus terminus sprendimui dėl licencijos išdavimo, papildymo ar motyvuoto atsisakymo ją išduoti ar papildyti priimti neįskaitomas.
+7. Už licencijos išdavimą, papildymą ar patikslinimą turi būti sumokėta Vyriausybės nustatyto dydžio valstybės rinkliava. Valstybės rinkliava sumokama iki švietimo, mokslo ir sporto ministro įgaliotos įstaigos sprendimo dėl licencijos išdavimo, papildymo ar patikslinimo priėmimo.
+8. Sprendimas atsisakyti išduoti ar papildyti licenciją priimamas, jeigu:
+   1) fizinis ar juridinis asmuo, kita juridinio asmens statuso neturinti kitos valstybės narės organizacija ar jos padalinys, įsteigtas Lietuvos Respublikoje, neatitinka bent vieno reikalavimo, nurodyto šio straipsnio 3 dalyje;
+   2) pateikti dokumentai ir paraiška neatitinka švietimo, mokslo ir sporto ministro tvirtinamose formaliojo profesinio mokymo licencijavimo taisyklėse nustatytų reikalavimų ir pareiškėjas per švietimo, mokslo ir sporto ministro įgaliotos įstaigos nustatytą terminą nepateikia patikslintų ar trūkstamų dokumentų;
+   3) fiziniam ar juridiniam asmeniui, juridinio asmens statuso neturinčioms kitos valstybės narės organizacijoms ar jų padaliniams, įsteigtiems Lietuvos Respublikoje, licencijos galiojimas buvo panaikintas dėl nustatytų pažeidimų, kurie per nustatytą laikotarpį nebuvo pašalinti, ir nuo licencijos galiojimo panaikinimo dienos nėra praėję vieni metai;
+   4) fizinis ar juridinis asmuo, kita juridinio asmens statuso neturinti kitos valstybės narės organizacija ar jos padalinys, įsteigtas Lietuvos Respublikoje, verčiasi įstatymų draudžiama veikla;
+   5) nesumokėta valstybės rinkliava;
+   6) dėl licencijos išdavimo kreipiasi juridinis asmuo, kurio naudos gavėjas arba vadovas yra tas pats asmuo, kuris buvo naudos gavėjas ar vadovas juridinio asmens, kuriam licencijos galiojimas buvo panaikintas šio straipsnio 12 dalies 3, 4, 6 ar 8–10 punktuose nurodytu pagrindu, ir nuo sprendimo dėl licencijos galiojimo panaikinimo nėra praėję vieni metai.
+9. Švietimo, mokslo ir sporto ministro įgaliota įstaiga raštu įspėja licencijos turėtoją ir nustato ne trumpesnį kaip 10 darbo dienų, bet ne ilgesnį kaip 20 darbo dienų terminą trūkumams pašalinti šiais atvejais:
+   1) nustatoma, kad profesijos mokytojai neatitinka formaliojo profesinio mokymo programoje ar jos modulyje ir (ar) Švietimo įstatyme nustatytų reikalavimų;
+   2) teorinio ir praktinio mokymo vietos, mokymui skirti materialieji ir metodiniai ištekliai neatitinka numatomo mokyti mokinių skaičiaus ir formaliojo profesinio mokymo programoje ar jos modulyje nustatytų reikalavimų;
+   3) mokinių priėmimas ir jų apskaita, mokymo proceso organizavimas, asmens įgytų kompetencijų vertinimas, mokymosi pasiekimus įteisinančių dokumentų išdavimas ir jų apskaita vykdomi nesilaikant teisės aktų nustatytų reikalavimų;
+   4) nustatoma, kad licencijos turėtojas neužtikrina profesinio mokymo ir su profesiniu mokymu susijusios veiklos kokybės.
+10. Jeigu šio straipsnio 9 dalyje išvardyti trūkumai nėra pašalinami per nustatytą terminą, švietimo, mokslo ir sporto ministro įgaliota įstaiga priima sprendimą sustabdyti licencijos vykdyti atitinkamą formaliojo profesinio mokymo programą ar jos modulį galiojimą, o jeigu neužtikrinama visų formaliojo profesinio mokymo programų ir su profesiniu mokymu susijusios veiklos kokybė, licencijos vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusias veiklas galiojimas sustabdomas iki 20 darbo dienų. Šis terminas gali būti pratęsiamas dar iki 20 darbo dienų nustatytiems pažeidimams ištaisyti, jeigu licencijos turėtojas per nustatytą laikotarpį imasi priemonių trūkumams ištaisyti, tačiau dėl objektyvių priežasčių jų pašalinti per nustatytą terminą nėra įmanoma. Sprendimą dėl termino pratęsimo priima švietimo, mokslo ir sporto ministro įgaliota įstaiga, atsižvelgdama į motyvuotą profesinio mokymo teikėjo prašymą.
+11. Licencijos galiojimo sustabdymas švietimo, mokslo ir sporto ministro įgaliotos įstaigos sprendimu panaikinamas nedelsiant, ne vėliau kaip per 5 darbo dienas, kai gaunama informacija, kuria patvirtinama, kad nustatyti pažeidimai pašalinti.
+12. Švietimo, mokslo ir sporto ministro įgaliota įstaiga priima sprendimą licencijos galiojimą panaikinti šiais atvejais:
+   1) licencijos vykdyti atitinkamą (-as) formaliojo profesinio mokymo programą (-as) ar jos (jų) modulį (-ius) arba vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusias veiklas – juridinio asmens, kitos juridinio asmens statuso neturinčios kitos valstybės narės organizacijos ir jos padalinio, įsteigto Lietuvos Respublikoje, arba fizinio asmens, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, prašymu;
+   2) licencijos vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusias veiklas – kai juridinis asmuo, kita juridinio asmens statuso neturinti kitos valstybės narės organizacija ar jos padalinys, įsteigtas Lietuvos Respublikoje, pasibaigia;
+   3) licencijos vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusias veiklas – kai paaiškėja, kad licencijos turėtojas licencijai gauti pateiktuose dokumentuose nurodė klaidingus ar tikrovės neatitinkančius duomenis, kurie, jeigu būtų buvę žinomi licencijos išdavimo metu, būtų pagrindas atsisakyti išduoti licenciją;
+   4) licencijos turėtojas, kuriam licencijos galiojimas buvo sustabdytas, per nustatytą terminą nepašalina pažeidimų, dėl kurių buvo sustabdytas licencijos vykdyti atitinkamą formaliojo profesinio mokymo programą ar jos modulį arba vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusias veiklas galiojimas;
+   5) fizinis ar juridinis asmuo, kita juridinio asmens statuso neturinti kitos valstybės narės organizacija ar jos padalinys, įsteigtas Lietuvos Respublikoje, nepradėjo vykdyti formaliojo profesinio mokymo programos (-ų) ar jos (jų) modulio (-ių) ir su profesiniu mokymu susijusios veiklos per metus nuo sprendimo dėl licencijos vykdyti formalųjį profesinį mokymą išdavimo priėmimo dienos arba nevykdo formaliojo profesinio mokymo ir su profesiniu mokymu susijusios veiklos ilgiau kaip 2 metus;
+   6) licencijos vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusias veiklas – kai pakartotinio išorinio institucijos vertinimo metu profesinio mokymo įstaigos ar kito profesinio mokymo teikėjo veikla įvertinama neigiamai, kai po išorinio institucijos įvertinimo profesinio mokymo įstaiga ar kitas profesinio mokymo teikėjas, bendradarbiaudami su kvalifikacijos tvarkymo institucija ar kita švietimo, mokslo ir sporto ministro įgaliota institucija, per nustatytą laikotarpį neįgyvendino išorinio vertinimo metu pateiktų rekomendacijų;
+   7) kai licencijoje nelieka nė vienos formaliojo profesinio mokymo programos ar jos modulio, kai formaliojo profesinio mokymo programa išregistruojama iš Studijų, mokymo programų ir kvalifikacijų registro informacinės sistemos kaip neatitinkanti reikalavimų;
+   8) licencijos vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusias veiklas – kai įsiteisėjusiu teismo nuosprendžiu pripažįstama, jog kvalifikacijos ir mokymosi pasiekimų dokumentai išduoti neteisėtai;
+   9) licencijos vykdyti formaliojo profesinio mokymo programą ar jos modulį – kai tris kartus per metus nustatomas tas pats šio straipsnio 9 dalyje nurodytas tos formaliojo profesinio mokymo programos ar jos modulio trūkumas;
+   10) licencijos vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusias veiklas – kai įsiteisėjusiu teismo nuosprendžiu pripažįstama, jog licencijos turėtojas verčiasi įstatymų draudžiama veikla ir (ar) savo neteisėtais veiksmais kelia grėsmę mokinių teisėtiems interesams;
+   11) licencijos turėtojui mirus.
+13. Švietimo, mokslo ir sporto ministro įgaliota įstaiga per 20 darbo dienų nuo bent vienos iš šio straipsnio 12 dalyje nurodytų aplinkybių paaiškėjimo dienos priima sprendimą panaikinti licencijos vykdyti atitinkamą (-as) formaliojo profesinio mokymo programą (-as) ar jos (jų) modulį (-ius) arba vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusias veiklas galiojimą.
+14. Fizinis ar juridinis asmuo, kita juridinio asmens statuso neturinti kitos valstybės narės organizacija ar jos padalinys, įsteigtas Lietuvos Respublikoje, kuriems licencijos galiojimas buvo panaikintas šio straipsnio 12 dalies 3, 4, 6 ar 8–10 punktuose nurodytu pagrindu, ne anksčiau kaip po vienų metų gali kreiptis į švietimo, mokslo ir sporto ministro įgaliotą įstaigą dėl naujos licencijos išdavimo.
+15. Gavęs licenciją vykdyti formalųjį profesinį mokymą profesinio mokymo teikėjas švietimo, mokslo ir sporto ministro įgaliotoms įstaigoms šio įstatymo ir kitų teisės aktų nustatyta tvarka privalo teikti ir leisti tikrinti informaciją, susijusią su išduota licencija vykdyti profesinį mokymą ir su profesiniu mokymu susijusią veiklą. Licencijos turėtojų licencijuojamos veiklos sąlygų laikymosi priežiūrą organizuoja ir vykdo švietimo, mokslo ir sporto ministro įgaliota įstaiga Lietuvos Respublikos viešojo administravimo įstatymo IV skyriuje nustatyta tvarka.
+16. Pasikeitus licencijoje vykdyti formalųjį profesinį mokymą nurodytiems duomenims, profesinio mokymo teikėjas per 5 darbo dienas nuo duomenų pasikeitimo informuoja švietimo, mokslo ir sporto ministro įgaliotą įstaigą, kuri per 5 darbo dienas nuo kreipimosi gavimo dienos patikslina licenciją.
+17. Licenciją gavęs profesinio mokymo teikėjas Lietuvos Respublikoje įgyja teisę vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusią veiklą nuo sprendimo dėl licencijos vykdyti formalųjį profesinį mokymą išdavimo priėmimo dienos.
+18. Profesinio mokymo teikėjams, turintiems licenciją vykdyti formalųjį profesinį mokymą, draudžiama įgalioti kitus asmenis ar pagal sutartį perduoti kitiems asmenims teisę verstis licencijoje nurodyta veikla.
+19. Informacija ir dokumentai, susiję su licencijos vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusią veiklą išdavimu, papildymu, patikslinimu, atsisakymu ją išduoti ar jos galiojimo panaikinimu (išskyrus konfidencialią informaciją, dokumentus ar jų dalį), sprendimai, taip pat ir dėl licencijos galiojimo sustabdymo, ir jų duomenys, įskaitant profesinio mokymo teikėjo pavadinimą arba, kai profesinio mokymo teikėjas yra fizinis asmuo (laisvasis mokytojas), jo vardą ir pavardę, skelbiami viešai Atviroje informavimo, konsultavimo ir orientavimo sistemoje ir Licencijų informacinėje sistemoje. Viešo skelbimo tikslas – užtikrinti profesinio mokymo veiklos skaidrumą ir informacijos prieinamumą visuomenei.
+20. Licencijos turėtojas turi teisę:
+   1) vykdyti Licencijų registro informacinėje sistemoje įregistruotas formaliojo profesinio mokymo programas ar jų modulius;
+   2) vykdyti su profesiniu mokymu susijusią veiklą;
+   3) apskųsti sprendimus dėl licencijos papildymo ar patikslinimo, licencijos galiojimo sustabdymo, licencijos galiojimo panaikinimo, atsisakymo išduoti licenciją.
+21. Licencijos turėtojas privalo:
+   1) teikti ir leisti švietimo, mokslo ir sporto ministro įgaliotai įstaigai tikrinti informaciją, susijusią su išduota licencija vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusią veiklą;
+   2) užtikrinti profesinio mokymo ir su profesiniu mokymu susijusios veiklos kokybę;
+   3) tobulinti veiklą, atsižvelgdamas į išorinio vertinimo rezultatus;
+   4) pradėti vykdyti formaliojo profesinio mokymo programą ar jos modulį per vienus metus nuo licencijos išdavimo dienos.“
+
+#### 5 straipsnis. 17 straipsnio pakeitimas
+1. Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
+„3. Kai profesinio mokymo įstaigos savininkas arba vienas iš dalininkųyra valstybė arba savivaldybė, profesinio mokymo įstaigos direktoriaus parengtą profesinio mokymo įstaigos strateginį veiklos planą tvirtina taryba, o kai nei savininkas, nei vienas iš dalininkų nėranei valstybė, nei savivaldybė, – savininkas (dalininkų susirinkimas).“
+2. Pakeisti 17 straipsnio 19 dalį ir ją išdėstyti taip:
+„19. Profesinio mokymo įstaigos dalininkas gali būti fizinis arba juridinis asmuo ar juridinio asmens statuso neturinti valstybės narės organizacija.“
+
+#### 6 straipsnis. 36 straipsnio pakeitimas
+Pakeisti 36 straipsnio 3 dalį ir ją išdėstyti taip:
+„3. Valstybės finansuojamose profesinio mokymo vietose pagal tęstinio profesinio mokymo programas mokęsi asmenys, kai profesinį mokymą jie nutraukė savo noru arba su jais profesinio mokymo sutartis buvo nutraukta ją pažeidus, švietimo, mokslo ir sporto ministro nustatyta tvarka privalo į valstybės biudžetą grąžinti profesiniam mokymui skirtas lėšas arba jų dalį.“
+
+#### 7 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+1. Šis įstatymas, išskyrus šio straipsnio 8 dalį, įsigalioja 2026 m. rugsėjo 1 d.
+2. Iki 2026 m. rugpjūčio 31 d. pradedamos vykdyti profesinio mokymo programos ar jų moduliai baigiami vykdyti ta kalba, kuria yra vykdomi iki 2026 m. rugpjūčio 31 d.
+3. Šio įstatymo 4 straipsnyje išdėstyto Lietuvos Respublikos profesinio mokymo įstatymo 14 straipsnio 14 dalies nuostatos taikomos profesinio mokymo teikėjams, kurių licencijos galiojimas panaikinamas šio įstatymo 4 straipsnyje išdėstyto Profesinio mokymo įstatymo 14 straipsnio 14 dalyje nurodytais pagrindais po 2026 m. rugsėjo 1 d.
+4. Fiziniai ar juridiniai asmenys, juridinio asmens statuso neturinčios kitos valstybės narės organizacijos ir jų padaliniai, įsteigti Lietuvos Respublikoje, kuriems licencijos galiojimas panaikinamas iki 2026 m. rugpjūčio 31 d. dėl nustatytų pažeidimų, kurie per nustatytą laikotarpį nėra pašalinti, dėl naujos licencijos išdavimo gali kreiptis praėjus 6 mėnesiams nuo licencijos galiojimo panaikinimo dienos.
+5. Šio įstatymo 4 straipsnyje išdėstyto Profesinio mokymo įstatymo 14 straipsnio 12 dalies 5 punkto nuostatos taikomos profesinio mokymo teikėjams, kuriems licencijos išduodamos po 2026 m. rugsėjo 1 d. Profesinio mokymo teikėjams, kuriems licencijos išduodamos iki 2026 m. rugpjūčio 31 d., taikomos iki 2026 m. rugpjūčio 31 d. galiojančios Profesinio mokymo įstatymo 14 straipsnio 12 dalies 5 punkto nuostatos.
+6. Šio įstatymo 4 straipsnyje išdėstyto Profesinio mokymo įstatymo 14 straipsnio 12 dalies 8 punkto nuostatos taikomos ir tais atvejais, kai kvalifikacijos ar mokymosi pasiekimų dokumentai yra neteisėtai išduoti iki 2026 m. rugpjūčio 31 d. ir jų neteisėto išdavimo faktas nustatomas po 2026 m. rugpjūčio 31 d.
+7. Šio įstatymo 4 straipsnyje išdėstyto Profesinio mokymo įstatymo 14 straipsnio 12 dalies 9 punkto nuostatos taikomos vertinant nuo 2026 m. rugsėjo 1 d. nustatytus šio įstatymo 4 straipsnyje išdėstyto Profesinio mokymo įstatymo 14 straipsnio 9 dalyje nurodytus trūkumus.
+8. Lietuvos Respublikos Vyriausybė, švietimo, mokslo ir sporto ministras iki 2026 m. rugpjūčio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
+*Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
+Respublikos PrezidentasGitanas Nausėda
+
