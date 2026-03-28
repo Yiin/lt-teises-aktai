@@ -35,6 +35,7 @@ interface CliArgs {
   status?: string;
   limit?: number;
   tarId?: string;
+  [key: string]: string | number | undefined;
 }
 
 function parseArgs(): CliArgs {
@@ -60,13 +61,18 @@ function parseArgs(): CliArgs {
     }
   }
 
-  return {
+  const result: CliArgs = {
     command,
     type: flags['type'],
     status: flags['status'],
     limit: flags['limit'] ? parseInt(flags['limit'], 10) : undefined,
     tarId: positional,
   };
+  // Pass through all --flags for command-specific options
+  for (const [k, v] of Object.entries(flags)) {
+    if (!(k in result)) result[`--${k}`] = v;
+  }
+  return result;
 }
 
 // ---------------------------------------------------------------------------
@@ -340,6 +346,13 @@ async function cmdBuildHistory(args: CliArgs): Promise<void> {
   // Sort by adoption date (oldest first)
   acts.sort((a, b) => (a.priemimoData || '').localeCompare(b.priemimoData || ''));
 
+  // Skip already-processed acts (for resuming)
+  const skip = Number(args['--skip']) || 0;
+  if (skip > 0) {
+    acts.splice(0, skip);
+    console.log(`Skipping first ${skip} acts (resuming)...`);
+  }
+
   console.log(`\nBuilding git history for ${acts.length} acts...\n`);
 
   await initRepo(REPO_DIR);
@@ -349,8 +362,13 @@ async function cmdBuildHistory(args: CliArgs): Promise<void> {
   let skipped = 0;
   let totalCommits = 0;
 
+  const delay = Number(args['--delay']) || 200; // ms between API calls
+
   for (let i = 0; i < acts.length; i++) {
     const act = acts[i]!;
+
+    // Rate limit: wait between API calls
+    if (i > 0) await new Promise((r) => setTimeout(r, delay));
 
     try {
       // Fetch consolidated versions

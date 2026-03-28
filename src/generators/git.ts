@@ -1,8 +1,11 @@
-import { $ } from 'bun';
 import { join, relative, dirname } from 'node:path';
 import { mkdir } from 'node:fs/promises';
+import { execFile } from 'node:child_process';
+import { promisify } from 'node:util';
 import type { LegalAct, ConsolidatedVersion } from '../types';
 import { generateMarkdownFile, getActFilePath } from './markdown';
+
+const execFileAsync = promisify(execFile);
 
 // --- Helpers ---
 
@@ -11,9 +14,11 @@ async function git(args: string[], opts: {
   cwd: string;
   env?: Record<string, string>;
 }): Promise<string> {
-  const env = { ...process.env, ...opts.env };
-  const result = await $`git ${args}`.cwd(opts.cwd).env(env).quiet();
-  return result.text().trim();
+  const { stdout } = await execFileAsync('git', args, {
+    cwd: opts.cwd,
+    env: opts.env ? { ...process.env, ...opts.env } : undefined,
+  });
+  return stdout.trim();
 }
 
 /** Commit staged changes and return the commit hash */
@@ -29,6 +34,22 @@ async function commitAndGetHash(message: string, opts: {
 function toAuthorDate(date: string): string {
   // Use noon UTC to avoid timezone-related date shifts
   return `${date}T12:00:00+00:00`;
+}
+
+/** Map issuing authority to git author name + email */
+function authorFor(act: LegalAct): { name: string; email: string } {
+  const org = act.leidziantisOrganas || 'Nežinoma institucija';
+  const AUTHORITY_MAP: Record<string, { name: string; email: string }> = {
+    'lietuvos respublikos seimas': { name: 'Lietuvos Respublikos Seimas', email: 'seimas@lrs.lt' },
+    'lietuvos respublikos aukščiausioji taryba': { name: 'Aukščiausioji Taryba', email: 'auksciausioji-taryba@lrs.lt' },
+    'lietuvos tsr aukščiausiosios tarybos prezidiumas': { name: 'LTSR Aukščiausiosios Tarybos Prezidiumas', email: 'prezidiumas@lrs.lt' },
+    'lietuvos tsr aukščiausioji taryba': { name: 'LTSR Aukščiausioji Taryba', email: 'auksciausioji-taryba@lrs.lt' },
+    'piliečių referendumas': { name: 'Piliečių referendumas', email: 'referendumas@lrs.lt' },
+    'tarptautinius dokumentus pasirašiusios šalys': { name: 'Tarptautinė sutartis', email: 'tarptautine@lrs.lt' },
+    'visuomenės informavimo etikos asociacija': { name: 'Visuomenės informavimo etikos asociacija', email: 'etika@lrs.lt' },
+  };
+  const key = org.toLowerCase();
+  return AUTHORITY_MAP[key] ?? { name: org, email: 'info@lrs.lt' };
 }
 
 // --- Public API ---
@@ -61,11 +82,18 @@ export async function commitInitialAct(act: LegalAct, filePath: string, options?
   const authorDate = act.paskelbimoData
     ? toAuthorDate(act.paskelbimoData)
     : undefined;
+  const author = authorFor(act);
 
   await git(['add', rel], { cwd });
   return commitAndGetHash(message, {
     cwd,
-    env: authorDate ? { GIT_AUTHOR_DATE: authorDate, GIT_COMMITTER_DATE: authorDate } : {},
+    env: {
+      ...(authorDate ? { GIT_AUTHOR_DATE: authorDate, GIT_COMMITTER_DATE: authorDate } : {}),
+      GIT_AUTHOR_NAME: author.name,
+      GIT_AUTHOR_EMAIL: author.email,
+      GIT_COMMITTER_NAME: author.name,
+      GIT_COMMITTER_EMAIL: author.email,
+    },
   });
 }
 
@@ -84,11 +112,19 @@ export async function commitAmendment(act: LegalAct, filePath: string, version: 
   const message = `${subject}\n\n${body}`;
 
   const authorDate = toAuthorDate(version.galiojaNuo);
+  const author = authorFor(act);
 
   await git(['add', rel], { cwd });
   return commitAndGetHash(message, {
     cwd,
-    env: { GIT_AUTHOR_DATE: authorDate, GIT_COMMITTER_DATE: authorDate },
+    env: {
+      GIT_AUTHOR_DATE: authorDate,
+      GIT_COMMITTER_DATE: authorDate,
+      GIT_AUTHOR_NAME: author.name,
+      GIT_AUTHOR_EMAIL: author.email,
+      GIT_COMMITTER_NAME: author.name,
+      GIT_COMMITTER_EMAIL: author.email,
+    },
   });
 }
 
