@@ -1,3 +1,6 @@
+node_modules/
+data/acts/
+data/index.json
 
 # Beads / Dolt files (added by bd init)
 .dolt/
