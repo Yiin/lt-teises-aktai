@@ -71,7 +71,7 @@ export async function commitInitialAct(act: LegalAct, filePath: string, options?
   const cwd = options?.repoDir ?? dirname(filePath);
   const rel = relative(cwd, filePath);
 
-  const subject = `Paskelbtas: ${act.pavadinimas} (${act.dokNr})`;
+  const subject = `Paskelbtas: ${act.pavadinimas}${act.dokNr ? ` (${act.dokNr})` : ''}`;
   const body = [
     `Šaltinis: ${act.etarUrl}`,
     `Priėmimo data: ${act.priemimoData}`,
@@ -104,7 +104,7 @@ export async function commitAmendment(act: LegalAct, filePath: string, version: 
   const cwd = options?.repoDir ?? dirname(filePath);
   const rel = relative(cwd, filePath);
 
-  const subject = `Pakeistas: ${act.pavadinimas} (${act.dokNr})`;
+  const subject = `Pakeistas: ${act.pavadinimas}${act.dokNr ? ` (${act.dokNr})` : ''}`;
   const body = [
     `Keičianti redakcija nuo: ${version.galiojaNuo}`,
     `Šaltinis: ${act.etarUrl}`,
@@ -136,7 +136,7 @@ export async function commitRepeal(act: LegalAct, filePath: string, options?: {
   const cwd = options?.repoDir ?? dirname(filePath);
   const rel = relative(cwd, filePath);
 
-  const subject = `Panaikintas: ${act.pavadinimas} (${act.dokNr})`;
+  const subject = `Panaikintas: ${act.pavadinimas}${act.dokNr ? ` (${act.dokNr})` : ''}`;
   const body = options?.repealingActId
     ? `Panaikinantis aktas: ${options.repealingActId}`
     : undefined;
