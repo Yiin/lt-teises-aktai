@@ -65,7 +65,7 @@ export async function commitInitialAct(act: LegalAct, filePath: string, options?
   await git(['add', rel], { cwd });
   return commitAndGetHash(message, {
     cwd,
-    env: authorDate ? { GIT_AUTHOR_DATE: authorDate } : {},
+    env: authorDate ? { GIT_AUTHOR_DATE: authorDate, GIT_COMMITTER_DATE: authorDate } : {},
   });
 }
 
@@ -88,7 +88,7 @@ export async function commitAmendment(act: LegalAct, filePath: string, version: 
   await git(['add', rel], { cwd });
   return commitAndGetHash(message, {
     cwd,
-    env: { GIT_AUTHOR_DATE: authorDate },
+    env: { GIT_AUTHOR_DATE: authorDate, GIT_COMMITTER_DATE: authorDate },
   });
 }
 
