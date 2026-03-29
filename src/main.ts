@@ -588,7 +588,7 @@ async function cmdConsolidate(args: CliArgs): Promise<void> {
         const html = await fetchActHtml(amendment.dokumentoId);
 
         // Parse amendment operations
-        const { operations } = parseAmendmentAct(html);
+        const { operations } = await parseAmendmentAct(html);
 
         if (operations.length === 0) {
           console.log(
