@@ -1,367 +1,167 @@
+import Anthropic from '@anthropic-ai/sdk';
 import type { AmendmentOperation } from './amendment-parser.ts';
 
-/**
- * Apply amendment operations to the current markdown text of a law.
- * Returns the new full text after all amendments are applied in order.
- *
- * Expects markdown produced by html-to-markdown.ts:
- * - `#### N straipsnis. Title` for articles
- * - `1. text` for numbered paragraphs
- * - `   1) text` for sub-points
- * - `## ROMAN SKYRIUS. TITLE` for chapters
- * - `### ROMAN SKIRSNIS. TITLE` for sections
- */
-export function applyAmendment(
-  currentText: string,
-  operations: AmendmentOperation[],
-): string {
-  let text = currentText;
+// --- Anthropic client (lazy singleton) ---
 
-  for (const op of operations) {
-    text = applySingleOperation(text, op);
-  }
+let _client: Anthropic | null = null;
 
-  return text;
+async function getClient(): Promise<Anthropic> {
+  if (_client) return _client;
+  const apiKey = (await Bun.$`get-token ANTHROPIC_API_KEY`.text()).trim();
+  _client = new Anthropic({ apiKey });
+  return _client;
 }
 
-function applySingleOperation(text: string, op: AmendmentOperation): string {
-  switch (op.type) {
-    case 'replace':
-      return applyReplace(text, op);
-    case 'add':
-      return applyAdd(text, op);
-    case 'repeal':
-      return applyRepeal(text, op);
-    case 'rename':
-      return applyRename(text, op);
-    case 'restate':
-      // Restate is effectively a full replace
-      return applyReplace(text, op);
-    default:
-      return text;
-  }
-}
-
-// --- Article heading patterns ---
-
-/**
- * Build a regex that matches an article heading line.
- * Article numbers may contain dashes for inserted articles (e.g., "13-1").
- * The heading format is: `#### N straipsnis. Title` or `#### N straipsnis`
- */
-function articleHeadingRegex(articleNum: string): RegExp {
-  // Escape the article number for regex (handle dashes)
-  const escaped = articleNum.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  // Match with optional superscript notation (^1 or -1)
-  return new RegExp(`^####\\s+${escaped}\\s+straipsnis(?:\\.\\s*.*)?$`, 'm');
-}
+// --- Section extraction ---
 
 /**
  * Find the start and end indices of an article section in the markdown text.
- * The section spans from the heading line to just before the next article heading
- * (or the next structural heading like ## or ###, or end of text).
+ * An article starts at `#### N straipsnis` and extends to the next heading.
  */
-function findArticleSection(text: string, articleNum: string): { start: number; end: number } | null {
-  const headingRe = articleHeadingRegex(articleNum);
-  const match = headingRe.exec(text);
+function findArticleSection(
+  text: string,
+  articleNum: string,
+): { start: number; end: number } | null {
+  const escaped = articleNum
+    .replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    .replace(/-/g, '[-\\\\^]?');  // 13-1 matches 13-1, 13^1, 131
+
+  // Try markdown heading format first: #### N straipsnis
+  const mdRe = new RegExp(
+    `^####\\s+${escaped}\\s+straipsnis(?:\\.\\s*.*)?$`,
+    'm',
+  );
+  let match = mdRe.exec(text);
+
+  // Try plain text format: N straipsnis. (at line start, no heading markers)
+  if (!match) {
+    const plainRe = new RegExp(
+      `^${escaped}\\s+straipsnis\\.\\s*.*$`,
+      'm',
+    );
+    match = plainRe.exec(text);
+  }
+
   if (!match) return null;
 
   const start = match.index;
-
-  // Find the next heading of equal or higher level (####, ###, ##, #)
   const afterHeading = start + match[0].length;
-  const nextHeadingRe = /^#{1,4}\s+/m;
-  const rest = text.slice(afterHeading);
-  const nextMatch = nextHeadingRe.exec(rest);
 
+  // Find the next article heading (either format)
+  const nextRe = /^(?:#{1,4}\s+\d|(?:\d+(?:[-^]\d+)?)\s+straipsnis\.)/m;
+  const rest = text.slice(afterHeading);
+  const nextMatch = nextRe.exec(rest);
   const end = nextMatch ? afterHeading + nextMatch.index : text.length;
 
   return { start, end };
 }
 
 /**
- * Find the start and end of a numbered paragraph within a text section.
- * Paragraphs are formatted as `N. text` at the start of a line.
+ * Find the start and end indices of a chapter section in the markdown text.
  */
-function findParagraphInSection(
-  sectionText: string,
-  paragraphNum: string,
+function findChapterSection(
+  text: string,
+  chapter: string,
 ): { start: number; end: number } | null {
-  const paraRe = new RegExp(`^${paragraphNum}\\.\\s+`, 'm');
-  const match = paraRe.exec(sectionText);
-  if (!match) return null;
-
-  const start = match.index;
-
-  // Find the next paragraph number or end of section
-  // Next paragraph: a line starting with N. where N > paragraphNum
-  const afterPara = start + match[0].length;
-  const rest = sectionText.slice(afterPara);
-
-  // Match next numbered paragraph, article heading, or structural heading
-  const nextRe = /^(?:\d+\.\s+|#{1,4}\s+)/m;
-  const nextMatch = nextRe.exec(rest);
-
-  const end = nextMatch ? afterPara + nextMatch.index : sectionText.length;
-
-  return { start, end };
-}
-
-/**
- * Find the start and end of a numbered point within a paragraph section.
- * Points are formatted as `   N) text` (indented with parenthesis).
- */
-function findPointInSection(
-  sectionText: string,
-  pointNum: string,
-): { start: number; end: number } | null {
-  const pointRe = new RegExp(`^\\s*${pointNum}\\)\\s+`, 'm');
-  const match = pointRe.exec(sectionText);
-  if (!match) return null;
-
-  const start = match.index;
-  const afterPoint = start + match[0].length;
-  const rest = sectionText.slice(afterPoint);
-
-  // Match next point, paragraph, or heading
-  const nextRe = /^(?:\s*\d+\)\s+|\d+\.\s+|#{1,4}\s+)/m;
-  const nextMatch = nextRe.exec(rest);
-
-  const end = nextMatch ? afterPoint + nextMatch.index : sectionText.length;
-
-  return { start, end };
-}
-
-// --- Chapter / section heading patterns ---
-
-function chapterHeadingRegex(chapter: string): RegExp {
   const escaped = chapter.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  return new RegExp(`^##\\s+${escaped}\\s+SKYRIUS(?:\\.\\s*.*)?$`, 'm');
-}
-
-function findChapterSection(text: string, chapter: string): { start: number; end: number } | null {
-  const headingRe = chapterHeadingRegex(chapter);
+  const headingRe = new RegExp(
+    `^##\\s+${escaped}\\s+SKYRIUS(?:\\.\\s*.*)?$`,
+    'm',
+  );
   const match = headingRe.exec(text);
   if (!match) return null;
 
   const start = match.index;
   const afterHeading = start + match[0].length;
 
-  // Next chapter heading (##) or part heading (#)
   const rest = text.slice(afterHeading);
   const nextRe = /^#{1,2}\s+/m;
   const nextMatch = nextRe.exec(rest);
-
   const end = nextMatch ? afterHeading + nextMatch.index : text.length;
 
   return { start, end };
 }
 
-// --- Apply operations ---
-
-function applyReplace(text: string, op: AmendmentOperation): string {
-  const { target, newText } = op;
-  if (!newText) return text;
-
-  // Replace annex
-  if (target.annex) {
-    return replaceAnnex(text, newText);
+/**
+ * Extract the relevant section of the law text for a given operation,
+ * including some surrounding context.
+ * Returns the section text and the start/end positions in the full text.
+ */
+function extractSection(
+  text: string,
+  op: AmendmentOperation,
+): { section: string; start: number; end: number } | null {
+  // For chapter-level operations without a specific article
+  if (op.target.chapter && !op.target.article) {
+    const range = findChapterSection(text, op.target.chapter);
+    if (!range) return null;
+    return { section: text.slice(range.start, range.end), ...range };
   }
 
-  // Replace chapter
-  if (target.chapter && !target.article) {
-    const section = findChapterSection(text, target.chapter);
-    if (!section) return text;
-    return text.slice(0, section.start) + newText + '\n\n' + text.slice(section.end);
+  // For article-level (and below) operations
+  if (op.target.article) {
+    const range = findArticleSection(text, op.target.article);
+    if (!range) return null;
+    return { section: text.slice(range.start, range.end), ...range };
   }
 
-  // Must have an article target for the rest
-  if (!target.article) return text;
-
-  // Replace point within paragraph within article
-  if (target.point && target.paragraph) {
-    const articleSection = findArticleSection(text, target.article);
-    if (!articleSection) return text;
-
-    const articleText = text.slice(articleSection.start, articleSection.end);
-    const paraSection = findParagraphInSection(articleText, target.paragraph);
-    if (!paraSection) return text;
-
-    const paraText = articleText.slice(paraSection.start, paraSection.end);
-    const pointSection = findPointInSection(paraText, target.point);
-    if (!pointSection) return text;
-
-    const newParaText =
-      paraText.slice(0, pointSection.start) +
-      `   ${newText}\n` +
-      paraText.slice(pointSection.end);
-
-    const newArticleText =
-      articleText.slice(0, paraSection.start) +
-      newParaText +
-      articleText.slice(paraSection.end);
-
-    return text.slice(0, articleSection.start) + newArticleText + text.slice(articleSection.end);
-  }
-
-  // Replace paragraph within article
-  if (target.paragraph) {
-    const articleSection = findArticleSection(text, target.article);
-    if (!articleSection) return text;
-
-    const articleText = text.slice(articleSection.start, articleSection.end);
-    const paraSection = findParagraphInSection(articleText, target.paragraph);
-    if (!paraSection) return text;
-
-    const newArticleText =
-      articleText.slice(0, paraSection.start) +
-      newText + '\n' +
-      articleText.slice(paraSection.end);
-
-    return text.slice(0, articleSection.start) + newArticleText + text.slice(articleSection.end);
-  }
-
-  // Replace entire article
-  const section = findArticleSection(text, target.article);
-  if (!section) return text;
-
-  // Format the replacement as a proper article section
-  return text.slice(0, section.start) + newText + '\n\n' + text.slice(section.end);
-}
-
-function applyAdd(text: string, op: AmendmentOperation): string {
-  const { target, newText } = op;
-  if (!newText) return text;
-
-  // Add annex
-  if (target.annex && !target.point) {
-    // Append annex at the end of the document
-    return text.trimEnd() + '\n\n' + newText + '\n';
-  }
-
-  // Add annex item
-  if (target.annex && target.point) {
-    // Find the annex section and append the item
-    // Annex is typically at the end, after a heading containing "priedas"
-    const annexRe = /^#+\s+.*priedas/im;
+  // For annex operations, find the annex section
+  if (op.target.annex) {
+    const annexRe = /^#+\s+.*[Pp]riedas/m;
     const match = annexRe.exec(text);
-    if (match) {
-      // Insert before the end of the document
-      return text.trimEnd() + '\n' + newText + '\n';
-    }
-    // Fallback: append at end
-    return text.trimEnd() + '\n' + newText + '\n';
+    if (!match) return null;
+    const start = match.index;
+    return { section: text.slice(start), start, end: text.length };
   }
 
-  // Add chapter
-  if (target.chapter && !target.article) {
-    // Insert before the next chapter or at the end
-    return text.trimEnd() + '\n\n' + newText + '\n';
-  }
-
-  // Must have article target for the rest
-  if (!target.article) return text;
-
-  // Add point to paragraph in article
-  if (target.point && target.paragraph) {
-    const articleSection = findArticleSection(text, target.article);
-    if (!articleSection) return text;
-
-    const articleText = text.slice(articleSection.start, articleSection.end);
-    const paraSection = findParagraphInSection(articleText, target.paragraph);
-    if (!paraSection) return text;
-
-    const paraText = articleText.slice(paraSection.start, paraSection.end);
-
-    // Insert the new point at the end of the paragraph (before trailing whitespace)
-    const trimmedPara = paraText.trimEnd();
-    const newParaText = trimmedPara + '\n   ' + newText + '\n';
-
-    const newArticleText =
-      articleText.slice(0, paraSection.start) +
-      newParaText +
-      articleText.slice(paraSection.end);
-
-    return text.slice(0, articleSection.start) + newArticleText + text.slice(articleSection.end);
-  }
-
-  // Add paragraph to article
-  if (target.paragraph) {
-    const articleSection = findArticleSection(text, target.article);
-    if (!articleSection) return text;
-
-    const articleText = text.slice(articleSection.start, articleSection.end);
-
-    // Append the new paragraph at the end of the article section
-    const trimmed = articleText.trimEnd();
-    const newArticleText = trimmed + '\n' + newText + '\n';
-
-    return text.slice(0, articleSection.start) + newArticleText + text.slice(articleSection.end);
-  }
-
-  // Add new article — insert at the right position
-  return insertArticle(text, target.article, newText);
+  return null;
 }
+
+/**
+ * Parse an article number string into a comparable numeric value.
+ * "13" -> 13.0, "13-1" -> 13.001
+ */
+function parseArticleNum(num: string): number {
+  const parts = num.split('-');
+  const base = parseInt(parts[0]!, 10);
+  const sub = parts[1] ? parseInt(parts[1], 10) : 0;
+  return base + sub * 0.001;
+}
+
+// --- Deterministic handlers (no AI needed) ---
 
 function applyRepeal(text: string, op: AmendmentOperation): string {
-  const { target } = op;
+  if (op.target.chapter && !op.target.article) {
+    const range = findChapterSection(text, op.target.chapter);
+    if (!range) return text;
+    const before = text.slice(0, range.start).trimEnd();
+    const after = text.slice(range.end).trimStart();
+    return before + '\n\n' + after;
+  }
 
-  if (!target.article) return text;
+  if (!op.target.article) return text;
 
-  const section = findArticleSection(text, target.article);
-  if (!section) return text;
+  const range = findArticleSection(text, op.target.article);
+  if (!range) return text;
 
-  // Remove the article section, collapsing extra blank lines
-  const before = text.slice(0, section.start).trimEnd();
-  const after = text.slice(section.end).trimStart();
-
+  const before = text.slice(0, range.start).trimEnd();
+  const after = text.slice(range.end).trimStart();
   return before + '\n\n' + after;
 }
 
-function applyRename(text: string, _op: AmendmentOperation): string {
-  // Rename is used for chapter/section title changes.
-  // The newText typically contains the full new heading.
-  // This is a simplified implementation — rename needs more context about
-  // which specific heading to target, which varies by amendment.
-  return text;
-}
+function applyAddArticle(text: string, op: AmendmentOperation): string {
+  if (!op.newText || !op.target.article) return text;
 
-// --- Helpers ---
+  const baseNum = parseArticleNum(op.target.article);
 
-/**
- * Replace the annex section in the text.
- * The annex is typically at the very end of the document,
- * after a heading containing "priedas" or "Priedas".
- */
-function replaceAnnex(text: string, newText: string): string {
-  const annexRe = /^#+\s+.*[Pp]riedas/m;
-  const match = annexRe.exec(text);
-  if (!match) {
-    // No existing annex found, append
-    return text.trimEnd() + '\n\n' + newText + '\n';
-  }
-
-  // Replace from annex heading to end of document
-  return text.slice(0, match.index) + newText + '\n';
-}
-
-/**
- * Insert a new article at the correct position in the text.
- * Finds the right spot based on article numbering.
- */
-function insertArticle(text: string, articleNum: string, newText: string): string {
-  // Parse the base number for ordering
-  const baseNum = parseArticleNum(articleNum);
-
-  // Find all article headings and their positions
-  const headingRe = /^####\s+(\d+(?:-\d+)?)\s+straipsnis/gm;
+  // Find all article headings (markdown or plain text format)
+  const headingRe = /^(?:####\s+)?(\d+(?:[-^]\d+)?)\s+straipsnis[.\s]/gm;
   let lastBefore: { end: number } | null = null;
   let insertMatch: RegExpExecArray | null;
 
   while ((insertMatch = headingRe.exec(text)) !== null) {
     const existingNum = parseArticleNum(insertMatch[1]!);
     if (existingNum < baseNum) {
-      // Find the end of this article's section
       const section = findArticleSection(text, insertMatch[1]!);
       if (section) {
         lastBefore = { end: section.end };
@@ -370,31 +170,170 @@ function insertArticle(text: string, articleNum: string, newText: string): strin
   }
 
   if (lastBefore) {
-    // Insert after the last article that comes before our new one
-    const insertPos = lastBefore.end;
-    const before = text.slice(0, insertPos).trimEnd();
-    const after = text.slice(insertPos);
-    return before + '\n\n' + newText + '\n' + after;
+    const before = text.slice(0, lastBefore.end).trimEnd();
+    const after = text.slice(lastBefore.end);
+    return before + '\n\n' + op.newText + '\n' + after;
   }
 
-  // No article found before this one — insert at the beginning
-  // (before the first article heading)
-  const firstArticle = /^####\s+/m.exec(text);
+  // No article found before this one — insert before the first article heading
+  const firstArticle = /^(?:####\s+)?\d+\s+straipsnis[.\s]/m.exec(text);
   if (firstArticle) {
-    return text.slice(0, firstArticle.index) + newText + '\n\n' + text.slice(firstArticle.index);
+    return (
+      text.slice(0, firstArticle.index) +
+      op.newText +
+      '\n\n' +
+      text.slice(firstArticle.index)
+    );
   }
 
   // No articles at all — append
-  return text.trimEnd() + '\n\n' + newText + '\n';
+  return text.trimEnd() + '\n\n' + op.newText + '\n';
 }
 
+function applyAddChapter(text: string, op: AmendmentOperation): string {
+  if (!op.newText) return text;
+  return text.trimEnd() + '\n\n' + op.newText + '\n';
+}
+
+function applyAddAnnex(text: string, op: AmendmentOperation): string {
+  if (!op.newText) return text;
+  return text.trimEnd() + '\n\n' + op.newText + '\n';
+}
+
+// --- AI-powered handler ---
+
+function describeTarget(op: AmendmentOperation): string {
+  const parts: string[] = [];
+  if (op.target.chapter) parts.push(`Chapter ${op.target.chapter}`);
+  if (op.target.section) parts.push(`Section ${op.target.section}`);
+  if (op.target.article) parts.push(`Article ${op.target.article}`);
+  if (op.target.paragraph) parts.push(`paragraph ${op.target.paragraph}`);
+  if (op.target.point) parts.push(`point ${op.target.point}`);
+  if (op.target.annex) parts.push(`annex (priedas)`);
+  if (op.target.title) parts.push(`(title/heading)`);
+  return parts.join(', ');
+}
+
+async function applyWithAI(
+  fullText: string,
+  op: AmendmentOperation,
+): Promise<string> {
+  const extracted = extractSection(fullText, op);
+  if (!extracted) {
+    console.warn(
+      `  [ai-applier] Could not find target section for: ${describeTarget(op)}, skipping`,
+    );
+    return fullText;
+  }
+
+  const { section, start, end } = extracted;
+
+  const client = await getClient();
+
+  const prompt = `You are applying a legal amendment to Lithuanian legislation formatted as markdown.
+
+Here is the current text of the relevant section:
+
+<section>
+${section}
+</section>
+
+Apply this amendment operation:
+- Type: ${op.type}
+- Target: ${describeTarget(op)}
+${op.newText ? `- New text: "${op.newText}"` : '- (no replacement text — this is a repeal/removal)'}
+
+Rules:
+1. Return ONLY the updated section text with the amendment applied.
+2. Preserve ALL markdown formatting exactly (headings, numbering, indentation).
+3. Change ONLY what the amendment specifies — nothing else.
+4. For "replace" operations on a paragraph/point: replace the content of that specific paragraph/point with the new text, keeping the numbering prefix (e.g., "2. " or "   3) ").
+5. For "replace" operations on an entire article: replace the full article section with the new text.
+6. For "add" operations: insert the new text at the appropriate position within the section.
+7. For "rename" operations: change only the heading/title text.
+8. For "restate" operations: treat as a full replace of the targeted element.
+9. Do NOT add any explanation, commentary, or markdown code fences. Return raw section text only.`;
+
+  const response = await client.messages.create({
+    model: 'claude-haiku-4-5-20251001',
+    max_tokens: 16000,
+    messages: [{ role: 'user', content: prompt }],
+  });
+
+  const textBlock = response.content.find(
+    (b): b is Anthropic.TextBlock => b.type === 'text',
+  );
+  if (!textBlock) {
+    console.warn(
+      `  [ai-applier] No text response for: ${describeTarget(op)}, skipping`,
+    );
+    return fullText;
+  }
+
+  const updatedSection = textBlock.text;
+
+  // Splice the updated section back into the full text
+  return fullText.slice(0, start) + updatedSection + fullText.slice(end);
+}
+
+// --- Main entry point ---
+
 /**
- * Parse an article number string into a comparable numeric value.
- * "13" -> 13.0, "13-1" -> 13.001, "13-2" -> 13.002
+ * Apply amendment operations to the current markdown text of a law.
+ * Returns the new full text after all amendments are applied in order.
+ *
+ * Uses AI (Claude Haiku) for text replacement/addition operations,
+ * and deterministic logic for repeals and simple structural changes.
  */
-function parseArticleNum(num: string): number {
-  const parts = num.split('-');
-  const base = parseInt(parts[0]!, 10);
-  const sub = parts[1] ? parseInt(parts[1], 10) : 0;
-  return base + sub * 0.001;
+export async function applyAmendment(
+  currentText: string,
+  operations: AmendmentOperation[],
+): Promise<string> {
+  let text = currentText;
+
+  for (const op of operations) {
+    text = await applySingleOperation(text, op);
+  }
+
+  return text;
+}
+
+async function applySingleOperation(
+  text: string,
+  op: AmendmentOperation,
+): Promise<string> {
+  // Repeal: deterministic — just remove the section
+  if (op.type === 'repeal') {
+    return applyRepeal(text, op);
+  }
+
+  // Add new article (no existing section to modify): deterministic insertion
+  if (op.type === 'add' && op.target.article && !op.target.paragraph && !op.target.point) {
+    // Check if this article already exists — if not, it's a new article insert
+    const existing = findArticleSection(text, op.target.article);
+    if (!existing) {
+      return applyAddArticle(text, op);
+    }
+    // If article exists, we're adding a paragraph/point to it — use AI
+  }
+
+  // Add new chapter (no article target): deterministic
+  if (op.type === 'add' && op.target.chapter && !op.target.article) {
+    return applyAddChapter(text, op);
+  }
+
+  // Add annex: deterministic
+  if (op.type === 'add' && op.target.annex && !op.target.article) {
+    return applyAddAnnex(text, op);
+  }
+
+  // Everything else (replace, restate, rename, add-to-existing): use AI
+  if (!op.newText) {
+    console.warn(
+      `  [ai-applier] Operation ${op.type} on ${describeTarget(op)} has no newText, skipping`,
+    );
+    return text;
+  }
+
+  return applyWithAI(text, op);
 }
