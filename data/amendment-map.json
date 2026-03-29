@@ -1,0 +1,4244 @@
+[
+  {
+    "parentTarId": "TAR.4EBE66C02623",
+    "parentDokNr": "XII-1869",
+    "parentTitle": "Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas",
+    "amendments": [
+      {
+        "tarId": "TAR.BB00A3C23581",
+        "dokumentoId": "bb00a3c2358111f08fdabd4950271e2c",
+        "dokNr": "XV-205",
+        "date": "2025-05-20",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.64956BA03582",
+        "dokumentoId": "64956ba0358211f08fdabd4950271e2c",
+        "dokNr": "XV-214",
+        "date": "2025-05-20",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 112, 113, 113-1, 351 ir 589 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.1DDECF524AB6",
+        "dokumentoId": "1ddecf524ab611f0b070ee7f1ceefc75",
+        "dokNr": "XV-254",
+        "date": "2025-06-16",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 72 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.CD451F804DA4",
+        "dokumentoId": "cd451f804da411f0b070ee7f1ceefc75",
+        "dokNr": "XV-275",
+        "date": "2025-06-20",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 12, 294, 295, 301, 302, 589 straipsnių ir priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.670F8BA04DA5",
+        "dokumentoId": "670f8ba04da511f0b070ee7f1ceefc75",
+        "dokNr": "XV-277",
+        "date": "2025-06-20",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 137 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.145581D25700",
+        "dokumentoId": "145581d2570011f0a3d380837a821750",
+        "dokNr": "XV-391",
+        "date": "2025-07-02",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 383, 589 straipsnių ir priedo pakeitimo, 384 straipsnio pripažinimo netekusiu galios įstatymas"
+      },
+      {
+        "tarId": "TAR.1F7E6F109303",
+        "dokumentoId": "1f7e6f10930311f0a8bbd1e98310677d",
+        "dokNr": "XV-415",
+        "date": "2025-09-16",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 207, 589, 673 straipsnių, priedo pakeitimo ir Kodekso papildymo 188-6 ir 188-7 straipsniais įstatymas"
+      },
+      {
+        "tarId": "TAR.35734190A273",
+        "dokumentoId": "35734190a27311f0a34db2fbd35a03b2",
+        "dokNr": "XV-448",
+        "date": "2025-10-06",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 241, 247, 248, 248-1, 248-2, 248-3, 249, 250, 252, 255, 255-1, 589, 608 straipsnių ir priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.BC0BA950AFCE",
+        "dokumentoId": "bc0ba950afce11f092fda1fd0c194cc5",
+        "dokNr": "XV-482",
+        "date": "2025-10-23",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 464 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.45C1EC40B3FD",
+        "dokumentoId": "45c1ec40b3fd11f092fda1fd0c194cc5",
+        "dokNr": "XV-491",
+        "date": "2025-10-28",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 251-1, 317, 318, 426, 505, 589, 604 straipsnių pakeitimo ir Kodekso papildymo 521-1 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.CBB450B0CA03",
+        "dokumentoId": "cbb450b0ca0311f08918e1adc7c5b1ec",
+        "dokNr": "XV-531",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 195 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.21E30AC6CE92",
+        "dokumentoId": "21e30ac6ce9211f08918e1adc7c5b1ec",
+        "dokNr": "XV-575",
+        "date": "2025-12-01",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 291 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.4541CF72CF8B",
+        "dokumentoId": "4541cf72cf8b11f08918e1adc7c5b1ec",
+        "dokNr": "XV-549",
+        "date": "2025-12-02",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 314 ir 589 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.3EE70642D0F8",
+        "dokumentoId": "3ee70642d0f811f08918e1adc7c5b1ec",
+        "dokNr": "XV-621",
+        "date": "2025-12-04",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 77 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.E6C62573D1D5",
+        "dokumentoId": "e6c62573d1d511f08918e1adc7c5b1ec",
+        "dokNr": "XV-624",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 33, 419, 589, 610 ir 611 straipsnių pakeitimo ir Kodekso papildymo 419-1 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.79230E40E56A",
+        "dokumentoId": "79230e40e56a11f08918e1adc7c5b1ec",
+        "dokNr": "XV-732",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 243-1, 251, 304-2, 308-1, 310, 589 straipsnių ir priedo pakeitimo, Kodekso papildymo 243-2, 270-2 straipsniais ir 243-1 straipsnio pripažinimo netekusiu galios įstatymas"
+      },
+      {
+        "tarId": "TAR.75E8AAB0EAC3",
+        "dokumentoId": "75e8aab0eac311f09cfce49e7aeb76fe",
+        "dokNr": "XV-714",
+        "date": "2026-01-06",
+        "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 29, 321, 557, 557-1, 589 straipsnių pakeitimo ir Kodekso papildymo 514-1 straipsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.41A0FA28E88B",
+    "parentDokNr": "I-1336",
+    "parentTitle": "Lietuvos Respublikos Valstybių Šiaurės Atlanto sutarties dalyvių ir kitų valstybių, dalyvaujančių programoje \"Partnerystė taikos labui\", susitarimo dėl jų karinių pajėgų statuso ir šio susitarimo papildomo protokolo ratifikavimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.4AF54FA2535D",
+        "dokumentoId": "4af54fa2535d11f0b070ee7f1ceefc75",
+        "dokNr": "XV-350",
+        "date": "2025-06-27",
+        "title": "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 7, 15 ir 39 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.C523437055CB",
+        "dokumentoId": "c523437055cb11f0b070ee7f1ceefc75",
+        "dokNr": "XV-347",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 32, 41 straipsnių pakeitimo ir Įstatymo papildymo 40-1 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.35D2C210CA04",
+        "dokumentoId": "35d2c210ca0411f08918e1adc7c5b1ec",
+        "dokNr": "XV-533",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 32 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.A94EA812CC36",
+        "dokumentoId": "a94ea812cc3611f08918e1adc7c5b1ec",
+        "dokNr": "XV-569",
+        "date": "2025-11-28",
+        "title": "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 15 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.E0A02FA2CC36",
+        "dokumentoId": "e0a02fa2cc3611f08918e1adc7c5b1ec",
+        "dokNr": "XV-570",
+        "date": "2025-11-28",
+        "title": "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 7, 15 ir 39 straipsnių pakeitimo įstatymo Nr. XV-350 4 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.2C55A2A2D0F5",
+        "dokumentoId": "2c55a2a2d0f511f08918e1adc7c5b1ec",
+        "dokNr": "XV-589",
+        "date": "2025-12-04",
+        "title": "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 12, 13, 14, 15, 15-1, 17, 32, 34, 40 straipsnių pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.2CF13750D9B1",
+        "dokumentoId": "2cf13750d9b111f08918e1adc7c5b1ec",
+        "dokNr": "XV-633",
+        "date": "2025-12-15",
+        "title": "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 5, 10, 11 ir 12 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.4F534FD2E55B",
+        "dokumentoId": "4f534fd2e55b11f08918e1adc7c5b1ec",
+        "dokNr": "XV-693",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 15 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.A7D82E8EDC6B",
+    "parentDokNr": "VIII-2032",
+    "parentTitle": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.620680F055CF",
+        "dokumentoId": "620680f055cf11f0b070ee7f1ceefc75",
+        "dokNr": "XV-373",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 8, 9 straipsnių, 5 priedo pakeitimo ir 5, 7, 7-1 straipsnių, 1, 3, 4 priedų pripažinimo netekusiais galios įstatymas"
+      },
+      {
+        "tarId": "TAR.902F853055CF",
+        "dokumentoId": "902f853055cf11f0b070ee7f1ceefc75",
+        "dokNr": "XV-374",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 6, 7, 8 ir 9 straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymo Nr. XV-111 2, 3, 6 straipsnių pakeitimo ir 1 straipsnio pripažinimo netekusiu galios įstatymas"
+      },
+      {
+        "tarId": "TAR.BF8E716255CF",
+        "dokumentoId": "bf8e716255cf11f0b070ee7f1ceefc75",
+        "dokNr": "XV-375",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 1, 2, 7 straipsnių pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas"
+      },
+      {
+        "tarId": "TAR.72FAC042D9B1",
+        "dokumentoId": "72fac042d9b111f08918e1adc7c5b1ec",
+        "dokNr": "XV-634",
+        "date": "2025-12-15",
+        "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 7 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.076040C0D9B2",
+        "dokumentoId": "076040c0d9b211f08918e1adc7c5b1ec",
+        "dokNr": "XV-636",
+        "date": "2025-12-15",
+        "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 9 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.4CEB77D2DFDA",
+        "dokumentoId": "4ceb77d2dfda11f08918e1adc7c5b1ec",
+        "dokNr": "XV-662",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 6 ir 9 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.7A911B42DFDA",
+        "dokumentoId": "7a911b42dfda11f08918e1adc7c5b1ec",
+        "dokNr": "XV-663",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 2 ir 4 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.F220B810E56A",
+        "dokumentoId": "f220b810e56a11f08918e1adc7c5b1ec",
+        "dokNr": "XV-737",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos Kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 9 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.CC10C5274343",
+    "parentDokNr": "I-446",
+    "parentTitle": "Lietuvos Respublikos žemės įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.964880B23BC7",
+        "dokumentoId": "964880b23bc711f0b070ee7f1ceefc75",
+        "dokNr": "XV-211",
+        "date": "2025-05-28",
+        "title": "Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 15, 22, 23, 29, 32, 34, 35, 37, 40, 41, 43, 45, 47, 55, 56, 64, 66 straipsnių ir VI-1 skyriaus pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.19F3CC7255CD",
+        "dokumentoId": "19f3cc7255cd11f0b070ee7f1ceefc75",
+        "dokNr": "XV-357",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 32, 41, 45, 49, 50, 51 ir 52 straipsnių pakeitimo įstatymo Nr. XIV-3116 3 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.D8D5E3A055D0",
+        "dokumentoId": "d8d5e3a055d011f0b070ee7f1ceefc75",
+        "dokNr": "XV-381",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 13-1, 23, 37, 42 ir 45 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.78AEF0E2AFCE",
+        "dokumentoId": "78aef0e2afce11f092fda1fd0c194cc5",
+        "dokNr": "XV-481",
+        "date": "2025-10-23",
+        "title": "Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 9, 13-1, 23, 37, 42 ir 45 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.C447B8C0CA04",
+        "dokumentoId": "c447b8c0ca0411f08918e1adc7c5b1ec",
+        "dokNr": "XV-535",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 9 ir 11 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.FB37E112DFEA",
+        "dokumentoId": "fb37e112dfea11f08918e1adc7c5b1ec",
+        "dokNr": "XV-675",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos žemės įstatymo Nr. I-446 11 ir 40 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.E563B270E561",
+        "dokumentoId": "e563b270e56111f08918e1adc7c5b1ec",
+        "dokNr": "XV-704",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.3EB34933E485",
+    "parentDokNr": "IX-2112",
+    "parentTitle": "Lietuvos Respublikos mokesčių administravimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.3C4246A04DD3",
+        "dokumentoId": "3c4246a04dd311f0b070ee7f1ceefc75",
+        "dokNr": "XV-284",
+        "date": "2025-06-20",
+        "title": "Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 13 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.20200B4255C3",
+        "dokumentoId": "20200b4255c311f0b070ee7f1ceefc75",
+        "dokNr": "XV-309",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 37-1, 38, 39, 40-1, 48, 61-2, 68, 71, 88, 100, 108, 140, 141, 148, 155, 159 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 37-2, 61-5 ir 61-6 straipsniais įstatymas"
+      },
+      {
+        "tarId": "TAR.F878F1B0C9FD",
+        "dokumentoId": "f878f1b0c9fd11f08918e1adc7c5b1ec",
+        "dokNr": "XV-511",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 25, 26, 33, 38, 40, 43, 45, 46, 47, 90, 101, 103, 115, 164 straipsnių pakeitimo ir 44, 53, 54 straipsnių pripažinimo netekusiais galios įstatymas"
+      },
+      {
+        "tarId": "TAR.CE552C90C9FE",
+        "dokumentoId": "ce552c90c9fe11f08918e1adc7c5b1ec",
+        "dokNr": "XV-515",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 1, 2, 14, 26, 86, 88, 93, 105, 106, 110 straipsnių pakeitimo įstatymo Nr. XIV-2805 3 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.FB4C2732CA03",
+        "dokumentoId": "fb4c2732ca0311f08918e1adc7c5b1ec",
+        "dokNr": "XV-532",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 33, 39 ir 93 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.8510B0C2CF8C",
+        "dokumentoId": "8510b0c2cf8c11f08918e1adc7c5b1ec",
+        "dokNr": "XV-616",
+        "date": "2025-12-02",
+        "title": "Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 33, 63, 64, 95, 102 ir 106 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.E9A2B152CF8C",
+        "dokumentoId": "e9a2b152cf8c11f08918e1adc7c5b1ec",
+        "dokNr": "XV-617",
+        "date": "2025-12-02",
+        "title": "Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 1, 2, 14, 26, 86, 88, 93, 105, 106, 110 straipsnių pakeitimo įstatymo Nr. XIV-2805 9 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.8A39C83848CB",
+    "parentDokNr": "VIII-1864",
+    "parentTitle": "Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas",
+    "amendments": [
+      {
+        "tarId": "TAR.8EC71DB24CDE",
+        "dokumentoId": "8ec71db24cde11f0b070ee7f1ceefc75",
+        "dokNr": "XV-269",
+        "date": "2025-06-19",
+        "title": "Lietuvos Respublikos civilinio kodekso 6.228-3, 6.228-7, 6.228-10 straipsnių ir priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.D8537F2055CE",
+        "dokumentoId": "d8537f2055ce11f0b070ee7f1ceefc75",
+        "dokNr": "XV-364",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos civilinio kodekso 5.53 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.F9D300B0A26F",
+        "dokumentoId": "f9d300b0a26f11f0a34db2fbd35a03b2",
+        "dokNr": "XV-443",
+        "date": "2025-10-06",
+        "title": "Lietuvos Respublikos civilinio kodekso 2.77 straipsnio pakeitimo ir 2.78, 2.79 straipsnių pripažinimo netekusiais galios įstatymas"
+      },
+      {
+        "tarId": "TAR.675A5010CA03",
+        "dokumentoId": "675a5010ca0311f08918e1adc7c5b1ec",
+        "dokNr": "XV-529",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos civilinio kodekso 4.107, 4.109 ir 6.956 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.8F2AA892CE92",
+        "dokumentoId": "8f2aa892ce9211f08918e1adc7c5b1ec",
+        "dokNr": "XV-576",
+        "date": "2025-12-01",
+        "title": "Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-6, 6.228-7, 6.228-8 ir 6.228-14 straipsnių ir priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.DD9B4802D9B3",
+        "dokumentoId": "dd9b4802d9b311f08918e1adc7c5b1ec",
+        "dokNr": "XV-647",
+        "date": "2025-12-15",
+        "title": "Lietuvos Respublikos civilinio kodekso 3.204 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.57A442A1DFDB",
+        "dokumentoId": "57a442a1dfdb11f08918e1adc7c5b1ec",
+        "dokNr": "XV-667",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos civilinio kodekso 3.72, 3.194, 3.211, 3.217, 3.224, 3.243, 3.246, 3.250, 3.260, 3.261, 3.262, 3.264, 3.266 ir 3.269 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.2E7C18F61454",
+    "parentDokNr": "IX-743",
+    "parentTitle": "Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas",
+    "amendments": [
+      {
+        "tarId": "TAR.018EEAA2535E",
+        "dokumentoId": "018eeaa2535e11f0b070ee7f1ceefc75",
+        "dokNr": "XV-353",
+        "date": "2025-06-27",
+        "title": "Lietuvos Respublikos civilinio proceso kodekso 739 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.1DB6AB6155CE",
+        "dokumentoId": "1db6ab6155ce11f0b070ee7f1ceefc75",
+        "dokNr": "XV-361",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos civilinio proceso kodekso 649, 702, 704 ir 746 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.9A247AC2CA03",
+        "dokumentoId": "9a247ac2ca0311f08918e1adc7c5b1ec",
+        "dokNr": "XV-530",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos civilinio proceso kodekso 83 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.11421582CF8C",
+        "dokumentoId": "11421582cf8c11f08918e1adc7c5b1ec",
+        "dokNr": "XV-615",
+        "date": "2025-12-02",
+        "title": "Lietuvos Respublikos civilinio proceso kodekso 145, 648, 668, 688 ir 689 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.87DD3B20DFDB",
+        "dokumentoId": "87dd3b20dfdb11f08918e1adc7c5b1ec",
+        "dokNr": "XV-668",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos civilinio proceso kodekso 499 ir 502 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.F63377A2E55E",
+        "dokumentoId": "f63377a2e55e11f08918e1adc7c5b1ec",
+        "dokNr": "XV-700",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos civilinio proceso kodekso 95, 95-1, 142 straipsnių pakeitimo ir Kodekso papildymo priedu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.F31E79DEC55D",
+    "parentDokNr": "I-1240",
+    "parentTitle": "Lietuvos Respublikos statybos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.AFC7C8A24CDB",
+        "dokumentoId": "afc7c8a24cdb11f0b070ee7f1ceefc75",
+        "dokNr": "XV-264",
+        "date": "2025-06-19",
+        "title": "Lietuvos Respublikos statybos įstatymo Nr. I-1240 24, 27, 27-1, 27-2, 28, 37 ir 49 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.026C195255D1",
+        "dokumentoId": "026c195255d111f0b070ee7f1ceefc75",
+        "dokNr": "XV-382",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 ir 27-2 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.6734DEC0AFCD",
+        "dokumentoId": "6734dec0afcd11f092fda1fd0c194cc5",
+        "dokNr": "XV-479",
+        "date": "2025-10-23",
+        "title": "Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 27 ir 27-2 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.514A2F42AFD0",
+        "dokumentoId": "514a2f42afd011f092fda1fd0c194cc5",
+        "dokNr": "XV-489",
+        "date": "2025-10-23",
+        "title": "Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 4, 5, 6, 8, 10, 11, 21, 34, 47, 48 straipsnių ir 2 priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.3D8358E0CF8A",
+        "dokumentoId": "3d8358e0cf8a11f08918e1adc7c5b1ec",
+        "dokNr": "XV-547",
+        "date": "2025-12-02",
+        "title": "Lietuvos Respublikos statybos įstatymo Nr. I-1240 24, 27 ir 27-1 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.94F6B680E8B8",
+    "parentDokNr": "I-1343",
+    "parentTitle": "Lietuvos Respublikos sveikatos draudimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.7B2420E055CC",
+        "dokumentoId": "7b2420e055cc11f0b070ee7f1ceefc75",
+        "dokNr": "XV-354",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.54441130D0F4",
+        "dokumentoId": "54441130d0f411f08918e1adc7c5b1ec",
+        "dokNr": "XV-584",
+        "date": "2025-12-04",
+        "title": "Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 9, 10 ir 26 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.1D24A1D2D1D3",
+        "dokumentoId": "1d24a1d2d1d311f08918e1adc7c5b1ec",
+        "dokNr": "XV-603",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 7 ir 30 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.FF826132DFD8",
+        "dokumentoId": "ff826132dfd811f08918e1adc7c5b1ec",
+        "dokNr": "XV-653",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 16 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.252B7FB2EAC5",
+        "dokumentoId": "252b7fb2eac511f09cfce49e7aeb76fe",
+        "dokNr": "XV-739",
+        "date": "2026-01-06",
+        "title": "Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 16 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.199156E4E004",
+    "parentDokNr": "I-2044",
+    "parentTitle": "Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.88BCFD52D0F4",
+        "dokumentoId": "88bcfd52d0f411f08918e1adc7c5b1ec",
+        "dokNr": "XV-587",
+        "date": "2025-12-04",
+        "title": "Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo Nr. I-2044 1, 2, 15, 24, 26, 30 ir 32 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.58C1E273DFED",
+        "dokumentoId": "58c1e273dfed11f08918e1adc7c5b1ec",
+        "dokNr": "XV-683",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 pakeitimo įstatymo Nr. XIV-1722 3 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.817E0632E55B",
+        "dokumentoId": "817e0632e55b11f08918e1adc7c5b1ec",
+        "dokNr": "XV-694",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 pakeitimo įstatymo Nr. XIV-1722 3 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.DCF62974E55B",
+        "dokumentoId": "dcf62974e55b11f08918e1adc7c5b1ec",
+        "dokNr": "XV-695",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo Nr. I-2044 10 ir 17 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.6811EB121ED8",
+        "dokumentoId": "6811eb121ed811f1a552c76556910e9c",
+        "dokNr": "XV-761",
+        "date": "2026-03-13",
+        "title": "Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo Nr. I-2044 priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.BF41D2C35D24",
+    "parentDokNr": "I-891",
+    "parentTitle": "Lietuvos Respublikos kelių įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.EF135C2055CF",
+        "dokumentoId": "ef135c2055cf11f0b070ee7f1ceefc75",
+        "dokNr": "XV-376",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 4, 5, 7, 10, 13, 16, 18 ir 20 straipsnių, trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais įstatymas"
+      },
+      {
+        "tarId": "TAR.1AA64C3055D0",
+        "dokumentoId": "1aa64c3055d011f0b070ee7f1ceefc75",
+        "dokNr": "XV-377",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir 20 straipsnių pakeitimo įstatymo Nr. XV-112 3 ir 4 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.B1E26B52D9B1",
+        "dokumentoId": "b1e26b52d9b111f08918e1adc7c5b1ec",
+        "dokNr": "XV-635",
+        "date": "2025-12-15",
+        "title": "Lietuvos Respublikos kelių įstatymo Nr. I-891 17 straipsnio pakeitimo įstatymo Nr. XIII-3421 2 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.3ED073E2D9B2",
+        "dokumentoId": "3ed073e2d9b211f08918e1adc7c5b1ec",
+        "dokNr": "XV-637",
+        "date": "2025-12-15",
+        "title": "Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir 20 straipsnių pakeitimo įstatymo Nr. XV-112 pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.7DF3A152D9B2",
+        "dokumentoId": "7df3a152d9b211f08918e1adc7c5b1ec",
+        "dokNr": "XV-638",
+        "date": "2025-12-15",
+        "title": "Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 4, 5, 7, 10, 13, 16, 18 ir 20 straipsnių, trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais įstatymo Nr. XV-376 13 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.1F58348F79F7",
+    "parentDokNr": "IX-1691",
+    "parentTitle": "Lietuvos Respublikos pensijų kaupimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.CD8641F0535C",
+        "dokumentoId": "cd8641f0535c11f0b070ee7f1ceefc75",
+        "dokNr": "XV-348",
+        "date": "2025-06-27",
+        "title": "Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 1, 3, 4, 5, 6, 7, 8, 10, 12, 13, 15, 22, 24, 28, 29, 30, 33, 35-1, 35-2, 35-7, 35-8, 35-9, 35-10, 36, 37, 40 straipsnių, V skyriaus pavadinimo pakeitimo, Įstatymo papildymo 29-1 straipsniu ir 6 straipsnio bei Įstatymo priedo pripažinimo netekusiais galios įstatymas"
+      },
+      {
+        "tarId": "TAR.FF1BD2F0AFCF",
+        "dokumentoId": "ff1bd2f0afcf11f092fda1fd0c194cc5",
+        "dokNr": "XV-487",
+        "date": "2025-10-23",
+        "title": "Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 20 ir 21 straipsnių pakeitimo ir Įstatymo papildymo 26-1 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.88E834F2CA02",
+        "dokumentoId": "88e834f2ca0211f08918e1adc7c5b1ec",
+        "dokNr": "XV-522",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 10, 14, 15, 17 ir 18 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.186623E2CC37",
+        "dokumentoId": "186623e2cc3711f08918e1adc7c5b1ec",
+        "dokNr": "XV-571",
+        "date": "2025-11-28",
+        "title": "Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 1, 3, 4, 5, 6, 7, 8, 10, 12, 13, 15, 22, 24, 28, 29, 30, 33, 35-1, 35-2, 35-7, 35-8, 35-9, 35-10, 36, 37, 40 straipsnių, V skyriaus pavadinimo pakeitimo, Įstatymo papildymo 29-1 straipsniu ir 6 straipsnio bei Įstatymo priedo pripažinimo netekusiais galios įstatymo Nr. XV-348 19 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.68B78D33D0F5",
+        "dokumentoId": "68b78d33d0f511f08918e1adc7c5b1ec",
+        "dokNr": "XV-590",
+        "date": "2025-12-04",
+        "title": "Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 3, 4, 7, 10, 12, 13, 24, 29-1, 30, 33, 38 straipsnių pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.44235B485568",
+    "parentDokNr": "IX-884",
+    "parentTitle": "Lietuvos Respublikos energetikos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.9E9B26624C2E",
+        "dokumentoId": "9e9b26624c2e11f0b070ee7f1ceefc75",
+        "dokNr": "XV-238",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 8 straipsnių ir priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.6C5B93D255C3",
+        "dokumentoId": "6c5b93d255c311f0b070ee7f1ceefc75",
+        "dokNr": "XV-310",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 8, 24-1, 24-2, 25, 26, 36 straipsnių pakeitimo ir Įstatymo papildymo 26-1 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.3F89221055C7",
+        "dokumentoId": "3f89221055c711f0b070ee7f1ceefc75",
+        "dokNr": "XV-332",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 5, 13, 13-1, 15, 33 ir 37 straipsnių ir priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.6104AC62CC33",
+        "dokumentoId": "6104ac62cc3311f08918e1adc7c5b1ec",
+        "dokNr": "XV-513",
+        "date": "2025-11-28",
+        "title": "Lietuvos Respublikos energetikos įstatymo Nr. IX-884 16-1 ir 34 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.5B2E0B02DFEE",
+        "dokumentoId": "5b2e0b02dfee11f08918e1adc7c5b1ec",
+        "dokNr": "XV-688",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos energetikos įstatymo Nr. IX-884 22, 23, 24 ir 28 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.91609F53E29E",
+    "parentDokNr": "X-493",
+    "parentTitle": "Lietuvos Respublikos socialinių paslaugų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.75B8064236F4",
+        "dokumentoId": "75b8064236f411f08fdabd4950271e2c",
+        "dokNr": "XV-215",
+        "date": "2025-05-22",
+        "title": "Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo įstatymo Nr. XIV-2357 6 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.347AE520CA02",
+        "dokumentoId": "347ae520ca0211f08918e1adc7c5b1ec",
+        "dokNr": "XV-521",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14, 39 ir 40 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.2D6D0C20D9B3",
+        "dokumentoId": "2d6d0c20d9b311f08918e1adc7c5b1ec",
+        "dokNr": "XV-644",
+        "date": "2025-12-15",
+        "title": "Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 39 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.069AF9D2DFE5",
+        "dokumentoId": "069af9d2dfe511f08918e1adc7c5b1ec",
+        "dokNr": "XV-673",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 24 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.07A620A2E569",
+        "dokumentoId": "07a620a2e56911f08918e1adc7c5b1ec",
+        "dokNr": "XV-726",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 12 straipsnio pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.420F4DD0927C",
+    "parentDokNr": "XIII-2166",
+    "parentTitle": "Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.03BE521036F4",
+        "dokumentoId": "03be521036f411f08fdabd4950271e2c",
+        "dokNr": "XV-201",
+        "date": "2025-05-22",
+        "title": "Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 92, 96 straipsnių, VI skyriaus antrojo skirsnio pavadinimo pakeitimo ir 91, 93, 94 straipsnių pripažinimo netekusiais galios įstatymas"
+      },
+      {
+        "tarId": "TAR.3EEBDB5036F4",
+        "dokumentoId": "3eebdb5036f411f08fdabd4950271e2c",
+        "dokNr": "XV-202",
+        "date": "2025-05-22",
+        "title": "Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 X skyriaus antrojo skirsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.68E993805700",
+        "dokumentoId": "68e99380570011f0a3d380837a821750",
+        "dokNr": "XV-394",
+        "date": "2025-07-02",
+        "title": "Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 108 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.9DCEEE42E564",
+        "dokumentoId": "9dceee42e56411f08918e1adc7c5b1ec",
+        "dokNr": "XV-721",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 84 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.F45E81D2E564",
+        "dokumentoId": "f45e81d2e56411f08918e1adc7c5b1ec",
+        "dokNr": "XV-722",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 59, 60, 95 ir 99 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.1DEDD43B92AE",
+    "parentDokNr": "I-621",
+    "parentTitle": "Lietuvos Respublikos išmokų vaikams įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.6D7BD210D9B3",
+        "dokumentoId": "6d7bd210d9b311f08918e1adc7c5b1ec",
+        "dokNr": "XV-645",
+        "date": "2025-12-15",
+        "title": "Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 5 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.0D06A462D9C1",
+        "dokumentoId": "0d06a462d9c111f08918e1adc7c5b1ec",
+        "dokNr": "XV-642",
+        "date": "2025-12-15",
+        "title": "Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 2, 3, 4, 6, 9, 11, 12, 14, 16, 17, 18, 21 straipsnių, II skyriaus pavadinimo ir priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.C09827A2DFE4",
+        "dokumentoId": "c09827a2dfe411f08918e1adc7c5b1ec",
+        "dokNr": "XV-672",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 17 ir 21 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.C4B14830E55C",
+        "dokumentoId": "c4b14830e55c11f08918e1adc7c5b1ec",
+        "dokNr": "XV-696",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 9-1 ir 21 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.C677663D2202",
+    "parentDokNr": "IX-1007",
+    "parentTitle": "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.949AAEE2535B",
+        "dokumentoId": "949aaee2535b11f0b070ee7f1ceefc75",
+        "dokNr": "XV-343",
+        "date": "2025-06-27",
+        "title": "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 6, 13-1, 16, 17, 18, 18-2, 19, 20, 21, 23, 27, 29, 34 ir 35 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.C7909290535D",
+        "dokumentoId": "c7909290535d11f0b070ee7f1ceefc75",
+        "dokNr": "XV-352",
+        "date": "2025-06-27",
+        "title": "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 ir 21 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.98ED2682DFEC",
+        "dokumentoId": "98ed2682dfec11f08918e1adc7c5b1ec",
+        "dokNr": "XV-680",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 6, 13-1, 16, 17, 18, 18-2, 19, 20, 21, 23, 27, 29, 34 ir 35 straipsnių pakeitimo įstatymo Nr. XV-343 1, 3, 6, 8 ir 9 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.C780D372DFEC",
+        "dokumentoId": "c780d372dfec11f08918e1adc7c5b1ec",
+        "dokNr": "XV-681",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 18, 18-1 ir 18-2 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.A5ACBDA529A9",
+    "parentDokNr": "IX-675",
+    "parentTitle": "Lietuvos Respublikos pelno mokesčio įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.826EC0E24DD3",
+        "dokumentoId": "826ec0e24dd311f0b070ee7f1ceefc75",
+        "dokNr": "XV-285",
+        "date": "2025-06-20",
+        "title": "Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 5, 17, 18, 30, 33, 34, 35, 38-2, 41, 43, 56-1 straipsnių pakeitimo ir Įstatymo papildymo 30-3 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.3DA3669255D1",
+        "dokumentoId": "3da3669255d111f0b070ee7f1ceefc75",
+        "dokNr": "XV-383",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 58 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.FB90EBE0AE79",
+        "dokumentoId": "fb90ebe0ae7911f092fda1fd0c194cc5",
+        "dokNr": "XV-488",
+        "date": "2025-10-21",
+        "title": "Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 12 ir 30 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.473D02D2D694",
+        "dokumentoId": "473d02d2d69411f08918e1adc7c5b1ec",
+        "dokNr": "XV-630",
+        "date": "2025-12-11",
+        "title": "Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 3 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.FFF9AE9162EE",
+    "parentDokNr": "VIII-1183",
+    "parentTitle": "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.7D0631E255CD",
+        "dokumentoId": "7d0631e255cd11f0b070ee7f1ceefc75",
+        "dokNr": "XV-359",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 9 straipsnio pakeitimo įstatymo Nr. XIV-3118 1 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.F61B6AB09EB0",
+        "dokumentoId": "f61b6ab09eb011f0a34db2fbd35a03b2",
+        "dokNr": "XV-429",
+        "date": "2025-10-01",
+        "title": "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 4 ir 9 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.625CDD70A272",
+        "dokumentoId": "625cdd70a27211f0a34db2fbd35a03b2",
+        "dokNr": "XV-446",
+        "date": "2025-10-06",
+        "title": "Mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 1, 2, 4, 6, 7, 9, 11, 12 straipsnių ir 3, 7, 8 priedų pakeitimo"
+      },
+      {
+        "tarId": "TAR.8C243FD2A273",
+        "dokumentoId": "8c243fd2a27311f0a34db2fbd35a03b2",
+        "dokNr": "XV-449",
+        "date": "2025-10-06",
+        "title": "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 pakeitimo įstatymo Nr. XIII-3158 2 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.0BDFFD850A66",
+    "parentDokNr": "VIII-1234",
+    "parentTitle": "Lietuvos Respublikos viešojo administravimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.EE2E0122A26E",
+        "dokumentoId": "ee2e0122a26e11f0a34db2fbd35a03b2",
+        "dokNr": "XV-441",
+        "date": "2025-10-06",
+        "title": "Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 1, 2, 5, 9, 10, 11, 12, 19, 23, 24, 29, 30, 31, 33, 35, 37, 40 straipsnių ir IV skyriaus pavadinimo pakeitimo, Įstatymo papildymo III-1 skyriumi, 33-1 straipsniu ir priedu bei 29 straipsnio pripažinimo netekusiu galios įstatymas"
+      },
+      {
+        "tarId": "TAR.6C38FDE2CC36",
+        "dokumentoId": "6c38fde2cc3611f08918e1adc7c5b1ec",
+        "dokNr": "XV-566",
+        "date": "2025-11-28",
+        "title": "Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 2, 29 ir 34 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.1E6893C0DFDA",
+        "dokumentoId": "1e6893c0dfda11f08918e1adc7c5b1ec",
+        "dokNr": "XV-661",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 5 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.69BA1092E563",
+        "dokumentoId": "69ba1092e56311f08918e1adc7c5b1ec",
+        "dokNr": "XV-708",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo įstatymo Nr. XIII-2987 2 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.F57794B7899F",
+    "parentDokNr": "VIII-1881",
+    "parentTitle": "Lietuvos Respublikos elektros energetikos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.E83E9EF04C2E",
+        "dokumentoId": "e83e9ef04c2e11f0b070ee7f1ceefc75",
+        "dokNr": "XV-239",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 4, 33, 39, 39-1, 48, 67, 70-3, 74-1 straipsnių ir priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.0451ADC255C7",
+        "dokumentoId": "0451adc255c711f0b070ee7f1ceefc75",
+        "dokNr": "XV-331",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 6, 9, 16, 17, 21-1, 22, 31, 39, 48, 48-1, 48-2, 48-3, 48-5, 52-1, 73-2, 75-2 straipsnių, priedo pakeitimo ir Įstatymo papildymo septintuoju-2 skirsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.2D87D380CC33",
+        "dokumentoId": "2d87d380cc3311f08918e1adc7c5b1ec",
+        "dokNr": "XV-512",
+        "date": "2025-11-28",
+        "title": "Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 6, 7, 9, 16, 17, 21-1, 22, 22-1, 31, 35, 39, 39-1, 40-1, 41-1, 46, 46-2, 46-3, 47, 48, 48-2, 48-3, 48-4, 51, 52, 52-1, 61, 61-1, 61-2, 67, 69, 73-2, 76 straipsnių, priedo pakeitimo ir Įstatymo papildymo 61-2 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.2DDBB7B2DFEE",
+        "dokumentoId": "2ddbb7b2dfee11f08918e1adc7c5b1ec",
+        "dokNr": "XV-687",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2 ir 67 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.FC7AB69BE291",
+    "parentDokNr": "XI-1375",
+    "parentTitle": "Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.444EE14036EB",
+        "dokumentoId": "444ee14036eb11f08fdabd4950271e2c",
+        "dokNr": "XV-198",
+        "date": "2025-05-22",
+        "title": "Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 3, 22 ir 22-1 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.BD0C979255C6",
+        "dokumentoId": "bd0c979255c611f0b070ee7f1ceefc75",
+        "dokNr": "XV-330",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 3, 5, 6, 7, 11, 12, 13-1, 14, 14-1, 15-1, 16, 19, 20, 20-1, 20-2, 22, 22-1, 23, 28, 29, 30, 31, 37, 38, 39-1, 39-3, 39-4, 39-5, 39-6, 45, 46, 48, 49, 51, 55, 57, 59, 60, 63, 64, 65 straipsnių, septintojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 1-1, 39-7, 48-1, 48-2, 58-1 straipsniais įstatymas"
+      },
+      {
+        "tarId": "TAR.10298E92CC34",
+        "dokumentoId": "10298e92cc3411f08918e1adc7c5b1ec",
+        "dokNr": "XV-559",
+        "date": "2025-11-28",
+        "title": "Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 2, 3, 5, 6, 11, 13, 14, 20-1, 20-2, 22, 30, 32, 48, 49, 51 straipsnių pakeitimo ir Įstatymo papildymo 13-1, 20-3 straipsniais įstatymo Nr. XIV-1169 18 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.5C1F0D70CC34",
+        "dokumentoId": "5c1f0d70cc3411f08918e1adc7c5b1ec",
+        "dokNr": "XV-560",
+        "date": "2025-11-28",
+        "title": "Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 13-1 ir 22 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.26B563184529",
+    "parentDokNr": "I-1120",
+    "parentTitle": "Lietuvos Respublikos teritorijų planavimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.E82E14323BC7",
+        "dokumentoId": "e82e14323bc711f0b070ee7f1ceefc75",
+        "dokNr": "XV-212",
+        "date": "2025-05-28",
+        "title": "Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 6, 17, 18, 20, 23, 25, 27, 28, 30, 31, 33, 35, 39, 45 straipsnių, septintojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 42-1 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.6879BD6055D1",
+        "dokumentoId": "6879bd6055d111f0b070ee7f1ceefc75",
+        "dokNr": "XV-384",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2 ir 23 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.CF76A0E2AFCD",
+        "dokumentoId": "cf76a0e2afcd11f092fda1fd0c194cc5",
+        "dokNr": "XV-480",
+        "date": "2025-10-23",
+        "title": "Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2 ir 4 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.C81BD50A27C6",
+    "parentDokNr": "I-1367",
+    "parentTitle": "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.9E0F52624C34",
+        "dokumentoId": "9e0f52624c3411f0b070ee7f1ceefc75",
+        "dokNr": "XV-273",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.F6C68292CA04",
+        "dokumentoId": "f6c68292ca0411f08918e1adc7c5b1ec",
+        "dokNr": "XV-536",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 36 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.E11820C2CE91",
+        "dokumentoId": "e11820c2ce9111f08918e1adc7c5b1ec",
+        "dokNr": "XV-568",
+        "date": "2025-12-01",
+        "title": "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2 ir 5 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.0539E2FEB29E",
+    "parentDokNr": "I-1495",
+    "parentTitle": "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.FEDEC2204C33",
+        "dokumentoId": "fedec2204c3311f0b070ee7f1ceefc75",
+        "dokNr": "XV-258",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 3, 7, 8, 11 straipsnių ir 1, 2 priedų pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.C75CDC9255C7",
+        "dokumentoId": "c75cdc9255c711f0b070ee7f1ceefc75",
+        "dokNr": "XV-334",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 3, 8, 11, 12 straipsnių, 1, 2 ir 3 priedų pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.3250D492D1D6",
+        "dokumentoId": "3250d492d1d611f08918e1adc7c5b1ec",
+        "dokNr": "XV-627",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 6, 7, 8, 9, 11, 12, 16 straipsnių ir 1, 2 priedų pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.CA3E51DFB6D7",
+    "parentDokNr": "I-1607",
+    "parentTitle": "Lietuvos Respublikos civilinio proceso kodekso 102 straipsnio papildymo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.91855DE23BC8",
+        "dokumentoId": "91855de23bc811f0b070ee7f1ceefc75",
+        "dokNr": "XV-213",
+        "date": "2025-05-28",
+        "title": "Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8, 9, 10, 13 ir 19 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.A454287255D1",
+        "dokumentoId": "a454287255d111f0b070ee7f1ceefc75",
+        "dokNr": "XV-385",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 13 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.35CB5882E562",
+        "dokumentoId": "35cb5882e56211f08918e1adc7c5b1ec",
+        "dokNr": "XV-705",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 4, 8, 10, 16, 18, 19, 20 ir 21 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.65AD818F5F9C",
+    "parentDokNr": "I-1628",
+    "parentTitle": "Lietuvos Respublikos kelių transporto kodeksas",
+    "amendments": [
+      {
+        "tarId": "TAR.FB6D92124DA5",
+        "dokumentoId": "fb6d92124da511f0b070ee7f1ceefc75",
+        "dokNr": "XV-289",
+        "date": "2025-06-20",
+        "title": "Lietuvos Respublikos kelių transporto kodekso 9 straipsnio ir priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.C4C3061256FF",
+        "dokumentoId": "c4c3061256ff11f0a3d380837a821750",
+        "dokNr": "XV-390",
+        "date": "2025-07-02",
+        "title": "Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 7-1, 9, 10-1, 12, 15, 19, 22, 23, 23-1, 24, 24-1, 25, 25-2, 29-8, 30-1, 30-2, 30-3, 30-4, 33, 34 straipsnių, ketvirtojo skirsnio pavadinimo, priedo pakeitimo, Kodekso papildymo 25-4, 30-5 straipsniais, aštuntuoju skirsniu ir penktojo skirsnio pripažinimo netekusiu galios įstatymas"
+      },
+      {
+        "tarId": "TAR.6B74F650DFD9",
+        "dokumentoId": "6b74f650dfd911f08918e1adc7c5b1ec",
+        "dokNr": "XV-658",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos kelių transporto kodekso 4, 7, 8-2, 11, 13, 16, 17-1, 18, 18-1, 18-2, 20, 21 ir 47 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.E2780B68DE62",
+    "parentDokNr": "I-2223",
+    "parentTitle": "Lietuvos Respublikos aplinkos apsaugos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.9FA921B04C33",
+        "dokumentoId": "9fa921b04c3311f0b070ee7f1ceefc75",
+        "dokNr": "XV-257",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 55, 56 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.B3A8F010A272",
+        "dokumentoId": "b3a8f010a27211f0a34db2fbd35a03b2",
+        "dokNr": "XV-447",
+        "date": "2025-10-06",
+        "title": "Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 47, 84, 85, 94, 95, 98, 99, 100, 101, 102, 105 ir 107 straipsnių pakeitimo ir Įstatymo papildymo 102-2 ir 102-3 straipsniais įstatymas"
+      },
+      {
+        "tarId": "TAR.38C0AA10E56A",
+        "dokumentoId": "38c0aa10e56a11f08918e1adc7c5b1ec",
+        "dokNr": "XV-731",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 37, 40-1, 47, 51, 87, 95-2, 109-1, 110, 122-4 straipsnių ir priedo pakeitimo, Įstatymo papildymo 110-2, 110-3, 110-4, 118-2, 125-1 straipsniais  ir 110-2 straipsnio pripažinimo netekusiu galios įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.D0CD0966D67F",
+    "parentDokNr": "I-533",
+    "parentTitle": "Lietuvos Respublikos vietos savivaldos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.916B365055CB",
+        "dokumentoId": "916b365055cb11f0b070ee7f1ceefc75",
+        "dokNr": "XV-342",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3 ir 22 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.7A794912E562",
+        "dokumentoId": "7a794912e56211f08918e1adc7c5b1ec",
+        "dokNr": "XV-706",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 15 ir 27 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.30D67752E563",
+        "dokumentoId": "30d67752e56311f08918e1adc7c5b1ec",
+        "dokNr": "XV-707",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 27 straipsnio pakeitimo įstatymo Nr. XIV-2557 2 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.E2B2957B9182",
+    "parentDokNr": "I-552",
+    "parentTitle": "Lietuvos Respublikos sveikatos sistemos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.19FB1B90D0F4",
+        "dokumentoId": "19fb1b90d0f411f08918e1adc7c5b1ec",
+        "dokNr": "XV-583",
+        "date": "2025-12-04",
+        "title": "Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 11 ir 49 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.1BB481F2D1D1",
+        "dokumentoId": "1bb481f2d1d111f08918e1adc7c5b1ec",
+        "dokNr": "XV-594",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 13-1 ir 59 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.19E06BF2E55E",
+        "dokumentoId": "19e06bf2e55e11f08918e1adc7c5b1ec",
+        "dokNr": "XV-698",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2 ir 24 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.5D6D055CC00C",
+    "parentDokNr": "I-671",
+    "parentTitle": "Lietuvos Respublikos miškų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.F53063E29EAF",
+        "dokumentoId": "f53063e29eaf11f0a34db2fbd35a03b2",
+        "dokNr": "XV-426",
+        "date": "2025-10-01",
+        "title": "Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 11, 13 straipsnių, III skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.71BAA7F0D1D6",
+        "dokumentoId": "71baa7f0d1d611f08918e1adc7c5b1ec",
+        "dokNr": "XV-628",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos miškų įstatymo Nr. I-671 2 ir 11 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.16F8D060EAC4",
+        "dokumentoId": "16f8d060eac411f09cfce49e7aeb76fe",
+        "dokNr": "XV-733",
+        "date": "2026-01-06",
+        "title": "Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4 ir 5 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.7A932101FADA",
+    "parentDokNr": "IX-1314",
+    "parentTitle": "Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.4D92853055CD",
+        "dokumentoId": "4d92853055cd11f0b070ee7f1ceefc75",
+        "dokNr": "XV-358",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 4 ir 5 straipsnių pakeitimo įstatymo Nr. XIV-3117 1 ir 2 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.D3862E32CC33",
+        "dokumentoId": "d3862e32cc3311f08918e1adc7c5b1ec",
+        "dokNr": "XV-520",
+        "date": "2025-11-28",
+        "title": "Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 3 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.B240DFB2DFEB",
+        "dokumentoId": "b240dfb2dfeb11f08918e1adc7c5b1ec",
+        "dokNr": "XV-676",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 1, 3 ir 4 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.ED68997709F5",
+    "parentDokNr": "IX-751",
+    "parentTitle": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.14BBC1A04DD4",
+        "dokumentoId": "14bbc1a04dd411f0b070ee7f1ceefc75",
+        "dokNr": "XV-287",
+        "date": "2025-06-20",
+        "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.54F902A0535B",
+        "dokumentoId": "54f902a0535b11f0b070ee7f1ceefc75",
+        "dokNr": "XV-324",
+        "date": "2025-06-27",
+        "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 21 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.3B01CB90535E",
+        "dokumentoId": "3b01cb90535e11f0b070ee7f1ceefc75",
+        "dokNr": "XV-366",
+        "date": "2025-06-27",
+        "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 15, 19, 28, 50, 78, 92, 96 ir 121 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.B8B6AFC2BFF1",
+    "parentDokNr": "VIII-1099",
+    "parentTitle": "Lietuvos Respublikos konkurencijos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.B0374E2236F4",
+        "dokumentoId": "b0374e2236f411f08fdabd4950271e2c",
+        "dokNr": "XV-216",
+        "date": "2025-05-22",
+        "title": "Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 18 ir 33 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.E7E80EC2EAC4",
+        "dokumentoId": "e7e80ec2eac411f09cfce49e7aeb76fe",
+        "dokNr": "XV-736",
+        "date": "2026-01-06",
+        "title": "Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 37 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.7944E180282E",
+        "dokumentoId": "7944e180282e11f1a552c76556910e9c",
+        "dokNr": "XV-773",
+        "date": "2026-03-25",
+        "title": "Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 3, 41 ir 55 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.C6C5599DD9A1",
+    "parentDokNr": "VIII-1370",
+    "parentTitle": "Lietuvos Respublikos mokėjimų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.C39619124CDE",
+        "dokumentoId": "c39619124cde11f0b070ee7f1ceefc75",
+        "dokNr": "XV-270",
+        "date": "2025-06-19",
+        "title": "Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 3 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.6E01B4A255C1",
+        "dokumentoId": "6e01b4a255c111f0b070ee7f1ceefc75",
+        "dokNr": "XV-302",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 2, 3, 56, 57, 76, 80 straipsnių ir priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.1215C42255C5",
+        "dokumentoId": "1215c42255c511f0b070ee7f1ceefc75",
+        "dokNr": "XV-325",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 2 straipsnio pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.1881C195D0E2",
+    "parentDokNr": "VIII-1861",
+    "parentTitle": "Lietuvos Respublikos žvalgybos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.5DE558C24C33",
+        "dokumentoId": "5de558c24c3311f0b070ee7f1ceefc75",
+        "dokNr": "XV-252",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 64-1 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.DF3BFB00DFDA",
+        "dokumentoId": "df3bfb00dfda11f08918e1adc7c5b1ec",
+        "dokNr": "XV-665",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 64-1 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.634664E0EAC5",
+        "dokumentoId": "634664e0eac511f09cfce49e7aeb76fe",
+        "dokNr": "XV-740",
+        "date": "2026-01-06",
+        "title": "Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.2B866DFF7D43",
+    "parentDokNr": "VIII-1968",
+    "parentTitle": "Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas",
+    "amendments": [
+      {
+        "tarId": "TAR.80AD4DE23581",
+        "dokumentoId": "80ad4de2358111f08fdabd4950271e2c",
+        "dokNr": "XV-204",
+        "date": "2025-05-20",
+        "title": "Lietuvos Respublikos baudžiamojo kodekso 123-1 straipsnio ir priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.C36AA082AB4A",
+        "dokumentoId": "c36aa082ab4a11f0a34db2fbd35a03b2",
+        "dokNr": "XV-474",
+        "date": "2025-10-17",
+        "title": "Lietuvos Respublikos baudžiamojo kodekso 228 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.7CCC7482D9B4",
+        "dokumentoId": "7ccc7482d9b411f08918e1adc7c5b1ec",
+        "dokNr": "XV-655",
+        "date": "2025-12-15",
+        "title": "Lietuvos Respublikos baudžiamojo kodekso 199, 199-2, 253-2, 256-2, 260-1, 266-1, 267-2, 267-3, 276-4 ir 282 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.9D2F66B96EBC",
+    "parentDokNr": "VIII-2066",
+    "parentTitle": "Lietuvos Respublikos aviacijos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.F69057209EB1",
+        "dokumentoId": "f69057209eb111f0a34db2fbd35a03b2",
+        "dokNr": "XV-433",
+        "date": "2025-10-01",
+        "title": "Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 18 ir 35 straipsnių pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.5E28AE02D0F3",
+        "dokumentoId": "5e28ae02d0f311f08918e1adc7c5b1ec",
+        "dokNr": "XV-567",
+        "date": "2025-12-04",
+        "title": "Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 6, 16, 17, 19, 24, 27, 35, 41, 41-1, 50 straipsnių, III skyriaus dešimtojo skirsnio pavadinimo ir 3 priedo pakeitimo ir Įstatymo papildymo 19-2, 19-3, 31-2, 53-1, 53-2 straipsniais įstatymas"
+      },
+      {
+        "tarId": "TAR.146DA500E55B",
+        "dokumentoId": "146da500e55b11f08918e1adc7c5b1ec",
+        "dokNr": "XV-692",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 24 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.15C705E93776",
+    "parentDokNr": "VIII-723",
+    "parentTitle": "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.2C2D56D04C32",
+        "dokumentoId": "2c2d56d04c3211f0b070ee7f1ceefc75",
+        "dokNr": "XV-251",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 61 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.213FA7E255CA",
+        "dokumentoId": "213fa7e255ca11f0b070ee7f1ceefc75",
+        "dokNr": "XV-340",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 10, 10-1, 20, 38, 47, 54, 60 straipsnių ir 1, 2 priedų pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.ABEC9AC2DFDA",
+        "dokumentoId": "abec9ac2dfda11f08918e1adc7c5b1ec",
+        "dokNr": "XV-664",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 61 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.3B8E4F16C815",
+    "parentDokNr": "XI-2234",
+    "parentTitle": "Lietuvos Respublikos kriminalinės žvalgybos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.F56F70E23581",
+        "dokumentoId": "f56f70e2358111f08fdabd4950271e2c",
+        "dokNr": "XV-206",
+        "date": "2025-05-20",
+        "title": "Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo ir Įstatymo papildymo priedu įstatymas"
+      },
+      {
+        "tarId": "TAR.0CB523A2AB4B",
+        "dokumentoId": "0cb523a2ab4b11f0a34db2fbd35a03b2",
+        "dokNr": "XV-475",
+        "date": "2025-10-17",
+        "title": "Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.BB385FE0D9B4",
+        "dokumentoId": "bb385fe0d9b411f08918e1adc7c5b1ec",
+        "dokNr": "XV-656",
+        "date": "2025-12-15",
+        "title": "Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.C595FF45F869",
+    "parentDokNr": "XI-242",
+    "parentTitle": "Lietuvos Respublikos mokslo ir studijų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.477F91A2D1D4",
+        "dokumentoId": "477f91a2d1d411f08918e1adc7c5b1ec",
+        "dokNr": "XV-608",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 15, 17, 42, 43, 44 ir 48 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.85FC1ED2D1D4",
+        "dokumentoId": "85fc1ed2d1d411f08918e1adc7c5b1ec",
+        "dokNr": "XV-610",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.C2448DF2D1D4",
+        "dokumentoId": "c2448df2d1d411f08918e1adc7c5b1ec",
+        "dokNr": "XV-611",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 29 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.3BE40B20353E",
+    "parentDokNr": "XIV-2775",
+    "parentTitle": "Lietuvos Respublikos valstybės gynybos fondo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.835B9800535C",
+        "dokumentoId": "835b9800535c11f0b070ee7f1ceefc75",
+        "dokNr": "XV-346",
+        "date": "2025-06-27",
+        "title": "Lietuvos Respublikos valstybės gynybos fondo įstatymo Nr. XIV-2775 2, 4, 5 ir 8 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.82339D92D694",
+        "dokumentoId": "82339d92d69411f08918e1adc7c5b1ec",
+        "dokNr": "XV-631",
+        "date": "2025-12-11",
+        "title": "Lietuvos Respublikos valstybės gynybos fondo įstatymo Nr. XIV-2775 5 ir 7 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.C9B66300DFEA",
+        "dokumentoId": "c9b66300dfea11f08918e1adc7c5b1ec",
+        "dokNr": "XV-674",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos valstybės gynybos fondo įstatymo Nr. XIV-2775 4 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.C8205E261830",
+    "parentDokNr": "I-1234",
+    "parentTitle": "Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.E87541A04AB5",
+        "dokumentoId": "e87541a04ab511f0b070ee7f1ceefc75",
+        "dokNr": "XV-253",
+        "date": "2025-06-16",
+        "title": "Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 30 ir 36-4 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.2271AE02DFDC",
+        "dokumentoId": "2271ae02dfdc11f08918e1adc7c5b1ec",
+        "dokNr": "XV-670",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 42 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.9A3AD08EA5D0",
+    "parentDokNr": "I-1489",
+    "parentTitle": "Lietuvos Respublikos švietimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.CEAE7618D1D3",
+        "dokumentoId": "ceae7618d1d311f08918e1adc7c5b1ec",
+        "dokNr": "XV-606",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos švietimo įstatymo Nr. I-1489 25, 33, 43, 53, 56 straipsnių pakeitimo, 56-1 ir 56-2 straipsnių pripažinimo netekusiais galios ir Įstatymo papildymo devintuoju skirsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.8838AAE2E568",
+        "dokumentoId": "8838aae2e56811f08918e1adc7c5b1ec",
+        "dokNr": "XV-723",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos švietimo įstatymo Nr. I-1489 29 straipsnio pakeitimo įstatymo Nr. XIII-2894 2 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.5C23DECF6210",
+    "parentDokNr": "I-1508",
+    "parentTitle": "Lietuvos Respublikos valstybės skolos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.E57AE2724CDB",
+        "dokumentoId": "e57ae2724cdb11f0b070ee7f1ceefc75",
+        "dokNr": "XV-267",
+        "date": "2025-06-19",
+        "title": "Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 1, 2, 3, 4 ir 6 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.34C30A50CA05",
+        "dokumentoId": "34c30a50ca0511f08918e1adc7c5b1ec",
+        "dokNr": "XV-538",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3, 8 ir 9 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.DEBA0718FB0F",
+    "parentDokNr": "I-1534",
+    "parentTitle": "Lietuvos Respublikos vidaus vandenų transporto kodeksas",
+    "amendments": [
+      {
+        "tarId": "TAR.A9BD16B0E563",
+        "dokumentoId": "a9bd16b0e56311f08918e1adc7c5b1ec",
+        "dokNr": "XV-711",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos vidaus vandenų transporto kodekso 4 ir 26 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.261950A2E56B",
+        "dokumentoId": "261950a2e56b11f08918e1adc7c5b1ec",
+        "dokNr": "XV-738",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos vidaus vandenų transporto kodekso 31 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.FBE404535C5B",
+    "parentDokNr": "I-1863",
+    "parentTitle": "Lietuvos Respublikos transporto veiklos pagrindų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.B89EE8D24DA5",
+        "dokumentoId": "b89ee8d24da511f0b070ee7f1ceefc75",
+        "dokNr": "XV-288",
+        "date": "2025-06-20",
+        "title": "Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 12 straipsnio ir 3 priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.A02827F4CC33",
+        "dokumentoId": "a02827f4cc3311f08918e1adc7c5b1ec",
+        "dokNr": "XV-518",
+        "date": "2025-11-28",
+        "title": "Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 2, 11, 13-1, 23 straipsnių ir 3 priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.FF1083B528B7",
+    "parentDokNr": "I-301",
+    "parentTitle": "Lietuvos Respublikos saugomų teritorijų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.FFA7DD423BC6",
+        "dokumentoId": "ffa7dd423bc611f0b070ee7f1ceefc75",
+        "dokNr": "XV-220",
+        "date": "2025-05-28",
+        "title": "Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 34 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.50BA3A609EB0",
+        "dokumentoId": "50ba3a609eb011f0a34db2fbd35a03b2",
+        "dokNr": "XV-427",
+        "date": "2025-10-01",
+        "title": "Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 5, 9, 10, 14, 17, 21, 24, 25, 27 ir 32 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.CC97316E33ED",
+    "parentDokNr": "I-430",
+    "parentTitle": "Dėl Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo pakeitimo ir papildymo",
+    "amendments": [
+      {
+        "tarId": "TAR.17418880D694",
+        "dokumentoId": "17418880d69411f08918e1adc7c5b1ec",
+        "dokNr": "XV-629",
+        "date": "2025-12-11",
+        "title": "Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 27 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.32A5B942E588",
+        "dokumentoId": "32a5b942e58811f08918e1adc7c5b1ec",
+        "dokNr": "XV-757",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 6, 15, 18, 19, 20, 21, 27 straipsnių, VII skyriaus, priedo pakeitimo ir VIII skyriaus pripažinimo netekusiu galios įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.D790096B17EE",
+    "parentDokNr": "I-657",
+    "parentTitle": "Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.55B659F24CDE",
+        "dokumentoId": "55b659f24cde11f0b070ee7f1ceefc75",
+        "dokNr": "XV-268",
+        "date": "2025-06-19",
+        "title": "Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 1, 2, 40 straipsnių, aštuntojo skirsnio ir priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.F47E7FC055C3",
+        "dokumentoId": "f47e7fc055c311f0b070ee7f1ceefc75",
+        "dokNr": "XV-317",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2 straipsnio pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.1B4D7B687895",
+    "parentDokNr": "I-678",
+    "parentTitle": "Lietuvos Respublikos Lietuvos banko įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.69B1CD6255BF",
+        "dokumentoId": "69b1cd6255bf11f0b070ee7f1ceefc75",
+        "dokNr": "XV-293",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio ir 3 priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.7A84B0C055C5",
+        "dokumentoId": "7a84b0c055c511f0b070ee7f1ceefc75",
+        "dokNr": "XV-327",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 11, 42, 43, 46 straipsnių ir 3 priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.AF4E384215F8",
+    "parentDokNr": "IX-1183",
+    "parentTitle": "Lietuvos Respublikos vadovybės apsaugos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.E872B542E563",
+        "dokumentoId": "e872b542e56311f08918e1adc7c5b1ec",
+        "dokNr": "XV-718",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 1, 2, 4, 5, 9, 10, 11, 13, 14, 15, 16, 18, 19, 20, 23, 27, 36, 37, 38, 40, 45, 50, 55, 57, 58, 59, 60, 61, 65, 66, 72, 73, 74 straipsnių ir priedo pakeitimo, Įstatymo papildymo 63-1 straipsniu bei 35 straipsnio pripažinimo netekusiu galios įstatymas"
+      },
+      {
+        "tarId": "TAR.1EE8F802E564",
+        "dokumentoId": "1ee8f802e56411f08918e1adc7c5b1ec",
+        "dokNr": "XV-719",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 pakeitimo įstatymo Nr. XIII-2901 2 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.F62AD965997D",
+    "parentDokNr": "IX-1565",
+    "parentTitle": "Lietuvos Respublikos šilumos ūkio įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.82FAE5204C2F",
+        "dokumentoId": "82fae5204c2f11f0b070ee7f1ceefc75",
+        "dokNr": "XV-241",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 7, 8, 8-2, 10-2, 29 straipsnių, priedo pakeitimo ir Įstatymo papildymo 8-3 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.BFA0E042DFED",
+        "dokumentoId": "bfa0e042dfed11f08918e1adc7c5b1ec",
+        "dokNr": "XV-685",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 32 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.23145B5CDF8E",
+    "parentDokNr": "IX-1601",
+    "parentTitle": "Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.A8E50D524C30",
+        "dokumentoId": "a8e50d524c3011f0b070ee7f1ceefc75",
+        "dokNr": "XV-246",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymo Nr. IX-1601 6 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.2F9119C2C9FE",
+        "dokumentoId": "2f9119c2c9fe11f08918e1adc7c5b1ec",
+        "dokNr": "XV-514",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymo Nr. IX-1601 2, 3, 4, 6, 8, 9 ir 10 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.3EEE59417F13",
+    "parentDokNr": "IX-1675",
+    "parentTitle": "Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.837E93E2535D",
+        "dokumentoId": "837e93e2535d11f0b070ee7f1ceefc75",
+        "dokNr": "XV-351",
+        "date": "2025-06-27",
+        "title": "Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 14 ir 17 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.61D87270EAC4",
+        "dokumentoId": "61d87270eac411f09cfce49e7aeb76fe",
+        "dokNr": "XV-725",
+        "date": "2026-01-06",
+        "title": "Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 2, 4, 7, 8, 10, 14, 15, 16, 17, 18, 19, 23, 25, 26 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.0CC6CB2A9E42",
+    "parentDokNr": "IX-1826",
+    "parentTitle": "Lietuvos Respublikos lygių galimybių įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.B113806055CC",
+        "dokumentoId": "b113806055cc11f0b070ee7f1ceefc75",
+        "dokNr": "XV-355",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 2, 5, 6, 7, 8, 9 ir 15-1 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.7B878090E569",
+        "dokumentoId": "7b878090e56911f08918e1adc7c5b1ec",
+        "dokNr": "XV-728",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 5 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.2294490FE9DD",
+    "parentDokNr": "IX-2183",
+    "parentTitle": "Lietuvos Respublikos muitinės įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.9EFFAD324C31",
+        "dokumentoId": "9effad324c3111f0b070ee7f1ceefc75",
+        "dokNr": "XV-249",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 3 ir 46 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.23501660C9FF",
+        "dokumentoId": "23501660c9ff11f08918e1adc7c5b1ec",
+        "dokNr": "XV-516",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 10, 30, 35 ir 53 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.9D1ADB9E1518",
+    "parentDokNr": "IX-517",
+    "parentTitle": "Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.0D799A52A272",
+        "dokumentoId": "0d799a52a27211f0a34db2fbd35a03b2",
+        "dokNr": "XV-445",
+        "date": "2025-10-06",
+        "title": "Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 6, 7, 7-1, 7-2, 10, 11-2 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.19C24C72D9B4",
+        "dokumentoId": "19c24c72d9b411f08918e1adc7c5b1ec",
+        "dokNr": "XV-648",
+        "date": "2025-12-15",
+        "title": "Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 6, 7, 7-1, 7-2, 10, 11-2 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymo Nr. XV-445 10 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.B9E1D301256F",
+    "parentDokNr": "IX-569",
+    "parentTitle": "Lietuvos Respublikos akcizų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.D29EDC324DD3",
+        "dokumentoId": "d29edc324dd311f0b070ee7f1ceefc75",
+        "dokNr": "XV-286",
+        "date": "2025-06-20",
+        "title": "Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3 straipsnių pakeitimo ir II skyriaus papildymo devintuoju skirsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.6734E102DFEC",
+        "dokumentoId": "6734e102dfec11f08918e1adc7c5b1ec",
+        "dokNr": "XV-679",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos akcizų įstatymo Nr. IX-569 9 straipsnio ir 3 priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.389CB90C666D",
+    "parentDokNr": "IX-705",
+    "parentTitle": "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.0D5B8C82AFCF",
+        "dokumentoId": "0d5b8c82afcf11f092fda1fd0c194cc5",
+        "dokNr": "XV-483",
+        "date": "2025-10-23",
+        "title": "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 1, 2, 7, 19, 20, 21, 22, 23, 25 ir 26 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.D294A820EAC5",
+        "dokumentoId": "d294a820eac511f09cfce49e7aeb76fe",
+        "dokNr": "XV-742",
+        "date": "2026-01-06",
+        "title": "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 42 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.80CA64E588A1",
+    "parentDokNr": "IX-987",
+    "parentTitle": "Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.E553A94455CC",
+        "dokumentoId": "e553a94455cc11f0b070ee7f1ceefc75",
+        "dokNr": "XV-356",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2, 3, 4, 8, 10 ir 13 straipsnių pakeitimo įstatymo Nr. XIV-3115 3, 4, 5, 6 ir 7 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.4C4300929EA4",
+        "dokumentoId": "4c4300929ea411f0a34db2fbd35a03b2",
+        "dokNr": "XV-423",
+        "date": "2025-10-01",
+        "title": "Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 1, 2 ir 11 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.46EF9E1D52E9",
+    "parentDokNr": "VIII-1012",
+    "parentTitle": "Lietuvos Respublikos diplomatinės tarnybos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.597DA3C04C31",
+        "dokumentoId": "597da3c04c3111f0b070ee7f1ceefc75",
+        "dokNr": "XV-248",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 3, 17, 37, 41, 42, 43, 47, 49, 55, 61, 62, 65, 87, 92, 95 straipsnių, X skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo 67-1 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.1029C490DFDB",
+        "dokumentoId": "1029c490dfdb11f08918e1adc7c5b1ec",
+        "dokNr": "XV-666",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 89 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.DDA1BD559D9B",
+    "parentDokNr": "VIII-1212",
+    "parentTitle": "Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.617ACEA055C2",
+        "dokumentoId": "617acea055c211f0b070ee7f1ceefc75",
+        "dokNr": "XV-306",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 2, 6, 57, 58-2 straipsnių ir priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.B9924F72AFCF",
+        "dokumentoId": "b9924f72afcf11f092fda1fd0c194cc5",
+        "dokNr": "XV-486",
+        "date": "2025-10-23",
+        "title": "Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 2, 6, 7, 13, 20, 21, 31, 32, 35, 40, 45, 46, 47, 50, 52, 58, 58-2 ir 58-3 straipsnių pakeitimo ir Įstatymo papildymo 5-1, 7-1 ir 49-1 straipsniais įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.C7E57DF3CEC5",
+    "parentDokNr": "VIII-1312",
+    "parentTitle": "Lietuvos Respublikos investicijų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.AA0AFA1355D0",
+        "dokumentoId": "aa0afa1355d011f0b070ee7f1ceefc75",
+        "dokNr": "XV-380",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13, 13-1 straipsnių, ketvirtojo-2 skirsnio pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.C3F83C20AFCC",
+        "dokumentoId": "c3f83c20afcc11f092fda1fd0c194cc5",
+        "dokNr": "XV-478",
+        "date": "2025-10-23",
+        "title": "Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2 ir 13 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.41CD8BF53D8D",
+    "parentDokNr": "VIII-1725",
+    "parentTitle": "Lietuvos Respublikos rinkliavų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.BD35D8B256FE",
+        "dokumentoId": "bd35d8b256fe11f0a3d380837a821750",
+        "dokNr": "XV-388",
+        "date": "2025-07-02",
+        "title": "Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 11 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.AA364D12D1D5",
+        "dokumentoId": "aa364d12d1d511f08918e1adc7c5b1ec",
+        "dokNr": "XV-623",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 9, 11 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.D22016A0EC70",
+    "parentDokNr": "VIII-1756",
+    "parentTitle": "Lietuvos Respublikos žuvininkystės įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.71042E004DA4",
+        "dokumentoId": "71042e004da411f0b070ee7f1ceefc75",
+        "dokNr": "XV-274",
+        "date": "2025-06-20",
+        "title": "Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.92B89B509EB0",
+        "dokumentoId": "92b89b509eb011f0a34db2fbd35a03b2",
+        "dokNr": "XV-428",
+        "date": "2025-10-01",
+        "title": "Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 5, 11, 13 ir 71 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.44FA08A7226F",
+    "parentDokNr": "VIII-450",
+    "parentTitle": "Lietuvos Respublikos profesinio mokymo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.064E44B2D1D4",
+        "dokumentoId": "064e44b2d1d411f08918e1adc7c5b1ec",
+        "dokNr": "XV-607",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 13, 14, 25 ir 26 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.2AC29D40282E",
+        "dokumentoId": "2ac29d40282e11f1a552c76556910e9c",
+        "dokNr": "XV-772",
+        "date": "2026-03-25",
+        "title": "Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 13, 14, 17, 36 straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.A0BAB27D768C",
+    "parentDokNr": "VIII-49",
+    "parentTitle": "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.522D2DE055CB",
+        "dokumentoId": "522d2de055cb11f0b070ee7f1ceefc75",
+        "dokNr": "XV-341",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.EF936E02CA01",
+        "dokumentoId": "ef936e02ca0111f08918e1adc7c5b1ec",
+        "dokNr": "XV-519",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.D5496D69DF98",
+    "parentDokNr": "VIII-729",
+    "parentTitle": "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.04502801CA03",
+        "dokumentoId": "04502801ca0311f08918e1adc7c5b1ec",
+        "dokNr": "XV-527",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.3536ECB2CA03",
+        "dokumentoId": "3536ecb2ca0311f08918e1adc7c5b1ec",
+        "dokNr": "XV-528",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 5, 6, 10, 12, 14, 15, 16, 19, 20, 21, 24 straipsnių pakeitimo ir 18 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIII-2398 13 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.8D38517814F1",
+    "parentDokNr": "VIII-787",
+    "parentTitle": "Lietuvos Respublikos atliekų tvarkymo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.AC6CA1D0A271",
+        "dokumentoId": "ac6ca1d0a27111f0a34db2fbd35a03b2",
+        "dokNr": "XV-444",
+        "date": "2025-10-06",
+        "title": "Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.9ADCE360CA05",
+        "dokumentoId": "9adce360ca0511f08918e1adc7c5b1ec",
+        "dokNr": "XV-579",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2, 4, 25, 28, 30, 30-2, 30-5, 31 straipsnių pakeitimo įstatymo Nr. XIV-2961 2 ir 10 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.3DF892F52616",
+    "parentDokNr": "X-1023",
+    "parentTitle": "Lietuvos Respublikos vertybinių popierių įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.3BB8759255C8",
+        "dokumentoId": "3bb8759255c811f0b070ee7f1ceefc75",
+        "dokNr": "XV-336",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.712E384255C8",
+        "dokumentoId": "712e384255c811f0b070ee7f1ceefc75",
+        "dokNr": "XV-337",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 12, 13, 14, 22, 27, 37 straipsnių, priedo pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymo Nr. XIV-2813 10 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.E2CE2C82DA9E",
+    "parentDokNr": "X-1212",
+    "parentTitle": "Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.6D79C22255D0",
+        "dokumentoId": "6d79c22255d011f0b070ee7f1ceefc75",
+        "dokNr": "XV-379",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 1, 2, 13, 14, 15, 18 ir 20 straipsnių pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.A9FA05F2EAC4",
+        "dokumentoId": "a9fa05f2eac411f09cfce49e7aeb76fe",
+        "dokNr": "XV-734",
+        "date": "2026-01-06",
+        "title": "Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 1, 6, 10, 11, 14, 15, 16 ir 17 straipsnių, IV skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo VI skyriumi įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.68CC8934A031",
+    "parentDokNr": "X-1809",
+    "parentTitle": "Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.AEC21A8255C5",
+        "dokumentoId": "aec21a8255c511f0b070ee7f1ceefc75",
+        "dokNr": "XV-328",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 2 straipsnio ir priedo pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.3B4C9B30E561",
+        "dokumentoId": "3b4c9b30e56111f08918e1adc7c5b1ec",
+        "dokNr": "XV-701",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 priedo pakeitimo ir Įstatymo papildymo devintuoju-7 skirsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.B4FAA1DD73CF",
+    "parentDokNr": "X-233",
+    "parentTitle": "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.EFCC7A52535B",
+        "dokumentoId": "efcc7a52535b11f0b070ee7f1ceefc75",
+        "dokNr": "XV-344",
+        "date": "2025-06-27",
+        "title": "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.322138A0535C",
+        "dokumentoId": "322138a0535c11f0b070ee7f1ceefc75",
+        "dokNr": "XV-345",
+        "date": "2025-06-27",
+        "title": "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 2, 6, 7, 8, 9, 10 ir 11 straipsnių pakeitimo įstatymo Nr. XIV-2577 pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.EA8FEE50AC93",
+    "parentDokNr": "XII-2769",
+    "parentTitle": "Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.F858DF724CDE",
+        "dokumentoId": "f858df724cde11f0b070ee7f1ceefc75",
+        "dokNr": "XV-271",
+        "date": "2025-06-19",
+        "title": "Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 7 straipsnio pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.D387D7A2E568",
+        "dokumentoId": "d387d7a2e56811f08918e1adc7c5b1ec",
+        "dokNr": "XV-724",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 3 ir 39 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.F78281A02AD4",
+    "parentDokNr": "XIII-2709",
+    "parentTitle": "Lietuvos Respublikos principinės kariuomenės struktūros, karių ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ribinio skaičiaus patvirtinimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.A1CB70D255C8",
+        "dokumentoId": "a1cb70d255c811f0b070ee7f1ceefc75",
+        "dokNr": "XV-338",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos principinės kariuomenės struktūros, karių ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ribinio skaičiaus patvirtinimo įstatymo Nr. XIII-2709 pakeitimo įstatymas"
+      },
+      {
+        "tarId": "TAR.E93F5F3255C8",
+        "dokumentoId": "e93f5f3255c811f0b070ee7f1ceefc75",
+        "dokNr": "XV-339",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos principinės kariuomenės struktūros, karių ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ribinio skaičiaus patvirtinimo įstatymo Nr. XIII-2709 pakeitimo įstatymo Nr. XIV-2899 2 straipsnio pripažinimo netekusiu galios įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.B5C313D0986D",
+    "parentDokNr": "XIV-196",
+    "parentTitle": "Lietuvos Respublikos alternatyviųjų degalų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.7527063155C7",
+        "dokumentoId": "7527063155c711f0b070ee7f1ceefc75",
+        "dokNr": "XV-333",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 1, 2, 5, 11, 13, 16, 17, 18, 19, 20, 21, 23, 31, 32, 33 straipsnių pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.5CAE2042D1D5",
+        "dokumentoId": "5cae2042d1d511f08918e1adc7c5b1ec",
+        "dokNr": "XV-622",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 2, 3, 9, 12, 23, 33, 35 straipsnių, aštuntojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 14-1, 33-1, 33-2, 33-3, 33-4, 33-5, 33-6 straipsniais įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.ABDB66E01E59",
+    "parentDokNr": "XIV-2647",
+    "parentTitle": "Lietuvos Respublikos gynybos ir saugumo pramonės įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.5D811D50AFCB",
+        "dokumentoId": "5d811d50afcb11f092fda1fd0c194cc5",
+        "dokNr": "XV-476",
+        "date": "2025-10-23",
+        "title": "Lietuvos Respublikos gynybos ir saugumo pramonės įstatymo Nr. XIV-2647 1 ir 2 straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas"
+      },
+      {
+        "tarId": "TAR.6914FE82AFCF",
+        "dokumentoId": "6914fe82afcf11f092fda1fd0c194cc5",
+        "dokNr": "XV-484",
+        "date": "2025-10-23",
+        "title": "Lietuvos Respublikos gynybos ir saugumo pramonės įstatymo Nr. XIV-2647 3 ir 5 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.F8090E375DA0",
+    "parentDokNr": "I-1143",
+    "parentTitle": "Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.62F4BFC2CC37",
+        "dokumentoId": "62f4bfc2cc3711f08918e1adc7c5b1ec",
+        "dokNr": "XV-578",
+        "date": "2025-11-28",
+        "title": "Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 17-1 ir 18 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.791BF9249C9C",
+    "parentDokNr": "I-1151",
+    "parentTitle": "Lietuvos Respublikos sporto įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.04FF9192D0F8",
+        "dokumentoId": "04ff9192d0f811f08918e1adc7c5b1ec",
+        "dokNr": "XV-609",
+        "date": "2025-12-04",
+        "title": "Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.C5DA698A4015",
+    "parentDokNr": "I-1179",
+    "parentTitle": "Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.707DBB52CF8A",
+        "dokumentoId": "707dbb52cf8a11f08918e1adc7c5b1ec",
+        "dokNr": "XV-548",
+        "date": "2025-12-02",
+        "title": "Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 2, 4, 8, 9, 11, 12 ir 13 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.B8F45E398856",
+    "parentDokNr": "I-1246",
+    "parentTitle": "Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.6CEB4260D1D2",
+        "dokumentoId": "6ceb4260d1d211f08918e1adc7c5b1ec",
+        "dokNr": "XV-600",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo Nr. I-1246 2 ir 5 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.C40F7F89A7C3",
+    "parentDokNr": "I-1324",
+    "parentTitle": "Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.5A6E1A32D0F7",
+        "dokumentoId": "5a6e1a32d0f711f08918e1adc7c5b1ec",
+        "dokNr": "XV-591",
+        "date": "2025-12-04",
+        "title": "Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo Nr. I-1324 4, 8, 10 ir 12 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.065AB8483E1E",
+    "parentDokNr": "I-1418",
+    "parentTitle": "Lietuvos Respublikos visuomenės informavimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.71C0B11455C4",
+        "dokumentoId": "71c0b11455c411f0b070ee7f1ceefc75",
+        "dokNr": "XV-319",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 50 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.A3C0EA6B2203",
+    "parentDokNr": "I-1452",
+    "parentTitle": "Lietuvos Respublikos metrologijos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.159A92B2CC35",
+        "dokumentoId": "159a92b2cc3511f08918e1adc7c5b1ec",
+        "dokNr": "XV-563",
+        "date": "2025-11-28",
+        "title": "Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 9, 18, 30 ir 36 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.C54AFFAA7622",
+    "parentDokNr": "I-1491",
+    "parentTitle": "Lietuvos Respublikos viešųjų pirkimų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.C1883B304C2F",
+        "dokumentoId": "c1883b304c2f11f0b070ee7f1ceefc75",
+        "dokNr": "XV-242",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 7 priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.6A449FCC534B",
+    "parentDokNr": "I-1510",
+    "parentTitle": "Lietuvos Respublikos koncesijų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.605D16E04C30",
+        "dokumentoId": "605d16e04c3011f0b070ee7f1ceefc75",
+        "dokNr": "XV-244",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 14, 31 straipsnių ir 7 priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.10E8E285740C",
+    "parentDokNr": "I-1555",
+    "parentTitle": "Lietuvos Respublikos medicinos praktikos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.394B0300D1D2",
+        "dokumentoId": "394b0300d1d211f08918e1adc7c5b1ec",
+        "dokNr": "XV-599",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 4 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.1559303036A8",
+    "parentDokNr": "I-1571",
+    "parentTitle": "Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.4A5D6B22CF8D",
+        "dokumentoId": "4a5d6b22cf8d11f08918e1adc7c5b1ec",
+        "dokNr": "XV-618",
+        "date": "2025-12-02",
+        "title": "Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 11 ir 19 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.E9CE9C91C255",
+    "parentDokNr": "I-1593",
+    "parentTitle": "Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.BC85B090E55E",
+        "dokumentoId": "bc85b090e55e11f08918e1adc7c5b1ec",
+        "dokNr": "XV-699",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 pakeitimo įstatymo Nr. XIV-2729 21 ir 22 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.078401A44DFD",
+    "parentDokNr": "I-1611",
+    "parentTitle": "Lietuvos Respublikos kraujo donorystės įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.9AC91760D1D3",
+        "dokumentoId": "9ac91760d1d311f08918e1adc7c5b1ec",
+        "dokNr": "XV-605",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 2, 4 ir 9 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.3CD1008B88A9",
+    "parentDokNr": "I-1623",
+    "parentTitle": "Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.542449804C34",
+        "dokumentoId": "542449804c3411f0b070ee7f1ceefc75",
+        "dokNr": "XV-272",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 8, 10 ir 14 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.D00D08A48D5D",
+    "parentDokNr": "I-1626",
+    "parentTitle": "Lietuvos Respublikos žmogaus audinių, ląstelių, organų donorystės ir transplantacijos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.CDF80942D1D1",
+        "dokumentoId": "cdf80942d1d111f08918e1adc7c5b1ec",
+        "dokNr": "XV-597",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos žmogaus audinių, ląstelių, organų donorystės ir transplantacijos įstatymo Nr. I-1626 2, 5, 7 ir 9 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.C0FF21832A85",
+    "parentDokNr": "I-172",
+    "parentTitle": "Lietuvos Respublikos labdaros ir paramos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.B994DBC0E56A",
+        "dokumentoId": "b994dbc0e56a11f08918e1adc7c5b1ec",
+        "dokNr": "XV-735",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 11 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.97BDCD719E57",
+    "parentDokNr": "I-2110",
+    "parentTitle": "Lietuvos Respublikos veterinarijos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.39BD1B629EB1",
+        "dokumentoId": "39bd1b629eb111f0a34db2fbd35a03b2",
+        "dokNr": "XV-430",
+        "date": "2025-10-01",
+        "title": "Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 2, 3, 6, 16 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.D0429A864011",
+    "parentDokNr": "I-323",
+    "parentTitle": "Lietuvos Respublikos melioracijos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.AABB2DF04DD2",
+        "dokumentoId": "aabb2df04dd211f0b070ee7f1ceefc75",
+        "dokNr": "XV-282",
+        "date": "2025-06-20",
+        "title": "Lietuvos Respublikos melioracijos įstatymo Nr. I-323 1, 2, 7 ir 9 straipsnių pakeitimo ir Įstatymo papildymo VI skyriumi įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.07786E0929A8",
+    "parentDokNr": "I-372",
+    "parentTitle": "Lietuvos Respublikos patentų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.84B8EBC2AE7A",
+        "dokumentoId": "84b8ebc2ae7a11f092fda1fd0c194cc5",
+        "dokNr": "XV-493",
+        "date": "2025-10-21",
+        "title": "Lietuvos Respublikos patentų įstatymo Nr. I-372 29, 30, 42, 45, 46, 47, 61, 62 ir 64 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.A7F77DF94F5D",
+    "parentDokNr": "I-549",
+    "parentTitle": "Lietuvos Respublikos socialinio draudimo pensijų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.050F0620535D",
+        "dokumentoId": "050f0620535d11f0b070ee7f1ceefc75",
+        "dokNr": "XV-349",
+        "date": "2025-06-27",
+        "title": "Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 11 ir 12 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.DEEB2C5600E3",
+    "parentDokNr": "I-67",
+    "parentTitle": "Lietuvos Respublikos Konstitucinio Teismo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.51294D904AB6",
+        "dokumentoId": "51294d904ab611f0b070ee7f1ceefc75",
+        "dokNr": "XV-256",
+        "date": "2025-06-16",
+        "title": "Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 4 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.EDDCB615126E",
+    "parentDokNr": "I-693",
+    "parentTitle": "Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.554E98F2E564",
+        "dokumentoId": "554e98f2e56411f08918e1adc7c5b1ec",
+        "dokNr": "XV-720",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 3, 6 ir 7 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.9BC8AEE9D9F8",
+    "parentDokNr": "I-733",
+    "parentTitle": "Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.08F907A2CF8A",
+        "dokumentoId": "08f907a2cf8a11f08918e1adc7c5b1ec",
+        "dokNr": "XV-546",
+        "date": "2025-12-02",
+        "title": "Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.DE0B1FF26D01",
+    "parentDokNr": "I-796",
+    "parentTitle": "Lietuvos Respublikos kredito unijų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.9F7C115055C2",
+        "dokumentoId": "9f7c115055c211f0b070ee7f1ceefc75",
+        "dokNr": "XV-307",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 3, 61 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.9E5C5C16B6E6",
+    "parentDokNr": "I-857",
+    "parentTitle": "Lietuvos Respublikos alkoholio kontrolės įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.257591D04DA5",
+        "dokumentoId": "257591d04da511f0b070ee7f1ceefc75",
+        "dokNr": "XV-276",
+        "date": "2025-06-20",
+        "title": "Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 2, 10-1, 12, 17 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.61BB05227699",
+    "parentDokNr": "I-907",
+    "parentTitle": "Lietuvos Respublikos valstybės kontrolės įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.6D7D8162E588",
+        "dokumentoId": "6d7d8162e58811f08918e1adc7c5b1ec",
+        "dokNr": "XV-758",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 1, 2, 3, 6, 7, 8, 18, 22, 30 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.CB941ADCC055",
+    "parentDokNr": "IX-1005",
+    "parentTitle": "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.04D01952B3FD",
+        "dokumentoId": "04d01952b3fd11f092fda1fd0c194cc5",
+        "dokNr": "XV-490",
+        "date": "2025-10-28",
+        "title": "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.068516AF734B",
+    "parentDokNr": "IX-110",
+    "parentTitle": "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.F7AE0B70D9B2",
+        "dokumentoId": "f7ae0b70d9b211f08918e1adc7c5b1ec",
+        "dokNr": "XV-643",
+        "date": "2025-12-15",
+        "title": "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 22 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.13BA31BA9E61",
+    "parentDokNr": "IX-1181",
+    "parentTitle": "Lietuvos Respublikos dizaino įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.3143DEA0AE7A",
+        "dokumentoId": "3143dea0ae7a11f092fda1fd0c194cc5",
+        "dokNr": "XV-492",
+        "date": "2025-10-21",
+        "title": "Lietuvos Respublikos dizaino įstatymo Nr. IX-1181 21, 25, 26, 29, 33-1, 33-4, 35, 40, 41 ir 42 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.4FC026AC03AE",
+    "parentDokNr": "IX-1538",
+    "parentTitle": "Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.4E901C50E55A",
+        "dokumentoId": "4e901c50e55a11f08918e1adc7c5b1ec",
+        "dokNr": "XV-689",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos vidaus tarnybos statuto 5, 6, 12, 28, 36, 47, 53, 57, 66, 70, 74, 78 ir 79 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.95C79D036AA4",
+    "parentDokNr": "IX-1672",
+    "parentTitle": "Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.94514710D1D1",
+        "dokumentoId": "94514710d1d111f08918e1adc7c5b1ec",
+        "dokNr": "XV-596",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 45 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.ED28779BEADF",
+    "parentDokNr": "IX-1709",
+    "parentTitle": "Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.39EEDD5255C1",
+        "dokumentoId": "39eedd5255c111f0b070ee7f1ceefc75",
+        "dokNr": "XV-301",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 2, 11, 16, 35, 171 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.8447F63760E9",
+    "parentDokNr": "IX-1737",
+    "parentTitle": "Lietuvos Respublikos draudimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.606578F355C0",
+        "dokumentoId": "606578f355c011f0b070ee7f1ceefc75",
+        "dokNr": "XV-297",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 10, 22, 205, 212 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.FDF42614DE52",
+    "parentDokNr": "IX-1904",
+    "parentTitle": "Lietuvos Respublikos nedarbo socialinio draudimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.8ADDE0E2B3FD",
+        "dokumentoId": "8adde0e2b3fd11f092fda1fd0c194cc5",
+        "dokNr": "XV-500",
+        "date": "2025-10-28",
+        "title": "Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 1, 3, 5, 6, 8, 9, 11, 12, 17, 21 straipsnių pakeitimo, Įstatymo papildymo priedu ir 10 straipsnio pripažinimo netekusiu galios įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.C7A984833333",
+    "parentDokNr": "IX-1905",
+    "parentTitle": "Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.EA9575524C30",
+        "dokumentoId": "ea9575524c3011f0b070ee7f1ceefc75",
+        "dokNr": "XV-247",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 32 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.FF00B0EA2F0E",
+    "parentDokNr": "IX-1969",
+    "parentTitle": "Lietuvos Respublikos asociacijų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.10A9F2A24DC3",
+        "dokumentoId": "10a9f2a24dc311f0b070ee7f1ceefc75",
+        "dokNr": "XV-279",
+        "date": "2025-06-20",
+        "title": "Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 14 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.B6B636C7384A",
+    "parentDokNr": "IX-2085",
+    "parentTitle": "Lietuvos Respublikos bankų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.EE4FB14055BF",
+        "dokumentoId": "ee4fb14055bf11f0b070ee7f1ceefc75",
+        "dokNr": "XV-295",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 60, 63, 69, 73 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.82D8168D3049",
+    "parentDokNr": "IX-2135",
+    "parentTitle": "Lietuvos Respublikos elektroninių ryšių įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.BC536812AFCB",
+        "dokumentoId": "bc536812afcb11f092fda1fd0c194cc5",
+        "dokNr": "XV-477",
+        "date": "2025-10-23",
+        "title": "Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3 ir 54 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.6EA8AC8A483B",
+    "parentDokNr": "IX-2152",
+    "parentTitle": "Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas",
+    "amendments": [
+      {
+        "tarId": "TAR.4E982B5256FF",
+        "dokumentoId": "4e982b5256ff11f0a3d380837a821750",
+        "dokNr": "XV-389",
+        "date": "2025-07-02",
+        "title": "Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymo Nr. IX-2152 4 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.F707D11C62FE",
+    "parentDokNr": "IX-2160",
+    "parentTitle": "Lietuvos Respublikos tarptautinių sankcijų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.483E21523581",
+        "dokumentoId": "483e2152358111f08fdabd4950271e2c",
+        "dokNr": "XV-203",
+        "date": "2025-05-20",
+        "title": "Lietuvos Respublikos tarptautinių sankcijų įstatymo Nr. IX-2160 2 ir 13 straipsnių bei priedo pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.42837E5A79DD",
+    "parentDokNr": "IX-2206",
+    "parentTitle": "Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties",
+    "amendments": [
+      {
+        "tarId": "TAR.5C884900DFDC",
+        "dokumentoId": "5c884900dfdc11f08918e1adc7c5b1ec",
+        "dokNr": "XV-671",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 32 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.3E147F656BC4",
+    "parentDokNr": "IX-2257",
+    "parentTitle": "Lietuvos Respublikos profesionaliojo scenos meno įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.E025A842D0F3",
+        "dokumentoId": "e025a842d0f311f08918e1adc7c5b1ec",
+        "dokNr": "XV-573",
+        "date": "2025-12-04",
+        "title": "Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 2, 4, 10 straipsnių ir IV skyriaus pavadinimo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.11BAD851321B",
+    "parentDokNr": "IX-2389",
+    "parentTitle": "Lietuvos Respublikos mėgėjų žvejybos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.CF765172D0F8",
+        "dokumentoId": "cf765172d0f811f08918e1adc7c5b1ec",
+        "dokNr": "XV-626",
+        "date": "2025-12-04",
+        "title": "Lietuvos Respublikos mėgėjų žvejybos įstatymo Nr. IX-2389 12 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.E5509883EBB4",
+    "parentDokNr": "IX-325",
+    "parentTitle": "Lietuvos Respublikos azartinių lošimų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.ABE4D6F0C9FF",
+        "dokumentoId": "abe4d6f0c9ff11f08918e1adc7c5b1ec",
+        "dokNr": "XV-517",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 6, 7-1, 7-3, 10, 10-4, 16, 28 straipsnių pakeitimo ir Įstatymo papildymo 9-1, 15-3 straipsniais įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.369CF9E97755",
+    "parentDokNr": "IX-413",
+    "parentTitle": "Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.A1298F22E55D",
+        "dokumentoId": "a1298f22e55d11f08918e1adc7c5b1ec",
+        "dokNr": "XV-697",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.C828E20E430B",
+    "parentDokNr": "IX-752",
+    "parentTitle": "Lietuvos Respublikos kino įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.A20A74F2D0F3",
+        "dokumentoId": "a20a74f2d0f311f08918e1adc7c5b1ec",
+        "dokNr": "XV-572",
+        "date": "2025-12-04",
+        "title": "Lietuvos Respublikos kino įstatymo Nr. IX-752 4, 6, 7, 10, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.DD80CF948782",
+    "parentDokNr": "IX-886",
+    "parentTitle": "Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.606B1320D1D3",
+        "dokumentoId": "606b1320d1d311f08918e1adc7c5b1ec",
+        "dokNr": "XV-604",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 21, 26 ir 43 straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.A92E17FDCD13",
+    "parentDokNr": "IX-966",
+    "parentTitle": "Lietuvos Respublikos medžioklės įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.E2E0DF905700",
+        "dokumentoId": "e2e0df90570011f0a3d380837a821750",
+        "dokNr": "XV-395",
+        "date": "2025-07-02",
+        "title": "Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 18 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.7083DB116A2E",
+    "parentDokNr": "VIII-1019",
+    "parentTitle": "Lietuvos Respublikos radiacinės saugos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.06185282D1D2",
+        "dokumentoId": "06185282d1d211f08918e1adc7c5b1ec",
+        "dokNr": "XV-598",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 5 straipsnio pakeitimo ir Įstatymo papildymo 5-1 straipsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.67B5099C5848",
+    "parentDokNr": "VIII-1029",
+    "parentTitle": "Lietuvos Respublikos administracinių bylų teisenos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.417E46F04DA6",
+        "dokumentoId": "417e46f04da611f0b070ee7f1ceefc75",
+        "dokNr": "XV-292",
+        "date": "2025-06-20",
+        "title": "Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 156 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.769B541DD7F7",
+    "parentDokNr": "VIII-1159",
+    "parentTitle": "Lietuvos Respublikos ūkininko ūkio įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.87F42E329EA3",
+        "dokumentoId": "87f42e329ea311f0a34db2fbd35a03b2",
+        "dokNr": "XV-422",
+        "date": "2025-10-01",
+        "title": "Lietuvos Respublikos ūkininko ūkio įstatymo Nr. VIII-1159 pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.951DF53F837F",
+    "parentDokNr": "VIII-1190",
+    "parentTitle": "Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.63EAC0A24DD4",
+        "dokumentoId": "63eac0a24dd411f0b070ee7f1ceefc75",
+        "dokNr": "XV-290",
+        "date": "2025-06-20",
+        "title": "Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 7, 14, 21 straipsnių pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.D3ED3792F52B",
+    "parentDokNr": "VIII-1316",
+    "parentTitle": "Lietuvos Respublikos valstybės tarnybos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.DC8FE300E55A",
+        "dokumentoId": "dc8fe300e55a11f08918e1adc7c5b1ec",
+        "dokNr": "XV-690",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1 ir 2 priedų pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.58146A37675A",
+    "parentDokNr": "VIII-1328",
+    "parentTitle": "Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.1786B9F2D1D5",
+        "dokumentoId": "1786b9f2d1d511f08918e1adc7c5b1ec",
+        "dokNr": "XV-613",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 6-1 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.F4CA26A706AF",
+    "parentDokNr": "VIII-1443",
+    "parentTitle": "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.A9DBFB42E561",
+        "dokumentoId": "a9dbfb42e56111f08918e1adc7c5b1ec",
+        "dokNr": "XV-703",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.FA13E28615F6",
+    "parentDokNr": "VIII-1524",
+    "parentTitle": "Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.FACB8422CC35",
+        "dokumentoId": "facb8422cc3511f08918e1adc7c5b1ec",
+        "dokNr": "XV-564",
+        "date": "2025-11-28",
+        "title": "Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymo Nr. VIII-1524 2, 3, 10, 14 ir 17 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.890D3838A27D",
+    "parentDokNr": "VIII-157",
+    "parentTitle": "Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.54D12C92D1D1",
+        "dokumentoId": "54d12c92d1d111f08918e1adc7c5b1ec",
+        "dokNr": "XV-595",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 15-1 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.EAA93A47BAA1",
+    "parentDokNr": "VIII-1591",
+    "parentTitle": "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.70BA95B2E561",
+        "dokumentoId": "70ba95b2e56111f08918e1adc7c5b1ec",
+        "dokNr": "XV-702",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 12 straipsnio ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.033D686E8F1B",
+    "parentDokNr": "VIII-1605",
+    "parentTitle": "Lietuvos Respublikos transporto lengvatų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.DC1730D2DFD9",
+        "dokumentoId": "dc1730d2dfd911f08918e1adc7c5b1ec",
+        "dokNr": "XV-660",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos viešojo keleivinio transporto lengvatų įstatymo Nr. VIII-1605 3, 6, 7 ir 9 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.5B55C0654B4A",
+    "parentDokNr": "VIII-1610",
+    "parentTitle": "Lietuvos Respublikos pašarų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.B8400A129EB1",
+        "dokumentoId": "b8400a129eb111f0a34db2fbd35a03b2",
+        "dokNr": "XV-432",
+        "date": "2025-10-01",
+        "title": "Lietuvos Respublikos pašarų įstatymo Nr. VIII-1610 1, 3, 4, 5, 9 straipsnių ir III skyriaus pavadinimo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.6CADC13B548B",
+    "parentDokNr": "VIII-1621",
+    "parentTitle": "Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.34E9F3009EB2",
+        "dokumentoId": "34e9f3009eb211f0a34db2fbd35a03b2",
+        "dokNr": "XV-434",
+        "date": "2025-10-01",
+        "title": "Lietuvos Respublikos karinės jėgos naudojimo statuto 2 ir 10 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.0F8C601D8592",
+    "parentDokNr": "VIII-1666",
+    "parentTitle": "Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.EF35E3024C31",
+        "dokumentoId": "ef35e3024c3111f0b070ee7f1ceefc75",
+        "dokNr": "XV-250",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 2, 4 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.29EEB33AFCD0",
+    "parentDokNr": "VIII-1682",
+    "parentTitle": "Lietuvos Respublikos centrinių kredito unijų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.293A3E1255C0",
+        "dokumentoId": "293a3e1255c011f0b070ee7f1ceefc75",
+        "dokNr": "XV-296",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 2, 19, 21, 41, 44, 51, 55 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.E22116F1B0E0",
+    "parentDokNr": "VIII-1835",
+    "parentTitle": "Lietuvos Respublikos akcinių bendrovių įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.E2C4373056FD",
+        "dokumentoId": "e2c4373056fd11f0a3d380837a821750",
+        "dokNr": "XV-386",
+        "date": "2025-07-02",
+        "title": "Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 15, 17, 19, 20, 24, 26, 26-1, 26-2, 28, 31, 32, 33, 34, 38, 39, 42, 45-1, 45-2, 46-1, 49, 51, 52, 53-1, 54, 55, 56, 57, 58, 59, 60, 60-1, 74, 76, 77 ir 78 straipsnių pakeitimo ir Įstatymo papildymo 42-1 straipsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.7E60B29052C0",
+    "parentDokNr": "VIII-1904",
+    "parentTitle": "Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.BDBCB4B2CF8B",
+        "dokumentoId": "bdbcb4b2cf8b11f08918e1adc7c5b1ec",
+        "dokNr": "XV-592",
+        "date": "2025-12-02",
+        "title": "Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymo Nr. VIII-1904 priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.0C5C33AA865C",
+    "parentDokNr": "VIII-1973",
+    "parentTitle": "Lietuvos Respublikos gamtinių dujų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.31D1C3D04C2F",
+        "dokumentoId": "31d1c3d04c2f11f0b070ee7f1ceefc75",
+        "dokNr": "XV-240",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 7, 9, 31, 37-1 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.B494EC0B78B0",
+    "parentDokNr": "VIII-1981",
+    "parentTitle": "Lietuvos Respublikos prekių ženklų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.B9C64FB0AE7A",
+        "dokumentoId": "b9c64fb0ae7a11f092fda1fd0c194cc5",
+        "dokNr": "XV-494",
+        "date": "2025-10-21",
+        "title": "Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 26, 27, 28, 29, 34, 38, 47, 48, 50, 63, 64, 67 ir 68 straipsnių pakeitimo ir 49 straipsnio pripažinimo netekusiu galios įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.0F470A65DFCA",
+    "parentDokNr": "VIII-2025",
+    "parentTitle": "Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.60E8F4709303",
+        "dokumentoId": "60e8f470930311f0a8bbd1e98310677d",
+        "dokNr": "XV-416",
+        "date": "2025-09-16",
+        "title": "Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 4 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.5DC1759E42CB",
+    "parentDokNr": "VIII-2043",
+    "parentTitle": "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.D3B6F2F2EAC3",
+        "dokumentoId": "d3b6f2f2eac311f09cfce49e7aeb76fe",
+        "dokNr": "XV-715",
+        "date": "2026-01-06",
+        "title": "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 22 ir 23 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.4C6BD6562C91",
+    "parentDokNr": "VIII-209",
+    "parentTitle": "Lietuvos Respublikos valstybės gynimo tarybos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.9F95FFF2EAC5",
+        "dokumentoId": "9f95fff2eac511f09cfce49e7aeb76fe",
+        "dokNr": "XV-741",
+        "date": "2026-01-06",
+        "title": "Lietuvos Respublikos valstybės gynimo tarybos įstatymo Nr. VIII-209 4 ir 5 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.C44837068B55",
+    "parentDokNr": "VIII-275",
+    "parentTitle": "Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.435AF85255CC",
+        "dokumentoId": "435af85255cc11f0b070ee7f1ceefc75",
+        "dokNr": "XV-326",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 5, 6, 7, 8, 9, 10, 15, 22, 23, 26, 27, 28, 29, 39, 40, 42 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.D570962773F8",
+    "parentDokNr": "VIII-397",
+    "parentTitle": "Lietuvos Respublikos atmintinų dienų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.6794AF12CA05",
+        "dokumentoId": "6794af12ca0511f08918e1adc7c5b1ec",
+        "dokNr": "XV-539",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.7055451E838B",
+    "parentDokNr": "VIII-480",
+    "parentTitle": "Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.86C2AAF0CA04",
+        "dokumentoId": "86c2aaf0ca0411f08918e1adc7c5b1ec",
+        "dokNr": "XV-534",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymo Nr. VIII-480 2, 4, 5, 6, 7, 10, 11, 13, 14 ir 22 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.08F2F39FF20B",
+    "parentDokNr": "VIII-498",
+    "parentTitle": "Lietuvos Respublikos laukinės gyvūnijos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.47BC6C405701",
+        "dokumentoId": "47bc6c40570111f0a3d380837a821750",
+        "dokNr": "XV-396",
+        "date": "2025-07-02",
+        "title": "Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 35 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.8DDDD8D87491",
+    "parentDokNr": "VIII-500",
+    "parentTitle": "Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.84A35F109EAF",
+        "dokumentoId": "84a35f109eaf11f0a34db2fbd35a03b2",
+        "dokNr": "XV-425",
+        "date": "2025-10-01",
+        "title": "Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 2, 7, 10 straipsnių ir antrojo skirsnio pavadinimo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.F0E2E67B1F2F",
+    "parentDokNr": "VIII-667",
+    "parentTitle": "Lietuvos Respublikos turizmo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.4EF43C4255C6",
+        "dokumentoId": "4ef43c4255c611f0b070ee7f1ceefc75",
+        "dokNr": "XV-329",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 5, 6, 7, 10, 11, 12, 14, 15, 19, 21, 24, 28, 30, 30-1, 31, 33, 35, 36, 40, 41 ir 43 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.AF66A99A0A20",
+    "parentDokNr": "VIII-791",
+    "parentTitle": "Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.FB19A392AE7A",
+        "dokumentoId": "fb19a392ae7a11f092fda1fd0c194cc5",
+        "dokNr": "XV-495",
+        "date": "2025-10-21",
+        "title": "Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymo Nr. VIII-791 13, 16 ir 17 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.5BA7CEA07B90",
+    "parentDokNr": "VIII-870",
+    "parentTitle": "Lietuvos Respublikos atitikties vertinimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.34499BB29EAF",
+        "dokumentoId": "34499bb29eaf11f0a34db2fbd35a03b2",
+        "dokNr": "XV-424",
+        "date": "2025-10-01",
+        "title": "Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 6, 15, 17, 18 straipsnių ir III skyriaus pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.640D50DB8877",
+    "parentDokNr": "VIII-935",
+    "parentTitle": "Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.B3DF7EB04AB5",
+        "dokumentoId": "b3df7eb04ab511f0b070ee7f1ceefc75",
+        "dokNr": "XV-245",
+        "date": "2025-06-16",
+        "title": "Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 2 ir 3 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.746227138BCB",
+    "parentDokNr": "VIII-947",
+    "parentTitle": "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.C7267B02E569",
+        "dokumentoId": "c7267b02e56911f08918e1adc7c5b1ec",
+        "dokNr": "XV-729",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo Nr. VIII-947 4 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.EC01522BCE65",
+    "parentDokNr": "VIII-950",
+    "parentTitle": "Lietuvos Respublikos Seimo kontrolierių įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.05DBDE9057E8",
+        "dokumentoId": "05dbde9057e811f0a3d380837a821750",
+        "dokNr": "XV-392",
+        "date": "2025-07-03",
+        "title": "Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 2, 7, 12, 13, 24 ir 28 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.AB7AFE2F35B2",
+    "parentDokNr": "X-1024",
+    "parentTitle": "Lietuvos Respublikos finansinių priemonių rinkų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.9A62717055C0",
+        "dokumentoId": "9a62717055c011f0b070ee7f1ceefc75",
+        "dokNr": "XV-298",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 3, 15-4, 16, 18, 21, 49, 62, 70, 93, 112 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.2DD07D41B8F1",
+    "parentDokNr": "X-1316",
+    "parentTitle": "Lietuvos Respublikos fiskalinės valdysenos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.FFA20802E587",
+        "dokumentoId": "ffa20802e58711f08918e1adc7c5b1ec",
+        "dokNr": "XV-756",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos fiskalinės drausmės įstatymo Nr. X-1316 pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.D64349B259B7",
+    "parentDokNr": "X-1334",
+    "parentTitle": "Lietuvos Respublikos dainų švenčių tradicijos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.A58E420055C4",
+        "dokumentoId": "a58e420055c411f0b070ee7f1ceefc75",
+        "dokNr": "XV-320",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos dainų švenčių tradicijos įstatymo Nr. X-1334 4 ir 16 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.55FFE350795A",
+    "parentDokNr": "X-1409",
+    "parentTitle": "Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.F3CA16A0CE92",
+        "dokumentoId": "f3ca16a0ce9211f08918e1adc7c5b1ec",
+        "dokNr": "XV-577",
+        "date": "2025-12-01",
+        "title": "Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 2, 5, 6 ir 7 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.074B2F6259F9",
+    "parentDokNr": "X-1478",
+    "parentTitle": "Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.4EDA9962AFD1",
+        "dokumentoId": "4eda9962afd111f092fda1fd0c194cc5",
+        "dokNr": "XV-496",
+        "date": "2025-10-23",
+        "title": "Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 11, 29, 32, 42, 61 straipsnių, 3 ir 6 priedų pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.789C6EE505FD",
+    "parentDokNr": "X-1666",
+    "parentTitle": "Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.019CF46055CF",
+        "dokumentoId": "019cf46055cf11f0b070ee7f1ceefc75",
+        "dokNr": "XV-365",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 18 ir 29 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.821DEBBBD657",
+    "parentDokNr": "X-1710",
+    "parentTitle": "Lietuvos Respublikos socialinės apsaugos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.6A503D40D695",
+        "dokumentoId": "6a503d40d69511f08918e1adc7c5b1ec",
+        "dokNr": "XV-641",
+        "date": "2025-12-11",
+        "title": "Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo Nr. X-1710 pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.103565D95E60",
+    "parentDokNr": "X-745",
+    "parentTitle": "Lietuvos Respublikos profesinių pensijų kaupimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.DB9109D255C1",
+        "dokumentoId": "db9109d255c111f0b070ee7f1ceefc75",
+        "dokNr": "XV-304",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 2, 7, 15, 63 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.991FE146EBE7",
+    "parentDokNr": "X-987",
+    "parentTitle": "Lietuvos Respublikos vaikų išlaikymo išmokų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.A7974F10D9B3",
+        "dokumentoId": "a7974f10d9b311f08918e1adc7c5b1ec",
+        "dokNr": "XV-646",
+        "date": "2025-12-15",
+        "title": "Lietuvos Respublikos vaikų išlaikymo išmokų įstatymo Nr. X-987 1, 2, 4, 6 ir 8 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.E14E65020CCC",
+    "parentDokNr": "XI-1425",
+    "parentTitle": "Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.00E69192E56A",
+        "dokumentoId": "00e69192e56a11f08918e1adc7c5b1ec",
+        "dokNr": "XV-730",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 4 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.E838D0C06065",
+    "parentDokNr": "XI-1491",
+    "parentTitle": "Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.913331E2DFED",
+        "dokumentoId": "913331e2dfed11f08918e1adc7c5b1ec",
+        "dokNr": "XV-684",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 1 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.424F7C72601E",
+    "parentDokNr": "XI-1539",
+    "parentTitle": "Lietuvos Respublikos branduolinės saugos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.B5016B604DD4",
+        "dokumentoId": "b5016b604dd411f0b070ee7f1ceefc75",
+        "dokNr": "XV-291",
+        "date": "2025-06-20",
+        "title": "Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 32 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.85C510BA700A",
+    "parentDokNr": "XI-1807",
+    "parentTitle": "Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.3730CA12CC36",
+        "dokumentoId": "3730ca12cc3611f08918e1adc7c5b1ec",
+        "dokNr": "XV-565",
+        "date": "2025-11-28",
+        "title": "Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 4, 6, 10, 11, 12, 17, 23, 24, 25, 26, 27, 28, 29, 34, 43, 45 ir 46 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.40DFB5151B33",
+    "parentDokNr": "XI-1868",
+    "parentTitle": "Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.1C82408055C2",
+        "dokumentoId": "1c82408055c211f0b070ee7f1ceefc75",
+        "dokNr": "XV-305",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 2, 13, 26, 28, 40 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.A516DE6B7EC2",
+    "parentDokNr": "XI-2023",
+    "parentTitle": "Lietuvos Respublikos energijos išteklių rinkos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.EF7DD612DFED",
+        "dokumentoId": "ef7dd612dfed11f08918e1adc7c5b1ec",
+        "dokNr": "XV-686",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 8, 9, 10, 19-1, 28 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.8E6142CD3156",
+    "parentDokNr": "XI-2411",
+    "parentTitle": "Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.B0D1EE1255CD",
+        "dokumentoId": "b0d1ee1255cd11f0b070ee7f1ceefc75",
+        "dokNr": "XV-360",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo Nr. XI-2411 2 ir 4 straipsnių pakeitimo įstatymo Nr. XIV-3123 1 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.B77E00EAEBEB",
+    "parentDokNr": "XI-329",
+    "parentTitle": "Lietuvos Respublikos klimato kaitos valdymo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.7D3B9910D0F8",
+        "dokumentoId": "7d3b9910d0f811f08918e1adc7c5b1ec",
+        "dokNr": "XV-625",
+        "date": "2025-12-04",
+        "title": "Lietuvos Respublikos klimato kaitos valdymo įstatymo Nr. XI-329 10, 12, 14, 18, 19, 20 straipsnių ir 1, 3 priedų pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.EBB4FD337ADE",
+    "parentDokNr": "XI-393",
+    "parentTitle": "Lietuvos Respublikos finansinio tvarumo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.CF794B4055C0",
+        "dokumentoId": "cf794b4055c011f0b070ee7f1ceefc75",
+        "dokNr": "XV-299",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 2, 13, 99 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.4A05AB3730DD",
+    "parentDokNr": "XI-549",
+    "parentTitle": "Lietuvos Respublikos mokėjimo įstaigų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.A63314E055C1",
+        "dokumentoId": "a63314e055c111f0b070ee7f1ceefc75",
+        "dokNr": "XV-303",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 2, 5, 6, 19, 22, 34 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.28F4561D519F",
+    "parentDokNr": "XI-570",
+    "parentTitle": "Lietuvos Respublikos paslaugų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.9ACF45B2A26F",
+        "dokumentoId": "9acf45b2a26f11f0a34db2fbd35a03b2",
+        "dokNr": "XV-442",
+        "date": "2025-10-06",
+        "title": "Lietuvos Respublikos paslaugų įstatymo Nr. XI-570 pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.00D176C81058",
+    "parentDokNr": "XI-681",
+    "parentTitle": "Lietuvos Respublikos šeimynų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.E0573993DFDB",
+        "dokumentoId": "e0573993dfdb11f08918e1adc7c5b1ec",
+        "dokNr": "XV-669",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 4, 5 ir 17 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.E944EE006001",
+    "parentDokNr": "XII-1215",
+    "parentTitle": "Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.4D8221B23BC7",
+        "dokumentoId": "4d8221b23bc711f0b070ee7f1ceefc75",
+        "dokNr": "XV-221",
+        "date": "2025-05-28",
+        "title": "Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 12 ir 13 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.34CC90406EF2",
+    "parentDokNr": "XII-1289",
+    "parentTitle": "Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinis įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.CB7280F2E587",
+        "dokumentoId": "cb7280f2e58711f08918e1adc7c5b1ec",
+        "dokNr": "XV-755",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo Nr. XII-1289 pakeitimo konstitucinis įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.E68DA8609034",
+    "parentDokNr": "XII-1467",
+    "parentTitle": "Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.9FBF634055BF",
+        "dokumentoId": "9fbf634055bf11f0b070ee7f1ceefc75",
+        "dokNr": "XV-294",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo Nr. XII-1467 3, 4, 13, 22, 23, 28, 56, 61 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.422C8B5042B8",
+    "parentDokNr": "XII-2470",
+    "parentTitle": "Lietuvos Respublikos užimtumo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.A2D35E523BC6",
+        "dokumentoId": "a2d35e523bc611f0b070ee7f1ceefc75",
+        "dokNr": "XV-219",
+        "date": "2025-05-28",
+        "title": "Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 1, 12, 16, 20, 22, 24, 28, 29, 30, 31, 36, 37, 38, 39-1, 40, 44, 46, 47, 48, 48-1 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 39-2, 39-3 ir 48-2 straipsniais įstatymo Nr. XIV-1106 25 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.398A02704A6F",
+    "parentDokNr": "XII-2507",
+    "parentTitle": "Lietuvos Respublikos tikslinių kompensacijų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.DF88FDA2D0F4",
+        "dokumentoId": "df88fda2d0f411f08918e1adc7c5b1ec",
+        "dokNr": "XV-588",
+        "date": "2025-12-04",
+        "title": "Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 1 ir 15 straipsnių pakeitimo ir Įstatymo papildymo nauju V skyriumi įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.613244607E70",
+    "parentDokNr": "XII-2604",
+    "parentTitle": "Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.A5A5A042D0F7",
+        "dokumentoId": "a5a5a042d0f711f08918e1adc7c5b1ec",
+        "dokNr": "XV-593",
+        "date": "2025-12-04",
+        "title": "Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 9, 10 ir 11 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.946DA260A67B",
+    "parentDokNr": "XII-2702",
+    "parentTitle": "Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.5A4E41924C2E",
+        "dokumentoId": "5a4e41924c2e11f0b070ee7f1ceefc75",
+        "dokNr": "XV-237",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymo Nr. XII-2702 pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.1EABAD7265D5",
+    "parentDokNr": "XII-376",
+    "parentTitle": "Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.04F9954455C1",
+        "dokumentoId": "04f9954455c111f0b070ee7f1ceefc75",
+        "dokNr": "XV-300",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 2, 13 ir 51 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.5756AB4F657E",
+    "parentDokNr": "XII-459",
+    "parentTitle": "Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.34F9AFE0DFEC",
+        "dokumentoId": "34f9afe0dfec11f08918e1adc7c5b1ec",
+        "dokNr": "XV-677",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatymo Nr. XII-459 24 ir 31 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.D1E6BE907476",
+    "parentDokNr": "XII-717",
+    "parentTitle": "Lietuvos Respublikos nevyriausybinių organizacijų plėtros ĮSTATYMAS",
+    "amendments": [
+      {
+        "tarId": "TAR.3E15C35055C4",
+        "dokumentoId": "3e15c35055c411f0b070ee7f1ceefc75",
+        "dokNr": "XV-318",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo Nr. XII-717 8 ir 10 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.473B1F30BB33",
+    "parentDokNr": "XII-791",
+    "parentTitle": "Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.CBCB5092CA02",
+        "dokumentoId": "cbcb5092ca0211f08918e1adc7c5b1ec",
+        "dokNr": "XV-526",
+        "date": "2025-11-25",
+        "title": "Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymo Nr. XII-791 4 straipsnio pakeitimo ir Centralizuotai valdomo valstybės turto valdytojo įstatymo Nr. XII-791 pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.2D8B78B0E794",
+    "parentDokNr": "XIII-198",
+    "parentTitle": "Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.29AD93D2DFED",
+        "dokumentoId": "29ad93d2dfed11f08918e1adc7c5b1ec",
+        "dokNr": "XV-682",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 2, 4, 6, 7, 9 straipsnių ir 1, 2 priedų pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.10C22FE02ACF",
+    "parentDokNr": "XIII-2690",
+    "parentTitle": "Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.43AAC93055D0",
+        "dokumentoId": "43aac93055d011f0b070ee7f1ceefc75",
+        "dokNr": "XV-378",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio įstatymo Nr. XIII-2690 2, 4, 5, 6, 7, 8 straipsnių ir 2 priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.64F0EBE02AD6",
+    "parentDokNr": "XIII-2721",
+    "parentTitle": "Lietuvos Respublikos civilinio proceso kodekso 604, 605, 609, 610, 611, 620, 650, 654, 679, 682, 727, 728, 733, 737, 744, 750, 753, 754, 766, 767, 769 ir 778 straipsnių pakeitimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.4F47B9D055CE",
+        "dokumentoId": "4f47b9d055ce11f0b070ee7f1ceefc75",
+        "dokNr": "XV-362",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos civilinio proceso kodekso 604, 605, 609, 610, 611, 620, 650, 654, 679, 682, 727, 728, 733, 737, 744, 750, 753, 754, 766, 767, 769 ir 778 straipsnių pakeitimo įstatymo Nr. XIII-2721 23 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.AB6EF080429B",
+    "parentDokNr": "XIII-2771",
+    "parentTitle": "Lietuvos Respublikos papildomosios ir alternatyviosios sveikatos priežiūros įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.AB8123F2D1D2",
+        "dokumentoId": "ab8123f2d1d211f08918e1adc7c5b1ec",
+        "dokNr": "XV-601",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos papildomosios ir alternatyviosios sveikatos priežiūros įstatymo Nr. XIII-2771 9 ir 15 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.604F4C20C659",
+    "parentDokNr": "XIII-3222",
+    "parentTitle": "Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.E65B0EF2D1D2",
+        "dokumentoId": "e65b0ef2d1d211f08918e1adc7c5b1ec",
+        "dokNr": "XV-602",
+        "date": "2025-12-05",
+        "title": "Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 5 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.9116A35030A0",
+    "parentDokNr": "XIII-328",
+    "parentTitle": "Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.0BB8B1804C30",
+        "dokumentoId": "0bb8b1804c3011f0b070ee7f1ceefc75",
+        "dokNr": "XV-243",
+        "date": "2025-06-18",
+        "title": "Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 8 priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.A92AA040C2BD",
+    "parentDokNr": "XIII-700",
+    "parentTitle": "Lietuvos Respublikos šeimos stiprinimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.3C7717D0E569",
+        "dokumentoId": "3c7717d0e56911f08918e1adc7c5b1ec",
+        "dokNr": "XV-727",
+        "date": "2025-12-30",
+        "title": "Lietuvos Respublikos šeimos stiprinimo įstatymo Nr. XIII-700 7 ir 13 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.2986B360DB36",
+    "parentDokNr": "XIII-804",
+    "parentTitle": "Lietuvos Respublikos pranešėjų apsaugos įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.2C028A703582",
+        "dokumentoId": "2c028a70358211f08fdabd4950271e2c",
+        "dokNr": "XV-207",
+        "date": "2025-05-20",
+        "title": "Lietuvos Respublikos pranešėjų apsaugos įstatymo Nr. XIII-804 3 straipsnio ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.E7C46170C0A0",
+    "parentDokNr": "XIV-1015",
+    "parentTitle": "Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.BEDBE0B255C3",
+        "dokumentoId": "bedbe0b255c311f0b070ee7f1ceefc75",
+        "dokNr": "XV-311",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymo Nr. XIV-1015 1, 3, 7, 10 straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.DF9CE4F0DDA0",
+    "parentDokNr": "XIV-1088",
+    "parentTitle": "Lietuvos Respublikos veterinarinių vaistų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.757DBCE29EB1",
+        "dokumentoId": "757dbce29eb111f0a34db2fbd35a03b2",
+        "dokNr": "XV-431",
+        "date": "2025-10-01",
+        "title": "Lietuvos Respublikos veterinarinių vaistų įstatymo Nr. XIV-1088 2, 3, 5, 6 ir 11 straipsnių pakeitimo ir Įstatymo papildymo 2-1 straipsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.418F26F0082B",
+    "parentDokNr": "XIV-1381",
+    "parentTitle": "Lietuvos Respublikos rinkimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo konstitucinis įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.44451320A44D",
+        "dokumentoId": "44451320a44d11f0a34db2fbd35a03b2",
+        "dokNr": "XV-453",
+        "date": "2025-10-08",
+        "title": "Lietuvos Respublikos rinkimų kodekso 30, 31, 32, 95, 97, 99, 122, 193 ir 196 straipsnių bei priedo pakeitimo ir Kodekso papildymo naujais 194, 195 ir 196 straipsniais konstitucinis įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.8869165081DC",
+    "parentDokNr": "XIV-1633",
+    "parentTitle": "Lietuvos Respublikos gaminių ir paslaugų prieinamumo reikalavimų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.25BE17201ED8",
+        "dokumentoId": "25be17201ed811f1a552c76556910e9c",
+        "dokNr": "XV-760",
+        "date": "2026-03-13",
+        "title": "Lietuvos Respublikos gaminių ir paslaugų prieinamumo reikalavimų įstatymo Nr. XIV-1633 1, 2, 3, 6, 7, 14, 16, 17, 18, 19, 20, 26, 29 straipsnių ir 1 priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.C131E930CECB",
+    "parentDokNr": "XIV-1827",
+    "parentTitle": "Kelių transporto kodekso 8-1, 11, 16, 17-1, 18 straipsnių pakeitimo ir Kodekso papildymo 18-2 straipsniu įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.A03C5090DFD9",
+        "dokumentoId": "a03c5090dfd911f08918e1adc7c5b1ec",
+        "dokNr": "XV-659",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos kelių transporto kodekso 8-1, 11, 16, 17-1, 18, 18-2 straipsnių pakeitimo ir Kodekso papildymo 18-2 straipsniu įstatymo Nr. XIV-1827 pavadinimo, 8 straipsnio pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.9DA27FA0E03E",
+    "parentDokNr": "XIV-1888",
+    "parentTitle": "Lietuvos Respublikos ribojamųjų priemonių dėl karinės agresijos prieš Ukrainą nustatymo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.DC6D7FC255C4",
+        "dokumentoId": "dc6d7fc255c411f0b070ee7f1ceefc75",
+        "dokNr": "XV-323",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos ribojamųjų priemonių dėl karinės agresijos prieš Ukrainą nustatymo įstatymo Nr. XIV-1888 2, 4 straipsnių pakeitimo ir Įstatymo papildymo 3-1, 3-2, 3-3 straipsniais įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.8253C29006C7",
+    "parentDokNr": "XIV-2011",
+    "parentTitle": "Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.EFF0B982D694",
+        "dokumentoId": "eff0b982d69411f08918e1adc7c5b1ec",
+        "dokNr": "XV-640",
+        "date": "2025-12-11",
+        "title": "Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatymo Nr. XIV-2011 pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.57FDC6B0A093",
+    "parentDokNr": "XIV-2317",
+    "parentTitle": "Lietuvos Respublikos civilinio proceso kodekso 82, 108, 145, 192, 590, 593, 596, 601, 602, 609, 610, 611, 614, 624-1, 626, 627, 631, 632, 634, 636, 648, 650, 651, 654, 656, 661, 663, 668, 685, 689, 702, 706, 710, 713, 723, 727, 731, 732, 753, 754, 755 ir 771-1 straipsnių pakeitimo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.9093458055CE",
+        "dokumentoId": "9093458055ce11f0b070ee7f1ceefc75",
+        "dokNr": "XV-363",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos civilinio proceso kodekso 82, 108, 145, 192, 590, 593, 596, 601, 602, 609, 610, 611, 614, 624-1, 626, 627, 631, 632, 634, 636, 648, 650, 651, 654, 656, 661, 663, 668, 685, 689, 702, 706, 710, 713, 723, 727, 731, 732, 753, 754, 755 ir 771-1 straipsnių pakeitimo įstatymo Nr. XIV-2317 43 straipsnio pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.A71C2BF036D5",
+    "parentDokNr": "XIV-2811",
+    "parentTitle": "Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.07D0A5E055C8",
+        "dokumentoId": "07d0a5e055c811f0b070ee7f1ceefc75",
+        "dokNr": "XV-335",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymo Nr. XIV-2811 1, 2, 3, 4, 16, 17, 19, 20, 23, 31, 32, 35, 36, 37, 40, 41 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.D7542830499B",
+    "parentDokNr": "XIV-2879",
+    "parentTitle": "Lietuvos Respublikos kriptoturto rinkų įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.E5EC4B5055C2",
+        "dokumentoId": "e5ec4b5055c211f0b070ee7f1ceefc75",
+        "dokNr": "XV-308",
+        "date": "2025-06-30",
+        "title": "Lietuvos Respublikos kriptoturto rinkų įstatymo Nr. XIV-2879 3, 10, 12, 13, 14, 15 straipsnių ir priedo pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.C52D00A2A675",
+    "parentDokNr": "XIV-3098",
+    "parentTitle": "Lietuvos Respublikos nacionalinio plėtros banko įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.F2D768F0AE77",
+        "dokumentoId": "f2d768f0ae7711f092fda1fd0c194cc5",
+        "dokNr": "XV-485",
+        "date": "2025-10-21",
+        "title": "Lietuvos Respublikos nacionalinio plėtros banko įstatymo Nr. XIV-3098 1, 2, 3, 5, 6, 7, 8, 9, 13, 15 straipsnių ir II skyriaus pakeitimo įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.DF2D3A30D336",
+    "parentDokNr": "XIV-389",
+    "parentTitle": "Lietuvos Respublikos laisvės gynėjo teisinio statuso įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.5A4AAA5256FE",
+        "dokumentoId": "5a4aaa5256fe11f0a3d380837a821750",
+        "dokNr": "XV-387",
+        "date": "2025-07-02",
+        "title": "Lietuvos Respublikos laisvės gynėjo teisinio statuso įstatymo Nr. XIV-389 2, 7, 9 straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas"
+      }
+    ]
+  },
+  {
+    "parentTarId": "TAR.32086E9055CF",
+    "parentDokNr": "XV-372",
+    "parentTitle": "Lietuvos Respublikos Valstybinio kelių fondo įstatymas",
+    "amendments": [
+      {
+        "tarId": "TAR.2EAE5682DFD9",
+        "dokumentoId": "2eae5682dfd911f08918e1adc7c5b1ec",
+        "dokNr": "XV-657",
+        "date": "2025-12-23",
+        "title": "Lietuvos Respublikos valstybinio kelių fondo įstatymo Nr. XV-372 3, 4 ir 6 straipsnių pakeitimo įstatymas"
+      }
+    ]
+  }
+]

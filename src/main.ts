@@ -1,9 +1,12 @@
 import { mkdir } from 'node:fs/promises';
+import { join, dirname } from 'node:path';
 import { fetchDocuments, fetchConsolidatedVersions } from './clients/data-gov';
 import { fetchActHtml } from './clients/e-tar';
 import { htmlToMarkdown } from './parsers/html-to-markdown';
-import { rawToLegalAct, writeActFile } from './generators/markdown';
-import { commitBulkImport, initRepo, processActHistory } from './generators/git';
+import { parseAmendmentAct } from './parsers/amendment-parser';
+import { applyAmendment } from './parsers/amendment-applier';
+import { rawToLegalAct, writeActFile, getActFilePath } from './generators/markdown';
+import { commitAmendment, commitBulkImport, initRepo, processActHistory } from './generators/git';
 import type { LegalAct, ActType, ActStatus, ConsolidatedVersion, SuvestineRaw } from './types';
 
 const INDEX_PATH = 'data/index.json';
@@ -302,7 +305,7 @@ async function cmdBuild(args: CliArgs): Promise<void> {
 // Plain text to markdown formatting
 // ---------------------------------------------------------------------------
 
-const REPO_DIR = 'data/acts';
+const REPO_DIR = process.env.REPO_DIR || '.';
 
 /**
  * Format plain text body from Suvestine `tekstas_lt` into markdown.
@@ -486,6 +489,160 @@ async function cmdBuildSingle(args: CliArgs): Promise<void> {
   console.log(`\nOutput repo: ${REPO_DIR}/`);
 }
 
+// ---------------------------------------------------------------------------
+// consolidate command
+// ---------------------------------------------------------------------------
+
+interface AmendmentMapEntry {
+  parentTarId: string;
+  parentDokNr: string;
+  parentTitle: string;
+  amendments: {
+    tarId: string;
+    dokumentoId: string;
+    dokNr: string;
+    date: string;
+    title: string;
+  }[];
+}
+
+async function cmdConsolidate(args: CliArgs): Promise<void> {
+  const AMENDMENT_MAP_PATH = 'data/amendment-map.json';
+  const delay = Number(args['--delay']) || 500;
+  const limit = args.limit;
+
+  // Step 1: Load amendment map
+  const mapFile = Bun.file(AMENDMENT_MAP_PATH);
+  if (!(await mapFile.exists())) {
+    console.error(`Amendment map not found at ${AMENDMENT_MAP_PATH}.`);
+    process.exit(1);
+  }
+  const amendmentMap: AmendmentMapEntry[] = await mapFile.json();
+
+  // Step 2: Load index to look up parent act metadata
+  const index = await loadIndex();
+  const indexByTarId = new Map(index.map((a) => [a.tarId, a]));
+
+  // Apply limit for testing
+  let entries = amendmentMap;
+  if (limit && limit > 0) {
+    entries = entries.slice(0, limit);
+  }
+
+  console.log(`Consolidating ${entries.length} parent laws with pending amendments...`);
+  console.log(`Rate limit delay: ${delay}ms\n`);
+
+  await initRepo(REPO_DIR);
+
+  let totalAmendments = 0;
+  let appliedAmendments = 0;
+  let failedAmendments = 0;
+  let skippedParents = 0;
+
+  for (let pi = 0; pi < entries.length; pi++) {
+    const entry = entries[pi]!;
+    const act = indexByTarId.get(entry.parentTarId);
+
+    if (!act) {
+      console.log(
+        `[${pi + 1}/${entries.length}] ${entry.parentTitle} -- not in index, skipping`,
+      );
+      skippedParents++;
+      continue;
+    }
+
+    const relativePath = getActFilePath(act);
+    const fullPath = join(REPO_DIR, relativePath);
+
+    // Read current markdown from disk
+    const currentFile = Bun.file(fullPath);
+    if (!(await currentFile.exists())) {
+      console.log(
+        `[${pi + 1}/${entries.length}] ${act.pavadinimas} -- file not found on disk, skipping`,
+      );
+      skippedParents++;
+      continue;
+    }
+
+    let currentText = await currentFile.text();
+    const amendmentCount = entry.amendments.length;
+    totalAmendments += amendmentCount;
+
+    console.log(
+      `[${pi + 1}/${entries.length}] ${act.pavadinimas} (${amendmentCount} amendments)`,
+    );
+
+    // Sort amendments chronologically
+    const sorted = [...entry.amendments].sort((a, b) => a.date.localeCompare(b.date));
+
+    for (let ai = 0; ai < sorted.length; ai++) {
+      const amendment = sorted[ai]!;
+
+      // Rate limit between API calls
+      if (pi > 0 || ai > 0) {
+        await new Promise((r) => setTimeout(r, delay));
+      }
+
+      try {
+        // Fetch amendment act HTML from e-TAR
+        const html = await fetchActHtml(amendment.dokumentoId);
+
+        // Parse amendment operations
+        const { operations } = parseAmendmentAct(html);
+
+        if (operations.length === 0) {
+          console.log(
+            `  [${ai + 1}/${amendmentCount}] ${amendment.dokNr} (${amendment.date}) -- no operations found, skipping`,
+          );
+          failedAmendments++;
+          continue;
+        }
+
+        // Apply amendment operations to current text
+        const newText = applyAmendment(currentText, operations);
+        currentText = newText;
+
+        // Write updated file
+        await mkdir(dirname(fullPath), { recursive: true });
+        await Bun.write(fullPath, currentText);
+
+        // Commit with proper date
+        const version: ConsolidatedVersion = {
+          dokumentoId: amendment.dokumentoId,
+          suvestinesId: amendment.dokumentoId,
+          tekstas: currentText,
+          galiojaNuo: amendment.date,
+          galiojaIki: null,
+        };
+
+        const hash = await commitAmendment(act, fullPath, version, { repoDir: REPO_DIR });
+
+        appliedAmendments++;
+        console.log(
+          `  [${ai + 1}/${amendmentCount}] ${amendment.dokNr} (${amendment.date}) -- applied, ${hash.slice(0, 8)}`,
+        );
+      } catch (err) {
+        failedAmendments++;
+        console.error(
+          `  [${ai + 1}/${amendmentCount}] ${amendment.dokNr} (${amendment.date}) -- FAILED: ${err instanceof Error ? err.message : err}`,
+        );
+      }
+    }
+  }
+
+  // Summary
+  console.log(`\n--- Consolidation summary ---`);
+  console.log(`Parent laws processed: ${entries.length - skippedParents}`);
+  console.log(`Parent laws skipped: ${skippedParents}`);
+  console.log(`Total amendments: ${totalAmendments}`);
+  console.log(`Applied: ${appliedAmendments}`);
+  console.log(`Failed/skipped: ${failedAmendments}`);
+}
+
+// ---------------------------------------------------------------------------
+// stats command
+// ---------------------------------------------------------------------------
+
 async function cmdStats(): Promise<void> {
   const index = await loadIndex();
 
@@ -537,12 +694,14 @@ Commands:
   build [options]                    Full pipeline: fetch + convert + commit
   build-history [options]            Build full git history from consolidated versions
   build-single <tar-id>             Build git history for a single act
+  consolidate [options]              Apply amendments from gap period (post-Suvestine)
   stats                              Show statistics about fetched data
 
 Options:
   --type <type>                      Filter by act type (e.g., istatymas, kodeksas)
   --status <status>                  Filter by status (e.g., galioja, negalioja)
-  --limit <n>                        Limit number of acts to process
+  --limit <n>                        Limit number of parent laws to process
+  --delay <ms>                       Delay between API calls in ms (default: 500)
 `);
 }
 
@@ -570,6 +729,9 @@ switch (args.command) {
     break;
   case 'build-single':
     await cmdBuildSingle(args);
+    break;
+  case 'consolidate':
+    await cmdConsolidate(args);
     break;
   case 'stats':
     await cmdStats();
