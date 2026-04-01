@@ -271,7 +271,9 @@ Vilnius
 #### 29 straipsnis. Asmens duomenų apsauga ir dokumentų saugojimas
 1. Šiame įstatyme nurodytų asmens duomenų tvarkymo tikslai – tvarkyti fizinių asmenų asmens duomenis, kad būtų užtikrintas gaminių ir paslaugų, nurodytų šio įstatymo 2 straipsnyje, prieinamumo reikalavimų laikymasis ir šių gaminių ir paslaugų rinkos priežiūra, siekiant laisvo gaminių ir paslaugų judėjimo Europos ekonominėje erdvėje. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) bei kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą ir tvarkymą, nuostatomis.
 2. Dokumentai saugomi Lietuvos Respublikos dokumentų ir archyvų įstatyme nustatyta tvarka.
-3. Duomenų subjektų teisės įgyvendinamos duomenų valdytojo, į kurį kreipiamasi dėl duomenų subjekto teisių įgyvendinimo, nustatyta tvarka, vadovaujantis Reglamentu (ES) 2016/679.#### 30 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
+3. Duomenų subjektų teisės įgyvendinamos duomenų valdytojo, į kurį kreipiamasi dėl duomenų subjekto teisių įgyvendinimo, nustatyta tvarka, vadovaujantis Reglamentu (ES) 2016/679.
+
+#### 30 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2025 m. birželio 28 d.
 2. Vyriausybė, jos įgaliotos institucijos, rinkos priežiūros institucijos, socialinės apsaugos ir darbo ministro įgaliota institucija iki 2022 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
 3. Paslaugų teikėjai iki 2030 m. birželio 28 d. turi teisę toliau teikti paslaugas, naudodami gaminius, kuriuos jie teisėtai naudojo iki įsigaliojant šiam įstatymui, teikdami panašaus pobūdžio paslaugas. Paslaugų teikimo sutartys, sudaromos iki 2025 m. birželio 28 d., galioja be pakeitimų iki jų galiojimo pabaigos, tačiau ne ilgiau kaip iki 2030 m. birželio 28 d.
@@ -416,10 +418,13 @@ GAMINIŲ IR PASLAUGŲ SAVYBIŲ, ELEMENTŲ ARBA FUNKCIJŲ PRIEINAMUMO REIKALAVIMA
 17.10. naudojimasis turint ribotus pažinimo gebėjimus – gaminiu arba paslauga užtikrinamas bent vienas veikimo režimas, apimantis savybes, dėl kurių naudoti gaminį būtų lengviau ir paprasčiau;
 17.11. naudojimasis išsaugant privatumą – kai gaminys arba paslauga pasižymi savybėmis, kuriomis suteikiamas prieinamumas, užtikrinamas bent vienas veikimo režimas, kuriuo išlaikomas privatumas tuo metu, kai naudojamasi tomis savybėmis, kuriomis suteikiamas prieinamumas.
 
-## VII SKYRIUS
+## VII^1 SKYRIUS
 TAM TIKRI PRIEINAMUMO REIKALAVIMAI, SUSIJĘ SU BENDROJO PAGALBOS CENTRO ATSAKYMŲ Į PAGALBOS PRANEŠIMUS, KURIE GAUNAMI SKUBIOSIOS PAGALBOS TARNYBŲ RYŠIO NUMERIU 112
-18. Siekiant užtikrinti, kad skubiosios pagalbos tarnybų ryšio numeriu 112 pagal numatytą jo paskirtį galėtų naudotis kuo daugiau asmenų su negalia, Bendrojo pagalbos centro atsakymai į pagalbos prašymus užtikrinami įtraukiant funkcijas, praktiką, politiką ir procedūras bei pakeitimus, skirtus tam, kad būtų atsižvelgiama į asmenų su negalia poreikius.
-19. Į pagalbos prašymus skubiosios pagalbos tarnybų ryšio numeriu 112 Bendrasis pagalbos centras turi tinkamai atsakyti tokiu būdu, kuris yra tinkamiausias nacionaliniam skubiosios pagalbos sistemų organizavimui, naudojant tas pačias ryšio priemones, kuriomis gautas pranešimas, t. y. naudojant sinchronizuotą balso ir teksto ryšį (įskaitant realiuoju laiku perduodamą tekstą) arba, kai teikiama vaizdo medžiaga, balsą, tekstą (įskaitant realiuoju laiku perduodamą tekstą) ir vaizdo medžiagą, sinchronizuotus kaip įvairiapusį ryšį.
+
+18. Siekiant užtikrinti, kad skubiosios pagalbos tarnybų ryšio numeriu 112 pagal jo paskirtį galėtų naudotis kuo daugiau asmenų su negalia, Bendrojo pagalbos centro atsakymai į pagalbos prašymus užtikrinami įtraukiant funkcijas, praktiką, politiką ir procedūras, taip pat pakeitimus, skirtus tam, kad būtų atsižvelgiama į asmenų su negalia poreikius.
+
+19. Į pagalbos prašymus skubiosios pagalbos tarnybų ryšio numeriu 112 Bendrasis pagalbos centras turi atsakyti tinkamiausiu nacionalinio skubiosios pagalbos sistemų organizavimo būdu: naudodamas tas pačias ryšio priemones, kuriomis gautas pranešimas, t. y. naudodamas sinchronizuotą balso ir teksto ryšį (įskaitant realiuoju laiku perduodamą tekstą) arba, kai teikiama vaizdo medžiaga, balsą, tekstą (įskaitant realiuoju laiku perduodamą tekstą) ir vaizdo medžiagą, sinchronizuotus kaip įvairiapusį ryšį.
+
 ________________
 Lietuvos Respublikos
 gaminių ir paslaugų prieinamumo reikalavimų įstatymo
