@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e58cadd035b811edb4cae1b158f98ea5"
 
 # Lietuvos Respublikos politinių organizacijų įstatymas
 
-Suvestinė redakcija nuo 2024-11-23 iki 2026-03-31
+Suvestinė redakcija nuo 2026-04-01
  
 Įstatymas paskelbtas: TAR 2022-09-16, i. k. 2022-19004
  
@@ -434,15 +434,139 @@ Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
 
 
 
-9. Politinė organizacija privalo kiekvienais metais, ne vėliau kaip iki kovo 1 dienos ir ne vėliau kaip iki spalio 1 dienos Vyriausybės įgaliotos institucijos nustatyta tvarka pateikti Teisingumo ministerijai savo narių sąrašą. Siekiant nustatyti, ar politinės organizacijos nariai atitinka šio įstatymo 5 straipsnio 1, 3, 4 ir 5 dalyse nustatytus reikalavimus, Teisingumo ministerijai teikiamame politinės organizacijos narių sąraše turi būti nurodyta politinės organizacijos nario vardas, pavardė, asmens kodas, gyvenamosios vietos adresas, o jeigu politinės organizacijos narys yra Lietuvos Respublikoje gyvenantis Europos Sąjungos valstybės narės pilietis, – ir pilietybė. Šie duomenys turi būti patvirtinti politinės organizacijos vadovo arba jo įgalioto asmens parašu. Teisingumo ministerija patikrina politinių organizacijų narių sąrašus ir ne vėliau kaip iki kiekvienų metų kovo 10 dienos ir iki spalio 10 dienos praneša Vyriausiajai rinkimų komisijai, ar politinės organizacijos narių skaičius atitinka šio įstatymo reikalavimus.
+9. Neteko galios nuo 2026-04-01
+Straipsnio dalies naikinimas:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
 
 
 
 
-10. Jeigu politinė organizacija šio straipsnio 9 dalyje nustatyta tvarka vienus metus nepateikia savo narių sąrašų, Teisingumo ministerija apie tai praneša Juridinių asmenų registro duomenų tvarkytojui ir šis inicijuoja politinės organizacijos likvidavimą Civilinio kodekso nustatyta tvarka.
+10. Neteko galios nuo 2026-04-01
+Straipsnio dalies naikinimas:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
 
 
 Straipsnio pakeitimai:
+Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
+ 
+
+
+
+
+81 straipsnis. Politinių organizacijų narių registras 
+
+
+1. Politinių organizacijų narių registras – tai Politinių organizacijų narių registro informacinėje sistemoje tvarkomas duomenų apie politinių organizacijų narius rinkinys.
+
+
+
+
+2. Politinių organizacijų narių registro informacinės sistemos objektas – politinių organizacijų nariai. Šioje informacinėje sistemoje tvarkomi šie politinės organizacijos narių duomenys: vardas, pavardė, asmens kodas, deklaruotos gyvenamosios vietos adresas, pilietybė, duomenys apie neveiksnumą politinės veiklos srityje arba civilinio veiksnumo politinės veiklos srityje apribojimą, narystės politinėje organizacijoje pradžios ir pabaigos datos.
+
+
+
+
+3. Politinių organizacijų narių registro informacinės sistemos paskirtis – registruoti šio straipsnio 2 dalyje nurodytus objektus, rinkti, kaupti, apdoroti, sisteminti, saugoti Politinių organizacijų narių registro duomenis ir teikti juos valstybės ir savivaldybių institucijoms ir įstaigoms, kitiems valstybės registrams ir valstybės informacinėms sistemoms, įstatymų nustatytas funkcijas atliekantiems valstybės įgaliotiems asmenims, taip pat fiziniams ir juridiniams asmenims įstatymų ir kitų teisės aktų nustatyta tvarka.
+
+
+
+
+4. Politinių organizacijų narių registro informacinės sistemos, jos duomenų ir šioje informacinėje sistemoje tvarkomų asmens duomenų valdytoja yra Teisingumo ministerija.
+
+
+
+
+5. Politinių organizacijų narių registro informacinės sistemos tvarkytojas ir registro duomenų tvarkytojas paskiriami teisingumo ministro įsakymu, kuriuo tvirtinami Politinių organizacijų narių registro informacinės sistemos nuostatai.
+
+
+
+
+6. Politinių organizacijų narių įregistravimo Politinių organizacijų narių registro informacinėje sistemoje ir išregistravimo iš jos tvarka nustatoma šios informacinės sistemos nuostatuose.
+
+
+
+
+7. Asmuo tampa politinės organizacijos nariu nuo jo duomenų įregistravimo Politinių organizacijų narių registro informacinėje sistemoje dienos. Asmens narystė politinėje organizacijoje pasibaigia jo duomenų išregistravimo iš šios informacinės sistemos dieną.
+
+
+
+
+8. Politinei organizacijai įstatuose nustatyta tvarka priėmus sprendimą priimti asmenį į politinę organizaciją arba gavus politinės organizacijos nario prašymą nutraukti narystę politinėje organizacijoje, politinės organizacijos vadovas arba jo įgaliotas asmuo naujo politinės organizacijos nario arba narystę nutraukusio asmens duomenis Politinių organizacijų narių registro duomenų tvarkytojui pateikia ne vėliau kaip per 5 darbo dienas nuo sprendimo priimti narį į politinę organizaciją priėmimo dienos arba nuo politinės organizacijos nario prašymo nutraukti narystę gavimo dienos. Įsteigta politinė organizacija savo narių sąrašą Politinių organizacijų narių registro duomenų tvarkytojui pateikia ne vėliau kaip per 5 darbo dienas nuo politinės organizacijos įregistravimo Juridinių asmenų registro informacinėje sistemoje dienos.
+
+
+
+
+9. Politinės organizacijos narys narystę politinėje organizacijoje gali nutraukti politinės organizacijos įstatuose nustatyta tvarka arba pateikdamas prašymą Politinių organizacijų narių registro duomenų tvarkytojui. Kai politinės organizacijos vadovas arba jo įgaliotas asmuo per šio straipsnio 8 dalyje nustatytą terminą Politinių organizacijų narių registro duomenų tvarkytojui nepateikia duomenų dėl narystės politinėje organizacijoje nutraukimo, politinės organizacijos narys, Politinių organizacijų narių registro informacinės sistemos nuostatuose nustatyta tvarka gavęs patvirtinimą dėl savo narystės, prašymą nutraukti narystę politinėje organizacijoje gali pateikti Politinių organizacijų narių registro duomenų tvarkytojui šios informacinės sistemos nuostatuose nustatyta tvarka.
+
+
+
+
+10. Politinių organizacijų narių registro duomenų tvarkytojas gali atsisakyti įregistruoti Politinių organizacijų narių registro informacinės sistemos objektą tik šiais atvejais:
+
+
+1) politinės organizacijos vadovas arba jo įgaliotas asmuo pateikė prašymą įregistruoti šios informacinės sistemos objektą arba pakeisti šio objekto duomenis neturėdamas tokios teisės;
+
+
+
+
+2) pateiktas netinkamos formos prašymas;
+
+
+
+
+3) pateiktame prašyme nurodyti ne visi šio straipsnio 2 dalyje nurodyti duomenys arba jie yra netikslūs ar klaidingi;
+
+
+
+
+4) pateikti asmens duomenys įtraukti į kitos politinės organizacijos narių sąrašą;
+
+
+
+
+5) asmuo neatitinka šio įstatymo 5 straipsnyje nustatytų reikalavimų; 
+
+
+
+
+6) asmuo pripažintas neveiksniu politinės veiklos srityje arba apribotas jo veiksnumas dalyvauti politinėje veikloje;
+
+
+
+
+7) inicijuojamas politinės organizacijos likvidavimas arba politinė organizacija turi reorganizuojamos ar likviduojamos organizacijos teisinį statusą.
+
+
+
+
+
+
+11. Atsisakymas įregistruoti Politinių organizacijų narių registro informacinės sistemos objektą, keisti jo duomenis ar išregistruoti šį objektą gali būti skundžiamas teismui įstatymų nustatyta tvarka.
+
+
+
+
+12. Politinių organizacijų narių registro informacinėje sistemoje tvarkomi duomenys turi prima facie galią ir tvarkomi bei saugomi vadovaujantis šiuo įstatymu, Politinių organizacijų narių registro informacinės sistemos nuostatais ir kitais teisės aktais. Bet kokie duomenų pakeitimai įsigalioja tik nuo jų įregistravimo šioje informacinėje sistemoje dienos.
+
+
+
+
+13. Politinių organizacijų narių registro informacinės sistemos objektai įregistruojami Politinių organizacijų narių registro informacinėje sistemoje ir išregistruojami iš šios informacinės sistemos, taip pat registro informacinės sistemos duomenys įrašomi ir keičiami neatlygintinai.
+
+
+
+
+14. Politinių organizacijų narių registro informacinėje sistemoje tvarkomi duomenys, informacija, šiai informacinei sistemai pateikti dokumentai ir (ar) jų kopijos teikiami už atlyginimą, išskyrus Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Europos Sąjungos teisės aktuose ir Politinių organizacijų narių registro informacinės sistemos nuostatuose nustatytas išimtis.
+
+
+
+
+15. Žurnalistai Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis iš Politinių organizacijų narių registro informacinės sistemos turi teisę gauti esamus ir buvusius politinių organizacijų narių duomenis, išskyrus fizinio asmens asmens kodą, deklaruotos gyvenamosios vietos adresą ir duomenis apie fizinio asmens neveiksnumą politinės veiklos srityje arba civilinio veiksnumo apribojimą politinės veiklos srityje. 
+
+
+Papildyta straipsniu:
 Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
  
 
@@ -475,7 +599,7 @@ Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
 
 
 
-5. Jeigu politinėje organizacijoje lieka mažiau narių, negu jai įsteigti reikalaujamas steigėjų skaičius, per 30 dienų nuo šių aplinkybių atsiradimo dienos apie tokį narių skaičiaus sumažėjimą politinė organizacija arba Teisingumo ministerija, šio įstatymo 8 straipsnio 9 dalyje nustatyta tvarka nustačiusi, kad politinės organizacijos narių skaičius neatitinka šio įstatymo reikalavimų, turi pranešti Juridinių asmenų registro duomenų tvarkytojui Juridinių asmenų registro informacinės sistemos nuostatuose nustatyta tvarka. Politinė organizacija likviduojama Civilinio kodekso nustatyta tvarka, jeigu per 6 mėnesius nuo šioje dalyje nurodytų aplinkybių, susijusių su politinės organizacijos narių skaičiaus sumažėjimu, atsiradimo dienos šios politinės organizacijos suvažiavimas (susirinkimas, konferencija) nepriima sprendimo ją reorganizuoti ar pertvarkyti. 
+5. Jeigu politinėje organizacijoje ilgiau kaip 6 mėnesius yra mažiau narių, negu jai įsteigti būtinas steigėjų skaičius, ir šios politinės organizacijos suvažiavimas (susirinkimas, konferencija) per 6 mėnesius nuo šių aplinkybių atsiradimo dienos nepriima sprendimo reorganizuoti, pertvarkyti ar likviduoti politinę organizaciją, Juridinių asmenų registro duomenų tvarkytojas inicijuoja politinės organizacijos likvidavimą Civilinio kodekso 2.70 straipsnyje nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-3145, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20388
  
