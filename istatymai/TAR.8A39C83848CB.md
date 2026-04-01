@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2025-04-17 iki 2026-03-31
+Suvestinė redakcija nuo 2026-04-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -6567,7 +6567,10 @@ Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665
 
 
 
-5) politinė organizacija Politinių organizacijų įstatymo nustatyta tvarka vienerius metus nepateikė savo narių sąrašo;
+5) jeigu politinėje organizacijoje ilgiau kaip šešis mėnesius yra mažiau narių, negu jai įsteigti būtinas steigėjų skaičius, ir šios politinės organizacijos suvažiavimas (susirinkimas, konferencija) per 6 mėnesius nuo šių aplinkybių atsiradimo dienos nepriima sprendimo reorganizuoti, pertvarkyti ar likviduoti politinę organizaciją;
+Straipsnio punkto pakeitimai:
+Nr. XIV-3146, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20389
+ 
 
 
 
