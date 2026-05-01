@@ -119,8 +119,7 @@ II SKYRIUS
 
 2) atitinka bent vieną iš toliau nurodytų sąlygų: 
 
-
-a) ne trumpiau kaip 3 metus iki įsteigdamas šeimyną vykdė vaiko globėjo (rūpintojo) pareigas, į kurias buvo paskirtas savivaldybės mero sprendimu ar teismo nutartimi;
+a) iki įsteigdamas šeimyną ne trumpiau kaip 3 metus vykdė vaiko globėjo (rūpintojo) pareigas;
 Papunkčio pakeitimai:
 Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
  
@@ -161,10 +160,7 @@ c) turi aukštąjį išsilavinimą ir ne trumpesnę kaip vienų metų tiesiogini
 1. Šeimynos steigėjas iki šeimynos įregistravimo Juridinių asmenų registre dienos turi:
 
 
-1) pateikti dokumentus, nurodomus Vyriausybės tvirtinamuose vaiko globos organizavimo nuostatuose (toliau – Vaiko globos organizavimo nuostatai), ir šių nuostatų nustatyta tvarka gauti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba) atestuoto asmens parengtą išvadą, patvirtinančią šeimynos steigėjo atitiktį šio įstatymo 4 straipsnio 1 dalyje nustatytiems reikalavimams; 
-
-
-
+1) pateikti dokumentus, nurodytus Vyriausybės tvirtinamuose vaiko globos organizavimo nuostatuose (toliau – Vaiko globos organizavimo nuostatai), ir šiuose nuostatuose nustatyta tvarka gauti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba) atestuoto asmens parengtą išvadą dėl pasirengimo vykdyti šeimynos veiklą;
 
 2) Šeimynų nuostatuose nustatyta tvarka:
 
@@ -179,10 +175,7 @@ Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
 
 b) gauti kartu su šeimynos steigėju gyvenančių vyresnių kaip 16 metų asmenų rašytinį sutikimą steigti šeimyną; 
 
-
-
-
-c) gauti kartu su šeimynos steigėju gyvenančio vieno ne jaunesnio kaip 21 metų asmens rašytinį sutikimą tapti šeimynos dalyviu, jeigu šis asmuo ketina juo tapti ir turi dokumentus, patvirtinančius jo atitiktį šio įstatymo 4 straipsnio 1 dalies 1 punkte nustatytiems reikalavimams;
+c) gauti kartu su šeimynos steigėju gyvenančio vieno pilnamečio asmens rašytinį sutikimą tapti šeimynos dalyviu, jeigu šis asmuo ketina juo tapti ir Vaiko globos organizavimo nuostatuose nustatyta tvarka turi parengtą išvadą dėl pasirengimo vykdyti šeimynos veiklą;
 
 
 
@@ -218,14 +211,10 @@ c) gauti kartu su šeimynos steigėju gyvenančio vieno ne jaunesnio kaip 21 met
 
 6. Šeimyna tampa likusių be tėvų globos vaikų globėja (rūpintoja) nuo:
 
-
-1) savivaldybės mero sprendimo dėl vaikų laikinosios globos (rūpybos) nustatymo šeimynoje įsigaliojimo dienos; 
+1) Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos sprendimo dėl vaikų laikinosios globos (rūpybos) nustatymo šeimynoje įsigaliojimo dienos; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
- 
-
-
-
+ 
 
 2) teismo nutarties dėl vaikų nuolatinės globos (rūpybos) nustatymo šeimynoje įsiteisėjimo dienos, išskyrus atvejus, kai teismo nutartis ar jos dalis dėl vaiko globos (rūpybos) vykdoma skubiai arba teismas nustato tam tikrą jos vykdymo terminą. 
 
@@ -766,10 +755,7 @@ Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
 
 2. Šeimynos globojamų (rūpinamų) vaikų turtą administruoja šeimyna. Šeimynos globojamų (rūpinamų) vaikų turtas turi būti atskirtas nuo šeimynos turto. Jam taikomas nemokamas paprastasis administravimas. 
 
-
-
-
-3. Šeimynos globojamų (rūpinamų) vaikų turto administratoriumi savivaldybės mero sprendimu ar teismo nutartimi gali būti skiriamas ir kitas asmuo, negu nurodyta šio straipsnio 2 dalyje.
+3. Šeimynos globojamų (rūpinamų) vaikų turto administratoriumi Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos sprendimu ar teismo nutartimi gali būti skiriamas ir kitas asmuo, negu nurodyta šio straipsnio 2 dalyje.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
  
