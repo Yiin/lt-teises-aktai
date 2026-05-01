@@ -2081,11 +2081,11 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 
 
-3. Jeigu nelydimo nepilnamečio užsieniečio atstovu paskiriamas juridinis asmuo, jis ne vėliau kaip kitą darbo dieną nuo savivaldybės mero potvarkio dėl vaiko laikinosios globos (rūpybos) nustatymo priėmimo dienos paskiria atsakingą darbuotoją, kuris vykdo nelydimo nepilnamečio užsieniečio atstovo pareigas.
-TAR pastaba. 3 dalies nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nuostatos.
+3. Jeigu nelydimo nepilnamečio užsieniečio atstovu paskiriamas juridinis asmuo, jis ne vėliau kaip kitą darbo dieną nuo Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos sprendimo dėl vaiko laikinosios globos (rūpybos) nustatymo priėmimo dienos paskiria atsakingą darbuotoją, kuris vykdys nelydimo nepilnamečio užsieniečio atstovo pareigas.
+TAR pastaba. 3 dalies nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties" nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1852, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05756
- 
+ 
 
 
 
@@ -2101,7 +2101,7 @@ Nr. XIV-1852, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05756
 2) mokytis pagal ikimokyklinio, priešmokyklinio, bendrojo ugdymo arba formaliojo profesinio mokymo programą (programas) švietimo, mokslo ir sporto ministro nustatyta tvarka. Teisė mokytis pagal ikimokyklinio, priešmokyklinio, bendrojo ugdymo programą (programas) užtikrinama ne vėliau kaip per 3 mėnesius nuo nelydimo nepilnamečio užsieniečio buvimo Lietuvos Respublikoje nustatymo dienos;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
- 
+ 
 
 
 
@@ -2151,20 +2151,14 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 8. Nelydimi nepilnamečiai užsieniečiai, kurie nėra prieglobsčio prašytojai, apgyvendinami Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos sprendimu. Nelydimų nepilnamečių užsieniečių, kurie nėra prieglobsčio prašytojai, apgyvendinimo, amžiaus nustatymo, šeimos narių ar kitų teisėtų atstovų paieškos, teisinės padėties nustatymo ir kitų su jais susijusių procedūrinių veiksmų atlikimo tvarką nustato socialinės apsaugos ir darbo ministras, vidaus reikalų ministras ir sveikatos apsaugos ministras.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
- 
+ 
 
 
 Straipsnio pakeitimai:
 Nr. X-1442, 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
 Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 Straipsnio pakeitimai:
-Nr. XIV-946, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05124
- 
-
-
-
-
-33 straipsnis. Prašymo išduoti ar pakeisti leidimą gyventi, naujai įforminti leidimą laikinai gyventi nagrinėjimo ir leidimo gyventi išdavimo, pakeitimo arba atsisakymo išduoti ar pakeisti šį leidimą terminai
+Nr. XIV-946, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-0512433 straipsnis. Prašymo išduoti ar pakeisti leidimą gyventi, naujai įforminti leidimą laikinai gyventi nagrinėjimo ir leidimo gyventi išdavimo, pakeitimo arba atsisakymo išduoti ar pakeisti šį leidimą terminai
 
 
 1. Užsieniečio prašymas išduoti ar pakeisti leidimą gyventi turi būti išnagrinėtas ir leidimas gyventi turi būti išduotas, pakeistas arba atsisakyta jį išduoti ar pakeisti: 
