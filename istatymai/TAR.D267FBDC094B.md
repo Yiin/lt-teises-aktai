@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2024-05-03 iki 2026-04-30
+Suvestinė redakcija nuo 2026-05-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
  
@@ -54,6 +54,14 @@ BENDROSIOS NUOSTATOS
 
 
 
+21. Individualusis žemės vertinimas (toliau – individualusis vertinimas) – žemės vertinimas, atliekamas pagal šio įstatymo 9 straipsnį ir Lietuvos Respublikos privalomojo turto ir verslo vertinimo įstatymą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2579, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08220
+ 
+
+
+
+
 3. Juridinis asmuo – Lietuvos Respublikos teisės aktų nustatyta tvarka įregistruotas juridinis asmuo, užsienio valstybės juridinis asmuo, taip pat užsienio valstybės organizacija, pagal Lietuvos Respublikos ar šios užsienio valstybės įstatymus pripažįstama teisės subjektu.
 
 
@@ -67,7 +75,10 @@ Nr. XIII-2245, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10376
 
 
 
-4. Masinis žemės vertinimas – žemės vertinimas, kai, naudojantis Nekilnojamojo turto registro ir rinkos duomenimis, per nustatytą laiką, taikant bendrą metodologiją ir statistines duomenų analizės ir vertinimo technologijas, sudaromi žemės verčių zonų žemėlapiai ir žemės sklypų vidutinės rinkos vertės nustatymo modeliai, pagal kuriuos įvertinami žemės sklypai ir parengiama bendra tam tikroje teritorijoje esančių žemės sklypų vertinimo ataskaita.
+4. Neteko galios nuo 2026-05-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2579, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08220
+ 
 
 
 
@@ -82,14 +93,18 @@ Nr. XIII-2245, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10376
 
 
 
-7. Žemės verčių zonų žemėlapis – žemėlapis, kuriame, atlikus masinį žemės vertinimą, pažymėtos skirtingą vidutinę vertę turinčios zonos (teritorijos), zonų žemės vertės rodikliai ir duomenys, reikalingi atskirų žemės sklypų vidutinei rinkos vertei apskaičiuoti.
+7. Žemės verčių zonų žemėlapis – žemėlapis, kuriame, atlikus masinį nekilnojamojo turto vertinimą, pažymėtos skirtingą vidutinę vertę turinčios zonos (teritorijos), zonų žemės vertės rodikliai ir duomenys, reikalingi atskirų žemės sklypų vidutinei rinkos vertei apskaičiuoti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2579, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08220
+ 
 
 
 
 
-8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos (prioriteto tvarka) Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas), kituose mokesčių įstatymuose, Lietuvos Respublikos žemės įstatyme ir Lietuvos Respublikos civiliniame kodekse. Šiame įstatyme nurodytos pagrindinės žemės naudojimo paskirtys ir būdai atitinka registruojamus Nekilnojamojo turto registre.
+8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos (prioriteto tvarka) Lietuvos Respublikos mokesčių administravimo įstatyme, kituose mokesčių įstatymuose, Lietuvos Respublikos žemės įstatyme, Lietuvos Respublikos nekilnojamojo turto kadastro įstatyme ir Lietuvos Respublikos civiliniame kodekse. Šiame įstatyme nurodytos pagrindinės žemės naudojimo paskirtys ir būdai atitinka registruojamus Nekilnojamojo turto registre.
 Straipsnio dalies pakeitimai:
 Nr. XII-846, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05002
+Nr. XIV-2579, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08220
  
 
 
@@ -143,9 +158,10 @@ Mokesčio bazė yra žemės mokestinė vertė.
 
 
 
-2. Savivaldybės taryba, siekdama, kad naujas konkretus mokesčio tarifas galiotų šios savivaldybės teritorijoje nuo kito mokestinio laikotarpio pradžios, naują konkretų mokesčio tarifą turi nustatyti iki einamojo mokestinio laikotarpio liepos 1 dienos, neviršydama šio straipsnio 1 dalyje nustatytų ribų, jeigu šiame straipsnyje nenustatyta kitaip. Jeigu, vadovaujantis šio įstatymo 10 straipsnio 4 dalimi, nuo kito mokestinio laikotarpio žemės mokestinė vertė nustatoma atsižvelgiant į naujai atlikto masinio žemės vertinimo rezultatus, kitą mokestinį laikotarpį galiosiantį naują konkretų mokesčio tarifą savivaldybės taryba gali nustatyti iki einamojo mokestinio laikotarpio gruodžio 1 dienos. Jeigu savivaldybės taryba per šioje dalyje nurodytus terminus nenustato naujų konkrečių mokesčio tarifų, kitą mokestinį laikotarpį galioja paskutiniai nustatyti konkretūs mokesčio tarifai. 
+2. Savivaldybės taryba, siekdama, kad naujas konkretus mokesčio tarifas galiotų šios savivaldybės teritorijoje nuo kito mokestinio laikotarpio pradžios, naują konkretų mokesčio tarifą turi nustatyti iki einamojo mokestinio laikotarpio liepos 1 dienos, neviršydama šio straipsnio 1 dalyje nustatytų ribų, jeigu šiame straipsnyje nenustatyta kitaip. Jeigu, vadovaujantis šio įstatymo 10 straipsnio 4 dalimi, nuo kito mokestinio laikotarpio žemės mokestinė vertė nustatoma atsižvelgiant į naujai atlikto masinio nekilnojamojo turto vertinimo (toliau – masinis vertinimas) rezultatus, kitą mokestinį laikotarpį galiosiantį naują konkretų mokesčio tarifą savivaldybės taryba gali nustatyti iki einamojo mokestinio laikotarpio gruodžio 1 dienos. Jeigu savivaldybės taryba per šioje dalyje nurodytus terminus nenustato naujų konkrečių mokesčio tarifų, kitą mokestinį laikotarpį galioja paskutiniai nustatyti konkretūs mokesčio tarifai.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2245, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10376
+Nr. XIV-2579, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08220
  
 
 
@@ -353,38 +369,37 @@ II SKYRIUS
 
 
 
-2. Žemės mokestine verte šio įstatymo 11 straipsnio 2 dalyje nustatyta tvarka gali būti laikoma žemės vertė, nustatyta atlikus individualų žemės vertinimą, jeigu:
+2. Žemės mokestine verte šio įstatymo 11 straipsnio 2 dalyje nustatyta tvarka gali būti laikoma žemės vertė, nustatyta atlikus individualųjį vertinimą, jeigu:
 
 
-1) turto vertinimo įmonės, tvarkančios Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą (toliau – turto vertinimo įmonė), nustatyta žemės vidutinė rinkos vertė skiriasi nuo individualiu žemės vertinimu nustatytos žemės vertės daugiau kaip 20 procentų ir
+1) masinio nekilnojamojo turto vertinimo įmonės (toliau – masinio vertinimo įmonė) nustatyta žemės vidutinė rinkos vertė skiriasi nuo atlikus individualųjį vertinimą nustatytos žemės vertės daugiau kaip 20 procentų ir
 
 
 
 
-2) turto vertinimo įmonės nustatytos žemės vidutinės rinkos vertės ir individualiu žemės vertinimu nustatytos žemės vertės skirtumas susidarė ne dėl žemės naudojimo ne pagal numatytą paskirtį, būdą, disponavimo ja suvaržymų dėl hipotekos ar kitų savininko prievolių, ir
-Straipsnio punkto pakeitimai:
-Nr. XII-846, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05002
+2) masinio vertinimo įmonės nustatytos žemės vidutinės rinkos vertės ir atlikus individualųjį vertinimą nustatytos žemės vertės skirtumas susidarė ne dėl žemės naudojimo ne pagal numatytą paskirtį, būdą, disponavimo ja suvaržymų dėl hipotekos ar kitų savininko prievolių, ir
+
+
+
+
+3) individualusis vertinimas atitinka Vyriausybės nustatytus reikalavimus. 
+
+
+
+
+
+
+3. Mokesčio mokėtojo prašymas žemės mokestine verte laikyti žemės vertę, nustatytą atlikus individualųjį vertinimą, kartu su šios žemės individualiojo vertinimo ataskaita (toliau – prašymas) pateikiamas masinio vertinimo įmonei ir nagrinėjamas šio įstatymo 11 straipsnio 2 dalyje nustatyta tvarka. Jeigu prašymas tenkinamas, individualiojo vertinimo metu nustatyta žemės vertė šios žemės mokestine verte laikoma nuo to mokestinio laikotarpio, kurį pateiktas prašymas, pradžios tol, kol masinio vertinimo įmonė šio įstatymo ir Vyriausybės nustatyta tvarka nustato (patvirtina) naują šios žemės mokestinę vertę.
+
+
+
+
+4. Žemės ūkio paskirties žemės, išskyrus apleistas žemės ūkio naudmenas, mokestinė vertė yra jos vidutinė rinkos vertė arba vertė, nustatyta atlikus individualųjį vertinimą, padauginta iš koeficiento 0,35.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2579, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08220
  
-
-
-
-
-3) individualaus žemės vertinimo ataskaita atitinka Vyriausybės nustatytus reikalavimus.
-
-
-
-
-
-
-3. Mokesčio mokėtojo prašymas žemės mokestine verte laikyti žemės vertę, nustatytą atlikus individualų žemės vertinimą, kartu su šios žemės individualaus vertinimo ataskaita (toliau – prašymas) pateikiamas turto vertinimo įmonei ir nagrinėjamas šio įstatymo 11 straipsnio 2 dalyje nustatyta tvarka. Jeigu prašymas tenkinamas, individualaus žemės vertinimo metu nustatyta žemės vertė šios žemės mokestine verte laikoma nuo to mokestinio laikotarpio, kurį pateiktas prašymas, pradžios tol, kol turto vertinimo įmonė šio įstatymo ir Vyriausybės nustatyta tvarka nustato (patvirtina) naują šios žemės mokestinę vertę.
-
-
-
-
-4. Žemės ūkio paskirties žemės, išskyrus apleistas žemės ūkio naudmenas, mokestinė vertė yra jos vidutinė rinkos vertė arba vertė, nustatyta atlikus individualų žemės vertinimą, padauginta iš koeficiento 0,35.
- 
-
-
 
 
 
@@ -392,25 +407,27 @@ Nr. XII-846, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05002
 10 straipsnis. Žemės vertinimas
 
 
-1. Žemės vertinimą atlieka turto vertinimo įmonė.
+1. Masinį vertinimą atlieka masinio vertinimo įmonė.
 
 
 
 
-2. Žemės vertinimas atliekamas naudojant masinio žemės vertinimo būdu parengtus žemės verčių zonų žemėlapius ir žemės sklypo vidutinės rinkos vertės nustatymo modelius.
+2. Masinis vertinimas atliekamas naudojant masinio vertinimo būdu parengtus žemės verčių zonų žemėlapius ir žemės sklypo vidutinės rinkos vertės nustatymo modelius.
 
 
 
 
-3. Vyriausybė nustato masinio žemės vertinimo atlikimo procedūras, įskaitant žemės verčių zonų žemėlapių ir žemės sklypo vidutinės rinkos vertės nustatymo modelių sudarymo tvarką ir žemės vidutinių rinkos verčių apskaičiavimo tvarką konkretiems žemės sklypams.
+3. Vyriausybė nustato masinio vertinimo atlikimo procedūras, įskaitant žemės verčių zonų žemėlapių ir žemės sklypo vidutinės rinkos vertės nustatymo modelių sudarymo tvarką ir žemės vidutinių rinkos verčių apskaičiavimo tvarką konkretiems žemės sklypams.
 
 
 
 
-4. Masinis žemės vertinimas žemės mokestinėms vertėms apskaičiuoti Vyriausybės nustatyta tvarka atliekamas ne rečiau kaip kas 5 metai.
+4. Masinis vertinimas žemės mokestinėms vertėms apskaičiuoti Vyriausybės nustatyta tvarka atliekamas ne rečiau kaip kas 5 metai.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2579, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08220
  
-
-
 
 
 
@@ -418,25 +435,27 @@ Nr. XII-846, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05002
 11 straipsnis. Skundai ir prašymai dėl žemės mokestinės vertės
 
 
-1. Mokesčio mokėtojas skundą dėl turto vertinimo įmonės nustatytos žemės vidutinės rinkos vertės, naudojamos mokestinėms žemės vertėms apskaičiuoti, gali pateikti turto vertinimo įmonei per 3 mėnesius nuo žemės mokestinės vertės nustatymo. Turto vertinimo įmonė išnagrinėja skundą ir priima sprendimą per 2 mėnesius nuo skundo gavimo dienos. Turto vertinimo įmonės sprendimas gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo (toliau – Administracinių bylų teisenos įstatymas) nustatyta tvarka.
+1. Mokesčio mokėtojas skundą dėl masinio vertinimo įmonės nustatytos žemės vidutinės rinkos vertės, naudojamos mokestinėms žemės vertėms apskaičiuoti, gali pateikti masinio vertinimo įmonei per 3 mėnesius nuo žemės mokestinės vertės nustatymo. Masinio vertinimo įmonė išnagrinėja skundą ir priima sprendimą per 2 mėnesius nuo skundo gavimo dienos. Masinio vertinimo įmonės sprendimas gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 
 
-2. Mokesčio mokėtojai vieną kartą per mokestinį laikotarpį, per 3 mėnesius nuo mokestinio laikotarpio pradžios, turto vertinimo įmonei gali pateikti prašymą žemės mokestine verte laikyti žemės vertę, nustatytą atlikus individualų žemės vertinimą. Šiuos prašymus turto vertinimo įmonė išnagrinėja ir sprendimą priima per 3 mėnesius (tuo mokestiniu laikotarpiu, kai įsigalioja nauji Vyriausybės nustatyta tvarka patvirtinti masinio žemės vertinimo dokumentai, – per 4 mėnesius) nuo prašymo gavimo dienos. Turto vertinimo įmonės sprendimas gali būti skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka.
+2. Mokesčio mokėtojai vieną kartą per mokestinį laikotarpį, per 3 mėnesius nuo mokestinio laikotarpio pradžios, masinio vertinimo įmonei gali pateikti prašymą žemės mokestine verte laikyti žemės vertę, nustatytą atlikus individualųjį vertinimą. Šį prašymą masinio vertinimo įmonė išnagrinėja ir sprendimą priima per 3 mėnesius (tuo mokestiniu laikotarpiu, kai įsigalioja nauji Vyriausybės nustatyta tvarka patvirtinti masinio vertinimo dokumentai, – per 4 mėnesius) nuo prašymo gavimo dienos. Masinio vertinimo įmonės sprendimas gali būti skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 
 
-3. Turto vertinimo įmonė apie mokesčio mokėtojo skundo arba prašymo gavimą ir dėl jo priimtą sprendimą informuoja mokesčio administratorių ne vėliau kaip per 3 darbo dienas nuo skundo arba prašymo gavimo ar sprendimo dėl jo priėmimo dienos.
+3. Masinio vertinimo įmonė apie mokesčio mokėtojo skundo arba prašymo gavimą ir dėl jo priimtą sprendimą informuoja mokesčių administratorių ne vėliau kaip per 3 darbo dienas nuo skundo arba prašymo gavimo ar sprendimo dėl jo priėmimo dienos.
 
 
 
 
-4. Mokesčio mokėtojo skundo pateikimas turto vertinimo įmonei mokesčio ir su juo susijusių sumų išieškojimą sustabdo iki turto vertinimo įmonės sprendimo priėmimo arba teismo sprendimo (nutarties) įsiteisėjimo dienos, jeigu mokesčio mokėtojas turto vertinimo įmonės sprendimą apskundė Administracinių bylų teisenos įstatymo nustatyta tvarka, tačiau tai nėra kliūtis taikyti mokestinės prievolės užtikrinimo priemones, nurodytas Mokesčių administravimo įstatyme, arba pagrindas jas naikinti.
+4. Mokesčio mokėtojo skundo pateikimas masinio vertinimo įmonei mokesčio ir su juo susijusių sumų išieškojimą sustabdo iki masinio vertinimo įmonės sprendimo priėmimo arba teismo sprendimo (nutarties) įsiteisėjimo dienos, jeigu mokesčio mokėtojas masinio vertinimo įmonės sprendimą apskundė Administracinių bylų teisenos įstatymo nustatyta tvarka, tačiau tai nėra kliūtis taikyti mokestinės prievolės įvykdymo užtikrinimo būdus, nurodytus Mokesčių administravimo įstatymo 95 straipsnyje, arba pagrindas juos naikinti.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2579, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08220
  
-
-
 
 
 
@@ -487,15 +506,17 @@ MOKESČIO APSKAIČIAVIMAS, DEKLARAVIMAS, MOKĖJIMAS IR ATSAKOMYBĖ
 13 straipsnis. Duomenų, reikalingų mokesčiui apskaičiuoti, pateikimas
 
 
-1. Nekilnojamojo turto registro ir Nekilnojamojo turto kadastro duomenis, reikalingus mokesčiui apskaičiuoti, taip pat Vyriausybės įgaliotos institucijos nustatytus duomenis apie apleistas žemės ūkio naudmenas turto vertinimo įmonė pateikia mokesčių administratoriui turto vertinimo įmonės ir centrinio mokesčių administratoriaus sutartyje nustatytais būdais ir terminais, bet ne vėliau kaip iki kiekvieno mokestinio laikotarpio rugsėjo 1 dienos.
+1. Nekilnojamojo turto registro ir Nekilnojamojo turto kadastro duomenis (įskaitant asmens duomenis), reikalingus mokesčiui apskaičiuoti, taip pat Vyriausybės įgaliotos institucijos nustatytus duomenis (įskaitant asmens duomenis) apie apleistas žemės ūkio naudmenas masinio vertinimo įmonė pateikia mokesčių administratoriui masinio vertinimo įmonės ir centrinio mokesčių administratoriaus sutartyje nustatytais būdais ir terminais, bet ne vėliau kaip iki kiekvieno mokestinio laikotarpio rugsėjo 1 dienos.
 
 
 
 
-2. Turto vertinimo įmonė sudaro galimybes mokesčių mokėtojams sužinoti savo žemės mokestinę vertę neatlygintinai.
+2. Masinio vertinimo įmonė sudaro galimybes savo interneto svetainėje mokesčių mokėtojams neatlygintinai sužinoti jų žemės mokestinę vertę.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2579, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08220
  
-
-
 
 
 
