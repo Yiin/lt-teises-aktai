@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.72C31F8DD98E"
 
 # Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas
 
-Suvestinė redakcija nuo 2025-07-01 iki 2026-04-30
+Suvestinė redakcija nuo 2026-05-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 58-1704, i. k. 1001010ISTAIII-1764
  
@@ -29,13 +29,12 @@ NEKILNOJAMOJO TURTO KADASTRO
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis Įstatymas reglamentuoja nekilnojamųjų daiktų, registruojamų Lietuvos Respublikos nekilnojamojo turto registre, kadastro duomenų nustatymą, jų įrašymą į Nekilnojamojo turto kadastrą, Nekilnojamojo turto kadastro statusą, šio kadastro steigimą, tvarkymą, reorganizavimą ir likvidavimą ir matininkų veiklos sąlygas, jų teises, pareigas ir atsakomybę. 
-Straipsnio pakeitimai:
-Nr. X-1007, 2006-12-21, Žin., 2007, Nr. 4-159 (2007-01-11)
+Šis Įstatymas reglamentuoja nekilnojamųjų daiktų, registruojamų Lietuvos Respublikos nekilnojamojo turto registre, kadastro duomenų nustatymą, jų įrašymą į Nekilnojamojo turto kadastrą, Nekilnojamojo turto kadastro statusą, šio kadastro steigimą, tvarkymą, reorganizavimą ir likvidavimą ir matininkų veiklos sąlygas, jų teises, pareigas ir atsakomybę, masinį nekilnojamojo turto vertinimą, masinio nekilnojamojo turto vertinimo įmonės, atliekančios masinį nekilnojamojo turto vertinimą, veiklos sąlygas ir teises.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
+Nr. XIV-2578, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08219
  
 
 
@@ -55,6 +54,22 @@ Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 2. Lietuvos Respublikos jūrinė teritorija (toliau – jūrinė teritorija) – nustatytą plotą ir unikalų skaitmeninį kodą turinti Baltijos jūros teritorijos dalis, apimanti Lietuvos Respublikos teritorinę jūrą, kontinentinį šelfą, išskirtinę ekonominę zoną. 
 Papildyta straipsnio dalimi:
 Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
+ 
+
+
+
+
+21. Masinis nekilnojamojo turto vertinimas (toliau – masinis vertinimas) – nekilnojamojo turto vertinimo būdas, kai, naudojant Nekilnojamojo turto registro, kitų valstybės registrų ir valstybės informacinių sistemų bei rinkos duomenis, taikant statistines duomenų analizės ir vertinimo technologijas, sudaromi nekilnojamojo turto vidutinės rinkos vertės nustatymo modeliai, pagal kuriuos, vadovaujantis šiuo įstatymu, įvertinami Nekilnojamojo turto kadastro objektai ir parengiama bendra tam tikros teritorijos masinio nekilnojamojo turto vertinimo ataskaita. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2578, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08219
+ 
+
+
+
+
+22. Masinio nekilnojamojo turto vertinimo įmonė (toliau – masinio vertinimo įmonė) – įmonė, tvarkanti Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą ir atliekanti masinį nekilnojamojo turto vertinimą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2578, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08219
  
 
 
@@ -128,6 +143,14 @@ Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
 
 
 
+101. Nekilnojamojo turto vidutinė rinkos vertė (toliau – vidutinė rinkos vertė) – Nekilnojamojo turto kadastro objekto vertė, išreiškiama pinigų suma, nustatyta taikant bendrą metodologiją, statistines nekilnojamojo turto rinkos, Nekilnojamojo turto registro ir Nekilnojamojo turto kadastro, geografinės informacinės sistemos duomenų analizės ir masinio nekilnojamojo turto vertinimo sistemos technologijas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2578, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08219
+ 
+
+
+
+
 11. Patalpa – nustatytos paskirties pastato dalis (butas, kontora ir pan.), atitvarinėmis konstrukcijomis atskirta nuo bendrojo naudojimo patalpų, kitų butų ar negyvenamųjų patalpų.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
@@ -149,6 +172,14 @@ Straipsnio dalies pakeitimai:
 Nr. XIV-2992, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17762
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
+ 
+
+
+
+
+14. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme ir Lietuvos Respublikos privalomojo turto ir verslo vertinimo įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-2578, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08219
  
 
 
@@ -1854,6 +1885,39 @@ Nr. X-1007, 2006-12-21, Žin., 2007, Nr. 4-159 (2007-01-11)
 
 
 
+171 straipsnis. Masinis vertinimas
+
+
+1. Masinis vertinimas atliekamas šį vertinimą reglamentuojančių Lietuvos Respublikos teisės aktų nustatyta tvarka, atsižvelgiant į Tarptautinius vertinimo standartus, Europos vertinimo standartus ir Tarptautinės turto vertintojų mokesčiams asociacijos rengiamus masinio vertinimo standartus.
+
+
+
+
+2. Masinio vertinimo įmonė, atlikdama masinį vertinimą, turi šias teises:
+
+
+1) gauti ir naudoti Nekilnojamojo turto registro, kitų valstybės registrų ir valstybės informacinių sistemų duomenis (įskaitant asmens duomenis) ir informaciją, būtinus masiniam vertinimui atlikti;
+
+
+
+
+2) gauti ir naudoti valstybės institucijų ir kitų juridinių asmenų kaupiamus duomenis (įskaitant asmens duomenis) ir informaciją, būtinus masiniam vertinimui atlikti.
+
+
+
+
+
+
+3. Masinio vertinimo sistemos ir modelių sudarymo procesą, vidutinių rinkos verčių nustatymo taisykles, reikalavimus, keliamus masinio nekilnojamojo turto vertinimo ataskaitoms, jų taisymo, tvirtinimo, saugojimo ir viešinimo reikalavimus nustato Vyriausybė.
+
+
+Papildyta straipsniu:
+Nr. XIV-2578, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08219
+ 
+
+
+
+
 18 straipsnis. Nekilnojamojo daikto dokumentų archyvinė byla
 
 
@@ -2071,3 +2135,8 @@ Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 4, 7, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2992, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17762
 Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 2, 4, 7, 9, 10, 11, 12 ir 17 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2578, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08219
+Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 1 ir 2 straipsnių pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas
