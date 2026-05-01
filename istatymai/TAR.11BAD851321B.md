@@ -765,20 +765,12 @@ Nr. XIV-2276, 2023-11-21, paskelbta TAR 2023-11-29, i. k. 2023-22998
 
 
 
-4. Žuvų išteklių atkūrimą valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žvejybos plotą, organizuoja ir vykdo Vyriausybės įgaliotos institucijos. Šie darbai atliekami pagal Žemės ūkio ministerijos parengtas ir su Aplinkos ministerija suderintas programas.
+4. Žuvivaisa valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žvejybos plotą, vykdoma pagal Žemės ūkio ministerijos parengtas ir su Aplinkos ministerija suderintas programas. Žuvivaisos valstybiniuose vandens telkiniuose programą įgyvendina Žemės ūkio ministerijos įgaliota institucija. Šiai programai įgyvendinti papildomai skiriama ne mažiau kaip 50 procentų iš Aplinkos apsaugos rėmimo programos žuvų ištekliams atkurti ir išsaugoti metams skirtų lėšų.
 
 
 
 
-5. Valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos išduoti leidimai naudoti žvejybos plotą, Aplinkos ministerijos nustatyta tvarka žuvų išteklius saugo ir atkuria žvejybos ploto naudotojai. Privačiuose žuvininkystės vandens telkiniuose žuvų išteklius saugo ir atkuria vandens telkinių savininkai.
- 
-
-
-
-
-
-
-13 straipsnis. Asmenų, užsiimančių mėgėjų žvejyba, teisės ir pareigos
+5. Valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos išduoti leidimai naudoti žvejybos plotą, Aplinkos ministerijos nustatyta tvarka žuvų išteklius saugo ir atkuria žvejybos ploto naudotojai. Privačiuose žuvininkystės vandens telkiniuose žuvų išteklius saugo ir atkuria vandens telkinių savininkai.13 straipsnis. Asmenų, užsiimančių mėgėjų žvejyba, teisės ir pareigos
 
 
 1. Asmenys, užsiimantys mėgėjų žvejyba, turi teisę:
