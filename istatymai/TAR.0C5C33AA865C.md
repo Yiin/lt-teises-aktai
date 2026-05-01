@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2025-06-01 iki 2026-04-30
+Suvestinė redakcija nuo 2026-05-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -2644,12 +2644,12 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 37 straipsnis. Perdavimo ir skirstymo sistemų operatorių vykdoma gamtinių dujų sistemų plėtra ir gamtinių dujų saugyklų, SGD sistemos ir naujų vartotojų sistemų prijungimas 
 
 
-1. Perdavimo ir skirstymo sistemų operatoriai nustato ir, gavę Tarybos patvirtinimą, viešai savo interneto svetainėse paskelbia saugyklų, SGD sistemos, skirstymo sistemos operatoriui nuosavybės teise nepriklausančių mažos apimties SGD pakartotinio dujinimo įrenginių ir vartotojų sistemų nediskriminacinio prijungimo prie perdavimo ir skirstymo sistemų skaidrias ir veiksmingas procedūras bei įkainius.
+1. Perdavimo ir skirstymo sistemų operatoriai nustato ir, gavę Tarybos patvirtinimą, viešai savo interneto svetainėse paskelbia saugyklų, SGD sistemos, skirstymo sistemos operatoriui nuosavybės teise nepriklausančių mažos apimties SGD pakartotinio dujinimo įrenginių ir vartotojų sistemų nediskriminacinio prijungimo prie perdavimo ir skirstymo sistemų skaidrias ir veiksmingas procedūras bei įkainius. 
 
 
 
 
-2. Perdavimo sistemos operatorius neturi teisės atsisakyti prijungti naują saugyklą, SGD sistemą ar vartotojo sistemą, motyvuodamas turimų tinklo pajėgumų galimais apribojimais ateityje arba papildomomis išlaidomis, susijusiomis su būtinu pajėgumų didinimu. Perdavimo sistemos operatorius užtikrina naujos jungties pakankamą įeinamąjį ir išeinamąjį pajėgumą.
+2. Perdavimo sistemos operatorius neturi teisės atsisakyti prijungti naują saugyklą, SGD sistemą ar vartotojo sistemą, motyvuodamas turimų tinklo pajėgumų galimais apribojimais ateityje arba papildomomis išlaidomis, susijusiomis su būtinu pajėgumų didinimu. Perdavimo sistemos operatorius užtikrina naujos jungties pakankamą įeinamąjį ir išeinamąjį pajėgumą. 
 
 
 
@@ -2659,27 +2659,32 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 
 
 
-4. Perdavimo ar skirstymo sistemų operatoriai licencijoje nurodytoje teritorijoje privalo prijungti naujų vartotojų sistemas prie savo sistemų pagal Vyriausybės ar jos įgaliotos institucijos nustatytas taisykles. 
+4. Perdavimo ar skirstymo sistemų operatoriai licencijoje nurodytoje teritorijoje prijungia naujų vartotojų sistemas prie savo sistemų pagal energetikos ministro skirstymo sistemos operatoriui ir Tarybos perdavimo sistemos operatoriui nustatytus tvarkos aprašus. 
 
 
 
 
-5. Taryba parengia ir patvirtina prijungimo įkainių nustatymo metodiką. Taryba tvirtina naujų buitinių vartotojų sistemų prijungimo įkainius. 
+5. Taryba parengia ir patvirtina prijungimo įkainių nustatymo metodiką. Taryba kiekvienais metais tvirtina naujų buitinių vartotojų sistemų, kurių prijungimo prie gamtinių dujų sistemos taškas nutolęs ne didesniu kaip 150 metrų atstumu nuo esamos skirstymo sistemos, prijungimo įkainius, kurie padengia 100 procentų skirstymo sistemos operatoriaus patiriamų išlaidų. Tarybos tvirtinamoje prijungimo įkainių nustatymo metodikoje nustatytais atvejais Taryba savo nutarimu gali pratęsti patvirtintus naujų buitinių vartotojų sistemų prijungimo įkainius dar vienų metų laikotarpiui. Buitinių vartotojų sistemų prijungimo kaina, atsižvelgus į šių sistemų prijungimo prie gamtinių dujų sistemos atstumą ir Tarybos patvirtintą įkainį arba prijungimo išlaidas, apskaičiuojama vadovaujantis šio straipsnio 8 dalimi.
 
 
 
 
-6. Perdavimo ar skirstymo sistemos operatoriai padengia ekonomiškai pagrįstas sistemos plėtros ir prie perdavimo ar skirstymo sistemos prijungiamų vartotojų sistemų prijungimo išlaidas. Vartotojai, kurių sistemos prijungiamos prie perdavimo ar skirstymo sistemos, padengia ekonomiškai pagrįstas prijungimo išlaidas viršijančias išlaidas.
+6. Taryba derina skirstymo sistemų operatorių parengtą šių operatorių išduodamų prijungimo sąlygų, preliminarių prijungimo sąlygų, prijungimo paslaugos sutarčių, kai jose nurodomos prijungimo sąlygos, parengimo įkainių apskaičiavimo metodiką. 
 
 
 
 
-7. Prijungimo prie esamų gamtinių dujų sistemų išlaidos negali būti pripažintos pagrįstomis, jeigu dėl jų padidėtų kainos esamiems sistemų naudotojams ir gamtinių dujų vartotojams. Naujai dujofikuojamoms teritorijoms atsipirkimo laikotarpiu gali būti nustatyta tokia gamtinių dujų perdavimo ir skirstymo kaina, kuri padengtų investicijas.
+7. Perdavimo ar skirstymo sistemos operatoriai padengia ekonomiškai pagrįstas sistemos plėtros ir prie perdavimo ar skirstymo sistemos prijungiamų nebuitinių vartotojų sistemų prijungimo išlaidas. Nebuitiniai vartotojai, kurių sistemos prijungiamos prie perdavimo ar skirstymo sistemos, padengia ekonomiškai pagrįstas prijungimo prie esamų gamtinių dujų sistemų išlaidas viršijančias išlaidas. Ekonomiškai pagrįstas prijungimo prie esamų gamtinių dujų sistemų išlaidas viršijančios išlaidos yra ta prijungimo išlaidų dalis, dėl kurios padidėtų kainos esamiems sistemų naudotojams ir gamtinių dujų vartotojams. Naujai dujofikuojamoms teritorijoms atsipirkimo laikotarpiui gali būti nustatyta tokia gamtinių dujų perdavimo ir skirstymo kaina, kuri padengtų perdavimo ar skirstymo sistemos operatorių investicijas.
 
 
 
 
-8. Kai prie skirstymo sistemos prijungiama vartotojo sistema arba didinami skirstymo sistemos pajėgumai, išskyrus atvejus, kai prijungiant vartotojo sistemą arba didinant skirstymo sistemos pajėgumus prijungimo paslaugos kaina yra apskaičiuojama vadovaujantis Tarybos patvirtintais įkainiais, arba kai asmuo pageidauja perkelti, pertvarkyti (rekonstruoti) ar išmontuoti skirstymo sistemą, šis vartotojas ar kitas asmuo, pageidaujantis perkelti, pertvarkyti (rekonstruoti) ar išmontuoti skirstymo sistemą, turi teisę, suderinęs su skirstymo sistemos operatoriumi, energetikos ministro nustatyta tvarka savo lėšomis skirstymo sistemos operatoriaus vardu organizuoti ir vykdyti skirstymo sistemos projektavimą, įrengimą, įskaitant jos perkėlimą, pertvarkymą (rekonstravimą) ar išmontavimą, ir kitus darbus skirstymo sistemoje, jos objektuose ar atskirose jos dalyse. Šiuo atveju skirstymo sistema ir jos objektai ar atskiros jos dalys, kuriuos vartotojas ar kitas asmuo, pageidaujantis perkelti, pertvarkyti (rekonstruoti) ar išmontuoti skirstymo sistemą, įrengė, įskaitant jos perkėlimą, pertvarkymą (rekonstravimą) ar išmontavimą, ar kuriuose atliko kitus darbus, yra skirstymo sistemos operatoriaus nuosavybė. Kai prie šios skirstymo sistemos prijungiamos kitų vartotojų sistemos, už jų įrengimą ir (ar) naudojimą, įskaitant jų perkėlimą, pertvarkymą (rekonstravimą) ar išmontavimą, ar kitus darbus juos atlikusiam vartotojui ar kitam asmeniui nėra atlyginama.
+8. Buitiniai vartotojai, kurių sistemų prijungimo prie gamtinių dujų sistemos taškas yra nutolęs ne didesniu kaip 150 metrų atstumu nuo gamtinių dujų skirstymo sistemos, moka prijungimo kainą, apskaičiuotą padauginus prijungimo atstumą, kuris yra ne didesnis kaip 150 metrų iki gamtinių dujų sistemos prijungimo taško, iš 60 procentų Tarybos patvirtinto prijungimo įkainio. Jeigu prijungimo prie gamtinių dujų sistemos taškas yra nutolęs didesniu kaip 150 metrų atstumu nuo gamtinių dujų skirstymo sistemos, už likusią dalį, kuri yra didesnė nei 150 metrų, buitinis vartotojas apmoka 100 procentų operatoriaus patirtų prijungimo išlaidų, vadovaujantis Tarybos tvirtinamoje prijungimo įkainių nustatymo metodikoje nustatyta tvarka.
+
+
+
+
+9. Kai prie skirstymo sistemos prijungiama vartotojo sistema arba didinami skirstymo sistemos pajėgumai, išskyrus atvejus, kai prijungiant vartotojo sistemą arba didinant skirstymo sistemos pajėgumus prijungimo paslaugos kaina yra apskaičiuojama vadovaujantis Tarybos patvirtintais įkainiais, arba kai asmuo pageidauja perkelti, pertvarkyti (rekonstruoti) ar išmontuoti skirstymo sistemą, šis vartotojas ar kitas asmuo, pageidaujantis perkelti, pertvarkyti (rekonstruoti) ar išmontuoti skirstymo sistemą, turi teisę, suderinęs su skirstymo sistemos operatoriumi, energetikos ministro nustatyta tvarka savo lėšomis skirstymo sistemos operatoriaus vardu organizuoti ir vykdyti skirstymo sistemos projektavimą, įrengimą, įskaitant jos perkėlimą, pertvarkymą (rekonstravimą) ar išmontavimą, ir kitus darbus skirstymo sistemoje, jos objektuose ar atskirose jos dalyse. Šiuo atveju skirstymo sistema ir jos objektai ar atskiros jos dalys, kuriuos vartotojas ar kitas asmuo, pageidaujantis perkelti, pertvarkyti (rekonstruoti) ar išmontuoti skirstymo sistemą, įrengė, įskaitant jos perkėlimą, pertvarkymą (rekonstravimą) ar išmontavimą, ar kuriuose atliko kitus darbus, yra skirstymo sistemos operatoriaus nuosavybė. Kai prie šios skirstymo sistemos prijungiamos kitų vartotojų sistemos, už jų įrengimą ir (ar) naudojimą, įskaitant jų perkėlimą, pertvarkymą (rekonstravimą) ar išmontavimą, ar kitus darbus juos atlikusiam vartotojui ar kitam asmeniui nėra atlyginama.
 
 
 Straipsnio pakeitimai:
