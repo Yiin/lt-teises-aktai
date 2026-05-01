@@ -1404,7 +1404,7 @@ Globos centras atlieka šias funkcijas, susijusias su vaikų globa (rūpyba):
 
 
 
-3) Vyriausybės nustatyta tvarka parenka vaikui globėją (rūpintoją) ir teikia rekomendaciją dėl globėjo (rūpintojo) paskyrimo savivaldybės merui, jeigu vaikui nustatoma laikinoji globa (rūpyba). Jeigu vaikui nustatoma nuolatinė globa (rūpyba), teikia informaciją apie parinktą globėją (rūpintoją) valstybinės vaiko teisių apsaugos institucijos įgaliotam teritoriniam skyriui;
+3) Vyriausybės nustatyta tvarka parenka vaikui globėją (rūpintoją) ir teikia rekomendaciją dėl globėjo (rūpintojo) paskyrimo valstybinės vaiko teisių apsaugos institucijos įgaliotam teritoriniam skyriui;
 
 
 
