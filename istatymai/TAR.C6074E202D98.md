@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6074E202D98"
 
 # Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 2023-12-29 iki 2026-04-30
+Suvestinė redakcija nuo 2026-05-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 109-2474, i. k. 0961010ISTA00I-1591
  
@@ -55,7 +55,10 @@ Zona steigiama 49 metams. Zonos veiklos terminas gali būti pratęstas tik įsta
 3 straipsnis. Zonos teritorija
 
 
-1. Zonos teritorija užima 534 ha. 
+1. Zonos teritorija užima 1 054 ha.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2398, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25632
+ 
 
 
 
