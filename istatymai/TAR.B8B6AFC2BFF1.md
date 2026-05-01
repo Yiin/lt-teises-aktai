@@ -2570,7 +2570,9 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 12. Pirmuoju etapu viešojo administravimo subjektui bazinis baudos dydis apskaičiuojamas šia tvarka:
 1) Nustatomas nuo pažeidimo pavojingumo priklausantis baudos dydis, kuris lygus pusei šio įstatymo 36 straipsnio 7 dalyje nustatyto galimo maksimalaus baudos dydžio, ir gautas baudos dydis padidinamas arba sumažinamas atsižvelgiant į konkrečias su pažeidimu susijusias aplinkybes: pažeidimo pobūdį, jo geografinį plotą ir kitas objektyvias aplinkybes.
 2) Nustatoma pažeidimo trukmė atsižvelgiant į pažeidimo laikotarpį, skaičiuojamą metų ar trumpesnio laiko negu metai tikslumu. Už kiekvienus pažeidimo metus pridedama 5 procentų dydžio suma, apskaičiuota nuo pažeidimo pavojingumo priklausančio baudos dydžio. Už papildomą pusės metų laikotarpį papildomai pridedama 2,5 procento dydžio suma, apskaičiuota nuo pažeidimo pavojingumo priklausančio baudos dydžio. Jeigu pažeidimas truko tik pusę metų ar trumpiau, nuo pažeidimo trukmės priklausantis baudos dydis neskaičiuojamas.
-13. Vyriausybė tvirtina baudų dydžio nustatymo tvarkos aprašą.38 straipsnis. Atleidimas nuo baudų ir jų sumažinimas
+13. Vyriausybė tvirtina baudų dydžio nustatymo tvarkos aprašą.
+
+38 straipsnis. Atleidimas nuo baudų ir jų sumažinimas
 
 
 1. Ūkio subjektas, kuris yra draudžiamo konkurentų susitarimo, nurodyto šio įstatymo 5 straipsnio 1 dalies 1–4 punktuose, arba kito konkurentų susitarimo, kuriuo siekiama riboti konkurenciją ir kuriuo pažeidžiamos šio įstatymo 5 straipsnio 1 dalies ar Sutarties dėl Europos Sąjungos veikimo 101 straipsnio 1 dalies nuostatos, dalyvis arba yra draudžiamo ne konkurentų susitarimo dėl tiesioginio ar netiesioginio kainų nustatymo (fiksavimo), nurodyto šio įstatymo 5 straipsnio 1 dalies 1 punkte, dalyvis, prašyme atleisti nuo baudos pateikęs Konkurencijos tarybai visą informaciją apie tokį susitarimą, atleidžiamas nuo baudos, numatytos už šį pažeidimą, jeigu yra visos šios sąlygos:
