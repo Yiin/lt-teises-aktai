@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2025-11-01 iki 2026-04-30
+Suvestinė redakcija nuo 2026-05-01
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
  
@@ -2181,7 +2181,23 @@ Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 
 
 
-161 straipsnis. Reikalavimai elektroninei automatų duomenų valdymo sistemai
+161 straipsnis. Platformos prijungimas prie LAKIS
+
+
+Platforma prie LAKIS turi būti prijungta Priežiūros tarnybos nustatyta tvarka. Platforma turi fiksuoti ir ne rečiau kaip kas 30 dienų perduoti į LAKIS duomenis, nurodytus šio įstatymo 16 straipsnio 9 dalies 1, 4, 7, 8, 9 ir 10 punktuose.
+
+
+Papildyta straipsniu:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
+
+
+
+
+162 straipsnis. Reikalavimai elektroninei automatų duomenų valdymo sistemai
+Straipsnio numeracijos pakeitimas:
+Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
+ 
 
 
 1. Elektronine automatų duomenų valdymo sistema turi būti užtikrinamas automato identifikacinių (automato serija ir numeris), veikimo ir elektroninių skaitiklių duomenų:
