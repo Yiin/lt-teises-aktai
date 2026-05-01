@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea8fee50ac9311e6b844f0f29024f5ac"
 
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas
 
-Suvestinė redakcija nuo 2026-01-01 iki 2026-04-30
+Suvestinė redakcija nuo 2026-05-01
  
 Įstatymas paskelbtas: TAR 2016-11-17, i. k. 2016-26968
  
@@ -390,10 +390,11 @@ Nr. XIV-3046, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18438
 
 
 
-34. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos kredito administratorių ir kredito pirkėjų įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme ir Lietuvos Respublikos užimtumo įstatyme. 
+34. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos kredito administratorių ir kredito pirkėjų įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos privalomojo turto ir verslo vertinimo įstatyme ir Lietuvos Respublikos užimtumo įstatyme.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
 Nr. XIV-2897, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13506
+Nr. XIV-2934, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13607
  
 
 
@@ -586,7 +587,10 @@ Kredito davėjas ir kredito tarpininkas, jeigu kredito sutartį siūlo sudaryti 
 
 
 
-12) ar būtinas turto vertinimas ir, jeigu būtina, kas privalo užtikrinti, kad būtų atliktas turto vertinimas, ir ar kredito gavėjas turės su tuo susijusių išlaidų bei kredito gavėjo teisė pasirinkti šio įstatymo 14 straipsnyje nustatytus reikalavimus atitinkančius nepriklausomą turto arba verslo vertinimo įmonę ar turto arba verslo vertintoją, jeigu kredito davėjas reikalauja atlikti nepriklausomą įkeičiamo nekilnojamojo turto vertinimą;
+12) ar būtinas turto vertinimas ir, jeigu būtina, kas privalo užtikrinti, kad būtų atliktas privalomasis turto vertinimas, ir ar kredito gavėjas turės su tuo susijusių išlaidų, bei kredito gavėjo teisė pasirinkti šio įstatymo 14 straipsnyje nustatytus reikalavimus atitinkantį turto arba verslo vertintoją, jeigu kredito davėjas reikalauja atlikti privalomąjį įkeičiamo nekilnojamojo turto vertinimą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2580, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08221
+ 
 
 
 
@@ -989,7 +993,7 @@ Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
 14 straipsnis. Nekilnojamojo turto vertinimas
 
 
-1. Kai kredito davėjas reikalauja pateikti nepriklausomą (išorės) nekilnojamojo turto, kurio hipoteka užtikrinamas įsipareigojimų pagal kredito sutartį įvykdymas, vertinimą, kredito gavėjas turi teisę pasirinkti nepriklausomą turto arba verslo vertinimo įmonę ar nepriklausomą turto arba verslo vertintoją. Kredito gavėjo pasirinkta nepriklausoma turto arba verslo vertinimo įmonė ar nepriklausomas turto arba verslo vertintojas turi būti Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka įrašytas į Išorės turto arba verslo vertinimo veikla turinčių teisę verstis asmenų sąrašą ir turėti teisę vertinti nekilnojamąjį turtą, arba pasirinktas kitos valstybės narės turto arba verslo vertintojas ar turto arba verslo vertinimo įmonė, kuri laikinai arba vienkartinai turi teisę vertinti nekilnojamąjį turtą Lietuvos Respublikoje. Kredito davėjas turi teisę motyvuotai nesutikti su kredito gavėjo pagal šį straipsnį pasirinkta nepriklausoma turto arba verslo vertinimo įmone arba nepriklausomu turto arba verslo vertintoju.
+1. Kai kredito davėjas reikalauja atlikti privalomąjį nekilnojamojo turto, kurio hipoteka užtikrinamas įsipareigojimų pagal kredito sutartį įvykdymas, vertinimą, kredito gavėjas turi teisę pasirinkti turto arba verslo vertintoją. Kredito gavėjo pasirinktas turto arba verslo vertintojas turi būti nesusijęs su kredito išdavimo procesu, taip pat vadovautis kitais Privalomojo turto ir verslo vertinimo įstatyme nustatytais reikalavimais. Kredito davėjas turi teisę motyvuotai nesutikti su kredito gavėjo pagal šį straipsnį pasirinktu turto arba verslo vertintoju.
 
 
 
@@ -999,15 +1003,15 @@ Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
 
 
 
-3. Kai kredito sutarties galiojimo laikotarpiu sumažėja įkeisto nekilnojamojo turto vertė, kredito davėjas neturi teisės reikalauti papildomų įsipareigojimų pagal kredito sutartį įvykdymo užtikrinimo priemonių, išskyrus atvejus, kai įkeisto nekilnojamojo turto vertė sumažėja dėl kredito gavėjo ar įkaito davėjo kaltės. 
+3. Kai kredito sutarties galiojimo laikotarpiu sumažėja įkeisto nekilnojamojo turto vertė, kredito davėjas neturi teisės reikalauti papildomų įsipareigojimų pagal kredito sutartį įvykdymo užtikrinimo priemonių, išskyrus atvejus, kai įkeisto nekilnojamojo turto vertė sumažėja dėl kredito gavėjo ar įkaito davėjo kaltės.
 
 
 
 
-4. Kredito davėjas turi teisę reikalauti, kad kredito gavėjas padengtų nepriklausomo (išorės) nekilnojamojo turto, kurio hipoteka užtikrinamas ir (arba) užtikrintas įsipareigojimų pagal kredito sutartį įvykdymas, vertinimo išlaidas tik tais atvejais, kai:
+4. Kredito davėjas turi teisę reikalauti, kad kredito gavėjas padengtų privalomojo nekilnojamojo turto, kurio hipoteka užtikrinamas ir (arba) užtikrintas įsipareigojimų pagal kredito sutartį įvykdymas, vertinimo išlaidas tik tais atvejais, kai:
 
 
-1) kredito gavėjas prašo suteikti kreditą arba padidinti bendrą kredito sumą; 
+1) kredito gavėjas prašo suteikti kreditą arba padidinti bendrą kredito sumą;
 
 
 
@@ -1017,19 +1021,19 @@ Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
 
 
 
-3) kredito gavėjas siekia pakeisti esmines kredito sutarties sąlygas. 
+3) kredito gavėjas siekia pakeisti esmines kredito sutarties sąlygas.
 
 
 
 
 
 
-6. Kredito davėjas privalo saugoti duomenis apie nekilnojamąjį turtą, kurio hipoteka užtikrintas įsipareigojimų pagal kredito sutartis įvykdymas, 10 metų nuo įsipareigojimų pagal kredito sutartį įvykdymo dienos, jeigu kiti teisės aktai, reglamentuojantys asmens duomenų teisinę apsaugą ir dokumentų saugojimą, nenustato ilgesnio duomenų saugojimo termino.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
+5. Jeigu šio straipsnio 4 dalies 1 punkte nurodytu atveju bendra kredito suma išmokama dalimis, kredito davėjas turi teisę reikalauti privalomojo nekilnojamojo turto, kurio hipoteka užtikrinamas ir (arba) užtikrintas įsipareigojimų pagal kredito sutartį įvykdymas, vertinimo prieš kiekvieną bendros kredito sumos dalies išmokėjimą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2580, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08221
  
-
-
 
 
 
@@ -1154,7 +1158,10 @@ Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
 
 
 
-16) kredito gavėjo teisė pasirinkti šio įstatymo 14 straipsnyje nustatytus reikalavimus atitinkančius nepriklausomą turto arba verslo vertinimo įmonę ar turto arba verslo vertintoją, jeigu kredito davėjas reikalauja atlikti nepriklausomą įkeičiamo nekilnojamojo turto vertinimą;
+16) kredito gavėjo teisė pasirinkti šio įstatymo 14 straipsnyje nustatytus reikalavimus atitinkantį turto arba verslo vertintoją, jeigu kredito davėjas reikalauja atlikti privalomąjį įkeičiamo nekilnojamojo turto vertinimą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2580, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08221
+ 
 
 
 
