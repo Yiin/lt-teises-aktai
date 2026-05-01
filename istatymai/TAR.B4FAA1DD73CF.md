@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2026-04-30
+Suvestinė redakcija nuo 2026-05-01
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
  
@@ -55,6 +55,14 @@ BENDROSIOS NUOSTATOS
 
 
 
+21. Individualusis nekilnojamojo turto vertinimas (toliau – individualusis vertinimas) – nekilnojamojo turto vertinimas, atliekamas pagal šio įstatymo 8 straipsnį ir Lietuvos Respublikos privalomojo turto ir verslo vertinimo įstatymą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2577, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08218
+ 
+
+
+
+
 3. Įsigyjamas nekilnojamasis turtas – pagal finansinės nuomos (lizingo) sutartį, kurioje numatytas nuosavybės teisės perėjimas, taip pat pagal pirkimo–pardavimo išsimokėtinai ar išperkamosios nuomos sutartį asmens valdomas nekilnojamasis turtas (ar jo dalis). 
 
 
@@ -83,12 +91,18 @@ Nr. XIII-2244, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10373
 
 
 
-7. Nekilnojamojo turto masinis vertinimas – nekilnojamojo turto vertinimo būdas, kai per nustatytą laiką, taikant bendrą metodologiją ir automatizuotas Nekilnojamojo turto registro ir rinkos duomenų bazėse sukauptų duomenų analizės ir vertinimo technologijas, yra įvertinama panašių nekilnojamojo turto objektų grupė. Atlikus nekilnojamojo turto masinį vertinimą, parengiama bendra tam tikroje teritorijoje esančio nekilnojamojo turto vertinimo ataskaita, o kiekvieno nekilnojamojo turto vieneto ataskaita nerengiama.
+7. Neteko galios nuo 2026-05-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2577, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08218
+ 
 
 
 
 
-8. Nekilnojamojo turto vidutinė rinkos vertė – nekilnojamojo turto vertė, nustatyta šio įstatymo 9 straipsnio 2 dalyje nurodytais turto vertinimo metodais ir būdais.
+8. Neteko galios nuo 2026-05-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2577, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08218
+ 
 
 
 
@@ -98,7 +112,10 @@ Nr. XIII-2244, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10373
 
 
 
-10. Turto vertintojas – turtą vertinanti įmonė, tvarkanti Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą.
+10. Neteko galios nuo 2026-05-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2577, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08218
+ 
 
 
 
@@ -108,7 +125,10 @@ Nr. XIII-2244, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10373
 
 
 
-12. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos (prioriteto tvarka) Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos civiliniame kodekse ir Lietuvos Respublikos statybos įstatyme. Šiame įstatyme nurodyta nekilnojamojo turto paskirtis atitinka nekilnojamojo turto paskirtį, nustatytą Nekilnojamojo turto kadastro nuostatuose ir statybą reglamentuojančiuose norminiuose teisės aktuose. 
+12. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos (prioriteto tvarka) Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos statybos įstatyme ir Lietuvos Respublikos nekilnojamojo turto kadastro įstatyme. Šiame įstatyme nurodyta nekilnojamojo turto paskirtis atitinka nekilnojamojo turto paskirtį, nustatytą Nekilnojamojo turto kadastro nuostatuose ir statybą reglamentuojančiuose norminiuose teisės aktuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2577, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08218
+ 
 
 
 Straipsnio pakeitimai:
@@ -192,7 +212,7 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 
 1. Mokesčio tarifas – nuo 0,5 procento iki 3 procentų nekilnojamojo turto mokestinės vertės, jeigu šiame straipsnyje nenustatyta kitaip.
 TAR pastaba. 6 straipsnio 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
-                            Nuostata, kad Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6 straipsnio 1 dalis (2019 m. gruodžio 12 d. redakcija), 7 straipsnio 1 dalies 6, 7 punktai (2019 m. gruodžio 12 d. redakcija) įsigaliojo 2020 m. sausio 1 d., prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
+Nuostata, kad Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6 straipsnio 1 dalis (2019 m. gruodžio 12 d. redakcija), 7 straipsnio 1 dalies 6, 7 punktai (2019 m. gruodžio 12 d. redakcija) įsigaliojo 2020 m. sausio 1 d., prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
 Straipsnio dalies pakeitimai:
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
 Nr. XI-2178, 2012-06-29, Žin., 2012, Nr. 82-4265 (2012-07-13), i. k. 1121010ISTA0XI-2178
@@ -204,18 +224,17 @@ Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
 
 
 
-2. Savivaldybės taryba, siekdama, kad naujas konkretus mokesčio tarifas galiotų šios savivaldybės teritorijoje nuo kito mokestinio laikotarpio pradžios, naują konkretų mokesčio tarifą turi nustatyti iki einamojo mokestinio laikotarpio liepos 1 dienos. Jeigu, vadovaujantis šio įstatymo 9 straipsnio 3 dalimi, nuo kito mokestinio laikotarpio mokestis už šio įstatymo 9 straipsnio 2 dalies 1 ir 2 punktuose nurodytą nekilnojamąjį turtą bus skaičiuojamas taikant naujai atlikto nekilnojamojo turto masinio vertinimo metu nustatytą vertę, kitą mokestinį laikotarpį galiosiantį naują konkretų mokesčio tarifą savivaldybės taryba gali nustatyti iki einamojo mokestinio laikotarpio gruodžio 1 dienos. Savivaldybės taryba gali nustatyti ir kelis konkrečius mokesčio tarifus, kurie diferencijuojami tik atsižvelgiant į vieną arba kelis iš šių kriterijų: nekilnojamojo turto paskirtį, naudojimą, teisinį statusą, jo technines savybes, priežiūros būklę, apleistumą, mokesčio mokėtojų kategorijas (dydį ar teisinę formą, ar socialinę padėtį) ar nekilnojamojo turto buvimo savivaldybės teritorijoje vietą (pagal strateginio planavimo ir teritorijų planavimo dokumentuose nustatytus prioritetus). Jeigu savivaldybės taryba per šioje dalyje nurodytus terminus nenustato naujų konkrečių mokesčio tarifų, kitą mokestinį laikotarpį galioja paskutiniai nustatyti konkretūs mokesčio tarifai. 
-TAR pastaba. 6 straipsnio 2 ir 3 dalių nuostatos taikomos nustatant 2021 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokesčio tarifus.
+2. Savivaldybės taryba, siekdama, kad naujas konkretus mokesčio tarifas galiotų šios savivaldybės teritorijoje nuo kito mokestinio laikotarpio pradžios, naują konkretų mokesčio tarifą turi nustatyti iki einamojo mokestinio laikotarpio liepos 1 dienos. Jeigu, vadovaujantis šio įstatymo 9 straipsnio 3 dalimi, nuo kito mokestinio laikotarpio mokestis už šio įstatymo 9 straipsnio 2 dalies 1 ir 2 punktuose nurodytą nekilnojamąjį turtą bus skaičiuojamas taikant naujai atlikto masinio nekilnojamojo turto vertinimo (toliau – masinis vertinimas) metu nustatytą vertę, kitą mokestinį laikotarpį galiosiantį naują konkretų mokesčio tarifą savivaldybės taryba gali nustatyti iki einamojo mokestinio laikotarpio gruodžio 1 dienos. Savivaldybės taryba gali nustatyti ir kelis konkrečius mokesčio tarifus, kurie diferencijuojami tik atsižvelgiant į vieną arba kelis iš šių kriterijų: nekilnojamojo turto paskirtį, naudojimą, teisinį statusą, jo technines savybes, priežiūros būklę, apleistumą, mokesčio mokėtojų kategorijas (dydį ar teisinę formą, ar socialinę padėtį) ar nekilnojamojo turto buvimo savivaldybės teritorijoje vietą (pagal strateginio planavimo ir teritorijų planavimo dokumentuose nustatytus prioritetus). Jeigu savivaldybės taryba per šioje dalyje nurodytus terminus nenustato naujų konkrečių mokesčio tarifų, kitą mokestinį laikotarpį galioja paskutiniai nustatyti konkretūs mokesčio tarifai.
 Straipsnio dalies pakeitimai:
 Nr. XIII-430, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10250
 Nr. XIII-2244, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10373
+Nr. XIV-2577, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08218
  
 
 
 
 
 3. Jeigu savivaldybės taryba kito mokestinio laikotarpio konkrečius mokesčio tarifus nustato arba pakeičia po šio straipsnio 2 dalyje nurodytų terminų, nustatyti (pakeisti) konkretūs mokesčio tarifai savivaldybės teritorijoje taikomi dar kitą mokestinį laikotarpį po ateinančio mokestinio laikotarpio. 
-TAR pastaba. 6 straipsnio 2 ir 3 dalių nuostatos taikomos nustatant 2021 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokesčio tarifus.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2244, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10373
  
@@ -237,7 +256,6 @@ Nr. XIII-2244, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10373
 
 
 3) 500 000 eurų, taikomas 2 procentų mokesčio tarifas. 
-TAR pastaba. 4 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
 
 
 Papildyta straipsnio dalimi:
@@ -263,8 +281,7 @@ Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
 
 
 
-3) 650 000 eurų, taikomas 2 procentų mokesčio tarifas. 
-TAR pastaba. 5 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
+3) 650 000 eurų, taikomas 2 procentų mokesčio tarifas.
 
 
 Papildyta straipsnio dalimi:
@@ -286,8 +303,7 @@ Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr
 1. Mokesčiu neapmokestinamas nekilnojamasis turtas, už kurį mokestį pagal šio įstatymo 3 straipsnį moka fizinis asmuo:
 
 
-1) nekilnojamasis turtas (arba jo dalis), fizinio asmens naudojamas socialinei globai ir socialinei priežiūrai; 
-TAR pastaba. 1 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
+1) nekilnojamasis turtas (arba jo dalis), fizinio asmens naudojamas socialinei globai ir socialinei priežiūrai;
 Straipsnio punkto pakeitimai:
 Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
  
@@ -306,7 +322,6 @@ Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
 
 
 4) nekilnojamasis turtas (arba jo dalis), esantis kapinių teritorijoje; 
-TAR pastaba. 4 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
 Straipsnio punkto pakeitimai:
 Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
  
@@ -321,7 +336,7 @@ Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
 
 6) fiziniams asmenims nuosavybės teise priklausančių ar jų įsigyjamų gyvenamosios, sodų, garažų, fermų, šiltnamių, ūkio, pagalbinio ūkio, mokslo, religinės, poilsio paskirties statinių (patalpų), žuvininkystės statinių ir inžinerinių statinių bendra vertė, neviršijanti 150 000 eurų;
 TAR pastaba. 7 straipsnio 1 dalies 6 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
-                            Nuostata, kad Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6 straipsnio 1 dalis (2019 m. gruodžio 12 d. redakcija), 7 straipsnio 1 dalies 6, 7 punktai (2019 m. gruodžio 12 d. redakcija) įsigaliojo 2020 m. sausio 1 d., prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
+Nuostata, kad Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6 straipsnio 1 dalis (2019 m. gruodžio 12 d. redakcija), 7 straipsnio 1 dalies 6, 7 punktai (2019 m. gruodžio 12 d. redakcija) įsigaliojo 2020 m. sausio 1 d., prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
 Papildyta straipsnio punktu:
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
 Straipsnio punkto pakeitimai:
@@ -335,15 +350,14 @@ Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
 
 
 
-7) asmenims, auginantiems tris ir daugiau vaikų (įvaikių) iki 18 metų, ir asmenims, auginantiems neįgalų vaiką (įvaikį) iki 18 metų, taip pat vyresnį neįgalų vaiką (įvaikį), kuriam nustatytas specialusis nuolatinės slaugos poreikis, nuosavybės teise priklausančio ar jų įsigyjamo šios dalies 6 punkte nurodyto nekilnojamojo turto bendra vertė, neviršijanti 200 000 eurų.
-TAR pastaba. 7 straipsnio 1 dalies 7 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
-                            Nuostata, kad Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6 straipsnio 1 dalis (2019 m. gruodžio 12 d. redakcija), 7 straipsnio 1 dalies 6, 7 punktai (2019 m. gruodžio 12 d. redakcija) įsigaliojo 2020 m. sausio 1 d., prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
+7) asmenims, auginantiems tris ir daugiau vaikų (įvaikių) iki 18 metų, ir asmenims, auginantiems vaiką su negalia (įvaikį) iki 18 metų, taip pat vyresnį vaiką su negalia (įvaikį), kuriam nustatytas individualios pagalbos teikimo išlaidų kompensacijos pirmo ar antro lygio poreikis, nuosavybės teise priklausančio ar jų įsigyjamo šios dalies 6 punkte nurodyto nekilnojamojo turto bendra vertė, neviršijanti 200 000 eurų. 
 Papildyta straipsnio punktu:
 Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
 Straipsnio punkto pakeitimai:
 Nr. XIII-2653, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21307
 Nr. XIV-725, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25843
 Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
+Nr. XIV-2577, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08218
  
 
 
@@ -358,7 +372,6 @@ Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr
 
 
 1) užsienio valstybių diplomatinių atstovybių ir konsulinių įstaigų, pagal tarptautinę teisę specialų statusą turinčių subjektų ar kitų subjektų, su kuriais Lietuvos Respublikos tarptautinis bendradarbiavimas atitinka Lietuvos Respublikos Seimo priimtuose teisės aktuose nustatytus užsienio politikos ir nacionalinio saugumo tikslus, atstovybių, akredituotų Lietuvos Respublikos Vyriausybės nustatyta tvarka, tarptautinių tarpvyriausybinių organizacijų ar jų atstovybių nekilnojamasis turtas;
-TAR pastaba. 7 straipsnio 2 dalies 1 punkto nuostatos taikomos nuo 2022-07-01.
 Straipsnio punkto pakeitimai:
 Nr. XIV-995, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07160
  
@@ -392,7 +405,6 @@ Nr. XIV-995, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07160
 
 
 7) nekilnojamasis turtas (arba jo dalis), esantis kapinių teritorijoje; 
-TAR pastaba. 7 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį
 Straipsnio punkto pakeitimai:
 Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
  
@@ -400,7 +412,10 @@ Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
 
 
 
-8) neįgaliųjų asociacijų, įmonių ir įstaigų, kurių dalyviai yra tik neįgaliųjų asociacijos, nekilnojamasis turtas;
+8) neįgaliųjų asociacijų, įmonių ir įstaigų, kurių dalyviai yra tik asmenų su negalia asociacijos, nekilnojamasis turtas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2577, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08218
+ 
 
 
 
@@ -522,45 +537,46 @@ NEKILNOJAMOJO TURTO MOKESTINĖ VERTĖ
 1. Nekilnojamojo turto mokestinė vertė yra nekilnojamojo turto vidutinė rinkos vertė:
 
 
-1) šio įstatymo 9 straipsnio 2 dalies 1 ir 2 punktuose nurodyto nekilnojamojo turto – nustatyta pagal vėliausius Lietuvos Respublikos Vyriausybės nustatyta tvarka patvirtintus nekilnojamojo turto masinio vertinimo dokumentus;
+1) šio įstatymo 9 straipsnio 2 dalies 1 ir 2 punktuose nurodyto nekilnojamojo turto – nustatyta pagal vėliausius Lietuvos Respublikos Vyriausybės nustatyta tvarka patvirtintus masinio vertinimo dokumentus;
 
 
 
 
-2) šio įstatymo 9 straipsnio 2 dalies 3 ir 4 punktuose nurodyto nekilnojamojo turto – nustatyta ne anksčiau kaip prieš 5 metus.
+2) šio įstatymo 9 straipsnio 2 dalies 3 ir 4 punktuose nurodyto nekilnojamojo turto – nustatyta ne anksčiau kaip prieš 5 metus.
 
 
 
 
 
 
-2. Nekilnojamojo turto mokestine verte gali būti laikoma nekilnojamojo turto vertė, nustatyta atlikus nekilnojamojo turto individualų vertinimą pagal Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymą, jeigu šis individualus vertinimas buvo atliktas taikant šio įstatymo 9 straipsnio 2 dalyje nurodytus nekilnojamojo turto vertės nustatymo metodus, turto vertintojo nustatyta (patvirtinta) nekilnojamojo turto mokestinė vertė daugiau kaip 20 procentų skiriasi nuo šio nekilnojamojo turto vertės, nustatytos atlikus individualų vertinimą, ir nekilnojamojo turto individualaus vertinimo ataskaita atitinka Lietuvos Respublikos Vyriausybės nustatytus reikalavimus. Mokesčio mokėtojo (šio įstatymo 3 straipsnio 3 dalyje nurodytais atvejais – nekilnojamojo turto savininko) prašymas nekilnojamojo turto mokestine verte laikyti nekilnojamojo turto vertę, nustatytą atlikus nekilnojamojo turto individualų vertinimą, kartu su šio nekilnojamojo turto individualaus vertinimo ataskaita (toliau – prašymas) pateikiamas turto vertintojui ir nagrinėjamas šio įstatymo 10 straipsnio 2 dalyje nustatyta tvarka. Jeigu prašymas tenkinamas, nekilnojamojo turto individualaus vertinimo metu nustatyta vertė šio nekilnojamojo turto mokestine verte laikoma nuo to mokestinio laikotarpio, kurį pateiktas prašymas, pradžios tol, kol turto vertintojas šio įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka nustato (patvirtina) naują šio turto mokestinę vertę, o šio įstatymo 9 straipsnio 2 dalies 3 ir 4 punktuose nurodyto turto atvejais – ne ilgiau negu šio įstatymo 9 straipsnio 3 dalyje nurodytą laikotarpį. 
+2. Nekilnojamojo turto mokestine verte gali būti laikoma nekilnojamojo turto vertė, nustatyta atlikus individualųjį vertinimą, jeigu individualusis vertinimas buvo atliktas taikant šio įstatymo 9 straipsnio 2 dalyje nurodytus nekilnojamojo turto vertės nustatymo metodus, masinio nekilnojamojo turto vertinimo įmonės (toliau – masinio vertinimo įmonė) nustatyta (patvirtinta) nekilnojamojo turto mokestinė vertė daugiau kaip 20 procentų skiriasi nuo šio nekilnojamojo turto vertės, nustatytos atlikus individualųjį vertinimą, ir individualusis vertinimas atitinka Lietuvos Respublikos Vyriausybės nustatytus reikalavimus. Mokesčio mokėtojo (šio įstatymo 3 straipsnio 3 dalyje nurodytais atvejais – nekilnojamojo turto savininko) prašymas nekilnojamojo turto mokestine verte laikyti nekilnojamojo turto vertę, nustatytą atlikus individualųjį vertinimą, kartu su individualiojo vertinimo ataskaita (toliau – prašymas) pateikiamas masinio vertinimo įmonei ir nagrinėjamas šio įstatymo 10 straipsnio 2 dalyje nustatyta tvarka. Jeigu prašymas tenkinamas, individualiojo vertinimo metu nustatyta vertė šio nekilnojamojo turto mokestine verte laikoma nuo to mokestinio laikotarpio, kurį pateiktas prašymas, pradžios tol, kol masinio vertinimo įmonė šio įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka nustato (patvirtina) naują šio turto mokestinę vertę, o šio įstatymo 9 straipsnio 2 dalies 3 ir 4 punktuose nurodyto turto atvejais – ne ilgiau negu šio įstatymo 9 straipsnio 3 dalyje nurodytą laikotarpį.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+Nr. XIV-2577, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08218
  
 
 
 
 
-9 straipsnis. Nekilnojamojo turto vertinimas
+9 straipsnis. Masinis nekilnojamojo turto vertinimas
 
 
-1. Nekilnojamojo turto vertinimą atlieka turto vertintojas.
-
-
-
-
-2. Nekilnojamasis turtas vertinamas:
-
-
-1) komercinio naudojimo nekilnojamasis turtas – lyginamosios vertės (pardavimo kainų analogų) arba naudojimo pajamų vertės (pajamų kapitalizavimo arba pinigų srautų diskonto) metodu atliekant masinį nekilnojamojo turto vertinimą. Nekilnojamojo turto masinio vertinimo metodą, objektyviausiai atspindintį vertinamo nekilnojamojo turto vidutinę rinkos vertę, parenka turto vertintojas;
+1. Masinį vertinimą atlieka masinio vertinimo įmonė.
 
 
 
 
-2) gyvenamosios, sodų, garažų (automobilių garažų, atvirų ar uždarų požeminių, antžeminių automobilių saugyklų, elingų) ir pagalbinio ūkio (namų ūkio pastatų, esančių privačiame namų valdos žemės sklype, ūkininko sodybos žemės ūkio paskirties žemės sklype, sodo sklype ir skirtų ten gyvenančių žmonių būtiniausioms nuolatinėms reikmėms) paskirties nekilnojamasis turtas – lyginamosios vertės (pardavimo kainų analogų) metodu atliekant masinį nekilnojamojo turto vertinimą;
+2. Nekilnojamasis turtas vertinamas: 
+
+
+1) komercinio naudojimo nekilnojamasis turtas – lyginamosios vertės (pardavimo kainų analogų) arba naudojimo pajamų vertės (pajamų kapitalizavimo arba pinigų srautų diskonto) metodu atliekant masinį vertinimą. Masinio vertinimo metodą, objektyviausiai atspindintį vertinamo nekilnojamojo turto vidutinę rinkos vertę (toliau – vidutinė rinkos vertė), parenka masinio vertinimo įmonė;
+
+
+
+
+2) gyvenamosios, sodų, garažų (automobilių garažų, atvirų ar uždarų požeminių, antžeminių automobilių saugyklų, elingų) ir pagalbinio ūkio (namų ūkio pastatų, esančių privačiame namų valdos žemės sklype, ūkininko sodybos žemės ūkio paskirties žemės sklype, sodo sklype ir skirtų ten gyvenančių žmonių būtiniausioms nuolatinėms reikmėms) paskirties nekilnojamasis turtas – lyginamosios vertės (pardavimo kainų analogų) metodu atliekant masinį vertinimą;
 
 
 
@@ -577,11 +593,12 @@ Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr
 
 
 
-3. Nekilnojamojo turto vertinimas atliekamas Lietuvos Respublikos Vyriausybės nustatyta tvarka ne rečiau kaip kas 5 metai. 
+3. Masinis vertinimas, kurio metu nustatoma vidutinė rinkos vertė, atliekamas vadovaujantis šiuo įstatymu, Nekilnojamojo turto kadastro įstatymu, Lietuvos Respublikos Vyriausybės nustatyta tvarka ne rečiau kaip kas 5 metai.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+Nr. XIV-2577, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08218
  
 
 
@@ -590,26 +607,27 @@ Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr
 10 straipsnis. Skundai ir prašymai dėl nustatytos nekilnojamojo turto mokestinės vertės
 
 
-1. Mokesčio mokėtojų (šio įstatymo 3 straipsnio 3 dalyje nurodytais atvejais – nekilnojamojo turto savininkų) skundai dėl turto vertintojo nustatytos nekilnojamojo turto mokestinės vertės (toliau – skundas) pateikiami turto vertintojui per tris mėnesius nuo nekilnojamojo turto mokestinės vertės nustatymo. Šiuos skundus turto vertintojas išnagrinėja ir sprendimą priima per du mėnesius nuo skundo gavimo dienos. Turto vertintojo sprendimas gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+1. Mokesčio mokėtojų (šio įstatymo 3 straipsnio 3 dalyje nurodytais atvejais – nekilnojamojo turto savininkų) skundai dėl masinio vertinimo įmonės nustatytos nekilnojamojo turto mokestinės vertės (toliau – skundas) pateikiami masinio vertinimo įmonei per 3 mėnesius nuo nekilnojamojo turto mokestinės vertės nustatymo dienos. Šiuos skundus masinio vertinimo įmonė išnagrinėja ir sprendimą priima per 2 mėnesius nuo skundo gavimo dienos. Masinio vertinimo įmonės sprendimas gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 
 
-2. Mokesčio mokėtojai (šio įstatymo 3 straipsnio 3 dalyje nurodytais atvejais – nekilnojamojo turto savininkai) vieną kartą per mokestinį laikotarpį, per tris mėnesius nuo mokestinio laikotarpio pradžios, turto vertintojui gali pateikti prašymą nekilnojamojo turto mokestine verte laikyti nekilnojamojo turto vertę, nustatytą atlikus nekilnojamojo turto individualų vertinimą. Šiuos prašymus turto vertintojas išnagrinėja ir sprendimą priima per tris mėnesius (tuo mokestiniu laikotarpiu, kai įsigalioja nauji Lietuvos Respublikos Vyriausybės nustatyta tvarka patvirtinti nekilnojamojo turto masinio vertinimo dokumentai, – per keturis mėnesius) nuo prašymo gavimo dienos. Turto vertintojo sprendimas gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+2. Mokesčio mokėtojai (šio įstatymo 3 straipsnio 3 dalyje nurodytais atvejais – nekilnojamojo turto savininkai) vieną kartą per mokestinį laikotarpį, per 3 mėnesius nuo mokestinio laikotarpio pradžios, masinio vertinimo įmonei gali pateikti prašymą nekilnojamojo turto mokestine verte laikyti nekilnojamojo turto vertę, nustatytą atlikus individualųjį vertinimą. Šį prašymą masinio vertinimo įmonė išnagrinėja ir sprendimą priima per 3 mėnesius (tuo mokestiniu laikotarpiu, kai įsigalioja nauji Lietuvos Respublikos Vyriausybės nustatyta tvarka patvirtinti masinio vertinimo dokumentai, – per 4 mėnesius) nuo prašymo gavimo dienos. Masinio vertinimo įmonės sprendimas gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 
 
-3. Turto vertintojas apie mokesčio mokėtojo skundo ar prašymo gavimą ir priimtą dėl skundo ar prašymo sprendimą informuoja vietos mokesčių administratorių ne vėliau kaip per vieną darbo dieną nuo atitinkamai skundo ar prašymo gavimo dienos arba sprendimo priėmimo dienos.
+3. Masinio vertinimo įmonė apie mokesčio mokėtojo skundo ar prašymo gavimą ir priimtą dėl skundo ar prašymo sprendimą informuoja vietos mokesčių administratorių ne vėliau kaip per vieną darbo dieną nuo atitinkamai skundo ar prašymo gavimo dienos arba sprendimo priėmimo dienos.
 
 
 
 
-4. Mokesčio mokėtojo skundo ar prašymo pateikimas turto vertintojui mokesčio ir su juo susijusių sumų (išskyrus avansinį mokestį ir su juo susijusias sumas) išieškojimą sustabdo iki turto vertintojo sprendimo dėl skundo ar prašymo priėmimo arba teismo sprendimo (nutarties) įsiteisėjimo dienos, jeigu mokesčio mokėtojas turto vertintojo sprendimą apskundė Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, tačiau tai nėra kliūtis taikyti mokestinės prievolės užtikrinimo priemones, nurodytas Lietuvos Respublikos mokesčių administravimo įstatymo 95 straipsnyje, arba pagrindas jas naikinti. 
+4. Mokesčio mokėtojo skundo ar prašymo pateikimas masinio vertinimo įmonei mokesčio ir su juo susijusių sumų (išskyrus avansinį mokestį ir su juo susijusias sumas) išieškojimą sustabdo iki masinio vertinimo įmonės sprendimo dėl skundo ar prašymo priėmimo arba teismo sprendimo (nutarties) įsiteisėjimo dienos, jeigu mokesčio mokėtojas masinio vertinimo įmonės sprendimą apskundė Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, tačiau tai nėra kliūtis taikyti mokestinės prievolės įvykdymo užtikrinimo būdus, nurodytus Lietuvos Respublikos mokesčių administravimo įstatymo 95 straipsnyje, arba pagrindas juos naikinti.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+Nr. XIV-2577, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08218
  
 
 
@@ -625,27 +643,27 @@ MOKESČIO MOKĖJIMAS
 11 straipsnis. Duomenų, reikalingų mokesčiui apskaičiuoti, pateikimas 
 
 
-1. Nekilnojamojo turto registro ir Nekilnojamojo turto kadastro duomenis, reikalingus mokesčiui apskaičiuoti, turto vertintojas pateikia vietos mokesčių administratoriui kiekvienais metais iki vasario 1 dienos ir iki rugpjūčio 1 dienos, o duomenis apie nekilnojamąjį turtą, apmokestinamą taikant šio įstatymo 6 straipsnio 4 ir 5 dalyse nustatytus tarifus, ir iki gruodžio 15 dienos. 
-TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
-Straipsnio dalies pakeitimai:
-Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
-Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
+1. Nekilnojamojo turto registro ir Nekilnojamojo turto kadastro duomenis (įskaitant asmens duomenis), reikalingus mokesčiui apskaičiuoti, masinio vertinimo įmonė pateikia vietos mokesčių administratoriui kiekvienais metais iki vasario 1 dienos ir iki rugpjūčio 1 dienos, o duomenis (įskaitant asmens duomenis) apie nekilnojamąjį turtą, apmokestinamą taikant šio įstatymo 6 straipsnio 4 ir 5 dalyse nustatytus tarifus, ir iki gruodžio 15 dienos. 
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytų duomenų pateikimo tvarka nustatoma masinio vertinimo įmonės ir centrinio mokesčių administratoriaus tarpusavio sutartyje nustatytais būdais ir terminais.
+
+
+
+
+3. Mokesčio mokėtojo pageidavimu masinio vertinimo įmonė, kai nekilnojamasis turtas įvertintas išlaidų (kaštų) metodu, parengia Nekilnojamojo turto registro išrašą, kuriame nurodoma nekilnojamojo turto mokestinė vertė. Fizinių asmenų pageidavimu šie išrašai vieną kartą per mokestinį laikotarpį teikiami neatlygintinai.
+
+
+
+
+4. Masinio vertinimo įmonė sudaro galimybes savo interneto svetainėje mokesčių mokėtojams neatlygintinai sužinoti jų nekilnojamojo turto, įvertinto lyginamuoju arba pajamų metodais, mokestinę vertę.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2577, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08218
  
-
-
-
-
-2. Šio straipsnio 1 dalyje nurodytų duomenų pateikimo tvarka nustatoma turto vertintojo ir centrinio mokesčių administratoriaus tarpusavio sutartyje nustatytais būdais ir terminais.
-
-
-
-
-3. Mokesčio mokėtojo pageidavimu turto vertintojas Lietuvos Respublikos nekilnojamojo turto registro įstatymo nustatyta tvarka parengia Nekilnojamojo turto registro išrašą, kuriame nurodoma nekilnojamojo turto mokestinė vertė. Fizinių asmenų pageidavimu šie išrašai vieną kartą per mokestinį laikotarpį parengiami ir įteikiami nemokamai. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
- 
-
-
 
 
 
@@ -673,7 +691,6 @@ Nr. XII-2153, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19849
 
 
 4. Mokesčio mokėtojai atitinkamo mokestinio laikotarpio mokesčio už nekilnojamąjį turtą, kuris apmokestinamas taikant šio įstatymo 6 straipsnio 4 ir 5 dalyse nustatytus tarifus, deklaraciją vietos mokesčių administratoriui pateikia iki einamojo mokestinio laikotarpio gruodžio 15 dienos, o mokesčio už kitą nekilnojamąjį turtą – iki kitų kalendorinių metų vasario 15 dienos, joje deklaruodami ir einamojo mokestinio laikotarpio pirmų devynių mėnesių avansinį nekilnojamojo turto mokestį. Mokesčio deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius. 
-TAR pastaba. 4 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
 Straipsnio dalies pakeitimai:
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
 Nr. XII-2153, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19849
@@ -768,7 +785,6 @@ Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010IS
 
 
 3. Mokestis už nekilnojamąjį turtą, kuris apmokestinamas taikant šio įstatymo 6 straipsnio 4 ir 5 dalyse nustatytus tarifus, įskaitomas į valstybės biudžetą. 
-TAR pastaba. 3 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
 Papildyta straipsnio dalimi:
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
 Straipsnio dalies pakeitimai:
@@ -1012,3 +1028,8 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 7 straips
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
 Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2577, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08218
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 2, 6, 7, 8, 9, 10 ir 11 straipsnių pakeitimo įstatymas
