@@ -75,39 +75,12 @@ Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
 1. Depozitoriumas – bankas, turintis teisę Lietuvos Respublikoje ar kitoje Europos ekonominės erdvės valstybėje teikti investicines paslaugas ir turintis buveinę arba padalinį Lietuvos Respublikoje.
 
-
-
-
-2. Dukterinė įmonė – kaip ši sąvoka apibrėžta Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme (toliau – Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymas).
-
-
-
-
 21. Europos asmeninės pensijos produktas – kaip ši sąvoka apibrėžta Reglamento (ES) 2019/1238 2 straipsnio 2 dalyje.
 Papildyta straipsnio dalimi:
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
- 
+ 
 
-
-
-
-22. Europos asmeninės pensijos produkto platintojas – kaip ši sąvoka apibrėžta Reglamento (ES) 2019/1238 2 straipsnio 16 dalyje.
-Papildyta straipsnio dalimi:
-Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
- 
-
-
-
-
-23. Europos asmeninės pensijos produkto teikėjas – kaip ši sąvoka apibrėžta Reglamento (ES) 2019/1238 2 straipsnio 15 dalyje. 
-Papildyta straipsnio dalimi:
-Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
- 
-
-
-
-
-3. Finansinės priemonės – Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies 1, 2, 3 ir 4 punktuose nustatytos finansinės priemonės, taip pat indėliai. 
+3. Finansinės priemonės – Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies 1, 2, 3 ir 4 punktuose nustatytos finansinės priemonės, taip pat indėliai. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
  
@@ -138,10 +111,7 @@ Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 
 
-8. Kontrolė – tiesioginis ir (arba) netiesioginis lemiamas poveikis įmonei, kaip tai apibrėžta Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme.
-
-
-
+8. Kontrolė – tiesioginis ir (arba) netiesioginis lemiamas poveikis įmonei, kaip tai apibrėžiama Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme.
 
 9. Nepriekaištingos reputacijos asmenys – kaip ši sąvoka apibrėžta Finansinių priemonių rinkų įstatyme.
 
@@ -266,10 +236,7 @@ Nr. XIII-1875, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00225
 
 26. Valstybė narė – Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė.
 
-
-
-
-27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme ir Lietuvos Respublikos pensijų kaupimo įstatyme.
+27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos pensijų kaupimo įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme ir Reglamente (ES) 2022/2554.
 Papildyta straipsnio dalimi:
 Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 Straipsnio dalies pakeitimai:
@@ -383,10 +350,7 @@ Be Akcinių bendrovių įstatyme nustatytų bendrovėje privalomų sudaryti vald
 
 
 
-6) užtikrinti, kad jos valdymo procedūros ir buhalterinių įrašų bei apskaitos sistemos būtų patikimos ir kad iš jų būtų galima sužinoti visų sandorių šalis, turinį, laiką ir vietą, nustatyti, ar turtas investuojamas laikantis numatytų sąlygų ir teisės aktų;
-
-
-
+6) užtikrinti, kad jos valdymo procedūros ir finansinės apskaitos įrašų bei apskaitos sistemos būtų patikimos ir kad iš jų būtų galima sužinoti visų sandorių kilmę, šalis, turinį, laiką ir vietą, nustatyti, ar turtas investuojamas laikantis numatytų sąlygų ir teisės aktų;
 
 7) atlikti vidaus kontrolę, kontroliuoti savo vadovų ir darbuotojų sudaromus finansinių priemonių sandorius laikantis priežiūros institucijos nustatytos vidaus kontrolės vykdymo tvarkos;
 
@@ -416,8 +380,13 @@ Nr. XIV-1036, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08783
 
 11) laikytis įstatymuose ir priežiūros institucijos nustatytų kapitalo, riziką ribojančių ir kitų reikalavimų veiklai;
 
+4) Valdymo įmonė, turinti pagal šį įstatymą priežiūros institucijos išduotą licenciją verstis pensijų kaupimo veikla, privalo užtikrinti skaitmeninės veiklos atsparumą:
 
+1) laikydamasi Reglamente (ES) 2022/2554 ir jo pagrindu priimtuose Europos Sąjungos deleguotuosiuose ir įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų, taikomų Reglamento (ES) 2022/2554 16 straipsnyje nurodytiems finansų sektoriaus subjektams, – kai valdymo įmonė, kuri tiesiogiai arba netiesiogiai per kitą įmonę, su kuria valdymo įmonė yra susijusi bendru valdymu ar kontrole arba tiesiogiai ar netiesiogiai valdomu akcijų paketu, sudarančiu bent 1/10 valdymo įmonės įstatinio kapitalo, arba tiesiogiai ar netiesiogiai turimomis teisėmis, valdo finansinių priemonių portfelius pensijų fondų, kurių bendras valdomas turtas sudaro mažiau negu 500 milijonų eurų;
 
+2) laikydamasi Reglamente (ES) 2022/2554 ir jo pagrindu priimtuose Europos Sąjungos deleguotuosiuose ir įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų, – kai valdymo įmonė, kuri tiesiogiai arba netiesiogiai per kitą įmonę, su kuria valdymo įmonė yra susijusi bendru valdymu ar kontrole arba tiesiogiai ar netiesiogiai valdomu akcijų paketu, sudarančiu bent 1/10 valdymo įmonės įstatinio kapitalo, arba tiesiogiai ar netiesiogiai turimomis teisėmis, valdo finansinių priemonių portfelius pensijų fondų, kurių bendras valdomas turtas prilygsta 500 milijonų eurų ar viršija 500 milijonų eurų.
+
+5) Šio straipsnio 4 dalyje pensijų fondai suprantami kaip pensijų fondai, Pensijų kaupimo įstatyme nustatyti tiksliniai pensijų fondų dalyvių grupių pensijų fondai ir pensijų turto išsaugojimo pensijų fondai.
 
 12) patvirtinti ir įgyvendinti darbuotojų atlyginimų politiką (šis reikalavimas taip pat taikomas asmenims, kuriems valdymo įmonė yra perdavusi investicinių sprendimų dėl pensijų fondų turto valdymo priėmimo funkciją. Tokiu atveju asmenų, kuriems valdymo įmonė yra perdavusi investicinių sprendimų dėl pensijų fondų turto valdymo priėmimo funkciją, patvirtinta politika turi neprieštarauti valdymo įmonės patvirtintai darbuotojų atlyginimų politikai);
 
@@ -2801,29 +2770,15 @@ Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
 57 straipsnis. Priežiūros institucijos funkcijos prižiūrint valdymo įmonių, depozitoriumų, Europos asmeninės pensijos produkto teikėjų ir Europos asmeninės pensijos produkto platintojų veiklą
 
-
 Priežiūros institucija atlieka šias funkcijas:
-
 
 1) išduoda valdymo įmonėms licencijas ir panaikina ar sustabdo jų galiojimą;
 
-
-
-
 2) tvirtina pensijų fondų taisykles, derina jų pakeitimus, pripažįsta pensijų fondų taisykles netekusiomis galios;
-
-
-
 
 3) stebi, analizuoja, tikrina ir kitaip prižiūri valdymo įmonių, depozitoriumų, Europos asmeninės pensijos produkto teikėjų ir Europos asmeninės pensijos produkto platintojų veiklą;
 
-
-
-
-4) atlieka Reglamente (ES) 2019/1238, Reglamente (ES) 2019/2088 ir Reglamente (ES) 2020/852 kompetentingai institucijai nustatytas funkcijas;
-
-
-
+4) atlieka Reglamente (ES) 2019/1238, Reglamente (ES) 2019/2088 ir Reglamente (ES) 2020/852 kompetentingai institucijai nustatytas funkcijas, o kai taikomi šio įstatymo 6 straipsnio 4 dalyje nustatyti reikalavimai, mutatis mutandis atlieka Reglamente (ES) 2022/2554 priežiūros institucijai nustatytas funkcijas;
 
 5) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas.
 
@@ -3246,11 +3201,14 @@ Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
 
 
-4. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088. 
+4. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088. 
 Papildyta punktu:
 Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
 Punkto numeracijos pakeitimas:
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
+
+5. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011.
  
 
 
