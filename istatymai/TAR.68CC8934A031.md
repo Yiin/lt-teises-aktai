@@ -1939,3 +1939,5 @@ Nr. XIV-2249, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22979
 Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 31-5 ir 31-9 straipsnių pakeitimo įstatymas
 
 15. 2024 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1620, kuriuo įsteigiama Kovos su pinigų plovimu ir teroristų finansavimu institucija ir iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 1094/2010 ir (ES) Nr. 1095/2010.
+
+15. 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1069 dėl asmenų, užsiimančių visuomenės dalyvavimo veikla, apsaugos nuo akivaizdžiai nepagrįstų ieškinių ar piktnaudžiaujamojo pobūdžio teismo procesų (Strateginiai ieškiniai dėl visuomenės dalyvavimo).
