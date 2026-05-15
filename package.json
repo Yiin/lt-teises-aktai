@@ -10,6 +10,7 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.96.0",
     "cheerio": "^1.2.0"
   }
 }
