@@ -324,7 +324,7 @@ Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
 
 
 
-2. Įvaikintam vaikui, neatsižvelgiant į tai, ar jam ginus vienkartinė išmoka vaikui jau buvo išmokėta, skiriama 14 bazinių socialinių išmokų dydžio vienkartinė išmoka vaikui. 
+2. Įvaikintam vaikui, neatsižvelgiant į tai, ar jam ginus vienkartinė išmoka vaikui jau buvo išmokėta, skiriama 14 bazinių socialinių išmokų dydžio vienkartinė išmoka vaikui.
 
 
 
