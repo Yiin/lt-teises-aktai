@@ -3402,7 +3402,7 @@ Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 1. Diplomatas, kurio pareigybė naikinama, perkeliamas į kitas lygiavertes pareigas Užsienio reikalų ministerijoje, o jeigu tokių pareigų nėra, – diplomatas su jo rašytiniu sutikimu gali būti perkeltas į žemesnes pareigas Užsienio reikalų ministerijoje. Jeigu iki pareigybės panaikinimo diplomatas į kitas pareigas nepaskiriamas, su juo nutraukiama diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis. Diplomatui apie pareigybės panaikinimą turi būti pranešta raštu ne vėliau kaip prieš vieną mėnesį iki pareigybės panaikinimo. Asmeniui, kuriam iki senatvės pensijos amžiaus liko mažiau kaip 5 metai, šis įspėjimo terminas dvigubinamas, o diplomatui, auginančiam vaiką (įvaikį) iki 14 metų arba vaiką (įvaikį) su negalia iki 18 metų, nėščiai diplomatei, diplomatui su negalia, diplomatams, pateikusiems išrašą dėl ligos, įtrauktos į sveikatos apsaugos ministro įsakymu patvirtintą sunkių ligų sąrašą, taip pat diplomatui, kuriam iki senatvės pensijos amžiaus liko mažiau kaip 2 metai, – trigubinamas. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
- 
+ 
 
 
 
@@ -3423,7 +3423,7 @@ Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 3) kai diplomatai išvykę karo prievolę administruojančios krašto apsaugos sistemos institucijos ar alternatyviąją krašto apsaugos tarnybą administruojančios institucijos nurodymu;
 Straipsnio punkto pakeitimai:
 Nr. XIV-2733, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11570
- 
+ 
 
 
 
@@ -3433,7 +3433,7 @@ Nr. XIV-2733, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11570
 
 
 
-5) artimųjų giminaičių (tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių), senelių, vaikaičių), sutuoktinio arba partnerio, jų tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių), sugyventinio, jo tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių) mirties atveju – iki 3 darbo dienų;
+5) artimųjų giminaičių (tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių), seserų (įseserių), senelių, vaikaičių), sutuoktinio arba partnerio, jų tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių), sugyventinio, jo tėvų (įtėvių), vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių) mirties atveju – iki 3 darbo dienų;
 
 
 
@@ -3463,9 +3463,7 @@ Nr. XIV-2733, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11570
 
 
 
-
-
-3. Eitos arba lygiavertės pareigos garantuojamos diplomatui, kai jis dėl privalomosios karo tarnybos, savanoriškos nenuolatinės karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, dėl dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje (taip pat atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos Respublikos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos Respublikos vystomojo bendradarbiavimo projektuose) negali eiti pareigų, taip pat diplomatui, kai jis dėl atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, dėl laikino perkėlimo į kitas pareigas pagal šio įstatymo 43 straipsnį negali eiti pareigų.
+3. Eitos arba lygiavertės pareigos garantuojamos diplomatui, kai jis dėl privalomosios karo tarnybos, savanoriškos nenuolatinės karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, dėl dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje (taip pat atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos Respublikos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos Respublikos vystomojo bendradarbiavimo projektuose) negali eiti pareigų, taip pat diplomatui, kai jis dėl atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, dėl laikino perkėlimo į kitas pareigas pagal šio įstatymo 43 straipsnį negali eiti pareigų.
 
 
 
@@ -3490,7 +3488,7 @@ Nr. XIV-2733, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11570
 
 
 
-8. Kartą per metus, skaičiuojant nuo paskyrimo dirbti į diplomatinę atstovybę, konsulinę įstaigą ar specialiąją misiją, diplomatui ir kartu gyvenantiems jo šeimos nariams apmokamos ar kompensuojamos kelionės į Lietuvos Respubliką ir atgal išlaidos, o kartu negyvenantiems šeimos nariams – kelionės pas diplomatą ir atgal į Lietuvos Respubliką išlaidos. Jeigu sutuoktiniai arba partneriai diplomatai yra paskirti dirbti į skirtingas priimančiąsias valstybes arba skirtingus tos pačios priimančiosios valstybės miestus, diplomato pasirinkimu vietoj šioje dalyje nurodytų kelionės į Lietuvos Respubliką ir atgal išlaidų apmokėjimo ar kompensavimo apmokamos ar kompensuojamos jo ir kartu su juo gyvenančių šeimos narių kelionės į kitą priimančiąją valstybę ar kitą tos pačios priimančiosios valstybės miestą, į kurį (kurią) paskirtas dirbti kitas sutuoktinis arba partneris, ir atgal išlaidos. Jeigu dėl nenumatytų objektyvių aplinkybių diplomatas ir (ar) jo šeimos nariai negalėjo įgyvendinti šioje dalyje nustatytos teisės per nurodytą terminą, esant motyvuotam diplomato prašymui, užsienio reikalų ministro ar jo įgalioto asmens sprendimu šios teisės įgyvendinimo terminas pratęsiamas 6 mėnesiams. Šios garantijos taikomos ir tais atvejais, kai diplomato sutuoktinis arba partneris yra profesinės karo tarnybos karys ar žvalgybos pareigūnas, įstatymų nustatyta tvarka atliekantis tarnybą užsienyje, arba asmuo, deleguotas į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka. Ypatingais atvejais Užsienio reikalų ministerijai rekomendavus kartu su diplomatu užsienio valstybėje gyvenantiems šeimos nariams laikinai grįžti į Lietuvos Respubliką apmokamos arba kompensuojamos šeimos narių kelionės į Lietuvos Respubliką ir atgal išlaidos ir ne ilgiau kaip 6 mėnesius nuo šeimos nario grįžimo į Lietuvos Respubliką dienos toliau taikomos šioje dalyje, šio straipsnio 7, 11 ir 14 dalyse, šio įstatymo 85 straipsnio 1, 2, 3, 4 ir 5 dalyse, 86 straipsnio 2 dalyje, 87 straipsnio 2 ir 3 dalyse nustatytos garantijos.
+8. Kartą per metus, skaičiuojant nuo paskyrimo dirbti į diplomatinę atstovybę, konsulinę įstaigą ar specialiąją misiją, diplomatui ir kartu gyvenantiems jo šeimos nariams apmokamos ar kompensuojamos kelionės į Lietuvos Respubliką ir atgal išlaidos, o kartu negyvenantiems šeimos nariams – kelionės pas diplomatą ir atgal į Lietuvos Respubliką išlaidos. Jeigu sutuoktiniai arba partneriai diplomatai yra paskirti dirbti į skirtingas priimančiąsias valstybes arba skirtingus tos pačios priimančiosios valstybės miestus, diplomato pasirinkimu vietoj šioje dalyje nurodytų kelionės į Lietuvos Respubliką ir atgal išlaidų apmokėjimo ar kompensavimo apmokamos ar kompensuojamos jo ir kartu su juo gyvenančių šeimos narių kelionės į kitą priimančiąją valstybę ar kitą tos pačios priimančiosios valstybės miestą, į kurį (kurią) paskirtas dirbti kitas sutuoktinis arba partneris, ir atgal išlaidos. Jeigu dėl nenumatytų objektyvių aplinkybių diplomatas ir (ar) jo šeimos nariai negalėjo įgyvendinti šioje dalyje nustatytos teisės per nurodytą terminą, esant motyvuotam diplomato prašymui, užsienio reikalų ministro ar jo įgalioto asmens sprendimu šios teisės įgyvendinimo terminas pratęsiamas 6 mėnesiams. Šios garantijos taikomos ir tais atvejais, kai diplomato sutuoktinis arba partneris yra profesinės karo tarnybos karys ar žvalgybos pareigūnas, įstatymų nustatyta tvarka atliekantis tarnybą užsienyje, arba asmuo, deleguotas į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka. Ypatingais atvejais Užsienio reikalų ministerijai rekomendavus kartu su diplomatu užsienio valstybėje gyvenantiems šeimos nariams laikinai grįžti į Lietuvos Respubliką apmokamos arba kompensuojamos šeimos narių kelionės į Lietuvos Respubliką ir atgal išlaidos ir ne ilgiau kaip 6 mėnesius nuo šeimos nario grįžimo į Lietuvos Respubliką dienos toliau taikomos šioje dalyje, šio straipsnio 7, 11 ir 14 dalyse, šio įstatymo 85 straipsnio 1, 2, 3, 4 ir 5 dalyse, 86 straipsnio 2 dalyje, 87 straipsnio 2 ir 3 dalyse nustatytos garantijos.
 
 
 
@@ -3508,7 +3506,7 @@ Nr. XIV-2733, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11570
 11. Diplomatui, paskirtam dirbti į diplomatinę atstovybę, konsulinę įstaigą ar specialiąją misiją, ir kartu su juo vyksiančiam ir (ar) išvykusiam sutuoktiniui arba partneriui užsienio reikalų ministro nustatyta tvarka gali būti apmokamos arba kompensuojamos visos vienos iš oficialių valstybės, kurioje yra diplomatinė atstovybė, konsulinė įstaiga ar specialioji misija, kalbų ar kitos pagal poreikį užsienio kalbos mokymosi išlaidos arba tų išlaidų dalis. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
- 
+ 
 
 
 
@@ -3516,25 +3514,25 @@ Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 12. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbančiam diplomatui, naudojančiam netarnybinį automobilį tarnybos reikmėms, kas mėnesį mokama ne didesnė kaip 0,39 Valstybės duomenų agentūros paskutinį kartą paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio dydžio kompensacija degalų įsigijimo ir automobilio amortizacijos išlaidoms padengti, kuri naudojama neatsiskaitytinai. Užsienio reikalų ministras nustato kompensuojamų išlaidų kompensavimo sąlygas ir tvarką. Kompensuojamų išlaidų dydis nustatomas užsienio reikalų ministro nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
- 
+ 
 
 
 
 
-13. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbančiam diplomatui užsienio reikalų ministro nustatyta tvarka apmokamos ar kompensuojamos važiavimo tarnybos tikslais keleivių vežimą vietinio (miesto ir priemiestinio) reguliaraus susisiekimo maršrutais vykdančiomis transporto priemonėmis išlaidos tais atvejais, kai toks važiavimas nėra laikomas komandiruote. Šioje dalyje nurodytos išlaidos neapmokamos ir nekompensuojamos, jeigu diplomatas gauna šio straipsnio 12 dalyje nurodytą kompensaciją.
+13. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbančiam diplomatui užsienio reikalų ministro nustatyta tvarka apmokamos ar kompensuojamos važiavimo tarnybos tikslais reguliariaisiais reisais vietinio susisiekimo maršrutais išlaidos tais atvejais, kai toks važiavimas nėra laikomas komandiruote. Šioje dalyje nurodytos išlaidos neapmokamos ir nekompensuojamos, jeigu diplomatas gauna šio straipsnio 12 dalyje nurodytą kompensaciją.
 
 
 
 
-14. Užsienio reikalų ministro nustatyta tvarka apmokamos arba kompensuojamos buvusio diplomato ir (ar) jo šeimos narių persikėlimo iš užsienio valstybės į Lietuvos Respubliką išlaidos (įskaitant asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų), kai diplomato tarnybos sutartis buvo nutraukta ar terminuota diplomato tarnybos sutartis pasibaigė ar buvo nutraukta su diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbusiu diplomatu ir buvęs diplomatas ir (ar) jo šeimos nariai persikėlė iš užsienio valstybės į Lietuvos Respubliką per 2 mėnesius nuo sutarties pasibaigimo ar nutraukimo. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbusio diplomato mirties ar žūties atveju užsienio reikalų ministro nustatyta tvarka apmokamos arba kompensuojamos mirusio ar žuvusio diplomato asmeninio krovinio nugabenimo į Lietuvos Respubliką išlaidos neviršijant Vyriausybės nustatytų limitų, taip pat jo šeimos narių persikėlimo iš užsienio valstybės į Lietuvos Respubliką išlaidos (įskaitant jo šeimos narių asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų), jeigu šeimos nariai persikelia iš užsienio valstybės į Lietuvos Respubliką per 3 mėnesius nuo diplomato mirties ar žūties dienos. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbusio diplomato mirties ar žūties atveju kartu su juo gyvenusiems jo šeimos nariams iki jų persikėlimo į Lietuvos Respubliką dienos, bet ne ilgiau negu 3 mėnesius nuo diplomato mirties ar žūties dienos, taikomos šio įstatymo 85 straipsnio 1–5 dalyse, 86 straipsnio 2 dalyje, 87 straipsnyje, 89 straipsnio 7 ir 8 dalyse diplomato šeimos nariams nustatytos garantijos.
+14. Užsienio reikalų ministro nustatyta tvarka apmokamos arba kompensuojamos buvusio diplomato ir (ar) jo šeimos narių persikėlimo iš užsienio valstybės į Lietuvos Respubliką išlaidos (įskaitant asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų), kai diplomato tarnybos sutartis buvo nutraukta ar terminuota diplomato tarnybos sutartis pasibaigė ar buvo nutraukta su diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbusiu diplomatu ir buvęs diplomatas ir (ar) jo šeimos nariai persikėlė iš užsienio valstybės į Lietuvos Respubliką per 2 mėnesius nuo sutarties pasibaigimo ar nutraukimo. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbusio diplomato mirties ar žūties atveju užsienio reikalų ministro nustatyta tvarka apmokamos arba kompensuojamos mirusio ar žuvusio diplomato asmeninio krovinio nugabenimo į Lietuvos Respubliką išlaidos neviršijant Vyriausybės nustatytų limitų, taip pat jo šeimos narių persikėlimo iš užsienio valstybės į Lietuvos Respubliką išlaidos (įskaitant jo šeimos narių asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų), jeigu šeimos nariai persikelia iš užsienio valstybės į Lietuvos Respubliką per 3 mėnesius nuo diplomato mirties ar žūties dienos. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbusio diplomato mirties ar žūties atveju kartu su juo gyvenusiems jo šeimos nariams iki jų persikėlimo į Lietuvos Respubliką dienos, bet ne ilgiau negu 3 mėnesius nuo diplomato mirties ar žūties dienos, taikomos šio įstatymo 85 straipsnio 1–5 dalyse, 86 straipsnio 2 dalyje, 87 straipsnyje, 89 straipsnio 7 ir 8 dalyse diplomato šeimos nariams nustatytos garantijos.
 
 
 
 
-15. Diplomatui, kurio materialinė būklė tapo sunki dėl jo paties ligos, artimųjų giminaičių, sutuoktinio, partnerio, sugyventinio, jo tėvų, vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių), taip pat išlaikytinių, kurių globėju ar rūpintoju įstatymų nustatyta tvarka yra paskirtas diplomatas, ligos ar mirties, stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa. Pašalpą skiria užsienio reikalų ministras ar jo įgaliotas asmuo iš Užsienio reikalų ministerijai skirtų valstybės biudžeto asignavimų.
+15. Diplomatui, kurio materialinė būklė tapo sunki dėl jo paties ligos, artimųjų giminaičių, sutuoktinio, partnerio, sugyventinio, jo tėvų, vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių), taip pat išlaikytinių, kurių globėju ar rūpintoju įstatymų nustatyta tvarka yra paskirtas diplomatas, ligos ar mirties, stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa. Pašalpą skiria užsienio reikalų ministras ar jo įgaliotas asmuo iš Užsienio reikalų ministerijai skirtų valstybės biudžeto asignavimų.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
- 
+ 
 
 
 
@@ -3548,13 +3546,7 @@ Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
 
 
 Straipsnio pakeitimai:
-Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12611
- 
-
-
-
-
-90 straipsnis. Kitų valstybės tarnautojų, specialiųjų atašė ir jų pavaduotojų, kurie nėra kiti valstybės tarnautojai, ir jų šeimos narių garantijos
+Nr. XIV-1119, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-1261190 straipsnis. Kitų valstybės tarnautojų, specialiųjų atašė ir jų pavaduotojų, kurie nėra kiti valstybės tarnautojai, ir jų šeimos narių garantijos
 
 
 1. Kitiems valstybės tarnautojams ir jų šeimos nariams taikomos šio įstatymo 84, 85, 86, 87 straipsniuose, 89 straipsnio 7, 8, 11, 12, 13, 14 ir 16 dalyse diplomato ir jo šeimos nariams nustatytos garantijos. Šio įstatymo 85 straipsnio 7 dalyje ir 89 straipsnio 8 dalyje sutuoktiniams arba partneriams diplomatams nustatytos sąlygos taikomos ir tais atvejais, kai sutuoktiniai arba partneriai yra kiti valstybės tarnautojai ar diplomatas ir kitas valstybės tarnautojas. Įstatymai gali nustatyti kitų kitiems valstybės tarnautojams taikomų garantijų.
