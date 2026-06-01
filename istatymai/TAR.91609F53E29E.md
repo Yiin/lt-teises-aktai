@@ -2528,7 +2528,7 @@ b) neturi viršyti 60 procentų šios kompensacijos dydžio, jeigu šios paslaug
 
 
 
-18) išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai, išmoka gimus vienu metu daugiau kaip vienam vaikui, išmoka privalomosios pradinės karo tarnybos kario vaikui, išmoka įvaikinus vaiką, mokamos pagal Išmokų vaikams įstatymą; 
+18) išmoka vaiko priežiūrai, išmoka gimus vienu metu daugiau kaip vienam vaikui, išmoka privalomosios pradinės karo tarnybos kario vaikui, išmoka įvaikinus vaiką, mokamos pagal Išmokų vaikams įstatymą; 
 
 
 
