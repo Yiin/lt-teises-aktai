@@ -43,11 +43,9 @@ Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
 6) transporto priemonėmis ar jų junginiais, naudojamais valstybinės reikšmės keliams prižiūrėti;
 7) užsienio šalyse įregistruotomis transporto priemonėmis ar jų junginiais, kai jomis (jais) vykstama likviduoti stichinių nelaimių ar eismo įvykių padarinių arba vežamos labdaros ir humanitarinės pagalbos siuntos;
 8) krašto apsaugos sistemos ir užsienio valstybių ginkluotųjų pajėgų transporto priemonėmis ar jų junginiais;
-9) vietinio reguliaraus susisiekimo maršrutais važiuojančiomis keleivinėmis transporto priemonėmis ar jų junginiais.
+9) vietinio susisiekimo maršrutais važiuojančiomis keleivinėmis transporto priemonėmis;
 5. Paskirtuoju kelių rinkliavos rinkėju, pagrindiniu kelių rinkliavos paslaugos teikėju Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritorijoje, taip pat už naujų Europos elektroninės kelių rinkliavos paslaugos teikėjų įregistravimą Lietuvos Respublikoje atsakingu subjektu Vyriausybės ar jos įgaliotos institucijos skiriamas juridinis asmuo, kuris patikėjimo teise valdo, naudoja valstybinės reikšmės kelius ir jais disponuoja. Paskirtasis kelių rinkliavos rinkėjas kas penkerius metus savo interneto svetainėje viešai skelbia Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritorijoje renkamos kelių rinkliavos suvestinę ataskaitą.
-6. Elektroninė kelių rinkliava mokama Elektroninės kelių rinkliavos informacinėje sistemoje. Kelių rinkliavos lėšos yra paskirtojo kelių rinkliavos rinkėjo pajamos. Šios lėšos naudojamos Lietuvos Respublikos Valstybinio kelių fondo įstatyme nustatyta tvarka.
-
-7 straipsnis. Mokestis už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis 
+6. Elektroninė kelių rinkliava mokama Elektroninės kelių rinkliavos informacinėje sistemoje. Kelių rinkliavos lėšos yra paskirtojo kelių rinkliavos rinkėjo pajamos. Šios lėšos naudojamos Lietuvos Respublikos Valstybinio kelių fondo įstatyme nustatyta tvarka.7 straipsnis. Mokestis už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis 
 
 
 1. Šis įstatymas, išskyrus 4 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalis ir šio straipsnio 3 ir 4 dalis, įsigalioja 2027 m. sausio 1 d.
