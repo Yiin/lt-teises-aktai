@@ -6329,23 +6329,11 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 195 straipsnis. Skolininkų, kuriems buvo perskolintos valstybės vardu gautos paskolos, arba skolininkų, už kurių įsipareigojimų įvykdymą garantuoja valstybė, neteisingos informacijos pateikimas, jos nepateikimas ar pavėluotas pateikimas arba veiksmų atlikimas be reikiamo leidimo
 
-
-1. Skolininkų, kuriems buvo perskolintos valstybės vardu gautos paskolos, arba skolininkų, už kurių įsipareigojimų įvykdymą garantuoja valstybė, neteisingos informacijos pateikimas arba reikalingų dokumentų nepateikimas ar pavėluotas pateikimas Lietuvos Respublikos finansų ministerijai arba centralizuotai valdomo valstybės turto valdytojui pagal Lietuvos Respublikos valstybės skolos įstatymą
+1. Skolininkų, kuriems buvo perskolintos valstybės vardu gautos paskolos, arba skolininkų, už kurių įsipareigojimų įvykdymą garantuoja valstybė, neteisingos informacijos pateikimas arba reikalingų dokumentų nepateikimas ar pavėluotas pateikimas Lietuvos Respublikos finansų ministerijai arba kitam subjektui, kuris pagal pavedimo sutartį administruoja Finansų ministerijos perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, pagal Lietuvos Respublikos valstybės skolos įstatymą
 užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
-
-
-
-2. Veiksmų, kuriems pagal Lietuvos Respublikos valstybės skolos įstatymą reikalingas Lietuvos Respublikos finansų ministerijos arba centralizuotai valdomo valstybės turto valdytojo leidimas, atlikimas neturint šio leidimo
-užtraukia baudą nuo trijų šimtų iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
- 
-
-
-
-
-
-
-196 straipsnis. Neteisėtas su turto arba verslo vertinimu susijusios informacijos atskleidimas arba jos panaudojimas, taip pat neteisėtas banko paslapties atskleidimas
+2. Veiksmų, kuriems atlikti pagal Valstybės skolos įstatymą reikalingas Finansų ministerijos arba kito subjekto, kuris pagal pavedimo sutartį administruoja Finansų ministerijos perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, rašytinis leidimas, atlikimas neturint šio leidimo
+užtraukia baudą nuo trijų šimtų iki vieno tūkstančio vieno šimto penkiasdešimt eurų.196 straipsnis. Neteisėtas su turto arba verslo vertinimu susijusios informacijos atskleidimas arba jos panaudojimas, taip pat neteisėtas banko paslapties atskleidimas
 
 
 1. Neteisėtas Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nustatytos su turto arba verslo vertinimu susijusios fizinių ar juridinių asmenų (tarp jų ir turto arba verslo vertintojų ar turto arba verslo vertinimo įmonių) informacijos atskleidimas arba jos panaudojimas
