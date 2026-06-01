@@ -3516,13 +3516,7 @@ Straipsnio dalies pakeitimai:
 Nr. XIV-2303, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24169
  
 
-
-
-
 13. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbančiam diplomatui užsienio reikalų ministro nustatyta tvarka apmokamos ar kompensuojamos važiavimo tarnybos tikslais reguliariaisiais reisais vietinio susisiekimo maršrutais išlaidos tais atvejais, kai toks važiavimas nėra laikomas komandiruote. Šioje dalyje nurodytos išlaidos neapmokamos ir nekompensuojamos, jeigu diplomatas gauna šio straipsnio 12 dalyje nurodytą kompensaciją.
-
-
-
 
 14. Užsienio reikalų ministro nustatyta tvarka apmokamos arba kompensuojamos buvusio diplomato ir (ar) jo šeimos narių persikėlimo iš užsienio valstybės į Lietuvos Respubliką išlaidos (įskaitant asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų), kai diplomato tarnybos sutartis buvo nutraukta ar terminuota diplomato tarnybos sutartis pasibaigė ar buvo nutraukta su diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbusiu diplomatu ir buvęs diplomatas ir (ar) jo šeimos nariai persikėlė iš užsienio valstybės į Lietuvos Respubliką per 2 mėnesius nuo sutarties pasibaigimo ar nutraukimo. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbusio diplomato mirties ar žūties atveju užsienio reikalų ministro nustatyta tvarka apmokamos arba kompensuojamos mirusio ar žuvusio diplomato asmeninio krovinio nugabenimo į Lietuvos Respubliką išlaidos neviršijant Vyriausybės nustatytų limitų, taip pat jo šeimos narių persikėlimo iš užsienio valstybės į Lietuvos Respubliką išlaidos (įskaitant jo šeimos narių asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų), jeigu šeimos nariai persikelia iš užsienio valstybės į Lietuvos Respubliką per 3 mėnesius nuo diplomato mirties ar žūties dienos. Diplomatinėje atstovybėje, konsulinėje įstaigoje ar specialiojoje misijoje dirbusio diplomato mirties ar žūties atveju kartu su juo gyvenusiems jo šeimos nariams iki jų persikėlimo į Lietuvos Respubliką dienos, bet ne ilgiau negu 3 mėnesius nuo diplomato mirties ar žūties dienos, taikomos šio įstatymo 85 straipsnio 1–5 dalyse, 86 straipsnio 2 dalyje, 87 straipsnyje, 89 straipsnio 7 ir 8 dalyse diplomato šeimos nariams nustatytos garantijos.
 
