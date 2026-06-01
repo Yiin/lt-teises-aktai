@@ -319,25 +319,25 @@ Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
 5 straipsnis. Vienkartinė išmoka vaikui 
 
 
-1. Kiekvienam gimusiam vaikui skiriama 11 bazinių socialinių išmokų dydžio vienkartinė išmoka vaikui.
+1. Kiekvienam gimusiam vaikui skiriama 14 bazinių socialinių išmokų dydžio vienkartinė išmoka vaikui.
 
 
 
 
-2. Įvaikintam vaikui, neatsižvelgiant į tai, ar jam gimus vienkartinė išmoka vaikui jau buvo išmokėta, skiriama 11 bazinių socialinių išmokų dydžio vienkartinė išmoka vaikui. 
+2. Įvaikintam vaikui, neatsižvelgiant į tai, ar jam ginus vienkartinė išmoka vaikui jau buvo išmokėta, skiriama 14 bazinių socialinių išmokų dydžio vienkartinė išmoka vaikui. 
 
 
 
 
-3. Vaikui, kuriam globa nustatyta šeimoje ar šeimynoje, iki jam sukaks pusantrų metų, skiriama 11 bazinių socialinių išmokų dydžio vienkartinė išmoka vaikui, jeigu ši išmoka nebuvo išmokėta vaikui gimus ar pirmą kartą nustačius globą. 
+3. Vaikui, kuriam globa nustatyta šeimoje ar šeimynoje, iki jam sukaks pusantrų metų, skiriama 14 bazinių socialinių išmokų dydžio vienkartinė išmoka vaikui, jeigu ši išmoka nebuvo išmokėta vaikui gimus ar pirmą kartą nustačius globą. 
 
 
 
 
-4. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas, kai vaiko globa nustatyta šeimoje, ir vaikas atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas, kai vaiko globa nustatyta šeimynoje, – jeigu vaikas atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas. Ši išmoka mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar globėjui. 
+4. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas, kai vaiko globa nustatyta šeimoje, ir vaikas atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas, kai vaiko globa nustatyta šeimynoje, – jeigu vaikas atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas. Ši išmoka mokama vienam iš vaiką auginančių tėvų (ar turimam vieninkeliam iš tėvų) (įtėvių) ar globėjui. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
- 
+ 
 
 
 
@@ -360,24 +360,14 @@ Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
 
 
 
-3) kreipiantis dėl šios išmokos skyrimo vaikas yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas) valstybės ar savivaldybės finansuojamoje įstaigoje. 
- 
-
-
-
-
-
-
-
-
-6 straipsnis. Išmoka vaikui 
+3) kreipiantis dėl šios išmokos skyrimo vaikas yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas) valstybės ar savivaldybės finansuojamoje įstaigoje.6 straipsnis. Išmoka vaikui 
 
 
 1. Kiekvienam vaikui nuo gimimo dienos iki 18 metų arba iki nepilnametis vaikas pripažįstamas emancipuotu ar sudaro santuoką ir emancipuotam ar susituokusiam nepilnamečiam vaikui arba vyresniam kaip 18 metų asmeniui, jeigu jie mokosi pagal bendrojo ugdymo programą (įskaitant asmenis, kurių mokymą pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa vykdo profesinio mokymo teikėjai, iki šie asmenys baigs bendrojo ugdymo programą, taip pat akademinių atostogų, profesinio mokymo teikėjų suteiktų dėl ligos, nėštumo ar vaiko priežiūros, laikotarpį), bet ne ilgiau, iki jiems sukaks 23 metai, skiriama ir mokama 1,75 bazinės socialinės išmokos dydžio išmoka per mėnesį.
 Straipsnio dalies pakeitimai:
 Nr. XIV-129, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28985
 Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
- 
+ 
 
 
 
@@ -395,42 +385,36 @@ Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
 
 
 
-3) kiekvienam neįgaliam vaikui (asmeniui), kuriam nustatytas neįgalumo lygis arba 55 procentų ir mažesnis darbingumo lygis. Neįgaliam vaikui nuo gimimo dienos iki 18 metų arba iki nepilnametis neįgalus vaikas pripažįstamas emancipuotu ar sudaro santuoką ir emancipuotam ar susituokusiam nepilnamečiam vaikui arba vyresniam kaip 18 metų neįgaliam asmeniui, jeigu jie mokosi pagal bendrojo ugdymo programą (įskaitant asmenis, kurių mokymą  pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa vykdo profesinio mokymo teikėjai, iki šie asmenys baigs bendrojo ugdymo programą, taip pat akademinių atostogų, profesinio mokymo teikėjų suteiktų dėl ligos, nėštumo ar vaiko priežiūros, laikotarpį), nustatytam neįgalumo lygio arba 55 procentų ir mažesnio darbingumo lygio terminui, bet ne ilgiau, iki jiems sukaks 23 metai, skiriama ir mokama 1,03 bazinės socialinės išmokos dydžio išmoka per mėnesį.
+3) kiekvienam neįgaliam vaikui (asmeniui), kuriam nustatytas neįgalumo lygis arba 55 procentų ir mažesnis darbingumo lygis. Neįgaliam vaikui nuo gimimo dienos iki 18 metų arba iki nepilnametis neįgalus vaikas pripažįstamas emancipuotu ar sudaro santuoką ir emancipuotam ar susituokusiam nepilnamečiam vaikui arba vyresniam kaip 18 metų neįgaliam asmeniui, jeigu jie mokosi pagal bendrojo ugdymo programą (įskaitant asmenis, kurių mokymą  pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa vykdo profesinio mokymo teikėjai, iki šie asmenys baigs bendrojo ugdymo programą, taip pat akademinių atostogų, profesinio mokymo teikėjų suteiktų dėl ligos, nėštumo ar vaiko priežiūros, laikotarpį), nustatytam neįgalumo lygio arba 55 procentų ir mažesnio darbingumo lygio terminui, bet ne ilgiau, iki jiems sukaks 23 metai, skiriama ir mokama 1,03 bazinės socialinės išmokos dydžio išmoka per mėnesį.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
- 
+ 
 
 
 
 
-3. Išmoka vaikui, kai vaikas auginamas ir (ar) globojamas šeimoje, skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas arba jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) atitinka šio įstatymo 1 straipsnio 2 dalies 4, 5 ar 8 punkto nuostatas, o vaikui (asmeniui) yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo 1 straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje, ar Jungtinėje Karalystėje. Kai vaikui globa (rūpyba) nustatyta šeimynoje ar vaikų globos institucijoje ar kai vaiko globėjo (rūpintojo) teises ir pareigas įgyvendina globos centras, išmoka vaikui skiriama, jeigu vaikas atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas. Ši išmoka mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių), bendrai gyvenančių asmenų, globėjui (rūpintojui), emancipuotam ar susituokusiam nepilnamečiam vaikui, vaikui nuo 14 iki 18 metų, turinčiam tėvų ar rūpintojų sutikimą, ar pilnamečiam asmeniui, kuriam ši išmoka paskirta. 
+3. Išmoka vaikui, kai vaikas auginamas ir (ar) globojamas šeimoje, skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas arba jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) atitinka šio įstatymo 1 straipsnio 2 dalies 4, 5 ar 8 punkto nuostatas, o vaikui (asmeniui) yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo 1 straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje, ar Jungtinėje Karalystėje. Kai vaikui globa (rūpyba) nustatyta šeimynoje ar vaikų globos institucijoje ar kai vaiko globėjo (rūpintojo) teises ir pareigas įgyvendina globos centras, išmoka vaikui skiriama, jeigu vaikas atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas. Ši išmoka mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių), bendrai gyvenančių asmenų, globėjui (rūpintojui), emancipuotam ar susituokusiam nepilnamečiam vaikui, vaikui nuo 14 iki 18 metų, turinčiam tėvų ar rūpintojų sutikimą, ar pilnamečiam asmeniui, kuriam ši išmoka paskirta. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3381, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24526
- 
+ 
 
 
 
 
-4. Jeigu vaikas (asmuo) mokosi užsienio valstybės mokymo įstaigoje pagal mokymo programas, atitinkančias šio straipsnio 1 dalyje nustatytas mokymo programas, išmoka vaikui skiriama, jeigu nors vienas iš vaiko (asmens) tėvų (įtėvių) (ar turimas vienintelis iš tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas, o kitas iš vaiko (asmens) tėvų (įtėvių) ar globėjas (rūpintojas) gyvena Lietuvos Respublikoje, arba jeigu nors vienas iš vaiko (asmens) tėvų (įtėvių) (ar turimas vienintelis iš tėvų (įtėvių) ar globėjas (rūpintojas) atitinka šio įstatymo 1 straipsnio 2 dalies 4, 5 ar 8 punkto nuostatas ir vaikui (asmeniui) yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, o kitas iš vaiko (asmens) tėvų (įtėvių) ar globėjas (rūpintojas) gyvena Lietuvos Respublikoje. Jeigu vaikas (asmuo) mokosi valstybėje, kurioje jam taikomos Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos, išmoka vaikui skiriama ir mokama pagal Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas dėl išmokų šeimai mokėjimo. Savivaldybių administracijos užsienio valstybės mokymo įstaigų mokymo programų atitiktį šio straipsnio 1 dalyje nurodytoms mokymo programoms nustato Vyriausybės tvirtinamuose Išmokų vaikams skyrimo ir mokėjimo nuostatuose nustatyta tvarka.
+4. Jeigu vaikas (asmuo) mokosi užsienio valstybės mokymo įstaigoje pagal mokymo programas, atitinkančias šio straipsnio 1 dalyje nustatytas mokymo programas, išmoka vaikui skiriama, jeigu nors vienas iš vaiko (asmens) tėvų (įtėvių) (ar turimas vienintelis iš tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas, o kitas iš vaiko (asmens) tėvų (įtėvių) ar globėjas (rūpintojas) gyvena Lietuvos Respublikoje, arba jeigu nors vienas iš vaiko (asmens) tėvų (įtėvių) (ar turimas vienintelis iš tėvų (įtėvių) ar globėjas (rūpintojas) atitinka šio įstatymo 1 straipsnio 2 dalies 4, 5 ar 8 punkto nuostatas ir vaikui (asmeniui) yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, o kitas iš vaiko (asmens) tėvų (įtėvių) ar globėjas (rūpintojas) gyvena Lietuvos Respublikoje. Jeigu vaikas (asmuo) mokosi valstybėje, kurioje jam taikomos Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos, išmoka vaikui skiriama ir mokama pagal Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas dėl išmokų šeimai mokėjimo. Savivaldybių administracijos užsienio valstybės mokymo įstaigų mokymo programų atitiktį šio straipsnio 1 dalyje nurodytoms mokymo programoms nustato Vyriausybės tvirtinamuose Išmokų vaikams skyrimo ir mokėjimo nuostatuose nustatyta tvarka.
 
 
 
 
 5. Išmoka vaikui neskiriama arba jos mokėjimas nutraukiamas, jeigu vaikas (asmuo) yra suimtas, atlieka su laisvės atėmimu susijusią bausmę, jam Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės, paskelbta jo paieška arba jis teismo pripažintas nežinia kur esančiu, – kol neišnyksta šios aplinkybės. 
-TAR pastaba. Jeigu išmoka vaikui paskirta iki įstatymo Nr. XIII-2693 įsigaliojimo (2020-01-01) ir jos mokėjimo laikotarpis nepasibaigęs, įsigaliojus šiam įstatymui, išmokos vaikui mokėjimas tęsiamas, mokant šio įstatymo 2 straipsnio 1 dalyje išdėstyto Lietuvos Respublikos išmokų vaikams įstatymo 6 straipsnio 1 dalies ir 2 dalies 1 ir 2 punktuose nustatyto dydžio išmoką vaikui. Jeigu išmoka vaikui, nustatyta Išmokų vaikams įstatymo 6 straipsnio 1 dalyje, paskirta iki šio įstatymo įsigaliojimo neįgaliems vaikams iki 18 metų, išskyrus neįgalius vaikus, kuriems iki šio įstatymo įsigaliojimo dienos buvo papildomai paskirta išmoka vaikui, nustatyta Išmokų vaikams įstatymo 6 straipsnio 2 dalies 1 ir 2 punktuose, ir jos mokėjimo laikotarpis nepasibaigęs, įsigaliojus šiam įstatymui, be išmokos gavėjo prašymo jiems paskiriama šio įstatymo 2 straipsnio 1 dalyje išdėstyto Išmokų vaikams įstatymo 6 straipsnio 2 dalies 3 punkte nustatyta išmoka ir mokama iki nustatyto neįgalumo lygio termino pabaigos.
+TAR pastaba. Jeigu išmoka vaikui paskirta iki įstatymo Nr. XIII-2693 įsigaliojimo (2020-01-01) ir jos mokėjimo laikotarpis nepasibaigęs, įsigaliojus šiam įstatymui, išmokos vaikui mokėjimas tęsiamas, mokant šio įstatymo 2 straipsnio 1 dalyje išdėstyto Lietuvos Respublikos išmokų vaikams įstatymo 6 straipsnio 1 dalies ir 2 dalies 1 ir 2 punktuose nustatyto dydžio išmoką vaikui. Jeigu išmoka vaikui, nustatyta Išmokų vaikams įstatymo 6 straipsnio 1 dalyje, paskirta iki šio įstatymo įsigaliojimo neįgaliems vaikams iki 18 metų, išskyrus neįgalius vaikus, kuriems iki šio įstatymo įsigaliojimo dienos buvo papildomai paskirta išmoka vaikui, nustatyta Išmokų vaikams įstatymo 6 straipsnio 2 dalies 1 ir 2 punktuose, ir jos mokėjimo laikotarpis nepasibaigęs, įsigaliojus šiam įstatymui, be išmokos gavėjo prašymo jiems paskiriama šio įstatymo 2 straipsnio 1 dalyje išdėstyto Išmokų vaikams įstatymo 6 straipsnio 2 dalies 3 punkte nustatyta išmoka ir mokama iki nustatyto neįgalumo lygio termino pabaigos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
-Nr. XIII-2693, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21548
- 
-
-
-
-
-7 straipsnis. Išmoka gimus vienu metu daugiau kaip vienam vaikui 
+Nr. XIII-2693, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-215487 straipsnis. Išmoka gimus vienu metu daugiau kaip vienam vaikui 
 
 
 1. Kai vienu metu gimsta du ar daugiau vaikų, vienam iš vaikus auginančių tėvų (ar turimam vieninteliam iš tėvų) skiriama išmoka gimus vienu metu daugiau kaip vienam vaikui ir ši išmoka mokama nuo vaikų gimimo dienos, iki jiems sukaks 2 metai. 
@@ -443,25 +427,17 @@ Nr. XIII-2693, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21548
 
 
 
-3. Išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama, jeigu nors vienas iš vaikų tėvų ir vaikai atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas arba jeigu nors vienas iš vaikų tėvų atitinka šio įstatymo 1 straipsnio 2 dalies 4, 5 ar 8 punkto nuostatas, o vaikams yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo 1 straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaikų tėvų ir vaikai gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje, ar Jungtinėje Karalystėje, ir mokama vienam iš vaikus auginančių tėvų (ar turimam vieninteliam iš tėvų). 
+3. Išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama, jeigu nors vienas iš vaikų tėvų ir vaikai atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas arba jeigu nors vienas iš vaikų tėvų atitinka šio įstatymo 1 straipsnio 2 dalies 4, 5 ar 8 punkto nuostatas, o vaikams yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo 1 straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaikų tėvų ir vaikai gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje, ar Jungtinėje Karalystėje, ir mokama vienam iš vaikus auginančių tėvų (ar turimam vieninteliam iš tėvų). 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
 Nr. XIII-3381, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24526
- 
+ 
 
 
 
 
-4. Kai vienu metu gimsta du ar daugiau vaikų ir vaikas (vaikai) miršta nesukakęs (nesukakę) 2 metų, išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama ir mokama nuo vaikų gimimo dienos iki vaiko (vaikų) mirties dienos. Likusiems vaikams ši išmoka iš naujo apskaičiuojama ir skiriama vadovaujantis šio straipsnio 2 dalyje nustatytais dydžiais, atsižvelgiant į likusių vienu metu gimusių vaikų skaičių. Likus vienam vaikui, išmokos mokėjimas nutraukiamas nuo kito (kitų) vaiko (vaikų) mirties dienos, išmokant iki vaiko (vaikų) mirties dienos priklausiusią ir neišmokėtą išmokos sumą. 
- 
-
-
-
-
-
-
-8 straipsnis. Išmoka privalomosios pradinės karo tarnybos kario vaikui
+4. Kai vienu metu gimsta du ar daugiau vaikų ir vaikas (vaikai) miršta nesukakęs (nesukakę) 2 metų, išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama ir mokama nuo vaikų gimimo dienos iki vaiko (vaikų) mirties dienos. Likusiems vaikams ši išmoka iš naujo apskaičiuojama ir skiriama vadovaujantis šio straipsnio 2 dalyje nustatytais dydžiais, atsižvelgiant į likusių vienu metu gimusių vaikų skaičių. Likus vienam vaikui, išmokos mokėjimas nutraukiamas nuo kito (kitų) vaiko (vaikų) mirties dienos, išmokant iki vaiko (vaikų) mirties dienos priklausiusią ir neišmokėtą išmokos sumą.8 straipsnis. Išmoka privalomosios pradinės karo tarnybos kario vaikui
 
 
 1. Kiekvienam privalomosios pradinės karo tarnybos kario vaikui jo tėvo (įtėvio) ar motinos (įmotės) tarnybos laikotarpiu skiriama 1,5 bazinės socialinės išmokos dydžio išmoka per mėnesį. Jeigu privalomąją pradinę karo tarnybą tuo pačiu metu atlieka ir vaiko tėvas (įtėvis), ir motina (įmotė), išmokos privalomosios pradinės karo tarnybos kario vaikui dydis nedidinamas.
