@@ -95,7 +95,7 @@ Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
 
 
 
-3) išieško skolas valstybei ir administruoja pagal pavedimo sutartis su Lietuvos Respublikos finansų ministerija (toliau – Finansų ministerija) perduotas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus;
+3) išiesko skolas valstybei ir administruoja pagal pavedimo sutartis su Lietuvos Respublikos finansų ministerija (toliau – Finansų ministerija) perduotas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus;
 
 
 
@@ -113,14 +113,17 @@ Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
 6) parduoda viešosioms įstaigoms nuosavybės teise priklausančius statinius, patalpas ar jų dalis kartu su viešajai įstaigai arba valstybei nuosavybės teise priklausančiu žemės sklypu, jeigu jis gali būti perleidžiamas privačion nuosavybėn. 
 Papildyta straipsnio punktu:
 Nr. XIV-2098, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-14028
- 
+ 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-558, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12061
- 
+ 
 
 
+
+
+1-1. Be šiame įstatyme nustatytų funkcijų, centralizuotai valdomo valstybės turto valdytojas gali vykdyti kitą su jo pagrindinėmis funkcijomis susijusią veiklą, įskaitant dalyvavimą įgyvendinant civilinės ir karinės infrastruktūros sukūrimo ir vystymo projektus, sietinus su valstybės gynybinių pajėgumų ir civilinės saugos stiprinimu, pagal Vyriausybės nustatyta tvarka sudaromas atlygintinas sutartis su ministerijomis pagal ministrams pavestas valdymo sritis, prireikus – su valstybės ir (arba) savivaldybių įstaigomis arba viešosiomis įstaigomis, kurių savininkė ar dalininkė, turinti pusę ar daugiau kaip pusę balsų viešosios įstaigos visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė.
 
 
 2. Įmonė, įgyvendindama centralizuotą valstybės nekilnojamojo turto valdymą:
@@ -176,7 +179,7 @@ Nr. XIII-558, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12061
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
- 
+ 
 
 
 
@@ -214,8 +217,6 @@ Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
 
 
 
-
-
 4. Įmonė, išieškodama skolas valstybei ir administruodama pagal pavedimo sutartis su Finansų ministerija jai perduotas administruoti paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus:
 
 
@@ -249,12 +250,10 @@ Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
 
 
 
-
-
 5. Neteko galios nuo 2017-07-01
 Straipsnio dalies naikinimas:
 Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
- 
+ 
 
 
 
@@ -265,7 +264,7 @@ Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
 1) perima, įvertina konfiskuotą, valstybės paveldimą ir paveldėtą, valstybei perduotą nekilnojamąjį turtą, akcinių bendrovių ir uždarųjų akcinių bendrovių akcijas ir tvarko šio turto ir akcijų apskaitą; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
- 
+ 
 
 
 
@@ -300,7 +299,7 @@ Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
 
 Papildyta straipsnio dalimi:
 Nr. XIII-558, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12061
- 
+ 
 
 
 
@@ -318,17 +317,11 @@ Nr. XIII-558, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12061
 
 Papildyta straipsnio dalimi:
 Nr. XIV-2098, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-14028
- 
+ 
 
 
 Straipsnio pakeitimai:
-Nr. XII-1591, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04841
- 
-
-
-
-
-5 straipsnis. Neteko galios nuo 2019-10-01
+Nr. XII-1591, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-048415 straipsnis. Neteko galios nuo 2019-10-01
 Straipsnio naikinimas:
 Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
  
