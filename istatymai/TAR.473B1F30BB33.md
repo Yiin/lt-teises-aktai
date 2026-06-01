@@ -80,6 +80,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/473b1f30bb3311e38766a859941f6073"
 
 14) kitų įstatymuose nustatytų funkcijų, susijusių su centralizuotu valstybės nekilnojamojo turto valdymu, vykdymas.
 
+1-1. Be šiame įstatyme nustatytų funkcijų, centralizuotai valdomo valstybės turto valdytojas gali vykdyti kitą su jo pagrindinėmis funkcijomis susijusią veiklą, įskaitant dalyvavimą įgyvendinant civilinės ir karinės infrastruktūros sukūrimo ir vystymo projektus, sietinus su valstybės gynybinių pajėgumų ir civilinės saugos stiprinimu, pagal Vyriausybės nustatyta tvarka sudaromas atlygintinas sutartis su ministerijomis pagal ministrams pavestas valdymo sritis, prireikus – su valstybės ir (arba) savivaldybių įstaigomis arba viešosiomis įstaigomis, kurių savininkė ar dalininkė, turinti pusę ar daugiau kaip pusę balsų viešosios įstaigos visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė.
+
 2. Centralizuotai valdomas administracinės paskirties valstybės nekilnojamasis turtas, kartu su juo ir kitos paskirties valstybės nekilnojamasis turtas gali būti atnaujinamas, kai jis atitinka bent vieną iš šių kriterijų:
 
 1) yra fiziškai ar funkciškai (technologiškai) nusidėvėjęs;
