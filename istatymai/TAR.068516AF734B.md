@@ -1239,8 +1239,6 @@ Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
 
 
 
-
-
 2. Teisę gauti vaiko priežiūros išmoką už neperleidžiamų dviejų mėnesių trukmės vaiko priežiūros atostogų, numatytų Darbo kodekso 134 straipsnio 3 dalyje, ar vaiko priežiūros laikotarpio, išskyrus atvejus, nustatytus šio straipsnio 1 dalies 2 punkte, dalį turi kiekvienas iš vaiko tėvų (įtėvių) ar globėjų, atitinkančių šio straipsnio 1 dalyje nustatytas sąlygas. Jeigu apdraustajam asmeniui gimsta du ir daugiau vaikų ar apdraustasis asmuo įvaikina arba globoja du ir daugiau vaikų, šioje dalyje nustatytą teisę turintis apdraustasis asmuo turi teisę gauti vaiko priežiūros išmoką už kiekvieną vaiką atskirai, atsižvelgiant į vienu metu gimusių, įvaikintų arba globojamų vaikų skaičių. 
 
 
@@ -1251,7 +1249,7 @@ Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
 
 
 
-4. Vaiką ne mažiau kaip du paskutinius pasirinktos vaiko priežiūros išmokos mokėjimo trukmės, iki vaikui sueis 18 arba 24 mėnesiai, mėnesius vienas auginantis vienas iš jo tėvų (įtėvių) ar globėjų turi teisę gauti vaiko priežiūros išmoką už papildomą dviejų mėnesių trukmės vaiko priežiūros atostogų dalį, jeigu kitam tėvui (įtėviui) ar globėjui nebuvo išmokėta šio straipsnio 2 dalyje nurodyta vaiko priežiūros išmoka. Jeigu apdraustajam asmeniui gimsta du ir daugiau vaikų ar apdraustasis asmuo įvaikina arba globoja du ir daugiau vaikų, šioje dalyje nustatytą teisę turintis apdraustasis asmuo turi teisę gauti vaiko priežiūros išmoką už kiekvieną vaiką atskirai, atsižvelgiant į vienu metu gimusių, įvaikintų arba globojamų vaikų skaičių.
+4. Vaiką ne mažiau kaip du paskutinius pasirinktos vaiko priežiūros išmokos mokėjimo trukmės, iki vaikui sueis 18 arba 24 mėnesiai, mėnesius vienas auginantis vienas iš jo tėvų (įtėvių) ar globėjų turi teisę gauti vaiko priežiūros išmoką už papildomą dviejų mėnesių trukmės vaiko priežiūros atostogų dalį, jeigu kitam tėvui (įtėviui) ar globėjui nebuvo išmokėta šio straipsnio 2 dalyje nurodyta vaiko priežiūros išmoka. Jeigu apdraustajam asmeniui gimsta du ir daugiau vaikų ar apdraustasis asmuo įvaikina arba globoja du ir daugiau vaikų, šioje dalyje nustatytą teisę turintis apdraustasis asmuo turi teisę gauti vaiko priežiūros išmoką už kiekvieną vaiką atskirai, atsižvelgiant į vienu metu gimusių, įvaikintų arba globojamų vaikų skaičių.
 
 
 
@@ -1304,8 +1302,6 @@ Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
 
 
 
-
-
 6. Vienas iš vaiko senelių ar buvęs vienas iš vaiko tėvų nuolatinių globėjų (rūpintojų) turi teisę gauti vaiko priežiūros išmoką, išskyrus vaiko priežiūros išmoką, skiriamą ir mokamą vadovaujantis šio straipsnio 2 ir 3 dalimis, jeigu jis (ji) atitinka visas šias sąlygas: 
 Straipsnio dalies pakeitimai:
 Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
@@ -1321,8 +1317,6 @@ Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
 
 
 
-
-
 7. Jeigu apdraustasis asmuo neturi reikiamo motinystės socialinio draudimo stažo, nes šio stažo skaičiavimo laikotarpiu jam buvo suteiktos vaiko priežiūros atostogos, motinystės socialinio draudimo stažas jam skaičiuojamas iš 24 mėnesių laikotarpio, buvusio iki vaikui, kurio priežiūrai apdraustajam asmeniui suteiktos atostogos, suėjo 2 metai.
 
 
@@ -1333,7 +1327,7 @@ Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
 
 
 
-9. Asmeniui, neturinčiam teisės gauti vaiko priežiūros išmokos iš Valstybinio socialinio draudimo fondo lėšų ir atitinkančiam Išmokų vaikams įstatyme nustatytas sąlygas, mokama išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai pagal Išmokų vaikams įstatymą.
+9. Asmeniui, neturinčiam teisės gauti vaiko priežiūros išmokos iš Valstybinio socialinio draudimo fondo lėšų ir atitinkančiam Išmokų vaikams įstatyme nustatytas sąlygas, mokama išmoka vaiko priežiūrai pagal Išmokų vaikams įstatymą.
 
 
 
@@ -1342,7 +1336,7 @@ Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
 Straipsnio dalies pakeitimai:
 Nr. XIV-2230, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22375
 Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
- 
+ 
 
 
 
@@ -1351,7 +1345,7 @@ Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
 Straipsnio dalies pakeitimai:
 Nr. XIV-2230, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22375
 Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
- 
+ 
 
 
 
@@ -1360,13 +1354,7 @@ Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
 
 
 Straipsnio pakeitimai:
-Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
- 
-
-
-
-
-23 straipsnis. Vaiko priežiūros išmokos mokėjimo trukmė
+Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-1517923 straipsnis. Vaiko priežiūros išmokos mokėjimo trukmė
 
 
 1. Vaiko priežiūros išmoka mokama vaiko priežiūros atostogų laikotarpiu arba vaiko priežiūros laikotarpiu, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte, nuo nėštumo ir gimdymo atostogų pabaigos tol, kol vaikui sueis 18 arba 24 mėnesiai, išskyrus atvejį, numatytą šio įstatymo 22 straipsnio 3 dalyje, arba vaiko priežiūros atostogų, suteiktų pagal Darbo kodekso 134 straipsnio 2 dalį, laikotarpiu, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte.
