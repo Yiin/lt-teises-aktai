@@ -5429,7 +5429,7 @@ Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 61 straipsnis. Karių tarnybos užsienyje apmokėjimas
 
 
-1. Šis straipsnis taikomas kariams, atliekantiems tarnybą šio įstatymo 42 straipsnio 3 dalyje nustatytais atvejais, išskyrus karius, kurių faktinė tarnybos atlikimo (rezidavimo) vieta yra Lietuvos Respublikoje, ir profesinės karo tarnybos karius, turinčius žvalgybos pareigūno statusą. 
+1. Šis straipsnis taikomas kariams, atliekantiems tarnybą šio įstatymo 42 straipsnio 3 dalyje nustatytais atvejais, išskyrus karius, kurių faktinė tarnybos atlikimo (rezidavimo) vieta yra Lietuvos Respublikoje, ir profesinės karo tarnybos karius, turinčius žvalgybos pareigūno statusą. 
 
 
 
@@ -5437,7 +5437,7 @@ Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 2. Profesinės karo tarnybos kariui mokamas tarnybinis atlyginimas, priedas už karinių specialybių kvalifikacines kategorijas ir 0,3 pagal šio įstatymo 1 priedą nustatyto tarnybinio atlyginimo koeficiento, kuris priklauso nuo kario laipsnio ir pagal šį laipsnį ištarnautų metų, dydžio priemoka. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
- 
+ 
 
 
 
@@ -5455,7 +5455,7 @@ Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 5. Profesinės karo tarnybos kariams už šeimos narius, kurie užsienyje gyvena kartu su profesinės karo tarnybos kariu, mokamos šiame straipsnyje numatytos išmokos ir (ar) kompensacijos. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
- 
+ 
 
 
 
@@ -5490,7 +5490,7 @@ Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 
 
 
-12. Profesinės karo tarnybos karys, atliekantis tarnybą šio įstatymo 42 straipsnio 3 dalyje nustatytais atvejais, ir jo šeimos nariai apdraudžiami sveikatos draudimu. Sveikatos draudimo išlaidos apmokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Valstybėse, kuriose nėra galimybių apdrausti sveikatos draudimu, išlaidos, susijusios su profesinės karo tarnybos kario, atliekančio tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, specialiojoje misijoje, atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje, arba jo šeimos narių asmens sveikatos priežiūra, apmokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Šioje dalyje nurodytos sveikatos draudimo ir su asmens sveikatos priežiūra susijusios išlaidos apmokamos krašto apsaugos ministro nustatyta tvarka, neviršijant Vyriausybės nustatytų sveikatos draudimo ir sveikatos priežiūros išlaidų ribų taikant gyvenimo lygio vietos koeficientą. Už šeimos narius iš Krašto apsaugos ministerijai skirtų asignavimų taip pat mokamos privalomojo sveikatos draudimo įmokos, jeigu jos turi būti mokamos vadovaujantis Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio 11 dalimi. 
+12. Profesinės karo tarnybos karys, atliekantis tarnybą šio įstatymo 42 straipsnio 3 dalyje nustatytais atvejais, ir jo šeimos nariai apdraudžiami sveikatos draudimu. Sveikatos draudimo išlaidos apmokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Valstybėse, kuriose nėra galimybių apdrausti sveikatos draudimu, išlaidos, susijusios su profesinės karo tarnybos kario, atliekančio tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, specialiojoje misijoje, atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje, arba jo šeimos narių asmens sveikatos priežiūra, apmokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Šioje dalyje nurodytos sveikatos draudimo ir su asmens sveikatos priežiūra susijusios išlaidos apmokamos krašto apsaugos ministro nustatyta tvarka, neviršijant Vyriausybės nustatytų sveikatos draudimo ir sveikatos priežiūros išlaidų ribų taikant gyvenimo lygio vietos koeficientą. Už šeimos narius iš Krašto apsaugos ministerijai skirtų asignavimų taip pat mokamos privalomojo sveikatos draudimo įmokos, jeigu jos turi būti mokamos vadovaujantis Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio 11 dalimi. 
 
 
 
@@ -5503,17 +5503,17 @@ Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 131. Karininkui, skiriamam atlikti karo tarnybą užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje į ne žemesnes kaip generolo leitenanto laipsnio pareigas, suteikiamos gyvenamosios patalpos – rezidencija. Tokiu atveju šio straipsnio 13 dalyje nurodyta išmoka apsirūpinti gyvenamosiomis patalpomis ir komunalinėms, ryšių ir kitoms su gyvenamųjų patalpų išlaikymu susijusioms išlaidoms apmokėti nemokama. Rezidencijos nuomos metų išlaidų normą nustato Vyriausybė, rezidencijos nuomos tvarką nustato krašto apsaugos ministras. Rezidencijos nuomos metų išlaidų norma apskaičiuojama rezidencijos nuomos metų išlaidų normą dauginant iš Vyriausybės nustatyto gyvenamųjų patalpų nuomos lygio vietos koeficiento. Užsienio valstybėse, kurių gyvenamųjų patalpų nuomos lygio vietos koeficiento dydžiai nėra nustatyti Vyriausybės, taikomas patalpų nuomos lygio vietos koeficientas 1,2. Į rezidencijos nuomos metų išlaidų normą įskaičiuojamos ir apmokamos rezidencijos apsaugos, draudimo, baldų nuomos išlaidos, automobilio statymo vietos mokestis, valymo ir aplinkos priežiūros paslaugų, komunalinės (įskaitant garažo ir automobilio statymo vietų nuomą) ir ryšių išlaidos (abonentinis telefono, interneto, kabelinės, palydovinės televizijos, radijo mokestis).
 Papildyta straipsnio dalimi:
 Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
- 
+ 
 
 
 
 
-14. Šio straipsnio 13 dalyje nurodyta išmoka apsirūpinti gyvenamosiomis patalpomis ir komunalinėms, ryšių ir kitoms su gyvenamųjų patalpų išlaikymu susijusioms išlaidoms apmokėti apskaičiuojama taikant gyvenamųjų patalpų nuomos lygio vietos koeficientą, kurio dydį nustato Vyriausybė. Užsienio valstybėse, kurių gyvenamųjų patalpų nuomos lygio vietos koeficiento dydžiai nėra nustatyti Vyriausybės, taikomas patalpų nuomos lygio vietos koeficientas 1,2. Išmoka apsirūpinti gyvenamosiomis patalpomis ir komunalinėms, ryšių ir kitoms su gyvenamųjų patalpų išlaikymu susijusioms išlaidoms apmokėti nemokama, jeigu karys toje valstybėje aprūpintas tarnybine gyvenamąja patalpa. Šiuo atveju Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apmokamos komunalinės, ryšių ir kitos su gyvenamųjų patalpų suteikimu ir išlaikymu susijusios išlaidos. 
+14. Šio straipsnio 13 dalyje nurodyta išmoka apsirūpinti gyvenamosiomis patalpomis ir komunalinėms, ryšių ir kitoms su gyvenamųjų patalpų išlaikymu susijusioms išlaidoms apmokėti apskaičiuojama taikant gyvenamųjų patalpų nuomos lygio vietos koeficientą, kurio dydį nustato Vyriausybė. Užsienio valstybėse, kurių gyvenamųjų patalpų nuomos lygio vietos koeficiento dydžiai nėra nustatyti Vyriausybės, taikomas patalpų nuomos lygio vietos koeficientas 1,2. Išmoka apsirūpinti gyvenamosiomis patalpomis ir komunalinėms, ryšių ir kitoms su gyvenamųjų patalpų išlaikymu susijusioms išlaidoms apmokėti nemokama, jeigu karys toje valstybėje aprūpintas tarnybine gyvenamąja patalpa. Šiuo atveju Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apmokamos komunalinės, ryšių ir kita su gyvenamųjų patalpų suteikimu ir išlaikymu susijusios išlaidos. 
 
 
 
 
-15. Šio straipsnio 13 dalyje nurodytos persikėlimo (įskaitant asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų) iš užsienio valstybės į Lietuvos Respubliką išlaidos apmokamos arba kompensuojamos, jeigu profesinės karo tarnybos karys pasibaigus šio įstatymo 42 straipsnio 3 dalyje nustatytų pareigų ar tarnybos terminui persikėlė į Lietuvos Respubliką per šio įstatymo 59 straipsnio 8 dalyje nustatytą terminą, o jo šeimos nariai – per 2 mėnesius nuo paskutinės profesinės karo tarnybos kario tarnybos (rezidavimo) užsienio valstybėje dienos.
+15. Šio straipsnio 13 dalyje nurodytos persikėlimo (įskaitant asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų) iš užsienio valstybės į Lietuvos Respubliką išlaidos apmokamos arba kompensuojamos, jeigu profesinės karo tarnybos karys pasibaigus šio įstatymo 42 straipsnio 3 dalyje nustatytų pareigų ar tarnybos terminui persikėlė į Lietuvos Respubliką per šio įstatymo 59 straipsnio 8 dalyje nustatytą terminą, o jo šeimos nariai – per 2 mėnesius nuo paskutinės profesinės karo tarnybos kario tarnybos (rezidavimo) užsienio valstybėje dienos.
 
 
 
@@ -5526,17 +5526,17 @@ Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
 17. Profesinės karo tarnybos kariui, naudojančiam netarnybinį automobilį tarnybos reikmėms, kompensuojamos degalų įsigijimo ir automobilio amortizacijos išlaidos. Kompensuojamų išlaidų dydį ir kompensavimo atvejus, taip pat automobilio, naudojamo tarnybos reikmėms, nuomos ir veiklos nuomos išlaidų atlyginimo sąlygas, tvarką ir pareigų, kurias einantiems kariams suteikiama teisė nuomotis automobilį, sąrašą nustato krašto apsaugos ministras. Kompensuojamų išlaidų dydis negali viršyti 0,39 Valstybės duomenų agentūros paskutinį kartą paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio dydžio.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
- 
+ 
 
 
 
 
-18. Profesinės karo tarnybos kariui krašto apsaugos ministro nustatyta tvarka apmokamos ar kompensuojamos važiavimo tarnybos tikslais keleivių vežimą vietinio (miesto ir priemiestinio) reguliaraus susisiekimo maršrutais vykdančiomis transporto priemonėmis išlaidos tais atvejais, kai toks važiavimas nėra laikomas komandiruote. Šioje dalyje nurodytos išlaidos neapmokamos ir nekompensuojamos, jeigu profesinės karo tarnybos kariui kompensuojamos ar atlyginamos šio straipsnio 17 dalyje nurodytos išlaidos.
+18. Profesinės karo tarnybos kariui krašto apsaugos ministro nustatyta tvarka apmokamos ar kompensuojamos važiavimo tarnybos tikslais reguliariaisiais reisais vietinio susisiekimo maršrutais išlaidos tais atvejais, kai toks važiavimas nėra laikomas komandiruote. Šioje dalyje nurodytos išlaidos neapmokamos ir nekompensuojamos, jeigu profesinės karo tarnybos kariui kompensuojamos ar atlyginamos šio straipsnio 17 dalyje nurodytos išlaidos.
 
 
 
 
-19. Kartą per metus, skaičiuojant nuo paskyrimo tarnauti į Lietuvos Respublikos diplomatinę atstovybę, specialiąją misiją, atstovybę prie tarptautinės organizacijos, užsienio valstybės ar tarptautinę karinę arba gynybos instituciją, profesinės karo tarnybos kariui ir kartu su juo gyvenantiems jo šeimos nariams apmokamos ar kompensuojamos kelionės į Lietuvos Respubliką ir atgal išlaidos, o kartu su juo negyvenantiems šeimos nariams – kelionės pas profesinės karo tarnybos karį ir atgal į Lietuvos Respubliką išlaidos. Jeigu sutuoktiniai yra paskirti atlikti tarnybos į skirtingas užsienio valstybes arba skirtingus tos pačios užsienio valstybės miestus, vieno iš jų pasirinkimu vietoj šioje dalyje nurodytos kelionės į Lietuvos Respubliką ir atgal apmokamos ar kompensuojamos jo ir kartu su juo gyvenančių šeimos narių kelionės į kitą užsienio valstybę ar kitą tos pačios užsienio valstybės miestą, kuriame paskirtas atlikti tarnybos kitas sutuoktinis, ir atgal išlaidos. Jeigu dėl nenumatytų objektyvių aplinkybių profesinės karo tarnybos karys ir (ar) jo šeimos nariai negalėjo įgyvendinti šioje dalyje nustatytos teisės per nurodytą terminą, esant motyvuotam profesinės karo tarnybos kario prašymui, krašto apsaugos ministro ar jo įgalioto asmens sprendimu šios teisės įgyvendinimo terminas pratęsiamas 6 mėnesiams. Šios garantijos taikomos ir tais atvejais, kai profesinės karo tarnybos kario sutuoktinis yra diplomatas, kitas valstybės tarnautojas ar žvalgybos pareigūnas, įstatymų nustatyta tvarka atliekantis tarnybą užsienyje, arba asmuo, deleguotas į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka. Ypatingais atvejais Užsienio reikalų ministerijai rekomendavus kartu su profesinės karo tarnybos kariu užsienio valstybėje gyvenantiems šeimos nariams laikinai grįžti į Lietuvos Respubliką apmokamos arba kompensuojamos šeimos narių kelionės į Lietuvos Respubliką ir atgal išlaidos ir ne ilgiau kaip 6 mėnesius nuo šeimos nario grįžimo į Lietuvos Respubliką dienos toliau taikomos šioje dalyje, šio straipsnio 4, 6, 7, 8, 9, 10, 12, 13, 14, 15 ir 25 dalyse ir Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje nustatytos garantijos.
+19. Kartą per metus, skaičiuojant nuo paskyrimo tarnauti į Lietuvos Respublikos diplomatinę atstovybę, specialiąją misiją, atstovybę prie tarptautinės organizacijos, užsienio valstybės ar tarptautinę karinę arba gynybos instituciją, profesinės karo tarnybos kariui ir kartu su juo gyvenantiems jo šeimos nariams apmokamos ar kompensuojamos kelionės į Lietuvos Respubliką ir atgal išlaidos, o kartu su juo negyvenantiems šeimos nariams – kelionės pas profesinės karo tarnybos karį ir atgal į Lietuvos Respubliką išlaidos. Jeigu sutuoktiniai yra paskirti atlikti tarnybos į skirtingas užsienio valstybes arba skirtingus tos pačios užsienio valstybės miestus, vieno iš jų pasirinkimu vietoj šioje dalyje nurodytos kelionės į Lietuvos Respubliką ir atgal apmokamos ar kompensuojamos jo ir kartu su juo gyvenančių šeimos narių kelionės į kitą užsienio valstybę ar kitą tos pačios užsienio valstybės miestą, kuriame paskirtas atlikti tarnybos kitas sutuoktinis, ir atgal išlaidos. Jeigu dėl nenumatytų objektyvių aplinkybių profesinės karo tarnybos karys ir (ar) jo šeimos nariai negalėjo įgyvendinti šioje dalyje nustatytos teisės per nurodytą terminą, esant motyvuotam profesinės karo tarnybos kario prašymui, krašto apsaugos ministro ar jo įgalioto asmens sprendimu šios teisės įgyvendinimo terminas pratęsiamas 6 mėnesiams. Šios garantijos taikomos ir tais atvejais, kai profesinės karo tarnybos kario sutuoktinis yra diplomatas, kitas valstybės tarnautojas ar žvalgybos pareigūnas, įstatymų nustatyta tvarka atliekantis tarnybą užsienyje, arba asmuo, deleguotas į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka. Ypatingais atvejais Užsienio reikalų ministerijai rekomendavus kartu su profesinės karo tarnybos kariu užsienio valstybėje gyvenantiems šeimos nariams laikinai grįžti į Lietuvos Respubliką apmokamos arba kompensuojamos šeimos narių kelionės į Lietuvos Respubliką ir atgal išlaidos ir ne ilgiau kaip 6 mėnesius nuo šeimos nario grįžimo į Lietuvos Respubliką dienos toliau taikomos šioje dalyje, šio straipsnio 4, 6, 7, 8, 9, 10, 12, 13, 14, 15 ir 25 dalyse ir Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje nustatytos garantijos.
 
 
 
@@ -5559,7 +5559,7 @@ Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 23. Neteko galios nuo 2022-09-01
 Straipsnio dalies naikinimas:
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
- 
+ 
 
 
 
@@ -5569,25 +5569,19 @@ Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 
 
 
-25. Profesinės karo tarnybos kario mirties ar žūties atveju apmokamos arba kompensuojamos mirusio ar žuvusio asmens asmeninio krovinio nugabenimo į Lietuvos Respubliką išlaidos neviršijant Vyriausybės nustatytų limitų, taip pat jo šeimos narių persikėlimo (įskaitant jo šeimos narių asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų) iš užsienio valstybės į Lietuvos Respubliką išlaidos, jeigu mirusio ar žuvusio profesinės karo tarnybos kario šeimos nariai persikelia iš užsienio valstybės į Lietuvos Respubliką per 3 mėnesius nuo profesinės karo tarnybos kario mirties ar žūties dienos. Be to, kartu su mirusiu ar žuvusiu profesinės karo tarnybos kariu gyvenusiems jo šeimos nariams iki jų persikėlimo į Lietuvos Respubliką dienos, ne ilgiau negu 3 mėnesius nuo profesinės karo tarnybos kario mirties ar žūties dienos, taikomos šio straipsnio 6–14 ir 19 dalyse, taip pat Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje nustatytos garantijos.
+25. Profesinės karo tarnybos kario mirties ar žūties atveju apmokamos arba kompensuojamos mirusio ar žuvusio asmens asmeninio krovinio nugabenimo į Lietuvos Respubliką išlaidos neviršijant Vyriausybės nustatytų limitų, taip pat jo šeimos narių persikėlimo (įskaitant jo šeimos narių asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų) iš užsienio valstybės į Lietuvos Respubliką išlaidos, jeigu mirusio ar žuvusio profesinės karo tarnybos kario šeimos nariai persikelia iš užsienio valstybės į Lietuvos Respubliką per 3 mėnesius nuo profesinės karo tarnybos kario mirties ar žūties dienos. Be to, kartu su mirusiu ar žuvusiu profesinės karo tarnybos kariu gyvenusiems jo šeimos nariams iki jų persikėlimo į Lietuvos Respubliką dienos, ne ilgiau negu 3 mėnesius nuo profesinės karo tarnybos kario mirties ar žūties dienos, taikomos šio straipsnio 6–14 ir 19 dalyse, taip pat Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje nustatytos garantijos.
 
 
 
 
-26. Lietuvos Respublikos diplomatinėje atstovybėje, specialiojoje misijoje ar atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje arba gynybos institucijoje tarnybą atliekantiems profesinės karo tarnybos kariams, pasiųstiems į komandiruotę į Lietuvos Respubliką, ir jų šeimos nariams ne ilgiau kaip 6 mėnesius nuo profesinės karo tarnybos kario komandiruotės į Lietuvos Respubliką dienos toliau taikomos šio straipsnio 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 19 ir 25 dalyse ir Valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje nustatytos garantijos, taip pat šio straipsnio 17 dalyje nustatyta automobilio, naudojamo tarnybos reikmėms, nuomos ir veiklos nuomos išlaidų atlyginimo garantija.
+26. Lietuvos Respublikos diplomatinėje atstovybėje, specialiojoje misijoje ar atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje arba gynybos institucijoje tarnybą atliekantiems profesinės karo tarnybos kariams, pasiųstiems į komandiruotę į Lietuvos Respubliką, ir jų šeimos nariams ne ilgiau kaip 6 mėnesius nuo profesinės karo tarnybos kario komandiruotės į Lietuvos Respubliką dienos toliau taikomos šio straipsnio 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 19 ir 25 dalyse ir Valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje nustatytos garantijos, taip pat šio straipsnio 17 dalyje nustatyta automobilio, naudojamo tarnybos reikmėms, nuomos ir veiklos nuomos išlaidų atlyginimo garantija.
 
 
 Straipsnio pakeitimai:
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
-Nr. XIV-1122, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12614
- 
-
-
-
-
-611 straipsnis. Karių tarnybos tarptautinių operacijų ir rengimosi joms metu apmokėjimas
+Nr. XIV-1122, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12614611 straipsnis. Karių tarnybos tarptautinių operacijų ir rengimosi joms metu apmokėjimas
 
 
 1. Šis straipsnis taikomas kariams, už Lietuvos Respublikos teritorijos ir išskirtinės ekonominės zonos ribų dalyvaujantiems tarptautinėje operacijoje, besirengiantiems tarptautinei operacijai, vykdantiems tarnybinę užduotį tarptautinės operacijos vietovėje, išskyrus profesinės karo tarnybos karius, turinčius žvalgybos pareigūno statusą. 
