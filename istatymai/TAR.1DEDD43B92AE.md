@@ -532,7 +532,9 @@ Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 91 straipsnis. Vaiko priežiūros kompensacinė išmoka
 
 
-1. Vaiko priežiūros kompensacinė išmoka – 5,2 bazinės socialinės išmokos dydžio per mėnesį – skiriama ir mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar globėjui, kai vaiko globa nustatyta šeimoje, už kiekvieną vaiką, kuris nėra ugdomas pagal ikimokyklinio ugdymo programą valstybinėse ar savivaldybių, ar nevalstybinėse įstaigose, vykdančiose ikimokyklinio ugdymo programas, ir pagal vaiko priežiūros sutartį su vaiko tėvu (įtėviu) ar globėju (toliau – vaiko priežiūros sutartis) už atlyginimą yra prižiūrimas fizinio asmens, vykdančio vaikų dienos priežiūrą Lietuvos Respublikoje pagal individualios veiklos vykdymo pažymą ar darbo sutartį (toliau – vaiko priežiūrą vykdantis fizinis asmuo), jeigu bendrai gyvenantys asmenys arba globėjas ir su juo bendrai gyvenantys asmenys, kurie augina ir (ar) globoja vaiką, dirba pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu arba yra savarankiškai dirbantys asmenys, išskyrus darbingo amžiaus asmenis, kuriems nustatytas 0–25 procentų dalyvumo lygis.
+1. Vaiko priežiūros kompensacinė išmoka – 5,2 bazinės socialinės išmokos dydžio per mėnesį – skiriama ir mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš vaiko tėvų (įtėvių) ar globėjui, kai vaiko globa nustatyta šeimoje, už kiekvieną vaiką, kuris nėra ugdomas pagal ikimokyklinio ugdymo programą valstybinėse ar savivaldybių, ar nevalstybinėse įstaigose, vykdančiose ikimokyklinio ugdymo programas, ir pagal vaiko priežiūros sutartį su vaiko tėvu (įtėviu) ar globėju (toliau – vaiko priežiūros sutartis) už atlyginimą yra prižiūrimas fizinio asmens, vykdančio vaikų dienos priežiūrą Lietuvos Respublikoje pagal individualios veiklos vykdymo pažymą ar darbo sutartį, (toliau – vaiko priežiūrą vykdantis fizinis asmuo), jeigu bendrai gyvenantys asmenys arba globėjas ir su juo bendrai gyvenantis asmuo, kurie augina ir (ar) globoja vaiką, atitinka bent vieną iš šių reikalavimų:
+1) bendrai gyvenantys asmenys arba globėjas ir su juo bendrai gyvenantis asmuo, kurie augina ir (ar) globoja vaiką, dirba pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu arba yra savarankiškai dirbantys asmenys, išskyrus darbingo amžiaus asmenis, kuriems nustatytas 0–25 procentų dalyvumo lygis;
+2) vienas iš bendrai gyvenančių asmenų (ar turimas vienintelis iš vaiko tėvų (įtėvių) arba globėjas ar su juo bendrai gyvenantis asmuo, kurie augina ir (ar) globoja vaiką, dirba pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu arba yra savarankiškai dirbantis asmuo, išskyrus darbingo amžiaus asmenis, kuriems nustatytas 0–25 procentų dalyvumo lygis, o kitas (ar turimas vienintelis iš vaiko tėvų (įtėvių), globėjas) mokosi pagal bendrojo ugdymo programą, formaliojo profesinio mokymo programą kartu su bendrojo ugdymo programa ar pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą, doktorantūroje ar rezidentūroje (įskaitant asmenis akademinių atostogų, suteiktų dėl ligos arba nėštumo ir gimdymo ar atostogų vaikui prižiūrėti, jeigu dėl vaiko priežiūros kompensacinės išmokos skyrimo kreipiamasi už kitą vaiką, negu suteiktos akademinės atostogos vaikui prižiūrėti, arba atlikti privalomąją pradinę karo tarnybą, laikotarpiu).
 
 
 
@@ -556,13 +558,7 @@ Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 
 
 Papildyta straipsniu:
-Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
- 
-
-
-
-
-10 straipsnis. Vienkartinė išmoka nėščiai moteriai
+Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-2594110 straipsnis. Vienkartinė išmoka nėščiai moteriai
 
 
 1. Moteriai, pagal Ligos ir motinystės socialinio draudimo įstatymą neturinčiai teisės gauti motinystės išmoką, likus 70 kalendorinių dienų iki numatomos gimdymo datos skiriama 6,43 bazinės socialinės išmokos dydžio vienkartinė išmoka nėščiai moteriai. 
@@ -1376,12 +1372,7 @@ Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
 
 
 
-23) asmuo, kuriam paskirta šio įstatymo 91 straipsnyje nustatyta išmoka, ir (ar) su juo bendrai gyvenantys asmenys, kurie augina ir (ar) globoja vaiką, nedirba pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu arba nėra savarankiškai dirbantys asmenys, išskyrus darbingo amžiaus asmenis, kuriems nustatytas 0–25 procentų dalyvumo lygis, – nuo darbo sutarties ar darbo santykiams prilygintų teisinių santykių pagrindu arba savarankiškos veiklos nutraukimo dienos. 
-Papildyta straipsnio punktu:
-Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
- 
-
-
+23) asmuo, kuriam paskirta šio įstatymo 9^1 straipsnyje nustatyta išmoka, ir (ar) su juo bendrai gyvenantis asmuo, kurie augina ir (ar) globoja vaiką, nedirba pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu arba nėra savarankiškai dirbantys asmenys, išskyrus darbingo amžiaus asmenis, kuriems nustatytas 0–25 procentų dalyvumo lygis, ar nutraukia mokymąsi ar studijas – nuo darbo sutarties ar darbo santykiams prilygintų teisinių santykių pagrindu arba savarankiškos veiklos nutraukimo dienos ar nuo mokymosi ar studijų nutraukimo dienos.
 
 
 2. Savivaldybės administracija sustabdo išmokų mokėjimą, jeigu atsiranda nors viena iš šių aplinkybių:
@@ -1415,8 +1406,7 @@ Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
 
 
 Straipsnio pakeitimai:
-Nr. XIV-1842, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05738
-22 straipsnis. Išmokų gavėjų pareigos
+Nr. XIV-1842, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-0573822 straipsnis. Išmokų gavėjų pareigos
 
 
 Asmenys, kurie kreipiasi dėl išmokų ir kurie jas gauna, privalo:
