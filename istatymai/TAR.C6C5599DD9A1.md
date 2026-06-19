@@ -228,7 +228,7 @@ Nr. XIV-1895, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08614
 
 
 
-14. Tais atvejais, kai mokėjimo paslaugos teikiamos pagal sutartis, sudarytas naudojant nuotolinio ryšio priemones, ir taikomas Lietuvos Respublikos vartotojų teisių apsaugos įstatymas, vietoj Vartotojų teisių apsaugos įstatymo 36 straipsnio 5–9 dalyse, išskyrus 36 straipsnio 7 dalies 3–8 punktus, 8 dalies 1, 4 ir 5 punktus ir 9 dalies 2 punktą, nustatytų informacijos reikalavimų taikomos šio įstatymo 13 ir 20 straipsnių nuostatos.
+14. Tais atvejais, kai mokėjimo paslaugos teikiamos pagal sutartis, sudarytas naudojant nuotolinio ryšio priemones, ir taikomas Lietuvos Respublikos vartotojų teisių apsaugos įstatymas, vietoj Vartotojų teisių apsaugos įstatymo 37^ straipsnio 1 dalyje, išskyrus jos 10–14, 16, 19 ir 23 punktus, nustatytų informacijos reikalavimų taikomos šio įstatymo 13 ir 20 straipsnių nuostatos.
 
 
 
@@ -243,65 +243,7 @@ Nr. XIV-1895, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08614
 
 
 
-17. Mokėjimo paslaugų teikėjas turi teisę nustatyti palankesnes sąlygas mokėjimo paslaugų vartotojams, negu nustatyta šiame įstatyme.4 straipsnis. Išimtys dėl mažos vertės mokėjimo priemonių ir elektroninių pinigų
-
-
-Kai mokėjimo priemonės pagal bendrąją sutartį yra susijusios tik su atskiromis mokėjimo operacijomis, kurios neviršija 30 eurų arba kurioms įvykdyti nustatytas 150 eurų išlaidų per mėnesį limitas, arba kurių elektroninėse laikmenose saugoma ne didesnė kaip 150 eurų suma, bet kuriuo metu:
-
-
-1) mokėjimo paslaugų teikėjas turi teisę mokėtojui pateikti tik informaciją apie pagrindines mokėjimo paslaugos savybes, įskaitant mokėjimo priemonės naudojimo instrukciją, atsakomybę, taikomą komisinį atlyginimą ir kitą svarbią informaciją, taip pat nurodyti, kur lengvai prieinamu būdu galima susipažinti su kitomis šio įstatymo 13 straipsnio 2–8 dalyse nustatytomis mokėjimo paslaugų teikimo sąlygomis;
-
-
-
-
-2) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad mokėjimo paslaugų teikėjas neprivalo siūlomo bendrosios sutarties sąlygų pakeitimo pateikti raštu popieriuje arba naudojant kitą patvariąją laikmeną;
-
-
-
-
-3) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad, atlikęs mokėjimo operaciją, mokėjimo paslaugų teikėjas pateikia tik nuorodą arba sudaro sąlygas susipažinti su tokia nuoroda, pagal kurią mokėjimo paslaugų vartotojas gali nustatyti mokėjimo operaciją, jos sumą ir taikytą komisinį atlyginimą, o kai tam pačiam gavėjui atliktos kelios tokios pačios rūšies mokėjimo operacijos, – tik informaciją apie visą sumą ir komisinį atlyginimą už šias mokėjimo operacijas. Mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad iš mokėjimo paslaugų teikėjo nereikalaujama teikti šios informacijos arba sudaryti sąlygų su ja susipažinti, jeigu mokėjimo priemonė naudojama anonimiškai arba jeigu mokėjimo paslaugų teikėjas dėl techninių priežasčių negali tokios informacijos pateikti. Tačiau mokėjimo paslaugų teikėjas turi suteikti mokėtojui galimybę patikrinti laikomų lėšų sumą;
-
-
-
-
-4) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad šio įstatymo 34 straipsnio 1 dalies 2 punktas, 35 straipsnio 1 dalies 3 ir 5 punktai ir 39 straipsnio 5 ir 6 dalys jiems netaikomi, jeigu negalima mokėjimo priemonės blokuoti arba užkirsti kelio tolesniam jos naudojimui;
-
-
-
-
-5) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad šio įstatymo 37, 38 straipsniai ir 39 straipsnio 1, 2, 3, 5 ir 6 dalys jiems netaikomi, jeigu mokėjimo priemonė naudojama anonimiškai arba jeigu mokėjimo paslaugų teikėjas negali įrodyti, kad mokėjimo operacija buvo autorizuota dėl specifinių mokėjimo priemonės savybių;
-
-
-
-
-6) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad mokėjimo paslaugų teikėjas nepraneštų mokėjimo paslaugų vartotojui apie atsisakymą vykdyti mokėjimo nurodymą, jeigu akivaizdu, kad mokėjimo nurodymas nebus įvykdytas;
-
-
-
-
-7) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad mokėtojas negali atšaukti mokėjimo nurodymo po to, kai mokėjimo nurodymas perduotas arba gavėjui duotas sutikimas atlikti mokėjimo operaciją;
-
-
-
-
-8) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad bus taikomi kiti mokėjimo operacijos įvykdymo terminai, negu nustatyta šio įstatymo 46 ir 47 straipsniuose.
- 
-
-
-
-
-
-
-
-
-
-
-II SKYRIUS
-MOKĖJIMO PASLAUGOS IR MOKĖJIMO PASLAUGŲ TEIKĖJAI
- 
-
-
-5 straipsnis. Mokėjimo paslaugos
+17. Mokėjimo paslaugų teikėjas turi teisę nustatyti palankesnes sąlygas mokėjimo paslaugų vartotojams, negu nustatyta šiame įstatyme.5 straipsnis. Mokėjimo paslaugos
 
 
 Mokėjimo paslaugas sudaro:
