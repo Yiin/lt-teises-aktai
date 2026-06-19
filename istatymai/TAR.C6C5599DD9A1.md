@@ -268,9 +268,6 @@ Nr. XIV-1895, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08614
 
 14. Tais atvejais, kai mokėjimo paslaugos teikiamos pagal sutartis, sudarytas naudojant nuotolinio ryšio priemones, ir taikomas Lietuvos Respublikos vartotojų teisių apsaugos įstatymas, vietoj Vartotojų teisių apsaugos įstatymo 37^ straipsnio 1 dalyje, išskyrus jos 10–14, 16, 19 ir 23 punktus, nustatytų informacijos reikalavimų taikomos šio įstatymo 13 ir 20 straipsnių nuostatos.
 
-
-
-
 15. Šio įstatymo nuostatos, susijusios su vartotojams teikiamais kreditais, taikomos tiek, kiek kiti įstatymai, reglamentuojantys vartotojams teikiamus kreditus, nenustato kitaip.
 
 
