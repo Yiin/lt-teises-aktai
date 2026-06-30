@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2026-06-29
+Suvestinė redakcija nuo 2026-06-30 iki 2026-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -18551,6 +18551,19 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
+5831 straipsnis. Išieškojimas į valstybės biudžetą
+
+
+Kai pagal vykdomąjį dokumentą priverstinai išieškoma suma į valstybės biudžetą, išieškojimą vykdo Valstybinė mokesčių inspekcija Lietuvos Respublikos mokesčių administravimo įstatyme nustatyta tvarka ir antstolis šiame Kodekse nustatyta tvarka. 
+
+
+Papildyta straipsniu:
+Nr. XIV-2806, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12623
+ 
+
+
+
+
 584 straipsnis. Vykdytini dokumentai
 
 
@@ -20696,9 +20709,10 @@ VYKDOMŲJŲ RAŠTŲ IŠDAVIMO TVARKA
 646 straipsnis. Vykdomojo rašto išdavimo tvarka
 
 
-1. Vykdytinam sprendimui įsiteisėjus, išieškotojui pagal rašytinį pareiškimą pirmosios instancijos teismas išduoda vykdomąjį raštą. Jeigu teismas, šio Kodekso numatytais atvejais išduodantis vykdomąjį raštą, sudarytas iš teismo rūmų, pareiškimas dėl vykdomojo rašto išdavimo paduodamas teismo rūmams, į kuriuos paskirti teisėjas ar teisėjai išnagrinėjo bylą ar priėmė sprendimą. Tais atvejais, kai konfiskuojamas turtas arba kai išieškomos pinigų sumos į valstybės biudžetą, kai išieškoma nusikalstama veika padaryta žala, kai išieškomas išlaikymas, žalos, padarytos suluošinant ar kitaip sužalojant sveikatą, atlyginimas, taip pat atimant maitintojo gyvybę, teismas vykdomąjį raštą išduoda išieškotojui ir be jo prašymo.
+1. Vykdytinam sprendimui įsiteisėjus, išieškotojui pagal rašytinį pareiškimą pirmosios instancijos teismas išduoda vykdomąjį raštą. Jeigu teismas, šio Kodekso numatytais atvejais išduodantis vykdomąjį raštą, sudarytas iš teismo rūmų, pareiškimas dėl vykdomojo rašto išdavimo paduodamas teismo rūmams, į kuriuos paskirti teisėjas ar teisėjai išnagrinėjo bylą ar priėmė sprendimą. Tais atvejais, kai konfiskuojamas turtas arba kai išieškomos pinigų sumos į valstybės biudžetą, kai išieškoma nusikalstama veika padaryta žala, kai išieškomas išlaikymas, žalos, padarytos suluošinant ar kitaip sužalojant sveikatą, atlyginimas, taip pat atimant maitintojo gyvybę, teismas vykdomąjį raštą išduoda išieškotojui ir be jo prašymo. Kai išieškomos pinigų sumos į valstybės biudžetą, vykdomojo dokumento duomenys Valstybinei mokesčių inspekcijai pateikiami iš Lietuvos teismų informacinės sistemos (LITEKO) ar kitų valstybės informacinių sistemų. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2479, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17983
+Nr. XIV-2806, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12623
  
 
 
@@ -20894,10 +20908,11 @@ XLV SKYRIUS VYKDOMŲJŲ DOKUMENTŲ PATEIKIMO IR  PRIĖMIMO VYKDYTI TVARKA
 
 
 
-2. Pateikdami išieškojimui vykdyti vykdomąjį dokumentą, Valstybinė mokesčių inspekcija administracinių nusižengimų bylose tiek, kiek jos susijusios su turtinio pobūdžio išieškojimais, kitos institucijos ir pareigūnai, kurių sprendimų vykdymas civilinio proceso tvarka nustatytas įstatymuose, kartu pateikia antstoliui duomenis, patvirtinančius, kad pateikiamas vykdomasis dokumentas nėra įvykdytas ir turi būti vykdomas priverstine tvarka, taip pat atsako už šių duomenų teisingumą. 
+2. Pateikdami išieškojimui vykdyti vykdomąjį dokumentą, Valstybinė mokesčių inspekcija dėl turtinio pobūdžio išieškojimų, kitos institucijos ir pareigūnai, kurių sprendimų vykdymas civilinio proceso tvarka nustatytas įstatymuose, kartu pateikia antstoliui duomenis, patvirtinančius, kad pateikiamas vykdomasis dokumentas nėra įvykdytas ir turi būti vykdomas priverstine tvarka, taip pat atsako už šių duomenų teisingumą. 
 TAR pastaba. 650 straipsnio 2 dalies nuostatos taikomos ir administracinių teisės pažeidimų, numatytų Administracinių teisės pažeidimų kodekse, byloms.
 Straipsnio dalies pakeitimai:
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+Nr. XIV-2806, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12623
  
 
 
@@ -20967,10 +20982,11 @@ Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 
 
-8) ar Valstybinė mokesčių inspekcija administracinių nusižengimų bylose tiek, kiek jos susijusios su turtinio pobūdžio išieškojimais, kitos institucijos ir pareigūnai, kurių sprendimų vykdymą civilinio proceso tvarka nustato įstatymai, patikrino, kad pateikiamas vykdomasis dokumentas nėra įvykdytas ir turi būti vykdomas priverstine tvarka; 
+8) ar Valstybinė mokesčių inspekcija dėl turtinio pobūdžio išieškojimų, kitos institucijos ir pareigūnai, kurių sprendimų vykdymą civilinio proceso tvarka nustato įstatymai, patikrino, kad pateikiamas vykdomasis dokumentas nėra įvykdytas ir turi būti vykdomas priverstine tvarka; 
 TAR pastaba. 651 straipsnio 2 dalies 7 punkto nuostatos taikomos ir administracinių teisės pažeidimų, numatytų Administracinių teisės pažeidimų kodekse, byloms.
 Straipsnio punkto pakeitimai:
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+Nr. XIV-2806, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12623
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
  
@@ -26046,3 +26062,8 @@ Lietuvos Respublikos civilinio proceso kodekso 626, 663 ir 736 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2802, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12133
 Lietuvos Respublikos civilinio proceso kodekso 82, 108, 145, 192, 590, 593, 596, 601, 602, 609, 610, 611, 614, 624-1, 626, 627, 631, 632, 634, 636, 648, 650, 651, 654, 656, 661, 663, 668, 685, 689, 702, 706, 710, 713, 723, 727, 731, 732, 753, 754, 755 ir 771-1 straipsnių pakeitimo įstatymo Nr. XIV-2317 15 ir 30 straipsnių pakeitimo įstatymas
+ 
+65.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2806, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12623
+Lietuvos Respublikos civilinio proceso kodekso 646, 650, 651 straipsnių pakeitimo ir Kodekso papildymo 583-1 straipsniu įstatymas
