@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2025-02-01 iki 2026-06-29
+Suvestinė redakcija nuo 2026-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -6092,6 +6092,14 @@ Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
 4. Ikiteisminio tyrimo teisėjo ar bylą nagrinėjančio teismo nutartį paskirti baudą ar areštą nubaustas asmuo per septynias dienas nuo nutarties nuorašo gavimo gali apskųsti nutartį priėmusiam ikiteisminio tyrimo teisėjui ar teismui prašydamas paskirtą baudą ar areštą panaikinti arba baudos ar arešto trukmę sumažinti. Toks skundas nagrinėjamas teismo posėdyje, jei apie tai yra pranešta skundą padavusiam asmeniui. Dėl skundo priimta nutartis gali būti skundžiama aukštesniajam teismui šio Kodekso X dalyje nustatyta tvarka.
 
 
+
+
+5. Įsiteisėję nutartis ar nutarimas skirti baudą pateikiama Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos. Vykdomojo dokumento duomenys Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos pateikiami iš Lietuvos teismų informacinės sistemos (LITEKO) ar kitų valstybės informacinių sistemų. Jeigu bauda nesumokama savanoriškai per du mėnesius nuo nutarties ar nutarimo įsiteisėjimo dienos arba per kitą prokuroro, ikiteisminio tyrimo teisėjo ar teismo nustatytą laikotarpį, ją priverstinai išieško Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos Lietuvos Respublikos mokesčių administravimo įstatyme nustatyta tvarka ir antstoliai Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2808, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12625
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
@@ -10672,6 +10680,14 @@ Nr. XIV-2574, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08215
 
 
 
+7) baudos bausmės vykdymo terminai, kai nuosprendžiu paskirta bauda. 
+Papildyta straipsnio punktu:
+Nr. XIV-2808, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12625
+ 
+
+
+
+
 
 
 2. Tais atvejais, kai kelių nusikalstamų veikų padarymu kaltinamas kaltinamasis dėl vienų veikų padarymo pripažįstamas kaltu, o dėl kitų – ne, nuosprendžio rezoliucinėje dalyje turi būti tiksliai nurodoma, dėl kurių veikų padarymo jis nuteisiamas, dėl kurių išteisinamas.
@@ -12058,7 +12074,10 @@ Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
 
 
-2) dėl baudos priverstinio išieškojimo – antstoliams;
+2) dėl baudos bausmės – Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2808, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12625
+ 
 
 
 
@@ -12351,12 +12370,18 @@ Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 352 straipsnis. Nuosprendžio, kuriuo paskirta bauda, vykdymas
 
 
-1. Nuosprendį paskelbęs teismas tuoj pat išaiškina nuteistajam paskirtos bausmės savanoriško ir priverstinio įvykdymo tvarką, sąlygas, jo teises ir pareigas bei nustato terminą, per kurį turi būti savanoriškai sumokėta bauda.
+1. Nuosprendį paskelbęs teismas tuoj pat išaiškina nuteistajam paskirtos bausmės savanoriško ir priverstinio įvykdymo tvarką, sąlygas, jo teises ir pareigas bei nustato terminą, per kurį turi būti savanoriškai sumokėta bauda. Teismas pasirašytinai įspėja nuteistąjį arba nuteisto juridinio asmens valdymo organą ar įgaliotą asmenį, kad per teismo nustatytą terminą į Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos nurodytą sąskaitą nesumokėta arba nepervesta bauda bus išieškota priverstinai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2808, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12625
+ 
 
 
 
 
-2. Jeigu bauda nesumokama savanoriškai, ją priverstinai išieško antstolis pagal nuosprendį priėmusio teismo išduotą vykdomąjį raštą.
+2. Jeigu bauda nesumokama savanoriškai, ją priverstinai išieško Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos ir antstoliai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2808, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12625
+ 
 
 
 
