@@ -20,7 +20,7 @@ PATVIRTINTAS
 
 
 
-Suvestinė redakcija nuo 2024-07-18 iki 2026-06-29
+Suvestinė redakcija nuo 2026-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
  
@@ -143,7 +143,10 @@ BAUSMIŲ VYKDYMĄ REGLAMENTUOJANTYS TEISĖS AKTAI, BAUSMIŲ VYKDYMO PRINCIPAI, N
 
 
 
-3. Jeigu yra šio kodekso ir kitų bausmių vykdymą reglamentuojančių įstatymų spragų, bausmių vykdymo sistemos pareigūnai ir antstoliai privalo veikti pagal šiame kodekse nustatytus bausmių vykdymo principus.
+3. Jeigu yra šio kodekso ir kitų bausmių vykdymą reglamentuojančių įstatymų spragų, bausmių vykdymo sistemos pareigūnai, Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos ir antstoliai privalo veikti pagal šiame kodekse nustatytus bausmių vykdymo principus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2807, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12624
+ 
 
 
 
@@ -250,67 +253,33 @@ BAUDOS BAUSMĖS VYKDYMO TVARKA IR SĄLYGOS
 
 
 
-2. Nuosprendį paskelbęs teismas išaiškina nuteistajam, kad jis privalo sumokėti baudą į Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos biudžeto pajamų surenkamąją sąskaitą per du mėnesius nuo nuosprendžio įsiteisėjimo dienos ar per kitą teismo nustatytą laikotarpį.
+2. Vykdydamas baudos bausmę savanoriškai, asmuo baudą sumoka į Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos sąskaitą ne vėliau kaip per du mėnesius nuo nuosprendžio įsiteisėjimo dienos ar per kitą teismo nustatytą terminą.
 
 
 
 
-3. Jeigu bauda paskirta juridiniam asmeniui, nuosprendį priėmęs teismas išaiškina juridinio asmens valdymo organui ar įgaliotam asmeniui, kad juridinis asmuo privalo pervesti baudą į Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos biudžeto pajamų surenkamąją sąskaitą per du mėnesius nuo nuosprendžio įsiteisėjimo dienos ar per kitą teismo nustatytą laikotarpį.
+3. Jeigu asmuo savanoriškai nesumoka visos baudos, Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos Lietuvos Respublikos mokesčių administravimo įstatyme nustatyta tvarka ir antstoliai Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka išieško baudą priverstinai. 
 
 
-
-
-4. Teismas privalo pasirašytinai įspėti nuteistąjį arba juridinio asmens valdymo organą ar įgaliotą asmenį, kad nustatytu laiku nesumokėta arba nepervesta bauda bus išieškota priverstinai.
+Straipsnio pakeitimai:
+Nr. XIV-2807, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12624
  
 
 
 
 
-
-
-7 straipsnis. Savanoriškas baudos bausmės vykdymas
-
-
-1. Sumokėjęs baudą į Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos biudžeto pajamų surenkamąją sąskaitą, nuteistasis pateikia nuosprendį priėmusio teismo raštinės tarnautojui banko kvitą.
-
-
-
-
-2. Pervedęs baudą į Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos biudžeto pajamų surenkamąją sąskaitą, juridinis asmuo tai patvirtinančius dokumentus pateikia nuosprendį priėmusio teismo raštinės tarnautojui.
-
-
-
-
-3. Nuosprendį priėmusio teismo raštinės tarnautojas, patikrinęs baudos sumokėjimo faktą, banko kvitą arba juridinio asmens pateiktus dokumentus prideda prie baudžiamosios bylos ir apie nuosprendžio įvykdymą praneša nuosprendį priėmusiam teismui.
+7 straipsnis. Neteko galios nuo 2026-06-30
+Straipsnio naikinimas:
+Nr. XIV-2807, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12624
  
 
 
 
 
-
-
-8 straipsnis. Priverstinis baudos išieškojimas
-
-
-1. Jeigu nuteistasis nesumokėjo, o juridinis asmuo nustatytu laiku nepervedė baudos, ši bausmė pagal nuosprendį priėmusio teismo išduotą vykdomąjį raštą vykdoma priverstinai.
-
-
-
-
-2. Baudos bausmę priverstinai vykdo antstolis, kurio veiklos teritorijoje yra nuteistojo gyvenamoji, darbo ar turto buvimo arba kitos bausmės atlikimo vieta.
-
-
-
-
-3. Juridiniam asmeniui paskirtą baudos bausmę priverstinai vykdo antstolis, kurio veiklos teritorijoje yra juridinio asmens buveinė ar jo turto buvimo vieta.
-
-
-
-
-4. Antstolis, pradėdamas priverstinį baudos išieškojimą, iš karto, neįteikęs raginimo, taiko priverstinio vykdymo priemones. Priverstinio baudos išieškojimo tvarka nustatyta Lietuvos Respublikos civilinio proceso kodekse.
+8 straipsnis. Neteko galios nuo 2026-06-30
+Straipsnio naikinimas:
+Nr. XIV-2807, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12624
  
-
-
 
 
 
@@ -4220,11 +4189,12 @@ BAUSMĖS ATLIKIMO METU VALSTYBEI IR KITIEMS ASMENIMS PADARYTOS TURTINĖS ŽALOS 
 
 
 XII SKYRIUS
-BAUSMIŲ VYKDYMO SISTEMOS PAREIGŪNŲ IR ANSTOLIŲ VEIKSMŲ IR JŲ PRIIMTŲ SPRENDIMŲ APSKUNDIMAS
+BAUSMIŲ VYKDYMO SISTEMOS PAREIGŪNŲ, VALSTYBINĖS MOKESČIŲ INSPEKCIJOS PRIE LIETUVOS RESPUBLIKOS FINANSŲ MINISTERIJOS, ANTSTOLIŲ VEIKSMŲ IR JŲ PRIIMTŲ SPRENDIMŲ
+APSKUNDIMAS
  
 
 
-100 straipsnis. Bausmių vykdymo sistemos pareigūnų ir antstolių veiksmų ir jų priimtų sprendimų apskundimo tvarka 
+100 straipsnis. Bausmių vykdymo sistemos pareigūnų, Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, antstolių veiksmų ir jų priimtų sprendimų apskundimo tvarka
 
 
 1. Viešųjų darbų, laisvės apribojimo, arešto ir laisvės atėmimo bausmes vykdančių įstaigų pareigūnų veiksmai ir jų priimti sprendimai per vieną mėnesį gali būti skundžiami atitinkamą bausmę vykdančios įstaigos direktoriui. Bausmę vykdančios įstaigos direktorius šį skundą turi išnagrinėti ne vėliau kaip per dvidešimt darbo dienų nuo jo gavimo dienos, o kai dėl skundo atliekamas tyrimas, – per dvidešimt darbo dienų nuo tyrimo pabaigos dienos.
@@ -4237,18 +4207,24 @@ BAUSMIŲ VYKDYMO SISTEMOS PAREIGŪNŲ IR ANSTOLIŲ VEIKSMŲ IR JŲ PRIIMTŲ SPRE
 
 
 
-3. Baudos, juridinio asmens veiklos apribojimo ir juridinio asmens likvidavimo bausmes vykdančių antstolių veiksmai ir sprendimai skundžiami antstolio veiklos teritorijos apylinkės teismui Civilinio proceso kodekso nustatyta tvarka.
+3. Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos veiksmai ir jos priimti sprendimai vykdant baudos bausmę skundžiami Mokesčių administravimo įstatymo nustatyta tvarka.
 
 
 
 
-4. Lietuvos Respublikos įstatymų nustatytais atvejais ir tvarka bausmių vykdymo sistemos pareigūnų, taip pat antstolių veiksmai ir sprendimai gali būti skundžiami Seimo kontrolieriams arba kitoms valstybės institucijoms.
+4. Antstolių veiksmai ir sprendimai vykdant baudos, juridinio asmens veiklos apribojimo ir juridinio asmens likvidavimo bausmes skundžiami antstolio veiklos teritorijos apylinkės teismui, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, kurių veiklos teritorijoje yra antstolio kontoros buveinė, teisėjui Civilinio proceso kodekso nustatyta tvarka.
+
+
+
+
+5. Lietuvos Respublikos įstatymų nustatytais atvejais ir tvarka bausmių vykdymo sistemos pareigūnų, Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, taip pat antstolių veiksmai ir sprendimai gali būti skundžiami Seimo kontrolieriams arba kitoms valstybės institucijoms. 
+
+
+
+
+Skyriaus pakeitimai:
+Nr. XIV-2807, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12624
  
- 
-
-
-
-
 
 
 
@@ -4449,3 +4425,8 @@ Dėl Lietuvos Respublikos bausmių vykdymo kodekso (2022 m. birželio 28 d. reda
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2914, 2024-07-11, paskelbta TAR 2024-07-17, i. k. 2024-13176
 Lietuvos Respublikos bausmių vykdymo kodekso 27, 67, 68 ir 84 straipsnių pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2807, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12624
+Lietuvos Respublikos bausmių vykdymo kodekso 3, 6 straipsnių, XII skyriaus pakeitimo ir 7, 8 straipsnių pripažinimo netekusiais galios įstatymas
