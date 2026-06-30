@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2024-11-01 iki 2026-06-29
+Suvestinė redakcija nuo 2026-06-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -33,7 +33,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis Įstatymas nustato pagrindines sąvokas ir taisykles, kurių būtina laikytis vykdant mokesčių įstatymus, pagrindinius apmokestinimo mokesčiais teisinio reglamentavimo principus, įtvirtina Lietuvos Respublikoje taikomų mokesčių sąrašą, nustato mokesčių administratoriaus funkcijas, teises ir pareigas, mokesčių mokėtojo teises ir pareigas, mokesčių apskaičiavimą ir sumokėjimą, mokesčio bei su juo susijusių sumų priverstinio išieškojimo bei mokestinių ginčų nagrinėjimo tvarką.
+1. Šis Įstatymas nustato pagrindines sąvokas ir taisykles, kurių būtina laikytis vykdant mokesčių įstatymus, pagrindinius apmokestinimo mokesčiais teisinio reglamentavimo principus, įtvirtina Lietuvos Respublikoje taikomų mokesčių sąrašą, nustato mokesčių administratoriaus funkcijas, teises ir pareigas, mokesčių mokėtojo teises ir pareigas, mokesčių apskaičiavimą ir sumokėjimą, mokesčio bei su juo susijusių sumų priverstinio išieškojimo, nemokestinių prievolių administravimo ir mokestinių ginčų nagrinėjimo tvarką.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
 
 
 
@@ -70,11 +73,19 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 
 
 
-4. Baudų už administracinius nusižengimus administravimas – mokesčių administratoriaus funkcijų, susijusių su nutarimų ir (ar) administracinių nurodymų skirti baudas už administracinius nusižengimus vykdymu, įgyvendinimas atliekant šių baudų apskaitą, įskaitymą, sumokėjimo atidėjimą ar išdėstymą, priverstinio išieškojimo inicijavimą, priverstinio išieškojimo priežiūrą, priverstinio išieškojimo sustabdymą, priverstinai išieškotų baudų paskirstymą Lietuvos Respublikos administracinių nusižengimų kodekso, šio Įstatymo ir kitų įstatymų nustatyta tvarka. 
-TAR pastaba. 4 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
-Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+4. Neteko galios nuo 2026-06-30
+Straipsnio dalies naikinimas:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 Straipsnio dalies pakeitimai:
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
+ 
+
+
+
+
+41. Ekonominė piniginė sankcija – Lietuvos Respublikos įstatymuose ir Europos Sąjungos teisės aktuose, reglamentuojančiuose poveikio priemonių skyrimą už padarytus teisės pažeidimus, nustatyta tvarka viešojo administravimo subjektų ar teismo asmenims, padariusiems teisės pažeidimų, paskirta ekonominio poveikio priemonė – bauda, mokama į valstybės biudžetą, išskyrus procesinę baudą, baudą už nusikalstamas veikas, teismo paskirtą Lietuvos Respublikos baudžiamajame kodekse nustatytais atvejais, ir baudą už administracinius nusižengimus, paskirtą Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
  
 
 
@@ -219,9 +230,43 @@ Nr. XIII-2586, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20554
 
 
 
-292. Seifo kamerų nuoma – kaip ši sąvoka apibrėžta Finansų įstaigų įstatyme.
+292. Nemokestinė nepriemoka – nemokestinių prievolių vykdymą reglamentuojančių teisės aktų nustatyta tvarka laiku neįvykdytos nemokestinės prievolės suma. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
+
+
+
+
+293. Nemokestinė prievolė – asmenų pareiga sumokėti Valstybinės mokesčių inspekcijos Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka administruojamą baudą už administracinius nusižengimus, paskirtą Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka, baudą už nusikalstamas veikas, teismo paskirtą Lietuvos Respublikos baudžiamajame kodekse nustatytais atvejais, baudą, paskirtą kaip ekonominę piniginę sankciją, procesinę baudą ir teismo priteistą sumą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
+
+
+
+
+294. Nemokestinių prievolių administravimas – mokesčių administratoriaus funkcijų, susijusių su nutarimų ir (ar) administracinių nurodymų Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka skirti baudas už administracinius nusižengimus, teismų sprendimų Lietuvos Respublikos baudžiamajame kodekse nustatyta tvarka skirti baudas už nusikalstamas veikas, viešojo administravimo subjektų ar teismų priimtų sprendimų skirti ekonomines pinigines sankcijas, teismų, prokurorų, ikiteisminio tyrimo teisėjų priimtų sprendimų skirti procesines baudas, sprendimų dėl teismo priteistų sumų valstybės naudai vykdymu, atlikimas: šių prievolių apskaita, įskaitymas, sumokėjimo išdėstymas, priverstinio išieškojimo inicijavimas, vykdymas, priežiūra ir sustabdymas, priverstinai išieškotų sumų paskirstymas Lietuvos Respublikos administracinių nusižengimų kodekse, Lietuvos Respublikos civilinio proceso kodekse, Lietuvos Respublikos baudžiamojo proceso kodekse, Lietuvos Respublikos bausmių vykdymo kodekse ir šiame Įstatyme nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
+
+
+
+
+295. Procesinė bauda – valstybės naudai teismo, ikiteisminio tyrimo teisėjo ar prokuroro baudžiamojo, administracinio, civilinio procesų tvarka, taip pat administracinių nusižengimų teisenoje paskirta bauda, mokama į valstybės biudžetą, išskyrus baudą už administracinius nusižengimus, paskirtą Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka, ir baudą už nusikalstamas veikas, teismo paskirtą Lietuvos Respublikos baudžiamajame kodekse nustatytais atvejais. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
+
+
+
+
+296. Seifo kamerų nuoma – kaip ši sąvoka apibrėžta Finansų įstaigų įstatyme.
 Papildyta straipsnio dalimi:
 Nr. XIII-2586, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20554
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
  
 
 
@@ -235,7 +280,18 @@ Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
 
 
 
-31. Šio Įstatymo 1 straipsnio 1–26 dalyse vartojamos sąvokos suprantamos taip, jeigu atitinkamo mokesčio įstatymas nenustato kitaip.
+301. Teismo priteista suma – valstybės naudai teismo priteistas žyminis mokestis ir (ar) kaip administracinės, baudžiamosios ar civilinės bylos nagrinėjimo išlaidos priteista suma, mokami į valstybės biudžetą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
+
+
+
+
+31. Šio Įstatymo 2 straipsnio 1–301 dalyse vartojamos sąvokos suprantamos taip, jeigu atitinkamo mokesčio įstatymas nenustato kitaip.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
 
 
 
@@ -702,19 +758,62 @@ Nr. XIII-2691, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21547
 
 
 
-7. Už administracinius nusižengimus Administracinių nusižengimų kodekso nustatyta tvarka paskirtų baudų administravimui ir išieškojimui tiesiogiai taikomi šio Įstatymo 26 straipsnio 1 dalies 12 punktas, 105 straipsnio 3 dalis, 106 straipsnio 2 dalis, 107 straipsnio 6 dalis, 113 straipsnio 2 ir 5 dalys ir mutatis mutandis yra taikytini šio Įstatymo 26 straipsnis (išskyrus 1 dalies 9 punktą), 84, 85 straipsniai, 87 straipsnio 1, 3, 4, 41 ir 5 dalys, 88 straipsnio 1, 2 ir 7 dalys, 93 straipsnio 1 dalies 8 punktas, 108–112 straipsniai, 113 straipsnio 3 ir 4 dalys, IX, X skyriai, o asmenims, kuriems paskirtos baudos už administracinius nusižengimus, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams.
+7. Už administracinius nusižengimus Administracinių nusižengimų kodekso nustatyta tvarka paskirtoms baudoms (toliau – bauda už administracinius nusižengimus) administruoti tiesiogiai taikomi šio Įstatymo 26 straipsnio 1 dalies 12 punktas, 88 straipsnio 11 dalis, 93 straipsnio 1 dalies 9 ir 10 punktai, 105 straipsnio 3 dalis, 106 straipsnio 2 dalis, 107 straipsnio 6 dalis, 110 straipsnio 4 dalis, 113 straipsnio 2 ir 5 dalys ir mutatis mutandis yra taikytini šio Įstatymo 26 straipsnio 1 dalies 3–5, 9–11 punktai, 84, 85 straipsniai, 87 straipsnio 1, 3, 4, 41 ir 5 dalys, 88 straipsnio 2 ir 7 dalys, 93 straipsnio 1 dalies 1, 2 ir 8 punktai, 95 straipsnio 1 dalies 2 punktas, 101 straipsnis, 106 straipsnio 1 dalies 1 ir 4 punktai, 6–10 dalys, 108 straipsnio 1 dalies 2 ir 4 punktai, 2 dalies 2 ir 4 punktai, 109 straipsnis, 110 straipsnio 2 ir 3 dalys, 111, 112 straipsniai, 113 straipsnio 3 ir 4 dalys, IX, X skyriai, o asmenims, kuriems paskirtos baudos už administracinius nusižengimus, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. Valstybinė mokesčių inspekcija šias baudas pradeda administruoti, gavusi duomenis apie jas iš Administracinių nusižengimų registro. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
 Nr. XIV-1948, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09689
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
  
 
 
 
 
-8. Pagal vykdomuosius dokumentus, kai pagal Civilinio proceso kodeksą vykdymo procese valstybei atstovauja Valstybinė mokesčių inspekcija, laiku nesumokėtų valstybės naudai išieškotinų sumų įskaitymui iki vykdomųjų dokumentų pateikimo vykdyti Civilinio proceso kodekso nustatyta tvarka mutatis mutandis taikoma šio Įstatymo 87 straipsnio 1 dalis.
+71. Ekonominėms piniginėms sankcijoms administruoti tiesiogiai taikomi šio Įstatymo 26 straipsnio 1 dalies 12 punktas, 93 straipsnio 1 dalies 11 punktas, 105 straipsnio 5 dalis, 106 straipsnio 3 dalis, 110 straipsnio 4 dalis ir mutatis mutandis taikytini šio Įstatymo 26 straipsnio 1 dalies 3–5, 9–11 punktai, 84, 85 straipsniai, 87 straipsnio 1, 3, 4, 41 ir 5 dalys, 93 straipsnio 1 dalies 1, 2, 4, 6 ir 8 punktai, 95 straipsnio 1 dalies 2 punktas, 101 straipsnis, 106 straipsnio 1 dalies 1 ir 4 punktai, 6–10 dalys, 107 straipsnis (išskyrus 6 dalį), 108 straipsnio 1 dalies 4 punktas, 2 dalies 4 punktas, 109 straipsnis, 110 straipsnio 3 dalis, 111, 112 straipsniai, 113 straipsnio 2, 3 ir 4 dalys, IX, X skyriai, o asmenims, kuriems paskirtos ekonominės piniginės sankcijos, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. Valstybinė mokesčių inspekcija šias prievoles pradeda administruoti, gavusi duomenis apie jas iš Administracinių nusižengimų registro. Lietuvos Respublikos konkurencijos tarybos paskirtoms ekonominėms piniginėms sankcijoms administruoti netaikomi šio Įstatymo 93 straipsnio 1 dalies 8 punktas, 106 straipsnio 8 dalis, 107, 108 straipsniai, 112 straipsnio 2 punktas ir 113 straipsnis. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
+
+
+
+
+72. Procesinėms baudoms administruoti tiesiogiai taikomi šio Įstatymo 26 straipsnio 1 dalies 12 punktas, 93 straipsnio 1 dalies 9 ir 10 punktai, 105 straipsnio 7 dalis, 106 straipsnio 3 dalis, 110 straipsnio 4 dalis ir mutatis mutandis taikytini šio Įstatymo 26 straipsnio 1 dalies 3–5, 9–11 punktai, 84, 85 straipsniai, 87 straipsnio 1, 3, 4, 41 ir 5 dalys, 93 straipsnio 1 dalies 1, 2, 4, 6 ir 8 punktai, 95 straipsnio 1 dalies 2 punktas, 101 straipsnis, 106 straipsnio 1 dalies 1 ir 4 punktai, 6–10 dalys, 107 straipsnis (išskyrus 5 ir 6 dalis), 108 straipsnio 1 dalies 4 punktas, 2 dalies 4 punktas, 109 straipsnis, 110 straipsnio 3 dalis, 111, 112 straipsniai, 113 straipsnio 2, 3 ir 4 dalys, IX, X skyriai, o asmenims, kuriems paskirtos procesinės baudos, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. Valstybinė mokesčių inspekcija šias prievoles pradeda administruoti, gavusi duomenis apie jas iš Lietuvos teismų informacinės sistemos (toliau – LITEKO) ar kitų valstybės informacinių sistemų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
+
+
+
+
+73. Teismų Baudžiamajame kodekse nustatytais atvejais paskirtoms baudoms už nusikalstamas veikas (toliau – bauda už nusikalstamas veikas) administruoti tiesiogiai taikomi šio Įstatymo 26 straipsnio 1 dalies 12 punktas, 93 straipsnio 1 dalies 9 ir 10 punktai, 105 straipsnio 6 dalis, 106 straipsnio 3 dalis, 110 straipsnio 4 dalis ir mutatis mutandis taikytini šio Įstatymo 26 straipsnio 1 dalies 3–5, 9–11 punktai, 84, 85 straipsniai, 87 straipsnio 1, 3, 4, 41 ir 5 dalys, 93 straipsnio 1 dalies 1 ir 2 punktai, 95 straipsnio 1 dalies 2 punktas, 101 straipsnis, 106 straipsnio 1 dalies 1 ir 4 punktai, 6, 7 ir 10 dalys, 109, 111 straipsniai, 112 straipsnio 1 punktas, IX, X skyriai, o asmenims, kuriems paskirtos baudos už nusikalstamas veikas, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. Valstybinė mokesčių inspekcija šias baudas pradeda administruoti, gavusi duomenis apie jas iš LITEKO ar kitų valstybės informacinių sistemų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
+
+
+
+
+74. Teismų priteistoms sumoms administruoti tiesiogiai taikomi šio Įstatymo 26 straipsnio 1 dalies 12 punktas, 93 straipsnio 1 dalies 7 punktas, 105 straipsnio 7 dalis, 106 straipsnio 3 dalis, 110 straipsnio 4 dalis ir mutatis mutandis taikytini šio Įstatymo 26 straipsnio 1 dalies 3–5, 9–11 punktai, 84, 85 straipsniai, 87 straipsnio 1, 3, 4, 41 ir 5 dalys, 93 straipsnio 1 dalies 1, 2, 4, 6 ir 8 punktai, 95 straipsnio 1 dalies 2 punktas, 101 straipsnis, 106 straipsnio 1 dalies 1 ir 4 punktai, 6–10 dalys, 107 straipsnis (išskyrus 5 ir 6 dalis), 108 straipsnio 1 dalies 4 punktas, 2 dalies 4 punktas, 109 straipsnis, 110 straipsnio 3 dalis, 111, 112 straipsniai, 113 straipsnio 2, 3 ir 4 dalys, IX, X skyriai, o asmenims, iš kurių priteistos sumos, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. Valstybinė mokesčių inspekcija šias prievoles pradeda administruoti, gavusi duomenis apie jas iš LITEKO ar kitų valstybės informacinių sistemų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
+
+
+
+
+8. Neteko galios nuo 2026-06-30
+Straipsnio dalies naikinimas:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 Papildyta straipsnio dalimi:
 Nr. XIII-374, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09154
+ 
+
+
+
+
+9. Jeigu kyla kolizija tarp kitų įstatymų (išskyrus kodifikuotus) ir šio straipsnio nuostatų, taikomos šio straipsnio nuostatos.
+Papildyta straipsnio dalimi:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
  
 
 
@@ -1151,9 +1250,10 @@ Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
 
 
 
-12) šiame Įstatyme ir kituose teisės aktuose nustatyta tvarka administruoja baudas už administracinius nusižengimus, paskirtas Administracinių nusižengimų kodekso nustatyta tvarka; 
+12) administruoja nemokestines prievoles šiame Įstatyme ir kituose teisės aktuose, reglamentuojančiuose jų administravimą, nustatyta tvarka;
 Straipsnio punkto pakeitimai:
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
  
 
 
@@ -3808,10 +3908,15 @@ Mirusio fizinio asmens mokestinę nepriemoką privalo padengti šio asmens turto
 
 
 
-93 straipsnis. Mokestinės prievolės pasibaigimas
+93 straipsnis. Mokestinės ir nemokestinės prievolių pasibaigimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
 
 
-1. Mokestinė prievolė pasibaigia, kai:
+1. Mokestinė ir nemokestinė prievolės pasibaigia, kai: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 
 
 1) įvykdoma mokestinė prievolė;
@@ -3844,12 +3949,39 @@ Mirusio fizinio asmens mokestinę nepriemoką privalo padengti šio asmens turto
 
 
 
-7) fizinis asmuo mirė ir nėra galimybės padengti mokestinės nepriemokos iš mirusio asmens palikimo;
+7) fizinis asmuo mirė ir nėra galimybės padengti (išieškoti) mokestinės nepriemokos ar teismų priteistų sumų iš mirusio asmens palikimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
 
 
 
 
-8) suėjo mokestinės nepriemokos priverstinio išieškojimo senaties terminas.
+8) suėjo mokestinės nepriemokos priverstinio išieškojimo senaties terminas;
+
+
+
+
+9) bauda ar jos dalis pakeičiama kita nuobauda ar bausme, vadovaujantis Administracinių nusižengimų kodekso 676 straipsniu arba Baudžiamojo kodekso 47 straipsniu, ir asmuo įvykdo pakeistą nuobaudą ar bausmę;
+Papildyta straipsnio punktu:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
+
+
+
+
+10) fizinis asmuo, kuriam paskirta bauda už administracinius nusižengimus, bauda už nusikalstamas veikas ar procesinė bauda, mirė;
+Papildyta straipsnio punktu:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
+
+
+
+
+11) fizinis asmuo, kuriam paskirta ekonominė piniginė sankcija, mirė, išskyrus įstatymų nustatytus atvejus, kai gali būti išieškoma iš mirusio asmens teisių ir ūkinės veiklos perėmėjų.
+Papildyta straipsnio punktu:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
 
 
 
@@ -4324,7 +4456,10 @@ MOKESTINĖS NEPRIEMOKOS PRIVERSTINIS IŠIEŠKOJIMAS
  
 
 
-105 straipsnis. Mokesčių administratoriaus teisės priverstinai išieškoti mokestinę nepriemoką atsiradimas 
+105 straipsnis. Mokesčių administratoriaus teisės priverstinai išieškoti mokestinę ir nemokestinę nepriemokas atsiradimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
 
 
 1. Mokesčių administratorius įgyja teisę priverstinai išieškoti mokesčių mokėtojo mokestinę nepriemoką, jeigu yra bent vienas iš nustatytų pagrindų: 
@@ -4368,6 +4503,30 @@ Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
  
 
 
+
+
+5. Teisė priverstinai išieškoti laiku nesumokėtą ekonominę piniginę sankciją įgyjama kitą dieną po to, kai sueina jos sumokėjimo terminas.
+Papildyta straipsnio dalimi:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
+
+
+
+
+6. Teisė priverstinai išieškoti laiku nesumokėtą baudą už nusikalstamas veikas įgyjama kitą dieną po to, kai sueina Bausmių vykdymo kodekso 6 straipsnyje nustatytas savanoriško baudos sumokėjimo terminas arba kitas teismo nustatytas terminas.
+Papildyta straipsnio dalimi:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
+
+
+
+
+7. Teisė priverstinai išieškoti laiku nesumokėtas teismo priteistas sumas ir procesines baudas įgyjama kitą dieną po to, kai sueina jų sumokėjimo terminas.
+Papildyta straipsnio dalimi:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
+
+
 Straipsnio pakeitimai:
 Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)
@@ -4377,16 +4536,13 @@ Nr. XII-602, 2013-11-19, Žin., 2013, Nr. 124-6281 (2013-12-05)
 
 
 
-106 straipsnis. Mokestinės nepriemokos priverstinio išieškojimo būdai
+106 straipsnis. Mokestinės ir nemokestinės nepriemokų priverstinis išieškojimas
 
 
 1. Mokestinė nepriemoka priverstinai gali būti išieškoma:
 
 
-1) duodant kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai nurodymą nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos (sąskaitų). Šis nurodymas vykdomas šio Įstatymo 63 straipsnyje nustatyta tvarka; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1454, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21202
- 
+1) duodant kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai nurodymą nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos (sąskaitų). Šis nurodymas vykdomas šio Įstatymo 63 straipsnyje nustatyta tvarka;
 
 
 
@@ -4396,15 +4552,12 @@ Nr. XII-1454, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21202
 
 
 
-3) duodant kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai nurodymą nurašyti mokestinės nepriemokos sumas iš laiduotojo arba garanto sąskaitos (sąskaitų), jeigu laiduotojas arba garantas nevykdo šio straipsnio 2 punkto reikalavimo. Šis nurodymas vykdomas šio Įstatymo 63 straipsnyje nustatyta tvarka; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1454, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21202
- 
+3) duodant kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai nurodymą nurašyti mokestinės nepriemokos sumas iš laiduotojo arba garanto sąskaitos (sąskaitų), jeigu laiduotojas arba garantas nevykdo šios dalies 2 punkte nustatyto reikalavimo. Šis nurodymas vykdomas šio Įstatymo 63 straipsnyje nustatyta tvarka;
 
 
 
 
-4) priimant sprendimą dėl priverstinio mokestinės nepriemokos išieškojimo iš mokesčių mokėtojo, laiduotojo arba garanto turto. Šį sprendimą vykdo antstoliai Civilinio proceso kodekso nustatyta tvarka; 
+4) priimant sprendimą dėl priverstinio mokestinės nepriemokos išieškojimo iš mokesčių mokėtojo, laiduotojo arba garanto turto. Šį sprendimą vykdo antstoliai Civilinio proceso kodekso nustatyta tvarka;
 
 
 
@@ -4416,33 +4569,51 @@ Nr. XII-1454, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21202
 
 
 
-2. Administracinių nusižengimų kodekso nustatyta tvarka priimti nutarimai skirti baudas priverstine tvarka vykdomi pagal Administracinių nusižengimų kodekso 676 straipsnyje nustatytas procedūras.
-TAR pastaba. 2 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
-Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
-Straipsnio dalies pakeitimai:
-Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
- 
+2. Administracinių nusižengimų kodekso nustatyta tvarka priimti nutarimai skirti baudas priverstine tvarka vykdomi pagal šiame Įstatyme ir Administracinių nusižengimų kodekso 676 straipsnyje nustatytas procedūras.
 
 
 
 
-3. Šio straipsnio 1 dalies nuostatos taip pat taikomos, kai mokesčių administratorius įstatymų arba tarptautinių sutarčių nustatytais atvejais atlieka išieškojimą kitos valstybės naudai.
+3. Ekonominės piniginės sankcijos, baudos už nusikalstamas veikas, teismų priteistos sumos ir procesinės baudos priverstinai išieškomos pagal šiame Įstatyme, Civilinio proceso kodekse ir kituose teisės aktuose, reglamentuojančiuose priverstinį išieškojimą, nustatytas procedūras.
 
 
 
 
-4. Mokesčių administratorius išieškojimo teisę gali perduoti kitai valstybei įstatymų arba tarptautinių sutarčių nustatytais atvejais.
+4. Šio straipsnio 1 dalies nuostatos taip pat taikomos, kai mokesčių administratorius įstatymų arba tarptautinių sutarčių nustatytais atvejais atlieka išieškojimą kitos valstybės naudai.
 
 
 
 
-5. Mokesčių administratoriaus veiklą reglamentuojantys kiti teisės aktai gali nustatyti šio straipsnio 1 dalyje nurodytų išieškojimo priemonių eilę ir nutraukimo pagrindus bei tvarką.
+5. Mokesčių administratorius išieškojimo teisę gali perduoti kitai valstybei įstatymų arba tarptautinių sutarčių nustatytais atvejais.
+
+
+
+
+6. Mokesčių administratorius mokestinės nepriemokos priverstinį išieškojimą, išskyrus šio straipsnio 7 dalyje nurodytus atvejus, vykdo šio straipsnio 1 dalies 1–3 punktuose nurodytais būdais ne ilgiau kaip 180 dienų nuo teisės privestinai išieškoti mokestinę nepriemoką atsiradimo dienos. Jeigu mokesčių administratorius mokestinės nepriemokos per šį terminą neišieško, jis šio straipsnio 8 dalyje nustatyta tvarka ne vėliau kaip per 20 dienų po šio termino pabaigos priima sprendimą išieškoti mokestinę nepriemoką iš asmens turto šio straipsnio 1 dalies 4 ir 5 punktuose nurodytais būdais (toliau šiame straipsnyje – sprendimas) ir perduoda sprendimą vykdyti antstoliui, išskyrus šio straipsnio 8 dalyje nurodytus atvejus, kai  mokesčių administratorius sprendimą priima nepasibaigus šioje dalyje nustatytam mokestinės nepriemokos išieškojimo vykdymo terminui. Mokesčių administratorius, pradėjęs vykdyti išieškojimą iš asmens šio straipsnio 1 dalies 1–3 punktuose nurodytais būdais, privalo kas 30 dienų patikrinti, ar antstolis pradėjo vykdyti išieškojimą iš to asmens turto arba atsirado kitų šio straipsnio 8 dalyje nurodytų atvejų, kuriais mokesčių administratorius sprendimą priima nepasibaigus šioje dalyje nustatytam mokestinės nepriemokos išieškojimo vykdymo terminui.
+
+
+
+
+7. Mokesčių administratoriui nustačius, kad asmuo neturi sąskaitų kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje arba antstolis jau vykdo išieškojimą iš asmens turto, mokesčių administratorius šio straipsnio 8 dalyje nustatyta tvarka ne vėliau kaip per 45 dienas nuo teisės priverstinai išieškoti mokestinę nepriemoką atsiradimo dienos priima sprendimą ir perduoda jį vykdyti antstoliui. Dėl su mokesčių administravimo procedūromis susijusių svarbių priežasčių mokesčių administratorius šioje dalyje nurodytą terminą gali pratęsti ne ilgiau kaip 45 dienoms. Nemokestinės nepriemokos atveju terminas negali būti pratęsiamas.
+
+
+
+
+8. Šio straipsnio 6 ir 7 dalyse nurodytais atvejais mokesčių administratorius priima sprendimą, jeigu turi informacijos, kad asmuo turi turto ir (arba) pajamų, iš kurių gali būti vykdomas išieškojimas. Vertindamas, ar asmuo turi turto ir (ar) pajamų, iš kurių gali būti vykdomas išieškojimas, mokesčių administratorius neatsižvelgia į aplinkybes, ar asmuo turi sąskaitų kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje ir ar antstolis vykdo iš jų išieškojimą. Detalią mokestinių nepriemokų išieškojimo perdavimo vykdyti antstoliui tvarką, asmens turto bei pajamų vertinimo kriterijus, kuriems esant mokesčių administratorius priima sprendimą, mokestinių nepriemokų rūšis ir (arba) atvejus, kuriais mokesčių administratorius sprendimą priima nepasibaigus šio straipsnio 6 ir 7 dalyse nustatytam mokestinės nepriemokos išieškojimo vykdymo terminui, ir šio sprendimo priėmimo terminus nustato centrinis mokesčių administratorius, suderinęs su Lietuvos Respublikos teisingumo ministerija.
+
+
+
+
+9. Jeigu šio straipsnio 6 ir 7 dalyse nurodytais atvejais mokesčių administratorius nustato, kad asmuo neturi turto ir (arba) pajamų, iš kurių gali būti vykdomas išieškojimas, arba asmens turimas turtas ir (ar) pajamos neatitinka kriterijų, kuriems esant turi būti priimamas sprendimas, mokesčių administratorius vykdo mokestinės nepriemokos priverstinį išieškojimą šio straipsnio 1 dalies 1 ir 3 punktuose nurodytais būdais, iki gauna informacijos apie šių aplinkybių pasikeitimą. Gavęs informacijos, kad asmuo įgijo turto ir (arba) pajamų, iš kurių gali būti vykdomas išieškojimas, mokesčių administratorius per 20 dienų po to, kai sužinojo apie šias aplinkybes, priima sprendimą ir perduoda jį vykdyti antstoliui. Perdavęs sprendimą vykdyti antstoliui, mokesčių administratorius nutraukia sprendime nurodytos mokestinės nepriemokos priverstinį išieškojimą šio straipsnio 1 dalies 1 ir 3 punktuose nurodytais būdais tik tada, kai gauna iš antstolio informaciją apie tai, kad jis pradėjo vykdyti sprendime nurodytos mokestinės nepriemokos išieškojimą.
+
+
+
+
+10. Jeigu per ne ilgiau kaip 180 dienų nuo teisės priverstinai išieškoti mokestinę nepriemoką atsiradimo dienos šio Įstatymo 110 straipsnio 1 ir 2 dalyse ir kituose įstatymuose, reglamentuojančiuose mokestinės nepriemokos išieškojimo sustabdymą, nustatyta tvarka buvo sustabdytas išieškojimas arba nebuvo vykdomas išieškojimas šio Įstatymo 113 straipsnio 1 ir 2 dalyse nustatytais atvejais, šio straipsnio 6 dalyje nustatytas ne ilgesnis kaip 180 dienų terminas pradedamas skaičiuoti iš naujo nuo dienos, kurią mokesčių administratorius nustatė, kad išnyko aplinkybės, dėl kurių nebuvo atliekami išieškojimo veiksmai.
 
 
 Straipsnio pakeitimai:
-Nr. XI-1875, 2011-12-22, Žin., 2011, Nr. 163-7766 (2011-12-31)
-Nr. XI-1849, 2011-12-22, Žin., 2012, Nr. 6-185 (2012-01-10)
-Nr. XII-602, 2013-11-19, Žin., 2013, Nr. 124-6281 (2013-12-05)
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
  
 
 
@@ -4566,7 +4737,10 @@ Priverstinai išieškotos mokestinės nepriemokos sumos įskaitomos ir paskirsto
 
 
 
-110 straipsnis. Mokestinės nepriemokos priverstinio išieškojimo sustabdymas
+110 straipsnis. Mokestinės ir nemokestinės nepriemokų priverstinio išieškojimo sustabdymas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
+ 
 
 
 1. Jeigu dėl atskiro mokesčio to mokesčio įstatymas nenustato kitaip, skundo, kilus mokestiniam ginčui, padavimas stabdo ginčijamų mokesčių, baudų ir delspinigių priverstinį išieškojimą, taip pat mokesčių mokėtojo turimos mokesčio permokos (skirtumo) įskaitymą minėtosioms sumoms padengti (išskyrus atvejus, kai įskaitoma mokesčių mokėtojo prašymu), tačiau nėra kliūtis taikyti mokestinės prievolės užtikrinimo priemones, nurodytas šio Įstatymo 95 straipsnyje, arba pagrindas jas naikinti.
@@ -4580,6 +4754,13 @@ Priverstinai išieškotos mokestinės nepriemokos sumos įskaitomos ir paskirsto
 
 
 3. Mokesčių administratorius, vadovaudamasis protingumo ar ekonominio tikslingumo kriterijais, turi teisę savo iniciatyva nepradėti arba stabdyti mokestinės nepriemokos priverstinio išieškojimo procedūras.
+
+
+
+
+4. Ekonominių piniginių sankcijų, baudų už administracinius nusižengimus, baudų už nusikalstamas veikas, teismų priteistų sumų ir procesinių baudų išieškojimo sustabdymo atvejus ir pagrindus nustato šis Įstatymas, Civilinio proceso kodeksas ir kiti teisės aktai, reglamentuojantys išieškojimo sustabdymą.
+Papildyta straipsnio dalimi:
+Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
  
 
 
