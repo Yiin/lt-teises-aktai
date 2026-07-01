@@ -36,7 +36,9 @@ BENDROSIOS NUOSTATOS
 
 1. Lietuvos Respublikos nedarbo socialinio draudimo įstatymas nustato nedarbo socialinio draudimo (toliau – nedarbo draudimas) teisinius santykius, asmenų, kurie draudžiami nedarbo draudimu, kategorijas, teisę į nedarbo socialinio draudimo išmoką (toliau – nedarbo draudimo išmoka) ir dalinio darbo išmoką, jų skyrimo, apskaičiavimo ir mokėjimo sąlygas, šios draudimo rūšies finansavimą, administravimą ir asmenų, dėl kurių kaltės neteisingai apskaičiuotos ir išmokėtos nedarbo draudimo ir dalinio darbo išmokos, atsakomybę.
 
-2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.2 straipsnis. Nedarbo draudimas
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+
+2 straipsnis. Nedarbo draudimas
 
 
 Nedarbo draudimas yra valstybinio socialinio draudimo rūšis. Iš nedarbo draudimo lėšų įstatymų nustatytais atvejais kompensuojamos šios rūšies draudimu apdraustiems asmenims dėl nedarbo ar dalinio darbo negautos pajamos ar jų dalis arba šio įstatymo nustatytais atvejais mokamos šiame įstatyme nustatyto dydžio išmokos.
@@ -86,15 +88,13 @@ II SKYRIUS
 NEDARBO DRAUDIMO IŠMOKA5 straipsnis. Teisė į nedarbo draudimo išmoką
 
 
-1. Teisę į nedarbo draudimo išmoką turi Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) įsiregistravę šio įstatymo 4 straipsnyje nurodyti asmenys, kuriems suteiktas bedarbio statusas, jeigu Užimtumo tarnyba jiems nepasiūlė tinkamo darbo ar aktyvios darbo rinkos politikos priemonių ir jeigu jie atitinka bent vieną iš šių sąlygų:
+1. Teisę į nedarbo draudimo išmoką turi Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) įsiregistravę šio įstatymo 4 straipsnyje nurodyti asmenys, kuriems suteiktas bedarbio statusas, jeigu Užimtumo tarnyba jiems nepasiūlė tinkamo darbo ar aktyvios darbo rinkos politikos priemonių, jie dėl nedarbo draudimo išmokos skyrimo kreipiasi ne vėliau kaip per 12 mėnesių nuo bedarbio statuso įgijimo dienos ir atitinka bent vieną iš šių sąlygų:
 
+1) iki bedarbio statuso įgijimo dienos yra įgiję ne trumpesnį kaip 12 mėnesių nedarbo draudimo stažą per paskutinius 24 mėnesius ir jiems netaikomas šios dalies 3 punktas;
 
-1) iki bedarbio statuso įgijimo dienos turi ne mažesnį kaip 12 mėnesių nedarbo draudimo stažą per paskutinius 30 mėnesių; 
+2) baigė privalomąją pradinę karo tarnybą ar alternatyviąją krašto apsaugos tarnybą arba buvo paleisti iš privalomosios pradinės karo tarnybos, kurios metu įgijo pagrindinį karinį parengtumą;
 
-
-
-
-2) baigė privalomąją pradinę karo tarnybą ar alternatyviąją krašto apsaugos tarnybą arba buvo paleisti iš privalomosios pradinės karo tarnybos, kurios metu įgijo pagrindinį karinį parengtumą.
+3) nuo laikotarpio, už kurį priskaičiuota ankstesnė nedarbo draudimo išmoka, pradžios iki bedarbio statuso įgijimo dienos jų įgytas nedarbo draudimo stažas yra ne trumpesnis kaip 12 mėnesių ir į laikotarpį nedarbo draudimo stažui apskaičiuoti patenka visas arba dalis laikotarpio, už kurį yra priskaičiuota ankstesnė nedarbo draudimo išmoka.
 Straipsnio punkto pakeitimai:
 Nr. XIV-2739, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11576
  
@@ -191,7 +191,10 @@ Nr. XIV-2659, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09700
 
 
 
-2. Nedarbo draudimo išmokos mokėjimas nutraukiamas, kai bedarbiui Užimtumo įstatymo nustatyta tvarka panaikinamas bedarbio statusas, pasibaigia nedarbo draudimo išmokos mokėjimo terminas, jeigu jis negali būti pratęstas šio įstatymo nustatyta tvarka.
+2. Nedarbo draudimo išmokos mokėjimas nutraukiamas, kai:
+1) bedarbiui Užimtumo įstatymo nustatyta tvarka panaikinamas bedarbio statusas – nuo bedarbio statuso panaikinimo dienos;
+2) pasibaigia nedarbo draudimo išmokos mokėjimo bedarbiui terminas, jeigu jis negali būti pratęstas šio įstatymo nustatyta tvarka, – nuo kitos dienos pasibaigus nedarbo draudimo išmokos mokėjimo terminui;
+3) bedarbis be pateisinamų priežasčių pažeidė sveikatos apsaugos ministro ir socialinės apsaugos ir darbo ministro nustatytą elgesio nedarbingumo metu tvarką – nuo dienos, kurią padarytas elgesio nedarbingumo metu tvarkos pažeidimas.
 
 13 straipsnis. Nedarbo draudimo išmokos mokėjimas kartu su kitomis socialinės apsaugos išmokomis
 
