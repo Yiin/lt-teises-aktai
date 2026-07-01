@@ -231,100 +231,6 @@ Muitinės veikla grindžiama Lietuvos Respublikos viešojo administravimo įstat
 
 
 5) kitų muitinės įgyvendinamų teisės aktų nuostatų įgyvendinimas.
- 
-
-
-
-
-
-
-
-
-10 straipsnis. Muitinės funkcijos
-
-
-Muitinė, įgyvendindama jai pavestus uždavinius, atlieka šias funkcijas:
-
-
-1) tvarko muitinės administruojamų muitų, kitų mokesčių ir valstybės rinkliavų apskaitą ir kontroliuoja muitinės administruojamų muitų, kitų mokesčių ir valstybės rinkliavų surinkimą ir išieškojimą;
-
-
-
-
-2) kontroliuoja muitinės veiklai priskirtų importo, eksporto ir tranzito draudimų ir apribojimų bei muitinės priežiūros priemonių taikymą, koordinuoja prekių tikrinimą šio įstatymo 55 straipsnio 2 dalyje nurodytais atvejais;
-
-
-
-
-3) prižiūri Kombinuotosios nomenklatūros, bendrojo muitų tarifo ir kitų importo ir eksporto tarifinio reguliavimo priemonių taikymą Lietuvos Respublikoje ir tvarko Lietuvos Respublikos integruotą tarifą, administruoja tarifines kvotas pagal muitinės deklaracijos priėmimo laiką, rengia ir teikia Europos Komisijai antidempingo ir kompensacinių priemonių taikymo ataskaitas bei duomenis, reikalingus Reglamento (ES) Nr. 952/2013 56 straipsnio 5 dalyje nurodytai prekių išleidimo į laisvą apyvartą arba jų eksporto priežiūrai; 
-
-
-
-
-4) renka, apdoroja ir teikia importo ir eksporto bei prekybos su kitomis Europos Sąjungos valstybėmis narėmis statistinius duomenis;
-
-
-
-
-5) tvarko muitinės kompetencijai priskirtus registrus;
-
-
-
-
-6) atlieka muitinės įgyvendinamų teisės aktų pažeidimų prevenciją, išaiškinimą ir tyrimą, pagal savo kompetenciją koordinuoja veiksmus, susijusius su Europos Sąjungos išorinės sienos apsauga;
-
-
-
-
-7) vykdo kriminalinę žvalgybą su muitinės veikla susijusių nusikalstamų veikų faktams išaiškinti;
-
-
-
-
-8) atlieka muitinės įgyvendinamų teisės aktų pažeidimų ir kitų teisės aktų pažeidimų, susijusių su muitinės prižiūrimų prekių vežimu, laikymu ir vartojimu, rizikos valdymą;
-
-
-
-
-9) tikrina su muitinės įgyvendinamų teisės aktų taikymu susijusią asmenų ūkinę komercinę veiklą Lietuvos Respublikos teritorijoje, taip pat tikrina, kaip tvarkoma jos apskaita, sudaromi finansinių ataskaitų rinkiniai, įsipareigojimų muitinei vykdymą ir atitiktį muitinės įgyvendinamų teisės aktų nustatytiems reikalavimams;
-
-
-
-
-10) taiko muitinės įgyvendinamų teisės aktų nuostatas, susijusias su Europos Sąjungos ir jos gyventojų saugumu ir sauga, visuomenės sveikatos, aplinkos ir vartotojų apsauga, atlieka Lietuvos Respublikos teritorijoje gabenamų prekių skleidžiamos jonizuojančiosios spinduliuotės dozės galios matavimus;
-
-
-
-
-11) atlieka iš trečiųjų šalių per Lietuvos Respubliką į Europos Sąjungą ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įvežamų, taip pat iš Europos Sąjungos per Lietuvos Respubliką į trečiąsias šalis ir iš Lietuvos Respublikos į kitas Europos Sąjungos valstybes nares išvežamų grynųjų pinigų kontrolę;
-
-
-
-
-12) įgyvendina Lietuvos Respublikos tarptautines sutartis ir susitarimus bei muitinės sudarytuose susitarimuose su Europos Sąjungos institucijomis, tarptautinėmis organizacijomis ir kitų valstybių institucijomis nustatytus įpareigojimus muitinei;
-
-
-
-
-13) dalyvauja Europos Sąjungos Tarybos darbo grupių, Europos Komisijos komitetų bei kitų prie Europos Sąjungos institucijų sudaromų darbo grupių ir komitetų, kuriuose nagrinėjami muitinės įgyvendinamų Europos Sąjungos teisės aktų projektai ir su šių teisės aktų įgyvendinimu susiję klausimai, veikloje;
-
-
-
-
-14) vykdo importuojamų ir eksportuojamų prekių, kurioms taikomos Europos Sąjungos bendrosios žemės ūkio ir prekybos politikos priemonės, muitinės priežiūrą;
-
-
-
-
-15) atlieka kitas funkcijas, reikalingas muitinės uždaviniams įgyvendinti.
- 
-
-
-
-
-
-
-
 
 11 straipsnis. Muitinės turimos informacijos apsauga ir teikimas
 
@@ -1420,7 +1326,7 @@ Muitinės įstaigų sprendimai priimami pagal Reglamento (ES) Nr. 952/2013 22, 2
 
 
 
-2) siunčiant registruotu laišku;
+2) siunčiant registruotąja pašto siunta;
 
 
 
@@ -1440,9 +1346,7 @@ Muitinės įstaigų sprendimai priimami pagal Reglamento (ES) Nr. 952/2013 22, 2
 
 
 
-
-
-2. Registruotu laišku, įteikiamu pasirašytinai, sprendimai ir (arba) dokumentai siunčiami pagal prašyme ar kitame asmens muitinės įstaigai pateiktame dokumente ar informacijoje nurodytą jo adresą arba asmens nurodytą adresą korespondencijai gauti. Tais atvejais, kai minėtų duomenų muitinės įstaiga neturi, dokumentai siunčiami pagal atitinkamame registre nurodytą asmens adresą, jeigu tokie duomenys atitinkamame registre yra. Dokumentų, siunčiamų registruotu laišku, įteikiamu pasirašytinai, įteikimo diena laikoma registruoto laiško įteikimo asmeniui diena.
+2. Registruotąja pašto siunta, įteikiama pasirašytinai, sprendimai ir (arba) dokumentai siunčiami pagal prašyme ar kitame asmens muitinės įstaigai pateiktame dokumente ar informacijoje nurodytą jo adresą arba asmens nurodytą adresą korespondencijai gauti. Tais atvejais, kai adreso duomenų muitinės įstaiga neturi, dokumentai siunčiami pagal Muitinės prievolininkų registro informacinėje sistemoje nurodytą asmens adresą. Dokumentų, siunčiamų registruotąja pašto siunta, įteikiama pasirašytinai, įteikimo diena laikoma registruotosios pašto siuntos įteikimo asmeniui diena.
 
 
 
@@ -1457,15 +1361,7 @@ Muitinės įstaigų sprendimai priimami pagal Reglamento (ES) Nr. 952/2013 22, 2
 
 
 
-5. Sprendimų įteikimo diena, nustatyta šio straipsnio 2, 3 ir 4 dalyse, yra laikoma Reglamento (ES) Nr. 952/2013 22 straipsnio 4 dalyje nustatyta sprendimo įsigaliojimo diena. 
- 
-
-
-
-
-
-
-31 straipsnis. Institucijos, kurioms pateikiami skundai
+5. Sprendimų įteikimo diena, nustatyta šio straipsnio 2, 3 ir 4 dalyse, yra laikoma Reglamento (ES) Nr. 952/2013 22 straipsnio 4 dalyje nustatyta sprendimo įsigaliojimo diena.31 straipsnis. Institucijos, kurioms pateikiami skundai
 
 
 Skundai teikiami: 
@@ -1476,17 +1372,7 @@ Skundai teikiami:
 
 
 
-2) dėl Muitinės departamento sprendimų ar jų nepriėmimo – Lietuvos administracinių ginčų komisijai arba administraciniam teismui.
- 
-
-
-
-
-
-
-
-
-32 straipsnis. Skundų pateikimo terminai
+2) dėl Muitinės departamento sprendimų ar jų nepriėmimo – Lietuvos administracinių ginčų komisijai arba administraciniam teismui.32 straipsnis. Skundų pateikimo terminai
 
 
 Skundai dėl teritorinių muitinių ir specialiųjų muitinės įstaigų sprendimų ar jų nepriėmimo pateikiami Muitinės departamentui ne vėliau kaip per vieną mėnesį nuo dienos, kurią asmuo gavo arba laikomas gavusiu sprendimą, o jeigu skundžiamas sprendimo nepriėmimas, – nuo dienos, kurią baigiasi atitinkamo sprendimo priėmimo terminas.
@@ -1535,17 +1421,7 @@ Skundai dėl teritorinių muitinių ir specialiųjų muitinės įstaigų sprendi
 
 
 35 straipsnis. Su skundais susijusių sprendimų perdavimas
-
-
-Šio įstatymo 34 straipsnyje nurodyti sprendimai ne vėliau kaip kitą darbo dieną po jų priėmimo turi būti įteikti skundą pateikusiam asmeniui pasirašytinai arba išsiųsti registruotu laišku skunde arba prašyme nurodytu adresu.
- 
-
-
-
-
-
-
-36 straipsnis. Sprendimo, dėl kurio pateiktas skundas, galiojimas ir atvejai, kai jo vykdymas sustabdomas
+Šio įstatymo 34 straipsnyje nurodyti sprendimai ne vėliau kaip kitą darbo dieną po jų priėmimo turi būti įteikti skundą pateikusiam asmeniui pasirašytinai arba išsiųsti registruotąja pašto siunta skunde arba prašyme nurodytu adresu.36 straipsnis. Sprendimo, dėl kurio pateiktas skundas, galiojimas ir atvejai, kai jo vykdymas sustabdomas
 
 
 Reglamento (ES) Nr. 952/2013 45 straipsnio nuostatos taikomos visais šio įstatymo numatytais muitinės įstaigų sprendimų apskundimo atvejais.
@@ -1901,23 +1777,37 @@ Deklaracijų, pranešimų, prašymų, sprendimų ir kitų dokumentų bei informa
 
 
 
-53 straipsnis. Muitinės prievolininkų registravimas
+53 straipsnis. Muitinės prievolininkų registras, asmenų registravimas
 
+1. Muitinės prievolininkų registro informacinėje sistemoje tvarkomi duomenų apie šio straipsnio 2 dalyje nurodytus Muitinės prievolininkų registro objektus, jų identifikatorius kitose informacinėse sistemose, registravimo procedūras ir šio registro objektų registravimą rinkiniai. Duomenų rinkinius sudarantys duomenys, įskaitant asmens duomenis, nustatomi Muitinės prievolininkų registro informacinės sistemos nuostatuose. Muitinės prievolininkų registro informacinės sistemos nuostatuose nustatyti duomenys teikiami Muitinės prievolininkų registro duomenų tvarkytojui neatlygintinai.
 
-1. Ekonominės veiklos vykdytojai ir kiti asmenys, Lietuvos Respublikos teritorijoje atliekantys Reglamento (ES) 2015/2446 5 straipsnio 1 dalyje ir 6 straipsnio 1 dalyje nurodytus veiksmus, jeigu jiems netaikomos Reglamento (ES) 2015/2446 5 straipsnio 2–5 dalyse ir 6 straipsnio 2 dalyje nustatytos išimtys, turi būti muitinės įtraukti į Lietuvos Respublikoje tvarkomą Muitinės prievolininkų registrą arba turėti ekonominės veiklos vykdytojo registracijos ir identifikavimo (EORI) kodą, kurį vadovaudamasi Reglamento (ES) Nr. 952/2013 9 straipsniu ir Reglamento (ES) 2015/2446 3, 4, 5 ir 6 straipsniais suteikė kitos Europos Sąjungos valstybės narės muitinė.
+2. Muitinės prievolininkų registro objektai:
 
+1) Lietuvos Respublikoje įsisteigę asmenys, vykdantys ar numatantys vykdyti veiklą, reglamentuojamą muitų teisės aktų;
 
+2) ne Sąjungos muitų teritorijoje įsisteigę asmenys, kuriems nesuteiktas ekonominės veiklos vykdytojo registracijos ir identifikavimo (toliau – EORI) kodas kitoje Europos Sąjungos valstybėje narėje ir kurie vykdo ar numato vykdyti Lietuvos Respublikoje veiklą, reglamentuojamą muitų teisės aktų;
 
+3) Lietuvos Respublikoje ir ne Sąjungos muitų teritorijoje įsisteigę asmenys, kurie nėra ekonominės veiklos vykdytojai, tarp jų fiziniai asmenys, kai tenkinamos Reglamento (ES) 2015/2446 6 straipsnio 1 dalies b punkte nurodytos sąlygos;
 
-2. Muitinės departamentas arba Muitinės departamento generalinio direktoriaus įgaliotos muitinės įstaigos registruoja šio straipsnio 1 dalyje nurodytus asmenis Muitinės prievolininkų registre, tvarko šį registrą ir įkelia jo duomenis į centrinę elektroninę informacijos ir ryšių sistemą, kurioje kaupiami visų Europos Sąjungos valstybių narių pateikti duomenys, Reglamento (ES) 2015/2446 I antraštinės dalies 2 skyriaus 1 skirsnio 2 poskirsnyje ir Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
- 
+4) Sąjungos muitų teritorijoje (išskyrus Lietuvos Respubliką) įsisteigę asmenys, kuriems EORI kodas nesuteiktas Europos Sąjungos valstybės narės, kurioje jie įsisteigę, muitinės, atsakingos už šių asmenų registravimą ir EORI kodų suteikimą, kai tai susiję su muitinės formalumų atlikimu Lietuvos Respublikoje;
 
+5) Lietuvos Respublikoje registruoti Sąjungos muitų teritorijoje įsisteigusių juridinių asmenų filialai, kai juos įsteigęs juridinis asmuo Lietuvos Respublikoje vykdo arba numato vykdyti veiklą, reguliuojamą muitų teisės aktų, arba veikia kaip garantas;
 
+6) Lietuvos Respublikoje registruotos Sąjungos muitų teritorijoje įsisteigusių juridinių asmenų atstovybės, kai jas įsteigęs juridinis asmuo Lietuvos Respublikoje vykdo arba numato vykdyti veiklą, reguliuojamą muitų teisės aktų, arba veikia kaip garantas.
 
+3. Muitinės prievolininkų registro informacinės sistemos valdytojas ir duomenų, įskaitant asmens duomenis, valdytojas yra Muitinės departamentas.
 
+4. Muitinės prievolininkų registro informacinės sistemos objektai Muitinės prievolininkų registro informacinėje sistemoje registruojami neatlygintinai.
 
+5. Šio straipsnio 2 dalyje kaip Muitinės prievolininkų registro objektai nurodyti ekonominės veiklos vykdytojai ir kiti asmenys privalo Muitinės prievolininkų registro duomenų tvarkytojui pateikti Muitinės prievolininkų registro informacinės sistemos nuostatuose nurodytus registravimo duomenis.
 
-54 straipsnis. Deklaracijų ir kitų dokumentų kopijos
+6. Muitinės prievolininkų registro duomenų tvarkytojas, remdamasis disponuojama informacija, gali Muitinės prievolininkų registro informacinėje sistemoje savo iniciatyva registruoti ekonominės veiklos vykdytojus ir kitus asmenis arba patikslinti jų duomenis, jeigu jie tinkamai nevykdo šio straipsnio 5 dalyje nurodytų pareigų, taip pat kitais Muitinės prievolininkų registro informacinės sistemos nuostatuose nustatytais atvejais, kai tokie atvejai būtini muitinės funkcijoms atlikti. Apie nurodytus veiksmus ekonominės veiklos vykdytojai ir kiti asmenys informuojami Muitinės prievolininkų registro informacinės sistemos nuostatuose nustatyta tvarka ir, jeigu duomenų tvarkymo veiksmai yra susiję su fiziniu asmeniu, laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente) nustatytų reikalavimų.
+
+7. Muitinės prievolininkų registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra vieši. Muitinės prievolininkų registro informacinės sistemos duomenys teikiami laikantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje nurodytų apribojimų ir, jeigu teikiami fizinio asmens duomenys, Reglamento (ES) 2016/679 5 straipsnyje apibrėžtų asmens duomenų tvarkymo principų bei 6 straipsnyje nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje nustatytus asmens kodo tvarkymo ypatumus.
+
+8. Muitinės prievolininkų registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, duomenis, susijusius su visuomenės ir nacionaliniu saugumu, ir duomenis, sudarančius juridinio asmens konfidencialią informaciją ar galinčius atskleisti jo komercinę (verslo) paslaptį, yra atveriami pakartotinai naudoti.
+
+9. Muitinės prievolininkų registro duomenų tvarkymo Muitinės prievolininkų registro informacinėje sistemoje tikslas – užtikrinti muitinės kontrolę, palengvinti muitinės formalumų atlikimą ir sumažinti mokesčių vengimo ar kitų pažeidimų riziką.54 straipsnis. Deklaracijų ir kitų dokumentų kopijos
 
 
 Deklaranto prašymu muitinės įstaiga patvirtina naudojantis elektroninėmis duomenų apdorojimo priemonėmis jai pateiktų deklaracijų ir kitų dokumentų kopijų bei popieriuje surašytų deklaracijų ir kitų dokumentų kopijų tikrumą arba išduoda patvirtintas minėtų deklaracijų ir dokumentų kopijas.
