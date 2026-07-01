@@ -1161,8 +1161,6 @@ Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
 19) valdo Mokesčių mokėtojų registro informacinę sistemą. Šią funkciją kaip centrinis mokesčių administratorius vykdo tik Valstybinė mokesčių inspekcija prie Finansų ministerijos;
 
 
-
-
 20) nustato į biudžetą mokamų mokesčių apskaitos politiką ir tvarko į biudžetą mokamų mokesčių apskaitą;
 
 
@@ -2088,18 +2086,7 @@ Nr. XIV-293, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11761
 
 7. Mokesčių mokėtojų registro informacinėje sistemoje tvarkomi duomenys teikiami duomenų gavėjams neatlygintinai.
 
-8. Mokesčių mokėtojų registro duomenų tvarkymo Mokesčių mokėtojų registro informacinėje sistemoje tikslas – užtikrinti asmenų mokestinių prievolių ir kitų pareigų, susijusių su informacijos teikimu mokesčių administratoriui, vykdymą.44 straipsnis. Mokesčių mokėtojų registro tvarkymas
-
-
-Mokesčių mokėtojų duomenų rinkimo, kaupimo, apdorojimo, sisteminimo, saugojimo, naudojimo ir teikimo tvarka nustatoma Mokesčių mokėtojų registro nuostatuose, tvirtinamuose Lietuvos Respublikos Vyriausybės.
- 
-
-
-
-
-
-
-45 straipsnis. Mokesčių mokėtojų registravimas ir mokesčių mokėtojo duomenų pateikimas mokesčių administratoriui
+8. Mokesčių mokėtojų registro duomenų tvarkymo Mokesčių mokėtojų registro informacinėje sistemoje tikslas – užtikrinti asmenų mokestinių prievolių ir kitų pareigų, susijusių su informacijos teikimu mokesčių administratoriui, vykdymą.45 straipsnis. Mokesčių mokėtojų registravimas ir mokesčių mokėtojo duomenų pateikimas mokesčių administratoriui
 
 
 1. Mokesčių mokėtojų registro duomenų tvarkytojas Mokesčių mokėtojų registro informacinėje sistemoje registruoja visus Mokesčių mokėtojų registro informacinės sistemos objektus.
@@ -2125,17 +2112,11 @@ Mokesčių mokėtojų duomenų rinkimo, kaupimo, apdorojimo, sisteminimo, saugoj
 5. Mokesčių mokėtojų registro duomenų tvarkytojas, remdamasis disponuojama informacija, gali Mokesčių mokėtojų registro informacinėje sistemoje savo iniciatyva registruoti asmenį arba patikslinti jo duomenis, jeigu asmuo netinkamai vykdo šio Įstatymo 46 straipsnyje nurodytas pareigas, taip pat kitais Mokesčių mokėtojų registro informacinės sistemos nuostatuose nustatytais atvejais, kai tokie atvejai būtini mokesčių administratoriaus funkcijoms atlikti. Apie nurodytus veiksmus asmenys informuojami Mokesčių mokėtojų registro informacinės sistemos nuostatuose nustatyta tvarka ir, jeigu duomenų tvarkymo veiksmai yra susiję su fiziniu asmeniu, laikantis Reglamente (ES) 2016/679 nustatytų reikalavimų.46 straipsnis. Mokesčių mokėtojų registravimo laikas ir pranešimas apie pasikeitusius arba atsiradusius naujus duomenis
 
 
-1. Jei Mokesčių mokėtojų registro nuostatai nenustato kitaip, asmuo, kuriam pagal mokesčio įstatymą yra nustatyta prievolė mokėti mokestį, privalo įsiregistruoti pas atitinkamą vietos mokesčių administratorių, atliekantį registro tvarkymo įstaigos funkcijas, ne vėliau kaip per 5 darbo dienas nuo teisinio asmens įregistravimo, o jei teisinis registravimas įstatymų nenumatytas arba jei asmuo pradeda veiklą anksčiau negu po 5 darbo dienų po teisinio registravimo, – ne vėliau kaip veiklos vykdymo pradžios dieną.
+1. Asmuo, kuriam pagal mokesčio įstatymą yra nustatyta prievolė mokėti mokestį, privalo pateikti Mokesčių mokėtojų registro duomenų tvarkytojui registravimo duomenis ne vėliau kaip per 5 darbo dienas nuo asmens teisinio įregistravimo dienos, o jeigu teisinis registravimas įstatymų nenumatytas arba jei asmuo pradeda veiklą anksčiau negu po 5 darbo dienų po teisinio registravimo dienos, – ne vėliau kaip veiklos vykdymo pradžios dieną.
 
+2. Asmuo, įregistruotas Mokesčių mokėtojų registro informacinėje sistemoje, apie pasikeitusius ar naujus registravimo duomenis Mokesčių mokėtojų registro duomenų tvarkytojui turi pranešti ne vėliau kaip per 5 darbo dienas po duomenų pasikeitimo ar atsiradimo.
 
-
-
-2. Asmuo, įsiregistravęs mokesčių mokėtoju, apie pasikeitusius ar naujus mokesčių mokėtojo registravimo duomenis atitinkamam mokesčių administratoriui, atliekančiam registro tvarkymo įstaigos funkcijas, turi pranešti ne vėliau kaip per 5 darbo dienas po duomenų pasikeitimo ar atsiradimo.
-
-
-
-
-3. Mokesčių mokėtojų registro nuostatuose numatytais atvejais šio straipsnio 1 ir 2 dalyse nurodytų duomenų (dalies jų) mokesčių mokėtojas tiesiogiai mokesčių administratoriui (registro tvarkymo įstaigai) pateikti neprivalo, jei analogiški duomenys yra pateikiami kitam atitinkamam valstybės registrui, su kuriuo mokesčių mokėtojų registro valdytojas yra sudaręs duomenų gavimo sutartį. Tokiais atvejais mokesčių mokėtojai registruojami ir jų duomenys mokesčių mokėtojų registre tikslinami pagal atitinkamo valstybės registro mokesčių administratoriui pateiktą informaciją.
+3. Mokesčių mokėtojų registro informacinės sistemos nuostatuose numatytais atvejais šio straipsnio 1 ir 2 dalyse nurodytų duomenų (dalies jų) mokesčių mokėtojas tiesiogiai Mokesčių mokėtojų registro duomenų tvarkytojui pateikti neprivalo, jeigu analogiški duomenys yra tvarkomi kitoje atitinkamo registro informacinėje sistemoje, valstybės informacinėje sistemoje ar kitoje informacinėje sistemoje, iš kurios Mokesčių mokėtojų registro duomenų tvarkytojas gauna registravimo duomenis pagal duomenų teikimo sutartį. Tokiais atvejais mokesčių mokėtojai registruojami ir jų duomenys Mokesčių mokėtojų registro informacinėje sistemoje tikslinami pagal iš atitinkamo registro informacinės sistemos, valstybės informacinės sistemos ar kitos informacinės sistemos Mokesčių mokėtojų registro duomenų tvarkytojo gautą informaciją.
  
 
 
