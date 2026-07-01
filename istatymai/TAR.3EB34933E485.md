@@ -1070,7 +1070,7 @@ Nr. XIII-1390, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12060
 2) teikia apibendrintus mokesčių įstatymų paaiškinimus; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
- 
+ 
 
 
 
@@ -1110,10 +1110,10 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 
 
 
-10) sprendžia dvigubo apmokestinimo ginčų sprendimo procedūrų, numatytų Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse, Lietuvos Respublikos dvigubo apmokestinimo ginčų sprendimo įstatyme, Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną arba Daugiašalėje konvencijoje, kuria įgyvendinamos su mokesčių sutartimis susijusios priemonės, skirtos užkirsti kelią mokesčių bazės erozijai ir pelno perkėlimui, ratifikuotoje Lietuvos Respublikos įstatymu „Dėl Daugiašalės konvencijos, kuria įgyvendinamos su mokesčių sutartimis susijusios priemonės, skirtos užkirsti kelią mokesčių bazės erozijai ir pelno perkėlimui, ratifikavimo“ (toliau – Daugiašalė konvencija), taikymo klausimus. Šią funkciją kaip centrinis mokesčių administratorius atlieka tik Valstybinė mokesčių inspekcija prie Finansų ministerijos; 
+10) sprendžia dvigubo apmokestinimo ginčų sprendimo procedūrų, numatytų Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse, Lietuvos Respublikos dvigubo apmokestinimo ginčų sprendimo įstatyme, Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną arba Daugiašalėje konvencijoje, kuria įgyvendinamos su mokesčių sutartimis susijusios priemonės, skirtos užkirsti kelią mokesčių bazės erozijai ir pelno perkėlimui, ratifikuotoje Lietuvos Respublikos įstatymu „Dėl Daugiašalės konvencijos, kuria įgyvendinamos su mokesčių sutartimis susijusios priemonės, skirtos užkirsti kelią mokesčių bazės erozijai ir pelno perkėlimui, ratifikavimo" (toliau – Daugiašalė konvencija), taikymo klausimus. Šią funkciją kaip centrinis mokesčių administratorius atlieka tik Valstybinė mokesčių inspekcija prie Finansų ministerijos; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
- 
+ 
 
 
 
@@ -1158,7 +1158,7 @@ Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
 
 
 
-19) valdo mokesčių mokėtojų registrą. Šią funkciją kaip centrinis mokesčių administratorius vykdo tik Valstybinė mokesčių inspekcija prie Finansų ministerijos;
+19) valdo Mokesčių mokėtojų registro informacinę sistemą. Šią funkciją kaip centrinis mokesčių administratorius vykdo tik Valstybinė mokesčių inspekcija prie Finansų ministerijos;
 
 
 
@@ -1171,9 +1171,7 @@ Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
 21) analizuoja mokestines rizikas ir mokesčių mokėtojų elgseną, įgyvendina mokestinių prievolių nevykdymo prevenciją. 
 Papildyta straipsnio punktu:
 Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
- 
-
-
+ 
 
 
 
@@ -1183,13 +1181,7 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 
 Straipsnio pakeitimai:
 Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
-Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
- 
-
-
-
-
-26 straipsnis. Vietos mokesčių administratoriaus funkcijos
+Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)26 straipsnis. Vietos mokesčių administratoriaus funkcijos
 
 
 1. Vietos mokesčių administratorius pagal savo kompetenciją atlieka tokias pagrindines funkcijas:
@@ -1531,12 +1523,12 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 Mokesčių administratorius (jo pareigūnas), atlikdamas jam pavestas funkcijas, turi teisę:
 
 
-1) gauti iš asmenų, tarp jų iš kredito, mokėjimo ir elektroninių pinigų įstaigų, mokesčių administravimo ir kitoms teisės aktuose nustatytoms funkcijoms atlikti reikiamus duomenis ir dokumentų nuorašus, kompiuterinių laikmenų duomenis (kopijas) apie to arba kitų konkrečiai įvardytų asmenų, įskaitant naudos gavėjus, turtą, pajamas, išlaidas ir veiklą, naudotis savo ir kitų juridinių asmenų valdomų ar tvarkomų registrų, duomenų bazių informacija; 
+1) gauti iš asmenų, tarp jų iš kredito, mokėjimo ir elektroninių pinigų įstaigų, mokesčių administravimo ir kitoms teisės aktuose nustatytoms funkcijoms atlikti reikiamus duomenis ir dokumentų nuorašus, kompiuterinių laikmenų duomenis (kopijas) apie to arba kitų konkrečiai įvardytų asmenų, įskaitant naudos gavėjus, turtą, pajamas, išlaidas ir veiklą, naudotis savo ir kitų juridinių asmenų valdomų ar tvarkomų registrų, registrų informacinių sistemų, valstybės informacinių sistemų ir kitų informacinių sistemų, duomenų bazių informacija;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1441, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11753
 Nr. XIII-2586, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20554
 Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
- 
+ 
 
 
 
@@ -1549,7 +1541,7 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 3) laikinai paimti iš mokesčių mokėtojo finansinės apskaitos (toliau – apskaita), sandorių ir kitus mokesčių apskaičiavimo teisingumo patikrinimui ir mokestiniam tyrimui atlikti reikalingus dokumentus; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
- 
+ 
 
 
 
@@ -1582,7 +1574,7 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 9) Neteko galios nuo 2017-01-01
 Straipsnio punkto naikinimas:
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
- 
+ 
 
 
 
@@ -1645,15 +1637,16 @@ Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 21) centrinio mokesčių administratoriaus nustatyta tvarka priimti automatizuotu duomenų tvarkymu, įskaitant profiliavimą, grindžiamus sprendimus; 
 Papildyta straipsnio punktu:
 Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
- 
+ 
 
 
 
 
-22) užkardydamas galimai neteisėtus asmenų veiksmus ir saugodamas valstybės finansų sistemą nuo galimos žalos, analizuodamas mokestines rizikas ir mokesčių mokėtojų elgseną, nustatydamas kontrolės prioritetus ir vykdydamas pridėtinės vertės mokesčio skirtumo grąžinimo kontrolę, atlikdamas mokestinį tyrimą ir (ar) mokestinį patikrinimą, vykdydamas susitarimo dėl mokesčio ir su juo susijusių sumų dydžio procedūrą, taip pat administruodamas jo kompetencijai priskirtinus mokesčius, gauti, atsižvelgiant į konkretų asmens duomenų gavimo poreikį, Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenis apie mokesčių mokėtojams (fiziniams ir juridiniams asmenims) pradėtus ikiteisminius tyrimus dėl galimo sukčiavimo, neteisėto praturtėjimo, nusikalstamų veikų ekonomikai ir verslo tvarkai, nusikalstamų veikų finansų sistemai, taip pat apie mokesčių mokėtojams (fiziniams ir juridiniams asmenims) priimtus ir įsiteisėjusius apkaltinamuosius nuosprendžius dėl šių nusikalstamų veikų; 
+22) užkardydamas galimai neteisėtus asmenų veiksmus ir saugodamas valstybės finansų sistemą nuo galimos žalos, analizuodamas mokestines rizikas ir mokesčių mokėtojų elgseną, nustatydamas kontrolės prioritetus ir vykdydamas pridėtinės vertės mokesčio skirtumo grąžinimo kontrolę, atlikdamas mokestinį tyrimą ir (ar) mokestinį patikrinimą, vykdydamas susitarimo dėl mokesčio ir su juo susijusių sumų dydžio procedūrą, taip pat administruodamas jo kompetencijai priskirtinus mokesčius, gauti, atsižvelgiant į konkretų asmens duomenų gavimo poreikį, Įtariamųjų, kaltinamųjų ir nuteistųjų registro informacinės sistemos duomenis apie mokesčių mokėtojams (fiziniams ir juridiniams asmenims) pradėtus ikiteisminius tyrimus dėl galimo sukčiavimo, neteisėto praturtėjimo, nusikalstamų veikų ekonomikai ir verslo tvarkai, nusikalstamų veikų finansų sistemai, taip pat apie mokesčių mokėtojams (fiziniams ir juridiniams asmenims) priimtus ir įsiteisėjusius apkaltinamuosius nuosprendžius dėl šių nusikalstamų veikų; 
 Papildyta straipsnio punktu:
+Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
 Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
- 
+ 
 
 
 
@@ -1662,7 +1655,7 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
 Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
- 
+ 
 
 
 
@@ -1671,24 +1664,12 @@ Straipsnio pakeitimai:
 Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 Nr. XI-1875, 2011-12-22, Žin., 2011, Nr. 163-7766 (2011-12-31)
 Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)
-Nr. XII-795, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04029
- 
-
-
-
+Nr. XII-795, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04024
 
 34 straipsnis. Mokesčių administratoriaus veiksmų įforminimas
 
 
-Mokesčių administratorius (jo pareigūnas), atlikdamas savo funkcijas ir įgyvendindamas jam šio Įstatymo suteiktas teises, atliekamus veiksmus įformina sprendimais ir kitais dokumentais, kurių formas ir užpildymo tvarką nustato centrinis mokesčių administratorius.
- 
-
-
-
-
-
-
-35 straipsnis. Mokesčių administratoriaus atsakomybė
+Mokesčių administratorius (jo pareigūnas), atlikdamas savo funkcijas ir įgyvendindamas jam šio Įstatymo suteiktas teises, atliekamus veiksmus įformina sprendimais ir kitais dokumentais, kurių formas ir užpildymo tvarką nustato centrinis mokesčių administratorius.35 straipsnis. Mokesčių administratoriaus atsakomybė
 
 
 1. Mokesčių administratorius, savo neteisėtais veiksmais ar neveikimu padaręs žalos mokesčių mokėtojui, privalo ją atlyginti įstatymų nustatyta tvarka. Mokesčių administratoriaus pareigūnai, kurių tiesioginiais veiksmais ar neveikimu buvo padaryta žalos, atsako Valstybės tarnybos įstatymo bei kitų teisės aktų nustatyta tvarka.
@@ -1884,7 +1865,7 @@ Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
 38 straipsnis. Informacijos apie mokesčių mokėtoją slaptumas, asmens duomenų apsauga ir viešinimas
 Pakeistas straipsnio pavadinimas:
 Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
- 
+ 
 
 
 1. Informacija apie mokesčių mokėtoją, pateikta mokesčių administratoriui, turi būti laikoma paslaptyje ir naudojama tik teisėtiems tikslams. 
@@ -1895,12 +1876,12 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 2. Paslaptyje nelaikoma tokia informacija: 
 
 
-1) mokesčių mokėtojo identifikacinis numeris (išskyrus fizinio asmens kodą), taip pat atskiruose registruose ar informacinėse sistemose suteikti asmens, kuris yra mokesčių mokėtojas, identifikaciniai numeriai (išskyrus fizinio asmens kodą);
+1) mokesčių mokėtojo identifikacinis numeris (išskyrus fizinio asmens kodą), taip pat atskirose registrų informacinėse sistemose, valstybės informacinėse sistemose ar kitose informacinėse sistemose suteikti asmens, kuris yra mokesčių mokėtojas, identifikaciniai numeriai (išskyrus fizinio asmens kodą);
 
 
 
 
-2) įregistravimo į mokesčių mokėtojų registrą ir į kitus registrus ar informacines sistemas, kuriose suteikiami identifikaciniai numeriai, datos, taip pat išregistravimo datos;
+2) įregistravimo Mokesčių mokėtojų registro informacinėje sistemoje ir kitose registrų informacinėse sistemose, valstybės informacinėse sistemose ar kitose informacinėse sistemose, kuriose suteikiami identifikaciniai numeriai, datos, taip pat išregistravimo datos;
 
 
 
@@ -1923,24 +1904,22 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 6) mokestinių prievolių vykdymo užtikrinimo, mokesčių teisės pažeidimų prevencijos, trečiųjų asmenų informavimo ir jų teisėtų interesų apsaugos užtikrinimo tikslais centrinio mokesčių administratoriaus interneto svetainėje centrinio mokesčių administratoriaus nustatyta tvarka skelbiami šie asmenų duomenys (fizinių asmenų atveju duomenys skelbiami atlikus paiešką pagal mokesčių mokėtojo identifikacinius duomenis, leidžiančius vienareikšmiškai identifikuoti asmenį): 
 
 
-a) juridinių asmenų duomenys: juridinio asmens teisinė forma ir jo pavadinimas, juridinio asmens teisinis statusas ir šio teisinio statuso galiojimo pradžios data, juridinio asmens identifikacinis numeris, juridinio asmens interneto svetainės adresas (jeigu juridinis asmuo turi interneto svetainę). Šie juridinių asmenų duomenys gaunami iš Juridinių asmenų registro ir skelbiami tol, kol juridinis asmuo išregistruojamas iš Juridinių asmenų registro. Kai mokesčių mokėtojas yra investicinis fondas ar pensijų fondas, kuriam mokesčių įstatymuose nustatytos atitinkamos mokestinės prievolės, mutatis mutandis taikomos šio papunkčio nuostatos; 
+a) juridinių asmenų duomenys: juridinio asmens teisinė forma ir jo pavadinimas, juridinio asmens teisinis statusas ir šio teisinio statuso įgijimo data, juridinio asmens kodas, juridinio asmens interneto svetainės adresas (jeigu juridinis asmuo turi interneto svetainę). Šie juridinių asmenų duomenys gaunami iš Juridinių asmenų registro informacinės sistemos arba mokesčių mokėtojų ir skelbiami tol, kol juridinis asmuo išregistruojamas iš Juridinių asmenų registro informacinės sistemos. Kai mokesčių mokėtojas yra investicinis fondas ar pensijų fondas, kuriam mokesčių įstatymuose nustatytos atitinkamos mokestinės prievolės, mutatis mutandis taikomos šio papunkčio nuostatos, reglamentuojančios duomenų skelbimą centrinio mokesčių administratoriaus interneto svetainėje; 
 
 
 
 
-b) informacija apie mokesčių mokėtoją – juridinį asmenį arba individualia veikla užsiimantį fizinį asmenį, kuris neatitinka minimalių patikimo mokesčių mokėtojo kriterijų: minimalių patikimo mokesčių mokėtojo kriterijų neatitinkančio juridinio asmens identifikacinis kodas, juridinio asmens pavadinimas, minimalių patikimo mokesčių mokėtojo kriterijų neatitinkančio individualia veikla užsiimančio fizinio asmens vardas ir pavardė, individualios veiklos vykdymo patvirtinimo dokumento numeris, informacija apie veiklos vykdymo teritoriją (vietą), laikotarpis, kuriuo mokesčių mokėtojas bus laikomas neatitinkančiu minimalių patikimo mokesčių mokėtojo kriterijų. Duomenų skelbimo laikotarpis – terminas, iki kada asmuo laikomas neatitinkančiu minimalių patikimo mokesčių mokėtojo kriterijų; 
+b) informacija apie mokesčių mokėtoją – juridinį asmenį arba individualia veikla užsiimantį fizinį asmenį, kuris neatitinka minimalių patikimo mokesčių mokėtojo kriterijų: minimalių patikimo mokesčių mokėtojo kriterijų neatitinkančio juridinio asmens kodas, juridinio asmens pavadinimas, minimalių patikimo mokesčių mokėtojo kriterijų neatitinkančio individualia veikla užsiimančio fizinio asmens vardas ir pavardė, individualios veiklos vykdymo patvirtinimo dokumento numeris, informacija apie veiklos vykdymo teritoriją (vietą), laikotarpis, kuriuo mokesčių mokėtojas bus laikomas neatitinkančiu minimalių patikimo mokesčių mokėtojo kriterijų. Duomenų skelbimo laikotarpis – terminas, iki kada asmuo laikomas neatitinkančiu minimalių patikimo mokesčių mokėtojo kriterijų; 
 
 
 
 
-c) duomenys apie visus asmenis, kurie yra pridėtinės vertės mokesčio mokėtojai, ir fizinius asmenis, vykdančius individualią veiklą: visais atvejais skelbiama informacija apie tai, kokiai mokesčių mokėtojų grupei priskiriamas konkretus mokesčių mokėtojas; jeigu pridėtinės vertės mokesčio mokėtojo statusą turi juridinis asmuo, papildomai skelbiamas juridinio asmens – pridėtinės vertės mokesčio mokėtojo kodas ir šio kodo galiojimo pradžios data; jeigu pridėtinės vertės mokesčio mokėtojo statusą turi fizinis asmuo, papildomai skelbiami šie fizinio asmens duomenys: fizinio asmens, kuris yra pridėtinės vertės mokesčio mokėtojas, vardas ir pavardė, pridėtinės vertės mokesčio mokėtojo kodas ir data, nuo kada mokesčių mokėtojas yra pridėtinės vertės mokesčio mokėtojas; jeigu vykdoma individuali veikla, papildomai skelbiami šie duomenys: fizinio asmens vardas, pavardė, individualios veiklos pažymos numeris, informacija apie individualios veiklos rūšį, o jeigu išduotas verslo liudijimas, papildomai skelbiami šie duomenys: verslo liudijimo galiojimo data, veiklos, kuria verčiamasi turint verslo liudijimą, kodas, verslo liudijimo numeris, veiklos, kuria verčiamasi turint verslo liudijimą, pavadinimas ir vykdymo teritorija. Šie duomenys skelbiami tol, kol asmuo, kuris yra pridėtinės vertės mokesčio mokėtojas, netenka pridėtinės vertės mokesčio mokėtojo statuso, o kai vykdoma individuali veikla, ‒ kol asmuo nutraukia individualią veiklą;
+c) duomenys apie visus asmenis, kurie yra pridėtinės vertės mokesčio mokėtojai, ir fizinius asmenis, vykdančius individualią veiklą: visais atvejais skelbiama informacija apie tai, kokiai mokesčių mokėtojų grupei priskiriamas konkretus mokesčių mokėtojas; jeigu pridėtinės vertės mokesčio mokėtojo statusą turi juridinis asmuo, papildomai skelbiamas juridinio asmens – pridėtinės vertės mokesčio mokėtojo kodas ir šio kodo galiojimo pradžios data; jeigu pridėtinės vertės mokesčio mokėtojo statusą turi fizinis asmuo, papildomai skelbiami šie fizinio asmens duomenys: fizinio asmens, kuris yra pridėtinės vertės mokesčio mokėtojas, vardas ir pavardė, pridėtinės vertės mokesčio mokėtojo kodas ir data, nuo kada mokesčių mokėtojas yra pridėtinės vertės mokesčio mokėtojas; jeigu vykdoma individuali veikla, papildomai skelbiami šie duomenys: fizinio asmens vardas, pavardė, individualios veiklos pažymos numeris, informacija apie individualios veiklos rūšį, o jeigu išduotas verslo liudijimas, papildomai skelbiami šie duomenys: verslo liudijimo galiojimo data, veiklos, kuria verčiamasi turint verslo liudijimą, kodas, verslo liudijimo numeris, veiklos, kuria verčiamasi turint verslo liudijimą, pavadinimas ir vykdymo teritorija. Šie duomenys skelbiami tol, kol asmuo, kuris yra pridėtinės vertės mokesčio mokėtojas, netenka pridėtinės vertės mokesčio mokėtojo statuso, o kai vykdoma individuali veikla, ‒ kol asmuo nutraukia individualią veiklą;
 
 
 
 
-
-
-7) mokestinių prievolių vykdymo užtikrinimo, trečiųjų asmenų teisėtų interesų apsaugos užtikrinimo, mokesčių teisės pažeidimų prevencijos tikslais centrinio mokesčių administratoriaus interneto svetainėje centrinio mokesčių administratoriaus nustatyta tvarka skelbiami šie duomenys apie paramos gavėjo statusą įgijusius asmenis (turinčius paramos gavėjo ar meno kūrėjo, turinčio paramos gavėjo statusą, teisinį statusą): juridinio asmens pavadinimas, fizinio asmens vardas ir pavardė, paramos gavėjo statuso suteikimo data, paramos gavėjo identifikacinis numeris (išskyrus fizinio asmens kodą) ir savivaldybė, kurioje yra (veikia) šis paramos gavėjas, individualios veiklos vykdymo patvirtinimo dokumento (individualios veiklos pažymos, verslo liudijimo) numeris, informacija apie tai, ar fizinis asmuo turi pridėtinės vertės mokesčio mokėtojo statusą, informacija apie tai, kokiai mokesčių mokėtojų grupei priskiriamas konkretus mokesčių mokėtojas. Fizinių asmenų atveju duomenys skelbiami atlikus paiešką pagal mokesčių mokėtojo identifikacinius duomenis, leidžiančius vienareikšmiškai identifikuoti asmenį. Šie duomenys skelbiami tol, kol asmuo netenka paramos gavėjo statuso; 
+7) mokestinių prievolių vykdymo užtikrinimo, trečiųjų asmenų teisėtų interesų apsaugos užtikrinimo, mokesčių teisės pažeidimų prevencijos tikslais centrinio mokesčių administratoriaus interneto svetainėje centrinio mokesčių administratoriaus nustatyta tvarka skelbiami šie duomenys apie paramos gavėjo statusą įgijusius asmenis (turinčius paramos gavėjo ar meno kūrėjo, turinčio paramos gavėjo statuso, teisinį statusą): juridinio asmens pavadinimas, fizinio asmens vardas ir pavardė, paramos gavėjo statuso suteikimo data, paramos gavėjo identifikacinis numeris (išskyrus fizinio asmens kodą) ir savivaldybė, kurioje yra (veikia) šis paramos gavėjas, individualios veiklos vykdymo patvirtinimo dokumento (individualios veiklos pažymos, verslo liudijimo) numeris, informacija apie tai, ar fizinis asmuo turi pridėtinės vertės mokesčio mokėtojo statusą, informacija apie tai, kokiai mokesčių mokėtojų grupei priskiriamas konkretus mokesčių mokėtojas. Fizinių asmenų atveju duomenys skelbiami atlikus paiešką pagal mokesčių mokėtojo identifikacinius duomenis, leidžiančius vienareikšmiškai identifikuoti asmenį. Šie duomenys skelbiami tol, kol asmuo netenka paramos gavėjo statuso; 
 
 
 
@@ -1950,7 +1929,7 @@ c) duomenys apie visus asmenis, kurie yra pridėtinės vertės mokesčio mokėto
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
- 
+ 
 
 
 
@@ -1959,263 +1938,7 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 
 
 Straipsnio pakeitimai:
-Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
- 
-
-
-
-
-39 straipsnis. Informacijos apie mokesčių mokėtoją paskleidimas
-
-
-1. Informacija apie mokesčių mokėtoją gali būti pateikta:
-
-
-1) kitam Lietuvos mokesčių administratoriui, jeigu tai būtina jo funkcijoms atlikti;
-
-
-
-
-2) užsienio valstybių mokesčių administracijoms (kompetentingoms institucijoms);
-
-
-
-
-3) Europos Sąjungos kompetentingoms institucijoms;
-
-
-
-
-4) teismams, teisėsaugos, kitoms valstybės įstaigoms bei institucijoms, kriminalinės žvalgybos subjektams ir kitiems asmenims įstatymų nustatytais atvejais, kai tai būtina jų funkcijoms atlikti;
-
-
-
-
-5) Lietuvos Respublikos Vyriausybės įgaliotai institucijai Vyriausybės nustatyta tvarka įmonių veiklos analizei atlikti;
-
-
-
-
-6) Finansų ministerijai jos funkcijoms atlikti;
-
-
-
-
-7) oficialiąją statistiką tvarkančioms valstybės įstaigoms jų funkcijoms atlikti;
-
-
-
-
-8) centralizuotai valdomo valstybės turto valdytojui, kiek tai susiję su šiam valdytojui perduotu mokestinių nepriemokų išieškojimu;
-
-
-
-
-9) kitiems asmenims, kai mokesčių mokėtojas raštu prašo arba sutinka (neprieštarauja), kad informacija būtų paskleista. 
-
-
-
-
-
-
-2. Asmuo, gaunantis informaciją pagal šio straipsnio 1 dalies 1, 4–8 punktus, taip pat kai minėta informacija asmeniui tampa žinoma vykdant šio Įstatymo 31 straipsnyje nurodytos sutarties nuostatas, privalo ją saugoti paslaptyje. 
-
-
-
-
-3. Šio straipsnio 1 dalies 2 punkte nurodytos institucijos pateiktą informaciją naudoja apmokestinimo, taip pat teisės pažeidimų mokesčių srityje tyrimo tikslais. Mokesčių administratorius gali duoti rašytinį sutikimą užsienio valstybių mokesčių administracijoms (kompetentingoms institucijoms) perduoti jo pateiktą informaciją tų užsienio valstybių teismams ar kitiems subjektams, taip pat trečiųjų valstybių mokesčių administracijoms (kompetentingoms institucijoms), jeigu tokia galimybė numatyta Lietuvos Respublikos tarptautinėse sutartyse, susitarimuose ar Europos Sąjungos teisės aktuose ir jeigu tokia informacija reikalinga šių subjektų funkcijoms atlikti. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
- 
-
-
-
-
-4. Informacija apie mokesčių mokėtoją teikiama teisės aktuose, taip pat tarptautinėse sutartyse (susitarimuose) nustatytais būdais. 
-
-
-
-
-5. Juridiniai asmenys, gaunantys informaciją pagal šio straipsnio 1 dalies 1, 4–8 punktus, privalo užtikrinti, kad gaunama informacija būtų prieinama tik tiems juridinio asmens darbuotojams, kurie tiesiogiai atlieka funkcijas, kurioms informacija yra gaunama. Nurodyti juridiniai asmenys taip pat privalo užtikrinti, kad būtų fiksuojamas kiekvienas gaunamos informacijos naudojimo atvejis.
-
-
-
-
-6. Jeigu mokesčių administratorius šio straipsnio 1 dalyje nurodytais atvejais pateikė neteisingą informaciją apie mokesčių mokėtoją, privalo ištaisyti klaidą tuojau pat, kai tik buvo apie ją sužinota.
-
-
-
-
-7. Mokesčių administratoriaus pareigūnas informaciją apie mokesčių mokėtoją laiko paslaptimi taip pat ir pasibaigus tarnybos santykiams, išskyrus šio Įstatymo nustatytus atvejus.
-
-
-
-
-8. Mokesčių administratorius, taip pat kiekvienas kitas asmuo, kuriam buvo pateikta ar tapo žinoma su mokesčių mokėtoju susijusi paslaptimi laikoma informacija, atsako už šios informacijos paskleidimą įstatymų nustatyta tvarka, išskyrus atvejus, kai įstatymai leidžia tokią informaciją skleisti.
-
-
-Straipsnio pakeitimai:
-Nr. XI-2251, 2012-10-02, Žin., 2012, Nr. 122-6110 (2012-10-20)
-Nr. XII-795, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04029
- 
-
-
-
-
-40 straipsnis. Mokesčių mokėtojo pareigos
-
-
-Mokesčių mokėtojas privalo:
-
-
-1) laiku ir tiksliai įvykdyti mokestinę prievolę;
-
-
-
-
-2) bendradarbiauti su mokesčių administratoriumi, vykdyti jo teisėtus nurodymus ir netrukdyti įgyvendinti įstatymų suteiktų teisių;
-
-
-
-
-3) teisės aktų nustatyta tvarka įsiregistruoti mokesčių mokėtoju, laiku pranešti apie pasikeitusius mokesčių mokėtojų registre esančius duomenis;
-
-
-
-
-4) teisingai apskaičiuoti mokestį, vadovaudamasis mokesčių įstatymais;
-
-
-
-
-5) laiku pateikti mokesčių deklaracijas ir kitus teisės aktuose nurodytus dokumentus;
-
-
-
-
-6) teisės aktų nustatyta tvarka tvarkyti apskaitą, saugoti apskaitos dokumentus ir registrus, taip pat kitus dokumentus;
-
-
-
-
-7) sudaryti mokesčių administratoriui patikrinimui atlikti reikiamas sąlygas, kai patikrinimas atliekamas nuvykus pas mokesčių mokėtoją;
-
-
-
-
-8) pateikti mokesčių administratoriui visus patikrinimui atlikti reikiamus dokumentus, kompiuteriu tvarkomos apskaitos duomenis bei kitą informaciją;
-
-
-
-
-9) šio Įstatymo 42 straipsnyje nustatyta tvarka pateikti mokesčių administratoriui informaciją apie sąskaitos užsienio kredito, mokėjimo ir elektroninių pinigų įstaigoje atidarymą;
-
-
-
-
-10) šio Įstatymo 421 straipsnyje nustatyta tvarka pateikti Valstybinei mokesčių inspekcijai informaciją apie šio Įstatymo 421 straipsnyje nurodytus sandorius;
-
-
-
-
-11) šio Įstatymo 422 straipsnyje nustatyta tvarka pateikti Valstybinei mokesčių inspekcijai pridėtinės vertės mokesčio sąskaitų faktūrų duomenis; 
-Papildyta straipsnio punktu:
-Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
- 
-
-
-
-
-12) šio Įstatymo 423 straipsnyje nustatyta tvarka pateikti Valstybinei mokesčių inspekcijai važtaraščių ir kitų prekių gabenimo dokumentų duomenis; 
-Papildyta straipsnio punktu:
-Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
- 
-
-
-
-
-13) Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais, būdais ir tvarka fiksuoti atsiskaitymų už parduodamas prekes (kai prekės superkamos, – superkamas prekes) ir teikiamas paslaugas duomenis; 
-Papildyta straipsnio punktu:
-Nr. XIV-293, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11761
- 
-
-
-
-
-14) šio Įstatymo 424 straipsnyje nustatyta tvarka teikti Valstybinei mokesčių inspekcijai šio straipsnio 13 punkte nurodytus duomenis; 
-Papildyta straipsnio punktu:
-Nr. XIV-293, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11761
- 
-
-
-
-
-15) atlikti kitas šiame ir kituose įstatymuose bei jų lydimuosiuose teisės aktuose numatytas pareigas.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
-Nr. XIV-293, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11761
- 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. XI-1875, 2011-12-22, Žin., 2011, Nr. 163-7766 (2011-12-31)
-Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)(papildyta nauju 10 punktu)
- 
-
-
-
-
-401 straipsnis. Minimalūs patikimo mokesčių mokėtojo kriterijai 
-
-
-1. Laikoma, kad mokesčių mokėtojas – juridinis asmuo arba individualia veikla užsiimantis fizinis asmuo – atitinka minimalius patikimo mokesčių mokėtojo kriterijus, kai:
-
-
-1) juridiniam asmeniui arba individualia veikla užsiimančiam fiziniam asmeniui per paskutinius 3 metus iki jo vertinimo dienos įsigaliojusiu sprendimu pagal šį Įstatymą ar specialiuosius mokesčių įstatymus nebuvo skirta bauda už pajamų neįtraukimą į apskaitą, įsigaliojusiu sprendimu nebuvo skirta bauda už į apskaitą neįtraukto darbo užmokesčio mokėjimą, įsigaliojusiu sprendimu nebuvo skirta bauda už nepagrįstą pridėtinės vertės mokesčio atskaitą ir (arba) leidžiamų atskaitymų didinimą dėl į apskaitą įtrauktų apskaitos dokumentų, kuriuose įformintos tikrovėje nevykdytos arba kitomis, negu nurodyta, sąlygomis vykdytos ūkinės operacijos, įsigaliojusiu sprendimu nebuvo skirta bauda už juridinio asmens vadovo ar kitų atsakingų asmenų arba individualia veikla užsiimančio asmens privačių poreikių tenkinimą juridinio asmens lėšomis arba su individualia veikla susijusiomis lėšomis, įsigaliojusiu sprendimu nebuvo skirta bauda už paramos panaudojimą ne pagal paskirtį ir dėl bent vieno iš padarytų šių pažeidimų nebuvo apskaičiuota daugiau kaip 15 000 eurų mokesčių ir
-
-
-
-
-2) darbdavys ar kitas atsakingas asmuo per paskutinius 3 metus iki jo vertinimo dienos įsigaliojusiu sprendimu nebuvo baustas už nelegalų darbą, ir 
-
-
-
-
-3) juridinis asmuo ir (ar) jo vadovas arba individualia veikla užsiimantis asmuo per paskutinius 3 metus iki jo vertinimo dienos įsiteisėjusiu apkaltinamuoju nuosprendžiu nebuvo nuteistas už sukčiavimą, neteisėtą praturtėjimą, nusikalstamą veiką ekonomikai ir verslo tvarkai, nusikalstamą veiką finansų sistemai, ir 
-
-
-
-
-4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Administracinių nusižengimų kodekso 99, 127, 132, 134, 137, 143, 150, 151, 158, 159, 160, 162, 163, 164, 165, 166, 167, 170, 171, 172, 173, 174, 176, 187, 188, 1881, 1883, 1884, 1885, 190, 192, 193, 198, 205, 207, 2071, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 3621, 505 straipsniuose.
-Straipsnio punkto pakeitimai:
-Nr. XIV-1950, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09694
-Nr. XIV-2655, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09693
-Nr. XIV-2682, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11165
- 
-
-
-
-
-
-
-2. Šio straipsnio 1 dalyje nurodytų fizinio asmens duomenų, kuriems taikytinas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), valdytoja yra Valstybinė mokesčių inspekcija, šie duomenys tvarkomi ir naudojami šio Įstatymo 25 straipsnio 1 dalies 7, 9, 10, 11, 16, 17, 19 ir 21 punktuose bei 26 straipsnio 1 dalies 2, 3, 4, 7, 8, 9, 10, 11, 12 ir 13 punktuose nurodytoms mokesčių administratoriaus funkcijoms atlikti ir 33 straipsnyje nurodytoms teisėms įgyvendinti, taip pat siekiant užtikrinti Lietuvos Respublikos viešųjų pirkimų įstatymo 46 straipsnio nuostatų, reglamentuojančių tiekėjo pašalinimo iš pirkimo procedūros pagrindus, įgyvendinimą bei siekiant užtikrinti Lietuvos Respublikos labdaros ir paramos įstatymo 13 straipsnio nuostatų, reglamentuojančių paramos gavėjo statuso suteikimą ir panaikinimą, įgyvendinimą. Fizinio asmens duomenų tvarkymo terminas yra 10 metų. 
-
-
-
-
-3. Šio straipsnio 1 dalies nuostatos netaikomos asmenims, nurodytiems Lietuvos Respublikos pelno mokesčio įstatymo 3 straipsnio 2 dalyje. 
-
-
-Straipsnio pakeitimai:
-Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
- 
-
-
-
-
-41 straipsnis. Paaiškinimų apie turto įsigijimo ir pajamų gavimo šaltinius pateikimas
+Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)41 straipsnis. Paaiškinimų apie turto įsigijimo ir pajamų gavimo šaltinius pateikimas
 
 
 1. Mokesčių mokėtojas privalo ne vėliau kaip per 10 dienų (jei mokesčių administratorius nenustato ilgesnio termino) nuo šio Įstatymo 33 straipsnio 13 punkte minimo mokesčių administratoriaus nurodymo įteikimo dienos pateikti paaiškinimus apie turto įsigijimo ir pajamų gavimo šaltinius ir juos pagrįsti.
@@ -2351,21 +2074,21 @@ Nr. XIV-293, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11761
 
 43 straipsnis. Mokesčių mokėtojų registras
 
+1. Mokesčių mokėtojų registro informacinėje sistemoje tvarkomi duomenų rinkiniai apie šio straipsnio 2 dalyje nurodytus asmenis, jų vykdomas veiklas, atstovus, apskaitą tvarkančius asmenis, apskaitos įrangą ar kitas apskaitos priemones, apdraustuosius asmenis, licencijas, ataskaitas, siunčiamus dokumentus, juridinių asmenų dalyvius, naudos gavėjus, mokestinę informaciją ir šio registro objektų registravimą. Duomenų rinkinius sudarantys duomenys, įskaitant asmens duomenis, nustatomi Mokesčių mokėtojų registro informacinės sistemos nuostatuose. Mokesčių mokėtojų registro informacinės sistemos nuostatuose nustatyti duomenys teikiami Mokesčių mokėtojų registro duomenų tvarkytojui neatlygintinai.
 
-1. Mokesčių mokėtojų apskaitai tvarkyti bei mokesčių apskaičiavimo, sumokėjimo ir išskaičiavimo teisingumo kontrolei sudaromas bendras mokesčių mokėtojų registras.
+2. Mokesčių mokėtojų registro objektai – mokesčių mokėtojai ir kiti asmenys, kuriems atsiranda arba gali atsirasti piniginės prievolės valstybės biudžetui, taip pat asmenys, kuriems mokesčių įstatymuose, Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme arba kituose įstatymuose, reglamentuojančiuose informacijos teikimą mokesčių administratoriui, nustatyta prievolė teikti informaciją mokesčių administratoriui ir (arba) apie kuriuos mokesčių įstatymuose, Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme arba kituose įstatymuose, reglamentuojančiuose informacijos teikimą mokesčių administratoriui, tretiesiems asmenims nustatyta prievolė teikti informaciją mokesčių administratoriui, ir (arba) kuriems teikiamos mokesčių administratoriaus paslaugos.
 
+3. Mokesčių mokėtojų registro informacinės sistemos valdytoja ir duomenų, įskaitant asmens duomenis, valdytoja yra Valstybinė mokesčių inspekcija prie Finansų ministerijos.
 
+4. Mokesčių mokėtojų registro informacinės sistemos objektai Mokesčių mokėtojų registro informacinėje sistemoje registruojami neatlygintinai.
 
+5. Mokesčių mokėtojų registro informacinėje sistemoje tvarkomi duomenys, išskyrus šio Įstatymo 38 straipsnyje nurodytus viešai skelbiamus duomenis, yra nevieši. Mokesčių mokėtojų registro informacinės sistemos duomenys teikiami laikantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje nurodytų apribojimų ir, jeigu teikiami fizinio asmens duomenys, – laikantis Reglamento (ES) 2016/679 5 straipsnyje apibrėžtų asmens duomenų tvarkymo principų ir 6 straipsnyje nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje nustatytus asmens kodo tvarkymo ypatumus.
 
-2. Mokesčių administratorius (atitinkama registro tvarkymo įstaiga) registruoja visus asmenis, kurių registravimas yra privalomas pagal šio Įstatymo 45 straipsnį.
- 
+6. Mokesčių mokėtojų registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, duomenis, kurie laikomi paslaptyje, duomenis, susijusius su visuomenės ir nacionaliniu saugumu, ir duomenis, sudarančius juridinio asmens konfidencialią informaciją ar galinčius atskleisti jo komercinę (verslo) paslaptį, gali būti atveriami pakartotinai naudoti.
 
+7. Mokesčių mokėtojų registro informacinėje sistemoje tvarkomi duomenys teikiami duomenų gavėjams neatlygintinai.
 
-
-
-
-
-44 straipsnis. Mokesčių mokėtojų registro tvarkymas
+8. Mokesčių mokėtojų registro duomenų tvarkymo Mokesčių mokėtojų registro informacinėje sistemoje tikslas – užtikrinti asmenų mokestinių prievolių ir kitų pareigų, susijusių su informacijos teikimu mokesčių administratoriui, vykdymą.44 straipsnis. Mokesčių mokėtojų registro tvarkymas
 
 
 Mokesčių mokėtojų duomenų rinkimo, kaupimo, apdorojimo, sisteminimo, saugojimo, naudojimo ir teikimo tvarka nustatoma Mokesčių mokėtojų registro nuostatuose, tvirtinamuose Lietuvos Respublikos Vyriausybės.
@@ -2376,33 +2099,30 @@ Mokesčių mokėtojų duomenų rinkimo, kaupimo, apdorojimo, sisteminimo, saugoj
 
 
 
-45 straipsnis. Mokesčių mokėtojų registravimas
+45 straipsnis. Mokesčių mokėtojų registravimas ir mokesčių mokėtojo duomenų pateikimas mokesčių administratoriui
 
 
-1. Jei Mokesčių mokėtojų registro nuostatai nenustato kitaip, asmuo, kuriam pagal mokesčio įstatymą yra nustatyta prievolė mokėti mokestį, privalo užsiregistruoti pas atitinkamą vietos mokesčių administratorių (registro tvarkymo įstaigą) ir pateikti Mokesčių mokėtojų registro nuostatuose nurodytus mokesčių mokėtojo registravimo duomenis.
-
-
-
-
-2. Fiziniai asmenys, gaunantys su darbo ar jų esmę atitinkančiais santykiais susijusių pajamų, mokesčių mokėtojais registruojasi per savo darbdavį – mokestį išskaičiuojantį asmenį.
+1. Mokesčių mokėtojų registro duomenų tvarkytojas Mokesčių mokėtojų registro informacinėje sistemoje registruoja visus Mokesčių mokėtojų registro informacinės sistemos objektus.
 
 
 
 
-3. Tam tikro turto mokesčių mokėtojus registruoja atitinkamas mokesčių administratorius (atitinkama registro tvarkymo įstaiga), remdamasis šio turto teisinį registravimą atliekančios institucijos pateikta informacija.
+2. Asmuo, kuriam pagal mokesčio įstatymą yra nustatyta prievolė mokėti mokestį, privalo pateikti Mokesčių mokėtojų registro duomenų tvarkytojui Mokesčių mokėtojų registro informacinės sistemos nuostatuose nurodytus mokesčių mokėtojo registravimo duomenis (toliau – registravimo duomenys).
 
 
 
 
-4. Mokesčių administratorius (atitinkama registro tvarkymo įstaiga), remdamasis disponuojama informacija, gali savo iniciatyva užregistruoti asmenį mokesčių mokėtoju arba patikslinti jo duomenis, jei asmuo tinkamai nevykdo šio Įstatymo 46 straipsnyje nurodytų pareigų. Apie nurodytus veiksmus, jei asmens adresas yra žinomas, informuojamas atitinkamai mokesčių mokėtoju įregistruotas asmuo arba mokesčių mokėtojas, kurio duomenys yra patikslinami.
- 
+3. Fizinių asmenų, gaunančių su darbo ar jų esmę atitinkančiais santykiais susijusių pajamų, registravimo duomenis privalo pateikti Mokesčių mokėtojų registro duomenų tvarkytojui jų darbdavys – mokestį išskaičiuojantis asmuo.
 
 
 
 
+4. Tam tikro turto mokesčių mokėtojus Mokesčių mokėtojų registro duomenų tvarkytojas registruoja remdamasis šio turto teisinį registravimą atliekančios institucijos pateikta informacija.
 
 
-46 straipsnis. Mokesčių mokėtojų registravimo laikas ir pranešimas apie pasikeitusius arba atsiradusius naujus duomenis
+
+
+5. Mokesčių mokėtojų registro duomenų tvarkytojas, remdamasis disponuojama informacija, gali Mokesčių mokėtojų registro informacinėje sistemoje savo iniciatyva registruoti asmenį arba patikslinti jo duomenis, jeigu asmuo netinkamai vykdo šio Įstatymo 46 straipsnyje nurodytas pareigas, taip pat kitais Mokesčių mokėtojų registro informacinės sistemos nuostatuose nustatytais atvejais, kai tokie atvejai būtini mokesčių administratoriaus funkcijoms atlikti. Apie nurodytus veiksmus asmenys informuojami Mokesčių mokėtojų registro informacinės sistemos nuostatuose nustatyta tvarka ir, jeigu duomenų tvarkymo veiksmai yra susiję su fiziniu asmeniu, laikantis Reglamente (ES) 2016/679 nustatytų reikalavimų.46 straipsnis. Mokesčių mokėtojų registravimo laikas ir pranešimas apie pasikeitusius arba atsiradusius naujus duomenis
 
 
 1. Jei Mokesčių mokėtojų registro nuostatai nenustato kitaip, asmuo, kuriam pagal mokesčio įstatymą yra nustatyta prievolė mokėti mokestį, privalo įsiregistruoti pas atitinkamą vietos mokesčių administratorių, atliekantį registro tvarkymo įstaigos funkcijas, ne vėliau kaip per 5 darbo dienas nuo teisinio asmens įregistravimo, o jei teisinis registravimas įstatymų nenumatytas arba jei asmuo pradeda veiklą anksčiau negu po 5 darbo dienų po teisinio registravimo, – ne vėliau kaip veiklos vykdymo pradžios dieną.
@@ -2431,18 +2151,18 @@ Mokesčių mokėtojų duomenų rinkimo, kaupimo, apdorojimo, sisteminimo, saugoj
 
 
 
-2. Juridiniams asmenims identifikuoti naudojamas juridinių asmenų registro identifikacinis kodas, fiziniams asmenims – gyventojų registro asmenų kodas.
+2. Juridiniams asmenimis identifikuoti naudojamas Juridinių asmenų registro informacinėje sistemoje nurodytas juridinių asmenų kodas, fiziniams asmenims – Gyventojų registro informacinėje sistemoje nurodytas asmenų kodas.
 
 
 
 
-3. Mokesčių mokėtojams, kuriems dėl kokių nors priežasčių negalima naudoti juridinių asmenų kodo ar gyventojų asmenų kodo, priskiriamas mokesčių mokėtojo identifikacinis numeris, kurio taikymo tvarką nustato centrinis mokesčių administratorius (vadovaujančioji registro tvarkymo įstaiga).
+3. Mokesčių mokėtojams, kuriems dėl kokių nors priežasčių negalima naudoti juridinių asmenų kodo ar gyventojų asmenų kodo, priskiriamas mokesčių mokėtojo identifikacinis numeris, kurio taikymo tvarka nustatyta Mokesčių mokėtojų registro informacinės sistemos nuostatuose.
 
 
 
 
 4. Mokesčių mokėtojai savo pateikiamose mokesčių deklaracijose bei mokėjimų į biudžetą dokumentuose privalo nurodyti savo mokesčių mokėtojo identifikacinį numerį.
- 
+ 
 
 
 
@@ -2452,22 +2172,10 @@ Mokesčių mokėtojų duomenų rinkimo, kaupimo, apdorojimo, sisteminimo, saugoj
 
 
 TREČIASIS SKIRSNIS
-TRETIEJI ASMENYS IR JŲ PAREIGOS
- 
+TRETIEJI ASMENYS IR JŲ PAREIGOS48 straipsnis. Trečiųjų asmenų pareigų nustatymo tikslai 
 
 
-48 straipsnis. Trečiųjų asmenų pareigų nustatymo tikslai 
-
-
-Trečiųjų asmenų pareigos mokesčių administravimo procedūrų taikymo srityje, susijusios su informacijos pateikimu mokesčių administratoriui, mokestinės nepriemokos priverstiniu išieškojimu bei mokesčių įstatymų pažeidimų prevencija, nustatomos siekiant užtikrinti efektyvaus mokesčių administratoriaus funkcijų atlikimo sąlygas.
- 
-
-
-
-
-
-
-49 straipsnis. Informacijos, būtinos mokesčių administratoriaus funkcijoms atlikti, pateikimas
+Trečiųjų asmenų pareigos mokesčių administravimo procedūrų taikymo srityje, susijusios su informacijos pateikimu mokesčių administratoriui, mokestinės nepriemokos priverstiniu išieškojimu bei mokesčių įstatymų pažeidimų prevencija, nustatomos siekiant užtikrinti efektyvaus mokesčių administratoriaus funkcijų atlikimo sąlygas.49 straipsnis. Informacijos, būtinos mokesčių administratoriaus funkcijoms atlikti, pateikimas
 
 
 1. Jei įstatymai nenustato ko kita, šio Įstatymo 33 straipsnio 1 punkte nurodyta informacija bei duomenys, būtini mokesčių administratoriaus funkcijoms atlikti, turi būti pateikti ne vėliau kaip per 10 dienų nuo atitinkamo mokesčių administratoriaus nurodymo įteikimo dienos arba mokesčių administratoriaus nustatytu, ilgesniu negu minėtasis, terminu. 
@@ -2514,37 +2222,6 @@ Licencijas išduodanti institucija informaciją apie licencijų verstis tam tikr
 
 
 Daiktus, daiktines teises ir juridinius faktus registruojanti įstaiga informaciją apie jos registruojamus (registruotinus) objektus mokesčių administratoriui teikia šios įstaigos ir centrinio mokesčių administratoriaus tarpusavio sutartyje nustatytais būdais ir terminais.
- 
-
-
-
-
-
-
-53 straipsnis. Gyventojų registrą tvarkančios įstaigos teikiama informacija
-
-
-Gyventojų registrą tvarkanti įstaiga gyventojų registro duomenis mokesčių administratoriui teikia vadovaujančios gyventojų registrą tvarkančios įstaigos ir centrinio mokesčių administratoriaus tarpusavio sutartyje nustatytais būdais ir terminais.
- 
-
-
-
-
-
-
-54 straipsnis. Juridinių asmenų registro tvarkytojo teikiama informacija
-
-
-Juridinių asmenų registro tvarkytojas juridinių asmenų registro duomenis mokesčių administratoriui teikia jo ir centrinio mokesčių administratoriaus tarpusavio sutartyje nustatytais būdais ir terminais.
-traipsnio pakeitimai:
-Nr. XI-558, 2009-12-10, Žin., 2009, Nr. 153-6896 (2009-12-28)
-Nr. XI-1875, 2011-12-22, Žin., 2011, Nr. 163-7766 (2011-12-31)
- 
-
-
-
-
-
 
 55 straipsnis. Prižiūrimų finansų rinkos dalyvių teikiama informacija
 
@@ -3858,15 +3535,7 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 
 
-4. Pranešimus apie likviduojamo juridinio asmens atsiskaitymą su biudžetu juridinių asmenų registro tvarkytojui pateikia Valstybinė mokesčių inspekcija.
- 
-
-
-
-
-
-
-91 straipsnis. Reorganizuojamo ir pertvarkomo juridinio asmens mokestinės prievolės vykdymas
+4. Pranešimus apie likviduojamo juridinio asmens atsiskaitymą su biudžetu Juridinių asmenų registro duomenų tvarkytojui pateikia Valstybinė mokesčių inspekcija.91 straipsnis. Reorganizuojamo ir pertvarkomo juridinio asmens mokestinės prievolės vykdymas
 
 
 1. Reorganizuoto juridinio asmens mokestinę prievolę privalo įvykdyti jo teisių ir pareigų perėmėjas. Reorganizuoto juridinio asmens dalyviai, jei jie atsako už juridinio asmens prievoles, už šio asmens mokestinės prievolės įvykdymą atsako Civilinio kodekso nustatytais atvejais ir tvarka. 
@@ -4265,12 +3934,12 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 3. Mokesčių mokėtojo turtas gali būti areštuojamas, jeigu mokesčių mokėtojas atitinkamo mokesčio įstatymo nustatyta tvarka nesumokėjo mokesčio ir su juo susijusių sumų arba jeigu mokesčių administratoriui priėmus sprendimą, pagal kurį mokesčių mokėtojui iš naujo apskaičiuojamas ir nurodomas sumokėti mokestis ir (arba) su juo susijusios sumos, yra pavojus, kad mokesčių mokėtojas jam priklausantį turtą gali paslėpti, parduoti ar kitokiu būdu jo netekti ir dėl to gali būti sunku arba neįmanoma išieškoti mokesčio ir su juo susijusių sumų. Mokestinio ginčo metu priėmus sprendimą panaikinti mokesčių administratoriaus sprendimą ir pavesti mokesčių administratoriui atlikti pakartotinį patikrinimą bei priimti naują sprendimą, turto areštas lieka galioti.
 Straipsnio dalies pakeitimai:
 Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
- 
+ 
 
 
 
 
-4. Mokesčių mokėtojo turtas taip pat gali būti areštuojamas, jeigu patikrinimo, ar teisingai apskaičiuotas ir sumokėtas mokestis, metu, taip pat pavedimo dėl specialisto išvados teikimo vykdymo metu nustatoma mokesčių įstatymų pažeidimų ir yra pagrįsta rizika, kad mokesčių mokėtojas jam priklausantį turtą gali paslėpti, parduoti ar kitokiu būdu jo netekti ir dėl to gali būti sunku arba neįmanoma išieškoti mokesčio ir su juo susijusių sumų. Šiuo atveju gali būti areštuojamas tik toks mokesčių mokėtojo turtas, kuris registruojamas atitinkamo turto registre, taip pat mokesčių mokėtojui grąžintina mokesčio permoka (skirtumas).
+4. Mokesčių mokėtojo turtas taip pat gali būti areštuojamas, jeigu atliekant patikrinimą, ar teisingai apskaičiuotas ir sumokėtas mokestis, taip pat vykdant pavedimą dėl specialisto išvados teikimo nustatoma mokesčių įstatymų pažeidimų ir yra pagrįsta rizika, kad mokesčių mokėtojas jam priklausantį turtą gali paslėpti, parduoti ar kitokiu būdu jo netekti ir dėl to gali būti sunku arba neįmanoma išieškoti mokesčio ir su juo susijusių sumų. Šiuo atveju gali būti areštuojamas tik toks mokesčių mokėtojo turtas, kuris registruojamas atitinkamo turto registro informacinėje sistemoje, taip pat mokesčių mokėtojui grąžintina mokesčio permoka (skirtumas).
 
 
 
@@ -4280,15 +3949,7 @@ Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
 
 
 
-6. Mokesčių administratoriaus vykdomam turto areštui mutatis mutandis taikomos Civilinio proceso kodekso XLVIII skyriaus 675 straipsnio 1, 2, 4 ir 5 dalyse, 677, 678, 679, 680, 683, 684 straipsniuose, 686 straipsnio 1 ir 2 dalyse bei 688 straipsnyje nustatytos taisyklės. Šiuo atveju mokesčių administratoriaus pareigūnas turi visas teises ir pareigas dėl mokesčių mokėtojo ir trečiųjų asmenų, kaip ir šio kodekso nustatyta tvarka turtą areštuojantis antstolis.
- 
-
-
-
-
-
-
-102 straipsnis. Nurodymas kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai nutraukti pinigų išdavimą iš mokesčių mokėtojo sąskaitos (sąskaitų)
+6. Mokesčių administratoriaus vykdomam turto areštui mutatis mutandis taikomos Civilinio proceso kodekso XLVIII skyriaus 675 straipsnio 1, 2, 4 ir 5 dalyse, 677, 678, 679, 680, 683, 684 straipsniuose, 686 straipsnio 1 ir 2 dalyse bei 688 straipsnyje nustatytos taisyklės. Šiuo atveju mokesčių administratoriaus pareigūnas turi visas teises ir pareigas dėl mokesčių mokėtojo ir trečiųjų asmenų, kaip ir šio kodekso nustatyta tvarka turtą areštuojantis antstolis.102 straipsnis. Nurodymas kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai nutraukti pinigų išdavimą iš mokesčių mokėtojo sąskaitos (sąskaitų)
 
 
 1. Mokesčių administratorius turi teisę duoti nurodymus nutraukti pinigų išdavimą ir pervedimą iš mokesčių mokėtojo sąskaitos (sąskaitų), jeigu mokesčių mokėtojas neleidžia patikrinti, ar teisingai apskaičiuoti ir sumokėti mokesčiai, arba jeigu dėl mokesčių mokėtojo yra priimtas sprendimas nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos (sąskaitų) kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje.
@@ -4327,20 +3988,14 @@ Nr. XII-1454, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21202
 
 
 
-2. Šio straipsnio 1 dalies 1 punkte numatytais atvejais mokesčių administratorius duomenis apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsdamas, ne vėliau kaip per 24 valandas, pateikia priklausomai nuo įkeisto objekto – Nekilnojamojo turto registrui arba Sutarčių ir teisių suvaržymų registrui ir priverstinė hipoteka (įkeitimas) įregistruojama atitinkamai Nekilnojamojo turto registre arba Sutarčių ir teisių suvaržymų registre šio registro nuostatų nustatyta tvarka. 
+2. Šio straipsnio 1 dalies 1 punkte numatytais atvejais mokesčių administratorius duomenis apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsdamas, ne vėliau kaip per 24 valandas, pateikia priklausomai nuo įkeisto objekto Nekilnojamojo turto registro duomenų tvarkytojui arba Sutarčių ir teisių suvaržymų registro duomenų tvarkytojui ir priverstinė hipoteka (įkeitimas) įregistruojama (-as) atitinkamai Nekilnojamojo turto registro informacinėje sistemoje arba Sutarčių ir teisių suvaržymų registro informacinėje sistemoje šių registrų informacinių sistemų nuostatuose nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2733, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00108
- 
+ 
 
 
 Straipsnio pakeitimai:
-Nr. XI-1849, 2011-12-22, Žin., 2012, Nr. 6-185 (2012-01-10)
- 
-
-
-
-
-104 straipsnis. Laidavimo arba garantijos pareikalavimas 
+Nr. XI-1849, 2011-12-22, Žin., 2012, Nr. 6-185 (2012-01-10)104 straipsnis. Laidavimo arba garantijos pareikalavimas 
 
 
 1. Mokesčių įstatymų, taip pat Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais, kai to reikia tinkamam mokestinių prievolių vykdymui užtikrinti (įskaitant mokesčio permokos (skirtumo) įskaitymo ir grąžinimo pagrįstumą), mokesčių administratorius turi teisę pareikalauti, kad mokesčių mokėtojas pateiktų laidavimo arba garantijos dokumentą, pagal kurį laiduotojas arba garantas įsipareigoja įvykdyti mokesčio mokėtojo mokestines prievoles, jeigu šios nebus vykdomos atitinkamų mokesčių įstatymų nustatytais terminais. 
@@ -4900,21 +4555,11 @@ Mokestinio patikrinimo rūšys yra:
 
 
 
-3) operatyvus patikrinimas – įstatymuose ir jų lydimuosiuose teisės aktuose numatytų atskirų mokesčių mokėtojų pareigų apskaitos, mokesčių deklaravimo, sumokėjimo, registravimosi mokesčių mokėtoju ir kitose srityse vykdymo patikrinimas. Operatyvus patikrinimas atliekamas vadovaujantis šiuo Įstatymu, taip pat Administracinių nusižengimų kodeksu ir kitais įstatymais.
+3) operatyvus patikrinimas – įstatymuose ir jų lydimuosiuose teisės aktuose numatytų atskirų mokesčių mokėtojų pareigų apskaitos, mokesčių deklaravimo, sumokėjimo, registravimo duomenų pateikimo ir kitose srityse vykdymo patikrinimas. Operatyvus patikrinimas atliekamas vadovaujantis šiuo Įstatymu, taip pat Administracinių nusižengimų kodeksu ir kitais įstatymais.
 TAR pastaba. 3 punkto nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
 Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
 Straipsnio punkto pakeitimai:
-Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
- 
-
-
-
-
-
-
-
-
-116 straipsnis. Mokestinio patikrinimo atlikimo vieta
+Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422116 straipsnis. Mokestinio patikrinimo atlikimo vieta
 
 
 Mokestinis patikrinimas gali būti atliekamas mokesčių administratoriaus buveinėje arba (ir) nuvykus pas mokesčių mokėtoją.
@@ -6718,7 +6363,7 @@ Dokumentų įteikimo mokesčių administratoriui data laikoma ta data, kurią mo
 
 
 
-2) siunčiant registruotu laišku;
+2) siunčiant registruotąja pašto siunta;
 
 
 
@@ -6733,14 +6378,12 @@ Dokumentų įteikimo mokesčių administratoriui data laikoma ta data, kurią mo
 
 
 
-
-
 2. Tiesioginio dokumento įteikimo mokesčių mokėtojui diena laikoma ta diena, kai mokesčių mokėtojas (jo atstovas) savo parašu patvirtina mokesčių administratoriui liekančiuose dokumentuose apie dokumento gavimą arba kai mokesčių administratoriaus pareigūnas pažymi apie mokesčių mokėtojo (jo atstovo) atsisakymą priimti dokumentą ar patvirtinti jo gavimą.
 
 
 
 
-3. Registruotu laišku dokumentai siunčiami pagal mokesčių mokėtojo registre nurodytą mokesčių mokėtojo adresą arba mokesčių mokėtojo nurodytą adresą korespondencijai gauti. Tais atvejais, kai minėtų duomenų mokesčių administratorius neturi, dokumentai siunčiami pagal atitinkamame registre nurodytą mokesčių mokėtojo adresą (juridiniams asmenimis – pagal juridinių asmenų registre nurodytą adresą, fiziniams asmenims – gyventojų registre nurodytą adresą). Dokumentų, siunčiamų registruotu laišku, įteikimo mokesčių mokėtojui diena laikoma penkta darbo diena, einanti po mokesčių administratoriaus siunčiamos korespondencijos perdavimo paštui dienos.
+3. Registruotąja pašto siunta dokumentai siunčiami pagal Mokesčių mokėtojų registro informacinėje sistemoje nurodytą mokesčių mokėtojo adresą arba mokesčių mokėtojo nurodytą adresą korespondencijai gauti. Tais atvejais, kai adreso duomenų mokesčių administratorius neturi, dokumentai siunčiami pagal atitinkamo registro informacinėje sistemoje nurodytą mokesčių mokėtojo adresą (juridiniams asmenimis – pagal Juridinių asmenų registro informacinėje sistemoje nurodytą juridinio asmens buveinės adresą, fiziniams asmenims – Gyventojų registro informacinėje sistemoje nurodytą adresą). Dokumentų, siunčiamų registruotąja pašto siunta, įteikimo mokesčių mokėtojui diena laikoma penkta darbo diena, einanti po mokesčių administratoriaus siunčiamos korespondencijos perdavimo paštui dienos.
 
 
 
@@ -6750,21 +6393,15 @@ Dokumentų įteikimo mokesčių administratoriui data laikoma ta data, kurią mo
 
 
 
-5. Tais atvejais, kai dokumentų įteikti šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytais būdais mokesčių mokėtojui neįmanoma (mokesčių mokėtojas (jo atstovas) nerandamas arba duomenų apie mokesčių mokėtojo adresą nėra atitinkamame registre), mokesčių administratorius, siekdamas įteikti dokumentus, centrinio mokesčių administratoriaus interneto svetainėje paskelbia pranešimą (pranešime nurodomas juridinio asmens pavadinimas, juridinio asmens identifikacinis kodas, fizinio asmens vardas, pavardė, individualios veiklos vykdymo patvirtinimo dokumento (individualios veiklos pažymos, verslo liudijimo) numeris, kvietimo atvykti priežastis; kai mokesčių mokėtojas yra investicinis fondas ir (ar) pensijų fondas, šios nuostatos mutatis mutandis taikomos tiems investicinių fondų ir (ar) pensijų fondų atsakingiems asmenims ar kitiems asmenims, kurie pagal specialiuosius mokesčių įstatymus privalo vykdyti atitinkamas šio mokesčio mokėtojo mokestines prievoles), kuriame mokesčių mokėtojui (jo atstovui) per nustatytą terminą (ne trumpesnį kaip 5 dienos ir ne ilgesnį kaip 20 dienų nuo pranešimo paskelbimo dienos) pasiūloma atvykti pas mokesčių administratorių atsiimti atitinkamo dokumento šio straipsnio 1 dalyje nurodytu būdu. Jeigu mokesčių mokėtojas per nustatytą terminą neatvyksta, dokumentas laikomas įteiktu minėto pranešimo paskelbimo centrinio mokesčių administratoriaus interneto svetainėje dieną. Šioje dalyje nurodytų procedūrų mokesčių administratorius neprivalo taikyti, jeigu mokesčių mokėtojui įteiktinas centrinio mokesčių administratoriaus sprendimas priimtas išnagrinėjus mokesčių mokėtojo skundą dėl vietos mokesčių administratoriaus priimto sprendimo. Pranešime nurodytų duomenų skelbimo laikotarpis yra ne ilgesnis kaip pranešime nurodytas laikotarpis mokesčių mokėtojui atvykti pas mokesčių administratorių. 
+5. Tais atvejais, kai dokumentų įteikti šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytais būdais mokesčių mokėtojui neįmanoma (mokesčių mokėtojas (jo atstovas) nerandamas arba duomenų apie mokesčių mokėtojo adresą nėra atitinkamo registro informacinėje sistemoje), mokesčių administratorius, siekdamas įteikti dokumentus, centrinio mokesčių administratoriaus interneto svetainėje paskelbia pranešimą (pranešime nurodomas juridinio asmens pavadinimas, juridinio asmens kodas, fizinio asmens vardas, pavardė, individualios veiklos vykdymo patvirtinimo dokumento (individualios veiklos pažymos, verslo liudijimo) numeris, kvietimo atvykti priežastis; kai mokesčių mokėtojas yra investicinis fondas ir (ar) pensijų fondas, šios nuostatos mutatis mutandis taikomos tiems investicinių fondų ir (ar) pensijų fondų atsakingiems asmenims ar kitiems asmenims, kurie pagal specialiuosius mokesčių įstatymus privalo vykdyti atitinkamas šio mokesčio mokėtojo mokestines prievoles), kuriame mokesčių mokėtojui (jo atstovui) per nustatytą terminą (ne trumpesnį kaip 5 dienos ir ne ilgesnį kaip 20 dienų nuo pranešimo paskelbimo dienos) pasiūloma atvykti pas mokesčių administratorių atsiimti atitinkamo dokumento šio straipsnio 1 dalyje nurodytu būdu. Jeigu mokesčių mokėtojas per nustatytą terminą neatvyksta, dokumentas laikomas įteiktu šioje dalyje nurodyto pranešimo paskelbimo centrinio mokesčių administratoriaus interneto svetainėje dieną. Šioje dalyje nurodytų procedūrų mokesčių administratorius neprivalo taikyti, jeigu mokesčių mokėtojui įteiktinas centrinio mokesčių administratoriaus sprendimas priimtas išnagrinėjus mokesčių mokėtojo skundą dėl vietos mokesčių administratoriaus priimto sprendimo. Pranešime nurodytų duomenų skelbimo laikotarpis yra ne ilgesnis kaip pranešime nurodytas laikotarpis mokesčių mokėtojui atvykti pas mokesčių administratorių. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
- 
+ 
 
 
 Straipsnio pakeitimai:
 Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
-Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
- 
-
-
-
-
-165 straipsnis. X skyriaus nuostatų taikymas
+Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)165 straipsnis. X skyriaus nuostatų taikymas
 
 
 1. Šio skyriaus nuostatos taikomos ir tretiesiems asmenims.
@@ -6782,19 +6419,13 @@ Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
 
 Straipsnio pakeitimai:
 Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
- 
-
-
+ 
 
 
 
 
 XI SKYRIUS
-BAIGIAMOSIOS NUOSTATOS
- 
-
-
-166 straipsnis. Įstatymo įsigaliojimas
+BAIGIAMOSIOS NUOSTATOS166 straipsnis. Įstatymo įsigaliojimas
 
 
 1. Šis Įstatymas, išskyrus 61 straipsnį, įsigalioja nuo Lietuvos Respublikos narystės Europos Sąjungoje dienos.
@@ -6807,15 +6438,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-3. Šio Įstatymo 69 straipsnio 1 dalis, nepažeidžiant 68 straipsnio 1 dalies nuostatų, taikoma mokesčių mokėtojo sandoriams, ūkinėms operacijoms ar bet kokiai jų grupei, kurie įvyko ar yra vykdomi po 2002 m. liepos 1 d.
- 
-
-
-
-
-
-
-167 straipsnis. Kitų įstatymų ir teisės aktų nuostatų galiojimas
+3. Šio Įstatymo 69 straipsnio 1 dalis, nepažeidžiant 68 straipsnio 1 dalies nuostatų, taikoma mokesčių mokėtojo sandoriams, ūkinėms operacijoms ar bet kokiai jų grupei, kurie įvyko ar yra vykdomi po 2002 m. liepos 1 d.167 straipsnis. Kitų įstatymų ir teisės aktų nuostatų galiojimas
 
 
 Iki šio Įstatymo įsigaliojimo galiojusios kitų įstatymų ir teisės aktų nuostatos, numatančios nuorodas į šio Įstatymo 170 straipsnyje nurodytus įstatymus, taip pat šių įstatymų pagrindu priimti jų lydimieji teisės aktai galioja tiek, kiek neprieštarauja šiam Įstatymui.
