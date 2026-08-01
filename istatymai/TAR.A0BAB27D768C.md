@@ -378,7 +378,18 @@ Skyriaus pakeitimai:
 Nr. XIII-1004, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01017
 Nr. XIII-3118, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15355
 Nr. XIV-1649, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26605
- 
+ 
+
+
+
+
+ŽEMĖS ŪKIO IR (AR) MAISTO ŪKIO POLITIKA
+Valstybė pripažįsta, kad žemės ūkio ir (ar) maisto ūkio sektoriai yra strategiškai svarbūs nacionaliniam saugumui, užtikrinant šalies gyventojų apsirūpinimą maisto produktais.
+Svarbus valstybės uždavinys – kurti ir palaikyti atsparią ir savarankišką šalies apsirūpinimo maistu sistemą.
+Valstybė turi užtikrinti palankias gyventojų apsirūpinimo maisto ištekliais sąlygas.
+Valstybės žemės ūkio ir (ar) maisto ūkio politika turi sudaryti sąlygas darniai, konkurencingai ir veiksmingai žemės ūkio ir (ar) maisto ūkio plėtrai, užtikrinti saugių, geros kokybės ir plataus asortimento žemės ūkio ir (ar) maisto ūkio produktų tiekimą rinkai.
+Valstybė, siekdama gyventojus aprūpinti maisto produktais, susidarius ekstremaliajai situacijai ar ištikus krizei ir šalinant jų padarinius, paskelbus mobilizaciją, įvedus nepaprastąją ar karo padėtį, žemės ūkio ir (ar) maisto ūkio veiklą nurodytais atvejais turintiems vykdyti ūkio subjektams turi sudaryti teisines, ekonomines ir kitas reikalingas sąlygas, kuriomis būtų užtikrinama šių subjektų veikla, reikalinga maisto produktų gamybai ir tiekimui nurodytais atvejais.
+ 
 
 
 
