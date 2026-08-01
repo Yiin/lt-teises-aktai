@@ -1219,3 +1219,10 @@ Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 pried�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2732, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11569
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 5 straipsnio ir priedėlio pakeitimo įstatymas
+
+ŽEMĖS ŪKIO IR (AR) MAISTO ŪKIO POLITIKA
+Valstybė pripažįsta, kad žemės ūkio ir (ar) maisto ūkio sektoriai yra strategiškai svarbūs nacionaliniam saugumui, užtikrinant šalies gyventojų apsirūpinimą maisto produktais.
+Svarbus valstybės uždavinys – kurti ir palaikyti atsparią ir savarankišką šalies apsirūpinimo maistu sistemą.
+Valstybė turi užtikrinti palankias gyventojų apsirūpinimo maisto ištekliais sąlygas.
+Valstybės žemės ūkio ir (ar) maisto ūkio politika turi sudaryti sąlygas darniai, konkurencingai ir veiksmingai žemės ūkio ir (ar) maisto ūkio plėtrai, užtikrinti saugių, geros kokybės ir plataus asortimento žemės ūkio ir (ar) maisto ūkio produktų tiekimą rinkai.
+Valstybė, siekdama gyventojus aprūpinti maisto produktais, susidarius ekstremaliajai situacijai ar ištikus krizei ir šalinant jų padarinius, paskelbus mobilizaciją, įvedus nepaprastąją ar karo padėtį, žemės ūkio ir (ar) maisto ūkio veiklą nurodytais atvejais turintiems vykdyti ūkio subjektams turi sudaryti teisines, ekonomines ir kitas reikalingas sąlygas, kuriomis būtų užtikrinama šių subjektų veikla, reikalinga maisto produktų gamybai ir tiekimui nurodytais atvejais.
