@@ -1,0 +1,9 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "server",
+  "dolt_database": "lt_teises_aktai",
+  "project_id": "b69256af-7a69-4421-b25c-3f4771e3d168",
+  "dolt_server_host": "100.107.50.39",
+  "dolt_server_user": "root"
+}
