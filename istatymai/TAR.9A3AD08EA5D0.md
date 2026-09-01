@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2026-01-01 iki 2026-08-31
+Suvestinė redakcija nuo 2026-09-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -798,14 +798,22 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-3. Pagrindinis ugdymas vykdomas pagal šešerių metų pagrindinio ugdymo programas. Pagrindinio ugdymo programų pirmoji dalis apima ketverių metų pagrindinio ugdymo tarpsnį, antroji dalis – dvejų metų pagrindinio ugdymo tarpsnį. Pagrindinio ugdymo programos įgyvendinamos vadovaujantis Pagrindinio ugdymo programos aprašu, Pagrindinio ugdymo bendrosiomis programomis, bendraisiais ugdymo planais, kuriuos tvirtina švietimo ir mokslo ministras. Į pagrindinio ugdymo programų antrąją dalį gali būti įtraukiami profesinio mokymo programų moduliai ir įskaitomi tęsiant mokymąsi pagal profesinio mokymo programas švietimo ir mokslo ministro nustatyta tvarka. Pagrindinis ugdymas gali būti vykdomas kartu su dailės, muzikiniu, meniniu, sportiniu ar kitu ugdymu. 
+3. Pagrindinis ugdymas vykdomas pagal šešerių metų pagrindinio ugdymo programą. Pagrindinio ugdymo programos pirmoji dalis apima ketverių metų pagrindinio ugdymo tarpsnį, antroji dalis – dvejų metų pagrindinio ugdymo tarpsnį. Pagrindinio ugdymo programa įgyvendinama vadovaujantis Pagrindinio ugdymo programos aprašu, Pagrindinio ugdymo bendrosiomis programomis, bendraisiais ugdymo planais, kuriuos tvirtina švietimo, mokslo ir sporto ministras. Visiems mokiniams, baigiantiems pagrindinio ugdymo programos pirmąją dalį, vykdomas nacionalinis mokinių pasiekimų patikrinimas, išskyrus atvejus, kai asmuo švietimo, mokslo ir sporto ministro nustatytais atvejais yra atleidžiamas nuo mokymosi pasiekimų patikrinimo. Į pagrindinio ugdymo programos antrąją dalį gali būti įtraukiami profesinio mokymo programų moduliai ir įskaitomi tęsiant mokymąsi pagal profesinio mokymo programas švietimo, mokslo ir sporto ministro nustatyta tvarka. Pagrindinis ugdymas gali būti vykdomas kartu su dailės, muzikiniu, meniniu, sportiniu ar kitu ugdymu.
 
 
 
 
-4. Pagrindinis išsilavinimas įgyjamas baigus pagrindinio ugdymo programą ir patikrinus mokymosi pasiekimus, išskyrus atvejus, kai asmuo švietimo ir mokslo ministro nustatytais atvejais yra atleidžiamas nuo mokymosi pasiekimų patikrinimo.
+4. Pagrindinis išsilavinimas įgyjamas baigus pagrindinio ugdymo programą ir pasiekus švietimo, mokslo ir sporto ministro nustatytų dalykų pagrindinio ugdymo pasiekimų patikrinimų slenkstinį lygį, išskyrus atvejus, kai asmuo švietimo, mokslo ir sporto ministro nustatytais atvejais yra atleidžiamas nuo pagrindinio ugdymo pasiekimų patikrinimo. Pagrindinio ugdymo įvertinimai atitinka slenkstinį, patenkinamą, pagrindinį ar aukštesnįjį pasiekimų lygius ir jų ribas, nustatytus švietimo, mokslo ir sporto ministro tvirtinamose bendrosiose programose. Jeigu asmuo švietimo, mokslo ir sporto ministro nustatytų dalykų pagrindinio ugdymo pasiekimų patikrinimų metu nepasiekė kurio nors dalyko slenkstinio pasiekimų lygio, jis gali tais pačiais mokslo metais pakartotinai dalyvauti atitinkamo dalyko pagrindinio ugdymo pasiekimų patikrinime. Jeigu ir po pakartotinio dalyvavimo atitinkamo dalyko pagrindinio ugdymo pasiekimų patikrinime asmuo nepasiekė slenkstinio pasiekimų lygio, jis gali tęsti mokymąsi pagal pagrindinio ugdymo programą švietimo, mokslo ir sporto ministro nustatyta tvarka.
 
 
+
+
+5. Pagal pagrindinio ugdymo programą ugdomam mokiniui ir jo tėvams (globėjams, rūpintojams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo, mokslo ir sporto ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+ 
 
 
 
@@ -2208,10 +2216,12 @@ Nr. XIII-3266, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15540
 
 
 
-6. Mokyklos (išskyrus aukštąsias mokyklas ir profesinio mokymo įstaigas) išorinis vertinimas atliekamas periodiškai, jį inicijuoja mokyklos savininko teises ir pareigas įgyvendinanti institucija (valstybinės mokyklos – biudžetinės įstaigos), savivaldybės vykdomoji institucija (savivaldybės mokyklos – biudžetinės įstaigos), savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) (valstybinės ir savivaldybės mokyklos – viešosios įstaigos), savininkas (dalyvių susirinkimas) (kitų mokyklų). Mokyklų, vykdančių ikimokyklinio, priešmokyklinio, bendrojo ugdymo ir formaliojo profesinio mokymo programas, veiklos išorinio vertinimo organizavimo ir vykdymo tvarką nustato švietimo ir mokslo ministras. Neformaliojo švietimo mokyklų (išskyrus mokyklas, vykdančias ikimokyklinio ir (ar) priešmokyklinio ugdymo programas) veiklos išorinio vertinimo tvarką nustato valstybinės ir savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas). 
+6. Mokyklos (išskyrus aukštąsias mokyklas ir profesinio mokymo įstaigas) veiklos išorinis vertinimas atliekamas periodiškai, jį inicijuoja mokyklos savininko teises ir pareigas įgyvendinanti institucija (valstybinės mokyklos – biudžetinės įstaigos), savivaldybės vykdomoji institucija (savivaldybės mokyklos – biudžetinės įstaigos), savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) (valstybinės ir savivaldybės mokyklos – viešosios įstaigos), savininkas (dalyvių susirinkimas) (kitų mokyklų). Švietimo, mokslo ir sporto ministro įgaliotos institucijos teikimu mokyklos (išskyrus aukštąsias mokyklas ir profesinio mokymo įstaigas) veiklos išorinį vertinimą taip pat gali inicijuoti švietimo, mokslo ir sporto ministras, atsižvelgdamas į mokyklos švietimo stebėsenos, mokyklos veiklos įsivertinimo, mokyklos vadovo veiklos vertinimo ir mokinių mokymosi pasiekimų vertinimo rezultatus. Jeigu mokyklos (išskyrus aukštąsias mokyklas ir profesinio mokymo įstaigas) veikla, atlikus veiklos išorinį vertinimą, įvertinama neigiamai, paskelbus šio vertinimo išvadas, pakartotinis mokyklos veiklos išorinis vertinimas atliekamas ne anksčiau kaip po dvejų metų, bet ne vėliau kaip trečiais metais. Mokyklų, vykdančių ikimokyklinio, priešmokyklinio, bendrojo ugdymo ir formaliojo profesinio mokymo programas, veiklos išorinio vertinimo organizavimo ir vykdymo tvarką nustato švietimo, mokslo ir sporto ministras. Neformaliojo švietimo mokyklų (išskyrus mokyklas, vykdančias ikimokyklinio ir (ar) priešmokyklinio ugdymo programas) veiklos išorinio vertinimo tvarką nustato valstybinės ar savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas).
+ 
 Straipsnio dalies pakeitimai:
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
  
 
 
@@ -2871,7 +2881,15 @@ Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 
 
 
-16. Mokykla (išskyrus aukštąją mokyklą) ar kitas švietimo teikėjas mokinių priėmimą ir mokymą pradeda tik gavę licenciją ir (ar) rašytinį sutikimą, jeigu jie yra privalomi.
+16. Jeigu mokykla, atlikus jos veiklos išorinį vertinimą, bendradarbiaudama su mokyklos savininko teises ir pareigas įgyvendinančia institucija (dalyvių susirinkimu) ir gaudama iš jos pagalbą, neįgyvendino jai pateiktų mokyklos veiklos išorinio vertinimo rekomendacijų ir, atliekant pakartotinį jos veiklos išorinį vertinimą, ši veikla vėl įvertinama neigiamai, Vyriausybės nustatyta tvarka šioje mokykloje stabdomas bendrojo ugdymo programos ar jos dalies vykdymas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
+
+
+
+
+17. Mokykla (išskyrus aukštąją mokyklą) ar kitas švietimo teikėjas mokinių priėmimą ir mokymą pradeda tik gavę licenciją ir (ar) rašytinį sutikimą, jeigu jie yra privalomi.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
  
@@ -2879,7 +2897,7 @@ Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 
 
 
-17. Valstybinė ir savivaldybės formaliojo švietimo mokykla savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo), kitos formaliojo švietimo mokyklos – savininko (dalyvių susirinkimo) sprendimu gali vykdyti neformaliojo švietimo programas.
+18. Valstybinė ir savivaldybės formaliojo švietimo mokykla savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo), kitos formaliojo švietimo mokyklos – savininko (dalyvių susirinkimo) sprendimu gali vykdyti neformaliojo švietimo programas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
  
@@ -2887,7 +2905,7 @@ Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 
 
 
-18. Mokykla gali:
+19. Mokykla gali:
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
  
@@ -2933,7 +2951,7 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-19. Mokykla privalo:
+20. Mokykla privalo:
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
  
@@ -2984,7 +3002,7 @@ Nr. XIV-2093, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13990
 
 
 
-20. Mokyklos Vaiko gerovės komisijos paskirtis – rūpintis mokiniui saugia ir palankia ugdymo aplinka. Mokyklos Vaiko gerovės komisijos funkcijas, sudarymo ir jos darbo organizavimo tvarką nustato švietimo, mokslo ir sporto ministras. 
+21. Mokyklos Vaiko gerovės komisijos paskirtis – rūpintis mokiniui saugia ir palankia ugdymo aplinka. Mokyklos Vaiko gerovės komisijos funkcijas, sudarymo ir jos darbo organizavimo tvarką nustato švietimo, mokslo ir sporto ministras. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
@@ -2995,7 +3013,7 @@ Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 
 
 
-21. Mokykloje gali veikti mokinių ir jaunimo organizacijos, kurios skatina mokinių dorinį, tautinį, pilietinį sąmoningumą, patriotizmą, puoselėja kultūrinę ir socialinę brandą, padeda tenkinti jų saviugdos ir saviraiškos poreikius. Mokinių ir jaunimo organizacijos savo veiklą grindžia nustatyta tvarka įregistruotais įstatais, jų veikla neturi prieštarauti Lietuvos Respublikos Konstitucijai ir įstatymams.
+22. Mokykloje gali veikti mokinių ir jaunimo organizacijos, kurios skatina mokinių dorinį, tautinį, pilietinį sąmoningumą, patriotizmą, puoselėja kultūrinę ir socialinę brandą, padeda tenkinti jų saviugdos ir saviraiškos poreikius. Mokinių ir jaunimo organizacijos savo veiklą grindžia nustatyta tvarka įregistruotais įstatais, jų veikla neturi prieštarauti Lietuvos Respublikos Konstitucijai ir įstatymams.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
  
@@ -3003,7 +3021,7 @@ Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 
 
 
-22. Mokykloje veikiančioms mokinių ir jaunimo organizacijoms sudaromos palankios veiklos sąlygos. Šias organizacijas gali finansuoti ir kitais būdais jų veiklą skatinti valstybė, valstybinės ir savivaldybės mokyklos – savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas) ar kiti fiziniai bei juridiniai asmenys.
+23. Mokykloje veikiančioms mokinių ir jaunimo organizacijoms sudaromos palankios veiklos sąlygos. Šias organizacijas gali finansuoti ir kitais būdais jų veiklą skatinti valstybė, valstybinės ir savivaldybės mokyklos – savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas) ar kiti fiziniai bei juridiniai asmenys.
  
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
@@ -4870,7 +4888,10 @@ Nr. XIII-1397, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11325
 
 
 
-3) mokyklų klasėms, kuriose ugdoma pagal bendrojo ugdymo programas ir kuriose šio įstatymo 43 straipsnio 15 dalyje nurodytais atvejais yra sustabdytas bendrojo ugdymo programos ar jos dalies vykdymas. 
+3) mokyklų klasėms, kuriose ugdoma pagal bendrojo ugdymo programas ir kuriose šio įstatymo 43 straipsnio 15 ir 16 dalyse nurodytais atvejais yra sustabdytas bendrojo ugdymo programos ar jos dalies vykdymas.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
 
 
 Papildyta straipsnio dalimi:
