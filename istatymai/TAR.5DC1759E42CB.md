@@ -3334,7 +3334,7 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 22 straipsnis. Teisės vairuoti motorines transporto priemones, traktorius, savaeiges mašinas suteikimas 
 
 
-1. Teisė vairuoti motorines transporto priemones ar jų junginius su priekabomis, traktorius, savaeiges mašinas, išskyrus šio straipsnio 11 dalyje nustatytą atvejį, suteikiama Lietuvos Respublikoje gyvenantiems ne jaunesniems kaip šiame įstatyme nustatyto amžiaus asmenims, kurių sveikatos būklė yra tinkama vairuoti tam tikros kategorijos motorinę transporto priemonę, traktorių, savaeigę mašiną, mokantiems KET, išmanantiems kitus teisės aktus, reglamentuojančius kelių eismą, mokantiems vairuoti, nustatyta tvarka išlaikiusiems egzaminus ir turintiems vairuotojo pažymėjimą. 
+1. Teisė vairuoti motorines transporto priemones ar jų junginius su priekabomis, traktorius, savaeiges mašinas, išskyrus šio straipsnio 1-1 dalyje nustatytą atvejį, suteikiama Lietuvos Respublikoje gyvenantiems ne jaunesniems kaip šiame įstatyme nustatyto amžiaus asmenims, kurių sveikatos būklė yra tinkama vairuoti tam tikros kategorijos motorinę transporto priemonę, traktorių, savaeigę mašiną, mokantiems KET, išmanantiems kitus teisės aktus, reglamentuojančius kelių eismą, nustatyta tvarka įgijusiems eismo dalyviams reikalingų teorinių žinių ir praktinių motorinių transporto priemonių ir jų junginių su priekabomis valdymo įgūdžių bei gebėjimų, taip pat išlaikiusiems egzaminą ir turintiems vairuotojo pažymėjimą. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
  
@@ -3650,7 +3650,7 @@ Nr. XIV-2458, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25950
 2. Asmenų, išskyrus šio straipsnio 3 dalyje nurodytus asmenis, minimalus amžius, nuo kurio leidžiama įgyti teisę vairuoti motorines transporto priemones, jų junginius su priekabomis ir galima išduoti vairuotojo pažymėjimą:
 
 
-1) AM kategorija – 15 metų;
+1) AM kategorija – 16 metų;
 
 
 
