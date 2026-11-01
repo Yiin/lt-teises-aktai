@@ -286,10 +286,10 @@ Nr. XIV-629, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24221
 
 
 
-6) energijos išteklių biržos operatoriaus teikimu derina energijos išteklių biržos operatoriaus tvirtinamas jo veiklos ketvirčio ataskaitos ir veiklos metinės ataskaitos formas, taip pat derina veiklos metinę ataskaitą, teikia pasiūlymus ir nurodymus dėl energijos išteklių biržos operatoriaus veiklos ataskaitose nurodytų duomenų patikslinimo ar papildomų duomenų pateikimo;
+6) energijos išteklių biržos operatoriaus teikimu derina energijos išteklių biržos operatoriaus tvirtinamas jo veiklos ketvirčio ataskaitos ir veiklos metinės ataskaitos formas, teikia pasiūlymus ir nurodymus dėl energijos išteklių biržos operatoriaus veiklos ataskaitose nurodytų duomenų patikslinimo ar papildomų duomenų pateikimo;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1068, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09677
- 
+ 
 
 
 
@@ -319,27 +319,19 @@ Nr. XIV-1068, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09677
 
 
 
-
-
 2. Atlikdama jai priskirtas funkcijas, Taryba pagal kompetenciją bendradarbiauja su Lietuvos Respublikos finansinių priemonių rinkų įstatyme nurodyta priežiūros institucija, Lietuvos Respublikos konkurencijos taryba ir Viešųjų pirkimų tarnyba.
 
 
 Straipsnio pakeitimai:
 Nr. XII-1432, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20609
 Nr. XIV-629, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24221
- 
-
-
+ 
 
 
 
 
 TREČIASIS SKIRSNIS
-ENERGIJOS IŠTEKLIŲ RINKOS ORGANIZAVIMAS. ENERGIJOS IŠTEKLIŲ BIRŽA
- 
-
-
-9 straipsnis. Energijos išteklių rinkos organizavimas
+ENERGIJOS IŠTEKLIŲ RINKOS ORGANIZAVIMAS. ENERGIJOS IŠTEKLIŲ BIRŽA9 straipsnis. Energijos išteklių rinkos organizavimas
 
 
 1. Energijos išteklių rinkos dalyviai prekiauja energijos ištekliais šiame įstatyme ir šio įstatymo 1 straipsnio 2 dalyje nurodytuose teisės aktuose nustatyta tvarka.
@@ -381,12 +373,12 @@ Nr. XII-1432, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20609
 10 straipsnis. Energijos išteklių birža ir energijos išteklių biržos operatoriaus veikla
 
 
-1. Energijos išteklių biržos operatorius šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka administruoja energijos išteklių biržą ir organizuoja centralizuotą prekybą biokuru energijos išteklių biržoje bei Šilumos ūkio įstatyme nustatyta tvarka organizuoja šilumos aukcionus.
+1. Energijos išteklių biržos operatorius šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka administruoja energijos išteklių biržą ir organizuoja centralizuotą prekybą biokuru energijos išteklių biržoje bei Šilumos ūkio įstatyme nustatyta tvarka organizuoja šilumos aukcionus.
 
 
 
 
-2. Energijos išteklių biržos operatorius vykdo nuolatinę prekybos energijos išteklių biržoje priežiūrą ir stebėseną Energijos išteklių biržos reglamente nustatyta tvarka. Atlikdamas jam pavestas funkcijas, energijos išteklių biržos operatorius prižiūri, kad energijos išteklių biržoje nebūtų registruojami apsimestiniai sandoriai. Jeigu energijos išteklių biržos operatorius nustato, kad energijos išteklių biržos dalyvių pateikti prekybos pasiūlymai gali būti laikomi apsimestiniais, ir pateikia Tarybai tai pagrindžiančius įrodymus, tokie sandoriai Tarybos sprendimu nėra įtraukiami į energijos išteklių biržoje nusistovėjusių kainų skaičiavimus tol, kol teisės aktų nustatyta tvarka nebus atliktas energijos išteklių rinkos tyrimas ir priimtas Tarybos sprendimas dėl tokio tyrimo išvadų.
+2. Energijos išteklių biržos operatorius vykdo nuolatinę prekybos energijos išteklių biržoje priežiūrą ir stebėseną Energijos išteklių biržos reglamente nustatyta tvarka. Atlikdamas jam pavestas funkcijas, energijos išteklių biržos operatorius prižiūri, kad energijos išteklių biržoje nebūtų registruojami apsimestiniai sandoriai. Jeigu energijos išteklių biržos operatorius nustatas, kad energijos išteklių biržos dalyvių pateikti prekybos pasiūlymai gali būti laikomi apsimestiniais, ir pateikia Tarybai tai pagrindžiančius įrodymus, tokie sandoriai Tarybos sprendimu nėra įtraukiami į energijos išteklių biržoje nusistovėjusių kainų skaičiavimus tol, kol teisės aktų nustatyta tvarka nebus atliktas energijos išteklių rinkos tyrimas ir priimtas Tarybos sprendimas dėl tokio tyrimo išvadų.
 
 
 
@@ -396,17 +388,11 @@ Nr. XII-1432, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20609
 
 
 
-4. Energijos išteklių biržos operatorius ne vėliau kaip iki kiekvienų metų kovo 1 dienos parengia ir, suderinęs su Taryba, Energetikos ministerijai pateikia energijos išteklių biržos ataskaitą. Energijos išteklių biržos ataskaitoje atskirai įvertinamos kiekviena iš šio straipsnio 1 dalyje nurodytų energijos išteklių biržos operatoriaus veiklos rūšių. Energijos išteklių biržos ataskaita teikiama energijos išteklių biržos operatoriaus parengta ir su Taryba suderinta forma.
+4. Energijos išteklių biržos operatorius ne vėliau kaip iki kiekvienų metų kovo 1 dienos parengia ir Energetikos ministerijai ir Tarybai pateikia energijos išteklių biržos ataskaitą. Energijos išteklių biržos ataskaitoje atskirai įvertinamos kiekviena iš šio straipsnio 1 dalyje nurodytų energijos išteklių biržos operatoriaus veiklos rūšių. Energijos išteklių biržos ataskaita teikiama energijos išteklių biržos operatoriaus parengta ir su Taryba suderinta forma.
 
 
 Straipsnio pakeitimai:
-Nr. XIV-629, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24221
- 
-
-
-
-
-11 straipsnis. Energijos išteklių biržos operatoriaus licencijos išdavimas
+Nr. XIV-629, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-2422111 straipsnis. Energijos išteklių biržos operatoriaus licencijos išdavimas
 
 
 1. Energijos išteklių biržos operatoriaus veiklą turi teisę vykdyti asmuo, turintis šiame įstatyme nustatyta tvarka ir sąlygomis Tarybos išduotą energijos išteklių biržos operatoriaus licenciją.
@@ -846,24 +832,27 @@ Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010IST
 
 
 
-191 straipsnis. Biokuro, naudojamo šilumos gamybai, įsigijimas
+191 straipsnis. Biokuro, naudojamo šilumos gamybai, įsigijimas
 
 
 1. Šilumos tiekėjai, šilumos aukciono dalyviai ir bendri šilumos ir elektros energijos gamintojai, kurie elektros ir (ar) šilumos energijai gaminti naudoja biokurą, privalo teikti pirmenybę energijos išteklių biržai įsigydami visą elektros ir (ar) šilumos energijai gaminti reikalingą biokuro kiekį. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1432, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20609
 Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
- 
+ 
 
 
 
 
-2. Šio straipsnio 1 dalyje išdėstyti reikalavimai nurodytoms energetikos įmonėms netaikomi, jeigu energijos išteklių biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo atitinkamos biokuro rūšies kiekio ar jo dalies arba kitais būdais įsigyti biokurą yra ekonomiškai naudingiau. Trūkstamas biokuro kiekis gali būti įsigyjamas kitais teisės aktuose reglamentuotais pirkimo būdais.
+2. Šio straipsnio 1 dalyje išdėstyti reikalavimai nurodytoms energetikos įmonėms netaikomi, jeigu energijos išteklių biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo atitinkamos biokuro rūšies kiekio ar jo dalies arba kitais būdais įsigyti biokurą yra ekonomiškai naudingiau. Trūkstamas biokuro kiekis gali būti įsigyjamas kitais teisės aktuose reglamentuotais pirkimo būdais.
+
+
+3. Šio straipsnio 1 dalyje nurodytoms energetikos įmonėms, kurios elektros ir (ar) šilumos energijai gaminti naudoja biokurą, įsigyjant biokurą dvišalių pirkimo–pardavimo sutarčių pagrindu ne energijos išteklių biržoje, o kitais teisės aktuose nustatytais būdais, įsigyti biokurą iš susijusios įmonės ar iš susijusių ūkio subjektų grupės, kaip ji suprantama pagal Konkurencijos įstatymą, galima tais atvejais, kai biržoje neprekiaujama norimais įsigyti biokuro produktais arba kai pateikus pavedimą įsigyti biržoje laimėjusiame pasiūlyme nurodytą biokuro kiekį už pasiūlyme nurodytą kainą toks pavedimas nėra įvykdomas. Pavedimas turi būti pateiktas likus ne mažiau kaip 2 darbo dienoms iki prekybos sesijos pradžios.
 
 
 Papildyta straipsniu:
 Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
- 
+ 
 
 
 
@@ -871,17 +860,13 @@ Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010IST
 5 skirsnis. Neteko galios nuo 2013-07-20
 Skirsnio naikinimas:
 Nr. XII-493, 2013-07-02, Žin. 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
- 
+ 
 
 
 
 
 ŠEŠTASIS SKIRSNIS
-PREKYBA GAMTINĖMIS DUJOMIS
- 
-
-
-22 straipsnis. Prekybos gamtinėmis dujomis bendrieji principai
+PREKYBA GAMTINĖMIS DUJOMIS22 straipsnis. Prekybos gamtinėmis dujomis bendrieji principai
 
 
 1. Prekyba gamtinėmis dujomis vykdoma prekiaujant gamtinių dujų biržoje, dvišalių pirkimo–pardavimo sutarčių pagrindu ir (ar) kitais būdais šiame įstatyme, Gamtinių dujų įstatyme, Prekybos gamtinėmis dujomis taisyklėse, patvirtintose Vyriausybės ar jos įgaliotos institucijos, ir gamtinių dujų biržos operatoriaus Prekybos gamtinių dujų biržoje reglamente nustatyta tvarka.
@@ -890,30 +875,6 @@ PREKYBA GAMTINĖMIS DUJOMIS
 
 
 2. Nepaisant prekybos gamtinėmis dujomis būdo, gamtinių dujų tiekėjams draudžiama diskriminuoti vartotojus ar vartotojų kategorijas.
- 
-
-
-
-
-
-
-23 straipsnis. Gamtinių dujų, naudojamų šilumos ir elektros gamybai, įsigijimas
-
-
-1. Šilumos tiekėjai, reguliuojami nepriklausomi šilumos gamintojai ir bendri šilumos ir elektros energijos gamintojai, kurie per metus reguliuojamajai energetikos veiklai suvartoja 50 GWh gamtinių dujų ar daugiau, privalo gamtinių dujų biržoje per kalendorinius metus įsigyti ne mažiau kaip 50 procentų reguliuojamajai elektros ir (ar) šilumos energijos gamybos veiklai reikalingo gamtinių dujų kiekio. Vertinant šioje dalyje minimų ūkio subjektų metinį gamtinių dujų suvartojimą, turi būti įskaičiuojamas ūkio subjekto, įskaitant jo filialus, atstovybes ir (ar) skirtingas gamtinių dujų pristatymo vietas, suvartojamo gamtinių dujų kiekio metinis vidurkis per 2 praėjusius metus.
-
-
-
-
-2. Šio straipsnio 1 dalyje išdėstytas reikalavimas netaikomas šio straipsnio 1 dalyje nurodytoms energetikos įmonėms, jeigu gamtinių dujų biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo gamtinių dujų kiekio ar jo dalies arba gamtinių dujų įsigijimo kaina sutarties sudarymo metu kitais teisės aktuose reglamentuotais pirkimo būdais yra mažesnė negu vidutinė gamtinių dujų biržos kaina ir (ar) gamtinių dujų įsigijimas kitais teisės aktuose reglamentuotais pirkimo būdais yra ekonomiškai naudingesnis.
-
-
-Straipsnio pakeitimai:
-Nr. XIV-606, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23528
- 
-
-
-
 
 24 straipsnis. Bendradarbiavimas prekiaujant gamtinėmis dujomis
 
@@ -950,61 +911,6 @@ Nr. XIII-1785, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21230
 
 AŠTUNTASIS SKIRSNIS
 ENERGIJOS IŠTEKLIŲ RINKOS PRIEŽIŪRA IR ATSAKOMYBĖS TAIKYMAS. SKUNDŲ ir ginčų NAGRINĖJIMAS
- 
-
-
-28 straipsnis. Energijos išteklių elektros ir (ar) šilumos energijai gaminti pirkimų priežiūra
-
-
-1. Šio įstatymo ir jo įgyvendinamųjų teisės aktų taikymo ir jų reglamentuojamų energijos išteklių elektros ir šilumos energijai gaminti pirkimų priežiūrą kompleksiškai užtikrina Taryba, Viešųjų pirkimų tarnyba, energijos išteklių biržos, kitų biržų operatoriai ir Konkurencijos taryba pagal jiems šiame įstatyme ir jų veiklą reglamentuojančiuose teisės aktuose nustatytą kompetenciją.
-
-
-
-
-2. Siekiant užtikrinti energijos išteklių elektros ir (ar) šilumos energijai gaminti pirkimų viešumo, skaidrumo, tiekėjų lygiateisiškumo, pagrįstos konkurencijos principų įgyvendinimą, Viešųjų pirkimų tarnyba Viešųjų pirkimų tarnybos direktoriaus nustatyta tvarka ir pagal Pirkimų taisyklėse nustatytus įgaliojimus vykdo Pirkimų taisyklėse nustatytų energijos išteklių elektros ir (ar) šilumos energijai gaminti įsigijimo tiesiogiai sudaromų dvišalių susitarimų pagrindu procedūrinių reikalavimų taikymo priežiūrą. Viešųjų pirkimų tarnyba priima sprendimus savarankiškai ir nešališkai.
-
-
-
-
-3. Siekdama užtikrinti prevencinę energijos išteklių elektros ir (ar) šilumos energijai gaminti pirkimų priežiūrą, Viešųjų pirkimų tarnyba teikia konsultacijas energetikos įmonėms, įsigyjančioms energijos išteklius elektros ir (ar) šilumos energijai gaminti, atlieka tyrimus dėl organizuojamų ar įvykdytų energijos išteklių elektros ir (ar) šilumos energijai gaminti pirkimų.
-
-
-
-
-4. Pirkimų tyrimas atliekamas ir išvada parengiama per 40 darbo dienų. Motyvuotu Viešųjų pirkimų tarnybos sprendimu šis terminas gali būti pratęstas ne daugiau kaip 2 kartus, kiekvieną kartą pratęsiant terminą ne ilgiau kaip 20 darbo dienų. Tyrimas užbaigiamas, kai Viešųjų pirkimų tarnyba surašo motyvuotą, faktais ir teisės aktų nuostatomis pagrįstą išvadą. Tyrimo metu nustačius pažeidimą, ši išvada yra pagrindas Viešųjų pirkimų tarnybai inicijuoti administracinės atsakomybės taikymo procedūrą. Viešųjų pirkimų tarnyba, turėdama pagrindą įtarti, kad buvo pažeistos šio įstatymo ar Pirkimų taisyklių nuostatos, turi teisę sustabdyti vykdomą pirkimą tol, kol tyrimas bus atliktas.
-
-
-
-
-5. Taryba, vykdydama energijos išteklių elektros ir (ar) šilumos energijai gaminti pirkimų priežiūrą, gali inicijuoti atsakomybės už reguliuojamosios energetikos veiklos pažeidimą taikymo procedūrą. Įvertinusi pažeidimo mastą, Taryba kiekvienu atveju vertina jo atitiktį Energetikos įstatymo 36 straipsnio 1 dalies 2 punkte nurodytam pažeidimui.
-
-
-
-
-6. Taryba, nustačiusi, kad biokuro pirkimo–pardavimo sutartis tarp energijos išteklių rinkos dalyvių yra sudaryta nesilaikant šiame įstatyme ir Pirkimų taisyklėse nustatytos tvarkos, neįtraukia tokių sandorių vertės į vidutinės biokuro rinkos kainos skaičiavimus.
-
-
-
-
-7. Taryba, nustačiusi, kad pirkimą organizavusi įmonė nevykdė šio įstatymo 191 straipsnio 1 dalyje nustatyto įpareigojimo įsigyjant biokurą pirmenybę teikti energijos išteklių biržai, nepripažįsta pirkimą vykdžiusio šilumos tiekėjo ar reguliuojamo nepriklausomo šilumos gamintojo pirkimo sutarties išlaidų biokurui įsigyti pagrįstomis sąnaudomis nustatant šilumos kainą dalimi, viršijančia vidutinę metinę biokuro kainą arba vidutinę metinę biokuro biržos kainą. Pagrįstomis sąnaudomis yra nepripažįstamos tik to pirkimo, kuris buvo vykdytas pažeidžiant šio įstatymo 191 straipsnio reikalavimus, sutarties išlaidos biokurui įsigyti, viršijančios vidutinę metinę biokuro kainą arba vidutinę metinę biokuro biržos kainą.
-
-
-
-
-8. Taryba, nustačiusi, kad pirkimą organizavusi įmonė nevykdė šio įstatymo 23 straipsnio 1 dalyje nustatyto įpareigojimo, nepripažįsta pirkimą vykdžiusio šilumos tiekėjo, reguliuojamo nepriklausomo šilumos gamintojo ar bendrojo šilumos ir elektros energijos gamintojo pirkimo sutarties išlaidų gamtinėms dujoms įsigyti pagrįstomis sąnaudomis nustatant šilumos kainą dalimi, viršijančia vidutinę metinę gamtinių dujų biržos kainą. Pagrįstomis sąnaudomis yra nepripažįstamos tik to pirkimo, kuris buvo vykdytas pažeidžiant šio įstatymo 23 straipsnio 1 dalyje nustatytą įpareigojimą, sutarties išlaidos gamtinėms dujoms įsigyti, viršijančios vidutinę metinę gamtinių dujų biržos kainą.
-
-
-
-
-9. Šiame straipsnyje nustatytų poveikio priemonių taikymas juridiniams asmenims neatleidžia jų vadovų ir (ar) darbuotojų nuo įstatymų nustatytos civilinės, administracinės ir (ar) baudžiamosios atsakomybės, taip pat neužkerta kelio Tarybai svarstyti klausimą dėl jos išduotų licencijų galiojimo sustabdymo ar panaikinimo.
-
-
-Straipsnio pakeitimai:
-Nr. XIV-606, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23528
- 
-
-
-
 
 281 straipsnis. Energijos išteklių rinkos dalyvių atsakomybė
 
