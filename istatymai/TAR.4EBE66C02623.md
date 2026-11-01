@@ -12131,51 +12131,31 @@ Nr. XIII-3262, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15886
 314 straipsnis. Kultūros paveldo apsaugos reikalavimų pažeidimas
 
 
-1. Įstatymuose nustatytų kultūros paveldo apsaugos reikalavimų pažeidimas 
-užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.
+1. Kultūrinę vertę turinčių kilnojamųjų daiktų paieškos vykdant kasinėjimus ar naudojantis metalo ieškikliais arba bet kokia kita paieškos įranga reikalavimų pažeidimas
+užtraukia baudą asmenims nuo dviejų šimtų šešiasdešimt iki penkių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų aštuoniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
-
-
-
-
-3. Įstatymuose nustatytų kultūros paveldo apsaugos reikalavimų pažeidimas atliekant tvarkybos, statybos darbus, šių darbų projektavimo ar planavimo darbus 
-užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
-
-
-
-
-4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio keturių šimtų iki dviejų tūkstančių keturių šimtų eurų.
-
-
-
-
-5. Kultūrinę vertę turinčių kilnojamųjų daiktų paieškos vykdant kasinėjimus ar naudojantis metalo ieškikliais arba bet kokia kita paieškos įranga reikalavimų pažeidimas 
-užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
-
-
-
-
-6. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą asmenims nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų.
 
 
 
 
-7. Už šio straipsnio 5, 6 dalyse numatytus administracinius nusižengimus privaloma skirti nusižengimo padarymo įrankių, priemonių ir uždraustos veikos rezultatų konfiskavimą.
- 
+3. Įstatymuose nustatytų kultūros paveldo apsaugos reikalavimų pažeidimas
+užtraukia baudą asmenims nuo trijų šimtų iki šešių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuonių šimtų penkiasdešimt iki keturių tūkstančių eurų.
 
 
 
 
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo šešių šimtų šešiasdešimt iki vieno tūkstančio trijų šimtų dvidešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo keturių tūkstančių iki šešių tūkstančių eurų.
 
 
-3141 straipsnis. Melagingos informacijos pateikimas dėl kultūros vertybių įvežimo ir importo pažeidžiant Reglamento (ES) 2019/880 nuostatas 
+
+
+5. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus privaloma skirti nusižengimo padarymo įrankių, priemonių ir uždraustos veikos rezultatų konfiskavimą.3141 straipsnis. Melagingos informacijos pateikimas dėl kultūros vertybių įvežimo ir importo pažeidžiant Reglamento (ES) 2019/880 nuostatas 
 
 
 Melagingos informacijos pateikimas dėl kultūros vertybių įvežimo ir importo pažeidžiant Reglamento (ES) 2019/880 nuostatas 
