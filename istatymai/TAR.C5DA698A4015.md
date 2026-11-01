@@ -253,7 +253,7 @@ ADMINISTRAVIMAS4 straipsnis. Subjektai, vykdantys kilnojamųjų kultūros vertyb
 2. Lietuvos Respublikos kultūros ministerija (toliau – Kultūros ministerija):
 
 
-1) dalyvauja formuojant ir įgyvendinant kilnojamųjų kultūros vertybių apsaugos politiką, atsižvelgdama į Valstybinės kultūros paveldo komisijos teikiamus siūlymus; 
+1) formuoja kilnojamųjų kultūros vertybių apsaugos politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą, atsižvelgdama į Valstybinės kultūros paveldo komisijos teikiamus siūlymus; 
 
 
 
@@ -339,7 +339,7 @@ Nr. XIV-608, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23530
 
 
 
-7) finansuoja kultūrinę vertę turinčių kilnojamųjų daiktų įrašymą į Kultūros vertybių registrą, į Kultūros vertybių registrą įrašytų kilnojamųjų kultūros vertybių, taip pat vertybės, kuri yra viena iš nekilnojamojo kultūros paveldo statinio vertingųjų savybių, tyrimus, konservavimą, restauravimą, apsaugos priemonių įrengimą ir pažinimo sklaidą iš Kultūros paveldo departamentui skiriamų valstybės biudžeto asignavimų. Šių darbų ar jų dalių įgyvendinimą Kultūros paveldo departamentas gali pavesti biudžetinėms įstaigoms, kurių savininko teises ir pareigas jis įgyvendina;
+7) finansuoja kultūrinę vertę turinčių kilnojamųjų daiktų įrašymą į Kultūros vertybių registrą, kilnojamųjų kultūros vertybių, įrašytų į Kultūros vertybių registrą, įskaitant kilnojamąsias kultūros vertybes, kurios kartu yra ir nekilnojamojo kultūros paveldo objekto vertingosios savybės, tyrimus, tyrimo, konservavimo ir restauravimo programų parengimą, konservavimą, restauravimą, apsaugos priemonių įrengimą ir pažinimo sklaidą iš Kultūros paveldo departamentui skiriamų valstybės biudžeto asignavimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2142, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09047
  
@@ -602,15 +602,9 @@ KILNOJAMŲJŲ KULTŪROS VERTYBIŲ, ĮRAŠYTŲ Į KULTŪROS VERTYBIŲ REGISTRĄ, 
 
 
 
-3. Kilnojamajai kultūros vertybei, esančiai nekilnojamajame kultūros paveldo objekte ir registruotai Kultūros vertybių registre kaip šio objekto vertingoji savybė, taikomos šio įstatymo ir Nekilnojamojo kultūros paveldo apsaugos įstatymo nuostatos.9 straipsnis. Kultūros paminklai
-
-
-1. Kilnojamąsias kultūros vertybes, įrašytas į Kultūros vertybių registrą ir turinčias ypatingą kultūrinę vertę, kultūros ministro siūlymu, pateiktu remiantis Kilnojamųjų kultūros vertybių vertinimo komisijos išvadomis, pritarus Valstybinei kultūros paveldo komisijai, Vyriausybė nutarimu skelbia kultūros paminklais.
-
-
-
-
-2. Sprendimas dėl kilnojamosios kultūros vertybės paskelbimo kultūros paminklu gali būti panaikintas Vyriausybės nutarimu, laikantis šio straipsnio 1 dalyje nustatytos tvarkos.
+3. Kilnojamajai kultūros vertybei, esančiai nekilnojamajame kultūros paveldo objekte ir registruotai Kultūros vertybių registre kaip šio objekto vertingoji savybė, taikomos šio įstatymo ir Nekilnojamojo kultūros paveldo apsaugos įstatymo nuostatos.9 straipsnis. Kilnojamieji kultūros paminklai
+1. Kilnojamąsias kultūros vertybes, įrašytas į Kultūros vertybių registrą ir turinčias ypatingą kultūrinę vertę, kultūros ministro siūlymu, pateiktu remiantis Kilnojamųjų kultūros vertybių vertinimo komisijos išvadomis, pritarus Valstybinei kultūros paveldo komisijai, Vyriausybė savo nutarimu skelbia kilnojamaisiais kultūros paminklais.
+2. Sprendimas dėl kilnojamosios kultūros vertybės paskelbimo kilnojamuoju kultūros paminklu gali būti panaikintas Vyriausybės nutarimu, laikantis šio straipsnio 1 dalyje nustatytos tvarkos.
  
 
 
